@@ -1,0 +1,2 @@
+# 1. člen
+2. člen zakona o ratifikaciji Pogodbe med Republiko Slovenijo in Republiko Hrvaško o izročitvi (Uradni list RS - Mednarodne pogodbe, št. 2/95) se spremeni tako, da se v predzadnji vrstici drugega odstavka 13. člena besedila pogodbe v slovenskem besedilu besedi "državi prosilki" nadomestita z besedama "zaprošeni državi", v hrvaškem besedilu pa besedi "državi moliteljici" z besedama "zamoljenoj državi".
