@@ -6,4 +6,4 @@ Prijava mora vsebovati naslednje sestavine:
 - povzetek značilnosti elektronske funkcije ali funkcij polprevodniškega vezja, izdelanega po zavarovani topografiji,
 - pisno izjavo o datumu začetka gospodarskega izkoriščanja, če je bila topografija gospodarsko že izkoriščena.
 Z eno prijavo se lahko zahteva varstvo le za eno topografijo.
-Minister, pristojen za znanost in tehnologijo, izda podrobnejše predpise o vsebini prijave.
+Minister, pristojen za področje intelektualne lastnine, izda podrobnejše predpise o vsebini prijave.
