@@ -1,4 +1,5 @@
 # 4. člen
-Firma javnega podjetja se glasi: Rudnik Žirovski vrh, javno podjetje za zapiranje rudnika urana, polna odgovornost, Todraž št. 1, Gorenja vas.
-Skrajšana firma javnega podjetja je Rudnik Žirovski vrh, p.o. Todraž št. 1, Gorenja vas.
-Sedež javnega podjetja je v Todražu št. 1, Gorenja vas.
+Javno podjetje iz 3. člena se preoblikuje v družbo z omejeno odgovornostjo.
+Firma preoblikovanega javnega podjetja se glasi: Rudnik Žirovski vrh, javno podjetje za zapiranje rudnika urana, družba z omejeno odgovornostjo (v nadaljnjem besedilu: javno podjetje), s sedežem Todraž št. 1, Gorenja vas.
+Ustanovitelj in edini lastnik javnega podjetja je Republika Slovenija.
+Akt o preoblikovanju sprejme Vlada Republike Slovenije.
