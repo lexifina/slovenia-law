@@ -1,0 +1,5 @@
+## 3. Lastninsko preoblikovanje podjetij s sedežem izven območja Triglavskega narodnega parka, katerega nepremičnine na območju Triglavskega narodnega parka predstavljajo zaključeno delovno celoto
+# 26. člen
+Podjetje, katerega del, ki se nahaja na območju Triglavskega narodnega parka, predstavlja zaključeno delovno celoto, se lastninsko preoblikuje po tem zakonu tako, da se v roku treh mesecev po uveljavitvi tega zakona razdeli na dve delniški družbi oziroma družbi z omejeno odgovornostjo, pri čemer se navedeni del oblikuje kot samostojna delniška družba oziroma družba z omejeno odgovornostjo s sedežem na območju Triglavskega narodnega parka.
+Družbeni kapital, ki je osnova za preoblikovanje po tem členu se ugotovi z razdelitveno bilanco, ki se izdela po knjigovodski vrednosti na dan 31. 12. 1992. Izdelavo razdelitvene bilance, na predlog Agencije Republike Slovenije za prestrukturiranje in privatizacijo, natančneje predpiše Vlada Republike Slovenije.
+Novooblikovano podjetje s sedežem na območju Triglavskega narodnega parka se lastninsko preoblikuje na način določen v 20., 21., 22., 23., 24., in prejšnjem členu tega zakona.

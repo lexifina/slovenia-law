@@ -1,0 +1,6 @@
+# 24. člen
+Po opravljenem prenosu delnic na sklade po 22. členu tega zakona in opravljeni interni razdelitvi delnic po prejšnjem členu podjetje 40% družbenega kapitala v celoti nameni notranjemu odkupu delnic.
+Glede izvedbe notranjega odkupa delnic se uporabljajo določbe zakona o lastninskem preoblikovanju podjetij o notranjem odkupu, če ta zakon ne določa drugače.
+Pravico do nakupa delnic v programu notranjega odkupa imajo vsi zaposleni, bivši zaposleni in upokojeni delavci podjetja, ki so državljani Republike Slovenije. Pravico do nakupa delnic v programu notranjega odkupa imajo tudi državljani Republike Slovenije, če so sodelovali v interni razdelitvi delnic v skladu z določbo drugega odstavka prejšnjega člena.
+Pod enakimi pogoji imajo predkupno pravico do nakupa delnic v okviru programa notranjega odkupa zaposleni, bivši zaposleni in upokojeni delavci podjetja, ki so državljani Republike Slovenije.
+Sklad Republike Slovenije za razvoj mora denarna sredstva, pridobljena iz naslova plačane kupnine za delnice iz notranjega odkupa po tem zakonu nakazati v državni proračun najkasneje v roku petnajstih dni po vsakokratnem vplačilu kupnine na račun Sklada Republike Slovenije za razvoj. Navedena sredstva se v celoti uporabijo za dokapitalizacijo Sklada.

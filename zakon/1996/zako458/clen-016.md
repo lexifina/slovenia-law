@@ -1,0 +1,3 @@
+# 16. člen
+Za pripravo strokovnih predlogov glede uporabe sredstev iz 11. člena tega zakona imenuje uprava Sklada strokovno komisijo, ki šteje trinajst članov, od tega dva člana iz vrst strokovnjakov za varstvo narave in sonaravnega gospodarjenja z obnovljivimi naravnimi viri, po en predstavnik ministrstva, pristojnega za kmetijstvo in gozdarstvo, ministrstva, pristojnega za okolje in prostor, ministrstva, pristojnega za turizem in ministrstva, pristojnega za kulturo ter po en predstavnik občin: Tolmin, Bovec, Bohinj, Bled, Kranjska Gora, Kobarid in Jesenice.
+Način imenovanja ter trajanje mandata članov komisije, kakor tudi naloge in način njenega delovanja se določijo v statutu Sklada.
