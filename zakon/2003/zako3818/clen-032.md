@@ -1,0 +1,4 @@
+# 32. člen (način izrabe prenesenega dopusta za nego in varstvo otroka)
+Starša, ki sta prenesla del dopusta za nego in varstvo otroka, lahko le-tega izrabita v strnjenem nizu v obliki polne ali delne odsotnosti z dela ali po dnevih v obliki polne odsotnosti z dela. Kadar starša izrabita dopust za nego in varstvo otroka po dnevih, se trajanje pravice določi v delovnih dnevih tako, da se upošteva 70% pripadajočih koledarskih dni prenesenega dopusta za nego in varstvo otroka.
+Delodajalec mora o izrabi prenesenega dopusta za nego in varstvo otroka obvestiti pristojni center najkasneje 15 dni po nastopu dopusta. Obvestilu o izrabi dopusta mora priložiti tudi podatke za izračun osnove iz tretjega odstavka 42. člena tega zakona.
+Evidenco o izrabi prenesenega dopusta za nego in varstvo otroka vodi delodajalec in center. Delodajalec mora na zahtevo centra, staršev ali druge osebe izdati potrdilo o neizrabljenem prenesenem dopustu za nego in varstvo otroka.

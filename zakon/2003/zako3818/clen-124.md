@@ -1,0 +1,2 @@
+# 124. člen (delo zdravniških komisij)
+Do uveljavitve izvršilnega predpisa iz tega zakona, najdalj pa do 31. 12. 2002, o pravici iz petega odstavka 26. člena tega zakona odločajo zdravniške komisije Zavoda za zdravstveno zavarovanje Slovenije, o pravici iz 81. člena tega zakona pa zdravniške komisije, imenovane s sklepi ministra za delo, družino in socialne zadeve, na podlagi 43.b člena zakona o družinskih prejemkih.

@@ -1,0 +1,2 @@
+# 127. člen (prenehanje veljavnosti zakonov)
+Z dnem začetka uporabe tega zakona se prenehajo uporabljati določbe zakona o temeljnih pravicah iz delovnega razmerja (Uradni list SFRJ, št. 60/89 in 42/90) ter prenehajo veljati določbe zakona o delovnih razmerjih (Uradni list RS, št. 14/90, 5/91, 29/92, 71/93, 19/94, 12/99 in 36/2000), ki urejajo varstvo materinstva in starševstva v zvezi z odsotnostjo z dela ter zakon o družinskih prejemkih (Uradni list RS, št. 65/93, 71/94, 73/95 in 26/99).

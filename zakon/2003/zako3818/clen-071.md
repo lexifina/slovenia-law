@@ -1,0 +1,7 @@
+# 71. člen (določitev dohodkovnega razreda)
+Za uvrstitev družine v posamezni dohodkovni razred se upošteva povprečni mesečni dohodek na družinskega člana v preteklem koledarskem letu. Povprečni mesečni dohodek na družinskega člana se izračuna tako, da se skupni dohodek družine deli s številom mesecev, na katere se dohodek nanaša in s številom družinskih članov po tem zakonu.
+Kadar se otroški dodatek uveljavlja v mesecu januarju, februarju ali marcu se upošteva povprečni mesečni dohodek na družinskega člana v predpreteklem koledarskem letu.
+Kadar otrok po 18. letu starosti sam uveljavlja pravico do otroškega dodatka se za uvrstitev v posamezni dohodkovni razred upošteva skupni bruto dohodek njegovega samskega gospodinjstva v skladu s prvim in drugim odstavkom tega člena. Otrok je dolžan v teh primerih predložiti sodbo ali dogovor o preživljanju.
+Če preživnina v koledarskem letu pred vložitvijo zahtevka ni bila določena oziroma dogovorjena, se v skupni dohodek družine upošteva preživnina iz tekočega leta, preračunana na raven dohodkov preteklega oziroma predpreteklega koledarskega leta.
+Če družina v koledarskem letu pred vložitvijo zahtevka ni imela dohodkov, se upoštevajo skupni dohodki družine iz tekočega leta. Za uvrstitev družine v dohodkovni razred se tekoče dohodke preračuna na povprečno raven dohodkov preteklega leta na način, ki ga določi minister.
+Natančnejši način izračuna povprečnega mesečnega dohodka na družinskega člana predpiše minister.

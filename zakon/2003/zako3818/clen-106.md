@@ -1,0 +1,20 @@
+# 106. člen (vrste evidenc)
+Ministrstvo in centri vodijo evidence o:
+1. porodniškem dopustu,
+2. očetovskem dopustu,
+3. dopustu za nego in varstvo otroka,
+4. posvojiteljskem dopustu,
+5. prenesenem dopustu,
+6. porodniškem nadomestilu,
+7. očetovskem nadomestilu,
+8. nadomestilu za nego in varstvo otroka,
+9. posvojiteljskem nadomestilu,
+10. dobroimetju,
+11. krajšem delovnem času zaradi nege in varstva otroka,
+12. starševskem dodatku,
+13. pomoč ob rojstvu otroka,
+14. otroškem dodatku,
+15. dodatku za veliko družino,
+16. dodatku za nego otroka, ki potrebuje posebno nego in varstvo,
+17. delnem plačilu za izgubljeni dohodek,
+18. zavarovancih za starševsko varstvo.

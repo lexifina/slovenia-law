@@ -1,0 +1,2 @@
+# 123. člen (pravica do dodatka za nego otroka)
+Oseba, ki je uveljavila pravico do dodatka za nego otroka do uveljavitve tega zakona, zadrži to pravico v obsegu in trajanju, kot je veljalo po predpisu, ki je veljal do uveljavitve tega zakona. Center po uradni dolžnosti izvede postopek za uveljavljanje pravice do dodatka za nego otroka po tem zakonu in izda novo odločbo o priznanju pravice do dodatka za nego otroka. Center izda nove odločbe najkasneje v 6 mesecih od uveljavitve tega zakona.

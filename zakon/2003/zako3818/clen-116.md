@@ -1,0 +1,2 @@
+# 116. člen (pravice do starševskega dopusta in nadomestila za čas njegove izrabe)
+Oseba, ki je uveljavila pravico do porodniškega dopusta, dopusta za nego in varstvo otroka oziroma podaljšanega dopusta za nego in varstvo otroka na podlagi zakona o delovnih razmerjih, in prejema denarno nadomestilo za porodniški dopust na podlagi zakona o družinskih prejemkih, do uveljavitve tega zakona zadrži te pravice v obsegu in trajanju, kot je veljalo po predpisih, ki so veljali do uveljavitve tega zakona.

@@ -1,0 +1,3 @@
+# 70. člen (trajanje pravice do otroškega dodatka)
+Otrok, ki je upravičen do otroškega dodatka, je oseba do dopolnjenega 18. leta starosti, starejša oseba pa, če se šola, dokler ima status učenca, dijaka, vajenca ali študenta na dodiplomskem študiju, vendar najdalj do dopolnjenega 26. leta starosti. Izjemoma se za otroka šteje tudi oseba po tej starosti, če traja njeno šolanje na visoki stopnji pet ali šest let, ali če oseba zaradi daljše bolezni ali poškodbe ali služenja vojaškega roka med šolanjem ni končala šolanja v predpisanem roku. Status otroka se podaljša za toliko časa, kolikor se je šolanje zaradi teh razlogov podaljšalo.
+Pravica do otroškega dodatka se prizna za dobo enega leta.
