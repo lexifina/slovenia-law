@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificirata se sporazum o sodelovanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije v boju proti nezakonitemu trgovanju z opojnimi in psihotropnimi snovmi ter proti organiziranemu kriminalu, podpisan v Rimu 28. maja 1993, in zapisnik o srečanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije o izmenjavi računalniško obdelanih informacij, ki se nanašajo na nezakonito trgovanje z opojnimi in psihotropnimi snovmi po balkanski poti in v Mediteranu, sestavljen v Rimu 28. maja 1993.
