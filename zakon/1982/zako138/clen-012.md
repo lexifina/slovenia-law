@@ -1,4 +1,1 @@
-# 12. člen
-Če je po predpisih, samoupravnih sporazumih ali dogovorih organizacija združenega dela ali druga organizacija in skupnost dolžna prenesti na ustrezno komunalno organizacijo objekt oziroma napravo, ki se v skladu s tem zakonom šteje za komunalni objekt ali napravo in jo je sama zgradila, jo komunalna organizacija mora prevzeti, če je objekt oziroma naprava zgrajena v skladu s predpisi.
-Če organizacija združenega dela ali druga organizacija in skupnost prenaša na komunalno organizacijo komunalni objekt oziroma napravo, ki jo je sama zgradila, mora hkrati prenesti tudi ustrezna sredstva amortizacije.
-Pogoje prevzema, kakor tudi druge pravice in dolžnosti, ki so zvezane s takim prenosom oziroma prevzemom, določita organizaciji oziroma organizacija in skupnost s pogodbo o prenosu oziroma prevzemu v skladu s predpisom, samoupravnim sporazumom ali dogovorom.
+# 12. člen (prenehal veljati)

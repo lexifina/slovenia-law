@@ -1,3 +1,1 @@
-# 24. člen
-V poslovanju komunalnih organizacij se posebni družbeni interes na področju komunalnih dejavnosti uresničuje s soodločanjem delegatov uporabnikov in predstavnikov družbenopolitičnih skupnosti tako, da delegati uporabnikov in predstavniki družbenopolitičnih skupnosti soodločajo v organu upravljanja komunalne organizacije združenega dela o: temeljnih pogojih za pridobivanje dohodka in poslovanja, predlogih cen za posamezne komunalne storitve oziroma proizvode in predlogih povračil za vzdrževanje komunalnih objektov in naprav skupne rabe, razvojnih programih ter imenovanju in razreševanju njenih poslovodnih organov.
-K statutom komunalnih organizacij združenega dela dajejo soglasje pristojne občinske skupščine glede vseh tistih določb, ki se nanašajo na opravljanje komunalnih dejavnosti posebnega družbenega pomena.
+# 24. člen (prenehal veljati)
