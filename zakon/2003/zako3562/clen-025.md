@@ -1,0 +1,5 @@
+# 25. člen
+Določbe četrtega odstavka 8. člena in 11.a člena zakona se uporabljajo za pripravnike, ki sklenejo delovno razmerje po uveljavitvi tega zakona.
+Določbe 8. člena tega zakona (14. člen zakona) in 10. člena tega zakona (17. člen zakona) ter prvega odstavka 11. člena tega zakona (tretji odstavek 19. člena zakona) se uporabljajo za osebe, ki začnejo opravljati sodniško pripravništvo po uskladitvi oziroma uveljavitvi pravilnika iz prvega odstavka prejšnjega člena.
+Določbe 13. člena tega zakona (21. člen zakona), 14. člena tega zakona (23. člen zakona), 15. člena tega zakona (25. člen zakona), 16. člena tega zakona (26. člen zakona) in 19. člena tega zakona (28. člen zakona) se uporabljajo za osebe, ki se prijavijo k opravljanju pravniškega državnega izpita po uskladitvi oziroma uveljavitvi pravilnika iz prvega odstavka prejšnjega člena.
+Za sodniške pripravnike, ki so zaključili pripravništvo pred uveljavitvijo tega zakona, začne teči rok iz šestega odstavka 19. člena zakona z dnem uveljavitve tega zakona.
