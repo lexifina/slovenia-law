@@ -1,0 +1,2 @@
+# 15. člen
+Če najemodajalec ne izroči najemniku poslovne stavbe oziroma poslovnega prostora v času in v takem stanju, v kakršnem bi ga moral po pogodbi izročiti, ima najemnik poleg pravice do odškodnine za škodo, ki jo je zaradi tega utrpel še pravico, da odstopi od pogodbe, ali pa da sam tako uredi poslovno stavbo oziroma poslovni prostor, da bo ta v takem stanju v kakršnem bi mu ga moral najemodajalec izročiti. To pravico ureditve poslovne stavbe oziroma poslovnega prostora ima najemnik samo, če je dal poprej najemodajalcu primeren rok.
