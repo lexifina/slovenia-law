@@ -1,0 +1,11 @@
+# 6. člen DOHODEK IZ NEPREMIČNIN
+
+1) Dohodek rezidenta države pogodbenice, ki izhaja iz nepremičnin (vključno z dohodkom iz kmetijstva ali gozdarstva), ki so v drugi državi pogodbenici, se lahko obdavči v tej drugi državi.
+
+2) Izraz “nepremičnine” ima pomen, ki ga ima po pravu države pogodbenice, v kateri je zadevna nepremičnina. Izraz vedno vključuje premoženje, ki je sestavni del nepremičnin, živino in opremo, ki se uporablja v kmetijstvu in gozdarstvu, pravice, za katere veljajo določbe splošnega prava v zvezi z zemljiško lastnino, užitek na nepremičninah in pravice do spremenljivih ali stalnih plačil kot odškodnino za izkoriščanje ali pravico do izkoriščanja nahajališča rud, virov ter drugega naravnega bogastva; ladje, čolni in letala se ne štejejo za nepremičnine.
+
+3) Določbe prvega odstavka se uporabljajo za dohodek, ki se ustvari z neposredno uporabo, dajanjem v najem ali katero koli drugo obliko uporabe nepremičnine.
+
+4) Kadar lastništvo delnic ali drugih pravic daje lastniku takih delnic ali pravic neposredno ali posredno pravico do uporabe nepremičnin, se lahko dohodek od neposredne uporabe, dajanja v najem ali katere koli druge oblike uporabe take pravice do uporabe obdavči v državi pogodbenici, v kateri je nepremičnina.
+
+5) Določbe prvega, tretjega in četrtega odstavka se uporabljajo tudi za dohodek iz nepremičnin podjetja in za dohodek iz nepremičnin, ki se uporabljajo za opravljanje samostojnih osebnih storitev.
