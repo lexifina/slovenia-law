@@ -1,0 +1,7 @@
+# 24. člen
+(1) Z dnem pristopa Republike Slovenije k Evropski uniji veljajo roki trajanja pravic po Zakonu o avtorski in sorodnih pravicah (Uradni list RS, št. 21/95, 9/01 in 30/01-ZCUKPIL) tudi za avtorska dela in predmete sorodnih pravic, ki niso varovani na podlagi prvega, drugega in tretjega odstavka 193. člena zakona, če so na ta dan varovani v vsaj eni državi članici Evropske unije (oživitev varstva).
+(2) Prejšnji odstavek ne vpliva na dejanja uporabe varovanih del, ki so bila začeta ali izvedena pred dnem, navedenim v prejšnjem odstavku. Uporabnik teh del lahko:
+1. neomejeno in neodplačno distribuira zaloge, ki so nastale pred tem dnem, in
+2. zahteva ponovni prenos materialnih pravic v prvotno dejansko izvajanem obsegu, vendar le za nadaljnja tri leta od tega dne in proti plačilu primernega nadomestila.
+(3) Pravice, ki so bile prenesene za ves čas njihovega trajanja s pogodbo, ki je bila sklenjena pred dnem iz prvega odstavka tega člena, ali kako drugače, se štejejo za prenesene pod dosedanjimi pogoji tudi za dodatni čas oživitve varstva.
+(4) Obstoj varstva neke pravice v državi članici Evropske unije mora dokazati tisti, ki se nanj sklicuje.

@@ -1,0 +1,2 @@
+# 25. člen
+Določbe tega zakona o izčrpanju pravice distribuiranja (4. člen tega zakona) in o razmerjih s tujimi elementi (20. člen tega zakona) se začnejo uporabljati z dnem pristopa Republike Slovenije k Evropski uniji.
