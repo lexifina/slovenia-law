@@ -1,0 +1,2 @@
+# 2. člen
+V 36. členu se v tretjem odstavku besedilo "Slovenska razvojna družba z dnem uveljavitve tega zakona prevzame dejavnost, poslovanje, zaposlene, pravice in obveznosti Tehnološko razvojnega sklada Republike Slovenije" nadomesti z besedilom "Slovenska razvojna družba z dnem uveljavitve tega zakona postane pravni naslednik Tehnološkega razvojnega sklada Republike Slovenije in prevzame njegovo dejavnost, poslovanje, zaposlene, pravice in obveznosti".
