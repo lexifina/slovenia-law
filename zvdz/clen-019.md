@@ -6,6 +6,6 @@ Nadomestne volitve se opravijo v volilni enoti, v kateri je bil izvoljen poslane
 
 Na nadomestnih volitvah je izvoljen kandidat, ki je dobil največ glasov.
 
-Če se na nadomestnih volitvah v volilni enoti voh dvoje ali več poslancev, se glasuje o vseh kandidatih na listah kandidatov v vseh volilnih okrajih. Volivec, lahko glasuje za največ toliko kandidatov, kolikor poslancev se voli na nadomestnih volitvah v volilni enoti. Izvoljeni so kandidati, ki so dobili največ glasov.
+Če se na nadomestnih volitvah v volilni enoti voli dvoje ali več poslancev, se glasuje o vseh kandidatih na listah kandidatov v vseh volilnih okrajih. Volivec lahko glasuje za največ toliko kandidatov, kolikor poslancev se voli na nadomestnih volitvah v volilni enoti. Izvoljeni so kandidati, ki so dobili največ glasov.
 
 Nadomestne volitve se opravijo po določbah tega zakona, ki veljajo za splošne volitve, kolikor ni v tem členu drugače določeno.
