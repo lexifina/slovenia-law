@@ -1,0 +1,4 @@
+# 65. člen (izobrazba)
+Strokovni delavec, ki ob uveljavitvi tega zakona ne izpolnjuje s tem zakonom predpisanih pogojev o izobrazbi, lahko še naprej opravlja vzgojno-izobraževalno delo na področju športne vzgoje, če si v osmih letih po uveljavitvi tega zakona pridobi predpisano izobrazbo.
+Ne glede na določbo prejšnjega odstavka lahko delavec, ki ima za eno stopnjo nižjo izobrazbo, kot je predpisana s tem zakonom, pa ob uveljavitvi tega zakona opravlja dela delavca v športni vzgoji že najmanj deset let, še naprej opravlja delo na področju športne vzgoje.
+Ne glede na določbo prvega odstavka tega člena lahko delavec, ki ne izpolnjuje s tem zakonom predpisanih pogojev o izobrazbi in je ob uveljavitvi tega zakona opravljal delo delavca v športni vzgoji najmanj deset let, še naprej opravlja delo na področju športne vzgoje, če je pri svojem delu dosegel izjemne uspehe in mu to, na predlog nacionalne športne zveze, dovoli strokovni svet.
