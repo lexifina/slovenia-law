@@ -1,0 +1,3 @@
+# 18. člen
+V 150. členu se drugi odstavek spremeni tako, da se glasi:
+"Omejitve iz prejšnjega odstavka ne veljajo za stanovanja in stanovanjske hiše v zasebni lasti, razen če gre za stanovanja po drugem odstavku 113. člena, po prvem odstavku 155. člena in po drugem odstavku 156. člena tega zakona in za stanovanjske hiše in stanovanja iz prejšnjega odstavka po izpraznitvi stanovanja, na katerem je bila do uveljavitve tega zakona stanovanjska pravica. Razliko do profitne najemnine za stanovanja po prvem odstavku 155. člena in drugem odstavku 156. člena tega zakona krije po preteku roka iz drugega odstavka 155. člena ter prvega odstavka 156. člena tega zakona zavezanec iz drugega odstavka 155. člena tega zakona."
