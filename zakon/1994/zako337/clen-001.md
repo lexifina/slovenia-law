@@ -1,5 +1,5 @@
 # 1. člen
-Republika Slovenija daje poroštvo za obveznosti Družbe za avtoceste v Republiki Sloveniji d.d. (v nadaljnjem besedilu: DARS d.d.), iz naslova kredita, ki ga ta najame pri Evropski banki za obnovo in razvoj za izgradnjo avtocestnega odseka Pesnica-Šentilj, in sicer pod naslednjimi pogoji:
+Republika Slovenija daje poroštvo za obveznosti Družbe za avtoceste v Republiki Sloveniji d.d. (v nadaljnjem besedilu: DARS d.d.), iz naslova kredita, ki ga ta najame pri Evropski banki za obnovo in razvoj za izgradnjo avtocestnih odsekov Pesnica-Šentilj in Hoče-Arja vas, in sicer pod naslednjimi pogoji:
 - znesek kredita - 32,7 mio USD, kredit se črpa v USD,
 - obrestna mera - variabilna 6 mesečni LIBOR, z opcijo, da se v času trajanja kredita lahko obrestna mera fiksira ob plačilu stroškov konverzije,
 - rok odplačila - 15 let z vključenim štiriletnim moratorijem na odplačilo glavnice, začetek odplačevanja april 1998,
