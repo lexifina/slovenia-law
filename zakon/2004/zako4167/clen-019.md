@@ -1,0 +1,5 @@
+# 19. člen (odločba o registraciji)
+Odločbo o registraciji FFS iz 23., 23.a, 24., 25., 26. in 27. člena tega zakona izda pristojni organ v soglasju z organom, pristojnim za kemikalije, na podlagi predloga komisije, ki pri tem upošteva ocene ocenjevalcev iz 13. člena tega zakona, najpozneje v dvanajstih mesecih po prejemu popolne vloge.
+Če organ, pristojen za kemikalije, soglasja ne da ali soglasje umakne, mora pisno obrazložiti svojo strokovno utemeljitev.
+Ne glede na prvi odstavek tega člena predlog komisije ni potreben pri spremembah odločb o registraciji FFS, ki se izdajajo zaradi manjših sprememb, ki ne vplivajo na nevarnost za zdravje ljudi in okolje (sprememba trgovskega imena, sprememba proizvajalca oziroma zastopnika, spremembe sestave, ki se v skladu z mednarodnimi standardi štejejo za manjše spremembe, in podobno).
+Odločba o registraciji se glasi na FFS in proizvajalca oziroma vlagatelja. Iz odločbe mora biti razvidno tudi trgovsko ime FFS, ime in vsebnost aktivnih in drugih nevarnih snovi v FFS, podatki o uporabi, razvrstitev in označitev FFS, mesto prodaje, karenca ter mejne vrednosti ostankov FFS.

@@ -1,0 +1,20 @@
+# 54. člen (pooblastila kmetijskega inšpektorja)
+Kmetijski inšpektor ima na podlagi tega zakona in predpisov, izdanih na njegovi podlagi, naslednja pooblastila:
+- prepove promet s FFS, če ni predpisano registrirano,
+- prepove uporabo FFS, če zanj ni izdano predpisano dovoljenje,
+- prepove promet oziroma uporabo s prepovedanimi FFS,
+- prepove promet, če je FFS potekel rok uporabe,
+- preverja izpolnjevanje pogojev glede kadrov pravnih in fizičnih oseb iz 5. člena tega zakona,
+- do odprave pomanjkljivosti prepove opravljanje dejavnosti prometa s FFS, če pravna ali fizična oseba ni vpisana v register iz 5. člena tega zakona oziroma ne izpolnjuje predpisanih pogojev glede kadrov. O tem inšpektor obvesti pristojni organ,
+- prepove promet s FFS, če FFS ni v skladu z odločbo o registraciji (embalaža, etiketa, razvrstitev, oznake, navodilo za uporabo, fizikalno-kemijska sestava in drugo),
+- prepove uporabo FFS, če se FFS nepravilno uporablja,
+- ugotavlja identiteto kršitelja v primeru suma kršitve določb tega zakona ter kršitev po potrebi tudi fotografira oziroma posname,
+- odredi ustrezne ukrepe, če ugotovi prekoračeno predpisano mejno vrednost ostankov FFS v oziroma na rastlinah in rastlinskih proizvodih pred prometom,
+- jemlje vzorce rastlin, rastlinskih proizvodov, tal, škropilne mešanice, FFS in druge potrebne vzorce,
+- vzame iz prometa napravo za nanašanje FFS in odredi preverjanje skladnosti s certifikatom,
+- prepove promet z napravo za nanašanje FFS, če nima predpisanega certifikata,
+- prepove promet z napravo za nanašanje FFS, če ni skladna s certifikatom,
+- prepove uporabo naprav, če nima znaka o rednem pregledu oziroma, če ni redno pregledana,
+- preverja, ali izvajalci javnih služb po tem zakonu izpolnjujejo predpisane pogoje oziroma ravnajo v skladu s predpisi oziroma koncesijsko pogodbo, ter odredi odpravo nepravilnosti,
+- opravi druga dejanja in odredi druge ukrepe, potrebne za izvajanje tega zakona in na njegovi podlagi izdanih predpisov,
+- lahko prepove promet rastlin oziroma rastlinskih proizvodov, od katerih so bili odvzeti vzorci za ugotavljanje ostankov FFS, do pridobitve analiznih izvidov teh vzorcev.
