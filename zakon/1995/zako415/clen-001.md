@@ -5,5 +5,5 @@ Pogoji za najetje posojila so naslednji:
 - posojilne pogodbe se sklenejo s poslovnimi bankami, ki nudijo najugodnejše pogoje,
 - rok odplačila posojila je največ eno leto,
 - spodnja meja najetega posojila pri posamezni banki je 100 milijonov tolarjev,
-- obrestna mera ne sme biti višja od obrestne mere na medbančnem denarnem trgu po zadnjih podatkih Banke Slovenije.
+- obrestna mera ne sme biti višja od povprečne obrestne mere za vezane vloge pravnih oseb do enega leta, ki v skladu z dogovorom o zgornji meji pasivnih obrestnih mer velja na dan sklenitve pogodbe. Tako določena obrestna mera je lahko zaradi obrestne marže in stroškov obdelave kreditnih zahtevkov višja največ za 3,5 odstotne točke.
 Direkcija lahko sklepa posojilne pogodbe iz tega člena le ob predhodnem soglasju ministrstva, pristojnega za finance.
