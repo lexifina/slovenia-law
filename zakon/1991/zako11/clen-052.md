@@ -1,6 +1,3 @@
 # 52. člen
 Vojaške vaje se praviloma organizirajo in izvajajo v vojaških enotah oziroma vojaških zavodih ter v organih za notranje zadeve za vojaške obveznike, ki so razporejeni v te organe.
-Vojaške vaje. ki trajajo do 24 ur, se praviloma organizirajo in izvajajo izven delovnega časa. med dnevnim ali tedenskim počitkom oseb v rezervnem sestavu.
-Vaje vojaških obveznikov v rezervnem sestavu, ki imajo vojni razpored izven oboroženih sil oziroma organov za notranje zadeve, se štejejo po tem zakonu za vojaške vaje, če se jih obvezniki udeležijo na dolžnostih, na katere so razporejeni, na poziv upravnega organa, pristojnega za obrambne zadeve.
-Rezervnim častnikom, rezervnim podčastnikom in rezervnim vojaškim uslužbencem se prizna za vojaške vaje tudi udeležba na tečajih in drugih oblikah vojaškega strokovnega usposabljanja, ki se izvaja v organizaciji zveze rezervnih vojaških starešin ter drugih organizacijah, če je usposabljanje organizirano v skladu z zakonom. Osem ur udeležbe na vojaškostrokovnem usposabljanju se šteje za en dan vojaških vaj.
-Vojaško strokovno usposabljanje iz prejšnjega odstavka je obvezno za vse rezervne starešine, ki nimajo vojnega razporeda v oboroženih silah oziroma organih za notranje zadeve.
+Vojaške vaje, ki trajajo do 24 ur, se praviloma organizirajo in izvajajo izven delovnega časa, med dnevnim ali tedenskim počitkom oseb v rezervnem sestavu.

@@ -5,4 +5,4 @@ Ocena naborne komisije je lahko:
 2. delno sposoben za vojaško službo;
 3. začasno nesposoben za vojaško službo za eno do štirih let;
 4. nesposoben za vojaško službo.
-Ocena, da je nabornik sposoben za določeno vojaško evidenčno dolžnost, se sme dati samo na podlagi zdravniških izvidov in drugih pregledov ter preiskav v določenem zdravstvenem zavodu. Vojaške evidenčne dolžnosti po tem odstavku določi republiški upravni organ, pristojen za obrambne zadeve, določene zdravstvene zavode pa republiški upravni organ, pristojen za zdravstvo, na predlog republiškega upravnega organa, pristojnega za obrambne zadeve.
+Ocena, da je nabornik sposoben za določeno vojaško evidenčno dolžnost, se sme dati samo na podlagi zdravniških izvidov in drugih pregledov ter preiskav v določenem zdravstvenem zavodu. Vojaške evidenčne dolžnosti po tem odstavku določi ministrstvo, pristojno za obrambo, določene zdravstvene zavode pa ministrstvo, pristojno za zdravstvo, na predlog ministrstva, pristojnega za obrambo.

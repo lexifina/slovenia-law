@@ -1,4 +1,5 @@
 # 42. člen
-Nabornik, ki želi uveljavljati ugovor vesti vojaški dolžnosti zaradi razlogov, določenih s tem zakonom, ob pozivu pristojnega organa na nabor, vloži prošnjo pri upravnem organu občine, pristojnem za obrambne zadeve, ki ga vodi v vojaški evidenci.
-V prošnji iz prejšnjega odstavka mora nabornik navesti razloge, zaradi katerih prosi za priznanje pravice ugovora vesti. V prošnji mora prosilec navesti, ali želi vojaški rok služiti brez orožja ali opravljati nadomestno civilno službo.
-Prošnjo iz prvega odstavka mora nabornik vložiti najkasneje v petnajstih dneh po prejemu poziva na nabor.
+Nabornik, ki želi uveljavljati ugovor vesti vojaški dolžnosti ob pozivu pristojnega organa na nabor ali obveznosti v zvezi z naborom, vloži prošnjo najkasneje do dneva nabora pri upravnem organu, pristojnem za nabor.
+Pri organu iz prejšnjega odstavka lahko naborniki, ki so opravili nabor pred 5. 5. 1991 in niso služili vojaškega roka, uveljavljajo ugovor vesti vojaški dolžnosti najkasneje 15 dni po prejemu poziva na služenje vojaškega roka.
+Vojak, ki služi vojaški rok, lahko vloži prošnjo za priznanje ugovora vesti vojaški dolžnosti pri pristojni upravi za obrambo. Vojaški obveznik, ki je že odslužil vojaški rok, vloži prošnjo pri upravnem organu, pristojnem za obrambne zadeve, ki ga vodi v vojaški evidenci.
+V prošnji iz prvega, drugega in tretjega odstavka tega člena mora vojaški obveznik navesti razloge, zaradi katerih prosi za priznanje ugovora vesti. V času obravnave prošnje za priznanje pravice ugovora vesti vse obveznosti nabornika in vojaškega obveznika, ki je že odslužil vojaški rok, v zvezi z vojaško dolžnostjo mirujejo. Obravnava prošnje, ki jo vloži vojaški obveznik med služenjem, ne vpliva na izvrševanje obveznosti v zvezi z vojaško dolžnostjo.

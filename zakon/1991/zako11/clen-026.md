@@ -1,6 +1,6 @@
 # 26. člen
-Čas, ki ga gojenec vojaške šole prebije v vojaški šoli, se šteje za vojaški rok. V vojaški rok se ne šteje prvo leto šolanja v srednji vojaški šoli.
-Šteje se, da je opravil vojaški rok tudi:
-1. tisti, ki je pridobil status aktivne vojaške osebe po predpisih, ki urejajo službo v oboroženih silah;
-2. tisti, ki je končal šolo za notranje zadeve, ki traja najmanj dve leti;
-3. tisti, ki je končal študij obramboslovja in opravil predpisano stažiranje v vojaških enotah ali zavodih, najkasneje do konca septembra koledarskega leta, v katerem dopolni 27 let.
+Šteje se, da je vojaški rok opravil tudi vojaški obveznik:
+1. ki je končal šolo za notranje zadeve, ki traja najmanj dve leti;
+2. ki je končal študij obramboslovja in opravil predpisano stažiranje v vojaških enotah, najkasneje do konca septembra koledarskega leta, v katerem dopolni 27. leto starosti;
+3. ki je končal usposabljanje za opravljanje nalog v rezervni sestavi policije v skladu z zakonom in v dolžini, ki ni krajša od vojaškega roka, določenega s tem zakonom;
+4. ki je končal visokošolsko izobraževanje doma ali v tujini, ki se šteje za šolo za častnike in opravil predpisano stažiranje v Slovenski vojski.

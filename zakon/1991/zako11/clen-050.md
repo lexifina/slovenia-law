@@ -1,3 +1,2 @@
 # 50. člen
-Vojaškim obveznikom v rezervnem sestavu upravni organ občine, pristojen za obrambne zadeve, glede na potrebe po popolnitvi oboroženih sil, določi in sporoči vojni razpored v vojaških enotah oziroma vojaških zavodih ter drugih enotah, ki se popolnjujejo z vojaškimi obvezniki. Vojaški obvezniki v rezervnem sestavu, ki so se med vojaškim rokom usposabljali v organih za notranje zadeve, se praviloma razporedijo v rezervni sestav teh organov, če izpolnjujejo predpisane pogoje.
-Vojaškemu obvezniku v rezervnem sestavu, ki mu je določen vojni razpored, se lahko da osebna in druga vojaška oprema.
+Vojaškim obveznikom v rezervnem sestavu upravni organ, pristojen za obrambne zadeve, glede na potrebe po popolnitvi Slovenske vojske, določi in sporoči vojni razpored v vojaških enotah oziroma vojaških zavodih ter drugih enotah, ki se popolnjujejo z vojaškimi obvezniki.
