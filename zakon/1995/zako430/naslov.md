@@ -1,2 +1,2 @@
-ZAKONNapaka! Zaznamek ni definiran.
-O BLAGOVNIH REZERVAHNapaka! Zaznamek ni definiran.
+ZAKON
+o blagovnih rezervah (ZBR)

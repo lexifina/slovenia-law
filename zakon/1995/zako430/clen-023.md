@@ -5,3 +5,4 @@ Z denarno kaznijo najmanj 120.000 tolarjev se kaznuje za prekršek odgovorna ose
 - pri skladiščenju blaga ravna v nasprotju s prvim odstavkom 17. člena,
 - ne izvede nakupa in prodaje blaga ter oddaje objektov in investicijskega vzdrževanja v skladu z 18. členom,
 - ne pridobi poprejšnjih soglasij iz tretjega odstavka 18. člena in iz 19. člena.
+Zakon o blagovnih rezervah (Uradni list RS, št. 60/95) vsebuje naslednje prehodne in končne določbe:
