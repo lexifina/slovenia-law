@@ -1,0 +1,23 @@
+# 32. člen
+61. člen se spremeni tako, da se glasi:
+"61. člen
+Poleg skupnih osebnih podatkov vsebujejo posamezne evidence še naslednje podatke:
+1. evidenca ovadenih oseb in kaznivih dejanj: vzdevek ali lažno ime, osebni opis, narodnost ovadene osebe, njene družinske in premoženjske razmere, šolsko izobrazbo, poklic in zaposlitev, osebne podatke oškodovancev ter podatke o kaznivem dejanju (vrsta, kraj, čas, način, motiv, opis predmetov kaznivega dejanja, škoda in druge okoliščine izvršitve);
+2. evidenca kršiteljev in prekrškov: poklic in zaposlitev storilca, za odgovorno osebo pravne osebe delovno mesto, ki ga zaseda, osebne podatke oškodovancev ter podatke o prekršku (vrsta, kraj, čas, način storitve, motiv, udeleženci in škoda);
+3. evidenca iskanih oseb: vzdevek ali lažno ime ter fotografija in osebni opis iskane osebe, njene družinske in premoženjske razmere, šolsko izobrazbo, poklic in zaposlitev;
+4. evidenca identifikacij: razlog, kraj, čas in prevozno sredstvo osebe, katere identiteta je bila ugotavljana, ter druge okoliščine ugotavljanja identitete;
+5. evidenca zaznav kaznivih dejanj: vzdevek ali lažno ime, narodnost osumljenca, občina rojstva, osebni podatki oškodovancev, prijaviteljev in drugih oseb, ki so dale obvestila o kaznivem dejanju ter podatki o kaznivem dejanju (vrsta, kraj, čas, način, motiv, opis predmetov kaznivega dejanja, škoda in druge okoliščine izvršitve);
+6. evidenca operativnih informacij: podatki o ugotovitvah in delovanju policije, vezanih na preprečevanje in raziskovanje kaznivih ravnanj;
+7. evidenca oseb, zoper katere so bila izvedena pooblastila iz 49. člena: vzdevek ali lažno ime osebe, njene družinske in premoženjske razmere, šolska izobrazba, poklic in zaposlitev, številka pisne odobritve generalnega direktorja policije ali osebe, ki jo on pooblasti, ter podatke o načinu, obsegu in trajanju ukrepov;
+8. evidenca DNK preiskav: kraj, čas in razlog odvzema vzorca DNK, ime in priimek osebe, ki je vzorec odvzela in profil odvzetega vzorca DNK;
+9. evidenca dogodkov: podatke o dogodku (vrsta, kraj, čas, udeleženci, škoda in druge okoliščine);
+10. evidenca pridržanih in zadržanih oseb: podatke o pridržanju oziroma zadržanju (kraj, čas, razlog in videoposnetek pridržanja oziroma zadržanja);
+11. evidenca varnostno preverjenih oseb: šolsko izobrazbo, poklic, zaposlitev, predkaznovanost preverjene osebe in razloge, zaradi katerih je bila preverba opravljena, in ugotovitve preverjanja;
+12. evidenca pritožb: podatke o policistu, zoper katerega je bila dana pritožba, pritožnikove podatke, podatke o ukrepu, ravnanju ali postopku policije, ki je predmet pritožbe;
+13. evidenca uporabe prisilnih sredstev: podatke o policistu, ki je uporabil prisilno sredstvo, identifikacijske podatke o osebi, zoper katero je bilo uporabljeno prisilno sredstvo, podatke o dogodku, v katerem je bilo uporabljeno prisilno sredstvo, oceno uporabe prisilnega sredstva, revizijo ocene uporabe prisilnega sredstva;
+14. evidenca daktiloskopiranih oseb: vzdevek ali lažno ime, kraj, čas in razlog odvzema prstnih odtisov; na podlagi česa je bila potrjena identiteta osebe, ki so ji bili odvzeti prstni odtisi; ime in priimek osebe, ki je odvzela odtise; odtisi prstov in dlani;
+15. evidenca fotografiranih oseb: vzdevek ali lažno ime, fotografijo; osebni opis; kraj, čas in razlog fotografiranja; ime in priimek osebe, ki je opravila fotografiranje;
+16. evidenca iskanih in najdenih predmetov: identifikacijske podatke oškodovanca, fotografijo in/ali opis predmeta;
+17. evidenca usmerjenega zbiranja obvestil na področju terorizma in mednarodnega organiziranega kriminala: vzdevek in lažno ime osebe, družinske in premoženjske razmere, šolsko izobrazbo, poklic in zaposlitev, podatke o kaznivem dejanju, v zvezi s katerim se zbirajo obvestila, ugotovitve usmerjenega zbiranja obvestil, način obveščanja o ugotovitvah, čas in obseg usmerjenega zbiranja obvestil in podatke o organizacijski enoti oziroma policistu, ki zbira obvestila;
+18. evidenca vstopov in gibanja v varovanih objektih policije in na območju okolišev teh objektov: podatki o vstopu v objekt, čas in datum vstopa ter izstopa, videoposnetek in drugi zapisi sistemov tehničnega varovanja objekta policije in okoliša tega objekta;
+19. evidenca izdanih odredb za prepoved približevanja: datum in uro izdaje odredbe s povzetkom vsebine odredbe, navedbo sodišča, kateremu je bila odstopljena v presojo, podatke iz odločbe sodišča z rokom trajanja ukrepa, osebne podatke o žrtvi in njegovem morebitnem zakonitem zastopniku, podatke o kršitvah odrejenega ukrepa in ukrepih, podatke centrov za socialno delo in podatke organizacij, ki se vključujejo v razreševanje družinskega nasilja.".

@@ -1,0 +1,9 @@
+# 42. člen
+Za 94. členom se doda nov 94.a člen, ki se glasi:
+"94.a člen
+Mnenja sindikata, ki se nanašajo na organizacijo policije, njeno opremljenost, delovanje, pripravljenost in akte vodenja, so za generalnega direktorja policije ter vodje notranjih organizacijskih enot policije neobvezna.
+Ne glede na prejšnji odstavek sindikat daje mnenje k elementom, ki so podlaga za določitev plače delavcem v policiji in o primerljivosti s plačami v javnem sektorju.
+Če je z zakonom ali pogodbo med policijo in reprezentativnim sindikatom določeno, da mora generalni direktor policije pred odločitvijo pridobiti mnenje reprezentativnega sindikata, pa ne gre za primere iz prvega odstavka tega člena, mora generalni direktor policije poslati predlog odločitve ali akta v mnenje sindikatu in določiti razumen rok za oblikovanje mnenja, ki praviloma ne sme biti krajši kot 8 dni. Če generalni direktor policije ne uskladi predloga odločitve z mnenjem sindikata, lahko o zadevi odloči, sprejme neusklajeno odločitev, vendar mora pisno obrazložiti razloge, zaradi katerih ni bilo upoštevano mnenje sindikata in s tem seznaniti sindikat. Enako ravna generalni direktor policije tudi v primeru, ko predlaga akt v sprejem ministru.
+Pogoji za delovanje sindikata in sindikalnih zaupnikov v policiji se urejajo s pogodbo, ki jo skleneta policija in reprezentativni sindikat.
+Reprezentativni sindikat po tem zakonu je sindikat v policiji, v katerega je včlanjenih najmanj 15% zaposlenih v policiji, če zakon ne določa drugače.
+Za čas opravljanja profesionalne funkcije v sindikatu, policist nima pravic, ki izhajajo iz statusa policista. V tem času prejema 100% nadomestilo plače, ki je določeno z višino osnovne plače na delovnem mestu, na katerem je pred nastopom poklicnega opravljanja sindikalne funkcije delal in dodatek na delovno dobo.".
