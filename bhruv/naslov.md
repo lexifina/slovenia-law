@@ -1,0 +1,15 @@
+UKAZ
+
+o razglasitvi zakona o ratifikaciji sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške o ukinitvi vizumov
+
+ZAKON
+
+O RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN VLADO REPUBLIKE HRVAŠKE O UKINITVI VIZUMOV
+
+VERBALNA NOTA
+
+VERBALNA NOTA
+
+VERBALNA NOTA
+
+VERBALNA NOTA
