@@ -1,0 +1,4 @@
+# 4. člen
+Republika Slovenija uresniči pravico do regresiranja z nalogom, ki ga izda minister, pristojen za finance, v breme sredstev zbranih na podlagi zakona o zagotovitvi namenskih sredstev za gradnjo avtocestnega omrežja v Republiki Sloveniji (Uradni list RS, št. 46/93).
+Ne glede na prejšnji odstavek ima Republika Slovenije do izteka kreditnih pogodb iz 1. člena tega zakona pravico izvesti regresiranje v breme kateregakoli vira sredstev ali prihodkov DARS d.d., določenih v 5. členu zakona o družbi za avtoceste v Republiki Sloveniji (Uradni list RS, št. 57/93) in zahtevati prenos sredstev iz posameznih virov v dobro proračuna Republike Slovenije.
+V roku 30 dni po podpisu garancijske pogodbe iz 2. člena tega zakona skleneta ministrstvo, pristojno za finance, in DARS d.d. pogodbo, s katero podrobneje uredita medsebojna razmerja v zvezi z izvajanjem določb tega zakona.
