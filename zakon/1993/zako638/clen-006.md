@@ -1,0 +1,4 @@
+# 6. člen
+1. Če bi ponudbe slovenskih gospodarskih subjektov lahko škodovale delovanju skupnega trga in če se takšna škoda lahko pripiše razliki konkurenčnih pogojev na področju cen, lahko druga pogodbenica ukrene vse potrebno pod pogoji in v skladu s postopki, predvidenimi v drugem odstavku.
+2. Pogodbenici posredujeta mešanemu odboru vse koristne informacije in mu nudita potrebno pomoč pri pregledu zadeve in v primeru, če je to potrebno, tudi pri sprejemu ustreznih ukrepov.
+Če Slovenija ne preneha s prakso v roku, ki ga je določil mešani odbor, ali če ni soglasja v okviru le-tega v roku enega meseca od dneva, ko mu je bila zadeva posredovana, lahko druga pogodbenica sprejme potrebne zaščitne ukrepe, da se izogne škodi v delovanju skupnega trga oziroma da jo zaustavi; predvsem lahko umakne tarifne koncesije.

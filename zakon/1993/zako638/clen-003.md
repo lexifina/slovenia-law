@@ -1,0 +1,6 @@
+# 3. člen
+1. Ob pridržku posebnih določb, predvidenih v drugem odstavku, se proizvodi po poreklu iz Slovenije uvažajo v Skupnost brez količinskih omejitev in brez ukrepov z enakovrednim učinkom ter ob oprostitvi carin in taks z enakovrednim učinkom.
+2. Za proizvode po poreklu iz Slovenije, navedene v prilogi 2, Skupnost uvaja uvozni tarifni režim po pogojih in v mejah omejitev, ki jih določa letno.
+3. Za nekatere proizvode, ki jih šteje za občutljive, si Skupnost pridržuje pravico, da se obrne na mešani odbor, z namenom, da bi določil posebne pogoje, potrebne za njihov dostop na njen trg. Mešani odbor določi omenjene pogoje najpozneje v treh mesecih, šteto od dneva sporočila. Če mešani odbor o tem ne odloči v omenjenem roku. lahko Skupnost sprejme potrebne ukrepe, ki pa ne smejo prekoračiti obsega ukrepov, ki bi za te proizvode izhajali iz drugega odstavka in pod pogoji, ki so v njem določeni.
+Za izvajanje določb iz prve alinee pogodbenici redno izmenjujeta informacije v okviru mešanega odbora pred morebitno določitvijo posebnih pogojev za dostop omenjenih proizvodov na trg pogodbenic. Taka izmenjava informacij se nanaša zlasti na trgovinske tokove ter srednjeročne in dolgoročne napovedi proizvodnje in izvoza.
+Mešani odbor v rednih presledkih obravnava ukrepe, sprejete na podlagi prve alinee, da bi preveril njihovo usklajenost s cilji sporazuma.
