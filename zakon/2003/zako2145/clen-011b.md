@@ -1,0 +1,4 @@
+# 11.b člen (transakcije, ki se obravnavajo kot pridobitve blaga znotraj Skupnosti)
+Za pridobitev blaga znotraj Skupnosti, opravljeno za plačilo, se šteje tudi:
+- uporaba blaga za namene opravljanja dejavnosti davčnega zavezanca, ki ga odpošlje ali odpelje ta davčni zavezanec ali druga oseba za njegov račun iz druge države članice, na ozemlju katere je bilo blago izdelano, črpano, predelano, kupljeno, pridobljeno, ali kamor ga je davčni zavezanec uvozil v okviru opravljanja dejavnosti v to drugo državo članico;
+- blago, ki ga pridobijo oborožene sile države članice Severnoatlantske zveze za njihove potrebe ali potrebe njihovega spremnega civilnega osebja, ki ga niso pridobile pod splošnimi pravili obdavčevanja na domačem trgu ene od držav članic, če pri uvozu tega blaga ne bi mogle uveljavljati oprostitve v skladu s podtočko e) 3. točke 28. člena tega zakona."

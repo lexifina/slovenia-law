@@ -1,0 +1,2 @@
+# 18.b člen (kraj opravljanja pomožnih storitev pri prevozu blaga znotraj Skupnosti)
+Če so pomožne storitve pri prevozu blaga znotraj Skupnosti opravljene za naročnika, identificiranega za DDV v drugi državi članici, kot je država članica, kjer so storitve dejansko opravljene, se ne glede na 3.b točko drugega odstavka 17. člena tega zakona šteje, da so storitve opravljene na ozemlju države, ki je naročniku izdala identifikacijsko številko za DDV, pod katero je bila zanj storitev opravljena.

@@ -1,0 +1,2 @@
+# 70. člen (izvajanje tretjega odstavka 36. člena)
+Davčni zavezanec, za katerega je v skladu s tretjim odstavkom 36. člena tega zakona predpisano davčno obdobje koledarsko polletje ali koledarsko trimesečje, ki bo po 1. maju 2004 pridobival oziroma dobavljal blago znotraj Skupnosti, mora obračunu DDV priložiti ločene podatke o davčni obveznosti, ki se nanaša na del davčnega obdobja do vključno 30. aprila 2004 in na del davčnega obdobja po 1. maju 2004.
