@@ -1,0 +1,3 @@
+# 20. člen Odpoved
+
+Vsaka pogodbenica lahko kadar koli sporoči drugi pogodbenici svojo odločitev, da odpoveduje sporazum; tako sporočilo mora biti hkrati poslano Mednarodni organizaciji civilnega letalstva. V takem primeru sporazum preneha veljati ob koncu veljavnosti reda letenja, ki velja dvanajst (12) mesecev, potem ko druga pogodbenica prejme obvestilo o odpovedi, razen če ni pred potekom tega roka obvestilo sporazumno umaknjeno. Če druga pogodbenica ne potrdi prejema obvestila o odpovedi, se šteje, da ga je prejela štirinajst (14) dni po dnevu, ko ga je prejela Mednarodna organizacija civilnega letalstva.
