@@ -1,0 +1,4 @@
+# 16. člen
+Dolžnik lahko predlog za obročno poravnavanje dolga po tem zakonu vloži pri pristojnem davčnem organu v 60 dneh po uveljavitvi tega zakona oziroma občinskega odloka, pri pristojnem carinskem organu pa v 90 dneh po uveljavitvi tega zakona.
+Preden carinski organ odloči o predlogu dolžnika, mu mora dolžnik predložiti odločbo davčnega organa o dovolitvi obročnega poravnavanja zapadlih neplačanih obveznih dajatev iz 10. člena tega zakona oziroma potrdila davčnega organa, da dolžnik nima zapadlih neplačanih obveznih prispevkov za pokojninsko in invalidsko ter zdravstveno zavarovanje.
+Dolžnik, ki je po prvem odstavku tega člena predlagal obročno odplačevanje prispevkov iz naslova obveznega zavarovanja, do dokončne odločitve po tem zakonu ne more predlagati odpisa, delnega odpisa, odloga oziroma obročnega odplačevanja teh prispevkov po drugih zakonih.
