@@ -9,7 +9,7 @@
 - odlaganje, predelavo ali ponovno uporabo radioaktivnih snovi ali materialov, ki vsebujejo radioaktivne snovi in izvirajo iz uporabe virov sevanja ali izvajanja sevalnih dejavnosti po tem zakonu, za njih pa se ministrstvo, pristojno za okolje, ni odločilo, da se jih ne obravnava več po tem zakonu,
 - za izdelovanje ali razvoj opreme in tehnologije, ki je jedrsko blago,
 - za prevoz jedrskih snovi,
-- vzdrževanje, umerjanje ali druga podobna dela, ki se jih izvaja na virih sevanja, če to ni vključeno v izvajanje dejavnosti iz prejšnjih alinej tega odstavka.
+- vzdrževanje, proizvodnjo, umerjanje ali druga podobna dela, ki se jih izvaja na virih sevanja, če to ni vključeno v izvajanje dejavnosti iz prejšnjih alinej tega odstavka.
 (4) Dovoljenje za izvajanje sevalne dejavnosti izda ministrstvo, pristojno za zdravje, za:
 - namerno dodajanje radioaktivnih snovi pri proizvodnji in izdelovanju zdravil ter uvoz ali izvoz takega zdravila,
 - namerno dajanje radioaktivnih snovi osebam za namen medicinskega zdravljenja ali raziskav,

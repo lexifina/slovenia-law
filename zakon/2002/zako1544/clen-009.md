@@ -2,8 +2,8 @@
 ## 2.1 Priglasitev namere o izvajanju sevalne dejavnosti in uporabi vira sevanja
 # 9. člen (priglasitev namere)
 (1) Oseba, ki namerava:
-- proizvajati, predelovati, uporabljati, skladiščiti, prevažati, uvažati, izvažati ali odlagati radioaktivne snovi ali jih le posedovati ali z njimi kako drugače rokovati,
-- proizvajati, uvažati, vzdrževati ali izvajati dejavnost z napravo ali opremo, ki sama ali zaradi sestavnih delov oddaja ionizirajoča sevanja zaradi obratovanja pri električni napetosti večji od 5 kV,
+- proizvajati, predelovati, uporabljati, skladiščiti, pošiljati, vnašati iz držav članic EU, iznašati v države članice EU, uvažati, izvažati ali odlagati radioaktivne snovi ali jih le posedovati ali z njimi kako drugače rokovati,
+- proizvajati, vnašati iz držav članic EU, uvažati, vzdrževati ali izvajati dejavnost z napravo ali opremo, ki sama ali zaradi sestavnih delov oddaja ionizirajoča sevanja zaradi obratovanja pri električni napetosti večji od 5 kV,
 - izvajati dejavnost, ki jo določi vlada kot sevalno dejavnost, za katero izvajanje je treba pridobiti dovoljenje,
 mora svojo namero priglasiti (v nadaljnjem besedilu: priglasitev namere).
 (2) Oseba iz prejšnjega odstavka priglasi namero ministrstvu, pristojnemu za okolje, razen če gre za uporabo radioaktivnih snovi ali naprav ter opreme iz druge alinee prejšnjega odstavka v zdravstvu ali veterinarstvu ali za izvajanje sevalne dejavnosti v zdravstvu ali veterinarstvu, katerih namero priglasi ministrstvu, pristojnemu za zdravje.

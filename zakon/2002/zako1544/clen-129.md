@@ -4,7 +4,7 @@
 - radioaktivnosti v okolju iz poročila o monitoringu radioaktivnosti okolja vključno s podatki monitoringa radioaktivne kontaminacije zraka v bivalnem in delovnem okolju, živil in krme,
 - prejetih dozah iz poročila o ocenah prejetih doz za prebivalstvo vključno s podatki o izpostavljenosti zaradi naravnih virov sevanja,
 - izpostavljenosti pacientov iz poročila o izpostavljenosti zaradi radioloških posegov,
-- uvozu, izvozu in tranzitu radioaktivnih odpadkov in radioaktivnih snovi,
+- vnosu iz držav članic EU, iznosu v države članice EU, uvozu, izvozu in tranzitu radioaktivnih odpadkov in radioaktivnih snovi,
 - ravnanju z radioaktivnimi odpadki,
 - škodljivih vplivih radioaktivnosti na zdravje ljudi,
 - izvajanju ukrepov sevalne in jedrske varnosti,
