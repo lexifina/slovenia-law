@@ -1,0 +1,9 @@
+# 4. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe.
+
+Št. 801-10/00-18/1
+
+Ljubljana, dne 19. julija 2000
+
+Predsednik Državnega zbora Republike Slovenije Janez Podobnik, dr. med. l. r.
