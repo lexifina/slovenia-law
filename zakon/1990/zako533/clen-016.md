@@ -1,0 +1,2 @@
+# 16. člen
+Podjetja oziroma druge organizacije in skupnosti so dolžne dopustiti imenovanje svojih delavcev za občinske inštruktorje in popisovalce, razen če bi njihovo imenovanje in delo pri popisu, povzročilo motnje v delovnem procesu. O tem morajo obvestiti občinsko popisno komisijo v treh dneh od dneva, ko jim je bilo sporočeno, kateri njihovi delavci bodo imenovani za občinske inštruktorje in popisovalce.
