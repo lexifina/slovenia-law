@@ -1,5 +1,5 @@
 ## IV. UPORABA IN VARSTVO PODATKOV IN NJIHOVA ZAŠČITA
-# 23. člen
+# 23. člen (delno razveljavljen)
 Podatki, zbrani s popisom, se uporabljajo samo za statistične namene, razen tistih, ki jih bosta v svoji pristojnosti uporabila organa, pristojna za vzpostavitev registra stavb in stanovanj in registra gospodinjstev.
 Podatki, ki se bodo uporabili za vzpostavitev registrov iz prejšnjega odstavka, so:
 - identifikacija stavbe in identifikacija stanovanja,
