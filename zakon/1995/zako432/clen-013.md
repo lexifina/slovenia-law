@@ -1,0 +1,2 @@
+# 13. člen
+Z dnem, ko začne veljati ta zakon, prenehata veljati zakon o družbenem pravobranilcu samoupravljanja (Uradni list SRS, št. 21/75, 31/84 in Uradni list RS, št. 8/90) in prvi odstavek 13. člena zakona o družbenem pravobranilcu Republike Slovenije (Uradni list RS, št. 71/94 in 20/95 - odločba US) ter se preneha uporabljati zakon o družbenem pravobranilcu samoupravlja (Uradni list SFRJ, št. 36/75 in 29/82).
