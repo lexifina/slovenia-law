@@ -1,0 +1,5 @@
+# 3. člen
+
+Lastnina in premoženje Sklada, kjer koli sta in kdor koli z njima razpolaga, sta izvzeta iz vseh oblik zasega, pridržanja ali izvršbe, preden se izda proti Skladu izvršljiva sodba, ki je ni več možno spodbijati z običajnimi pravnimi sredstvi.
+
+Izvršba odločb, kadar so te izdane na podlagi arbitraže v skladu s tretjim odstavkom 2. člena, se na ozemlju članic Sklada izvrši po pravni poti, predpisani v vsaki državi članici in po potrditvi klavzule o izvršljivosti, ki je običajna v tisti državi, na območju katere je odločbo treba izvršiti. Za omenjeno potrditev se ne zahteva nobeno drugo preverjanje, razen potrditve, da je odločba verodostojna, da je v skladu s pravili o pristojnosti in postopkom, ki je določen v Pravilniku o posojilih Sklada in ni v nasprotju s končno sodbo, ki je bila izrečena v ustrezni državi. Vsaka podpisnica ob deponiranju svoje ratifikacijske listine prek generalnega sekretarja Sveta Evrope obvesti druge podpisnice, kateri organ oblasti je po njenih zakonih pristojen za opravljanje te formalnosti.

@@ -1,0 +1,3 @@
+# 10. člen
+
+Člani Upravnega telesa, Administrativnega sveta in Nadzornega odbora so deležni imunitete pred sodnimi postopki glede ustnih in pisnih stališč in vseh dejanj, ki jih storijo pri opravljanju svojih uradnih pristojnosti in v mejah svojih pooblastil. Tako imuniteto uživajo tudi potem, ko jim poteče mandat. Poleg tega jim je podeljena enaka imuniteta glede vselitvenih omejitev in zahtev registriranja tujcev ter enake menjalne in potovalne ugodnosti, kot jih podeljujejo članice predstavnikom drugih vlad članic Sklada primerljivega ranga. Izplačila za kritje nujnih stroškov, ki nastanejo pri opravljanju njihovih dolžnosti, so oproščena davkov.
