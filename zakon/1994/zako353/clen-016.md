@@ -1,4 +1,0 @@
-# 16. člen
-(1). Član računskega sodišča, ki mu je prenehala funkcija in iz objektivnih razlogov ne more nadaljevati prejšnjega dela, ali dobiti druge ustrezne zaposlitve, niti ni izpolnil pogojev za upokojitev po splošnih predpisih, ima pravico do nadomestila plače v višini plače, ki bi jo prejemal, če bi opravljal funkcijo, dokler se ne zaposli oziroma ne izpolni pogojev za upokojitev po splošnih predpisih, vendar najdlje eno leto od prenehanja funkcije člana računskega sodišča.
-(2) Pravica do nadomestila iz prejšnjega odstavka se lahko podaljša do izpolnitve pogojev za upokojitev po splošnih predpisih, vendar najdlje še za eno leto.
-(3) Čas iz prejšnjih dveh odstavkov se šteje članu računskega sodišča, ki mu je prenehala funkcija, v delovno dobo. V tem času je socialno zavarovan po predpisih, ki urejajo socialno zavarovanje oseb v delovnem razmerju.
