@@ -13,7 +13,7 @@
 8. brezplačno pridobiti in uporabljati osebne in druge podatke iz uradnih evidenc in drugih zbirk podatkov, ki se nanašajo na zavezanca za davek in ki so potrebni za izvedbo davčnega nadzora;
 9. brezplačno vzeti vzorce blaga, materialov in opreme za potrebe preiskav;
 10. fotografirati ali posneti na drug nosilec vizualnih podatkov osebe, prostore, objekte, postroje, napeljave in druge predmete iz 2. točke tega odstavka;
-11. reproducirati listine, avdiovizualne zapise in druge dokumente;
+11. reproducirati listine, avdiovizuelne zapise in druge dokumente;
 12. preveriti listine, ki spremljajo blago na poti oziroma pri transportu; če se mora pri preverjanju blaga na poti ali pri transportu posebej urediti prometni režim, mora inšpektor zahtevati pomoč policije;
 13. zbirati in pridobivati potrebna obvestila in podatke od oseb, ki bi utegnili biti koristni za preprečevanje in odkrivanje kršitev predpisov o obdavčenju;
 14. preveriti izvajanje davčnega nadzora pri zavezancih za davek;
