@@ -1,4 +1,4 @@
-## 6.a IZOBRAŽEVANJE, IZPOPOLNJEVANJE IN USPOSABLJANJE
+## 6.A IZOBRAŽEVANJE, IZPOPOLNJEVANJE IN USPOSABLJANJE
 # 40.a člen
 (1) Agencija skrbi za načrtovanje in izvajanje izobraževanja, izpopolnjevanja in usposabljanja za svoje potrebe.
 (2) Izobraževanje poteka po javnoveljavnih izobraževalnih programih za pridobitev višje strokovne in visokošolske izobrazbe ter po programih poklicnega izpopolnjevanja in usposabljanja ter specializacije.

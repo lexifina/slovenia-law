@@ -8,5 +8,5 @@
 - zahtevati od osebe, ki ogroža varnost ljudi, premoženje ali red na varovanem območju, da s tem takoj preneha ali varovano območje zapusti;
 - zadržati osebo, ki so jo zalotili pri kaznivem dejanju, katerega storilec se preganja po uradni dolžnosti ali na predlog oškodovanca, do prihoda policije;
 - uporabiti sredstva za vklepanje, če osebe iz prejšnje alinee ni moč zadržati drugače;
-- uporabiti fizično silo, če osebi ne more drugače preprečiti vstopa na varovano območje oziroma izstopa iz njega, preprečiti neposrednega ogrožanja življenja ljudi ali premoženja, ki ga varuje, ali zadržati osebe do prihoda policije;
+- uporabiti fizično silo, če osebi ne more drugače preprečiti vstopa na varovano območje oziroma izstopa iz njega, preprečiti neposrednega ogrožanja življenja ljudi ali premoženja, ki ga varuje, ali zadržati osebe do prihoda policije.
 (3) Uporaba ukrepov iz tretje in četrte alinee prejšnjega odstavka zoper uradne osebe policije ter drugih uradnih oseb državnih organov, ko na varovanem območju opravljajo svoje uradne naloge, ni dovoljena.
