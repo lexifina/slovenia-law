@@ -1,0 +1,3 @@
+# 117. člen
+V prvem odstavku 254. člena se 4. točka spremeni tako, da se glasi:
+"4. da ni bila pravnomočno obsojena zaradi kaznivega dejanja, storjenega z naklepom, ki se preganja po uradni dolžnosti, ali zaradi enega od naslednjih kaznivih dejanj, storjenih iz malomarnosti: povzročitve smrti iz malomarnosti (129. člen KZ), hude telesne poškodbe (134. člen KZ), posebno hude telesne poškodbe (135. člen KZ), ogrožanja varnosti pri delu (208. člen KZ), prikrivanja (221. člen KZ), izdaje in neupravičene pridobitve poslovne tajnosti (241. člen KZ), pranja denarja (252. člen KZ), izdaje uradne tajnosti (266. člen KZ), povzročitve splošne nevarnosti (317. člen KZ) ali izdaje državne tajnosti (359. člen KZ), ki še niso bila izbrisana iz evidence.".

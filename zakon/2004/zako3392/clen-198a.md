@@ -1,0 +1,4 @@
+# 198.a člen
+(1) Če Agencija za zavarovalni nadzor začne postopek prisilne likvidacije nad podružnico tuje zavarovalnice, mora še pred izdajo odločbe obvestiti vse pristojne nadzorne organe držav članic, v katerih ima tuja zavarovalnica podružnice. V obvestilu mora navesti pravne posledice in dejanske učinke takšnega postopka.
+(2) Če zaradi zaščite interesov strank zavarovalnice oziroma zaradi drugih javnih koristi s sprejemom odločbe iz prvega odstavka ni mogoče odlašati, Agencija za zavarovalni nadzor obvesti pristojni nadzorni organ takoj po izdaji odločbe.
+(3) Agencija za zavarovalni nadzor mora v postopku prisilne likvidacije iz prvega odstavka tega člena uskladiti svoja dejanja z dejanji pristojnih nadzornih organov drugih držav članic. K usklajevanju svojih dejanj so zavezani tudi likvidacijski upravitelji.".

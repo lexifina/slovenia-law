@@ -1,0 +1,4 @@
+# 52. člen
+V 117. členu se doda nov šesti odstavek, ki se glasi:
+"(6) Rezervacije za starost so matematične rezervacije zdravstvenih zavarovanj, ki so oblikovane v višini, ki zadošča za pokrivanje obveznosti doživljenjskega zavarovanja. Namenjene so pokrivanju primanjkljaja zaradi premije, ki se v času trajanja zavarovanja ne spreminja, medtem ko se zaradi naraščajoče starosti zdravstveno tveganje povečuje. Ne glede na določbe prvega stavka tega odstavka so lahko rezervacije za starost oblikovane v višini, ki zadošča za pokrivanje obveznosti za obdobje najmanj do tiste starosti zavarovanca, od katere naprej ima zavarovanec iste zavarovane nevarnosti, kot po zavarovalni pogodbi, v celoti krite že po samem zakonu. Pri izračunu rezervacij za starost se uporabljajo podobne verjetnostne tabele in izračuni kot za življenjska zavarovanja.".
+Dosedanji šesti odstavek postane sedmi odstavek.
