@@ -1,0 +1,4 @@
+# 4. člen
+Podjetja in druge pravne osebe ter nosilci samostojnega osebnega dela, ki opravljajo dejavnost v elektrogospodarstvu, proizvodnji in prometu z naftnimi derivati (motorni bencin, plinsko olje, kurilno olje, reaktivno gorivo, avionski bencin, utekočinjeni plin) in zemeljskim plinom, železniškem prometu (prevoz potnikov), poštnem, telegrafskem in telefonskem prometu (pismo, dopisnica, telegrafski in telefonski impulz), morajo pred spremembo cen pridobiti soglasje Izvršnega sveta Skupščine Republike Slovenije.
+Soglasje je treba izdati najpozneje v 30 dneh od dneva, ko je bil poslan zahtevek za spremembo cen. Če Izvršni svet Skupščine Republike Slovenije ne odloči o soglasju v predpisanem roku, se šteje, da je izdal soglasje.
+Izvršni svet Skupščine Republike Slovenije lahko iz ekonomskih razlogov z odlokom izvzame navedene proizvode in storitve v prvem odstavku tega člena iz določanja cen.
