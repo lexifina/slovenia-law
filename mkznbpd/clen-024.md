@@ -1,0 +1,7 @@
+# 24. člen ODBOR ZA ZNANOST IN TEHNOLOGIJO
+
+1. Odbor za znanost in tehnologijo se ustanovi kot pomožni organ Konference pogodbenic, da ji zagotavlja podatke in nasvete v zvezi z znanstvenimi in tehnološkimi zadevami, ki se nanašajo na boj proti dezertifikaciji in ublažitev posledic suše. Zasedanje odbora poteka skupaj z rednimi zasedanji Konference pogodbenic in je multidisciplinaren ter odprt za sodelovanje vseh pogodbenic. Sestavljajo ga vladni predstavniki, pristojni za ustrezna strokovna področja. Konferenca pogodbenic na svojem prvem zasedanju določi obseg pooblastil odbora.
+
+2. Konferenca pogodbenic sestavi in vzdržuje seznam samostojnih strokovnjakov s strokovnim znanjem in izkušnjami z ustreznih področij. Seznam temelji na predlogih za imenovanje, ki jih pošljejo pogodbenice v pisni obliki, in upošteva potrebo po multidisciplinarnem pristopu in široki geografski zastopanosti.
+
+3. Konferenca pogodbenic po potrebi lahko imenuje ad hoc odbore, ki ji prek Odbora zagotavljajo podatke in svetujejo glede posebnih vprašanj, povezanih z najnovejšimi dognanji v znanosti in tehnologiji, pomembnimi za boj proti dezertifikaciji in ublažitev posledic suše. Ti odbori so sestavljeni iz strokovnjakov, katerih imena so vzeta s seznama, ob upoštevanju potrebe po multidisciplinarnem pristopu in široki geografski zastopanosti. Ti strokovnjaki morajo imeti znanstveno izobrazbo in izkušnje s terena, imenuje pa jih Konferenca pogodbenic na priporočilo Odbora. Konferenca pogodbenic določi obseg pooblastil ter pogoje in načine delovanja teh odborov.

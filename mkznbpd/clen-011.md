@@ -1,0 +1,3 @@
+# 11. člen SUBREGIONALNI IN REGIONALNI PROGRAMI UKREPOV
+
+Prizadete države pogodbenice se v skladu z ustreznimi prilogami za regionalno izvajanje medsebojno posvetujejo in sodelujejo, kadar je ustrezno, pri pripravi subregionalnih in/ali regionalnih programov ukrepov za uskladitev, dopolnitev in povečanje učinkovitosti državnih programov. Določbe 10. člena se s potrebnimi spremembami uporabljajo za subregionalne in regionalne programe. Tako sodelovanje lahko zajema dogovorjene skupne programe za trajnostno gospodarjenje s čezmejnimi naravnimi viri, znanstveno in tehnično sodelovanje ter krepitev ustreznih institucij.
