@@ -1,0 +1,4 @@
+# 3. člen
+V 47. členu se drugi odstavek nadomesti z novim drugim in tretjim odstavkom, ki se glasita:
+"Ne glede na določbo 15. člena tega zakona se pri izbiri kandidatov, ki bodo zaključili osnovnošolsko izobraževanje po programu osemletne osnovne šole za vpis v začetni letnik gimnazije upoštevajo ocene iz materinega jezika, matematike, tujega jezika in splošni učni uspeh v šestem, sedmem in osmem razredu osnovne šole, doseženi rezultati pri skupinskem preverjanju znanja iz materinega jezika in matematike ter dosežki državnih tekmovanj na podlagi meril, ki jih določi Strokovni svet Republike Slovenije za splošno izobraževanje.
+Merila za izbiro kandidatov morajo zagotoviti enakovredne pogoje za izbiro kandidatov, ki bodo sočasno zaključili osnovno šolo po programu osemletne osnovne šole oziroma po programu devetletne osnovne šole."
