@@ -1,0 +1,2 @@
+# 1. člen
+Državni zbor Republike Slovenije daje Družbi za avtoceste v Republiki Sloveniji, d.d. (v nadaljnjem besedilu: DARS d.d.) soglasje za najetje domačih in tujih kreditov do višine 235 mio USD glavnice s pripadajočimi obrestmi in drugimi stroški kreditov po srednjem tečaju Banke Slovenije na dan najetja kredita za avtocestne odseke, ki se začnejo graditi v letu 1996, in sicer Slivnica-Fram-BDC, priključek Slovenska Bistrica-sever, obvoznica Ormož (del odseka Hajdina-Ormož), Vransko-Blagovica, Blagovica-Šentjakob, Divača-Kozina in Vipava-Selo.
