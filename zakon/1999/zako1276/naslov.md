@@ -1,2 +1,2 @@
 ZAKON
-O DAVKIH NA MOTORNA VOZILA (ZDMV)
+o davkih na motorna vozila (ZDMV)
