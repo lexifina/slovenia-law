@@ -1,0 +1,4 @@
+## V. PREHODNE IN KONČNE DOLOČBE
+# 22. člen
+Do izdaje podrobnejših predpisov iz 13. člena tega zakona se uporabljajo določbe pravilnika o pogojih, ki jih morajo izpolnjevati strokovne delovne organizacije za preizkušanje in žigosanje oziroma zaznamovanje ročnega strelnega orožja in streliva (Uradni list SFRJ, št. 23/69) in pravilnika o postopku za preizkušanje in žigosanje oziroma označevanje ročnega strelnega orožja, streliva ter ročnih aparatov in naprav, pri katerih se uporablja potisna energija smodnikovih plinov (Uradni list SFRJ, št. 15/70).
+Pooblastila za preizkušanje in žigosanje oziroma zaznamovanje ročnega strelnega orožja, streliva in aparatov izdana po določbah zakona o preizkušanju in žigosanju oziroma zaznamovanju ročnega strelnega orožja in streliva (Uradni list SFRJ, št. 20/69) ostanejo v veljavi do izdaje novih pooblastil po določbah tega zakona.
