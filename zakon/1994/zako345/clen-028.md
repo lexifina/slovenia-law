@@ -1,5 +1,0 @@
-# 28. člen
-Inšpektor, ki je na dan uveljavitve tega zakona v delovnem razmerju v organih inšpekcije za delo in nima visoke strokovne izobrazbe, si mora v sedmih letih od dneva uveljavitve tega zakona pridobiti visoko strokovno izobrazbo smeri, ki se zahteva za področje, na katerem bo opravljal inšpekcijsko nadzorstvo.
-S potekom roka iz prejšnjega odstavka inšpektorju, ki si ni pridobil visoke strokovne izobrazbe, ki se zahteva za področje na katerem bo opravljal inšpekcijsko nadzorstvo, preneha delovno razmerje v inšpektoratu.
-Določbe prejšnjih odstavkov se ne nanašajo na inšpektorja, ki je na dan uveljavitve tega zakona v delovnem razmerju v organih inšpekcije za delo, ima višjo strokovno izobrazbo ter še največ pet let delovne dobe.
-Ne glede na določbe prejšnjih odstavkov lahko, na predlog glavnega inšpektorja za delo, delo inšpektorja izjemoma opravlja tudi delavec z višjo strokovno izobrazbo in opravljenim strokovnim izpitom za inšpektorja za delo, če do uveljavitve tega zakona opravlja delo inšpektorja najmanj deset let.

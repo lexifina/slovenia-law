@@ -5,4 +5,4 @@ Inšpektor sestavi zapisnik o opravljenem nadzorstvu, ki mora vsebovati zlasti p
 - ugotovljenem stanju,
 - ukrepih, ter o pravni podlagi za izrečene ukrepe,
 - odvzemu dokumentacije iz 13. člena tega zakona.
-Zapisnik se pošlje delodajalcu, pri katerem je bil opravljen inšpekcijski pregled.
+Zapisnik se vroči delodajalcu, pri katerem je bil opravljen inšpekcijski pregled.
