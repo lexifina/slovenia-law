@@ -1,0 +1,3 @@
+# 49.d člen
+(1) V obdobju odprave nesorazmerij napreduje javni uslužbenec na delovnem mestu oziroma v nazivu v skladu s tem zakonom in na njegovi podlagi izdanimi predpisi. Napredovanje javnega uslužbenca se ne šteje kot odprava nesorazmerja v osnovni plači, ampak sta oba postopka med seboj ločena. Plačni razredi, ki jih javni uslužbenec pridobi z napredovanjem na delovnem mestu oziroma v nazivu, se prištejejo k že doseženemu plačnemu razredu.
+(2) Če je bil javni uslužbenec s prevedbo uvrščen v plačni razred, ki dosega ali presega najvišji plačni razred, ki ga je možno z napredovanjem na delovnem mestu oziroma v nazivu doseči po odpravi nesorazmerja, ne more napredovati, dokler ne pridobi višjega naziva ali je razporejen na višje uvrščeno delovno mesto.
