@@ -1,0 +1,2 @@
+# 42. člen
+Z dnem uveljavitve tega zakona se ne uporablja II. 2. točka 99. člena Zakona o sodiščih (Uradni list RS, št. 19/94, 45/95, 38/99 in 28/2000) za nepravdne zadeve iz 16. člena (drugi odstavek 105. člena), 18. člena (tretji in četrti odstavek 106. člena), 19. člena (drugi in tretji odstavek 106.a člena), 21. člena (tretji odstavek 113. člena), 23. člena (tretji odstavek 116. člena), 24. člena (tretji odstavek 117. člena), 25. člena (drugi odstavek 122. člena) in 33. člena (130. člen) tega zakona.

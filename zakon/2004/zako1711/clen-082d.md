@@ -1,0 +1,4 @@
+# 82.d člen
+(1) Z izvršilnim naslovom določena preživnina se uskladi enkrat letno z indeksom rasti cen življenjskih potrebščin v Republiki Sloveniji. Uskladitev se opravi v mesecu marcu, pri čemer se upošteva kumulativna rast cen življenjskih potrebščin od meseca, od katerega je bila preživnina nazadnje določena oziroma usklajena. Količnik uskladitve preživnin objavi minister, pristojen za družino, v Uradnem listu Republike Slovenije.
+(2) Sodno poravnavo, pravnomočno sodno odločbo oziroma izvršljivi notarski zapis je sodišče oziroma notar dolžan poslati pristojnemu centru za socialno delo, če ni bil dogovorjen drugačen način usklajevanja.
+(3) Center za socialno delo pisno obvesti upravičenca in zavezanca o vsakokratni uskladitvi in novem znesku preživnine. Obvestilo centra za socialno delo je skupaj s sodno poravnavo, pravnomočno sodno odločbo oziroma izvršljivim notarskim zapisom izvršilni naslov.".
