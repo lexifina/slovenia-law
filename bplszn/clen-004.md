@@ -1,0 +1,7 @@
+# 4. člen Razlastitev in odškodnina
+
+(1) Nobena od pogodbenic ne bo sprejemala posredno ali neposredno ukrepov razlaščanja, nacionalizacije ali kakih drugih ukrepov tovrstne narave ali z enakim učinkom v zvezi z investicijami, ki pripadajo investitorjem druge pogodbenice, razen če so ukrepi sprejeti v javnem interesu, na nediskriminacijski podlagi in po zakonitem postopku ter pod pogojem, da se sprejmejo tudi določbe o učinkoviti in ustrezni odškodnini. Odškodnina mora biti enaka tržni vrednosti razlaščene investicije neposredno pred razlastitvijo oziroma ko je razlastitev javno objavljena, vključevati mora tudi obresti od datuma razlastitve in biti prosto prenosljiva.
+
+Odškodnina mora biti poravnana v konvertibilni valuti in izplačana brez nepotrebnega odlašanja za to upravičeni osebi, ne glede na njeno bivališče ali stalno bivališče, razen če se stranki ne dogovorita drugače. Prenos velja za opravljen “brez nepotrebnega odlašanja“, če je izpeljan v roku, ki je običajno potreben za izpolnitev formalnosti prenosa. Ta rok začne teči od dne, ko je ustrezna zahteva predložena, in ne sme trajati dlje kot tri mesece.
+
+(2) Investitorji ene od pogodbenic, ki v zvezi z investicijo utrpijo izgubo na ozemlju druge pogodbenice zaradi vojne ali drugega oboroženega spopada, izrednega stanja v državi, upora, vstaje ali neredov, so pri povračilu odškodnine upravičeni do enake obravnave kot investitorji iz katere koli tretje države. Izplačila tovrstnih odškodnin morajo biti, če je to le mogoče, prenosljiva brez nepotrebnega odlašanja.
