@@ -1,0 +1,9 @@
+# 4. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe.
+
+Št. 630-02/97-9/1
+
+Ljubljana, dne 27. maja 1997
+
+Predsednik Državnega zbora Republike Slovenije Janez Podobnik, dr. med. l. r.
