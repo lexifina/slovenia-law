@@ -1,0 +1,4 @@
+# 26. člen
+(1) Zaposleni v nadzorovani službi so v okviru pooblastil, ki jih imajo na svojem delovnem mestu ali položaju, dolžni storiti, kar je potrebno, da komisija lahko izvršuje svoj nadzor in so dolžni pri tem z njo sodelovati.
+(2) Na zahtevo komisije se je vsak zaposleni v nadzorovani službi dolžan udeležiti seje komisije in na njej v okviru pooblastil, ki jih ima na svojem delovnem mestu ali položaju, dajati pojasnila ter odgovarjati na vprašanja članov komisije. Zaposleni lahko zavrne odgovor na posamezno vprašanje, pri čemer se uporabljajo določbe ZKP o odklonitvi odgovora na posamezno vprašanje. Komisija mora zagotoviti tajnost identitete zaposlenega.
+(3) Zaposleni v nadzorovani službi sme obvestiti komisijo o domnevni nezakonitosti nadzorovanega ukrepa ali njegovega izvrševanja ter o okoliščinah in dejstvih v zvezi s tem, razen če je bil glede posameznega nadzorovanega ukrepa ali ukrepov nadzor začasno odložen.

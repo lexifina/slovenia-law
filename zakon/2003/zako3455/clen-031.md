@@ -1,0 +1,2 @@
+# 31. člen
+Pooblaščeni predstavnik telekomunikacijskega operaterja oziroma izvajalca poštnih storitev se je na zahtevo komisije dolžan udeležiti njene seje, dajati pojasnila in druge informacije v zvezi s podatki iz 29. in 30. člena tega zakona ter odgovarjati na vprašanja članov komisije glede tega. Pooblaščeni predstavnik lahko zavrne udeležbo na seji ali odkloni odgovor, pri čemer se uporabljajo določbe ZKP o oprostitvi dolžnosti pričevanja ali odklonitvi odgovora na posamezno vprašanje.
