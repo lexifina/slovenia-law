@@ -1,5 +1,5 @@
 ## VIII. PRIDOBITEV IN PRENOS PRAVIC NA PODLAGI SODNE ODLOČBE Vpis sklepa o izvršbi
-# 60. člen
+# 60. člen (delno se preneha uporabljati)
 (1) Sodišče vroči sklep o izvršbi, s katerim je dovolilo izvršbo oziroma zavarovanje na nematerializirane vrednostne papirje, tudi klirinško depotni družbi.
 (2) Klirinško depotna družba na podlagi sklepa iz prejšnjega odstavka pri nematerializiranih vrednostnih papirjih, na katere se nanaša sklep, vpiše sklep o izvršbi z vpisom naslednjih podatkov:
 1. sodišče, ki je sklep izdalo,
