@@ -1,0 +1,5 @@
+# 91. člen (omejitve)
+(1) Delavec na obrambnem področju ne sme opravljati dela, ki bi ga oviralo pri opravljanju vojaške službe ali dela, ki bi škodovalo ugledu ministrstva ali vojske oziroma dela, ki ni združljivo z dejavnostjo ministrstva.
+(2) Ne glede na določbo prejšnjega odstavka, sme delavec na obrambnem področju, poleg svojega dela opravljati dela v gospodarskih družbah ali opravljati enaka oziroma podobna dela kot jih opravlja na svojem delovnem mestu, pri drugem organu ali organizaciji le s pisnim soglasjem ministra. Pisnega soglasja ministra ni treba pridobiti delavcem za opravljanje znanstvenega, pedagoškega ali publicističnega dela oziroma delavcem za nepoklicno opravljanje dela v kulturnih, umetniških, športnih, humanitarnih in drugih društvih ter organizacijah.
+(3) Dela iz prvega odstavka tega člena določi minister.
+(4) Za vrednotenje posebnih prepovedi in omejitev iz tega člena vlada določi odstotek povečanja osnovne plače delavcem na obrambnem področju v skladu s splošnimi predpisi.
