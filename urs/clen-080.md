@@ -11,3 +11,5 @@ Poslanci se volijo s splošnim, enakim, neposrednim in tajnim glasovanjem.
 V državni zbor se vedno izvoli po en poslanec italijanske in madžarske narodne skupnosti.
 
 Volilni sistem ureja zakon, ki ga sprejme državni zbor z dvotretjinsko večino glasov vseh poslancev.
+
+Poslanci, razen poslancev narodnih skupnosti, se volijo po načelu sorazmernega predstavništva ob štiriodstotnem volilnem pragu za vstop v Državni zbor, pri čemer imajo volivci odločilen vpliv na dodelitev mandatov kandidatom.
