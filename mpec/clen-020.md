@@ -1,0 +1,3 @@
+# 20. člen
+
+Pri opravljanju nalog Organizacije, določenih v pododstavku (e) 1. odstavka 2. člena, in kjer je to ustrezno, v pododstavku (b) 2. odstavka 2. člena, se kršitve predpisov zračne plovbe, storjene v zračnem prostoru, v katerem so službe zračnega prometa zaupane Agenciji, evidentirajo v poročilih uslužbencev, ki jih Agencija v ta namen posebej pooblasti ne glede na pravico, ki jo imajo uslužbenci pogodbenic po notranjem pravu do poročanja o enakih kršitvah. Zgoraj omenjena poročila imajo pri domačih sodiščih enako veljavo kot tista, ki jih sestavijo državni uslužbenci, pooblaščeni za poročanje o enakih kršitvah.
