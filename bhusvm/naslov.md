@@ -1,0 +1,23 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN VLADO REPUBLIKE MADŽARSKE O SODELOVANJU NA PODROČJU VETERINARSKE MEDICINE (BHUSVM)
+
+Z A K O N
+
+O RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN VLADO REPUBLIKE MADŽARSKE O SODELOVANJU NA PODROČJU VETERINARSKE MEDICINE (BHUSVM)
+
+S P O R A Z U M
+
+med Vlado Republike Slovenije in
+
+Vlado Republike Madžarske
+
+o sodelovanju na področju veterinarske medicine
+
+EGYEZMÉNY
+
+a Szlovén Köztársaság Kormánya és
+
+a Magyar Köztársaság Kormánya
+
+között az állategészségügy terén
