@@ -1,0 +1,3 @@
+# 15. člen
+Če se predvideva izdelava geodetskih načrtov in kart v merilu 1 : 5000 ali manjšem merilu, ali če se namerava opraviti aerofotosnemanje, mora občinski geodetski organ to takoj sporočiti Geodetski upravi SR Slovenije.
+Izvajalci izdelave geodetskih načrtov in kart v merilu 1 : 5000 ali manjšem in izvajalci aerofotosnemanja morajo na zahtevo Geodetske uprave SR Slovenije brezplačno odstopiti po eno kopijo načrta in kart ter aerofotoposnetkov, v roku dveh let po končanem aerofotosnemanju pa brezplačno odstopiti Geodetski upravi SR Slovenije negative aerofotoposnetkov zaradi njihovega arhiviranja, uporabe in izdajanja po določilih 11. in 12. člena tega zakona.
