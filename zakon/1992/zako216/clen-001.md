@@ -1,0 +1,2 @@
+# 1. člen
+Za izvajanje programov zdravstvenega varstva, ki se zagotavljajo na ravni občine, se za čas od 1. januarja 1992 do uveljavitve novega zakona na področju zdravstvenega varstva in zdravstvenega zavarovanja plačuje občinski prispevek za zdravstveno varstvo po 19. členu zakona o prispevkih za pokojninsko in invalidsko zavarovanje, zdravstveno varstvo in zaposlovanje (Uradni list RS, št. 48/90) po stopnjah, ki so veljale na dan 31. decembra 1991.
