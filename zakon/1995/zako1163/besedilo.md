@@ -1,0 +1,6 @@
+Razglašam Zakon o dopolnitvi zakona o ratifikaciji sporazuma o sodelovanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije v boju proti nezakonitemu trgovanju z opojnimi in psihotropnimi snovmi ter proti organiziranemu kriminalu in zapisnika o srečanju med Ministrstvom za notranje zadeve Republike Slovenije in Minitrstvom za notranje zadeve Republike Italije o izmenjavi računalniško obdelanih informacij, ki se nanašajo na nezakonito trgovanje z opojnimi in psihotropnimi snovmi po balkanski poti in v Mediteranu, ki ga je sprejel Državni zbor Republike Slovenije na seji dne 20. februarja 1995.
+Št. 012-01/95-11
+Ljubljana, dne 28. februarja 1995
+Predsednik Republike Slovenije Milan Kučan l. r.
+Z A K O N
+O DOPOLNITVI ZAKONA O RATIFIKACIJI SPORAZUMA O SODELOVANJU MED MINISTRSTVOM ZA NOTRANJE ZADEVE REPUBLIKE SLOVENIJE IN MINISTRSTVOM ZA NOTRANJE ZADEVE REPUBLIKE ITALIJE V BOJU PROTI NEZAKONITEMU TRGOVANJU Z OPOJNIMI IN PSIHOTROPNIMI SNOVMI TER PROTI ORGANIZIRANEMU KRIMINALU IN ZAPISNIKA O SREČANJU MED MINISTRSTVOM ZA NOTRANJE ZADEVE REPUBLIKE SLOVENIJE IN MINISTRSTVOM ZA NOTRANJE ZADEVE REPUBLIKE ITALIJE O IZMENJAVI RAČUNALNIŠKO OBDELANIH INFORMACIJ, KI SE NANAŠAJO NA NEZAKONITO TRGOVANJE Z OPOJNIMI IN PSIHOTROPNIMI SNOVMI PO BALKANSKI POTI IN V MEDITERANU
