@@ -1,0 +1,2 @@
+# 10. člen
+S prvim dnem meseca po mesecu, v katerem bo uveljavljen ta zakon, prenehajo veljati 10., 11. in 12. člen zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001 (Uradni list RS, št. 39/99) ter se v 1. točki prvega odstavka 23. člena zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001 črta besedilo "10., 11., 12.,".
