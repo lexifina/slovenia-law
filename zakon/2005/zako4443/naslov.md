@@ -1,0 +1,4 @@
+Z A K O N
+O UGOTAVLJANJU KATASTRSKEGA DOHODKA
+(uradno prečiščeno besedilo)
+(ZUKD-UPB1)
