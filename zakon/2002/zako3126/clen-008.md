@@ -1,0 +1,6 @@
+# 8. člen
+13. člen se spremeni tako, da se glasi:
+"(1) Davčni zavezanec je vsaka oseba, ki kjerkoli neodvisno (samostojno) opravlja katerokoli dejavnost, ne glede na namen ali rezultat opravljanja dejavnosti.
+(2) Dejavnost po prejšnjem odstavku obsega vsako proizvodno, predelovalno, trgovsko in storitveno dejavnost, vključno z rudarsko, kmetijsko in poklicno dejavnostjo. Dejavnost obsega tudi izkoriščanje premoženja in premoženjskih pravic, če je namenjeno trajnemu doseganju dohodka.
+(3) Državni organi in organizacije ter organi lokalnih skupnosti se ne štejejo za davčne zavezance v skladu s prvim odstavkom tega člena, kadar opravljajo dejavnosti oziroma transakcije v okviru svojih pristojnosti, javne agencije in druge osebe javnega prava pa, kadar opravljajo upravne naloge na podlagi javnega pooblastila, čeprav opravljajo te naloge proti plačilu (takse, prispevki in druge dajatve). Če ti organi ali osebe opravljajo katero od dejavnosti iz prejšnjega odstavka oziroma promet, pri katerem bi njihovo obravnavanje kot davčnih nezavezancev za DDV, vodilo k izkrivljanju konkurence, se v teh primerih le-ti štejejo za davčne zavezance.
+(4) Davčni zavezanci so tudi organizatorji storitev po 3.a točki drugega odstavka 17. člena tega zakona."
