@@ -1,0 +1,9 @@
+# 4. člen
+
+(1) Zagotovljena namenska sredstva v proračunu Republike Slovenije iz 2. člena tega zakona, ministrstvo, pristojno za finance, nakazuje na račun DARS d.d. po odredbi pooblaščene osebe ministrstva, pristojnega za promet, na podlagi pisnega zahtevka DARS d.d.
+
+(2) DARS d.d. daje pisni zahtevek za črpanje s tem zakonom zagotovljenih sredstev, za plačilo opravljenega dela, v okviru sprejetega letnega plana razvoja in vzdrževanja avtocest ter finančnega načrta DARS d.d. na osnovi dokumentacije, ki jo predpiše minister, pristojen za promet.
+
+(3) Če letni plan razvoja in vzdrževanja avtocest ni sprejet do 1. januarja tekočega leta, lahko DARS d.d. da pisni zahtevek za črpanje s tem zakonom zagotovljenih sredstev, za plačilo opravljenega dela, na podlagi začasnega finančnega načrta DARS d.d., ki mora biti usklajen z nacionalnim programom izgradnje avtocest za to leto.
+
+(4) Ministrstvo, pristojno za promet, preveri utemeljenost zahtevka DARS d.d., iz drugega oziroma tretjega odstavka tega člena glede na sprejeti letni plan razvoja avtocest oziroma finančni načrt, kakor tudi glede upoštevanja predpisov, ki urejajo pripravo investicijske dokumentacije in spremljanje investicij.
