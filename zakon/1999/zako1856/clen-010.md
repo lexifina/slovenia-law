@@ -1,0 +1,4 @@
+# 10. člen
+Pri izplačilu plač za obdobje od tretjega meseca po uvedbi DDV dalje pripada zaposlenim, ki prejemajo plačo nižjo od povprečne plače v Republiki Sloveniji poseben dodatek.
+Vsak delodajalec je dolžan izplačati dodatek vsem zaposlenim, katerih izplačana plača za poln delovni čas v tekočem mesecu je ali bi bila nižja od povprečne plače v Republiki Sloveniji za mesec avgust 1999 po podatkih SURS.
+Dodatek se določi v višini razlike med minimalno plačo, ki velja za tretji mesec po uvedbi DDV in zneskom minimalne plače, povečane za rast cen življenjskih potrebščin tako, da se pri izračunu dodatka kot rast cen, ki je posledica uvedbe DDV, upošteva razlika med povprečjem mesečnih stopenj rasti cen življenjskih potrebščin v prvih treh mesecih po uvedbi DDV in povprečjem mesečnih stopenj rasti teh cen v višini 0,5%.

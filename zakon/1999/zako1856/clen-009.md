@@ -1,0 +1,3 @@
+# 9. člen
+Če rast cen življenjskih potrebščin (brez učinkov rasti cen zaradi uvedbe DDV) v letu 1999 pred koncem leta doseže 6,8% glede na december 1998, se plače za naslednji mesec, po mesecu v katerem je bilo to doseženo, uskladijo za 85% ugotovljene rasti cen življenjskih potrebščin v tem obdobju.
+Pri izračunu rasti cen življenjskih potrebščin iz prejšnjega odstavka se izloči rast cen življenjskih potrebščin iz naslova uvedbe DDV tako, da se za prve tri mesece veljavnosti DDV namesto dejanske mesečne rasti, upošteva povprečna mesečna rast cen življenjskih potrebščin v treh mesecih pred uvedbo DDV.
