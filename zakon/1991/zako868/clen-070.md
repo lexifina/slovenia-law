@@ -1,0 +1,4 @@
+# 70. člen
+Izvršni svet Skupščine Republike Slovenije lahko po predhodnem soglasju komisije za mednarodne odnose Skupščine Republike Slovenije na predlog predstojnika upravnega organa, pristojnega za zunanje zadeve imenuje pooblaščenega predstavnika Republike Slovenije izmed oseb, ki živijo stalno ali začasno v tujini in so pripravljene pomagati pri razvijanju sodelovanja med Republiko Slovenijo in državo, v kateri živijo.
+Za pooblaščenega predstavnika Republike Slovenije je lahko imenovan državljan Republike Slovenije, ki zna enega od svetovnih jezikov in praviloma jezik države, v kateri je imenovan, ima visoko izobrazbo ter daje polno zaupanje, da bo lahko primerno opravljal svojo funkcijo.
+Pooblaščeni predstavniki Republike Slovenije delujejo v skladu z navodili upravnega organa, pristojnega za zunanje zadeve.
