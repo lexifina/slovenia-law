@@ -1,0 +1,10 @@
+# 27. člen
+(1) Uniformirani carinik in uniformirani inšpektor lahko zaradi odkrivanja kršitev carinskih, trošarinskih in drugih predpisov, za izvajanje katerih je pristojna služba, na celotnem območju Republike Slovenije:
+1. spremljata, ustavita, pregledata in preiščeta vsako prevozno sredstvo;
+2. pregledata in preiščeta vsako prevozno sredstvo kjer koli na prostem, kjer se opravlja vtovor ali iztovor blaga ali trošarinskih izdelkov oziroma je ta že bil opravljen;
+3. ustavita vsako osebo in pregledata ter preiščeta prenosna sredstva in stvari, ki jih nosi s seboj;
+4. ugotavljata namensko uporabo pogonskega goriva v vseh prevoznih sredstvih, delovnih napravah in strojih ter namensko uporabo vseh drugih trošarinskih izdelkov, zaradi zasega pa odrejata črpanje označenega mineralnega olja iz rezervoarja ter njegovo čiščenje.
+(2) Zaradi izvajanja ukrepov iz prejšnjega odstavka je vsakdo dolžan ustaviti na mestu, ki ga odredi uniformirani carinik oziroma uniformirani inšpektor z dajanjem predpisanih znakov, na način in po postopku, ki ga predpiše minister, pristojen za finance, v soglasju z ministrom, pristojnim za notranje zadeve. Na zahtevo uniformiranega carinika oziroma uniformiranega inšpektorja mora dati vse potrebne podatke in mu pokazati blago in trošarinske izdelke, ki jih prevaža ali prenaša.
+(3) Pregled prevoznega ali prenosnega sredstva pomeni vizuelni pregled prostorov, prevoznega ali prenosnega sredstva in stvari, ki so v njem.
+(4) Preiskava prevoznega ali prenosnega sredstva, ki se lahko opravi v primeru razlogov za sum kršitve carinskih, trošarinskih ali drugih predpisov, katerih izvajanje je v pristojnosti službe, pa pomeni podroben pregled vseh delov prevoznega ali prenosnega sredstva, vključno s stvarmi v njem, pri katerem se lahko za pregled posameznih delov prevoznega ali prenosnega sredstva oziroma stvari v njem uporabijo tehnični pripomočki in prevozno ali prenosno sredstvo oziroma stvari tudi razstavijo.
+(5) Vse kar je predmet pregleda iz prejšnjega odstavka, lahko carinik in inšpektor tudi fotografirata ali posnameta na drug nosilec vizualnih podatkov.
