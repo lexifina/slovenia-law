@@ -1,6 +1,6 @@
 # 26. člen
 (1) Poravnalni svet sestavljajo predsednik, namestnik predsednika in pet članov.
-(2) Predsednika in namestnika predsednika imenuje minister, pristojen za znanost in tehnologijo, za dobo treh let in sta lahko ponovno imenovana.
+(2) Predsednika in namestnika predsednika imenuje minister, pristojen za področje industrijske lastnine, za dobo treh let in sta lahko ponovno imenovana.
 (3) Dva člana imenuje direktor Urada izmed delavcev Urada ali izmed oseb, vpisanih v register zastopnikov pri Uradu, za vsak posamezen spor.
 (4) Enega člana imenuje direktor Urada na predlog Zveze inovatorjev Slovenije.
 (5) Po enega člana imenuje vsaka stranka v postopku.
