@@ -1,0 +1,2 @@
+# 9. člen
+Pri izvrševanju programov, odločanju o poslovni politiki in pri izvajanju ukrepov za dostopnost publikacije delovnim ljudem in občanom, za vzbujanje interesa za te publikacije, za ugotavljanje in upoštevanje želja in potreb delovnih ljudi in občanov založniške organizacije še posebej sodelujejo s knjižnicami, z organizacijami na področju vzgoje in izobraževanja in z društvi ter z drugimi organizacijami, ki svojo dejavnost namenjajo razširjanju kulturnih vrednot in razvijanju kulturnih dejavnosti delovnih ljudi in občanov.

@@ -1,0 +1,4 @@
+## VI. USTVARJANJE CELOTNEGA PRIHODKA ZALOŽNIŠKIH ORGANIZACIJ S SVOBODNO MENJAVO DELA
+# 36. člen
+Z neposredno svobodno menjavo dela ustvarja založniška organizacija celotni prihodek od založniške dejavnosti na temelju samoupravnih sporazumov, ki jih sklenejo založniška organizacija, druge organizacije združenega dela in druge družbene pravne osebe in s katerimi usklajujejo svoje interese in potrebe na področju založništva, ki so jim skupne.
+S samoupravnim sporazumom iz prejšnjega odstavka udeleženci predvsem določijo, kolikšen del celotnega prihodka založniške organizacije bodo za dogovorjeno dejavnost zagotavljali v svobodni menjavi dela in pod kakšnimi pogoji, koliko in kako bo posamezen udeleženec k temu prispeval ter kakšne so pravice posameznega udeleženca pri rezultatih dogovorjene dejavnosti založniške organizacije.

@@ -1,0 +1,3 @@
+# 46. člen
+S samoupravnim sporazumom, ki ga sklenejo v okviru samoupravnih interesnih skupnosti iz tretjega odstavka 8. člena tega zakona avtorji-sodelavci in delavci založniških organizacij, natančneje določijo pogoje, merila in način ugotavljanja, ali je avtor izpolnil pogoje iz 40. člena tega zakona in katere pravice iz 43. člena tega zakona pripadajo avtorju-sodelavcu ter kako se ugotavlja trajanje pravic avtorja-sodelavca.
+S samoupravnim sporazumom iz prejšnjega odstavka se določijo tudi osnove in okvirna merila za višino avtorskih honorarjev ter podrobneje urede pogoji in obseg pravice do dodatnega honorarja po 45. členu tega zakona tar način uveljavljanja te pravice.

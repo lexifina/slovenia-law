@@ -1,0 +1,2 @@
+# 33. člen
+Založniške organizacije v medsebojnem sodelovanju na temelju pogodb ali samoupravnih sporazumov izmenjavajo izkušnje, usklajujejo interese ter združujejo delo in sredstva za skupno opravljanje nalog, kot so raziskovanje trga, skupno uporabljanje in razvijanje knjigotrške mreže, obveščanje uporabnikov in drugi načini zagotavljanja javnosti delovanja, priprava zahtevnejših publikacij, zagotavljanje storitev papirne in grafične industrije, skladiščenje, zastopanje na tujem trgu, sodelovanje s tujimi partnerji in podobno.

@@ -1,0 +1,3 @@
+# 6. člen
+Avtorji-ustvarjalci, katerih delo je povezano z založniško dejavnostjo, se lahko v mejah, ki jih določa ta zakon, sami ali v svojih delovnih skupnostih ali v svojih organizacijah ukvarjajo z založništvom ter sodelujejo pri upravljanju in odločanju v založniških organizacijah.
+Delovni ljudje, ki kot avtorji trajneje sodelujejo z založniško organizacijo, imajo v skladu z zakonom, s samoupravnim sporazumom med avtorji in založniškimi organizacijami ter samoupravnimi splošnimi akti teh organizacij pravico sodelovati pri upravljanju teh organizacij in v razpolaganju z rezultati skupnega dela.

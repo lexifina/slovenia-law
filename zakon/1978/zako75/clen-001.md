@@ -1,0 +1,3 @@
+# 1. člen
+Za založništvo po tem zakonu se šteje izdajanje, zalaganje in razpečevanje knjig, časnikov, revij, katalogov, prospektov, plakatov, letakov, tiskovin, zemljevidov, separatov, brošur, učbenikov, učil, reprodukcij likovnih del, razglednic, koledarjev, fotografij, mikrofilmov, diamikrokartic, muzikalij, gramofonskih plošč, tonskih kaset, video kaset, magnetofonskih in magnetnih trakov ter drugih podobnih del, ki se razmnožujejo s tiskanjem ali na drug podoben način in so namenjene javnosti (v nadaljnjem besedilu: publikacije).
+Izvirna likovna dela, ki nastanejo z odstiskavanjem ali odlivanjem, se ne štejejo za publikacije po prejšnjem odstavku.

@@ -1,0 +1,2 @@
+# 25. člen
+Založniški svet oblikuje predlog statuta, predlog smernic in elementov za sklepanje samoupravnih sporazumov o temeljih plana in sprejema plane, določa letne programe založniške dejavnosti in spremlja njihovo izvajanje, sklepa samoupravne sporazume za uresničevanje svobodne menjave dela, določa poslovno politiko in ukrepe za njeno izvajanje, določa načela in merila kadrovske politike ter imenuje in razrešuje odgovornega urednika in individualni poslovodni organ ali predsednika kolegijskega poslovodnega organa.
