@@ -1,0 +1,9 @@
+# 4. člen Oprostitev carin za gorivo, maziva in rezervne dele
+
+(1) Letala, ki jih uporablja v mednarodnem zračnem prometu določeni prevoznik katere koli pogodbenice, kot tudi njihova običajna oprema, rezervni deli, zaloge goriva in maziv ter zaloge (vključno s hrano, pijačo in tobakom), ki so na takem letalu, so po prihodu na ozemlje druge pogodbenice oproščeni vseh carin, inšpekcijskih taks in drugih davščin ali taks, če ostanejo na letalih, dokler se ponovno ne izvozijo.
+
+(2) Zaloge goriva, maziv, rezervnih delov, običajne opreme in zaloge na letalu, ki jih na ozemlje ene pogodbenice pripelje določeni prevoznik druge pogodbenice ali so pripeljane v njegovem imenu ali so v letalu, ki ga upravlja določeni prevoznik in so izključno namenjene uporabi med opravljanjem mednarodnega prometa, so oproščene vseh državnih davščin in taks, vključno s carinami in inšpekcijskimi taksami, ki veljajo na ozemlju prve pogodbenice, tudi kadar so porabljene na delu poleta nad ozemljem pogodbenice, na katerem so bile natovorjene. Lahko se zahteva, da so zgoraj omenjeni predmeti pod carinskim nadzorom.
+
+(3) Običajna oprema v letalu, rezervni deli, zaloge na letalu in zaloge goriva in maziv, ki so v letalih prevoznika katere koli pogodbenice, so lahko raztovorjeni na ozemlju druge pogodbenice le z odobritvijo carinskih organov te pogodbenice, ki lahko zahteva, da se ti predmeti dajo pod njihov nadzor, dokler niso ponovno izvoženi ali drugače porabljeni v skladu s carinskimi predpisi.
+
+(4) Gorivo, maziva, rezervni deli, običajna oprema na letalu in zaloge na letalu, ki so vkrcani na letalo ene pogodbenice na ozemlju druge pogodbenice in ki se izključno uporabljajo na poletih med dvema krajema na ozemlju druge pogodbenice, se glede carin, inšpekcijskih taks in drugih podobnih državnih ali lokalnih dajatev in taks ne obravnavajo nič manj ugodno kot nacionalni prevoznik tiste pogodbenice.
