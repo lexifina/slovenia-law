@@ -1,3 +1,0 @@
-# 10. člen
-Zakoni in drugi predpisi o državni upravi, ki se nanašajo na organizacijo in delovanje državne uprave, na. delovna razmerja, na položaj in odgovornost vodilnih uslužbencev, plače in druge materialne prejemke,.izobraževanje in pripravništvo v republiških upravnih organih, veljajo tudi za upravni organ, pristojen za zunanje zadeve, če ni s tem zakonom določeno drugače.
-Zakoni in drugi predpisi, ki urejajo zdravstveno varstvo ter pokojninsko in invalidsko zavarovanje delavcev, veljajo tudi za delavce v upravnem organu, pristojnem za zunanje zadeve, če ni s tem zakonom določeno drugače.
