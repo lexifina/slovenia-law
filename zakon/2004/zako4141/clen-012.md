@@ -1,0 +1,4 @@
+# 12. člen (predčasno odplačilo)
+(1) Potrošnik ima pravico, da kadarkoli predčasno odplača preostanek sedanje vrednosti kredita pred dnevom zapadlosti plačila brez dodatnih stroškov, razen stroškov izdelave obračuna predčasnega odplačila kredita.
+(2) V primeru plačila iz prejšnjega odstavka lahko potrošnik od zneska sedanje vrednosti obveznosti predčasnega plačila (diskontirane) kredita odšteje sedanjo vrednost (valorizirano) pogodbenih obresti, vključno z morebitnimi stroški, ki bi tekle od dneva predčasnega plačila do dneva zapadlosti plačila po pogodbi, če so bile pogodbene obresti in stroški za to obdobje že obračunani in zajeti v plačila, ki jih je plačal potrošnik.
+(3) Dajalec kredita je dolžan potrošniku izdelati obračun obveznosti predčasnega plačila v skladu s prejšnjim odstavkom. Stroški izdelave obračuna predčasnega odplačila kredita ne smejo presegati polovice stroškov odobritve kredita.

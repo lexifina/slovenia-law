@@ -1,0 +1,4 @@
+# 10. člen (posledice kršitve 7. in 8. člena tega zakona)
+(1) Če kreditna pogodba nima vseh sestavin iz 7. in 8. člena tega zakona, lahko potrošnik z enostransko izjavo razdre pogodbo.
+(2) Če potrošnik v roku enega meseca od plačila prve obveznosti po pogodbi ne izjavi, da razdira pogodbo, se šteje, da pri pogodbi vztraja.
+(3) V primeru razdora pogodbe iz prvega odstavka tega člena mora dajalec kredita potrošniku vrniti vse plačane zneske v roku osmih dni od prejema potrošnikove izjave iz prvega odstavka tega člena. Potrošnik mora v istem roku dajalcu kredita vrniti koriščen kredit, če mu je izjavo izročil neposredno, oziroma v desetih dneh od oddaje izjave, če je izjavo poslal preko priporočene pošte, ni pa dolžan plačati obresti oziroma drugih stroškov ali dajatev, vezanih na odobren ali koriščen kredit.
