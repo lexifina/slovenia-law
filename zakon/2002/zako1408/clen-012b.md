@@ -1,0 +1,3 @@
+# 12.b člen
+Zavajajoče oglaševanje po tem zakonu pomeni vsako oglaševanje, ki na kakršenkoli način, vključno s predstavitvijo blaga in storitev, zavaja ali utegne zavajati potrošnika, ki mu je oglaševanje namenjeno ali ga lahko doseže in ki bi zaradi svoje zavajajoče narave verjetno vplivalo na ekonomsko obnašanje potrošnika ali ki iz enakih razlogov škodi ali bi verjetno škodilo konkurentom.
+Zavajajoče oglaševanje je zlasti oglaševanje, ki izkorišča ali bi lahko izkoriščalo potrošnikovo neizkušenost in neznanje v dobičkonosne namene, ki vsebuje nejasnosti, čezmerna pretiravanja ali druge podobne sestavine, ki potrošnika zavajajo ali bi ga lahko zavajale.
