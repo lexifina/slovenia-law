@@ -1,0 +1,2 @@
+# 62. člen (denarne kazni za prekrške)
+Do 1. januarja 2005 se za prekrške, določene v 55. členu tega zakona (66. člen zakona), z denarno kaznijo najmanj 1,200.000 tolarjev kaznuje pravna ali fizična oseba, ki stori prekršek v zvezi s samostojnim opravljanjem dejavnosti, z denarno kaznijo najmanj 120.000 tolarjev pa se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz 55. člena tega zakona.

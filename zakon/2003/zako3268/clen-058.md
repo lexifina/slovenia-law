@@ -1,0 +1,3 @@
+# 58. člen (ustanovitev organa, pristojnega za kemikalije)
+Do uveljavitve uredbe Vlade Republike Slovenije, s katero se ustanovi organ, pristojen za kemikalije, opravlja njegove strokovne in razvojne upravne naloge Urad Republike Slovenije za kemikalije, naloge inšpekcijskega in drugega nadzora nad izvajanjem zakona o kemikalijah pa Zdravstveni inšpektorat Republike Slovenije.
+Z dnem ustanovitve organa, pristojnega za kemikalije, preneha veljati deveta alinea prvega odstavka 1. člena zakona o zdravstveni inšpekciji (Uradni list RS, št. 99/99, 107/99 - popravek, 31/2000 - ZP-L, 52/2003 - ZDU-1, 110/2002 - ZGO-1).
