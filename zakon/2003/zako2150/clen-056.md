@@ -1,0 +1,5 @@
+# 56. člen (prekrški do 1. januarja 2005)
+(1) Do 1. januarja 2005 se za prekrške, določene v 68., 69., 70., 71. in 72. členu zakona z denarno kaznijo od 400.000 do 12,000.0000 tolarjev kaznuje fizična oseba, ki stori prekršek v zvezi s samostojnim opravljanjem dejavnosti.
+(2) Do 1. januarja 2005 se za prekrške, določene v 68., 69., 70., 71. in 72. členu zakona z denarno kaznijo od 1,000.000 do 18,000.000 tolarjev kaznuje pravna oseba, z denarno kaznijo do 200.000 do 1,000.000 tolarjev pa se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz 68., 69., 70., 71. in 72. člena zakona.
+(3) Do 1. januarja 2005 se z denarno kaznijo od 50.000 do 450.000 tolarjev kaznuje za prekršek posameznik, ki stori prekršek iz tretjega odstavka 68. člena zakona oziroma z denarno kaznijo od 100.000 do 450.000 tolarjev, če stori prekršek iz 71. člena zakona.
+(4) Določba 72.a člena zakona se začne uporabljati 1. januarja 2005.
