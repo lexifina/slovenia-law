@@ -1,0 +1,6 @@
+# 1. člen
+Določbe kazenskega zakonika Republike Slovenije (Uradni list RS, št. 63/94) o načinu, času in kraju izvršitve kaznivega dejanja (8., 9. in 10. člen), o skrajni sili (12. člen), o prištevnosti (16. člen), o naklepu in malomarnosti (17. in 18. člen), o odgovornosti za hujšo posledico (19. člen), o dejanski zmoti in pravni zmoti (20. in 21. člen), o poskusu (22., 23. in 24. člen) in o udeležbi (25., 26., 27. in 29. člen) veljajo smiselno tudi za gospodarske prestopke.
+Pri odmeri kazni odgovorni osebi se uporabljajo določbe 41. člena kazenskega zakonika Republike Slovenije smiselno tudi za gospodarske prestopke.
+Glede izrekanja pogojne obsodbe, njenega učinka in preklica se uporabljajo določbe 50. do 55. člena kazenskega zakonika Republike Slovenije smiselno tudi za gospodarske prestopke.
+Glede odvzema premoženjske koristi in varstva oškodovanca se uporabljajo določbe 96., 97. in 98. člena kazenskega zakonika Republike Slovenije smiselno tudi za gospodarske prestopke.
+Za tek in pretrganje zastaranja pregona, izvršitve kazni ali varstvenih ukrepov za gospodarske prestopke, kakor tudi za absolutno zastaranje, se smiselno uporabljajo določbe 112. in 115. člena kazenskega zakonika Republike Slovenije o zastaranju kazenskega pregona, izvršitve kazni in varnostnih ukrepov.
