@@ -1,0 +1,5 @@
+# 52.l člen
+Pristojni organ za BPP zahteva od upravičenca iz 52.f člena tega zakona vrnitev stroškov prevoda iz 52.i in 52.k člena tega zakona, če je prošnja za brezplačno pravno pomoč v državi članici Evropske unije, v kateri je organ prejemnik, pravnomočno zavržena ali zavrnjena, ali če upravičenec prošnjo umakne.
+Vrnjena sredstva iz prejšnjega odstavka so prihodek proračuna Republike Slovenije.
+O načinu in roku za vrnitev stroškov iz prvega odstavka tega člena odloči pristojni organ za BPP z odločbo. Ne glede na to lahko pristojni organ za BPP in upravičenec na predlog upravičenca skleneta pisni dogovor o načinu vračila, pri čemer se upošteva višina lastnega dohodka upravičenca in njegov socialni položaj. Dogovor je izvršilni naslov.
+Če dogovor iz prejšnjega odstavka ni sklenjen in če upravičenec prostovoljno ne vrne dolžnega zneska v roku, določenem v odločbi iz prejšnjega odstavka, pristojni organ za BPP predlaga sodišču izvršbo po uradni dolžnosti, pri čemer je odločba izvršilni naslov.

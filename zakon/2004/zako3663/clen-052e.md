@@ -1,0 +1,5 @@
+# 52.e člen
+Pri odločanju o prošnji za dodelitev brezplačne pravne pomoči se upošteva tudi okoliščina, ali ima upravičenec iz 52.a člena tega zakona sklenjeno zavarovalno pogodbo za kritje stroškov pravnega svetovanja in zastopanja v postopku pred sodiščem ali stroškov sodnega postopka oziroma drugo možnost za kritje teh stroškov.
+Poziv za odpravo pomanjkljivosti prošnje za dodelitev brezplačne pravne pomoči, odločba ali sklep, s katerim pristojni organ za BPP odloči o prošnji za dodelitev brezplačne pravne pomoči, in napotnica se pošlje ministrstvu, pristojnemu za pravosodje, ki poskrbi za vročitev upravičencu iz 52.a člena tega zakona.
+Če je v odločbi o dodelitvi brezplačne pravne pomoči določen odvetnik, pristojni organ za BPP tudi njemu vroči izvod odločbe in napotnice.
+Ne glede na prvi in tretji odstavek 40. člena tega zakona napotnico strokovni službi za BPP vrne odvetnik iz prejšnjega odstavka. Če napotnice ne vrne v roku iz četrtega odstavka 40. člena tega zakona, ni upravičen do plačila storitev brezplačne pravne pomoči.
