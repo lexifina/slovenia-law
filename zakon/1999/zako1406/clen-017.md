@@ -1,0 +1,8 @@
+# 17. člen
+(1) Izvajanje obveznosti, ki jih ta zakon in na njegovi podlagi izdani predpisi nalagajo prodajalcem blaga, nadzirajo organi tržne inšpekcije.
+(2) Če organ tržne inšpekcije pri opravljanju nadzorstva ugotovi, da podjetje ni upoštevalo ukrepov kontrole cen iz 9. ali 13. člena tega zakona, naloži z odločbo podjetju, da ta ukrep izvrši.
+(3) Organ tržne inšpekcije v odločbi tudi ugotovi, ali je podjetje zaračunavalo previsoke cene oziroma plačevalo prenizke in v kakšnem obsegu, in naloži podjetju povračilo razlik v ceni s pripadajočimi obrestmi. Prav tako organ tržne inšpekcije ugotovi, ali je podjetje s kršitvijo ukrepa kontrole cen pridobilo še kakšno drugo premoženjsko korist.
+(4) Če je podjetje, ki ni upoštevalo ukrepa kontrole cen, zaračunavalo kupcem previsoke cene ali plačevalo prodajalcem prenizke, je dolžno v 15 dneh po pravnomočnosti odločbe organa tržne inšpekcije razliko v ceni s pripadajočimi obrestmi brez posebnega poziva vrniti kupcem oziroma prodajalcem.
+(5) Če kupci oziroma prodajalci niso znani, je podjetje dolžno takoj po pravnomočnosti odločbe organa tržne inšpekcije objaviti na ustrezen način, naj se kupci oziroma prodajalci zglasijo pri podjetju zaradi plačila razlike v ceni in obresti v roku, ki ne sme biti krajši kot 30 dni po objavi tega poziva. Če se kupec oziroma prodajalec v tem roku ne zglasi pri podjetju, s tem ni izgubil pravice do vračila preveč plačanega zneska in do pravic, ki jih ima po obligacijskem pravu.
+(6) Obresti po tem členu so enake zamudnim obrestim pri gospodarskih poslih po obligacijskem pravu.
+(7) S pravnomočno odločbo seznani organ tržne inšpekcije organe ali organizacije iz prvega odstavka 12. člena tega zakona.
