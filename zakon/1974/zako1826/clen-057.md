@@ -1,0 +1,3 @@
+# 57. člen
+Vina in drugi proizvodi iz grozdja in vina, proizvedeni po določbah temeljnega zakona o vinu in zakona o označevanju vina ter na njuni podlagi izdanih predpisih, se lahko dajejo v promet še eno leto od dneva, ko začne veljati ta zakon, tudi če ne izpolnjujejo pogojev določenih s tem zakonom in na njegovi podlagi izdanimi predpisi.
+Ne glede na določbo prejšnjega odstavka so vina z izkazanim geografskim poreklom, vključno z letnikom 1973, lahko v prometu tudi po preteku enega leta od dneva, ko začne veljati ta zakon, če so označena po predpisih, ki so veljali v času proizvodnje teh vin.
