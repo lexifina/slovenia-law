@@ -1,2 +1,3 @@
 - Zakon o blagovnih rezervah (Uradni list RS, št. 60/95 z dne 20. 10. 1995),
-- Zakon o dopolnitvah zakona o blagovnih rezervah - ZBR-A (Uradni list RS, št. 38/99 z dne 21. 5. 1999).
+- Zakon o dopolnitvah zakona o blagovnih rezervah - ZBR-A (Uradni list RS, št. 38/99 z dne 21. 5. 1999),
+- Zakon o spremembah in dopolnitvah zakona o blagovnih rezervah - ZBR-B (Uradni list RS, št. 50/04 z dne 6. 5. 2004).

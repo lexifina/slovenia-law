@@ -7,3 +7,6 @@ Sredstva za začetek dela Zavoda za obvezne rezerve nafte in njenih derivatov se
 Vlada Republike Slovenije v roku desetih dni po sprejemu ustanovitvenega akta imenuje upravni odbor Zavoda za obvezne rezerve nafte in njenih derivatov, ki sprejme statut zavoda v roku šestdesetih dni.
 4. člen
 Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
+Zakon o spremembah in dopolnitvah zakona o blagovnih rezervah - ZBR-B (Uradni list RS, št. 50/04) vsebuje naslednjo končno določbo:
+"2. člen
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
