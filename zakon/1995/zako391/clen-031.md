@@ -1,0 +1,5 @@
+# 31. člen
+Do izdaje tehničnih predpisov iz tega zakona oziroma drugih zakonov se kot republiški predpisi smiselno uporabljajo tisti zvezni predpisi nekdanje SFRJ, ki so bili izdani na podlagi zakona o standardizaciji (Uradni list SFRJ, št. 37/88 in 23/91), ki so veljali v Republiki Sloveniji ob uveljavitvi ustavnega zakona o izvedbi temeljne ustavne listine o samostojnosti in neodvisnosti Republike Slovenije (Uradni list RS, št. 1/91-I) in veljajo tisti predpisi, ki so bili po tem datumu izdani v Republiki Sloveniji.
+Predpisi o jugoslovanskih standardih, s katerimi je določeno, da je uporaba jugoslovanskih standardov v celoti ali delno obvezna, se kot republiški predpisi smiselno uporabljajo najdalj do 31. 12. 1995.
+Pooblastila oziroma potrdila o usposobljenosti, ki jih je na podlagi zakona o standardizaciji (Uradni list SFRJ, št. 37/88 in 23/91) do 25. 6. 1991 izdal Zvezni zavod za standardizacijo nekdanje SFRJ, po tem datumu pa Urad, veljajo za posamezne pravne osebe oziroma laboratorije do pridobitve listine o akreditaciji na istem področju, oziroma najdalj do 31. 12. 1995.
+Listine o ustreznosti veljajo do prenehanja veljavnosti atesta.
