@@ -1,0 +1,2 @@
+# 7. člen
+Preživnina po tem zakonu ne pripada osebi, ki prejema od organizacije posebno pogodbeno odškodnino oziroma vzdrževalnino, vse dotlej, dokler uveljavlja to odškodnino oziroma vzdrževalnino. Če pa je višina preživnine po tem zakonu nižja od omenjene odškodnine oziroma vzdrževalnine, pripada osebi preživnina, če se z organizacijo sporazume, da se odškodnina oziroma vzdrževalnina zniža za znesek preživnine.
