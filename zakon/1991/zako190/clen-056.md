@@ -1,0 +1,6 @@
+## d) Mobilizacija, pripravljenost in uporaba teritorialne obrambe
+# 56. člen
+Mobilizacija in uporaba teritorialne obrambe v neposredni vojni nevarnosti ali ob oboroženem napadu na državo ter v izrednih razmerah se izvaja po mobilizacijskih načrtih in načrtih za uporabo teritorialne obrambe.
+Mobilizacijo teritorialne obrambe ali njenih posameznih delov v miru odreja poveljnik Teritorialne obrambe Republike Slovenije oziroma starešina, ki ga ta pooblasti. Mobilizacija se lahko odredi zaradi preverjanja mobilizacijske in bojne pripravljenosti, usposabljanja ter za sodelovanje pri zaščiti in reševanju prebivalstva, materialnih in drugih dobrin.
+Ukrepe za pripravljenost v teritorialni obrambi v miru in v izrednih razmerah odreja po predhodni odločitvi Predsedstva Republike Slovenije, poveljnik Teritorialne obrambe Republike Slovenije ali starešina, ki ga ta pooblasti.
+Mobilizacijo in uporabo enot teritorialne obrambe za odpravljanje izrednih razmer, odreja po odločitvi Predsedstva Republike Slovenije poveljnik Teritorialne obrambe Republike Slovenije ali starešina, ki ga ta pooblasti. Če se v izrednih razmerah uporabi teritorialna obramba za opravljanje določenih nalog organov za notranje zadeve, skupno delovanje usklajuje predstavnik pristojnega organa za notranje zadeve. Uporaba enot in zavodov teritorialne obrambe se v izrednih razmerah odredi le izjemoma.

@@ -1,0 +1,2 @@
+# 17. člen
+Poškodba ali bolezen, ki nastane pri izvrševanju dolžnosti iz 5., 6., 9. in 12. člena tega zakona, se šteje za poškodbo pri delu. Za poškodbo pri delu se šteje tudi poškodba, nastala na poti z doma ali z delovnega mesta na zbirališče oziroma pri vrnitvi po opravljeni dolžnosti. Čas in kraj nastanka bolezni ali poškodbe ugotovi organ, ki je organiziral aktivnost, na kateri je obveznik zbolel ali se poškodoval, prijavi pa se občinskemu upravnemu organu, pristojnemu za obrambne zadeve.

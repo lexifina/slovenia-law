@@ -1,0 +1,2 @@
+# 16. člen
+Pripadniki enot za zveze, civilne zaščite, službe za opazovanje in obveščanje ter državljani, ki opravljajo vodstvene dolžnosti v narodni zaščiti, morajo v petnajstih dneh prijaviti občinskemu upravnemu organu, pristojnemu za obrambne zadeve, pri katerem so vpisani v evidenco, spremembo priimka ali imena, spremembo kraja stalne ali začasne nastanitve, pridobitev strokovne izobrazbe, spremembo zaposlitve z navedbo delodajalca, pri katerem so zaposleni oziroma vrsto in kraj samostojne dejavnosti.

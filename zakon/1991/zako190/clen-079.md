@@ -1,0 +1,4 @@
+# 79. člen
+Tuje fizične in pravne osebe morajo pridobiti predhodno dovoljenje za opravljanje znanstvenih raziskovanj na področjih, za katera je predpisano, da so pomembna za obrambo. Dovoljenje je potrebno tudi za dajanje izsledkov takih raziskovanj tujim fizičnim ali pravnim osebam. Dovoljenje daje republiški upravni organ, pristojen za raziskovalno dejavnost in tehnologijo.
+Fizične in pravne osebe morajo predhodno pridobiti dovoljenje za snemanje filmov oziroma drugih video zapisov na območjih, na katerih je iz obrambnih razlogov omejeno prosto gibanje, prebivanje ali nastanjevanje. Dovoljenje za snemanje daje republiški upravni organ, pristojen za informiranje.
+Podjetja, zavodi in organizacije oziroma organi, ki opravljajo snemanje iz zraka, morajo predhodno pridobiti dovoljenje republiškega upravnega organa, pristojnega za obrambne zadeve. Aeroposnetke morajo poslati v pregled istemu organu pred njihovo uporabo.

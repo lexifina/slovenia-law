@@ -1,0 +1,3 @@
+# 136. člen
+Delavcem v upravnih organih, pristojnih za obrambne zadeve, ter v teritorialni obrambi, ki opravljajo posebno težka in zdravju škodljiva dela oziroma dela, na katerih po določeni starosti ne morejo več uspešno delati, se šteje zavarovalna doba s povečanjem. Za 12 mesecev dejanskega opravljanja dela jim pripada 15 mesecev zavarovanja.
+Dela iz prejšnjega odstavka ter način plačevanja prispevkov za zavarovalno dobo s povečanjem določi Izvršni svet Skupščine Republike Slovenije na predlog predstojnika republiškega upravnega organa, pristojnega za obrambne zadeve.

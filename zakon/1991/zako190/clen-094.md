@@ -1,0 +1,4 @@
+# 94. člen
+Oskrba ogroženega in prizadetega prebivalstva obsega začasno nastanitev, prehrano ter zdravstveno varstvo. Izvajajo jo zdravstvene, gostinske, komunalne in druge organizacije ter službe, rdeči križ in druge humanitarne organizacije, operativni sestavi drugih društev in organizacij državljanov ter enote civilne zaščite.
+Izmik ali evakuacija ogroženega ali prizadetega prebivalstva, materialnih in drugih dobrin se izvaja, če ni mogoče z drugimi ukrepi zagotoviti varnosti in zaščite. Evakuacija je praviloma načrtovana. Lahko jo odredi izvršni svet občinske skupščine oziroma občinski štab za civilno zaščito, če je to potrebno glede na nastale razmere. Evakuacijo, ki jo je potrebno izvršiti na območju dveh ali več občin, odredi Izvršni svet Skupščine Republike Slovenije.
+V vojni lahko odredi izmik na območjih, kjer so boji, poveljnik teritorialne obrambe območja, oziroma starešina na temu enakem ali višjem položaju.

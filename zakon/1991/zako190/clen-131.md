@@ -1,0 +1,2 @@
+# 131. člen
+Usposabljanje državljanov za opravljanje nalog narodne zaščite, enot za zveze, operativnih sestavov enot in društev in drugih organizacij državljanov za zaščito in reševanje, civilne zaščite, službe za opazovanje in obveščanje ter delavcev, ki opravljajo strokovna dela obrambe in zaščite, se praviloma izvaja izven delovnega časa. Ta določba se ne nanaša na zahtevnejše ali daljše oblike usposabljanja.

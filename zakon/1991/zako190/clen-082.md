@@ -1,0 +1,3 @@
+# 82. člen
+Nadzor nad zakonitostjo dela varnostnega organa v republiškem upravnem organu, pristojnem za obrambne zadeve, in vojaške policije v Teritorialni obrambi Republike Slovenije opravlja Skupščina Republike Slovenije po posebnem delovnem telesu. Delovno telo obravnava metode in sredstva, ki jih uporabljajo navedeni organi in o tem poroča ter daje ustrezne predloge Skupščini Republike Slovenije.
+Predstojnik republiškega upravnega organa, pristojnega za obrambne zadeve, mora delovnemu telesu iz prejšnjega odstavka vsaj enkrat letno poročati o delu ter o uporabi metod in sredstev varnostnega organa ter vojaške policije.

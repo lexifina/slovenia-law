@@ -1,0 +1,5 @@
+# 44. člen
+Teritorialna obramba je sestavljena iz štabov, enot in zavodov, ki jih organizirata v skladu s splošnim načrtom organiziranja, opremljanja in oboroževanja Teritorialne obrambe Republike Slovenije, republiški upravni organ, pristojen za obrambne zadeve, ter Republiški štab za teritorialno obrambo.
+Teritorialna obramba Republike Slovenije ima mirnodobni in vojni sestav. Mirnodobni sestav se popolnjuje z osebami v stalni sestavi teritorialne obrambe ter vojaki, ki služijo vojaški rok. Vojni sestav teritorialne obrambe pa se popolnjuje z obvezniki iz rezervnega sestava ter materialnimi sredstvi iz popisa.
+Enote in zavodi teritorialne obrambe vojnega sestava se organizirajo in pripravljajo v miru. Mobilizirajo se v neposredni vojni nevarnosti in v vojni. V skladu s tem zakonom se mobilizirajo tudi v izrednih razmerah in ob naravnih in drugih nesrečah ter zaradi izvajanja vojaških vaj.
+Štabe in zavode za teritorialno obrambo ustanavlja ter stalni sestav teritorialne obrambe določa republiški upravni organ, pristojen za obrambne zadeve, po predhodnem soglasju Predsedstva Republike Slovenije.

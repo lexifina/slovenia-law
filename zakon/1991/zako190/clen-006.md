@@ -1,0 +1,5 @@
+# 6. člen
+Državljani imajo materialno dolžnost, ki jo izvršujejo z dajanjem vozil, strojev in drugih določenih sredstev ter opreme oboroženim silam, narodni zaščiti, enotam za zveze, civilni zaščiti, službi za opazovanje in obveščanje, državnim organom ter podjetjem, zavodom in drugim organizacijam, katerih dejavnost je posebnega pomena za obrambo in zaščito.
+Državljani so dolžni dajati sredstva in opremo iz prejšnjega odstavka tudi v miru zaradi pregledov in vaj ter po odločitvi pristojnega štaba za civilno zaščito za izvajanje zaščite in reševanja.
+Materialno dolžnost v skladu s prvim in drugim odstavkom imajo tudi društva in druge organizacije državljanov razen gasilskih in drugih organizacij za sredstva in opremo, namenjeno zaščitni in reševalni dejavnosti.
+Vrsto sredstev in opreme, za katero velja materialna dolžnost, določi Izvršni svet Skupščine Republike Slovenije. Podatke o teh sredstvih zbirajo, hranijo in uporabljajo upravni organi, pristojni za obrambne zadeve. Organi, ki zbirajo podatke o sredstvih in opremi po tem členu, so jih dolžni dati na razpolago upravnim organom, pristojnim za obrambne zadeve, na njihovo zahtevo.

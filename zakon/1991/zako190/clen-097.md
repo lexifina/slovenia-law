@@ -1,0 +1,6 @@
+# 97. člen
+Za zaščito pred posledicami naravnih in drugih nesreč ter pred vojnimi dejstvovanji se prebivalstvo, materialne in druge dobrine zaklanjajo v zaklonišča, zaklonilnike in druge zaščitne objekte.
+Zaklonišča osnovne zaščite gradijo investitorji v miru v novih stavbah centrov zvez, energetskih objektih in v objektih, v katerih se bo opravljala dejavnost posebnega pomena za obrambo in zaščito, če se taki objekti gradijo na območjih, ki bi bila ogrožena v vojni. Zaklonišča se gradijo praviloma tako, da jih je v miru mogoče uporabljati tudi za druge namene, vendar to ne sme zmanjševati njihove uporabnosti za zaščito. Zaklonišča gradijo investitorji s svojimi sredstvi in v skladu s tehničnimi normativi.
+V zaklonišča dopolnilne zaščite se v neposredni vojni nevarnosti prilagajajo v skladu s tehničnimi normativi tudi obstoječi objekti oziroma prostori.
+Zaklonilniki in drugi zaščitni objekti so rovni in podobni objekti ter za zaklanjanje prilagojeni kletni in drugi prostori. Praviloma se pripravljajo v neposredni vojni nevarnosti.
+Izvršni svet Skupščine Republike Slovenije določi tehnične normative za zaklonišča ter objekte in območja, na katerih se v skladu z drugim odstavkom tega člena gradijo zaklonišča.

@@ -1,0 +1,4 @@
+# 87. člen
+Upravljalci, lastniki ali uporabniki stanovanjskih, poslovnih in drugih objektov morajo na svoje stroške zagotoviti in vzdrževati sredstva in opremo za zaščito in reševanje stanovalcev, delavcev in drugih uporabnikov ter skrbeti za njihovo usposabljanje za ravnanje ob naravnih in drugih nesrečah.
+Podjetja, zavodi in druge organizacije, ki proizvajajo, skladiščijo ali kako drugače razpolagajo z nevarnimi snovmi, ki neposredno ogrožajo varnost prebivalcev v okolici, kjer se te snovi nahajajo, morajo zagotoviti na svoje stroške tudi najnujnejša zaščitna sredstva in reševalno opremo za neposredno ogroženo prebivalstvo. Take organizacije morajo seznanjati ogroženo prebivalstvo s postopki in ukrepi za primer nesreče z nevarno snovjo.
+Sredstva in opremo ter vrste nevarnih snovi iz prvega in drugega odstavka tega člena predpiše Izvršni svet Skupščine Republike Slovenije.
