@@ -1,0 +1,3 @@
+# 8. člen
+
+Udeležba pri razpisih in javnih natečajih za pridobitev poslov in pogodb, ki bi jih lahko financirali, je svobodna, pod enakimi pogoji za vse fizične in pravne osebe s področja uporabe pogodbe, s katero je bila ustanovljena Evropska gospodarska skupnost, in za vse fizične in pravne osebe iz Slovenije. Pravne osebe, ustanovljene v skladu z zakonodajo kake države članice Skupnosti ali Slovenije, morajo imeti registriran sedež, centralno upravo ali matično ustanovo na ozemlju, kjer je v veljavi pogodba o ustanovitvi Evropske gospodarske skupnosti, ali v Sloveniji; toda če imajo le registriran sedež na zgoraj omenjenem ozemlju ali v Sloveniji, mora njihova dejavnost biti dejansko in kontinuirano povezana z gospodarstvom omenjenih področij ali Slovenije.
