@@ -1,0 +1,2 @@
+# 5. člen
+Pojem "kvalifikacije" po tem zakonu pomeni celoto poklicne, strokovne oziroma univerzitetne izobrazbe in poklicne usposobljenosti, ki jih je kandidat pridobil po programih izobraževanja in usposabljanja v EU, na podlagi katerih je pridobil pravico do opravljanja določenega poklica oziroma poklicne dejavnosti v EU, kot tudi morebitne poklicne izkušnje, pridobljene pri opravljanju poklica oziroma poklicne dejavnosti v EU, in dokazila o izpolnjevanju določenih drugih pogojev.
