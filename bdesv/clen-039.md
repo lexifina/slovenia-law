@@ -1,0 +1,7 @@
+# 39. člen Povračila
+
+(1) Če je nosilec ene države pogodbenice neupravičeno izplačal kakšno denarno dajatev, se lahko neupravičeno izplačani znesek zadrži v njegovo dobro pri izplačilu ustrezne dajatve po pravnih predpisih druge države pogodbenice.
+
+(2) Če je nosilec zdravstvenega zavarovanja ali zavarovanja za nesrečo pri delu ene države pogodbenice prejemniku dajatve izplačal znesek, višji od tistega, ki mu ob uporabi določb 12. člena (stek dajatev) pripada, se preveč plačani znesek šteje kot akontacija nosilca druge države pogodbenice, ki je dolžan plačevati pokojnino, in se zadrži v dobro nosilca prve države pogodbenice. Če se zapadle pokojnine plačujejo preko organa za zvezo za pokojninsko zavarovanje v državi prebivanja upravičenca, organ za zvezo, ki je pooblaščen za izplačila, zadrži preveč plačani znesek v korist nosilca zdravstvenega zavarovanja ali zavarovanja za nesrečo pri delu po zanj veljavnih pogojih in okvirih.
+
+(3) Če ima oseba po pravnih predpisih ene države pogodbenice pravico do denarne dajatve za obdobje, za katero je njej ali njenim družinskim članom nosilec socialnega varstva druge države pogodbenice izplačeval dajatev, se ta denarna dajatev zadrži na prošnjo in v dobro nosilca socialnega varstva, ki je upravičen do povračila, tako kot če bi to bil nosilec socialnega varstva s sedežem na ozemlju prve države pogodbenice. Izplačila ni treba zadržati, če je nosilec dajatve sam izplačal dajatev, preden je zvedel za dajatev nosilca socialnega varstva.
