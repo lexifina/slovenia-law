@@ -1,0 +1,3 @@
+# 31. člen
+Podatke iz evidence lahko uporabljajo delavci pristojnega organa, ministrstva, pristojnega za upravo, in ministrstva, pristojnega za zunanje zadeve, za opravljanje nalog s svojega delovnega področja, uporabljajo pa jih lahko tudi delavci policije, če gre za izvrševanje z zakonom določenih nalog, v primerih iz 26. člena tega zakona pa tudi pristojna sodišča in ministrstvo, pristojno za obrambo.
+Osebne podatke iz 23. člena tega zakona sme uporabljati pooblaščeno podjetje ali organizacija iz tretjega odstavka 12. člena tega zakona za potrebe vpisa podatkov na obrazec potne listine in jih mora v roku 30 dni po uporabi uničiti.

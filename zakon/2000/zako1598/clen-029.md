@@ -1,0 +1,2 @@
+# 29. člen
+Na vlogo državljana, ki mu je bila zavrnjena izdaja potne listine ali vizuma, oziroma, ki mu je bila odvzeta potna listina ali vizum razveljavljen, sme sodišče ali upravni organ, ki je zahteval prepoved izdaje, v posebno upravičenih razlogih (smrt družinskega člana, zdravljenje v tujini, nujni službeni opravki) dovoliti izdajo potne listine ali vizuma z omejeno veljavnostjo, ki ne sme biti daljša od 60 dni.
