@@ -1,0 +1,13 @@
+# 5. člen Razlastitev
+
+1. Naložbe vlagateljev ene ali druge pogodbenice se na ozemlju druge pogodbenice ne smejo razlastiti, nacionalizirati ali se v zvezi z njimi sprejeti nobeni drugi ukrepi z enakovrednim učinkom kot razlastitev ali nacionalizacija (v nadaljevanju razlastitev), razen za namen v zvezi z notranjimi potrebami, ki je v javnem interesu, na nediskriminacijski podlagi, v skladu z zakonitim postopkom in za takojšnje, učinkovito in ustrezno nadomestilo.
+
+2. Tako nadomestilo je enako dejanski vrednosti razlaščene naložbe in se določi in izračuna v skladu z mednarodno priznanimi načeli vrednotenja na podlagi poštene tržne vrednosti razlaščene naložbe tik pred razlastitvijo ali preden je nameravana razlastitev postala javno znana, kar je prej (v nadaljevanju datum vrednotenja). Tako nadomestilo se izračuna v prosto zamenljivi valuti po izbiri vlagatelja na podlagi veljavnega tržnega menjalnega tečaja za to valuto na datum vrednotenja in vključuje obresti po komercialni stopnji, določeni na tržni podlagi, ki pa v nobenem primeru ni nižja od veljavne obrestne mere LIBOR od datuma razlastitve do datuma plačila.
+
+3. Vlagatelj, katerega naložbe so razlaščene, ima po pravu pogodbenice, ki je naložbo razlastila, pravico zahtevati, da sodni ali drug pristojni in neodvisni organ te pogodbenice nemudoma pregleda njegov primer in vrednotenje njegovih naložb v skladu z načeli tega člena.
+
+4. Kadar zgoraj omenjene poštene tržne vrednosti ni mogoče takoj ugotoviti, se nadomestilo določi na podlagi pravičnih načel ob upoštevanju vseh ustreznih dejavnikov in okoliščin, kot so vloženi kapital, narava in trajanje naložbe, nadomestitvena vrednost, revalorizacija, tekoči dohodek, diskontirani denarni tok, knjižna vrednost in dobro ime. Dokončno določen znesek nadomestila se nemudoma plača vlagatelju.
+
+5. Za večjo gotovost razlastitev vključuje situacije, ko pogodbenica razlasti premoženje družbe ali podjetja, ki je registrirano ali ustanovljeno po veljavni zakonodaji na njenem ozemlju in v katerem ima vlagatelj druge pogodbenice svojo naložbo, vključno prek lastništva deležev, delnic, zadolžnic ali drugih pravic ali upravičenj.
+
+6. Za namene tega sporazuma izraz “razlastitev“ vključuje tudi posege ali ureditvene ukrepe pogodbenice, ki imajo de facto učinek razlastitve, ker je zaradi njihovega učinka vlagatelju dejansko odvzeto njegovo lastništvo, nadzor ali znatne koristi v zvezi z njegovo naložbo ali lahko zaradi njih naložba izgubi ekonomsko vrednost ali nastane na njej škoda, kot so zamrznitev ali blokiranje naložbe, uvedba samovoljnih ali previsokih davkov na naložbo, prisilna prodaja celotne naložbe ali njenega dela ali drugi primerljivi ukrepi.
