@@ -1,0 +1,5 @@
+# 8. člen
+V 48. členu se drugi odstavek spremeni tako, da se glasi:
+"Eden od staršev, ki neguje in varuje težje gibalno oviranega otroka ali zmerno ali težje duševno prizadetega otroka, ima pravico delati krajši delovni čas tudi po tretjem letu starosti otroka, vendar ne dlje kot do 18. leta starosti otroka.".
+Tretji odstavek se spremeni tako, da se glasi:
+"V primerih iz prvega in drugega odstavka tega člena delodajalec delavcu zagotavlja pravico do plače po dejanski delovni obveznosti, Republika Slovenija pa mu zagotavlja do polne delovne obveznosti plačilo prispevkov za socialno varnost od sorazmernega dela minimalne plače. Republika Slovenija plačuje prispevke zavarovanca in delodajalca za obvezno pokojninsko in invalidsko zavarovanje, zavarovanje za primer brezposelnosti, za starševsko varstvo, za zdravstveno zavarovanje pa prispevke za primer bolezni in poškodbe izven dela, za pravice do zdravstvenih storitev, povračila potnih stroškov, pogrebnino in posmrtnino. Republika Slovenija plačuje prispevke po stopnjah, določenih z zakonom, ki določa stopnje prispevkov za socialno varnost.".
