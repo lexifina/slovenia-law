@@ -1,0 +1,3 @@
+# 7. člen
+Sredstva iz tretje alinee 5. člena tega zakona se zagotavljajo ne glede na določbo drugega odstavka 7. člena o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 9/92 in 13/93).
+Vsi javni zdravstveni zavodi, katerih ustanovitelj je Republika Slovenija in so zajeti v program investicij po tem zakonu, obvezno odvajajo na poseben račun pri ministrstvu, pristojnem za zdravstvo, del amortizacije, ki je priznana v ceni njihovih storitev. Obvezno odvajanje se nanaša na amortizacijo stavb, s katerimi upravljajo javni zdravstveni zavodi in lahko znaša v povprečju največ 20% celotne amortizacije, priznane v cenah zdravstvenih storitev. Podrobno določi to obveznost minister, pristojen za zdravstvo.
