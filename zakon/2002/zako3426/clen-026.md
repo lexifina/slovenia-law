@@ -1,0 +1,5 @@
+# 26. člen (strokovni pregled)
+(1) Strokovni pregled iz prejšnjega člena obsega zdravniški pregled, s katerim se ugotavljajo znaki motenj v vedenju, ki lahko povzročijo nezanesljivo ravnanje na smučišču in odvzem krvi, urina ali drugih telesnih tekočin zaradi ugotavljanja prisotnosti prepovedanih drog ali psihoaktivnih zdravil, ki vplivajo na ravnanje na smučišču.
+(2) Če zaradi zdravstvenega stanja ali iz objektivnih razlogov ni mogoče opraviti celotnega strokovnega pregleda, mora zdravnik opraviti tisti del pregleda, ki ga je mogoče opraviti, in podati mnenje o znakih vedenjskih motenj, ki kažejo na vpliv prepovedanih drog ali psihoaktivnih zdravil.
+(3) O strokovnem pregledu mora zdravnik takoj dati pisno mnenje, kri in urin pa izročiti policistu, ki ju mora takoj poslati v najbližjo pooblaščeno strokovno ustanovo oziroma laboratorij, kjer lahko opravijo analizo. Ustanova oziroma laboratorij mora o rezultatih analize najkasneje v treh dneh obvestiti tistega, ki je odredil strokovni pregled.
+(4) Analizo krvi in urina opravljajo na način in po postopku pooblaščeni laboratoriji po predpisih o varnosti cestnega prometa.

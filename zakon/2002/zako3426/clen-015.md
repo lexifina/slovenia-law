@@ -1,0 +1,5 @@
+# 15. člen (prireditve)
+(1) Prireditve na smučiščih se smejo prirejati le s soglasjem upravljavca smučišča in v skladu s predpisi za organiziranje prireditev.
+(2) Organizator športne prireditve mora zagotoviti, da v času prireditve na smučarske proge ali na del smučišča, na katerih poteka tekmovanje, nimajo dostopa druge osebe, razen tekmovalcev in služb organizatorja športne prireditve ter upravljavca smučišča. Zagotoviti mora tudi dodatne obvestilne in opozorilne znake, znake za prepoved in znake za obveznost in zaščitna sredstva, če so ta potrebna.
+(3) Organizator športne prireditve mora prostor za vadbo tekmovalcev, ki nastopajo na športni prireditvi, v času vadbe označiti z obvestilnim znakom in trakom vzdolž celotne postavitve.
+(4) Organizator športne prireditve mora po koncu prireditve, preden se smučarska proga ali del smučišča znova odpre, odstraniti s smučišča obvestilne in opozorilne znake, znake za prepoved in znake za obveznost, zaščitna sredstva in naprave, postavljene zaradi prireditve. Upravljavec smučišča mora po, v prejšnjem stavku navedenih opravljenih dolžnostih organizatorja športne prireditve, opraviti varnostni pregled smučišča.
