@@ -1,0 +1,3 @@
+ZAKON
+
+O AMNESTIJI (ZA-1)
