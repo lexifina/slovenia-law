@@ -1,3 +1,0 @@
-# 18. člen
-Če komisija oceni, da je funkcionar opravljal pridobitno dejavnost v nasprotju s tem zakonom, sprejemal darila ali si pridobival ugodnosti, ki so vplivale na izvrševanje funkcije, obvesti o tem organ, katerega član je funkcionar oziroma organ, pristojen za izvolitev in imenovanje funkcionarja.
-Če organ, katerega član je funkcionar oziroma organ, pristojen za izvolitev ali imenovanje funkcionarja, ugotovi, da je funkcionar opravljal pridobitno dejavnost v nasprotju s tem zakonom, sprejemal darila ali si pridobival ugodnosti, ki so vplivale na izvrševanje njegove funkcije, začne postopek za prenehanje mandata oziroma za razrešitev v skladu z ustavo in zakonom.

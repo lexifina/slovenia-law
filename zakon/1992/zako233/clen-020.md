@@ -1,4 +1,0 @@
-# 20. člen
-Če iz obvestila o premoženju in dohodkih funkcionarja izhaja, da je delež funkcionarja, njegovega zakonca ali osebe, s katero živi v izvenzakonski skupnosti ali njegovih družinskih članov, s katerimi živi v istem gospodinjstvu, v gospodarski družbi, podjetju ali zavodu večji od 25% vrednosti, taka družba, podjetje ali zavod ne sme poslovati z državo ter javnimi podjetji in javnimi zavodi.
-Komisija lahko izjemoma dovoli gospodarski družbi, podjetju ali zavodu iz prejšnjega odstavka takšno poslovanje, če to ni povezano z javnim delovanjem funkcionarja.
-Na podlagi 4. člena ustavnega zakona za izvedbo temeljne listine o samostojnosti in neodvisnosti velja omejitev iz prvega odstavka tega člena. Poročilo se predloži državnemu zboru in po obravnavi objavi v Uradnem listu Republike Slovenije.
