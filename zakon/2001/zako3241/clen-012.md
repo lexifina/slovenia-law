@@ -1,0 +1,3 @@
+# 12. člen
+V 81. členu se doda četrti odstavek, ki se glasi:
+"Obseg zadolževanja države, ki je določen z zakonom, ki ureja izvrševanje proračuna za posamezno leto, se lahko poveča največ do razlike med pravicami porabe za odplačilo glavnic dolga, nominiranimi v tuji valuti, ki so načrtovane v sprejetem proračunu in pravicami porabe, potrebnimi za realizacijo odplačil navedenih glavnic, nastale zaradi povečanja tečajev tujih valut pri realizaciji izplačila v razmerju do tečaja teh valut pri načrtovanju proračuna. Za enak obseg se povečajo tudi pravice porabe v finančnem načrtu pristojnega neposrednega uporabnika."
