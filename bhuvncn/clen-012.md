@@ -1,0 +1,9 @@
+# 12. člen (vnašanje in iznašanje opreme in sredstev pomoči)
+
+(1) Pogodbenici si čim bolj olajšata vnašanje in iznašanje opreme, sredstev pomoči in blaga, določenega v drugem odstavku. Vodja reševalne ekipe mora pri prestopu državne meje obmejnim organom druge pogodbenice izročiti samo seznam opreme in sredstev pomoči. V nujnih primerih, če do prestopa državne meje pride zunaj mejnega prehoda, je treba seznam čim prej izročiti pristojnim obmejnim organom.
+
+(2) Reševalne ekipe lahko prenesejo samo opremo in sredstva, ki so potrebna za njihovo oskrbo in delovanje.
+
+(3) Za vnašanje in iznašanje opreme in sredstev pomoči ne veljajo prepovedi in omejitve, ki veljajo za vnašanje in iznašanje blaga v blagovnem prometu. Sredstva pomoči se lahko na območje pogodbenice vnaša brez carinskih dajatev. Opremo in sredstva se lahko začasno uporablja brez predhodnih formalnih postopkov in jamstev. Če so bila sredstva in oprema oziroma blago iz prvega odstavka namensko porabljena, zanje ni treba plačati carinskih in drugih dajatev. Če niso bila porabljena, jih je treba vrniti. Če sredstva ostanejo kot pomoč, je treba o vrsti in količini teh sredstev in o kraju, kjer se nahajajo, obvestiti pristojne organe pogodbenice, ki o tem obvestijo carinske organe.
+
+(4) Določbe tretjega odstavka se uporabljajo tudi ob vnosu zdravil, ki vsebujejo narkotike in psihotropne substance. Vnašanje in iznašanje narkotikov in psihotropnih substanc se v skladu z mednarodnimi sporazumi ne obravnavata kot uvoz in izvoz blaga v blagovnem prometu. Zdravila, ki vsebujejo narkotike in psihotropne substance, se lahko vnesejo samo v količinah, ki so potrebne za nudenje medicinske pomoči, uporablja pa jih lahko samo medicinsko osebje z ustrezno strokovno izobrazbo po predpisih pogodbenice, v katere sestavi so reševalne ekipe.
