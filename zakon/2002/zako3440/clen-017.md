@@ -1,0 +1,4 @@
+# 17. člen
+Za tretjim odstavkom 45. člena se doda nov četrti odstavek, ki se glasi:
+"Šteje se, da je državljan zdravstveno sposoben za opravljanje civilne službe, če je bil na naboru ocenjen kot sposoben ali delno sposoben za vojaško službo, obseg pregleda za opravljanje civilne službe pa ne presega obsega nabornega pregleda. Če je državljan na zdravniških pregledih ocenjen kot trajno ali začasno nezmožen za dela, ki se lahko opravljajo v okviru civilne službe, upravni organ, pristojen za obrambne zadeve, na podlagi izvidov izda ugotovitveno odločbo. Državljan, ki je ocenjen kot trajno nezmožen za opravljanje del, se izbriše iz vojaške evidence. Državljana, ki je ocenjen kot začasno nezmožen za opravljanje del, se napoti na zdravniške preglede po poteku časa začasne nezmožnosti."
+Dosedanji četrti odstavek postane peti odstavek.

@@ -1,0 +1,5 @@
+# 4. člen
+Prvi odstavek 9. člena se spremeni tako, da se glasi:
+"Državni organi, gospodarske družbe, zavodi in druge organizacije so dolžne upravnemu organu, pristojnemu za obrambne zadeve, dati na njegovo zahtevo iz centralnega registra prebivalstva podatke o imenu in priimku, rojstnem datumu in kraju rojstva, o kraju stalnega in začasnega prebivališča ter o enotni matični številki občana, iz registra zavezancev za prispevek in drugih zbirk pa podatke o šolski izobrazbi, sklenitvi in prenehanju zaposlitve, pridobitvi strokovnih kvalifikacij, zdravstveni sposobnosti za vojaško službo in o posebnih znanjih vojaških obveznikov za določitev rodu, službe ter dolžnosti v Slovenski vojski. Če ni znano, kje se vodi posamezen podatek o vojaškem obvezniku, mora vojaški obveznik upravni organ, pristojen za obrambne zadeve, obvestiti, kje podatek lahko pridobi oziroma ga sam priskrbeti. Podatki o zdravstveni sposobnosti po tem členu se zbirajo v skladu s predpisi, ki urejajo ocenjevanje zdravstvene sposobnosti za vojaško službo."
+Doda se nov četrti odstavek, ki se glasi:
+"Minister, pristojen za obrambo, predpiše način in roke za pridobivanje podatkov iz tega člena."

@@ -1,0 +1,3 @@
+# 28. člen
+Pristojnosti v zvezi z določanjem služb in organizacij, v katerih se opravlja nadomestna civilna služba po tem zakonu, prevzame ministrstvo, pristojno za varstvo pred naravnimi in drugimi nesrečami, od ministrstva, pristojnega za upravo, v 30 dneh po uveljavitvi tega zakona. V enakem roku prevzame nadzor nad izvajanjem nadomestne civilne službe in 30-dnevnega usposabljanja za zaščito in reševanje po tem zakonu, od ministrstva, pristojnega za upravo, inšpekcija, pristojna za varstvo pred naravnimi in drugimi nesrečami.
+Upravni postopki v zvezi z izvrševanjem vojaške dolžnosti in ugovora vesti vojaški dolžnosti ter inšpekcijski postopki, začeti pred uveljavitvijo tega zakona, se dokončajo po določbah, ki so veljale pred uveljavitvijo tega zakona.
