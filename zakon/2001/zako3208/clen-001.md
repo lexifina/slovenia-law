@@ -1,0 +1,4 @@
+# 1. člen
+V zakonu o uporabi sredstev, pridobljenih iz naslova kupnine na podlagi zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 45/95 in 34/96) se drugi odstavek 7. člena spremeni, tako da se glasi:
+"Sredstva iz naslova kupnine, namenjena za sanacijo gospodarstva, spodbujanje in kreditiranje izvoza in investicije v javni sektor gospodarstva se zbirajo na posebnem računu pri ministrstvu, pristojnem za gospodarstvo, ločeno od ostalih proračunskih sredstev. Sredstva iz naslova kupnine za regionalni razvoj in ohranjanje poseljenosti slovenskega podeželja ter za ustvarjanje gospodarske osnove za avtohtoni narodni skupnosti se zbirajo na posebnem računu Javnega sklada za regionalni razvoj in ohranjanje poseljenosti slovenskega podeželja."
+V tretjem odstavku 7. člena se besedilo "pristojnih ministrstev" nadomesti z besedilom "pristojnega ministrstva".

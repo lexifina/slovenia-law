@@ -1,0 +1,8 @@
+# 2. člen
+Za 7. členom se doda nov 7.a člen, ki se glasi:
+"7.a člen
+Sredstva iz naslova kupnine, ki se vračajo v obliki anuitet za dodeljena posojila za ustvarjanje gospodarske osnove za avtohtoni narodni skupnosti po letu 2001, se zbirajo na posebnem računu Javnega sklada za regionalni razvoj in ohranjanje poseljenosti slovenskega podeželja.
+Anuitete iz sredstev, dodeljenih v letih 1991, 1992, 1993 in 1994 na osnovi zakona o spodbujanju razvoja demografsko ogroženih območij v Republiki Sloveniji (Uradni list RS, št. 48/90, 3/91 in 12/92), se zbirajo na splošnem računu Javnega sklada za regionalni razvoj in ohranjanje poseljenosti slovenskega podeželja.
+Sredstva iz naslova kupnine iz devete alinee prvega odstavka 7. člena tega zakona vključno s sredstvi iz naslova kupnine iz prvega odstavka tega člena, se lahko uporabijo tudi za financiranje in sofinanciranje razvojnih programov narodnih skupnosti v okviru programov čezmejnega sodelovanja.
+Za pripravljanje predloga letnega programa ter za oblikovanje predlogov za javni razpis za sredstva, ki se zbirajo na posebnem računu iz prejšnjega člena, se ustanovi poseben odbor, ki ga sestavljajo: dva predstavnika italijanske narodne skupnosti, dva predstavnika madžarske narodne skupnosti, po en predstavnik pooblaščenih regionalnih razvojnih agencij, pristojnih za narodnostno mešani območji in predstavnik Javnega sklada za regionalni razvoj in ohranjanje poseljenosti slovenskega podeželja.
+Sredstva se dodeljujejo na podlagi javnega razpisa in posebnega letnega programa, o katerem podata mnenje Obalna samoupravna skupnost italijanske narodnosti in Pomurska madžarska samoupravna narodna skupnost Lendava."
