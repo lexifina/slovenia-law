@@ -1,0 +1,7 @@
+# 29. člen
+V drugem odstavku 204. člena se besedilo "tri leta po uveljavitvi tega zakona" nadomesti z besedilom "sedem let po uveljavitvi tega zakona oziroma si mora v tem času pridobiti zahtevano strokovno izobrazbo".
+Tretji odstavek se spremeni, tako da se glasi:
+"(3) Urbanističnemu inšpektorju, ki si v roku iz prejšnjega odstavka ne pridobi zahtevane strokovne izobrazbe, preneha s potekom tega roka delovno razmerje v inšpektoratu ministrstva, pristojnega za prostorske in gradbene zadeve.".
+Dodata se nova četrti in peti odstavek, ki se glasita:
+"(4) Ne glede na določbe drugega odstavka tega člena lahko urbanistični inšpektor, ki z dnem uveljavitve tega zakona ne izpolnjuje pogojev iz 1. točke 144. člena tega zakona, nadaljuje z delom kot gradbeni inšpektor tudi po preteku sedmih let po uveljavitvi tega zakona, čeprav si ni pridobil zahtevane izobrazbe, vendar samo, če je do uveljavitve tega zakona opravljal delo urbanističnega inšpektorja najmanj deset let, če je ob uveljavitvi tega zakona imel pridobljeno najmanj višjo strokovno izobrazbo gradbene ali druge ustrezne tehnične smeri in če je takšno izobrazbo pridobil pred uveljavitvijo Zakona o visokem šolstvu (Uradni list RS, št. 67/93, 39/95 - odločba US, 18/98 - odločba US, 35/98-odločba US, 99/99 in 64/01).
+(5) Določbe drugega in tretjega odstavka tega člena se ne nanašajo na urbanističnega inšpektorja, ki ima na dan uveljavitve tega zakona višjo strokovno izobrazbo ter največ deset let delovne dobe do upokojitve.".

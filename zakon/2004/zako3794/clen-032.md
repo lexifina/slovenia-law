@@ -1,0 +1,7 @@
+# 32. člen
+Za 218. členom se dodajo novi 218.a, 218.b, 218.c, 218.č in 218.d člen, ki se glasijo:
+"218.a člen
+(uskladitev določanja območij, na katerih se plačuje nadomestilo za uporabo stavbnega zemljišča)
+(1) Nadomestilo za uporabo stavbnega zemljišča se od 1. 1. 2004 plačuje za zazidana in nezazidana stavbna zemljišča, ki so določena v drugem in tretjem odstavku 218. člena, na celotnem območju občine.
+(2) V primeru nelegalne gradnje plačevanje nadomestila za uporabo zazidanega stavbnega zemljišča ne vpliva na njeno legalizacijo oziroma na izdajo in izvršitev inšpekcijskega ukrepa po določbah tega zakona.
+(3) Obveznost plačevanja nadomestila za uporabo zazidanega stavbnega zemljišča preneha, ko se stavba oziroma del stavbe, ki je bil zgrajen brez gradbenega dovoljenja, odstrani in vzpostavi prejšnje stanje in ko investitor oziroma lastnik zemljišča, na katerem je stala takšna stavba oziroma del stavbe, to dejstvo sporoči občini, hkrati pa se uvede obveznost plačevanja nadomestila za uporabo nezazidanega stavbnega zemljišča, če leži takšno zemljišče na območju, za katerega je občina določila, da se na njem plačuje takšno nadomestilo. Če pa se za stavbo oziroma del stavbe, ki je bil zgrajen brez gradbenega dovoljenja, pridobi gradbeno dovoljenje oziroma se takšna gradnja legalizira, se takšna gradnja ne šteje za novo gradnjo in se zato s plačevanjem nadomestila za uporabo zazidanega stavbnega zemljišča nadaljuje.

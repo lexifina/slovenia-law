@@ -1,0 +1,4 @@
+# 8. člen
+V 95. členu se dodata nova drugi in tretji odstavek, ki se glasita:
+"(2) Šteje se, da je objekt izveden v skladu z gradbenim dovoljenjem, če je mogoče na podlagi projekta izvedenih del ugotoviti, da spremembe, ki so nastale med gradnjo, ne vplivajo na spremembo z gradbenim dovoljenjem določenih lokacijskih in drugih pogojev ter elementov, ki bi lahko vplivali na zdravstvene pogoje, okolje, varnost objekta ali predpisane bistvene zahteve. V primeru objekta iz 17. člena tega zakona, takšne spremembe nastale med gradnjo, tudi ne smejo vplivati na zagotavljanje neoviranega dostopa oziroma gibanja funkcionalno oviranih oseb.
+(3) Potek izvedbe tehničnega pregleda se evidentira v zapisniku o tehničnem pregledu, ki ga v skladu s predpisi, ki urejajo splošni upravni postopek, vodi uradna oseba upravnega organa, ki je imenoval komisijo za tehnični pregled.".
