@@ -1,3 +1,2 @@
 # 10. člen
-Vojaški obveznik mora v petnajstih dneh po nastanku spremembe prijaviti upravnemu organu, pristojnemu za obrambne zadeve, spremembo zdravstvenega stanja, ki je pomembna za oceno sposobnosti za vojaško službo, pridobitev šolskih in strokovnih kvalifikacij, sklenitev in prenehanje delovnega razmerja oziroma vrsto in kraj opravljanja samostojne dejavnosti, spremembo kraja stalne oziroma začasne nastanitve in vrnitev s služenja vojaškega roka oziroma opravljanja nadomestne civilne službe.
-Vojaški obveznik mora prijaviti bivanje v tujini, daljše kot tri mesece, v petnajstih dneh pred odhodom, vrnitev iz tujine pa v petnajstih dneh po prihodu v kraj stalne nastanitve.
+Vojaški obveznik mora v petnajstih dneh po nastanku spremembe prijaviti upravnemu organu, pristojnemu za obrambne zadeve, spremembo zdravstvenega stanja, ki je pomembna za oceno sposobnosti za vojaško službo in vrnitev s služenja vojaškega roka oziroma opravljanja nadomestne civilne službe.

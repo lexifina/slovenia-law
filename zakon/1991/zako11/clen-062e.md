@@ -1,0 +1,3 @@
+# 62.e člen
+Odločitev o ponovni uvedbi izvajanja zdravniških in drugih pregledov ter psiholoških preiskav, nabora, napotitev na služenje vojaškega roka oziroma na opravljanje nadomestne civilne službe in obveznega služenja v rezervni sestavi sprejme Državni zbor Republike Slovenije na predlog Vlade Republike Slovenije ob povečani nevarnosti napada na državo oziroma neposredni vojni nevarnosti ali ob razglasitvi vojnega ali izrednega stanja v skladu z zakonom.
+Po sprejemu odločitve iz prejšnjega odstavka se ne uporabljajo 1., 3., 5., 6., 7. in 8. točka 31. člena, drugi in tretji odstavek 33. člena, drugi in tretji odstavek 51. člena, drugi odstavek 52. člena in 2., 3., 5. ter 7. točka 53. člena tega zakona.

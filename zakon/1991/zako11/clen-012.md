@@ -5,4 +5,4 @@ Naborna dolžnost obsega dolžnost izvrševati obveznosti v zvezi z vojaško evi
 2. na nabor;
 3. nastopiti vojaški rok;
 4. izvrševati druge, s tem zakonom predpisane obveznosti.
-Naborna dolžnost nastane v koledarskem letu, v katerem nabornik dopolni 17 let. Ta dolžnost traja, dokler nabornik ne nastopi vojaškega roka oziroma do njegove prevedbe v rezervni sestav, če je dolžnost služenja vojaškega roka uredil kako drugače. Naborna dolžnost preneha tudi, če je državljanu prenehala vojaška dolžnost po tem zakonu.
+Naborna dolžnost nastane v koledarskem letu, v katerem nabornik dopolni 17 let. Ta dolžnost traja, dokler nabornik ne nastopi vojaškega roka oziroma do njegove prevedbe v rezervno sestavo, če je dolžnost služenja vojaškega roka uredil kako drugače. Naborna dolžnost preneha tudi, če je državljanu prenehala vojaška dolžnost po tem zakonu.

@@ -1,5 +1,5 @@
 # 53. člen
-Vojaškemu obvezniku v rezervnem sestavu se na njegovo prošnjo odložijo vojaške vaje iz naslednjih razlogov:
+Vojaškemu obvezniku v rezervni sestavi se na njegovo prošnjo odložijo vojaške vaje iz naslednjih razlogov:
 1. če je bolan, do naslednjega vpoklica po okrevanju;
 2. če je iz njegovega gospodinjstva istočasno poklicanih na vojaške vaje dvoje ali več članov ali so nekateri od njih že na vojaških vajah ali služijo vojaški rok, dokler se član oziroma druga polovica članov gospodinjstva ne vrne z vojaških vaj oziroma s služenja vojaškega roka;
 3. če ima v času vojaških vaj status študenta dokler traja takšen razlog, vendar najdlje za eno leto oziroma, če ima v času vojaških vaj neodložljiv izpit, kolokvij ali drugo neodložljivo šolsko obveznost do naslednjega vpoklica na vojaške vaje;

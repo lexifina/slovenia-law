@@ -1,5 +1,6 @@
 # 67. člen
-Z denarno kaznijo najmanj 30.000 tolarjev se kaznuje za prekršek vojaški obveznik:
+Z denarno kaznijo najmanj 100.000 tolarjev se kaznuje za prekršek vojaški obveznik:
+a1. če upravni organ, pristojen za obrambne zadeve, ne obvesti, kje lahko pridobi podatke oziroma jih sam ne priskrbi (prvi odstavek 9. člena);
 1. če v predpisanem roku ne prijavi pristojnemu organu nastalih sprememb iz 10. člena;
 2. če odnese vojaško knjižico iz države, jo uniči ali odsvoji (peti odstavek 11. člena);
 3. če se po opravljeni civilni službi oziroma usposabljanju za zaščito in reševanje ne zglasi pri pristojnem organu v skladu s prvim odstavkom 47. člena;
