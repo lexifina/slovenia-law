@@ -1,0 +1,2 @@
+# 87.d člen
+Zbornica ali strokovno združenje ministru, pristojnemu za zdravje, lahko poda pobudo z obrazloženim interesom za izvajanje javnih pooblastil. Minister, pristojen za zdravje, ob upoštevanju javnega interesa ter načela racionalne rabe javnega premoženja odloči o pobudi v roku enega meseca od njenega prejema. Začetek postopka podelitve javnega pooblastila se objavi v Uradnem listu Republike Slovenije. Izbira se opravi na javnem natečaju ob smiselni uporabi določb zakona, ki ureja javna naročila, o javnem razpisu.
