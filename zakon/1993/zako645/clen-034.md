@@ -1,0 +1,3 @@
+# 34. člen
+V primeru resnih težav v plačilni bilanci ene ali več držav članic Skupnosti ali Slovenije ali resne nevarnosti, da bo prišlo do takih težav, lahko pogodbenica, ki jo to zadeva, sprejme potrebne zaščitne ukrepe. Pri izbiri ukrepov je treba dati prednost tistim, ki najmanj motijo uresničevanje sporazuma. O takšnih ukrepih je treba takoj obvestiti drugo pogodbenico; o njih potekajo v okviru sveta za sodelovanje posvetovanja v rednih časovnih presledkih, zlasti z namenom, da se le-ti odpravijo, brž ko to dopuščajo razmere.
+III. DEL DOLOČBE, KI SE NANAŠAJO NA OSIMSKE SPORAZUME IN KI ZADEVAJO GOSPODARSKO SODELOVANJE MED SLOVENIJO IN ITALIJO

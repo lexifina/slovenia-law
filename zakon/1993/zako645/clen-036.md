@@ -1,0 +1,3 @@
+# 36. člen
+1. Ne da bi bilo to v škodo morebitne uporabe zaščitne klavzule, dajeta Skupnost, v okviru določil Skupnosti o prostih conah, in Slovenija prost dostop na svoje trge za proizvode, ki so pridobili poreklo v skladu z določili protokola "proizvodi s poreklom iz", v obmejnih prostih conah, ki bi lahko bile ustanovljene sporazumno med Republiko Italijo in Republiko Slovenijo v smislu sporazuma o pospeševanju gospodarskega sodelovanja, podpisanega v Osimu leta 1975.
+2. Pri tem se v največji možni meri izogibata zlasti temu, da bi za omenjene proizvode uporabljali ukrepe iz 18., 22. člena ali določila 16. člena za proizvode, navedene v prilogah CI, CII, CIII in CIV.
