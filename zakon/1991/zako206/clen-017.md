@@ -1,6 +1,0 @@
-# 17. člen
-Javni raziskovalni zavodi lahko v okviru svoje raziskovalne dejavnosti s soglasjem ustanovitelja sodelujejo z univerzo oziroma fakulteto ali visoko šolo pri izvajanju visokošolskega izobraževanja, zlasti pri izvajanju podiplomskih izobraževalnih programov.
-Javni raziskovalni zavodi lahko sodelujejo z univerzo oziroma fakulteto ali visoko šolo pri izvajanju podiplomskih izobraževalnih programov, ki dajejo javno veljavno izobrazbo, če izpolnjujejo predpisane pogoje za izvajanje podiplomskega izobraževanja in če obstaja nacionalna potreba po izvajanju takih programov ali potreba oziroma interes organizacij ali posameznikov za njihovo izvajanje in financiranje.
-Izpolnitev pogojev iz prejšnjega odstavka ugotovi z odločbo republiški upravni organ, pristojen za visokošolsko izobraževanje.
-Če javni raziskovalni zavod sodeluje z univerzo oziroma fakulteto ali visoko šolo pri izvajanju podiplomskega izobraževalnega programa, ki daje javno veljavno izobrazbo, potrjujeta javno veljavno listino javni raziskovalni zavod in univerza oziroma fakulteta ali visoka šola, ki izvaja izobraževalni program s področja podiplomskega izobraževanja javnega raziskovalnega zavoda.
-III. SVET ZA ZNANOST IN TEHNOLOGIJO REPUBLIKE SLOVENIJE

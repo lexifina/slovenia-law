@@ -1,3 +1,0 @@
-# 28. člen
-Ponudbe za izvajanje nacionalnega raziskovalnega programa morajo biti oblikovane kot raziskovalni oziroma razvojni projekti ali kot projekti vzpostavljanja oziroma programi delovanja raziskovalne infrastrukture. Predlagatelj ponudbe mora navesti odgovornega nosilca raziskovalnega ali razvojnega projekta oziroma odgovornega nosilca projekta vzpostavljanja ali programa delovanja raziskovalne infrastrukture in sodelujočo skupino.
-Ponudbe za izvajanje drugih dejavnosti, ki so splošni pogoj za spodbujanje raziskovanja in usmerjanje razvoja, morajo biti oblikovane kot programi dejavnosti. Predlagatelj ponudbe mora navesti odgovornega nosilca programa.
