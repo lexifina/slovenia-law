@@ -1,2 +1,0 @@
-# 28. člen
-Ta sporazum ni ovira za prepovedi ali omejitve uvoza, izvoza ali tranzita, ki so upravičene zaradi javne morale, javnega reda, javne varnosti, zdravstvenega varstva in življenja oseb in živali ali varstva rastlin, varstva narodnega bogastva, ki ima umetniško, zgodovinsko ali arheološko vrednost, ali varstva intelektualne, industrijske in trgovinske lastnine kot tudi ne za predpise v zvezi z zlatom in srebrom. Toda takšne prepovedi ali omejitve ne smejo biti sredstvo za samovoljno diskriminacijo in tudi ne za prikrito omejitev trgovine med pogodbenicama.

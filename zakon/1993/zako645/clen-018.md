@@ -1,5 +1,0 @@
-# 18. člen
-1. Za določene proizvode, na katere se nanaša 15. člen in ki jih šteje za občutljive, si Skupnost pridržuje pravico, da se obrne na svet za sodelovanje, da bi določil posebne pogoje, potrebne za njihov dostop na njen trg.
-Svet za sodelovanje določi omenjene pogoje najpozneje v treh mesecih, šteto od dneva sporočila. Če svet za sodelovanje o tem ne odloči v omenjenem roku, lahko Skupnost sprejme potrebne ukrepe, ki pa ne smejo prekoračiti obsega ukrepov, ki bi za te proizvode izhajali iz uporabe določb, predvidenih v prvem odstavku 16. člena, pod pogoji, ki so v njem določeni.
-2. Za izvajanje določb iz prvega odstavka pogodbenici redno izmenjujeta informacije v okviru sveta za sodelovanje pred morebitno določitvijo posebnih pogojev za dostop omenjenih proizvodov na trg pogodbenic. Taka izmenjava informacij se nanaša zlasti na trgovinske tokove ter srednjeročne in dolgoročne napovedi proizvodnje in izvoza.
-3. Svet za sodelovanje v rednih presledkih obravnava ukrepe, sprejete na podlagi prvega odstavka, da bi preveril njihovo usklajenost s cilji tega sporazuma.
