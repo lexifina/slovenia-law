@@ -1,0 +1,5 @@
+# 4. člen Razlastitev
+
+1. Investicije investitorjev ene pogodbenice na ozemlju druge pogodbenice ne smejo biti predmet razlastitve, nacionalizacije ali drugih ukrepov z enakimi učinki, kot jih imata razlastitev ali nacionalizacija (v nadaljevanju “razlastitev“), razen če je tak ukrep sprejet v javnem interesu, v skladu z zakonskim postopkom na nediskriminacijski podlagi in proti plačilu takojšnjega, ustreznega in učinkovitega nadomestila. Tako nadomestilo se izračuna na podlagi tržne vrednosti zadevne investicije, tik preden je bil ukrep dejansko sprejet ali splošno znan, kar koli se zgodi preje, vključuje obresti od dneva razlastitve do dneva plačila po komercialni obrestni meri in je prosto prenosljivo v prosto zamenljivi valuti.
+
+2. Določbe prvega odstavka tega člena se uporabljajo tudi, če pogodbenica razlasti premoženje družbe, ki je ustanovljena po veljavnih zakonih na katerem koli delu njenega lastnega ozemlja in na katerem imajo investitorji druge pogodbenice svoje lastniške deleže.
