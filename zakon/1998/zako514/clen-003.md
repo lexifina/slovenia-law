@@ -1,7 +1,3 @@
 # 3. člen
-Vsako leto se lahko podelijo štiri priznanja osebam v naslednjih kategorijah:
-- eno priznanje osebi z več kot 250 zaposlenimi, na področju izdelkov,
-- eno priznanje osebi z manj kot 250 zaposlenimi, na področju izdelkov,
-- eno priznanje osebi z več kot 250 zaposlenimi, na področju storitev,
-- eno priznanje osebi z manj kot 250 zaposlenimi, na področju storitev.
+Priznanja se vsako leto lahko podelijo osebam v zasebnem in javnem sektorju v kategorijah, ki jih določi Odbor za priznanja Republike Slovenije za poslovno odličnost (v nadaljnjem besedilu: odbor), upoštevajoč kriterije in merila evropske nagrade za kakovost.
 Ob izpolnjevanju pogojev po tem zakonu se priznanje iz prejšnjega odstavka lahko podeli tudi podjetnikom posameznikom.
