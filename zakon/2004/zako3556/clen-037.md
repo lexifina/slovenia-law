@@ -1,0 +1,4 @@
+# 37. člen
+Ne glede na določbo tretjega odstavka 5. člena zakona se za srednje in velike gospodarske družbe, ki imajo ob uveljavitvi tega zakona veljavno obrtno dovoljenje za opravljanje obrti podobne dejavnosti iz liste B obrti podobnih dejavnosti, še tri leta po uveljavitvi tega zakona šteje, da opravljajo obrti podobno dejavnost.
+V treh letih po uveljavitvi tega zakona je Obrtna zbornica Slovenije dolžna vpisati v obrtni register podjetnike posameznike in majhne družbe iz tretjega odstavka 5. člena zakona, ki ob uveljavitvi tega zakona nimajo obrtnega dovoljenja za opravljanje obrti podobne dejavnosti iz liste B obrti podobnih dejavnosti.
+Do izteka roka iz prvega in drugega odstavka tega člena se lahko gospodarski subjekti s pisno izjavo opredelijo, da ostajajo v zbornici, katere člani so ob uveljavitvi tega zakona.
