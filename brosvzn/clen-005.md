@@ -1,0 +1,5 @@
+# 5. člen Razlastitev in odškodnina
+
+(1) Nobena pogodbenica ne bo posredno ali neposredno sprejemala ukrepov razlastitve, nacionalizacije ali drugih ukrepov z enakovrednim učinkom (v nadaljevanju “razlastitev”) proti naložbi, ki jo na njenem ozemlju opravi kak vlagatelj druge pogodbenice, razen če so ukrepi sprejeti v javnem interesu, na nediskriminacijski podlagi, v skladu z ustreznim sodnim postopkom in proti takojšnji, učinkoviti in ustrezni odškodnini. Taka odškodnina bo temeljila na tržni vrednosti razlaščene naložbe neposredno pred razlastitvijo, oziroma v trenutku, ko je javnost seznanjena s predlagano razlastitvijo, glede na to, kaj se prej primeri. Plačljiva je od datuma razlastitve, obresti se obračunavajo na podlagi šestmesečnega LIBOR-ja do datuma plačila, plačati jo je treba brez odlašanja in mora biti prosto prenosljiva.
+
+(2) Vlagatelju pogodbenice, čigar naložba ima zaradi vojne, drugega oboroženega spopada, revolucije, izrednega stanja ali upora, izgube, bo zagotovljena obravnava v skladu s 3. členom tega sporazuma. Vlagatelj bo ne glede na okoliščine upravičen do odškodnine.
