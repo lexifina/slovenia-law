@@ -2,6 +2,6 @@
 # 29. člen
 Farmacevtsko strokovno delo v lekarniški dejavnosti opravljajo farmacevtski strokovni delavci:
 - specialisti, magistri in doktorji farmacevtske znanosti;
-- diplomirani inženirji farmacije oziroma diplomirani farmacevti;
+- magistri farmacije;
 - inženirji farmacije oziroma višji farmacevtski tehniki;
 - farmacevtski tehniki.
