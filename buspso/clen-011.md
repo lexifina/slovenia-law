@@ -1,0 +1,3 @@
+# 11. člen
+
+Če Združene države Amerike za izvedbo tega sporazuma dodelijo pogodbe za nabavo blaga in storitev, vključno z gradnjo, se take pogodbe dodelijo v skladu z zakoni in predpisi Združenih držav Amerike. Za nabavo blaga in storitev v Republiki Sloveniji za Združene države Amerike ali v njihovem imenu pri izvajanju tega sporazuma ne veljajo nobeni davki, pristojbine, takse ali podobne dajatve Republike Slovenije ali njenih agencij, organov v sestavi ali teles. V primeru, ko tako blago ali storitve niso oproščeni plačila obveznosti v skladu z zakonodajo Republike Slovenije, gre tako plačilo iz naslova finančnih virov Republike Slovenije.
