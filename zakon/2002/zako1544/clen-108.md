@@ -1,0 +1,5 @@
+# 108. člen (obveščanje javnosti v primeru izrednih dogodkov)
+(1) Upravljavec objekta ter nosilci izvajanja ukrepov po lokalnem in državnem načrtu zaščite in reševanja morajo o pomembnih dejstvih iz načrtov zaščite in reševanja redno obveščati javnost.
+(2) V primeru izrednega dogodka po tem zakonu mora upravljavec objekta zagotoviti, da je o dogodku v najkrajšem možnem času obveščeno ministrstvo, ki je izdalo dovoljenje za izvajanje sevalne dejavnosti, in drugi pristojni organi po predpisih varstva pred naravnimi in drugimi nesrečami.
+(3) Če gre za prevoz jedrskih snovi, radioaktivnih snovi, izrabljenega goriva in radioaktivnih odpadkov ima dolžnost obveščanja po prejšnjem odstavku prevoznik radioaktivnih snovi.
+(4) Za način in obseg obveščanja javnosti in pristojnih ministrstev in organov po tem členu ter za postopek rednega pregledovanja in potrjevanja obvestil javnosti o pomembnih dejstvih iz načrtov zaščite in reševanja se uporabljajo predpisi s področja varstva pred naravnimi in drugimi nesrečami.

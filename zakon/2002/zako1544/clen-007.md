@@ -1,0 +1,3 @@
+# 7. člen (javnost podatkov)
+(1) Podatki o izvajanju sevalnih dejavnostih, uporabi virov sevanja, sevanju naravnih virov, načrtovanju, gradnji in obratovanju sevalnih objektov in jedrskih objektov, statistično obdelanih prejetih dozah izpostavljenih delavcev in posameznikov iz prebivalstva, ravnanju z radioaktivnimi odpadki in izrabljenim gorivom, uvozu, izvozu in tranzitu radioaktivnih odpadkov ali radioaktivnih snovi, radioaktivni kontaminiranosti okolja, živil, krme in izdelkov za široko rabo, izrednih dogodkih, načrtih zaščite in reševanja v primerih izrednega dogodka so javni.
+(2) Za dostop do informacij iz prejšnjega odstavka se uporabljajo postopki za dostop do informacij v skladu z zakonom.

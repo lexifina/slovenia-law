@@ -1,0 +1,3 @@
+# 95. člen (državna gospodarska javna služba odlaganja odpadkov iz jedrskih objektov za proizvodnjo energije)
+(1) Obdelava radioaktivnih odpadkov in izrabljenega goriva pred odlaganjem ter odlaganje radioaktivnih odpadkov ter izrabljenega goriva iz jedrskih objektov za proizvodnjo energije je obvezna državna gospodarska javna služba.
+(2) Storitve državne gospodarske javne službe iz prejšnjega odstavka se financirajo iz sredstev namenskega sklada, ki je ustanovljen z zakonom o skladu za financiranje razgradnje Nuklearne elektrarne Krško in odlaganja radioaktivnih odpadkov iz Nuklearne elektrarne Krško (Uradni list RS, št. 75/94).

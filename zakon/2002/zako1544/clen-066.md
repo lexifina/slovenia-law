@@ -1,0 +1,3 @@
+# 66. člen (okoljevarstveno soglasje)
+(1) Za pridobitev dovoljenja za poseg v prostor je treba za sevalni objekt ali jedrski objekt pridobiti okoljevarstveno soglasje. Organ, pristojen za izdajo okoljevarstvenega soglasja, v predhodnem postopku za ta objekt določi tudi pogoje glede sevalne in jedrske varnosti in vsebino poročila o vplivih na okolje v delu, ki se nanaša na sevalno in jedrsko varnost.
+(2) Pogoje in obseg ter vsebino poročila o vplivih na okolje iz prejšnjega odstavka pripravi organ, pristojen za izdajo okoljevarstvenega soglasja, na podlagi predloga ministrstva, pristojnega za okolje.

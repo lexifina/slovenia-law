@@ -1,0 +1,11 @@
+## 2.3 Uporaba virov sevanja
+# 13. člen (potrdilo o vpisu v register in dovoljenje za uporabo vira sevanja)
+(1) Pred začetkom uporabe vira sevanja mora oseba iz 9. člena tega zakona pridobiti dovoljenje za uporabo vira sevanja ali potrdilo o vpisu vira sevanja v register virov sevanja.
+(2) Dovoljenje za uporabo vira sevanja in potrdilo o vpisu vira sevanja v register virov sevanja izda ministrstvo, pristojno za okolje, če gre za vir sevanja, ki se ga uporablja v zdravstvu ali veterinarstvu, pa ministrstvo, pristojno za zdravje.
+(3) Vlada določi vrste virov sevanja, za katere je pred uporabo treba pridobiti potrdilo o vpisu v register virov sevanja, in vire, za katere je pred uporabo treba pridobiti dovoljenje za uporabo.
+(4) Pri določitvi virov iz prejšnjega odstavka se upošteva raven aktivnosti vira sevanja, lastnosti vira sevanja glede sevalne varnosti, verjetnost, da pride do nenadzorovane izpostavljenosti ter zahteve in pogoje glede nadzora zaradi sevalne varnosti ali fizičnega in tehničnega varovanja vira sevanja.
+(5) Za vir sevanja v sevalnem objektu ali v jedrskem objektu, je dovoljenje za uporabo vira sevanja dovoljenje iz 79. člena tega zakona, razen če gre za sevalni objekt, v katerem se izvajajo sevalne dejavnosti v zdravstvu ali veterinarstvu.
+(6) Vir sevanja, ki ni razvrščen po tretjem odstavku tega člena in ni vir sevanja v objektu iz prejšnjega odstavka, se lahko začne uporabljati 30 dni po tem, ko je bila pristojnemu ministrstvu iz 9. člena tega zakona odposlana priglasitev namere.
+(7) Ne glede na določbe prejšnjega odstavka lahko ministrstvo, ki je pristojno za izdajo dovoljenja za uporabo vira sevanja, z odločbo prepove ali za čas največ treh mesecev prekine uporabo vira sevanja in zahteva dodatne podatke o viru sevanja, če ugotovi, da bi moral biti vir sevanja razvrščen med vire po tretjem odstavku tega člena, ali da je za razvrstitev vira v priglasitvi namere premalo podatkov.
+(8) Čas od zahtevane prepovedi oziroma prekinitve uporabe vira sevanja do začetka ali nadaljevanja uporabe iz prejšnjega odstavka se ne šteje v rok iz šestega odstavka tega člena.
+(9) Proti odločbi o prepovedi oziroma začasni prekinitvi uporabe vira sevanja ni pritožbe.

@@ -1,0 +1,7 @@
+# 80. člen (vloga za pridobitev dovoljenja)
+(1) K vlogi za pridobitev dovoljenja iz 79. člena tega zakona je treba predložiti varnostno poročilo, mnenje pooblaščenega izvedenca za sevalno in jedrsko varnost ter drugo predpisano dokumentacijo.
+(2) Varnostno poročilo mora biti dopolnjeno v skladu s spremembami, ki nastanejo med poskusnim obratovanjem in v času gradnje oziroma razgradnje objekta, ali v času izvajanja rudarskih del, če gre za izkoriščanje ali opustitev izkoriščanja jedrskih mineralnih surovin.
+(3) Na zahtevo ministrstva, pristojnega za okolje, mora vlagatelj za posamezna vprašanja varnostnega poročila, ki so pomembna za sevalno ali jedrsko varnost, k vlogi za izdajo dovoljenja priložiti tudi strokovno mnenje pooblaščenega izvedenca za sevalno in jedrsko varnost.
+(4) Dovoljenje izda ministrstvo, pristojno za okolje, v 90 dneh po prejemu popolne vloge, če iz predloženih poročil, načrtov in druge predpisane dokumentacije ter iz podatkov o poskusnem obratovanju ugotovi, da so izpolnjeni pogoji sevalne oziroma jedrske varnosti.
+(5) Oseba, ki je pridobila dovoljenje za zaprtje odlagališča izrabljenega goriva, radioaktivnih odpadkov ali rudarske in hidrometalurške jalovine mora zagotoviti vzdrževanje in nadzor odlagališča skladno s pogoji iz varnostnega poročila.
+(6) Minister, pristojen za okolje, podrobneje določi vsebino vloge za pridobitev dovoljenja in vsebino dokumentacije iz prvega odstavka tega člena glede na stopnjo tveganja za posamezno skupino objektov.

@@ -1,0 +1,6 @@
+# 115. člen (postopek za zaustavitev obratovanja objekta)
+(1) Kadar se postopek za odreditev zaustavitve obratovanja sevalnega objekta ali jedrskega objekta začne po uradni dolžnosti ali na predlog pristojnega inšpektorja, je ministrstvo, pristojno za okolje, dolžno o tem in o razlogih za začetek postopka, nemudoma obvestiti imetnika dovoljenja.
+(2) Ministrstvo, pristojno za okolje, odredi zaustavitev obratovanja sevalnega objekta ali jedrskega objekta na pobudo pristojnega inšpektorja, če iz pobude sledi, da niso izpolnjeni predpisani pogoji sevalne ali jedrske varnosti, imetnik dovoljenja pa jih ni zagotovil v razumnem roku kljub zahtevi inšpektorja po odpravi pomanjkljivosti.
+(3) Ministrstvo, pristojno za okolje, odredi zaustavitev obratovanja sevalnega objekta ali jedrskega objekta po uradni dolžnosti:
+- če imetnik dovoljenja ni dostavil v odobritev spremembe in dopolnitve ocene varstva izpostavljenih delavcev pred sevanji v predpisanem roku,
+- če je imetnik dovoljenja za obratovanje objekta pričel z vzdrževalnimi deli, preskušanjem ali z uvajanjem sprememb iz 83. člena tega zakona, ki so pomembne za sevalno ali jedrsko varnost objekta, ne da bi ministrstvo, pristojno za okolje, to predhodno odobrilo.

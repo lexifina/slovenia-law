@@ -1,0 +1,6 @@
+# 103. člen (finančna jamstva in drugi pogoji)
+(1) Za vsako pošiljko radioaktivnih odpadkov, izrabljenega goriva, jedrskih ali radioaktivnih snovi mora uvoznik, izvoznik ali oseba, ki izvaja tranzit le-teh, zagotoviti poleg zavarovanja, kot ga določajo carinski predpisi, tudi finančna jamstva v višini, ki zagotavlja plačilo stroškov:
+- zavrnitve pošiljke od pristojnih organov države, v katero je bila namenjena, ali
+- za ravnanja, ki jih je odredilo ministrstvo, pristojno za okolje, če je ugotovilo, da za uvožene radioaktivne odpadke ali radioaktivne snovi ni zagotovljenega ravnanja po tem zakonu.
+(2) Vlada določi višino in načine finančnega jamstva iz prvega odstavka tega člena.
+(3) Minister, pristojen za okolje, določi način prijave v zvezi s pošiljanjem radioaktivnih odpadkov, izrabljenega goriva, jedrskih snovi in radioaktivnih snovi, načine obveščanja pristojnih ministrstev in organov drugih držav, ravnanje pri večkratnih pošiljkah, način in roke poročanja o izvedenih pošiljkah, pogoje glede jedrske in sevalne varnosti in druge pogoje za uvoz, izvoz in tranzit. Minister, pristojen za okolje, določi tudi vire sevanja s pomembno aktivnostjo, za katere je treba pridobiti pred tranzitom dovoljenje.

@@ -1,0 +1,3 @@
+# 16. člen (predpisi v zvezi z uporabo vira sevanja)
+(1) Minister, pristojen za okolje, in minister, pristojen za zdravje, določita pravila ravnanja za uporabo in hrambo posameznih vrst virov sevanja in pogoje za njihovo uporabo ter ukrepe sevalne varnosti, ki jih morajo izvajati uporabniki teh virov.
+(2) Minister, pristojen za zdravje v zvezi s posamezno vrsto vira sevanja, ki se ga uporablja pri radioloških posegih, predpiše pogoje za osebe, ki izvajajo tehnične preglede virov sevanja, ki se jih uporablja pri izvajanju sevalne dejavnosti v zdravstvu in veterinarstvu, ter pogoje za usposobljenost oseb, ki vzdržujejo, umerjajo ali opravljajo druga podobna dela na teh virih sevanja, obveznost rednega tehničnega pregledovanja, ter druge pogoje za uporabo teh virov.

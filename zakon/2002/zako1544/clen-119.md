@@ -1,0 +1,5 @@
+# 119. člen (načrt fizičnega varovanja)
+(1) Ukrepi fizičnega varovanja se morajo izvajati po načrtu fizičnega varovanja, katerega izdelavo zagotovi upravljavec objektov, naprav ali vozil, v katerih so jedrske snovi ali viri sevanja s pomembno aktivnostjo.
+(2) Načrt fizičnega varovanja iz prejšnjega odstavka je veljaven, če ga potrdi ministrstvo, pristojno za notranje zadeve.
+(3) Minister, pristojen za notranje zadeve, v soglasju z ministrom, pristojnim za okolje, določi razvrstitev jedrskih snovi in objektov in njegove uporabe glede na možne učinke v primeru kaznivih dejanj in glede na to razvrstitev tudi obseg obveznega fizičnega varovanja. V predpisu iz prejšnjega stavka se določijo tudi sevalni objekti, za katere je treba zaradi virov sevanja s pomembno aktivnostjo zagotoviti fizično varovanje.
+(4) Minister, pristojen za notranje zadeve, določi za namen izdelave programa in načrta fizičnega varovanja upravljavcu objektov ali vozil, v katerih so jedrske snovi, pogoje za delavce, ki izvajajo fizično varovanje, pogoje za delavce, ki imajo dostop do jedrskih snovi, ter druge pogoje, povezane s fizičnimi, tehničnimi in mehanskimi ukrepi fizičnega varovanja.
