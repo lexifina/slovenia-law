@@ -1,5 +1,0 @@
-# 2. člen
-Za namene tega zakona in predpisov, izdanih na njegovi podlagi, imajo naslednji izrazi naslednji pomen:
-1. "blago z dvojno rabo" pomeni blago in tehnologije, ki se lahko uporabljajo tako v civilne, kot tudi v vojaške namene;
-2. "izvoz" pomeni carinski postopek izvoza, kot je opredeljen s carinskimi predpisi, v skladu s katerim blago začasno ali dokončno zapusti carinsko območje, kot tudi ponovni izvoz (reeksport) blaga;
-3. "izvoznik" pomeni vsako pravno ali fizično osebo, ki ima sedež oziroma stalno bivališče (v nadaljnjem besedilu: sedež) na območju Republike Slovenije, za račun katere se vloži carinska deklaracija in je v času njenega sprejema lastnik blaga ali ima pravico razpolaganja z blagom z dvojno rabo, kakor tudi vsako pravno ali fizično osebo, ki prenaša tehnologije s pomočjo elektronskih medijev, faksa ali telefona. Če ima lastnik blaga z dvojno rabo ali oseba z enakovredno pravico razpolaganja sedež izven območja Republike Slovenije, se za izvoznika šteje tista pogodbena stranka, ki ima sedež na območju Republike Slovenije.
