@@ -1,0 +1,3 @@
+# 2. člen
+Od sredstev zbranih po določbah 2. člena zakona o zagotovitvi namenskih sredstev za gradnjo avtocestnega omrežja v Republiki Sloveniji (Uradni list RS, št. 46/93) se upoštevaje določbe 4. člena zakona o zagotovitvi sredstev za potrebe Republike Slovenije v obdobju začasnega financiranja v letu 1997 (Uradni list RS, št. 31/97) nameni 4.000,000.000 tolarjev za nujno obnovo v prejšnjem členu navedenih cest.
+Del sredstev, zagotovljenih na način iz prejšnjega odstavka, se v višini 2.000,000.000 tolarjev razporedi za obnovo lokalnih cest, od česar se 300,000.000 tolarjev nameni za sanacijo usadov in plazov, ki neposredno ogrožajo varnost prometa na teh cestah.
