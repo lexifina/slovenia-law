@@ -1,0 +1,289 @@
+Razglašam Zakon o ratifikaciji Evropske konvencije o nadzoru nad pridobitvijo in posestjo strelnega orožja posameznikov (MEKNSO), ki ga je sprejel Državni zbor Republike Slovenije na seji 23. marca 2000.
+
+Št. 001-22-67/00
+
+Ljubljana, dne 31. marca 2000
+
+Predsednik Republike Slovenije Milan Kučan l. r.
+
+Preamble
+
+The member States of the Council of Europe, signatory hereto,
+
+Considering that the aim of the Council of Europe is to achieve a greater unity between its members;
+
+Considering the threat posed by the increasing use of firearms in crime;
+
+Conscious of the fact that such firearms are often obtained abroad;
+
+Desirous of instituting on an international scale effective methods of controlling the movement of firearms across frontiers;
+
+Aware of the need to avoid measures that may hamper legitimate international trade or result in impracticable or unduly onerous frontier controls that conflict with modern goals of freedom of movement of goods and of persons,
+
+Have agreed as follows:
+
+Chapter I
+
+Definitions and general provisions
+
+Article 1
+
+For the purpose of this Convention:
+
+a “firearm” has the meaning assigned to it in Appendix I to this Convention;
+
+b “person” shall also mean a legal person having a place of business in the territory of a Contracting Party;
+
+c “dealer” means a person whose trade or business consists wholly or partly in the manufacture, sale, purchase, exchange or hire of firearms;
+
+d “resident” refers to a person who has habitual residence in the territory of a Contracting Party within the meaning of Rule No. 9 of the annex to Resolution (72) 1 of the Committee of Ministers of the Council of Europe.
+
+Article 2
+
+The Contracting Parties undertake to afford each other mutual assistance through the appropriate administrative authorities in the suppression of illegal traffic in firearms and in the tracing and locating of firearms transferred from the territory of one State to the territory of another.
+
+Article 3
+
+Each Contracting Party shall remain free to prescribe laws and regulations concerning firearms provided that such laws and regulations are not incompatible with the provisions of this Convention.
+
+Article 4
+
+This Convention does not apply to any transaction concerning firearms to which all the parties are States or acting on behalf of States.
+
+Chapter II
+
+Notification of transactions
+
+Article 5
+
+1. If a firearm situate within the territory of Contracting Party is sold, transferred or otherwise disposed of to a person resident in the territory of another Contracting Party, the former Party shall notify the latter in the manner provided in Articles 8 and 9.
+
+2. For the purpose of the application of the provisions of paragraph 1 of this Article, each Contracting Party shall take the steps necessary to ensure that any person who sells, transfers or otherwise disposes of a firearm situate within its territory shall furnish particulars of the transaction to the competent authorities of that Party.
+
+Article 6
+
+If a firearm situate within the territory of a Contracting Party is transferred permanently and without change in the possession thereof to the territory of another Contracting Party, the former Party shall notify the latter in the manner provided in Articles 8 and 9.
+
+Article 7
+
+The notifications referred to in Article 5 and 6 shall also be made to the Contracting Parties through whose territory a firearm passes in transit when the State from whose territory it is sent deems such information to be useful.
+
+Article 8
+
+1. The notifications referred to in Articles 5, 6 and 7 shall be made as expeditiously as possible. The Contracting Parties shall use their best endeavours to ensure that notification is made prior to the transaction or the transfer to which it relates, failing which it shall be made as soon as possible thereafter.
+
+2. The notifications referred to in Articles 5, 6 and 7 shall, in particular, indicate:
+
+a the identity, the number of passport or identity card and the address of the person to whom the firearm in question is sold, transferred or otherwise disposed of or of the person who is transferring a firearm permanently to the territory for another Contracting Party without change of possession;
+
+b the type, make and characteristics of the firearm in question as well as its number or any other distinguishing mark.
+
+Article 9
+
+1. The notifications referred to in Article 5, 6 and 7 shall be made between such national authorities as the Contracting Parties shall designate.
+
+2. When appropriate the notifications may be sent through the International Criminal Police Organisation (Interpol).
+
+3. Any State shall, at the time of depositing its instrument of ratification, acceptance, approval or accession, by declaration addressed to the Secretary General of the Council of Europe, indicate the authority to which notifications should be addressed. It shall forthwith notify the Secretary General of the Council of Europe of any subsequent modification of the identity of such authorities.
+
+Chapter III
+
+Double authorisation
+
+Article 10
+
+1. Each Contracting Party shall take the measures appropriate to ensure that no firearm situate within its territory is sold, transferred or otherwise disposed of to a person not resident there who has not first obtained authorisation from the competent authorities of the said Contracting Party.
+
+2. This authorisation shall not be granted unless the competent authorities shall first have been satisfied that an authorisation in respect of the transaction in question has been granted to the said person by the competent authorities of the Contracting Party in which he is resident.
+
+3. If this person takes possession of the firearm in the territory of the Contracting Party in which the transaction takes place, the authorisation referred to in paragraph 1 shall only be granted on the terms and conditions on which an authorisation would be granted in a transaction involving residents of the Contracting Party concerned. If the firearm is immediately exported, the authorities referred to in paragraph 1 are only obliged to ascertain that the authorities of the Contracting Party in which the said person is a resident have authorised this particular transaction or such transactions in general.
+
+4. The authorisations referred to in paragraphs 1 and 2 of this Article may be replaced by an international licence.
+
+Article 11
+
+Any State shall, at the time of depositing its instrument of ratification, acceptance, approval or accession, specify which of its authorities is competent to issue the authorisations referred to in paragraph 2 of Article 10. It shall forthwith notify the Secretary General of the Council of Europe of any subsequent modification of the identity of such authorities.
+
+Chapter IV
+
+Final provisions
+
+Article 12
+
+1. This Convention shall be open to signature by the member States of the Council of Europe. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
+
+2. The Convention shall enter into force on the first day of the month following the expiration of three months after the date of the deposit of the third instrument of ratification, acceptance or approval.
+
+3. In respect of any signatory State ratifying, accepting or approving it subsequently, the Convention shall come into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance or approval.
+
+Article 13
+
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any non-member State to accede thereto. The decision containing this invitation shall be in accordance with Article 20.d of the statute of the Council of Europe and receive the unanimous agreement of the member States of the Council of Europe which are Contracting Parties to the Convention.
+
+2. Such accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession which shall take effect three months after the date of its deposit.
+
+Article 14
+
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
+
+2. Any State may, when depositing its instrument of ratification, acceptance, approval or accession or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Convention to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.
+
+3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn by means of a notification addressed to the Secretary General. Such a withdrawal shall take effect six months after the date of receipt by the Secretary General of such notification.
+
+Article 15
+
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it avails itself of one or more of the reservations provided for in Appendix II to this Convention.
+
+2. Any Contracting Party may wholly or partly withdraw a reservation it has made in accordance with the foregoing paragraph by means of a declaration addressed to the Secretary General of the Council of Europe which shall become effective as from the date of its receipt.
+
+3. A Contracting Party which has made a reservation in accordance with paragraph 1 of this Article may not claim the application by any other Party of the provision on which the reservation has been made; it may, however, if its reservation is partial or conditional, claim the application of that provision insofar as it has itself accepted it.
+
+Article 16
+
+1. The Contracting Parties may not conclude bilateral or multilateral agreements with one another on the matters dealt with in this Convention, except in order to supplement its provisions or facilitate application of the principles embodied in it.
+
+2. However, should two or more Contracting Parties establish or have already established their relations in this matter on the basis of uniform legislation or a special system of their own, providing for more extensive obligations, they shall be entitled to regulate those relations accordingly notwithstanding the provisions of this Convention.
+
+3. Contracting Parties ceasing in accordance with paragraph 2 of this Article to apply the terms of this Convention to their mutual relations in this matter shall notify the Secretary General of the Council of Europe to that effect.
+
+Article 17
+
+1. The European Committee on Crime Problems of the Council of Europe shall be kept informed regarding the application of this Convention and shall do whatever is needful to facilitate a friendly settlement of any difficulty which may arise out of its execution.
+
+2. The European Committee on Crime Problems may, in the light of future technical, social and economic developments, formulate and submit to the Committee of Ministers of the Council of Europe proposals designed to amend or supplement the provisions of this Convention and in particular to alter the contents of Appendix I.
+
+Article 18
+
+1. In the event of war or other exceptional circumstances any Contracting Party may make rules temporarily derogating from the provisions of this Convention and having immediate effect. It shall forthwith notify the Secretary General of the Council of Europe of any such derogation and of its cesser.
+
+2. Any Contracting Party may denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe. Such denunciation shall take effect six months after the date of receipt by the Secretary General of such notification.
+
+Article 19
+
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State that has acceded to this Convention of:
+
+a any signature;
+
+b any deposit of an instrument of ratification, acceptance, approval or accession;
+
+c any date of entry into force of this Convention in accordance with Articles 12 and 13;
+
+d any declaration or notification received in pursuance of the provisions of Article 9, paragraph 3;
+
+e any declaration or notification received in pursuance of the provisions of Article 11;
+
+f any declaration or notification received in pursuance of the provisions of Article 14;
+
+g any reservation made in pursuance of the provisions of Article 15, paragraph 1;
+
+h the withdrawal of any reservation made in pursuance of the provisions of Article 15, paragraph 2;
+
+i any notification received in pursuance of the provisions of Article 16, paragraph 3, and concerning uniform legislation or a special system;
+
+j any notification received in pursuance of the provisions of Article 18, paragraph 1, and the date on which the derogation is made or ceases, as the case may be;
+
+k any notification received in pursuance of the provisions of Article 18, paragraph 2, and the date on which denunciation takes effect.
+
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
+
+Done at Strasbourg, this 28th day of June 1978, in English and in French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each of the signatory and acceding States.
+
+Appendix I
+
+A For the purposes of this Convention “firearm” shall mean:
+
+1 Any object which i. is designed or adapted as a weapon from which a shot, bullet or other missile, or a noxious gas, liquid or other substance may be discharged by means of explosive, gas or air pressure or by any other means of propulsion, and ii. falls within one of the specific descriptions below, it being understood that sub-paragraphs a to f inclusive and i include only objects utilising an explosive propellant:
+
+a automatic arms;
+
+b short arms with semi-automatic, repeating or single-shot mechanism;
+
+c long arms with semi-automatic or repeating mechanism with at least one rifled barrel;
+
+d single-shot long arms with at least one rifled barrel;
+
+e long arms with semi-automatic or repeating mechanism and smooth-bore barrel(s) only;
+
+f portable rocket launchers;
+
+g any arms or other instruments designed to cause danger to life or health of persons by firing stupefying toxic or corrosive substances;
+
+h flame-throwers meant for attack or defence;
+
+i single-shot long arms with smooth-bore barrel(s) only;
+
+j long arms with gas propellant mechanism;
+
+k short arms with gas propellant mechanism;
+
+l long arms with compressed air propellant mechanism;
+
+m short arms with compressed air propellant mechanism;
+
+n arms propelling projectiles by means of a spring only.
+
+Provided always that there shall be excluded from this paragraph 1 any object otherwise included therein which:
+
+i has been permanently rendered unfit for use;
+
+ii on account of its low power is not subject to control in the State from which it is to be transferred;
+
+iii is designed for alarm, signalling, life saving, animal slaughtering, harpooning or for industrial or technical purposes on condition that such objects are usable for the stated purpose only;
+
+iv on account of its antiquity is not subject to control in the State from which it is to be transferred.
+
+2 The firing mechanism, chamber, cylinder or barrel of any object comprised in paragraph 1 above.
+
+3 Any ammunition specially designed to be discharged by an object comprised in sub-paragraphs a to f inclusive, i, j, k or n of paragraph 1 above and any substance or matter specially designed to be discharged by an instrument comprised in sub-paragraph g of paragraph 1 above.
+
+4 Telescope sights with light beam or telescope sights with electronic light amplification device or infra-red device provided that they are designed to be fitted to any object comprised in paragraph 1 above.
+
+5 A silencer designed to be fitted to any object comprised in paragraph 1 above.
+
+6 Any grenade, bomb or other missile containing explosive or incendiary devices.
+
+B For the purposes of this Appendix:
+
+a “automatic” denotes a weapon which is capable of firing in bursts each time the trigger is operated;
+
+b “semi-automatic” denotes a weapon which fires a projectile each time the trigger alone is operated;
+
+c “repeating mechanism” denotes a weapon the mechanism of which in addition to the trigger must be operated each time the weapon is to be fired;
+
+d “single-shot” denotes a weapon whereof the barrel or barrels must be loaded before each shot;
+
+e “short” denotes a weapon with a barrel not exceeding 30 centimetres or whose overall length does not exceed 60 centimetres;
+
+f “long” denotes a weapon with a barrel exceeding 30 centimetres whose overall length exceeds 60 centimetres.
+
+Appendix II
+
+Any State may declare that it reserves the right:
+
+a not to apply Chapter II of this Convention in respect of any one or more of the objects comprised in sub-paragraphs i to n inclusive of paragraph 1 or in paragraphs 2, 3, 4, 5 or 6 of Appendix I to this Convention;
+
+b not to apply Chapter III of this Convention;
+
+c not to apply Chapter III of this Convention in respect of any one or more of the objects comprised in sub-paragraphs i to n inclusive of paragraph 1 or in paragraphs 2, 3, 4, 5 or 6 of Appendix I to this Convention;
+
+d not to apply Chapter III of this Convention to transactions between dealers resident in the territories of two Contracting Parties.
+
+Uvod
+
+Države članice Sveta Evrope, podpisnice te konvencije, so se
+
+glede na to, da je namen Sveta Evrope doseči večjo enotnost med njegovimi članicami,
+
+glede na grožnjo, ki izvira iz vse večje uporabe strelnega orožja v kriminalu,
+
+ker se zavedajo, da se strelno orožje pogosto pridobi v tujini,
+
+ker želijo na mednarodni ravni vzpostaviti učinkovite metode za nadzor pretoka strelnega orožja čez državne meje,
+
+ker se zavedajo, da se je treba izogniti ukrepom, ki bi utegnili otežiti zakonito mednarodno trgovino ali povzročiti, da postane mejna kontrola neizvedljiva ali otežena, kar bi bilo v nasprotju s sodobnimi cilji prostega pretoka blaga in gibanja oseb,
+
+sporazumele, kot sledi:
+
+I. poglavje
+
+Opredelitev pojmov in splošne določbe
