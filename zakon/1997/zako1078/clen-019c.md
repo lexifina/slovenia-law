@@ -1,0 +1,10 @@
+# 19.c člen
+Statut občine lahko določi, da je ožji del občine pravna oseba javnega prava.
+V primeru, da je ožji del občine pravna oseba, nastopa v pravnem prometu v okviru nalog, ki so določene s statutom občine oziroma z odlokom iz drugega odstavka prejšnjega člena.
+V primeru, da je ožji del občine pravna oseba, ga zastopa njegov svet. Statut občine lahko določi, da zastopa ožji del občine predsednik njegovega sveta. Statut občine lahko tudi določi, da so pravni posli nad določeno vrednostjo, ki jih sklene ožji del občine, veljavni le ob soglasju župana.
+V primeru, da je ožji del občine pravna oseba, odgovarja za svoje obveznosti z vsem svojim premoženjem. Za obveznosti ožjega dela občine subsidiarno odgovarja občina.
+Če ožji del občine, ki je v skladu s statutom občine pravna oseba, preneha obstajati ali če mu preneha pravna subjektiviteta, njegove pravice in obveznosti preidejo na občino oziroma na nove ožje dele občine z lastnostjo pravne osebe, ki nastanejo z združitvijo ali z razdružitvijo prejšnjih ožjih delov občine.
+V primeru, da ožji del občine ni pravna oseba, lahko statut občine določi, da v okviru nalog ožjega dela in v okviru s proračunom določenih sredstev za izvajanje teh nalog občino pri izvajanju odločitev sveta ožjega dela občine zastopa svet ožjega dela občine ali njegov predsednik. Statut občine lahko v tem primeru določi tudi, da so pravni posli nad določeno vrednostjo veljavni le ob soglasju župana.
+19.č člen
+Če je ožji del občine v skladu s statutom občine pravna oseba, se njegovo delovanje financira iz občinskega proračuna, s prostovoljnimi prispevki fizičnih in pravnih oseb, s plačili za storitve, s samoprispevkom in s prihodki od premoženja ožjega dela občine. Ožji del občine se ne sme zadolževati. Prihodki in odhodki ožjega dela občine morajo biti zajeti v njegovem finančnem načrtu, ki je sestavni del občinskega proračuna.
+Če ožji del občine ni pravna oseba, način financiranja njegovega delovanja določi občinski statut. Sredstva za izvajanje nalog ožjih delov občine se zagotovijo v občinskem proračunu."
