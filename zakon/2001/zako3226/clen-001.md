@@ -1,0 +1,2 @@
+# 1. člen (vsebina zakona)
+Ta zakon določa posebne ukrepe nadzora, ki jih pristojni organi izvajajo v zvezi z blagom, ki se prodaja v prodajalnah na območju mejnih prehodov (v nadaljnjem besedilu: mejne prodajalne) ter pravice in obveznosti oseb v zvezi z izvajanjem posebnih ukrepov nadzora, način preoblikovanja prostih carinskih prodajaln na cestnih mejnih prehodih z državami članicami Evropskih skupnosti, ki delujejo v okviru Evropske unije, v mejne prodajalne ter ukrepe državne pomoči zaradi spremembe pogojev poslovanja teh prodajaln.

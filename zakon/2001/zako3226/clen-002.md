@@ -1,0 +1,3 @@
+# 2. člen (mejne prodajalne)
+(1) Mejne prodajalne so v skladu s tem zakonom prodajalne, ki na območju cestnih mejnih prehodov z državami članicami Evropskih skupnosti, ki delujejo v okviru Evropske unije, prodajajo blago potnikom, ki imajo v skladu z veljavno zakonodajo namen prestopiti državno mejo.
+(2) Mejne prodajalne v skladu s prejšnjim odstavkom niso proste carinske prodajalne, ki poslujejo v skladu s carinskim zakonom (Uradni list RS, št. 1/95, 28/95, 32/99 in 40/99 - popr.) na letališču ali v pristanišču, odprtem za mednarodni promet ter na cestnih mejnih prehodih na meji med Republiko Slovenijo in Republiko Hrvaško oziroma Republiko Madžarsko.
