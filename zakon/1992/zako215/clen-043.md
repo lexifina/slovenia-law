@@ -1,6 +1,6 @@
 ## XI. KAZENSKE DOLOČBE
 # 43. člen
-Z denarno kaznijo v višini najmanj 50.000 tolarjev se kaznuje pravna oseba ali lekarnar, ki stori prekršek v zvezi z opravljanjem lekarniške dejavnosti:
+Z denarno kaznijo v višini najmanj 100.000 tolarjev se kaznuje pravna oseba ali lekarnar, ki stori prekršek v zvezi z opravljanjem lekarniške dejavnosti:
 1. če opravlja lekarniško dejavnost v nasprotju z 2. členom tega zakona;
 2. če posluje z imenom lekarna v nasprotju s 4. členom tega zakona;
 3. če prične opravljati dejavnost, preden pristojni organ ugotovi, da izpolnjuje pogoje iz 6. člena tega zakona;
@@ -10,4 +10,4 @@ Z denarno kaznijo v višini najmanj 50.000 tolarjev se kaznuje pravna oseba ali 
 7. če organizira priročno zalogo zdravil brez dovoljenja (24. člen);
 8. če ne opravlja dežurstva ali stalne pripravljenosti v skladu z dogovorjenim vrstnim redom (28. člen);
 9. če izdaja zdravila nepooblaščena oseba (34. člen).
-Z denarno kaznijo v višini najmanj 5.000 tolarjev se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
+Z denarno kaznijo v višini najmanj 10.000 tolarjev se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
