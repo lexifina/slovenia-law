@@ -1,5 +1,5 @@
 # 13. člen
-Inšpektor ima pravico, brez predhodnega obvestila ter brez dovoljenja delodajalca, ne glede na delovni čas, vstopiti v delovne prostore, na delovišča, k napravam ter v druge prostore, v katerih se opravlja gospodarska ali negospodarska dejavnost.
+Inšpektor ima pravico, brez predhodnega obvestila ter brez dovoljenja delodajalca in ugotoviti istovetnost oseb, ki pri delodajalcu opravljajo delo, ne glede na delovni čas, vstopiti v delovne prostore, na delovišča, k napravam ter v druge prostore, v katerih se opravlja gospodarska ali negospodarska dejavnost.
 Če mora inšpektor pri opravljanju inšpekcijskega nadzorstva pregledati posamezne stanovanjske prostore, v katerih se opravlja gospodarska ali negospodarska dejavnost, pa delodajalec ali delavec temu nasprotuje, si mora za pregled teh prostorov pridobiti odločbo pristojnega sodišča.
 Inšpektor lahko največ za osem dni odvzame dokumentacijo, ki jo potrebuje za ugotavljanje resničnega stanja v obravnavani zadevi, če meni, da so očitno kršene pravice delavca oziroma, da obstaja sum prekrška ali hujših kršitev zakonov, drugih predpisov, kolektivnih pogodb oziroma splošnih aktov.
 O odvzemu dokumentacije iz prejšnjega odstavka inšpektor izda delodajalcu potrdilo, iz katerega mora biti razvidno, katera dokumentacija je bila odvzeta.
