@@ -1,0 +1,5 @@
+# 26. člen Izmenjava informacij
+
+1. Pristojni organi držav pogodbenic bodo izmenjavali informacije (tiste informacije, ki so jim na razpolago v skladu z njihovimi davčnimi zakoni v okviru običajnega poteka njihovega upravnega dela), ki so potrebne za izvajanje določb te konvencije glede davkov, ki so predmet te konvencije.Vsaka tako izmenjana informacija se bo obravnavala kot tajna in se ne bo razkrila katerim koli drugim osebam, kot tistim, ki odmerjajo in pobirajo davke, ki so predmet te konvencije. Nobene zgoraj omenjene informacije ne bodo izmenjane, ki bi razkrile kakršno koli trgovsko, poslovno, bančno industrijsko, ali poklicno skrivnost ali strokovni postopek.
+
+2. V nobenem primeru se določbe tega člena ne smejo razumeti kot da nalagajo obveznosti kateri koli državi pogodbenici, da izvaja administrativne ukrepe, ki niso v skladu z zakonodajo ali administrativno prakso te ali druge države pogodbenice, ali so v nasprotju z njeno suverenostjo, varnostjo ali javnim redom ali, da bi preskrbela informacije, ki jih ni mogoče dobiti po zakonski ali običajni upravni poti te ali druge države, ki je vložila zahtevek.
