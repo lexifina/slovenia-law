@@ -1,0 +1,4 @@
+# 1. člen
+(1) V zakonu o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo (Uradni list RS, št. 89/99, 43/01 - odl. US, 97/01 in 32/02 - odl. US) se v drugem odstavku 4. člena beseda "geodet" nadomesti z besedilom "oseba, ki izpolnjuje pogoje za opravljanje geodetskih storitev, določene z zakonom, ki ureja geodetsko dejavnost (v nadaljnjem besedilu: geodetsko podjetje) ali pogoje za opravljanje dejavnosti projektiranja, določene z zakonom, ki ureja graditev objektov (v nadaljnjem besedilu: projektant).".
+(2) V tretjem in petem odstavku se beseda "geodet" nadomesti z besedilom "geodetsko podjetje ali projektant ".
+(3) V šestem, devetem in petnajstem odstavku se besedi "izdelal geodet" nadomestita z besedilom "izdelalo geodetsko podjetje ali projektant ".
