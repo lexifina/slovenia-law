@@ -5,13 +5,13 @@ Red za izredne zasluge se podeljuje državljanom Republike Slovenije ter izjemom
 2. Za izjemne zasluge, dosežene za Slovenijo na civilnem, diplomatsko mednarodnem in vojaškem oziroma varnostnem področju se podeljuje
 ZLATI RED ZA ZASLUGE
 Zlati red za zasluge se podeljuje državljanom Republike Slovenije, tujim državljanom ter izjemoma domačim, tujim in mednarodnim organizacijam.
-3. Za izjemno delo in zasluge pri varnosti, obrambi in zaščiti Republike Slovenije ter za mednarodne sodelovanje na teh področjih se podeljuje
+3. Za izjemno delo in zasluge pri varnosti, obrambi in zaščiti Republike Slovenije ter za mednarodno sodelovanje na teh področjih se podeljuje
 SREBRNI RED ZA ZASLUGE
 Srebrni red za zasluge se podeljuje državljanom Republike Slovenije in tujim državljanom ter izjemoma skupinam državljanov, pravnim osebam in drugim organizacijam.
 4. Za zasluge, dosežene za Republiko Slovenijo na drugih področjih, se podeljuje
 RED ZA ZASLUGE
 Red za zasluge se podeljuje državljanom Republike Slovenije, skupinam državljanov, pravnim osebam ter drugim organizacijam kot tudi tujim državljanom in tujim ter mednarodnim organizacijam.
-5. Za posebno uspešne dosežke in rezultate na področjih, ki pomenijo pomemben prispevek k razvoju in uveljavljanju Republike slovenije se podeljuje
+5. Za posebno uspešne dosežke in rezultate na področjih, ki pomenijo pomemben prispevek k razvoju in uveljavljanju Republike Slovenije se podeljuje
 MEDALJA ZA ZASLUGE
 Medalja za zasluge se podeljuje državljanom Republike Slovenije, tujim državljanom, skupinam državljanov ter domačim in tujim organizacijam.
 6. Za osebno hrabrost in požrtvovalnost pri reševanju človeških življenj in materialnih dobrin se podeljuje
