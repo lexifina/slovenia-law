@@ -1,0 +1,3 @@
+# 3. člen
+Del sredstev za izvedbo programa iz 2. člena tega zakona se zagotavlja iz sredstev, zbranih na podlagi zakona o oblikovanju sredstev solidarnosti za odpravljanje posledic naravnih nesreč (Uradni list SRS, št. 3/75, 8/78, 33/80 in 16/84) v višini 33 % vseh potrebnih sredstev po letni dinamiki, predvideni s programi iz 2. člena tega zakona, ob pogoju, da se izvajajo ukrepi in aktivnosti v skladu s terminskim planom.
+Sredstva solidarnosti se uporabljajo za namene po tem zakonu, ko delovna organizacija Rudniki svinca in topilnica Mežica, občina Ravne na Koroškem in Raziskovalna skupnost Slovenije zagotovijo sredstva v skladu s programom iz prejšnjega člena tega zakona.
