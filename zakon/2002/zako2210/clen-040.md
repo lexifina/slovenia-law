@@ -1,0 +1,2 @@
+# 40. člen
+Določbe 7. člena, prvega odstavka 8. člena, 20. člena, 21. člena, prvega odstavka 22. člena, 23. člena in 25. člena tega zakona ter določbe, ki se nanašajo na pooblaščenca za obravnavanje odškodninskih zahtevkov (42.a do 42.č člen zakona), na informacijski center (42.d do 42.i člen zakona) in na odškodninski urad (42.j do 42.n člen zakona), začnejo veljati z dnem članstva Republike Slovenije v EU.

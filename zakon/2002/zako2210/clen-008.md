@@ -1,0 +1,4 @@
+# 8. člen
+Drugi odstavek 6. člena se spremeni tako, da se glasi:
+"Zavarovalnica mora Agencijo za zavarovalni nadzor (v nadaljnjem besedilu: Agencija) obvestiti o novih ali spremenjenih zavarovalnih pogojih preden jih začne uporabljati. Če Agencija ugotovi, da zavarovalni pogoji niso v skladu z zakonom, izreče ukrep nadzora v skladu z določbo tretje točke prvega odstavka 181. člena zakona o zavarovalništvu (Uradni list RS, št. 13/2000, 91/2000) pri čemer se lahko prepoved sklepanja novih zavarovalnih pogodb nanaša samo na vrste obveznih zavarovanj navedenih v 1. členu tega zakona. Ukrep prepovedi sklepanja novih zavarovalnih pogodb se lahko nanaša le na tisto vrsto obveznega zavarovanja po tem zakonu, na katero se nanašajo zavarovalni pogoji, za katere je Agencija ugotovila, da niso v skladu z zakonom."
+Črta se tretji odstavek.
