@@ -1,0 +1,3 @@
+# 10. člen
+Za 16. členom se doda novo III.A poglavje in členi 16.a do 16.f, ki se glasijo:
+"III.A OPRAVLJANJE DETEKTIVSKE DEJAVNOSTI IN STORITEV TUJIH DETEKTIVOV V REPUBLIKI SLOVENIJI
