@@ -1,0 +1,6 @@
+# 22. člen (pooblastila izterjevalca)
+(1) Izterjevalec izvaja postopke davčne izvršbe.
+(2) Pri opravljanju davčne izvršbe ima izterjevalec pravico vstopiti v poslovne prostore in druge prostore, ki se uporabljajo za opravljanje dejavnosti ali pridobivanje dohodkov, in pravico pregledati naprave, blago, stvari, predmete, poslovne knjige, pogodbe, listine in druge dokumente, ki omogočajo davčno izvršbo.
+(3) Za poslovne prostore se štejejo tudi stanovanjski prostori, ki jih je davčni zavezanec določil kot svoj sedež oziroma poslovni prostor, kjer se opravlja dejavnost.
+(4) V primeru, da izterjevalec v poslovnih prostorih oziroma prostorih, kjer se opravlja dejavnost in služijo za njeno izvajanje, ne najde predmetov, iz katerih bi se s prodajo ali drugačnim unovčenjem lahko poplačali davki, sme vstopiti na zemljišče zavezanca za davek in v stanovanjske in druge prostore zavezanca za davek, kjer se pričakuje, da se nahajajo premičnine, iz katerih bi se davki lahko poplačali.
+(5) Za vstop v stanovanje in druge neposlovne prostore ter na zemljišče z namenom, da se zarubijo predmeti, iz katerih naj se poravna davek, je potrebno predhodno pridobiti odločbo pristojnega sodišča v skladu z določbami zakona o prekrških, ki urejajo hišno preiskavo.

@@ -1,0 +1,4 @@
+# 24. člen (splošno)
+(1) Davčna uprava zbira osebne in druge podatke zaradi z zakonom določenih nalog neposredno od oseb, na katere se ti podatki nanašajo, od drugih oseb, ki o tem kaj vedo, in iz obstoječih zbirk podatkov.
+(2) O zbiranju podatkov iz prejšnjega odstavka, od drugih oseb, ki o tem kaj vedo, in iz obstoječih zbirk podatkov, pooblaščene uradne osebe niso dolžne obvestiti osebe, na katero se zbiranje podatkov nanaša, če bi to onemogočilo ali otežilo izvrševanje nalog službe.
+(3) Davčna uprava upravlja in obdeluje zbirke osebnih in drugih podatkov (v nadaljnjem besedilu: davčne evidence), ki jih zaradi opravljanja nalog davčne službe zbirajo, obdelujejo, uporabljajo in shranjujejo uslužbenci davčne uprave, in osebnih in drugih podatkov, ki jih osebe, ki so zavezanci za davek, dajejo davčnemu organu v skladu z zakoni o obdavčenju, zakonom, ki ureja davčni postopek, in drugimi zakoni.
