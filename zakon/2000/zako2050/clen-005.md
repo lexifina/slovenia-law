@@ -1,0 +1,4 @@
+# 5. člen
+(1) Blago z dvojno rabo se lahko izvaža le na podlagi dovoljenja, ki ga izda ministrstvo, pristojno za ekonomske odnose s tujino (v nadaljnjem besedilu: ministrstvo).
+(2) Dovoljenje je potrebno tudi za izvoz blaga z dvojno rabo, ki ni zajeto v seznamu blaga iz 3. člena tega zakona, če je bil izvoznik s strani ministrstva obveščen, da se to blago v celoti ali po delih uporablja ali lahko nameni za uporabo v zvezi z razvojem, proizvodnjo, upravljanjem, delovanjem, vzdrževanjem, skladiščenjem, odkrivanjem, identifikacijo in širjenjem kemičnega, biološkega ali jedrskega orožja ali za razvoj, proizvodnjo, vzdrževanje in skladiščenje izstrelkov, sposobnih nositi takšno orožje.
+(3) Če je izvozniku znano ali če sumi, da gre za blago iz prejšnjega odstavka, je dolžan o tem obvestiti ministrstvo, ki odloči ali je za zadevni izvoz blaga potrebno dovoljenje.
