@@ -1,0 +1,7 @@
+# 18.k člen
+Center za socialno delo ves čas spremlja, ali družinski pomočnik invalidni osebi zagotavlja ustrezno pomoč. Invalidna oseba lahko kadarkoli center za socialno delo seznanja z delom družinskega pomočnika.
+Družinski pomočnik je dolžan pristojnemu centru za socialno delo najmanj enkrat letno poročati o izvajanju pomoči invalidni osebi. Center za socialno delo mora s poročilom družinskega pomočnika seznaniti invalidno osebo, ki k poročilu lahko poda svoje mnenje.
+V primeru spremenjenih okoliščin, ki bi onemogočile nadaljnje izvajanje pomoči, mora družinski pomočnik nemudoma obvestiti pristojni center za socialno delo. Center za socialno delo o spremenjenih okoliščinah pridobi tudi mnenje invalidne osebe.
+Pristojni center za socialno delo o delu družinskega pomočnika sestavlja letno socialno poročilo, ki vsebuje tudi obvestila oziroma mnenja invalidne osebe iz prvega, drugega in tretjega odstavka tega člena in poročila oziroma obvestila družinskega pomočnika iz drugega in tretjega odstavka tega člena.
+V primeru spremenjenih okoliščin ali če center za socialno delo podvomi v ustreznost pomoči družinskega pomočnika, celotno dokumentacijo odstopi komisiji iz 18.f člena tega zakona, ki mora novo mnenje v skladu s tem zakonom podati najkasneje v roku 30 dni od prejema dokumentacije.
+Če komisija ugotovi, da invalidni osebi ni zagotovljena ustrezna pomoč, center za socialno delo ravna po določbi 18.l člena tega zakona.

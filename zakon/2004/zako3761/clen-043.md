@@ -1,0 +1,2 @@
+# 43. člen
+Minister, pristojen za socialno varstvo, izda predpis iz 18.p člena zakona v roku šestih mesecev od uveljavitve tega zakona, pri čemer smiselno upošteva določbe pravilnika o postopkih za uveljavljanje pravic do družinskih prejemkov (Uradni list RS, št.15/2003) in pravilnika o kriterijih za uveljavljanje pravic za otroke, ki potrebujejo posebno nego in varstvo (Uradni list RS, št. 105/2002), ki se nanašajo na nego in varstvo otroka, ki potrebuje posebno varstvo, in uveljavljanje pravice do delnega plačila za izgubljeni dohodek.

@@ -1,0 +1,5 @@
+# 37. člen
+V prvem odstavku 113. člena se besedilo drugega stavka spremeni tako, da se glasi:
+"Posameznik, na katerega se nanaša pravica ali obveznost po tem zakonu, oziroma njegov zakoniti zastopnik je pristojnemu socialno varstvenemu zavodu oziroma drugi pravni ali fizični osebi, ki opravlja socialno varstveno dejavnost, dolžan dati vse podatke, o katerih socialno varstveni zavod oziroma izvajalec storitve vodi zbirke podatkov.".
+V napovednem stavku drugega odstavka se besedilo "centri za socialno delo" nadomesti z besedilom "socialno varstveni zavodi in druge pravne in fizične osebe, ki opravljajo socialno varstveno dejavnost po tem zakonu,".
+V deveti alinei drugega odstavka se za besedo "rejnini" postavi vejica in črta besedilo "in materialnih stroških, prispevkih za rejnice", za besedilom "in dobroimetju," pa se doda besedilo "preživninah, denarnih socialnih pomočeh, oprostitvah pri plačilu storitev in o plačilih družinskemu pomočniku,". V deseti alinei se za besedilom "Inštituta za socialno varstvo" postavi vejica in doda besedilo "Skupnosti socialnih zavodov Slovenije".

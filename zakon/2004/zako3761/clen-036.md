@@ -1,0 +1,5 @@
+# 36. člen
+V 112. členu se v prvem odstavku besedilo "osebe ter zasebniki" nadomesti z besedilom "in fizične osebe" in na koncu doda besedilo "in upravljavci centralnih zbirk podatkov, določeni s tem zakonom".
+V drugem odstavku za besedilom "o denarnih socialnih pomočeh" doda besedilo "in o drugih pomočeh posamezniku po tem zakonu ter o oprostitvah pri plačilih storitev".
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"Skupnost socialnih zavodov Slovenije obdeluje osebne podatke iz zbirke osebnih podatkov s področja institucionalnega varstva in varstva posebnih skupin odraslega prebivalstva z enako vsebino kot socialno varstveni zavodi in druge pravne in fizične osebe, ki opravljajo institucionalno varstvo po tem zakonu, je upravljavec in vzpostavi, vodi, vzdržuje in nadzoruje centralno zbirko podatkov na tem področju, ki jih brezplačno pridobiva iz zbirk podatkov, ki jih vodijo in vzdržujejo socialno varstveni zavodi in druge pravne in fizične osebe, ki opravljajo to storitev.".

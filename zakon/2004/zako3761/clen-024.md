@@ -1,0 +1,3 @@
+# 24. člen
+V 81. členu se za tretjim odstavkom doda nov četrti odstavek, ki se glasi:
+"Če je z aktom o ustanovitvi centra za socialno delo določeno, da znotraj centra za socialno delo delujejo notranje organizacijske enote, ki opravljajo naloge centra za socialno delo po tem zakonu in drugih predpisih za določeno krajevno območje, je za izvajanje nalog centra za socialno delo krajevno pristojna organizacijska enota, katere pristojnost se določi v aktu o ustanovitvi upoštevajoč določbe prvega, drugega in tretjega odstavka tega člena. V tem primeru je za vodenje in odločanje v postopku pri izvrševanju nalog centra za socialno delo pooblaščen vodja pristojne organizacijske enote.".

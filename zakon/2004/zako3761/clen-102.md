@@ -1,0 +1,3 @@
+# 102. člen
+Nadzor nad delom javnih socialno varstvenih zavodov, koncesionarjev in drugih pravnih ali fizičnih oseb, ki izvajajo socialno varstvene storitve na podlagi dovoljenja za delo (v nadaljnjem besedilu: izvajalci dejavnosti), organizira in izvaja socialna inšpekcija v okviru organa v sestavi ministrstva, pristojnega za socialno varstvo (v nadaljnjem besedilu: inšpekcijski nadzor), ki jo vodi direktor. Inšpekcijske nadzore izvajajo inšpektorji za socialne zadeve (v nadaljnjem besedilu: inšpektor), ki so delavci s posebnimi pooblastili in odgovornostmi.
+Za izvajanje inšpekcijskega nadzora po tem zakonu se uporabljajo določbe zakona, ki ureja inšpekcijski nadzor, kolikor posamezna vprašanja s tem zakonom niso urejena drugače.

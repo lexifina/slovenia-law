@@ -1,0 +1,5 @@
+# 18.b člen
+Družinski pomočnik je oseba, ki invalidni osebi nudi pomoč, ki jo potrebuje. Družinski pomočnik ni dolžan kriti materialnih stroškov za življenje invalidne osebe.
+Družinski pomočnik je lahko le oseba, ki bi se lahko štela za brezposelno osebo po predpisih o zaposlovanju in zavarovanju za primer brezposelnosti ali se je z namenom, da bi postala družinski pomočnik, odjavila iz evidence brezposelnih oseb ali je zapustila trg dela. Družinski pomočnik je lahko tudi oseba, ki je v delovnem razmerju s krajšim delovnim časom od polnega delovnega časa pri delodajalcu.
+Šteje se, da je oseba zapustila trg dela, če je z namenom, da bi postala družinski pomočnik, opustila zaposlitev s tem, da je odpovedala pogodbo o zaposlitvi s polnim delovnim časom ali pa je zaradi tega namena sklenila le delovno razmerje s krajšim delovnim časom od polnega delovnega časa pri istem oziroma drugem delodajalcu.
+Odpoved pogodbe o zaposlitvi ali odjava iz evidence brezposelnih oseb z namenom biti družinski pomočnik invalidu ne pomeni krivdnega izključitvenega razloga za pridobitev pravic po predpisih o zaposlovanju in zavarovanju za primer brezposelnosti.
