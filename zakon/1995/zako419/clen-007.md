@@ -1,0 +1,24 @@
+# 7. člen (podatki o zavarovancih)
+O zavarovancih se vnesejo v matično evidenco naslednji podatki:
+- priimek, ime, rojstni priimek;
+- enotna matična številka občana (v nadaljnjem besedilu: EMŠO);
+- naslov stalnega prebivališča;
+- naslov začasnega prebivališča;
+- poklic, ki ga opravlja;
+- šolska izobrazba;
+- stopnja strokovne izobrazbe;
+- stopnja strokovne usposobljenosti;
+- podlaga za zavarovanje;
+- ali je zavarovanec s telesno okvaro najmanj 70%, vojaški invalid I. do VI. skupine, civilni invalid vojne I. do VI. skupine, slepa oseba, oseba, obolela za distrofijo in sorodnimi mišičnimi in živčnomišičnimi obolenji, paraplegijo, cerebralno in otroško paralizo, multiplo sklerozo in ekstrapiramidnimi obolenji;
+- datum vstopa v zavarovanje;
+- o delu, ki ga je zavarovanec opravljal in za katero se mu zavarovalna doba šteje s povečanjem;
+- o pokojninski dobi;
+- o ugotovljeni plači oziroma zavarovalnih osnovah, od katerih so bili plačani prispevki (v nadaljnjem besedilu: plača oziroma osnove);
+- število ur polnega delovnega časa poslovnega subjekta ali zasebnega delodajalca (samo polne ure);
+- število ur dejanskega delovnega časa zavarovanca (polne ure);
+- število ur na delu, za katere je zavarovanec prejel plačo oziroma za katere so plačani prispevki od zavarovalne osnove;
+- število ur odsotnosti z dela, za katere je zavarovanec prejel nadomestilo plače, ki se všteva v pokojninsko osnovo;
+- prvič zaposlen v Republiki Sloveniji;
+- vrsta delovnega mesta;
+- matična številka enotnega registra;
+- datum in vzrok prenehanja zavarovanja.
