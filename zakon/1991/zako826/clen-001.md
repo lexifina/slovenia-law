@@ -1,0 +1,2 @@
+# 1. člen
+V zakonu o funkcionarjih v državnih organih (Uradni list RS, št. 30/90, 18/91 in 22/91) se v prvem odstavku 6. člena številka "40" nadomesti s številko "50" in doda nov stavek, ki se glasi: "Uskladitev zneska osnove za tekoči mesec se opravi najkasneje takrat, ko se razmerje med zneskom osnove in povprečnim osebnim dohodkom na delavca v gospodarstvu Republike Slovenije zniža za več kot pet odstotnih točk."
