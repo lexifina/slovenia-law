@@ -1,0 +1,12 @@
+# 10. člen
+Za 18. členom se doda nov 18.a člen, ki se glasi:
+"18.a člen
+(1) Agencija upravlja tudi evidenco o vstopih oseb v objekte agencije in na območje okolišev teh objektov in njihovem gibanju po njih, evidenco zadržanih oseb, evidenco uporabe fizične sile in sredstev za vklepanje ter evidenco uporabe strelnega orožja.
+(2) Evidenca iz prejšnjega odstavka vsebuje podatke o posnetku videonadzornega sistema (sliko oziroma glas), osebno ime, naslov, številko in podatke o vrsti osebnega dokumenta, času vstopa na varovano območje in izstopa z njega ter razlog vstopa na varovano območje.
+(3) Evidenca zadržanih oseb vsebuje podatke o zadržani osebi (osebno ime, rojstni podatki, začasno ali stalno bivališče), razlogu, času in kraju zadržanja, času obvestila policije in predaje zadržane osebe policiji, morebitnih telesnih poškodbah in uporabi sredstev za vklepanje.
+(4) Evidenca uporabe fizične sile in sredstev za vklepanje vsebuje podatke o varnostniku, ki je uporabil fizično silo oziroma sredstva za vklepanje (osebno ime, rojstni podatki), razlogu, načinu, kraju in času uporabe fizične sile oziroma sredstev za vklepanje, obvestilu policijske postaje ter morebitnih telesnih poškodbah.
+(5) Evidenca uporabe strelnega orožja vsebuje podatke o uradni osebi agencije, ki je uporabila strelno orožje (osebno ime, rojstni podatki), razlogu, načinu, kraju in času uporabe strelnega orožja, obvestilu policijske postaje ter morebitnih telesnih poškodbah.
+(6) Podatki iz drugega odstavka tega člena se hranijo največ tri mesece, nato se uničijo. Če obstaja sum storitve kaznivega dejanja, za katerega se storilec preganja po uradni dolžnosti, se ti podatki hranijo največ eno leto, nato se uničijo.
+(7) Podatki v evidenci iz tretjega odstavka tega člena se hranijo še pet let po vnosu podatkov o zadržanju osebe.
+(8) Podatki v evidenci iz četrtega in petega odstavka tega člena se hranijo še pet let po uporabi fizične sile, sredstev za vklepanje in strelnega orožja.
+(9) Po preteku rokov iz sedmega in osmega odstavka tega člena agencija podatke arhivira v skladu z zakonom, ki ureja arhivska gradiva in arhive.".
