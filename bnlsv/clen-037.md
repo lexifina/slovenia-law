@@ -1,0 +1,3 @@
+# 37. člen Ugotavljanje identitete
+
+Za upravičenost ali ohranitev upravičenosti do dajatve v skladu z nizozemsko zakonodajo mora zaposlena oseba, oseba, ki se šteje za zaposleno, in njeni preživeli družinski člani s stalnim prebivališčem v Sloveniji izkazati svojo identiteto pri slovenskem pristojnem nosilcu z uradnim osebnim dokumentom. Slovenski pristojni nosilec pravilno ugotovi identiteto osebe ob predložitvi osebnega dokumenta. Osebni dokument je potni list ali kakšen drug veljaven osebni dokument, ki ga predloži pristojni organ v kraju stalnega prebivališča. Slovenski pristojni nosilec obvesti nizozemskega pristojnega nosilca, da je bila identiteta pravilno preverjena, tako da pošlje kopijo osebnega dokumenta.

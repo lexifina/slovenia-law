@@ -1,0 +1,3 @@
+# 17. člen Začasno prebivališče v pristojni državi ali prenos stalnega prebivališča v to državo
+
+Osebam ali njihovim družinskim članom iz 15. člena, ki imajo začasno prebivališče na ozemlju pristojne države ali so tja prenesli stalno prebivališče, se zagotovijo storitve in dajatve na ozemlju pristojne države v skladu z določbami zakonodaje te države, tudi če so jim že bile zagotovljene storitve in dajatve za isti primer bolezni ali materinstva pred začasnim bivanjem oziroma pred prenosom stalnega prebivališča; če zakonodaja, ki jo uporablja pristojni nosilec, določa najdaljše možno obdobje zagotavljanja storitev in dajatev, se upošteva tudi obdobje, v katerem so bile osebi take storitve in dajatve zagotovljene neposredno pred prenosom stalnega prebivališča.
