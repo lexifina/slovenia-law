@@ -1,0 +1,3 @@
+# 5. člen (pogoji, pod katerimi so kozmetični proizvodi varni)
+Za varnega se šteje kozmetični proizvod, ki ne škoduje človekovemu zdravju ob normalnih, razumnih in predvidljivih pogojih uporabe, če uporabnik upošteva informacije o kozmetičnem proizvodu (označitev, navodilo za uporabo in shranjevanje ter odstranjevanje ostankov embalaže), kakor tudi kakršnekoli druge navedbe ali informacije, s katerimi je kozmetični proizvod opremljen.
+Za varnost kozmetičnega proizvoda je odgovoren proizvajalec, ki daje kozmetični proizvod v promet, za upoštevanje navodil proizvajalca, zlasti, ko gre za rok trajanja kozmetičnega proizvoda, pa je odgovorna tudi vsaka druga pravna ali fizična oseba, ki daje kozmetični proizvod v promet.

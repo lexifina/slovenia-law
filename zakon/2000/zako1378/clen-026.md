@@ -1,0 +1,2 @@
+# 26. člen (predpisi, ki prenehajo veljati)
+Do izdaje predpisov iz prvega odstavka 23. člena tega zakona se uporablja pravilnik o pogojih glede zdravstvene neoporečnosti predmetov splošne rabe, ki smejo v promet (Uradni list SFRJ, št. 26/83, 61/84, 56/86, 50/89 in 18/91) v delu, ki se nanaša na sredstva za osebno higieno, negovalna in lepotilna sredstva za obraz in telo (V. poglavje, od 101. do vključno 114. člena), kolikor ni v nasprotju s tem zakonom.
