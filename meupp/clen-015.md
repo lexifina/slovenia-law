@@ -1,0 +1,3 @@
+# 15. člen Teže in dimenzije
+
+Slovenija soglaša, da cestna vozila, ki so v skladu s standardi Skupnosti o težah in dimenzijah, lahko prosto in neovirano vozijo v prometnih smereh, omenjenih v 5. členu. Najkasneje do 31. 12. 1999 bodo cestna vozila, ki niso v skladu s slovenskimi standardi, obdavčena s posebno nediskriminacijsko dajatvijo, ki je proporcionalna višini škode, ki jo povzroči dodatna osna obremenitev. Šest mesecev po uveljavitvi tega sporazuma bodo vozila, opremljena s pnevmatskimi vzmetmi, kot je to določeno v smernici Sveta EGS 92/7, ali drugimi ustreznimi vzmetnimi sistemi, obdavčena z znižano stopnjo teh posebnih dajatev.

@@ -1,0 +1,11 @@
+# 12. člen Splošne določbe
+
+1. Glede vzajemnega dostopa do prometnih tržišč pogodbenici načelno in ne glede na drugi odstavek soglašata, da bosta ohranili vse obstoječe pravice, ki izhajajo iz dvostranskih sporazumov ali drugih mednarodnih dvostranskih aktov, sklenjenih med posamezno državo članico Skupnosti in Slovenijo, ali, če takih sporazumov ali aktov ni, pa iz dejanskih razmer v letu 1991.
+
+Do sklenitve sporazuma med Skupnostjo in Slovenijo o vključitvi v cestnoprometni trg, kot to predvideva 13. člen, pa bodo države članice Skupnosti in Slovenija svoje omenjene dvostranske sporazume po potrebi tako dopolnile, da bodo usklajeni s tem sporazumom.
+
+2. Pogodbenici soglašata, da bo od dne, ko začne veljati ta sporazum, Skupnost pridobila pravico do neomejenega tanzitnega prometa čez ozemlje Slovenije, slovenski tranzitni promet pa bo lahko neovirano potekal čez ozemlje Skupnosti.
+
+3. Če bi se zaradi pravic, ki jih omogoča drugi odstavek, tranzitni promet prevoznikov ES tako povečal, da bi povzročil ali grozil, da povzroči resno škodo cestni infrastrukturi in/ali prometnemu pretoku na oseh, omenjenih v 5. členu, lahko Slovenija skliče nujni sestanek skupnega odbora, katerega ustanovitev je določena v členu 22, na katerem lahko predlaga sprejem takšnih začasnih ukrepov, ki so potrebni za omejitev ali ublažitev te škode. Skupni odbor se mora sestati v 30 dneh, da presodi položaj in nemudoma priporoči ustrezne ukrepe za izboljšanje stanja. Če v šestdesetih dneh po datumu sklica nujnega sestanka ne pride do soglasja, lahko Slovenija uvede začasne ukrepe z veljavnostjo do 3 mesecev. Če nastanejo problemi na ozemlju Skupnosti ob slovenski meji, lahko pristojni organi, vključno s tistimi iz obmejnega področja, pod enakimi pogoji sprejmejo ustrezne ukrepe. Hkrati se zadeva pošlje v obravnavo Svetu za sodelovanje, predvidenemu v 38. členu sporazuma o sodelovanju, ki mora o zadevi dokončno odločiti. Sprejeti sklep se bo takoj izvršil, biti mora proporcionalen in nediskriminacijski. To določilo preneha veljati, ko so doseženi cilji, določeni v 5. členu, in najkasneje do konca 1999.
+
+4. Pogodbenici se bosta vzdržali enostranskih dejanj, ki lahko povzročijo diskriminacijo med prevozniki ali vozili Skupnosti in Slovenije. Vsaka pogodbenica mora sprejeti vse ustrezne ukrepe, da olajša cestni prevoz na ozemlje druge pogodbenice ali čezenj.
