@@ -1,0 +1,2 @@
+# 23. člen (zahteva za enotno dovoljenje)
+V zahtevi za izdajo enotnega dovoljenja za mejni prehod mora pooblaščeni investitor navesti osnovne podatke o naravnih lastnostih, grajenih strukturah in obremenitvi okolja na določenem območju, velikosti, namenu in zmogljivosti mejnega prehoda, prostorskem izvedbenem aktu ter priložiti dokazilo, da ima pravico graditi na zemljišču ali drugače posegati v prostor.

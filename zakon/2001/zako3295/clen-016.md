@@ -1,0 +1,5 @@
+# 16. člen (postopek sporazumevanja)
+(1) Po uveljavitvi odloka o programu priprave lokacijskega načrta za mejni prehod ali po uveljavitvi uredbe Vlade Republike Slovenije iz drugega odstavka 12. člena tega zakona, se lastnikom nepremičnin predlaga sklenitev pogodbe zaradi odkupa njihove nepremičnine, v vrednosti, ki jo oceni sodni cenilec.
+(2) Če se lastnik nepremičnine ne strinja s predlagano cenitvijo, mora v roku 30 dni v pisni obliki to sporočiti pooblaščenemu investitorju. Na to mora biti lastnik nepremičnine izrecno opozorjen ob vročitvi ponudbe za odkup njegove nepremičnine in cenitve.
+(3) Ugovori lastnika na vročeno cenitev se takoj preverijo z drugim cenilcem. Če se lastnik nepremičnine ne strinja tudi z drugo cenitvijo, mora v roku 30 dni v pisni obliki to sporočiti pooblaščenemu investitorju. Na to mora biti lastnik nepremičnine izrecno opozorjen ob vročitvi druge cenitve.
+(4) Za vročanje spisov po določbah tega člena se uporabljajo predpisi, ki določajo način vročanja v upravnem postopku.

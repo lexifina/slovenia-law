@@ -1,0 +1,3 @@
+# 9. člen (prepovedi)
+(1) Z dnem uveljavitve odloka o programu priprave lokacijskega načrta za mejni prehod, velja na ureditvenem območju lokacijskega načrta do njegovega sprejema, prepoved prometa z zemljišči in prepoved spreminjanja mej obstoječih parcel, prepoved spreminjanja obstoječe namenske rabe prostora ter prepoved graditve, razen tekočih vzdrževalnih del na obstoječih objektih in napravah.
+(2) Po objavi odloka o programu priprave lokacijskega načrta za mejni prehod se na predlog pooblaščenega investitorja prepovedi iz prejšnjega odstavka zaznamujejo v zemljiškem katastru in katastru stavb ter zemljiški knjigi. Zaznamek vsebuje tudi podatek o veljavnosti odloka. Zaznamek se vpiše v zemljiški kataster in kataster stavb kot gostujoči podatek.

@@ -1,0 +1,3 @@
+# 21. člen (uvedba postopka razlastitve)
+(1) Ko pooblaščeni investitor sprejme obvestilo lastnika nepremičnine, da se tudi z drugo cenitvijo iz tretjega odstavka 16. člena tega zakona ne strinja ali je rok brezuspešno potekel, se šteje, da sporazum med pooblaščenim investitorjem in lastnikom o odkupu oziroma nadomestitvi nepremičnine ni dosežen. Pooblaščeni investitor lahko takoj poda predlog za razlastitev pristojnemu organu in o tem obvesti lastnika nepremičnine. Obvestilo mora biti lastniku nepremičnine osebno vročeno.
+(2) Postopek za razlastitev nepremičnine se lahko uvede po ugotovitvi javne koristi.
