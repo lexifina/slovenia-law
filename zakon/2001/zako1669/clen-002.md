@@ -1,0 +1,4 @@
+# 2. člen (prepoved)
+(1) Če je na podlagi izvršenega postopka po tem zakonu ugotovljeno, da se z nekim blagom krši pravice intelektualne lastnine, je prepovedan vnos takega blaga na carinsko območje, sprostitev takega blaga v prost promet, njegov izvoz in ponovni izvoz, začetek katerega koli odložnega carinskega postopka za tako blago ali njegov vnos v prosto carinsko cono.
+(2) Ta zakon se ne nanaša na blago, ki je brez soglasja imetnika pravice predmet carinskega obravnavanja, če je blago označeno z znamko s soglasjem imetnika pravice, ali če je bilo blago, ki je zavarovano s patentom, dodatnim varstvenim certifikatom, modelom, avtorsko ali sorodno pravico, proizvedeno s soglasjem imetnika pravice.
+(3) Ta zakon se ne nanaša na blago nekomercialne narave, ki se nahaja v potnikovi osebni prtljagi, če je količina blaga oziroma njegova vrednost v okviru količine oziroma vrednosti, ki je po carinskih predpisih lahko oproščena plačila carine.
