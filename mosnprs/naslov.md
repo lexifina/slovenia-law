@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI OBMOČNEGA SPORAZUMA O NAČRTOVANJU POMORSKIH RADIONAVIGACIJSKIH STORITEV (RADIJSKI SVETILNIKI) V EVROPSKEM POMORSKEM OBMOČJU (MOSNPRS)
+
+Z A K O N
+
+O RATIFIKACIJI OBMOČNEGA SPORAZUMA O NAČRTOVANJU POMORSKIH RADIONAVIGACIJSKIH STORITEV (RADIJSKI SVETILNIKI) V EVROPSKEM POMORSKEM OBMOČJU (MOSNPRS)
+
+R E G I O N A L A G R E E M E N T
+
+Concernint the Planning of the Maritime Radionavigation Service (Radiobeacons) in the European Maritime Area (Geneva, 1985)
+
+O B M O Č N I S P O R A Z U M
+
+o načrtovanju pomorskih radionavigacijskih storitev (radijski svetilniki) v evropskem pomorskem območju (Ženeva 1985)
