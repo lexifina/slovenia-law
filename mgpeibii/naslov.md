@@ -1,0 +1,21 @@
+UKAZ
+
+o razglasitvi Zakona o ratifikaciji Garancijske pogodbe med Republiko Slovenijo in Evropsko investicijsko banko za Slovenski železniški projekt II
+
+ZAKON O RATIFIKACIJI GARANCIJSKE POGODBE MED REPUBLIKO SLOVENIJO IN EVROPSKO INVESTICIJSKO BANKO ZA SLOVENSKI ŽELEZNIŠKI PROJEKT II
+
+GUARANTEE AGREEMENT
+
+BETWEEN THE REPUBLIC OF SLOVENIA AND EUROPEAN INVESTMENT BANK
+
+Luxembourg, 7th July 1994
+
+Ljubljana, 11th July 1994
+
+GARANCIJSKA POGODBA
+
+MED REPUBLIKO SLOVENIJO IN EVROPSKO INVESTICIJSKO BANKO
+
+Luksemburg, 7. julij 1994
+
+Ljubljana, 11. julij 1994
