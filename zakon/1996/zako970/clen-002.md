@@ -1,0 +1,3 @@
+# 2. člen
+O vseh referendumskih vprašanjih se glasuje z eno glasovnico. Na glasovnici so referendumska vprašanja navedena po vrstnem redu vložitve zahtev za razpis referenduma. Za vsakim referendumskim vprašanjem sledita besedi "za" in "proti".
+Volivec glasuje tako, da pri posameznem referendumskem vprašanju obkroži besedo "za" ali besedo "proti". Volivec se lahko pri posameznem referendumskem vprašanju tudi ne opredeli in ne obkroži niti besede "za" niti besede "proti". Besedo "za" lahko obkroži samo pri enem referendumskem vprašanju. Besedo "proti" lahko obkroži pri referendumskih vprašanjih, pri katerih ni obkrožil besede "za". Besedo "proti" lahko obkroži tudi pri vseh referendumskih vprašanjih, če pri nobenem referendumskem vprašanju ni obkrožil besede "za".
