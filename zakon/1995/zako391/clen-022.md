@@ -1,3 +1,0 @@
-# 22. člen
-Z deklariranjem proizvodov je po tem zakonu mišljeno, da se na proizvodu, njegovi embalaži ali na kakšen drug ustrezen način navedejo podatki za identifikacijo proizvoda, njegove usklajenosti s standardi ali predpisi, karakteristike ter podatki o proizvajalcu oziroma tistem, ki daje proizvod v promet.
-Z označevanjem proizvodov je po tem zakonu mišljeno, da se na proizvod, njegovo embalažo ali na kakšen drug ustrezen način nanesejo znaki skladnosti ali drugi znaki in oznake, ki jih določa ta zakon ali predpisi, izdani na njegovi podlagi, znamenja in simboli za nevarnost, oznake in simboli za način ravnanja s pošiljkami pri prenosu ali prevozu ter za ravnanje s proizvodi pri skladiščenju in hrambi ter o postopku v primeru nezgode.

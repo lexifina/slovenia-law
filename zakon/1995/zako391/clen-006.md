@@ -1,2 +1,0 @@
-# 6. člen
-Tehnične predpise izdajajo pristojni ministri. Tehnični predpisi se lahko sklicujejo na slovenske standarde. Če ustreznih slovenskih standardov ni, se lahko sklicujejo na tuje standarde. V primeru sklicevanja na standarde, mora pristojni minister tehnični predpis pripraviti v sodelovanju z Uradom, uporaba standardov mora biti objavljena v uradnem glasilu Urada, standardi pa javnosti dosegljivi v Uradu.
