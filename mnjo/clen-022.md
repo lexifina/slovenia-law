@@ -1,0 +1,5 @@
+# 22. člen
+
+Katerikoli spor, nastal v zvezi z razlago ali uporabo tega sporazuma, razen spora v zvezi z ugotovitvijo Sveta po 19. členu ali z ukrepom Sveta na podlagi take ugotovitve, ki se ne rešuje z dogovarjanjem ali drugim postopkom, s katerim se strinjata Slovenija in Agencija, bo na zahtevo ene ali druge predložen arbitražnemu sodišču, ki bo sestavljeno takole: Slovenija in Agencija bosta imenovali vsaka svojega razsodnika, tako imenovana razsodnika pa bosta izbrala tretjega, ki bo predsednik. Če v 30 dneh po zahtevi za razsodbo bodisi Slovenija bodisi Agencija ne bi imenovala razsodnika, lahko bodisi Slovenija bodisi Agencija od predsednika Meddržavnega sodišča zahteva, naj določi razsodnika. Enak postopek velja tudi, če v tridesetih dneh po imenovanju drugega razsodnika tretji razsodnik še ne bi bil izbran. Večina članov arbitražnega sodišča sestavlja kvorum in je za vsak sklep potrebno soglasje dveh razsodnikov. Razsodni postopek določi arbitražno sodišče. Odločitve arbitražnega sodišča so zavezujoče za Slovenijo in Agencijo.
+
+ZAČASNA PREKINITEV UPORABE VAROVANJA AGENCIJE PO DRUGIH SPORAZUMIH
