@@ -1,0 +1,3 @@
+# 42.b člen
+(1) Pravica do opravljanja obrtne dejavnosti za osebe držav članic EU ni vezana na pogoj vzajemnosti.
+(2) Osebe držav članic EU so glede pridobitve obrtnega dovoljenja in drugih dovoljenj za opravljanja obrtne dejavnosti na ozemlju Republike Slovenije, pod pogoji iz tega poglavja, izenačeni z državljani in pravnimi osebami Republike Slovenije, ne glede na to, ali na ozemlju Republike Slovenije ustanovijo pravno osebo ali se registrirajo kot podjetnik posameznik, ki bo opravljal dejavnost obrti ali pa bodo opravljali dejavnost obrti v Republiki Sloveniji s sedežem ali prebivališčem v državah članicah Evropske unije.
