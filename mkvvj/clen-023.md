@@ -1,0 +1,3 @@
+# 23. člen PODPIS
+
+Ta konvencija je na voljo za podpis v Helsinkih od 17. do vključno 18. marca 1992 in nato na sedežu Združenih narodov v New Yorku do 18. septembra 1992 za države članice Ekonomske komisije za Evropo kot tudi države, ki imajo posvetovalni status v Ekonomski komisiji za Evropo v skladu z osmim odstavkom resolucije Ekonomsko socialnega sveta 36 (IV) z dne 28. marca 1947 ter za regionalne organizacije za gospodarsko povezovanje, ki so jih ustanovile suverene države članice Ekonomske komisije za Evropo, na katere so njihove države članice prenesle pristojnost glede zadev, ki jih ureja ta konvencija, vključno s pristojnostjo, da sklepajo mednarodne pogodbe o teh zadevah.
