@@ -1,0 +1,3 @@
+# 16. člen Nesreča na poti na delo
+
+Če zavarovanec s stalnim prebivališčem v eni državi pogodbenici potuje na podlagi veljavne pogodbe o delu zaradi opravljanja dela v drugo državo pogodbenico brez prekinitve in po najkrajši poti ter doživi med potovanjem v kraj zaposlitve nesrečo, zagotovi ustrezne storitve in dajatve nosilec druge države pogodbenice skladno s svojimi pravnimi predpisi o zavarovanju za primer poškodbe pri delu. Enako velja tudi za nesrečo, ki jo doživi zaposleni pri vrnitvi v državo stalnega prebivališea neposredno po izteku pogodbe o zaposlitvi, na podlagi katere je bil v drugi državi pogodbenici, ali na poti na redni letni dopust v prvo državo pogodbenico oziroma ob vrnitvi na delo s tega dopusta.
