@@ -1,0 +1,5 @@
+# 278. člen
+
+(1) Ko sklepa o ugovoru zoper obtožnico državnega tožilca, vloženo po šestem odstavku 170. člena tega zakona, ali o zahtevi predsednika senata v zvezi s to obtožnico (284. člen), ali ko sklepa v primerih iz prvega odstavka 271. člena tega zakona o zahtevi predsednika senata sodišča prve stopnje, ki se ne strinja z obtožnico oškodovanca kot tožilca ali z zasebno tožbo, zavrže senat s sklepom obtožnico oziroma zasebno tožbo, če spozna da je podan kakšen razlog iz 1., 2. ali 3. točke prvega oziroma iz drugega odstavka prejšnjega člena; če so bila opravljena preiskovalna dejanja, pa tudi, če spozna, da je podan razlog iz 4. točke prvega odstavka omenjenega člena.
+
+(2) Če je bila po ugovoru zoper obtožnico državnega tožilca iz prejšnjega odstavka ali po zahtevi predsednika senata v zvezi s to obtožnico (284. člen) opravljena preiskava (drugi odstavek 276. člena), senat pa po preiskavi spozna, da je podan kakšen razlog iz prvega odstavka prejšnjega člena, odloči s sklepom, da se obtožba ne dopusti in da se kazenski postopek ustavi.

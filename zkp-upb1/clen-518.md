@@ -1,0 +1,3 @@
+# 518. člen
+
+Kadar gre za kazniva dejanja ponarejanja denarja in spravljanja ponarejenega denarja v obtok, neupravičenega izdelovanja, predelovanja in prodaje mamil in strupov, trgovine z belim blagom, izdelovanja in širjenja pornografskega gradiva ali za kakšno drugo kaznivo dejanje, glede katerega je po mednarodnih pogodbah dogovorjena centralizacija podatkov, mora organ, pred katerim teče kazenski postopek, brez odlašanja poslati ministrstvu, pristojnemu za notranje zadeve, podatke o kaznivem dejanju in storilcu, sodišče prve stopnje pa tudi pravnomočno sodbo. Kadar gre za kaznivo dejanje pranja denarja ali za kaznivo dejanje v zvezi s pranjem denarja, se podatki brez odlašanja pošljejo organu, ki je pristojen za preprečevanje pranja denarja.

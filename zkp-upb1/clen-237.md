@@ -1,0 +1,3 @@
+# 237. člen
+
+Če je bil kot priča zaslišan kdo, ki ne bi smel biti zaslišan kot priča (235. člen), ali kdo, ki ni bil dolžan pričati (236. člen), pa o tem ni bil poučen ali se ni izrecno odpovedal tej pravici, ali pa pouk in odpoved pričevanju nista zapisana v zapisnik, ali če je bil zaslišan mladoletnik, ki ni mogel razumeti pomena pravice, da ni dolžan pričati, ali če je bila izpovedba priče izsiljena s silo, grožnjo ali kakšnim drugim podobnim prepovedanim sredstvom (tretji odstavek 266. člena), ne sme sodišče na tako izpovedbo opreti svoje odločbe.
