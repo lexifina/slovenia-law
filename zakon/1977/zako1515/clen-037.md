@@ -9,4 +9,4 @@ Organi požarne inšpekcije imajo pri opravljanju nadzorstvenih nalog iz prejšn
 7. odrediti, da je treba v roku, ki ga določi organ, odpraviti ugotovljene nepravilnosti.
 Pritožba zoper odločbo, izdano po prejšnjem odstavku, ne odloži njene izvršitve.
 Organ, ki je izdal odločbo, sme na pritožbo odločiti, naj se izvršitev izpodbijane odločbe odloži do odločitve o pritožbi, če spozna, da odložitev ne bi imela škodljivih posledic za varnost ljudi in premoženja.
-Delavci milice imajo pri opravljanju nadzorstvenih nalog iz prejšnjega člena pravice iz 1., 2. in 6. točke prvega odstavka tega člena.
+Delavci policije imajo pri opravljanju nadzorstvenih nalog iz prejšnjega člena pravice iz 1., 2. in 6. točke prvega odstavka tega člena.
