@@ -4,6 +4,8 @@ S popisom se za osebo zberejo podatki o:
 - enotni matični številki občana (EMŠO) oziroma datumu rojstva,
 - spolu,
 - naslovu prebivališča,
+- naslovu stanovanja,
+- številki stanovanja,
 - navzočnosti / odsotnosti v kritičnem trenutku popisa,
 - prebivališču leto dni pred popisom,
 - kraju rojstva,
@@ -11,6 +13,7 @@ S popisom se za osebo zberejo podatki o:
 - selitvah,
 - državljanstvu,
 - narodni (etnični) pripadnosti,
+- veroizpovedi,
 - materinem jeziku,
 - pogovornem jeziku v gospodinjstvu (družini),
 - zakonskem stanu,
@@ -25,4 +28,6 @@ S popisom se za osebo zberejo podatki o:
 - kraju dela / izobraževanju,
 - potovanju na delo / v šolo,
 - glavnem viru preživljanja,
-- vzdrževanosti.
+- vzdrževanosti,
+- stanovanjskem razmerju osebe,
+- drugih stanovanjih v lasti osebe (lastnik oziroma solastnik stanovanja).
