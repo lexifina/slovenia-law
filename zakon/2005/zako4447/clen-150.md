@@ -1,0 +1,6 @@
+# 150. člen
+(1) Od nastopa razloga za začetek likvidacije vzajemnega sklada imetnik investicijskega kupona ne more več zahtevati izplačila odkupne vrednosti investicijskega kupona. Zahteve za izplačilo, ki jih družba za upravljanje prejme po nastopu razloga za začetek likvidacije vzajemnega sklada, nimajo pravnega učinka.
+(2) Od nastopa razloga za začetek likvidacije vzajemnega sklada vlagatelji ne morejo več pristopiti k pravilom upravljanja vzajemnega sklada. Pristopne izjave, ki jih družba za upravljanje prejme po nastopu razloga za začetek likvidacije vzajemnega sklada, nimajo pravnega učinka.
+(3) Od nastopa razloga za začetek likvidacije vzajemnega sklada se lahko družbi za upravljanje izplača dospela provizija za upravljanje vzajemnega sklada samo hkrati z izplačilom imetnikom investicijskih kuponov.
+(4) Z nastopom razloga za začetek likvidacije vzajemnega sklada pridobi imetnik investicijskih kuponov pravico do izplačila denarne likvidacijske mase v sorazmernem deležu, ki je enak deležu števila enot premoženja vzajemnega sklada, na katere se glasijo investicijski kuponi, katerih imetnik je, in številu vseh enot premoženja vzajemnega sklada v obtoku.
+Unovčenje premoženja vzajemnega sklada in poplačilo imetnikov investicijskih kuponov

@@ -1,0 +1,7 @@
+# 122. člen
+(1) Družba za upravljanje ima pravico do povrnitve vstopnih in izstopnih stroškov v višini, določeni v pravilih upravljanja vzajemnega sklada.
+(2) Vstopni in izstopni stroški morajo biti izraženi v odstotku od vrednosti investicijskih kuponov vzajemnega slada.
+(3) Kadar se je imetnik investicijskih kuponov ob pristopu k pravilom vzajemnega sklada zavezal nalagati denarna sredstva v enote vzajemnega sklada v določenem daljšem časovnem obdobju (v nadaljnjem besedilu: obdobje varčevanja), lahko družba za upravljanje, če tako določajo pravila upravljanja vzajemnega sklada, od vplačil, opravljenih v prvem letu po pristopu, obračuna vstopne stroške v višini določeni s pravili upravljanja vzajemnega sklada, ki pa ne sme presegati 30 odstotkov vrednosti vplačil v prvem letu. V primeru iz prejšnjega stavka sme družba za upravljanje od nadaljnjih vplačil investicijskih kuponov obračunavati sorazmerno nižje vstopne stroške, tako da vstopni stroški od vplačil za celotno obdobje varčevanja ne presežejo višine vstopnih stroškov, določenih s pravili upravljanja vzajemnega sklada.
+(4) Vstopne stroške obračuna družba za upravljanje v odstotku od zneska vplačila investicijskih kuponov ob njihovem vplačilu.
+(5) Izstopne stroške obračuna družba za upravljanje v odstotku od zneska izplačila investicijskih kuponov ob njihovem izplačilu. Izstopni stroški pri izplačilu posameznega investicijskega kupona ne smejo presegati 3 odstotke od zneska izplačila investicijskih kuponov ob njihovem izplačilu.
+Provizija za upravljanje

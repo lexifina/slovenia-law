@@ -1,0 +1,8 @@
+# 54. člen
+(1) Družba za upravljanje in oseba povezana z družbo za upravljanje v svojem imenu in za svoj račun ter v svojem imenu in za račun investicijskega sklada, ki ga upravlja, s skrbnikom, ki za njene sklade opravlja skrbniške storitve, in s tem skrbnikom povezanimi osebami, ne sme sklepati poslov nakupa in prodaje oziroma drugih poslov, katerih predmet so naložbe investicijskih skladov, ki jih družba za upravljanje upravlja.
+(2) Skrbnik in z njim povezane osebe ne smejo pridobiti investicijskih kuponov oziroma delnic investicijskega sklada, za katerega opravlja skrbniške storitve.
+(3) Fizična oseba, ki upravlja premoženje skrbnika ne sme hkrati opravljati skrbniških storitev.
+(4) Skrbnik mora sprejeti pravilnik, s katerim bo uredil omejitev prenosa informacij med osebami iz tretjega odstavka tega člena, ki se nanašajo na premoženje investicijskega sklada, vzajemnega pokojninskega sklada oziroma kritnega premoženja pokojninske družbe in omejil možen konflikt interesov, ki bi lahko nastal med opravljanjem skrbniških storitev za investicijski sklad glede na druge storitve in dejavnosti ter premoženje skrbnika, kakor tudi glede na kapitalsko povezanost skrbnika z drugimi subjekti in lastniško strukturo skrbnika.
+(5) Naložbe in posli skrbnika, katerih predmet so naložbe investicijskih skladov, za katere opravlja skrbniške storitve, skrbnik poroča Agenciji z vsebino, na način in v rokih, ki jih predpiše Agencija.
+(6) Družba za upravljanje za račun investicijskih skladov, ki jih upravlja, v skrbniku skupno ne sme pridobiti kvalificiranega deleža iz drugega odstavka 12. člena, na podlagi katerega bi lahko izvajala pomemben vpliv na upravo skrbnika.
+Dovoljenje za opravljanje skrbniških storitev

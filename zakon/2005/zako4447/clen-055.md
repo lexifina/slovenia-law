@@ -1,0 +1,13 @@
+# 55. člen
+(1) Skrbniške storitve iz 53. člena tega zakona lahko opravlja samo:
+1. banka iz prvega odstavka 2. člena ZBan, ki je pridobila dovoljenje Banke Slovenije za opravljanje skrbniških storitev,
+2. podružnica banke države članice, ustanovljena na območju Republike Slovenije v skladu z ZBan, ki je pridobila dovoljenje Banke Slovenije za opravljanje skrbniških storitev,
+3. finančna institucija, katere poslovanje ureja ZTVP-1 in katere glavna dejavnost so po navedenem zakonu storitve v zvezi s poslovanjem z vrednostnimi papirji ter uveljavljanjem pravic iz teh vrednostnih papirjev in ki je pridobila dovoljenje Agencije za opravljanje skrbniških storitev,
+4. podružnica finančne institucije iz 3. točke, ustanovljena na območju Republike Slovenije, ki je pridobila dovoljenje Agencije za opravljanje skrbniških storitev.
+(2) Za opravljanje skrbniških storitev mora banka skrbnica izpolnjevati kadrovske, tehnične in organizacijske pogoje, določene s predpisi, izdanimi na podlagi prvega odstavka 38. člena ZBan, finančna institucija iz 3. točke prvega odstavka tega člena oziroma njena podružnica pa kadrovske, tehnične in organizacijske pogoje, ki jih predpiše Agencija, do takrat pa se smiselno uporabljajo določbe 89. člena ZTVP-1 in na njegovi podlagi izdani predpisi.
+(3) Banka Slovenije izda dovoljenje banki skrbnici za opravljanje skrbniških storitev po predhodnem mnenju Agencije. Institucijam iz tretje točke prvega odstavka tega člena izda dovoljenje za opravljanje skrbniških storitev Agencija.
+(4) Za dovoljenje Banke Slovenije za opravljanje skrbniških storitev se uporabljajo določbe ZBan o dovoljenju za opravljanje drugih finančnih storitev, za mnenje in dovoljenje Agencije iz tretjega odstavka tega člena pa določbe ZTVP-1 o dovoljenju za opravljanje storitev v zvezi z vrednostnimi papirji oziroma o dovoljenju iz 263. člena ZTVP-1.
+(5)V kolikor se storitve iz 1. točke prvega odstavka 260. člena ZTVP-1 izvajajo kot skrbniške storitve ne velja omejitev opravljanja teh storitev iz tretjega odstavka 260. člena ZTVP-1.
+(6) Za prenehanje dovoljenja za opravljanje skrbniških storitev se za banko skrbnico smiselno uporablja 41. člen ZBan, za finančne institucije iz 3. točke prvega odstavka tega člena pa ZTVP-1.
+(7) Poleg primerov, določenih v prvem odstavku 41. člena ZBan, dovoljenje za opravljanje skrbniških storitev preneha banki skrbnici tudi, če preneha dovoljenje za opravljanje bančnih storitev, finančni institucijI iz 3. točke prvega odstavka tega člena pa, če ji preneha dovoljenje za opravljanje storitev v zvezi s poslovanjem z vrednostnimi papirji po ZTVP-1.
+Nadzor nad skrbnikom

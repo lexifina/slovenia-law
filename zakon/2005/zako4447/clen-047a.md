@@ -1,0 +1,5 @@
+# 47.a člen
+(1) Družba za upravljanje države članice, ki ima odprto podružnico v Republiki Sloveniji, mora o svojem poslovanju preko te podružnice redno poročati Agenciji, pri čemer posreduje vse podatke, ki jih Agencija potrebuje za statistične namene.
+(2) Družba za upravljanje države članice, ki v Republiki Sloveniji neposredno opravlja svoje storitve, mora Agenciji poročati o usklajenosti s pravili varnega in skrbnega poslovanja in obvladovanja tveganj, splošnimi pogoji poslovanja, s predpisi, ki se nanašajo na razkrivanje, razpoložljivost in javno objavo informacij, ki so pomembne za vlagatelje v investicijske sklade, s predpisi o varstvu potrošnikov oziroma vlagateljev ter drugimi predpisi iz 7. člena tega zakona, ki sicer veljajo za družbe za upravljanje s sedežem v Republiki Sloveniji in katerih namen je zaščita vlagateljev.
+(3) Agencija predpiše podrobnejšo vsebino, način in roke poročanja iz prvega in drugega odstavka tega člena.
+Nadzor nad podružnico družbe za upravljanje države članice
