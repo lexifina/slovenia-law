@@ -1,0 +1,6 @@
+# 2. člen
+Drugi odstavek 25. člena se spremeni tako, da se glasi:
+"Sredstva za specializacije zdravnikov za mrežo javne zdravstvene službe se zagotavljajo iz sredstev obveznega zdravstvenega zavarovanja. Višino sredstev za plače in nadomestila specializantov in druge stroške v zvezi s programom specializacij se opredeli z letnim načrtom na podlagi dogovora med ministrstvom, pristojnim za zdravje (v nadaljnjem besedilu: ministrstvo), zbornico in Zavodom za zdravstveno zavarovanje Slovenije (v nadaljnjem besedilu: zavod)."
+Za drugim odstavkom se dodata nova tretji in četrti odstavek, ki se glasita:
+"Specializanti so zaposleni pri pooblaščenih zdravstvenih zavodih in zasebnih ordinacijah na specializantskih delovnih mestih, ki jih za vsako leto določi zbornica v soglasju z ministrom. Zbornica pripravi za vsakega posameznega specializanta potek specializacije in opredeli specializantska delovna mesta, na katerih specializanti izvajajo posamezne dele specializacije.
+Sredstva za plače specializantov in druge dogovorjene stroške v zvezi s specializacijo zagotovi pooblaščenim zdravstvenim zavodom oziroma zasebnim ordinacijam zavod na podlagi obdobnih poročil o izvajanju specializacij. Tako opredeljena sredstva se izplačujejo na podlagi pogodbe med pooblaščenimi zdravstvenimi zavodi oziroma zasebnimi ordinacijami in zavodom."

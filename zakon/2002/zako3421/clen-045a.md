@@ -1,0 +1,2 @@
+# 45.a člen
+Neprekinjena nujna zdravniška pomoč se zagotavlja s polnim delovnim časom, dežurstvom, pripravljenostjo ali kombinacijami teh oblik dela. Posamezen zdravnik lahko zagotavlja nujno zdravniško pomoč neprekinjeno največ 24 ur, pri čemer polni delovni čas in efektivno delo v dežurstvu in pripravljenosti skupaj ne sme trajati več kot 12 ur, pred tem in po tem pa mora biti zagotovljena pravica do počitka."

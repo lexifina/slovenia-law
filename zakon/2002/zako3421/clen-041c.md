@@ -1,0 +1,4 @@
+# 41.c člen
+Zdravnik, ki v okviru mreže javne zdravstvene službe dela polni delovni čas pri enem ali več delodajalcih, sme izjemoma za opravljanje dopolnilnega dela skleniti pogodbo o zaposlitvi z drugim delodajalcem v okviru mreže javne zdravstvene službe, vendar največ za osem ur na teden, po poprejšnjem soglasju delodajalcev, pri katerih je zaposlen s polnim delovnim časom.
+Določitev načina uresničevanja pravic in obveznosti iz tega delovnega razmerja, glede na pravice in obveznosti zdravnika pri delodajalcih, pri katerih je zaposlen s polnim delovnim časom, je obvezna sestavina pogodbe o zaposlitvi iz prejšnjega odstavka.
+Zdravniku, ki sklene pogodbo o zaposlitvi skladno s prvim odstavkom tega člena, ta pogodba preneha veljati v skladu z zakonom, ki ureja delovna razmerja, po poteku dogovorjenega časa ali če so umaknjena soglasja delodajalcev, kjer je zdravnik v delovnem razmerju s polnim delovnim časom."
