@@ -1,0 +1,4 @@
+# 73. člen
+(1) Upravne enote začnejo z izdajo dovoljenj za stalno prebivanje šest mesecev po uveljavitvi tega zakona.
+(2) Do roka, navedenega v prvem odstavku, se za izdajo dovoljenj za stalno prebivanje uporablja dosedanja ureditev.
+(3) Določbe členov povezane z izdajanje vizumov in dovoljenj za prebivanje, ki morajo vsebovati fotografijo, se začnejo uporabljati pet let po začetku veljavnosti tega zakona. V navedenem roku mora minister, pristojen za notranje zadeve, uskladiti predpis iz tretjega odstavka 21. člena, ki določa vsebino in format vizuma ter predpis iz četrtega odstavka 46. člena, ki določa vsebino, obliko in način izdaje dovoljenja za prebivanje ter način in označitev razveljavitve oziroma prenehanja dovoljenja za prebivanje."
