@@ -1,0 +1,2 @@
+# 13.a člen
+Šteje se, da so zahteve o sodelovanju javnosti po 60. členu zakona o varstvu okolja (Uradni list RS, št. 32/93 in 1/96) izpolnjene z javno razgrnitvijo osnutka lokacijskega načrta po določbah 45.b, 45.c, 45.č, 45.d, 45.e in 45.f člena v zvezi s 45.j členom zakona o urejanju naselij in drugih posegov v prostor (Uradni list SRS, št. 18/84, 37/85 in 29/86 ter Uradni list RS, št. 26/90, 18/93, 47/93, 71/93 in 44/97)."
