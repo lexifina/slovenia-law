@@ -1,0 +1,3 @@
+# 36. člen
+Naslov VI. poglavja se spremeni tako, da se glasi:
+"VI. NAKNADNA KONTROLA SEMENSKEGA MATERIALA KMETIJSKIH RASTLIN IN PRIMERJALNI POSKUSI".
