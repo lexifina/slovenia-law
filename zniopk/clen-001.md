@@ -1,0 +1,3 @@
+# 1. člen
+
+S tem zakonom se urejajo razmerja med Republiko Slovenijo in pravnimi osebami s sedežem na ozemlju Republike Slovenije, ki izvirajo iz sporazumov z državami članicami Pariškega kluba oziroma njihovimi pooblaščenimi institucijami, s katerimi bodo Republika Slovenija ali zavezanci s sedežem na ozemlju Republike Slovenije prevzeli delež obveznosti oziroma odplačilo obveznosti iz dvostranskih sporazumov o konsolidaciji dolga med vlado nekdanje SFRJ in vladami navedenih držav oziroma njihovimi pooblaščenimi institucijami v obdobju 1984 do 1988 (v nadaljnjem besedilu: dvostranski sporazumi bivše SFRJ).
