@@ -1,8 +1,8 @@
 ## V. NADZOR
 # 20. člen
-Nadzor nad izvajanjem tega zakona opravlja ministrstvo, pristojno za zdravstvo, nadzor nad izvajanjem 8., 9., 10., 11. in 14. člena tega zakona opravlja tržna inšpekcija, nadzor nad izvajanjem 15. in 16. člena zdravstvena inšpekcija, nadzor nad izvajanjem 17. in 18. člena pa inšpekcija dela.
+Nadzor nad izvajanjem zakona opravlja ministrstvo, pristojno za zdravje, nadzor nad izvajanjem 6., 15. in 16. člena tega zakona opravlja zdravstvena inšpekcija, nadzor nad izvajanjem 8., 9., 9.a, 9.b, 9.c, 10., 11., 13. in 14. člena tržna inšpekcija, nadzor nad izvajanjem 17. in 18. člena pa inšpekcija dela.
 Nadzor nad izvajanjem 8. in 9. člena tega zakona pri uvozu tobačnih izdelkov opravlja Carinska uprava Republike Slovenije.
-Če pristojni inšpekcijski organ ugotovi, da se tobačni izdelki izdelujejo in prodajajo v nasprotju z 8. in 9. členom tega zakona, z odločbo prepove izdelavo in prodajo tobačnih izdelkov.
-Če pristojni inšpekcijski organ ugotovi, da se reklamirajo tobačni izdelki v nasprotju z 10. in 12. členom tega zakona, z odločbo prepove reklamo.
+Če pristojni inšpekcijski organ ugotovi, da se tobačni izdelki proizvajajo in prodajajo v nasprotju s 6., 8., 9., 9.a, 9.b in 9.c členom tega zakona, z odločbo prepove proizvodnjo in prodajo tobačnih izdelkov ter odredi njihovo odstranitev iz proizvodnje oziroma prodaje.
+Če pristojni inšpekcijski organ ugotovi, da se reklamirajo tobačni izdelki v nasprotju z 10. in 12. ter 13. členom tega zakona, z odločbo prepove reklamo.
 Pritožba zoper odločbo ne zadrži njene izvršitve.
-Za izvršitev odločbe iz četrtega odstavka tega člena lahko pristojni inšpekcijski organ odredi takojšnjo odstranitev reklamnega materiala na stroške pravne osebe oziroma posameznika, ki stori prekršek v zvezi z 10. in 12. členom tega zakona.
+Za izvršitev odločbe iz četrtega odstavka tega člena lahko pristojni inšpekcijski organ odredi takojšnjo odstranitev reklamnega materiala na stroške pravne osebe oziroma posameznika, ki stori prekršek v zvezi z 10. in 12. ter 13. členom tega zakona.
