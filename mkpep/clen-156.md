@@ -1,0 +1,3 @@
+# 156. člen Evropski patentni urad kot izbrani urad
+
+Evropski patentni urad je izbrani urad po točki (xiv) 2. člena Pogodbe o sodelovanju, če je prijavitelj izbral katero od imenovanih držav, omenjenih v prvem odstavku 153. člena ali v drugem odstavku 149. člena, za katero je II. poglavje te pogodbe postalo zavezujoče. Ob poprejšnji odobritvi upravnega sveta se ista določba uporablja tudi, če ima prijavitelj v državi, ki ni pogodbenica te pogodbe ali je II. poglavje te pogodbe ne zavezuje, stalno prebivališče ali je njen državljan, pod pogojem da je ena od oseb, ki jim je skupščina Unije za mednarodno sodelovanje na področju patentov na podlagi pododstavka (b) drugega odstavka 31. člena Pogodbe o sodelovanju dovolila zahtevati mednarodni predhodni preizkus.

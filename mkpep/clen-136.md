@@ -1,0 +1,5 @@
+# 136. člen Predložitev in pošiljanje zahteve
+
+(1) Zahteva za pretvorbo se vloži pri Evropskem patentnem uradu; v njej morajo biti navedene države pogodbenice, v katerih se želi začeti postopek za podelitev državnega patenta. Zahteva se šteje za vloženo, ko je plačana pristojbina za pretvorbo. Evropski patentni urad pošlje zahtevo osrednjim uradom za industrijsko lastnino držav pogodbenic, ki so v zahtevi navedene, skupaj s kopijo dokumentacije v zvezi z evropsko patentno prijavo ali z evropskim patentom.
+
+(2) Če je bil prijavitelj uradno obveščen, da se evropska patentna prijava šteje za umaknjeno po petem odstavku 77. člena, se zahteva vloži pri osrednjem uradu za industrijsko lastnino, pri katerem je bila prijava vložena. Ob upoštevanju določb, ki se nanašajo na državno varnost, ta urad pošlje zahtevo skupaj s kopijo evropske patentne prijave neposredno osrednjim uradom držav pogodbenic, ki jih je prijavitelj navedel v zahtevi. Določba 66. člena nima več učinka, če se tak prenos ne opravi v dvajsetih mesecih od datuma vložitve ali od prednostnega datuma, če se zahteva prednost.
