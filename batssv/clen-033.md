@@ -1,0 +1,5 @@
+# 33. člen Obračunavanje akontacij
+
+(1) Če je nosilec ene države pogodbenice izplačal akontacijo, se lahko zadrži izplačilo zaostalega zneska ustrezne dajatve za isto obdobje, do katerega obstaja pravica po pravnih predpisih druge države pogodbenice. Če je nosilec ene države pogodbenice izplačal višjo dajatev, kot pripada upravičencu, za obdobje, za katero mora nosilec druge države pogodbenice naknadno izplačati ustrezno dajatev, se razlika med pripadajočo dajatvijo in višino izplačanega zneska obravnava kot akontacija v smislu prvega stavka tega odstavka.
+
+(2) Če je nosilec socialne pomoči ene države pogodbenice priznal socialno pomoč za obdobje, za katero po pravnih predpisih druge države pogodbenice naknadno nastane pravica do dajatve, pristojni nosilec te države pogodbenice na prošnjo in za račun nosilca socialne pomoči zadrži zaostale zneske, ki so plačljivi za isto obdobje, in sicer do višine izplačanih dajatev socialne pomoči, kot da bi šlo za izplačano dajatev socialne pomoči nosilca socialne pomoči slednje države pogodbenice.

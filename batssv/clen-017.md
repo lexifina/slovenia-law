@@ -1,0 +1,3 @@
+# 17. člen Nesreča na poti
+
+Če oseba, ki ima stalno prebivališče na ozemlju ene države pogodbenice, odpotuje na podlagi veljavne pogodbe o zaposlitvi na delo v drugo državo pogodbenico in na neprekinjenem potovanju po najkrajši poti v kraj zaposlitve doživi nesrečo, nosilec zavarovanja te države pogodbenice krije ustrezne dajatve in storitve za to nesrečo po pravnih predpisih o zavarovanju za primere nesreč pri delu; to velja tudi za nesrečo, ki jo zaposleni doživi pri vračanju v državo svojega stalnega prebivališča neposredno po izteku pogodbe o zaposlitvi, na podlagi katere je odpotoval v drugo državo pogodbenico.
