@@ -1,0 +1,11 @@
+# 16. člen Dostop do tehnologije in njen prenos
+
+1. Vsaka pogodbenica, ki priznava, da tehnologija vključuje biotehnologijo in da sta tako dostop do tehnologije kot tudi njen prenos med pogodbenicami temeljna dejavnika za doseganje ciljev te konvencije, se zavezuje, da bo v skladu z določbami tega člena omogočila in/ali olajšala dostop do tehnologij, ustreznih za ohranitev in trajnostno uporabo biološke raznovrstnosti, in njihov prenos drugim pogodbenicam ali uporabljala genetske vire, tako da ne bi povzročila občutne škode okolju.
+
+2. Državam v razvoju sta dostop do tehnologije in njen prenos, omenjena v 1. odstavku tega člena, omogočena in/ali olajšana pod poštenimi in najugodnejšimi pogoji, vključno z medsebojno dogovorjenimi koncesijskimi in preferenčnimi pogoji, in če je to potrebno, s pomočjo finančnega mehanizma, ustanovljenega v 20. in 21. členu. Če je tehnologija vezana na patente in druge pravice intelektualne lastnine, sta dostop in prenos omogočena pod pogoji, ki priznavajo ustrezno in učinkovito zaščito pravic intelektualne lastnine in so v skladu z njo. Izvajanje tega odstavka mora biti v skladu s 3., 4. in 5. odstavkom tega člena.
+
+3. Vsaka pogodbenica sprejme primerne zakonodajne, upravne ali politične ukrepe s ciljem, da imajo pogodbenice, še posebej države v razvoju, ki razpolagajo z genetskimi viri, dostop do tehnologije, ki uporablja te vire, in do njenega prenosa pod vzajemno sprejetimi pogoji, vključno s tehnologijo, zaščiteno s patenti in drugimi pravicami intelektualne lastnine, če je to potrebno, po določbah 20. in 21. člena ter skladno z mednarodnim pravom in 4. in 5. odstavkom tega člena.
+
+4. Vsaka pogodbenica sprejme primerne zakonodajne, upravne ali politične ukrepe s ciljem, da zasebni sektor omogoči dostop do tehnologije, omenjene v 1. odstavku, njen skupni razvoj in prenos tako v dobro vladnih ustanov kot tudi zasebnega sektorja držav v razvoju in se pri tem ravna v skladu z obveznostmi iz 1., 2. in 3. odstavka tega člena.
+
+5. Pogodbenice priznavajo, da lahko patenti in pravice intelektualne lastnine vplivajo na uresničevanje te konvencije, zato sodelujejo v skladu z državno zakonodajo in mednarodnim pravom, da bi tako zagotovile podporo tem pravicam in da ne bi delovale v nasprotju s cilji konvencije.
