@@ -1,0 +1,3 @@
+# 50. člen
+Deseti odstavek 83. člena se spremeni tako, da se glasi:
+"(10) Semenski material sort poljščin in zelenjadnic, ki so na dan pristopa Republike Slovenije k Evropski uniji vpisane v sortno listo v skladu s tretjim odstavkom tega člena in ne izpolnjujejo pogojev za vpis v skupni katalog sort poljščin ali v skupni katalog sort zelenjadnic v skladu z določbami Direktive Sveta 2002/53/ES (UL L, 20. 7. 2002), z vsemi spremembami in 2002/55/ES (UL L, 20. 7. 2002), z vsemi spremembami, se lahko trži najpozneje do 1. maja 2009. Na etiketah in potrdilih, s katerimi se označi, ali ki spremljajo semenski material teh sort, mora biti jasno navedeno, da je trženje dovoljeno le na območju Republike Slovenije.".

@@ -1,0 +1,4 @@
+# 38. člen
+Za prvim odstavkom 107. člena se doda nov drugi odstavek, ki se glasi:
+"Za izvajanje zootehniških pregledov plemenskega materiala v prometu na območju Skupnosti, kmetijski inšpektorji sodelujejo z veterinarskimi inšpektorji in pristojnimi organi držav članic Skupnosti na področju zootehnike in veterine. Ministrstvo in kmetijski inšpektorji imajo zaradi izvajanja zootehniških pregledov v prometu s plemenskim materialom preko Veterinarske uprave Republike Slovenije dostop do veterinarsko informacijske baze o premikih živali, ki jo določa 20. člen direktive 90/425/EGS (UL L, 18. 8. 1990), z vsemi spremembami. Kmetijski inšpektorji pripravijo program izvajanja zootehniških pregledov ter ga predložijo ministrstvu do 30. januarja tekočega leta ter pripravijo poročilo o izvajanju zootehniških pregledov za preteklo leto, ki ga predložijo ministrstvu do 30. marca.".
+Dosedanja drugi in tretji odstavek postaneta tretji in četrti odstavek.

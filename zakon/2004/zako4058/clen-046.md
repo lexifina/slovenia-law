@@ -1,0 +1,3 @@
+# 46. člen
+Prvi odstavek 35. člena se spremeni tako, da se glasi:
+"(1) Semenski material kmetijskih rastlin iz sedmega odstavka 10. člena tega zakona, ki je bil uvožen iz tretje države in ki izpolnjuje zahteve glede enakovrednosti iz 30. člena tega zakona, se lahko prepakira oziroma ponovno uradno označi v skladu z odločbo pristojnega organa Skupnosti iz drugega odstavka 30. člena tega zakona. Organ za potrjevanje uradno označi tak semenski material na zahtevo dobavitelja. Pred ponovno uradno označitvijo lahko organ za potrjevanje preveri, ali semenski material kmetijskih rastlin še izpolnjuje predpisane zahteve za uradno potrditev.".
