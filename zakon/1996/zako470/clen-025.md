@@ -1,0 +1,3 @@
+# 25. člen
+Vrednost družbenega kapitala, ki je osnova za lastninsko preoblikovanje časopisnega zavoda po tem zakonu, se ugotovi na dan 1. 1. 1993 z otvoritveno bilanco, izdelano po metodologiji, predpisani z uredbo o metodologiji za izdelavo otvoritvene bilance stanja (Uradni list RS, št. 24/93, 62/93, 72/93, 19/94 in 45/94) in na podlagi cenitve, ki jo izdela ocenjevalec podjetij, ki ga pooblasti Agencija Republike Slovenije za prestrukturiranje in privatizacijo (v nadaljnjem besedilu: agencija).
+Pri določitvi cene delnice, pri čemer se izraz delnica smiselno uporablja tudi za poslovni delež, se pri interni razdelitvi in notranjem odkupu uporablja za upravičence ugodnejša vrednost.
