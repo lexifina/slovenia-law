@@ -1,0 +1,3 @@
+# 9. člen
+V 25. členu se doda nov petnajsti odstavek, ki se glasi:
+"(15) Ne glede na določbe šestega odstavka tega člena, se vsa posojila, odobrena pod pogoji iz tega zakona upravičencem iz 2., 3., 4. in 5. točke tretjega odstavka in četrtega odstavka 13. člena tega zakona, po 1. januarju 2004 revalorizirajo z rastjo srednjega tečaja Banke Slovenije za evro. Vsa odplačila kreditojemalcev od 1. januarja 2004 dalje se preračunajo po srednjem tečaju Banke Slovenije za evro, veljavnem na prvi delovni dan tekočega meseca, v katerem je bilo plačilo izvedeno, in se za ta znesek zniža tekoča glavnica."

@@ -1,0 +1,3 @@
+# 8. člen
+V petem odstavku 11. člena se za prvim stavkom doda besedilo, ki se glasi:
+"Sredstva državne pomoči pa se lahko uporabijo za poslovno škodo, nastalo pravnim osebam, samostojnim podjetnikom posameznikom in kmečkim gospodarstvom zaradi novega potresa iz 3.a člena tega zakona, če so na dan ponovnega potresa opravljali gospodarsko dejavnost v poškodovanih ali uničenih poslovnih prostorih. Sredstva državne pomoči se lahko v primerih iz prejšnjega stavka uporabijo tudi za ohranitev obstoječih delovnih mest pri nosilcih dejavnosti, ker začasno ne morejo opravljati dejavnosti zaradi posledic ponovnega potresa in so zato ta delovna mesta neposredno ogrožena."
