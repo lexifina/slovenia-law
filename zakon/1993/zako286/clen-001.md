@@ -1,3 +1,0 @@
-# 1. člen
-S tem zakonom se za čas do uveljavitve novega zakona o igrah na srečo ureja prirejanje posebnih iger na srečo na igralnih avtomatih zunaj igralnic in plačevanje posebne takse za uporabo igralnih avtomatov (v nadaljnjem besedilu: igralni avtomati).
-Za igralne avtomate po prejšnjem odstavku se štejejo mehanične, elektronske in podobne naprave, na katerih imajo igralci ob vplačilu določenega zneska (s kovanci, z žetoni ali z neposrednim vplačilom pri blagajni oziroma pri igralnem avtomatu) možnost zadeti dobitek, izid igre pa ni odvisen od njihovega znanja ali spretnosti, temveč od naključja.
