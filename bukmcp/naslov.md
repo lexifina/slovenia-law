@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN KABINETOM MINISTROV UKRAJINE O MEDNARODNEM CESTNEM PREVOZU (BUKMCP)
+
+Z A K O N
+
+O RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN KABINETOM MINISTROV UKRAJINE O MEDNARODNEM CESTNEM PREVOZU (BUKMCP)
+
+S P O R A Z U M
+
+med Vlado Republike Slovenije in Kabinetom ministrov Ukrajine o mednarodnem cestnem prevozu
+
+AGREEMENT
+
+between the Government of the Republic of Slovenia and the Cabinet of Ministers of Ukraine on International Road Transport
