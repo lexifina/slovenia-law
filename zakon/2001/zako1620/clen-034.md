@@ -1,0 +1,2 @@
+# 34. člen (preklic veljavnosti spričevala o plovnosti)
+Če Uprava po pregledu za preverjanje plovnosti ali na drug način ugotovi, da domači zrakoplov ni ploven, prekliče veljavnost spričevala o plovnosti, ki ga je izdala takemu zrakoplovu, ali odloži njegovo izdajo oziroma ne podaljša njegove veljavnosti, dokler ponovno ne ugotovi, da je zrakoplov ploven. Neveljavno spričevalo o plovnosti mora lastnik oziroma uporabnik vrniti Upravi.

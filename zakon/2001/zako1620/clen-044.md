@@ -1,0 +1,4 @@
+# 44. člen (posadka zrakoplova)
+(1) Lastnik zrakoplova ali uporabnik, če zrakoplova ne upravlja lastnik, mora zagotoviti, da je na zrakoplovu usposobljena posadka, ki ima veljavne licence, ratinge, pooblastila, potrdila oziroma spričevala, ustrezne zrakoplovu in nalogam, ki jih izvaja ter da izpolnjuje druge predpisane pogoje.
+(2) Tuj zrakoplov lahko v Republiki Sloveniji upravlja oseba, ki ima tujo licenco ali drugo ustrezno listino, če se taka licenca ali listina v Republiki Sloveniji prizna v skladu z mednarodno pogodbo, ki zavezuje Republiko Slovenijo.
+(3) Minister, pristojen za promet, predpiše zahteve glede sestave posadke, ki mora biti na krovu zrakoplova, glede na usposobljenost in izkušenost osebja, razred, tip in vrsto zrakoplova, izkušnje prevoznika ter vrsto in način izvedbe leta z zrakoplovom.

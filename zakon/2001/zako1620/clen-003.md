@@ -1,0 +1,2 @@
+# 3. člen (vključevanje v mednarodne organizacije)
+Republika Slovenija se iz razlogov varnega in tekočega odvijanja zračnega prometa vključuje v univerzalne in regionalne mednarodne organizacije, ki v regiji ali širše zagotavljajo navigacijske službe zračnega prometa in druge dejavnosti v zvezi z njim in lahko pooblasti za opravljanje določene dejavnosti drugo državo ali mednarodno organizacijo, oziroma sprejme pooblastilo za opravljanje določene dejavnosti od druge države ali mednarodne organizacije.

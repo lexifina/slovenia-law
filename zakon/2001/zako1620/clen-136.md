@@ -1,0 +1,5 @@
+# 136. člen (nagrada za reševanje ter stroški preiskave letalske nesreče ali resnega incidenta)
+(1) Oseba, ki reši zrakoplov v nevarnosti ali zrakoplov, ki se mu je pripetila nesreča, in vsaka oseba, ki je sodelovala pri reševanju, ima pravico do nagrade za reševanje. Vlada izda uredbo, s katero natančneje določi način in pogoje v zvezi z uveljavljanjem pravice do nagrade v odvisnosti od višine stroškov, ki jih je imela oseba pri zadevnem reševanju in v odvisnosti od rešenega premoženja.
+(2) Stroške preiskovanja letalske nesreče in resnega incidenta nosi sprva državni proračun.
+(3) Vlada lahko zahteva povrnitev stroškov preiskave od osebe, za katero je pristojni organ nesporno ugotovil namerno povzročitev nesreče ali incidenta, oziroma povzročitev nesreče ali incidenta iz hude malomarnosti. Pravica do povrnitve stroškov preiskave zastara po preteku dveh let od pravnomočnosti sodne odločbe ali dokončnosti odločbe Upravnega organa.
+(4) Stroške reševanja zrakoplova ali odstranjevanja razbitin nosi lastnik zrakoplova. To velja tudi, če je odstranjevanje razbitin zahteval glavni preiskovalec za namen preiskave.

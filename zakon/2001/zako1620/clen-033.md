@@ -1,0 +1,4 @@
+# 33. člen (odgovornost za plovnost, neveljavnost spričevala o plovnosti in sporočanje)
+(1) Za plovnost zrakoplova je odgovoren lastnik, če lastnik ne uporablja zrakoplova, pa njegov uporabnik v skladu s pogodbo.
+(2) Šteje se, da je spričevalo o plovnosti neveljavno, če se slovenski zrakoplov ali njegova oprema ne vzdržuje po predpisih, če se na zrakoplovu ali njegovi opremi naredijo spremembe, ki so pomembne za plovnost in ki jih Uprava ni predhodno potrdila, ali če niso narejene obvezne spremembe na zrakoplovu ali njegovi opremi, ali če se ne opravijo preverjanja po zahtevah Uprave, oziroma, če se ne opravi redni ali izredni pregled. Spričevalo o plovnosti je v zgoraj navedenih primerih neveljavno vse dokler Uprava na vlogo lastnika ali uporabnika, ponovno ne ugotovi plovnosti zrakoplova.
+(3) Lastnik ali uporabnik mora obvestiti Upravo o okoliščinah, dogodkih, napakah in nepravilnostih, ki bi lahko vplivale na plovnost zrakoplova.

@@ -1,0 +1,2 @@
+# 220. člen (začetek delovanja Uprave za civilno letalstvo)
+Z dnem uveljavitve tega zakona Uprava nadaljuje z delom kot Uprava Republike Slovenije za civilno letalstvo in do izločitve navigacijskih služb zračnega prometa iz njene sestave, opravlja vse naloge, ki se nanašajo na naloge Uprave Republike Slovenije za civilno letalstvo in naloge navigacijskih služb civilnega letalstva, razen nalog iz 5. točke prvega odstavka 117. člena tega zakona.

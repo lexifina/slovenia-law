@@ -1,0 +1,10 @@
+# 69. člen (operativna licenca)
+(1) Operativna licenca je dovoljenje, s katerim pristojni organ dovoli pravni ali fizični osebi opravljanje zračnega prevoza potnikov, pošte in/ali blaga, za plačilo in/ali oddajo zrakoplovov v najem, v skladu z izdano licenco.
+(2) Operativna licenca se izda prosilcu, če izpolnjuje predpisane pogoje glede sedeža podjetja in morebitne registrirane podružnice oziroma predstavništva, pretežne dejavnosti, lastništva podjetja in dejanskega nadzora, finančne sposobnosti, usposobljenega osebja, zavarovanja, razpolaganja z zrakoplovi, če ima veljavno spričevalo letalskega prevoznika, vse v skladu z določbami tega poglavja.
+(3) Operativno licenco izda oziroma podaljša njeno veljavnost Uprava, če ugotovi, da so izpolnjeni predpisani pogoji iz prejšnjega odstavka.
+(4) Določbe 69. do 75. člena tega zakona se ne uporabljajo za zračni prevoz potnikov, pošte in/ali tovora, opravljene z zrakoplovi brez motornega pogona in/ali ultralahkimi motornimi zrakoplovi, niti za lokalne prevoze, ki ne vključujejo prevoza med različnimi letališči (panoramski leti).
+(5) Prevozi iz prejšnjega odstavka se opravljajo po določbah predpisov, ki urejajo opravljanje letov z ultralahkimi letalnimi napravami in panoramskih letov in zanje veljajo predpisi, ki urejajo spričevalo letalskega prevoznika (AOC).
+(6) Izdaja in veljavnost operativne licence sta vedno odvisni od veljavnega spričevala letalskega prevoznika (AOC), ki opredeljuje aktivnosti, zajete v operativni licenci.
+(7) Lastništvo zrakoplova ni pogoj za izdajo oziroma podaljšanje veljavnosti operativne licence, vendar mora prosilec razpolagati z enim ali več zrakoplovi kot lastnik ali zakupnik, kar dokaže z ustrezno pogodbo, ki jo predloži Upravi pred izdajo operativne licence.
+(8) Imetnik operativne licence mora takoj pisno obvestiti Upravo o vseh spremembah, ki vplivajo na dejstva in okoliščine, ki so bile podlaga za izdajo operativne licence.
+(9) Minister, pristojen za promet, lahko natančneje predpiše izvrševanje določb 69. do 75. člena tega zakona, pri čemer upošteva tudi morebitne odločitve, priporočila oziroma pojasnila Evropske komisije in odločitve Evropskega sodišča.

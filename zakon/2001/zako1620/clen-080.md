@@ -1,0 +1,4 @@
+# 80. člen (preklic veljavnosti spričeval in dovoljenj)
+(1) Če Uprava ugotovi, da se pravice iz spričevala letalskega prevoznika ali dovoljenja izvršujejo tako, da se kršijo veljavni predpisi, pogoji ali omejitve, ali zunaj obsega operativnih določb, lahko Uprava takoj prekliče veljavnost takšne listine ali jo začasno odvzame, dokler niso kršitve odpravljene, oziroma dokler ni opravljen nadaljnji postopek.
+(2) Ne glede na določbo prejšnjega odstavka lahko Uprava izjemoma določi dodatne omejitve operativnih določb, če ugotovi, da bo s takimi ukrepi zagotovljena varnost zračnega prometa.
+(3) Spričevalo letalskega prevoznika se šteje za neveljavno, če ni več izpolnjen katerikoli od pogojev iz drugega odstavka 76. člena tega zakona.
