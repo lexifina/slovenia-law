@@ -1,0 +1,14 @@
+# 23. člen
+Pri nakupu kmetijskega zemljišča, gozda ali kmetije, če ni glede kmetijskega zemljišča, gozda ali kmetije z drugimi zakoni določeno drugače, lahko uveljavljajo predkupno pravico predkupni upravičenci po naslednjem vrstnem redu:
+1. solastnik;
+2. kmet, katerega zemljišče, ki ga ima v lasti, meji na zemljišče, ki je naprodaj;
+3. zakupnik zemljišča, ki je naprodaj;
+4. drug kmet;
+5. kmetijska organizacija ali samostojni podjetnik posameznik, ki jima je zemljišče ali kmetija potrebna za opravljanje kmetijske oziroma gozdarske dejavnosti;
+6. Sklad kmetijskih zemljišč in gozdov Republike Slovenije za Republiko Slovenijo.
+Ob enakih pogojih se med kmeti, uvrščenimi na isto mesto v skladu s prejšnjim odstavkom, pravico do nakupa določi po naslednjem vrstnem redu:
+1. kmet, ki mu kmetijska dejavnost pomeni edino ali glavno dejavnost;
+2. kmet, ki zemljišče sam obdeluje;
+3. kmet, ki ga določi prodajalec, razen v primeru, ko gre za prodajo kmetijskega zemljišča, gozda ali kmetije, ki je stvarno premoženje države in mora prodajalec določiti kmeta na podlagi metode javne dražbe.
+Kmetijska dejavnost se šteje za edino in glavno dejavnost, če pridelki oziroma sredstva, pridobljena iz te dejavnosti, pomenijo tej osebi poglavitni vir za preživljanje.
+Če nihče od predkupnih upravičencev ne uveljavlja predkupne pravice, lahko prodajalec proda kmetijsko zemljišče vsakomur, ki je sprejel ponudbo pravočasno in na način, predpisan s tem zakonom, če sklenjeno pogodbo odobri upravna enota v skladu z 22. členom tega zakona.
