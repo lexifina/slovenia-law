@@ -1,0 +1,3 @@
+# 7. člen
+(1) Če se v skladu s prejšnjim členom dajatev obračuna v odstotku od vrednosti, je osnova za obračun in plačilo dajatve knjigovodska vrednost presežne zaloge kmetijskih proizvodov na dan 1. maja 2004.
+(2) Če je dajatev iz prejšnjega člena določena v absolutnem znesku na enoto proizvoda, je osnova za obračun količina presežne zaloge kmetijskih proizvodov na dan 1. maja 2004. Če zavezanec zalog ne vodi v enakih merskih enotah, kot so določene za obračun carinskih dajatev po carinskih predpisih, zavezanec določi osnovo za obračun z uporabo ustreznih faktorjev za preračun po carinskih predpisih.
