@@ -1,0 +1,2 @@
+# 16. člen
+Če odločitev, ki se sprejema enakopravno v obeh zborih, ni bila v obeh zborih sprejeta v enakem besedilu, se opravi v skladu s statutom usklajevalni postopek med zboroma. Če v usklajevalnem postopku med zboroma ni doseženo soglasje o vprašanju, od katerega je bistveno odvisno delo komunalne skupnosti, začasno uredi to vprašanje občinska skupščina oziroma skupščine občin z območja te skupnosti.

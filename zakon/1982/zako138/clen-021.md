@@ -1,0 +1,3 @@
+# 21. člen
+Kadar delovni ljudje in občani zadovoljujejo svoje potrebe na področju komunalnih dejavnosti neposredno v krajevni skupnosti, v skladu z njenim statutom, odločajo o združevanju in uporabi sredstev za graditev komunalnih objektov in naprav, o pogojih in načinu opravljanja komunalnih storitev, o cenah posameznih komunalnih storitev oziroma proizvodov in o delu za opravljanje posameznih skupnih nalog.
+Delovni ljudje in občani pri urejanju teh družbenoekonomskih odnosov smiselno upoštevajo osnove in merila, dogovorjena v samoupravnem sporazumu o temeljih plana komunalnih skupnosti, kolikor sami v krajevni skupnosti ne določijo takih osnov in meril.
