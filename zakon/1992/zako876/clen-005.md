@@ -1,0 +1,2 @@
+# 5. člen
+Če za izpolnitev obveznosti iz 3. člena tega zakona delavci v podjetju ali drugi pravni osebi s področja gospodarstva in delavci, zaposleni pri zasebniku, dodatno organizirajo delo preko polnega delovnega časa do konca meseca junija 1992 in tako doseženo enodnevno plačo vplačajo v bruto znesku kot sredstva solidarnosti za pomoč beguncem, iz teh plač ne plačajo dohodnine in prispevkov za socialno varnost.
