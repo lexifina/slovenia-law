@@ -1,0 +1,7 @@
+# 3. člen (Zneski iz finančnega sodelovanja)
+
+(1) Prevzem obveznosti po 2. členu se nanaša na 16,39 % (z besedami: šestnajst celih devetintrideset odstotka) zneskov za odplačilo glavnic in zneskov obresti iz finančnega sodelovanja, ki so na podlagi dogovorov, navedenih v točkah b), d), f), h) in j) prvega odstavka 1. člena, in na podlagi ustreznih dodatnih dogovorov med Kreditanstalt für Wiederaufbau in Narodno banko Jugoslavije zapadli v plačilo ali bodo zapadli v plačilo in niso bili plačani ali ne bodo plačani.
+
+(2) Zneski glavnic po prvem odstavku so posamično navedeni v prilogi 1 tega sporazuma. Glede na plačila, izvršena do 30. junija 1994, znašajo ti zneski skupno 920.078.875,20 DEM (z besedami: devetsto dvajset milijonov oseminsedemdeset tisoč osemsto petinsedemdeset nemških mark in dvajset pfenigov). Od tega zneska prevzame Vlada Republike Slovenije 150.800.927,63 DEM (z besedami: sto petdeset milijonov osemsto tisoč devetsto sedemindvajset nemških mark in triinšestdeset pfenigov).
+
+(3) Za obveznost Vlade Republike Slovenije iz finančnega sodelovanja po drugem odstavku je bilo do 30. junija 1994 dospelih in neporavnanih zneskov za odplačilo glavnic v višini 48.013.062,66 DEM (z besedami: oseminštirideset milijonov trinajst tisoč dvainšestdeset nemških mark in šestinšestdeset pfenigov) in zneskov obresti v višini 8.311.057,15 DEM (z besedami: osem milijonov tristo enajst tisoč sedeminpetdeset nemških mark in petnajst pfenigov) (priloga 1).
