@@ -1,0 +1,2 @@
+ZAKON
+o republiških priznavalninah

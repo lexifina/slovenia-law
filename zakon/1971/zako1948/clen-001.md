@@ -1,0 +1,4 @@
+# 1. člen
+Občanom, ki imajo posebne zasluge za nacionalni obstoj, za zmago narodnoosvobodilnega boja in socialistične revolucije, za razvoj socialistične družbene ureditve, za splošni napredek slovenskega naroda in za napredek njegove kulture, umetnosti in znanosti, se pod pogoji, določenimi s tem zakonom, lahko podeli republiška priznavalnina.
+Republiška priznavalnina se lahko podeli tistim zaslužnim občanom iz prejšnjega odstavka, ki s svojimi dohodki (dohodek iz delovnega razmerja, pokojnina, dohodek od kmetijske dejavnosti, dohodek od samostojne gospodarske dejavnosti itd.) ne morejo vzdrževati take življenjske ravni, ki bi ustrezala okolju, v katerem živijo, njihovemu družbenemu položaju in zaslugam, ter tistim zaslužnim občanom, ki so zaradi posebnih začasnih okoliščin socialno prizadeti.
+Republiška priznavalnina se lahko podeli tudi družinskim članom umrlih zaslužnih občanov, če izpolnjujejo pogoje iz 6. člena tega zakona.
