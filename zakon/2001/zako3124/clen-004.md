@@ -1,0 +1,6 @@
+# 4. člen
+V 5. členu se pred besedo "stanovanj" črta beseda "registra".
+Sedanje besedilo postane prvi odstavek, dodajo se novi trije odstavki, ki se glasijo:
+"Lastnik ali upravnik, določen s pogodbo o upravljanju večstanovanjske stavbe, ali lastniki stanovanj označijo stanovanja in druge prostore v večstanovanjskih stavbah s številko stanovanja najkasneje do 31. januarja 2002. Številko stanovanja in številko drugih prostorov v obliki tablice, nalepke ali v drugi trajni obliki namestijo nad ali ob vhodna vrata stanovanja in drugih prostorov.
+Stanovanja se oštevilčijo z zaporedno številko v okviru ene stavbe. Če ima stavba več ločenih vhodov in za vsak vhod določeno svojo hišno številko, se številke stanovanj določijo za vsak vhod posebej. Pomožni prostori, ki pripadajo stanovanju, se oštevilčijo s številko stanovanja in dodatkom a, b, c, itd.
+Vlada Republike Slovenije na predlog Ministrstva za okolje in prostor v sodelovanju z Ministrstvom za notranje zadeve in Statističnim uradom Republike Slovenije sprejme v uredbo o identifikacijskih oznakah stavb in stanovanj."
