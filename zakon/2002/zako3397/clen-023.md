@@ -1,0 +1,2 @@
+# 23. člen
+V 43. členu se v drugem odstavku beseda "čas" nadomesti z besedo "dobo", na koncu odstavka pa doda nov stavek, ki se glasi: "Državni tožilec, ki mu je bila izrečena disciplinska sankcija ustavitve napredovanja, tri leta od dneva izreka sankcije ne more biti dodeljen na delo v drug državni organ, na Vrhovno državno tožilstvo, v skupino ali imenovan za vodjo ali namestnika vodje državnega tožilstva ali skupine.".

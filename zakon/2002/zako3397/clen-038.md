@@ -1,0 +1,6 @@
+# 38. člen
+68. člen se spremeni tako, da se glasi:
+"68. člen
+Nadzorstvene pritožbe v zvezi z neutemeljeno dolgim trajanjem reševanja zadev, ki so dodeljene državnemu tožilcu, se pošljejo pristojnemu vodji državnega tožilstva, če gre za zadeve, ki so dodeljene v reševanje višjim in vrhovnim državnim tožilcem, pa generalnemu državnemu tožilcu. Nadzorstveno pritožbo lahko vloži le stranka, ki s potrebnimi podatki izkaže pravni interes v zadevi.
+Če nadzorstvena pritožba ni očitno neutemeljena, vodja državnega tožilstva ali generalni državni tožilec z njeno vsebino seznani državnega tožilca, na katerega se pritožba nanaša, in zahteva od njega pojasnilo oziroma poročilo o zadevi in možnih ukrepih za njeno hitrejše reševanje, lahko pa tudi zahteva spis na vpogled. Pojasnilo oziroma poročilo državnega tožilca ali lastno pojasnilo oziroma poročilo pošlje vodja državnega tožilstva ali generalni državni tožilec stranki, en izvod lastnega pojasnila ali poročila pa tudi državnemu tožilcu.
+Če je nadzorstvena pritožba vložena pri ministrstvu, pristojnem za pravosodje, jo minister odstopi vodji pristojnega državnega tožilstva ali generalnemu državnemu tožilcu in zahteva od njega, da ravna po določilu drugega odstavka tega člena ter da obvesti o ugotovitvah ter ukrepih v zvezi z nadzorstveno pritožbo stranko in ministrstvo, pristojno za pravosodje.".

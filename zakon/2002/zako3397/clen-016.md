@@ -1,0 +1,9 @@
+# 16. člen
+20. člen se spremeni tako, da se glasi:
+"20. člen
+Ko prejme razpisno gradivo od ministrstva, pristojnega za pravosodje, državnotožilski svet povabi na razgovor prijavljene kandidate, ki kandidirajo na prosto mesto državnega tožilca. Vodjo državnega tožilstva, v katerem je prosto mesto državnega tožilca, pa pozove, da se izjasni o kandidatih za to mesto.
+Na podlagi ugotovitev, ki temeljijo na razpisnem gradivu, in na podlagi neposrednega vtisa, ki so ga kandidati napravili na razgovoru, oblikuje državnotožilski svet mnenje glede predlogov za imenovanje. V mnenju razvrsti državnotožilski svet kandidate glede na svojo oceno o primernosti za imenovanje ter utemelji razloge za sprejeto razvrstitev.
+Mnenje iz prejšnjega odstavka vroči državnotožilski svet kandidatu in vodji državnega tožilstva, v katerem je razpisano prosto mesto državnega tožilca. Kandidat in vodja državnega tožilstva lahko na mnenje posredujeta obrazložene pripombe v osmih dneh od prejema mnenja.
+V tridesetih dneh po prejemu pripomb oziroma izteku roka iz prejšnjega odstavka državnotožilski svet oblikuje dokončno mnenje in ga v osmih dneh pošlje ministru, pristojnemu za pravosodje.
+Če je v mnenju državnotožilskega sveta za zasedbo prostega mesta državnega tožilca najvišje uvrščen kandidat, ki je že imenovan za državnega tožilca in se je prijavil na razpis zaradi napredovanja, je minister, pristojen za pravosodje tega kandidata dolžan predlagati v imenovanje.
+Če minister, pristojen za pravosodje ne sprejme mnenja državnotožilskega sveta iz četrtega odstavka tega člena, mora v desetih dneh zahtevati, da državnotožilski svet ponovno prouči svoje mnenje in, da ga v petnajstih dneh pošlje ministru, pristojnem za pravosodje z dodatno obrazložitvijo. Če državnotožilski svet novo mnenje sprejme z večino dveh tretjin glasov vseh svojih članov, je tako mnenje za ministra, pristojnega za pravosodje, obvezno.".

@@ -1,0 +1,3 @@
+# 66.d člen
+Ministrstvo, pristojno za pravosodje, lahko zahteva od državnih tožilstev podatke in poročila o stanju reševanja posamezne zadeve ali vrste zadev, ki jih potrebuje za obveščanje javnosti ali za odgovore na vprašanja Državnega zbora Republike Slovenije, Državnega sveta Republike Slovenije, Vlade Republike Slovenije in Predsednika Republike Slovenije v zvezi z delom državnega tožilstva.
+Ministrstvo, pristojno za pravosodje, pošlje zahtevo z navedbo razloga iz prejšnjega odstavka državnemu tožilstvu, ki mora ministrstvu, pristojnemu za pravosodje, odgovoriti najpozneje v osmih dneh.".
