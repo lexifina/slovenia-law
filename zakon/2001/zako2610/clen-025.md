@@ -1,0 +1,2 @@
+# 25. člen
+Mali proizvajalci žganja, ki so pristojnemu carinskemu organu do uveljavitve tega zakona že prijavili lastništvo oziroma uporabo kotlov za kuhanje žganja, morajo najkasneje do 31. decembra 2001 dopolniti prijavo s podatkom o prostornini kotlov, ki jih imajo v lasti oziroma v uporabi.
