@@ -1,0 +1,3 @@
+# 16. člen Podpis
+
+Ta konvencija je na voljo za podpis od 25. februarja do 1. marca 1991 v Espooju (Finska), potem pa do 2. septembra 1991 na sedežu Združenih narodov v New Yorku za države članice Ekonomske komisije za Evropo kot tudi države, ki imajo v Ekonomski komisiji za Evropo posvetovalni status v skladu z osmim odstavkom resolucije Ekonomsko-socialnega sveta št. 36 (IV) z dne 28. marca 1947 ter za regionalne organizacije za gospodarsko povezovanje, ki so jih ustanovile suverene države članice Ekonomske komisije za Evropo in na katere so njihove države članice prenesle pristojnosti v zvezi z zadevami, ki jih ureja ta konvencija, vključno s pristojnostjo, da sklepajo pogodbe v zvezi s temi zadevami.
