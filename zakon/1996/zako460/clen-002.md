@@ -1,0 +1,4 @@
+# 2. člen (obseg šolske inšpekcije)
+Šolska inšpekcija obsega nadzor nad izvajanjem zakonov, drugih predpisov in aktov, ki urejajo organizacijo, namensko porabo javnih sredstev in opravljanje dejavnosti vzgoje in izobraževanja, ki jo opravljajo vrtci, osnovne šole, glasbene šole, nižje in srednje poklicne šole, srednje tehniške in strokovne šole, gimnazije, višje strokovne šole, zavodi za izobraževanje in usposabljanje otrok in mladostnikov s posebnimi potrebami, organizacije za izobraževanje odraslih in zasebniki, ki izobražujejo po javno veljavnih programih (v nadaljnjem besedilu: vrtci in šole).
+Šolska inšpekcija obsega tudi nadzor nad izvrševanjem zakonov, drugih predpisov in aktov, ki urejajo domove za učence, dijaške in študentske domove ter postopke in roke za prijavo na razpis in izvedbo vpisa v visokem šolstvu.
+Za domove za učence, dijaške in študentske domove, se uporabljajo določbe tega zakona, ki veljajo za šole in vrtce.
