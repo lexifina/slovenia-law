@@ -1,0 +1,2 @@
+# 18. člen
+Podrobnejše predpise v zvezi z uveljavljanjem intervencij v proizvodnji hrane izda republiški sekretar za kmetijstvo, gozdarstvo in prehrano, predpise s področja uveljavljanja intervencij v porabi hrane pa Republiški komite za tržišče in cene, in sicer napozneje v treh mesecih po uveljavitvi tega zakona oziroma najpozneje v enem mesecu po uveljavitvi akta iz drugega odstavka 17. člena tega zakona.
