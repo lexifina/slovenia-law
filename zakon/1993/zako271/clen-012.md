@@ -1,0 +1,2 @@
+# 12. člen
+Evidenca iskanih in nadzorovanih oseb se nanaša na osebe, za katerimi je razpisano iskanje na podlagi odločitve organa za notranje zadeve ali pristojnega pravosodnega organa. Nanaša se tudi na osebe, ki so jih organi za notranje zadeve ovadili državnemu tožilstvu zaradi suma dveh ali več kaznivih dejanj zoper življenje in telo, spolno nedotakljivost in moralo ali družbeno in zasebno premoženje, za katera so bile obsojene na zaporno kazen najmanj enega leta, način njihovega življenja pa kaže na nevarnost ponovne storitve kaznivega dejanja.
