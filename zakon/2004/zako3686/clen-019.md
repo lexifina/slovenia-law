@@ -1,0 +1,3 @@
+# 19. člen
+Peti odstavek 148. člena se spremeni tako, da se glasi:
+"(5) Sklad kmetijskih zemljišč in gozdov, ki v imenu države gospodari s kmetijskimi zemljišči in gozdovi v lasti države na zavarovanih območjih, ki jih je ustanovila država, mora njihovim upravljavcem nakazovati del presežka prihodkov nad odhodki sklada, ki ga letno določi vlada ob upoštevanju razpoložljivih virov financiranja in programov dela upravljavcev zavarovanih območij. Ta sredstva upravljavci zavarovanih območij uporabljajo za izvedbo načrtovanih ukrepov za ohranjanje biotske raznovrstnosti kmetijskih zemljišč in gozdov skladno s letnim programom upravljavca zavarovanega območja.".

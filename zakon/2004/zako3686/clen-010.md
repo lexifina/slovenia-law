@@ -1,0 +1,6 @@
+# 10. člen
+101. člen se spremeni tako, da se glasi
+"101. člen
+(presoja sprejemljivosti planov)
+(1) Za vsak plan ali spremembo plana, ki ga na podlagi zakona sprejme pristojni državni organ ali pristojni organ samoupravne lokalne skupnosti za področje urejanja prostora, upravljanja voda, gospodarjenja z gozdovi, lova, ribištva, rudarstva, kmetijstva, energetike, industrije, transporta, ravnanja z odpadki in odpadnimi vodami, oskrbe prebivalstva s pitno vodo, telekomunikacij in turizma in bi lahko pomembno vplival na zavarovano območje, posebno varstveno območje ali potencialno posebno ohranitveno območje sam po sebi ali v povezavi z drugimi plani, je treba izvesti presojo sprejemljivosti njegovih vplivov oziroma posledic glede na varstvene cilje teh območij. Presoje sprejemljivosti ni treba izvesti za tiste plane, ki so neposredno povezani ali potrebni za varstvo teh območij.
+(2) Oceno o sprejemljivosti vpliva oziroma posledicah plana na območja iz prejšnjega odstavka da ministrstvo v postopku celovite presoje vplivov na okolje. Ta postopek se vodi skladno z določbami zakona, ki ureja varstvo okolja, kolikor ta zakon ne določa drugače.".
