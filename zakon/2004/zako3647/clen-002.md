@@ -1,0 +1,3 @@
+# 2. člen
+Za prvim odstavkom 5. člena se doda nov drugi odstavek, ki se glasi:
+"Zdravniki specialisti smejo opravljati zdravniško službo v skladu s svojo strokovno usposobljenostjo, če so si pridobili strokovni naslov doktorice ali doktorji medicine z navedbo specialnosti in izpolnjujejo z zakonom določene pogoje. Doktorji dentalne medicine smejo opravljati zdravniško službo v skladu s svojo strokovno usposobljenostjo, če so si pridobili strokovni naslov doktorice ali doktorji dentalne medicine oziroma doktorji dentalne medicine specialisti, če so si pridobili strokovni naslov doktorice ali doktorji dentalne medicine z navedbo specialnosti in izpolnjujejo z zakonom določene pogoje.".

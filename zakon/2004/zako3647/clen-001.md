@@ -1,0 +1,2 @@
+# 1. člen
+V zakonu o zdravniški službi (Uradni list RS, št. 98/99, 67/2002, 86/2002 - ZOZPEU in 15/2003) se v 1. členu besedilo: "zakonom o zdravstveni dejavnosti (Uradni list RS, št. 9/92, 26/92 - popr., 37/95, 8/96 in 90/99)" nadomesti z besedilom: "zakonom, ki ureja zdravstveno dejavnost,", besedi "zobozdravnica" in "zobozdravnik" pa se v 1. členu in ostalih členih zakona nadomestita z besedilom: "doktor dentalne medicine" v ustreznem sklonu in spolu.
