@@ -1,0 +1,5 @@
+# 44. člen Začasne odredbe
+
+1. Sodne oblasti imajo pravico odrediti stranki, naj preneha s kršitvijo, med drugim tudi preprečiti vstop uvoženega blaga, ki krši pravice intelektualne lastnine, v trgovinske tokove pod njihovo jurisdikcijo takoj po carinjenju takega blaga. Članicam ni treba dati take pravice v zvezi s predmetom varstva, ki ga je pridobila ali naročila določena oseba, preden je zvedela ali imela utemeljene razloge, da ve, da bo trgovina s takim predmetom povzročila kršitev pravic intelektualne lastnine.
+
+2. Ne glede na druge določbe tega dela in pod pogojem, da so izpolnjene določbe II. dela, ki se posebej nanašajo na uporabo vlad ali tretjih oseb, ki jih pooblasti vlada, a brez dovoljenja imetnika pravice, lahko članice omejijo sicer razpoložljiva sredstva proti taki uporabi na plačilo nadomestila v skladu s pododstavkom (h) 31. člena. V drugih primerih se uporabljajo sredstva, določena v tem delu, ali če sredstva niso v skladu z zakonodajo članice, morajo biti na voljo javne sodbe in ustrezno nadomestilo.

@@ -1,0 +1,9 @@
+# 63. člen Preglednost
+
+1. Zakoni in predpisi, končne sodne odločitve in upravni sklepi splošne veljave, ki jih uveljavlja članica in se nanašajo na vsebino tega sporazuma (razpoložljivost, obseg, pridobivanje, uveljavljanje in preprečevanje zlorab pravic intelektualne lastnine), se objavijo ali, če taka objava ni izvedljiva, se javnosti omogoči dostop do njih v nacionalnem jeziku na tak način, da se vladam in imetnikom pravic omogoči, da se z njimi seznanijo. Sporazumi v zvezi z vsebino tega sporazuma, ki veljajo med vlado ali vladno agencijo neke članice in vlado ali vladno agencijo neke druge članice, se prav tako objavijo.
+
+2. Članice sporočijo zakone in predpise, na katere se nanaša prvi odstavek, Svetu za TRIPS z namenom, da Svetu pomagajo pri proučevanju izvajanja tega sporazuma. Svet skuša to obveznost članice zmanjšati in se lahko odloči, da se prenese obveznost notifikacije takih zakonov in predpisov neposredno Svetu, če uspe posvetovanje z WIPO za ustanovitev skupnega registra, ki bo vseboval te zakone in predpise. Svet v tej zvezi upošteva vsak drug postopek, ki se zahteva v zvezi z notifikacijami na podlagi obveznosti iz tega sporazuma, ki izhajajo iz določb 6ter. člena Pariške konvencije (1967).
+
+3. Vsaka članica mora biti pripravljena, da na pisno zahtevo druge članice priskrbi take informacije, ki jih določa prvi odstavek. Članica, ki utemeljeno meni, da določena sodna odločitev ali upravni sklep ali dvostranski sporazum na področju pravic intelektualne lastnine posega v njene pravice iz tega sporazuma, lahko tudi pisno zahteva dostop do ali natančnejše obvestilo o takih posebnih sodnih odločitvah ali upravnih sklepih ali dvostranskih sporazumih.
+
+4. Nič iz prvega, drugega in tretjega odstavka članic ne obvezuje, da razkrivajo zaupne informacije, ki bi ovirale uveljavitev zakona ali bile kako drugače v nasprotju z javnim interesom ali bi posegale v legitimne trgovinske interese določenih javnih ali zasebnih podjetij.

@@ -1,0 +1,3 @@
+# 68. člen Svet za trgovinske vidike pravic intelektualne lastnine
+
+Svet za TRIPS spremlja izvajanje tega sporazuma, zlasti izpolnjevanje obveznosti članic iz tega sporazuma in zagotovi članicam možnost posvetovanja o zadevah v zvezi s trgovinskimi vidiki pravic intelektualne lastnine. Opravlja tudi druge naloge, ki mu jih naložijo članice. Predvsem pa daje kakršnokoli pomoč v postopkih reševanja sporov, za katero ga prosijo članice. Pri opravljanju svojih nalog se lahko Svet posvetuje in išče informacije pri vseh virih, ki se mu zdijo primerni. V posvetovanju z WIPO Svet v enem letu od prvega zasedanja skuša zagotoviti ustrezne dogovore za sodelovanje z organi te organizacije.

@@ -1,0 +1,3 @@
+# 57. člen Pravica do nadzora in obvestila
+
+Brez poseganja v varovanje zaupnih podatkov članice dajo pristojnim organom pooblastilo, da lahko imetniku pravice omogočijo, da pregleda vsako blago, ki so ga zadržali carinski organi, z namenom, da lahko imetnik pravice utemeljuje svoje zahteve. Pristojne oblasti morajo imeti tudi pooblastilo, da dajo uvozniku enako možnost, da lahko pregleda vsako tako blago. Če je sprejeta pozitivna odločitev o teži primera, lahko dajo članice pristojnim organom pooblastilo, da obvestijo imetnika pravice o imenu in naslovu pošiljatelja, uvoznika in prejemnika, in o količini določenega blaga.

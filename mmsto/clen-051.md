@@ -1,0 +1,3 @@
+# 51. člen Sprostitev blaga, ki jo začasno prekinejo carinski organi
+
+V skladu s spodaj navedenimi določbami članice sprejmejo postopke,(13) ki bodo imetniku pravice, ki utemeljeno sumi, da lahko pride do uvoza blaga s ponarejeno znamko ali piratskega avtorskega blaga,(14) omogočili, da vloži pisno zahtevo pri pristojnih upravnih ali sodnih organih za začasno prekinitev sprostitve takega blaga v prosto kroženje. Članice lahko omogočijo tako zahtevo tudi za druge vrste blaga, ki pomenijo še druge kršitve pravic intelektualne lastnine, pod pogojem, da upoštevajo določbe tega poglavja. Članice lahko pri carinskih organih poskrbijo tudi za ustrezne postopke v zvezi z začasno prekinitvijo sprostitve spornega blaga, ki je namenjeno izvozu z njihovega območja.

@@ -1,0 +1,3 @@
+# 42. člen Pravični in enaki postopki
+
+Članice omogočajo imetnikom pravic(11) v zvezi z uveljavljanjem vsake pravice intelektualne lastnine po tem sporazumu civilne sodne postopke. Toženi imajo pravico do pravočasnega in dovolj natančnega pisnega obvestila, vključno s pravno podlago zahtevkov. Stranke imajo možnost, da jih zastopajo neodvisni pravni zastopniki in postopki ne smejo biti prezahtevni glede obvezne osebne prisotnosti. Vse stranke v takih postopkih imajo pravico do utemeljitve svojih zahtevkov in predložitve ustreznih dokazov. V postopku morajo biti zagotovljena sredstva opredelitve in varstva zaupnih podatkov, razen če je to v nasprotju z veljavnimi ustavnimi določbami.
