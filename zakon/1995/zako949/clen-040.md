@@ -1,0 +1,4 @@
+# 40. člen
+V vseh določbah zakona se besedilo "republiški upravni organ, pristojen za obrambne zadeve" nadomesti z besedilom "ministrstvo, pristojno za obrambo" v ustreznem sklonu, besedilo "republiški upravni organ" z besedo "ministrstvo" v ustreznem sklonu, besedilo "upravni organ občine, pristojen za obrambne zadeve" pa z besedilom "upravni organ, pristojen za obrambne zadeve" v ustreznem sklonu.
+V vseh določbah zakona se besede "Predsedstvo Republike Slovenije" nadomestijo z besedami "Predsednik Republike Slovenije", besedilo "Izvršni svet Republike Slovenije" pa se nadomesti z besedami "Vlada Republike Slovenije" v ustreznem sklonu.
+V vseh določbah zakona se črtajo besede "neposredna vojna nevarnost", "rezervni vojaški uslužbenec", "zveza rezervnih vojaških častnikov" in beseda "gojenec", besedi "oborožene sile" se nadomestita z besedama "Slovenska vojska" v ustreznem sklonu, beseda "podjetje" pa z besedama "gospodarska družba" v ustreznem sklonu.
