@@ -1,0 +1,2 @@
+# 32. člen
+Besedilo 228. člena se spremeni tako, da se glasi: "Na osebne prejemke je s prisilno izterjavo mogoče seči do ene tretjine. Na pokojnino kmetov, na prejemke iz pogodbe o dosmrtnem preživljanju in dosmrtni renti ter na prejemke iz pogodbe o življenjskem zavarovanju je z izvršbo mogoče seči, če ti presegajo znesek denarne pomoči kot edinega vira preživljanja po predpisih o socialnem varstvu."

@@ -1,0 +1,3 @@
+# 11. člen
+Besedilo 164. člena se spremeni tako, da se glasi: "Davčna obveznost za davek od premoženja po 1. in 2. točki 156. člena tega zakona nastane takrat, ko je sklenjena pogodba o prodaji. Če je zavezanec stavbo oziroma prostor za počitek oziroma rekreacijo pridobil z gradnjo, nastane davčna obveznost z izdajo dovoljenja za uporabo. Če zavezanec prične stavbo ali prostor za počitek oziroma rekreacijo uporabljati pred izdajo dovoljenja, nastane davčna obveznost s pričetkom uporabe teh prostorov.
+Nastanek, sprememba ali prenehanje davčne obveznosti se pri odmeri davka upošteva od prvega dne naslednjega meseca po preteku meseca, v katerem je obveznost nastala oziroma prenehala ali je prišlo do spremembe."
