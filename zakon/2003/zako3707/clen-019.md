@@ -1,0 +1,5 @@
+# 19. člen (carinski nadzor)
+(1) Carinski organ v okviru običajnih kontrol, ki jih izvaja pred odobritvijo sprostitve proizvodov v prosti promet, zadrži proizvod oziroma serijo proizvodov za tri delovne dni in o tem takoj obvesti pristojno inšpekcijo, če ugotovi:
+- da ima posamezen proizvod oziroma serija proizvodov lastnosti, ki vzbujajo utemeljen sum o obstoju resne nevarnosti za zdravje in varnost potrošnikov, če bi bil oziroma bi bila dana na trg in se uporabljala v predpisanih ali razumno predvidljivih pogojih;
+- da pri posameznem proizvodu ali seriji proizvodov manjkajo predpisani spremljajoči dokumenti ali predpisana oznaka oziroma da je predpisana oznaka nameščena neupravičeno.
+(2) Če pristojna inšpekcija v roku treh delovnih dni ne izvede nobenega od ukrepov iz 17. člena tega zakona oziroma če v istem roku carinskega organa ne obvesti o izvajanju teh ukrepov, ta sprosti začasno zadržani proizvod ali serijo proizvodov v prosti promet, če so izpolnjeni vsi drugi pogoji za njegovo sprostitev.

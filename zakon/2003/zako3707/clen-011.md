@@ -1,0 +1,3 @@
+# 11. člen (obveznosti distributerjev)
+(1) Distributerji morajo v okviru svoje dejavnosti ravnati s potrebno poklicno skrbnostjo, ki pomaga zagotoviti skladnost proizvoda z ustreznimi varnostnimi zahtevami. Predvsem ne smejo dobavljati proizvodov, za katere vedo ali bi na temelju lastnih informacij in kot strokovnjaki lahko vedeli, da ne izpolnjujejo varnostnih zahtev.
+(2) Distributerji morajo v okviru svoje dejavnosti prispevati k spremljanju varnosti proizvodov na trgu s tem, da posredujejo informacije o nevarnostih, povezanih s posameznimi proizvodi, da hranijo in dajejo na vpogled dokumentacijo, potrebno za ugotavljanje izvora proizvodov, ter da sodelujejo s proizvajalci in pristojnimi državnimi organi pri ukrepih za preprečevanje nevarnosti.

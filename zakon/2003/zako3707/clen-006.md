@@ -1,0 +1,4 @@
+# 6. člen (skladnost s predpisi in objavljenimi standardi)
+(1) Šteje se, da je proizvod varen, kar zadeva vidike oziroma vrste nevarnosti, urejene s posebnimi predpisi, ki niso del harmoniziranega prava Evropskih skupnosti, katerih cilj je zagotoviti varnost proizvodov, če izpolnjuje zdravstvene in varnostne zahteve teh predpisov.
+(2) Domneva se, da je proizvod varen, kar zadeva vidike oziroma vrste nevarnosti, opredeljene v slovenskih nacionalnih standardih, pripravljenih na podlagi evropskih standardov in objavljenih na seznamu iz tretjega odstavka tega člena, če je skladen z zahtevami teh standardov.
+(3) Minister, pristojen za gospodarstvo (v nadaljnjem besedilu: minister), objavi v Uradnem listu Republike Slovenije seznam standardov, ob uporabi katerih se domneva, da je proizvod varen.
