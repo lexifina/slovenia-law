@@ -1,0 +1,3 @@
+# 1. člen
+V zakonu o ponovni vzpostavitvi agrarnih skupnosti ter vrnitvi njihovega premoženja in pravic (Uradni list RS, št. 5/94) se tretji odstavek 4. člena spremeni tako, da se glasi:
+"Po tem zakonu imajo pravico do članstva in ponovne vzpostavitve agrarnih skupnosti tudi tuji državljani, če so bili člani nekdanje agrarne skupnosti ali so njihovi dediči oziroma pravni nasledniki, na katere je bila premoženjska pravica iz tretjega odstavka 1. člena tega zakona prenesena, pod pogojem, da imajo agrarne skupnosti oziroma njihovi člani po mednarodnih sporazumih pravico do uveljavljanja pravic nekdanjih agrarnih skupnosti na zemljiščih, ki so na ozemlju druge države."
