@@ -1,0 +1,5 @@
+# 3. člen
+V drugem odstavku 6. člena se za besedo "dela" doda vejica in besedilo "posredovanja zaposlitve, posredovanja in zagotavljanja delovne sile, izdelavo zaposlitvenega načrta in izvajanje ukrepov aktivne politike zaposlovanja".
+Tretji odstavek 6. člena se spremeni tako, da se glasi:
+"Sredstva, ustvarjena iz koncesijskih dajatev za posredovanje dela dijakom in študentom se namenijo za delovanje študentske organizacije univerze, samostojnega visokošolskega zavoda, lokalne skupnosti oziroma interesnih oblik povezovanja dijakov in študentov. Sredstva so namenjena za izvajanje programov interesnih in obštudijskih dejavnosti na področjih: kulture, izobraževanja, športa, tehnične kulture, mednarodnega sodelovanja, izpopolnjevanja študentov v tujini, raziskovalne dejavnosti in socialno - ekonomskega položaja dijakov in študentov."
+V petem odstavku se besedilo "določenim kategorijam delavcev" nadomesti z besedilom "in višino stroškov, ki se priznajo organizaciji oziroma delodajalcu za posredovanje dela dijakom in študentom".

@@ -1,0 +1,2 @@
+# 17.h člen
+Natančnejša pravila kdaj se šteje, da je brezposelna oseba na razpolago, za določanje ustrezne in primerne zaposlitve, kaj se šteje za aktivno iskanje dela, kateri so stroški, ki se priznajo za aktivno iskanje zaposlitve iz prejšnjega člena ter natančnejše kriterije, način in čas prenehanja pravice do denarnih prejemkov, določi minister, pristojen za delo, na predlog upravnega odbora zavoda."

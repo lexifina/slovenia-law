@@ -1,0 +1,16 @@
+# 35. člen
+48.a člen se spremeni tako, da se glasi:
+"Delodajalcu, ki je zaposlil brezposelno osebo, ki je neprekinjeno več kot dvanajst mesecev prijavljena na zavodu, zavod za dve leti povrne polovico prispevkov za pokojninsko in invalidsko zavarovanje, za porodniško varstvo, za obvezno zdravstveno zavarovanje in za zavarovanje za primer brezposelnosti.
+Delodajalcu, ki je zaposlil brezposelno osebo, ki je starejša od 50 let in je prejemnik denarnega nadomestila ali denarne pomoči po tem zakonu oziroma prejemnik denarnega dodatka po predpisih o socialnem varstvu, zavod za tri leta povrne polovico prispevkov za pokojninsko in invalidsko zavarovanje, za porodniško varstvo, za obvezno zdravstveno zavarovanje in za zavarovanje za primer brezposelnosti, za vsako nadaljnje leto pa še četrtino teh prispevkov.
+Delodajalcu, ki je zaposlil iskalca prve zaposlitve, ki je bil najmanj šest mesecev prijavljen na zavodu, zavod za dve leti povrne polovico prispevkov za pokojninsko in invalidsko zavarovanje, za porodniško varstvo, za obvezno zdravstveno zavarovanje in za zavarovanje za primer brezposelnosti, tretje leto pa še četrtino teh prispevkov.
+Delodajalcu, ki je zaposlil prejemnika denarnega nadomestila ali denarne pomoči, zavod povrne prispevke za pokojninsko in invalidsko zavarovanje, za porodniško varstvo, za obvezno zdravstveno zavarovanje in za zavarovanje za primer brezposelnosti in sicer za dobo, ki je dvakrat daljša od preostanka prejemanja denarnega nadomestila ali denarne pomoči.
+Delodajalec, ki ima do 50 zaposlenih delavcev ter dodatno zaposli brezposelno osebo ali delavca, katerega delo postane trajno nepotrebno in brezposelna oseba, ki se sama zaposli, je upravičen do povrnitve prispevkov iz prvega odstavka tega člena, za obdobje treh let in sicer za prvo leto 100%, za drugo leto 50% in za tretje leto 25%.
+Delodajalcu in samozaposlenemu se prizna povračilo prispevkov:
+- če se s pogodbo zaveže, da bo kot samozaposleni z dejavnostjo nadaljeval najmanj za dvojno dobo prejemanja povračila prispevkov,
+- če se s pogodbo zaveže, da bo brezposelno osebo s polnim ali najmanj polovico polnega delovnega časa zaposlil za najmanj dve leti,
+- če se s pogodbo zaveže, da bo brezposelno osebo, ki je prejemnik denarnega nadomestila, zaposlil najmanj za dvojno dobo prejemanja povračila prispevkov,
+- da v obdobju treh mesecev pred uveljavitvijo povračila prispevkov in v času njegovega trajanja ni zmanjšal skupnega števila zaposlenih na istih ali podobnih delovnih mestih iz razlogov na strani delodajalca;
+- da za zaposlitev iskalca zaposlitve ali brezposelne osebe še ni prejel drugih sredstev, namenjenih za izvajanje programov zaposlovanja, razen v primeru vključitve v program izobraževanja in usposabljanja;
+- da zavarovanec, ki je pridobil pravico do denarnega nadomestila ali denarne pomoči, pred prijavo na zavodu ni bil v delovnem razmerju za nedoločen čas pri istem delodajalcu ali pri povezani fizični oziroma pravni osebi,
+- če povečuje skupno število zaposlenih, razen, ko zaposluje brezposelno osebo, starejšo od 50 let."
+Vlada Republike Slovenije, lahko na predlog ministra, pristojnega za delo, zniža višino povračila prispevkov iz tega člena, v primeru, da proračunska postavka, iz katere se zagotavljajo sredstva za te namene, ne zadošča za celotno izplačevanje povračila prispevkov."

@@ -1,0 +1,2 @@
+# 49.c člen
+Vključitev in način ter pogoje za izvajanje programa ukrepov aktivne politike zaposlovanja se uredi s pogodbo med brezposelno osebo in zavodom oziroma drugo pooblaščeno organizacijo, v kateri se določi zlasti pravice, obveznosti in odgovornosti brezposelne osebe, nosilca izvajanja ukrepov aktivne politike zaposlovanja, trajanje in sofinanciranja teh ukrepov in kontrolo nad njihovim izvajanjem."
