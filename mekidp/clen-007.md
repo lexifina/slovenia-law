@@ -1,0 +1,3 @@
+# 7. člen Kraj zagrešitve kaznivega dejanja
+
+1. Zaprošena pogodbenica lahko zavrne izročitev osebe zaradi kaznivega dejanja, za katero se v skladu z njenim pravom šteje, da je bilo v celoti ali delno storjeno na njenem ozemlju ali v kraju, ki se šteje za njeno ozemlje. Če je bilo kaznivo dejanje, zaradi katerega se izročitev zahteva, storjeno zunaj ozemlja pogodbenice prosilke, se lahko izročitev zavrne le, če zakon zaprošene pogodbenice ne dovoljuje pregona za isto kategorijo kaznivega, dejanja, če je to storjeno zunaj ozemlja te pogodbenice ali če izročitev za tako vrsto kaznivega dejanja ni dovoljena.
