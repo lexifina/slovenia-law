@@ -1,0 +1,3 @@
+# 14. člen Začasne finančne ureditve
+
+Institucionalna struktura Sklada za svetovno okolje, ki se upravlja v skladu z Listino o oblikovanju prestrukturiranega Sklada za svetovno okolje, je začasno glavni subjekt, pooblaščen za delovanje finančnega mehanizma, omenjenega v 13. členu, za obdobje od začetka veljavnosti te konvencije do prvega zasedanja Konference pogodbenic ali do takrat, ko Konferenca pogodbenic odloči, katero institucionalno strukturo bo določila v skladu s 13. členom. Institucionalna struktura Sklada za svetovno okolje izpolnjuje svojo nalogo z operativnimi ukrepi, ki se posebej nanašajo na obstojna organska onesnaževala, ob upoštevanju, da bodo na tem področju morda potrebni novi ukrepi.
