@@ -1,0 +1,3 @@
+# 100.b člen
+Za člane občinskega sveta, župana, podžupana in tajnika se uporabljajo določbe zakona o funkcionarjih v državnih organih (Uradni list RS, št. 30/90, 18/91, 22/91, 2/91-I, 4/93) in določbe zakona o razmerjih plač v javnih zavodih, državnih organih in v organih lokalnih skupnosti (Uradni list RS, št. 18/94).
+Za zaposlene v občinski upravi se uporabljajo predpisi o delovnih razmerjih in plačah, ki veljajo za delavce v državni upravi. Pri tem se lahko za delovno mesto tajnika občinske uprave določi količnik za določitev osnovne plače največ v višini, ki ne dosega količnika delovnega mesta načelnika upravne enote.
