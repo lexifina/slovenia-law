@@ -1,0 +1,3 @@
+# 11. člen
+
+Pogodbenice to pogodbo ratificirajo in njene določbe izvajajo v skladu s svojimi notranjepravnimi postopki. Listine o ratifikaciji se čim prej deponirajo pri Vladi Združenih držav Amerike, ki bo vse druge podpisnice uradno obvestila o vsakem deponiranju. Pogodba začne med državami, ki so jo ratificirale, veljati takoj po deponiranju listin o ratifikaciji večine podpisnic, vključno z listinami o ratifikaciji Belgije, Francije, Kanade, Luksemburga, Nizozemske, Združenega kraljestva in Združenih držav, za druge države pa začne veljati na dan deponiranja njihovih listin o ratifikaciji.
