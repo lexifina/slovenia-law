@@ -1,0 +1,3 @@
+# 73. člen Informacije ali dokumenti tretje strani
+
+Če Sodišče od države pogodbenice zahteva, da priskrbi dokument ali informacijo, ki jo hrani, poseduje ali ima pod nadzorom, ki mu jo je zaupno razkrila neka država, medvladna ali mednarodna organizacija, bo ta za razkritje tega dokumenta ali informacije zaprosila za soglasje prvotni vir. Če je prvotni vir država pogodbenica, da soglasje za razkritje informacije ali dokumenta ali reši vprašanje razkritja s Sodiščem ob upoštevanju določb 72. člena. Če prvotni vir ni država pogodbenica in ne da soglasja za razkritje, zaprošena država obvesti Sodišče, da ne more priskrbeti dokumenta ali informacije zaradi prejšnje obljube zaupnosti prvotnemu viru.
