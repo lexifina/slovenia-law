@@ -1,0 +1,4 @@
+# 95. člen (vpliv javnosti)
+(1) Agencija in drugi državni organi so dolžni pri oblikovanju politike na trgu elektronskih komunikacij pred sprejetjem ukrepov, ki bodo pomembno vplivali na ta trg, in pri sprejemanju predpisov pridobiti in primerno upoštevati mnenje zainteresirane javnosti.
+(2) Agencija in drugi državni organi so dolžni pred sprejetjem aktov in predpisov iz prejšnjega odstavka njihove predloge objaviti in zbirati mnenja v objavljenem roku, ki ne sme biti krajši od 30 dni.
+(3) Po preteku roka iz prejšnjega odstavka in pred sprejetjem akta ali predpisa iz prvega odstavka tega člena mora agencija ali drug državni organ na spletnih straneh objaviti pridobljena mnenja in pripombe ter navesti v objavi način, kako so bila upoštevana ali razloge, zaradi katerih niso bila upoštevana. Pri tem se ne objavijo informacije in podatki, ki so zaupne narave.

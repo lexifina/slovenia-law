@@ -1,0 +1,4 @@
+# 89. člen (imeniki in imeniška služba)
+(1) Naročniki javno dostopnih telefonskih storitev imajo pravico do vpisa v univerzalni imenik iz 12. člena tega zakona.
+(2) Operaterji in preprodajalci njihovih storitev, ki dodeljujejo telefonske številke naročnikom, morajo izpolniti vse razumne zahteve za zagotavljanje javno dostopnih imeniških storitev in imenikov, vključno z univerzalno imeniško službo in univerzalnim imenikom, in morajo dati na voljo ustrezne informacije v dogovorjeni obliki in pod pravičnimi, objektivnimi, stroškovno naravnanimi in nediskriminatornimi pogoji. V primeru spora odloči agencija na podlagi 129. člena tega zakona.
+(3) Vsak končni uporabnik javno dostopnih telefonskih storitev mora imeti dostop do univerzalne imeniške službe iz 12. člena tega zakona in do ustreznih imeniških služb v drugih državah članicah.

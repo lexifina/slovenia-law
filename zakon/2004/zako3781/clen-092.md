@@ -1,0 +1,6 @@
+# 92. člen (pravica do ugovora in pritožbe)
+(1) Vsak končni uporabnik ima pravico do ugovora zoper odločitev ali ravnanje operaterjev v zvezi z dostopom do storitev ali njihovim izvajanjem na ustrezen organ ali telo, ki ga ustanovi operater.
+(2) Ugovor mora končni uporabnik vložiti v 15 dneh od dneva, ko je izvedel za izpodbijano odločitev ali ravnanje iz prejšnjega odstavka, pri čemur se šteje, da je ugovor pravočasen tudi, če je vložen zadnji dan pritožbenega roka priporočeno po pošti. Če bi se rok iztekel na soboto, nedeljo, praznik ali dela prost dan, je ugovor pravočasen, če je vložen prvi naslednji delovni dan.
+(3) Način in postopek reševanja ugovorov končnih uporabnikov mora operater določiti v svojih splošnih pogojih.
+(4) Če operater v 15 dneh po prejemu ugovora temu ne ugodi oziroma ne odloči o njem, lahko uporabnik v 15 dneh po prejemu neugodne rešitve svojega ugovora oziroma po preteku 15-dnevnega roka od njegove vložitve vloži pritožbo na agencijo, ki o vprašanju odloči z odločbo po postopku iz 129. člena tega zakona.
+(5) Organizacije, ki lahko vložijo tožbo po zakonu, ki ureja varstvo potrošnikov, smejo vložiti ugovor zaradi kršitve splošnih pogojev in cen operaterjev pri poslovanju z uporabniki in potrošniki, kot tudi postopati po prejšnjem odstavku.

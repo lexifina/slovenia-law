@@ -1,0 +1,4 @@
+# 143. člen (nadzor nad izvajanjem ukrepov)
+(1) Agencija opravlja nadzor nad izvajanjem ukrepov, ki jih je izdala z odločbo ali drugimi splošnimi ali posamičnimi pravnimi akti.
+(2) Kolikor agencija pri opravljanju nadzora ugotovi, da fizična ali pravna oseba, ki zagotavlja elektronska komunikacijska omrežja oziroma izvaja elektronske komunikacijske storitve, ali druga fizična ali pravna oseba ravna oziroma je ravnala v nasprotju z ukrepi iz prejšnjega odstavka, lahko dodatno naloži izpolnitev tega ukrepa oziroma določene obveznosti v okviru tega ukrepa ali naloži drug primeren in sorazmeren ukrep, s katerim se odpravi takšno ravnanje. Pri tem za izpolnitev ukrepa nadzora agencija določi rok najmanj 30 dni, krajši rok pa le, če gre za ponavljajočo kršitev.
+(3) Pri izvajanju tega člena tega zakona agencija ravna v skladu s pristojnostmi in pooblastili, ki jih ima na podlagi tega poglavja tega zakona.

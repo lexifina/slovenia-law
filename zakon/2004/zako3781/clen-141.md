@@ -1,0 +1,6 @@
+## XIV. NADZOR IN ODLOČANJE O PREKRŠKIH
+# 141. člen (pristojnost za nadzor)
+(1) Agencija kot neodvisni regulativni organ v okviru svojih pooblastil nadzira uporabo določb tega zakona in na njegovi podlagi izdanih predpisov, razen v primerih, ki po tem zakonu izrecno spadajo v pristojnost inšpektorja. Agencija opravlja nadzor nad izvajanjem vseh posamičnih aktov oziroma ukrepov, ki jih sprejema v okviru svojih pristojnosti na podlagi tega zakona in na njegovi podlagi sprejetih predpisov.
+(2) Če agencija ali inšpektor pridobijo informacijo o kršitvi določb tega zakona, predpisov, posamičnih aktov oziroma ukrepov, za katere nadzor so pristojni, o tem obvestijo fizično oziroma pravno osebo, ki je po njihovem mnenju za kršitev odgovorna ter ji dajo možnost, da se v primernem roku o zadevi izjavi oziroma hkrati kršitev tudi sama odpravi. Postavljeni rok je lahko krajši od 30 dni, če gre za ponavljajoče se kršitve.
+(3) Agencija in inšpektorji so dolžni delovati usklajeno, se obveščati o izvedenih ukrepih nadzora, drug drugemu posredovati podatke potrebne za izvajanje nadzora ter medsebojno strokovno sodelovati. Agencija lahko opravlja tudi posamezna strokovna dela iz pristojnosti in na zahtevo inšpektorja.
+(4) V postopku nadzora po tem zakonu se smiselno uporabljajo določbe zakona, ki ureja inšpekcijski nadzor, razen če s tem zakonom ni drugače določeno.

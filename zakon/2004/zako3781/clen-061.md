@@ -1,0 +1,5 @@
+# 61. člen (postopek izdaje odločbe o dodelitvi številk)
+(1) Agencija izda odločbo o dodelitvi številk v skladu z načrtom oštevilčenja po določbah zakona, ki ureja splošni upravni postopek, ter po predhodno izvedenem postopku javnega razpisa v primerih, kot to določa ta zakon.
+(2) Postopek javnega razpisa uporabi agencija le takrat, kadar ob smiselni uporabi postopka iz 36. člena ugotovi, da se učinkovita uporaba določenih številk (npr. kratke številke) lahko zagotovi le z omejitvijo števila izdanih odločb o dodelitvi številk. V postopku javnega razpisa lahko kot ponudniki sodelujejo le operaterji, ki na ta način pridobljene številke lahko dodeljujejo v uporabo svojim uporabnikom pod enakimi, stroškovno naravnanimi in preglednimi pogoji.
+(3) Agencija v tem postopku javnega razpisa smiselno uporabi določbe javnega razpisa, ki ga na podlagi tega zakona izvede za dodelitev določenih radijskih frekvenc.
+(4) O ponudbah odloči agencija z izdajo ene ali več odločb o dodelitvi številk, ki pa jih mora v tem primeru izdati in vročiti v 42 dneh od preteka roka za predložitev ponudb ter hkrati obvestiti javnost o svoji odločitvi.

@@ -1,0 +1,13 @@
+# 7. člen (graditev in delovanje elektronskih komunikacijskih omrežij)
+(1) Elektronska komunikacijska omrežja in pripadajoča infrastruktura, ki je namenjena za povezovanje z javnimi komunikacijskimi omrežji in za izvajanje javnih komunikacijskih storitev, morajo biti grajena v skladu s predpisi o urejanju prostora, graditvi objektov, vključno z njihovimi bistvenimi lastnostmi, in o varstvu okolja ter morajo delovati v skladu z veljavnimi predpisi, ki določajo varnost delovanja elektronskega komunikacijskega omrežja, njegovo celovitost, medsebojno delovanje storitev in priključevanje telekomunikacijske terminalske opreme.
+(2) Gradnja javnih komunikacijskih omrežij in pripadajoče infrastrukture je v javno korist ter je uvrščena v prostorsko ureditev državnega pomena.
+(3) Ne glede na to, da javna komunikacijska omrežja niso namenjena zagotavljanju opravljanja gospodarske javne službe, se štejejo za vzdrževalna dela v javno korist v smislu predpisov o graditvi objektov naslednja dela na javnem komunikacijskem omrežju in pripadajoči infrastrukturi zlasti:
+1. dogradnja in nadgradnja obstoječih objektov oziroma opreme javnih komunikacijskih omrežij (zamenjava opreme, povečanje zmogljivosti, postavitev novih sistemov/tehnologij, rekonstrukcije, prestavitve in zaščite ter popravila kabelskih omrežij),
+2. ojačitev obstoječih antenskih sistemov in njihovo zvišanje,
+3. zamenjava obstoječih zabojnikov oziroma razširitev z novimi,
+4. povečanje zmogljivosti obstoječih ali postavitev novih sistemov zvez ter dostopovnega omrežja (mikrovalovni sistemi, optika, baker, vmesniki in podobno),
+5. zagotovitev potrebnega povečanja obstoječe električne priključne moči,
+6. izvedba zahtevanih ozemljitev oziroma razširitev obstoječe ozemljitve zaradi zamenjave zabojnika/stolpa.
+(4) Vzdrževalna dela v javno korist morajo biti opravljena tako, da objekti ohranjajo bistvene lastnosti v skladu s predpisi o graditvi objektov.
+(5) Minister določi objekte in njihovo razčlenitev v okviru javnih komunikacijskih omrežij in pripadajoče zmogljivosti glede na stopnjo zahtevnosti njihove gradnje oziroma vzdrževanja oziroma lahko podrobnejše uredi vprašanja, ki nastanejo pri izvrševanju tega člena.
+(6) Inšpektor pristojen za prostorske in gradbene zadeve opravlja nadzor nad izvajanjem določb o gradnji javnih komunikacijskih omrežij in pripadajoče infrastrukture, ki izhajajo iz tega zakona in na njegovi podlagi izdanih predpisov ter pri tem usklajeno deluje ter sodeluje z inšpektorjem. Inšpektor pa opravlja nadzor nad delovanjem v obratovanju iz prvega odstavka tega člena ter pri tem sodeluje ter usklajeno deluje z inšpektorjem pristojnim za nadzor blaga na trgu. Vsi navedeni inšpektorji sodelujejo z agencijo ob uporabi tretjega odstavka 141. člena tega zakona.

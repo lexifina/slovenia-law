@@ -1,0 +1,10 @@
+## III. UNIVERZALNA STORITEV
+# 11. člen (univerzalna storitev)
+(1) Univerzalna storitev je najmanjši nabor storitev določene kakovosti, ki je dostopen vsem končnim uporabnikom v Republiki Sloveniji po dostopni ceni ne glede na njihovo geografsko lego.
+(2) Najmanjši nabor storitev, ki sodijo v univerzalno storitev, vključuje:
+1. priključitev na javno telefonsko omrežje in dostop do javno dostopnih telefonskih storitev na fiksni lokaciji na razumno zahtevo uporabnika, tako da mu to omogoča vzpostavljanje in sprejemanje notranjih (krajevnih in medkrajevnih) in mednarodnih klicev, prenos faksimilnih komunikacij in podatkovnih komunikacij s prenosno hitrostjo, primerno za funkcionalen dostop do interneta;
+2. zagotavljanje in dostop do univerzalnega imenika in univerzalne službe za dajanje informacij o naročnikih (v nadaljnjem besedilu: univerzana imeniška služba) v skladu z 12. členom tega zakona;
+3. zagotavljanje javnih telefonskih govorilnic, iz katerih je možno brezplačno in brez uporabe kakršnihkoli plačilnih sredstev klicati na številke za klice v sili, tako da so izpolnjene razumne potrebe končnih uporabnikov glede geografske pokritosti, števila javnih telefonskih govorilnic, dostopnosti za uporabnike-invalide in kakovosti storitev;
+4. zagotavljanje ukrepov za končne uporabnike-invalide, ki jih določi vlada na usklajen predlog ministra in ministra oziroma ministrice, pristojnega oziroma pristojne za socialne zadeve (v nadaljnjem besedilu: minister, pristojen za socialne zadeve), in ki končnim uporabnikom-invalidom omogočajo ustrezen dostop do in uporabo javno dostopnih telefonskih storitev, vključno z dostopom do storitev v sili, imenikov in imeniških služb, kot ga imajo drugi končni uporabniki.
+(3) Če se najmanjši nabor storitev iz prejšnjega odstavka spremeni v zakonodaji Evropske skupnosti, Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) sprejme uredbo, s katero določi spremenjeni najmanjši nabor storitev.
+(4) Vlada lahko z uredbo poveča obseg najmanjšega nabora storitev, ki je določen z drugim oziroma tretjim odstavkom tega člena, če je to v skladu z razvojem elektronskih komunikacij.

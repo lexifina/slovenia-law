@@ -1,0 +1,12 @@
+# 5. člen (obvestilo)
+(1) Pred začetkom, spremembo ali prenehanjem zagotavljanja javnih komunikacijskih omrežij oziroma izvajanjem javnih komunikacijskih storitev je potrebno obvestiti agencijo v pisni obliki. Če se zagotavlja javna komunikacijska omrežja oziroma izvaja javne komunikacijske storitve brez obvestila, inšpektor, pristojen za elektronske komunikacije (v nadaljnjem besedilu: inšpektor), ukrepa skladno s postopkom nadzora.
+(2) V obvestilu iz prejšnjega odstavka morajo biti navedeni podatki, ki jih agencija potrebuje za vzdrževanje uradne evidence operaterjev in nadzor, in sicer:
+1. ime, naslov, davčna in matična številka za fizične osebe,
+2. firma, sedež, davčna in matična številka, registrska številka in navedba zakonitega zastopnika za pravne osebe,
+3. kratek opis javnih komunikacijskih omrežij oziroma javnih komunikacijskih storitev, vključno z opisom značilnih fizičnih in okoljskih lastnosti omrežij in naprav ter načina njihove izvedbe,
+4. predviden datum začetka, spremembe ali prenehanja zagotavljanja javnih komunikacijskih omrežij oziroma izvajanja javnih komunikacijskih storitev.
+(3) Obvestilu morajo biti priložena dokazila za podatke iz prejšnjega odstavka in izjava o izpolnjevanju vseh tehničnih, varnostnih in drugih določenih pogojev za zagotavljanje javnih komunikacijskih omrežij oziroma javnih komunikacijskih storitev.
+(4) Spremembo podatkov iz 1., 2. in 3. točke drugega odstavka tega člena mora operater agenciji sporočiti v roku 30 dni od njihovega nastanka, spremembo podatkov iz 4. točke istega odstavka pa pred predvidenim datumom.
+(5) Agencija v sedmih dneh po prejemu obvestila z vsemi potrebnimi podatki in dokazili iz drugega in tretjega odstavka tega člena, vpiše operaterja v uradno evidenco in mu hkrati pošlje potrdilo o vpisu v uradno evidenco. Vpis v uradno evidenco ni pogoj za izvrševanje pravic in obveznosti, ki jih imajo operaterji po tem zakonu. Potrdilo ni upravni akt in samo po sebi ne ustvarja pravic in obveznosti po tem zakonu.
+(6) Agencija v sedmih dneh po prejemu obvestila, ki ne vsebuje vseh potrebnih podatkov in dokazil iz drugega in tretjega odstavka tega člena, operaterja posebej pozove, da je obvestilo treba dopolniti v roku, ki ne sme biti krajši od osem dni.
+(7) Agencija s splošnim aktom podrobneje predpiše vsebino in obliko obvestila iz prvega odstavka tega člena ter vsebino podatkov in dokazil iz drugega in tretjega odstavka tega člena. Agencija s splošnim aktom določi tudi obliko in vsebino potrdila iz petega odstavka tega člena.

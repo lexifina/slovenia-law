@@ -1,0 +1,7 @@
+# 107. člen (zakonito prestrezanje komunikacij)
+(1) Operater mora na svoje stroške zagotoviti ustrezno opremo v svojem omrežju in primerne vmesnike, ki v njegovem omrežju omogočajo zakonito prestrezanje komunikacij.
+(2) Operater je dolžan omogočiti zakonito prestrezanje komunikacij na določeni točki javnega komunikacijskega omrežja takoj, ko prejme prepis tistega dela izreka odredbe pristojnega organa, v katerem je navedba točke javnega komunikacijskega omrežja, na kateri naj se izvaja zakonito prestrezanje komunikacij, ter drugi podatki, povezani z načinom, obsegom in trajanjem tega ukrepa.
+(3) Prepis odredbe iz prejšnjega odstavka opravi organ, ki je odredbo izdal.
+(4) Operater je dolžan omogočiti zakonito prestrezanje komunikacij na način, v obsegu in trajanju, kot je določeno v predpisu izreka odredbe.
+(5) Operaterji morajo skupaj s pristojnimi organi, ki izvajajo nadzor komunikacij, zagotoviti neizbrisno registracijo zakonitega prestrezanja komunikacij ter pri tem zbrane podatke varovati kot uradno tajnost.
+(6) Minister v soglasju z ministrom oziroma ministrico, pristojnim oziroma pristojno za notranje zadeve (v nadaljnjem besedilu: minister, pristojen za notranje zadeve), ministrom oziroma ministrico, pristojnim oziroma pristojno za obrambo (v nadaljnjem besedilu: minister, pristojen za obrambo), in direktorjem Slovensko obveščevalno-varnostne agencije predpiše funkcionalnost opreme in določi primerne vmesnike iz prvega odstavka tega člena.

@@ -1,0 +1,4 @@
+# 72. člen (številke za klice v sili)
+(1) Operater javnega telefonskega omrežja oziroma javno dostopnih telefonskih storitev mora zagotoviti, da imajo uporabniki javnosti dostopnih telefonskih storitev, vključno z uporabniki javnih telefonskih govorilnic, možnost brezplačnega dostopa do številk za klice v sili.
+(2) Operaterji javnih telefonskih omrežij oziroma javno dostopnih telefonskih storitev morajo dati organom, ki obravnavajo klice na enotno evropsko telefonsko številko za klice v sili "112", brezplačno na voljo informacije o številki in lokaciji kličočega, če je to tehnično izvedljivo.
+(3) Minister v soglasju z ministrom oziroma ministrico, pristojnim oziroma pristojno za zaščito in reševanje, predpiše kakovost storitve za enotno evropsko telefonsko številko za klice v sili "112", tako da zlasti določi parametre kakovosti, njihove mejne vrednosti in metode merjenja teh parametrov.

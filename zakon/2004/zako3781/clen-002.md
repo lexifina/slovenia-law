@@ -1,0 +1,2 @@
+# 2. člen (namen zakona)
+Namen tega zakona je zagotavljanje učinkovite konkurence na trgu elektronskih komunikacij, ohranjanje učinkovite uporabe radiofrekvenčnega spektra in številskega prostora, zagotavljanje univerzalne storitve in varstvo pravic uporabnikov. Namen zakona je pospeševanje razvoja elektronskih komunikacijskih omrežij in storitev v Republiki Sloveniji in s tem gospodarskega in družbenega razvoja v državi nasploh, kot tudi razvijanje notranjega trga Evropske unije in uveljavljanje legitimnih interesov vseh njenih državljanov.

@@ -1,0 +1,2 @@
+# 52. člen (prenos odločbe o dodelitvi radijskih frekvenc)
+Imetnik odločbe o dodelitvi radijskih frekvenc lahko svojo pravico do uporabe teh radijskih frekvenc s pravnim poslom prenese na drugo fizično ali pravno osebo, ki izpolnjuje predpisane pogoje, vendar le s predhodnim soglasjem agencije, ki preveri, ali ta druga fizična ali pravna oseba izpolnjuje pogoje, določene z zakonom, podzakonskimi predpisi ali aktom agencije.
