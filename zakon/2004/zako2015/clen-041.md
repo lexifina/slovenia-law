@@ -10,7 +10,7 @@
 8. podatke o osebah, ki so pooblaščene za zastopanje fizične osebe (davčno številko, osebno ime, naslov prebivališča, tip zastopnika, meje pooblastil za zastopanje, datum podelitve pooblastila, datum prenehanja pooblastila, podatke o elektronskem certifikatu);
 9. podatke o elektronskem certifikatu, če fizična oseba z njim razpolaga;
 10. podatke o kapitalskih naložbah doma in v tujini, in sicer: firmo, sedež in organizacijsko obliko podjetja.
-(2) Davčni register vsebuje za pravne in druge osebe, ki opravljajo dejavnost, naslednje podatke:
+(2) Davčni register vsebuje za pravne osebe, združenja oseb po tujem pravu, ki so brez pravne osebnosti in druge osebe, ki opravljajo dejavnost, naslednje podatke:
 1. davčno številko;
 2. firmo oziroma ime, sedež in naslov (občina, naselje, ulica, hišna številka, dodatek k hišni številki, poštna številka, vse potrebne službene in domače kontaktne številke telefonov in telefaksov, naslov službene kontaktne elektronske pošte);
 3. podatke o številu in lokaciji poslovnih in drugih prostorov, ki se uporabljajo za opravljanje dejavnosti in pridobivanje dohodkov;
