@@ -1,0 +1,3 @@
+# 13. člen
+
+Vsaka podpisnica lahko zaradi javnega reda, varnosti ali iz zdravstvenih razlogov začasno v celoti ali delno preneha uporabljati določbe tega Sporazuma. O prenehanju uporabe in njegovem preklicu je treba drugo podpisnico takoj obvestiti po diplomatski poti.
