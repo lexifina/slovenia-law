@@ -1,0 +1,155 @@
+Razglašam Zakon o ratifikaciji Sporazuma med Vlado Republike Slovenije in Vlado Kraljevine Nizozemske o mednarodnem cestnem prevozu (BNLMCP), ki ga je sprejel Državni zbor Republike Slovenije na seji dne 15. novembra 1995.
+
+Št. 012-01/95-105
+
+Ljubljana, dne 23. novembra 1995
+
+Predsednik Republike Slovenije Milan Kučan l. r.
+
+The Government of the Republic of Slovenia and the Government of the Kingdom of the Netherlands, hereafter called the Contracting Parties, desirous of promoting, in the interest of their economic relations, the development of transport of goods and passengers by road in, to and from their countries and in transit across their territories,
+
+have agreed as follows:
+
+Article 1
+
+Scope
+
+1. The provisions of this Agreement shall apply to the international carriage of goods and passengers by road for hire or reward or on own account between the Contracting Parties, in transit through their territories, to or from third countries and to the carriage of goods and passengers within the territories of either Contracting Party, hereafter called cabotage, effectuated by carriers with vehicles as defined in Article 2.
+
+2. The Contracting Parties shall ensure the rights and obligations arising from agreements to be concluded between the European Communities and the Republic of Slovenia.
+
+The Contracting Party which is a member state of the European Communities will apply this Agreement in accordance with its obligations under the treaties establishing the European Communities, as amended or supplemented.
+
+Article 2
+
+Definitions
+
+For the purpose of this Agreement:
+
+1. the term “carrier” means a person (including a legal person), who is established in either Contracting Party and legally admitted in the country of establishment to the transport market of goods or passengers by road for hire or reward or on his own account in accordance with the relevant national laws and regulations;
+
+2. the term “vehicle” means a motor vehicle or a combination of vehicles of which at least the motor vehicle is registered in either Contracting Party and which is used and equipped exclusively for the carriage of goods or the carriage of passengers by bus;
+
+3. the term “cabotage” means the operation of transport services within the territory of a Contracting Party by a carrier established in the other Contracting Party;
+
+4. the term “transport” or “carriage” means the conveyance of laden or unladen vehicles by road, even if for a part of the journey the vehicle, trailer or semi-trailer is using rail or waterways.
+
+Article 3
+
+Accesss to the market
+
+1. Each of the Contracting Parties can allow any carrier established in the territory of the other Contracting Party to carry out any transport of goods or passengers:
+
+a. between any point in its territory and point outside that territory, and
+
+b. in transit through its territory,
+
+subject to permits, except if otherwise agreed upon by the Joint Committee, to be issued by the competent authorities or other empowered organizations of each Contracting Party.
+
+2. In any case no permits shall be required for the following types of transport or for unladen journeys made in conjuction with such transport:
+
+– transport on own account;
+
+– carriage of mail as a public service;
+
+– carriage of vehicles which have suffered damage or breakdown;
+
+– carriage of goods in motor vehicles, the permissible laden weight of which, including that of trailers, does not exceed 6 tons or the permissible payload of which, including that of trailers, does not exceed 3,5 tons;
+
+– carriage of medical goods and equipment or other goods necessary in case of emergency, in particular for natural disasters.
+
+3. A carrier may not undertake cabotage, unless specially authorised thereto by the competent authorities or other empowered organizations of the Contracting Party where the transport will be performed.
+
+Article 4
+
+Weights and dimensions
+
+1. Weights and dimensions of vehicles must be in accordance with the official registration of the vehicle and may not exceed the limits in force in the host country.
+
+2. A special permit is required if the weights and/or dimensions of a laden or unladen vehicle when engaged in transport under the provisions of this Agreement exceed the permissible maximum in the territory of the other Contracting Party.
+
+3. Such special permits may be subject to the payment of an administrative contribution for issuing the permit and the performance of the transport.
+
+Article 5
+
+Compliance with national law
+
+1. Carriers of a Contracting Party and the crews of their vehicles must, when on the territory of the other Contracting Party, comply with the laws and regulations in force in that country.
+
+2. In the case of cabotage the Joint Committee will precise the laws and regulations applicable in the host country.
+
+3. The in the previous paragraphs mentioned legislation will be applied under the same conditions to which own residents are submitted so that discrimination on grounds of nationality or place of establishment is excluded.
+
+Article 6
+
+Infringements
+
+In the event of any infringement of the provisions of this Agreement by a carrier of a Contracting Party, the Contracting Party on whose territory the infringement occurred shall, without prejudice to its own legal proceedings, notify the other Contracting Party which will take such steps as are provided for by its national laws. The Contracting Parties will inform each other about the sanctions that have been imposed.
+
+Article 7
+
+Fiscal matters
+
+1. Vehicles, including their spare parts, carrying out transport in accordance with this Agreement, shall be mutually exempted from all taxes and charges levied on the circulation or possession of the vehicles as well as from all special taxes or charges levied on transport operations in the territory of the other Contracting Party.
+
+2. Taxes and charges on motor fuel, VAT on transport services and tolls are not exempted.
+
+3. The fuel contained in the normal tanks of the vehicle, as well as the lubricants contained in the vehicles for the sole purpose of their operation, shall be mutually exempted from customs duties and any other taxes and payments.
+
+Article 8
+
+Joint Committee
+
+1. The competent authorities of the two contracting Parties shall regulate all questions regarding the implementation and the application of this Agreement.
+
+2. For this purpose the Contracting Parties shall establish a Joint Committee.
+
+3. The Joint Committee shall meet regularly at the request of either Contracting Party and shall comprise representatives of the competent authorities of the administration of the Contracting Parties which can invite representatives of the road transport industry. The Joint Committee draws up its own rules and procedures. The Joint Committee shall meet alternately in either Contracting Party. The host country will chair the meeting. The agenda for the meeting shall be presented by the Contracting Party hosting the meeting at least two weeks before the beginning of the meeting. The meeting will be concluded by drawing up a protocol that will be signed by the heads of delegations of the Contracting Parties, who are empowered to sign this protocol in accordance with national procedures.
+
+4. Following Article 3, paragraphs 1 and 3, the Joint Committee shall decide upon the type and number of permits and the conditions of access to the market, including the labour market aspects. Notwithstanding Article 3, paragraph 2, the Joint Committee can extend the types of transport for which no permits are required.
+
+5. The Joint Committee shall give particular consideration to the following subjects:
+
+– the harmonious development of transport between the two countries, taking into account among others environmental aspects involved;
+
+– the coordination of road transport policies, transport legislation and its implementation by the Contracting Parties at national and international level;
+
+– the formulation of possible solutions for the respective national authorities if problems occur, notably in the field of fiscal, social, customs and environmental matters, including matters of public order;
+
+– the exchange of relevant information;
+
+– the method of fixing weights and dimensions;
+
+– the promotion of cooperation between transport enterprises and institutions;
+
+– the promotion of multimodal transport, including all questions concerning market access.
+
+Article 9
+
+Modification
+
+Any modification of the present Agreement agreed upon by the Contracting Parties shall come into force on the date on which the Contracting Parties have informed each other in writing of the completion of their respective national requirements.
+
+Article 10
+
+Entry into force and duration
+
+1. This Agreement shall be applied provisionally as from the date of its signature and shall enter into force on the first day of the second month following the date on which the Contracting Parties have informed each other in writing that the requirements necessary to give effect to the Agreement in their respective countries have been complied with.
+
+2. The Agreement shall remain in force for a period of one year after its entry into force. Thereafter, the Agreement shall be tacitly extended from year to year unless one of the Contracting Parties has, prior to the date of extension, given to the other Contracting Party six months written notice of its intention to terminate it.
+
+Article 11
+
+Application for the Kingdom of the Netherlands
+
+With respect to the Kingdom of the Netherlands, this Agreement shall apply only to the territory of the Kingdom in Europe.
+
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Agreement.
+
+DONE in duplicate at Ljubljana on May 17, 1993 in the English language, both duplicates being equally authentic.
+
+For the Government of the Republic of Slovenia, Marjan Dvornik, (s) For the Government of the Kingdom of the Netherlands, Hans Rudolf van der Valk, (s)
+
+Vlada Republike Slovenije in Vlada Kraljevine Nizozemske, v nadaljnjem besedilu pogodbenici, sta se v želji, da bi v interesu krepitve gospodarskih odnosov pospeševali razvoj cestnega prevoza blaga in potnikov iz, v in tranzitno čez njuni ozemlji,
+
+dogovorili naslednje:
