@@ -1,4 +1,0 @@
-# 52. člen
-Poleg denarne kazni za gospodarski prestopek iz 47. in 48. člena oziroma poleg kazni za prekrške iz 49., 50. in 51. člena tega zakona, se lahko izreče zoper storilca tudi varnostni ukrep odvzema predmetov in proizvodov, s katerimi je bil gospodarski prestopek ali prekršek storjen.
-Poleg denarne kazni za gospodarski prestopek iz 47. in 48. člena oziroma poleg kazni za prekrške iz 49., 50. in 51. člena tega zakona, se organizaciji združenega dela, drugi pravni osebi ali posamezniku lahko izreče varnostni ukrep odvzema premoženjske koristi, pridobljene z gospodarskim prestopkom ali prekrškom.
-Poleg denarne kazni za gospodarski prestopek oziroma poleg denarne kazni za prekršek iz 5. točke prvega odstavka 47. člena tega zakona, se lahko izreče zoper storilca varnostni ukrep odvzema dovoljenja za promet za neposredno porabo nevstekleničenega namiznega vina z geografskim poreklom za dobo od enega do petih let.
