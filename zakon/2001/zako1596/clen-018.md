@@ -1,0 +1,9 @@
+## IV. REGISTER STALNEGA PREBIVALSTVA
+# 18. člen (splošna določba)
+Zaradi zagotovitve pregleda nad stanjem in gibanjem prebivalstva vodita ministrstvo, pristojno za upravo in pristojni organ register stalnega prebivalstva.
+Za zbiranje, obdelovanje, shranjevanje, posredovanje in uporabo podatkov iz registra stalnega prebivalstva in evidenc po tem zakonu, se uporabljajo določbe zakona, ki ureja varstvo osebnih podatkov, če ni s tem zakonom drugače določeno.
+Pristojni organ zbira osebne podatke neposredno od posameznika, na katerega se ti podatki nanašajo in od stanodajalcev, ali iz že obstoječih zbirk podatkov pristojnega organa in evidenc, ki jih na podlagi zakonov vodijo in upravljajo drugi upravljavci.
+Zaradi zagotavljanja točnosti podatkov v registru stalnega prebivalstva, so upravni in drugi državni organi, organi lokalnih skupnosti, nosilci javnih pooblastil ter pravne ali fizične osebe, ki opravljajo vročanje spisov kot svojo dejavnost, ki ugotovijo, da posameznik stalno ali začasno ne prebiva na naslovu, ki ga je prijavil, dolžni o tem obvestiti pristojni organ.
+O zbiranju osebnih podatkov od stanodajalcev ali iz že obstoječih zbirk podatkov pristojni organ ni dolžan obvestiti posameznika, na katerega se ti podatki nanašajo.
+Stanodajalci zbirajo osebne podatke neposredno od posameznika, na katerega se ti podatki nanašajo.
+Osebne podatke iz registra stalnega prebivalstva in evidenc po tem zakonu lahko uporabljajo delavci ministrstva, pristojnega za upravo in pristojnega organa za opravljanje nalog iz svojega delovnega področja, uporabljajo pa jih lahko tudi policisti, če gre za izvrševanje z zakonom določenih nalog ter drugi uporabniki, ki so za njihovo pridobivanje pooblaščeni z zakonom, pisno privolitvijo posameznika, na katerega se osebni podatki nanašajo, ali če gre za posredovanje podatkov v skladu z zakonom, ki ureja varstvo osebnih podatkov, ali mednarodno pogodbo.
