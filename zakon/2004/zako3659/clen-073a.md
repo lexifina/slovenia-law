@@ -1,0 +1,2 @@
+# 73.a člen
+Pogoje za organiziranje in delovanje varnostne službe za zagotovitev varnosti sodnikov, drugih sodnih oseb, strank in udeležencev v postopkih ter za zagotovitev nemotenega poslovanja sodišča, vzdrževanje reda na sodišču, varovanje sodnih zgradb, funkcionalnih zemljišč, parkirišč in drugih objektov in opreme ter za varovanje premoženja, določa Sodni red v skladu z zakonom, ki ureja zasebno varovanje.
