@@ -1,2 +1,2 @@
 # 1. člen
-Prepovedana je paša, s katero se živina seli iz kraja v kraj tako, da se živina žene preko kmetijskih zemljišč z namenom, da se s pašo preživi v določenih letnih obdobjih (v nadaljnjem besedilu: nomadska paša).
+Zaradi varovanja kmetijskih in drugih zemljišč ter gozdov pred škodo je prepovedana paša, s katero se živina seli iz kraja v kraj izven organiziranih pašnikov (v nadaljnjem besedilu: nomadska paša).

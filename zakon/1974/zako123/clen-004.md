@@ -1,3 +1,5 @@
 # 4. člen
-Čreda na nomadski paši se na riziko in stroške lastnika oziroma uporabnika prisilno odstrani z nomadske paše.
-Za odškodninske zahtevke, ki izvirajo iz škode, povzročene z nomadsko pašo, je pristojno tisto sodišče, ki je pristojno za območje, na katerem je bila škoda storjena.
+Pooblaščene veterinarske organizacije združenega dela, ki opravljajo veterinarsko-sanitarni pregled pri nakladanju in razkladanju živali, so dolžne ob razkladanju, poleg nalog, ki jih imajo po drugih predpisih, ugotoviti tudi, če so izpolnjeni pogoji za organizirano pašo po 2. členu tega zakona.
+Če se ob razkladanju ugotovi, da niso izpolnjeni pogoji po prejšnjem odstavku, pooblaščena veterinarska organizacija združenega dela z odločbo v upravnem postopku prepove razkladanje živali in o tem takoj obvesti občinski upravni organ, pristojen za kmetijsko inšpekcijo.
+Če pooblaščena veterinarska organizacija združenega dela ob izvajanju svojih nalog po drugih predpisih zateče živali na paši, je dolžna ugotoviti, ali so izpolnjeni pogoji za organizirano pašo po 2. členu tega zakona. Če ugotovi, da ti pogoji niso izpolnjeni, odredi z odločbo v upravnem postopku začasno omejitev gibanja živali in o tem takoj obvesti občinski upravni organ, pristojen za kmetijsko inšpekcijo.
+Zoper odločbo veterinarske organizacije združenega dela iz drugega in tretjega odstavka tega člena ni dovoljena pritožba.
