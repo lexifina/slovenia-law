@@ -1,0 +1,3 @@
+# 30.b člen (Ponudba za izvršitev čezmejnega plačila manjše vrednosti)
+
+Ponudba, ki jo da izvajalec plačilnega prometa na zahtevo stranke za izvršitev čezmejnega plačila manjše vrednosti, mora vsebovati navedbo časa, v katerem bo plačilo izvršeno in navedbo provizij in drugih stroškov, razen tistih, ki so povezani z uporabo tečaja. Ponudba veže izvajalca plačilnega prometa do izteka roka za sprejem ponudbe.
