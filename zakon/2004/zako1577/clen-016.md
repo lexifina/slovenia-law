@@ -1,0 +1,4 @@
+# 16. člen (pridobivanje sredstev na podlagi statusa za delovanje v javnem interesu)
+(1) Pravna oseba, ki pridobi status za delovanje v javnem interesu in deluje na področju spodbujanja razvoja turizma na nacionalni ravni, lahko ob izpolnjevanju pogojev, ki jih določa ta zakon, pridobi za izvajanje dejavnosti spodbujanja razvoja turizma in s tem povezane aktivnosti sredstva državnega proračuna.
+(2) Pravna oseba, ki pridobi status za delovanje v javnem interesu in deluje na področju spodbujanja razvoja turizma v okviru turističnega območja, lahko pridobi za izvajanje dejavnosti v javnem interesu v okviru turističnega območja in s tem povezane aktivnosti namenska sredstva občinskih proračunov iz 20. člena tega zakona.
+(3) Pravna oseba, ki deluje v javnem interesu na področju spodbujanja razvoja turizma na nacionalni ravni, mora ministrstvu, pristojnemu za turizem do konca meseca februarja predložiti poročilo o delu za preteklo leto.

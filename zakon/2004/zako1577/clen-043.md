@@ -1,0 +1,3 @@
+# 43. člen (pogoji za opravljanje dejavnosti turističnih športnih storitev kot pridobitne dejavnosti)
+(1) Dejavnosti turističnih športnih storitev, ki se opravljajo kot pridobitna dejavnost (kot na primer šole ali tečaji smučanja, jadranja, tenisa, jahanja in podobno) ter vodenja turistov pri organiziranih športnih aktivnostih, lahko opravljajo pravne osebe in samostojni podjetniki posamezniki pod pogojem, da usposabljanje in strokovno vodenje izvaja oseba, ki ima v skladu s predpisi s področja šolstva, licenco za opravljanje strokovnega dela, ali oseba, ki je vpisana v razvid zasebnih športnih delavcev pri ministrstvu, pristojnem za šport.
+(2) Minister, pristojen za turizem, lahko predpiše dodatne pogoje za opravljanje dejavnosti iz prejšnjega odstavka.

@@ -1,0 +1,6 @@
+## II. NAČRTOVANJE IN IZVAJANJE POLITIKE SPODBUJANJA RAZVOJA TURIZMA
+# 5. člen (strategija slovenskega turizma)
+(1) Temeljni dokument načrtovanja razvoja turizma na nacionalni ravni je strategija slovenskega turizma (v nadaljnjem besedilu: strategija). Strategijo sprejme Vlada Republike Slovenije na predlog ministrice oziroma ministra, pristojnega za turizem (v nadaljnjem besedilu: minister, pristojen za turizem) po izvedeni javni razpravi z vsemi partnerji načrtovanja razvoja slovenskega turizma. Vlada Republike Slovenije s strategijo seznani Državni zbor Republike Slovenije.
+(2) Strategija izhaja iz sprejetih strateških razvojnih dokumentov Republike Slovenije.
+(3) Strategija se sprejme za obdobje petih let, pri čemer jo je v primeru ugotovljenih bistvenih sprememb v trendih turističnega povpraševanja možno predčasno dopolniti oziroma spremeniti.
+(4) Strategija opredeljuje analizo stanja, turistične trende, konkurenčne prednosti slovenskega turizma, vizijo, strateške cilje in temeljna področja turističnega razvoja, vlogo države, občin, ponudnikov turističnih storitev ter turističnih društev in njihovih zvez pri uresničevanju skupnih strateških ciljev ter temelje politike in ukrepov Vlade Republike Slovenije za spodbujanje razvoja turizma v načrtovanem obdobju.

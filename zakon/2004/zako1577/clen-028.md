@@ -1,0 +1,3 @@
+# 28. člen (postopek pobiranja in odvajanja turistične takse)
+(1) Pravne osebe javnega in zasebnega prava, samostojni podjetniki posamezniki oziroma samostojne podjetnice posameznice (v nadaljnjem besedilu: samostojni podjetnik posameznik), sobodajalci in kmetje oziroma sobodajalke in kmetice (v nadaljnjem besedilu: sobodajalci in kmetje), ki sprejemajo turiste na prenočevanje, morajo pobirati turistično takso v imenu in za račun občine hkrati s plačilom storitev za prenočevanje ali najpozneje zadnji dan prenočevanja.
+(2) Osebe iz prejšnjega odstavka morajo pobirati in odvajati turistično takso za prenočitev turista tudi v primeru, če mu ne zaračunavajo plačila storitev za prenočevanje.

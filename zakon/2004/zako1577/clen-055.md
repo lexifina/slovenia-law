@@ -1,0 +1,4 @@
+# 55. člen (uporaba dosedanjih predpisov)
+(1) Do uveljavitve predpisa iz tretjega odstavka 35. člena tega zakona se uporablja pravilnik o načinu in postopku pridobitve licence za opravljanje dejavnosti organiziranja turističnih potovanj, dejavnosti prodaje oziroma posredovanja turističnih potovanj ter o načinu vodenja registra izdanih licenc (Uradni list RS, št. 13/99, 37/2000 in 58/2001).
+(2) Določba prvega odstavka 31. člena tega zakona se začne uporabljati 1. septembra 2004. Do začetka uporabe te določbe se uporablja odredba o vsebini in vodenju evidence o plačani turistični taksi (Uradni list RS, št. 13/99).
+(3) Minister, pristojen za upravo, v soglasju z ministrom, pristojnim za turizem, najkasneje v treh mesecih po uveljavitvi tega zakona uskladi metodologijo vodenja podatkov v evidenci gostov določene s predpisom o prijavi prebivališča z določbami tega zakona.
