@@ -1,0 +1,3 @@
+# 10. člen
+Minister, pristojen za meroslovje, lahko za ugotavljanje skladnosti imenuje tudi pravno osebo.
+Minister, pristojen za meroslovje, lahko za ugotavljanje skladnosti imenuje le pravno osebo, katere usposobljenost za delovanje je bila predhodno preverjena po pravilih akreditacije ali akreditaciji enakovrednih pravilih in ki izpolnjuje dodatne zahteve za posamezne postopke ugotavljanja skladnosti, ki jih s predpisom določi minister, pristojen za meroslovje. S predpisom določi tudi postopek imenovanja pravnih oseb, naloge imenovanih pravnih oseb in način nadzora nad izpolnjevanjem zahtev za imenovanje.

@@ -1,0 +1,2 @@
+ZAKON
+O MEROSLOVJU (ZMer-1)
