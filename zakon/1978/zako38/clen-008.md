@@ -1,2 +1,1 @@
-# 8. člen
-Organi, organizacije združenega dela in skupnosti kot upravljalci pomembnejših gradbenih objektov v družbeni latsnini so dolžni pošiljati pristojnemu občinskemu upravnemu organu podatke, ki so potrebni za ugotovitev seizmične varnosti teh objektov, v roku in obsegu, ki ga določi upravni organ. Pristojni občinski upravni organ pošlje en izvod teh podatkov Seizmološkemu zavodu SR Slovenije.
+# 8. člen (prenehal veljati)
