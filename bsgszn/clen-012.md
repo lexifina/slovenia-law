@@ -1,0 +1,5 @@
+# 12. ČLEN REŠEVANJE SPOROV MED VLAGATELJEM IN POGODBENICO
+
+1. Vsak spor med vlagateljem ene pogodbenice in drugo pogodbenico v zvezi z naložbo na ozemlju druge pogodbenice se, kolikor je mogoče, rešuje po mirni poti s pogajanji med strankama v sporu. Stranka, ki namerava reševati tak spor s pogajanji, o svoji nameri pisno obvesti drugo stranko.
+
+2. Če kakršnega koli spora ni mogoče rešiti tako, kot je predvideno v prvem odstavku tega člena, potem se spor v šestih mesecih od datuma obvestila ene ali druge stranke v sporu, če se stranki ne dogovorita drugače, na zahtevo ene ali druge stranke v sporu predloži v spravo ali arbitražo Mednarodnemu centru za reševanje investicijskih sporov (v tem sporazumu imenovanemu “Center“), ustanovljenemu na podlagi Konvencije o reševanju investicijskih sporov med državami in državljani drugih držav, ki je bila dana na voljo za podpis v Washingtonu 18. marca 1965 (v tem sporazumu imenovane “konvencija“). V ta namen vsaka pogodbenica na podlagi 25. člena konvencije vnaprej nepreklicno soglaša, da bo vsak spor predložila Centru.
