@@ -1,0 +1,9 @@
+# 1. člen
+Republika Slovenija daje poroštvo za obveznosti Stanovanjskega sklada Republike Slovenije in Sklada za regionalni razvoj ter ohranjanja slovenskega podeželja (v nadaljnjem besedilu: kreditojemalca) za kredit, ki ga kreditojemalca najameta pri Skladu Sveta Evrope za socialni razvoj (v nadaljnjem besedilu: kreditodajalec) v višini 959,000.000 tolarjev (Stanovanjski sklad RS 225,000.000 tolarjev, Sklad za regionalni razvoj 734,000.000 tolarjev), za izvedbo programov pri popotresni obnovi in spodbujanju razvoja Posočja, pod naslednjimi pogoji:
+- rok odplačila kredita je deset let z vključenim petletnim moratorijem za odplačilo glavnice;
+- valuta odplačila glavnice je enaka kot valuta črpanja posamezne tranše;
+- obrestna mera je obrestna mera za izbrano valuto črpanja in je lahko spremenljiva (variabilna, trimesečni LIBOR) ali stalna (fiksna). Kreditojemalci se za obrestno mero in valuto črpanja odločajo pred vsako posamezno tranšo črpanja s pismenim zahtevkom kreditodajalcu in sicer 30 dni pred nameravanim črpanjem;
+- plačilo obresti: obresti za spremenljivo obrestno mero so plačljive četrtletno, za stalno obrestno mero pa polletno. Plačilo obresti se izvrši v isti valuti kot plačilo glavnice;
+- zamudne obresti so vsota enomesečnih variabilnih obresti LIBOR za izbrano valuto in dodatnih obresti v znesku 2,50% letno za zapadel in neodplačan znesek kredita in se obračunajo za čas od dneva zapadlosti do dneva dejanskega plačila zapadlega zneska kredita;
+- obrestno mero, ki se določa za vsako posamezno tranšo črpanja kreditodajalec zmanjša za 50 baznih točk.
+Skladno s prejšnjim odstavkom bo Republika Slovenija v primeru da kreditojemalca ne bosta poravnala svojih dospelih obveznosti po kreditnih pogodbah, na poziv kreditodajalca plačala te obveznosti namesto kreditojemalcev.
