@@ -1,0 +1,5 @@
+# 65. člen
+(1) Zgornja meja obveznosti za oblikovanje izravnalne rezervacije v posamezni zavarovalni vrsti je pri zavarovanjih posevkov in plodov proti toči in pozebi ter pri kreditnih zavarovanjih šestkratnik, pri vseh drugih zavarovalnih vrstah pa štirikratnik standardnega odklona od povprečnih deležev škod opazovanega obdobja, pomnoženega z lastnim deležem zavarovalne premije za tekoče obračunsko leto.
+(2) Zavarovalnica izloča vsako leto v izravnalno rezervacijo 3,5% zneska izračunanega po prejšnjem odstavku tega člena, dokler ta ne doseže zneska iz prejšnjega odstavka, oziroma ga ponovno ne doseže, če ga je porabila po tretjem odstavku tega člena.
+(3) Zavarovalnica zmanjša oblikovano izravnalno rezervacijo, če delež škod v obračunskem letu preseže povprečni delež škod opazovanega obdobja. Zmanjšanje se izračunava tako, da se razliko obeh deležev pomnoži z lastnim deležem zavarovalne premije za tekoče obračunsko leto.
+Rezervacije v korist življenjskih zavarovalcev, ki prevzemajo naložbeno tveganje

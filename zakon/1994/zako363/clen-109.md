@@ -1,0 +1,2 @@
+# 109. člen
+Z denarno kaznijo najmanj 100.000 tolarjev se za prekršek kaznujejo delničarji oziroma lastniki, organi in druge pooblaščene osebe zavarovalnice oziroma družbe, ki opravlja druge zavarovalne posle in podjetnik, če v svojih poslovnih prostorih pooblaščenemu delavcu nadzornega organa ne predložijo vseh knjig, listin in drugih spisov in ne dajo drugih informacij, ki so potrebne za opravljanje zavarovalnega nadzora (94. člen).

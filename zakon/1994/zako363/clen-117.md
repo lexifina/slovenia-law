@@ -1,0 +1,3 @@
+# 117. člen
+(1) Z dnem uveljavitve tega zakona se preneha uporabljati zakon o temeljih sistema premoženjskega in osebnega zavarovanja (Uradni list SFRJ, št. 17/90 in 82/90), razen členov od 83. člena do 110. člena, 7. in 8. točke prvega odstavka 117. člena, 1., 2., 3. in 4. točke prvega odstavka 118. člena in 2. točke 119. člena ter zakon o začasni ureditvi izdajanja dovoljenj za ustanavljanje zavarovalnih družb (Uradni list RS, št. 13/93 in 65/93).
+(2) Določbe zakona o strukturi nekaterih naložb določenih javnih zavodov, skladov in zavarovalnih organizacij (Uradni list RS, št. 71/93), ki se nanašajo na zavarovalnice, se prenehajo uporabljati z dnem, ki je določen kot končni datum za uskladitev naložb zavarovalnih sredstev z razmerji iz 74. do 77. člena tega zakona.
