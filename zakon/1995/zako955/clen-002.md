@@ -1,0 +1,4 @@
+# 2. člen
+V 112. členu se dodata nova drugi in tretji odstavek, ki se glasita:
+"Glede pristojnosti občinskih volilnih komisij pri volitvah v svete krajevnih, vaških in četrtnih skupnosti se smiselno uporabljajo 41. člen in druge določbe tega zakona, ki določajo pristojnosti občinskih volilnih komisij, glede pristojnosti volilnih komisij krajevnih, vaških in četrtnih skupnosti pa se smiselno uporabljajo 42. člen in druge določbe tega zakona, ki določajo pristojnosti volilnih komisij volilnih enot.
+Ne glede na določbo prejšnjega odstavka občinski svet lahko določi, da volilne odbore imenujejo volilne komisije krajevnih, vaških in četrtnih skupnosti. Občinski svet lahko tudi natančneje razmeri pristojnosti občinske volilne komisije in volilnih komisij krajevnih, vaških in četrtnih skupnosti glede opravljanja in vodenja neposrednega tehničnega dela v zvezi z volitvami."
