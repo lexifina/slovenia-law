@@ -1,0 +1,9 @@
+# 7. člen
+
+1. Vsaka pogodbenica iz Aneksa I v svoj letni seznam antropogenih emisij iz virov in po ponorih odstranjenih toplogrednih plinov, ki jih ne nadzira Montrealski protokol, ki ga predloži v skladu z ustreznimi sklepi Konference pogodbenic, vključi potrebne dodatne podatke za zagotavljanje skladnosti s 3. členom, ki se določijo v skladu s četrtim odstavkom tega člena.
+
+2. Vsaka pogodbenica iz Aneksa I v državno poročilo, ki ga predloži po 12. členu konvencije, vključi dodatne podatke, potrebne, da dokaže izpolnjevanje svojih obveznosti po tem protokolu, ki se določijo v skladu s četrtim odstavkom tega člena.
+
+3. Vsaka pogodbenica iz Aneksa I zahtevane podatke iz prvega odstavka tega člena predloži vsako leto, prvič pa skupaj s prvim seznamom, ki ga mora po konvenciji predložiti za prvo leto ciljnega obdobja, potem ko ta protokol začne veljati za to pogodbenico. Vsaka taka pogodbenica predloži zahtevane podatke iz drugega odstavka kot del prvega državnega poročila, ki ga mora v skladu s konvencijo predložiti, potem ko ta protokol začne veljati zanjo, in po sprejetju smernic, predvidenih v četrtem odstavku tega člena. Pogostost kasnejšega pošiljanja podatkov, zahtevanih po tem členu, določi Konferenca pogodbenic kot sestanek pogodbenic tega protokola ob upoštevanju vseh rokov za predložitev državnih poročil, ki jih določi Konferenca pogodbenic.
+
+4. Konferenca pogodbenic kot sestanek pogodbenic tega protokola na svojem prvem zasedanju sprejme in nato občasno pregleda smernice za pripravo zahtevanih podatkov iz tega člena ob upoštevanju smernic za pripravo državnih poročil pogodbenic iz Aneksa I, ki jih je sprejela Konferenca pogodbenic. Konferenca pogodbenic kot sestanek pogodbenic tega protokola pred prvim ciljnim obdobjem določi tudi načine za obračunavanje dodeljenih količin.
