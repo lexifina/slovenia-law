@@ -1,0 +1,6 @@
+# 2. člen
+8. člen se spremeni tako, da se glasi:
+"Če je prijavljenih za opravljanje pripravništva več kandidatov, kot je prostih mest sodniških pripravnikov, določi predsednik višjega sodišča prednostne vrstne rede za zasedbo prostih mest.
+Polovico prostih mest se zasede na podlagi prednostnega vrstnega reda, ki se določi z upoštevanjem višine povprečne ocene, ki so jo kandidati dosegli v času študija. Med kandidati z enako povprečno oceno imajo prednost kandidati, ki imajo višjo povprečno oceno iz učnih predmetov, ki sodijo v področje civilnega in kazenskega prava, če so tudi te ocene enake, se upošteva čas vložitve popolne prijave za opravljanje pripravništva.
+Polovica prostih mest se zasede na podlagi prednostnega vrstnega reda, ki se določi z upoštevanjem časa vložitve popolne prijave za opravljanje pripravništva. Med kandidati, ki so istočasno vložili popolno prijavo za opravljanje pripravništva, imajo prednost kandidati, ki imajo višjo povprečno oceno.
+Predsednik višjega sodišča lahko izjemoma brez upoštevanja kriterijev iz prejšnjih odstavkov dovoli opravljati pripravništvo kandidatom, ki so magistri ali doktorji prava, kandidatom, ki so se odlikovali z izredno dobro ocenjeno diplomsko ali drugo nalogo oziroma dobili posebno priznanje, ali če to narekujejo posebne kadrovske potrebe v pravosodju."
