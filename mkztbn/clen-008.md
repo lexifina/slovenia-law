@@ -1,0 +1,5 @@
+# 8. člen
+
+l. Država pogodbenica, na ozemlju katere je prisoten domnevni storilec, mora v primerih, za katere se uporablja 6. člen, in če ne izroči te osebe, brez kakršne koli izjeme in ne glede na to, ali je bilo storjeno kaznivo dejanje na njenem ozemlju ali ne, predati primer brez neopravičenega zavlačevanja svojim pristojnim organom zaradi kazenskega pregona po postopkih v skladu z zakoni te države. Ti organi se odločijo tako kot pri katerem koli drugem hujšem kaznivem dejanju v skladu s pravom te države.
+
+2. Kadar koli državi pogodbenici njeno notranje pravo dovoljuje, da izroči ali drugače preda enega svojih državljanov samo pod pogojem, da bo oseba vrnjena v to državo zaradi prestajanja zaporne kazni kot posledica sodne obravnave ali postopka, zaradi katerega je bila izročitev ali predaja osebe zahtevana, in se ta država in država, ki zahteva izročitev, strinjata s to možnostjo in drugimi pogoji, za katere menita, da so primerni, taka pogojna izročitev ali predaja zadošča za izpolnitev obveznosti, določene v prvem odstavku.
