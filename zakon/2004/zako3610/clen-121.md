@@ -1,0 +1,3 @@
+# 121. člen
+Tretji odstavek 268. člena se spremeni tako, da se glasi:
+"(3) Kadar je glede na okoliščine primera očitno, da je potrebna obnova postopka in obstaja verjetnost, da bo izdaja posebnega sklepa povzročila nepopravljive posledice za predlagatelja obnove ali za javni interes, lahko pristojni organ opravi tista dejanja postopka, ki jih je treba ponoviti, ne da bi izdal poseben sklep o obnovi postopka. To, da se dovoli obnova postopka brez posebnega sklepa, se navede v izreku odločbe iz 270. člena tega zakona. V obrazložitvi organ utemelji razloge za uvedbo obnove brez posebnega sklepa.".

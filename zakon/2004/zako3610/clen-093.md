@@ -1,0 +1,5 @@
+# 93. člen
+Naslov pred 210. členom se spremeni tako, da se glasi: "2. Oblika, način izdaje in sestavni deli odločbe", v 210. členu pa se prvi, tretji in peti odstavek spremenijo tako, da se glasijo:
+"(1) Vsaka odločba mora biti označena kot taka. Izjemoma se lahko z zakonom ali odlokom samoupravne lokalne skupnosti določi, da je lahko odločba tudi drugače poimenovana.
+(3) Pisna odločba obsega: uvod, naziv, izrek (dispozitiv), obrazložitev, pouk o pravnem sredstvu, ter, če se izda v fizični obliki, podpis uradne osebe in žig organa, oziroma če se izda v elektronski obliki, varna elektronska podpisa uradne osebe in organa, overjena s kvalificiranim potrdilom; če je varen elektronski podpis uradne osebe overjen s kvalificiranim potrdilom, ki vsebuje tudi navedbo organa, varen elektronski podpis organa ni potreben. V primerih, za katere tako določa zakon ali na podlagi zakona izdan predpis, posamezni deli v odločbi niso obvezni. Če se odločba izdela samodejno, ima lahko namesto podpisa in žiga faksimile.
+(5) Odločbo je treba vročiti stranki v izvirniku.".

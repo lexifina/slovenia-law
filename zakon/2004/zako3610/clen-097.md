@@ -1,0 +1,4 @@
+# 97. člen
+V 214. členu se spremenita četrti in peti odstavek tako, da se glasita:
+"(4) V enostavnih zadevah, v katerih je udeležena samo ena stranka, in v enostavnih zadevah, v katerih sta v postopku udeleženi dve stranki ali več, pa nobena ne ugovarja postavljenemu zahtevku in se zahtevku ugodi, lahko vsebuje obrazložitev odločbe samo kratko obrazložitev strankinega zahtevka in sklicevanje na pravne predpise, na podlagi katerih je bilo o zadevi odločeno. V takih zadevah se lahko izda odločba tudi na predpisanem obrazcu ali samodejno z uporabo informacijskega sistema.
+(5) Če je pristojni organ po zakonu upravičen zadevo rešiti po prostem preudarku, mora v obrazložitvi poleg podatkov iz prvega odstavka tega člena navesti ta zakon in razloge, zakaj je tako odločil, in kako je uporabil obseg in namen prostega preudarka.".

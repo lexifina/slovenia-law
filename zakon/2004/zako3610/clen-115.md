@@ -1,0 +1,3 @@
+# 115. člen
+V 251. členu se doda nov četrti odstavek, ki se glasi:
+"(4) Če je zoper odločbo iz tretjega odstavka tega člena organa druge stopnje vložena tožba, organ prve stopnje nadaljuje upravni postopek po pravnomočnosti sodne odločbe in izda odločbo v roku 30 dni po tistem, ko izve za pravnomočno sodno odločbo. Ne glede na to določbo, organ prve stopnje nadaljuje upravni postopek takoj in izda odločbo v roku iz prejšnjega odstavka v delu, v katerem odločba organa druge stopnje ni izpodbijana s tožbo. Organ prve stopnje nadaljuje upravni postopek tudi v primeru sklenitve poravnave, katere sestavni del je dogovor o umiku tožbe zoper odločbo druge stopnje.".

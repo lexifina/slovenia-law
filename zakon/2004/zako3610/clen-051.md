@@ -1,0 +1,4 @@
+# 51. člen
+V prvem odstavku 102. člena se za besedo "ustna" doda besedi "ali videokonferenčna".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Organ mora na narok najmanj osem dni pred njegovim razpisom povabiti stranke in druge osebe, za katere ugotovi, da je potrebna njihova navzočnost. Skupaj z vabilom pošlje stranki vlogo, ki je bila razlog za določitev naroka. V primeru videokonferenčne obravnave v vabilu navede kraj, prostor in čas naroka ter druge potrebne tehnološke podatke za videokonferenčno obravnavo. V vabilu na narok za videokonferenčno obravnavo pa organ navede, da se vsi, ki se ne želijo ali ne morejo vključiti v videokonferenčno obravnavo, lahko oglasijo na kraju in v prostoru, navedenem v vabilu in sodelujejo osebno. Če je organ začel postopek po uradni dolžnosti, navede v vabilu za narok, kakšno dejanje se bo opravilo na naroku.".
