@@ -1,0 +1,4 @@
+# 15. člen
+Če se opravlja dejavnost brez predpisanega dovoljenja ali brez odločbe pristojnega upravnega organa o izpolnjevanju z zakonom določenih pogojev za opravljanje dejavnosti, ali je prekoračen predmet poslovanja oziroma dejavnosti, izda inšpektor odločbo, s katero opravljanje te dejavnosti prepove.
+Če prostori, v katerih se opravlja dejavnost, ali njihova oprema ne ustrezajo minimalnim tehničnim pogojem, ki so predpisani za to dejavnost, izda inšpektor odločbo, s katero prepove opravljati dejavnost do odprave pomanjkljivosti.
+Če zavezanec opravlja dejavnost brez predpisanega dovoljenja ali brez odločbe pristojnega upravnega organa o izpolnjevanju z zakonom določenih pogojev za opravljanje dejavnosti, zaseže tržni inšpektor delovne priprave, izdelke in material, ki se uporablja za opravljanje dejavnosti, za katero zavezanec nima dovoljenja. O zaseženih predmetih dokončno odloči sodišče.
