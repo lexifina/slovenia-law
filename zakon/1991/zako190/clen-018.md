@@ -1,4 +1,4 @@
-# 18. člen
+# 18. člen (delno prenehal veljati)
 Pripadnik oboroženih sil, narodne zaščite, enote za zveze, civilne zaščite, službe za opazovanje in obveščanje ali član enote in službe iz 12. člena tega zakona, ki se pri opravljanju nalog poškoduje ali zboli, je zavarovan po predpisih o zdravstvenem, pokojninskem in invalidskem zavarovanju, kakor oseba v delovnem razmerju za primer nesreče pri delu. Osnova za odmero pravic je povprečni mesečni osebni dohodek na zaposlenega delavca v Republiki Sloveniji v zadnjem mesecu pred nastankom poškodbe, če je to za pripadnika ugodnejše ali če ni zaposlen.
 Družinski člani pripadnika, ki je v primerih iz prejšnjega odstavka izgubil življenje, imajo po njem pravico do družinske pokojnine po predpisih o pokojninskem in invalidskem zavarovanju.
 Pripadnik, ki je utrpel pri opravljanju nalog iz prvega odstavka škodo, ima pravico do povračila te škode.

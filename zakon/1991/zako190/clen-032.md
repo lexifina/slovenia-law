@@ -1,4 +1,4 @@
-# 32. člen
+# 32. člen (delno prenehal veljati)
 Skupščina Republike Slovenije izvršuje pravice in dolžnosti, določene z ustavo, in na tej podlagi zlasti;
 1. določa splošna načela, cilje in politiko v zvezi z nacionalno varnostjo;
 2. ureja temeljna vprašanja obrambe in zaščite, ki so skupnega pomena za republiko ter nadzoruje njihovo uresničevanje;

@@ -1,3 +1,1 @@
-# 84. člen
-Sile za zaščito in reševanje se aktivirajo ob nastanku naravne ali druge nesreče v skladu s svojimi nalogami, načrti ali po odločitvi pristojnega organa v obsegu, ki je potreben za reševanje ljudi, materialnih in drugih dobrin.
-Naravne nesreče po tem zakonu so naravne nesreče, ki jih povzroči delovanje naravnih sil ali pojavov (potresi, poplave, zemeljski in snežni plazovi, neurja in podobno). Druge nesreče po tem zakonu so nesreče, ki jih povzroči človekovo nepravilno ravnanje ali opustitev predpisanega ravnanja (požari, nesreče v rudnikih in na drugih deloviščih, prometne nesreče, nenadna onesnaženja morja, epidemije in podobno) in nesreče, ki nastanejo v tehnoloških procesih (eksplozije gorljivih in eksplozivnih snovi, jedrske nesreče, nenadna onesnaževanja zemlje, zraka, vode in podobno).
+# 84. člen (prenehal veljati)

@@ -1,5 +1,1 @@
-# 106. člen
-Enote civilne zaščite so splošne in specializirane.
-Splošne enote civilne zaščite organizirajo za izvajanje manj zahtevnih ukrepov za zaščito in reševanje podjetja, zavodi in druge organizacije ter krajevne skupnosti, če v njih niso organizirani operativni sestavi gasilske organizacije, ki opravljajo splošne reševalne naloge oziroma, če ti sestavi niso zadostni.
-Specializirane enote civilne zaščite organizirajo za izvajanje posameznih ukrepov za zaščito in reševanje podjetja, zavodi in druge organizacije, občine in republika. Specializirane enote civilne zaščite se lahko združujejo v združene odrede civilne zaščite, ki so praviloma namenjeni za izvajanje vseh vrst ukrepov za zaščito in reševanje. Združeni odredi civilne zaščite se ustanovijo v bolj ogroženih občinah ali za več občin skupaj. Morajo pa se ustanoviti, če je tako določeno z republiškim načrtom civilne zaščite.
-Vrsta, velikost in število enot civilne zaščite se določi v skladu z formacijo enot na podlagi občinske ter lastne ocene ogroženosti podjetij, zavodov in drugih organizacij oziroma krajevnih skupnosti zaradi naravnih in drugih nesreč. Formacijo enot civilne zaščite predpisuje republiški upravni organ, pristojen za obrambne zadeve.
+# 106. člen (prenehal veljati)

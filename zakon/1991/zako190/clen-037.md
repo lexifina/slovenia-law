@@ -1,4 +1,4 @@
-# 37. člen
+# 37. člen (delno prenehal veljati)
 Republiški upravni organ, pristojen za obrambne zadeve, opravlja upravne in strokovne zadeve s področja obrambe in zaščite iz pristojnosti republike, če z zakonom niso dane v pristojnost drugim republiškim upravnim organom.
 Republiški upravni organ, pristojen za obrambne zadeve, zlasti:
 1. spremlja in usklajuje strokovno delo republiških upravnih organov in organizacij pri obrambnih pripravah dejavnosti in pri izdelavi obrambnega načrta republike, organizira in usklajuje obrambne priprave med občinami v pokrajinah ter skrbi za druge priprave za delovanje republiškega vodstva v vojni;

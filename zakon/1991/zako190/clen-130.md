@@ -1,4 +1,4 @@
-# 130. člen
+# 130. člen (delno prenehal veljati)
 Pripadniku civilne zaščite ali službe za opazovanje in obveščanje se na njegovo prošnjo odloži usposabljanje ali posamezna vaja:
 1. če je zaradi bolezni ali poškodbe nezmožen obiskovati usposabljanje oziroma vajo;
 2. če je ob pozivu k usposabljanju na šolanju in če ima med usposabljanjem izpit, kolokvij ali obvezne vaje;

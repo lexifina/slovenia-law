@@ -1,3 +1,1 @@
-# 12. člen
-Državljani, ki prostovoljno in nepoklicno opravljajo naloge zaščite in reševanja v operativnih sestavih gasilskih organizacij, gorske in jamarske reševalne službe ter drugih društev in organizacij državljanov v skladu z načrti občin ali republike, imajo pravice in dolžnosti, kot jih imajo pripadniki civilne zaščite, če ni drugače določeno z zakonom. Člani teh enot in služb se izjemoma razporejajo na obrambne dolžnosti, praviloma tako, da je omogočeno njihovo delovanje v zaščiti in reševanju.
-Člani enot in služb, ki opravljajo naloge v skladu s prejšnjim odstavkom, morajo izpolnjevati poleg splošnih zdravstvenih pogojev tudi posebne pogoje, določene z zakonom in akti društva ali organizacije, v sestavi katere enota ali služba deluje.
+# 12. člen (prenehal veljati)

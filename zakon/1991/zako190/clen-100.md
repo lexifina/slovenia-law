@@ -1,3 +1,1 @@
-# 100. člen
-Gasilske poklicne in druge operativne enote gasilske organizacije, ki jih določi Izvršni svet Skupščine Republike Slovenije, opravljajo poleg splošnih reševalnih nalog, tudi zaščito in reševanje ob nesrečah z nevarnimi snovmi. V ta namen se opremljajo in usposabljajo v skladu z enotnim programom, ki je republiškega pomena. V tem programu se lahko določijo tudi druge naloge zaščite in reševanja, ki so splošnega pomena.
-Gasilske poklicne teritorialne enote se organizirajo po predpisih o zavodih. Po teh predpisih se lahko organizirajo tudi poklicni sestavi drugih operativnih teritorialnih enot.
+# 100. člen (prenehal veljati)

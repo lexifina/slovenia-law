@@ -1,4 +1,4 @@
-# 36. člen
+# 36. člen (delno prenehal veljati)
 Izvršni svet Skupščine Republike Slovenije na področju obrambe in zaščite zlasti:
 1. spremlja in usmerja delovanje republiških upravnih organov ter organizacij pri uresničevanju obrambnih priprav ter priprav za zaščito in reševanje na območju republike;
 2. ureja izdelavo obrambnih in varnostnih načrtov ter sprejema svoj obrambni in varnostni načrt;

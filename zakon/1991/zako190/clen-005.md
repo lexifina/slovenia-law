@@ -1,5 +1,5 @@
 ## II. PRAVICE IN DOLŽNOSTI DRŽAVLJANOV PRI URESNIČEVANJU OBRAMBE IN ZAŠČITE
-# 5. člen
+# 5. člen (delno prenehal veljati)
 Na področju obrambe in zaščite državljani v skladu z ustavo uresničujejo:
 1. vojaško dolžnost, ki jo izvršujejo v oboroženih silah, v določenih sestavih organov za notranje zadeve in v enotah za zveze republike in občin;
 2. delovno dolžnost, ki jo izvršujejo v podjetjih, zavodih in drugih organizacijah, v državnih organih in z opravljanjem del za oborožene sile oziroma za obrambo države;

@@ -1,4 +1,4 @@
-# 14. člen
+# 14. člen (delno prenehal veljati)
 Pripadnik oboroženih sil, narodne zaščite, enot za zveze, rezervnega sestava organov za notranje zadeve, civilne zaščite, službe za opazovanje in obveščanje ter obveznik delovne dolžnosti se mora na vpoklic pristojnega organa zglasiti pri določenem organu oziroma organizaciji v kraju in ob času, ki sta navedena v splošnem ali posamičnem pozivu.
 Pripadnik civilne zaščite, ki je razporejen tudi na delovno dolžnost, se ob istočasnem pozivu k opravljanju obeh dolžnosti, najprej odzove na opravljanje dolžnosti v civilni zaščiti. Določba tega odstavka se smiselno uporablja tudi za državljana, ki opravlja vodstvene naloge v narodni zaščiti.
 Če se vpoklicani ne odzove pozivu in ne opraviči svojega izostanka, lahko upravni organ, pristojen za obrambne zadeve, sam ali na predlog organa, ki je zahteval vpoklic, izda nalog, da ga privede uradna oseba. Ta nalog izvrši pristojni organ za notranje zadeve.

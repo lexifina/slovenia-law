@@ -1,4 +1,4 @@
-# 27. člen
+# 27. člen (delno prenehal veljati)
 Izvršni svet občinske skupščine izvaja politiko in odločitve občinske skupščine s področja obrambe in zaščite in pri tem zlasti:
 1. usmerja izdelavo obrambnih načrtov v občini, sprejema svoj obrambni in varnostni načrt ter skrbi za uresničevanje razvojnega načrta obrambe in zaščite;
 2. določa podjetja, zavode in druge organizacije, katerih dejavnost je posebnega pomena za obrambo in zaščito, organizacije, ki organizirajo narodno ali civilno zaščito, ter nosilce in njihove naloge v sistemu materialne in zdravstvene oskrbe oboroženih sil, prebivalstva ter drugih obrambnih potreb, v vojni pa skrbi za delovanje tega sistema;
