@@ -1,0 +1,2 @@
+# 13. člen
+Do določitve pogojev v skladu s tretjim odstavkom 9. člena tega zakona strokovni delavec lahko odkloni ponudbo za sklenitev nove pogodbe o zaposlitvi, če so izpolnjeni pogoji iz drugega odstavka 33. člena kolektivne pogodbe za dejavnost vzgoje in izobraževanja v Republiki Sloveniji (Uradni list RS, št. 52/94, 49/95, 34/96, 45/96, 51/98, 28/99, 39/2000, 56/2001, 64/2001, 78/2001 in 56/2002).
