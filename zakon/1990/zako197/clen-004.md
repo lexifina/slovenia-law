@@ -1,2 +1,3 @@
 # 4. člen
 Pogodba o prometu z nepremičninami, ki je sklenjena v nasprotju s tem zakonom, je nična. Pogodbo o prometu z nepremičninami mora družbenopravna oseba - prodajalec predložiti v potrditev pristojnemu javnemu pravobranilcu. Če je pogodba v nasprotju s tem zakonom, mora javni pravobranilec vložiti brez odlašanja tožbo na ugotovitev ničnosti sklenjenega pravnega posla, kršitelja pa zaradi storjenega gospodarskega prestopka prijaviti pristojnemu javnemu tožilcu.
+Brez potrditve javnega pravobranilca, da pogodba ni sklenjena v nasprotju s tem zakonom, ni mogoče overiti podpisov na pogodbi in ne izvesti vpisa v zemljiško knjigo.
