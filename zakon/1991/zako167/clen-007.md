@@ -1,2 +1,0 @@
-# 7. člen
-Cene proizvodov in storitev, pri katerih se izplačujejo nadomestila na podlagi drugih zakonov in na njihovi podlagi izdanih izvršilnih predpisov, da se ublažijo cenovne razlike zaradi tržnih neskladij in zaščite domačih proizvajalcev oziroma potrošnikov, določa funkcionar, ki vodi republiški upravni organ, pristojen za cene. Pred določitvijo cen mora pridobiti soglasje pristojnega republiškega upravnega organa za ustrezno področje.
