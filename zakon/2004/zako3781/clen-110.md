@@ -8,6 +8,7 @@
 6. na željo naročnika akademski, znanstveni ali strokovni naziv naročnika;
 7. na podlagi plačila še dodatne podatke, če to želi naročnik in se s tem ne poseže v pravice tretjih oseb;
 8. davčno številko za fizično osebo ter davčno in matično številko za pravno osebo.
+(delno prenehal veljati)
 (2) Zbrane podatke iz prejšnjega odstavka se lahko uporablja le za:
 1. sklepanje, izvajanje, spremljanje in prekinitev naročniške pogodbe;
 2. zaračunavanje storitev;

@@ -1,4 +1,4 @@
-## XVII. PREHODNE DOLOČBE
+## "XVII. PREHODNE DOLOČBE
 # 156. člen (obstoječa dovoljenja)
 (1) Za operaterje, ki jim je bilo izdano dovoljenje v skladu z določbami Zakona o telekomunikacijah (Uradni list RS, št. 30/01 in 110/02 - ZGO-1), se šteje, da so z dnem uveljavitve tega zakona obvestili agencijo v skladu z določbami 5. člena tega zakona.
 (2) Operaterji iz prejšnjega odstavka nadaljujejo z opravljanjem svoje dejavnosti v skladu s tem zakonom. Agencija jim v treh mesecih po uveljavitvi tega zakona pošlje potrdilo iz petega odstavka 5. člena tega zakona.

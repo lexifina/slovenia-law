@@ -3,7 +3,7 @@
 (2) Agencija mora pri izvrševanju svojih nalog sprejeti vse ukrepe, ki so potrebni za dosego ciljev iz četrtega, petega in šestega odstavka tega člena, pri tem pa mora v okviru svojih pristojnosti prispevati k uresničevanju usmeritev, ki so namenjene spodbujanju kulturne in jezikovne raznolikosti ter tudi pluralnosti medijev.
 (3) Ukrepi, ki jih sprejema agencija, morajo biti čim bolj tehnološko nevtralni in sorazmerni ciljem, ki jih želi agencija z njimi doseči. Pred sprejemom ukrepov je agencija zavezana opraviti skrben pregled dejanskega stanja.
 (4) Agencija pospešuje učinkovito konkurenco pri zagotavljanju elektronskih komunikacijskih omrežij, elektronskih komunikacijskih storitev in povezanih zmogljivosti ter storitev med drugim tako, da zlasti:
-1. 1poskrbi, da uporabniki, vključno z uporabniki-invalidi, v celoti izkoristijo ugodnosti v smislu izbire, cene in kakovosti;
+1. poskrbi, da uporabniki, vključno z uporabniki-invalidi, v celoti izkoristijo ugodnosti v smislu izbire, cene in kakovosti;
 2. zagotovi, da v sektorju elektronskih komunikacij ni izkrivljanja ali omejevanja konkurence;
 3. spodbuja učinkovito vlaganje v infrastrukturo in podpira inovacije;
 4. spodbuja učinkovito uporabo radijskih frekvenc in številskega prostora ter zagotovi njihovo učinkovito upravljanje.

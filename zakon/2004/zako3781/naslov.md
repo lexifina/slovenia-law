@@ -1,2 +1,2 @@
 ZAKON
-O ELEKTRONSKIH KOMUNIKACIJAH (ZEKom)
+o elektronskih komunikacijah (ZEKom)
