@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificirata se Pogodba med Švicarsko konfederacijo, ki jo zastopa Zvezni urad za begunce, Taubenstrasse 16, CH-3003 Bern, in Republiko Avstrijo, ki jo zastopa Zvezno ministrstvo za notranje zadeve, Sekcija III, Herrengasse 7, A-1040 Dunaj, o ustanovitvi in delovanju Mednarodnega centra za razvoj migracijske politike na Dunaju, podpisana 1. junija 1993 na Dunaju, in Sporazum med Švicarsko konfederacijo, Republiko Avstrijo in Republiko Madžarsko o spremembi Pogodbe o ustanovitvi in delovanju Mednarodnega centra za razvoj migracijske politike na Dunaju, podpisane na Dunaju 1. junija 1993, sestavljen 26. aprila 1996 v Budimpešti.
