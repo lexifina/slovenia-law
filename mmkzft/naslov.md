@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI MEDNARODNE KONVENCIJE O ZATIRANJU FINANCIRANJA TERORIZMA (MMKZFT)
+
+Z A K O N
+
+O RATIFIKACIJI MEDNARODNE KONVENCIJE O ZATIRANJU FINANCIRANJA TERORIZMA (MMKZFT)
+
+International Convention
+
+for the Suppression of the Financing of Terrorism
+
+Mednarodna konvencija
+
+o zatiranju financiranja terorizma
