@@ -1,0 +1,5 @@
+# 14. člen SAMOSTOJNE OSEBNE STORITVE
+
+1. Dohodek, ki ga dobi posameznik, ki je rezident države pogodbenice od poklicnih storitev ali drugih samostojnih dejavnosti, se obdavči samo v tej državi, razen če ima ta posameznik za opravljanje svojih dejavnosti stalno bazo, ki mu je redno na voljo v drugi državi pogodbenici. Če ima tako stalno bazo, se dohodek lahko obdavči v drugi državi, a samo toliko dohodka, kolikor se pripiše taki stalni bazi. Kadar se torej posameznik, ki je rezident države pogodbenice, zadržuje v drugi državi pogodbenici določeno obdobje ali obdobja, ki skupaj presegajo 183 dni v vsakem dvanajstmesečnem obdobju, ki se začne ali konča v določenem davčnem letu, se šteje, da ima v tej drugi državi stalno bazo redno na voljo in dohodek, ki izhaja iz njegovih prej omenjenih dejavnosti, ki jih opravlja v tej drugi državi, se pripiše tej stalni bazi.
+
+2. Izraz poklicne storitve vključuje še posebej samostojne znanstvene, literarne, umetniške, izobraževalne ali pedagoške dejavnosti in tudi samostojne dejavnosti zdravnikov, odvetnikov, inženirjev, arhitektov, zobozdravnikov in računovodij.
