@@ -1,0 +1,2 @@
+# 16. člen (poziv v primeru viktimizacije)
+Če je diskriminirana oseba zaradi svojega ukrepanja v zvezi s kršitvijo prepovedi diskriminacije v okolju, v katerem je bila domnevna kršitev storjena, izpostavljena neugodnim posledicam, zagovornik oziroma zagovornica že med obravnavo pisno pozove pravno osebo oziroma drug subjekt, pri katerem je do domnevne kršitve prepovedi diskriminacije prišlo, da z ustreznimi ukrepi zavaruje diskriminirano osebo pred viktimizacijo oziroma odpravi nastale posledice le-te.
