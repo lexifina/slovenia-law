@@ -1,2 +1,1 @@
-# 12. člen
-Organi Sklada so: skupščina, nadzorni svet in uprava.
+# 12. člen (prenehal veljati)

@@ -1,7 +1,11 @@
-# 32. člen
+Zakon o lastninskem preoblikovanju podjetij (z družbenim kapitalom), ki opravljajo turistično dejavnost in katerih nepremičnine se nahajajo na območju Triglavskega narodnega parka - ZLPPTR (Uradni list RS, št. 24/96) vsebuje naslednji prehodni in končni določbi:
+"VII. PREHODNI IN KONČNI DOLOČBI
+32. člen
 Z dnem uveljavitve tega zakona postane družbeni kapital podjetja Mladinski izobraževalni center MIC Bohinj p.o., Ribičev Laz 63, last Republike Slovenije.
 Podjetje iz prejšnjega odstavka se preoblikuje v družbo z omejeno odgovornostjo, katere edini ustanovitelj je Republika Slovenija. Akt o ustanovitvi družbe v imenu Republike Slovenije sprejme Vlada Republike Slovenije.
 Družba iz prejšnjega odstavka opravlja administrativna, tehnična in vzdrževalna dela, potrebna za izvajanje dejavnosti na področju šolske in obšolske dejavnosti, za učence, vajence, dijake in študente. Družba lahko spremeni ali razširi dejavnost le s soglasjem Vlade Republike Slovenije.
 Odtujitev sredstev družbe oziroma prenos poslovnega deleža Republike Slovenije v družbi iz drugega odstavka tega člena je dopustna le za opravljanje dejavnosti na področju šolske in obšolske dejavnosti s predhodnim soglasjem Državnega zbora Republike Slovenije.
 Preoblikovanje podjetja iz prvega odstavka tega člena se vpiše v sodni register. Osnovni kapital se vpiše v sodni register v višini ugotovljeni z revizijskim poročilom oziroma z odločbo, ki jo na podlagi opravljenega revizijskega postopka v skladu z določbami zakona o lastninskem preoblikovanju podjetij izda agencija, pristojna za revidiranje lastninskega preoblikovanja podjetij. Ne glede na določbe zakona o lastninskem preoblikovanju podjetij se revizijski postopek izvede za čas od 1. 12. 1990 do dneva uveljavitve tega zakona. Agencija, pristojna za revidiranje lastninskega preoblikovanja podjetij mora začeti s postopkom revidiranja v petnajstih dneh po uveljavitvi tega zakona.
 Ne glede na določbe zakona, ki ureja gospodarske družbe in zakona, ki ureja sodni register, se predlogu za vpis preoblikovanja podjetja v sodni register priloži le akt o ustanovitvi družbe, bilanca stanja za zadnje poslovno leto pred vpisom spremembe v sodni register ter revizijsko poročilo oziroma odločba agencije, pristojne za revidiranje lastninskega preoblikovanja podjetij, ko bo ta akt pravnomočen.
+33. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
