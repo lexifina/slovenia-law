@@ -1,0 +1,5 @@
+# 13. člen
+Za 57. členom se doda nov 57.a člen, ki se glasi:
+"57.a člen
+(1) Za opravljanje s tem zakonom določenih nalog Zavod obdeluje osebne podatke o lastnikih zemljišč in njihovih začasnih upraviteljih v skladu s predpisi o varstvu osebnih podatkov. Osebni podatki in podatki o pravni osebi, povezani z lastnikom ali upravljalcem zemljišč, ki jih obdeluje Zavod, so: naslov stalnega ali začasnega prebivališča, enotna matična številka občana, davčna številka ali druga identifikacijska oznaka v zemljiškem katastru in zemljiški knjigi, grafični in pisni podatki o parcelah in njihovi površini, katastrski občini, katastrski kulturi in katastrskem razredu ter podatki o izdanih odločbah.
+(2) Razen podatkov o izdanih odločbah pridobiva Zavod podatke iz prejšnjega odstavka iz računalniške podatkovne zbirke zemljiškega katastra in zemljiške knjige Republike Slovenije. Upravljalec oziroma organizacija, ki obdeluje podatke iz računalniške podatkovne zbirke zemljiškega katastra in zemljiške knjige Republike Slovenije, posreduje Zavodu podatke iz te zbirke brezplačno, pri čemer pa mu lahko zaračuna materialne stroške priprave podatkov."
