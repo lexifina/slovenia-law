@@ -1,0 +1,27 @@
+# 9. člen Pravni režim pogodbe
+
+9.01 Veljavna zakonodaja
+
+Pravna razmerja med pogodbenicama in oblikovanje in veljavnost te garancijske pogodbe ureja francoska zakonodaja.
+
+9.02 Izpolnitveni kraj
+
+Kraj izpolnitve te garancijske pogodbe je glavni urad BANKE.
+
+9.03 Sodna pristojnost
+
+Ker je za pogodbenici sodno pristojno izključno Sodišče Evropskih skupnosti, je treba vse spore v zvezi s to garancijsko pogodbo posredovati temu sodišču.
+
+Odločba Sodišča Evropskih skupnosti je dokončna in jo bosta kot tako stranki sprejeli brez vsakršnih omejitev ali zadržkov.
+
+9.04 Odrekanje pravicam
+
+Pogodbenici soglašata, da je ta Garancijska pogodba komercialne narave, in se obvezujeta, da se bosta odpovedali vsem morebitnim imunitetam, ki jih zdaj uživata ali bi jih lahko uživali v prihodnje v katerikoli državi v zvezi s sodno pristojnostjo Sodišča Evropskih skupnosti.
+
+9.05 Dokazila o zapadlih vsotah
+
+V vsakršnem sodnem postopku v zvezi s to Garancijsko pogodbo bo potrdilo BANKE o kakem dolžnem znesku, ki pripada BANKI po tej Garancijski pogodbi, dokaz prima facie o takem znesku.
+
+9.06 Začetek veljavnosti
+
+Ta pogodba začne veljati, ko jo ratificira parlament Republike Slovenije.
