@@ -1,2 +1,2 @@
 ZAKON
-o družbi za avtoceste v Republiki Sloveniji
+o družbi za avtoceste v Republiki Sloveniji (ZDARS)

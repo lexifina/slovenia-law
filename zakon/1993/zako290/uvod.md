@@ -1,0 +1,2 @@
+- Zakon o družbi za avtoceste v Republiki Sloveniji (Uradni list RS, št. 57/93 z dne 14. 10. 1993),
+- Zakon o spremembah in dopolnitvah zakona o družbi za avtoceste v Republiki Sloveniji - ZDARS-A (Uradni list RS, št. 126/03 z dne 18. 12. 2003).

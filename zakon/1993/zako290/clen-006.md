@@ -1,2 +1,3 @@
 # 6. člen
-Letni program dela družbe sprejema skupščina družbe v soglasju z Državnim zborom Republike Slovenije. Finančni načrt, zaključni račun in poslovno poročilo sprejme skupščina družbe po predhodnem mnenju nadzornega sveta družbe, potrdi pa ga Vlada Republike Slovenije.
+Družba mora sredstva iz prejšnjega člena voditi na posebnem računu, ločeno od ostalih sredstev, s katerimi posluje.
+Družba mora likvidnostne presežke sredstev iz prejšnjega člena vlagati v državne vrednostne papirje ali v lastne vrednostne papirje, v dolžniške vrednostne papirje ali depozite prvovrstnih bank s sedežem v Republiki Sloveniji.

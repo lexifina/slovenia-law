@@ -1,15 +1,13 @@
 ## POSLOVANJE DRUŽBE
+## Financiranje obveznosti v zvezi z izgradnjo in obnavljanjem avtocest ter odplačevanjem posojil, najetih v ta namen
 # 5. člen
-Viri sredstev za poslovanje družbe so:
-- vplačani kapital družbe;
-- najeta posojila;
-- sredstva, zbrana z zakonom o zagotovitvi namenskih sredstev za gradnjo avtocestnega omrežja v Republiki Sloveniji;
-- druga namensko zbrana sredstva;
-- sredstva, zbrana s cestninami za ceste, ki jih upravlja družba;
-- sredstva, zbrana z izdajanjem vrednostnih papirjev;
-- prihodki od oddaje spremljajočih dejavnosti na avtocestah;
-- sredstva iz proračuna Republike Slovenije;
+Viri sredstev za izvajanje nalog iz 3. člena tega zakona in za plačilo obveznosti iz posojil, najetih v ta namen, so:
+- sredstva, zbrana na podlagi posebnega zakona, s katerim se zagotavljajo namenska sredstva za gradnjo avtocestnega omrežja v Republiki Sloveniji;
+- druga namenska sredstva;
+- najeta posojila in refinanciranje posojil;
+- sredstva, zbrana z izdajanjem dolžniških vrednostnih papirjev;
+- druga sredstva iz proračuna Republike Slovenije;
+- prihodki od upravljanja in razpolaganja z nepremičninami iz tretjega odstavka 3. člena tega zakona;
+- sredstva koncesijske dajatve, ki se zagotovijo iz dela cestnin in drugih prihodkov družbe;
 - drugi viri.
-Vir iz tretje alinee prejšnjega odstavka se s sklepom Vlade Republike Slovenije uporabi kot delež Republike Slovenije za ustanovitev in povečanje kapitala družbe.
-Družba mora za najetje srednjeročnih in dolgoročnih posojil in izdajo obveznic ter izdajo garancij predhodno pridobiti soglasje Državnega zbora Republike Slovenije s posebnim zakonom. Družba mora svoje likvidnostne presežke, ki izvirajo iz financiranja države, vlagati v državne vrednostne papirje.
-Za financiranje države po tem členu se šteje tudi zbiranje sredstev, za katere jamči proračun Republike Slovenije.
+Sredstva iz refinanciranja posojil in sredstva iz koncesijske dajatve v posameznem letu ne smejo biti nižja od v tem letu zapadlih obveznosti iz najetih posojil.
