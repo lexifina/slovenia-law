@@ -1,0 +1,3 @@
+# 16. člen
+V postopkih dodelitve denarnih dodatkov in denarne pomoči kot edinega vira preživljanja, v katerih do začetka uporabe tega zakona v postopku pred centrom za socialno delo še ni bila izdana odločba, se uporabljajo določbe tega zakona.
+V postopkih iz prejšnjega odstavka, uvedenih na zahtevo upravičencev, ki bi bili do socialno varstvenih dajatev upravičeni po dosedanjih predpisih in niso upravičeni do denarne socialne pomoči po tem zakonu, se denarni dodatek oziroma denarna pomoč kot edini vir preživljanja po predpisih, ki so veljali do začetka uporabe tega zakona, dodeli do začetka uporabe tega zakona.

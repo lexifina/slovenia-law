@@ -1,0 +1,8 @@
+# 26. člen
+V družino po tem zakonu se štejejo naslednje osebe oziroma družinski člani:
+- zakonec oziroma oseba, ki živi z osebo, ki uveljavlja pravico do denarne socialne pomoči, najmanj eno leto v življenjski skupnosti, ki je po zakonu o zakonski zvezi in družinskih razmerjih v pravnih posledicah izenačena z zakonsko zvezo,
+- otroci osebe, ki uveljavlja pravico do denarne socialne pomoči, dokler jih je ta dolžna preživljati - v primeru študija najdlje do zaključka dodiplomskega študija oziroma do dopolnjenega 26. leta starosti, v primeru šolanja na visoki stopnji, ki traja pet ali šest let, ali če zaradi daljše bolezni ali poškodbe ali služenja vojaškega roka med šolanjem otrok šolanja ni končal v predpisanem roku, pa še toliko časa, kolikor se je šolanje zaradi teh razlogov podaljšalo,
+- pastorki osebe, ki uveljavlja pravico do denarne socialne pomoči, dokler ima ta z enim od njegovih staršev, ki je dolžan preživljati svojega otroka, sklenjeno zakonsko zvezo ali razmerje iz prve alinee tega odstavka,
+- mladoletni vnuki, nečaki in bratje oziroma sestre osebe, ki uveljavlja pravico do denarne socialne pomoči, ali osebe iz prve alinee tega odstavka, če ta oseba preživlja svoje mladoletne vnuke, nečake ali brate oziroma sestre, ki so brez staršev.
+Ne glede na določilo prejšnjega odstavka se v družino po tem zakonu šteje tudi odrasla oseba, ki jo je na podlagi zakona ali drugega pravnega naslova (v pretežnem delu) dolžan preživljati kdo od članov družine, če nima lastnih dohodkov oziroma premoženja v višini minimalnega dohodka.
+Samska oseba je oseba, ki nima družinskih članov po tem zakonu.

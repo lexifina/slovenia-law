@@ -1,0 +1,6 @@
+# 41. člen
+Ne glede na izdajo odločbe iz 39. člena tega zakona se denarna socialna pomoč, ki jo je upravičenec prejel z lažnim prikazovanjem ali zamolčanjem podatkov ob vložitvi vloge ali po preteku roka iz 37. člena tega zakona, šteje za neupravičeno prejeto denarno socialno pomoč.
+Upravičenec je neupravičeno prejeto denarno socialno pomoč dolžan vrniti.
+O načinu in času vračila neupravičeno prejete denarne socialne pomoči lahko center za socialno delo in upravičenec skleneta dogovor, pri čemer se upošteva višina lastnega dohodka upravičenca in njegov socialni položaj.
+Če center za socialno delo in upravičenec ne skleneta dogovora iz prejšnjega odstavka, center za socialno delo vso dokumentacijo v treh izvodih pošlje ministrstvu, pristojnemu za socialno varstvo, ki pri pristojnemu sodišču preko državnega pravobranilstva začne postopek zaradi vračila neupravičeno prejete denarne socialne pomoči skupaj z zamudnimi obrestmi, določenimi v skladu z zakonom, ki ureja obrestno mero zamudnih obresti, od dneva neupravičeno prejete denarne socialne pomoči.
+Ministrstvo, pristojno za socialno varstvo, lahko na predlog upravičenca po predhodnem mnenju centra za socialno delo odloči, da se njegov dolg deloma ali v celoti odpiše, vendar največ do višine vrednosti predmetov in prejemkov, ki so po predpisih o izvršbi in zavarovanju izvzeti iz izvršbe."

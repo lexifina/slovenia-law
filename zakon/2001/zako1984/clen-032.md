@@ -1,0 +1,2 @@
+# 32. člen
+Center za socialno delo lahko z upravičencem na podlagi opredelitve socialne problematike oziroma stisk in težav ter ocene možnih rešitev sklene pogodbo o aktivnem reševanju njegove socialne problematike (vključitev v zdravljenje itd.), v kateri se določijo aktivnosti in obveznosti upravičenca in prenehanje upravičenosti do denarne socialne pomoči v primeru neupravičenega neizvrševanja.

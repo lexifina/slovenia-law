@@ -1,0 +1,2 @@
+# 14. člen
+Upravičenci, ki ob začetku uporabe tega zakona prejemajo denarni dodatek, prejemajo denarno socialno pomoč do poteka obdobja, za katerega jim je bil denarni dodatek dodeljen po dosedanjih predpisih, pri čemer se upoštevajo merila iz 25.a člena tega zakona in osnovni znesek minimalnega dohodka, veljaven v času prejemanja. Center za socialno delo o novi višini denarne socialne pomoči prejemnika obvesti ob prvem naslednjem izplačilu po začetku uporabe tega zakona.
