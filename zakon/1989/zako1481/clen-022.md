@@ -1,3 +1,1 @@
-# 22. člen
-Na področju požarnega varstva se ustanovi Republiška uprava za požarno varnost kot organ v sestavi Republiškega sekretariata za ljudsko obrambo.
-Republiška uprava za požarno varnost opravlja strokovne naloge, ki se nanašajo na izdelavo strokovnih podlag za organiziranje, delovanje in usklajen razvoj požarnega varstva kot dela sistema za zaščito in reševanje, podlag za republiške planske naloge in letne republiške programe na področju požarnega varstva; organizira in nadzoruje po obsegu, vrednosti in vsebini izvajanje letnih republiških programov na tem področju ter opravlja druge strokovne naloge v zvezi s pripravami in delovanjem poklicnih teritorialnih gasilskih enot ter razvojem drugih operativnih gasilskih enot glede na različno požarno ogroženost območja republike, vzdrževanjem protipožarne in druge reševalne opreme ter zahtevnejšimi oblikami strokovnega usposabljanja.
+# 22. člen (prenehal veljati)

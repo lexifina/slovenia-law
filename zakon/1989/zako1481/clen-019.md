@@ -1,4 +1,2 @@
 ## III. USTANOVITEV REPUBLIŠKIH UPRAVNIH ORGANOV
-# 19. člen
-Na področju zdravstva se ustanovi Republiška uprava za zdravstveno varstvo kot organ v sestavi Republiškega komiteja za zdravstveno in socialno varstvo.
-Republiška uprava za zdravstveno varstvo opravlja strokovne naloge, ki se nanašajo na uresničevanje programov zdravstvenega varstva, na evidence občanov za potrebe zdravstvenega varstva, pokojninsko-invalidskega zavarovanja in zaposlovanja, na sklepanje pogodb z izvajalskimi zdravstvenimi organizacijami v SR Sloveniji, na finančno-operativna dela, na nadzorstvo glede izvajanja predpisov in splošnih aktov o pravicah in obveznostih ter postopkih in načinih uresničevanja pravic do zdravstvenega varstva ter glede racionalne porabe sredstev za zdravstveno varstvo, na opravljanje določenih nalog zdravstveno informacijskega sistema ter na izvajanje mednarodnih sporazumov.
+# 19. člen (prenehal veljati)
