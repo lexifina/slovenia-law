@@ -1,0 +1,15 @@
+# 2. člen
+
+Kreditna pogodba se v angleškem izvirniku in slovenskem prevodu glasi:
+
+LOAN AGREEMENT
+
+(SLOVENIA EAST-WEST HIGHWAY PROJECT)
+
+BETWEEN REPUBLIC OF SLOVENIA AND
+
+EUROPEAN BANK
+
+FOR RECONSTRUCTION AND DEVELOPMENT
+
+Dated 10 June 1994

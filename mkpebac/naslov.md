@@ -1,0 +1,15 @@
+UKAZ
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI KREDITNE POGODBE (PROJEKT SLOVENSKIH AVTOCEST VZHOD – ZAHOD) MED REPUBLIKO SLOVENIJO IN EVROPSKO BANKO ZA OBNOVO IN RAZVOJ
+
+ZAKON
+
+O RATIFIKACIJI KREDITNE POGODBE (PROJEKT SLOVENSKIH AVTOCEST VZHOD – ZAHOD) MED REPUBLIKO SLOVENIJO IN EVROPSKO BANKO ZA OBNOVO IN RAZVOJ
+
+LOAN AGREEMENT
+
+Agreement, dated 10 June 1994, between the Republic of Slovenia (the "Borrower") and the European Bank for Reconstruction and Development (the "Bank")
+
+KREDITNA POGODBA
+
+Pogodba z dne 10. junija 1994 med Republiko Slovenijo ("kreditojemalec") in Evropsko banko za obnovo in razvoj ("banka")
