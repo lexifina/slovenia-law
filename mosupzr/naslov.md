@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI OBMOČNEGA SPORAZUMA O UPORABI PASU 87,5–108 MHz ZA FM ZVOKOVNO RADIOFUZIJO (OBMOČJE 1 IN DEL OBMOČJA 3) – (MOSUPZR)
+
+Z A K O N
+
+O RATIFIKACIJI OBMOČNEGA SPORAZUMA O UPORABI PASU 87,5–108 MHz ZA FM ZVOKOVNO RADIODIFUZIJO (OBMOČJE 1 IN DEL OBMOČJA 3) (MOSUPZR)
+
+R E G I O N AL A G R E E M E N T
+
+relating to the Use of the Band 87.5-108 MHz for FM Sound Broadcasting (Region 1 and Part of Region 3)
+
+O B M O Č N I S P O R A Z U M
+
+o uporabi pasu 87,5–108 MHz za FM zvokovno radiodifuzijo (Območje 1 in del Območja 3)
