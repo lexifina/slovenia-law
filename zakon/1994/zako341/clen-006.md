@@ -1,2 +1,5 @@
 # 6. člen
-Naloge iz 1. in 2. točke prvega odstavka prejšnjega člena opravlja zbornica kot javna pooblastila. Naloge, ki jih opravlja zbornica kot javna pooblastila, se financirajo iz republiškega proračuna.
+Zbornica zagotavlja sredstva za izvajanje javnih pooblastil in drugih svojih nalog iz:
+- članarine;
+- opravljanja drugih nalog, določenih s statutom.
+Osnovo, višino in način plačevanja članarine določi zbornica s statutom.

@@ -1,2 +1,2 @@
 ZAKON
-O DETEKTIVSKI DEJAVNOSTI
+o detektivski dejavnosti (ZDD)
