@@ -1,0 +1,3 @@
+# 16. člen Izvajanje
+
+Pogodbenice se zavezujejo, da bodo s primernimi ukrepi v okviru veljavne ureditve zagotovile izvajanje tega protokola.

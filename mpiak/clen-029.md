@@ -1,0 +1,17 @@
+# 29. člen Notifikacije
+
+Depozitar obvesti v zvezi s tem protokolom vsako državo, navedeno v preambuli, in Evropsko skupnost o:
+
+a) vsakem podpisu,
+
+b) deponiranju vsake listine o ratifikaciji, sprejetju ali odobritvi,
+
+c) vsakem datumu začetka veljavnosti,
+
+d) vsaki izjavi katere od pogodbenic ali podpisnic,
+
+e) vsakem obvestilu pogodbenice o odpovedi vključno z datumom, ko začne veljati.
+
+Da bi to potrdili, so podpisniki, pravilno pooblaščeni v ta namen, podpisali ta protokol.
+
+Sestavljeno na Bledu dne 16. oktobra 1998 v slovenskem, francoskem, italijanskem in nemškem jeziku, pri čemer so vsa štiri besedila enako obvezujoča, v enem samem originalu, ki je deponiran v arhivu Republike Avstrije. Depozitar posreduje vsaki podpisnici overjeno kopijo.

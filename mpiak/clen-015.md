@@ -1,0 +1,7 @@
+# 15. člen Izobraževanje in obveščanje
+
+Pogodbenice spodbujajo izobraževanje in izpopolnjevanje ter obveščanje javnosti o ciljih, ukrepih in izvajanju tega protokola.
+
+IV. poglavje
+
+Izvajanje, nadzor in presojanje
