@@ -1,0 +1,3 @@
+# 5. člen
+17. člen se spremeni tako, da glasi:
+"V postopkih po tem zakonu se smiselno uporabljajo določbe prvega odstavka 7. člena (posredovanje informacij), prvega, drugega in tretjega odstavka 8. člena (tajnost in vpogled v prijave), 71. člena (upravni spor), 72. člena (postopek v zvezi s tožbami), prvega in drugega odstavka 75. člena (prenos in licenca pravic), 107. člena (vpis sprememb v register), 108. člena (postopek za vpis sprememb), tretjega odstavka 121. člena (tožba zaradi kršitve pravic), 123. člena (začasne odredbe), 124. člena (zavarovanje dokazov), 128. člena (zastopanje pred uradom), 129. člena (zastopanje tujih oseb) in 130. člena (preklic ali odpoved pooblastila) ZIL-1."
