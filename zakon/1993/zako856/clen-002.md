@@ -1,0 +1,2 @@
+# 2. člen
+V 30. členu se doda nov tretji odstavek, ki se glasi: "Na predlog zdravniške komisije 1. stopnje lahko zdravniška komisija II. stopnje izjemoma podaljša trajanje pravice do nadomestila osebnega dohodka za nego otroka, in sicer v primerih, ko je taka odsotnost potrebna zaradi nenadnega poslabšanja zdravstvenega stanja otroka oziroma v drugih izjemnih primerih. Taka odsotnost ne more biti daljša od 6 mesecev."
