@@ -1,3 +1,0 @@
-# 1. člen
-V zakonu o veterinarstvu (Uradni list RS, št. 82/94 in 21/95) se četrti odstavek 148. člena spremeni tako, da se glasi:
-"(4) Preostanek družbenega kapitala veterinarskega zavoda se v skladu s tretjim in četrtim odstavkom 22. člena zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 55/92, 7/93, 31/93 in 1/96) lastnini na način prodaje delnic veterinarskega zavoda za gotovino, pri čemer se prodajna cena delnic določi na podlagi otvoritvene bilance veterinarskega zavoda. Pri tem veterinarski zavod zagotovi prednostno pravico nakupa teh delnic zaposlenim, bivšim zaposlenim in upokojenim delavcem veterinarskega zavoda."
