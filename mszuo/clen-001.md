@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificirata se Sporazum o začasnem uvozu s popolno oprostitvijo uvoznih dajatev za brezplačno izposojeno medicinsko, kirurško in laboratorijsko opremo za uporabo v bolnišnicah in drugih zdravstvenih zavodih za diagnostiko ali zdravljenje, sklenjen v Strasbourgu 28. aprila 1960, ter Dodatni protokol k Sporazumu o začasnem uvozu s popolno oprostitvijo uvoznih dajatev brezplačno izposojene medicinske, kirurške in laboratorijske opreme za uporabo v bolnišnicah in drugih zdravstvenih zavodih za diagnostiko ali zdravljenje, sklenjen v Strasbourgu 29. septembra 1982 in dan na voljo za sprejetje 1. januarja 1983.
