@@ -1,0 +1,3 @@
+# 1. člen (vsebina zakona)
+(1) Ta zakon določa cilje in ukrepe v morskem ribištvu (v nadaljnjem besedilu: ribištvo) in ureja upravljanje z ribolovnimi viri, dostop do ribolovnih virov, javno službo in financiranje v ribištvu, promet z ribami, ribiškimi proizvodi in izdelki, organizacije v ribištvu ter nadzor nad izvajanjem tega zakona.
+(2) Določbe tega zakona, ki urejajo promet z ribami in ribiškimi proizvodi ter organizacije v ribištvu, se uporabljajo tudi za področje sladkovodnega ribogojstva in mednarodno trgovino z ribami in ribiškimi proizvodi, ujetimi z gospodarskim ribolovom v tujih celinskih vodah.

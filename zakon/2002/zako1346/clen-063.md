@@ -1,0 +1,3 @@
+# 63. člen (ribe in ribiški proizvodi, ki se umaknejo iz prometa)
+(1) Na podlagi priporočenih cen iz prejšnjega člena vlada v skladu z mednarodnimi pogodbami, ki obvezujejo Republiko Slovenijo, za vsako ribolovno leto določi seznam določenih rib in ribiških proizvodov iz tržnega reda in cene, pod katerimi se te ribe in ribiški proizvodi ne dajejo v promet.
+(2) Ne glede na prejšnji odstavek lahko organizacija ribičev ali ribogojcev samostojno umakne iz prometa tudi druge ribe oziroma ribiške proizvode iz tržnega reda, za katere vlada ne določi cen, pod katerimi se te ribe in ribiški proizvodi ne dajejo v promet.

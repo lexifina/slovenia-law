@@ -1,0 +1,2 @@
+# 59. člen (reprezentativnost priznane medpanožne organizacije)
+Medpanožno organizacijo na podlagi njenega zahtevka minister prizna za reprezentativno, če obseg ribolova, ribogojstva, predelave oziroma prometa določenih vrst rib, ribiških proizvodov in izdelkov njenih članov predstavlja vsaj dve tretjini ulova, vzreje v ribogojstvu, predelave oziroma prometa s temi vrstami rib, ribiških proizvodov in izdelkov na območju delovanja te organizacije.
