@@ -1,2 +1,2 @@
 # 25. člen
-Minister, pristojen za meroslovje, predpiše način izvajanja nadzora nad delom imenovanih pravnih oseb ter vsebino in obliko uradne izkaznice, s katero se izkažejo delavci, ki opravljajo meroslovni nadzor.
+Minister, pristojen za meroslovje, predpiše način izvajanja nadzora nad delom imenovanih pravnih oseb oziroma samostojnih podjetnikov posameznikov ter vsebino in obliko uradne izkaznice, s katero se izkažejo pooblaščene uradne osebe, ki opravljajo meroslovni nadzor.

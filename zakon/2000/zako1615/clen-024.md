@@ -1,3 +1,3 @@
 # 24. člen
-Urad izvaja nadzor pravne osebe, ki jo imenuje minister, pristojen za meroslovje, v tistem delu, na katerega se imenovanje nanaša.
-Če urad ugotovi, da pravna oseba, ki jo imenuje minister, pristojen za meroslovje, ne dela v skladu s predpisi ali da ne izpolnjuje več zahtev za imenovanje, lahko minister, pristojen za meroslovje, razveljavi odločbo o imenovanju.
+Urad izvaja nadzor nad pravno osebo oziroma samostojnim podjetnikom posameznikom, ki ga je imenoval, v tistem delu, na katerega se imenovanje nanaša.
+Če Urad ugotovi, da pravna oseba oziroma samostojni podjetnik posameznik, ki ga je imenoval, ne dela v skladu s predpisi ali da ne izpolnjuje več zahtev za imenovanje, lahko razveljavi odločbo o imenovanju.
