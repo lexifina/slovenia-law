@@ -1,4 +1,3 @@
-# 6. člen (ocena varnosti kozmetičnih proizvodov)
-Ocena varnosti kozmetičnega proizvoda za človekovo zdravje mora biti izdelana na podlagi rezultatov opravljenih preizkusov in študij, pri čemer je potrebno upoštevati splošne toksikološke podatke vsake uporabljene sestavine, njeno kemijsko strukturo in stopnjo izpostavljenosti potrošnika. Oceno varnosti mora zagotoviti proizvajalec, ki daje kozmetični proizvod v promet.
-Preizkusi kozmetičnega proizvoda, na podlagi katerih se ugotavlja njegova varnost za človekovo zdravje, morajo biti izvedeni v skladu z načeli dobre laboratorijske prakse.
-Preizkusi iz prejšnjega odstavka se morajo izvajati tudi v skladu s predpisi, ki urejajo zaščito živali.
+# 6. člen (ocena ustreznosti kozmetičnih proizvodov)
+Pred dajanjem kozmetičnih proizvodov v promet mora dobavitelj zagotoviti oceno njihove ustreznosti za človekovo zdravje. Ocena ustreznosti mora biti izdelana na podlagi rezultatov opravljenih preskusov in študij, pri čemer je potrebno upoštevati splošne toksikološke lastnosti uporabljenih sestavin, njihovo kemijsko strukturo in izpostavljenost uporabnika.
+Oceno ustreznosti lahko izdelajo strokovnjaki z najmanj visokošolsko strokovno izobrazbo s področja kemije ali farmacije, ali z univerzitetno izobrazbo s področja medicine ali toksikologije.

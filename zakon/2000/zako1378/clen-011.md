@@ -1,4 +1,3 @@
-# 11. člen (snovi, ki so dovoljene le z omejitvami)
-Pri proizvodnji kozmetičnih proizvodov se smejo snovi, ki jih določi minister na podlagi enotnega seznama Evropske unije, uporabljati le pod določenimi pogoji
-Pogoje iz prejšnjega odstavka, ki se nanašajo na področje in način uporabe kozmetičnega proizvoda, najvišje dovoljene koncentracije posameznih sestavin v kozmetičnem proizvodu ter druge omejitve, zahteve in opozorila, ki morajo biti natisnjena na etiketi, predpiše minister.
-Sezname snovi iz prvega odstavka tega člena in sezname snovi, ki se v kozmetičnih proizvodih lahko uporabljajo kot barvila, konzervansi in UV filtri ter pogoje za njihovo uporabo, predpiše minister.
+# 11. člen (pogojno dovoljene snovi)
+Kozmetični proizvodi, ki vsebujejo pogojno dovoljene snovi, se lahko dajejo v promet, če izpolnjujejo pogoje in omejitve glede njihovih koncentracij, področja in načina uporabe, označevanja, ter druge omejitve, s katerimi se zagotovi njihova ustreznost v skladu s tem zakonom.
+Pogojno dovoljene snovi ter pogoje in omejitve za kozmetične proizvode, ki jih vsebujejo, predpiše minister na podlagi enotnega seznama Evropske unije.
