@@ -1,0 +1,2 @@
+# 3. člen
+Sredstva, namenjena za Tehnološki razvojni sklad Republike Slovenije, katerega pravni naslednik je Slovenska razvojna družba, d.d., ki so ostala neporabljena, mora Slovenska razvojna družba, d.d., v roku 15 dni od uveljavitve tega zakona oziroma po vplačilu na račun SRD vplačati v proračun Republike Slovenije, kot izredne nedavčne prihodke. Vplačana sredstva se namenijo za spodbujanje razvoja tehnologij, za kar se pri ministrstvu, pristojnem za gospodarstvo, odprejo nove proračunske postavke.
