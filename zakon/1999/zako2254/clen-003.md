@@ -1,3 +1,0 @@
-# 3. člen
-V 67. členu se prvi odstavek spremeni tako, da se glasi:
-"Dejavnost iz 1. točke - razen spremljanja in proučevanja reprodukcije ter oplojevanja živali, 2. točke - razen sodelovanja pri delu komisije za ocenjevanje, odbiro in priznavanje plemenjakov, plemenskih ribjih jat in plemenišč čebeljih matic, 3. točke - razen spremljanja zdravstvenega stanja ter zdravljenja čebel in rib, ter 4. točke 66. člena opravlja Veterinarska uprava Republike Slovenije; ostale dejavnosti iz 1.-8. točke pa opravlja Veterinarski zavod Slovenije oziroma druge organizacije v okviru mreže javne veterinarske službe."
