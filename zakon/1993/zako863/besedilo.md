@@ -1,0 +1,6 @@
+Razglašam Zakon o spremembah in dopolnitvah Zakona o denacionalizaciji, ki ga je sprejel Državni zbor Republike Slovenije na seji dne 2. junija 1993.
+Št. 0100-78/93
+Ljubljana, dne 10. junija 1993.
+Predsednik Republike Slovenije Milan Kučan l. r.
+ZAKON
+o spremembi in dopolnitvi Zakona o denacionalizaciji
