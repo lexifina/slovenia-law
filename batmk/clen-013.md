@@ -1,0 +1,5 @@
+# 13. člen Opravljanje plačilnih storitev
+
+1. Podjetja oziroma organizacije s sedežem v sosednji državi lahko opravljajo v coni storitve, ki so neposredno povezane s prometom preko meje; pobiranje carinskih in cestnih dajatev, sklepanje obveznega zavarovanja, ob upoštevanju deviznopravnih predpisov države, v kateri se cona nahaja, ter za slovensko stran sprejemanje depozitov tolarskih sredstev, ki jih potniki nosijo pri sebi ob vstopu in izstopu in ki po veljavnih slovenskih predpisih presegajo najvišje dovoljene limite. V zvezi s temi dejavnostmi je tudi dovoljeno, da organizacije sprejemajo te dajatve, depozite denarja in cestne dajatve ter premije v tujih valutah ter izplačujejo razliko v lastni valuti. To pa ne obsega opravljanja bančnih poslov. Za opravljanje zgoraj navedenih storitev se smiselno uporabljajo določila aneksa Pogodbe.
+
+2. Za potrebe dejavnosti iz prejšnjega odstavka, se lahko v dogovoru z v prvem odstavku 3. člena Pogodbe navedeno družbo uporabna površina objekta za slovenske špediterje v coni na avstrijskem državnem ozemlju poveča na 600 m2.
