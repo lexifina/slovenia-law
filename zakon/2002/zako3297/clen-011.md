@@ -1,0 +1,3 @@
+# 11. člen
+Za prvim odstavkom opomb k tarifni številki 4 se doda nov drugi odstavek, ki se glasi:
+"(2) Če upravni organ v okviru postopka, ki ga vodi na zahtevo stranke, sam pridobi podatke iz uradne evidence, plača taksni zavezanec za vsak tako pridobljen podatek polovično takso iz prvega odstavka te tarifne številke. Taksni zavezanec je oseba, na zahtevo katere je upravni organ začel postopek v okviru katerega pridobi podatke iz uradne evidence. Taksna obveznost v tem primeru nastane najkasneje, ko upravni organ izda spis oziroma opravi dejanje v postopku, ki ga vodi na zahtevo stranke. Taksa iz tega odstavka se ne plača, če upravni organ pridobi podatek v obliki tipskih elektronskih sporočil oziroma z neposrednim vpogledom v uradno evidenco."
