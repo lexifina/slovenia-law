@@ -1,0 +1,3 @@
+# 13. člen Varstvo prejetih podatkov
+
+Če se po tej konvenciji industrijski in poslovni ali drugi zaupni podatki sporočajo v skladu z domačimi zakoni, pogodbenice prejemnice teh podatkov upoštevajo njihovo tajnost in jih uporabljajo le za tiste namene, ki so določeni v tej konvenciji, in jih ne objavljajo ali dajejo na voljo tretjim. Če katera od pogodbenic meni, da ni sposobna izpolniti te obveznosti glede zaupnihi podatkov, ki jih je prejela, o tem nemudoma obvesti pogodbenico pošiljateljico in prejete podatke vrne. Osebni podatki se pošljejo pogodbenicam v skladu z domačo zakonodajo pogodbenice pošiljateljice. Prejemnica osebne podatke uporablja le za dogovorjen namen in pod pogoji, ki jih določi pošiljateljica.
