@@ -1,0 +1,6 @@
+# 5. člen
+25. člen se spremeni tako, da se glasi:
+"Za organizacijsko, strokovno in drugo pomoč pri delovanju vlade in usklajevanju dela ministrstev lahko vlada ustanavlja vladne službe. Predsednik vlade lahko za te naloge pooblasti tudi resorno ministrstvo.
+Vladno službo vodi minister brez resorja, državni sekretar ali direktorica oziroma direktor (v nadaljevanju: direktor). Direktor vladne službe je odgovoren predsedniku vlade, ministru ali generalni sekretarki oziroma generalnemu sekretarju (v nadaljevanju: generalni sekretar) vlade.
+Kot vladna služba deluje tudi generalni sekretariat vlade. Generalni sekretariat vlade vodi generalni sekretar, ki ga imenuje in razreši vlada na predlog predsednika vlade. Generalni sekretar po navodilih predsednika vlade skrbi za pripravo sej vlade in izvrševanje njenih odločitev ter opravlja druge naloge v zvezi z organizacijo dela v vladi in vladnih službah. Generalnemu sekretarju vlade preneha funkcija z razrešitvijo, z odstopom ali s prenehanjem funkcije predsednika vlade.
+Kot vladna služba deluje tudi kabinet predsednika vlade. Predstojnika kabineta predsednika vlade imenuje in razreši predsednik vlade. Predstojniku kabineta predsednika vlade položaj preneha z razrešitvijo, odstopom ali s prenehanjem funkcije predsednika vlade. Za postopek njegove izbire se ne uporabljajo določbe zakona o javnih uslužbencih.".
