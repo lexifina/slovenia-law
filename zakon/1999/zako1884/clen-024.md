@@ -1,0 +1,13 @@
+# 24. člen
+(1) Kontrolo pisem in drugih pošiljk ter nadzorovanje in snemanje telekomunikacij v Republiki Sloveniji dovoli na predlog direktorja agencije s pisno odredbo za vsak primer posebej predsednik okrožnega sodišča, na čigar območju je sedež agencije, če je podana velika verjetnost, da obstaja nevarnost za varnost države, ki se kaže v:
+- tajnih aktivnostih zoper suverenost, neodvisnost, državno celovitost in strateške interese Republike Slovenije;
+- tajnih aktivnostih, načrtih in pripravah za izvedbo mednarodnih terorističnih akcij zoper Republiko Slovenijo ter drugih nasilnih dejanjih proti državnemu organu in nosilcem javnih funkcij v Republiki Sloveniji ter tujini;
+- posredovanju podatkov in dokumentov, ki so v Republiki Sloveniji opredeljeni kot državna tajnost, nepooblaščeni osebi v tujini;
+- pripravah na oborožen napad na Republiko Slovenijo;
+- obveščevalni dejavnosti posameznikov, organizacij in skupin v korist tujine;
+- mednarodni organizirani kriminalni dejavnosti,
+in je utemeljeno pričakovati, da se v zvezi s to aktivnostjo uporablja določeno telekomunikacijsko sredstvo ali bo to sredstvo uporabljeno, pri tem pa je mogoče utemeljeno sklepati, da podatkov ni mogoče pridobiti drugače oziroma bi njihovo pridobivanje na drug način lahko ogrozilo življenje in zdravje ljudi.
+(2) Predlog in odredba morata vsebovati podatke o osebi, na katero se posebna oblika pridobivanja podatkov nanaša, utemeljitev razlogov za njeno uporabo, podatke o načinu njenega izvajanja, obsegu in trajanju, telekomunikacijskem sredstvu in okoliščinah, ki narekujejo uporabo posebne oblike pridobivanja podatkov, ter utemeljitev, da podatkov ni mogoče pridobiti drugače oziroma bi njihovo pridobivanje na drug način lahko ogrozilo življenje in zdravje ljudi.
+(3) Uporaba posebne oblike pridobivanja podatkov iz prvega odstavka tega člena lahko traja največ tri mesece. Iz utemeljenih razlogov se lahko njena uporaba podaljša vsakič še za en mesec, vendar skupno ne več kot šest mesecev. Vsako podaljšanje mora odobriti predsednik okrožnega sodišča iz prvega odstavka tega člena. Uporaba posebne oblike pridobivanja podatkov iz prvega odstavka tega člena se odpravi takoj, ko prenehajo razlogi, zaradi katerih je bila odrejena. O prenehanju mora direktor agencije pisno obvestiti predsednika okrožnega sodišča, ki je odredbo izdal.
+(4) Podjetja, ki opravljajo prenos poštnih pošiljk in telekomunikacij, morajo agenciji omogočiti ter zagotoviti pogoje za izvršitev sodno odobrenih posebnih oblik pridobivanja podatkov iz prvega odstavka tega člena.
+(5) Podatki, pridobljeni z uporabo posebnih oblik pridobivanja podatkov iz prvega odstavka tega člena, se hranijo v razvidu.

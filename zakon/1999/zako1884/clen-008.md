@@ -1,0 +1,5 @@
+# 8. člen
+(1) Državni organi so dolžni na zahtevo agencije le-tej posredovati podatke in informacije, pomembne za izvajanje njenih nalog.
+(2) Če agencija pri izvajanju svojih nalog ugotovi, da obstajajo utemeljeni razlogi za sum, da je določena oseba izvršila, izvršuje oziroma pripravlja ali organizira izvršitev kaznivega dejanja, za katerega se storilec preganja po uradni dolžnosti, mora o tem obvestiti generalnega direktorja policije in pristojnega državnega tožilca.
+(3) Če gre pri dejanjih iz prejšnjega odstavka za kazniva dejanja v Ministrstvu za obrambo Republike Slovenije ali Slovenski vojski ali jih stori vojaška oseba, mora agencija o tem obvestiti tudi Obveščevalno varnostno službo Ministrstva za obrambo Republike Slovenije.
+(4) Če gre v primeru iz prejšnjih dveh odstavkov za sum kaznivega dejanja zoper varnost Republike Slovenije in njeno ustavno ureditev, lahko direktor agencije od pristojnega državnega tožilca zahteva, da policija začasno odloži izvedbo dejanj in ukrepov v predkazenskem postopku, če to terjajo interesi varnosti države in pri tem ni podana nevarnost za življenje ter zdravje tretjih oseb.
