@@ -1,4 +1,1 @@
-# 13. člen
-Državni organi, organizacije združenega dela in druge organizacije lahko ob upoštevanju posebnih predpisov o izdelavi in izdajanju kartografskih publikacij uporabijo temeljne topografske načrte, temeljne topografske karte in pregledne karte SR Slovenije, za izdelavo kartografskih publikacij, morajo pa o tem predhodno pismeno obvestiti Geodetsko upravo SR Slovenije.
-V teh publikacijah se morajo navesti temeljni podatki o izvoru, merilu, izdajatelju in letnici izdelave temeljnih topografskih načrtov, temeljnih topografskih kart oziroma preglednih kar SR Slovenije. Dva izvoda take kartografske publikacije morajo brezplačno odstopiti Geodetski upravi SR Slovenije v roku 30 dni po izdaji kartografske publikacije.
-Državni organi, organizacije združenega dela in druge organizacije morajo navesti podatke iz prvega stavka prejšnjega odstavka tudi pri izdelavi dokumentov v uradne namene.
+# 13. člen (prenehal veljati)
