@@ -1,0 +1,15 @@
+UKAZ
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI GARANCIJSKE POGODBE (PROJEKT SLOVENSKIH AVTOCEST VZHOD – ZAHOD) MED REPUBLIKO SLOVENIJO IN EVROPSKO BANKO ZA OBNOVO IN RAZVOJ
+
+ZAKON
+
+O RATIFIKACIJI GARANCIJSKE POGODBE (PROJEKT SLOVENSKIH AVTOCEST VZHOD – ZAHOD) MED REPUBLIKO SLOVENIJO IN EVROPSKO BANKO ZA OBNOVO IN RAZVOJ
+
+GUARANTEE AGREEMENT
+
+Guarantee Agreement, dated 13 May, 1994 between the Republic of Slovenia (the "Guarantor") and the European Bank for Reconstruction and Development (the "Bank")
+
+GARANCIJSKA POGODBA
+
+Garancijska pogodba z dne 13. maja 1994 med Republiko Slovenijo ("garant") in Evropsko banko za obnovo in razvoj ("banka")

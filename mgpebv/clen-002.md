@@ -1,0 +1,15 @@
+# 2. člen
+
+Garancijska pogodba se v angleškem izvirniku in slovenskem prevodu glasi:
+
+GUARANTEE AGREEMENT
+
+(SLOVENIA EAST-WEST HIGHWAY PROJECT)
+
+BETWEEN REPUBLIC OF SLOVENIA AND
+
+EUROPEAN BANK
+
+FOR RECONSTRUCTION AND DEVELOPMENT
+
+Dated: 13 May, 1994
