@@ -1,0 +1,5 @@
+# 9. člen
+Potrdilo o overitvi se napiše na izvirni listini in mora vsebovati datum overitve, številko, s katero je listina vpisana v overitveni vpisnik, podpis uradne osebe in pečat organa, ki je overitev opravil.
+Potrdilo o overitvi se glasi: "Potrjuje se, da je (ime, priimek, bivališče) lastnoročno podpisal to listino (priznal podpis na tej listini za svoj). Istovetnost imenovanega je bila ugotovljena na podlagi osebnega poznanja, osebne izkaznice, potnega lista - navesti številko in organ, ki jo je izdal, s pričami - navesti ime in priimek prič in številko njihovih osebnih izkaznic ter organ, ki jih je izdal. Taksa za overitev v znesku... SIT je bila plačana in uničena na zaprosilu za overitev."
+Če gre za overitev iz 7. člena tega zakona, mora potrdilo o overitvi poleg navedb iz prvega odstavka tega člena obsegati še besedilo: "Imenovani je pooblaščen za zastopanje na podlagi" in navedbo akta, s katerim se potrjuje pravica za zastopanje.
+Organi, ki opravljajo overitev listin v mednarodnem prometu
