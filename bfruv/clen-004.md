@@ -1,0 +1,7 @@
+# 4. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe. Št. 213-03/93-21/1.
+
+Ljubljana, dne 22. novembra 1993.
+
+Predsednik Državnega zbora Republike Slovenije mag. Herman Rigelnik l. r.
