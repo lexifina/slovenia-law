@@ -1,0 +1,2 @@
+# 18. člen
+Z dnem uveljavitve tega zakona prenehata veljati 19. in 20. člen zakona o lastninskem preoblikovanju pravnih oseb z družbenim kapitalom, ki prirejajo posebne igre na srečo in o strukturi kapitala pravnih oseb, ki opravljajo dejavnost prirejanja posebnih iger na srečo (Uradni list RS, št. 40/97 in 13/2002 - odločba US) in 59. člen zakona o pospeševanju turizma (Uradni list RS, št. 57/98, 68/2000 - sklep US, 21/2002, 86/2002 - odločba US in 94/2002 - odločba US).
