@@ -1,0 +1,3 @@
+# 3. člen
+Republika Slovenija poravna svojo morebitno poroštveno obveznost z uporabo proračunskih postavk Ministrstva za kmetijstvo in gozdarstvo in Ministrstva za ekonomske odnose in razvoj.
+V primerih, ko Republika Slovenija plača obveznost iz posojilne pogodbe namesto direkcije, pridobi v razmerju do direkcije pravico regresiranja izplačanih zneskov in vseh stroškov, ki so v zvezi s tem nastali.
