@@ -1,0 +1,4 @@
+# 1. člen
+V zakonu o vojnih veteranih (Uradni list RS, št. 63/95) se v 1. členu dodata nova drugi in tretji odstavek, ki se glasita:
+"Društvu ali zvezi vojnih veteranov lahko ministrstvo, pristojno za vojne veterane, podeli status društva, ki deluje v javnem interesu za obdobje petih let. Ministrstvo podeli status društva, ki deluje v javnem interesu na podlagi temeljnega akta in programa društva, ki zagotavlja dejavnost javnega pomena, zlasti na področju socialno-zdravstvenega skrbstva za članstvo, ohranjanje zgodovinskega izročila, skrbi za ohranjanje vojnih grobišč, mednarodne dejavnosti ter na podlagi širše družbene aktivnosti in porabe sredstev društva v določenem obdobju, iz katerih je razvidno, da delovanje društva presega interese njegovega članstva.
+Podrobnejše kriterije za podelitev statusa društva v javnem interesu predpiše minister, pristojen za vojne veterane."
