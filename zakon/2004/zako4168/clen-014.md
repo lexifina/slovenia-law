@@ -1,0 +1,2 @@
+# 14. člen
+Vlada Republike Slovenije natančneje predpiše način določanja organov za ugotavljanje skladnosti, ugotavljanja izpolnjevanja zahtev in preklica odločbe iz prvega odstavka 12. člena tega zakona ter predpiše pristojnosti državnih organov in postopek za izvedbo priglasitve organov za ugotavljanje skladnosti sopogodbenicam v okviru mednarodnih pogodb s področja izvajanja postopkov ugotavljanja skladnosti, ki obvezujejo Republiko Slovenijo.
