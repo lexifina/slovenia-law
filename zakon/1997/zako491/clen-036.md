@@ -1,0 +1,6 @@
+# 36. člen
+Republika Slovenija je kot delničar Slovenske razvojne družbe udeležena pri upravljanju Slovenske razvojne družbe z najmanj 50%. Za Slovensko razvojno družbo se ne uporabljajo določbe 478. in 481. člena zakona o gospodarskih družbah.
+Obveznosti, ki izhajajo iz tretjega in četrtega odstavka 125. člena stanovanjskega zakona, izpolni Slovenska razvojna družba z izdajo posebne emisije obveznic. Obveznice, izdane na tej podlagi, se ob vnovčitvi vnovčijo v breme drugih sestavin kapitala Slovenske razvojne družbe.
+Slovenska razvojna družba z dnem uveljavitve tega zakona prevzame dejavnost, poslovanje, zaposlene, pravice in obveznosti Tehnološko razvojnega sklada Republike Slovenije, s čimer prenehajo veljati določbe zakona o Tehnološko razvojnem skladu (Uradni list RS, št. 13/94), razen določbe 6. člena.
+Sklad Republike Slovenije za razvoj mora na dan uveljavitve tega zakona izdelati bilanco stanja in bilanco uspeha. Prav tako so dolžne izdelati bilanco stanja in bilanco uspeha tudi vse institucije, ki se pripojijo Slovenski razvojni družbi, na dan pripojitve.
+Osebe iz prejšnjega odstavka tega člena so dolžne predložiti bilanco stanja in bilanco uspeha ter poročilo o svojem poslovanju v roku 60 dni od roka za izdelavo finančnih poročil Državnemu zboru Republike Slovenije.

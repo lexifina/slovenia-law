@@ -1,0 +1,2 @@
+# 14. člen
+Slovenska razvojna družba mora voditi poslovne knjige, sestavljati knjigovodske listine, vrednotiti knjigovodske postavke in sestavljati računovodska poročila v skladu z zakonom o gospodarskih družbah in drugimi predpisi, ter ob upoštevanju računovodskih in finančnih standardov in načel ter splošnih računovodskih predpostavk, ki jih izdaja Slovenski inštitut za revizijo oziroma ustreznih mednarodnih standardov, kadar slovenski standardi niso določeni, če ni v tem poglavju drugače določeno.
