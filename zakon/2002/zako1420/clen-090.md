@@ -1,0 +1,5 @@
+# 90. člen (odpoved s ponudbo nove pogodbe)
+(1) Kadar delodajalec odpove pogodbo o zaposlitvi in delavcu istočasno ponudi sklenitev nove pogodbe o zaposlitvi v skladu s tretjim odstavkom 88. člena tega zakona, se uporabljajo določbe tega zakona, ki se nanašajo na redno odpoved pogodbe o zaposlitvi.
+(2) Delavec se mora izjasniti o sklenitvi nove pogodbe o zaposlitvi v roku 30 dni od prejema pisne ponudbe.
+(3) Če delavec v primerih iz prejšnjega odstavka sprejme ponudbo delodajalca za ustrezno zaposlitev za nedoločen čas, nima pravice do odpravnine, obdrži pa pravico izpodbijati pred pristojnim sodiščem utemeljenost odpovednega razloga. Ustrezna zaposlitev je zaposlitev, za katero se zahteva enaka vrsta in stopnja izobrazbe, kot se je zahtevala za opravljanje dela na prejšnjem delovnem mestu, za katero je imel delavec sklenjeno pogodbo o zaposlitvi.
+(4) V primeru neustreznosti nove zaposlitve po prejšnjem odstavku, ima delavec pravico do sorazmernega dela odpravnine v višini, ki jo dogovori z delodajalcem.

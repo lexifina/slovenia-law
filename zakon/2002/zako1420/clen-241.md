@@ -1,0 +1,2 @@
+# 241. člen (zakon o zdravstvenem varstvu in zdravstvenem zavarovanju)
+Z dnem uveljavitve tega zakona preneha veljati 9. člen zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 9/92, 13/93, 9/96, 29/98, 6/99). Druga alinea prvega odstavka 29. člena navedenega zakona se z dnem uveljavitve tega zakona ne uporablja glede pravice do nadomestila plače v primerih nezmožnosti delavca za delo zaradi bolezni ali poškodbe, ki ni povezana z delom.

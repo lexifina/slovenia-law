@@ -1,0 +1,5 @@
+# 116. člen (invalidi in odsotni z dela zaradi bolezni)
+(1) Delodajalec ne sme odpovedati pogodbe o zaposlitvi delovnemu invalidu zaradi ugotovljene invalidnosti II. ali III. kategorije ali iz poslovnega razloga, razen če mu ni možno zagotoviti drugega ustreznega dela ali dela s krajšim delovnim časom v skladu s predpisi o pokojninskem in invalidskem zavarovanju.
+(2) Delodajalec ne sme odpovedati pogodbe o zaposlitvi invalidu, ki nima statusa delovnega invalida, iz poslovnega razloga, razen če mu ni možno zagotoviti ustreznega dela v skladu s predpisi o usposabljanju in zaposlovanju invalidov.
+(3) Delavcu, ki mu je odpovedana pogodba o zaposlitvi iz poslovnega razloga ali iz razloga nesposobnosti in je ob poteku odpovednega roka odsoten z dela zaradi začasne nezmožnosti za delo zaradi bolezni ali poškodbe, preneha delovno razmerje z dnem ugotovitve zdravstvene zmožnosti za delo, najkasneje pa s potekom šestih mesecev po izteku odpovednega roka.
+(4) Varstvo po prejšnjih treh odstavkih ne velja v primerih uvedbe postopka za prenehanje delodajalca.

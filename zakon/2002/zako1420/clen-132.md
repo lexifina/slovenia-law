@@ -1,0 +1,3 @@
+# 132. člen (odpravnina ob upokojitvi)
+(1) V primeru upokojitve pripada delavcu ob odpovedi pogodbe o zaposlitvi, odpravnina v višini dveh povprečnih mesečnih plač v Republiki Sloveniji za pretekle tri mesece oziroma v višini dveh povprečnih mesečnih plač delavca za pretekle tri mesece, če je to za delavca ugodneje.
+(2) Delavec ni upravičen do odpravnine po prejšnjem odstavku, če ima pravico do odpravnine po 109. členu tega zakona in v primeru, če je delodajalec zanj financiral dokup pokojninske dobe. Delavec je upravičen do izplačila razlike, če je znesek odpravnine po 109. členu tega zakona oziroma znesek za dokup pokojninske dobe nižji od zneska odpravnine po prejšnjem odstavku.

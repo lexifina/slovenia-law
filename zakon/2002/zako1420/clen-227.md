@@ -1,0 +1,5 @@
+## VIII. INŠPEKCIJSKO NADZORSTVO
+# 227. člen (splošno)
+(1) Nadzor nad izvajanjem določb tega zakona, izvršilnih predpisov, kolektivnih pogodb in splošnih aktov delodajalca, ki urejajo delovna razmerja, opravlja inšpekcija za delo, če z zakonom ni drugače določeno.
+(2) V primerih kršitev določb drugega odstavka 20., 28., prvega odstavka 142., tretjega odstavka 143., 145., 147., 150., 151., 154., 155., 156., 159., 189., 190., prvega odstavka 193., 195., 196., 197., 198., 203., 214., 215., 217. ali tretjega in petega odstavka 226. člena tega zakona ima inšpektor za delo po opravljenem inšpekcijskem nadzorstvu pravico in dolžnost z odločbo delodajalcu odrediti, da zagotovi izvajanje zakona.
+(3) Inšpekcija za delo lahko, da se prepreči samovoljno ravnanje in odvrne nenadomestljiva škoda, zadrži učinkovanje prenehanja pogodbe o zaposlitvi zaradi odpovedi do poteka roka za arbitražo oziroma sodno varstvo, oziroma do izvršljive arbitražne odločitve, oziroma če delavec v sodnem postopku najkasneje ob vložitvi tožbe zahteva izdajo začasne odredbe, do odločitve sodišča ob predlogu za izdajo začasne odredbe.

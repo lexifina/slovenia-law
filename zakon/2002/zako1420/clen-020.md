@@ -1,0 +1,4 @@
+# 20. člen (pogoji za sklenitev pogodbe o zaposlitvi)
+(1) Delavec, ki sklene pogodbo o zaposlitvi, mora izpolnjevati predpisane, s kolektivno pogodbo ali splošnim aktom delodajalca določene oziroma s strani delodajalca zahtevane in v skladu s prvim odstavkom 23. člena tega zakona objavljene pogoje za opravljanje dela (v nadaljnjem besedilu: pogoje za opravljanje dela).
+(2) Delodajalec je dolžan s splošnim aktom določiti pogoje za opravljanje dela na posameznem delovnem mestu. Obveznost iz prejšnjega stavka ne velja za manjše delodajalce.
+(3) Šteje se, da ima invalid, ki je usposobljen za določena dela, zdravstveno zmožnost za sklenitev pogodbe o zaposlitvi za ta dela.
