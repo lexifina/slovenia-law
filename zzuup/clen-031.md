@@ -1,0 +1,3 @@
+## IV. UGOTAVLJANJE IN ZDRAVLJENJE ZMANJŠANE PLODNOSTI
+
+# 31. člen (prenehal veljati)
