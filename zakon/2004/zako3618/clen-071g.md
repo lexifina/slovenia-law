@@ -1,0 +1,2 @@
+# 71.g člen Hramba vnesenega lovskega orožja ali streliva
+Posameznik, ki po določbah tega zakona vnese lovsko orožje in strelivo zanj na ozemlje Republike Slovenije, lahko do tri kose orožja odda za dobo največ 6 mesecev v hrambo osebi, ki ima stalno bivališče oziroma sedež na ozemlju Republike Slovenije in izpolnjuje pogoje za hrambo takega orožja. Pred izročitvijo orožja ali streliva v hrambo mora posameznik to pisno priglasiti pristojnemu organu, ki mu o tem izda potrdilo.
