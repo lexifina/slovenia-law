@@ -1,0 +1,6 @@
+# 14. člen
+Osebi, ki gospodarsko izkorišča polprevodniško vezje z zavarovano topografijo in ki ne ve oziroma ni mogla vedeti, da gre za zavarovano topografijo, se ne more preprečiti gospodarskega izkoriščanja takšnega polprevodniškega vezja.
+Nosilec zavarovane topografije lahko pisno zahteva od osebe iz prejšnjega odstavka nadomestilo za gospodarsko izkoriščanje zavarovane topografije, ki je odvisno od obsega njenega gospodarskega izkoriščanja. Nadomestilo se sme zahtevati od datuma, ko se oseba iz prejšnjega odstavka seznani oziroma bi ji moralo biti znano, da je topografija zavarovana.
+Nadomestilo iz prejšnjega odstavka določita nosilec zavarovane topografije in oseba iz prvega odstavka tega člena sporazumno. Če sporazuma ne dosežeta, odmeri plačilo pristojno sodišče.
+Določba prvega odstavka tega člena se uporablja tudi za pravnega naslednika te osebe.
+Pravica do gospodarskega izkoriščanja iz prvega odstavka tega člena je omejena na uvoz, prodajo ali distribucijo izdelkov polprevodniških vezij ali drugih izdelkov, ki vsebujejo zadevno topografijo in se ta pravica uporablja za topografijo ali izdelke, ki so bili na razpolago, ko je bila zahteva iz drugega odstavka tega člena sprejeta.

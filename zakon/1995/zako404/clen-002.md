@@ -1,0 +1,4 @@
+# 2. člen
+Polprevodniško vezje je naprava za izvajanje elektronske funkcije, ki je v končni obliki ali vmesni obliki nedeljiva celota iz ene ali več spojenih plasti s polprevodniškimi elementi, od katerih je vsaj eden aktiven element.
+Topografija polprevodniškega vezja (v nadaljevanju: topografija) je enolično določeno zaporedje medsebojno povezanih slikovnih vzorcev za vsako plast polprevodniškega vezja, pri čemer ti vzorci ponazarjajo razporeditev polprevodniških elementov na plasteh, ne glede na to, na kakšen način je ta razporeditev upodobljena z zapisom, kodami ali izražena na kakšen drug način.
+Gospodarsko izkoriščanje topografije pomeni proizvodnjo, prodajo, najemanje, leasing ali druge oblike pridobitne dejavnosti, katere predmet je neposredno topografija ali polprevodniško vezje, izdelano na podlagi zadevne topografije.

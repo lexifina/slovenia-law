@@ -1,0 +1,2 @@
+# 17. člen
+V postopkih po tem zakonu se smiselno uporabljajo določbe tretjega odstavka 5. člena (zastopanje tujcev), prvega odstavka 7. člena (tajnost prijav), tretjega odstavka 44. člena (potrdilo o prejemu prijave), drugega in tretjega odstavka 65. člena (vpisovanje podatkov in sprememb v register), 88. in 89. člena (ničnost pravic), 97. člena (roki za vložitev tožbe zaradi kršitve pravic), 106. in 107. člena (prenos pravic), 108., 110. in 111. člena (licenca) in 119. člena (zastopanje) zakona o industrijski lastnini (Uradni list RS, št. 13/92, 27/93).
