@@ -1,2 +1,2 @@
 # 2. člen
-Prihodki od davkov pripadajo proračunu Republike Slovenije.
+Prihodki od davka pripadajo proračunu Republike Slovenije.

@@ -1,12 +1,12 @@
 # 5. člen
 Davka od cestnih motornih vozil se ne plačuje:
-1. od vozil, ki se izvozijo;
+1. od vozil, ki se pred prvo registracijo izvozijo ali dobavijo v drugo državo članico Evropske unije;
 2. od vozil, ki so nabavljena za prevoz družin, ki imajo tri ali več otrok, in sicer od enega novega osebnega ali kombi vozila s 5 ali več sedeži, ki ga največ enkrat v treh letih kupi eden od roditeljev v družini, ki ima tri ali več otrok, ki še niso dopolnili 18 let. Oprostitev se uveljavlja s povračilom plačanega davka pri pristojnem davčnem organu, če gre za končni uvoz pa pri pristojnem carinskem organu, na podlagi potrdila o skupnem gospodinjstvu, ki ga izda pristojni organ za notranje zadeve. Pristojni davčni oziroma carinski organ je dolžan vrniti plačani davek iz tega zakona v 15 dneh po prejemu zahtevka. V prometno dovoljenje in register gospodinjstev se vpiše, da je za kupljeno vozilo uveljavljeno povračilo davka. Oseba iz prvega stavka te točke motornega vozila ne sme prodati ali ga brezplačno ali kako drugače odtujiti pred potekom triletnega roka od dneva nakupa, sicer mora plačati razliko do polnega zneska davka, obrestovano po obrestni meri za zamudne obresti, določeni v posebnem zakonu;
 3. od vozil, ki so nabavljena za prevoz invalidov, in sicer od enega novega osebnega avtomobila z delovno prostornino bencinskega motorja do 1,8 l in dieselskega motorja do 1,9 l oziroma z delovno prostornino bencinskega motorja do 2 l in dieselskega motorja do 2,2 l za novi osebni avtomobil z avtomatskim upravljanjem ter od kombi vozila, posebej prirejenega za prevoz invalidov na invalidskem vozičku, ki ga največ enkrat v 5 letih kupijo invalidske organizacije in osebe, ki imajo vozniško dovoljenje ali jim je potrebna pomoč drugih oseb, ki imajo vozniško dovoljenje.
 Za osebe po tej točki se štejejo:
 - osebe, pri katerih je zaradi izgube, okvare ali paraliziranosti spodnjih okončin ali medenice nastala najmanj 80% telesna okvara;
 - osebe, ki so popolnoma izgubile vid na obeh očesih;
-- osebe z zmerno, težjo ali težko telesno ali duševno prizadetostjo, ki jim je priznana invalidnost po zakonu o družbenem varstvu telesno in duševno prizadetih oseb (Uradni list SRS, št. 19/76 in 3/80);
+- osebe z zmerno, težjo ali težko telesno ali duševno prizadetostjo, ki jim je priznana invalidnost po zakonu, ki ureja družbeno varstvo telesno in duševno prizadetih oseb;
 - otroci z motnjami v telesnem in duševnem razvoju, ki jih zdravstveni zavodi spremljajo kot rizične v razvoju.
 Oprostitev po prvi in drugi alinei prejšnjega odstavka se uveljavlja po predpisih o pokojninskem in invalidskem zavarovanju na podlagi odločbe Zavoda za pokojninsko in invalidsko zavarovanje Slovenije.
 Oprostitev po tretji alinei drugega odstavka te točke se uveljavlja na podlagi odločbe o priznanem statusu invalida v skladu s predpisi iz te alinee oziroma odločbe pristojnega centra za socialno delo, izdane na podlagi izvedenskega mnenja o razvrščanju otrok in mladostnikov z motnjami v telesnem in duševnem razvoju.
@@ -21,7 +21,8 @@ V prometno dovoljenje tako kupljenega oziroma uvoženega avtomobila se vpiše, d
 - službene potrebe mednarodnih organizacij, če to določajo mednarodne pogodbe, ki obvezujejo Slovenijo;
 - osebne potrebe tujega osebja diplomatskih in konzularnih predstavništev, akreditiranih v Sloveniji, vključno z njihovimi družinskimi člani;
 - osebne potrebe tujega osebja mednarodnih organizacij, vključno z njihovimi družinskimi člani, če to določajo mednarodne pogodbe, ki obvezujejo Slovenijo;
-5. od uvoza rabljenih vozil muzejske vrednosti, starejših od 30 let;
-6. od vozil, ki se začasno uvozijo, če so popolnoma oproščena plačila uvoznih dajatev v skladu s carinskimi predpisi;
+5. od rabljenih vozil muzejske vrednosti, starejših od 30 let ;
+6. od vozil, ki se začasno uvozijo, če so popolnoma oproščena plačila uvoznih dajatev v skladu s carinskimi predpisi in od vozil, ki se vnesejo v Slovenijo iz druge države članice Evropske unije zaradi začasne ali stalne preselitve lastnika vozila, vendar le, če od teh vozil v skladu z zakonom, ki ureja davek na dodano vrednost, ni treba obračunati DDV;
 7. od športnih vozil, ki niso prirejena za vožnjo v cestnem prometu in so namenjena samo za uporabo na tekmovališčih;
+7.a od prenosa vozil v primeru statusnega preoblikovanja gospodarskih družb ali oseb javnega prava;
 8. od terenskih motornih vozil, ki se nabavljajo za potrebe Slovenske vojske in policije ter od interventnih motornih vozil, ki se nabavljajo za potrebe civilne zaščite, gasilske in reševalne službe. Razvrstitev motornih vozil med interventna v skladu s prejšnjim stavkom določi Vlada Republike Slovenije na predlog ministra, pristojnega za obrambo.
