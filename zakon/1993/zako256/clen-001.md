@@ -1,0 +1,2 @@
+# 1. člen
+Ne glede na določbo 160. člena Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 12/92) in prvega stavka 24. člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti (Uradni list RS, št. 5/91 in 12/92) se v obdobju od 1. aprila 1993 do 31. decembra 1993 pokojnine in druge dajatve iz pokojninskega in invalidskega zavarovanja, ki se usklajujejo na enak način kot pokojnine, ter denarna nadomestila za primer brezposelnosti, usklajujejo skladno s tem zakonom.
