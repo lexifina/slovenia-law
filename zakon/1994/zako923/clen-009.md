@@ -1,0 +1,5 @@
+# 9. člen
+Za 39. členom se doda nov 39. a člen, ki se glasi:
+"39. a člen Za državljana Republike Slovenije velja oseba, ki je imela na dan 23. 12. 1990 prijavljeno stalno prebivališče v Republiki Sloveniji ali od. tega dne dalje v Sloveniji neprekinjeno dejansko živi, če bi pridobila državljanstvo Republike Slovenije po 37. členu zakona o državljanstvu FLRJ (Uradni list DFJ, št. 64/45 in Uradni list FLRJ, št. 54/46, 104/47, 88/48 in 105/48), pa je do 21. 12. 1950 pridobila državljanstvo druge republike nekdanje SFRJ, čeprav ni podala izjave po drugem odstavku obvezne razlage prvega odstavka 37. člena zakona o državljanstvu FLRJ z dne 1. 7. 1946 (Uradni list FLRJ, št. 90/46).
+Oseba, ki uveljavlja priznanje državljanstva Republike Slovenije po prejšnjem odstavku, mora predložiti dokaze o tem, na kakšni pravni podlagi je bil opravljen vpis v državljansko knjigo v drugi republiki nekdanje SFRJ.
+Izjava stranke se upošteva kot dokaz samo izjemoma. če stranka nesporno izkaže, da ni mogla pridobiti dokaza iz prejšnjega odstavka."
