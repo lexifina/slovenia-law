@@ -1,0 +1,249 @@
+Razglašam Zakon o ratifikaciji Izbirnega protokola h Konvenciji o otrokovih pravicah glede prodaje otrok, otroške prostitucije in otroške pornografije (MIPKOP), ki ga je sprejel Državni zbor Republike Slovenije na seji 15. julija 2004.
+
+Št. 001-22-182/04
+
+Ljubljana, dne 23. julija 2004
+
+dr. Janez Drnovšek l. r. Predsednik Republike Slovenije
+
+The States Parties to the present Protocol,
+
+Considering that, in order further to achieve the purposes of the Convention on the Rights of the Child and the implementation of its provisions, especially articles 1, 11, 21, 32, 33, 34, 35 and 36, it would be appropriate to extend the measures that States Parties should undertake in order to guarantee the protection of the child from the sale of children, child prostitution and child pornography,
+
+Considering also that the Convention on the Rights of the Child recognizes the right of the child to be protected from economic exploitation and from performing any work that is likely to be hazardous or to interfere with the child's education, or to be harmful to the child's health or physical, mental, spiritual, moral or social development,
+
+Gravely concerned at the significant and increasing international traffic in children for the purpose of the sale of children, child prostitution and child pornography,
+
+Deeply concerned at the widespread and continuing practice of sex tourism, to which children are especially vulnerable, as it directly promotes the sale of children, child prostitution and child pornography,
+
+Recognizing that a number of particularly vulnerable groups, including girl children, are at greater risk of sexual exploitation and that girl children are disproportionately represented among the sexually exploited,
+
+Concerned about the growing availability of child pornography on the Internet and other evolving technologies, and recalling the International Conference on Combating Child Pornography on the Internet, held in Vienna in 1999, in particular its conclusion calling for the worldwide criminalization of the production, distribution, exportation, transmission, importation, intentional possession and advertising of child pornography, and stressing the importance of closer cooperation and partnership between Governments and the Internet industry,
+
+Believing that the elimination of the sale of children, child prostitution and child pornography will be facilitated by adopting a holistic approach, addressing the contributing factors, including underdevelopment, poverty, economic disparities, inequitable socio-economic structure, dysfunctioning families, lack of education, urban-rural migration, gender discrimination, irresponsible adult sexual behaviour, harmful traditional practices, armed conflicts and trafficking in children,
+
+Believing also that efforts to raise public awareness are needed to reduce consumer demand for the sale of children, child prostitution and child pornography, and believing further in the importance of strengthening global partnership among all actors and of improving law enforcement at the national level,
+
+Noting the provisions of international legal instruments relevant to the protection of children, including the Hague Convention on Protection of Children and Cooperation in Respect of Inter-country Adoption, the Hague Convention on the Civil Aspects of International Child Abduction, the Hague Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Cooperation in Respect of Parental Responsibility and Measures for the Protection of Children, and International Labour Organization Convention No. 182 on the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour,
+
+Encouraged by the overwhelming support for the Convention on the Rights of the Child, demonstrating the widespread commitment that exists for the promotion and protection of the rights of the child,
+
+Recognizing the importance of the implementation of the provisions of the Programme of Action for the Prevention of the Sale of Children, Child Prostitution and Child Pornography and the Declaration and Agenda for Action adopted at the World Congress against Commercial Sexual Exploitation of Children, held in Stockholm from 27 to 31 August 1996, and the other relevant decisions and recommendations of pertinent international bodies,
+
+Taking due account of the importance of the traditions and cultural values of each people for the protection and harmonious development of the child,
+
+Have agreed as follows:
+
+Article 1
+
+States Parties shall prohibit the sale of children, child prostitution and child pornography as provided for by the present Protocol.
+
+Article 2
+
+For the purposes of the present Protocol:
+
+(a) Sale of children means any act or transaction whereby a child is transferred by any person or group of persons to another for remuneration or any other consideration;
+
+(b) Child prostitution means the use of a child in sexual activities for remuneration or any other form of consideration;
+
+(c) Child pornography means any representation, by whatever means, of a child engaged in real or simulated explicit sexual activities or any representation of the sexual parts of a child for primarily sexual purposes.
+
+Article 3
+
+1. Each State Party shall ensure that, as a minimum, the following acts and activities are fully covered under its criminal or penal law, whether such offences are committed domestically or transnationally or on an individual or organized basis:
+
+(a) In the context of sale of children as defined in article 2:
+
+(i) Offering, delivering or accepting, by whatever means, a child for the purpose of:
+
+a. Sexual exploitation of the child;
+
+b. Transfer of organs of the child for profit;
+
+c. Engagement of the child in forced labour;
+
+(ii) Improperly inducing consent, as an intermediary, for the adoption of a child in violation of applicable international legal instruments on adoption;
+
+(b) Offering, obtaining, procuring or providing a child for child prostitution, as defined in article 2;
+
+(c) Producing, distributing, disseminating, importing, exporting, offering, selling or possessing for the above purposes child pornography as defined in article 2.
+
+2. Subject to the provisions of the national law of a State Party, the same shall apply to an attempt to commit any of the said acts and to complicity or participation in any of the said acts.
+
+3. Each State Party shall make such offences punishable by appropriate penalties that take into account their grave nature.
+
+4. Subject to the provisions of its national law, each State Party shall take measures, where appropriate, to establish the liability of legal persons for offences established in paragraph 1 of the present article. Subject to the legal principles of the State Party, such liability of legal persons may be criminal, civil or administrative.
+
+5. States Parties shall take all appropriate legal and administrative measures to ensure that all persons involved in the adoption of a child act in conformity with applicable international legal instruments.
+
+Article 4
+
+1. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences referred to in article 3, paragraph 1, when the offences are commited in its territory or on board a ship or aircraft registered in that State.
+
+2. Each State Party may take such measures as may be necessary to establish its jurisdiction over the offences referred to in article 3, paragraph 1, in the following cases:
+
+(a) When the alleged offender is a national of that State or a person who has his habitual residence in its territory;
+
+(b) When the victim is a national of that State.
+
+3. Each State Party shall also take such measures as may be necessary to establish its jurisdiction over the aforementioned offences when the alleged offender is present in its territory and it does not extradite him or her to another State Party on the ground that the offence has been committed by one of its nationals.
+
+4. The present Protocol does not exclude any criminal jurisdiction exercised in accordance with internal law.
+
+Article 5
+
+1. The offences referred to in article 3, paragraph 1, shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties and shall be included as extraditable offences in every extradition treaty subsequently concluded between them, in accordance with the conditions set forth in such treaties.
+
+2. If a State Party that makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may consider the present Protocol to be a legal basis for extradition in respect of such offences. Extradition shall be subject to the conditions provided by the law of the requested State.
+
+3. States Parties that do not make extradition conditional on the existence of a treaty shall recognize such offences as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
+
+4. Such offences shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with article 4.
+
+5. If an extradition request is made with respect to an offence described in article 3, paragraph 1, and the requested State Party does not or will not extradite on the basis of the nationality of the offender, that State shall take suitable measures to submit the case to its competent authorities for the purpose of prosecution.
+
+Article 6
+
+1. States Parties shall afford one another the greatest measure of assistance in connection with investigations or criminal or extradition proceedings brought in respect of the offences set forth in article 3, paragraph 1, including assistance in obtaining evidence at their disposal necessary for the proceedings.
+
+2. States Parties shall carry out their obligations under paragraph 1 of the present article in conformity with any treaties or other arrangements on mutual legal assistance that may exist between them. In the absence of such treaties or arrangements, States Parties shall afford one another assistance in accordance with their domestic law.
+
+Article 7
+
+States Parties shall, subject to the provisions of their national law:
+
+(a) Take measures to provide for the seizure and confiscation, as appropriate, of:
+
+(i) Goods, such as materials, assets and other instrumentalities used to commit or facilitate offences under the present protocol;
+
+(ii) Proceeds derived from such offences;
+
+(b) Execute requests from another State Party for seizure or confiscation of goods or proceeds referred to in subparagraph (a) (i);
+
+(c) Take measures aimed at closing, on a temporary or definitive basis, premises used to commit such offences.
+
+Article 8
+
+1. States Parties shall adopt appropriate measures to protect the rights and interests of child victims of the practices prohibited under the present Protocol at all stages of the criminal justice process, in particular by:
+
+(a) Recognizing the vulnerability of child victims and adapting procedures to recognize their special needs, including their special needs as witnesses;
+
+(b) Informing child victims of their rights, their role and the scope, timing and progress of the proceedings and of the disposition of their cases;
+
+(c) Allowing the views, needs and concerns of child victims to be presented and considered in proceedings where their personal interests are affected, in a manner consistent with the procedural rules of national law;
+
+(d) Providing appropriate support services to child victims throughout the legal process;
+
+(e) Protecting, as appropriate, the privacy and identity of child victims and taking measures in accordance with national law to avoid the inappropriate dissemination of information that could lead to the identification of child victims;
+
+(f) Providing, in appropriate cases, for the safety of child victims, as well as that of their families and witnesses on their behalf, from intimidation and retaliation;
+
+(g) Avoiding unnecessary delay in the disposition of cases and the execution of orders or decrees granting compensation to child victims.
+
+2. States Parties shall ensure that uncertainty as to the actual age of the victim shall not prevent the initiation of criminal investigations, including investigations aimed at establishing the age of the victim.
+
+3. States Parties shall ensure that, in the treatment by the criminal justice system of children who are victims of the offences described in the present Protocol, the best interest of the child shall be a primary consideration.
+
+4. States Parties shall take measures to ensure appropriate training, in particular legal and psychological training, for the persons who work with victims of the offences prohibited under the present Protocol.
+
+5. States Parties shall, in appropriate cases, adopt measures in order to protect the safety and integrity of those persons and/or organizations involved in the prevention and/or protection and rehabilitation of victims of such offences.
+
+6. Nothing in the present article shall be construed to be prejudicial to or inconsistent with the rights of the accused to a fair and impartial trial.
+
+Article 9
+
+1. States Parties shall adopt or strengthen, implement and disseminate laws, administrative measures, social policies and programmes to prevent the offences referred to in the present Protocol. Particular attention shall be given to protect children who are especially vulnerable to such practices.
+
+2. States Parties shall promote awareness in the public at large, including children, through information by all appropriate means, education and training, about the preventive measures and harmful effects of the offences referred to in the present Protocol. In fulfilling their obligations under this article, States Parties shall encourage the participation of the community and, in particular, children and child victims, in such information and education and training programmes, including at the international level.
+
+3. States Parties shall take all feasible measures with the aim of ensuring all appropriate assistance to victims of such offences, including their full social reintegration and their full physical and psychological recovery.
+
+4. States Parties shall ensure that all child victims of the offences described in the present Protocol have access to adequate procedures to seek, without discrimination, compensation for damages from those legally responsible.
+
+5. States Parties shall take appropriate measures aimed at effectively prohibiting the production and dissemination of material advertising the offences described in the present Protocol.
+
+Article 10
+
+1. States Parties shall take all necessary steps to strengthen international cooperation by multilateral, regional and bilateral arrangements for the prevention, detection, investigation, prosecution and punishment of those responsible for acts involving the sale of children, child prostitution, child pornography and child sex tourism. States Parties shall also promote international cooperation and coordination between their authorities, national and international non-governmental organizations and international organizations.
+
+2. States Parties shall promote international cooperation to assist child victims in their physical and psychological recovery, social reintegration and repatriation.
+
+3. States Parties shall promote the strengthening of international cooperation in order to address the root causes, such as poverty and underdevelopment, contributing to the vulnerability of children to the sale of children, child prostitution, child pornography and child sex tourism.
+
+4. States Parties in a position to do so shall provide financial, technical or other assistance through existing multilateral, regional, bilateral or other programmes.
+
+Article 11
+
+Nothing in the present Protocol shall affect any provisions that are more conducive to the realization of the rights of the child and that may be contained in:
+
+(a) The law of a State Party;
+
+(b) International law in force for that State.
+
+Article 12
+
+1. Each State Party shall, within two years following the entry into force of the present Protocol for that State Party, submit a report to the Committee on the Rights of the Child providing comprehensive information on the measures it has taken to implement the provisions of the Protocol.
+
+2. Following the submission of the comprehensive report, each State Party shall include in the reports they submit to the Committee on the Rights of the Child, in accordance with article 44 of the Convention, any further information with respect to the implementation of the present Protocol. Other States Parties to the Protocol shall submit a report every five years.
+
+3. The Committee on the Rights of the Child may request from States Parties further information relevant to the implementation of the present Protocol.
+
+Article 13
+
+1. The present Protocol is open for signature by any State that is a party to the Convention or has signed it.
+
+2. The present Protocol is subject to ratification and is open to accession by any State that is a party to the Convention or has signed it. Instruments of ratification or accession shall be deposited with the Secretary- General of the United Nations.
+
+Article 14
+
+1. The present Protocol shall enter into force three months after the deposit of the tenth instrument of ratification or accession.
+
+2. For each State ratifying the present Protocol or acceding to it after its entry into force, the Protocol shall enter into force one month after the date of the deposit of its own instrument of ratification or accession.
+
+Article 15
+
+1. Any State Party may denounce the present Protocol at any time by written notification to the Secretary- General of the United Nations, who shall thereafter inform the other States Parties to the Convention and all States that have signed the Convention. The denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
+
+2. Such a denunciation shall not have the effect of releasing the State Party from its obligations under the present Protocol in regard to any offence that occurs prior to the date on which the denunciation becomes effective. Nor shall such a denunciation prejudice in any way the continued consideration of any matter that is already under consideration by the Committee on the Rights of the Child prior to the date on which the denunciation becomes effective.
+
+Article 16
+
+1. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+
+2. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly and accepted by a two-thirds majority of States Parties.
+
+3. When an amendment enters into force, it shall be binding on those States Parties that have accepted it, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments they have accepted.
+
+Article 17
+
+1. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+
+2. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States Parties to the Convention and all States that have signed the Convention.
+
+Države pogodbenice tega protokola
+
+menijo, da bi bilo za nadaljnje doseganje ciljev Konvencije o otrokovih pravicah in izvajanje njenih določb, še posebej 1., 11., 21., 32., 33., 34., 35. in 36. člena, primerno razširiti ukrepe, ki bi jih morale države pogodbenice sprejeti, da bi zajamčile varstvo otroka pred prodajo otrok, otroško prostitucijo in otroško pornografijo,
+
+menijo tudi, da Konvencija o otrokovih pravicah priznava pravico otroka, da je zavarovan pred ekonomskim izkoriščanjem in opravljanjem vsakršnega dela, ki bi lahko ogrožalo ali oviralo otrokovo izobraževanje oziroma bi lahko škodilo otrokovemu zdravju ali telesnemu, duševnemu, duhovnemu, moralnemu ali družbenemu razvoju,
+
+so resno zaskrbljene zaradi opaznega in naraščajočega mednarodnega prometa z otroki, namenjenega prodaji otrok, otroški prostituciji in otroški pornografiji,
+
+so globoko zaskrbljene zaradi razširjenosti in nenehnega spolnega turizma, za katerega so otroci posebej ranljivi, saj neposredno pospešuje prodajo otrok, otroško prostitucijo in otroško pornografijo,
+
+priznavajo, da je pri več posebej ranljivih skupinah, med katerimi so tudi deklice, večja nevarnost spolnega izkoriščanja in da so deklice nesorazmerno zastopane med spolno izkoriščanimi,
+
+so zaskrbljene zaradi naraščajoče dostopnosti otroške pornografije na internetu in drugih razvijajočih se tehnologijah in se sklicujejo na Mednarodno konferenco o boju proti otroški pornografiji na internetu (Dunaj, 1999) in še posebej na njen sklep, ki poziva, da se proizvodnja, distribucija, izvoz, prenašanje, uvoz, posest z določenim namenom in oglaševanje otroške pornografije določijo kot kazniva dejanja, in poudarja pomen tesnejšega sodelovanja in partnerstva med vladami in ponudniki internetnih storitev,
+
+so prepričane, da bo odprava prodaje otrok, otroške prostitucije in otroške pornografije lažja z uporabo celostnega pristopa, ki bo obravnaval dejavnike, ki k temu prispevajo in med katerimi so: nerazvitost, revščina, gospodarska neskladja, nepravične družbeno-ekonomske strukture, družine, ki ne opravljajo svoje vloge, pomanjkanje vzgoje in izobraževanja, preseljevanje s podeželja v mesta, spolno razlikovanje, neodgovorno spolno vedenje odraslih, škodljivi tradicionalni običaji, oboroženi spopadi in nedovoljeno trgovanje z otroki,
+
+prepričane, da se je treba truditi za dvig ozaveščenosti javnosti, da bi zmanjšali porabniško povpraševanje po prodaji otrok, otroški prostituciji in otroški pornografiji, in so prav tako prepričane o pomenu krepitve svetovnega partnerstva med vsemi dejavniki in izboljšanja izvajanja zakonov na ravni držav,
+
+upoštevajo določbe mednarodnopravnih aktov v zvezi z varstvom otrok, vključno s Haaško konvencijo o varstvu otrok in sodelovanju pri meddržavnih posvojitvah, Haaško konvencijo o civilnopravnih vidikih mednarodne ugrabitve otrok, Haaško konvencijo o pristojnosti, veljavni zakonodaji, priznanju, izvrševanju in sodelovanju v zvezi z odgovornostjo staršev in ukrepih za varstvo otrok ter Konvencijo Mednarodne organizacije dela št. 182 o prepovedi najhujših oblik dela otrok in takojšnjem ukrepanju za njihovo odpravo,
+
+spodbujene z veliko podporo Konvenciji o otrokovih pravicah, ki kaže na široko razširjeno zavezanost uveljavljanju in varstvu otrokovih pravic,
+
+priznavajo pomembnost Programa ukrepanja za preprečevanje prodaje otrok, otroške prostitucije in otroške pornografije ter Deklaracije in načrta dela v zvezi z ukrepanjem, sprejetih na Svetovnem kongresu proti komercialnemu spolnemu izkoriščanju otrok, ki je potekal v Stockholmu od 27. do 31. avgusta 1996, in drugih ustreznih sklepov in priporočil pristojnih mednarodnih teles,
+
+ustrezno upoštevajo pomen, ki ga imajo tradicija in kulturne vrednote vsakega naroda za varstvo in skladen razvoj otroka,
+
+zato so se sporazumele:
