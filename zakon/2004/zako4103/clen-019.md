@@ -1,0 +1,11 @@
+# 19. člen
+26. člen se spremeni tako, da se glasi:
+"26. člen
+Z globo od 300.000 tolarjev do 1,000.000 tolarjev se kaznuje za prekršek pravna oseba ali samostojni podjetnik posameznik:
+1. če v Republiki Sloveniji uporablja merske enote, ki niso predpisane s tem zakonom oziroma predpisi, izdanimi na podlagi tega zakona (6. člen);
+2. če ne ravna v skladu z odločbo, ki jo je izdala pooblaščena uradna oseba Urada (prvi, drugi in tretji odstavek 19. člena).
+Z globo od 1,000.000 tolarjev do 5,000.000 tolarjev se kaznuje za prekršek pravna oseba ali samostojni podjetnik posameznik:
+1. če da v promet in uporabo merila, ki ne izpolnjujejo zahtev tega zakona ter meroslovnih in tehničnih zahtev predpisov, ki jih minister, pristojen za meroslovje, izda na podlagi tega zakona, in za katera njihova skladnost ni bila ugotovljena po predpisanih načinih in postopkih ugotavljanja skladnosti oziroma niso označena oziroma zanje ni bila izdana listina o skladnosti z meroslovnimi predpisi (prvi, drugi in tretji odstavek 9. člena);
+2. če izvaja postopke ugotavljanja skladnosti, redne ali izredne overitve meril oziroma, če s svojimi oglaševalskimi sporočili imetnike meril oziroma kupce storitev zavaja, da lahko izvaja postopke ugotavljanja skladnosti, redne ali izredne overitve meril čeprav za te storitve ni imenovan (10. in 14. člen), če z listino o umerjanju (kalibraciji) namesto z redno overitvijo potrjuje, da merilo izpolnjuje predpisane meroslovne zahteve (tretji odstavek 11. člena) ali če za označitev meril uporablja namesto oznak iz 13. člena tega zakona, oznake, ki bi se zaradi njihove oblike oziroma izgleda lahko z njimi zamenjale.
+Z globo od 100.000 tolarjev do 300.000 tolarjev se kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojni podjetnik posameznik ali odgovorna oseba v državnem organu ali v samoupravni lokalni skupnosti, ki stori prekršek iz prvega odstavka tega člena.
+Z globo od 200.000 tolarjev do 500.000 tolarjev se kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojni podjetnik posameznik ali odgovorna oseba v državnem organu ali v samoupravni lokalni skupnosti, ki stori prekršek iz drugega odstavka tega člena.".
