@@ -1,0 +1,4 @@
+# 2. člen
+Vlada v skladu z ustavo, z zakoni in z drugimi splošnimi akti Državnega zbora določa, usmerja in usklajuje izvajanje politike države. V ta namen izdaja predpise in sprejema druge pravne, politične, ekonomske, finančne, organizacijske in druge ukrepe, ki so potrebni za zagotovitev razvoja države in za urejenost razmer na vseh področjih iz pristojnosti države.
+Vlada predlaga Državnemu zboru v sprejem zakone, državni proračun, nacionalne programe in druge splošne akte, s katerimi se določajo načelne in dolgoročne politične usmeritve za posamezna področja iz pristojnosti države.
+S proračunskim memorandumom predstavi vlada Državnemu zboru temeljne cilje in naloge ekonomske, socialne in proračunske politike vlade ter globalne okvire celotnih javnih financ za naslednje leto. Proračunski memorandum vsebuje tudi globalne cilje politike javnih financ za naslednja leta kot izhodišče za sestavo predloga državnega proračuna.
