@@ -1,0 +1,183 @@
+Razglašam Zakon o ratifikaciji Izbirnega protokola h Konvenciji o otrokovih pravicah glede udeležbe otrok v oboroženih spopadih (MIPKOPO), ki ga je sprejel Državni zbor Republike Slovenije na seji 15. julija 2004.
+
+Št. 001-22-181/04
+
+Ljubljana, dne 23. julija 2004
+
+dr. Janez Drnovšek l. r. Predsednik Republike Slovenije
+
+The States Parties to the present Protocol,
+
+Encouraged by the overwhelming support for the Convention on the Rights of the Child, demonstrating the widespread commitment that exists to strive for the promotion and protection of the rights of the child,
+
+Reaffirming that the rights of children require special protection, and calling for continuous improvement of the situation of children without distinction, as well as for their development and education in conditions of peace and security,
+
+Disturbed by the harmful and widespread impact of armed conflict on children and the long-term consequences it has for durable peace, security and development,
+
+Condemning the targeting of children in situations of armed conflict and direct attacks on objects protected under international law, including places that generally have a significant presence of children, such as schools and hospitals,
+
+Noting the adoption of the Rome Statute of the International Criminal Court, in particular, the inclusion therein as a war crime, of conscripting or enlisting children under the age of 15 years or using them to participate actively in hostilities in both international and non-international armed conflicts,
+
+Considering therefore that to strengthen further the implementation of rights recognized in the Convention on the Rights of the Child there is a need to increase the protection of children from involvement in armed conflict,
+
+Noting that article 1 of the Convention on the Rights of the Child specifies that, for the purposes of that Convention, a child means every human being below the age of 18 years unless, under the law applicable to the child, majority is attained earlier,
+
+Convinced that an optional protocol to the Convention that raises the age of possible recruitment of persons into armed forces and their participation in hostilities will contribute effectively to the implementation of the principle that the best interests of the child are to be a primary consideration in all actions concerning children,
+
+Noting that the twenty-sixth International Conference of the Red Cross and Red Crescent in December 1995 recommended, inter alia, that parties to conflict take every feasible step to ensure that children below the age of 18 years do not take part in hostilities,
+
+Welcoming the unanimous adoption, in June 1999, of International Labour Organization Convention No. 182 on the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour, which prohibits, inter alia, forced or compulsory recruitment of children for use in armed conflict,
+
+Condemning with the gravest concern the recruitment, training and use within and across national borders of children in hostilities by armed groups distinct from the armed forces of a State, and recognizing the responsibility of those who recruit, train and use children in this regard,
+
+Recalling the obligation of each party to an armed conflict to abide by the provisions of international humanitarian law,
+
+Stressing that the present Protocol is without prejudice to the purposes and principles contained in the Charter of the United Nations, including Article 51, and relevant norms of humanitarian law,
+
+Bearing in mind that conditions of peace and security based on full respect of the purposes and principles contained in the Charter and observance of applicable human rights instruments are indispensable for the full protection of children, in particular during armed conflicts and foreign occupation,
+
+Recognizing the special needs of those children who are particularly vulnerable to recruitment or use in hostilities contrary to the present Protocol owing to their economic or social status or gender,
+
+Mindful of the necessity of taking into consideration the economic, social and political root causes of the involvement of children in armed conflicts,
+
+Convinced of the need to strengthen international cooperation in the implementation of the present Protocol, as well as the physical and psychosocial rehabilitation and social reintegration of children who are victims of armed conflict,
+
+Encouraging the participation of the community and, in particular, children and child victims in the dissemination of informational and educational programmes concerning the implementation of the Protocol,
+
+Have agreed as follows:
+
+Article 1
+
+States Parties shall take all feasible measures to ensure that members of their armed forces who have not attained the age of 18 years do not take a direct part in hostilities.
+
+Article 2
+
+States Parties shall ensure that persons who have not attained the age of 18 years are not compulsorily recruited into their armed forces.
+
+Article 3
+
+1. States Parties shall raise the minimum age for the voluntary recruitment of persons into their national armed forces from that set out in article 38, paragraph 3, of the Convention on the Rights of the Child, taking account of the principles contained in that article and recognizing that under the Convention persons under the age of 18 years are entitled to special protection.
+
+2. Each State Party shall deposit a binding declaration upon ratification of or accession to the present Protocol that sets forth the minimum age at which it will permit voluntary recruitment into its national armed forces and a description of the safeguards it has adopted to ensure that such recruitment is not forced or coerced.
+
+3. States Parties that permit voluntary recruitment into their national armed forces under the age of 18 years shall maintain safeguards to ensure, as a minimum, that:
+
+(a) Such recruitment is genuinely voluntary;
+
+(b) Such recruitment is carried out with the informed consent of the person's parents or legal guardians;
+
+(c) Such persons are fully informed of the duties involved in such military service;
+
+(d) Such persons provide reliable proof of age prior to acceptance into national military service.
+
+4. Each State Party may strengthen its declaration at any time by notification to that effect addressed to the Secretary-General of the United Nations, who shall inform all States Parties. Such notification shall take effect on the date on which it is received by the Secretary-General.
+
+5. The requirement to raise the age in paragraph 1 of the present article does not apply to schools operated by or under the control of the armed forces of the States Parties, in keeping with articles 28 and 29 of the Convention on the Rights of the Child.
+
+Article 4
+
+1. Armed groups that are distinct from the armed forces of a State should not, under any circumstances, recruit or use in hostilities persons under the age of 18 years.
+
+2. States Parties shall take all feasible measures to prevent such recruitment and use, including the adoption of legal measures necessary to prohibit and criminalize such practices.
+
+3. The application of the present article shall not affect the legal status of any party to an armed conflict.
+
+Article 5
+
+Nothing in the present Protocol shall be construed as precluding provisions in the law of a State Party or in international instruments and international humanitarian law that are more conducive to the realization of the rights of the child.
+
+Article 6
+
+1. Each State Party shall take all necessary legal, administrative and other measures to ensure the effective implementation and enforcement of the provisions of the present Protocol within its jurisdiction.
+
+2. States Parties undertake to make the principles and provisions of the present Protocol widely known and promoted by appropriate means, to adults and children alike.
+
+3. States Parties shall take all feasible measures to ensure that persons within their jurisdiction recruited or used in hostilities contrary to the present Protocol are demobilized or otherwise released from service. States Parties shall, when necessary, accord to such persons all appropriate assistance for their physical and psychological recovery and their social reintegration.
+
+Article 7
+
+1. States Parties shall cooperate in the implementation of the present Protocol, including in the prevention of any activity contrary thereto and in the rehabilitation and social reintegration of persons who are victims of acts contrary thereto, including through technical cooperation and financial assistance. Such assistance and cooperation will be undertaken in consultation with the States Parties concerned and the relevant international organizations.
+
+2. States Parties in a position to do so shall provide such assistance through existing multilateral, bilateral or other programmes or, inter alia, through a voluntary fund established in accordance with the rules of the General Assembly.
+
+Article 8
+
+1. Each State Party shall, within two years following the entry into force of the present Protocol for that State Party, submit a report to the Committee on the Rights of the Child providing comprehensive information on the measures it has taken to implement the provisions of the Protocol, including the measures taken to implement the provisions on participation and recruitment.
+
+2. Following the submission of the comprehensive report, each State Party shall include in the reports it submits to the Committee on the Rights of the Child, in accordance with article 44 of the Convention, any further information with respect to the implementation of the Protocol. Other States Parties to the Protocol shall submit a report every five years.
+
+3. The Committee on the Rights of the Child may request from States Parties further information relevant to the implementation of the present Protocol.
+
+Article 9
+
+1. The present Protocol is open for signature by any State that is a party to the Convention or has signed it.
+
+2. The present Protocol is subject to ratification and is open to accession by any State. Instruments of ratification or accession shall be deposited with the Secretary-General of the United Nations.
+
+3. The Secretary-General, in his capacity as depositary of the Convention and the Protocol, shall inform all States Parties to the Convention and all States that have signed the Convention of each instrument of declaration pursuant to article 3.
+
+Article 10
+
+1. The present Protocol shall enter into force three months after the deposit of the tenth instrument of ratification or accession.
+
+2. For each State ratifying the present Protocol or acceding to it after its entry into force, the Protocol shall enter into force one month after the date of the deposit of its own instrument of ratification or accession.
+
+Article 11
+
+1. Any State Party may denounce the present Protocol at any time by written notification to the Secretary- General of the United Nations, who shall thereafter inform the other States Parties to the Convention and all States that have signed the Convention. The denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General. If, however, on the expiry of that year the denouncing State Party is engaged in armed conflict, the denunciation shall not take effect before the end of the armed conflict.
+
+2. Such a denunciation shall not have the effect of releasing the State Party from its obligations under the present Protocol in regard to any act that occurs prior to the date on which the denunciation becomes effective. Nor shall such a denunciation prejudice in any way the continued consideration of any matter that is already under consideration by the Committee on the Rights of the Child prior to the date on which the denunciation becomes effective.
+
+Article 12
+
+1. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+
+2. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly and accepted by a two-thirds majority of States Parties.
+
+3. When an amendment enters into force, it shall be binding on those States Parties that have accepted it, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments they have accepted.
+
+Article 13
+
+1. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+
+2. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States Parties to the Convention and all States that have signed the Convention.
+
+Države pogodbenice tega protokola,
+
+spodbujene z veliko podporo Konvenciji o otrokovih pravicah, ki kaže na široko razširjeno zavezanost prizadevanjem za uveljavljanje in varstvo otrokovih pravic,
+
+ponovno potrjujejo, da pravice otrok zahtevajo posebno varstvo in stalno izboljševanje položaja otrok brez razlikovanja kot tudi njihov razvoj ter vzgojo in izobraževanje v miru in varnosti,
+
+so vznemirjene zaradi škodljivega in široko razširjenega vpliva oboroženih spopadov na otroke in njihove dolgoročne posledice za trajen mir, varnost in razvoj,
+
+obsojajo izbiranje otrok za cilje v oboroženih spopadih in neposredne napade na objekte, ki so zavarovani z mednarodnim pravom, skupaj s kraji, v katerih se otroci na splošno veliko zadržujejo, kot so šole in bolnišnice,
+
+upoštevajo sprejetje Statuta Mednarodnega kazenskega sodišča in še posebej to, da je vanj vključeno kot vojni zločin vpisovanje v vojsko ali novačenje otrok, starih manj kot 15 let, oziroma njihova uporaba za aktivno udeležbo v sovražnostih v mednarodnih in nemednarodnih oboroženih spopadih,
+
+zato menijo, da je za krepitev nadaljnjega uresničevanja pravic, ki so priznane v Konvenciji o otrokovih pravicah, treba povečati varstvo otrok pred vključevanjem v oborožene spopade,
+
+upoštevajo, da 1. člen Konvencije o otrokovih pravicah določa, da otrok pomeni vsako človeško bitje, mlajše od osemnajst let, razen če zakon, ki se uporablja za otroka, določa, da se polnoletnost doseže že prej,
+
+so prepričane, da bo izbirni protokol h konvenciji, ki dviga starost za možno rekrutiranje oseb v oborožene sile in njihovo udeležbo v sovražnostih, učinkovito prispeval k uresničevanju načela, da morajo biti otrokove koristi glavno vodilo pri vseh ukrepih v zvezi z otroki,
+
+upoštevajo, da je šestindvajseta mednarodna konferenca Rdečega križa in Rdečega polmeseca decembra 1995 med drugim priporočila, da morajo v spopad vpletene strani sprejeti vse možne ukrepe, da zagotovijo, da otroci, mlajši od 18 let, ne sodelujejo v sovražnostih,
+
+pozdravljajo soglasni sprejem Konvencije Mednarodne organizacije dela št. 182 junija 1999 o prepovedi najhujših oblik dela otrok in takojšnjem ukrepanju za njihovo odpravo, ki med drugim prepoveduje prisilno ali obvezno rekrutiranje otrok za oborožene spopade,
+
+resno zaskrbljene obsojajo, da oborožene skupine, ki niso oborožene sile države, rekrutirajo, usposabljajo in uporabljajo otroke v sovražnostih znotraj in zunaj državnih meja, in priznavajo odgovornost tistih, ki za to rekrutirajo, usposabljajo in uporabljajo otroke,
+
+se sklicujejo na obveznost vsake strani v oboroženem spopadu, da se ravna po določbah mednarodnega humanitarnega prava,
+
+poudarjajo, da ta protokol ne posega v cilje in načela Ustanovne listine Združenih narodov, vključno z njenim 51. členom, in tudi ne v ustrezne norme humanitarnega prava,
+
+se zavedajo, da so mir in varnost, ki temeljita na popolnem spoštovanju ciljev in načel Ustanovne listine, ter spoštovanje ustreznih aktov o človekovih pravicah nepogrešljivi za celovito varstvo otrok, še zlasti med oboroženimi spopadi in tujo zasedbo,
+
+priznavajo posebne potrebe tistih otrok, ki so posebej občutljivi za rekrutiranje ali uporabo v sovražnostih, ki je v nasprotju s tem protokolom, zaradi svojega ekonomskega ali socialnega položaja ali spola,
+
+se zavedajo, da je treba upoštevati temeljne ekonomske, socialne in politične vzroke za vključevanje otrok v oborožene spopade,
+
+so prepričane, da je treba okrepiti mednarodno sodelovanje pri izvajanju tega protokola ter telesno in psihosocialno rehabilitacijo ter socialno reintegracijo otrok, ki so žrtve oboroženih spopadov,
+
+spodbujajo sodelovanje skupnosti in še posebej otrok in otrok žrtev pri širjenju informativnih in vzgojno-izobraževalnih programov v zvezi z izvajanjem tega protokola,
+
+zato so se sporazumele:
