@@ -1,0 +1,5 @@
+# 6. člen
+
+Pogodbenice si po generalnem sekretarju Sveta Evrope pošljejo seznam organov, pooblaščenih za izdajo certifikatov, določenih v 4. členu tega sporazuma.
+
+Prav tako pošljejo seznam organov, pooblaščenih za distribucijo uvoženih zdravilnih učinkovin človeškega izvora.
