@@ -24,4 +24,5 @@ Republiški inšpektorat za požarno varnost daje poprejšnja soglasja k lokacij
 - objekte, v katerih delajo in prebivajo osebe, ki prestajajo kazen ali vzgojno poboljševalni ukrep,
 - objekte s stabilnimi gasilnimi napravami in z napravami za javljanje požara.
 Občinske oziroma medobčinske inšpekcije dajejo poprejšnja soglasja k lokacijskim, gradbenim in uporabnim dovoljenjem za objekte, ki niso našteti v prejšnjem odstavku tega člena.
-Zoper odločbo, s katero se da ali zavrne soglasje iz prejšnjih dveh odstavkov tega člena, je dopustna pritožba.
+Poprejšnje soglasje po določbah prejšnjih odstavkov ni potrebno k lokacijskemu dovoljenju za gradnjo posameznih objektov po zazidalnih načrtih stanovanjskih naselij, če zazidalni načrti vsebujejo vse predpisane elemente in pogoje, ki zadevajo požarno varnost (viri za preskrbo z vodo za gašenje, prometne poti in dostop gasilskih vozil do objektov, ustrezni medsebojni odmiki objektov, način gradnje in podobno).
+Določbe prejšnjega odstavka se ne uporabljajo na proizvodne objekte, ki v svojem tehnološkem procesu uporabljajo vnetljive ali eksplozivne snovi.
