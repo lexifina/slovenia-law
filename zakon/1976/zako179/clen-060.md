@@ -1,0 +1,2 @@
+# 60. člen
+Če je za gašenje požara in reševanje potrebna pomoč gasilskih enot iz sosednje države, lahko zaprosi za tako pomoč predsednik izvršnega sveta občinske skupščine ali druga uradna oseba, ki jo pooblasti občinska skupščina, kadar je pomoč potrebna v občini, ki je ob državni meji. Za pomoč tujih gasilskih enot v občinah, ki niso ob državni meji, zaprosi republiški sekretar za notranje zadeve.

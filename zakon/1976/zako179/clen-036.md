@@ -1,0 +1,3 @@
+## IV. SAMOUPRAVNE INTERESNE SKUPNOSTI ZA VARSTVO PRED POŽAROM
+# 36. člen
+V samoupravne interesne skupnosti za varstvo pred požarom se s samoupravnim sporazumom na podlagi tega zakona združujejo delavci in delovni ljudje v temeljnih in drugih organizacijah združenega dela in drugih samoupravnih organizacijah ter v krajevnih in drugih skupnostih ter delovni ljudje, ki delajo s sredstvi v lasti občanov skupaj z delavci in člani gasilskih organizacij z namenom, da uresničijo svoje in družbene interese ter potrebe po varstvu pred požarom in drugimi naravnimi nesrečami in da pospešijo razvoj združbene samozaščite na tem področju.

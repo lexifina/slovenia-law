@@ -1,0 +1,2 @@
+# 66. člen
+Gasilski enoti, ki na poziv za pomoč sodeluje pri gašenju požara oziroma pri reševanju ljudi in premoženja zunaj območja svoje občine, mora skupnost za varstvo pred požarom občine, na območju katere je bilo potrebno gasiti oziroma reševati, povrniti dejansko škodo, ki jo ima zaradi takega sodelovanja na svoji tehnični opremi in vozilih, ter dejanske stroške za uporabljena gasilna in druga sredstva.
