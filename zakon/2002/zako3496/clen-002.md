@@ -1,0 +1,16 @@
+# 2. člen
+DARS d.d. lahko najame kredit iz prejšnjega člena pod naslednjimi pogoji:
+- rok črpanja kredita je do 15. decembra 2007;
+- valuta črpanja je evro ali valute držav članic EIB, ki niso udeležene v tretji fazi EMU ali katerakoli valuta, s katero se trguje na glavnih mednarodnih denarnih trgih;
+- odplačilo kredita v 40 polletnih obrokih (15. 6. in 15. 12. vsako leto), začenši z 15. decembrom 2007 in plačilom zadnjega obroka glavnice 15. decembra 2027;
+- petletni moratorij na odplačilo glavnice;
+- valuta odplačila glavnice je enaka valuti črpanja posamezne tranše;
+- višino obrestne mere določi EIB iz Luxemburga glede na izbrano valuto in vrsto izbrane obrestne mere črpanja, in sicer je lahko izbrana obrestna mera spremenljiva (variabilna), stalna (fiksna) ali popravljiva (t.j. fiksna obrestna mera, ki se v času odplačevanja kredita večkrat spremeni oziroma prilagodi);
+- kreditojemalec se za vrsto obrestne mere odloča ob vsaki črpani tranši posebej;
+- obresti s spremenljivo obrestno mero so plačljive četrtletno (vsakega 15. 3., 15. 6., 15. 9., 15. 2.), s stalno in popravljivo obrestno mero polletno (vsakega 15. 6. in 15. 12.);
+- plačilo obresti se izvrši v istih valutah kot plačilo glavnice;
+- zamudne obresti se izračunajo na podlagi formule, in sicer se uporabi višja obrestne mera, in sicer od (i) vsote pogodbenih obresti za posamezno tranšo in marže v višini 0,25 odstotnih točk letno in (ii) obrestne mere za enomesečne medbančne depozite na trgu medbančnih posojil povečane za 2 odstotni točki; zamudne obresti se obračunajo na že zapadli in še neodplačani znesek kredita od v pogodbi določenega dneva zapadlosti do dneva dejanskega plačila dolgovanega zneska kredita;
+- če kreditojemalec v soglasju z EIB po že danem zahtevku za črpanje le-tega delno ali v celoti spremeni, je dolžan plačati EIB nadomestilo, ki znaša 1% letno, obračunano za obdobje od v zahtevku določenega datuma predvidenega črpanja do dejanskega datuma črpanja;
+- če je kredit razveljavljen zaradi predčasnega odplačila v primeru neizpolnjevanja obveznosti s strani kreditojemalca, je kreditojemalec dolžan plačati nadomestilo od razveljavljenega zneska obroka, za katerega je že bilo izdano obvestilo o izplačilu s strani EIB, v višini 0,75% letno od odpovedanega zneska, obračunano za obdobje od datuma, navedenega v obvestilu o izplačilu, do datuma razveljavitve;
+- nadomestilo za nepravočasno razveljavitev odobrenega črpanja dela kredita se določi v pavšalnem znesku, ki je enak polovici obrestne mere, ki bi sicer veljala za ta del kredita;
+- razpise za material in dela, ki se financirajo s sredstvi kredita EIB, je kreditojemalec dolžan razpisati na podlagi odprtih mednarodnih razpisov in pod enakimi pogoji za udeležence iz vseh držav v skladu s postopki Evropske unije.

@@ -1,0 +1,2 @@
+# 1. člen
+Državni zbor Republike Slovenije daje soglasje Družbi za avtoceste v Republiki Sloveniji d.d. (v nadaljevanju: DARS d.d.) za najetje kredita pri Evropski investicijski banki (v nadaljevanju: EIB) v znesku 120 mio evrov glavnice s pripadajočimi obrestmi in drugimi stroški kredita za graditev avtocestnih odsekov Bič-Trebnje-Hrastje (etapa: Bič-Korenitka), Kronovo-Smednik, Šentvid-Koseze in Smednik-Krška vas.
