@@ -1,0 +1,3 @@
+# 19. člen
+Do uveljavitve novega zakona o delovnih razmerjih imajo delavci iz 16. člena zakona pravico do odpravnine v višini in pod pogoji, kot jo imajo delavci, ki jim je delovno razmerje prenehalo zaradi nujnih operativnih razlogov po zakonu o delovnih razmerjih (Uradni list RS, št. 14/90, 5/91, 29/92 - odločba US, 71/93, 2/94 - popr. in 12/99 - odločba US).
+Delavci iz prejšnjega odstavka uveljavljajo pravico do odpravnine v postopku in na način, ki ga določajo predpisi o prisilni poravnavi, stečaju in likvidaciji, sklad pa izplačuje odpravnino v višini, določeni s tretjo alineo drugega odstavka 19. člena zakona.
