@@ -1,0 +1,2 @@
+# 7. člen
+Agencija Republike Slovenije za sanacijo bank in hranilnic po tem zakonu odpiše v breme svoje bilance prihodkov in odhodkov obveznosti TAM Maribor, d.d. in njegovih odvisnih družb, ki so, oziroma bodo prenešene po pogodbi, sklenjeni z Novo Kreditno banko Maribor, d.d. Maribor, po stanju na dan 31. 3. 1993 v višini 1.186,000.000 tolarjev. Odpis že zapadlih terjatev učinkuje z dnem sprejetja tega zakona, odpis terjatev, ki še niso zapadle, pa z dnem njihove zapadlosti.
