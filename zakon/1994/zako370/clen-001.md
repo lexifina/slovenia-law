@@ -1,2 +1,2 @@
 # 1. člen
-Ta zakon ureja način obračunavanja in plačevanja določenih davkov in prispevkov v postopkih lastninskega preoblikovanja podjetij.
+Ta zakon ureja način obračunavanja in plačevanja določenih davkov in prispevkov v postopkih lastninskega preoblikovanja podjetij, na podlagi zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 55/92, 7/93 in 31/93), zakona o privatizaciji pravnih oseb v lasti Sklada Republike Slovenije za razvoj in obveznostih Agencije Republike Slovenije za prestrukturiranje in privatizacijo (Uradni list RS, št. 71/94) in drugih lastninskih zakonov.
