@@ -1,0 +1,4 @@
+# 18. člen
+Prvi odstavek 24. člena se spremeni tako, da se glasi:
+"(1) Carinik in inšpektor lahko zahtevata od osebe, ki je po veljavni zakonodaji dolžna dati podatke ali izpolniti določeno obveznost, da jima v določenem roku in na določenem kraju predloži katerokoli knjigovodsko listino, pogodbo, poslovno korespondenco, evidenco, kakšen drug dokument za potrebe carinske in trošarinske kontrole, inšpekcijskega nadzora ter carinske preiskave. Navedena oseba je dolžna na zahtevo carinika ali inšpektorja posredovati tudi podatke o osebi, pooblaščeni za opravljanje poslov, pri opravljanju katerih naj bi bila storjena kršitev predpisov. Carinik in inšpektor lahko predložene dokumente pregledujeta in tudi reproducirata.".
+Na koncu tretjega odstavka se doda nov stavek, ki se glasi: "Enako lahko postopata, kadar obstajajo razlogi za sum, da se poslovne knjige in predpisane evidence vodijo na elektronskem mediju.".

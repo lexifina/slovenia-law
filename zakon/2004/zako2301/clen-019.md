@@ -1,0 +1,2 @@
+# 19. člen
+V prvem odstavku 25. člena se besedi "Inšpektor ima" nadomestita z besedilom "Inšpektor in carinik imata", besedi "inšpekcijskih pregledov" pa nadomestita z besedama "carinske preiskave". Na koncu odstavka se dodata nova stavka, ki se glasita: "Rok iz prejšnjega stavka se pri izvajanju ukrepa carinske preiskave v obsežnih in dolgotrajnih primerih lahko podaljša na do skupno 90 dni. Podaljšanje roka odredi oseba, ki je odredila carinsko preiskavo.".
