@@ -1,0 +1,3 @@
+# 17. člen PRENEHANJE
+
+Vsaka pogodbenica lahko kadar koli obvesti drugo pogodbenico o svoji odločitvi, da odpove ta sporazum. Tako sporočilo je treba hkrati poslati tudi Mednarodni organizaciji civilnega letalstva. V tem primeru sporazum preneha veljati ob koncu prvega obdobja veljavnosti voznega reda Mednarodnega združenja letalskih prevoznikov (IATA), ki velja dvanajst mesecev, potem ko druga pogodbenica prejme obvestilo, razen če le-to ni sporazumno umaknjeno pred potekom tega roka. Če druga pogodbenica ne potrdi prejema obvestila o odpovedi, se šteje, da ga je prejela štirinajst (14) dni potem, ko ga je prejela Mednarodna organizacija civilnega letalstva.
