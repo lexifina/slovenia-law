@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o ravnanju z gensko spremenjenimi organizmi (Uradni list RS, št. 67/02) se v 1. členu za besedo "zakon" doda naslednje besedilo "v skladu z Direktivo Sveta 98/81/ES z dne 26. oktobra 1998 o spremembi Direktive 90/219/EGS o uporabi gensko spremenjenih mikroorganizmov v zaprtih sistemih (UL L št. 330, 5. 12. 1998, z vsemi spremembami; v nadaljnjem besedilu: Direktiva Sveta 98/81/ES) in Direktivo 2001/18/ES Evropskega parlamenta in Sveta z dne 12. marca 2001 o namernem sproščanju gensko spremenjenih organizmov v okolje in razveljavitvi Direktive Sveta 90/220/EGS (UL L št. 106, 17. 4. 2001, z vsemi spremembami; v nadaljnjem besedilu: Direktiva 2001/18/ES)".
+Drugi odstavek se črta.

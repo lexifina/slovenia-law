@@ -1,0 +1,5 @@
+# 31.b člen (mnenje o prijavi v drugi državi članici)
+(1) Če ministrstvo prejme od pristojnega organa EU povzetek prijave za namerno sproščanje GSO v okolje v drugi državi članici, ga mora nemudoma posredovati ministrstvu, pristojnemu za kmetijstvo, gozdarstvo in prehrano, in odboru za sproščanje GSO, v mnenje.
+(2) Če ministrstvo presodi, da je to potrebno zaradi priprave pripomb, lahko od pristojnega organa države članice zahteva, da mu pošlje celotno prijavo iz prejšnjega odstavka, ki jo nemudoma posreduje ministrstvu, pristojnemu za kmetijstvo, gozdarstvo in prehrano, in odboru za sproščanje GSO.
+(3) Odbor za sproščanje GSO mora svoje mnenje posredovati ministrstvu v 21 dneh od dne, ko mu je to posredovalo kopijo povzetka prijave, sicer se šteje, da na prijavo pripomb nima.
+(4) Če ministrstvo v sodelovanju z ministrstvom, pristojnim za kmetijstvo, gozdarstvo in prehrano, po proučitvi povzetka prijave ali celotne prijave in po pridobitvi mnenja odbora za sproščanje GSO oceni, da bo posredovalo pripombe k prijavi, jih v 30 dneh od prejema povzetka prijave pošlje neposredno državi članici ali pristojnemu organu EU.
