@@ -1,0 +1,4 @@
+# 11.b člen
+(1) Uporaba ukrepov iz prejšnjega člena mora biti sorazmerna zakonitemu cilju njihove uporabe. Pri izvedbi ukrepov se nikogar ne sme mučiti ali z njim nečloveško ali ponižujoče ravnati.
+(2) Varnostnik sme ukrepati samo tako, kot je določeno s tem zakonom, da z najmanjšimi škodljivimi posledicami doseže izvršitev naloge. Če je glede na okoliščine dopustno uporabiti več ukrepov, je dolžan uporabiti najprej tistega, ki osebi najmanj škoduje. Z uporabo ukrepa mora varnostnik prenehati takoj, ko prenehajo razlogi, zaradi katerih je bil uporabljen, ali če ugotovi, da naloge tako ne bo mogel opraviti.
+(3) Omejitev gibanja osebi s preprečitvijo izstopa (četrta alinea drugega odstavka 11.a člena) ali z zadržanjem osebe do prihoda policije (šesta alinea drugega odstavka 11.a člena) ne sme trajati več kot dve uri.

@@ -1,2 +1,2 @@
 # 35. člen
-Pogoji za delovanje sindikata se določijo s pogodbo, ki jo podpišeta direktor agencije in sindikalni zaupnik.
+Pogoji za delovanje sindikata se lahko določijo s pogodbo, ki jo skleneta direktor agencije in sindikalni zaupnik.

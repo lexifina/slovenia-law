@@ -1,3 +1,3 @@
 ## 7. DISCIPLINSKA IN ODŠKODNINSKA ODGOVORNOST
 # 41. člen
-V disciplinskih in odškodninskih zadevah zoper delavce agencije veljajo predpisi za delavce v državnih organih, če s tem zakonom ni določeno drugače.
+V disciplinskih in odškodninskih zadevah zoper uslužbence agencije veljajo določbe zakona, ki velja za javne uslužbence.

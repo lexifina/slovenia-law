@@ -1,0 +1,5 @@
+# 11.d člen
+(1) Varnostnik, ki osebi omeji gibanje (četrta in šesta alinea drugega odstavka 11.a člena), uporabi sredstva za vklepanje (sedma alinea drugega odstavka 11.a člena), fizično silo (osma alinea drugega odstavka 11.a člena) ali strelno orožje (drugi odstavek prejšnjega člena), je dolžan o tem takoj obvestiti policijsko postajo, na območju katere so bili ukrepi oziroma strelno orožje uporabljeni, in svojega neposrednega predstojnika.
+(2) Če je oseba pri uporabi ukrepov oziroma strelnega orožja iz prejšnjega odstavka telesno poškodovana, tako da potrebuje medicinsko pomoč, je varnostnik dolžan poskrbeti, da jo čim prej dobi, in o tem takoj obvestiti policijsko postajo.
+(3) Agencija je dolžna najkasneje v 24 urah od uporabe ukrepov iz prvega odstavka tega člena o tem pisno obvestiti policijsko postajo, na območju katere so bili ukrepi uporabljeni.
+(4) Pisno obvestilo iz prejšnjega odstavka mora vsebovati tudi podatke iz tretjega, četrtega in petega odstavka 18.a člena tega zakona.

@@ -1,2 +1,3 @@
 # 32. člen
-Zaradi nemotenega opravljanja nalog agencije in na podlagi sporazuma med direktorjem agencije in predstojnikom drugega državnega organa je lahko uradna oseba agencije začasno razporejena v drug državni organ.
+(1) Uradna oseba agencije je zaradi nemotenega opravljanja nalog agencije lahko začasno premeščena na delo v diplomatsko-konzularno ali drugo predstavništvo pravne osebe iz Republike Slovenije v tujini ali v organ mednarodne organizacije.
+(2) Podrobnosti, ki se nanašajo na naloge uradne osebe ter na pravice in obveznosti iz delovnega razmerja, se uredijo s sporazumom med direktorjem agencije in predstojnikom državnega organa, pristojnega za zunanje zadeve, predstojnikom drugega predstavništva pravne osebe iz Republike Slovenije v tujini ali po postopku, predvidenem za imenovanje predstavnikov Republike Slovenije v mednarodnih organizacijah in z aneksom k pogodbi o zaposlitvi.
