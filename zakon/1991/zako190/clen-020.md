@@ -1,3 +1,1 @@
-# 20. člen (delno prenehal veljati)
-Pripadnik oboroženih sil, narodne zaščite, enote za zveze, civilne zaščite oziroma službe za opazovanje in obveščanje ali član operativnega sestava reševalnih enot društev in drugih organizacij državljanov, ki v času službe ali v zvezi z opravljanjem službe ter nalog obrambe in zaščite, povzroči namenoma ali iz velike malomarnosti materialno škodo občini, republiki oziroma drugim pravnim ali fizičnim osebam, odgovarja po predpisih o materialni odgovornosti delavcev državnih organov.
-Državljani in pravne osebe imajo pravico do povračila dejanske škode, ki so jo utrpele zaradi vaj obrambe in zaščite.
+# 20. člen (prenehal veljati)

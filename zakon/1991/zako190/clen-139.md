@@ -1,3 +1,1 @@
-# 139. člen
-Občine zagotavljajo sredstva za programe obrambe in zaščite tako kot za druge potrebe javne porabe.
-Občine zagotavljajo sredstva tudi za priprave krajevnih skupnosti, za izvajanje programov organizacij rezervnih vojaških starešin oziroma za izvajanje programov društev in drugih organizacij državljanov, ki so jim dale pooblastilo za opravljanje zaščite in reševanja. Občine zagotavljajo sredstva tudi podjetjem, zavodom in drugim organizacijam za izvajanje nalog obrambe in zaščite, ki so jih določili pristojni občinski organi, pa bistveno presegajo možnosti redne dejavnosti teh organizacij.
+# 139. člen (prenehal veljati)

@@ -1,3 +1,1 @@
-# 63. člen
-Predstojnik republiškega upravnega organa, pristojnega za obrambne zadeve, izda za civilne osebe, ki opravljajo dolžnosti vojaških starešin ter druge pripadnike teritorialne obrambe, natančnejše predpise o uniformi, nošenju strelnega orožja, za ocenjevanje njihove usposobljenosti za ustrezno dolžnost, o postopku za pošiljanje predlogov za napredovanje rezervnih vojaških starešin ter za izdajanje službene izkaznice.
-Poveljnik Teritorialne obrambe Republike Slovenije ureja pristojnost starešin v teritorialni obrambi za odločanje o napredovanju, za izrekanje pohval ter varstvenih in disciplinskih ukrepov, določenih s predpisi o službi v oboroženih silah.
+# 63. člen (prenehal veljati)

@@ -1,3 +1,1 @@
-# 62. člen
-Vojaški obvezniki v rezervnem sestavu imajo v času službe v teritorialni obrambi vse pravice do zdravstvenega varstva ter posebne pravice v zvezi z obolenjem, poškodbo ali smrtjo kot jih imajo vojaški obvezniki, razporejeni v vojni sestav Jugoslovanske ljudske armade.
-Odločbe v zadevah iz prejšnjega odstavka izdaja na prvi stopnji predstojnik organizacijske enote republiškega upravnega organa, pristojnega za obrambne zadeve, v pokrajini za osebe iz območnih in pokrajinskega štaba ter njim neposredno podrejenih enot. Odločbe na drugi stopnji in odločbe na prvi stopnji za osebe iz sestave Republiškega štaba za teritorialno obrambo in njemu neposredno podrejenih enot, izdaja predstojnik republiškega upravnega organa, pristojnega za obrambne zadeve.
+# 62. člen (prenehal veljati)

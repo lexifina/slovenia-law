@@ -1,5 +1,1 @@
-# 128. člen (delno prenehal veljati)
-Usposabljanje pripadnikov in enot za zveze, pripadnikov, enot in štabov za civilno zaščito, službe za opazovanje in obveščanje ter delavcev, ki opravljajo strokovna dela na obrambnem in zaščitnem področju, se izvaja po programih, ki jih predpisuje predstojnik republiškega upravnega organa, pristojnega za obrambne zadeve.
-Vojaško strokovno usposabljanje rezervnih vojaških starešin se izvaja po programih, ki jih določa republiška organizacija rezervnih vojaških starešin v soglasju z republiškim upravnim organom, pristojnim za obrambne zadeve.
-Pogoje in način usposabljanja teritorialne obrambe urejajo predpisi o izvajanju vojaške dolžnosti.
-Državljani so k usposabljanju po tem členu ter k usposabljanju za delovanje v narodni zaščiti klicani s pozivi, ki jih izdaja upravni organ, pristojen za obrambne zadeve, na zahtevo organizatorja usposabljanja. Organizatorji usposabljanja za programe, ki se izvajajo v republiškem centru za obrambno usposabljanje, so občine, razen če se ne izvaja usposabljanje za naloge iz republiške pristojnosti.
+# 128. člen (prenehal veljati)

@@ -1,4 +1,1 @@
-# 34. člen
-Predsedstvo Republike Slovenije lahko določi območja pokrajin za organiziranje in vodenje obrambe na ozemlju republike. Pokrajina obsega območja več občin, ki so med seboj geografsko, urbano ali kako drugače povezane in v obrambnem smislu predstavljajo zaključen del ozemlja republike. Občine na območju posamezne pokrajine morajo medsebojno usklajevati obrambne priprave, ki so skupnega pomena za vodenje obrambe.
-Teritorialno obrambo, upravne zveze ter druge obrambne priprave organizira republiški upravni organ, pristojen za obrambne zadeve, tako, da omogočajo uspešno izvajanje nalog Predsedstva Republike Slovenije na območju vseh pokrajin in v vseh vojnih razmerah.
-Predsedstvo Republike Slovenije lahko v neposredni vojni nevarnosti in v vojni z uredbo z zakonsko močjo ustanovi pokrajinske odbore in določi, da opravljajo posamezne zadeve iz pristojnosti republike.
+# 34. člen (prenehal veljati)

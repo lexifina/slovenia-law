@@ -1,5 +1,1 @@
-# 78. člen
-Izvršni svet Skupščine Republike Slovenije določa na predlog republiškega upravnega organa, pristojnega za obrambne zadeve, območja, na katerih se iz obrambnih razlogov omeji prosto gibanje, prebivanje ali nastanjevanje prebivalstva in tujcev.
-Predstojnik republiškega upravnega organa, pristojnega za obrambne zadeve, določa objekte in okoliše objektov, ki so posebnega pomena za obrambo na območju republike, obvezne ukrepe za njihovo varovanje in daje soglasje za opravljanje snemanja, meritev in raziskav zemljišč ter gradenj v teh okoliših. Predstojnik tega organa daje tudi soglasje za meritve, raziskave in gradnje na območjih iz prejšnjega odstavka.
-Predstojnik republiškega upravnega organa iz prejšnjega odstavka določa splošne in posebne ukrepe za varovanje del v upravnih organih, pristojnih za obrambne zadeve, ter v štabih za teritorialno obrambo, ki so posebnega pomena za obrambo.
-Med izvajanjem vaj lahko predstojnik republiškega upravnega organa, pristojnega za obrambne zadeve, v soglasju s predstojnikom republiškega upravnega organa za notranje zadeve, omeji gibanje prebivalstva na območju, kjer se izvajajo vaje.
+# 78. člen (prenehal veljati)

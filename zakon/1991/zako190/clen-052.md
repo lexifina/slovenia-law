@@ -1,5 +1,1 @@
-# 52. člen
-Poveljnika Teritorialne obrambe Republike Slovenije in načelnika Republiškega štaba za teritorialno obrambo imenuje in razrešuje Predsedstvo Republike Slovenije na predlog predstojnika republiškega upravnega organa, pristojnega za obrambne zadeve. Poveljnik je Predsedstvu Republike Slovenije odgovoren za bojno pripravljenost, uporabo ter za vodenje in poveljevanje Teritorialni obrambi Republike Slovenije.
-Za opravljanje določenih zadev vodenja teritorialne obrambe, ki jih je na predstojnika republiškega upravnega organa, pristojnega za obrambne zadeve, preneslo Predsedstvo Republike Slovenije, je poveljnik Teritorialne obrambe Republike Slovenije odgovoren tudi predstojniku tega organa.
-V neposredni vojni nevarnosti in v vojni je poveljnik Teritorialne obrambe Republike Slovenije odgovoren za uporabo in poveljevanje Teritorialni obrambi Republike Slovenije tudi Predsedstvu SFRJ.
-Poveljnika Teritorialne obrambe Republike Slovenije v odsotnosti nadomešča načelnik Republiškega štaba za teritorialno obrambo.
+# 52. člen (prenehal veljati)

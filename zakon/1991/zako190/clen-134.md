@@ -1,5 +1,1 @@
-# 134. člen
-Delavec, ki dela v državnem organu na delih obrambe in zaščite oziroma v teritorialni obrambi, je po odločitvi predstojnika ali poveljnika dolžan opravljati delo v posebnih delovnih pogojih. Posebni delovni pogoji so delo ob nedeljah in praznikih, delo v deljenem delovnem času, delo, daljše od polnega delovnega časa, dežurstvo kot redna oblika dela, dežurstvo, ki se odreja izjemoma, biti v pripravljenosti za delo ter izrabiti ali prekiniti dopust v skladu s potrebami službe. Posebni delovni pogoji se določijo s sistemizacijo delovnih mest oziroma s formacijo.
-Med dežurstvom mora biti delavec prisoten na delovnem mestu in opravljati naloge, če je to potrebno. Med pripravljenostjo mora biti delavec vsak čas dosegljiv, da ga je mogoče poklicati na delo. Če delavec med dežurstvom ali pripravljenostjo dela, se čas tega dela šteje kot delo v podaljšanem delovnem času.
-Delo v posebnih pogojih se odredi, kadar to terjajo obrambne razmere ali potrebe zaščite in reševanja oziroma kadar je le tako mogoče opraviti določene naloge, ki jih ni mogoče odlagati ali pa morajo biti opravljene v določenem roku.
-V primeru, ko delovni čas delavca presega delovno obveznost v okviru 182-urnega delovnega meseca oziroma 42-urnega delovnega tedna, se razlika šteje kot delo preko polnega delovnega časa.
+# 134. člen (prenehal veljati)
