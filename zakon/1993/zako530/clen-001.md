@@ -1,0 +1,2 @@
+# 1. člen
+Sredstva zbrana na podlagi zakona o oblikovanju sredstev solidarnosti za odpravljanje posledic naravnih nesreč (Uradni list SRS, št. 3/75, 8/78, 33/80. 16/84 in Uradni list RS, št. 8/90) v višini 700,000.000 tolarjev se uporabijo za delno odpravo posledic suše, ki je v letu 1993 prizadela Republiko Slovenijo.
