@@ -1,0 +1,3 @@
+# 3. člen Priprava naročil z zaupnimi podatki
+
+Če ena od pogodbenic namerava dati naročilo z zaupnimi podatki izvajalcu z ozemlja druge pogodbenice oziroma za to pooblasti izvajalca na svojem ozemlju, si mora od pristojnega organa druge pogodbenice pred tem priskrbeti zagotovilo, da je predlagani izvajalec varnostno preverjen do ustrezne stopnje zaupnosti in da ima primerne varnostne ukrepe za zagotovitev ustreznega varovanja zaupnih podatkov. To zagotovilo vsebuje tudi obvezo, da je postopek, po katerem preverjeni izvajalec varuje zaupnost, v skladu z notranjedržavnimi določbami o varovanju zaupnosti in da ga nadzira vlada.
