@@ -3,7 +3,6 @@ Pri inšpekcijskem nadzoru imajo zdravstveni inšpektorji poleg pooblastil po sp
 - jemljejo vzorce kozmetičnih proizvodov ali serije kozmetičnih proizvodov in jih dajo v analizo pooblaščenim laboratorijem za ugotavljanje njihove skladnosti z zahtevami glede sestave;
 - odredijo, da se v roku, ki ga določijo, odpravijo ugotovljene nepravilnosti;
 - zahtevajo in pregledajo podatke o kozmetičnem proizvodu;
-- (črtana);
 - zahtevajo, da se kozmetični proizvod opremi z ustreznimi opozorili;
 - prepovedo nedovoljeno oglaševanje kozmetičnih proizvodov;
 - odredijo, da se na stroške dobavitelja oziroma osebe, ki opravlja promet odstrani ali uniči material, uporabljen za nedovoljeno oglaševanje;

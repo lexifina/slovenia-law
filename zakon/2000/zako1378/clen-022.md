@@ -4,7 +4,7 @@ Z globo od 200.000 do 10,000.000 tolarjev, se kaznuje za prekršek pravna oseba 
 1. daje v promet kozmetični proizvod, ki ni v skladu s 4. členom tega zakona;
 2. nima zagotovljene ocene ustreznosti oziroma ocena ustreznosti kozmetičnega proizvoda ni izdelana v skladu s predpisanimi zahtevami (6. člen) ali za izdelavo ocene ustreznosti izvaja preskuse, ki niso v skladu z dobro laboratorijsko prakso (7. člen);
 3. oseba za izdelavo ocene varnosti ne izpolnjuje predpisanih pogojev (6. člen);
-4. daje v promet kozmetične proizvode v nasprotju z prvim odstavkom 7. člena oziroma izvaja preskušanje kozmetičnih proizvodov ali njihovih prototipov na živalih v nasprotju z drugim ali petim odstavkom 7. člena ali ne sporoči podatkov o izvedenih preskusih na živalih v nasprotju s tretjim odstavkom 7. člena;
+4. daje v promet kozmetične proizvode v nasprotju s prvim odstavkom 7. člena oziroma izvaja preskušanje kozmetičnih proizvodov ali njihovih prototipov na živalih v nasprotju z drugim ali petim odstavkom 7. člena ali ne sporoči podatkov o izvedenih preskusih na živalih v nasprotju s tretjim odstavkom 7. člena;
 5. ne zagotovi, da proizvodnja poteka v skladu z načeli dobre proizvodne prakse (9. člen);
 6. proizvaja ali uvaža kozmetični proizvod v nasprotju z 9. členom tega zakona;
 7. daje v promet kozmetične proizvode, ki so v nasprotju z 10. in 11. členom tega zakona;

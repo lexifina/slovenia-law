@@ -13,4 +13,4 @@ Izrazi, uporabljeni v tem zakonu, imajo naslednji pomen:
 7. Pooblaščeni laboratorij je laboratorij, ki ga imenuje minister, pristojen za zdravje (v nadaljnjem besedilu: minister) izmed laboratorijev, ki so akreditirani ali pri katerih je ugotovljena usposobljenost za izvajanje preiskave, ki jo zahteva zakon.
 8. Kozmetična sestavina je katerakoli kemijska snov ali pripravek sintetičnega ali naravnega izvora, ki se uporablja v sestavi kozmetičnih proizvodov, vključno z dišavami in aromatičnimi snovmi.
 9. Uvoz je carinski postopek sprostitve blaga v prost promet.
-V zakonu uporabljeni izrazi, zapisani v moški slovnični obliki, se uporabljajo kot nevtralni za ženski in moški spol.
+V tem zakonu uporabljeni izrazi, zapisani v moški slovnični obliki, se uporabljajo kot nevtralni za ženski in moški spol.
