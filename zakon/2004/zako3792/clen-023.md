@@ -1,0 +1,8 @@
+# 23. člen
+Z dnem uveljavitve tega zakona se:
+- v prvem in drugem odstavku 28. člena zakon o proizvodnji in prometu s prepovedanimi drogami (Uradni list RS, št. 108/99 in 44/2000) besedi "zdravstveni inšpektorat" nadomestita z besedilom "organ, pristojen za zdravila in medicinske pripomočke oziroma organ, pristojen za kemikalije, v tretjem odstavku beseda "zdravstveni" nadomesti z besedo "pristojni";
+- v prvem odstavku 53. člena zakona o prevozu nevarnega blaga (Uradni list RS, št. 79/99) besedilo "Zdravstveni inšpektorat Republike Slovenije" nadomesti z besedilom "organ, pristojen za varstvo ljudi pred ionizirajočimi sevanji";
+- v prvem odstavku 47. člena zakona o preskrbi s krvjo (Uradni list RS, št. 52/2000) besedilo "Zdravstveni inšpektorat Republike Slovenije" nadomesti z besedilom "organ, pristojen za zdravila in medicinske pripomočke", v drugem odstavku beseda "zdravstveni" nadomesti z besedo "pristojni";
+- v 174. členu zakona o vodah (Uradni list RS, št. 67/2002) besedilo "na vodovarstvenih območjih pa tudi inšpektorji, pristojni za zdravje" nadomesti z besedilom "na notranjem območju vodovarstvenega območja neposredno ob zajetju pa zdravstveni inšpektorji.";
+- v prvem odstavku 53. člena zakona o fitofarmacevtskih sredstvih (Uradni list RS, št. 11/2001) besedi "zdravstveni inšpektor" nadomestita z besedilom "inšpektor, pristojen za kemikalije", v naslovu 56. člena besedi "zdravstvenega inšpektorja" nadomestita z besedilom "inšpektorja, pristojnega za kemikalije", v prvem odstavku 56. člena besedi "zdravstveni inšpektor" nadomestita z besedilom "inšpektor, pristojen za kemikalije".;
+- v 1. točki prvega odstavka 13. člena zakona o kemičnem orožju (Uradni list RS, št. 36/99) črta beseda "Zdravstveni".
