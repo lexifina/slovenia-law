@@ -1,0 +1,5 @@
+# 2. člen
+Za prvim odstavkom 1. člena se doda novi drugi odstavek, ki se glasi:
+"Republika Slovenija daje poroštvo za obveznosti Sklada za regionalni razvoj in ohranjanje slovenskega podeželja (v nadaljnjem besedilu: kreditojemalec) za dodaten znesek kredita, ki ga kreditojemalec najame pri Razvojni banki Sveta Evrope v višini EUR 2 mio (v tolarski protivrednosti 418,330.000 tolarjev, preračunano po tečaju na dan odobritve kredita 21. 9. 2000, ki se v času trajanja kredita spreminja), za financiranje srednjih in malih podjetij (turizem, trgovina, lokalna industrija) z namenom pridobitve novih delovnih mest v Posočju, pod enakimi pogoji, kot so navedeni v prvem odstavku tega člena."
+Dosedanji drugi odstavek 1. člena postane tretji odstavek in se spremeni tako, da se glasi:
+"Skladno s prvim in drugim odstavkom tega člena bo Republika Slovenija v primeru, da kreditojemalca ne bosta poravnala svojih dospelih obveznosti iz naslova kreditov, na poziv kreditodajalca plačala te obveznosti namesto kreditojemalcev."
