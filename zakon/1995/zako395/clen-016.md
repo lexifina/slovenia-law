@@ -1,0 +1,4 @@
+# 16. člen (uporaba podatkov za druge namene)
+(1) Podatki iz 7. člena tega zakona o enotah poslovnega registra iz 4. člena tega zakona so javni in pod enakimi pogoji dostopni vsem uporabnikom. Podatki poslovnega registra se lahko uporabljajo za evidenčne, statistične in analitične namene.
+(2) Stroške priprave in posredovanja podatkov iz prejšnjega odstavka krije uporabnik, ki podatke zahteva, razen registrskih organov iz prvega odstavka 8. člena tega zakona. Vlada na predlog upravljalca registra s tarifo določi nadomestila za stroške priprave in posredovanje podatkov iz poslovnega registra.
+(3) Uporabniki podatkov poslovnega registra smejo uporabljati podatke samo za namene, za katere so jim bili podatki posredovani. Uporabniki ne smejo spreminjati dobljenih podatkov in jih posredovati drugim uporabnikom.

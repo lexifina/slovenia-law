@@ -1,0 +1,3 @@
+# 11. člen (razvrščanje po dejavnostih)
+(1) Upravljalec registra razvršča vse enote poslovnega registra po dejavnostih v področja, podpodročja, oddelke, skupine, razrede in podrazrede standardne klasifikacije dejavnosti. O razvrstitvi izda obvestilo o identifikaciji in razvrstitvi po dejavnostih (v nadaljnjem besedilu: obvestilo) in ga posreduje registrskemu organu, če se enota registrira, in enoti poslovnega registra, ki je subjekt razvrščanja.
+(2) Razvrščanje po dejavnostih je strokovni postopek, s katerim se enotam poslovnega registra na podlagi kriterijev določa ustrezna šifra in ime razreda ali podrazreda iz standardne klasifikacije dejavnosti.
