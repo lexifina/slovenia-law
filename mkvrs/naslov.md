@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI KONVENCIJE O VARSTVU RASTLIN (SPREMENJENE) (MKVRS)
+
+Z A K O N
+
+O RATIFIKACIJI KONVENCIJE O VARSTVU RASTLIN (spremenjene) (MKVRS)
+
+INTERNATIONAL PLANT PROTECTION CONVENTION
+
+(New Revised Text approved by the FAO Conference at its 29th Session – November 1997)
+
+MEDNARODNA KONVENCIJA O VARSTVU RASTLIN
+
+(Novo, popravljeno besedilo, potrjeno na 29. zasedanju konference FAO – november 1997)
