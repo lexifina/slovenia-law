@@ -1,0 +1,3 @@
+# 3. člen
+
+Imetniki diplomatskih in službenih potnih listov, ki so poslani na delo na diplomatska predstavništva, konzulate in mednarodne organizacije na ozemlju druge države, lahko vstopijo na njeno ozemlje in tam ostanejo brez vizumov za čas, ko opravljajo svojo nalogo. Državo sprejemnico mora o njihovem bivanju obvestiti ministrstvo za zunanje zadeve države, ki jih pošilja na diplomatsko predstavništvo v državi sprejemnici, 15 dni pred njihovo napotitvijo na delo. Pravice, ki izhajajo iz načel, določenih v tem členu, se bodo nanašale tudi na družinske člane pod pogojem, da imajo diplomatski ali službeni potni list.
