@@ -1,0 +1,3 @@
+# 102. člen (odločba o razlastitvi)
+(1) Upravni organ odloči o razlastitvi z odločbo po izvedenem ugotovitvenem postopku. Če se zahtevi ugodi ali delno ugodi, morajo biti v odločbi natančno navedene nepremičnine, ki se razlaščajo. Z odločbo se določijo tudi roki, v katerih je dolžan razlastitveni upravičenec pričeti z gradnjo objekta oziroma objektov, zaradi katerih je bila razlastitev predlagana. Upravni organ lahko v odločbi določi rok ali datum za prevzem razlaščene nepremičnine, če se o njem dogovorijo stranke postopka.
+(2) O pritožbi zoper odločbo iz prejšnjega odstavka odloča ministrstvo za prostor. Pritožbeni organ o razlastitvenih zadevah odloča prednostno.

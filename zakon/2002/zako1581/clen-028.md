@@ -1,0 +1,3 @@
+# 28. člen (prostorska konferenca)
+(1) Z namenom, da se pridobijo in uskladijo priporočila, usmeritve in legitimni interesi lokalne skupnosti, gospodarstva in interesnih združenj ter organizirane javnosti glede priprave prostorskega akta oziroma predvidene prostorske ureditve, se izvede prostorska konferenca (v nadaljnjem besedilu: konferenca). Zbor konference skliče in vodi pripravljavec najmanj osem dni pred sprejemom programa priprave in najmanj štirinajst dni pred javno razgrnitvijo prostorskega akta. Datum ter kraj in čas zbora konference pripravljavec objavi vsaj v dveh sredstvih javnega obveščanja.
+(2) Pripravljavec mora priporočila konference priložiti gradivu prostorskega akta, ki ga pošlje v sprejem.

@@ -1,0 +1,5 @@
+# 122. člen (elaborat obstoječega stanja)
+(1) Geodetsko podjetje po uvedbi komasacije oziroma po ureditvi mej izdela elaborat obstoječega stanja komasacijskega območja, ki vsebuje prikaz parcel, njihovih površin in vrednosti v skladu s 121. členom tega zakona. Glede površin parcel se upoštevajo podatki zemljiškega katastra.
+(2) Izdelava elaborata iz prejšnjega odstavka je geodetska storitev v skladu z zakonom, ki ureja geodetsko službo.
+(3) Elaborat iz prvega odstavka tega zakona se razgrne za najmanj 15 dni na sedežu občine. Sklep o razgrnitvi se objavi na krajevno običajen način. Če udeleženci v tem roku ne uveljavljajo ugovorov glede obstoječih mej parcel, ne morejo izpodbijati odločbe o komasaciji iz tega razloga. Udeleženec, ki ima ugovore glede parcelnih mej, kot so prikazane v elaboratu, lahko v času razgrnitve elaborata poda ugovor in vloži zahtevo za ureditev meje po zakonu, ki ureja zemljiški kataster. Če tega ne stori oziroma če kasneje umakne zahtevo ali predlog za ureditev meje pred sodiščem, se šteje, da ugovora ni uveljavljal.
+(4) V primeru iz prejšnjega odstavka se postopek komasacije prekine do pravnomočne ureditve mej.

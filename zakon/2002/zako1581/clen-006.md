@@ -1,0 +1,9 @@
+# 6. člen (gradnje zunaj poselitvenih območij)
+(1) Zunaj poselitvenih območij so dopustne gradnje objektov, če:
+1. neposredno služijo kmetijski oziroma gozdarski dejavnosti, upravljanju voda, športu in rekreaciji zunaj poselitvenih območij, pridobivanju mineralnih surovin in izkoriščanju drugih naravnih virov, kakor tudi objektov, ki služijo varnosti državljanov in njihovega premoženja, obrambi ter varstvu pred naravnimi in drugimi nesrečami;
+2. gre za prometne in energetske objekte gospodarske javne infrastrukture, objekte telekomunikacijskih omrežij in drugih zvez, kakor tudi, če gre za druge javne infrastrukturne in proizvodne objekte, ki zaradi tehničnih, tehnoloških, okoljskih in drugih značilnosti niso primerni v poselitvenih območjih;
+3. gre za rekonstrukcije, adaptacije in nadomestne gradnje zakonito zgrajenih objektov, pri čemer se lahko spreminja njihovo namembnost ali zmogljivost, če spremembe ne ovirajo dejavnosti iz prve točke;
+4. gre za funkcionalne zaokrožitve komunalno opremljenih območij ter dopolnilne gradnje objektov, ki pomenijo zaokrožitev in sanacijo posamičnih skupin objektov zunaj poselitvenih območij;
+5. gre za objekte, ki so namenjeni dopolnilni dejavnosti, ki se opravlja ob kmetijski dejavnosti ali je z njo v neposredni zvezi.
+(2) Na najboljših kmetijskih zemljiščih je gradnja objektov iz prejšnjega odstavka dopustna le, če ni mogoče uporabiti zemljišč, ki so manj primerna za kmetijsko pridelavo. V tem primeru se zemljišča za gradnjo objektov praviloma določijo na osnovi ovrednotenih variantnih predlogov glede na njihov funkcionalni, varstveni in ekonomski vidik ter glede na njihovo sprejemljivost v lokalnem okolju.
+(3) Merila in pogoji za gradnje objektov zunaj poselitvenih območij se določajo v prostorskem redu občine v skladu s prostorskim redom Slovenije.

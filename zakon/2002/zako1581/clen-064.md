@@ -1,0 +1,4 @@
+# 64. člen (namenska raba prostora)
+(1) Prostorski red občine določi za celotno območje občine območja osnovne namenske rabe prostora. Območja osnovne namenske rabe prostora se ob upoštevanju predpisov za posamezne dejavnosti oziroma področja določijo glede na fizične lastnosti prostora in predvideno namembnost določenega prostora. Različne vrste območij osnovne namenske rabe prostora se ne smejo prekrivati.
+(2) Območja osnovne namenske rabe prostora se lahko delijo na površine podrobnejše namenske rabe po načelih pretežnosti, združljivosti in dopolnjevanja posameznih dejavnosti, pri čemer mora biti podrobnejša namenska raba v okvirih osnovne namenske rabe. Površine podrobnejše namenske rabe vključujejo tudi površine namenjene javnemu dobru.
+(3) Območja osnovne namenske rabe oziroma površine podrobnejše namenske rabe prostora morajo biti v prostorskem redu občine prikazane tako natančno, da je njihove meje možno določiti v naravi in prikazati v zemljiškem katastru.

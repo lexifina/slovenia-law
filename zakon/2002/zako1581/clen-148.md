@@ -1,0 +1,2 @@
+# 148. člen (obveznosti nosilcev urejanja prostora)
+Nosilci urejanja prostora so dolžni med seboj izmenjavati podatke in ministrstvu za prostor oziroma organom v njegovi sestavi posredovati njihove akte in druge predpise s predpisanimi podatki, ki se nanašajo na urejanje prostora, v predpisani obliki, pri čemer mora biti zagotovljena sledljivost sprememb podatkov, ki se v zbirkah iz tega zakona medsebojno povezujejo.

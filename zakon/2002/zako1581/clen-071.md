@@ -1,0 +1,3 @@
+# 71. člen (objava in izvajanje strategije prostorskega razvoja oziroma prostorskega reda občine)
+(1) Odlok o strategiji prostorskega razvoja oziroma odlok o prostorskem redu občine, občina objavi skupaj z datumom in številko sklepa ministra za prostor o potrditvi.
+(2) Kolikor pri objavi iz prejšnjega odstavka manjkata datum in številka sklepa ministra o potrditvi, se strategija prostorskega razvoja oziroma prostorski red občine ne sme izvajati, razen v primerih iz četrtega odstavka 69. člena tega zakona. V tem primeru občinski svet sprejme ugotovitveni sklep, da je strategija prostorskega razvoja občine oziroma prostorski red občine potrjen in ga objavi hkrati z objavo odloka o strategiji prostorskega razvoja oziroma o prostorskem redu občine.

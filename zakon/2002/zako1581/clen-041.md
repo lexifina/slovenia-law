@@ -1,0 +1,4 @@
+# 41. člen (priprava)
+(1) Za pripravo strategije prostorskega razvoja oziroma prostorskega reda Slovenije se ne uporabljajo skupne določbe tega zakona o pripravi in sprejemu prostorskih aktov, razen 1. do 5. točke prvega odstavka in določbe tretjega odstavka 27. člena ter 28., 29. in 35. člena tega zakona.
+(2) Program priprave strategije prostorskega razvoja Slovenije sprejme vlada na predlog ministra za prostor, program priprave prostorskega reda Slovenije pa minister za prostor.
+(3) O predlogu strategije prostorskega razvoja oziroma prostorskega reda Slovenije ministrstvo za prostor skliče zbor konference iz 28. člena tega zakona, pri čemer zbora konference ni treba sklicati pred sprejemom programa priprave. Predlog strategije prostorskega razvoja oziroma prostorskega reda Slovenije načrtovalec dopolni na podlagi stališč do priporočil konference, ki jih zavzame minister za prostor.

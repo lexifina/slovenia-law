@@ -1,0 +1,5 @@
+# 104. člen (nujni postopek - izvršljivost pred pravnomočnostjo)
+(1) V primeru, da se razlastitev zahteva za namene iz prvega in drugega odstavka 93. člena tega zakona, ki terjajo hitro pridobitev nepremičnin, mora biti razlog izbire in potreba uporabe nujnega postopka dodatno obrazložen in utemeljen. Upravni organ odloča o zadevi prednostno, pritožba zoper to odločbo pa ne zadrži prenosa lastninske pravice in pridobitve posesti, razen če drugi zakon to določa drugače.
+(2) V primeru iz prejšnjega odstavka upravni organ odloči o odškodnini oziroma nadomestilu, če v okviru razlastitvenega postopka razlastitveni upravičenec in zavezanec skleneta sporazum o odškodnini oziroma nadomestilu, ali napoti stranki na sodišče za odmero odškodnine v nepravdnem postopku, v primeru spora o pravici do odškodnine pa stranke napoti na pravdo.
+(3) Glede vsebine in drugih značilnosti sporazuma iz prejšnjega odstavka se smiselno uporabljajo določbe 106. člena tega zakona.
+Odškodnina in nadomestna nepremičnina

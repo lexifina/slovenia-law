@@ -1,0 +1,4 @@
+# 60. člen (krajinska zasnova)
+(1) Namen krajinske zasnove je določiti strategijo prostorskega razvoja krajine ter uskladiti in podrobneje določiti načine prostorskega urejanja v krajini.
+(2) Krajinska zasnova določa zasnovo namenske rabe prostora, usmeritve za razvoj dejavnosti in njihovo prostorsko organizacijo ter usmeritve in pogoje za urejanje prostora. V krajinski zasnovi se prikažejo tudi površine, namenjene javnemu dobru.
+(3) Krajinska zasnova se pripravi za obstoječa oziroma predvidena širša zavarovana območja, lahko pa tudi za območja, v katerih so predvidene prostorske ureditve, ki bi lahko znatneje vplivale na krajino, kulturno dediščino, ohranjanje narave ali na trajnostno rabo naravnih dobrin ter za območja navzkrižnih interesov v zvezi z rabo prostora in za degradirana območja zunaj poselitvenih območij.

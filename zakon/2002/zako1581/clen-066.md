@@ -1,0 +1,4 @@
+# 66. člen (podrobnejša merila in pogoji za projektiranje)
+(1) Prostorski red občine lahko za posamezno ureditveno območje določi tudi podrobnejša merila in pogoje za pripravo projektov za pridobitev gradbenega dovoljenja. Poleg meril in pogojev iz prejšnjega člena se za tako območje določi tudi njegovo mejo ter regulacijske oziroma gradbene linije za umestitev objektov v prostor, lahko pa tudi gabarite objektov, merila za njihovo oblikovanje, funkcionalno in tehnično zasnovo objektov z ureditvijo njihove okolice ter ureditev komunalne infrastrukture s pogoji priključevanja nanjo.
+(2) Prostorski red občine se s podrobnejšimi merili iz prejšnjega odstavka lahko dopolni po skrajšanem postopku iz 34. člena tega zakona.
+Posebne določbe o pripravi in sprejemu strategije prostorskega razvoja občine in prostorskega reda občine

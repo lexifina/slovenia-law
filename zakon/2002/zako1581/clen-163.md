@@ -1,0 +1,3 @@
+# 163. člen (prekrški v zvezi z geodetskimi storitvami)
+(1) Z denarno kaznijo od 300.000 do 3,000.000 tolarjev se kaznuje pravna oseba oziroma samostojni podjetnik posameznik, ki po določbah predpisov o geodetski dejavnosti nastopa kot geodetsko podjetje, če izvaja parcelacijo v nasprotju s parcelacijskim načrtom ali v nasprotju z načrtom novih parcel iz pogodbene komasacije (131. člen tega zakona), kakor tudi, če izdela parcelacijski načrt v nasprotju s prostorskim redom občine.
+(2) Z denarno kaznijo od 90.000 do 500.000 tolarjev se za prekršek kaznuje tudi odgovorna oseba geodetskega podjetja, ki stori dejanje iz prejšnjega odstavka.

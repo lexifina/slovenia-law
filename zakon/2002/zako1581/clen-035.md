@@ -1,0 +1,3 @@
+# 35. člen (dostopnost podatkov o urejanju prostora v elektronski obliki)
+(1) Če pripravljavec zagotovi prost elektronski dostop do vseh potrebnih informacij o pripravi prostorskega akta ter elektronski naslov za komuniciranje z javnostjo, se gradiva v postopku priprave akta objavljajo tudi na elektronski strani pripravljavca. Če zainteresirana oseba želi, da se jo z odgovorom na njena mnenja in pripombe seznani pisno, mora to izrecno navesti.
+(2) Programa priprave prostorskega akta, obvestil o javnih razgrnitvah, javnih obravnavah in o prostorski konferenci ter o drugih rokih, pomembnih za sodelovanje javnosti v postopkih prostorskega načrtovanja, ni mogoče posredovati samo na elektronski način.

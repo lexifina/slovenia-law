@@ -1,0 +1,2 @@
+# 54. člen (javna razgrnitev regionalne zasnove prostorskega razvoja)
+Predlog regionalne zasnove prostorskega razvoja pripravljavec javno razgrne v vseh občinah z območja regionalne zasnove in na sedežu ministrstva za prostor, po tem, ko je predlog potrdil programski svet. O predlogu regionalne zasnove prostorskega razvoja pripravljavec organizira tudi javne obravnave v vseh občinah z območja regionalne zasnove. Pripombe in predloge na razgrnjeni predlog pošljejo občine programskemu svetu, ki do njih zavzame stališče.

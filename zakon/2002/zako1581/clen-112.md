@@ -1,0 +1,3 @@
+# 112. člen (vračanje nepremičnine)
+(1) O vrnitvi nepremičnine se lahko razlastitveni upravičenec in razlaščenec sporazumeta, pri čemer se glede obličnosti sporazuma uporabljajo določbe 106. člena tega zakona.
+(2) V primeru, da se razlaščenec in razlastitveni upravičenec ne sporazumeta o vrnitvi nepremičnine, odloča o tem upravni organ, ki v primeru, da zahtevi ugodi, odloči tudi o vrnitvi nadomestnih nepremičnin ali plačilu odškodnine z zakonitimi zamudnimi obrestmi. Če je vrednost prej navedenih nepremičnin sporna zaradi povečanja ali zmanjšanja vrednosti, upravni organ napoti stranki na sodišče, ki o plačilu in odmeri odškodnine odloča v nepravdnem postopku.

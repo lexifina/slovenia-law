@@ -1,0 +1,4 @@
+# 143. člen (komunalni prispevek)
+(1) Komunalni prispevek je plačilo dela stroškov opremljanja zemljišč z lokalno komunalno infrastrukturo, ki ga zavezanec za plačilo komunalnega prispevka plača občini.
+(2) Komunalni prispevek se določi na podlagi programa opremljanja glede na stopnjo opremljenosti zemljišč s komunalno infrastrukturo in drugo infrastrukturo ter glede na priključno moč in zmogljivost komunalne infrastrukture v poselitvenih območjih. S plačilom komunalnega prispevka občina jamči zavezancu, da mu je omogočen priključek na lokalno komunalno infrastrukturo oziroma, da bo ta v določenem roku in obsegu, kot to določa program opremljanja, zgrajena in bo nanjo lahko svoj objekt priključil.
+(3) Komunalni prispevek odmeri pristojni organ občinske uprave z odločbo. Zoper odločbo je dovoljena pritožba, o kateri odloča župan.

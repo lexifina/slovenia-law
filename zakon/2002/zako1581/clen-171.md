@@ -1,0 +1,5 @@
+# 171. člen (veljavnost občinskih prostorskih aktov)
+(1) Prostorske sestavine občinskega dolgoročnega plana za obdobje od leta 1986 do leta 2000 in prostorske sestavine srednjeročnega družbenega plana za obdobje od 1986 leta do leta 1990 (v nadaljnjem besedilu: prostorske sestavine) veljajo največ tri leta po uveljavitvi strategije prostorskega razvoja Slovenije.
+(2) Do uveljavitve strategije prostorskega razvoja Slovenije lahko občine pripravljajo in sprejemajo spremembe in dopolnitve prostorskih sestavin občine v skladu s prostorskim planom Slovenije.
+(3) Postopki o pripravi in sprejemu sprememb in dopolnitev prostorskih sestavin, začeti pred uveljavitvijo tega zakona, se nadaljujejo in končajo po določbah tega zakona, pri čemer se ne uporabljajo določbe o prostorski konferenci.
+(4) Občine pričnejo s pripravo strategije prostorskega razvoja občine po uveljavitvi strategije prostorskega razvoja Slovenije, s pripravo prostorskega reda občine pa po uveljavitvi prostorskega reda Slovenije v skladu s tem zakonom in ju morajo sprejeti najkasneje v 3 letih po sprejemu strategije prostorskega razvoja Slovenije.

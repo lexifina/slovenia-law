@@ -1,0 +1,3 @@
+# 59. člen (območje širitve naselja)
+(1) Območje širitve naselja so površine za načrtno usmerjanje poselitve. Namen določitve območja širitve naselja je zagotoviti prostor za načrtno širjenje naselja in s tem preprečevati njegov nesmotrn in neobvladljiv razvoj.
+(2) Za območja širitve naselja se določijo območja izven naselja, ki se jim lahko v skladu s temeljnimi cilji urejanja prostora in načeli usmerjanja poselitve spremeni namenska raba v poselitvena območja, če za potrebe poselitve v samem naselju ni več racionalnih možnosti. Območje širitve naselja se določa v skladu s pravili iz prostorskega reda Slovenije.

@@ -1,0 +1,2 @@
+# 25. člen (spis postopka)
+Spis postopka iz 6. točke prvega odstavka prejšnjega člena je uradna evidenca gradiv priprave in sprejemanja prostorskega akta in ga vodi pripravljavec. Vanj po časovnem vrstnem redu evidentira vse dokumente in gradiva, ki so pomembna s stališča zakonitosti vodenja postopka priprave in sprejemanja prostorskega akta, vključno z zahtevami in usmeritvami ter pripombami in predlogi, danimi v postopku njegove priprave in stališča pripravljavca do njih.
