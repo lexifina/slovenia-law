@@ -1,0 +1,7 @@
+# 6. člen
+
+Ustanovi se skupna komisija za kulturno dediščino z namenom, da nadzira dejavnosti v zvezi s seznami iz 2. in 5. člena in da opravlja vse druge naloge, ki jih ji poverita pogodbenici. Vsaka pogodbenica imenuje enega člana komisije, ki mu lahko pomagajo namestniki in svetovalci. Za odločitve komisije je potrebno soglasje obeh članov. Pogodbenici sodelujeta s komisijo tako, da ji zagotavljata dostop do predmetov kulturne dediščine in vse potrebne podatke za opravljanje njenih nalog.
+
+Vsaka pogodbenica lahko po svojem predstavniku v Skupni komisiji za kulturno dediščino (SKKD) iz prvega odstavka zahteva, če je to primerno, da se po postopkih Skupne komisije za kulturno dediščino izdelajo posebni dogovori za varovanje in ohranjanje kulturne dediščine druge pogodbenice za skupine, ki niso vključene v 1. člen, in sicer v primerih, ko je taka kulturna dediščina povezana s kulturno dediščino pogodbenice, ki to zahteva, v tujini in jo je treba iz kakršnega koli razloga zavarovati in ohraniti. Druga pogodbenica bo v skladu s svojimi zakoni in predpisi proučila ukrepe z namenom odziva na tako zahtevo.
+
+Izvršilni organ za izvajanje tega sporazuma na slovenski strani je Ministrstvo za kulturo Republike Slovenije – Uprava za varstvo kulturne dediščine. Izvršilni organ za izvajanje tega sporazuma na ameriški strani je Komisija za ohranjanje ameriške dediščine v tujini. Vsaka pogodbenica lahko z diplomatsko noto drugi pogodbenici spremeni svoj izvršilni organ.
