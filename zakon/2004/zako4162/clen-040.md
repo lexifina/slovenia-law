@@ -1,0 +1,3 @@
+# 40. člen (način izvajanja rudarskih del)
+Rudarska dela sme izvajalec opravljati le na podlagi dovoljenja za izvajanje del po 50. členu tega zakona.
+Pri izvajanju del iz prejšnjega odstavka mora izvajalec upoštevati predpise o tehničnih normativih (v nadaljnjem besedilu: tehnični predpisi), predpise o varnosti in zdravju pri delu ter varstvu okolja in druge predpise, če ni s tem zakonom in s predpisi, izdanimi na njegovi podlagi, drugače določeno, da je s tem pravočasno zagotovljena predpisana varnost ljudi in živali, prometa in sosednjih objektov ter varnost samega objekta in del, napeljav, opreme ter materiala.

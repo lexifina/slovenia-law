@@ -1,0 +1,14 @@
+# 91. člen (trajna in začasna prepoved)
+Inšpektor lahko z odločbo prepove izvajalcu izvajanje rudarskih del do odprave nepravilnosti, če pri inšpekcijskem nadzorstvu ugotovi:
+1. da izvajalec ni zagotovil brezhibnosti sredstev za delo in ustreznega delovnega okolja ter delovnega procesa, kakor je to določeno z odobreno projektno oziroma tehnično dokumentacijo po določbah tega zakona,
+2. da izvajalec pri izvajanju rudarskih del ne upošteva v celoti določb tega zakona, tehničnih predpisov, predpisov s področja varnosti in zdravja pri delu in drugih predpisov in splošnih aktov, ki veljajo za rudarska dela, oziroma rudarskih del ne izvaja v skladu z odobreno tehnično dokumentacijo,
+3. da zaradi sredstev za delo, delovnega postopka, delovnega okolja ali nezavarovanega območja, grozi nevarnost za poškodbe ali zdravstveno okvaro delavcem izvajalca ali, da ti delavci niso prejeli ustreznih navodil,
+4. da izvajalec ni upošteval odredb inšpektorja izrečenih z ustno odločbo,
+5. da izvajalec ali odgovorna oseba izvajalca onemogoči inšpekcijski pregled.
+Inšpektor mora z odločbo prepovedati izvajalcu izvajanje rudarskih del do odprave nepravilnosti, če pri inšpekcijskem nadzorstvu ugotovi:
+1. da izvajalec izvaja rudarska dela brez dovoljenja za izvajanje del ali, da se rudarska dela ne izvajajo po odobreni tehnični in projektni dokumentaciji ali se rudarska dela izvajajo v nasprotju s tehničnimi predpisi, predpisi s področja varnosti in zdravja pri delu in drugimi predpisi, ki veljajo za rudarska dela ter splošnimi akti izvajalca rudarskih del, kar lahko ogrozi življenje in zdravje ljudi, varnost prometa ter bližnjih objektov oziroma utegne nastati večja materialna škoda,
+2. da pri izvajalcu zaposleni delavci ne izpolnjujejo pogojev o strokovni usposobljenosti po določbah tega zakona,
+3. da izvajalec ali njegova odgovorna oseba huje ali kljub izrečeni odredbi inšpektorja ponovno krši določbe tehničnih predpisov, predpisov s področja varnosti in zdravja pri delu in drugih predpisov, ki veljajo za rudarska dela ter splošnih aktov izvajalca rudarskih del po tem zakonu,
+4. da izvajalec uporablja objekte ali naprave brez dovoljenja za uporabo, kar neposredno ogroža stabilnost in obstoj objekta ali naprave, varnost življenja in zdravja ljudi, prometa, sosednjih objektov in okolja ter predstavlja neposredno nevarnost za življenje ali zdravje delavcev izvajalca,
+5. da izvajalec pri izvajanju del posega izven prostora, določenega z dovoljenjem za raziskovanje oziroma izkoriščanje po tem zakonu.
+Inšpektor lahko z odločbo tudi trajno prepove izvajanje rudarskih del pravni oziroma fizični osebi, ki raziskuje ali izkorišča mineralne surovine izven odobrenega raziskovalnega oziroma pridobivalnega prostora, ali raziskuje ali izkorišča mineralne surovine brez podeljene rudarske pravice ali če je koncesijsko razmerje po določbah tega zakona prenehalo.

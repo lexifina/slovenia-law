@@ -1,0 +1,3 @@
+# 99. člen (združevanje v Inženirsko zbornico Slovenije in ustanovitev Matične sekcije)
+Zaradi zagotavljanja strokovnosti in varovanja javnega interesa na področju izvajanja rudarskih del ter varstva tretjih oseb, se inženirji, ki delajo na področju gradnje objektov z rudarskimi metodami dela, lahko združujejo v Inženirsko zbornico Slovenije (v nadaljnjem besedilu: zbornica).
+Za izvajanje določb statuta zbornice ter s ciljem enakopravnosti inženirjev vseh strok, združenih v zbornici, sprejme skupščina zbornice, najkasneje v šestih mesecih po uveljavitvi tega zakona, sklep, s katerim se za področje gradnje objektov z rudarskimi metodami dela ustanovi Matična sekcija inženirjev rudarske in geotehnološke stroke.

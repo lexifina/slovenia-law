@@ -1,0 +1,3 @@
+# 35. člen (javna korist)
+Javna korist po tem zakonu je izkazana, če je razlastitev lastnika zemljišča potrebna zaradi izkoriščanja mineralne surovine, ki je edini vir, ali je strateškega pomena za potrebe države, oziroma pretežnega dela prebivalcev na določenem območju, ali je potrebna za izvajanje javne koristi, določene z drugim zakonom in v primerni kakovosti ni zelo razširjena, pa je bila z raziskovanjem ugotovljena njena primerna kakovost in za gospodarsko izkoriščanje zadostna količina, in če je to območje določeno s prostorskim izvedbenim načrtom.
+Odločbo o ugotovitvi javne koristi iz prejšnjega odstavka izda vlada. Odločba se vroči imetniku zemljiškoknjižnih pravic.

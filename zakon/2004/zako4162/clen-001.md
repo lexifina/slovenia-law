@@ -1,0 +1,6 @@
+# 1. člen (vsebina in namen zakona)
+Ta zakon ureja raziskovanje, izkoriščanje in gospodarjenje z mineralnimi surovinami kot naravnim virom, ne glede na to ali so v zemlji ali na njeni površini v tekočih ali stoječih vodah ali pa v obalnem morju.
+Ne glede na določbe prejšnjega odstavka veljajo za raziskovanje in izkoriščanje mivke, peska in gramoza iz vodnih in priobalnih zemljišč določbe zakona, ki ureja vode.
+Zakon določa tudi ukrepe in pogoje za izvajanje rudarskih del, varovanje okolja in varstva pri delu v času izvajanja rudarskih del pri raziskovanju oziroma izkoriščanju mineralnih surovin in drugih rudarskih delih, ki niso v zvezi z raziskovanjem ali izkoriščanjem mineralnih surovin, ureditev prizadetih površin po končanem izvajanju rudarskih del ter njihovo usposobitev za ponovno uporabo.
+Ta zakon določa tudi način podeljevanja rudarske pravice, pristojnosti in način izdajanja posameznih dovoljenj, kot tudi organizacijo in način izvajanja inšpekcijske službe na področju rudarstva.
+Gospodarjenje z mineralnimi surovinami je v pristojnosti države, ki ureja, načrtuje in nadzira raziskovanje in izkoriščanje mineralnih surovin z namenom zagotoviti njihovo optimalno izkoriščanje v skladu z načeli varstva okolja in naravnih vrednot.

@@ -1,0 +1,3 @@
+# 93.b člen (izvršba po drugih osebah)
+Postopek izvršbe po drugih osebah uvede s sklepom inšpektor po uradni dolžnosti zoper nosilca rudarske pravice oziroma izvajalca ostalih rudarskih del, ki po končanem izvajanju rudarskih del ne izvede z inšpekcijsko odločbo odrejene dokončne sanacije okolja ali odprave posledic rudarjenja ali odrejenih potrebnih ukrepov zavarovanja, na stroške zavezanca.
+Za opravljanje materialnih dejanj izvršbe inšpekcijskih ukrepov iz prejšnjega odstavka, odrejenih v dokončnih inšpekcijskih odločbah, izdanih na podlagi tega zakona, se izberejo izvajalci v skladu z zakonom o javnih naročilih.

@@ -1,0 +1,2 @@
+# 74. člen (projekt za raziskovanje mineralnih surovin ali hribinskih struktur)
+Z rudarskim projektom za raziskovanje mineralnih surovin ali hribinskih struktur je potrebno obdelati in predvideti generalne tehnične rešitve v zvezi z raziskovalnimi deli in meritve, ki omogočajo pridobitev izhodiščnih parametrov za izdelavo rudarskega projekta za izvajanje del ali za izdelavo študije vplivov rudarskih posegov na okolje. Obvezna vsebina tega rudarskega projekta je tudi program izvedbe raziskovalnih del.

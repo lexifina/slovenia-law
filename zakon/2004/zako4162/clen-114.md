@@ -1,0 +1,2 @@
+# 114. člen (mednarodni sporazum)
+Določbe tega zakona, ki urejajo pravice in obveznosti gospodarskih družb in samostojnih podjetnikov posameznikov, registriranih v Republiki Sloveniji, veljajo ob pogoju vzajemnosti tudi za gospodarske družbe in druge gospodarske subjekte iz držav, s katerimi ima Republika Slovenija ratificiran in uveljavljen mednarodni sporazum, ki jo zavezuje k enakemu obravnavanju teh subjektov, z domačimi pravnimi in fizičnimi osebami.

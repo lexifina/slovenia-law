@@ -1,0 +1,3 @@
+# 30. člen (zaloge in viri mineralnih surovin)
+Nosilec rudarske pravice za raziskovanje oziroma izkoriščanje mineralnih surovin mora klasificirati in kategorizirati zaloge in vire mineralnih surovin ter voditi evidenco in hraniti podatke o zalogah in virih mineralnih surovin. Enkrat letno mora o stanju klasificiranih in kategoriziranih zalog poročati ministrstvu, pristojnemu za rudarstvo.
+Način vodenja evidence, hranjenja podatkov, klasificiranja in kategoriziranja zalog in virov, vsebino elaborata o zalogah in virih mineralnih surovin, postopek za potrditev elaborata o klasifikaciji in kategorizaciji zalog in virov mineralne surovine, način poročanja ter o bilanci teh rezerv predpiše minister, pristojen za rudarstvo.

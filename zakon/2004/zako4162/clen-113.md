@@ -1,0 +1,3 @@
+# 113. člen (veljavnost listin, upoštevanje obstoječe strokovne izobrazbe)
+Diplome in javne listine o opravljenih strokovnih izpitih, pridobljene na območju nekdanje SFRJ do 25. 6. 1991, so enakovredne diplomam in javnim listinam o strokovnih izpitih, pridobljenih v Republiki Sloveniji.
+Zahteve po strokovni izobrazbi oseb, ki ob prenehanju veljavnosti zakonov iz 116. člena tega zakona že opravljajo dela in naloge tehničnih vodij rudarskih del, vodij tehniških služb, samostojnih projektantov rudarskih projektov, odgovornih projektantov rudarskih projektov, revidentov in inšpektorjev, se z uveljavitvijo tega zakona ne spremenijo.
