@@ -1,0 +1,11 @@
+# 1. člen
+V Zakonu o obveznih zavarovanjih v prometu (Uradni list RS, št. 70/94 in 67/02) se v 1. členu doda drugi odstavek, ki se glasi:
+"S tem zakonom se v pravni red Republike Slovenije prenašajo naslednje direktive Evropskih Skupnosti:
+- Direktiva Sveta 72/166/EGS z dne 24. aprila 1972 o približevanju zakonodaje držav članic o zavarovanju civilne odgovornosti pri uporabi motornih vozil in o izvajanju obveznosti zavarovanja takšne odgovornosti (UL L 103 z dne 2. 5. 1972), s spremembami;
+- Direktiva Sveta 72/430/EGS z dne 19. decembra 1972 o spremembi Direktive Sveta 72/166/EGS z dne 24. aprila 1972 o približevanju zakonodaje držav članic o zavarovanju civilne odgovornosti pri uporabi motornih vozil in o izvajanju obveznosti zavarovanja takšne odgovornosti (UL L 291 z dne 28. 12. 1972), s spremembami;
+- Druga direktiva Sveta 84/5/EGS z dne 30. decembra 1983 o približevanju zakonodaje držav članic o zavarovanju civilne odgovornosti pri uporabi motornih vozil (UL L 008 z dne 11. 1. 1984), s spremembami - Druga direktiva Sveta 84/5/EGS;
+- Tretja direktiva Sveta 90/232/EGS z dne 14. maja 1990 o približevanju zakonodaje držav članic o zavarovanju civilne odgovornosti pri uporabi motornih vozil (UL L 129 z dne 19. 5. 1990), s spremembami;
+- Direktiva Sveta 90/618/EGS z dne 8. novembra 1990 o spremembah Direktive 73/239/EGS in Direktive 88/357/EGS o uskladitvi zakonov in drugih predpisov o neposrednem zavarovanju razen življenjskega zavarovanja, zlasti glede zavarovanja avtomobilske odgovornosti (UL L 330 z dne 29. 11. 1990), s spremembami;
+- Direktiva Sveta 92/49/EGS z dne 18. junija 1992 o spremembah Direktiv 73/239/EGS in 88/357/EGS in o uskladitvi zakonov in drugih predpisov o neposrednem zavarovanju razen življenjskega zavarovanja (UL L 228 z dne 11. 8. 1992), s spremembami - Tretja direktiva o premoženjskem zavarovanju;
+- Direktiva Evropskega parlamenta in Sveta 2000/26/ES z dne 16. maja 2000 o približevanju zakonodaje držav članic o zavarovanju avtomobilske odgovornosti, ki spreminja Direktivi Sveta 73/239/EGS in 88/357/EGS (UL L 181 z dne 20. 7. 2000), s spremembami - Četrta direktiva o zavarovanju avtomobilske odgovornosti;
+- Direktiva 2001/17/ES Evropskega parlamenta in Sveta 2001/17/ES z dne 19. marca 2001 o reorganizaciji in prenehanju zavarovalnic (UL L 110 z dne 20. 4. 2001), s spremembami.".
