@@ -1,0 +1,3 @@
+# 20. člen Nesreča na poti na delo
+
+Če oseba s stalnim prebivališčem v eni državi pogodbenici potuje na podlagi veljavne pogodbe o zaposlitvi zaradi opravljanja dela v drugo državo pogodbenico brez prekinitev in po najkrajši poti ter doživi med potovanjem v kraj zaposlitve nesrečo, nosi stroške storitev in dajatev nosilec te druge države pogodbenice skladno s pravnimi predpisi o zavarovanju za primer nesreče pri delu. To velja tudi za nesrečo, ki jo doživi zaposleni pri vrnitvi v državo stalnega prebivališča neposredno po izteku pogodbe o zaposlitvi, na podlagi katere je bil zaposlen v drugi državi pogodbenici.

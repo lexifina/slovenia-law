@@ -1,0 +1,5 @@
+# 32. člen Poračun akontacij
+
+(1) Če je nosilec ene države pogodbenice izplačeval akontacije dajatev za določeno obdobje, nosilec druge države pogodbenice na njegovo zahtevo zadrži izplačilo zaostalega zneska ustrezne dajatve za isto obdobje, do katerega obstaja pravica po pravnih predpisih druge države pogodbenice. Če je nosilec ene države pogodbenice upravičencu izplačeval višjo dajatev, kot bi mu pripadala za obdobje, za katero je nosilec druge države pogodbenice naknadno priznal ustrezno dajatev, se razlika med izplačano in pripadajočo dajatvijo obravnava kot akontacija v smislu prejšnjega stavka.
+
+(2) Če je nosilec socialne pomoči ene države pogodbenice odobril socialno pomoč za obdobje, za katero je bila naknadno po pravnih predpisih druge države pogodbenice priznana pravica do dajatve, zadrži pristojni nosilec te države pogodbenice na zahtevo, vendar v korist nosilca socialne pomoči le zneske, ki se nanašajo na isto obdobje, do višine izplačane socialne pomoči, kot da gre za izplačano socialno pomoč nosilca druge države pogodbenice.

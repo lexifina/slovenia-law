@@ -1,0 +1,3 @@
+# 24. člen Upoštevanje dejstev
+
+Če je za pravico do dajatev po pravnih predpisih ene države pogodbenice pogoj, da so dopolnjene določene zavarovalne dobe znotraj določenega časovnega obdobja, in če ti pravni predpisi predvidevajo, da se to časovno obdobje podaljša na podlagi določenih dejanskih stanj ali zavarovalnih dob, se za podaljšanje upoštevajo tudi zavarovalne dobe, dopolnjene po pravnih predpisih druge države pogodbenice, ali primerljiva dejanska stanja v drugi državi pogodbenici. Primerljiva dejanska stanja so dobe prejemanja invalidske ali starostne pokojnine, dajatve zaradi bolezni, brezposelnosti ali nesreče pri delu po pravnih predpisih druge države pogodbenice.
