@@ -1,4 +1,4 @@
-## Osmi del: PREHODNE IN KONČNE DOLOČBE
+## "Osmi del: PREHODNE IN KONČNE DOLOČBE
 # 167. člen (podzakonski predpisi)
 (1) Vlada sprejme podzakonski predpis iz 14. člena tega zakona v treh mesecih po uveljavitvi tega zakona.
 (2) Minister za prostor izda podzakonske predpise iz 18. člena tega zakona v treh mesecih po uveljavitvi tega zakona.

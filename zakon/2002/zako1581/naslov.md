@@ -1,2 +1,2 @@
 ZAKON
-O UREJANJU PROSTORA (ZUreP-1)
+o urejanju prostora (ZUreP-1)
