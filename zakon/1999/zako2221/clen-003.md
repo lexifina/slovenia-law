@@ -1,0 +1,2 @@
+# 3. člen
+Zaradi zagotavljanja likvidnosti proračuna Republike Slovenije lahko Republika Slovenija, ne glede na predpise, ki urejajo računovodsko izkazovanje, uporabi prosta denarna sredstva kupnin po zakonu o uporabi sredstev pridobljenih iz naslova kupnine na podlagi zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 45/95 in 34/96) ter sredstva rezerv Republike Slovenije, za čas do konca proračunskega leta 1999.
