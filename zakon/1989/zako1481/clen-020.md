@@ -1,0 +1,4 @@
+# 20. člen
+Na področju zaposlovanja se ustanovi Republiški zavod za zaposlovanje kot organ v sestavi Republiškega komiteja za delo.
+Republiški zavod za zaposlovanje opravlja strokovne naloge, ki se nanašajo na uresničevanje pravic iz zavarovanja za primer brezposelnosti, posredovanja dela in zaposlitve, organizacijske in strokovne postopke za uresničevanje ukrepov aktivne politike zaposlovanja, poklicno usmerjanje in štipendiranje ter zagotavlja informacijske in analitične osnove za operativne naloge in na izvajanje politike zaposlovanja.
+Republiški zavod za zaposlovanje odloča v upravnem postopku na prvi stopnji o posamičnih pravicah do denarnega nadomestila, denarne pomoči, priprave za zaposlitev brezposelnih oseb, usposabljanja in zaposlovanja invalidnih oseb in o dodelitvi štipendij iz združenih sredstev.
