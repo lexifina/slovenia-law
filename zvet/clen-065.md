@@ -1,0 +1,3 @@
+# 65. člen (prenehal veljati)
+
+VETERINARSKA SLUŽBA NA SEKUNDARNI RAVNI
