@@ -1,0 +1,3 @@
+# 6. člen
+(1) Območne skupnosti ustanovijo delavci po organizacijah združenega dela, ki so registrirane za opravljanje kmetijske dejavnosti, predelavo, dodelavo in promet s kmetijskimi produkti, gozdnogospodarskih organizacijah združenega dela, lovskih organizacijah ter drugih zainteresiranih samoupravnih organizacijah in skupnostih, delavci in kmetje po organizacijah združenih kmetov ter zavezanci za davek od dohodka iz kmetijske dejavnosti po krajevnih skupnostih.
+(2) Samoupravna razmerja v območni skupnosti, njeno organizacijo in naloge določajo samoupravni sporazum o njeni ustanovitvi, njen statut in drugi samoupravni splošni akti.
