@@ -1,0 +1,3 @@
+# 35. člen
+Drugi odstavek 182. člena se spremeni tako, da se glasi:
+"(2) V smrtovnici se, če je to mogoče, navede tudi kraj, kjer je premoženje, ki ga je pokojnik zapustil, ali je kaj premoženja, za katero so posebni predpisi glede posesti, hrambe in priglasitve, ali je kaj gotovine, vrednostnih papirjev, dragocenosti, hranilnih knjižic ali kakšnih drugih pomembnih listin, ali je pokojnik zapustil kaj terjatev ali dolgov in koliko, ali je zapustil pisno oporoko, pogodbo o dosmrtnem preživljanju, pogodbo o izročitvi in razdelitvi premoženja ali sporazum o odpovedi neuvedenemu dedovanju in kje so, če je pokojnik napravil ustno oporoko pa priimek in ime ter poklic in prebivališče prič, pred katerimi jo je napravil."

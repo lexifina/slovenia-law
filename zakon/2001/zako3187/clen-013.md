@@ -1,0 +1,6 @@
+# 13. člen
+(1) Če zapustnikov zakonec, ki nima potrebnih sredstev za življenje deduje z drugimi dediči prvega dednega reda, lahko sodišče na njegovo zahtevo odloči, da deduje zakonec tudi del tistega dela zapuščine, ki bi ga po zakonu dedovali sodediči. Zakonec lahko zahteva povečanje svojega dednega deleža proti vsem ali proti posameznim sodedičem. Sodišče lahko odloči, da deduje zakonec celotno zapuščino, če je njena vrednost tako majhna, da bi zakonec zašel v pomanjkanje, če bi se delila.
+(2) Če drugi dediči prvega dednega reda, ki nimajo potrebnih sredstev za življenje, dedujejo z zapustnikovim zakoncem, lahko sodišče na njihovo zahtevo odloči, da dedujejo tudi del tistega dela zapuščine, ki bi ga po zakonu dedoval zakonec. Povečanje dednega deleža nasproti zakoncu lahko zahtevajo vsi ali posamezni sodediči.
+(3) Posamezni sodediči, ki nimajo potrebnih sredstev za življenje, lahko zahtevajo povečanje svojega dednega deleža tudi proti drugim sodedičem.
+(4) Sodišče lahko odloči, da dedujejo vsi ali posamezni sodediči celotno zapuščino, če je njena vrednost tako majhna, da bi zašli v pomanjkanje, če bi se delila.
+(5) Pri odločanju o zahtevkih iz tega člena upošteva sodišče vse okoliščine primera, zlasti premoženjske razmere in pridobitno sposobnost sodedičev ter vrednost zapuščine."
