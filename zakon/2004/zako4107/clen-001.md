@@ -1,0 +1,2 @@
+# 1. člen
+Državni zbor Republike Slovenije daje soglasje Družbi za avtoceste v Republiki Sloveniji d.d. (v nadaljnjem besedilu: DARS d.d.) za najetje kredita pri Evropski investicijski banki (v nadaljnjem besedilu: EIB) v znesku 110 milijonov evrov, za projekt slovenskih avtocest/VI, to je za gradnjo avtocestnih odsekov Bič - Hrastje (etapa: Korenitka - Pluska), Hrastje - Kronovo (etapa: Hrastje - Lešnica) in Peračica - Podtabor.
