@@ -1,0 +1,9 @@
+# 1. člen
+V zakonu o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 9/92, 13/93, 9/96, 29/98, 6/99, 56/99 - ZVZD, 99/01, 42/02 - ZDR in 60/02) se drugi odstavek 15. člena spremeni tako, da se glasi:
+"Za zavarovance po 7. točki prejšnjega odstavka se štejejo:
+- kmetje, člani njihovih gospodarstev in druge osebe, ki v Republiki Sloveniji opravljajo kmetijsko dejavnost kot edini ali glavni poklic, ustvarjajo s to dejavnostjo dohodek in so na tej podlagi vključeni v obvezno pokojninsko in invalidsko zavarovanje ali so se v to zavarovanje vključile prostovoljno;
+- kmetje, člani njihovih gospodarstev in druge osebe, ki v Republiki Sloveniji opravljajo kmetijsko dejavnost kot edini ali glavni poklic in niso pokojninsko in invalidsko zavarovane, če kmečko gospodarstvo dosega na člana gospodarstva mesečno najmanj tolikšen katastrski in drug dohodek, ki ustreza znesku 25% minimalne plače, zmanjšane za davke in prispevke. Za člane kmečkega gospodarstva se štejejo vse osebe, ki v okviru tega gospodarstva opravljajo kmetijsko dejavnost kot edini ali glavni poklic."
+Za drugim odstavkom se dodajo novi tretji, četrti in peti odstavek, ki se glasijo:
+"Minimalna plača je najnižji znesek plače za polni delovni čas po predpisih o minimalni plači.
+Kot drugi dohodki kmečkega gospodarstva iz druge alinee drugega odstavka tega člena se štejejo dohodki, od katerih se plačuje davek iz kmetijske dejavnosti in dopolnilnih dejavnosti na kmetiji, v skladu z zakonom, ki ureja kmetijstvo.
+Zavarovanci iz prve alinee drugega odstavka tega člena, ki so se v obvezno pokojninsko in invalidsko zavarovanje vključili prostovoljno, se lahko odločijo, da se bodo zavarovali za vse pravice iz 13. člena tega zakona ali pa le za tak obseg pravic, kot zavarovanci iz druge alinee drugega odstavka tega člena. Pogoje, pod katerimi posamezni zavarovanci lahko spremenijo obseg zavarovanja, se določi v pravilniku, ki ga sprejme minister, pristojen za zdravje."
