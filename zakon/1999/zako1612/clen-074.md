@@ -1,0 +1,3 @@
+# 74. člen
+(1) Kadar se zmanjšanje osnovnega kapitala izvede z združitvijo delnic, klirinško depotna družba na podlagi razmerja, po katerem se delnice združijo (tretji odstavek 71. člena tega zakona), izračuna število delnic, ki jih po združitvi delnic obdrži posamezni imetnik, ki je bil vpisan v centralni register na presečni dan, ostale delnice, ki se zaradi združitve razveljavijo, pa izbriše.
+(2) Kadar se zmanjšanje osnovnega kapitala izvede z umikom delnic, klirinško depotna družba na računu delniške družbe - izdajatelja delnic, izbriše lastne delnice, ki se zaradi umika razveljavijo (četrti odstavek 71. člena tega zakona).

@@ -1,0 +1,4 @@
+# 67. člen
+(1) Kadar statut delniške družbe pogojuje udeležbo na skupščini delničarjev ali uresničevanje glasovalne pravice s tem, da se delnice na prinosnika shranijo, mora član klirinško depotne družbe, pri katerem se za imetnike vodijo vrednostni papirji na računu vrednostnih papirjev pri klirinško depotni družbi ali klirinško depotna družba, če se vrednostni papirji za imetnike vodijo neposredno na računu pri klirinško depotni družbi, izdati imetnikom potrdilo o stanju na računu vrednostnih papirjev na zadnji dan roka za deponiranje delnic.
+(2) Potrdilo iz prejšnjega odstavka se glasi na prinosnika in se lahko uporablja samo kot izkazni papir za uveljavljanje pravice do glasovanja na skupščini delničarjev.
+(3) Določba prejšnjega odstavka se smiselno uporablja tudi za potrdilo, izdano zaradi uresničevanja pravice do dividende oziroma prednostne pravice do vpisa novih delnic oziroma drugih pravic iz prinosniških delnic oziroma obveznic.
