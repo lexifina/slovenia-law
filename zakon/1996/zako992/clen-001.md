@@ -1,0 +1,2 @@
+# 1. člen
+V zakonu o uporabi sredstev pridobljenih iz naslova kupnine na podlagi zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 45/95) se v prvem stavku zadnjega odstavka 7. člena črtata besedi "morata imeti", besedi "pristojni ministrstvi" nadomestita z besedama "pristojnih ministrstev", besedilo "v državnih vrednostnih papirjih" pa se nadomesti z besedami "upravlja ministrstvo pristojno za finance".
