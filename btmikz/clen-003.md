@@ -1,0 +1,3 @@
+# 3. člen
+
+Pogodbenici bosta v skladu z možnostmi dodeljevali štipendije za študij in specializacije.
