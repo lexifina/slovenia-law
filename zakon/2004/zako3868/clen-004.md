@@ -1,0 +1,3 @@
+# 4. člen
+V 32. členu se doda nov peti odstavek, ki se glasi:
+"(5) Ne glede na tretji odstavek tega člena, štabni varnostni organi Slovenske vojske izvajajo preventivne naloge protiobveščevalne zaščite poveljstev, enot in zavodov vojske, štabno varnostne naloge ter usmerjajo in vodijo delo vojaške policije, razen pri preiskovanju kaznivih dejanj v skladu s tem zakonom, ki je v pristojnosti obveščevalno varnostne službe ministrstva. Štabni varnostni organ generalštaba strokovno vodi in usmerja delovanje podrejenih štabnih varnostnih organov ter sodeluje z obveščevalno varnostno službo ministrstva.".

@@ -1,0 +1,4 @@
+# 28. člen (delovna mesta na katerih se opravlja vojaška služba)
+(1) Vojaške osebe, ki so sklenile pogodbo o zaposlitvi pred uveljavitvijo tega zakona in so razporejene na delovna mesta, na katerih se opravlja vojaška služba, sklenejo dodatek k pogodbam o zaposlitvi.
+(2) Delavci na obrambnem področju, ki delajo na delovnih mestih, kjer se opravlja vojaška služba, pridobijo pravico do dodatka za stalnost z uveljavitvijo tega zakona v višini, določeni s tem zakonom.
+(3) Pri izračunu višine dodatka za stalnost se v delovno dobo všteva tudi poklicno opravljanje vojaške službe v formacijah Teritorialne obrambe oziroma v drugih sestavah, izenačenih s Teritorialno obrambo v skladu s predpisi ter opravljanje vojaške službe na določenih delovnih mestih oziroma delih v ministrstvu ali v drugih državnih organih.
