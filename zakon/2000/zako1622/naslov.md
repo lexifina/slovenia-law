@@ -1,2 +1,2 @@
 ZAKON
-O OBLIGACIJSKIH IN STVARNOPRAVNIH RAZMERJIH V LETALSTVU (ZOSRL)
+o obligacijskih in stvarnopravnih razmerjih v letalstvu (ZOSRL)
