@@ -1,0 +1,5 @@
+# 11. člen KLJUČNO OSEBJE
+
+(1) Pogodbenica v skladu s svojimi zakoni in predpisi v zvezi z vstopom, bivanjem in delom fizičnih oseb v dobri veri prouči zahteve investitorjev druge pogodbenice in ključnega osebja, ki je zaposleno pri teh investitorjih ali pri naložbah teh investitorjev, za njihov začasen prihod in bivanje na tem območju zaradi dejavnosti v zvezi z uresničevanjem, razvojem, upravljanjem, ohranjanjem, uporabo, izkoriščanjem naložb ali razpolaganjem z njimi, vključno z opravljanjem svetovalnih ali ključnih tehničnih storitev.
+
+(2) Pogodbenica dovoli investitorjem druge pogodbenice, ki imajo naložbe na njenem območju, in za naložbe teh investitorjev, da zaposlijo katero koli ključno osebo investitorja ali po izbiri subjekta naložbe ne glede na narodnost in državljanstvo pod pogojem, da so bili tej ključni osebi dovoljeni vstop, bivanje in delo na območju prve pogodbenice in da je taka zaposlitev v skladu s pogoji in časovnimi omejitvami iz dovoljenja, ki je bilo izdano tej ključni osebi.
