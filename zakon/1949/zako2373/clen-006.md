@@ -1,0 +1,5 @@
+# 6. člen
+Zakonske zveze, ki so po 1., 2. in 5. členu tega zakona priznane za veljavne, pa se niso vpisane v poročni matični knjigi, se morajo najpozneje v šestih mesecih po uveljavitvi tega zakona priglasiti zaradi vpisa v poročno matično knjigo. Zahtevo za vpis v poročno matično knjigo s potrebnimi dokazili sme podati vsak zakonec matičarju, pristojnemu za kraj, kjer je bila zakonska zveza sklenjena, ali za kraj zadnjega skupnega bivališča zakoncev. Če zakonca več ne živita, sme zahtevati vpis tudi tisti, ki ima pravno korist od tega, da je zakonska zveza priznana za veljavno.
+Matičar zbere potrebne podatke in pošlje zahtevo za vpis okrajnemu sodišču, v katerega območju je. Sodišče odloči o tem po zaslišanju vseh prizadetih oseb in po izvedbi potrebnih dokazov. Pravnomočno odločbo pošlje sodišče matičarju zaradi vpisa v poročno matično knjigo.
+Sklenitev zakonske zveze po 1., 2. in 5. členu tega zakona se lahko dokaže z listinami ali s pričami.
+Če se zahteva po prvem odstavku tega člena ne poda v določenem roku, velja, da zakonske zveze ni, otroci iz take zveze pa veljajo za zakonske.

@@ -1,0 +1,2 @@
+# 5. člen
+Zakonske zveze, ki so bile sklenjene na ozemlju Ljudske Republike Slovenije med sovražnikovo okupacijo zaradi takratnih razmer brez udeležbe za to pristojnega poročnega organa ali brez oklica, se priznajo za veljavne, če so izpolnjeni pogoji iz 16., 18., 19. in 29. člena osnovnega zakona o zakonski zvezi, in ob nadaljnjem pogoju, da sta zakonca ob sklenitvi zakonske zveze pred dvema pričama izjavila, da hočeta skleniti zakonsko zvezo, in je zakonska zveza trajala do uveljavitve tega zakona ali do smrti enega izmed zakoncev.
