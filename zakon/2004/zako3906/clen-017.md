@@ -1,0 +1,5 @@
+# 17. člen
+(1) Ne glede na prvotni namen zbiranja se lahko osebni podatki nadalje obdelujejo za zgodovinsko, statistično in znanstveno-raziskovalne namene.
+(2) Osebni podatki se posredujejo uporabniku osebnih podatkov za namen obdelave iz prejšnjega odstavka v anonimizirani obliki, če zakon ne določa drugače ali če posameznik, na katerega se nanašajo osebni podatki, ni predhodno podal pisne privolitve, da se lahko obdelujejo brez anonimiziranja.
+(3) Osebni podatki, ki so bili posredovani uporabniku osebnih podatkov v skladu s prejšnjim odstavkom, se ob zaključku obdelave uničijo, če zakon ne določa drugače. Uporabnik osebnih podatkov mora upravljavca osebnih podatkov, ki mu je posredoval osebne podatke, brez odlašanja po njihovem uničenju pisno obvestiti, kdaj in na kakšen način jih je uničil.
+(4) Rezultati obdelave iz prvega odstavka tega člena se objavijo v anonimizirani obliki, razen če zakon določa drugače ali če je posameznik, na katerega se nanašajo osebni podatki, za objavo v neanonimizirani obliki podal pisno privolitev ali če je za takšno objavo podano pisno soglasje dedičev umrle osebe po tem zakonu.

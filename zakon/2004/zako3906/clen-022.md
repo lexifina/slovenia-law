@@ -1,0 +1,6 @@
+# 22. člen
+(1) Upravljavec osebnih podatkov mora proti plačilu stroškov posredovanja, če zakon ne določa drugače, posredovati osebne podatke uporabnikom osebnih podatkov.
+(2) Upravljavec centralnega registra prebivalstva ali evidenc stalno in začasno prijavljenih prebivalcev mora na način, ki je določen za izdajo potrdila, posredovati upravičencu, ki izkaže pravni interes za uveljavljanje pravic pred osebami javnega sektorja, osebno ime in naslov stalnega ali začasnega prebivališča posameznika, zoper katerega uveljavlja svoje pravice.
+(3) Upravljavec osebnih podatkov mora za vsako posredovanje osebnih podatkov zagotoviti, da je mogoče pozneje ugotoviti, kateri osebni podatki so bili posredovani, komu, kdaj in na kakšni podlagi, in sicer za obdobje, ko je mogoče zakonsko varstvo pravice posameznika zaradi nedopustnega posredovanja osebnih podatkov.
+(4) Ne glede na prvi odstavek tega člena je upravljavec osebnih podatkov v javnem sektorju dolžan uporabniku osebnih podatkov v javnem sektorju posredovati osebne podatke brez plačila stroškov posredovanja, razen če zakon določa drugače ali če gre za uporabo za zgodovinsko, statistično ali znanstveno-raziskovalne namene.
+Varstvo osebnih podatkov umrlih posameznikov
