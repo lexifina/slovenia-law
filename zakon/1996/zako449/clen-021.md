@@ -1,0 +1,2 @@
+# 21. člen (zveza organizacij za izobraževanje odraslih)
+Organizacije za izobraževanje odraslih, ki izvajajo izobraževalne programe, ki se financirajo iz javnih sredstev, se za uresničevanje skupnih nalog pri razvoju in pospeševanju izobraževanja odraslih, ki je v javnem interesu, za medsebojno usklajevanje in sodelovanje ter za sodelovanje z drugimi organizacijami, strokovnimi in upravnimi organi, lahko združujejo v zveze.
