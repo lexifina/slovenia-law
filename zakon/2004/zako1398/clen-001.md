@@ -1,0 +1,2 @@
+# 1. člen
+V zakonu o zdravstveni dejavnosti (Uradni list RS, št. 9/92, 37/95, 8/96, 59/99 - odl. US, 90/99, 98/99 - ZZdrS, 31/2000, 36/2000 - ZPDZC, 45/2001 in 86/2002 - ZOZPEU) se besedilo ''minister, pristojen za zdravstvo'', ''ministrstvo, pristojno za zdravstvo" oziroma "diplomirani inženir farmacije" v vseh sklonih nadomesti z besedilom "minister, pristojen za zdravje", "ministrstvo, pristojno za zdravje" oziroma "magister farmacije" v ustreznem sklonu.
