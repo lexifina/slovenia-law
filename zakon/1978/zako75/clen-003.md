@@ -1,2 +1,1 @@
-# 3. člen
-Založništvo je dejavnost posebnega družbenega pomena.
+# 3. člen (prenehal veljati)

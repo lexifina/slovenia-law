@@ -1,5 +1,1 @@
-# 8. člen
-Delavci založniških organizacij se kot izvajalci združujejo v samoupravne interesne kulturne skupnosti in v druge ustrezne samoupravne interesne skupnosti.
-Založniška organizacija sprejme svoj plan in program razvoja, pri čemer mora upoštevati usmeritve in obveznosti, ki jih je prevzela s samoupravnim sporazumom o osnovah plana samoupravnih interesnih skupnosti iz prvega odstavka, založniško politiko ter kriterije za združevanje dela in sredstev v svobodni menjavi dela teh skupnosti.
-V okviru samoupravnih interesnih kulturnih skupnosti delavci založniških organizacij skupaj z delovnimi ljudmi, ki z osebnim delom samostojno opravljajo umetniško ali drugo kulturno dejavnost in z drugimi delavci, ki kot avtorji združujejo svoje delo z založniškimi organizacijami, določajo način in obseg njihovega sodelovanja v upravljanju teh organizacij in razpolaganja z rezultati skupnega dela.
-Samoupravni sporazum o vprašanjih iz prejšnjega odstavka sklenejo založniške organizacije z avtorji-sodelavci iz VII. poglavja tega zakona neposredno ali po njihovih društvih.
+# 8. člen (prenehal veljati)
