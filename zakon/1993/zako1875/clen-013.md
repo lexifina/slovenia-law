@@ -3,7 +3,7 @@
 Nelojalna konkurenca je prepovedana.
 Nelojalna konkurenca je dejanje podjetja pri nastopanju na trgu, ki je v nasprotju z dobrimi poslovnimi običaji in s katerim se povzroči ali utegne povzročiti škoda drugim udeležencem na trgu.
 Kot dejanja nelojalne konkurence po prejšnjem odstavku se štejejo zlasti:
-- reklamiranje, oglašanje ali ponujanje blaga ali storitev ž navajanjem neresničnih podatkov ali podatkov in izrazov, ki ustvarjajo ali utegnejo ustvariti zmedo na trgu ali z zlorabo nepoučenosti ali lahkovernosti potrošnikov;
+- reklamiranje, oglašanje ali ponujanje blaga ali storitev z navajanjem neresničnih podatkov ali podatkov in izrazov, ki ustvarjajo ali utegnejo ustvariti zmedo na trgu ali z zlorabo nepoučenosti ali lahkovernosti potrošnikov;
 - reklamiranje, oglašanje ali ponujanje blaga ali storitev z navajanjem podatkov ali uporabo izrazov, s katerimi se izkorišča ugled drugega podjetja, njegovih proizvodov ali storitev oziroma ocenjuje ali podcenjuje kvaliteto proizvodov drugega podjetja;
 - reklamiranje, oglašanje ali ponujanje blaga ali storitev ali omalovaževanje drugega podjetja s sklicevanjem na narodnostno, rasno, politično ali versko pripadnost;
 - dajanje podatkov o drugem podjetju, če ti podatki škodijo ali utegnejo škoditi ugledu in poslovanju drugega podjetja;
