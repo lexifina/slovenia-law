@@ -1,2 +1,0 @@
-# 44. člen (ugotavljanje pravice do pokojninskega in invalidskega zavarovanja)
-Oseba, kateri subjekt iz tretjega odstavka 2. člena tega zakona odkloni sprejem prijave v zavarovanje, in oseba v delovnem razmerju, za katero poslovni subjekt oziroma zasebni delodajalec ni vložil prijave v zavarovanje, lahko zahteva, da se ji prizna pravica do pokojninskega in invalidskega zavarovanja (lastnost zavarovanca).
