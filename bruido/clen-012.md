@@ -1,0 +1,13 @@
+# 12. člen AVTORSKA PLAČILA
+
+1. Avtorska plačila, ki nastanejo v državi pogodbenici in se izplačajo rezidentu druge države pogodbenice, se lahko obdavčijo v tej drugi državi pogodbenici.
+
+2. Avtorska plačila iz prvega odstavka tega člena se lahko obdavčijo tudi v državi pogodbenici, v kateri nastanejo, v skladu z njenimi zakoni, vendar tako odmerjeni davek ne sme presegati 10% bruto zneska avtorskih plačil, če je prejemnik dejanski uporabnik teh avtorskih plačil.
+
+3. Izraz “avtorska plačila”, kot je uporabljen v tem členu, pomeni kakršna koli plačila, prejeta za uporabo ali za pravico do uporabe avtorske pravice na književnem, umetniškem ali znanstvenem delu, med drugim na kinematografskih filmih ter filmih ali trakovih za televizijo in radio, ter za uporabo ali za pravico do uporabe patenta, know-howa, zaščitnega znaka, skice ali modela, načrta, računalniških programov, tajne formule ali postopka ali za uporabo ali za pravico do uporabe industrijske, komercialne ali znanstvene opreme ali za obvestila o industrijskih, komercialnih ali znanstvenih izkušnjah.
+
+4. Določila prvega in drugega odstavka tega člena se ne uporabljajo, če dejanski uporabnik avtorskih plačil – rezident države pogodbenice – posluje v drugi državi pogodbenici, v kateri nastanejo avtorska plačila, prek stalne poslovne enote v njej ali če opravlja v tej drugi državi samostojne osebne storitve iz stalne baze v njej, pravica ali premoženje, na podlagi katerega se plačujejo avtorska plačila, pa je neposredno povezana s stalno poslovno enoto ali stalno bazo. V takem primeru se po potrebi uporabljajo določbe 7. ali 14. člena te konvencije.
+
+5. Šteje se, da nastanejo avtorska plačila v državi pogodbenici, če je plačnik sama država, njena upravna ozemeljska enota, lokalna skupnost ali rezident te države. Če ima oseba, ki plačuje avtorska plačila, ne glede na to, ali je rezident države pogodbenice, v državi pogodbenici stalno poslovno enoto ali stalno bazo, na katero se nanaša obveznost plačila avtorskih plačil, ta avtorska plačila pa bremenijo zadevno stalno poslovno enoto ali stalno bazo, se šteje, da avtorska plačila nastanejo v državi pogodbenici, v kateri je stalna poslovna enota ali stalna baza.
+
+6. Če zaradi posebnega razmerja med plačnikom in dejanskim uporabnikom ali med njima in kom drugim znesek avtorskih plačil ob upoštevanju uporabe, pravice ali informacije, za katero so bila plačana, presega znesek, ki bi bil dogovorjen med plačnikom in dejanskim uporabnikom, če takega razmerja ne bi bilo, se določila tega člena uporabljajo samo za tako dogovorjeni znesek. V tem primeru se več plačani zneski obdavčijo v skladu z zakoni vsake države pogodbenice, pri tem pa se upoštevajo druge določbe te konvencije.
