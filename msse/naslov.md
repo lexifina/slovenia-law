@@ -1,0 +1,15 @@
+UKAZ
+
+o razglasitvi Zakona o ratifikaciji Statuta Sveta Evrope
+
+ZAKON
+
+O RATIFIKACIJI STATUTA SVETA EVROPE
+
+STATUTE
+
+OF THE COUNCIL OF EUROPE
+
+STATUT
+
+SVETA EVROPE
