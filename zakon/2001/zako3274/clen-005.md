@@ -1,0 +1,2 @@
+# 5. člen
+Ob dokončni uveljavitvi EUR, kot valute posameznih držav članic Evropske unije, se z dnem 1. 1. 2002 neizkoriščeni del sredstev iz prvega in drugega odstavka 2. člena tega zakona preračuna iz DEM v EUR po menjalnem razmerju, kot je določeno s predpisi Evropske unije. Od vključno 1. 1. 2002 dalje se za izvrševanje tega zakona, podzakonskih aktov v zvezi s tem zakonom, aktov pristojnih državnih organov in pogodb, sprejetih ali sklenjenih na podlagi tega zakona, namesto DEM uporablja EUR.
