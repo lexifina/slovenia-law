@@ -1,0 +1,2 @@
+# 1. člen (vsebina zakona)
+Ta zakon določa pogoje in postopek za izvajanje poštnih storitev, ureja zagotavljanje in izvajanje univerzalne poštne storitve, uvaja pogoje za dostopnost do javnega poštnega omrežja in izdajanje poštnih vrednotnic, določa organizacijo in delovanje Agencije za telekomunikacije, radiodifuzijo in pošto Republike Slovenije (v nadaljnjem besedilu: agencija) v delu, ki se nanaša na poštne storitve, določa pravice in obveznosti izvajalcev in uporabnikov poštnih storitev ter ureja druga vprašanja povezana s poštno dejavnostjo.

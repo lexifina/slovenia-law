@@ -1,0 +1,3 @@
+# 30. člen (prepoved subvencioniranja)
+(1) Izvajalci poštnih storitev, ki opravljajo drugo gospodarsko dejavnost, pri kateri imajo na trgu prevladujoč položaj, ali imajo izključno ali posebno pravico opravljati neko gospodarsko dejavnost oziroma uporabljati naravno dobrino ali drugo omejeno sredstvo, morajo izvajati poštne storitve v pravno samostojni družbi.
+(2) Izvajalec univerzalne poštne storitve ne sme z rezerviranimi poštnimi storitvami subvencionirati ostalih poštnih storitev in drugih storitev, ki jih izvaja, razen v obsegu, ki je nujno potreben za izpolnjevanje obveznosti v zvezi z izvajanjem univerzalne poštne storitve.
