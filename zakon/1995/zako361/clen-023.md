@@ -1,0 +1,5 @@
+## III. POSEBNE DOLOČBE ZA NOVE OBLIKE TELES, SLIKE IN RISBE
+# 23. člen
+(1) Če nova oblika telesa, slika ali risba spada v delovno področje delodajalca in jo je delojemalec ustvaril v času trajanja delovnega razmerja, pri izpolnjevanju pogodbe o zaposlitvi, na izrecno zahtevo delodajalca ali na podlagi posebne pogodbe med delodajalcem in delojemalcem, pripada pravica do varstva z modelom oziroma vzorcem delodajalcu, razen če ni s pogodbo o zaposlitvi ali s posebno pogodbo določeno drugače.
+(2) Delojemalec ima pravico do nagrade za novo obliko telesa, sliko ali risbo, ki je zavarovana z modelom oziroma vzorcem, če njegov osebni prispevek pri ustvaritvi omenjenih predmetov ali njihov pomen za delojemalca očitno presega vsebino nalog delojemalca po pogodbi o zaposlitvi ali izrecno zahtevo delodajalca ali pa vsebino posebne pogodbe, sklenjene med delojemalcem in delodajalcem, razen če ni s temi pogodbami določeno drugače.
+(3) Za določitev višine in vrste nagrade iz prejšnjega odstavka se uporabljajo določbe tretjega odstavka 16. člena in 18. člena tega zakona.
