@@ -1,0 +1,2 @@
+# 5. člen
+Ministrstvo, pristojno za finance lahko v soglasju z ministrstvom, pristojnim za gospodarstvo in ministrstvom, pristojnim za notranje zadeve odvzame dovoljenje za prirejanje posebnih iger na srečo, če ugotovi, da je prireditelj razširil ali preselil dejavnost oziroma del dejavnosti brez dovoljenja za razširitev ali preselitev ali, da je bilo dovoljenje za razširitev ali preselitev pridobljeno z navajanjem neresničnih podatkov.
