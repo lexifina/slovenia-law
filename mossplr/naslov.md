@@ -1,0 +1,21 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI OBMOČNEGA SPORAZUMA O SREDNJEFREKVENČNIH (SF) POMORSKIH MOBILNIH IN LETALSKIH RADIONAVIGACIJSKIH STORITVAH (OBMOČJE 1) – (MOSSPLR)
+
+Z A K O N
+
+O RATIFIKACIJI OBMOČNEGA SPORAZUMA O SREDNJEFREKVENČNIH (SF) POMORSKIH MOBILNIH IN LETALSKIH RADIONAVIGACIJSKIH STORITVAH (OBMOČJE 1) (MOSSPLR)
+
+R E G I O N A L A G R E E M E N T
+
+Concerning the MF Maritime Mobile and Aeronautical Radionavigation Services
+
+(Region 1)
+
+(Geneva, 1985)
+
+O B M O Č N I S P O R A Z U M
+
+o srednjefrekvenčnih (SF) pomorskih mobilnih in letalskih radionavigacijskih storitvah (Območje 1)
+
+(Ženeva 1985)
