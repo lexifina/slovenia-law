@@ -1,0 +1,3 @@
+# 8. člen
+
+Ta protokol začne veljati prvi dan v mesecu po preteku treh mesecev od datuma, ko so vse pogodbenice konvencije izjavile svoje soglasje, da jih zavezuje ta protokol v skladu z določbami 7. člena.
