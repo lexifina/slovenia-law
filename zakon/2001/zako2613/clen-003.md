@@ -1,0 +1,3 @@
+# 3. člen
+V 51. členu se v četrtem odstavku za besedilom: "S 1. julijem 2001 se trošarina določi v višini 46% drobnoprodajne cene najbolje prodajanih cigaret v Sloveniji;" besedilo spremeni tako, da se glasi:
+"s 1. januarjem 2002 se trošarina določi v višini 49% drobnoprodajne cene najbolje prodajanih cigaret v Sloveniji, s 1. julijem 2002 se trošarina določi v višini 51% drobnoprodajne cene najbolje prodajanih cigaret v Sloveniji, s 1. januarjem 2003 se trošarina določi v višini 53% drobnoprodajne cene najbolje prodajanih cigaret v Sloveniji, s 1. julijem 2003 se trošarina določi v višini 55% drobnoprodajne cene najbolje prodajanih cigaret v Sloveniji in s 1. januarjem 2004 se trošarina določi v višini 57% drobnoprodajne cene najbolje prodajanih cigaret v Sloveniji."
