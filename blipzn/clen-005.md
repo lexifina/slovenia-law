@@ -1,0 +1,3 @@
+# 5. člen Nadomestilo za izgube
+
+Vlagateljem ene pogodbenice, pri naložbah katerih naložbe so nastale izgube zaradi vojne ali drugega oboroženega spopada, revolucije, državnega upora, izrednega stanja ali kakega podobnega dogodka na ozemlju druge pogodbenice, ta druga pogodbenica zagotovi v zvezi s takimi izgubami, vključno z nadomestilom, odškodnino ali vzpostavitvijo prejšnjega stanja, nič manj ugodno obravnavo, kot jo sama zagotavlja svojim vlagateljem ali vlagateljem katere koli tretje države, kar je za vlagatelja ugodnejše. Vsako plačilo po tem členu mora biti vnovčljivo v primernem roku in prosto prenosljivo.
