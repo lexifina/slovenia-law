@@ -1,0 +1,7 @@
+# 1. člen
+Republika Slovenija daje poroštvo za obveznosti Družbe za avtoceste v Republiki Sloveniji d.d. (v nadaljnjem besedilu: DARS d.d.) iz naslova kreditov, najetih za realizacijo Nacionalnega programa izgradnje avtocest v Republiki Sloveniji, za dodatno financiranje avtocestnih odsekov, ki so se začeli graditi v letu 1996, in sicer: Vransko - Blagovica in Blagovica - Šentjakob ter financiranje gradnje avtocestnih odsekov, ki so se začeli graditi v letu 1997, in sicer: Pesnica - Slivnica, obvoznica Lendava, Kozina - Klanec in Višnja Gora - Bič, do višine 170 mio USD glavnice ali protivrednosti katerekoli druge valute, s pripadajočimi obrestmi in drugimi stroški kreditov, oziroma v tolarski protivrednosti po srednjem tečaju Banke Slovenije na dan uveljavitve zakona, pod naslednjimi pogoji:
+- znesek kredita se lahko črpa v več letnih obrokih, in sicer do konca leta 2001,
+- rok odplačila je lahko do 20 let, z vključenim najmanj štiri do osemletnim moratorijem za odplačilo glavnice,
+- vsi stroški, povezani s pripravo in odobritvijo posameznega kredita, ne smejo presegati 0,5% vrednosti tega kredita,
+- strošek rezervacije sredstev kredita je lahko največ 0,5% od nečrpanega zneska kredita in se obračuna od pogodbeno določenega datuma črpanja kredita dalje.
+Republika Slovenija bo v primeru, ko DARS d.d. ne bo poravnala svojih dospelih obveznosti po kreditni pogodbi, na poziv banke plačala te obveznosti namesto DARS d.d.
