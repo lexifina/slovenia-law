@@ -1,0 +1,3 @@
+## 4. ZBIRANJE PODATKOV O IZPLAČANIH PLAČAH
+# 7. člen
+Delodajalci so v skladu z določili Dogovora dolžni ob mesečnem izplačilu plač posredovati podatke o izplačanih plačah, in sicer delodajalci-pravne osebe Agenciji Republike Slovenije za javnopravne evidence in storitve, delodajalci-zasebniki, ki opravljajo dejavnost, pa Davčni upravi Republike Slovenije. Način poročanja, ki bo omogočal ločeno spremljanje podatkov za zaposlene po kolektivnih pogodbah in za zaposlene, za katere kolektivne pogodbe ne veljajo, in ugotavljanje izplačanih zneskov uskladitve plač na podlagi tega zakona oziroma Dogovora in kolektivne pogodbe dejavnosti, predpiše minister oziroma ministrica, pristojna za delo.
