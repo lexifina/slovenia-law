@@ -1,0 +1,5 @@
+# 7. člen
+V drugem odstavku 12. člena se pika nadomesti s podpičjem in doda besedilo "če je teh več, pa po času naloga sodišča, upoštevaje abecedni red priimkov notarjev.".
+Za drugim odstavkom se dodata nova tretji in četrti odstavek, ki se glasita:
+"Notarske zapise pravnih poslov, sklenjenih za zavarovanje denarnih terjatev z zastavno pravico na nepremičninah, sestavi notar, ki ima sedež notarske pisarne na območju okrajnega sodišča, ki je pristojno za vpis zastavne pravice v zemljiško knjigo. Če je predmet obremenitve z zastavno pravico več nepremičnin, ki so vpisane v zemljiških knjigah večih sodišč, je pristojen notar s sedežem pisarne na območju tistega okrajnega sodišča, pri katerem je zemljiška knjiga, v katero je vpisana glavna nepremičnina. Pogoj iz tega odstavka izpolnjuje tudi notar, ki mu je v skladu z drugim odstavkom 20. člena tega zakona dovoljeno opravljanje poslovanja zunaj sedeža notarske pisarne.
+Če notar zaradi omejitve poslovanja iz 22. člena tega zakona v posamezni zadevi ne sme poslovati, je za sestavo notarskega zapisa iz prejšnjega odstavka tega člena pristojen notar, ki ga določi predsednik Notarske zbornice Slovenije.".

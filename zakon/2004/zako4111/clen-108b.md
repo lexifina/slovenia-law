@@ -1,0 +1,6 @@
+# 108.b člen
+Centralni register oporok vsebuje podatke o oporokah, sestavljenih v obliki notarskega zapisa, o oporokah, ki so shranjene pri notarju, o oporokah, ki jih sestavi odvetnik ali so mu izročene v hrambo, o sodnih oporokah in oporokah, izročenih v hrambo sodišču na podlagi določil zakona, ki ureja dedovanje.
+Notar, ki sestavi oporoko v obliki notarskega zapisa ali notar, ki sprejme oporoko v hrambo, posreduje zbornici zahtevo za vpis v centralni register oporok najkasneje v 15 dneh potem, ko je sestavil oporoko ali prejel oporoko v hrambo.
+Sodišče, ki sestavi sodno oporoko ali prejme v hrambo oporoko v skladu z določili zakona, ki ureja dedovanje, posreduje zbornici zahtevo za vpis v centralni register oporok najkasneje v 15 dneh potem, ko je bila sestavljena sodna oporoka ali je bila prejeta oporoka v hrambo pri sodišču.
+Odvetnik, ki sestavi oporoko ali prejme v hrambo oporoko, sestavljeno v skladu z določili zakona, ki ureja dedovanje, posreduje zbornici zahtevo za vpis v centralni register oporok najkasneje v 15 dneh potem, ko je bila oporoka sestavljena ali je bila prejeta v hrambo pri odvetniku.
+Osebe iz drugega, tretjega in četrtega odstavka tega člena v zahtevi za vpis v centralni register oporok navedejo podatke iz 108.c člena tega zakona, s katerimi razpolagajo.

@@ -1,0 +1,2 @@
+# 51. člen
+V drugem odstavku 110. člena se v prvi alinei za besedo "notarja" doda vejica in besedilo "notarskega namestnika", v drugi alinei se za besedo "ministrstvo" črta vejica in besedilo "pristojnemu za pravosodje" ter za besedo "notarja" doda vejica in besedilo "notarskega namestnika", v tretji alinei pa se za besedo "notarja" doda vejica, besedilo "oziroma začasnega namestnika" pa se nadomesti z besedilom "notarskega kandidata ali notarskega pripravnika".
