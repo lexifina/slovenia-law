@@ -1,0 +1,2 @@
+# 7. člen
+Za promet izvoznih storitev, od katerih se plačuje posebni prometni davek, se glede davčne osnove, nastanka davčne obveznosti, evidentiranja prometa, obračunavanja in plačevanja davka, kraja plačila, zastaranja, nadzora nad obračunavanjem in plačevanjem davka, pravnih sredstev, obnove postopka, vračila davka, zamudnih obresti in kazenskih določb, uporabljajo določbe zakona o prometnem davku.
