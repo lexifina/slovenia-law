@@ -1,0 +1,3 @@
+# 2. člen
+9. člen se spremeni tako, da se glasi:
+"Glede položaja poslanca, glede pridobitve in prenehanja mandata poslanca, glede nezdružljivosti funkcije poslanca z drugimi funkcijami, glede poslanske imunitete, glede materialnih in drugih pogojev za delo poslanca, glede pravice poslanca po prenehanju mandata ter glede omejitev in obveznosti, vezanih na funkcijo poslanca, se uporabljajo določbe predpisov Evropske unije; za vprašanja, ki s predpisi Evropske unije niso urejena, pa se smiselno uporabljajo določbe zakona o poslancih in določbe drugih zakonov, ki veljajo za poslance državnega zbora.".
