@@ -1,0 +1,6 @@
+# 18. člen
+35. člen se spremeni tako, da se glasi:
+"Občinski svet sprejema odločitve na svoji seji z večino glasov navzočih članov. Svet lahko veljavno sklepa, če je na seji navzoča večina članov občinskega sveta.
+Seje občinskega sveta sklicuje in vodi župan. Župan lahko za vodenje seje občinskega sveta pooblasti podžupana ali drugega člana občinskega sveta. Če nastopijo razlogi, da župan ne more voditi že sklicane seje občinskega sveta, jo vodi podžupan, če pa tudi ta ne more voditi seje, jo vodi najstarejši član občinskega sveta.
+Župan sklicuje seje občinskega sveta v skladu z določbami statuta občine in poslovnika občinskega sveta, mora pa jih sklicati najmanj štirikrat letno. Župan mora sklicati sejo občinskega sveta, če to zahteva najmanj četrtina članov občinskega sveta, seja pa mora biti v petnajstih dneh potem, ko je bila podana pisna zahteva za sklic seje. Če župan seje občinskega sveta ne skliče v roku sedmih dni po prejemu pisne zahteve, jo lahko skličejo člani občinskega sveta, ki so zahtevo podali. Zahtevi za sklic seje občinskega sveta mora biti priložen dnevni red. Župan mora dati na dnevni red predlagane točke, predlagan dnevni red pa lahko dopolni še z novimi točkami.
+Strokovno in administrativno delo za potrebe občinskega sveta opravlja občinska uprava."

@@ -1,0 +1,8 @@
+# 9. člen
+V 24. členu se v prvem odstavku besedi "z občino" nadomestita z besedo "občine", beseda "izvajanje" pa se nadomesti z besedo "opravljanje". Na koncu prvega odstavka se pred piko doda besedilo "(prenesene naloge)".
+Dodajo se novi drugi, tretji, četrti in peti odstavek, ki se glasijo:
+"Na občino se lahko prenese opravljanje posameznih nalog iz državne pristojnosti, ki se lahko bolj racionalno in učinkovito opravljajo v občini, zlasti na področjih urejanja javnega primestnega prometa, obratovalnega časa gostinskih lokalov, izvajanja nalog na področju posegov v prostor in graditve objektov ter geodetske službe in zagotavljanja javne mreže gimnazij, srednjih in poklicnih šol ter javne zdravstvene službe na sekundarni ravni.
+Z zakonom se lahko določi, da se opravljanje posameznih nalog iz državne pristojnosti prenese na vse občine, na mestne občine, na občine na določenem območju ali na posamezno občino. Razloge in pogoje za opravljanje posameznih nalog iz državne pristojnosti v občini določi zakon.
+Zakon lahko določi, da se opravljanje posameznih nalog iz državne pristojnosti prenese na občine ob pogoju, da s tem soglašajo vse občine ali da s tem soglašajo vse mestne občine ali da s tem soglašajo vse občine na določenem območju. Šteje se, da je občina dala predhodno soglasje, če je vložila pri Državnem zboru pobudo za opravljanje posameznih nalog iz državne pristojnosti.
+Državni zbor mora pred sprejemom zakona, s katerim se občini v opravljanje prenesejo posamezne naloge iz državne pristojnosti, pridobiti predhodno soglasje občine."
+Dosedanji drugi odstavek postane šesti odstavek.

@@ -1,0 +1,4 @@
+# 47.b člen
+Pravico glasovati na referendumu imajo vsi občani, ki imajo pravico voliti člane občinskega sveta, če zakon ne določa drugače. Postopek za izvedbo referenduma vodijo organi, ki vodijo lokalne volitve. O ugovoru zaradi nepravilnosti pri delu volilnega odbora odloča občinska volilna komisija. Podrobneje določi postopek za izvedbo referenduma statut občine v skladu z zakonom.
+Odločitev na referendumu je sprejeta, če zanjo glasuje večina volivcev, ki so glasovali. Odločitev o uvedbi samoprispevka je sprejeta, če je zanjo glasovala večina vseh volivcev v občini oziroma v delu občine, za katerega se bo samoprispevek uvedel.
+Poročilo o izidu glasovanja na referendumu pošlje občinska volilna komisija občinskemu svetu ter ga objavi na način, ki je v statutu občine določen za objavo splošnih aktov občine."
