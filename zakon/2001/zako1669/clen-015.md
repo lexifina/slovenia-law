@@ -1,3 +1,0 @@
-# 15. člen (vložitev zahteve)
-(1) Če carinski organ zadrži blago v skladu s prejšnjim členom tega zakona, o tem nemudoma pisno obvesti Generalni carinski urad, ki nato pisno obvesti imetnika pravice o zadržanju, možni kršitvi njegovih pravic in možnosti vložitve zahteve po 5. členu tega zakona v roku treh delovnih dni od dneva zadržanja blaga.
-(2) Če imetnik pravice vloži zahtevo v skladu s prejšnjim odstavkom, je blago zadržano do odločitve Generalnega carinskega urada. Če Generalni carinski urad v skladu s 6. členom tega zakona ugodi zahtevi, se blago začasno zadrži za nadaljnjih deset delovnih dni. V tem roku mora imetnik pravice izvesti dejanja iz 9. člena tega zakona.

@@ -1,4 +1,0 @@
-# 8. člen (postopek z začasnim zadržanjem blaga)
-(1) Če carinski organ pri svojem delu odkrije blago, ki ustreza opisu blaga iz odločbe Generalnega carinskega urada o ugoditvi zahtevi za varstvo pravic po tem zakonu, začasno, za obdobje treh delovnih dni, zadrži prepustitev blaga in o tem nemudoma pisno obvesti Generalni carinski urad in imetnika pravice, če mu je znan, oziroma vložnika zahteve.
-(2) Ne glede na druge predpise se lahko imetnik pravice v času začasnega zadržanja blaga na podlagi pisnega obvestila Generalnega carinskega urada oziroma carinskega organa in v skladu s pogoji, ki jih le-ta določi, seznani z razpoložljivo dokumentacijo o vnosu blaga v Republiko Slovenijo oziroma iznosu iz nje v obsegu, ki je potreben, da se mu omogoči morebitno uveljavljanje sodnega varstva njegovih pravic.
-(3) Začasno zadržano blago se hrani v skladu s carinskimi predpisi, ki veljajo za carinsko skladiščenje blaga.
