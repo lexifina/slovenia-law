@@ -1,0 +1,2 @@
+# 55. člen
+Vojaške obveznike, ki so razporejeni v rezervni sestav organov za notranje zadeve, kličejo na vojaške vaje ter odločajo o njihovih prošnjah za odlaganje vaj ter drugih vprašanjih v zvezi z dolžnostjo služenja v rezervnem sestavu v skladu s tem zakonom organi za notranje zadeve, ki jih določi republiški upravni organ, pristojen za notranje zadeve. Republiški upravni organ, pristojen za notranje zadeve, predpisuje tudi programe za usposabljanje ter način vpoklica rezervnega sestava organov za notranje zadeve.

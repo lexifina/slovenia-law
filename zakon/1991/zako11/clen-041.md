@@ -1,0 +1,7 @@
+# 41. člen
+Civilna služba kot nadomestilo vojaškemu roku se izvršuje v zdravstvenih, socialnih, splošno reševalnih organizacijah, v organizacijah za rehabilitacijo invalidov ter drugih organizacijah, ki opravljajo dejavnost, ki je javnega pomena. Te organizacije določi republiški upravni organ, pristojen za upravo, po njihovem predhodnem soglasju.
+Organizacija, v kateri se izvaja civilna služba, mora praviloma zagotoviti za državljana, ki opravlja to službo, možnost nastanitve, prehrane ter druge pogoje. Določiti mora tudi odgovorno osebo, ki organizira in nadzoruje delo državljana, ki opravlja civilno službo.
+Državljan, ki opravlja civilno službo, je dolžan opravljati delo v organizaciji, v katero je napoten, v skladu s tem zakonom ter predpisi in akti, ki veljajo za delavce v tej organizaciji.
+Državljan in njegovi družinski člani so med opravljanjem civilne službe glede pravic iz zdravstvenega in socialnega varstva izenačeni z vojaki, ki služijo vojaški rok v vojaških enotah in zavodih. Pravico ima tudi do brezplačne nastanitve in prehrane oziroma do pokritja stroškov prehrane, prevoza na delo in izplačil za osebne potrebe v višini, kot pripada vojakom med služenjem vojaškega roka.
+Civilna služba je glede vštevanja v delovno dobo izenačena z vojaškim rokom.
+Državljan med opravljanjem civilne službe ne more skleniti delovnega razmerja niti opravljati z osebnim delom pridobitne dejavnosti.

@@ -1,0 +1,3 @@
+# 64. člen
+Vojaški obveznik, ki ga pristojni organ pokliče v zvezi z izvrševanjem vojaške dolžnosti, se mora priglasiti določenemu organu v kraju in v času, ki sta navedena v posamičnem ali splošnem pozivu, in vzeti s seboj stvari ter listine, ki so določene v pozivu.
+Posamični poziv, razen poziva za mobilizacijo ali za poskusno mobilizacijo, se pošlje vojaškemu obvezniku najpozneje 30 dni pred dnem, ki je določen za začetek obveznosti, zaradi katere je poklican. Posamičen poziv se lahko izjemoma pošlje vojaškemu obvezniku v krajšem roku tudi, če je to potrebno zaradi zagotavljanja bojne pripravljenosti oboroženih sil.

@@ -1,0 +1,5 @@
+# 28. člen
+Nabornik se lahko pošlje na služenje vojaškega roka do konca koledarskega leta, v katerem dopolni 27 let, razen če ta zakon ne določa drugače.
+Ne glede na prejšnji odstavek se nabornik, za katerega se ugotovi, da ni izpolnjeval s tem zakonom predpisanih obveznosti in zato ni bil poslan na služenje vojaškega roka do konca koledarskega leta, v katerem dopolni 27 let, pošlje na služenje vojaškega roka najpozneje do konca koledarskega leta, v katerem opolni 30 let.
+Vojaški obveznik, ki iz objektivnih razlogov ni bil poslan na služenje vojaškega roka do poteka roka iz prvega odstavka tega člena, izrazi pa željo, da bi služil vojaški rok, se lahko pošlje na služenje vojaškega roka, če je ocenjen kot sposoben za vojaško službo in če še ni star 30 let. Ta določba se ne uporablja za napotitev nabornikov na služenje vojaškega roka, ki jim je služenje vojaškega roka odloženo zaradi podiplomskega študija.
+Nabornik, ki se ne pošlje na služenje vojaškega roka do poteka rokov iz prvega, drugega in tretjega odstavka tega člena, ocenjen pa je kot sposoben za vojaško službo ali kot delno sposoben za vojaško službo, se prevede v rezervni sestav.

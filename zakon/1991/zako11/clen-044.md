@@ -1,0 +1,2 @@
+# 44. člen
+O pritožbah zoper odločbe komisij iz prejšnjega člena odloča komisija, ki jo imenuje Izvršni svet Skupščine Republike Slovenije. Komisijo sestavljajo poleg zdravnika in psihologa predstavniki republiških upravnih organov, pristojnih za pravosodje, upravo, zdravstveno in socialno varstvo, notranje zadeve, obrambo, zaščito in reševanje, znanstvenih ali strokovnih organizacij ter neodvisnih organizacij, ki se ukvarjajo s kulturo miru in nenasilja. Člani komisije imajo namestnike.

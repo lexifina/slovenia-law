@@ -1,0 +1,4 @@
+# 33. člen
+Vojaku se sme služenje vojaškega roka na njegovo prošnjo prekiniti zaradi rojstva otroka, smrti ali hude bolezni v družini ali zaradi naravne ali druge hude nesreče, če bi zaradi njegove odsotnosti njegova družina zašla v težak položaj, za toliko časa, dokler trajajo navedeni razlogi, vendar najdlje za eno leto.
+Vojaku se sme služenje vojaškega roka na prošnjo pristojne strokovne ali znanstvene organizacije prekiniti zaradi udeležbe na mednarodnih srečanjih ali strokovnega oziroma znanstvenega izpopolnjevanja v tujini, z njegovim soglasjem, vendar najdlje za eno leto.
+Služenje vojaškega roka se sme vojaku na njegovo prošnjo in na prošnjo pristojne republiške športne organizacije prekiniti tudi zaradi priprav ali udeležbe v sestavi reprezentance na svetovnem ali evropskem tekmovanju ali na olimpijskih igrah, če dopusta za udeležbo na športnih tekmovanjih ni dobil po predpisih, ki urejajo službo v oboroženih silah.
