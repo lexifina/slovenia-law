@@ -1,0 +1,3 @@
+# 8. člen Dolžnost izpustiti ali vrniti osebje Združenih narodov in spremljevalno osebje, ki sta zajeti ali pridržani
+
+Razen če ni drugače določeno v veljavnem sporazumu o statusu sil, se osebje Združenih narodov ali spremljevalno osebje, kadar je med opravljanjem svojih dolžnosti ujeto ali pridržano in je bila ugotovljena njegova identiteta, ne sme zasliševati in se nemudoma izpusti in vrne Združenim narodom ali drugim ustreznim oblastem. Do izpustitve se z osebjem ravna v skladu s splošno priznanimi standardi s področja človekovih pravic ter z načeli in v duhu Ženevskih konvencij iz leta 1949.
