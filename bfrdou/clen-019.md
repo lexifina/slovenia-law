@@ -1,0 +1,3 @@
+# 19. člen PROFESORJI, UČITELJI IN RAZISKOVALCI
+
+Ob upoštevanju določb 18. člena in ne glede na določbe prvega in drugega odstavka 14. člena se prejemki, ki jih prejme profesor, učitelj ali raziskovalec, ki je ali je bil tik pred obiskom države pogodbenice rezident druge države pogodbenice in je navzoč v prvi omenjeni državi samo zaradi poučevanja ali raziskovanja, za take dejavnosti, obdavčijo samo v drugi državi. Ta določba se uporablja za obdobje, ki ni daljše od 24 mesecev od datuma prvega prihoda profesorja, učitelja ali raziskovalca v prvo omenjeno državo zaradi poučevanja ali raziskovanja. Če pa se raziskovanje ne izvaja v javno korist, ampak predvsem v zasebno korist določene osebe ali oseb, se uporabljajo določbe prvega in drugega odstavka 14. člena.
