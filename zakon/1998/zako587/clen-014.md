@@ -1,0 +1,4 @@
+# 14. člen
+(1) Postopki za določitev sredstev državne pomoči po določbah 10., 13., 14., 15. in 16. člena zakona, začeti pred uveljavitvijo tega zakona, se nadaljujejo po določbah 2., 3., 4., 5. in 6. člena tega zakona.
+(2) Če se pri pravnomočno končanih postopkih za določitev sredstev državne pomoči po določbah zakona iz prejšnjega odstavka, ugotovi, da so bila upravičencem dodeljena manjša sredstva državne pomoči, kot bi jim pripadala po določbah tega zakona, imajo takšni upravičenci pravico do razlike. V takšnem primeru ministrstvo po uradni dolžnosti izda dopolnilno odločbo o namenu porabe in obsegu sredstev državne pomoči pri popotresni obnovi objektov.
+(3) Postopki za izdajo gradbenega dovoljenja na območju popotresne obnove, začeti pred uveljavitvijo tega zakona, se nadaljujejo po določbah 9. in 10. člena tega zakona.

@@ -1,0 +1,3 @@
+# 2. člen
+V 10. členu se v prvem odstavku v 4. točki beseda "in" nadomesti z vejico, v 5. točki pa se pika na koncu stavka nadomesti z besedo "in" ter doda 6. točka, ki se glasi:
+"6. refundacijo stroškov, ki jih zaradi začasne preselitve nosijo v potresu prizadeti prebivalci v zvezi s koriščenjem začasnih stanovanj oziroma drugih začasnih objektov (stroški najemnine in stroški, ki nastanejo zaradi uporabe pitne vode, elektrike, ogrevanja, odvoza smeti in drugi stroški komunalne oskrbe ter povečani stroški prevoza na delo in z dela) in sicer za čas, dokler se ne vselijo v njihove obnovljene oziroma nadomeščene objekte."

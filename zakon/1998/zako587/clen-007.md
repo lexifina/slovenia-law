@@ -1,0 +1,3 @@
+# 7. člen
+V 18. členu se drugi odstavek spremeni tako, da se glasi:
+"Poročilo o zbranih in porabljenih sredstvih državne pomoči in o rezultatih izvajanja programa popotresne obnove objektov ter poročilo o prioritetnih nalogah nadaljnje popotresne obnove za posamezno časovno obdobje, predloži vlada Državnemu zboru dvakrat letno: ob zaključku posamezne obnovitvene sezone (meseca decembra) in pred začetkom novega obnovitvenega obdobja (meseca marca). Celovito poročilo o realiziranih prihodkih in izplačilih za posamezno leto popotresne obnove pa predloži vlada Državnemu zboru v roku iz tretjega odstavka 9. člena tega zakona."
