@@ -1,0 +1,4 @@
+# 210. člen (Uporaba prava kadar ni jasno, katero pravo naj se uporabi)
+(1) Če se pravo, za katero sta se pogodbeni stranki dogovorili, ne more uporabljati za vso pogodbo ali za posamezno razmerje, ki izhaja iz nje, ali če stranki nista izrecno določili, katero pravo bosta uporabljali, njunega namena glede uporabe določenega prava pa tudi ni mogoče nedvomno ugotoviti iz okoliščin primera, se za pogodbo oziroma pogodbeno razmerje uporablja pravo, ki je z njima najtesneje povezano.
+(2) Če iz bistvenih okoliščin ne izhaja kaj drugega, se uporablja za glavne pravice in glavne obveznosti kot najbližje pravo države, v kateri je imel ob sklenitvi pogodbe prevoznik stalno prebivališče oziroma sedež.
+(3) Za stranske pravice in stranske obveznosti, kot so način sprejemanja in izročanja stvari ali način plačevanja prevoznine in podobno, se uporablja pravo kraja, kjer so bila oziroma kjer naj bi bila ta dejanja opravljena.

@@ -1,0 +1,5 @@
+# 159. člen (Zavarovanje odgovornosti)
+(1) Pri zavarovanju odgovornosti zavarovalca za škodo, povzročeno drugim osebam, se iz zavarovanja povrnejo zneski, ki jih mora zavarovalec plačati tem osebam zaradi svoje odgovornosti, krite z zavarovanjem, ter stroški, ki so potrebni za ugotovitev njegove obveznosti.
+(2) Pri obveznih zavarovanjih odgovornosti sme oškodovanec zahtevati nadomestilo za škodo, za katero odgovarja zavarovalec, neposredno od zavarovalnice, vendar največ do zneska obveznosti zavarovalnice.
+(3) Iz zavarovanja se povrnejo tudi stroški za ukrepe, storjene na zahtevo zavarovalnice in njenih predstavnikov ali v sporazumu z njimi, da bi se zavarovali pred neupravičenimi in pretiranimi zahtevami drugih, ter stroški za razumne ukrepe, ki jih je zavarovalec storil z enakim namenom brez soglasja zavarovalnice ali njenih predstavnikov, če takšnega soglasja ni bilo mogoče pravočasno dobiti.
+(4) Zavarovalnica povrne škodo zaradi odgovornosti zavarovalca in stroškov ugotavljanja njegove obveznosti največ do višine zavarovalne vsote, določene v zavarovalni pogodbi.

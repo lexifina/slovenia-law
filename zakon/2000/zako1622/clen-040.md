@@ -1,0 +1,2 @@
+# 40. člen (Sprememba tovora pri pogodbi o prevozu z vsem letalom)
+Pri pogodbi o prevozu tovora z vsem letalom sme naročnik prevoza namesto dogovorjenega tovora oddati za prevoz drugi tovor, če se s tem prevozni pogoji ne spremenijo v škodo prevoznika, če zaradi tega ne bi bilo zadržano letalo ali ne bi bila ogrožena njegova varnost in če pošiljatelj na prevoznikovo zahtevo položi varščino za terjatev, ki bi utegnila nastati zaradi zamenjave tovora.

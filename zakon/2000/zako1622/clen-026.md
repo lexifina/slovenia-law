@@ -1,0 +1,2 @@
+# 26. člen (Kumulacija odškodninskih zahtevkov)
+Celoten znesek odškodnine iz prvega odstavka 24. člena tega zakona, ki se sme zahtevati za enega potnika v zvezi z istim dogodkom od prevoznika in izpolnitvenega pomočnika, oziroma od pogodbenega in dejanskega prevoznika ter izpolnitvenih pomočnikov, ne sme presegati zneska iz prvega odstavka 24. člena tega zakona, razen če je bila škoda povzročena namenoma ali iz hude malomarnosti.

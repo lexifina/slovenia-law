@@ -1,0 +1,4 @@
+# 14. člen (Upoštevanje zavrnitve vkrcanja v splošnih prevoznih pogojih prevoznika)
+(1) Prevoznik mora v svojih splošnih prevoznih pogojih določiti pravila, ki jih bo upošteval v primeru zavrnitve vkrcanja pri letu s prevelikim številom rezervacij, ter jih dati na razpolago javnosti v svojih agencijah, drugih potovalnih agencijah in prodajnih mestih ter na okencih za prijavo potnikov, kakor tudi potniku iz prvega odstavka prejšnjega člena.
+(2) Prevoznik mora vključiti v pravila iz prejšnjega odstavka možnost, da se povabijo osebe, ki bi bile pripravljene odstopiti sedeže potnikom iz prvega odstavka prejšnjega člena v zameno za odškodnino.
+(3) Prevoznik mora v pravilih upoštevati interese potnikov, ki jim je potrebno dati prednost pri vkrcanju zaradi upravičenih razlogov, kot na primer invalidom in otrokom brez spremstva.

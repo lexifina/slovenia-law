@@ -1,0 +1,4 @@
+# 32. člen (Registrirana prtljaga)
+(1) Prevoznik je dolžan prevzeti za prevoz prtljago, ki ni ročna prtljaga (registrirana prtljaga), in o tem izdati pisno potrdilo.
+(2) Kot registrirana prtljaga se za prevoz ne morejo oddati stvari, za katere je potrebno posebno dovoljenje, ali ki se morajo prevažati pod posebnimi pogoji, ali ki utegnejo po svoji naravi povzročiti nevarnost za letalo ali za potnike ali povzročiti škodo drugi prtljagi, kakor tudi ne stvari, ki zaradi svoje narave, obsega ali teže ne spadajo v prostore, ki so določeni za prtljago.
+(3) Prevoznik določi v splošnih prevoznih pogojih, do katere teže in obsega lahko potnik odda registrirano prtljago in do katere teže se ta prtljaga prevaža brez posebnega plačila.

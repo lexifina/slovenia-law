@@ -1,0 +1,2 @@
+# 84. člen (Kogentnost in dispozitivnost določb tega poglavja)
+Ne glede na prvi odstavek 3. člena tega zakona so lahko v pogodbi o prevozu tovora določila, po katerih je prevoznik popolnoma ali deloma oproščen odgovornosti ali ki predvidevajo omejitve odgovornosti, ki so za prevoznike ugodnejše od omejitev po tem zakonu, vendar samo za primer izgube ali poškodovanja, nastale zaradi narave ali napake tovora, ki se prevaža.

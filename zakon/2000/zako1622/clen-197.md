@@ -1,0 +1,4 @@
+# 197. člen (Prenehanje teka trimesečnega roka)
+(1) Trimesečni rok iz 195. člena tega zakona neha teči, če je vložena tožba za uveljavitev terjatve, vendar le pod pogojem, da se letalo v smislu določb četrtega poglavja tega zakona začasno zaustavi in zaznamba tožbe vpiše v Register zrakoplovov.
+(2) Ko postane sodba na podlagi vložene tožbe, ki je predmet zaznambe, izvršljiva, preneha privilegij v šestdesetih dnevih od izvršljivosti sodbe, če upnik v tem roku ne zahteva prisilne prodaje letala ali njegove začasne zaustavitve.
+(3) Upnik ima v roku iz prejšnjega odstavka pravico zahtevati od sodišča izdajo odločbe, s katero odredi naj terjatev iz tega privilegija vpiše kot hipoteko z vrstnim redom od takrat, ko je bila zaznamba tožbe za uveljavitev terjatve, zavarovalnine s privilegijem, vpisana v Register zrakoplovov.

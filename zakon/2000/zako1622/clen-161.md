@@ -1,0 +1,2 @@
+# 161. člen (Smiselna uporaba določb o pogodbi o pomorskem zavarovanju)
+Če ni s tem zakonom ali s pogodbo drugače določeno, se glede sklenitve zavarovalne pogodbe, obveznosti zavarovalca in zavarovalnice pred in po nastanku zavarovalnega primera, zavarovanih nevarnosti, nadzavarovanja in podzavarovanja, večkratnega zavarovanja, plačila in vračila premije, stroškov preprečevanja, reševanja in ugotavljanja škode, subrogacije, kakor tudi glede zavarovanja blaga, prevoznine ter drugih zavarovanj smiselno uporabljajo določbe predpisov, ki urejajo pogodbo o pomorskem zavarovanju.
