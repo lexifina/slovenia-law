@@ -1,0 +1,2 @@
+# 1. člen
+V zakonu o ureditvi obračunavanja in plačevanja določenih davkov in prispevkov v postopkih lastninskega preoblikovanja podjetij (Uradni list RS, št. 69/94), se v 1. členu, na koncu stavka, namesto pike vstavi vejica in doda besedilo "na podlagi zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 55/92, 7/93 in 31/93), zakona o privatizaciji pravnih oseb v lasti Sklada Republike Slovenije za razvoj in obveznostih Agencije Republike Slovenije za prestrukturiranje in privatizacijo (Uradni list RS, št. 71/94) in drugih lastninskih zakonov."
