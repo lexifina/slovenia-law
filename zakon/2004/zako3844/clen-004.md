@@ -1,0 +1,6 @@
+# 4. člen
+V prvem odstavku 15. člena se dodata novi četrta in peta alinea, ki se glasita:
+"- pri dobavi plina preko distribucijskega sistema za zemeljski plin ali dobavi električne energije davčnemu zavezancu - preprodajalcu: kraj, kjer ima davčni zavezanec - preprodajalec sedež ali stalno poslovno enoto, za katero je blago dobavljeno, oziroma če takega kraja ni kraj, kjer ima stalno prebivališče ali kjer običajno prebiva.
+Izraz "davčni zavezanec - preprodajalec" po tej alinei pomeni davčnega zavezanca, katerega osnovna dejavnost v zvezi z nabavami plina in električne energije je preprodaja takšnega blaga, in katerega lastna poraba tega blaga je neznatna;
+- pri dobavi plina preko distribucijskega sistema za zemeljski plin ali dobavi električne energije, ki ni dobava iz prejšnje alinee: kraj, kjer naročnik dejansko rabi in porabi plin ali električno energijo.
+Kadar navedeni naročnik ne porabi plina ali električne energije v celoti, se šteje, da sta bila neporabljen plin ali električna energija rabljena in porabljena v kraju, kjer ima sedež ali stalno poslovno enoto, za katero sta plin ali električna energija dobavljena. Če takega kraja ni, se šteje, da sta bila plin ali električna energija rabljena in porabljena v kraju, kjer ima stalno prebivališče ali kjer običajno prebiva."
