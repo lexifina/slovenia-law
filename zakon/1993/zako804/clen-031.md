@@ -1,0 +1,2 @@
+# 31. člen
+Ne glede na določbo 56. člena tega zakona lahko uveljavijo v šolskem letu 1993/94 pravico do republiške štipendije učenci in študenti, vpisani v tem letu, ki se šolajo v kraju stalnega bivališča in katerih dohodek na družinskega člana v drugem trimesečju leta 1993 ne presega 100% zajamčene plače po zakonu, ter učenci in študenti, ki se šolajo v kraju izven stalnega bivališča in katerih dohodek na družinskega člana ne presega 130% zajamčene plače po zakonu, če redno izpolnjujejo učne oziroma študijske obveznosti.

@@ -1,0 +1,2 @@
+# 35. b člen
+Za družinske člane zavarovanca se po tem zakonu štejejo zakonec oziroma oseba, ki živi z njim v življenjski skupnosti, ki je po predpisih o zakonski zvezi in družinskih razmerjih v pravnih posledicah izenačena z zakonsko zvezo, otroci, posvojenci ter pastorki, dokler so jih starši. dolžni preživljati ter starši oziroma posvojitelji, če nimajo lastnih sredstev za preživljanje in jih zavarovanec preživlja.

@@ -1,0 +1,2 @@
+# 15. člen
+37. člen se spremeni tako, da se glasi: "Denarna, pomoč se zavarovancu, ki izpolnjuje pogoje iz 35: člena tega zakona, izplačuje šest mesecev. Razlogi iz 33. in 33. a člena tega zakona, zaradi katerih se zavarovancu preneha izplačevati denarno nadomestilo in možnost, da se mu po prenehanju teh razlogov izplačuje preostanek denarnega nadomestila, veljajo tudi za zavarovance s pravico do denarne pomoči."
