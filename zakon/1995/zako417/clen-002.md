@@ -1,2 +1,2 @@
 # 2. člen
-Poroštvene pogodbe po tem zakonu sklepa oziroma daje poroštvene izjave minister, pristojen za finance, na podlagi pogodbe o zavarovanju poroštva med Republiko Slovenijo in kreditojemalcem.
+Poroštvene pogodbe z upniki sklepa oziroma daje poroštvene izjave minister, pristojen za finance, na podlagi pogodbe o zavarovanju iz 1. člena zakona.
