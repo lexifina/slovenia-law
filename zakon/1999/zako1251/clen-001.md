@@ -1,0 +1,7 @@
+# 1. člen
+V zakonu o državnem tožilstvu (Uradni list RS, št. 63/94) se 10. člen spremeni tako, da se glasi:
+"10. člen
+Za pregon storilcev kaznivih dejanj s področja organiziranega kriminala se pri Državnem tožilstvu Republike Slovenije ustanovi skupina državnih tožilcev za posebne zadeve (v nadaljevanju: skupina).
+Za organiziran kriminal se po tem zakonu štejejo uradno pregonljiva kazniva dejana, storjena v okviru organizirane kriminalne združbe z notranjimi pravili ravnanja, ki deluje na podjetniški način in pri tem praviloma uporablja nasilje oziroma korupcijo ter z namenom pridobivanja protipravne premoženjske koristi ali družbene moči. Zlasti so to dejanja s področja pranja denarja, korupcije, proizvodnje in prometa z mamili in orožjem, trgovine z belim blagom, zvodništva in prostitucije, hudodelskega združevanja in kazniva dejanja z mednarodnim elementom.
+Skupina izvaja pregon iz prejšnjega odstavka do konca postopka na prvi stopnji na celotnem ozemlju Republike Slovenije. Pri izvrševanju svojih nalog sodeluje z državnim tožilstvom, ki bi bilo pristojno za obravnavanje zadeve po splošnih predpisih o krajevni pristojnosti. Krajevno pristojna državna tožilstva so dolžna obveščati generalnega državnega tožilca Republike Slovenije o zadevah iz prejšnjega odstavka takoj, ko izvedo zanje. Po dodelitvi generalnega državnega tožilca Republike Slovenije, zadevo prevzame v obravnavanje skupina.
+Vodja skupine o prevzemu zadeve obvesti policijo."
