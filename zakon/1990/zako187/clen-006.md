@@ -1,0 +1,5 @@
+# 6. člen
+Osnova za obračun osebnega dohodka je povprečni osebni dohodek na delavca, izplačan v gospodarstvu Republike Slovenije za pretekli mesec po uradnih podatkih Zavoda Republike Slovenije za statistiko, ki je lahko zmanjšan za odstotek, ki ga določi Izvršni svet Skupščine Republike Slovenije glede na proračunske možnosti.
+Koeficienti za določanje osebnih dohodkov za posamezne skupine funkcij so določeni v razponu; najvišji koeficient je 6,5.
+Delovne izkušnje se vrednotijo tako, da se osebni dohodek funkcionarja v mesečnem znesku poveča za 0,5% za vsako začeto leto delovne dobe, vendar največ do 20%. Odstotek 0,5 se za ženske, ki imajo več kot 25 let delovne dobe, poveča še za 0,25% za vsako začeto leto delovne dobe nad 25 let.
+Sredstva za delovno uspešnost oziroma za dodatno delovno obremenjenost, se določijo v proračunu v deležu od sredstev, ki se namenjajo organom za osebne dohodke, na podlagi kriterijev, ki jih določi komisija Skupščine Republike Slovenije, pristojna za volitve in imenovanja.

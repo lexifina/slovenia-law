@@ -1,0 +1,3 @@
+## I. SPLOŠNE DOLOČBE
+# 1. člen
+Funkcionarji po tem zakonu so osebe, ki jih na funkcijo volijo skupščine družbenopolitičnih skupnosti, predsednik in člani Predsedstva Republike Slovenije in delegati v zborih skupščin družbenopolitičnih skupnosti, kakor tudi funkcionarji pravosodnih organov, ki jih imenujejo skupščine družbenopolitičnih skupnosti, funkcionarji družbenega pravobranilca samoupravljanja, namestniki republiških sekretarjev ter generalni sekretarji Predsedstva Republike Slovenije, Skupščine Republike Slovenije, Ustavnega sodišča Republike Slovenije in Izvršnega sveta Skupščine Republike Slovenije.
