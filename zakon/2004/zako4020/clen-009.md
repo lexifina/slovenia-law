@@ -1,0 +1,7 @@
+# 9. člen (postopnost izvedbe ureditev vodne, državne in lokalne infrastrukture)
+(1) Ureditve vodne infrastrukture in ureditve državne in lokalne infrastrukture se izvajajo v obdobju od leta 2000 do leta 2015.
+(2) V lokacijskem načrtu je za vsako hidroelektrarno posebej določena tudi postopnost izvedbe ureditev iz prejšnjega odstavka.
+(3) Koncesionar pridobi izvajalce za izvedbo ureditev vodne infrastrukture in ureditev državne in lokalne infrastrukture za dela, ki jih ne more ali ne namerava izvesti sam, po predpisih o javnih naročilih.
+(4) Koncesionar lahko na območju posamezne hidroelektrarne prične z izvedbo ureditev vodne infrastrukture in ureditev državne in lokalne infrastrukture, ko je za ta dela pridobil vsa predpisana dovoljenja za poseg v prostor in gradnjo in mu je Vlada Republike Slovenije potrdila program izvedbe infrastrukturnih ureditev.
+(5) S programom izvedbe infrastrukturnih ureditev se določijo vrstni red prednostnih nalog infrastrukturnih ureditev, viri sredstev za njihovo izvedbo ter dinamika in obseg uresničitve posameznih nalog v planskem obdobju. Program izvedbe mora vsebovati poleg tehnično tehnološkega opisa posameznih ureditev in vrednosti del tudi pregled del, ki jih ne bo izvedel koncesionar.
+(6) Program izvedbe iz četrtega odstavka tega člena pripravi koncesionar, za njegovo pripravo za obravnavo na Vladi Republike Slovenije pa je odgovorno ministrstvo, pristojno za okolje in prostor, ob soglasju ministrstva, pristojnega za energetiko in pristojnega organa lokalne skupnosti.
