@@ -1,0 +1,3 @@
+# 10. ČLEN
+
+Konferenca specializiranih parlamentarnih organov za zadeve Unije lahko pripravi kakršen koli prispevek, ki ga smatra za primernega, in z njim seznani Evropski parlament, Svet in Komisijo. Poleg tega ta konferenca spodbuja izmenjavo informacij in najboljše prakse med nacionalnimi parlamenti in Evropskim parlamentom, vključno med njihovimi specializiranimi odbori. Organizira lahko tudi medparlamentarne konference o posebnih temah, zlasti zaradi razprav o vprašanjih skupne zunanje in varnostne politike, vključno s skupno varnostno in obrambno politiko. Prispevki konference ne zavezujejo nacionalnih parlamentov in ne prejudicirajo njihovih stališč.

@@ -1,0 +1,3 @@
+# 69. ČLEN
+
+Unija in zadevne države članice sprejmejo ukrepe za povečevanje železniškega in kombiniranega prevoza. Po potrebi in ob upoštevanju določb Ustave se takšni ukrepi določijo po posvetovanju z železniškimi družbami in drugimi ponudniki železniških storitev. Prednost imajo tisti ukrepi, ki so navedeni v določbah prava Unije o železnicah in kombiniranem prevozu. Pri izvajanju ukrepov je treba posebno pozornost nameniti konkurenčnosti, učinkovitosti in preglednosti stroškov železniškega in kombiniranega prevoza. Zadevne države članice si predvsem prizadevajo sprejeti ukrepe, ki bodo zagotovili konkurenčnost cen kombiniranega prevoza s cenami drugih načinov prevoza. Pomoč, dodeljena v ta namen, je skladna s pravom Unije.

@@ -1,0 +1,3 @@
+# 4. ČLEN
+
+Od dne, ko je nacionalnim parlamentom dostopen osnutek evropskega zakonodajnega akta v uradnih jezikih Unije, in dnem, ko je uvrščen na začasni dnevni red Sveta zaradi njegovega sprejetja ali sprejetja stališča po zakonodajnem postopku, mora preteči rok šestih tednov. Izjeme so možne v nujnih primerih, ki se utemeljijo v aktu ali stališču Sveta. Razen v nujnih primerih, ki so bili ustrezno utemeljeni, se v teh šestih tednih ne sme sprejeti nikakršen dogovor o osnutku evropskega zakonodajnega akta. Razen v nujnih primerih, ki so bili ustrezno utemeljeni, mora med uvrstitvijo osnutka evropskega zakonodajnega akta na začasni dnevni red Sveta in sprejetjem stališča preteči deset dni.
