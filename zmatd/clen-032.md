@@ -1,0 +1,3 @@
+# 32. člen
+
+Z uveljavitvijo tega zakona preneha veljati četrti odstavek 11. člena zakona o obrambi (Uradni list RS, št. 82/94, 44/97, 87/97, 13/98 – odl. US in 33/00 – odl. US), drugi in tretji odstavek 25. člena, tretji odstavek 30. člena in 4. točka 121. člena zakona o varstvu pred naravnimi in drugimi nesrečami (Uradni list RS, št. 64/94 in 33/00 – odl. US) ter uredba o izvajanju materialne dolžnosti za potrebe obrambe, zaščite, reševanja in pomoči (Uradni list RS, št. 35/97 in 33/00 – odl. US) razen tarife za nadomestila za uporabo sredstev iz popisa in obrazca zahtevka za odmero nadomestila za uporabo, ki ju je potrebno s tem zakonom uskladiti v treh mesecih po njegovi uveljavitvi.

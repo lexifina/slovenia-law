@@ -1,0 +1,3 @@
+# 18. člen
+
+V primeru enkratne uporabe zemljišč in objektov, na katerih se izvaja mobilizacija ali vaje Slovenske vojske, enot za zveze oziroma vaje sil za zaščito, reševanje in pomoč, jih upravni organ, pristojen za obrambne zadeve, vpokliče brez predhodnega postopka razporejanja. V vpoklicu zaradi vaj se mora določiti čas in namen uporabe ter druge pomembnejše okoliščine. Če se vaje izvajajo na zemljiščih, ki so v lasti ali uporabi večjega števila imetnikov, je o tem potrebno obvestiti tudi lokalno skupnost. Vpoklic zaradi vaj se mora izvršiti in o tem obvestiti lokalno skupnost najmanj 30 dni pred dnevom vaje.
