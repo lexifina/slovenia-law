@@ -1,0 +1,3 @@
+# 7. člen DOLOČITEV KRAJA
+
+V okviru svojega pravnega sistema skuša pogodbenica izvora sprejeti strategijo za določitev kraja novih nevarnih dejavnosti in za uvajanje večjih sprememb v obstoječe nevarne dejavnosti, da bi tako čim bolj zmanjšala tveganje za prebivalstvo in okolje vseh prizadetih pogodbenic. V okviru svojih pravnih sistemov skušajo prizadete pogodbenice sprejeti strategijo o večjih spremembah na območjih, ki bi jih lahko prizadeli čezmejni učinki industrijske nesreče zaradi nevarne dejavnosti, in tako čim bolj zmanjšati s tem povezana tveganja. Pri oblikovanju in določanju te strategije naj pogodbenice upoštevajo navedbe iz pododstavkov (1) do (8) drugega odstavka Priloge V in Priloge VI k tej konvenciji.

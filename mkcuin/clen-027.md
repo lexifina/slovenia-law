@@ -1,0 +1,3 @@
+# 27. člen PODPIS
+
+Ta konvencija je na voljo za podpis v Helsinkih od 17. do vključno 18. marca 1992, nato pa na sedežu Združenih narodov v New Yorku do 18. septembra 1992 državam članicam Gospodarske komisije za Evropo kot tudi državam, ki imajo posvetovalni status pri Gospodarski komisiji za Evropo v skladu z osmim odstavkom resolucije 36 (IV) Ekonomsko-socialnega sveta z dne 28. marca 1947, in tudi regionalnim organizacijam za gospodarsko povezovanje, ki so jih ustanovile suverene države članice Gospodarske komisije za Evropo, na katere so njihove države članice prenesle pristojnosti v zvezi z zadevami, ki jih ureja ta konvencija, skupaj s pristojnostjo za sklepanje mednarodnih pogodb v zvezi s temi zadevami.
