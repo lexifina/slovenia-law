@@ -1,0 +1,3 @@
+# 48. člen
+Osebe, ki ob uveljavitvi tega zakona prirejajo igre na način iz 4. člena tega zakona, morajo prenehati prirejati tovrstne igre v enem letu od uveljavitve tega zakona oziroma lahko prirejanje iger prenesejo na prireditelja, ki ima koncesijo za prirejanje iger na srečo.
+Ministrstvo, pristojno za finance, izda osebam iz prejšnjega odstavka dovoljenje za prirejanje iger do preteka roka iz prejšnjega odstavka. V dovoljenju določi tudi višino dajatve na način, kot je predpisan v 40. členu ZIS. Ne glede na določbo 47. člena ZIS je dajatev po tem členu prihodek proračuna Republike Slovenije.

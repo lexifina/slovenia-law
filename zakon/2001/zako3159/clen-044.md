@@ -1,0 +1,2 @@
+# 44. člen
+Ne glede na prvo alineo prvega odstavka 20. člena zakona o lastninskem preoblikovanju pravnih oseb z družbenim kapitalom, ki prirejajo posebne igre na srečo in o strukturi kapitala pravnih oseb, ki opravljajo dejavnost prirejanja posebnih iger na srečo (Uradni list RS, št. 40/97) ima lahko družba, ki ima na dan uveljavitve tega zakona koncesijo za prirejanje posebnih iger na srečo, več kot 20% navadnih delnic koncesionarja.
