@@ -1,0 +1,3 @@
+# 5. člen
+
+Če kot pogoj za varstvo proizvajalcev fonogramov država pogodbenica zahteva po svojem domačem pravu izpolnitev določenih formalnosti, se šteje, da so te formalnosti izpolnjene, če je na vseh avtoriziranih kopijah fonograma, distribuiranih javnosti, ali na njihovih ovitkih opozorilo v obliki znaka P skupaj z letnico prve izdaje, in to tako, da primerno opozori na zahtevano varstvo; in če na kopijah ali njihovih ovitkih ni naveden proizvajalec, njegov pravni naslednik ali imetnik izključne licence (z navedbo imena, blagovne znamke ali druge ustrezne označbe), mora opozorilo vsebovati tudi ime proizvajalca, njegovega pravnega naslednika ali imetnika izključne licence.
