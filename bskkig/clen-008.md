@@ -1,0 +1,3 @@
+# 8. člen
+
+Za usklajevanje dela pri uveljavljanju tega sporazuma je odgovorna mešana komisija. Mešana komisija bo pripravljala posamezne projekte sodelovanja in jih predlagala pogodbenicama. Mešana komisija se bo sestajala po potrebi, in sicer najmanj enkrat letno, izmenično v Republiki Sloveniji in Slovaški republiki, kot bo dogovorjeno. Dva meseca pred sestankom mešane komisije si bosta pogodbenici pisno izmenjali predloge za sodelovanje v naslednjem obdobju. Rezultati sestankov bodo zapisani v protokolu sestanka. Tehnično-administrativne stroške takšnih sestankov bo poravnala pogodbenica, ki je gostiteljica, druge stroške (potne, oskrbne in nastanitvene) pa vsaka pogodbenica sama.
