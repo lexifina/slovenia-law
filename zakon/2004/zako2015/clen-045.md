@@ -1,0 +1,3 @@
+# 45. člen (vpis pravnih in drugih oseb v davčni register)
+(1) Pravna in druga oseba, ki je subjekt vpisa v sodni register ali kakšen drug register oziroma evidenco, predloži prijavo za vpis v davčni register davčnemu uradu, na območju katerega ima sedež, v osmih dneh po opravljenem vpisu oziroma prijavi v sodni register, drug register ali evidenco oziroma v osmih dneh po dnevu, ko prične dejansko opravljati dejavnost v Sloveniji.
+(2) Oseba, ki nima sedeža ali druge oblike registracije v Sloveniji, predloži prijavo za vpis v davčni register pred pričetkom opravljanja aktivnosti na območju Slovenije davčnemu uradu, na območju katerega bo opravljala aktivnost.

@@ -1,0 +1,2 @@
+# 6. člen (pokrivanje stroškov pobiranja davkov in drugih obveznih dajatev)
+Za pokrivanje stroškov opravljanja nalog iz prejšnjega člena, ki se ne nanašajo na državni proračun in na proračun Skupnosti, pripada državnemu proračunu del pobranih davkov in drugih obveznih dajatev, izražen v deležu od plačanih posameznih vrst davkov in drugih obveznih dajatev. Ta delež določi Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) za vsako proračunsko leto posebej glede na stroške izvajanja teh nalog v preteklem letu.
