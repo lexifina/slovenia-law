@@ -1,5 +1,5 @@
 # 103. člen (finančna jamstva in drugi pogoji)
-(1) Za vsako pošiljko radioaktivnih odpadkov, izrabljenega goriva, ali jedrskih snovi mora oseba, ki le-te vnaša iz držav članic EU ali jih iznaša v države članice EU ali jih uvaža ali izvaža, zagotoviti poleg zavarovanja, kot ga določajo carinski predpisi, tudi finančna jamstva v višini, ki zagotavlja plačilo stroškov:
+(1) Za vsako pošiljko radioaktivnih odpadkov, izrabljenega goriva ali jedrskih snovi mora oseba, ki le-te vnaša iz držav članic EU ali jih iznaša v države članice EU ali jih uvaža ali izvaža, zagotoviti poleg zavarovanja, kot ga določajo carinski predpisi, tudi finančna jamstva v višini, ki zagotavlja plačilo stroškov:
 - zavrnitve pošiljke od pristojnih organov države, v katero je bila namenjena, ali
 - za ravnanja, ki jih je odredilo ministrstvo, pristojno za okolje, če je ugotovilo, da za radioaktivne odpadke, ki se vnašajo iz držav članic EU ali uvažajo ni zagotovljenega ravnanja po tem zakonu.
 (2) Vlada določi višino in načine finančnega jamstva iz prvega odstavka tega člena.

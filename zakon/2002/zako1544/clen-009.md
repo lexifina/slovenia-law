@@ -5,7 +5,7 @@
 - proizvajati, predelovati, uporabljati, skladiščiti, pošiljati, vnašati iz držav članic EU, iznašati v države članice EU, uvažati, izvažati ali odlagati radioaktivne snovi ali jih le posedovati ali z njimi kako drugače rokovati,
 - proizvajati, vnašati iz držav članic EU, uvažati, vzdrževati ali izvajati dejavnost z napravo ali opremo, ki sama ali zaradi sestavnih delov oddaja ionizirajoča sevanja zaradi obratovanja pri električni napetosti večji od 5 kV,
 - izvajati dejavnost, ki jo določi vlada kot sevalno dejavnost, za katero izvajanje je treba pridobiti dovoljenje,
-mora svojo namero priglasiti (v nadaljnjem besedilu: priglasitev namere).
+- mora svojo namero priglasiti (v nadaljnjem besedilu: priglasitev namere).
 (2) Oseba iz prejšnjega odstavka priglasi namero ministrstvu, pristojnemu za okolje, razen če gre za uporabo radioaktivnih snovi ali naprav ter opreme iz druge alinee prejšnjega odstavka v zdravstvu ali veterinarstvu ali za izvajanje sevalne dejavnosti v zdravstvu ali veterinarstvu, katerih namero priglasi ministrstvu, pristojnemu za zdravje.
 (3) Ne glede na določbe prejšnjega odstavka ni treba priglasiti namere, če gre za uporabo:
 - zaprtih virov sevanja, ki so tipsko odobreni in pri katerih pri normalnem obratovanju niso presežene predpisane mejne vrednosti za hitrost doze,

@@ -30,6 +30,6 @@ Izvajalec sevalne dejavnosti in upravljavec ali uporabnik vira sevanja krije str
 - načrtovanja ukrepov zaščite in reševanja (104. člen),
 - storitev služb za fizično varovanje (118. člen),
 - varnostnega preverjanja oseb, ki se zaposlujejo (120. člen),
-- vodenja evidenc in izvajanje nadzora jedrskih snovi po območjih materialnih bilanc (122. člen),
+- vodenja evidenc in izvajanje nadzora jedrskih snoveh po območjih materialnih bilanc (122. člen),
 - storitev izvajalcev obratovalnega monitoringa radioaktivnosti okolja (124. člen),
 - odrejenih izjemnih ukrepov sanacije posledic izrednega dogodka ali opustitve predpisanega ravnanja z radioaktivnimi snovmi, vključno s stroški spremljanja in nadzora učinkov sanacije (125. člen).

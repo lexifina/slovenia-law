@@ -8,6 +8,5 @@
 (3) Za priglasitev namere se šteje tudi:
 - vloga za izdajo dovoljenja za vnos iz držav članic EU, iznos v države članice EU, uvoz, izvoz in tranzit jedrskih snovi, radioaktivnih odpadkov in izrabljenega goriva,
 - vloga za izdajo dovoljenja za uvoz in izvoz radioaktivnih snovi,
-- (črtana),
 - vloga za uporabo vira sevanja, če gre za vir sevanja, ki je glede namena rabe in značilnosti ionizirajočega sevanja enak viru sevanja, za katerega je zavezanec že pridobil dovoljenje za uporabo,
 - vloga za izdajo okoljevarstvenega soglasja, če gre za izvajanje sevalne dejavnosti v sevalnem objektu ali v jedrskem objektu.
