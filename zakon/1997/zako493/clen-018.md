@@ -1,0 +1,4 @@
+## III. LASTNINSKO PREOBLIKOVANJE PRAVNIH OSEB Z DRUŽBENIM KAPITALOM, KI IMAJO KAPITALSKE DELEŽE V PPIS
+# 18. člen
+Pravne osebe, ki se lastninsko preoblikujejo na podlagi ZLPP ali ZPPOLS, ter imajo ob uveljavitvi tega zakona med svojimi sredstvi kapitalsko naložbo v PPIS, morajo v 30 dneh od uveljavitve tega zakona navedeno naložbo neodplačno prenesti v last Republike Slovenije, ki te kapitalske deleže razdeli v skladu s 13. členom tega zakona.
+Pravne osebe, ki se lastninsko preoblikujejo na podlagi ZLPP ali ZPPOLS, ter imajo ob uveljavitvi tega zakona med svojimi sredstvi poleg kapitalskih naložb iz prejšnjega odstavka tudi nepremičnine in opremo ter druga sredstva v smislu prvega odstavka 6. člena tega zakona, morajo ta sredstva v 30 dneh od uveljavitve tega zakona neodplačno prenesti v last Republike Slovenije.
