@@ -1,0 +1,23 @@
+UKAZ
+
+o razglasitvi Zakona o ratifikaciji sporazuma med Republiko Slovenijo in Republiko Makedonijo o rednem zračnem prometu
+
+ZAKON
+
+O RATIFIKACIJI SPORAZUMA MED REPUBLIKO SLOVENIJO IN REPUBLIKO MAKEDONIJO O REDNEM ZRAČNEM PROMETU
+
+SPORAZUM
+
+MED
+
+REPUBLIKO SLOVENIJO
+
+IN
+
+REPUBLIKO MAKEDONIJO
+
+O REDNEM ZRAČNEM PROMETU
+
+PRILOGA
+
+PREGLED PROG
