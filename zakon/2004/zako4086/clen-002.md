@@ -1,0 +1,3 @@
+# 2. člen
+Sodnikom porotnikom na delovnih in socialnem sodišču prve stopnje, ki so bili izvoljeni po določbah Zakona o delovnih in socialnih sodiščih (Uradni list RS, št. 19/94, 20/98 - ZST-G, 42/02 - ZDR in 63/03 - odl. US) 15. decembra 1999 ali 23. februarja 2000, se mandat podaljša do zaprisege novoizvoljenih sodnikov porotnikov po določbah Zakona o delovnih in socialnih sodiščih (Uradni list RS, št. 2/04 in 10/04 - popr.).
+Prve volitve sodnikov porotnikov po določbah Zakona o delovnih in socialnih sodiščih (Uradni list RS, št. 2/04 in 10/04 - popr.) se razpišejo najkasneje do 1. maja 2005.
