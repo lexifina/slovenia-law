@@ -1,0 +1,15 @@
+# 8. ČLEN Pravni režim te garancijske pogodbe
+
+8.01 Pravna razmerja med pogodbenicama iz te garancijske pogodbe, njeno sestavo in veljavnost ureja zakonodaja Velikega vojvodstva Luksemburg.
+
+8.02 Kraj izpolnitve te garancijske pogodbe je sedež banke.
+
+8.03 Pogodbenici se podrejata izključni pristojnosti Sodišča Evropskih skupnosti in vsi spori v zvezi z garancijsko pogodbo se predložijo temu sodišču.
+
+Odločitev Sodišča Evropskih skupnosti je dokončna in jo kot tako pogodbenici sprejmeta brez omejitev ali pridržkov.
+
+8.04 Pogodbenici soglašata, da je ta garancijska pogodba komercialne narave, in se obvezujeta, da se bosta odpovedali vsem morebitnim imunitetam, ki jih uživata zdaj ali bi jih lahko uživali v prihodnje v kateri koli državi v zvezi s sodno pristojnostjo Sodišča Evropskih skupnosti.
+
+8.05 V katerem koli pravnem sporu v zvezi s to garancijsko pogodbo je potrdilo banke o kakem znesku, dolgovanem banki po tej garancijski pogodbi, dokaz prima facie o takem znesku.
+
+8.06 Ta garancijska pogodba začne veljati, ko banka potrdi garantu, da je prejela kopijo akta o ratifikaciji, ki jo je overil garant.
