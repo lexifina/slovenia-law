@@ -1,0 +1,9 @@
+# 13. člen
+V 100.b členu se v drugem odstavku besedi "dela plače" nadomestita z besedilom "plačila za opravljanje funkcije".
+Šesti odstavek se spremeni tako, da se glasi:
+"Višina plače oziroma plačila za opravljanje funkcije podžupana in plačilo za opravljanje funkcije člana občinskega sveta se določi z aktom občinskega sveta. Plače oziroma plačila za opravljanje funkcije so lahko določena s količniki ali odstotki od plače župana, brez njegovega dodatka za delovno dobo. Plača podžupana, ki opravlja funkcijo poklicno, ne sme presegati 80% plače župana. Če opravlja funkcijo nepoklicno, pa mu pripada plačilo za opravljanje funkcije, določeno največ v višini 40% plače župana. Plačilo za opravljanje funkcije člana občinskega sveta je sejnina za udeležbo na seji občinskega sveta oziroma seji delovnega telesa občinskega sveta. Letni znesek sejnin vključno s sejninami za seje delovnih teles občinskega sveta, ki se izplača posameznemu članu občinskega sveta, ne sme presegati 15% letne plače župana."
+Sedmi odstavek se spremeni tako, da se glasi:
+"Občinskim funkcionarjem ne pripadajo posebni dodatki po predpisih o plačah v javnih zavodih, državnih organih in organih lokalnih skupnosti, razen dodatka za delovno dobo, ki pripada občinskemu funkcionarju, ki opravlja funkcijo poklicno."
+Dodata se novi deseti in enajsti odstavek, ki se glasita:
+"Občinski svet s svojim aktom določi merila za določanje plač direktorjev javnih zavodov, javnih podjetij, javnih skladov in agencij, katerih ustanovitelj je občina ter plačil za opravljanje nalog predstavnikov ustanovitelja v njihovih organih, če z zakonom ni določeno drugače. Na podlagi meril določene osnovne plače direktorjev ne smejo presegati plače župana.
+Merila za določanje plač direktorjev skupnih javnih podjetij, javnih skladov in agencij določi organ iz četrtega odstavka 61. člena tega zakona. Na podlagi meril določene plače ne smejo presegati najvišje plače župana občin ustanoviteljic."

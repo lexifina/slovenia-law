@@ -1,0 +1,4 @@
+# 9. člen
+V 50.a členu se v tretjem odstavku besedilo "kot delavci s posebnimi pooblastili, ki morajo izpolnjevati pogoje, predpisane z zakonom o upravi." nadomesti z besedilom "kot uradne osebe s posebnimi pooblastili in odgovornostmi, v skladu z zakonom, s katerim je urejen inšpekcijski nadzor.".
+Četrti odstavek se spremeni tako, da se glasi:
+"S splošnim aktom, s katerim se določi delovno področje in organizacija občinskega inšpekcijskega nadzora, se določijo pogoji, ki jih morajo izpolnjevati občinski inšpektorji za posamezno področje občinskega inšpekcijskega nadzora. Za odločanje v zadevah občinskega inšpekcijskega nadzora je lahko pooblaščena uradna oseba, ki ima najmanj visokošolsko strokovno izobrazbo, strokovni izpit iz upravnega postopka, ali drug strokovni izpit za inšpektorja, ki vsebuje poznavanje upravnega postopka, če je tako določeno s posebnim zakonom."
