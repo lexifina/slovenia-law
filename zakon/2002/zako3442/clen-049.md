@@ -1,0 +1,2 @@
+# 49. člen
+Do sprejema predpisa, s katerim se bodo določile naravne vrednote, se za opredelitev vsebine naravovarstvenih smernic iz 24. člena tega zakona v delu, ki se v okviru naravnih vrednot nanaša na naravno dediščino, uporabljajo strokovni predlogi za določitev naravnih vrednot, ki jih je pripravil Zavod RS za varstvo narave. Če ti predlogi še niso pripravljeni, se uporabijo strokovne podlage za varstvo območij naravne in kulturne dediščine v delu, ki se nanaša na naravno dediščino.
