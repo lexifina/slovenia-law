@@ -1,0 +1,2 @@
+# 25. člen
+V 28. členu se besedilo "uvoz rastlin, rastlinskih proizvodov in nadzorovanih predmetov s seznama V.B, ki se gojijo ali uporabljajo v neposredni bližini državne meje" nadomesti z besedilom "vnos rastlin, rastlinskih proizvodov in nadzorovanih predmetov s seznama V.B, ki se gojijo ali uporabljajo v neposredni bližini državne meje, iz tretjih držav", beseda "inšpekcijskega" pa se nadomesti z besedo "fitosanitarnega".
