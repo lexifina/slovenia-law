@@ -1,0 +1,2 @@
+# 1. člen
+V zakonu o Skladu kmetijskih zemljišč in gozdov Republike Slovenije (Uradni list RS, št. 10/93) se v prvem stavku tretjega odstavka 14. člena besedilo "za katerega ni veljavnega prostorsko izvedbenega načrta oziroma ni izvršen odkup oziroma prenos v sklad stavbnih zemljišč" nadomesti z besedilom "ki 11. 3. 1993 niso bila določena kot nezazidana stavbna zemljišča v prostorskem izvedbenem aktu po 21. členu zakona o urejanju naselij in drugih posegov v prostor (Uradni list SRS, št. 18/84, 37/85, 29/86 in Uradni list RS, št. 26/90, 18/93, 47/93 in 71/93)."
