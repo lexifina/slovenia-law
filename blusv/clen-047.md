@@ -1,0 +1,5 @@
+# 47. člen Poravnava preveč plačanih zneskov
+
+(1) Če je nosilec v eni pogodbenici izplačal prejemniku dajatev znesek, ki presega znesek, do katerega je upravičen, lahko ta nosilec pod pogoji in ob omejitvah, predvidenih z zakonodajo, ki jo uporablja, zahteva od nosilca druge pogodbenice dolžnika dajatev v dobro tega prejemnika, da zadrži znesek preplačila od zneskov, ki jih plačuje omenjenemu prejemniku. Ta nosilec zadrži preplačani znesek pod pogoji in ob omejitvah, predvidenih za takšen poračun z zakonodajo, ki jo uporablja, kot če bi šlo za zneske, ki bi jih sam preplačal, in zadržani znesek nakaže nosilcu upniku.
+
+(2) Ko je nosilec ene pogodbenice izplačal predplačilo na dajatve za obdobje, v katerem je upravičenec imel pravico do ustreznih dajatev po zakonodaji druge pogodbenice, lahko ta nosilec od nosilca druge pogodbenice zahteva, da zadrži znesek omenjenega predplačila od zneskov, ki jih dolguje omenjenemu upravičencu za isto obdobje. Ta nosilec zadrži ta znesek in ga nakaže nosilcu upniku.

@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI KONVENCIJE O SOCIALNI VARNOSTI MED REPUBLIKO SLOVENIJO IN VELIKIM VOJVODSTVOM LUKSEMBURG (BLUSV)
+
+Z A K O N
+
+O RATIFIKACIJI KONVENCIJE O SOCIALNI VARNOSTI MED REPUBLIKO SLOVENIJO IN VELIKIM VOJVODSTVOM LUKSEMBURG (BLUSV)
+
+K O N V E N C I J A
+
+o socialni varnosti med Republiko Slovenijo in Velikim vojvodstvom Luksemburg
+
+C O N V E N T I O N
+
+entre la République de Slovénie et le Grand-Duché de Luxembourg en matière de sécurité sociale
