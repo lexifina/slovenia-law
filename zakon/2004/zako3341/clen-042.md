@@ -1,0 +1,6 @@
+# 42. člen
+59. člen se spremeni tako, da se glasi:
+"Gradnja in prevzem objektov in zemljišč, ki so potrebni za prenos in distribucijo električne energije, zemeljskega plina, distribucijo toplote in oskrbo z drugimi energetskimi plini, sta v javno korist in se zanju uporabljajo določbe prvega odstavka 93. člena Zakona o urejanju prostora (Uradni list RS, št. 110/02 in 8/03).
+Gradnja in prevzem objektov in zemljišč, ki so potrebni za proizvodnjo električne energije, skladišča zemeljskega plina, terminal za utekočinjen zemeljski plin ali transport tekočih goriv po vodih, sta v javno korist in se zanju uporabljajo določbe drugega odstavka 93. člena zakona o urejanju prostora.
+Če investitor v 60 dneh po vročitvi ponudbe za sklenitev pogodbe o pridobitvi lastninske, stavbne pravice ali služnosti v javno korist na nepremičninah iz tega člena, te pogodbe ne uspe skleniti, vloži na njegov predlog država oziroma občina kot razlastitveni upravičenec nemudoma predlog za razlastitev oziroma omejitev lastninske pravice. Ponudba za sklenitev pogodbe mora vsebovati cenitev sodno zapriseženega cenilca.
+Za prenos lastninske, stavbne pravice ali služnosti na razlaščeni nepremičnini na investitorja se ne uporabljajo predpisi, ki urejajo prodajo stvarnega premoženja države.".
