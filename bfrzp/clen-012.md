@@ -1,0 +1,3 @@
+# 12. člen ODNOSI MED DOLOČENIMI LETALSKIMI PREVOZNIKI
+
+Vsa komercialna in tehnična vprašanja, ki jih ne urejajo ta sporazum ali drugi sporazumi med pogodbenicama, ki se nanašajo na opravljanje zračnega prometa in na prevoz potnikov, prtljage, blaga in pošte v dogovorjenem prometu, ter vsa vprašanja, ki se nanašajo na komercialno sodelovanje, posebej na določanje voznih redov, na kapaciteto v skladu z določbami 4. odstavka 6. člena tega sporazuma ter na pogostost poletov, se urejajo v dogovoru med določenimi letalskimi prevozniki pogodbenic. Dogovor med določenimi letalskimi prevozniki ter vse njegove morebitne spremembe se predložijo v vednost pristojnim organom pogodbenic.
