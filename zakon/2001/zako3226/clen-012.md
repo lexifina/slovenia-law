@@ -1,3 +1,0 @@
-# 12. člen (ukrepi aktivne politike zaposlovanja)
-(1) Gospodarskim družbam, ki so na dan uveljavitve tega zakona imetniki prostih carinskih prodajaln, katerih poslovanje morajo prilagoditi določbam tega zakona in gospodarskim družbam, samostojnim podjetnikom posameznikom, zadrugam in zavodom, ki zaradi prilagoditve prostih carinskih prodajaln določbam tega zakona, zaposlijo trajno presežne delavce, se zagotavljajo ukrepi aktivne politike zaposlovanja v skladu z zakonom o zaposlovanju in zavarovanju za primer brezposelnosti (Uradni list RS, št. 5/91, 12/92, 71/93, 38/94 in 69/98).
-(2) Ukrepi iz prejšnjega odstavka se izvajajo v skladu s shemo zaposlovanja in usposabljanja, potrjeno na podlagi zakona o nadzoru državnih pomoči (Uradni list RS, št. 1/00).

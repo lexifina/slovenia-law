@@ -1,2 +1,0 @@
-# 5. člen (dolžnost predložitve dokumentov in zagotovitve pomoči)
-Za izvajanje tega zakona je imetnik mejne prodajalne in vsaka druga oseba, ki je posredno ali neposredno vključena v posle v zvezi z blagom, ki se prodaja v mejnih prodajalnah, dolžna pristojnim organom na njihovo zahtevo omogočiti pregled in preiskavo blaga, predložiti vse potrebne dokumente in pojasnila, ne glede na obliko njihovega zapisa, ter zagotoviti pristojnim organom potrebno pomoč.

@@ -1,5 +1,0 @@
-# 10. člen (ukrepi nadzora, ki jih pristojni organi izvajajo v zvezi z oskrbo mejnih prodajaln)
-(1) Dobavitelj, ki oskrbuje mejno prodajalno mora pred vnosom v prodajalno predložiti pristojnemu organu blago in dokumente, ki se nanašajo na dobavljeno blago zaradi preverjanja, če blago izpolnjuje pogoje iz 6. člena tega zakona.
-(2) Pristojni organ z žigom potrdi, da je blago namenjeno za oskrbo mejne prodajalne, potem ko preveri, da so izpolnjeni pogoji iz 6. člena tega zakona.
-(3) Pristojni organ lahko pri dobavitelju, ki oskrbuje mejno prodajalno, preverja točnost in verodostojnost podatkov, ki se nanašajo na oskrbovanje mejnih prodajaln.
-(4) Določbe prvega do tretjega odstavka tega člena se smiselno uporabljajo tudi, če imetnik mejne prodajalne blago vrne dobavitelju ali ga premesti v drugo mejno prodajalno. Blago se predloži tudi pri pristojnem organu na mejnem prehodu, od koder se blago iznaša, skupaj z dokumenti, ki jih je pristojni organ pred vnosom v mejno prodajalno potrdil v skladu z drugim odstavkom tega člena.
