@@ -1,0 +1,5 @@
+# 6. člen TRANZIT IN UPORABA V ZAPRTIH SISTEMIH
+
+1. Ne glede na 4. člen in brez vpliva na pravico pogodbenice tranzita, da uredi prevoz živih spremenjenih organizmov čez svoje ozemlje in da omogoči Uradu za izmenjavo informacij o biološki varnosti vpogled v svojo odločitev o tranzitu določenih živih spremenjenih organizmov čez njeno ozemlje, pri čemer pa mora upoštevati tretji odstavek 2. člena, se določbe tega protokola glede postopka soglasja po vnaprejšnjem obveščanju ne uporabljajo za žive spremenjene organizme v tranzitu.
+
+2. Ne glede na 4. člen in brez vpliva na kakršno koli pravico pogodbenice, da za vsak živ spremenjen organizem izvede oceno tveganja, preden se odloči o uvozu, in da določi standarde za uporabo v zaprtih sistemih, ki so v njeni pristojnosti, se določbe tega protokola glede postopka soglasja po vnaprejšnjem obveščanju ne uporabljajo za čezmejno gibanje živih spremenjenih organizmov, namenjenih za uporabo v zaprtih sistemih, ki je skladna s standardi pogodbenice uvoznice.
