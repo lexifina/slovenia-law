@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificira se Mednarodna konvencija Eurocontrol o sodelovanju za varnost zračne plovbe, sprejeta v Bruslju 13. decembra 1960 in spremenjena z Dodatnim protokolom k Mednarodni konvenciji Eurocontrol o sodelovanju za varnost na zračnih poteh, sprejetim v Bruslju 6. julija 1970, Protokolom o dopolnitvi Dodatnega protokola k Mednarodni konvenciji Eurocontrol o sodelovanju za varnost zračne plovbe z dne 6. julija 1970, sprejetim 21. novembra 1978, in Protokolom, ki spreminja Mednarodno konvencijo Eurocontrol o sodelovanju za varnost zračne plovbe z dne 13. decembra 1960, sprejetim v Bruslju 12. februarja 1981.
