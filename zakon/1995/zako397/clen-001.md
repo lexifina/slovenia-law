@@ -1,0 +1,3 @@
+# 1. člen
+Republika Slovenija prevzema del dolga Splošne banke Koper, d.d., iz naslova deviznega kredita za refinanciranje oziroma reprogramiranje, pridobljenega po pogodbi z Ljubljansko banko, d.d., z dne 28. 5. 1990, skladno z Novim finančnim sporazumom z dne 10. 9. 1988, v višini tolarske protivrednosti 75,000.000 USD skupaj s sorazmernim delom obresti in stroškov kredita ter hkrati pridobi v enaki višini del njenih terjatev do Splošne plovbe, p.o., Portorož iz naslova deviznih kreditov po pogodbi št. 8-RFS-89 z dne 9. 3. 1990.
+Pogodbe, potrebne za ugotovitev prenosa terjatev in obveznosti v skladu s prejšnjim odstavkom, sklene v imenu Republike Slovenije minister, pristojen za gospodarske dejavnosti.
