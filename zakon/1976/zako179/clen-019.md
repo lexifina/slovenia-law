@@ -1,5 +1,5 @@
 # 19. člen
-Republiški inšpektorat za požarno varnost daje poprejšnja soglasja k lokacijskim, gradbenim in uporabnim dovoljenjem za:
+Republiški inšpektorat za požarno varnost daje soglasja k lokacijskim, gradbenim in uporabnim dovoljenjem za:
 - objekte kemijske industrije,
 - objekte industrije predelave umetnih snovi organskega izvora,
 - objekte industrije predelave nafte in plinov,
@@ -22,7 +22,7 @@ Republiški inšpektorat za požarno varnost daje poprejšnja soglasja k lokacij
 - skladišča plinov, shranjenih v rezervoarjih s prostornino nad 30 m3,
 - objekte, kjer so naprave s stalnimi izvori ionizirajočega sevanja,
 - objekte, v katerih delajo in prebivajo osebe, ki prestajajo kazen ali vzgojno poboljševalni ukrep,
-- objekte s stabilnimi gasilnimi napravami in z napravami za javljanje požara.
-Občinske oziroma medobčinske inšpekcije dajejo poprejšnja soglasja k lokacijskim, gradbenim in uporabnim dovoljenjem za objekte, ki niso našteti v prejšnjem odstavku tega člena.
-Poprejšnje soglasje po določbah prejšnjih odstavkov ni potrebno k lokacijskemu dovoljenju za gradnjo posameznih objektov po zazidalnih načrtih stanovanjskih naselij, če zazidalni načrti vsebujejo vse predpisane elemente in pogoje, ki zadevajo požarno varnost (viri za preskrbo z vodo za gašenje, prometne poti in dostop gasilskih vozil do objektov, ustrezni medsebojni odmiki objektov, način gradnje in podobno).
+- (črtana).
+Občinske oziroma medobčinske inšpekcije dajejo soglasja k osnutkom prostorskih izvedbenih načrtov k lokacijskim, gradbenim in uporabnim dovoljenjem za objekte, ki niso našteti v prejšnjem odstavku tega člena, razen za individualno stanovanjsko gradnjo ter individualne objekte, ki se od časa do časa uporabljajo za počitek ali oddih
+Poprejšnje soglasje po določbah prejšnjih odstavkov ni potrebno k lokacijskemu dovoljenju za gradnjo posameznih objektov po zazidalnih načrtih stanovanjskih naselij, če zazidalni načrti vsebujejo vse predpisane elemente in pogoje, ki zadevajo požarno varnost (viri za preskrbo z vodo za gašenje, prometne poti in dostop gasilskih vozil do objektov, ustrezni medsebojni odmiki objektov, način gradnje in podobno). (črtan)
 Določbe prejšnjega odstavka se ne uporabljajo na proizvodne objekte, ki v svojem tehnološkem procesu uporabljajo vnetljive ali eksplozivne snovi.

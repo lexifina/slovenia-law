@@ -1,0 +1,4 @@
+# 59.b člen
+Teritorialne poklicne gasilske enote iz prejšnjega člena tega zakona lahko za organizacije združenega dela, druge samoupravne organizacije in skupnosti odstranjujejo posledice nezgod pri ravnanju z nevarnimi snovmi, opravljajo zahtevnejše intervencije na področju industrije in prometa, ko je potrebna specialna oziroma reševalna mehanizacija, dajejo strokovno pomoč pri vzgoji in urjenju gasilcev, vzdržujejo gasilsko opremo in opremo za odstranjevanje nevarnih snovi, zagotavljajo specialna gasilska sredstva in opravljajo druge strokovne naloge s področja požarnega varstva.
+Te naloge lahko teritorialna poklicna gasilska enota opravlja za subjekte naštete v prvem odstavku po predhodnem soglasju ustanovitelja.
+Medsebojne pravice in obveznosti med teritorialno poklicno gasilsko enoto in organizacijami združenega dela, drugimi samoupravnimi organizacijami in skupnostmi se uredijo s pogodbo.

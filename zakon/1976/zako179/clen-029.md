@@ -6,7 +6,7 @@ a) odredijo:
 - da se pregradi ali kako drugače adaptira objekt,
 - da se nabavi oziroma zagotovi potrebno gasilsko orodje, oprema, naprava in sredstva za gašenje,
 - da se postavi stalno nadzorstvo (požarna straža) na kraj, kjer je povečana nevarnost požara,
-- da se sprejme pravilnik o varstvu pred požarom,
+- da se sprejme samoupravni splošni akt oziroma pravilnik o varstvu pred požarom,
 - da se ukrene vse potrebno zaradi zavarovanja ljudi, objektov in premoženja pred požarom,
 - da se odpravijo druge pomanjkljivosti oziroma nepravilnosti pri izvajanju predpisov o varstvu pred požarom,
 b) prepovejo:

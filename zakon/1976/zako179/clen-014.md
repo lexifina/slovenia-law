@@ -1,3 +1,7 @@
 # 14. člen
 Organizacije združenega dela in druge organizacije, državni organi in samostojni obrtniki morajo sistematično poučevati svoje delavce o požarnih nevarnostih in ukrepih za varnost pred požarom v organizaciji oziroma delavnici ter o načinu uporabljanja razpoložljivih sredstev za gašenje požara.
+Izvajanje in uspešnost usposabljanja delavcev za varstvo pred požarom v organizacijah združenega dela nadzirajo organi požarne inšpekcije.
+Temeljne in druge organizacije združenega dela in delovne skupnosti morajo glede na nevarnost nastanka požara določiti enega ali več delavcev, ki so odgovorni za izvajanje požarnovarnostnih ukrepov, predpisanih s tem zakonom in predpisi, izdanimi na njegovi podlagi ter drugimi predpisi.
+Delavec, ki je odgovoren za izvajanje požarnovarnostnih ukrepov iz prejšnjega odstavka tega člena mora imeti znanja o nevarnostih za nastanek požara v objektih in njihovi neposredni okolici in nevarnostih za nastanek požara, ki izhajajo iz delovnega procesa in poznati ukrepe za preprečevanje in gašenje požarov.
+Republiški sekretar za notranje zadeve izda natančnejše predpise o organiziranosti varstva pred požarom in o strokovni usposobljenosti delavcev, odgovornih za izvajanje požarnovarnostnih ukrepov iz tretjega in četrtega odstavka tega člena.
 Organizacije združenega dela in druge organizacije, državni organi ter hišni sveti morajo organizirati in trajno opravljati kontrolo nad izvajanjem ukrepov in izpolnjevanjem pogojev, ki so predpisani s tem zakonom.

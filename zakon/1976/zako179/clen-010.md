@@ -1,3 +1,2 @@
 # 10. člen
-Republiški sekretar za notranje zadeve predpiše v soglasju z republiškim sekretarjem za urbanizem, republiškim sekretarjem za industrijo ali republiškim sekretarjem za delo, v skladu s pristojnostmi posameznega sekretariata, ukrepe za varnost pred požarom, ki jih je treba upoštevati pri gradnji objektov in pri uporabi obstoječih objektov.
-S predpisi iz prejšnjega odstavka tega člena se določijo minimalne zahteve glede lokacije, gradbenega materiala in konstrukcij, instalacij, ventilacijskih in kanalizacijskih naprav, avtomatskih in polavtomatskih naprav za javljanje požara (alarmne naprave), sredstev za gašenje zasilnih izhodov, opozorilnih napisov in drugih ukrepov, s katerimi je zagotovljena varnost ljudi in premoženja pred požarom.
+Republiški sekretar za notranje zadeve predpiše požarnovarnostne zahteve iz prvega odstavka 9.a člena tega zakona.

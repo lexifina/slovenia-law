@@ -1,3 +1,2 @@
 # 42. člen
-Če odločitev o vprašanju iz drugega odstavka prejšnjega člena ni bila sprejeta v enakem besedilu v obeh zborih, se prične usklajevalni postopek med zboroma, ki je podrobneje urejen v statutu skupnosti.
-Če se tudi v usklajevalnem postopku ne doseže soglasje, lahko občinska skupščina na predlog izvršnega sveta začasno uredi to vprašanje, vendar ne več kot za eno leto.
+Če skupščina skupnosti za varstvo pred požarom ne sprejme samoupravnega sporazuma o temeljih plana ali programa varstva pred požarom, lahko skupščina ustrezne družbenopolitične skupnosti začasno uredi ta vprašanja.

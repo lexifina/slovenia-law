@@ -1,12 +1,10 @@
 # 79. člen
-Z denarno kaznijo do 10.000 dinarjev se kaznuje za prekršek:
-1. samostojni obrtnik, ki nima naprav in sredstev za gašenje začetnega požara (drugi odstavek 13. člena);
-2. kdor je dolžan po izvršljivi odločbi požarne inšpekcije organizirati gasilsko stražo, pa tega ne stori (15. in 16. člen);
-3. samostojni obrtnik, če nima v obrtni delavnici izobešenega pravilnika o varstvu pred požarom (drugi odstavek 17. člena);
-4. kdor ravna v nasprotju z določbami 58. člena tega zakona;
-5. kdor se ne odzove pozivu vodje gašenja za sodelovanje pri gašenju požara in reševanju ljudi in premoženja, ki ga ogroža požar in tega ne more opravičiti (63. člen);
-6. kdor s svojim ravnanjem in obnašanjem ovira normalen potek gašenja, oziroma reševanja (63. člen);
-7. poveljnik gasilske enote, ki se brez opravičenega vzroka ne odzove pozivu na pomoč pri gašenju požara in reševanju (64. člen);
-8. delavec, ki je v organizaciji odgovoren za varnost objektov pred požarom, če stori prekršek iz 1. in 2. točke prvega odstavka 77. člena ali stori prekršek iz 1., 3., 4. ali 5. točke 78. člena tega zakona;
-9. kdor stori prekršek iz 2., 3. in 4. točke prvega odstavka 77. člena tega zakona;
-10. kdor stori prekršek iz 5., 6., 7. in 8. točke prvega odstavka 78. člena tega zakona.
+Z denarno kaznijo od 5.000 do 50.000 din se kaznuje za prekršek oseba, ki pri samostojnem opravljanju dejavnosti:
+1. v obrtni delavnici, v kateri je povečana nevarnost požara nima potrebnih naprav in sredstev za gašenje začetnega požara (drugi odstavek 13. člena);
+2. nima gasilske straže, ki bi jo po 16. členu zakona moral organizirati;
+3. v obrtni delavnici nima izobešenega pravilnika o varstvu pred požarom (drugi odstavek 17. člena);
+4. ne da kupcu potrdila o tem, da ustreza prodano gasilsko tehnično sredstvo strokovnemu mnenju iz drugega odstavka 67. člena tega zakona (drugi odstavek 68. člena);
+5. izdela ali da v promet gasilsko tehnično sredstvo, za katero ni ustreznega jugoslovanskega standarda, pa si ni pridobila strokovnega mnenja iz drugega odstavka 67. člena tega zakona (69. člen);
+6. ne vzdržuje gasilskih tehničnih sredstev v skladu s tehničnimi predpisi in navodili (69.a člen);
+7. opravlja servisiranje ročnih in prevoznih gasilskih aparatov, pa ne izpolnjuje minimalnih tehničnih in drugih pogojev, ki jih določi republiški sekretar za notranje zadeve (70.b člen).
+Z denarno kaznijo od 5.000 do 30.000 din se kaznuje za prekršek skupnost stanovalcev, če v hiši ni naprav in sredstev za gašenje začetnega požara (drugi odstavek 13. člena).
