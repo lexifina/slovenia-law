@@ -1,0 +1,2 @@
+# 8. člen
+SŽ d.d. morajo v roku 30 dni po predložitvi zahteve družbe pooblaščenke prenesti delnice, katerih imetnica je Republika Slovenija, do višine vrednosti vanjo vloženih lastniških certifikatov, oziroma terjatev zaposlenih, bivših zaposlenih in upokojenih delavcev v povezanih družbah SŽ, ki jih imajo ti upravičenci do povezanih družb iz naslova premalo izplačanih plač po branžni kolektivni pogodbi od njenega sprejema do 31. 12. 1992 v posameznih družbah, na družbo pooblaščenko.
