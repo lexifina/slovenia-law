@@ -1,8 +1,8 @@
 # 7. člen
 1. Za izjemno delo in zasluge pri uresničevanju suverenosti, blaginje, ugleda in napredka Slovenije na kulturnem, gospodarskem, znanstvenem, socialnem in političnem področju, se podeljuje
 RED ZA IZREDNE ZASLUGE
-Red za izredne zasluge se podeljuje državljanom Republike Slovenije ter izjemoma skupinam državljanov, pravnim osebam ter drugim organizacijam.
-2. Za izjemne zasluge, dosežene za Slovenijo na civilnem, diplomatsko mednarodnem in vojaškem področju se podeljuje
+Red za izredne zasluge se podeljuje državljanom Republike Slovenije ter izjemoma skupinam državljanov, pravnim osebam, drugim organizacijam in najvišjim tujim državnikom.
+2. Za izjemne zasluge, dosežene za Slovenijo na civilnem, diplomatsko mednarodnem in vojaškem oziroma varnostnem področju se podeljuje
 ZLATI RED ZA ZASLUGE
 Zlati red za zasluge se podeljuje državljanom Republike Slovenije, tujim državljanom ter izjemoma domačim, tujim in mednarodnim organizacijam.
 3. Za izjemno delo in zasluge pri varnosti, obrambi in zaščiti Republike Slovenije ter za mednarodne sodelovanje na teh področjih se podeljuje

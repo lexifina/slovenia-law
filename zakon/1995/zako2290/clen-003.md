@@ -1,2 +1,2 @@
 # 3. člen
-Predsedniku republike pripadajo od izvolitve dalje najvišja odlikovanja.
+Predsedniku republike pripada od izvolitve dalje red za izredne zasluge.
