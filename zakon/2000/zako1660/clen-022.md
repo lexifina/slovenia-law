@@ -1,0 +1,4 @@
+## IV. UGOTAVLJANJE IN POTRJEVANJE SKLADNOSTI Z ZAHTEVAMI TEHNIČNIH SPECIFIKACIJ
+# 22. člen
+(1) Za potrjevanje skladnosti gradbenega proizvoda z zahtevami tehničnih specifikacij je odgovoren proizvajalec. Pred potrditvijo skladnosti se primernost gradbenega proizvoda za namen, za katerega je bil predviden, ugotovi s preskušanjem, kontrolo ali z drugimi načini ugotavljanja skladnosti. Postopek ugotavljanja in potrjevanja skladnosti (v nadaljnjem besedilu: potrjevanje skladnosti), ki je predpisan v tehničnih specifikacijah, mora proizvajalec izvesti bodisi sam, bodisi v sodelovanju z organom, vključenim v potrjevanje skladnosti.
+(2) Organ, vključen v potrjevanje skladnosti iz prejšnjega odstavka, je certifikacijski organ, kontrolni organ ali preskuševalni laboratorij, ki je lahko državni organ, pravna oseba ali fizična oseba.

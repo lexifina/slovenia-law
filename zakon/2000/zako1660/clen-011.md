@@ -1,0 +1,2 @@
+# 11. člen
+Minister predpiše dolžnost in način označevanja gradbenega proizvoda z znaki skladnosti, s katerimi proizvajalec oziroma njegov predstavnik, preden je gradbeni proizvod dan v promet, potrdi, da je bil izdelan skladno z zahtevami tega zakona, da je bil izveden predpisan postopek ugotavljanja in potrjevanja skladnosti in da je bila podana izjava o skladnosti proizvoda oziroma izdan ustrezen certifikat o skladnosti iz 25. člena tega zakona.

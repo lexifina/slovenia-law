@@ -1,0 +1,3 @@
+# 2. člen
+(1) Ta zakon se ne uporablja za tiste gradbene proizvode, za katere ni tehničnih specifikacij iz 6. oziroma 7. člena tega zakona, njihove zahtevane tehnične lastnosti pa so urejene s posebnimi zakoni oziroma s tehničnimi predpisi, izdanimi na njihovi podlagi (v nadaljnjem besedilu: posebni predpisi).
+(2) Ne glede na prejšnji odstavek, po naknadnem sprejemu tehničnih specifikacij iz 6. oziroma 7. člena tega zakona, veljajo za dajanje v promet gradbenih proizvodov, ki so predmet teh tehničnih specifikacij, izključno zahteve tega zakona. Zahteve posebnih predpisov o dajanju gradbenih proizvodov v promet, ki so predmet njihovega urejanja, se prenehajo uporabljati po preteku prehodnega obdobja, ki je opredeljeno v teh tehničnih specifikacijah.
