@@ -4,7 +4,7 @@ Izrazi, uporabljeni v tem zakonu, imajo naslednji pomen:
 - proizvaja kozmetične proizvode,
 - se s svojo firmo, blagovnim znakom ali drugim znakom razlikovanja na kozmetičnih proizvodih predstavlja kot njihov proizvajalec,
 - kakorkoli spremeni sestavo kozmetičnih proizvodov ali vsebino označb, predpisanih s tem zakonom,
-- je proizvajalčev zastopnik oziroma uvoznik s sedežem v Republiki Sloveniji, če proizvajalec nima sedeža v Republiki Sloveniji ali v Evropski uniji.
+- je proizvajalčev zastopnik oziroma uvoznik, če proizvajalec nima sedeža v Republiki Sloveniji ali v Evropski uniji.
 2. Promet je prodaja ali vsaka prepustitev kozmetičnega proizvoda končnemu uporabniku za namene, določene v tem zakonu. Določbe tega zakona, ki se nanašajo na promet, se smiselno uporabljajo tudi za poklicno uporabo kozmetičnih proizvodov.
 3. Dobra laboratorijska praksa je sistem kakovosti, ki se nanaša na organizacijske postopke in pogoje, v katerih se neklinične zdravstvene in okoljske varnostne študije načrtujejo, izvajajo, nadzorujejo, zapisujejo, arhivirajo in se o njih poroča.
 4. Dobra proizvodna praksa je sistem za doseganje kakovosti, ki zagotavlja dosledno izdelavo in kontrolo proizvoda po merilih za kakovost ter ustreznost namenu uporabe, kot zahteva specifikacija proizvoda.
