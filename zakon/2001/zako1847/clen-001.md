@@ -1,0 +1,2 @@
+# 1. člen
+V zakonu o državni statistiki (Uradni list RS, št. 45/95) se v 1., 3., 4., 5., 11., 13., 15., 17., 19., 20., 21., 23., 26., 27., 28., 33., 34., 35., 37., 38., 39., 40., 41., 42., 44., 46., 47., 49., 51. in 55. členu besedilo "nacionalni program statističnih raziskovanj" nadomesti z besedilom "program statističnih raziskovanj" v ustreznem sklonu. Pred nadomestnim besedilom se "z" spremeni v "s".
