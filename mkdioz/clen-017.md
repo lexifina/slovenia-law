@@ -1,0 +1,3 @@
+# 17. člen PODPIS
+
+Ta konvencija je na voljo za podpis v Aarhusu (Danska) 25. junija 1998, nato pa na sedežu Združenih narodov v New Yorku do 21. decembra 1998 za države članice Gospodarske komisije ZN za Evropo kot tudi za države, ki imajo v Gospodarski komisiji ZN za Evropo svetovalni status v skladu z osmim in enajstim odstavkom resolucije št. 36 (IV) Ekonomsko-socialnega sveta z dne 28. marca 1947, in za organizacije za regionalno gospodarsko povezovanje, ki so jih ustanovile suverene države članice Gospodarske komisije ZN za Evropo, na katere so njihove države članice prenesle pristojnost za zadeve, ki jih ureja ta konvencija, vključno s pristojnostjo za sklepanje mednarodnih pogodb v zvezi s temi zadevami.
