@@ -2,7 +2,7 @@
 # 139. člen (prekrški)
 (1) Z denarno kaznijo od 300.000 do 30,000.000 tolarjev se za prekršek kaznuje pravna oseba:
 1. če ne priglasi namere o izvajanju sevalne dejavnosti ali je ne priglasi v predpisani obliki (9. in 10. člen),
-2. če začel izvajati sevalno dejavnost, ne da bi pridobil dovoljenje (11. člen),
+2. če je začel izvajati sevalno dejavnost, ne da bi pridobil dovoljenje (11. člen),
 3. če je začela uporabljati vir sevanja brez dovoljenja za njegovo uporabo ali preden so izpolnjeni pogoji za uporabo po tem zakonu (13. člen),
 4. če krši prepovedi iz 20. člena tega zakona,
 5. če kot delodajalec ne zagotavlja varstva nosečih in doječih žensk (20. člen),
