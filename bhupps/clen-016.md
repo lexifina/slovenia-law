@@ -1,0 +1,9 @@
+# 16. člen
+
+Državi pogodbenici sta se sporazumeli, da so standardi, zapisani v Dokumentu kobenhavenskega srečanja Konference o človeški razsežnosti Konference o varnosti in sodelovanju v Evropi, sprejetem 29. junija 1990, in v drugih dokumentih Konference o varnosti in sodelovanju v Evropi, ki so jih izdelali za varstvo manjšin, obvezujoči.
+
+Člani madžarske narodnosti, ki živijo v Republiki Sloveniji, imajo pravico, da posamično ali z drugimi člani svoje skupnosti svobodno izražajo, ohranjajo in razvijajo svojo etnično, kulturno, jezikovno in versko pripadnost, ne da bi jih kdor koli proti njihovi volji silil v asimilacijo. Pravico imajo do svobodne uporabe maternega jezika v zasebnem življenju in v javnosti do širjenja in izmenjavanja ter pridobivanja informacij v svojem maternem jeziku. Pravico imajo do celovitega in učinkovitega uveljavljanja človekovih pravic in temeljnih svoboščin brez vsakršnega zapostavljanja in v popolni enakosti pred zakonom.
+
+Člani slovenske narodnosti; ki živijo v Republiki Madžarski, imajo pravico, da posamično ali z drugimi člani svoje skupnosti svobodno izražajo, ohranjajo in razvijajo svojo etnično, kulturno, jezikovno in versko pripadnost, ne da bi jih kdor koli proti njihovi volji silil v asimilacijo. Pravico imajo do svobodne uporabe maternega jezika v zasebnem življenju in v javnosti, do širjenja, izmenjavanja ter pridobivanja informacij v svojem maternem jeziku. Pravico imajo do celovitega in učinkovitega uveljavljanja človekovih pravic in temeljnih svoboščin brez vsakršnega zapostavljanja in v popolni enakosti pred zakonom.
+
+Državi pogodbenici se bosta na mednarodni ravni zavzemali za to, da se obveznosti, sprejete za Konferenci o varnosti in sodelovanju v Evropi za zaščito manjšin in za njihovo podporo, sprejmejo kot splošno veljavne pravne norme.
