@@ -1,0 +1,11 @@
+# 33. člen Depozitar
+
+1) Vlada pogodbenice, na ozemlju katere je podpisan ta sporazum, deponira en izvirnik tega sporazuma pri generalnem sekretarju Združenih narodov. Generalni sekretar Združenih narodov je depozitar.
+
+2) Depozitar ob začetku veljavnosti tega sporazuma poskrbi za njegovo registracijo v skladu s 102. členom Ustanovne listine Združenih narodov.
+
+Sestavljeno v Kranjski Gori 3. decembra 2003 v petih izvirnikih v angleškem jeziku, od katerih enega obdrži vsaka pogodbenica, eden pa se shrani pri depozitarju.
+
+Za Bosno in Hercegovino Svetozar Mihajlović l. r. Za Republiko Hrvaško Tonino Picula l. r. Za Republiko Slovenijo Dr. Dimitrij Rupel l. r. Za Zvezno republiko Jugoslavijo Goran Svilanović l. r.
+
+PRILOGA I
