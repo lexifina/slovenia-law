@@ -1,0 +1,23 @@
+# 5. člen
+
+1. Generalna skupščina je najvišji organ OIV. Obravnava in sprejema predpise v zvezi z organizacijo in delovanjem OIV ter osnutke resolucij splošne, znanstvene, tehnične, gospodarske ali pravne narave kot tudi predloge za ustanavljanje ali ukinjanje odborov in pododborov. Sprejema finančni načrt prejemkov in izdatkov v okviru obstoječih proračunskih sredstev in pregleduje ter odobrava računovodske izkaze. Generalna skupščina sprejema protokole o sodelovanju pri zadevah, povezanih s proizvodi iz grozdja in vina, ki jih OIV lahko sklepa z mednarodnimi organizacijami. Sestaja se enkrat na leto. Na zahtevo ene tretjine članic OIV se lahko skličejo tudi izredna zasedanja.
+
+2. Za dosego sklepčnosti na zasedanjih je potrebna navzočnost ene tretjine delegatov članic, ki predstavljajo vsaj polovico ponderiranih glasov. Članico lahko zastopa delegacija druge članice, vendar katera koli delegacija lahko zastopa samo eno članico.
+
+3. a) Soglasje je običajen način, s katerim generalna skupščina sprejema osnutke resolucij splošne, znanstvene, tehnične, ekonomske ali pravne narave in odloča o predlogih za ustanavljanje ali ukinjanje odborov in pododborov. To velja tudi za izvršilni odbor, kadar svoje funkcije opravlja v zvezi s temi vprašanji.
+
+b) Soglasje ni potrebno za izvolitev predsednika OIV, predsednikov odborov in pododborov ali za izvolitev generalnega direktorja in se tudi ne uporablja za glasovanje o proračunu ali finančnih prispevkih članic. Soglasje se tudi ne uporablja za odločanje o drugih finančnih zadevah, kot so opredeljene v poslovniku.
+
+c) Kadar generalna skupščina ali izvršilni odbor že prvič ne doseže soglasja o osnutku resolucije ali sklepa, si predsednik v vmesnem obdobju do naslednjega zasedanja generalne skupščine ali izvršilnega odbora čim bolj prizadeva za posvetovanje s članicami, da zbliža njihova stališča. Ko so vse možnosti za dosego soglasja izčrpane, predsednik da predlog na glasovanje po načelu kvalificirane večine, to je dvotretjinske večine glasov in en glas navzočih, ki glasujejo ali so zastopani, na podlagi glasovanja ena članica en glas. Kljub temu se glasovanje preloži za eno leto, če članica meni, da so ogroženi njeni bistveni nacionalni interesi. Če nasprotovanje pozneje tudi pisno potrdi minister za zunanje zadeve ali kakšen drug pristojen politični organ zadevne članice, se o predlogu ne glasuje.
+
+4. a) Predsednik OIV, predsedniki odborov in pododborov in generalni direktor se volijo po načelu ponderirane kvalificirane večine, to je z dvotretjinsko večino glasov in enim od ponderiranih glasov navzočih ali zastopanih članic, če sta za kandidata glasovali polovica članic in ena navzoča ali zastopana članica. Če ti pogoji niso izpolnjeni, se najpozneje v treh mesecih skliče izredno zasedanje generalne skupščine. Obstoječi predsednik, predsedniki odborov in pododborov ter generalni direktor v vmesnem času, odvisno od primera, še naprej opravljajo svojo funkcijo.
+
+b) Predsednik OIV, predsedniki odborov in pododborov se volijo za triletno mandatno obdobje. Generalni direktor se voli za petletno mandatno obdobje; generalni direktor je lahko ponovno izvoljen še za en mandat pod enakimi pogoji kot za prvi mandat. Generalna skupščina lahko generalnega direktorja razreši tako na podlagi ponderirane kvalificirane večine kot večine držav članic, ki so glasovale za njegovo izvolitev.
+
+5. Ponderirana kvalificirana večina glasov, to je dvotretjinska večina in eden od ponderiranih glasov navzočih ali zastopanih članic, se uporablja za glasovanje o proračunu ali finančnih prispevkih članic. Generalna skupščina pod enakimi pogoji imenuje finančnega revizorja na skupni predlog generalnega direktorja in iniciativnega odbora OIV ter na podlagi ugodnega mnenja izvršilnega odbora.
+
+6. Uradni jeziki so francoščina, španščina in angleščina. Ustrezno financiranje je določeno v skladu s prilogo 2 k temu sporazumu. Kljub temu ga generalna skupščina lahko po potrebi prilagodi v skladu s pogoji, opredeljenimi v odstavku 3 a) 5. člena. Na zahtevo ene ali več članic se tem jezikom, da bi se izboljšalo komuniciranje med članicami, z enakim načinom financiranja lahko dodajo še drugi jeziki, predvsem italijanščina in nemščina. Predhodno morajo zainteresirani uporabniki formalno sprejeti nove finančne prispevke, ki izhajajo iz njihove zahteve po dodatnih jezikih. Vse nove zahteve, ki presegajo skupaj pet jezikov, se pošljejo v odobritev generalni skupščini, ki o tem odloči v skladu s pogoji iz odstavka 3 a) 5. člena. Francoščina ostaja jezik za sklicevanje ob kakršnem koli sporu s tretjimi osebami, ki niso članice Organizacije.
+
+7. Ustanovni organi OIV delujejo odprto in pregledno.
+
+V. poglavje – Financiranje OIV
