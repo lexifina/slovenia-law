@@ -1,3 +1,3 @@
 # 4. člen
 V primeru, ko Republika Slovenija izpolni poroštveno obveznost in plača obveznosti iz posojilne pogodbe, pridobi v razmerju do investitorja pravico regresiranja izplačanih zneskov in stroškov, ki so v zvezi s tem nastali.
-Za zavarovanje regresnega zahtevka iz prejšnjega odstavka se pred izdajo kakršnegakoli poroštva po tem zakonu sklene pogodba med Republiko Slovenijo, investitorjem in javnimi podjetji, ki prodajajo električno energijo potrošnikom, s katero se iz iztržkov za električno energijo določi solidarno povračilo sredstev proračuna, uporabljenih za izpolnitev poroštvenih obveznosti Republike Slovenije.
+Vlada Republike Slovenije bo zagotavljala ceno električne energije na pragu TE Šoštanj v višini, ki ji bo pokrivala tudi lastni delež sredstev za investicijo in odplačilo obveznosti iz najetih posojil.
