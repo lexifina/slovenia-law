@@ -1,0 +1,3 @@
+# 4. člen
+(1) Ministrstvo, pristojno za finance, uskladi obstoječo pogodbo o jamstvu z določbami zakona tako, da uskladitev velja od 1. januarja 2003 dalje.
+(2) Pogodbo o jamstvu Republike Slovenije iz četrtega odstavka 2. člena zakona sklene ministrstvo, pristojno za finance, najkasneje sedem dni od odpovedi zavarovanja ali ugotovitve nemožnosti zavarovanja. Pogodba se sklene za obdobje 60 dni z možnostjo podaljševanja največ do 31. decembra 2003. Pogodba se sklene na predlog letalskega prevoznika in če Vlada Republike Slovenije ugotovi, da so podani pogoji iz drugega, tretjega in četrtega odstavka 2.b člena zakona.
