@@ -1,0 +1,2 @@
+ZAKON
+o seizmološki službi
