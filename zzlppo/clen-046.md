@@ -1,0 +1,9 @@
+# 46. člen (upoštevanje zahtevkov iz naslova oškodovanja premoženja)
+
+(1) Vrednost zahtevka iz naslova oškodovanja premoženja podjetja se upošteva pri izdelavi otvoritvene bilance oziroma cenitve, ki je podlaga za določitev prodajne cene delnic, v višini, ugotovljeni z revizijskim poročilom oziroma z revizijsko odločbo, izdano na podlagi 48.b oziroma 48.c člena ZLPP.
+
+(2) Če je vrednost zahtevka iz naslova oškodovanja premoženja podjetja enaka ali večja od 30% vrednosti kapitala podjetja, Slovenska razvojna družba pred privatizacijo zadrži delež delnic podjetja, katerih knjigovodska vrednost je enaka vrednosti zahtevka in opravi privatizacijo preostalih delnic v skladu z določbami tega zakona.
+
+(3) Če Slovenska razvojna družba v imenu podjetja pridobi pravnomočno sodbo, oziroma z zavezanci doseže poravnavo, na podlagi katere ima podjetje pravico zahtevati vrnitev premoženja oziroma plačilo ustreznega denarnega nadomestila ali odškodnine, prenese 25% zadržanih delnic iz prejšnjega odstavka na Odškodninski sklad, ostalo pa proda pooblaščenim investicijskim družbam.
+
+(4) Če je tožbeni zahtevek, ki ga Slovenska razvojna družba uveljavlja v imenu podjetja, pravnomočno zavrnjen, ali če skupščina delničarjev podjetja s tričetrtinsko večino ob soglasju Slovenske razvojne družbe sklene, da se odpove uveljavljanju zahtevka, se zadržane delnice iz drugega odstavka tega člena umaknejo. Za umik zadržanih delnic se smiselno uporabljajo določbe zakona, ki ureja gospodarske družbe, o poenostavljenem zmanjšanju osnovnega kapitala z umikom delnic, razen določb o plačilu povračila, ki ga je potrebno delničarjem zagotoviti v primeru zmanjšanja osnovnega kapitala in s tem povezanih določb o varstvu upnikov. Sklep o umiku zadržanih delnic sprejme uprava v soglasju s Slovensko razvojno družbo.

@@ -1,0 +1,9 @@
+# 6. člen (ugotavljanje oškodovanja družbenega premoženja)
+
+(1) Za družbeni kapital, ki z dnem uveljavitve tega zakona preide v last in upravljanje Slovenske razvojne družbe in se preoblikuje po tem zakonu, se šteje tudi premoženje fizičnih in pravnih oseb doma in v tujini skupaj z njegovim povečanjem iz poslovanja, ki izvira iz poslovanja nekdanjih družbenih podjetij, oziroma drugih pravnih oseb registriranih v Republiki Sloveniji, ki se lastninsko preoblikujejo ali so se preoblikovale na podlagi ZLPP ali posebnega zakona, če to premoženje ni bilo upoštevano v otvoritveni bilanci po stanju na dan 1. 1. 1993 v skladu z uredbo o metodologiji za izdelavo otvoritvene bilance stanja (Uradni list RS, št. 24/93, 62/93, 72/93, 19/94, 32/94 in 45/94).
+
+(2) Fizične in pravne osebe iz prejšnjega odstavka so dolžne v roku treh mesecev od uveljavitve tega zakona sporočiti Slovenski razvojni družbi vse potrebne podatke, da Slovenska razvojna družba to premoženje evidentira ter prenese v svojo posest, upravljanje in razpolaganje.
+
+(3) Slovenska razvojna družba in Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) sta dolžni sprejeti ukrepe, s katerimi se prepozna, izsledi in zaseže premoženje, ki je po prvem odstavku tega člena prešlo v last Slovenske razvojne družbe in preprečiti kakršnekoli posle s tem premoženjem, njegov prenos in razpolaganje z njim.
+
+(4) Slovenska razvojna družba pri izvajanju nalog iz prejšnjih odstavkov tega člena sodeluje z Banko Slovenije, Agencijo Republike Slovenije za revidiranje lastninskega preoblikovanja podjetij, Družbenim pravobranilcem Republike Slovenije, Ministrstvom, pristojnim za notranje zadeve, Državnim tožilcem Republike Slovenije, Ministrstvom, pristojnim za pravosodje, Uradom za preprečevanje pranja denarja ter drugimi pristojnimi državnimi institucijami doma in v tujini.
