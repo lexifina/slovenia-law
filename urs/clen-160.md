@@ -12,7 +12,7 @@ Ustavno sodišče odloča:
 
 - o skladnosti predpisov lokalnih skupnosti z ustavo in z zakoni;
 
-- o skladnosti splošnih aktov, izdanih za izvrševanje javnih pooblastil, z ustavo; zakoni in podzakonskimi predpisi;
+- o skladnosti splošnih aktov, izdanih za izvrševanje javnih pooblastil, z ustavo, zakoni in podzakonskimi predpisi;
 
 - o ustavnih pritožbah zaradi kršitev človekovih pravic in temeljnih svoboščin s posamičnimi akti;
 

@@ -1,6 +1,6 @@
 # 74. člen (podjetništvo)
 
-Gospodarska pobuda je svoboda.
+Gospodarska pobuda je svobodna.
 
 Zakon določa pogoje za ustanavljanje gospodarskih organizacij. Gospodarska dejavnost se ne sme izvajati v nasprotju z javno koristjo.
 
