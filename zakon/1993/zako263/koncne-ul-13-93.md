@@ -1,4 +1,7 @@
-# 20. člen
+Zakon o načinu obračunavanja in izplačevanja plač (Uradni list RS, št. 13/93) vsebuje naslednjo prehodno in končni določbi:
+"19. člen
+Minister, pristojen za delo, ob sodelovanju podpisnikov aneksa, predpiše pravilnik in obrazce za spremljanje in izvajanje določil tega zakona v roku sedmih dni po njegovi uveljavitvi.
+20. člen
 V času veljavnosti tega zakona se ne uporabljajo določila:
 - prvega odstavka 6. člena zakona o funkcionarjih v državnih organih (Uradni list RS, št. 30/90, 18/91, 22/91 2/91-I in 4/93),
 - prvega odstavka 60. člena zakona o delavcih v državnih organih (Uradni list RS, št. 15/90, 5/91, 18/91, 22/91, 2/91-I in 4/93),
@@ -34,3 +37,8 @@ V času veljavnosti tega zakona se ne uporabljajo določila:
 - prvega odstavka 36. in 38. člena kolektivne pogodbe dejavnosti elektrogospodarstva Slovenije (Uradni list RS, št. 27/91-I),
 - prvega in tretjega odstavka 124. člena kolektivne pogodbe za dejavnost železniškega prometa (Uradni list RS, št. 1/92),
 - prvega odstavka 10. člena kolektivne pogodbe šoferjev in avtomehanikov.
+21. člen
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije in se uporablja:
+- za pravne osebe iz prve alinee 1. člena tega zakona do izteka veljavnosti aneksa oziroma do sklenitve sporazuma o zagotavljanju socialne stabilnosti;
+- za pravne osebe iz druge alinee 1. člena tega zakona do podpisa kolektivne pogodbe za negospodarske dejavnosti oziroma do sprejema sporazuma o zagotavljanju socialne stabilnosti, najdalj pa do izplačil plač za december 1993.
+Ne glede na določila prejšnjega odstavka se za pravne osebe iz 8. in 9. člena tega zakona zakon uporablja do sprejema sporazuma o zagotavljanju socialne stabilnosti oziroma do izplačil plač za december 1993.".

@@ -1,3 +1,3 @@
 # 8. člen
 Nesolventne pravne osebe iz prve alinee 1. člena tega zakona, ki izplačujejo plače v skladu s 5. členom zakona o zajamčenih osebnih dohodkih (Uradni list RS, št. 48/90), valorizirajo obseg sredstev za zajamčene plače v skladu z eskalacijsko lestvico, določeno v aneksu.
-Nesolventne pravne osebe iz druge alinee 1. člena tega zakona, ki izplačujejo plače po predpisu iz prejšnjega odstavka, do maja 1993 ne valorizirajo obsega sredstev za zajamčene plače, v obdobju od junija do decembra 1993 pa valorizirajo obseg sredstev za zajamčene plače v skladu z eskalacijsko lestvico iz prejšnjega člena.
+Nesolventne pravne osebe iz druge alinee 1. člena tega zakona, ki izplačujejo plače po predpisu iz prejšnjega odstavka, do maja 1993 ne valorizirajo obsega sredstev za zajamčene plače, v obdobju od junija do decembra 1993 pa valorizirajo obseg sredstev za zajamčene plače v skladu z eskalacijsko lestvico iz prejšnjega člena. (črtan)
