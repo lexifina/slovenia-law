@@ -6,4 +6,4 @@ Republika Slovenija najame kredit pri Evropski banki za obnovo in razvoj za name
 - drugi stroški - provizija za odlog črpanja, odpoved kredita, provizija za konverzijo valute ali konverzijo obrestne mere ter zamudne obresti - največ v višini 2,75% vrednosti kredita letno,
 - stroški priprave posojila - 1% vrednosti kredita -plačljivi v enkratnem znesku v sedmih dneh, ko postane pogodba efektivna,
 - marža za deželni rizik - 1% na variabilno ali fiksno obrestno mero.
-Sredstva kredita iz prejšnjega odstavka se prvenstveno porabljajo za prenovo obstoječih magistralnih cest na odsekih: Počehova - Lendava, Slovenska Bistrica - Ptuj in Črnuče - Domžale.
+Sredstva kredita iz prejšnjega odstavka se prvenstveno porabljajo za prenovo obstoječih magistralnih cest na odsekih: Počehova - Lendava, cestni podvoz Ptuj in Črnuče - Domžale ter za preplastitev desetih odsekov magistralnih (glavnih) in regionalnih cest določenih v letnih planih razvoja in vzdrževanja državnih cest, v predvideni dolžini 178 km, skladno z dogovorom med Vlado Republike Slovenije in Evropsko banko za obnovo in razvoj.
