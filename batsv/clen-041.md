@@ -1,0 +1,5 @@
+# 41. člen
+
+(1) Nosilci v Sloveniji prevzamejo vse pričakovane pravice in pravice slovenskih državljanov, ki so imeli 1. januarja 1956 kot jugoslovanski državljani stalno bivališče na ozemlju nekdanje Jugoslavije, kolikor so te pričakovane pravice in pravice nastale na osnovi zavarovalne dobe, pridobljene v avstrijskem socialnem zavarovanju (pokojninskem zavarovanju oziroma zavarovanju za primere nesreč pri delu – dobe plačevanja prispevkov in z njimi izenačene dobe) pred 1. januarjem 1956.
+
+(2) Nosilci v Avstriji prevzamejo vse pričakovane pravice in pravice avstrijskih državljanov in oseb, ki imajo po avstrijskem pravu o socialnem zavarovanju status »Volksdeutscherjev«, če so imele te osebe 1. januarja 1956 stalno bivališče v Avstriji in kolikor so te pričakovane pravice in pravice nastale na osnovi zavarovalne dobe, pridobljene v nekdanjem jugoslovanskem socialnem zavarovanju (pokojninskem oziroma invalidskem zavarovanju – dobe plačevanja prispevkov in posebne dobe) pred 1. januarjem 1956.
