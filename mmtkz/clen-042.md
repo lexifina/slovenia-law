@@ -1,0 +1,3 @@
+# 42. člen Posebni ukrepi
+
+193 Članice si zase, za upravljalske organizacije, ki so jih same priznale, in za druge agencije, ki so bile za to ustrezno pooblaščene, pridržujejo pravico, da sklepajo posebne dogovore v zvezi s telekomunikacijskimi zadeva mi, ki v splošnem ne zadevajo drugih Članic. Takšni dogovori pa ne smejo biti v nasprotju z določili te Ustave, Konvencije in Izvršilnih pravilnikov, vsaj kar se tiče škodljivega motenja, ki bi ga njihovo izvajanje lahko povzročilo radijskim službam drugih Članic, in na splošno tehničnih okvar, ki bi jih lahko njihovo delovanje povzročilo v delovanju telekomunikacijskih služb drugih držav Članic.
