@@ -1,0 +1,5 @@
+# 17. člen
+(1) Naročnik mora o svoji odločitvi iz prvega odstavka prejšnjega člena tega zakona v treh dneh od sprejema odločitve obvestiti vlagatelja zahtevka za revizijo in ga hkrati pozvati, da mu najkasneje v treh dneh od prejema obvestila pisno sporoči, ali bo nadaljeval postopek pred Državno revizijsko komisijo ali zahtevek za revizijo umika. Če vlagatelj zahtevka za revizijo šele po preteku danega roka naročniku sporoči, da bo nadaljeval postopek pred Državno revizijsko komisijo ali v primeru molka vlagatelja zahtevka za revizijo, se šteje, da je zahtevek za revizijo umaknjen, o čemer naročnik izda sklep o ustavitvi postopka revizije. Zoper sklep je dopustna pritožba na Državno revizijsko komisijo v treh dneh od prejema sklepa.
+(2) Po prejetem obvestilu, da bo vlagatelj zahtevka za revizijo nadaljeval postopek pred Državno revizijsko komisijo, mora naročnik najkasneje v treh dneh odstopiti vso dokumentacijo Državni revizijski komisiji.
+Tretje poglavje POSTOPEK PRED DRŽAVNO REVIZIJSKO KOMISIJO
+Način odločanja
