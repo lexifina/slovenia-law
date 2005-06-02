@@ -1,0 +1,3 @@
+# 3. člen Varnostna potrdila
+
+Pogodbenici priznavata potrdilo o varnostnem preverjanju oseb druge države, izdano v skladu z njeno zakonodajo. Pogodbenici lahko priznata potrdilo o industrijski varnosti gospodarskih subjektov druge države, izdano v skladu z njeno zakonodajo na podlagi zaprosila druge pogodbenice. Ustrezna organa držav pogodbenic se morata vzajemno obveščati o kakršnih koli spremembah v potrdilih o varnostnem preverjanju in potrdilih o industrijski varnosti, povezanih z dejavnostmi, ki se opravljajo v skladu s tem sporazumom, še posebej če so bila preklicana ali je bila znižana stopnja tajnosti.
