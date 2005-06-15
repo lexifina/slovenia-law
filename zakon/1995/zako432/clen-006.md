@@ -1,6 +1,0 @@
-# 6. člen
-Plača družbenega pravobranilca in njegovega namestnika se določi po enakih osnovah, z enakimi dodatki ter na enak način, kot plača sodnikov višjega sodišča.
-Za uvrstitev v plačilno skupino ter za druge pravice iz delovnega razmerja ter pokojninskega, invalidskega, zdravstvenega in socialnega zavarovanja družbenega pravobranilca in njegovega namestnika se smiselno uporabljajo določbe zakona o sodniški službi (Uradni list RS, št. 19/94).
-O uvrstitvi v plačilno skupino ter o drugih pravicah iz delovnega razmerja ter pokojninskega, invalidskega, zdravstvenega in socialnega zavarovanja družbenega pravobranilca odloča Komisija Državnega zbora Republike Slovenije za volitve, imenovanja in administrativne zadeve.
-O uvrstitvi v plačilno skupino ter o drugih pravicah iz delovnega razmerja ter pokojninskega, invalidskega, zdravstvenega in socialnega zavarovanja namestnika družbenega pravobranilca odloča Komisija Državnega zbora Republike Slovenije za volitve, imenovanja in administrativne zadeve na predlog družbenega pravobranilca.
-Akt o notranji organizaciji in sistemizaciji delovnih mest določi družbeni pravobranilec, potem ko pridobi soglasje Komisije Državnega zbora Republike Slovenije za volitve, imenovanja in administrativne zadeve.
