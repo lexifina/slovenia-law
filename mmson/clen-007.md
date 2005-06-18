@@ -1,0 +1,7 @@
+# 7. člen
+
+1 Za odškodninske tožbe, vložene proti Dopolnilnemu skladu v skladu s prvim odstavkom 4. člena tega protokola, se uporabljajo določbe prvega, drugega, četrtega, petega in šestega odstavka 7. člena Konvencije o Skladu, 1992.
+
+2 Če se vloži odškodninska tožba za škodo, nastalo zaradi onesnaženja, pri pristojnem sodišču na podlagi IX. člena Konvencije o odgovornosti, 1992, proti lastniku ladje ali njegovemu garantu, je takšno sodišče edino pristojno za vse odškodninske tožbe proti Dopolnilnemu skladu skladno z določbami 4. člena tega protokola za isto škodo. Če pa se odškodninska tožba zaradi škode, nastale zaradi onesnaženja, v skladu s Konvencijo o odgovornosti, 1992, vloži pri sodišču v državi pogodbenici Konvencije o odgovornosti, 1992, ki pa ni pogodbenica tega protokola, se vsaka tožba proti Dopolnilnemu skladu na podlagi 4. člena tega protokola po izbiri oškodovanca vloži ali pri sodišču države, kjer ima Dopolnilni sklad svoj sedež, ali pri katerem koli sodišču države pogodbenice tega protokola, ki je pristojno na podlagi IX. člena Konvencije o odgovornosti, 1992.
+
+3 Ne glede na prvi odstavek, če se vloži odškodninska tožba za škodo, nastalo zaradi onesnaženja, proti Skladu, 1992, pri sodišču države pogodbenice Konvencije o Skladu, 1992, ki pa ni pogodbenica tega protokola, se vse z njo povezane tožbe proti Dopolnilnemu skladu po izbiri oškodovanca vložijo ali pri sodišču države, kjer ima Dopolnilni sklad svoj sedež, ali pri katerem koli sodišču države pogodbenice, ki je pristojno na podlagi prvega odstavka.

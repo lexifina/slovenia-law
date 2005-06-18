@@ -1,0 +1,3 @@
+# 5. člen
+
+Dopolnilni sklad izplača odškodnino, če po mnenju Skupščine Sklada, 1992, skupna vsota uveljavljenih odškodninskih zahtevkov presega ali obstaja nevarnost, da bo skupna vsota uveljavljenih zahtevkov presegla skupno vsoto odškodnine, ki je na voljo v skladu s četrtim odstavkom 4. člena Konvencije o Skladu, 1992, in da bo zato Skupščina Sklada, 1992, sprejela začasni ali dokončni sklep, da se vsak uveljavljen zahtevek plača samo deloma. Skupščina Dopolnilnega sklada nato odloči, ali bo Dopolnilni sklad plačal del vseh uveljavljenih zahtevkov, ki niso bili plačani na podlagi Konvencije o odgovornosti, 1992, in Konvencije o Skladu, 1992, in v kakšnem obsegu.

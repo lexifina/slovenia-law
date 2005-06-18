@@ -1,0 +1,3 @@
+# 20. člen Informacije o nafti, za katero se plača prispevek
+
+Pred začetkom veljavnosti tega protokola za državo ta država pri podpisu tega protokola v skladu z odstavkom 2(a) 19. člena ali pri deponiranju listine iz četrtega odstavka 19. člena tega protokola, potem pa vsako leto na datum, ki ga določi generalni sekretar, generalnemu sekretarju sporoči imena in naslove vseh oseb, ki so v tej državi na podlagi 10. člena zavezane k plačilu prispevkov v Dopolnilni sklad, in podatke o ustreznih količinah nafte, za katero se plača prispevek in ga je prejela vsaka takšna oseba na ozemlju te države v prejšnjem koledarskem letu.
