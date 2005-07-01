@@ -1,0 +1,3 @@
+# 2. člen
+Republika Slovenija na dan uveljavitve tega zakona prevzame dolg, ki ga ima Zavod za pokojninsko in invalidsko zavarovanje Slovenije iz naslova najetega posojila, po stanju na dan 30. junija 2005, v okviru enotnega zakladniškega računa države in pripadajoče obresti iz te zadolžitve, vendar ne več kot 17.100 milijonov tolarjev.
+Republika Slovenija na dan uveljavitve tega zakona prevzame dolg, ki ga ima Zavod za zdravstveno zavarovanje Slovenije iz naslova najetega posojila, po stanju na dan 31. decembra 2004, v okviru enotnega zakladniškega računa države, v višini 28.650 milijonov tolarjev in pripadajoče obresti iz te zadolžitve.
