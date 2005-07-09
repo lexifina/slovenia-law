@@ -1,0 +1,4 @@
+# 7. člen
+Naloge šolskih uprav, določene z Zakonom o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/96, 23/96 - popr., 22/00 - ZJS, 64/01, 108/02, 34/03 in 79/03) in drugimi zakoni ter na njihovi podlagi sprejetimi predpisi, z dnem uveljavitve tega zakona opravlja ministrstvo, pristojno za predšolsko vzgojo oziroma šolstvo.
+Ne glede na določbo prejšnjega odstavka z dnem uveljavitve tega zakona enote Zavoda Republike Slovenije za šolstvo nadaljujejo z opravljanjem nalog šolskih uprav po določbah Zakona o usmerjanju otrok s posebnimi potrebami (Uradni list RS, št. 54/00), in sicer do prevzema nalog s strani ministrstva, pristojnega za šolstvo.
+Podrobnejša navodila za izvajanje nalog iz prejšnjega odstavka ter krajevno pristojnost enot Zavoda Republike Slovenije za šolstvo, določi v 60 dneh po uveljavitvi tega zakona minister, pristojen za šolstvo.
