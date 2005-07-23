@@ -1,0 +1,4 @@
+# 7. člen (vstop v Republiko Slovenijo)
+(1) Oseba iz 2. člena tega zakona, ki v času trajanja začasne zaščite in dokler število oseb, določeno v sklepu Vlade Republike Slovenije (v nadaljnjem besedilu: vlada) iz 10. člena tega zakona, ni doseženo, nezakonito vstopi v Republiko Slovenijo, lahko pri pristojnem organu zaprosi za začasno zaščito, če to stori v treh dneh po vstopu v Republiko Slovenijo.
+(2) Oseba, ki vstopi v Republiko Slovenijo izven mejnega prehoda ali v nasprotju z namembnostjo mejnega prehoda in pri pristojnem organu v roku iz prejšnjega odstavka zaprosi za začasno zaščito, ne stori prekrška iz zakona, ki ureja nadzor državne meje.
+(3) Minister oziroma ministrica (v nadaljnjem besedilu: minister), pristojen za notranje zadeve, s soglasjem ministra, pristojnega za pravosodje, izda navodilo o postopku in načinu ravnanja z osebami iz prejšnjega odstavka.

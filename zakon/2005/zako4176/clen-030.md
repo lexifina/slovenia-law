@@ -1,0 +1,4 @@
+# 30. člen (pravica do denarne pomoči)
+(1) Osebe z začasno zaščito, ki ne bivajo v nastanitvenih centrih in so brez dohodkov in drugih prejemkov ter zavezancev, ki so jih v skladu s predpisi Republike Slovenije dolžni in zmožni preživljati, so upravičene do denarne pomoči.
+(2) Kot dohodki in drugi prejemki iz prejšnjega odstavka se štejejo tisti, ki se po predpisih s področja socialnega varstva upoštevajo pri ugotavljanju upravičenosti do denarne socialne pomoči.
+(3) Pri ugotavljanju upravičenosti do denarne pomoči po tem zakonu se upošteva osnovni znesek minimalnega dohodka, določen s predpisi s področja socialnega varstva, in dohodek, ugotovljen na način, ki je s predpisi s področja socialnega varstva določen za ugotavljanje upravičenosti do denarne socialne pomoči, kolikor s tem zakonom ni določeno drugače.

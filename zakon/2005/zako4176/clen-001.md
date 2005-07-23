@@ -1,0 +1,3 @@
+## I. SPLOŠNE DOLOČBE
+# 1. člen (uvodna določba)
+Ta zakon ureja uvedbo, trajanje in prenehanje začasne zaščite razseljenih oseb (v nadaljnjem besedilu: začasna zaščita), pogoje in postopke za pridobitev in prenehanje začasne zaščite ter pravice in obveznosti oseb z začasno zaščito v skladu z Direktivo Sveta Evropske unije 2001/55/ES z dne 20. 7. 2001 o najnižjih standardih za dodelitev začasne zaščite v primeru množičnega prihoda razseljenih oseb in o ukrepih za uravnoteženje prizadevanj med državami članicami pri sprejemanju takšnih oseb in ustreznih posledic (UL L št. 212 z dne 7. 8. 2001, str. 12).
