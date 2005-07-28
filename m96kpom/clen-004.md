@@ -1,0 +1,3 @@
+# 4. ČLEN ODMETAVANJE ODPADKOV ALI DRUGIH SNOVI
+
+1 .1 Pogodbenice prepovedujejo odmetavanje kakršnih koli odpadkov ali drugih snovi, razen tistih, naštetih v prilogi 1. .2 Za odmetavanje odpadkov ali drugih snovi, naštetih v prilogi 1, je potrebno dovoljenje. Pogodbenice sprejmejo upravne ali zakonodajne ukrepe, s katerimi zagotavljajo, da so izdaja dovoljenj in pogoji iz dovoljenja v skladu z določbami priloge 2. Posebna pozornost se mora namenjati možnostim za izogibanje odmetavanja v korist okolju prijaznih drugih možnosti. 2 Nobena določba tega protokola se ne razlaga tako, da posamezni pogodbenici preprečuje, da bi prepovedala odmetavanje odpadkov ali drugih snovi, omenjenih v prilogi 1. Ta pogodbenica organizacijo uradno obvesti o takih ukrepih.

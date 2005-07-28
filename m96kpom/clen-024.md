@@ -1,0 +1,3 @@
+# 24. ČLEN PODPIS, RATIFIKACIJA, SPREJETJE, ODOBRITEV IN PRISTOP
+
+1 Protokol je vsem državam na voljo za podpis na sedežu organizacije od 1. aprila 1997 do 31. marca 1998, zatem pa je državam na voljo za pristop. 2 Države lahko postanejo pogodbenice tega protokola, če: .1 ga podpišejo brez pridržka ratifikacije, sprejetja ali odobritve ali .2 ga podpišejo s pridržkom ratifikacije, sprejetja ali odobritve, nato pa ratificirajo, sprejmejo ali odobrijo ali .3 k njemu pristopijo. 3 Protokol se ratificira, sprejme, odobri ali se pristopi k njemu z deponiranjem ustrezne listine pri generalnem sekretarju.

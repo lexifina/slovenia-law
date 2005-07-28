@@ -1,0 +1,3 @@
+# 12. ČLEN REGIONALNO SODELOVANJE
+
+Da bi pogodbenice, ki imajo skupne interese za varstvo morskega okolja na določenem geografskem območju, spodbudile cilje tega protokola, si ob upoštevanju značilnih regionalnih posebnosti prizadevajo okrepiti regionalno sodelovanje, vključno s sklenitvijo regionalnih sporazumov, skladnih s tem protokolom, o preprečevanju, zmanjševanju, in če je to izvedljivo, odpravljanju onesnaževanja, ki ga na morju povzroča odmetavanje ali sežiganje odpadkov ali drugih snovi. Pogodbenice si prizadevajo sodelovati s podpisnicami regionalnih sporazumov, da bi uskladile postopke, ki jih morajo upoštevati pogodbenice različnih zadevnih konvencij.
