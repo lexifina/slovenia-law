@@ -1,0 +1,2 @@
+# 1. člen
+Državni zbor Republike Slovenije daje soglasje Družbi za avtoceste v Republiki Sloveniji, d.d. (v nadaljnjem besedilu: DARS d.d.) za najetje kredita pri Evropski investicijski banki (v nadaljnjem besedilu: EIB) v znesku 250 milijonov evrov glavnice, s pripadajočimi obrestmi in drugimi stroški kredita za projekt slovenskih avtocest/VII, to je za gradnjo avtocestnih odsekov Maribor-Lenart in Lenart-Beltinci (na etapah: Lenart-Spodnja Senarska, Spodnja Senarska-Cogetinci in Cogetinci-Vučja vas).
