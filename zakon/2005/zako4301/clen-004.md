@@ -1,0 +1,3 @@
+# 4. člen
+Ne glede na določbo 70.a člena zakona morajo po uveljavitvi tega zakona politične stranke ali volivci, ki v volilni enoti določijo več kot enega kandidata za člana občinskega sveta, določiti kandidate oziroma kandidatne liste tako, da pripada vsakemu od obeh spolov za prve redne volitve najmanj 20% in za naslednje redne volitve najmanj 30% kandidatur oziroma mest na kandidatni listi ter svoje kandidate oziroma kandidate na prvi polovici kandidatne liste razporediti izmenično najmanj vsakega tretjega kandidata po spolu.
+Občinska volilna komisija ne zavrne potrditve kandidatur oziroma kandidatnih list, ki jih je vložila politična stranka v občini, če je na ravni občine upoštevala razmerje med spoloma iz prvega odstavka tega člena.
