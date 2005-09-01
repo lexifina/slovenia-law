@@ -1,0 +1,6 @@
+# 6. člen
+Besedilo 62.c člena se spremeni tako, da se glasi:
+"Zavarovalnica ne sme odpovedati pogodbe o dopolnilnem zavarovanju, razen v primeru neplačila premije.
+Če zavarovanec ali druga zainteresirana oseba do zapadlosti ne plača premije po pogodbi o dopolnilnem zavarovanju, preneha obveznost zavarovalnice po 60 dneh od dneva, ko je bilo zavarovalcu oziroma zavarovancu vročeno priporočeno pismo zavarovalnice z obvestilom o zapadlosti premije. Za vročanje se uporabljajo pravila o osebnem vročanju iz zakona, ki ureja upravni postopek.
+Zavarovalnica lahko po izteku roka iz prejšnjega odstavka razdre pogodbo o dopolnilnem zavarovanju brez odpovednega roka in izterja neplačane premije s pripadajočimi obrestmi. Razdrtje zavarovalne pogodbe in prenehanje zavarovalnega kritja nastopi z iztekom roka iz prejšnjega odstavka, če je bil zavarovalec oziroma zavarovanec v priporočenem pismu z obvestilom o zapadlosti premije in prenehanju zavarovalnega kritja iz prejšnjega odstavka o tem primerno obveščen.
+Zavarovalec lahko poda odpoved od pogodbe o prostovoljnem zdravstvenem zavarovanju po poteku enega leta od začetka veljavnosti zavarovanja, pred tem rokom pa v primerih prenehanja statusa zavarovane osebe v obveznem zavarovanju. Odpovedni rok za zavarovalca je tri mesece. Pod enakimi pogoji lahko svoje soglasje k zavarovalni pogodbi prekliče tudi zavarovanec."

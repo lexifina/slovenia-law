@@ -1,0 +1,6 @@
+# 4. člen
+Besedilo 62.a člena se spremeni tako, da se glasi:
+"Zavarovalnica mora za opravljanje zavarovalnih poslov dopolnilnega zavarovanja pridobiti predhodno soglasje ministra, pristojnega za zdravje.
+Vloga za pridobitev soglasja iz prejšnjega odstavka mora vsebovati podatke o zavarovalnici, splošne pogoje za dopolnilna zavarovanja, izjavo o izpolnjevanju pogojev iz prejšnjega člena ter izjavo zavarovalnice, da vstopa v izravnalno shemo dopolnilnega zavarovanja in da izpolnjuje vse pogoje, ki so potrebni za izvajanje izravnave po tem zakonu. Prav tako mora vloga vsebovati tudi posebne pogoje, obrazce in tiskovine, ki jih bo zavarovalnica uporabljala v poslovanju z zavarovanci, obrazce izračuna premij in drugo dokumentacijo glede višine premij.
+Pred izdajo soglasja lahko minister, pristojen za zdravje, zahteva dopolnitev vloge zavarovalnice s podatki in dokazili, iz katerih je mogoče nedvoumno ugotoviti izpolnjevanje meril in pogojev za izvajanje dopolnilnih zavarovanj v skladu s tem zakonom.
+Minister, pristojen za zdravje, da soglasje za opravljanje zavarovalnih poslov dopolnilnih zavarovanj v dveh mesecih od prejema popolne vloge iz drugega odstavka tega člena. Odločba je v upravnem postopku dokončna in je zoper njo dovoljen upravni spor."

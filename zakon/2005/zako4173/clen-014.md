@@ -1,0 +1,4 @@
+# 14. člen
+Družbe za vzajemno zavarovanje, ki že izvajajo dopolnilno zavarovanje, morajo v šestih mesecih po uveljavitvi tega zakona uskladiti statute z določbami 11., 12. in 13. člena tega zakona.
+Družbe za vzajemno zavarovanje, ki že izvajajo dopolnilno zavarovanje, morajo uskladiti pravilnik o volitvah v treh mesecih po sprejetju statutov iz prejšnjega odstavka, oziroma v roku, ki bo omogočal izvedbo volitev v skupščine zastopnikov za naslednji mandat.
+Družbi za vzajemno zavarovanje, ki v predpisanem roku ne uskladi svojih aktov z določbami iz tega člena ali ne izvede volitev v skladu s prejšnjim odstavkom, lahko Agencija za zavarovalni nadzor izreče ukrep nadzora v skladu z določbo 3. točke prvega odstavka 181. člena zakona o zavarovalništvu, pri čemer se lahko prepoved sklepanja novih zavarovalnih pogodb nanaša samo na dopolnilno zavarovanje.

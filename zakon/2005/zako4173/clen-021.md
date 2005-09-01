@@ -1,0 +1,3 @@
+# 21. člen
+Podrobnejša navodila za izračun oziroma pobot sredstev matematičnih rezervacij oziroma rezervacij za starost iz 19. člena tega zakona določi Agencija za zavarovalni nadzor s sklepom, ki ga pripravi in izda najpozneje v šestih tednih po uveljavitvi tega zakona. Predpis iz tega odstavka začne veljati prvi dan tretjega meseca po uveljavitvi tega zakona.
+Zavarovalnici, ki ne izvede postopkov iz 19. in 20. člena tega zakona, lahko Agencija za zavarovalni nadzor izreče ukrep nadzora v skladu z določbo 3. točke prvega odstavka 181. člena zakona o zavarovalništvu, pri čemer se lahko prepoved sklepanja novih zavarovalnih poslov nanaša samo na dopolnilno zavarovanje.
