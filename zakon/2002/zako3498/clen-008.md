@@ -1,9 +1,4 @@
 # 8. člen
-Ministrstvo, pristojno za dejavnost, ki jo opravlja družba (v nadaljnjem besedilu: pristojno ministrstvo), mora pristojni komisiji predhodno priglasiti državno pomoč:
-- v primeru velike družbe;
-- ne glede na velikost družbe v primeru posebnih sektorjev, kot so: letalstvo, transport, ladjedelništvo, kmetijstvo in ribištvo, sektor "sintetična vlakna";
-- v primeru tretjega odstavka 2. člena tega zakona.
-Za potrebe tega zakona se šteje, da je družba velika:
-- če ima več kot 250 zaposlenih,
-- da znaša letni promet več kot 40 mio EUR ali
-- da je bilančna vsota večja od 27 mio EUR.
+Državno pomoč veliki družbi lahko Vlada Republike Slovenije odobri šele, ko po posamični priglasitvi Evropski komisiji prejme njeno odobritev dodelitve državne pomoči.
+Program prestrukturiranja se lahko med izvajanjem spremeni samo na podlagi potrditve Evropske komisije. Priglasitev za odobritev sprememb programa prestrukturiranja pripravi ministrstvo, pristojno za dejavnost, ki jo opravlja družba (v nadaljnjem besedilu: pristojno ministrstvo) in družba v težavah, ki prosi za spremembo programa prestrukturiranja.
+Za male in srednje velike družbe programe prestrukturiranja potrjuje vlada in jih posreduje Evropski komisiji.

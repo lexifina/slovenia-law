@@ -10,3 +10,4 @@ Družba, ki meni, da izpolnjuje pogoje za dodelitev pomoči po tem zakonu, pošl
 Pristojno ministrstvo imenuje strokovno medresorsko komisijo, ki vlogo pregleda in pripravi mnenje o izpolnjevanju pogojev za dodelitev pomoči in predlog za dodelitev vrste in višine državne pomoči.
 Pristojno ministrstvo vključi kot člana komisije tudi predstavnika ministrstva, pristojnega za finance, in ministrstva, pristojnega za delo, družino in socialne zadeve.
 Pristojno ministrstvo lahko pridobi strokovno mnenje neodvisnega zunanjega strokovnjaka o sprejemljivosti programa prestrukturiranja glede na dolgoročno sposobnost preživetja družbe.
+V vlogi za dodelitev pomoči je potrebno navesti ali je družba v preteklosti že prejela pomoč za reševanje oziroma prestrukturiranje.

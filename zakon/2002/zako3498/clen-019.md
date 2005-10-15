@@ -1,3 +1,3 @@
-## 5. Kapitalska naložba
+## 5. Kapitalska naložba (črtan)
 # 19. člen
-Kapitalske naložbe v družbo se izvedejo neposredno ali s konverzijo obstoječih terjatev v kapitalski delež.
+Natančnejše pogoje in postopke izdaje poroštev po tem zakonu in obliko ter vrsto zavarovanj določi vlada z uredbo.
