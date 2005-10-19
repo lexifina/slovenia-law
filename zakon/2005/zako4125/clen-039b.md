@@ -1,0 +1,9 @@
+# 39.b člen (minimalne varnostne zahteve)
+(1) Minimalne varnostne zahteve za predore iz prejšnjega člena se nanašajo na:
+- konstrukcijske značilnosti in opremo predorov, kot so: število cevi in smernih vozišč, geometrija predora, izhod v sili, dostop intervencijske službe, odstavne niše, odvajanje tekočin, požarna varnost, prezračevanje, komunikacijski sistemi, in podobno ter
+- ukrepe v zvezi z obratovanjem predora, kot so: zagotavljanje potrebnih sredstev in usposobljenega osebja, način izvedbe del v predoru, obvladovanje nesreč in izrednih dogodkov, delovanje nadzornega centra, potek prometa v predoru, prevoz nevarnih snovi in podobno.
+Minimalne varnostne zahteve za predore natančneje predpiše Vlada Republike Slovenije.
+(2) Vlada Republike Slovenije v predpisu iz prejšnjega odstavka predpiše tudi varnostno dokumentacijo, ki mora biti pripravljena ob projektiranju predora, način odobritve projektne zasnove, način dajanja v obratovanje in pogoje za izdajo dovoljenja za obratovanje predora, ter občasne vaje, ki naj zagotovijo varnost predora.
+(3) Predor mora biti označen z znaki in oznakami, ki jih predpiše Vlada Republike Slovenije.
+(4) Analiza tveganja vsebuje podrobno oceno tveganj za posamezen predor, ob upoštevanju vseh projektnih dejavnikov in prometnih pogojev, ki vplivajo na varnost. Vsebina in rezultati analize tveganja morajo biti vsebovani v varnostni dokumentaciji, sestavljeni v skladu s predpisom iz drugega odstavka tega člena. Analizo tveganja mora pripraviti oseba, ki je od upravljavca predora funkcionalno neodvisna.
+(5) Za namestitev ali uporabo inovativne opreme ali ukrepov, ki zagotavljajo enako ali višjo stopnjo varnosti predora, kot to določa ta zakon in predpis iz prvega odstavka tega člena, lahko ministrstvo dovoli izjemo od zahtev tega predpisa. K dovoljenju izjeme mora ministrstvo pridobiti odobritev Komisije Evropske skupnosti skladno s 14. členom Direktive 2004/54/ES.

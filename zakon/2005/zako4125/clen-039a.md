@@ -1,0 +1,3 @@
+# 39.a člen (obseg uporabe)
+(1) Določbe tega poglavja se uporabljajo za predore, daljše od 500 m merjeno po najdaljšem smernem vozišču v popolnoma zaprtem delu predora, ki so na državnih cestah, ki so del vseevropskega cestnega omrežja, kot je določeno v Oddelku 2 Priloge I k Odločbi št. 1692/96/ES Evropskega parlamenta in Sveta z dne 23. julija 1996 o smernicah Skupnosti za razvoj vseevropskega prometnega omrežja (UL L št. 228 z dne 9. 9. 1996, str. 1) in ilustrirano na kartah in/ali opisano v Prilogi 2 k navedeni odločbi.
+(2) Vlada Republike Slovenije lahko predpiše, da se določbe tega poglavja uporabljajo tudi za predore na drugih javnih cestah, ki so daljši od 500 metrov, merjeno po najdaljšem smernem vozišču v popolnoma zaprtem delu predora.
