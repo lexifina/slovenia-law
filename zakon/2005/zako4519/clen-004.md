@@ -1,0 +1,3 @@
+# 4. člen
+(1) Začasna zunanja meja zaščitne ekološke cone Republike Slovenije v smeri proti Republiki Italiji sledi črti razmejitve epikontinentalnega pasu, določeni s Sporazumom med Vlado Socialistične federativne republike Jugoslavije in Vlado Republike Italije o razmejitvi epikontinentalnega pasu med državama z dne 8. januarja 1968 in poteka po razmejitveni črti epikontinentalnega pasu južno od točke T5, ki jo določa Pogodba med Socialistično federativno republiko Jugoslavijo in Republiko Italijo s prilogami od I do X z dne 10. novembra 1975.
+(2) Začasna zunanja meja zaščitne ekološke cone na južni strani poteka po vzporedniku 45 stopinj in 10 minut severne zemljepisne širine.
