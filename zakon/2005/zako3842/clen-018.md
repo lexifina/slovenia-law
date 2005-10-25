@@ -1,0 +1,2 @@
+# 18. člen
+Vlada izda predpis iz petega odstavka 11.a člena zakona ter uskladi Uredbo o objavljanju v Uradnem listu Republike Slovenije in Uredbo o informatiziranih zbirkah podatkov o predpisih (Uradni list RS, št. 34/03) z zakonom v šestih mesecih po uveljavitvi tega zakona. Služba prilagodi informatizirane zbirke podatkov predpisov in začne objavljati pravno-informacijski sistem do 1. januarja 2007.
