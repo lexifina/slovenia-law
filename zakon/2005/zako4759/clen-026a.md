@@ -1,0 +1,5 @@
+# 26.a člen
+Evidence iz prejšnjega člena vsebujejo naslednje podatke:
+- evidenca pogodb o opravljanju detektivskih storitev: podatki o naročniku detektivske storitve (ime, priimek in naslov fizične osebe oziroma firma in sedež pravne osebe); podatki o pogodbi o opravljanju detektivske storitve (zaporedna številka pogodbe, datum sklenitve in datum izpolnitve pogodbe); podatki o področju zbiranja informacij (navedba področja zbiranja podatkov iz 9. člena tega zakona in opis vsebine detektivske storitve oziroma predmeta pogodbe); podatki o pooblastilu stranke (zaporedna številka pooblastila, datum, obseg pooblastila); datum izpolnitve pogodbe;
+- evidenca zbranih informacij: podatke o vrsti zbranih informacij (področje zbiranja informacij, podatki o posamezni informaciji; podatki o posamezniku (ime in priimek, naslov stalnega oziroma začasnega bivališča); podatki o pravni osebi (firma in sedež pravne osebe); drugi podatki o posamezni informaciji;
+- evidenca naznanjenih kaznivih dejanj: podatki o naznanitvi kaznivega dejanja, ki se preganja po uradni dolžnosti (naslovnik sporočila, datum sporočila); znani podatki o kaznivem dejanju.
