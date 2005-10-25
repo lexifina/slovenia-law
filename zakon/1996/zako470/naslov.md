@@ -1,2 +1,2 @@
 ZAKON
-O URADNEM LISTU REPUBLIKE SLOVENIJE (ZUL)
+o Uradnem listu Republike Slovenije (ZUL)
