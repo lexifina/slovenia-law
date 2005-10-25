@@ -4,7 +4,7 @@ Detektiv sme pridobivati informacije na podlagi pisne pogodbe o opravljanju dete
 1. da je državljan Republike Slovenije;
 2. da ima končano višjo ali visoko šolo in opravljen detektivski izpit;
 3. da ni pravnomočno obsojen za naklepno kaznivo dejanje, ki se preganja po uradni dolžnosti;
-4. da v zadnjih dveh letih ni opravljal nalog pooblaščenih uradnih oseb Ministrstva za notranje zadeve ali obveščevalno-varnostnih služb;
+4. da v zadnjih štirih letih ni opravljal nalog pooblaščenih uradnih oseb Ministrstva za notranje zadeve ali obveščevalno-varnostnih služb;
 5. da aktivno obvlada slovenski jezik;
 6. da je vreden zaupanja za opravljanje detektivske dejavnosti.
 Detektivski izpit iz 2. točke prejšnjega odstavka se opravi pred komisijo, sestavljeno iz:

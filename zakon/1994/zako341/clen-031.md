@@ -13,3 +13,9 @@ Določba 2. člena tega zakona se začne uporabljati dvanajst mesecev po uveljav
 Določbe 16.a do 16.e člena ter določbe druge in tretje alinee 23. člena zakona, ki se nanašajo na evidence tujih detektivov, se začnejo uporabljati z dnem pristopa Republike Slovenije k Evropski uniji.
 22. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
+_________________
+Zakon o spremembah in dopolnitvah Zakona o detektivski dejavnosti - ZDD-B (Uradni list RS, št. 90/05) vsebuje naslednjo prehodno in končno določbo:
+"4. člen
+Postopki obravnave prošenj za izdajo licence detektiva, vloženih do uveljavitve tega zakona, o katerih do uveljavitve tega zakona še ni bilo odločeno, se dokončajo po dosedanjih predpisih.
+5. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
