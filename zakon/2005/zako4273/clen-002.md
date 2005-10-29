@@ -1,0 +1,4 @@
+# 2. člen
+V besedilu 1. člena, ki postane prvi odstavek, se črta beseda "redno".
+Doda se nov drugi odstavek, ki se glasi:
+"(2) S tem zakonom se v pravni red Republike Slovenije prenašata Prva direktiva Sveta 68/151/EGS z dne 9. marca 1968 o uskladitvi zaščitnih ukrepov za varovanje interesov družbenikov in tretjih oseb, ki jih države članice zahtevajo od gospodarskih družb v skladu z drugim odstavkom člena 58 Pogodbe, zato da se oblikujejo zaščitni ukrepi z enakim učinkom v vsej Skupnosti (UL L št. 65 z dne 14. 3. 1968, str. 8) z vsemi spremembami in Enajsta direktiva Sveta 89/666/EGS z dne 21. decembra 1989 o razkritjih podružnic, ki jih v državi članici odprejo nekatere oblike družb, za katere velja zakonodaja druge države (UL L št. 395 z dne 30. 12. 1989, str. 36) z vsemi spremembami.".
