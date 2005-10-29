@@ -1,0 +1,4 @@
+# 35. člen (veljavnost pogodb)
+(1) Šteje se, da so pogodbe, ki jih je Uprava Republike Slovenije za zaščito in reševanje sklenila z gasilski enotami, ki jih je določila vlada za opravljanje nalog zaščite in reševanja širšega pomena pred uveljavitvijo tega zakona, sklenjene za nedoločen čas oziroma do spremembe odločitve vlade. O teh pogodbah ni treba obveščati občinskih organov, pristojnih za organizacijo javne gasilske službe, v skladu s tem zakonom.
+(2) Pogodbe, ki so jih pred uveljavitvijo tega zakona sklenile gasilske enote z gospodarskimi družbami, zavodi in drugimi organizacijami za opravljanje operativnih nalog gasilstva, ostanejo v veljavi.
+(3) Gasilske enote, ustanovljene ali posebej organizirane za opravljanje operativnih nalog gasilstva v eni ali več gospodarskih družbah, zavodih in drugih organizacijah pred uveljavitvijo tega zakona, opravljajo operativne naloge gasilstva za te gospodarske družbe, zavode in organizacije tudi po uveljavitvi tega zakona.

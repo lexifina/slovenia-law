@@ -1,0 +1,7 @@
+# 26. člen
+Na koncu prvega odstavka 40. člena se črta pika in doda besedilo "v skladu z zakonom in pravili gasilske službe. Vodja intervencije je lahko tudi poveljujoči določeni formacijski sestavi, vodja izmene, gasilec, posebej usposobljen za vodenje določenih intervencij, oziroma gasilec, ki ga pooblasti poveljnik gasilske enote. Ukazi in navodila vodje intervencije so obvezni za vse gasilce, ki sodelujejo v intervenciji. Posameznik lahko izvršitev ukaza ali navodila odkloni le, če bi s tem storil kaznivo dejanje oziroma če mu je naložena naloga, za katero ni usposobljen niti opremljen in je zato neposredno ogroženo njegovo življenje.".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Intervencije, pri katerih sodeluje več gasilskih enot, vodi poveljnik oziroma v skladu s prejšnjim odstavkom vodja intervencije iz gasilske enote, na območju katere je požar ali druga nesreča. Ob prihodu poveljnika višje kategorizirane enote ali višjega po činu mu preda vodenje intervencije, če se ne sporazumeta drugače. Vsi poveljujoči gasilskih enot in drugih reševalnih enot sestavljajo operativno vodstvo intervencije, ki je odgovorno vodji intervencije.".
+Doda se nov četrti odstavek, ki se glasi:
+"(4) Poveljnik višje kategorizirane enote ali višji po činu, ne glede na drugi in tretji odstavek tega člena, prevzame vodenje intervencije, če je očitno, da vodja intervencije vodi intervencijo napačno ali bistveno v nasprotju s pravili gasilske službe.".
+Dosedanji četrti odstavek postane peti odstavek.

@@ -1,0 +1,4 @@
+# 33. člen (izobrazba in usposobljenost gasilcev)
+(1) Poklicni gasilci, ki nimajo s tem zakonom predpisane strokovne izobrazbe, jo morajo pridobiti v desetih letih po uveljavitvi tega zakona.
+(2) Poklicni gasilci, ki so se zaposlili pred uveljavitvijo tega zakona in delajo na delovnih mestih gasilcev, za katere se zahteva srednja tehnična ali srednja strokovna izobrazba, imajo pa srednjo poklicno izobrazbo in delo poklicnega gasilca opravljajo najmanj pet let, nadaljujejo z delom na dosedanjih položajih in jim ni treba pridobiti manjkajoče izobrazbe v skladu s prejšnjim odstavkom.
+(3) Vsebine izobraževalnih programov za temeljno usposabljanje prostovoljnih gasilcev in vsebine izobraževalnih programov za izobraževanje poklicnih gasilcev s srednjo tehnično in srednjo strokovno izobrazbo se morajo medsebojno uskladiti najkasneje v desetih letih po uveljavitvi tega zakona.

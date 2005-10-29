@@ -1,0 +1,2 @@
+# 11.b člen (opravljanje požarne straže in drugih nalog)
+Požarno stražo in požarno varovanje objektov, drugega premoženja ter javnih prireditev opravljajo na območju občine tisti gasilci in gasilske enote, ki izvajajo javno gasilsko službo v skladu s tem zakonom na območju te občine, če z operativnim gasilskim načrtom občine ali z zakonom ni določeno drugače. Stroški izvajanja gasilskih operativnih nalog po tem členu bremenijo lastnika ali upravljalca objekta in premoženja oziroma organizatorja javne prireditve.

@@ -1,0 +1,11 @@
+# 4. člen
+V prvem odstavku 8. člena se 2. točka spremeni tako, da se glasi:
+"2. sofinancira naloge zaščite in reševanja, ki so širšega pomena, zlasti pri nesrečah v prometu, nesrečah z nevarnimi snovmi, reševanju na in iz vode ter reševanju v avtocestnih predorih;".
+V 4. točki se na koncu besedila črta podpičje in doda besedilo "in Združenja slovenskih poklicnih gasilcev;".
+V 5. točki se na koncu besedila črta podpičje in doda besedilo "in zagotavlja pogoje za posodabljanje gasilske zaščitne in reševalne opreme;".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) določi gasilske enote za opravljanje nalog zaščite in reševanja, ki so širšega pomena. Uprava Republike Slovenije za zaščito in reševanje s temi gasilskimi enotami neposredno sklene pogodbe o opravljanju nalog zaščite in reševanja, ki so širšega pomena. Uprava Republike Slovenije za zaščito in reševanje mora pred sklenitvijo pogodbe obvestiti o tem občinski organ, pristojen za organizacijo javne gasilske službe v občini, na območju katere gasilska enota deluje.".
+V tretjem odstavku se na koncu besedila črta pika in doda besedilo "merila za zavarovanje operativnih gasilcev za primer smrti in trajne ali prehodne izgube delovne zmožnosti, program ugotavljanja psihofizičnih sposobnosti in program za opravljanje preizkusa znanja operativnih gasilcev, roke za periodično ugotavljanje psihofizičnih sposobnosti ter preizkus znanja operativnih gasilcev. Minister v sodelovanju z Gasilsko zvezo Slovenije in Združenjem slovenskih poklicnih gasilcev predpiše uniformo, čine in oznake gasilcev ter obliko in vsebino gasilske izkaznice. Minister predpiše tudi čase, v katerih morajo gasilske enote, ki so aktivirane v skladu z operativnim gasilskim načrtom lokalne skupnosti, priti na kraj nesreče ter merila za požarno pokrivanje posameznih vrst objektov.".
+Doda se nov četrti odstavek, ki se glasi:
+"(4) Minister, pristojen za zdravje, v soglasju z ministrom predpiše merila za ugotavljanje zdravstvene sposobnosti operativnih gasilcev ter pogoje, ki jih morajo izpolnjevati zdravstveni zavodi oziroma zasebni zdravniki za ugotavljanje zdravstvene sposobnosti operativnih gasilcev.".
+Dosedanji četrti odstavek postane peti odstavek.
