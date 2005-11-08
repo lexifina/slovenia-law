@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o odpravi posledic naravnih nesreč (Uradni list RS, št. 75/03) se v 3. točki 4. člena za besedo "bolezni" postavi pika in doda besedilo "Za naravno nesrečo se šteje tudi nesreča, ki jo povzročita neurje ali toča, če gre za odpravo njunih posledic na stanovanjskih stavbah ali na stvareh, za obnovo katerih je do sredstev za odpravo posledic nesreč po tem zakonu upravičen državni organ ali občina.".

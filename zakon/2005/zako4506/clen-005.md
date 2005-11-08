@@ -1,0 +1,6 @@
+# 5. člen
+Za 40. členom se doda nov 40.a člen, ki se glasi:
+"40.a člen(vračilo preveč izplačanih sredstev predplačila)
+(1) Če je upravičencu višina izplačanega predplačila za odpravo posledic škode v kmetijstvu višja od višine dodeljenih sredstev za odpravo posledic škode v kmetijstvu, mora upravičenec preveč izplačana sredstva predplačila vrniti v državni proračun najkasneje v treh letih od dne pravnomočnosti odločbe o dodelitvi sredstev za odpravo posledic škode v kmetijstvu.
+(2) Če je v obdobju treh let iz prejšnjega odstavka nastala nova škoda v kmetijstvu zaradi naravne nesreče in je dolžnik za preveč izplačana sredstva predplačila upravičenec do sredstev za odpravo posledic nove škode v kmetijstvu, se mu preveč izplačana sredstva predplačila odštejejo od dodeljenih sredstev za odpravo posledic nove škode v kmetijstvu.
+(3) Vlada v programu odprave posledic škode v kmetijstvu določi tudi višino preveč izplačanih sredstev predplačila iz prvega odstavka tega člena, ki jih upravičencu do sredstev za odpravo posledic škode v kmetijstvu ni treba vrniti v državni proračun, pri čemer tako določena višina sredstev ne sme presegati stroškov za izterjavo preveč izplačanih sredstev predplačila.".
