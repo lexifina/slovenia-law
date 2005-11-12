@@ -1,6 +1,6 @@
 ## VI. KAZENSKE DOLOČBE
 # 21. člen
-Z denarno kaznijo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna oseba:
+Z globo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna oseba:
 1. če proizvaja ali prodaja cigarete, ki vsebujejo več kot 12 mg katrana na cigareto (drugi odstavek 6. člena);
 2. če od 1. januarja 2004 proizvaja ali prodaja cigarete za Republiko Slovenijo in države članice Evropske unije, od 1. januarja 2007 pa tudi za izvoz v druge države, ki vsebujejo več kot 10 mg katrana na cigareto, 1 mg nikotina na cigareto in 10 mg ogljikovega monoksida na cigareto (tretji odstavek 6. člena);
 3. če proizvaja ali prodaja cigarete, ki nimajo na bočni strani embalaže natisnjenih podatkov o tem, koliko miligramov katrana, nikotina in ogljikovega monoksida vsebuje posamezna cigareta (8. člen), na način, kot ga določa prvi odstavek 9.c člena tega zakona, oziroma imajo natisnjene napačne podatke;
@@ -12,9 +12,9 @@ Z denarno kaznijo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekr�
 9. če prodaja tobačne izdelke v nasprotju s tretjim odstavkom 9.c člena tega zakona;
 10. če prodaja tobačne izdelke brez označbe serijske številke ali ekvivalenta (četrti odstavek 9.c člena tega zakona);
 11. če prodaja tobačne izdelke, ki imajo na embalaži in zunanji embalaži uporabljena besedila, imena, blagovne znamke, simbole oziroma druge znake, ki napeljujejo na to, da je določen tobačni izdelek manj škodljiv (peti odstavek 9.c člena tega zakona);
-12. če reklamira tobak in tobačne izdelke v nasprotju z 10. členom tega zakona;
-13. če reklamira tobak in tobačne izdelke v nasprotju z 11. členom tega zakona;
-14. če izvaja akcijo obveščanja potrošnikov v nasprotju s 13. členom tega zakona;
+12. če sponzorira ali oglašuje tobak in tobačne izdelke (prvi odstavek 10. člena);
+13. če oglašuje izdelke, ki ne sodijo med tobak in tobačne izdelke, vendar s svojim videzom in namenom uporabe neposredno vzpodbujajo k potrošnji tobaka in tobačnih izdelkov (tretji odstavek 10. člena);
+14. če oglašuje tobak in tobačne izdelke v nasprotju z 11. členom tega zakona
 15. če prodaja tobačne izdelke osebam, mlajšim od 15 let (prvi odstavek 14. člena);
 16. če prodaja tobačne izdelke iz avtomatskih naprav (drugi odstavek 14. člena);
 17. če prodaja cigarete in druge tobačne izdelke izven izvirne embalaže proizvajalca (tretji odstavek 14. člena);
@@ -24,6 +24,6 @@ Z denarno kaznijo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekr�
 21. če ne določi prostorov, v katerih je dovoljeno kajenje (prvi odstavek 17. člena);
 22. če se ne ravna po določbi 18.a člena in določbi 18.b člena tega zakona;
 23. če se ne ravna po odločbi iz 20. člena tega zakona.
-Z denarno kaznijo od 100.000 tolarjev do 250.000 tolarjev se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
-Z denarno kaznijo od 200.000 do 3,000.000 tolarjev se kaznuje posameznik, ki stori prekršek iz prvega odstavka tega člena v zvezi s samostojnim opravljanjem dejavnosti.
-Za prekrške iz 1. do 12., 17. in 18. točke prvega odstavka tega člena se poleg denarne kazni izreče tudi varstveni ukrep obveznega odvzema tobačnih izdelkov, ki so predmet prekrška, za prekršek iz 16. točke prvega odstavka tega člena pa tudi odvzem avtomatskih naprav.
+Z globo od 100.000 do 250.000 tolarjev se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
+Z globo od 200.000 do 1.000.000 tolarjev se kaznuje samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
+Za prekrške iz 1. do 12., 17. in 18. točke prvega odstavka tega člena se poleg globe izreče tudi varstveni ukrep obveznega odvzema tobačnih izdelkov, ki so predmet prekrška, za prekršek iz 16. točke prvega odstavka tega člena pa tudi odvzem avtomatskih naprav.
