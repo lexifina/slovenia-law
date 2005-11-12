@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o omejevanju uporabe tobačnih izdelkov (Uradni list RS, št. 26/03 - uradno prečiščeno besedilo) se besedilo 1. člena spremeni tako, da se glasi:
+"Ta zakon v skladu z Direktivo 2001/37/ES Evropskega parlamenta in Sveta z dne 5. junija 2001 o približevanju zakonov in drugih predpisov držav članic o izdelavi, predstavitvi in prodaji tobačnih izdelkov (UL L št. 194 z dne 18. 7. 2001, str. 26) in Direktivo 2003/33/ES Evropskega parlamenta in Sveta z dne 26. maja 2003 o približevanju zakonov in drugih predpisov držav članic o oglaševanju in sponzorstvu tobačnih izdelkov (UL L št. 152 z dne 20. 6. 2003, str. 16) določa ukrepe za omejevanje uporabe tobačnih izdelkov in ukrepe za preprečevanje njihovih škodljivih vplivov na zdravje.".
