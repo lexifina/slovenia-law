@@ -1,0 +1,13 @@
+# 4. člen
+Za 8. členom se doda nov 8.a člen, ki se glasi:
+"8.a člen
+(vstop šolarjev, ki so na šolski ekskurziji)
+(1) Tujec, ki je učenec ali dijak splošne izobraževalne ustanove v drugi državi članici Evropske unije, v kateri zakonito prebiva, lahko vstopi v Republiko Slovenijo brez vizuma če:
+- potuje kot član skupine šolarjev splošne izobraževalne ustanove, ki je na šolski ekskurziji,
+- skupino spremlja učitelj ustanove, ki ima seznam učencev na predpisanem obrazcu iz aneksa k Sklepu Sveta z dne 30. 11. 1994 o skupni akciji, ki jo je Svet sprejel na podlagi člena K.3(2)(b) Pogodbe o Evropski uniji v zvezi s prevozom učencev iz tretjih držav, ki živijo v eni od držav članic (94/795/JHA), ki ga je izpolnila izobraževalna ustanova, in
+- ima veljaven potni list ali drug dokument za vstop, določen z mednarodnim sporazumom ali sklepom Vlade Republike Slovenije, razen če gre za primer iz drugega odstavka tega člena.
+(2) Seznam učencev iz druge alinee prvega odstavka tega člena velja tudi kot dokument za vstop v državo pod pogojem, da:
+- ima učenec ali dijak iz seznama veljavni dokument s fotografijo, s katerim lahko dokazuje svojo istovetnost, ali če je seznamu priložena fotografija, ki kaže njegovo pravo podobo in
+- pristojni organ druge države članice potrdi zakonitost bivanja na njenem območju tistih učencev ali dijakov iz seznama, ki niso državljani katere od držav članic Evropske unije, in njihovo pravico do ponovnega vstopa na njeno ozemlje.
+(3) Tujec, ki v Republiko Slovenijo vstopi v skladu z določbami tega člena, lahko v državi biva v času trajanja šolske ekskurzije, vendar ne dlje kot 90 dni, v primeru, da preko Republike Slovenije potuje v tranzitu, pa pet dni.
+(4) Tujcu z veljavnim dovoljenjem za prebivanje v Republiki Sloveniji, ki je učenec ali dijak splošne izobraževalne ustanove v Republiki Sloveniji in namerava potovati kot član skupine šolarjev na šolsko ekskurzijo v drugo državo članico Evropske unije, ob izpolnjevanju pogojev iz prvega odstavka tega člena, izobraževalna ustanova izpolni obrazec iz druge alinee prvega odstavka tega člena. Na navedenem obrazcu upravna enota, na območju katere je sedež izobraževalne ustanove, potrdi zakonitost prebivanja tujca v Republiki Sloveniji.".
