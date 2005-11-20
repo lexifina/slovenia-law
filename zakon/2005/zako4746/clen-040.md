@@ -1,0 +1,2 @@
+# 40. člen (dovoljenje za prebivanje iz drugih utemeljenih razlogov)
+Tujcu, ki v skladu z zakonom, mednarodnimi akti ali mednarodnimi načeli ali običaji izkaže utemeljen razlog, zaradi katerega je njegovo bivanje v Republiki Sloveniji upravičeno, lahko pristojni organ izda dovoljenje za začasno prebivanje in sicer za čas, za katerega je njegovo prebivanje v državi neobhodno potrebno, vendar ne dlje od enega leta.
