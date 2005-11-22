@@ -8,7 +8,7 @@
 - prehitevati od zgoraj ali od spodaj, z leve ali desne, vendar vedno v zadostni razdalji, ki pušča prehitevanemu smučarju dovolj prostora za smučanje;
 - za zaustavljanje, zadrževanje in vzpenjanje uporabljati le rob smučišča;
 - pomagati pri nesreči, dati svoje podatke, če je priča ali udeleženec v nesreči ali če je kršil določbe tega zakona;
-- počakati do prihoda policista, kadar tako določa zakon;
+- počakati do prihoda policista ali nadzornika, kadar tako določa zakon;
 - do 12. leta starosti uporabljati zaščitno smučarsko čelado;
 - pri prečkanju ali vstopu na smučarsko progo se prepričati, ali to lahko stori brez nevarnosti zase in za druge ter enako storiti tudi ob vsakem ustavljanju;
 - smučarsko in drugo opremo v času, ko jo ne uporablja, puščati na mestu, ki ga za to določi upravljavec;
@@ -38,5 +38,5 @@
 - onesnaževati smučišča in njegove okolice;
 - voditi pse in druge živali po smučarski progi, po smučišču pa ne brez povodca;
 - voziti motornih sani po smučarski progi oziroma izven za to predvidenih površin.
-(6) Pod vplivom alkohola je smučar, ki ima v organizmu več kot 0,5 grama alkohola na kilogram krvi. Količina alkohola v organizmu je določena s koncentracijo alkohola v izdihanem zraku. Ali je smučar pod vplivom alkohola, se ugotavlja s sredstvi in napravami.
+(6) Pod vplivom alkohola je smučar, ki ima v organizmu več kot 0,24 miligrama alkohola v litru izdihanega zraka. Količina alkohola v organizmu je določena s koncentracijo alkohola v izdihanem zraku. Ali je smučar pod vplivom alkohola, se ugotavlja s sredstvi in napravami.
 (7) Pod vplivom prepovedanih drog, psihoaktivnih zdravil ali drugih psihoaktivnih snovi je smučar, pri katerem se s posebnimi sredstvi in napravami ugotovi prisotnost takih snovi v organizmu.
