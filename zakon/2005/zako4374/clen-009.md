@@ -1,0 +1,2 @@
+# 9. člen
+V prvem odstavku 61. člena se v 7. točki besedilo "bila izvedena pooblastila iz 49. člena tega zakona" nadomesti z besedilom "bili izvedeni prikriti preiskovalni ukrepi iz zakona, ki ureja kazenski postopek" in besedilo "številko pisne odobritve generalnega direktorja policije ali osebe, ki jo on pooblasti" nadomesti z besedilom "številko pisne odredbe državnega tožilca ali preiskovalnega sodnika".
