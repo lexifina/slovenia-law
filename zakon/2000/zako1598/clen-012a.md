@@ -1,0 +1,2 @@
+# 12.a člen
+Prenos potnih listin iz tretjega odstavka 12. člena tega zakona in vlog za njihovo izdajo med pristojnim organom oziroma ministrstvom, pristojnim za notranje zadeve, ali ministrstvom, pristojnim za zunanje zadeve, in podjetjem ali organizacijo iz tretjega odstavka 12. člena tega zakona izvaja podjetje ali organizacija, registrirana za prenos poštnih pošiljk, na način, ki zagotavlja zaščito, varnost in sledljivost poštnih pošiljk.

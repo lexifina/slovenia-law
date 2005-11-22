@@ -1,7 +1,8 @@
 # 26. člen
-Organ, pri katerem je bila vložena vloga za izdajo potne listine ali vizuma, izdajo zavrne:
-1. če je zoper državljana, ki prosi za izdajo potne listine ali vizuma, uveden kazenski postopek oziroma teče postopek v zakonskih sporih ter sporih iz razmerij med starši in otroki, dokler postopek traja - če to zahteva pristojno sodišče;
+Organ, pri katerem je bila vložena vloga za izdajo potne listine, izdajo zavrne:
+1. če je zoper državljana, ki prosi za izdajo potne listine, uveden kazenski postopek oziroma teče postopek v zakonskih sporih ter sporih iz razmerij med starši in otroki, dokler postopek traja - če to zahteva pristojno sodišče;
 2. če obstajajo interesi obrambe države, določeni v zakonu - če to zahteva ministrstvo, pristojno za obrambo;
-3. če je bila državljanu najmanj dvakrat izrečena zaporna kazen za kazniva dejanja neupravičene proizvodnje in prometa z mamili, mednarodnega terorizma, ponarejanja listin, tihotapstva, prepovedanega prehoda čez državno mejo, nedovoljene proizvodnje in prometa orožja ali razstrelilnih snovi in za druga hujša kazniva dejanja, povezana s tujino - če to zahteva policija.
-Če je kakšen od razlogov iz prejšnjega odstavka nastal po izdaji potne listine ali vizuma, pristojni organ izdano potno listino odvzame, vizum pa razveljavi.
+3. če je bila državljanu najmanj dvakrat izrečena kazen zapora za kazniva dejanja neupravičene proizvodnje in prometa z mamili, ponarejanja denarja, tihotapstva, ponarejanja listin, nedovoljene proizvodnje in prometa orožja ali eksplozivov, prepovedanega prehajanja meje ali ozemlja države, trgovine z ljudmi, mednarodnega terorizma, financiranja terorističnih dejanj in za ostala kazniva dejanja, povezana s tujino, za katera je v zakonu predpisana kazen osem ali več let zapora - če to zahteva policija.
+Sodišče mora o pravnomočnem sklepu o preiskavi oziroma o pravnomočni obtožnici, vloženi brez preiskave, za kazniva dejanja iz 3. točke prejšnjega odstavka in o pravnomočni sodbi za kazniva dejanja iz 3. točke prejšnjega odstavka obvestiti pristojno policijsko enoto, na območju katere ima državljan prijavljeno stalno prebivališče, oziroma policijsko enoto, na območju katere je sedež sodišča, če državljan nima stalnega prebivališča na območju Republike Slovenije, ki vloži zahtevo iz 3. točke prejšnjega odstavka.
+Če je kakšen od razlogov iz prejšnjega odstavka nastal po izdaji potne listine, pristojni organ izdano potno listino odvzame.
 Pritožba zoper odločbo iz prejšnjega odstavka ne zadrži izvršitve.
