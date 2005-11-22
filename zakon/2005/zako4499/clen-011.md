@@ -1,0 +1,3 @@
+# 11. člen
+V drugem odstavku 109. člena se v prvi, drugi in četrti alinei besedi "pregled poslovanja" nadomestita z besedilom "neposredni nadzor nad poslovanjem". V četrti alinei se besedilo "njenega izvršnega odbora" nadomesti z besedama "njenih organov", besedi "predsednika ter" pa se črtata.
+V tretjem odstavku se besedilo "Pregled iz druge alinee prejšnjega odstavka opravijo uradniki ministrstva, ki so univerzitetni diplomirani pravniki z opravljenim pravniškim državnim izpitom" nadomesti z besedilom "Pregled iz druge in četrte alinee prejšnjega odstavka opravijo uradniki ministrstva, ki so univerzitetni diplomirani pravniki z najmanj petimi leti praktičnih izkušenj na pravniških delih po opravljenem pravniškem državnem izpitu".

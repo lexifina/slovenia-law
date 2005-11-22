@@ -1,0 +1,3 @@
+# 16. člen
+Notarski kandidati postanejo z dnem uveljavitve tega zakona notarski pomočniki. To ne vpliva na trajanje delovnega razmerja dosedanjih notarskih kandidatov, ki so pred uveljavitvijo tega zakona z notarjem sklenili pogodbo o zaposlitvi za določen čas.
+Notar lahko z notarskim pomočnikom pred potekom delovnega razmerja o zaposlitvi iz prejšnjega odstavka, brez javnega razpisa sklene delovno razmerje za nedoločen čas v skladu z določbami zakona, ki ureja delovna razmerja. Notarski zbornici Slovenije mora notar v osmih dneh od sklenitve nove pogodbe o zaposlitvi posredovati predlog za vpis v imenik notarskih pomočnikov.
