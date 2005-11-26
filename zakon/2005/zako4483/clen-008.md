@@ -1,0 +1,2 @@
+# 8. člen (pooblastilo ministru)
+Kolikor bi informativno dvojno in dvojno označevanje cen predstavljalo nesprejemljivo tehnično ali gospodarsko obremenitev in nesorazmerno visoke stroške za podjetja zaradi vrste ali načina ponujanja blaga ali storitev, lahko minister ali ministrica (v nadaljnjem besedilu: minister), pristojen za gospodarstvo, s podzakonskim aktom določi druge ustrezne ukrepe, s katerimi se doseže namen tega zakona.
