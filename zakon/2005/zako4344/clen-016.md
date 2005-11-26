@@ -1,0 +1,2 @@
+# 16. člen
+V prvem odstavku 20. člena se za besedo "se" doda beseda "ne". Za besedo "podaljša" se doda besedilo "ali ponovno izda istemu ali drugemu delodajalcu". Doda se nov drugi stavek, ki se glasi: "Delodajalec lahko, na podlagi mnenja zbornice, pristojne za kmetijstvo in gozdarstvo, da je prišlo do izrednih pridelovalnih pogojev (podaljšanje vegetacije), zaprosi za izjemno podaljšanje dovoljenja za delo za največ en mesec.".
