@@ -1,0 +1,10 @@
+# 14.b člen Tuji napoteni delavci, ki izvajajo dodatno izobraževanje slovenskih delavcev v slovenskih gospodarskih družbah
+(1) Dodatno izobraževanje slovenskih delavcev lahko izvajajo tuji napoteni delavci v slovenskih gospodarskih družbah v primeru, ko sta slovenska in tuja gospodarska družba kapitalsko povezani, ali v primeru, da gre za poslovno tehnično sodelovanje oziroma prenos tehnologije.
+(2) Dodatno izobraževanje slovenskih delavcev se izvaja v gospodarski družbi, s sedežem v Republiki Sloveniji, na podlagi pogodbe o dodatnem izobraževanju, ki jo skleneta slovenska in tuja gospodarska družba.
+(3) Pogodba o dodatnem izobraževanju mora vsebovati določila o plačilu, nastanitvi in prehrani napotenih delavcev ter program dodatnega izobraževanja, ki ga potrdi Gospodarska oziroma Obrtna zbornica Slovenije.
+(4) Slovenska gospodarska družba mora tujim napotenim delavcem zagotoviti minimalne pravice v zvezi z delovnim časom, odmori in počitki, nočnim delom, varnostjo in zdravjem pri delu in posebnim varstvom delavcev po določbah zakona, ki ureja delovna razmerja, in kolektivne pogodbe s splošno veljavnostjo.
+(5) Tuja gospodarska družba lahko na dodatno izobraževanje slovenskih delavcev napoti posameznega delavca večkrat, vendar največ za tri mesece v času dveh let.
+(6) Dovoljenje za delo za napotene delavce iz prvega odstavka tega člena se izda na vlogo slovenske gospodarske družbe, ki mora v skladu z določbami tega zakona prijaviti delo tujca.
+(7) Tuji napoteni delavci morajo biti v času dodatnega izobraževanja ustrezno zdravstveno zavarovani v skladu s predpisi Republike Slovenije.
+(8) Minister, pristojen za delo, v soglasju z ministrom, pristojnim za gospodarstvo, podrobneje določi kriterije o potrebni kapitalski povezanosti, vrsti poslovno-tehničnega sodelovanja oziroma o prenosu tehnologije, pogoje, ki jih mora izpolnjevati pogodba iz tretjega odstavka s programom dodatnega izobraževanja ter kriterije za izdajo soglasja Gospodarske oziroma Obrtne zbornice Slovenije po tem zakonu.
+V. POGLAVJE NAMEŠČANJE TUJIH DELAVCEV

@@ -1,0 +1,13 @@
+# 4. člen Temeljne določbe
+(1) Državni zbor Republike Slovenije z resolucijo o migracijski politiki določi temelje politike zaposlovanja in dela tujcev, ki se izvaja v skladu s tem zakonom in z mednarodnimi sporazumi, na bilateralni in multilateralni ravni.
+(2) Vlada Republike Slovenije (v nadaljevanju: vlada) v skladu s sprejeto politiko zaposlovanja in dela tujcev sklepa mednarodne sporazume, s katerimi določa pogoje za gibanje delavcev in pretok storitev med državami podpisnicami sporazuma in sprejema ukrepe za zaščito domačega trga dela, določene s tem zakonom.
+(3) Tujci, za katere se uporabljajo določbe tega zakona, se lahko zaposlijo ali delajo v Republiki Sloveniji pod pogojem, da imajo delovno dovoljenje in da je zavezanec za prijavo dela prijavil delo tujca v skladu z določbami tega zakona. V primerih, določenih v tem zakonu, je izjemoma dopustno delo tujcev samo na podlagi potrdila o prijavi dela.
+(4) Potrdilo o prijavi dela na predpisanem obrazcu je dokument, s katerim se dokazuje legalnost dela tujcev v državi.
+(5) Pogodba o zaposlitvi ali pogodba o delu, sklenjena s tujcem, ki nima delovnega dovoljenja, je nična.
+(6) Tujec sme v Republiki Sloveniji opravljati samo tisto delo, za katero mu je bilo izdano delovno dovoljenje.
+(7) Delodajalec na tujca ne sme prenašati finančnih bremen v zvezi s pridobivanjem delovnih dovoljenj oziroma urejanjem delovnega razmerja, ki so po tem zakonu oziroma drugih predpisih določena kot strošek delodajalca.
+(8) Delodajalec, ki lahko v skladu s predpisi o zaposlovanju in zavarovanju za primer brezposelnosti na podlagi pogodbe o koncesiji opravlja dejavnost zagotavljanja dela delavcev drugemu delodajalcu-uporabniku, ne sme sklepati pogodb o zaposlitvi s tujci, ki nimajo osebnega delovnega dovoljenja za nedoločen čas.
+(9) Kadar je delodajalec fizična oseba s prebivališčem v Republiki Sloveniji, ki ni registrirana za opravljanje dejavnosti, sme zaposliti tujo fizično osebo ali z njo skleniti pogodbo o delu le pod pogojem, da tujec že ima dovoljenje za prebivanje v državi na drugih podlagah. Ta določba ne velja za fizično osebo, ki je lastnik ali zakupnik kmetije ali gozda oziroma kmetijskega zemljišča, ki lahko za sezonsko delo v kmetijstvu najame tudi tujce, ki še nimajo dovoljenja za prebivanje v državi.
+(10) Tuji delodajalec, ki v Republiki Sloveniji izvaja čezmejne storitve z napotenimi delavci, je v času izvajanja storitev v državi dolžan upoštevati slovensko delovnopravno zakonodajo.
+(11) Pravne osebe s sedežem v Republiki Sloveniji so pri sklepanju pogodb s tujimi pogodbenimi partnerji, ki vključujejo delo tujcev, dolžne upoštevati določbe tega zakona glede pogojev, pod katerimi se tujcem izdajo delovna dovoljenja.
+II. POGLAVJE OMEJITEV ŠTEVILA TUJCEV NA TRGU DELA

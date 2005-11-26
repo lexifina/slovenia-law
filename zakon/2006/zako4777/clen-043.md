@@ -1,0 +1,5 @@
+# 43. člen
+(1) Z globo od 50.000 tolarjev do 500.000 tolarjev se kaznuje za prekršek delodajalec - pravna oseba ali samostojni podjetnik posameznik, ki ne vrne delovnega dovoljenja tujca, s katerim ni sklenil delovnega oziroma pogodbenega razmerja, ali je prekinil delovno razmerje oziroma pogodbo o delu pred iztekom veljavnosti dovoljenja (enajsti odstavek 8. člena).
+(2) Z globo od 10.000 tolarjev do 100.000 tolarjev se kaznuje tudi odgovorna oseba delodajalca, ki stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 50.000 tolarjev do 200.000 tolarjev se kaznuje za prekršek samozaposlena oseba, ki ne vrne osebnega delovnega dovoljenja z veljavnostjo enega leta, če pred iztekom veljavnosti dovoljenja preneha opravljati dejavnost (enajsti odstavek 8. člena).
+(4) Z globo od 10.000 tolarjev do 150.000 tolarjev se kaznuje za prekršek delodajalec - fizična oseba, ki ne vrne delovnega dovoljenja tujca, s katerim ni sklenil delovnega oziroma pogodbenega razmerja, ali je prekinil delovno razmerje oziroma pogodbo o delu pred iztekom veljavnosti dovoljenja (enajsti odstavek 8. člena).

@@ -1,0 +1,8 @@
+# 19. člen Splošne določbe
+(1) Sezonsko delo tujcev je v okviru dejavnosti, ki imajo sezonski značaj, dopustno le v primeru, da je povpraševanje na trgu dela občasno večje od ponudbe, kar je podlaga za letno oblikovanje kvote za te namene.
+(2) Tujcu s stalnim prebivališčem v drugi državi se izda dovoljenje za delo na vlogo delodajalca. Ta je v skladu s tem zakonom tudi zadolžen za prijavo začetka in konca dela tujca. Fizična oseba, ki ni registrirana za opravljanje dejavnosti, ne more biti delodajalec pri sezonskem delu tujcev, razen v primeru iz drugega odstavka 20. člena tega zakona.
+(3) Dovoljenja za delo se izdajo v okviru kvote, določene za sezonsko delo. Dovoljenje se izda, če tujcu v zadnjih dveh letih pred vložitvijo vloge za izdajo delovnega dovoljenja ni bila izrečena kazen za prekršek po tem zakonu.
+(4) Delodajalec lahko za tujca le enkrat v koledarskem letu zaprosi za dovoljenje za sezonsko delo z veljavnostjo do treh mesecev, razen če s tem zakonom ni drugače določeno.
+(5) Za opravljanje sezonskega dela delodajalec in tujec skleneta delovno razmerje za določen čas. Delovnega razmerja ni treba skleniti, če se delo opravlja do največ trideset dni na področju kmetijstva in gozdarstva.
+(6) Za tujca, ki je opravljal sezonsko delo, se lahko delovno dovoljenje za katerikoli namen ponovno izda v naslednjem koledarskem letu. Po izteku veljavnosti dovoljenja za delo za sezonsko delo v gradbeništvu se lahko delovno dovoljenje za katerikoli namen ponovno izda po preteku sedmih mesecev.
+(7) Ne glede na določbo prejšnjega odstavka lahko delodajalec, pri katerem je tujec opravljal sezonsko delo, pridobi dovoljenje za zaposlitev pod pogoji, določenimi za novo zaposlitev tujca.
