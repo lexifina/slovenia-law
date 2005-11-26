@@ -1,0 +1,8 @@
+# 16. člen
+V 27. členu se dodata nova prvi in drugi odstavek, ki se glasita:
+"Sistem zagotavljanja skladnosti izdelkov s predpisi, tehnično dokumentacijo ter skladnosti izdelkov s podatki v tehnični dokumentaciji preverja laboratorij ali pravna oseba oziroma samostojni podjetnik posameznik iz 16. člena tega zakona. Preverjanje se lahko opravi tudi s preskušanjem ustreznosti čistine vzorcev končnih izdelkov v določenih časovnih presledkih.
+Urad izda odločbo, s katero prepove prodajo izdelka do odprave nepravilnosti, če laboratorij ali pravna oseba oziroma samostojni podjetnik posameznik iz 16. člena tega zakona ugotovi, da čistina vzorca končnega izdelka, ki se je preskusila v skladu s prejšnjim odstavkom tega člena, ni ustrezna.".
+Dosedanja prvi in drugi odstavek, ki postaneta tretji in četrti odstavek, se spremenita tako, da se glasita:
+"Urad v primeru hujših ali ponavljajočih kršitev dobavitelja iz 17. člena tega zakona izda odločbo, s katero odloči, da je dobavitelj dolžan vse svoje izdelke, ki jih še ni preskusil in označil, predložiti laboratoriju ali pravni osebi oziroma samostojnemu podjetniku posamezniku iz 16. člena tega zakona, zaradi ugotovitve skladnosti izdelkov s predpisi ter označitve z oznako skladnosti.
+Dolžnost predložitve izdelkov laboratoriju ali pravni osebi oziroma samostojnemu podjetniku posamezniku iz 16. člena tega zakona zaradi ugotovitve skladnosti izdelka s predpisanimi zahtevami ter označitve z oznako skladnosti lahko traja do največ enega leta. Pri svoji odločitvi urad upošteva naravo ugotovljenih pomanjkljivosti in njene posledice.".
+V dosedanjem tretjem odstavku, ki postane peti odstavek, se beseda "prvega" nadomesti z besedami "drugega in tretjega".
