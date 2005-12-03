@@ -1,0 +1,5 @@
+# 148. člen
+
+(1) Oseba, ki ji je v postopku za prekršek izrečeno prenehanje veljavnosti vozniškega dovoljenja, mora na poziv upravne enote oddati vozniško dovoljenje. Če oseba ne odda vozniškega dovoljenja v roku, določenem v pozivu, ji ga odvzamejo policisti na njene stroške. Novo vozniško dovoljenje lahko pridobi po prvem izrečenem prenehanju veljavnosti vozniškega dovoljenja po šestih mesecih, po drugem prenehanju po enem letu, po nadaljnjih izrečenih prenehanjih pa po dveh letih od dneva oddaje vozniškega dovoljenja. Pogoj za pridobitev novega vozniškega dovoljenja je, da taka oseba ponovno opravi vozniški izpit.
+
+(2) Če je imela oseba iz prejšnjega odstavka v vozniškem dovoljenju, za katerega ji je bilo izrečeno prenehanje veljavnosti, vpisanih več kategorij motornih vozil, se ji v vozniško dovoljenje vpišejo vse te kategorije, če opravi vozniški izpit za motorna vozila tiste oziroma tistih kategorij, s katerimi je storila prekršek ali prekrške, za katere so ji bile izrečene kazenske točke in izpolni druge pogoje za izdajo vozniškega dovoljenja, določene v prvem odstavku tega člena.
