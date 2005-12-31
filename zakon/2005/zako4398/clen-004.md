@@ -1,0 +1,3 @@
+# 4. člen
+Vlada Republike Slovenije sprejme v šestih mesecih po uveljavitvi tega zakona revizijo noveliranega programa iz drugega odstavka 8. člena Zakona o spremembah in dopolnitvah Zakona o trajnem prenehanju izkoriščanja uranove rude in preprečevanju posledic rudarjenja v Rudniku urana Žirovski vrh (Uradni list RS, št. 28/00).
+Z revidiranim noveliranim programom iz prejšnjega odstavka je treba načrtovati ukrepe in sredstva za njihovo izvedbo tako, da se prenos lastništva nepremičnin na lokalno skupnost za razvoj nadomestnih dejavnosti v poslovni obrtni coni izvede najpozneje do konca leta 2007 in zapre odlagališče rudarske in hidrometalurške jalovine Jazbec in Boršt do konca leta 2010.
