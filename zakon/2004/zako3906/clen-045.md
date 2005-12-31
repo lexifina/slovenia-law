@@ -1,4 +1,1 @@
-# 45. člen
-(1) Glavni državni nadzornik določi v skladu z zakonom, ki ureja javne uslužbence, v aktu o sistemizaciji notranjo organizacijo državnega nadzornega organa in potrebno število javnih uslužbencev državnega nadzornega organa, ki opravljajo pravne naloge, ter potrebno število javnih uslužbencev, ki opravljajo spremljajoča dela.
-(2) Javne uslužbence državnih organov se na podlagi predloga glavnega državnega nadzornika z njihovo pisno privolitvijo ter s soglasjem predstojnika njihovega državnega organa lahko dodeli za opravljanje pravnih nalog ali spremljajočih del iz prejšnjega odstavka v državni nadzorni organ za dobo do treh let. Sodniki, državni tožilci in pomočniki državnih tožilcev so lahko dodeljeni za opravljanje teh nalog na podlagi določb zakonov, ki urejajo sodniško službo in državno tožilstvo.
-(3) Uslužbenci in funkcionarji iz prejšnjih odstavkov ne smejo opravljati nalog inšpekcijskega nadzora.
+# 45. člen (prenehal veljati)
