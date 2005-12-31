@@ -1,2 +1,3 @@
 # 3. člen
 Za izvedbo trajnega prenehanja izkoriščanja uranove rude in preprečevanja posledic rudarjenja se Rudnik urana Žirovski vrh preoblikuje v javno podjetje.
+Javno podjetje iz prejšnjega odstavka zagotavlja izvedbo vseh nalog trajnega prenehanja izkoriščanja in raziskovanja uranove rude iz prejšnjega člena, razen nalog radiološkega in meteorološkega monitoringa, ki jih zagotavlja javni gospodarski zavod za radioaktivne odpadke, ki v skladu z zakonom, ki ureja varstvo pred ionizirajočimi sevanji in jedrsko varnost, izvaja obvezno državno gospodarsko javno službo dolgoročnega nadzora in vzdrževanja odlagališč rudarske in hidrometalurške jalovine.
