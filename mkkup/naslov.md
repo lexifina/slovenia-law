@@ -1,0 +1,95 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI KONVENCIJE O PRISTOPU ČEŠKE REPUBLIKE, REPUBLIKE ESTONIJE, REPUBLIKE CIPER, REPUBLIKE LATVIJE, REPUBLIKE LITVE, REPUBLIKE MADŽARSKE, REPUBLIKE MALTE, REPUBLIKE POLJSKE, REPUBLIKE SLOVENIJE IN SLOVAŠKE REPUBLIKE H KONVENCIJI O UPORABI PRAVA V POGODBENIH OBLIGACIJSKIH RAZMERJIH, NA VOLJO ZA PODPIS 19. JUNIJA 1980 V RIMU, TER K PRVEMU IN DRUGEMU PROTOKOLU O RAZLAGI TE KONVENCIJE S STRANI SODIŠČA (MKKUP)
+
+Z A K O N
+
+O RATIFIKACIJI KONVENCIJE O PRISTOPU ČEŠKE REPUBLIKE, REPUBLIKE ESTONIJE, REPUBLIKE CIPER, REPUBLIKE LATVIJE, REPUBLIKE LITVE, REPUBLIKE MADŽARSKE, REPUBLIKE MALTE, REPUBLIKE POLJSKE, REPUBLIKE SLOVENIJE IN SLOVAŠKE REPUBLIKE H KONVENCIJI O UPORABI PRAVA V POGODBENIH OBLIGACIJSKIH RAZMERJIH, NA VOLJO ZA PODPIS 19. JUNIJA 1980 V RIMU, TER K PRVEMU IN DRUGEMU PROTOKOLU O RAZLAGI TE KONVENCIJE S STRANI SODIŠČA (MKKUP)
+
+K O N V E N C I J A
+
+O PRISTOPU ČEŠKE REPUBLIKE,
+
+REPUBLIKE ESTONIJE,
+
+REPUBLIKE CIPER,
+
+REPUBLIKE LATVIJE,
+
+REPUBLIKE LITVE,
+
+REPUBLIKE MADŽARSKE,
+
+REPUBLIKE MALTE,
+
+REPUBLIKE POLJSKE,
+
+REPUBLIKE SLOVENIJE IN
+
+SLOVAŠKE REPUBLIKE
+
+H KONVENCIJI O UPORABI PRAVA V POGODBENIH OBLIGACIJSKIH RAZMERJIH, NA VOLJO ZA PODPIS 19. JUNIJA 1980 V RIMU, TER K PRVEMU IN DRUGEMU PROTOKOLU O RAZLAGI TE KONVENCIJE
+
+S STRANI SODIŠČA
+
+CONVENTION
+
+ON THE ACCESSION OF THE CZECH REPUBLIC, THE REPUBLIC OF ESTONIA,
+
+THE REPUBLIC OF CYPRUS,
+
+THE REPUBLIC OF LATVIA,
+
+THE REPUBLIC OF LITHUANIA,
+
+THE REPUBLIC OF HUNGARY,
+
+THE REPUBLIC OF MALTA,
+
+THE REPUBLIC OF POLAND,
+
+THE REPUBLIC OF SLOVENIA AND
+
+THE SLOVAK REPUBLIC
+
+TO THE CONVENTION ON THE LAW APPLICABLE TO CONTRACTUAL OBLIGATIONS, OPENED FOR SIGNATURE IN ROME ON 19 JUNE 1980,AND TO THE FIRST AND SECOND PROTOCOLS ON ITS INTERPRETATION BY THE COURT OF JUSTICE OF THE EUROPEAN COMMUNITIES
+
+C O N V E N T I O N
+
+ON THE LAW APPLICABLE TO CONTRACTUAL OBLIGATIONS
+
+opened for signature in Rome on 19 June 1980
+
+K O N V E N C I J A
+
+O UPORABI PRAVA V POGODBENIH OBLIGACIJSKIH RAZMERJIH,
+
+na voljo za podpis 19. junija 1980 v Rimu
+
+C O N V E N T I O N
+
+on the accession of the Hellenic Republic to the Convention on the Law applicable to Contractual Obligations, opened for signature in Rome on 19 June 1980
+
+K O N V E N C I J A
+
+o pristopu Helenske republike h Konvenciji o uporabi prava v pogodbenih obligacijskih razmerjih, na voljo za podpis 19. junija 1980
+
+v Rimu
+
+C O N V E N T I O N
+
+on the accession of the Kingdom of Spain and the Portuguese Republic to the Convention on the Law applicable to Contractual Obligations, opened for signature in Rome on 19 June 1980
+
+K O N V E N C I J A
+
+o pristopu Kraljevine Španije in
+
+Portugalske republike h Konvenciji o uporabi prava v pogodbenih obligacijskih razmerjih, na voljo za podpis 19. junija 1980 v Rimu
+
+C O N V E N T I O N
+
+on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the Convention on the Law applicable to Contractual Obligations, opened for signature in Rome on 19 June 1980, and to the First and Second Protocols on its interpretation by the Court of Justice
+
+K O N V E N C I J A
+
+o pristopu Republike Avstrije, Republike Finske in Kraljevine Švedske h Konvenciji o uporabi prava v pogodbenih obligacijskih razmerjih, na voljo za podpis 19. junija 1980 v Rimu, ter k Prvemu in Drugemu protokolu o razlagi te konvencije s strani Sodišča
