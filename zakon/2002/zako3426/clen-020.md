@@ -1,6 +1,6 @@
 # 20. člen (inšpekcija)
 (1) Naloge inšpekcije izvajajo inšpektorji v okviru Prometnega inšpektorata Republike Slovenije.
-(2) Inšpekcija ima naslednje naloge in pristojnosti:
+(2) Inšpekcija ima sledeče naloge in pristojnosti:
 - nadzor nad izvajanjem določb tega zakona;
 - nadzor nad delom nadzornikov in upravljavcev smučišč;
 - ukrepa v okviru pooblastil tega zakona in

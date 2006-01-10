@@ -1,5 +1,5 @@
 # 33. člen
-(1) Z globo 100.000 do 1,000.000 tolarjev se kaznuje za prekršek upravljavec smučišča:
+(1) Z globo 100.000 do 1.000.000 tolarjev se kaznuje za prekršek upravljavec smučišča:
 - če ne zagotovi izvajanje ukrepov iz prvega odstavka 5. člena;
 - če ravna v nasprotju z določbami 10. člena;
 - če ne namesti informativne table iz prvega odstavka 14. člena ali ne zagotovi informiranja smučarjev v skladu z določbami tretjega odstavka 14. člena;

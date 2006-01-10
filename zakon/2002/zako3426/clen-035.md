@@ -8,5 +8,5 @@
 - nadzornik, ki ravna v nasprotju z določbami 28., 29. in 30. člena tega zakona.
 (2) Z globo od 50.000 do 150.000 tolarjev se kaznuje za prekršek:
 - strokovni delavec, ki ravna v nasprotju s prvim, četrtim in petim odstavkom 16. člena tega zakona;
-- smučar, ki opravlja organizirano poučevanje smučanja, pa ne izpolnjuje pogojev za poučevanje smučanja po tem zakonu (16. člen);
+- smučar, ki opravlja organizirano poučevanje smučanja, pa ne izpolnjuje pogojev za poučevanje smučanja po tem zakonu (16. člen).
 (3) Z globo od 25.000 do 250.000 tolarjev se kaznuje za prekršek iz prve alinee prejšnjega odstavka strokovni delavec, če je storil prekršek v zvezi s samostojnim opravljanjem dejavnosti.
