@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI SPORAZUMA O MEDSEBOJNI PRAVNI POMOČI MED EVROPSKO UNIJO IN ZDRUŽENIMI DRŽAVAMI AMERIKE (BUSPPEU)
+
+Z A K O N
+
+O RATIFIKACIJI SPORAZUMA O MEDSEBOJNI PRAVNI POMOČI MED EVROPSKO UNIJO IN ZDRUŽENIMI DRŽAVAMI AMERIKE (BUSPPEU)
+
+A G R E E M E N T
+
+on mutual legal assistance between the European Union and the United States of America
+
+S P O R A Z U M
+
+o medsebojni pravni pomoči med Evropsko unijo in Združenimi državami Amerike
