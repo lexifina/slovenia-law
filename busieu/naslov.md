@@ -1,0 +1,15 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI SPORAZUMA O IZROČITVI MED EVROPSKO UNIJO IN ZDRUŽENIMI DRŽAVAMI AMERIKE (BUSIEU)
+
+Z A K O N
+
+O RATIFIKACIJI SPORAZUMA O IZROČITVI MED EVROPSKO UNIJO IN ZDRUŽENIMI DRŽAVAMI AMERIKE (BUSIEU)
+
+A G R E E M E N T
+
+on extradition between the European Union and the United States of America
+
+S P O R A Z U M
+
+o izročitvi med Evropsko unijo in Združenimi državami Amerike
