@@ -1,0 +1,2 @@
+# 8. člen
+V desetem odstavku 52. člena se v prvem stavku pred besedo "ravnateljev" doda besedo "funkcionarjev,". V tretjem stavku se črta besedilo "prevedba osnovnih plač in". Na koncu odstavka se besedilo "uredbo o uvrščanju delovnih mest ravnateljev, direktorjev in tajnikov v plačne razrede." nadomesti z besedilom "uredbo o plačah direktorjev v javnem sektorju." in doda besedilo "Za izplačilo plač funkcionarjev in direktorjev se ne uporabljajo določbe prvega odstavka 49. člena in 49.f člena tega zakona.".
