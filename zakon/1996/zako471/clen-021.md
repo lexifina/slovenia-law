@@ -14,7 +14,7 @@ Z globo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna
 11. če prodaja tobačne izdelke, ki imajo na embalaži in zunanji embalaži uporabljena besedila, imena, blagovne znamke, simbole oziroma druge znake, ki napeljujejo na to, da je določen tobačni izdelek manj škodljiv (peti odstavek 9.c člena tega zakona);
 12. če sponzorira ali oglašuje tobak in tobačne izdelke (prvi odstavek 10. člena);
 13. če oglašuje izdelke, ki ne sodijo med tobak in tobačne izdelke, vendar s svojim videzom in namenom uporabe neposredno vzpodbujajo k potrošnji tobaka in tobačnih izdelkov (tretji odstavek 10. člena);
-14. če oglašuje tobak in tobačne izdelke v nasprotju z 11. členom tega zakona
+14. če oglašuje tobak in tobačne izdelke v nasprotju z 11. členom tega zakona;
 15. če prodaja tobačne izdelke osebam, mlajšim od 15 let (prvi odstavek 14. člena);
 16. če prodaja tobačne izdelke iz avtomatskih naprav (drugi odstavek 14. člena);
 17. če prodaja cigarete in druge tobačne izdelke izven izvirne embalaže proizvajalca (tretji odstavek 14. člena);
@@ -24,6 +24,6 @@ Z globo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna
 21. če ne določi prostorov, v katerih je dovoljeno kajenje (prvi odstavek 17. člena);
 22. če se ne ravna po določbi 18.a člena in določbi 18.b člena tega zakona;
 23. če se ne ravna po odločbi iz 20. člena tega zakona.
-Z globo od 100.000 do 250.000 tolarjev se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
+Z globo od 100.000 tolarjev do 250.000 tolarjev se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
 Z globo od 200.000 do 1.000.000 tolarjev se kaznuje samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
 Za prekrške iz 1. do 12., 17. in 18. točke prvega odstavka tega člena se poleg globe izreče tudi varstveni ukrep obveznega odvzema tobačnih izdelkov, ki so predmet prekrška, za prekršek iz 16. točke prvega odstavka tega člena pa tudi odvzem avtomatskih naprav.
