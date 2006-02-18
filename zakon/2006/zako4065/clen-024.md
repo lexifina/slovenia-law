@@ -1,0 +1,7 @@
+# 24. člen
+Za 69. členom se doda nov 69.a člen, ki se glasi:
+"69.a člen
+Generalni državni tožilec lahko dovoli vpogled, prepis, kopiranje ali izpis iz vpisnikov, imenikov, evidenc in spisov državnega tožilstva posamezniku, ki izkaže, da podatke iz njih potrebuje za znanstvenoraziskovalno delo. Dovoljenje se lahko nanaša le na vpisnike, imenike, evidence in spise, ki so arhivirani. Posameznik lahko podatke iz vpisnikov, imenikov, evidenc in spisov državnega tožilstva vpogleda ali prepiše brezplačno, kopira ali izpiše pa na svoje stroške. Vpogled, prepis, kopiranje ali izpis se opravi pod nadzorom državnega tožilca, pomočnika državnega tožilca ali javnega uslužbenca državnega tožilstva, ki je za to pisno pooblaščen.
+Pravico do vpogleda v osebne ali druge podatke iz vpisnikov, imenikov, evidenc in spisov državnega tožilstva ima tudi vsaka pravna ali fizična oseba, ki za to izkaže pravni interes, če to ne škoduje interesom postopka, tajnosti postopka ali zasebnosti oseb. Vpogled dovoli vodja pristojnega državnega tožilstva.
+Odredba iz drugega, četrtega in petega odstavka 10.a člena tega zakona je dostopna fizičnim in pravnim osebam po pravnomočnosti obtožnega akta ali najpozneje dve leti pred zastaranjem kazenskega pregona. Fizične ali pravne osebe jo lahko brezplačno vpogledajo ali prepišejo, kopirajo pa na lastne stroške. Uporabljajo jo lahko le v postopkih pred sodišči ali drugimi državnimi organi ali za namene iz prvega odstavka tega člena.".
+PREHODNE IN KONČNA DOLOČBA

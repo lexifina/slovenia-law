@@ -1,0 +1,3 @@
+# 27. člen
+Minister, pristojen za pravosodje, uskladi Državnotožilski red (Uradni list RS, št. 109/04) in Pravilnik o določitvi števila mest državnih tožilcev na Vrhovnem državnem tožilstvu Republike Slovenije, na okrožnih državnih tožilstvih in v Skupini državnih tožilcev za posebne zadeve ter o določitvi števila mest pomočnikov državnega tožilca (Uradni list RS, št. 81/03) z določbami tega zakona v enem mesecu po njegovi uveljavitvi.
+Generalni državni tožilec v soglasju z ministrom, pristojnim za pravosodje, uskladi navodilo o delu skupine iz 6. člena tega zakona z določbami tega zakona v enem mesecu po njegovi uveljavitvi.
