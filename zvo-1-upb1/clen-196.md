@@ -1,0 +1,3 @@
+# 196. člen (uskladitev postopkov za pridobitev okoljevarstvenega soglasja v primeru novih zahtev za izdajo gradbenih dovoljenj za objekte z vplivi na okolje)
+
+Ne glede na določbe drugega odstavka prejšnjega člena se postopek za izdajo gradbenega dovoljenja za objekt, ki se po določbah ZGO-1 šteje za objekt z vplivi na okolje, lahko začne in konča po določbah ZVO tudi, če se vloži po uveljavitvi tega zakona, vendar samo, če se zahteva za izdajo gradbenega dovoljenja za takšen objekt vloži v skladu s prvim odstavkom 55. člena ZGO-1 in najpozneje v treh mesecih po uveljavitvi tega zakona in če naročnik takšni zahtevi priloži dokazilo, da je bila pogodba o izdelavi idejnega projekta sklenjena pred uveljavitvijo tega zakona.
