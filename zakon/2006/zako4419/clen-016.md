@@ -1,0 +1,2 @@
+# 16. člen
+Postopki, ki ob uveljavitvi tega zakona tečejo na podlagi 2. oddelka Sedmega poglavja zakona, se končajo po do sedaj veljavnih določbah zakona.
