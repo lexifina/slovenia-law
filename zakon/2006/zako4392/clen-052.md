@@ -1,0 +1,3 @@
+# 52. člen (celovita presoja vplivov na okolje za gozdnogospodarske načrte gozdnogospodarskih enot)
+(1) Ne glede na določbo tretjega in četrtega odstavka 7. člena tega zakona se za gozdnogospodarske načrte gozdnogospodarskih enot, ki se bodo izdelali v obdobju do vključno leta 2010 in bodo sprejeti po postopku, določenem v predpisih o gozdovih, celovita presoja vplivov na okolje ne izvede, pod pogojem, da se zanje izdela okoljsko poročilo, skladno s prvim, drugim in tretjim odstavkom 41. člena ZVO-1, in da ministrstvo, pristojno za gozdarstvo, zagotovi ustrezno kvaliteto tega poročila.
+(2) Določbe prejšnjega odstavka ne veljajo, če je za načrte iz prejšnjega odstavka zahtevana presoja sprejemljivosti skladno s predpisi o ohranjanju narave.

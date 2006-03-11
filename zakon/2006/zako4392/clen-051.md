@@ -1,0 +1,5 @@
+# 51. člen (okoljevarstveno dovoljenje za naprave iz 82. člena)
+(1) Upravljavci obstoječih naprav iz 82. člena Zakona o varstvu okolja (Uradni list RS, št. 41/04, v nadaljnjem besedilu: ZVO-1) morajo njihovo obratovanje uskladiti z določbami tega zakona in pridobiti okoljevarstveno dovoljenje najkasneje do roka, določenega v predpisih iz 17. člena ZVO-1.
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, ki obratuje na dan uveljavitve predpisa iz tretjega odstavka 17. člena ZVO-1.
+(3) Če namerava upravljavec na obstoječi napravi iz drugega odstavka 172. člena ZVO-1 pred rokom iz prvega odstavka 172. člena ZVO-1 izvesti poseg v okolje, za katerega mora pridobiti okoljevarstveno dovoljenje, skladno z določbami 82. člena ZVO-1, ministrstvo izda okoljevarstveno dovoljenje, skladno z določbami 84. člena ZVO-1, dovoljenje pa velja do roka iz prvega odstavka 172. člena ZVO-1.
+(4) Določba prejšnjega odstavka velja tudi v primeru, če mora upravljavec obstoječe naprave iz 172. člena ZVO-1 za njeno obratovanje pridobiti dovoljenje za odstranjevanje odpadkov po določbah Pravilnika o odlaganju odpadkov (Uradni list RS, št. 5/00, 41/04 in 43/04).

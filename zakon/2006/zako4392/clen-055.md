@@ -1,0 +1,2 @@
+# 55. člen (uporaba določb)
+Določbe 141.a člena se uporabljajo za obdobje od dneva uveljavitve tega zakona pa do 31. decembra 2012.

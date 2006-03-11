@@ -1,0 +1,6 @@
+# 39. člen
+Besedilo prvega odstavka 135. člena tega zakona se spremeni tako, da se glasi:
+"(1) Upravljavec naprave mora za vsako napravo iz 118. člena tega zakona do 30. aprila tekočega leta predati emisijske kupone v količini, ki ustreza celotni količini emisije toplogrednih plinov, ki jih je v preteklem letu naprava izpustila v ozračje. V primeru iz 122.a člena tega zakona mora upravljavec naprave, ob stečaju pa stečajni upravitelj, najkasneje 120. dan od pravnomočnosti odločbe iz drugega odstavka 121. člena tega zakona ali prvega odstavka 122. člena tega zakona predati emisijske kupone v količini, ki ustreza celotni količini emisije toplogrednih plinov, ki jih je naprava izpustila v ozračje v obdobju iz drugega odstavka 122.a člena tega zakona. Predani emisijski kuponi se razveljavijo skladno s predpisi EU, ki urejajo register emisijskih kuponov.".
+V tretjem odstavku se pika nadomesti z vejico in doda besedilo, ki se glasi: "pri tem pa ni upravičen do nadomestila njihove vrednosti.".
+Doda se nov četrti odstavek, ki se glasi:
+"(4) Emisijski kuponi iz rezerve državnega načrta, ki jih ni bilo mogoče podeliti ali prodati do konca obdobja iz 1. točke četrtega odstavka 126. člena tega zakona, se razveljavijo skladno s predpisi iz prvega odstavka tega člena.".

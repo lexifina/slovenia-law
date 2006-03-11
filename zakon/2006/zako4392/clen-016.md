@@ -1,0 +1,3 @@
+# 16. člen
+Besedilo prvega odstavka 82. člena se spremeni tako, da se glasi:
+"(1) Upravljavec mora pridobiti okoljevarstveno dovoljenje tudi za obratovanje druge naprave, ki ni določena s predpisom iz četrtega odstavka 68. člena tega zakona, ali večjo spremembo v njenem obratovanju, če se v njej izvaja dejavnost, ki povzroča emisije v zrak, vode ali tla, za katere so predpisane mejne vrednosti skladno z določbami 17. člena tega zakona, ali izvaja dejavnost, za katero je predpisana obveznost pridobitve okoljevarstvenega dovoljenja, skladno z določbami 19. člena tega zakona, ali če predeluje ali odstranjuje odpadke po predpisih o ravnanju z odpadki, skladno z določbami 20. člena tega zakona.".
