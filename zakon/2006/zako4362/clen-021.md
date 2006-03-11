@@ -1,0 +1,2 @@
+# 21. člen (druge odsotnosti)
+Napotena oseba je lahko med delom v misiji ali mednarodni organizaciji odsotna z misije ali mednarodne organizacije s pravico do nadomestila plače zaradi upravičenih razlogov, če je to določeno z notranjimi pravili mednarodne organizacije. Zavezanec za plačilo nadomestila plače v času odsotnosti v tujini je organ, s katerim je napotena oseba sklenila pogodbo o zaposlitvi, razen če ni z notranjimi pravili mednarodne organizacije določeno drugače.

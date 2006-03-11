@@ -1,0 +1,7 @@
+# 4. člen (pomen izrazov)
+(1) Pomen izrazov v tem zakonu:
+1. "napotena oseba" je oseba, ki jo za določen čas napoti v mednarodno organizacijo ali misijo državni ali drug organ in je v delovnem razmerju z državnim ali drugim organom ne glede na to, ali je bila pred napotitvijo zaposlena v javnem sektorju ali ne. Oseba, ki jo je neposredno izbrala mednarodna organizacija in je z njo v delovnem razmerju, ne velja za napoteno osebo;
+2. "državni organ" je organ državne uprave in drug državni organ; organ državne uprave je ministrstvo, organ v sestavi ministrstva, vladna služba in upravna enota; drug državni organ je državni zbor, državni svet, ustavno sodišče, računsko sodišče, varuh človekovih pravic, sodišče, državno tožilstvo in državno pravobranilstvo in drug državni organ, ki ni organ državne uprave;
+3. "drug organ" je oseba javnega prava, ki sodi v javni sektor po zakonu, ki ureja položaj javnih uslužbencev.
+4. mednarodne organizacije, v katere so napotene osebe v skladu s tem zakonom, so zlasti: Organizacija združenih narodov, njene specializirane agencije in programi ter skladi, Evropska unija, Organizacija Severnoatlantske pogodbe, Organizacija za varnost in sodelovanje v Evropi, regionalne organizacije za gospodarsko povezovanje, Svet Evrope in druge primerljive mednarodne organizacije.
+(2) Izrazi član, predsednik, uradnik, kandidat, državljan in drugi izrazi, zapisani v moški spolni slovnični obliki, so uporabljeni kot nevtralni za moške in ženske.

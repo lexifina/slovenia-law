@@ -1,0 +1,4 @@
+# 16. člen (izbira udeležencev v mednarodni organizaciji)
+(1) Ministrstvo, pristojno za zunanje zadeve, obvesti mednarodno organizacijo o kandidatih, ki jih izbirna komisija predlaga za napotitev v misijo ali mednarodno organizacijo, in ji pošlje zbrano gradivo o kandidatih. V primeru napotitev v institucije in organe Evropske unije predsednik izbirne komisije obvesti institucijo ali organ Evropske unije o izbranem kandidatu in pošlje zbrano gradivo o kandidatu.
+(2) Če mednarodna organizacija o izbiri obvesti ministrstvo, pristojno za zunanje zadeve, le-to o izbiri mednarodne organizacije obvesti predlaganega kandidata in delodajalca, pri katerem je kandidat zaposlen.
+(3) Če mednarodna organizacija ne izbere predlaganega kandidata iz Republike Slovenije in o tem obvesti ministrstvo, pristojno za zunanje zadeve, le-to obvesti predlaganega kandidata.
