@@ -1,0 +1,4 @@
+# 1. člen
+V drugem odstavku 1. člena Zakona o industrijski lastnini (Uradni list RS, št. 102/04 - uradno prečiščeno besedilo) se za besedo "patent," doda besedilo, ki se glasi: "dodatni varstveni certifikat,".
+Za drugim odstavkom se doda tretji odstavek, ki se glasi:
+"(3) Ta zakon prenaša v pravni red Republike Slovenije določbe Direktive št. 98/44/ES Evropskega parlamenta in Sveta z dne 6. julija 1998 o pravnem varstvu biotehnoloških izumov (UL L št. 213, z dne 30. 7. 1998, str. 13), Direktive št. 98/71/ES Evropskega parlamenta in Sveta z dne 13. oktobra 1998 o pravnem varstvu modelov (UL L št. 289, z dne 28. 10. 1998, str. 28), Prve direktive 89/104/ES z dne 21. decembra 1988 o približevanju zakonodaje držav članic v zvezi z blagovnimi znamkami (UL L št. 40, z dne 11. 2. 1989, str. 1) in Direktive 2004/48/ES Evropskega parlamenta in Sveta z dne 29. aprila 2004 o uveljavljanju pravic intelektualne lastnine (UL L št. 195, z dne 2. 6. 2004, str. 16).".

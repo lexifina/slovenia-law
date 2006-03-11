@@ -1,0 +1,3 @@
+# 9. člen
+V prvem odstavku 43. člena se za točko k) doda točka l), ki se glasi:
+"l) ki vsebuje označbo porekla blaga ali geografsko označbo, registrirano v skladu z Uredbo (EGS) št. 2081/92 z dne 14. julija 1992 o varstvu geografskih označb in označb izvora za kmetijske proizvode in živila (UL L 208/92, str. 1; v nadaljnjem besedilu: Uredba 2081/92/EGS), ali je iz nje sestavljen, če so podane okoliščine iz 13. člena Uredbe 2081/92/EGS, in se nanaša na isto vrsto blaga, pod pogojem, da je bila prijava znamke vložena po datumu vložitve prijave za registracijo označbe porekla blaga ali geografske označbe pri Komisiji;".
