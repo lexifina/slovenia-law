@@ -1,0 +1,3 @@
+# 22.g člen
+Postopek za izdajo dovoljenja se začne na pisni predlog predlagatelja za osebo, ki jo je treba varnostno preveriti (v nadaljnjem besedilu: preverjana oseba), in mora vsebovati podatke o stopnji tajnosti tajnih podatkov, za dostop do katerih je dan predlog za izdajo dovoljenja.
+Predlagatelj mora predlogu priložiti pisno soglasje preverjane osebe za varnostno preverjanje, dokazilo o opravljenem usposabljanju s področja obravnavanja tajnih podatkov, pisno izjavo o seznanitvi s tem zakonom in predpisi, izdanimi na njegovi podlagi, ter zaprto ovojnico z izpolnjenim varnostnim vprašalnikom preverjane osebe.

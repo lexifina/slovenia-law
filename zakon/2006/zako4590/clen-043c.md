@@ -1,0 +1,4 @@
+# 43.c člen
+Nacionalni varnostni organ izda dovoljenje iz prve alinee tretjega odstavka prejšnjega člena na predlog predlagateljev iz 22.f člena tega zakona, če ima oseba veljavno dovoljenje iz 22. člena tega zakona in opravlja funkcijo ali izvaja naloge na delovnem mestu, na katerem potrebuje dovoljenje za dostop do tujih tajnih podatkov. Dovoljenje se izda z veljavnostjo za čas, ko oseba potrebuje dostop do tujih tajnih podatkov, vendar ne dlje, kot velja dovoljenje iz 22. člena tega zakona.
+Če oseba, ki ji je bilo izdano dovoljenje za dostop do tujih tajnih podatkov, ne izvaja več nalog, pri katerih potrebuje dostop do tujih tajnih podatkov, je predstojnik organa ali organizacije dolžan o tem takoj obvestiti nacionalni varnostni organ.
+Nacionalni varnostni organ dovoljenje za dostop do tujih tajnih podatkov prekliče, ko prenehajo pogoji za njegovo izdajo iz prvega odstavka tega člena.

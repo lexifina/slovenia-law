@@ -1,0 +1,6 @@
+# 35.d člen
+Če po izdaji varnostnega dovoljenja nastopijo okoliščine, ki kažejo na to, da organizacija ne izpolnjuje več pogojev za priznanje sposobnosti iz tretjega odstavka 35.a člena ali pogojev iz prvega odstavka 35.b člena tega zakona, opravi pristojni organ iz drugega odstavka 35. člena tega zakona postopek vmesnega varnostnega preverjanja.
+Vmesno varnostno preverjanje se opravi na predlog pristojnega predlagatelja iz 35.a ali 43.b člena tega zakona.
+Nacionalni varnostni organ lahko da predlog za vmesno varnostno preverjanje, če pri nadzoru iz šeste alinee tretjega odstavka 43.b člena tega zakona ugotovi okoliščine, ki kažejo na to, da organizacija več ne izpolnjuje pogojev za izdajo varnostnega dovoljenja.
+Postopek vmesnega varnostnega preverjanja je enak postopku varnostnega preverjanja za izdajo varnostnega dovoljenja. Če pri vmesnem varnostnem preverjanju pristojni organ ugotovi, da organizacija ne izpolnjuje več pogojev, ki jih ta zakon določa za izdajo varnostnega dovoljenja, ji varnostno dovoljenje prekliče. O preklicu varnostnega dovoljenja obvesti tudi nacionalni varnostni organ.
+Zoper zavrnitev izdaje varnostnega dovoljenja in njegov preklic je dovoljen upravni spor.".
