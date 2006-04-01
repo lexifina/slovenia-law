@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o varstvu pred naravnimi in drugimi nesrečami (Uradni list RS, št. 64/94, 87/01 - ZMatD in 41/04 - ZVO-1) se v vseh členih beseda "zveze" v različnih sklonih nadomesti z besedama "elektronske komunikacije", beseda "knjižica" z besedama "osebna izkaznica", besedilo "delavec, ki poklicno dela na področju varstva pred naravnimi in drugimi nesrečami," pa se nadomesti z besedilom "javni uslužbenec na področju zaščite in reševanja" v ustreznem sklonu.

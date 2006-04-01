@@ -1,0 +1,8 @@
+# 39. člen
+Dodata se nova 97.a in 97.b člen, ki se glasita:
+"97.a člen
+(ocenjevanje škode v lokalni skupnosti in na stvareh v državni lasti)
+(1) Škodo ob naravni ali drugi nesreči po metodologiji iz prejšnjega člena (v nadaljnjem besedilu: predpisana metodologija) na območju lokalnih skupnosti ocenjujejo tudi komisije, ki jih imenujejo župani izmed strokovnjakov po posameznih področjih.
+(2) Škodo ob naravnih in drugih nesrečah, ki je nastala na objektih gospodarske javne infrastrukture državnega pomena oziroma drugih stvareh v lasti države, ocenjujejo po predpisani metodologiji iz prejšnjega člena pristojna ministrstva oziroma gospodarske službe, zavodi in druge organizacije, ki na podlagi koncesij ali drugih javnih pooblastil upravljajo s temi stvarmi.
+(3) Uprava Republike Slovenije za zaščito in reševanje vodi seznam članov komisij iz prejšnjega člena ter prvega odstavka tega člena in skrbi za njihovo usposabljanje za ocenjevanje škode po predpisani metodologiji in v ta namen izdaja ustrezna potrdila. Uprava Republike Slovenije za zaščito in reševanje krije neposredne stroške za delo komisij za ocenjevanje škode po tem zakonu, če škodo ocenjujejo v skladu z odločitvami in usmeritvami Uprave Republike Slovenije za zaščito in reševanje. Stroški za delo komisij se obračunajo po merilih, ki jih določi minister. Minister določi tudi program za usposabljanje komisij.
+(4) Uprava Republike Slovenije za zaščito in reševanje lahko sklene pogodbe s potrebnim številom cenilcev škode po posameznih področjih in dejavnostih, ki kot pooblaščeni cenilci ocenjujejo škodo ob naravni ali drugi nesreči po predpisani metodologiji.

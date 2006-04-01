@@ -1,0 +1,7 @@
+# 25. člen
+Črta se podnaslov "3. Služba za informacijsko podporo" in 55. člen spremeni tako, da se glasi:
+"55. člen
+(delo centrov in objava nujnih obvestil)
+(1) Center za obveščanje Republike Slovenije in regijski centri za obveščanje delujejo neprekinjeno.
+(2) Regijski centri za obveščanje sprejemajo, obdelujejo in prenašajo zlasti klice v sili na klicno številko 112 za pomoč gasilcev, službe nujne medicinske pomoči oziroma za pomoč drugih reševalnih služb ter aktivirajo sile za zaščito, reševanje in pomoč v skladu z načrti zaščite in reševanja, načrti za aktiviranje ter odločitvami pristojnih organov. Centri za obveščanje zagotavljajo informacijsko in komunikacijsko podporo pri vodenju in izvajanju zaščite, reševanja in pomoči. V skladu z načrti zaščite in reševanja ter predpisi centri za obveščanje o nesrečah obveščajo tudi pristojne inšpekcijske službe na področju varstva zdravja, živali ter rastlin, varne prehrane ter okolja in prostora.
+(3) Preko centrov za obveščanje ali neposredno se prenašajo tudi zahteve, pozivi, razglasi, pojasnila in napotila ob alarmih ter druga nujna sporočila v zvezi z nevarnostmi naravnih in drugih nesreč vlade, župana, pristojnega poveljnika Civilne zaščite ali državnega organa oziroma organa lokalne skupnosti, pristojnega za varstvo pred naravnimi in drugimi nesrečami, ki jih morajo mediji brez odlašanja brezplačno objaviti v skladu z zakonom, ki ureja medije. Objava nujnih pozivov, razglasov ter drugih sporočil ima prednost v vseh sredstvih javnega obveščanja.".

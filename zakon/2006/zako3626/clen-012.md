@@ -1,0 +1,3 @@
+# 12. člen
+V prvem odstavku 27. člena se besedilo "Vlada Republike Slovenije (v nadaljnjem besedilu: vlada)" nadomesti z besedo "vlada" in doda stavek, ki se glasi:
+"Vlada določi merila za sklepanje pogodb o službi v Civilni zaščiti ter uredi tudi druga plačila, prejemke in povračila v zvezi z opravljanjem nalog zaščite, reševanja in pomoči. Pravico do nadomestila plače oziroma izgubljenega zaslužka, prejemkov in povračil v skladu s tem členom imajo tudi državljani, ki prostovoljno in nepoklicno opravljajo naloge zaščite, reševanja in pomoči v enotah, službah in drugih operativnih sestavah društev in nevladnih organizacij v skladu s tem zakonom.".
