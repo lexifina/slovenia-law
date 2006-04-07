@@ -1,0 +1,4 @@
+# 31. člen
+Zavarovalnice in Združenje dopolnijo zbirke podatkov s podatki iz petega odstavka 4. člena zakona najkasneje v roku enega meseca od dneva uveljavitve tega zakona.
+Najkasneje v roku osmih dni od izteka roka iz prejšnjega odstavka zavarovalnice in Združenje z zbirnim obvestilom obvestijo ministrstvo, pristojno za promet, in prometni inšpektorat o vseh sklenjenih zavarovanjih v letalstvu.
+Do predložitve zbirnega obvestila iz prejšnjega odstavka zavarovalnice obveščajo ministrstvo, pristojno za promet, in prometni inšpektorat o sklenjenih zavarovanjih v letalstvu takoj po sklenitvi in prenehanju, pri čemer pošlje zavarovalnica poziv zavarovancu na sklenitev ali podaljšanje zavarovanja v vednost tudi ministrstvu, pristojnemu za promet, in prometnemu inšpektoratu najmanj 15 dni pred iztekom zavarovanja, ki se sklene po Uredbi 785/2004/ES.

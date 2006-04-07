@@ -1,0 +1,2 @@
+# 33. člen
+Zavarovalnice morajo sklepanje pogodb o zavarovanju avtomobilske odgovornosti preko svetovnega spleta oziroma interneta iz 5. člena zakona vzpostaviti tako, da najkasneje do 1. 3. 2007 omogočijo obnovo oziroma podaljšanje obstoječih zavarovanj avtomobilske odgovornosti pri isti zavarovalnici in najkasneje do 1. 6. 2008 omogočijo sklepanje zavarovanj avtomobilske odgovornosti pri katerikoli zavarovalnici.
