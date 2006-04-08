@@ -1,0 +1,4 @@
+# 44. člen (podatki o dajanju zdravila v promet)
+(1) Imetnik dovoljenja za promet z zdravilom, imetnik dovoljenja za promet s paralelno uvoženim zdravilom ter veletrgovec, ki opravlja paralelno distribucijo zdravila, pisno obvesti organ, pristojen za zdravila, o dejanskem začetku prometa z zdravilom v Republiki Sloveniji.
+(2) O začasnem ali stalnem prenehanju opravljanja prometa z zdravilom ali motnjah v preskrbi z zdravilom mora imetnik dovoljenja iz prejšnjega odstavka obvestiti organ, pristojen za zdravila, najpozneje dva meseca pred uveljavitvijo odločitve o prenehanju opravljanja prometa z zdravilom, razen v primeru višje sile.
+(3) Na zahtevo organa, pristojnega za zdravila, mora imetnik dovoljenja za promet predložiti podatke o obsegu prodaje in njemu dosegljive podatke o obsegu predpisovanja zdravila na recept.

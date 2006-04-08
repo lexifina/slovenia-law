@@ -1,0 +1,60 @@
+# 121. člen (izdaja podzakonskih predpisov)
+(1) Rok za izdajo podzakonskih predpisov po tem zakonu je dve leti po uveljavitvi tega zakona, razen predpisov, povezanih z uveljavitvijo določb Direktive 2001/83/ES in Direktive 2001/82/ES, ki morajo biti izdani v enem mesecu po uveljavitvi tega zakona.
+(2) Do uveljavitve podzakonskih predpisov, izdanih na podlagi tega zakona, se uporabljajo naslednji podzakonski predpisi, izdani na podlagi Zakona o zdravilih in medicinskih pripomočkih (Uradni list RS, št. 101/99, 70/00, 7/02, 13/02 - ZKrmi, 67/02 in 47/04 - ZdZPZ), če niso v nasprotju s tem zakonom ali če ta zakon ne določa drugače:
+- Pravilnik o razvrščanju, predpisovanju in izdajanju zdravil za uporabo v humani medicini (Uradni list RS, št. 59/03 in 114/03);
+- Pravilnik o pogojih, ki jih morajo izpolnjevati preskuševalci za analizno preskušanje zdravil, in postopek njihovega preverjanja (Uradni list RS, št. 43/00);
+- Pravilnik o farmakološko-toksikološkem preskušanju zdravil (Uradni list RS, št. 44/00);
+- Pravilnik o kliničnem preskušanju zdravil (Uradni list RS, št. 67/00);
+- Pravilnik o postopkih glede dovoljenja za promet z zdravilom (Uradni list RS, št. 60/04, 77/04 in 103/05);
+- Pravilnik o pogojih in postopku za pridobitev posebnega dovoljenja za uvoz zdravil in medicinskih pripomočkov (Uradni list RS, št. 72/00);
+- Pravilnik o analiznem preskušanju zdravil (Uradni list RS, št. 73/00);
+- Pravilnik o pogojih, ki jih morajo izpolnjevati specializirane prodajalne za promet z zdravili na drobno ter o postopku ugotavljanja teh pogojev (Uradni list RS, št. 73/00 in 54/03);
+- Pravilnik o označevanju zdravil in o navodilu za uporabo (Uradni list RS, št. 82/00);
+- Pravilnik o natančnejših pogojih, ki jih morajo izpolnjevati izdelovalec oziroma proizvajalec zdravil za uporabo v humani medicini, in o postopku njegove verifikacije (Uradni list RS, št. 51/04);
+- Pravilnik o farmakovigilanci (Uradni list RS, št. 94/00);
+- Pravilnik o metodologiji za oblikovanje cen preskušanja zdravil in kontrole kakovosti zdravil (Uradni list RS, št. 113/00);
+- Pravilnik o imunoloških zdravilih (Uradni list RS, št. 2/01);
+- Pravilnik o zdravilih, ki so izdelana iz človeške krvi ali plazme (Uradni list RS, št. 2/01);
+- Pravilnik o radiofarmacevtskih izdelkih (Uradni list RS, št. 7/01);
+- Pravilnik o merilih za oblikovanje cen zdravil na debelo in o načinu obveščanja o cenah zdravil na debelo (Uradni list RS, št. 69/05);
+- Pravilnik o oglaševanju zdravil in medicinskih pripomočkov (Uradni list RS, št. 76/01);
+- Pravilnik o homeopatskih izdelkih (Uradni list RS, št. 90/04);
+- Pravilnik o analiznem preskušanju zdravil za uporabo v humani medicini z namenom kontrole kakovosti (Uradni list RS, št. 74/04);
+- Pravilnik o natančnejših pogojih za promet na debelo z zdravili (Uradni list RS, št. 75/03);
+- Pravilnik o razvrstitvi vitaminskih in mineralnih izdelkov za peroralno uporabo, ki so v farmacevtskih oblikah, med zdravila (Uradni list RS, št. 83/03);
+- Pravilnik o stroških (Uradni list RS, št. 74/05);
+- Pravilnik o določitvi dobre proizvodne prakse (Uradni list RS, št. 10/05);
+- Pravilnik o načelih dobre laboratorijske prakse (Uradni list RS, št. 38/00 in 2/04);
+- Pravilnik o ocenjevanju in o postopkih nadzora skladnosti z načeli dobre laboratorijske prakse (Uradni list RS, št. 38/00);
+- Pravilnik o razvrstitvi zdravilnih rastlin (Uradni list RS, št. 133/03);
+- Pravilnik o posebnem delu strokovnega izpita za farmacevtskega inšpektorja (Uradni list RS, št. 52/05);
+- Odredba o določitvi zdravil, ki se izdajo na recept ali brez recepta le v lekarnah (Uradni list RS, št. 110/99);
+- Odredba o barvilih, ki se smejo dodajati zdravilom (Uradni list RS, št. 72/00);
+- Odredba o določitvi pravne osebe za spremljanje neželenih škodljivih učinkov zdravil in neželenih učinkov medicinskih pripomočkov (Uradni list RS, št. 100/00);
+- Odločba o določitvi enotnega nacionalnega poimenovanja zdravilnih učinkovin in sistemu razvrščanja zdravil po anatomsko-terapevtsko-kemični klasifikaciji (Uradni list RS, št. 72/00);
+- Sklep o izdaji tretje popravljene in dopolnjene izdaje Anatomsko-terapevtsko-kemične (ATC) klasifikacije zdravil 2003 (Uradni list RS, št. 114/03);
+- Seznam nujnih zdravil za uporabo v humani medicini (Uradni list RS, št. 16/04, 38/05 in 81/05);
+- Pravilnik o določitvi nacionalnega dodatka k Evropski farmakopeji (Uradni list RS, št. 86/05);
+- Pravilnik o paralelnem uvozu in paralelni distribuciji zdravil (Uradni list RS, št. 73/05);
+- Sklep o veljavnosti pete izdaje Evropske farmakopeje (Uradni list RS, št. 130/04);
+- Sklep o veljavnosti prvega, drugega in tretjega dodatka k peti izdaji Evropske farmakopeje (Uradni list RS, št. 31/05);
+- Odločba o imenovanju uradnega kontrolnega laboratorija za analizno preskušanje zdravil za uporabo v humani medicini (Uradni list RS, št. 51/04);
+- Sklep o določitvi seznama medsebojno zamenljivih zdravil (Uradni list RS, št. 6/05 in 17/05);
+- Pravilnik o dovoljenju za promet z zdravilom za uporabo v veterinarski medicini (Uradni list RS, št. 3/02 in 16/04);
+- Pravilnik o pogojih za promet na debelo z zdravili za uporabo v veterinarski medicini (Uradni list RS, št. 75/00 in 1/04);
+- Pravilnik o označevanju in navodilu za uporabo zdravil za uporabo v veterinarski medicini (Uradni list RS, št. 86/00, 104/00, 86/01 in 4/02);
+- Pravilnik o oglaševanju zdravil za uporabo v veterinarski medicini (Uradni list RS, št. 70/03);
+- Pravilnik o specializiranih prodajalnah za promet na drobno z zdravili za uporabo v veterinarski medicini (Uradni list RS, št. 55/03);
+- Pravilnik o določitvi dobre proizvodne prakse za uporabo v veterinarski medicini (Uradni list RS, št. 75/05).
+- Pravilnik o natančnejših pogojih, ki jih mora izpolnjevati izdelovalec oziroma proizvajalec zdravil za uporabo v veterinarski medicini ter o postopku njegove verifikacije (Uradni list RS, 28/04);
+- Pravilnik o elektromedicinski opremi za uporabo v veterinarski medicini (Uradni list RS, št. 28/04);
+- Pravilnik o pogojih, ki jih morajo izpolnjevati strokovnjaki, ki dajejo izvedenska mnenja o zdravilu za uporabo v veterinarski medicini (Uradni list RS, št. 28/04);
+- Pravilnik o vrsti, obsegu in načinu analiznega, farmakološko-toksikološkega in kliničnega preskušanja zdravil za uporabo v veterinarski medicini (Uradni list RS, št. 28/04);
+- Pravilnik o višini stroškov za preskušanje zdravil, izdajo dovoljenja za promet z zdravilom za uporabo v veterinarski medicini in za strokovni nadzor (Uradni list RS, št. 28/04);
+- Pravilnik o farmakovigilanci za zdravila za uporabo v veterinarski medicini (Uradni list RS, št. 67/01);
+- Pravilnik o komisiji za zdravila za uporabo v veterinarski medicini (Uradni list RS, št. 69/2000);
+- Pravilnik o pogojih, ki jih morajo izpolnjevati preskuševalci za analizno preskušanje zdravil za uporabo v veterinarski medicini, in postopek preverjanja pogojev (Uradni list RS, št. 1/01 in 13/01);
+- Pravilnik o razvrščanju, predpisovanju in izdajanju zdravil za uporabo v veterinarski medicini (Uradni list RS, št. 86/00);
+- Pravilnik o izjemni uporabi zdravil za zdravljenje živali in evidencah o zdravljenju živali (Uradni list RS, št. 77/00);
+- Pravilnik o prepovedi uporabe določenih snovi s hormonskim ali tireostatskim delovanjem in beta-agonistov v živinoreji (Uradni list RS, št. 16/04).
+(3) Z dnem uveljavitve tega zakona preneha veljati Sklep o določitvi dobrih praks (Uradni list RS, št. 41/97).

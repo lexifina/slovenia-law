@@ -1,0 +1,5 @@
+# 46. člen (spremembe pogojev dovoljenja za promet z zdravilom)
+(1) Po izdaji dovoljenja za promet z zdravilom mora imetnik dovoljenja pri postopkih izdelave in nadzora izdelave zdravila upoštevati znanstveni in tehnični napredek ter uvajati vse zahtevane spremembe, da se omogoči izdelava in preverjanje zdravila po splošno sprejetih znanstvenih postopkih. Organu, pristojnemu za zdravila, mora pred uvedbo spremembe sporočiti vse nove informacije, ki lahko vplivajo na spremembo dovoljenja za promet z zdravilom ali na spremembo dokumentacije o zdravilu.
+(2) Imetnik dovoljenja za promet mora organ, pristojen za zdravila, obvestiti o vseh podatkih, ki lahko vplivajo na oceno razmerja med tveganjem in koristjo, in posebej o ukrepih, omejitvah ali prepovedih, ki so jih uvedle druge države.
+(3) Organ, pristojen za zdravila, sprejme oziroma zavrne vlogo za spremembo dovoljenja za promet z zdravilom v rokih in po postopku iz Uredbe 1084/2003/ES.
+(4) Pristojni minister predpiše dokumentacijo in natančnejše pogoje za obravnavo sprememb oziroma dopolnitev dovoljenja za promet.

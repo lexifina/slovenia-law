@@ -1,0 +1,2 @@
+# 100. člen (obveznost sporočanja drugih podatkov)
+Pravne in fizične osebe, ki imajo dovoljenje za opravljanje dejavnosti prometa z zdravili oziroma ustrezno dokazilo iz tretjega odstavka 74. člena tega zakona, morajo organu, pristojnemu za zdravila, sporočiti vse podatke o cenah zdravil na način, določen s tem zakonom, za zdravila za uporabo v veterinarski medicini pa tudi organu, pristojnemu za veterinarstvo.

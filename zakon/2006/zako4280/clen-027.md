@@ -1,0 +1,2 @@
+# 27. člen (dodatne zahteve)
+Če zdravilo ne ustreza definiciji generičnega zdravila ali če bioekvivalence ni možno dokazati s študijami biološke uporabnosti ali ob spremembah učinkovin, indikacij, jakosti, farmacevtske oblike ali načina aplikacije glede na referenčno zdravilo, je treba predložiti rezultate ustreznih nekliničnih farmakološko-toksikoloških ali kliničnih študij, za zdravila za uporabo v veterinarski medicini pa poleg tega tudi rezultate ustreznih preskusov varnosti in ostankov zdravila.

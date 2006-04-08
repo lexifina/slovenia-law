@@ -1,0 +1,2 @@
+# 61. člen (nadzor nad kliničnim preskušanjem)
+Izvajanje kliničnega preskušanja zdravil po tem zakonu nadzorujejo farmacevtski nadzorniki oziroma nadzornice (v nadaljnjem besedilu: farmacevtski nadzorniki), ki imajo univerzitetno izobrazbo medicinske, veterinarske ali farmacevtske smeri, dodatna znanja iz dobre klinične prakse in izpolnjujejo pogoje iz druge in tretje alinee prvega odstavka 102. člena tega zakona.

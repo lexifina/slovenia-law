@@ -1,0 +1,6 @@
+# 97. člen (določanje cen)
+(1) Cene zdravil za uporabo v humani medicini, ki so pridobila dovoljenje za promet z zdravilom, dovoljenje za promet s paralelno uvoženim zdravilom, oziroma zdravil, ki nimajo dovoljenja za promet, imajo pa dovoljenje za vnos oziroma uvoz zdravil in so uvrščena v seznam iz 15. člena tega zakona, in ki bremenijo javna sredstva, se oblikujejo oziroma določajo na način, ki ga določi pristojni minister.
+(2) Cene zdravil za uporabo v veterinarski medicini, ki so pridobila dovoljenje za promet z zdravilom oziroma dovoljenje za vnos oziroma uvoz zdravila, in katerih raven lahko vpliva na zdravstveno varstvo živali in s tem ogrožanje zdravja ljudi, se izjemoma oblikujejo oziroma določajo na način, ki ga lahko določi minister, pristojen za veterinarstvo.
+(3) Oblikovanje oziroma določanje cen zdravil iz prejšnjega odstavka se sme predpisati na kateri koli stopnji prometa z zdravili.
+(4) Pristojni minister lahko zahteva od imetnikov dovoljenja za promet z zdravilom in imetnikov dovoljenja za vnos oziroma uvoz zdravil, katerih cene zdravil se krijejo v breme javnih sredstev, vse podatke, potrebne za določitev cen zdravil.
+(5) Določbe podzakonskih predpisov iz prvega in drugega odstavka tega člena, ki se nanašajo na vlogo pristojnega organa, izvaja organ, pristojen za zdravila.

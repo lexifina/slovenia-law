@@ -1,0 +1,7 @@
+# 83. člen (ukrepi pri neustrezni kakovosti zdravil)
+(1) Pravne ali fizične osebe, ki izdelujejo zdravila ali opravljajo promet z zdravili, morajo o primerih neustrezne kakovosti zdravil, ki lahko vplivajo na varnost ali učinkovitost zdravila, ali sumu nanje obvestiti organ, pristojen za zdravila, imetnika dovoljenja za promet z zdravilom ter pravno ali fizično osebo, ki opravlja promet z zadevnimi zdravili.
+(2) Imetnik dovoljenja za promet z zdravilom mora umakniti oporečno zdravilo iz prometa oziroma izvesti druge potrebne ukrepe in o svojih aktivnostih sproti in brez odlašanja obveščati organ, pristojen za zdravila.
+(3) Imetnik dovoljenja za promet z zdravilom mora takoj obvestiti pristojne organe držav članic Evropske unije, v katerih je zdravilo v prometu, o vseh ukrepih glede umika zdravila iz prometa ali začasnega odvzema oziroma odvzema dovoljenja za promet z zdravilom, skupaj z razlogi za tako ukrepanje, če je to v zvezi z učinkovitostjo zdravila ali varovanjem javnega zdravja.
+(4) Organ, pristojen za zdravila, spremlja in po potrebi usmerja aktivnosti imetnika dovoljenja za promet z zdravilom v zvezi z ukrepi v primerih neustrezne kakovosti zdravil in sporoča v mednarodni sistem hitrega obveščanja.
+(5) Organ, pristojen za zdravila, takoj obvesti Evropsko agencijo za zdravila, če gre za ukrepe, ki lahko vplivajo na varovanje javnega zdravja v državah članicah Evropske unije, po potrebi pa tudi Svetovno zdravstveno organizacijo.
+(7) Natančnejši postopek ukrepanja ob neustrezni kakovosti zdravil predpiše pristojni minister.

@@ -1,0 +1,3 @@
+# 58. člen (predpogoji za klinično preskušanje)
+(1) Zdravila se lahko začnejo klinično preskušati le po predloženih rezultatih o analiznem in nekliničnem farmakološko-toksikološkem preskušanju zdravila in če se preskuša zdravilo, ki ne vpliva na genetsko zasnovo v zarodni liniji preskušanca.
+(2) Postopek kliničnega preskušanja zdravila, ki je opisan v dokumentaciji, predloženi za pridobitev dovoljenja za promet z zdravilom, se mora izvajati v skladu z zahtevami iz 54. člena tega zakona, načeli in smernicami dobre klinične prakse o kliničnem preskušanju in načeli etike v humani oziroma veterinarski medicini in obveznim zagotavljanjem varovanja osebnih podatkov.

@@ -1,0 +1,4 @@
+# 56. člen (neklinično farmakološko-toksikološko preskušanje)
+(1) Neklinično farmakološko-toksikološko preskušanje je postopek ugotavljanja varnosti zdravila in se izvaja v skladu z načeli in smernicami dobre laboratorijske prakse in v skladu s podatki, ki jih vsebuje dokumentacija za pridobitev dovoljenja za promet.
+(2) Neklinično farmakološko-toksikološko preskušanje mora opredeliti farmakodinamske, farmakokinetične in toksikološke lastnosti zdravila, ki so bile ugotovljene na laboratorijskih živalih, in predvideti možne učinke na ljudeh oziroma ciljnih živalskih vrstah
+(3) Za zdravila za uporabo v veterinarski medicini mora neklinično farmakološko-toksikološko preskušanje zagotoviti podatke o metabolizmu, kinetiki in izločanju ostankov zdravil ter o rutinski analizni metodi, ki se lahko uporablja za določanje ostankov zdravil.

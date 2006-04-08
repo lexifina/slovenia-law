@@ -1,0 +1,4 @@
+# 19. člen (odgovornost)
+(1) Imetnik dovoljenja za promet z zdravilom je odgovoren za dajanje zdravila v promet.
+(2) Proizvajalec zdravila je odgovoren za škodo, ki nastane zaradi neustrezne kakovosti zdravila ali posledic uporabe zdravila, četudi dokaže, da svetovna raven znanosti in tehničnega napredka v času, ko je dal zdravilo v promet, ni bila takšna, da bi bilo možno napako ali posledice uporabe odkriti.
+(3) Imetnik dovoljenja za promet z zdravilom, proizvajalec in zdravstveni strokovnjaki niso odgovorni za posledice zdravljenja, ki nastanejo zaradi uporabe zdravila, ki ni v skladu z izdanim dovoljenjem za promet, ali zaradi uporabe zdravila, ki nima dovoljenja za promet, če je tako uporabo priporočil ali zahteval organ, pristojen za zdravila, v primerih širjenja patogenih snovi, toksinov, kemičnih snovi ali jedrskega sevanja, ki lahko povzročijo škodo za zdravje ljudi ali živali ali škodo za okolje.

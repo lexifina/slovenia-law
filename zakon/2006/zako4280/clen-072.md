@@ -1,0 +1,7 @@
+## V. OZNAČEVANJE IN NAVODILO ZA UPORABO
+# 72. člen (označevanje in navodilo za uporabo)
+(1) Vsako zdravilo, ki se daje v promet, mora biti označeno na zunanji ali na stični ovojnini, če zunanje ovojnine ni, s podatki o zdravilu v slovenskem jeziku. Enaki podatki so lahko navedeni tudi v enem ali več tujih jezikih. Zagotovljena mora biti čitljivost.
+(2) Vsako zdravilo, ki se daje v promet, mora imeti priloženo navodilo za uporabo v slovenskem jeziku, ki je v skladu s povzetkom glavnih značilnosti zdravila, razen če so vsi podatki, določeni s predpisom, navedeni na zunanji ovojnini ali če zunanje ovojnine ni, na stični ovojnini zdravila. Zagotovljeni morata biti čitljivost in primerna razumljivost za uporabnika.
+(3) Ne glede na določbe prvega in drugega odstavka tega člena lahko organ, pristojen za zdravila, izjemoma dovoli uporabo ovojnine v tujem jeziku z nalepko v slovenskem jeziku in navodila za uporabo v tujem jeziku, če je navodilo za uporabo v slovenskem jeziku zdravilu dodano na predpisani način.
+(4) Ime zdravila mora biti na ovojnini izpisano tudi v Braillovi pisavi. Imetnik dovoljenja za promet z zdravilom mora zagotoviti, da je na zahtevo organizacij bolnikov navodilo za uporabo na voljo v oblikah, ki so primerne za slepe in slabovidne.
+(5) Podrobnejši način označevanja zdravil, obliko ter vsebino navodila za uporabo in način uporabe nalepk, posebne pogoje za označevanje in navodilo za uporabo za posamezna zdravila ali skupine zdravil predpiše pristojni minister.

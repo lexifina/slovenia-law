@@ -1,0 +1,3 @@
+# 39. člen (medsebojno priznavanje)
+(1) Ne glede na določbe prejšnjega člena organ, pristojen za zdravila, pri vlogi za pridobitev dovoljenja po postopku z medsebojnim priznavanjem ali decentraliziranem postopku izda oziroma zavrne izdajo dovoljenja za promet z zdravilom na podlagi poročila o oceni zdravila, ki ga pripravi referenčna država članica.
+(2) Natančnejšo vsebino vloge, pogoje za pridobitev dovoljenja za promet z zdravilom, obliko ter vsebino zahtevane dokumentacije v nacionalnem postopku in v postopku z medsebojnim priznanavnjem oziroma decentraliziranem postopku, natančnejše pogoje za pridobitev dovoljenja za promet na podlagi 37., 38. in prvega odstavka tega člena predpiše pristojni minister.

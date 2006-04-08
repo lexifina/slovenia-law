@@ -1,0 +1,2 @@
+# 65. člen (plačilo stroškov preskušanja)
+Če klinično preskušanje zdravila, ki ima dovoljenje za promet, ali dovoljenje za promet s paralelno uvoženim zdravilom zahteva organ, pristojen za zdravila, zaradi preverjanja razmerja med tveganjem in koristjo, plača stroške preskušanja predlagatelj zahteve le, če se izkaže, da varnost in učinkovitost zdravila ustrezata določbam dovoljenja za promet. V nasprotnem primeru plača stroške imetnik takega dovoljenja.
