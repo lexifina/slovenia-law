@@ -1,0 +1,2 @@
+# 21. člen (Izdaja predpisov)
+Banka Slovenije v šestih mesecih po uveljavitvi tega zakona izda predpise na podlagi tega zakona.

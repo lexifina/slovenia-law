@@ -1,0 +1,10 @@
+# 13. člen
+57. člen se spremeni tako, da se glasi:
+"57. člen
+(Postopki zaradi insolventnosti člana plačilnega sistema)
+(1) Začetek postopka zaradi insolventnosti člana plačilnega sistema ne vpliva na pravice in obveznosti članov v zvezi z udeležbo, ki so nastale pred začetkom tega postopka.
+(2) V postopku zaradi insolventnosti člana plačilnega sistema so nalogi za poravnavo tega člana veljavni, če so bili sprejeti v plačilni sistem pred začetkom postopka zaradi insolventnosti. Veljavni so tudi nalogi za poravnavo, ki so bili sprejeti v plačilni sistem po začetku postopka zaradi insolventnosti in se izvršijo na dan začetka postopka zaradi insolventnosti, če upravljavec plačilnega sistema ni vedel in ni mogel vedeti za začetek postopka zaradi insolventnosti. Nalog za poravnavo je sprejet v sistem, ko so v skladu s pravili sistema izpolnjeni pogoji za vstop naloga za poravnavo v sistem.
+(3) Za izračun in poravnavo medsebojnih denarnih obveznosti članov plačilnega sistema se v postopku zaradi insolventnosti člana plačilnega sistema ne uporabljajo določbe 118. in 119. člena Zakona o prisilni poravnavi, stečaju in likvidaciji (Uradni list RS, št. 67/93, 74/94 - odločba US, 8/96 - odločba US, 25/97 - ZJSRS, 39/97, 1/99 - ZNIDC, 52/99, 101/01 - odločba US, 42/02 - ZDR, 58/03 - ZZK-1, v nadaljnjem besedilu: ZPPSL) o prepovedi pobotanja.
+(4) V postopku zaradi insolventnosti člana plačilnega sistema se za pravice in obveznosti v zvezi z udeležbo uporablja pravo, ki velja za ta sistem.
+(5) Začetek postopka zaradi insolventnosti po tem zakonu je trenutek, ko sodišče izda sklep o začetku postopka zaradi insolventnosti. Sodišče mora v sklepu, s katerim je začelo postopek zaradi insolventnosti, navesti tudi dan, uro in minuto izdaje sklepa ter to objaviti v oklicu o začetku postopka.
+(6) Sodišče o začetku postopka zaradi insolventnosti v skladu s prejšnjim odstavkom, takoj obvesti Banko Slovenije, Banka Slovenije pa upravljavca plačilnega sistema. Banka Slovenije o tem takoj obvesti tudi pristojne institucije drugih držav članic Evropske unije.".
