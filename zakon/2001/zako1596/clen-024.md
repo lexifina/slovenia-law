@@ -1,5 +1,5 @@
 # 24. člen
-Z denarno kaznijo od 20.000 do 100.000 tolarjev se kaznuje za prekršek fizična oseba, ki:
+Z globo od 20.000 do 100.000 tolarjev se kaznuje za prekršek fizična oseba, ki:
 1. ne prijavi oziroma odjavi posameznika, ki se nastani ali začasno prebiva v turističnem, gostinskem ali nastanitvenem objektu (prvi odstavek 9. člena);
 2. v predpisanem roku ne prijavi oziroma odjavi posameznika pristojni policijski postaji ali pristojnemu organu (prvi odstavek 10. člena in prvi odstavek 11. člena);
 3. v predpisanem roku pristojni policijski postaji ne prijavi oziroma odjavi tujca, ki se nastani v nastanitvenem objektu in nima dovoljenja za prebivanje v Republiki Sloveniji (drugi odstavek 10. člena);

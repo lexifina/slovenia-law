@@ -1,5 +1,5 @@
 # 19. člen (vodenje in vzdrževanje registra stalnega prebivalstva)
-Pristojni organ vodi in vzdržuje register stalnega prebivalstva za svoje območje in ga posreduje ministrstvu, pristojnemu za upravo, ki vodi in vzdržuje register stalnega prebivalstva Republike Slovenije.
+Pristojni organ vodi in vzdržuje register stalnega prebivalstva za svoje območje in ga posreduje ministrstvu, pristojnemu za notranje zadeve, ki vodi in vzdržuje register stalnega prebivalstva Republike Slovenije.
 Register iz prejšnjega odstavka vsebuje podatke:
 - iz prvega odstavka 7. člena tega zakona;
 - iz tretjega odstavka 11. člena tega zakona;
