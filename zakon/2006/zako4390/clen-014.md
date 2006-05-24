@@ -1,0 +1,4 @@
+# 14. člen
+V prvem odstavku 25. člena se za besedo "posredovala" črta besedilo ", razen če se nepremičninska družba in naročitelj dogovorita, da se pridobi pravico do plačila že ob sklenitvi morebitne predpogodbe".
+V drugem odstavku se drugi stavek spremeni tako, da se glasi: "Nepremičninska družba je upravičena do plačila za dodatne storitve v višini dejanskih stroškov in največ v višini, ki mora biti določena v splošnih pogojih poslovanja in v pogodbi o posredovanju v prometu z nepremičninami, sklenjeni med nepremičninsko družbo in naročiteljem, in le, če je plačilo dodatnih storitev pisno dogovorjeno med strankama.".
+Na koncu petega odstavka se doda nov stavek, ki se glasi: "V primeru, če je tretja oseba naročiteljev ožji družinski član, je naročitelj dolžan plačati s pogodbo dogovorjeno plačilo za posredovanje v celoti.".

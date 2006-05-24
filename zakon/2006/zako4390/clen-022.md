@@ -1,0 +1,2 @@
+# 22. člen (uskladitev z zakonom pri opravljanju poslov posredovanja)
+Šteje se, da posameznik, ki za investitorja opravlja prodajo nepremičnin, s končano najmanj splošno srednjo šolo, srednjo tehnično ali drugo srednjo strokovno šolo po programu za pridobitev srednje strokovne izobrazbe oziroma temu ustreznega izobraževanja po prejšnjih predpisih in ima najmanj tri leta delovnih izkušenj pri prodaji nepremičnin, na dan uveljavitve tega zakona, izpolnjuje izobrazbeni pogoj za nepremičninskega posrednika.
