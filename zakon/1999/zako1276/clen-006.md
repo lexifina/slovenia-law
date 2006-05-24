@@ -5,3 +5,5 @@ Davek od posameznega novega motornega vozila se plačuje po naslednjih stopnjah 
 Davek na promet rabljenih motornih vozil in drugih motornih vozil iz drugega odstavka 3. člena tega zakona se plača po stopnji 5% od nakupne cene, če ta cena ustreza prometni vrednosti. Če nakupna cena ne ustreza prometni vrednosti, je davčna osnova prometna vrednost teh motornih vozil, ki jo ugotovi davčni organ v kraju sedeža oziroma stalnega prebivališča davčnega zavezanca.
 6.a člen
 Ne glede na drugi odstavek 6. člena tega zakona, se za nova motorna vozila, proizvedena ne prej kot 1. januarja 2003 in katerih uradna specifična emisija ogljikovega dioksida ne presega 110 gramov na prevoženi kilometer, davek ne plačuje do 31. decembra 2009.
+6.b člen
+Ne glede na prvi odstavek 6. člena tega zakona je pri pridobitvi motornega vozila iz druge države članice Evropske unije, ki je bilo trajno ali začasno registrirano v drugi državi, davčna osnova nakupna cena, če ta cena ustreza prometni vrednosti. Če nakupna cena ne ustreza prometni vrednosti, je davčna osnova prometna vrednost teh motornih vozil, ki jo ugotovi davčni organ.

@@ -17,3 +17,7 @@ Do roka iz prejšnjega odstavka se za prekršek iz prvega odstavka 11. člena te
 - odgovorna oseba pravne osebe z denarno kaznijo od 200.000 do 1,000.000 tolarjev.
 14. člen
 Ta zakon začne veljati 1. maja 2004.".
+_________
+Zakon o spremembah in dopolnitvah Zakona o davku na motorna vozila - ZDMV-B (Uradni list RS, št. 47/06) vsebuje naslednjo končno določbo:
+"11. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije. ".
