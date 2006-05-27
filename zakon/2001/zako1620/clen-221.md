@@ -1,2 +1,0 @@
-# 221. člen (prehodna določba za pooblaščene izvajalce zdravstvenih pregledov)
-Pooblaščeni izvajalci zdravstvenih pregledov, ki na dan uveljavitve tega zakona opravljajo zdravstvene preglede letalskega in drugega strokovnega osebja, nadaljujejo z opravljanjem dosedanjih nalog do izteka veljavnosti pooblastil, ki so bila izdana po dosedanjih predpisih oziroma do pridobitve pooblastila v skladu z določbami tega zakona in predpisov iz šestega odstavka 51. člena tega zakona, vendar najdalj do 31. 12. 2002.

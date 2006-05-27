@@ -1,6 +1,0 @@
-# 214. člen (varstvo pri opravljanju dela pilotov in delavcev na terenu)
-(1) V državni Upravi zaposleni poklicni in prometni piloti z ratingom oziroma pooblastilom inštruktorja ali učitelja letenja, če je to zahtevano s sistemizacijo, delavci v preiskovalnem organu za preiskovanje letalskih nesreč in incidentov, delavci tehničnih služb Uprave, ki opravljajo delo na terenu, delavci Sektorja za varnost in letalske standarde v Upravi, ki opravljajo delo na terenu ter letalski inšpektorji imajo pravico do posebnega varstva pri opravljanju dela.
-(2) Poškodba ali bolezen, ki nastane pri opravljanju delovne dolžnosti, se šteje kot poškodba pri delu ali poklicna bolezen. Delavec iz prejšnjega odstavka, ki se pri opravljanju dela poškoduje ali zboli, ima pravice po posebnih predpisih.
-(3) Za poškodbo iz prejšnjega odstavka se šteje tudi poškodba, ki jo je delavec utrpel na poti z dela ali na delo po običajni poti.
-(4) Družinski člani delavca iz prvega odstavka, ki je izgubil življenje pri opravljanju delovnih dolžnosti, imajo po njem pravico do povračila stroškov prevoza, pogrebnih storitev in odškodnine.
-(5) Stroške za invalidsko in nezgodno zavarovanje ter pravice iz prejšnjih odstavkov tega člena krije država. Višino zavarovalne vsote predpiše minister, pristojen za promet, v soglasju z ministrom, pristojnim za finance.

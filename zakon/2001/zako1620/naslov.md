@@ -1,2 +1,2 @@
 ZAKON
-O LETALSTVU (ZLet)
+o letalstvu (ZLet)

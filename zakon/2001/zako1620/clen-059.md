@@ -10,4 +10,4 @@
 (8) Imetnik pilotske licence, ki je dopolnil:
 1. 60 let, ne sme opravljati nalog pilota v komercialnem zračnem prevozu, razen kot član letalske posadke, ki jo sestavlja več pilotov in če je edini pilot v letalski posadki, ki je dopolnil 60 let,
 2. 65 let, ne sme opravljati nalog pilota v komercialnem zračnem prevozu,
-3. pri čemer minister, pristojen za promet, lahko predpiše drugačne starostne in druge omejitve, če se spremeni ustrezna priloga k Čikaški konvenciji oziroma ustrezni Skupni letalski predpisi.
+pri čemer minister, pristojen za promet, lahko predpiše drugačne starostne in druge omejitve, če se spremeni ustrezna priloga k Čikaški konvenciji oziroma ustrezni Skupni letalski predpisi.
