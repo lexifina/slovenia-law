@@ -1,0 +1,6 @@
+# 4. člen
+V 26. členu se na koncu trinajste alinee doda besedilo "in vodenje evidenc o izdanih listinah".
+Dodajo se drugi, tretji in četrti odstavek, ki se glasijo:
+"Evidence iz devete in trinajste alinee prejšnjega odstavka, razen evidence o pomorskih knjižicah, obsegajo naslednje podatke: osebno ime, datum in kraj rojstva, državljanstvo, stalno oziroma začasno prebivališče, številko in datum vloge, datum izpita, uspeh in ocene dosežene na izpitu, datum izdaje in serijsko številko listine. Evidenca o izdanih pomorskih knjižicah obsega naslednje podatke: osebno ime, datum in kraj rojstva, državljanstvo, spol, višino ter barvo las in oči, stalno oziroma začasno prebivališče, datum izdaje in serijsko številko listine.
+Evidence iz prejšnjega odstavka se hranijo trajno, razen podatkov iz evidence o pomorskih knjižicah, ki se hranijo pet let po prenehanju veljavnosti pomorske knjižice. Pri izdelavi statističnih analiz se smejo osebni podatki uporabljati in objavljati tako, da identiteta osebe ni razvidna.
+Za izvajanje pristojnosti iz prvega odstavka tega člena ima Uprava Republike Slovenije za pomorstvo pravico do vpogleda v Centralni register prebivalstva in v zbirke podatkov v upravljanju javnega sektorja za pridobitev naslednjih podatkov: osebno ime, EMŠO, kraj rojstva, državljanstvo, prebivališče, zaposlitev, šolska izobrazba in vozniško dovoljenje.".

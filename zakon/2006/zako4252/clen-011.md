@@ -1,0 +1,5 @@
+# 11. člen
+V drugem odstavku 63. člena se za besedama "kilogram krvi" doda besedilo "ali do vključno 0,24 miligrama alkohola v litru izdihanega zraka". Na koncu odstavka se doda nov stavek, ki se glasi: "Če pa rezultat preizkusa s sredstvi in napravami za ugotavljanje alkohola kaže na prisotnost alkohola v dovoljenih mejah, oseba, ki upravlja čoln pa kaže znake motenj v vedenju, katerih posledica je lahko nezanesljivo ravnanje pri upravljanju čolna ali je s tem ogrožena varnost plovbe, odredi pristaniški nadzornik strokovni pregled.".
+V petem odstavku se v prvem stavku za besedo "napravami" črta besedilo "oziroma strokovni pregled". Za drugim stavkom se doda nov stavek, ki se glasi: "Če zaradi zdravstvenega stanja ali zaradi drugega, s tem povezanega objektivnega vzroka, ne more opraviti preizkusa ali če ga ne opravi po navodilih proizvajalca, mu pristaniški nadzornik odredi strokovni pregled.".
+V šestem odstavku se v drugem stavku besedilo "v krvi več alkohola" nadomesti z besedilom "v organizmu več alkohola na kilogram krvi ali miligramov alkohola v litru izdihanega zraka".
+Črta se osmi odstavek.
