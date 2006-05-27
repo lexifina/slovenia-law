@@ -1,2 +1,0 @@
-# 10. člen (dejavnost)
-Dejavnost po tem zakonu je osnovna funkcija poslovnih subjektov in drugih enot poslovnega registra, s katero ustvarjajo dobiček oziroma uresničujejo temeljni namen ustanovitve. Dejavnosti se izvajajo s kombiniranimi produkcijskimi faktorji (oprema, delavci, proizvodna tehnika itn.) za ustvarjanje proizvodov in storitev. Dejavnost se opredeli z vložki, proizvodnimi procesi in z rezultati proizvodnih procesov.

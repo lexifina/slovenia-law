@@ -1,2 +1,0 @@
-# 15. člen (uporaba podatkov za statistične namene)
-Za namene evidentiranja, zbiranja, obdelovanja, analiziranja in izkazovanja podatkov, pomembnih za spremljanje stanja in gibanj na vseh področjih nacionalnega gospodarstva, sme upravljalec registra za evidenčne in statistične namene povezovati individualne podatke iz 7. člena tega zakona o enotah poslovnega registra iz 4. člena tega zakona s podatki iz drugih javnih registrov in s podatki, ki se zbirajo z nacionalnim programom statističnih raziskovanj.
