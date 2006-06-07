@@ -1,0 +1,3 @@
+# 6. ČLEN Spremembe finančne pogodbe
+
+6.01 Banka lahko soglaša z dopolnitvami finančne pogodbe, s katerimi se ne povečujejo zneski, ki jih kreditojemalka plača na njeni podlagi, in o njih uradno obvesti garanta. Banka lahko na način, ki se ji zdi ustrezen, kreditojemalki odobri do trimesečno podaljšanje roka za vsako odplačilo glavnice ali plačilo obresti in drugih spremljajočih stroškov. O vsakem takem podaljšanju uradno obvesti garanta. Razen sprememb iz zgornjih dveh odstavkov tega 6. člena je treba vse druge spremembe v finančni pogodbi predložiti v odobritev garantu. Slednji lahko svojo odobritev odreče samo, če bi predlagane spremembe lahko škodljivo vplivale nanj kot garanta.
