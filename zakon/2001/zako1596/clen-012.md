@@ -2,6 +2,6 @@
 Posameznik, ki se nastani ali začasno prebiva izven naselja stalnega oziroma začasnega prebivališče v objektih, kot so počitniške hiše, stanovanja in drugi objekti, vendar ne v objektih oziroma pri stanodajalcih iz prvega odstavka 9. člena tega zakona, mora pristojnemu organu prijaviti oziroma odjaviti začasno prebivališče, če namerava v tem naselju prebivati več kot 60 dni.
 Začasno prebivališče iz prejšnjega odstavka mora posameznik prijaviti v treh dneh od dneva naselitve, odjaviti pa pred odselitvijo.
 Določba prvega odstavka tega člena se uporablja za tujca le v primeru, če ima veljavno dovoljenje za prebivanje v Republiki Sloveniji in pri pristojnem organu prijavljeno stalno oziroma začasno prebivališče. Tujec, ki ima veljavno dovoljenje za prebivanje, vendar v Republiki Sloveniji nima prijavljenega stalnega oziroma začasnega prebivališča pri pristojnem organu, mora pristojnemu organu začasno prebivališče prijaviti v roku treh dni od dneva naselitve, odjaviti pa pred odselitvijo.
-Začasno prebivališče se prijavi oziroma odjavi na obrazcu za prijavo oziroma odjavo začasnega prebivališča.
+Začasno prebivališča se prijavi oziroma odjavi na obrazcu za prijavo oziroma odjavo začasnega prebivališča.
 Posameznik mora ob prijavi oziroma odjavi začasnega prebivališča dati pristojnemu organu naslov začasnega prebivališča, na katerega se prijavlja ter podatke iz 1., 2., 5., 6. in 11. točke prvega odstavka 7. člena tega zakona.
 Za prijavo začasnega prebivališča se smiselno uporabljajo določbe 6. in 7. člena tega zakona.
