@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o varstvu topografije polprevodniških vezij (Uradni list RS, št. 21/95 in 96/02) se 1. člen spremeni tako, da se glasi:
+"1. člen
+S tem zakonom se v skladu z Direktivo Sveta št. 87/54/EGS z dne 16. decembra 1986 o pravnem varstvu topografije polprevodniških izdelkov (UL L št. 24, z dne 27. 1. 1987, str. 36) in Direktivo 2004/48/ES Evropskega parlamenta in Sveta z dne 29. aprila 2004 o uveljavljanju pravic intelektualne lastnine (UL L št. 195, z dne 2. 6. 2004, str. 16) ureja pridobitev in varstvo topografije polprevodniških vezij.".

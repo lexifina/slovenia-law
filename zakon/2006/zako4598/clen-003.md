@@ -1,0 +1,4 @@
+# 3. člen
+17. člen se spremeni tako, da se glasi:
+"17. člen
+V postopkih po tem zakonu se smiselno uporabljajo določbe zakona, ki ureja pridobitev in varstvo pravic industrijske lastnine, o posredovanju informacij o prijavah in podeljenih ali registriranih pravicah, tajnosti in vpogledu v prijave, upravnem sporu, postopku v zvezi s tožbami, prenosu in licenci pravic, vpisu sprememb v register, postopku za vpis sprememb v register, legitimaciji, tožbi zaradi kršitve pravic, povrnitvi škode, predložitvi dokazov, začasnih odredbah, zavarovanju dokazov, dolžnosti obveščanja, zastopanju pred uradom, zastopanju tujih oseb ter preklicu in odpovedi pooblastila.".
