@@ -1,0 +1,6 @@
+# 19. člen (priznavanje v tujini pridobljenih strokovnih in znanstvenih naslovov ter nazivov strokovne izobrazbe)
+(1) V tujini pridobljeni strokovni in znanstveni naslov ter naziv strokovne izobrazbe se lahko uporablja, če je diploma, s katero se izkazuje pridobitev naslova oziroma naziva, priznana v Republiki Sloveniji.
+(2) Če se v postopku priznavanja odloči, da je v tujini pridobljen strokovni oziroma znanstveni naslov ali naziv strokovne izobrazbe enakovreden s strokovnim oziroma znanstvenim naslovom ali nazivom strokovne izobrazbe po tem zakonu, se lahko uporablja slovenski strokovni oziroma znanstveni naslov ali naziv strokovne izobrazbe.
+(3) Način in postopek priznavanja iz prvega in drugega odstavka tega člena določa zakon.
+(4) Tuji strokovni oziroma znanstveni naslov, pridobljen po skupnem študijskem programu, ki ga izvajajo visokošolski zavodi iz Republike Slovenije in tujine, je enakovreden strokovnemu oziroma znanstvenemu naslovu, ki je glede na stopnjo in študijsko področje določen s tem zakonom.
+(5) Tuji naziv strokovne izobrazbe, pridobljen po skupnem študijskem programu, ki ga izvajajo višje strokovne šole iz Republike Slovenije in tujine, je enakovreden nazivu strokovne izobrazbe, ki je glede na študijsko področje določen s tem zakonom.
