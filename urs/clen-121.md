@@ -1,5 +1,3 @@
-# 121. člen (naloge upravnih organov)
+# 121. člen (javno pooblastilo)
 
-Naloge uprave opravljajo neposredno ministrstva.
-
-Z zakonom lahko samoupravne skupnosti, podjetja in druge organizacije ter posamezniki dobijo javno pooblastilo za opravljanje nekaterih funkcij državne uprave.
+Z zakonom ali na njegovi podlagi lahko pravne ali fizične osebe dobijo javno pooblastilo za opravljanje določenih nalog državne uprave.

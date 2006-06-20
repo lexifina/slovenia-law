@@ -1,5 +1,7 @@
-# 143. člen (širše samoupravne lokalne skupnosti)
+# 143. člen (pokrajina)
 
-Občine se samostojno odločajo o povezovanju v širše samoupravne lokalne skupnosti, tudi v pokrajine, za urejanje in opravljanje lokalnih zadev širšega pomena. V sporazumu z njimi prenese država nanje določene zadeve iz državne pristojnosti v njihovo izvirno pristojnost in določi udeležbo teh skupnosti pri predlaganju ter izvrševanju nekaterih zadev iz državne pristojnosti.
+Pokrajina je samoupravna lokalna skupnost, ki opravlja lokalne zadeve širšega pomena in z zakonom določene zadeve regionalnega pomena.
 
-Načela in merila za prenos pristojnosti iz prejšnjega odstavka ureja zakon.
+Pokrajine se ustanovijo z zakonom, s katerim se določi tudi njihovo območje, sedež in ime. Zakon sprejme državni zbor z dvotretjinsko večino glasov navzočih poslancev. V postopku za sprejem zakona mora biti zagotovljeno sodelovanje občin.
+
+Država z zakonom prenese na pokrajine opravljanje posameznih nalog iz državne pristojnosti, mora pa jim za to zagotoviti potrebna sredstva.
