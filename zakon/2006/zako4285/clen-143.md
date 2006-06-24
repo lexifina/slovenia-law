@@ -1,0 +1,7 @@
+# 143. člen
+(1) Z globo od 1.000.000 do 10.000.000 tolarjev se kaznuje za prekršek izdajatelj televizijskega programa pravna oseba ali izdajatelj televizijskega programa samostojni podjetnik posameznik:
+- če na podlagi pridobljenih izključnih pravic prenaša posamezni dogodek, ki je pomemben za javnost v Republiki Sloveniji ali drugi državi članici EU, tako da bi bilo pomembnemu delu gledalcev na tem območju onemogočeno spremljanje tega dogodka (prvi odstavek 75. člena);
+- če dogodek iz prvega odstavka 75. člena tega zakona na podlagi pridobljenih izključnih pravic prenaša izdajatelj, katerega televizijski program lahko spremlja manj kot petinsedemdeset odstotkov prebivalstva Republike Slovenije, ali pa je za sprejemanje takega programa potrebno dodatno plačilo (plačljiva TV) poleg RTV-prispevka in običajnega plačila za sprejem televizijskih programov po kablu (tretji odstavek 75. člena);
+- če kot organizator pomembnih prireditev in drugih dogodkov, dostopnih javnosti, izdajatelju radijskega ali televizijskega programa ne omogoči, da uveljavi pravico do kratkega poročanja (prvi odstavek 74. člena).
+(2) Z globo 150.000 tolarjev se kaznuje za prekršek odgovorna oseba pravne osebe ali samostojnega podjetnika posameznika, ki stori prekršek iz prejšnjega odstavka.
+(3) Z globo 70.000 tolarjev se kaznuje za prekršek izdajatelj televizijskega programa fizična oseba, ki stori prekršek iz prvega odstavka tega člena.

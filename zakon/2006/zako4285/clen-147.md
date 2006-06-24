@@ -1,0 +1,4 @@
+# 147. člen
+(1) Z globo od 500.000 do 5.000.000 tolarjev se kaznuje za prekršek organ iz drugega odstavka 45. člena tega zakona, če mediju na zahtevo za dostop do informacije za medije ne da pisnega odgovora, ali bo na zahtevo odgovoril ali bo odgovor zavrnil, najpozneje do konca naslednjega delovnega dne od prejema zahteve ali če mediju ne da resničnih in celovitih informacij v dogovorjenem roku oziroma najpozneje v sedmih dneh po prejemu zahteve, pa bi na podlagi tega zakona to moral storiti (šesti odstavek 45. člena), ali če mediju nemudoma ne pošlje dodatnih pojasnil o zavrnilnem odgovoru iz četrtega odstavka 45. člena (osmi odstavek 45. člena).
+(2) Z globo 120.000 tolarjev se kaznuje za prekršek odgovorna oseba organa iz drugega odstavka 45. člena tega zakona, ki stori prekršek iz prejšnjega odstavka.
+(3) Z globo 60.000 tolarjev se kaznuje za prekršek fizična oseba, ki stori prekršek iz prvega odstavka tega člena.
