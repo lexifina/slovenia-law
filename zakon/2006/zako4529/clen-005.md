@@ -1,0 +1,4 @@
+# 5. člen
+Uporaba posebnih oblik pridobivanja podatkov iz 24., 24.a in 24.b člena Zakona o Slovenski obveščevalno-varnostni agenciji (Uradni list RS, št. 20/04 - uradno prečiščeno besedilo in 54/04 - ZDoh-1), ki se na dan uveljavitve tega zakona izvaja na podlagi pisne odredbe predsednika okrožnega sodišča, na čigar območju je sedež agencije, se konča po Zakonu o Slovenski obveščevalno-varnostni agenciji (Uradni list RS, št. 20/04 - uradno prečiščeno besedilo in 54/04 - ZDoh-1).
+Morebitno podaljšanje uporabe posebnih oblik pridobivanja podatkov iz prejšnjega odstavka se odobri v skladu s tem zakonom.
+Na Vrhovno sodišče Republike Slovenije se prenesejo vse zadeve, evidence in arhivi, ki jih vodi pristojno sodišče, v zvezi z uporabo posebnih oblik pridobivanja podatkov na podlagi odredbe predsednika pristojnega okrožnega sodišča.

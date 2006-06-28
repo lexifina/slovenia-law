@@ -1,0 +1,6 @@
+# 1. člen
+V Zakonu o Slovenski obveščevalno-varnostni agenciji (Uradni list RS, št. 20/04 - uradno prečiščeno besedilo in 54/04 - ZDoh-1) se v prvem odstavku 24. člena besedilo "predsednik okrožnega sodišča, na čigar območju je sedež agencije" nadomesti z besedilom "predsednik Vrhovnega sodišča Republike Slovenije", besedilo "življenje in zdravje ljudi" pa nadomesti z besedilom "življenje ali zdravje ljudi".
+V drugem odstavku se besedilo "življenje in zdravje ljudi" nadomesti z besedilom "življenje ali zdravje ljudi".
+Tretji odstavek se spremeni tako, da se glasi:
+"(3) Uporaba posebne oblike pridobivanja podatkov iz prvega odstavka tega člena lahko traja največ tri mesece. Iz utemeljenih razlogov se lahko njena uporaba podaljša vsakič še za največ tri mesece, vendar skupno ne več kot 24 mesecev. Vsako podaljšanje odobri predsednik Vrhovnega sodišča Republike Slovenije. Uporaba posebne oblike pridobivanja podatkov iz prvega odstavka tega člena se odpravi takoj, ko prenehajo razlogi, zaradi katerih je bila odrejena. O prenehanju mora direktor agencije pisno obvestiti predsednika Vrhovnega sodišča Republike Slovenije.".
+V četrtem odstavku se v prvem in drugem stavku besedilo "predsednika okrožnega sodišča, na območju katerega ima agencija sedež," v obeh primerih nadomesti z besedilom "predsednika Vrhovnega sodišča Republike Slovenije".
