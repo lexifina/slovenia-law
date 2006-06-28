@@ -1,0 +1,3 @@
+# 52. člen (pogoj za dajanje v promet biocidnih proizvodov, ki se smejo prodajati le na določenih mestih prodaje)
+(1) Promet z biocidnimi proizvodi, za katere je bilo pridobljeno dovoljenje za dajanje v promet in se smejo prodajati le na določenih mestih prodaje, lahko opravljajo pravne in fizične osebe, ki so pridobile dovoljenje za opravljanje prometa z nevarnimi kemikalijami v skladu s predpisi, ki urejajo kemikalije.
+(2) Minister v soglasju z ministrom, pristojnim za okolje, in ministrom, pristojnim za kmetijstvo, predpiše merila za določitev biocidnih proizvodov, ki se bodo smeli prodajali le na določenih mestih prodaje.

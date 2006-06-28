@@ -1,0 +1,6 @@
+# 53. člen (nadzor in monitoring ostankov biocidnih proizvodov)
+(1) Če so mejne vrednosti ostankov biocidnih proizvodov določene s predpisi, ki urejajo ostanke pesticidov in drugih onesnaževalcev v ali na tretiranih objektih, prostorih in organizmih ter drugod, te ne smejo biti presežene.
+(2) Kadar mejne vrednosti ostankov biocidnih proizvodov niso določene in je mogoče utemeljeno sklepati, da so ostanki posledica uporabe biocidnih proizvodov, se ob ugotovitvi ostankov opravi oceno tveganja ter glede na izsledke ustrezno ukrepa.
+(3) Nadzor in monitoring ostankov biocidnih proizvodov se opravljata v skladu s predpisi, ki urejajo kemikalije, ostanke pesticidov in drugih onesnaževalcev, ter drugimi veljavnimi predpisi, ki urejajo monitoring.
+(4) Minister lahko v soglasju z ministrom, pristojnim za okolje, in ministrom, pristojnim za kmetijstvo, predpiše mejne vrednosti ostankov biocidnih proizvodov in dodatne pogoje za izvajanje nadzora oziroma monitoringa ostankov biocidnih proizvodov, kolikor to ni urejeno z drugimi predpisi.
+(5) Ne glede na prvi odstavek tega člena se lahko v primeru laboratorijsko potrjenih prekoračitev mejnih vrednosti ostankov biocidnih proizvodov, če so te določene, za posamezen primer na podlagi ocene tveganja določijo izjeme in posebni ukrepi.

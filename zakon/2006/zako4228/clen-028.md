@@ -1,0 +1,8 @@
+## C) Redna dovoljenja za promet biocidnih proizvodov
+# 28. člen (dovoljenje po popolnem postopku - avtorizacija)
+(1) Po popolnem postopku ali avtorizaciji se lahko dajejo v promet biocidni proizvodi, če so aktivne snovi, ki jih vsebujejo, vključene na seznam snovi I ali IA.
+(2) Vloga za izdajo dovoljenja za promet biocidnega proizvoda po popolnem postopku mora vsebovati predpisane podatke za vsako aktivno snov v biocidnem proizvodu in za biocidni proizvod ali izjavo o dostopnosti teh podatkov.
+(3) Dokumentacija mora vključevati podroben in popoln opis opravljenih raziskav ter uporabljenih postopkov ali bibliografsko navedbo teh postopkov. Podatki morajo zadoščati za presojo, ki jo je treba opraviti o učinkih in lastnostih biocidnega proizvoda, in morajo biti predloženi v obliki tehnične dokumentacije, ki vsebuje podatke o predpisanih raziskavah in preskušanjih ter rezultatih raziskav.
+(4) Preskušanja morajo biti izvedena v skladu z določbami predpisov, ki urejajo kemikalije. O odstopanjih od predpisanih metod se zaradi zmanjševanja preskušanj na vretenčarjih odloča za vsak primer posebej.
+(5) Podatkov, ki zaradi lastnosti biocidnega proizvoda ali njegove predvidene uporabe niso potrebni, ni treba navajati. Enako velja tudi, kadar ti podatki niso znanstveno potrebni ali jih ni mogoče pridobiti. V takih primerih je treba predložiti utemeljitev, o kateri odloči pristojni organ.
+(6) Natančnejšo vsebino dokumentacije za pridobitev dovoljenj po popolnem postopku, ravnanje pristojnega organa z dokumentacijo in roke za predložitev dokumentov predpiše minister v soglasju z ministrom, pristojnim za okolje, in ministrom, pristojnim za kmetijstvo.
