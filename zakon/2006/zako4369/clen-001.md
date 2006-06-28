@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o varstvu novih sort rastlin (Uradni list RS, št. 86/98 in 52/02-ZDU-1) se prvi odstavek 1. člena spremeni tako, da se glasi:
+"Ta zakon določa postopek zavarovanja novih sort rastlin, pridobitev in varstvo žlahtniteljske pravice ter pristojni organ za varstvo novih sort rastlin in njegova pooblastila, izvajanje prepovedi kopičenja varstva, dovoljenje imetnika žlahtniteljske pravice za dejanja v zvezi s semenskim materialom zavarovane sorte in globe za prekrške za izvajanje Uredbe Sveta (ES) št. 2100/94 z dne 27. julija 1994 o žlahtniteljskih pravicah v Skupnosti (UL L št. 227 z dne 1. 9. 1994, str. 1, z vsemi spremembami).".
