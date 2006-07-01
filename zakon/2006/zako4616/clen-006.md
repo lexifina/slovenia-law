@@ -1,0 +1,4 @@
+# 6. člen
+(1) Prvi odstavek 96. člena Zakona o javnih uslužbencih (Uradni list RS, št. 32/06 - uradno prečiščeno besedilo) ter četrti, peti in šesti odstavek 41.c člena Zakona o zdravniški službi (Uradni list RS, št. 36/04 - uradno prečiščeno besedilo in 47/06) prenehajo veljati z dnem uveljavitve tega zakona in se uporabljajo do prvega izplačila plač po zakonu, ko se začne uporabljati 22.a člen zakona.
+(2) Ne glede na določbo petega odstavka 52. člena Zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 32/06 - uradno prečiščeno besedilo) se določba 22.a člena zakona za javne uslužbence, ki do uveljavitve tega zakona niso imeli določenih pravic iz naslova povečanega obsega dela, začne uporabljati pet mesecev od uveljavitve tega zakona.
+(3) Vlada sprejme uredbo iz 22.a člena zakona najkasneje v štirih mesecih po uveljavitvi tega zakona.

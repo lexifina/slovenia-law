@@ -1,0 +1,9 @@
+# 4. člen
+Doda se 22.a člen, ki se glasi:
+"22.a člen
+(povečan obseg dela)
+(1) Javnemu uslužbencu se lahko izplača del plače za delovno uspešnost tudi za povečan obseg opravljenega dela, ki presega pričakovane rezultate dela v posameznem mesecu, če je na ta način mogoče zagotoviti racionalnejše izvajanje nalog uporabnika proračuna. Pisno odločitev o povečanem obsegu dela ter plačilu za povečan obseg dela sprejme predstojnik oziroma direktor uporabnika proračuna za posamezni mesec na podlagi pisnega dogovora med javnim uslužbencem in predstojnikom oziroma direktorjem ali javnim uslužbencem, pooblaščenim za organizacijo dela, ki ga lahko skleneta za daljše obdobje.
+(2) Javnim uslužbencem v javnih vzgojno-izobraževalnih zavodih in visokošolskih zavodih se lahko, v okviru povečanega obsega dela iz prejšnjega odstavka, določi obseg dodatne tedenske učne obveznosti oziroma obseg dodatne tedenske pedagoške obveznosti le v obsegu in pod pogoji, določenimi z zakoni, ki urejajo organizacijo in financiranje vzgoje in izobraževanja oziroma visokošolskega izobraževanja.
+(3) Določbe prvega in drugega odstavka 21. člena ter prvega in drugega odstavka 22. člena tega zakona se ne uporabljajo za določanje obsega sredstev in obsega dela plače za izplačilo delovne uspešnosti v skladu s prvim in drugim odstavkom tega člena.
+(4) Vlada z uredbo določi pogoje in obseg dela plače za plačilo delovne uspešnosti iz prvega odstavka tega člena, razen za javne uslužbence v drugih državnih organih, kot jih določa Zakon o javnih uslužbencih, za katere se pogoje in obseg dela plače za plačilo delovne uspešnosti določi z zakonom oziroma s splošnim aktom, izdanim na podlagi zakona.
+(5) Del plače za delovno uspešnost za povečan obseg dela iz drugega odstavka tega člena se obračuna enako kot redna učna oziroma pedagoška obveznost.".
