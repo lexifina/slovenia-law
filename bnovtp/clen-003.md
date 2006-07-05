@@ -1,0 +1,5 @@
+# 3. člen VZAJEMNO VAROVANJE TAJNOSTI
+
+V skladu z notranjimi zakoni, podzakonskimi predpisi in prakso sta pogodbenici dolžni izvajati ustrezne ukrepe za varovanje tajnih podatkov, ki se pošiljajo, prejemajo, izdelujejo ali oblikujejo na podlagi katerega koli sporazuma med pogodbenicama. Pogodbenici za vse poslane, prejete, izdelane ali oblikovane tajne podatke zagotovita enako stopnjo tajnosti kot za svoje tajne podatke enake stopnje tajnosti, opredeljene v 2. in 5. členu tega sporazuma. Dostop do tajnih podatkov ter krajev in objektov, kjer potekajo dejavnosti tajne narave ali se hranijo tajni podatki, se omeji na osebe z dovoljenjem za dostop do tajnih podatkov, opredeljenim v 2. členu, ter na osebe s potrebo po seznanitvi zaradi opravljanja funkcije ali delovnih nalog, kot je opredeljeno v 2. členu.
+
+Vsaka pogodbenica s skupnimi obiski uradnih predstavnikov v obeh državah nadzira spoštovanje zakonov, podzakonskih predpisov in prakse na področju varovanja tajnih podatkov v organih in prostorih v njeni pristojnosti, ki imajo, razvijajo, izdelujejo in/ali uporabljajo tajne podatke druge pogodbenice.
