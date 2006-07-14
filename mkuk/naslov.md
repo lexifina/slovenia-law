@@ -1,0 +1,31 @@
+U K A Z
+
+O RAZGLASITVI ZAKONA O RATIFIKACIJI MEDNARODNE KONVENCIJE O UREDITVI KITOLOVA IN PROTOKOLA K MEDNARODNI KONVENCIJI O UREDITVI KITOLOVA, PODPISANI V WASHINGTONU, Z DATUMOM 2. DECEMBER 1946 (MKUK)
+
+Z A K O N
+
+O RATIFIKACIJI MEDNARODNE KONVENCIJE O UREDITVI KITOLOVA
+
+IN PROTOKOLA K MEDNARODNI KONVENCIJI O UREDITVI KITOLOVA, PODPISANI V WASHINGTONU, Z DATUMOM 2. DECEMBER 1946 (MKUK)
+
+I N T E R N A T I O N A L C O N V E N T I O N
+
+for the Regulation of Whaling
+
+P R O T O C O L
+
+to the International Convention
+
+for the Regulation of Whaling, Signed at Washington Under Date of December 2, 1946
+
+M E D N A R O D N A K O N V E N C I J A
+
+o ureditvi kitolova
+
+P R O T O K O L
+
+k Mednarodni konvenciji
+
+o ureditvi kitolova, podpisani v Washingtonu,
+
+z datumom 2. december 1946
