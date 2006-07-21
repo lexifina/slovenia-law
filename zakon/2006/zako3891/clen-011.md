@@ -1,0 +1,3 @@
+# 11. člen (uporaba nevarnih predmetov)
+(1) Kdor uporablja acetilen (karbid) ali druge plinske zmesi za pokanje, in s tem povzroči vznemirjenje ali občutek ogroženosti, se kaznuje z globo 25.000 tolarjev. Pokanje z naštetimi sredstvi se izjemoma dovoljuje v času določenih praznikov, vendar se morajo upoštevati varnostna navodila, ki jih predvideva zakon o eksplozivih.
+(2) Kdor na javnem kraju nosi, razkazuje ali uporablja dekorativno orožje, imitacije orožja, orožje, ki je namenjeno za alarm, signaliziranje ali druge predmete, ki so po videzu podobni orožju, pa se v skladu z zakonom, ki ureja razvrstitev in kategorizacijo orožja ne štejejo za orožje, in s tem povzroči vznemirjenje ali občutek ogroženosti, se kaznuje z globo 50.000 tolarjev.
