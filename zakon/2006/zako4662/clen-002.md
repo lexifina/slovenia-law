@@ -1,0 +1,4 @@
+# 2. člen
+3. člen se spremeni tako, da se glasi:
+"Organizacije, ki opravljajo dejavnost posredovanja začasnih in občasnih del za študente, zbrana sredstva iz prejšnjega člena nakazujejo v proračunski sklad v pristojnosti ministrstva, pristojnega za visoko šolstvo, za sofinanciranje gradnje in prenove študentskih bivalnih zmogljivosti v Republiki Sloveniji ter sofinanciranje razširitve in posodobitve prostorskih pogojev in tehnološke opremljenosti univerz, ki jih je ustanovila Republika Slovenija, v skladu s programom investicij, ki ga sprejme vlada. Proračunski sklad je ustanovljen do odplačila posojil, najetih za gradnjo in prenovo študentskih bivalnih zmogljivosti ali razširitev in posodobitev prostorskih pogojev in tehnološke opremljenosti univerz, ki jih je ustanovila Republika Slovenija. Vir financiranja proračunskega sklada je dodatna koncesijska dajatev po tem zakonu.
+Zbiranje in odvajanje sredstev iz prejšnjega odstavka nadzira davčna inšpekcija.".
