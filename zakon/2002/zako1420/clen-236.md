@@ -1,2 +1,0 @@
-# 236. člen (postopnost zviševanja starosti)
-Ne glede na določbo 201. člena tega zakona, uživajo posebno varstvo delavke, ki ob uveljavitvi tega zakona izpolnjujejo pogoj starosti 51 let. V obdobju do 1. 1. 2014 do polne uveljavitve enake minimalne starosti za vse delavce, kot enega izmed pogojev za pridobitev pravice do starostne pokojnine, se starost za delavke zvišuje vsako leto za štiri mesece.

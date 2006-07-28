@@ -1,3 +1,0 @@
-# 237. člen (postopno uveljavljanje časovne omejitve sklepanja pogodb o zaposlitvi za določen čas)
-(1) Dveletna časovna omejitev sklepanja pogodb o zaposlitvi za določen čas po določbi drugega odstavka 53. člena tega zakona se začne uporabljati 1. 1. 2007 oziroma za manjše delodajalce 1. 1. 2010.
-(2) V prehodnem obdobju, od uveljavitve tega zakona do roka iz prejšnjega odstavka, delodajalec ne sme skleniti ene ali več zaporednih pogodb o zaposlitvi za določen čas z istim delavcem in za isto delo, katerih neprekinjen čas trajanja bi bil daljši kot tri leta, razen v primerih, ki jih določa zakon ter v primerih iz četrte, pete in dvanajste alinee prvega odstavka 52. člena tega zakona.

@@ -1,2 +1,0 @@
-# 244. člen (zakon o prisilni poravnavi, stečaju in likvidaciji)
-Z dnem uveljavitve tega zakona prenehajo veljati določbe 8., 47., 51., 106. člena, osmi odstavek 147. člena in sedmi odstavek 172. člena zakona o prisilni poravnavi, stečaju in likvidaciji (Uradni list RS, št. 67/93, 39/97 in 52/99), v kolikor urejajo prenehanje delovnega razmerja delavcev v stečajnem postopku ali zaradi potrjene prisilne poravnave in prednostno pravico do ponovne zaposlitve.
