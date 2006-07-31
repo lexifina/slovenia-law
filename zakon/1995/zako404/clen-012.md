@@ -5,4 +5,4 @@ Vpis je ničen, če se ugotovi:
 - da je prijava vložena po preteku roka iz petega odstavka 7. člena ali iz 8. člena, ali
 - da slikovni vzorci ne omogočajo identifikacije topografije.
 Vsaka pravna ali fizična oseba lahko vloži tožbo pri pristojnem sodišču za ugotovitev ničnosti iz razlogov navedenih v prejšnjem odstavku.
-Pravnomočna sodba se objavi v uradnem glasilu urada.
+Pravnomočna sodba se objavi v uradnem glasilu Urada.
