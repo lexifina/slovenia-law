@@ -1,5 +1,5 @@
 # 36. člen
 
-Volilna komisija ima tajnika, ki ga imenuje izmed delavcev državne uprave.
+Volilna komisija ima tajnika, ki ima lahko največ dva namestnika. Tajnika in namestnika volilna komisija imenuje izmed uradnikov.
 
-Tajnik republiške volilne komisije je vodja službe te komisije.
+Tajnik državne volilne komisije je vodja službe te komisije. (črtan)

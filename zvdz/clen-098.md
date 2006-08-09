@@ -1,3 +1,3 @@
 # 98. člen
 
-Izvoljenemu poslancu izda republiška volilna komisija potrdilo o izvolitvi.
+Izvoljenemu poslancu izda državna volilna komisija potrdilo o izvolitvi.

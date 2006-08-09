@@ -4,6 +4,6 @@ Za vsako volišče se določi poseben prostor. Prostor, kjer se glasuje, mora bi
 
 Za volišče se šteje zgradba, v kateri se glasuje, dvorišče te zgradbe in določen prostor okrog zgradbe.
 
-Volilne komisije pripravijo pravočasno za vsa volišča, ki so jih določile, potrebno število glasovalnih skrinjic, tiskanih glasovnic in drug volilni material.
+Volilne komisije pripravijo pravočasno za vsa volišča, ki so jih določile, potrebno število prosojnih glasovalnih skrinjic, tiskane glasovnice in drugo volilno gradivo.
 
 Na volišču je treba razobesiti razglase s seznami list kandidatov, o katerih se glasuje.

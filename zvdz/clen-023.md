@@ -2,7 +2,7 @@
 
 Volilne komisije so:
 
-1. republiška volilna komisija,
+1. državna volilna komisija,
 
 2. volilne komisije volilnih enot,
 

@@ -4,4 +4,4 @@ Lista kandidatov se vloži pri volilni komisiji volilne enote. Predlog liste kan
 
 Predlogu liste je treba priložiti tudi razporeditev kandidatov z liste kandidatov po volilnih okrajih.
 
-Listi kandidatov, ki jo vloži politična stranka, mora biti priložen tudi zapisnik o določitvi liste kandidatov in pravila politične stranke.
+Listi kandidatov, ki jo vloži politična stranka, mora biti priložen tudi zapisnik o določitvi liste kandidatov in pravila politične stranke, ki se nanašajo na določanje kandidatov na volitvah v državni zbor.

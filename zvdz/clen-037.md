@@ -1,6 +1,6 @@
 # 37. člen
 
-Republiška volilna komisija:
+Državna volilna komisija:
 
 1. skrbi za zakonitost volitev in enotno uporabo določb tega zakona, ki se nanašajo na volilne postopke,
 
@@ -14,8 +14,16 @@ Republiška volilna komisija:
 
 6. izdaja potrdila o izvolitvi,
 
-7. opravlja druge naloge, ki jih določa zakon.
+7. ugotavlja, katere liste kandidatov so na ravni države prejele štiri ali več odstotkov glasov, oddanih za vse liste,
 
-Republiška volilna komisija določi, katere volilne spise ji mora poslati volilna komisija volilne enote oziroma okrajna volilna komisija, v kakšnem roku in na kakšen način.
+8. skrbi za izvedbo glasovanja na diplomatsko-konzularnih predstavništvih Republike Slovenije,
 
-Republiška volilna komisija lahko prenese na volilno komisijo posebne volilne enote za volitve poslancev narodnih skupnosti posamična opravila iz svoje pristojnosti.
+9. organizira izobraževanje za člane drugih volilnih organov,
+
+10. opravlja druge naloge, ki jih določa zakon.
+
+Državna volilna komisija določi, katere volilne spise ji mora poslati volilna komisija volilne enote oziroma okrajna volilna komisija, v kakšnem roku in na kakšen način.
+
+Državna volilna komisija lahko prenese na volilno komisijo posebne volilne enote za volitve poslancev narodnih skupnosti posamična opravila iz svoje pristojnosti.
+
+Strokovne, administrativne in tehnične naloge za državno volilno komisijo opravlja služba državne volilne komisije. Organizacijo in delo te službe uredi državna volilna komisija z aktom. Službo državne volilne komisije vodi direktor, ki opravlja tudi naloge tajnika te komisije. Direktorja, na podlagi javnega natečaja za mandatno obdobje petih let, imenuje državna volilna komisija. Za postopek izbire, imenovanja in razrešitve se smiselno uporabljajo določbe zakona, ki ureja javne uslužbence, in se nanašajo na generalne direktorje direktoratov, razen določb, ki omogočajo razrešitev iz nekrivdnih razlogov.

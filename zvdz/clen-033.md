@@ -1,6 +1,6 @@
 # 33. člen
 
-Volilne komisije volilnih enot imenuje republiška volilna komisija.
+Volilne komisije volilnih enot imenuje državna volilna komisija.
 
 Volilno komisijo volilne enote sestavljajo predsednik in trije člani ter njihovi namestniki.
 
