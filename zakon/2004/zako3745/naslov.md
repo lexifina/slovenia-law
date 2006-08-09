@@ -1,2 +1,2 @@
 ZAKON
-O SPODBUJANJU TUJIH NEPOSREDNIH INVESTICIJ IN INTERNACIONALIZACIJE PODJETIJ (ZSTNIIP)
+o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij (ZSTNIIP)

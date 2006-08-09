@@ -1,4 +1,4 @@
-## VI. PREHODNE IN KONČNE DOLOČBE
+## "VI. PREHODNE IN KONČNE DOLOČBE
 # 20. člen (ustanovitev agencije)
 (1) Vlada najkasneje eno leto po uveljavitvi tega zakona sprejme akt o ustanovitvi agencije in z njim uskladi Uredbo o organih v sestavi ministrstev (Uradni list RS, št. 58/03).
 (2) Do ustanovitve agencije opravlja dejavnosti spodbujanja tujih neposrednih investicij in spodbujanja internacionalizacije podjetij Agencija Republike Slovenije za gospodarsko promocijo Slovenije in tuje investicije kot organ v sestavi ministrstva, ki se ukine z dnem vpisa agencije v sodni register.
