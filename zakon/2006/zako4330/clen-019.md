@@ -1,0 +1,3 @@
+# 19. člen
+Četrti odstavek 71. člena se spremeni tako, da se glasi:
+"Nato predsednik ali član volilnega odbora obkroži zaporedno številko pred imenom volivca v volilnem imeniku, volivec pa se podpiše v za to namenjen prostor v volilnem imeniku. Predsednik ali član volilnega odbora preveri, ali se je volivec podpisal na pravo mesto in mu izroči glasovnico. Volivcu se izroči glasovnica tudi, če se ne more ali noče podpisati. Če se ne more podpisati zaradi telesne hibe ali drugega razloga ali če se noče podpisati, volilni odbor to posebej označi v volilnem imeniku. Predsednik ali član volilnega odbora volivcu na njegovo zahtevo da pojasnilo o tehničnih vidikih glasovanja.".

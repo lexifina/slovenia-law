@@ -1,0 +1,3 @@
+# 6. člen
+V 34. členu se doda peti odstavek, ki se glasi:
+"Pri imenovanju članov okrajnih volilnih komisij in njihovih namestnikov po prejšnjem odstavku se najprej upoštevajo predlogi političnih strank, s katerih list kandidatov so bili na zadnjih volitvah v državni zbor izvoljeni kandidati, in sicer po vrstnem redu glede na število izvoljenih kandidatov pri čemer v primeru enakega števila odloči žreb, nato pa predlogi drugih političnih strank in lokalnih skupnosti, tako da je zagotovljena politično pluralna sestava volilnih komisij. Če predlogov ni ali jih je premalo, se za manjkajoče člane in njihove namestnike določijo uradniki, zaposleni v organih državne uprave ali upravi lokalne skupnosti.".
