@@ -1,6 +1,7 @@
 ## 11.0. NADZOR
 # 166. člen (opravljanje nadzora)
-(1) Inšpekcijsko nadzorstvo nad izvajanjem določb tega zakona in drugih predpisov, ki urejajo letalstvo, opravlja prometni inšpektorat.
-(2) Uprava izvaja upravno-strokovni nadzor v okviru svojih pristojnosti po določbah tega zakona.
-(3) Inšpekcijsko nadzorstvo in upravno-strokovni nadzor morata biti usklajena. Način sodelovanja prometnega inšpektorata in Uprave v zvezi z izvajanjem inšpekcijskega nadzorstva in upravno-strokovnega nadzora zaradi zagotovitve njune usklajenosti in učinkovitosti predpiše minister, pristojen za promet, z navodilom.
-(4) Prometni inšpektorat pripravlja letna poročila o primerih ogrožanja varnosti zračnega prometa, o predlaganih uvedbah postopka o prekršku, o zaključenih postopkih o prekršku in izrečenih kaznih v teh postopkih.
+(1) Inšpekcijski nadzor in upravno-strokovni nadzor nad izvajanjem letalskih predpisov, ki veljajo v Republiki Sloveniji, izvaja ministrstvo, pristojno za promet, razen inšpekcijskega nadzora, ki ga organi Evropske unije izvajajo neposredno.
+(2) Upravno-strokovni nadzor opravljajo pooblaščene uradne osebe ministrstva, pristojnega za promet, oziroma drugi pooblaščeni izvajalci, v skladu z letalskimi predpisi, ki veljajo v Republiki Sloveniji.
+(3) Inšpekcijski nadzor opravljajo letalski inšpektorji oziroma inšpektorji. O prekrških za kršitve tega zakona in na njegovi podlagi izdanih predpisov ter drugih letalskih predpisov, ki veljajo v Republiki Sloveniji, odločajo letalski inšpektorji oziroma inšpektorji v skladu z zakonom, ki ureja prekrške.
+(4) Inšpekcijski nadzor po tem zakonu ne zajema nalog nadzora, ki se izvajajo v okviru upravno-strokovnega nadzora. Izvaja se ločeno od upravno-strokovnega nadzora.
+(5) Pooblastilo za opravljanje nadzora iz drugega in tretjega odstavka tega člena izkazujejo izvajalci s službeno izkaznico, ki je lahko v obliki priponke ali značke. Minister, pristojen za promet, predpiše obrazec službene izkaznice ter postopek za njeno izdajo.

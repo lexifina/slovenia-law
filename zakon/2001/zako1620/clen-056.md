@@ -1,6 +1,6 @@
 # 56. člen (izvajalci usposabljanja letalskega in drugega strokovnega osebja)
 (1) Strokovno usposabljanje letalskega in drugega strokovnega osebja opravljajo izvajalci (v nadaljnjem besedilu: letalske šole), ki izpolnjujejo predpisane kadrovske, materialne in druge pogoje.
-(2) Uprava izda dovoljenje za delo letalski šoli, ki izpolnjuje zahtevane kadrovske, materialne in druge pogoje, predpisane za določeno vrsto oziroma namen usposabljanja.
+(2) Ministrstvo, pristojno za promet izda dovoljenje za delo letalski šoli, ki izpolnjuje zahtevane kadrovske, materialne in druge pogoje, predpisane za določeno vrsto oziroma namen usposabljanja.
 (3) V dovoljenju iz prejšnjega odstavka se posebej navedejo:
 - vrste oziroma programi usposabljanja, za katere šola izpolnjuje pogoje,
 - obdobje veljavnosti dovoljenja, ki je praviloma dvanajst mesecev in

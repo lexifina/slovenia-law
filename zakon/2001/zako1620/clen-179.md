@@ -1,3 +1,4 @@
-# 179. člen (nadzor varovanja in nadzor po drugih predpisih)
-(1) Nadzor nad izvajanjem določb tega zakona in na njegovi podlagi izdanih predpisov ter drugih pravnih aktov, ki se nanašajo na varovanje in postopke v sili, izvajata ministrstvo, pristojno za promet in ministrstvo, pristojno za notranje zadeve, v skladu s predpisi iz 125. člena tega zakona.
-(2) Določbe tega zakona o nadzoru v ničemer ne omejujejo pristojnosti organov po drugih predpisih.
+# 179. člen (drugi organi nadzora)
+(1) Ministrstvo, pristojno za promet, zagotovi potrebne pogoje za izvajanje nadzora, ki ga v skladu s predpisi, ki veljajo v Republiki Sloveniji, opravljajo pristojni organi Evropske unije.
+(2) Minister, pristojen za promet, lahko dovoli tudi posebne oblike nadzora, ki ga v skladu z uveljavljeno mednarodno prakso izvajajo ICAO, ECAC in EUROCONTROL ter o tem sklene potrebne pisne dogovore.
+(3) Osebe, pri katerih se izvaja posebna oblika nadzora iz prejšnjega odstavka morajo omogočiti nemoteno izvajanje nadzora in imajo v zvezi s tem nadzorom enake obveznosti, odgovornosti in pravice, kot v primeru nadzora, ki ga izvajajo ministrstvo, pristojno za promet, in pristojni organi Evropske unije.

@@ -16,7 +16,7 @@ b) pravicami ali pogodbami, ki zagotavljajo odločilen vpliv na sestavo, glasova
 12. izvajalec storitev zemeljske oskrbe je vsaka pravna ali fizična oseba, ki tretjim osebam ponuja eno kategorijo ali več kategorij storitev zemeljske oskrbe;
 13. JAA - Združeni letalski organi;
 14. JAR - Skupni letalski predpisi, ki jih izdajajo Združeni letalski organi;
-15. javni del letališča je tisto območje letališča in objektov, do katerih imajo osebe, ki ne potujejo, prost dostop;
+15. (črtana);
 16. javno letališče je letališče, ki je namenjeno in odprto za zračni promet in javni zračni prevoz;
 17. javni prevoz v zračnem prometu je zračni prevoz, ki je pod pogoji, ki jih določa zakon in splošni prevozni pogoji, dostopen vsakomur;
 18. kontroliran zračni prostor je del zračnega prostora, določenih razsežnosti, v katerem je zagotovljena služba za vodenje zračnega prometa v obsegu, ki je opredeljen s klasifikacijo zračnega prostora;
@@ -36,7 +36,7 @@ b) pravicami ali pogodbami, ki zagotavljajo odločilen vpliv na sestavo, glasova
 32. mednarodni zračni promet je promet, pri katerem je predviden odlet v zračni prostor druge države;
 33. mešano letališče je vojaško letališče, na katerem je dovoljen tudi civilni zračni promet;
 34. načrt leta so določene informacije, posredovane enotam služb zračnega prometa, ki se nanašajo na nameravani let zrakoplova ali na njegov del;
-35. nadzorovano območje letališča je območje za gibanje na letališču, bližnje zemljišče in stavbe ali njihovi deli, do katerih je dostop nadzorovan ali omejen;
+35. (črtana)
 36. najava leta je prošnja za dovolitev leta zrakoplova ali za prelet slovenskega ozemlja;
 37. nekontroliran zračni prostor je zračni prostor, ki se nahaja zunaj letaliških con in sega od površine zemlje do višine, kjer se začenja kontroliran zračni prostor;
 38. nesreča je dogodek, povezan z obratovanjem zrakoplova, ki se zgodi od tedaj, ko se ena ali več oseb oziroma stvari vkrca v zrakoplov, s katerim se namerava opraviti let, do tedaj, ko se opravi izkrcanje in zaradi katerega je:
@@ -85,7 +85,7 @@ c) opravlja se med dvema ali več kraji, tako da gre:
 66. ultralahke in druge letalne naprave so letalne naprave in zrakoplovi, ki niso zajeti s standardi in priporočili ICAO oziroma s Skupnimi letalskimi predpisi JAA;
 67. uporabnik letališča je vsaka fizična ali pravna oseba, ki je odgovorna za prevoz potnikov in drugih oseb, pošte in/ali tovora po zraku od ali do zadevnega letališča;
 68. uporabnik zrakoplova je pravna ali fizična oseba, ki ni lastnik zrakoplova, temveč ga uporablja na podlagi zakupne pogodbe ali na kakšni drugi pravni podlagi;
-69. varnostno čisto območje letališča je tisti del nadzorovanega območja letališča, do katerega je dostop dovoljen samo pod določenimi pogoji;
+69. (črtana)
 70. varovanje civilnega letalstva pred dejanji nezakonitega vmešavanja (v nadaljnjem besedilu: varovanje) je kombinacija ukrepov, osebja in materialnih virov za varovanje civilnega zračnega prometa pred dejanji nezakonitega vmešavanja;
 71. vodja zrakoplova je pilot, ki praviloma upravlja zrakoplov in je odgovoren za varno izvršitev leta;
 72. vplivna območja letališč so območje izključne rabe letališča, območje omejene rabe in območje nadzorovane rabe;
@@ -94,4 +94,12 @@ c) opravlja se med dvema ali več kraji, tako da gre:
 75. zračna pot je kontroliran zračni prostor ali njegov del v obliki tridimenzionalnega koridorja, opremljen z radionavigacijskimi napravami;
 76. zračni prevoz je prevoz potnikov, pošte in/ali blaga za plačilo in/ali najem;
 77. zračni promet je gibanje zrakoplovov po zraku (let) in po letališčih ter vzletiščih;
-78. zrakoplov je vsaka naprava, ki se lahko obdrži v atmosferi zaradi reakcije zraka, razen reakcije zraka na zemeljsko površino.
+78. zrakoplov je vsaka naprava, ki se lahko obdrži v atmosferi zaradi reakcije zraka, razen reakcije zraka na zemeljsko površino;
+79. drugo varnostno pomembno območje letališča je območje, ki ni javni del letališča, varnostno območje omejenega gibanja ali kritični del varnostnega območja omejenega gibanja, vendar ga je zaradi celovitosti ukrepov varovanja treba določiti;
+80. letalski inšpektor oziroma inšpektor pomeni pooblaščeno uradno osebo ministrstva, pristojnega za promet, ki je pristojna za inšpekcijski nadzor v skladu z letalskimi predpisi, ki veljajo v Republiki Sloveniji.
+(2) Posamezni izrazi, ki so uporabljeni v 84.a, 84.b in 189.a členu tega zakona, s katerimi se v pravni red Republike Slovenije prenaša Direktiva 2004/82/ES, imajo naslednji pomen:
+1. "prevoznik" je vsaka fizična ali pravna oseba, katere zaposlitev je izvajanje prevoza potnikov po zraku;
+2. "zunanje meje" so zunanje meje držav članic s tretjimi državami;
+3. "mejna kontrola" je kontrola, ki se izvaja na meji in je povezana izključno z namenom prehoda te meje, ne glede na ostale vidike;
+4. "mejni prehod" je vsak prehod, ki ga pristojni organi določijo za prehod zunanjih meja;
+5. "osebni podatki", "obdelava osebnih podatkov" in "zbirke osebnih podatkov" imajo enak pomen, kot je določen z zakonom, ki ureja varstvo osebnih podatkov.

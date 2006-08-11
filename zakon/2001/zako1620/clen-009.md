@@ -1,5 +1,5 @@
 # 9. člen (zagotavljanje kvalitete)
-(1) Kdor opravlja dejavnosti v letalstvu, mora organizirati sistem zagotavljanja kvalitete, vključno z načini izvajanja ter odgovornimi osebami, kar opredeli nosilec dejavnosti v priročniku o kvaliteti, ki ga odobri Uprava.
+(1) Kdor opravlja dejavnosti v letalstvu, mora organizirati sistem zagotavljanja kvalitete, vključno z načini izvajanja ter odgovornimi osebami, kar opredeli nosilec dejavnosti v priročniku o kvaliteti, ki ga odobri ministrstvo, pristojno za promet.
 (2) Sistem zagotavljanja kvalitete iz prejšnjega odstavka zajema zlasti zahteve glede kvalitete na področjih:
 - uporabe in vzdrževanja zrakoplovov,
 - načrtovanja in izdelave zrakoplovov,

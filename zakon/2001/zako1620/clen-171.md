@@ -6,5 +6,5 @@
 4. izreče začasno prepoved opravljanja dela ali dejavnosti, če bi bilo nadaljnje opravljanje dela ali dejavnosti očitno nevarno za zračni promet,
 5. zahteva izredno preveritev strokovne ali zdravstvene sposobnosti letalskega osebja in drugega strokovnega osebja,
 6. odredi preizkus s sredstvi ali napravami za merjenje alkohola oziroma napoti na strokovni pregled,
-7. izda plačilni nalog za denarno kazen na kraju prekrška, v primerih, ki jih določa ta zakon ali uredba vlade, izdana na njegovi podlagi.
-(2) Odvzete listine mora inšpektor takoj poslati Upravi.
+7. izda plačilni nalog za globo na kraju prekrška, v primerih, ki jih določa ta zakon ali uredba vlade, izdana na njegovi podlagi.
+(2) Odvzete listine mora inšpektor takoj poslati ministrstvu, pristojnemu za promet.

@@ -1,6 +1,6 @@
 ## 12.0. KAZENSKE DOLOČBE
 # 180. člen (letalski prekrški)
-(1) Z denarno kaznijo od 1,000.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna oseba, ki je lastnik ali uporabnik zrakoplova, ali druga pravna oseba, če:
+(1) Z globo od 1,000.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna oseba, ki je lastnik ali uporabnik zrakoplova, ali druga pravna oseba, če:
 1. krši slovenski zračni prostor (prvi in drugi odstavek 10. člena),
 2. ne upošteva določb tega zakona o omejitvi oziroma prepovedi uporabe zračnega prostora (11. člen),
 3. izvaja letenje z zrakoplovom z nadzvočno hitrostjo (12. člen),
@@ -16,6 +16,6 @@
 13. ravna v nasprotju s prepovedjo prevoza nevarnih snovi v zračnem prometu (150. člen),
 14. ne upošteva prepovedi vzleta zrakoplova v primeru upravičene domneve, da je zrakoplov neploven ali da nima ustrezne posadke ali da drugače ne izpolnjuje zahtev in pogojev, ki urejajo letenje po tem zakonu (151. člen),
 15. ne upošteva ukrepa preprečitve odhoda zrakoplova do plačila stroškov ali pologa varščine za te stroške ali ne postopa v skladu s predpisom vlade glede postopka za izvedbo preprečitve odhoda (152. člen).
-(2) Z denarno kaznijo od 100.000 tolarjev do 500.000 tolarjev se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe.
-(3) Z denarno kaznijo od 1,000.000 tolarjev do 5,000.000 tolarjev se kaznuje samostojni podjetnik posameznik, ki je lastnik ali uporabnik zrakoplova, ali drug samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
-(4) Z denarno kaznijo od 80.000 tolarjev do 150.000 tolarjev se kaznuje posameznik - fizična oseba, ki stori prekršek iz prvega odstavka tega člena.
+(2) Z globo od 100.000 tolarjev do 500.000 tolarjev se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe.
+(3) Z globo od 1,000.000 tolarjev do 5,000.000 tolarjev se kaznuje samostojni podjetnik posameznik, ki je lastnik ali uporabnik zrakoplova, ali drug samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
+(4) Z globo od 80.000 tolarjev do 150.000 tolarjev se kaznuje posameznik - fizična oseba, ki stori prekršek iz prvega odstavka tega člena.

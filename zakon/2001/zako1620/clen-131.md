@@ -1,3 +1,4 @@
-# 131. člen (varnostni program mednarodnega letališča)
-(1) Celovit varnostni program mednarodnega letališča odobri Uprava na predlog lastnika ali upravljalca letališča.
-(2) Upravljalec letališča mora varnostna navodila in prepovedi za potnike in druge osebe objaviti na primeren način.
+# 131. člen (varnostni program javnega letališča in izvajalca navigacijskih služb zračnega prometa)
+(1) Varnostni program javnega letališča odobri ministrstvo, pristojno za promet, na predlog upravljalca letališča, ki ga predhodno uskladi z obratovalci na letališču, če je na letališču več obratovalcev letališča.
+(2) Varnostni program izvajalca navigacijskih služb zračnega prometa odobri ministrstvo, pristojno za promet.
+(3) Obratovalec na letališču in izvajalec navigacijskih služb zračnega prometa morata primerno objaviti varnostna navodila in prepovedi.

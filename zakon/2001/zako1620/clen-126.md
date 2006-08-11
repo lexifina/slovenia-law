@@ -1,2 +1,3 @@
-# 126. člen (orožje in nevarni predmeti ter posebna pooblastila na letališčih)
-Na javnem letališču smejo imeti oziroma nositi orožje in nevarne predmete policisti. Na usklajen predlog ministra, pristojnega za promet, in ministra, pristojnega za notranje zadeve, o izjemah odloča vlada, ki tudi predpiše ustrezne postopke v zvezi z nošenjem orožja in nevarnih predmetov na letališču in njihovim prevozom v zračnem prometu.
+# 126. člen (orožje in nevarni predmeti ter posebnosti)
+(1) Na javnem letališču smejo imeti in nositi orožje in nevarne predmete le policisti in pooblaščene uradne osebe carinske službe. Pooblaščene osebe Slovenske varnostno-obveščevalne agencije in obveščevalno-varnostne službe ministrstva, pristojnega za obrambo, pa smejo imeti in nositi le kratkocevno orožje praviloma tako, da ni vidno.
+(2) Na predlog ministra, pristojnega za promet, vlada določi izjeme in posebnosti nošenja in uporabe orožja ter prevoza orožja in nevarnih predmetov na javnem letališču in v zračnem prometu, če to dopuščajo drugi predpisi in je to potrebno zaradi zagotavljanja varnosti. O posamezni izjemi vlada odloči s sklepom.
