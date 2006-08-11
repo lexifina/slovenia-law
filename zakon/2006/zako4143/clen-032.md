@@ -1,0 +1,11 @@
+# 32. člen
+V prvem odstavku 83. člena se v 4. točki druga alinea spremeni tako, da se glasi:
+"- če, na kakšen način in v katerem časovnem trenutku je zavarovalno pogodbo mogoče odpovedati oziroma sicer v celoti oziroma delno razvezati, in kakšne so obveznosti zavarovalnice v takšnih primerih. V primeru življenjskih zavarovanj rok za odpoved pogodbe ne sme biti krajši od štirinajstih in ne daljši od tridesetih dni od dneva sklenitve zavarovalne pogodbe;".
+Doda se nova 7. točka, ki se glasi:
+"7. v primeru življenjskih zavarovanj, vezanih na enote investicijskih skladov oziroma enote kritnega sklada, pri katerih zavarovanec prevzema naložbeno tveganje (21. točka drugega odstavka 2. člena tega zakona), tudi o znesku premije, ki je osnova za določitev obveznosti zavarovalnice do zavarovanca, oziroma višini vseh stroškov, ki so upoštevani v plačani premiji;".
+Dosedanja 7. točka postane 8. točka.
+V tretjem odstavku se v 2. točki beseda "zavarovanec" nadomesti z besedo "zavarovalec".
+Dodajo se šesti, sedmi in osmi odstavek, ki se glasijo:
+"(6) Zavarovalnice vse ponudnike oziroma potencialne zavarovance, ki želijo dostopiti do zavarovalnih storitev, obravnavajo enako, vendar v postopku selekcije in ocene nevarnosti ter pri določanju premij in pri izplačevanju zavarovalnin lahko upoštevajo merila zavarovalne stroke oziroma le naslednje zavarovančeve osebne okoliščine in značilnosti: starost, zdravstveno stanje, invalidnost in poklic ter druge osebne okoliščine, ki lahko utemeljeno vplivajo na višino prevzete nevarnosti, razen spola, materinstva in nosečnosti.
+(7) Ne glede na določbe prejšnjega odstavka lahko zavarovalnice v postopku selekcije in ocene nevarnosti pri sklepanju zavarovanj ter pri določanju premij in pri izplačevanju zavarovalnin v zvezi z zavarovanji iz zavarovalne skupine življenjskih zavarovanj in zavarovalne vrste nezgodno zavarovanje ter zdravstveno zavarovanje, upoštevajo osebno okoliščino spola, kadar jo na podlagi ustreznih in točnih aktuarskih in statističnih podatkov uporabljajo kot odločilni faktor pri oceni tveganja.
+(8) Ne glede na določbe prejšnjega odstavka se dopolnilno zdravstveno zavarovanje izvaja v skladu z določbami zakona, ki ureja zdravstveno varstvo in zdravstveno zavarovanje.".

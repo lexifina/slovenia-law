@@ -1,0 +1,3 @@
+# 118. člen
+(1) Zavarovalnica oblikuje izravnalne rezervacije samo v zavarovalni vrsti kreditno zavarovanje iz 14. točke drugega odstavka 2. člena tega zakona.
+(2) Način oblikovanja izravnalnih rezervacij iz prvega odstavka tega člena predpiše Agencija za zavarovalni nadzor v skladu s Prilogo D k direktivi Sveta 87/343/ES z dne 22. junija 1987 o spremembi prve direktive 73/239/EGS o usklajevanju zakonov in drugih predpisov o začetku opravljanja in opravljanju dejavnosti neposrednega zavarovanja razen življenjskega zavarovanje, zlasti glede kreditnega in kavcijskega zavarovanja (UL L št. 185 z dne 4. julija 1987, str. 72).".
