@@ -1,0 +1,5 @@
+# 23. člen
+V prvem, drugem in četrtem odstavku 121. člena tega zakona se beseda "Uprava" v ustreznem sklonu nadomesti z besedilom "ministrstvo, pristojno za promet" v ustreznem sklonu.
+Besedilo šestega odstavka se nadomesti z novima šestim in sedmim odstavkom, ki se glasita:
+"(6) Ne glede na določbe petega odstavka 156. člena tega zakona lahko nastopa kot investitor infrastrukturnih objektov, naprav in sistemov navigacijskih služb zračnega prometa iz 118. člena tega zakona, za katere se izdaja obratovalno dovoljenje po tem zakonu, tudi oseba javnega prava, ki zagotavlja navigacijske službe zračnega prometa v skladu z uredbami (ES) o enotnem evropskem nebu in zakonom, ki ureja zagotavljanje navigacijskih služb zračnega prometa.
+(7) Infrastrukturni objekti, naprave in sistemi navigacijskih služb zračnega prometa iz prejšnjega odstavka so lahko, ne glede na peti odstavek 156. člena tega zakona, v lasti te osebe javnega prava in v smislu določbe tretjega odstavka 156. člena tega zakona štejejo za objekte javne infrastrukture.".

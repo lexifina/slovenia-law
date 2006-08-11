@@ -1,0 +1,2 @@
+# 60. člen
+Ne glede na 217. člen Zakona o letalstvu (Uradni list RS, št. 18/01, 110/02 - ZGO-1 in 49/06 - ZMetD) morajo obratovalec javnega letališča, ki zagotavlja in obratuje manevrske površine in ploščadi, potniški ali tovorni terminal letališča in letalski prevozniki ali operatorji iz 26. člena tega zakona zagotoviti izpolnjevanje pogojev in zahtev iz navedenega člena v enem mesecu po uveljavitvi tega zakona.
