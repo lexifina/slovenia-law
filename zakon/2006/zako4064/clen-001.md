@@ -1,0 +1,7 @@
+# 1. člen
+V Zakonu o tujcih (Uradni list RS, št. 112/05 - uradno prečiščeno besedilo) se v drugem odstavku 1. člena za sedmo alineo dodajo nove osma, deveta in deseta alinea, ki se glasijo:
+"- Direktiva Sveta 2004/81/ES z dne 29. aprila 2004 o dovoljenju za prebivanje za državljane tretjih držav, ki so žrtve trgovine z ljudmi, ali so jim pomagali pri nezakoniti preselitvi in ki sodelujejo s pristojnimi organi (UL L št. 261, 6. 8. 2004, str. 19);
+- Direktiva Sveta 2004/114/ES z dne 13. decembra 2004 o pogojih za sprejem državljanov tretjih držav za namene študija, izmenjav učencev, neplačanega usposabljanja ali prostovoljnega dela (UL L št. 375, 23. 12. 2004, str. 12);
+- Direktiva Sveta 2005/71/ES z dne 12. oktobra 2005 o posebnem postopku za dovolitev vstopa državljanom tretjih držav za namene znanstvenega raziskovanja (UL L št. 289, 3. 11. 2005, str. 15);".
+Dosedanja osma alinea postane enajsta alinea.
+V tretjem odstavku se pika nadomesti z vejico in doda besedilo "Uredba Sveta 539/2001/ES z dne 15. marca 2001 o seznamu tretjih držav, katerih državljani morajo pri prehodu zunanjih meja imeti vizume, in držav, katerih državljani so oproščeni te zahteve (UL L št. 81, 21. 3. 2001, str. 1) in Uredba (ES) št. 562/2006 Evropskega Parlamenta in Sveta z dne 15. marca 2006 o Zakoniku Skupnosti o pravilih, ki urejajo gibanje oseb prek meja (UL L št. 105, 13. 4. 2006, str. 1, v nadaljnjem besedilu: Zakonik o schengenskih mejah).".

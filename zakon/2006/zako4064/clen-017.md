@@ -1,0 +1,5 @@
+# 17. člen
+V prvem odstavku 43. člena se osma alinea spremeni tako, da se glasi:
+"- če se v postopku izdaje dovoljenja za prvo prebivanje ugotovi, da prihaja z območij, kjer razsajajo nalezljive bolezni z možnostjo epidemije, navedene v mednarodnih zdravstvenih pravilih Svetovne zdravstvene organizacije oziroma z območij, kjer razsajajo nalezljive bolezni, ki bi lahko ogrozile zdravje ljudi in za katere je v skladu z zakonom, ki ureja nalezljive bolezni, treba sprejeti predpisane ukrepe;".
+Doda se deveta alinea, ki se glasi:
+"- če se v postopku izdaje dovoljenja za prvo prebivanje ugotovi, da je bila tujcu v zadnjih treh mesecih pred vložitvijo prošnje za izdajo dovoljenja zavrnjena izdaja vizuma zaradi nevarnosti za javni red, varnost ali mednarodne odnose Republike Slovenije ali zaradi suma, da bo njegovo prebivanje v državi povezano z izvajanjem terorističnih ali drugih nasilnih dejanj, nezakonitimi obveščevalnimi dejavnostmi, posredovanjem mamil ali izvrševanjem drugih kaznivih dejanj.".
