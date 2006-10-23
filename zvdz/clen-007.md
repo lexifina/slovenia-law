@@ -2,7 +2,7 @@
 
 # 7. člen
 
-Pravico voliti in biti voljen za poslanca ima državljan Republike Slovenije, ki je na dan glasovanja dopolnil osemnajst let starosti in mu ni odvzeta poslovna sposobnost. (delno razveljavljen)
+Pravico voliti in biti voljen za poslanca ima državljan Republike Slovenije, ki je na dan glasovanja dopolnil osemnajst let starosti.
 
 Ne glede na določbo prejšnjega odstavka pravice voliti in biti voljen nima državljan Republike Slovenije, ki je dopolnil osemnajst let starosti, pa mu je bila zaradi duševne bolezni, zaostalosti ali prizadetosti popolnoma odvzeta poslovna sposobnost ali podaljšana roditeljska pravica staršev ali drugih oseb čez njegovo polnoletnost ter ni sposoben razumeti pomena, namena in učinkov volitev.
 
