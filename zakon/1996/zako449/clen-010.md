@@ -1,10 +1,10 @@
 # 10. člen (izobraževalni programi)
 Javno veljavni izobraževalni program za odrasle ima splošni in posebni del:
-a) Splošni del vsebuje:
+1. Splošni del vsebuje:
 - ime programa,
 - obseg izobraževanja po programu in
 - pogoje za vključitev v izobraževanje, za napredovanje in dokončanje izobraževanja.
-b) Posebni del vsebuje predmetne kataloge znanj in izpitne kataloge, v katerih se navedejo:
+2. Posebni del vsebuje predmetne kataloge znanj in izpitne kataloge, v katerih se navedejo:
 - standardi in vsebine znanj, spretnosti in veščin,
 - oblike in načini preverjanja znanja,
 - znanja, ki se preverjajo,
