@@ -1,0 +1,5 @@
+## IX. PREHODNE IN KONČNE DOLOČBE
+# 58. člen (elaborat, trsni izbor in absolutne lege)
+(1) Šteje se, da Elaborat o rajonizaciji in trsnem izboru, ki ga je pripravil Kmetijski inštitut Slovenije v skladu z Zakonom o vinu in drugih proizvodih iz grozdja in vina (Uradni list RS, št. 70/97), izpolnjuje zahteve iz 9. in 10. člena tega zakona in se uporablja do priprave novega elaborata.
+(2) Ne glede na določbo prvega odstavka 10. člena tega zakona lahko tiste sorte vinske trte Vitis vinifera, ki so posajene in niso v trsnem izboru, ostanejo posajene, vendar ne več kakor sedem let od uveljavitve tega zakona. Vino, pridelano iz takega grozdja, se lahko označi le kot namizno vino, ki ni deželno vino PGO.
+(3) Ne glede na določbo drugega odstavka 19. člena tega zakona se grozdje, namenjeno pridelavi vina iz razreda kakovostnih vin pdpo in deželnih vin PGO, lahko prideluje tudi zunaj absolutnih vinogradniških površin, vendar le tistih, ki so bile zasajene z vinsko trto pred uveljavitvijo Zakona o vinu in drugih proizvodih iz grozdja in vina (Uradni list RS, št. 70/97), in sicer do zaključka rodnosti teh nasadov.

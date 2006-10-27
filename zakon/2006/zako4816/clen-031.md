@@ -1,0 +1,6 @@
+# 31. člen (obvezna ocenitev mošta, vina in drugih proizvodov pred prometom)
+(1) Vino iz razreda kakovostnih vin pdpo, deželno vino PGO, deželni mošt PGO in drugi proizvodi morajo biti pred dajanjem v promet končnemu potrošniku ocenjeni na predpisani način. Po ocenitvi mošta, vina in drugih proizvodov ni dovoljeno spreminjati.
+(2) Ne glede na določbo prejšnjega odstavka mora biti vino iz razreda kakovostnih vin pdpo ocenjeno pred vsakim prevozom zunaj pridelovalnega območja.
+(3) Če se mošt, vino in drugi proizvodi po ocenitvi iz kakršnega koli razloga spremenijo tako, da bi se lahko spremenila njihova ocena, jih je treba pred oddajo v promet znova oceniti.
+(4) Ne glede na določbe prejšnjega odstavka polnjenje že ocenjenega vina v predpisano embalažo ni razlog za ponovno ocenitev, če polnitev vina ne vpliva bistveno na njegove lastnosti, razen vina iz drugega odstavka tega člena, ki ga je treba ponovno oceniti po polnitvi pri isti pooblaščeni organizaciji za oceno vina. Za ponovno ocenitev vina je zadolžen polnilec vina, razen v primeru polnitve izven Republike Slovenije, kjer je za ponovno oceno zadolžen pridelovalec vina.
+(5) Minister predpiše podrobnejši postopek, roke ter način ocenitve in ponovne ocenitve mošta, vina in drugih proizvodov.

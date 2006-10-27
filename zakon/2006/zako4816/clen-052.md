@@ -1,0 +1,11 @@
+# 52. člen (pristojnosti inšpektorjev)
+(1) Pri opravljanju inšpekcijskega nadzorstva ima vinarski inšpektor poleg pooblastil po drugih predpisih še naslednja pooblastila:
+- dostopati in pregledovati: vinograde, proizvodne obrate (kleti, polnilnice ipd.), skladišča, v katerih se skladiščijo grozdje, mošt, vino ali drugi proizvodi in enološka sredstva, stanovanjske prostore, v katerih se za promet namenjeni mošt, vino in drugi proizvodi pridelujejo ter v katerih se skladiščijo enološka sredstva, carinska skladišča v prisotnosti carinske službe, objekte, v katerih se grozdje, mošt, vino ali drugi proizvodi prodajajo končnemu potrošniku;
+- pregledovati opremo za pridelavo grozdja, mošta, vina in drugih proizvodov ter opremo za točenje vina;
+- pregledovati grozdje, mošt, vino in druge proizvode v proizvodnem obratu, prevoznem sredstvu, prometu, vključno s ponudbo končnemu potrošniku, enološka sredstva, embalažo za mošt, vino in druge proizvode;
+- pregledovati označbe na embalaži, ocene mošta, vina in drugih proizvodov, poročila pooblaščenih organizacij, analizne izvide, listine in druge dokumente, ki spremljajo grozdje, mošt, vino in druge proizvode, namenjene za promet, kletarsko evidenco, podatke iz registra vinogradov in registra kmetijskih gospodarstev ter drugo dokumentacijo o grozdju, moštu, vinu in drugih proizvodih pri pridelovalcih, predelovalcih, gostincih in trgovcih, vključno s promocijskim materialom;
+- nadzirati izvajanje dela pooblaščenih organizacij;
+- jemati na stroške lastnika vzorce grozdja, mošta, vina, drugih proizvodov in enoloških sredstev ter jih dati v analizo;
+- organoleptično preizkusiti mošt, vino in druge proizvode.
+(2) Pri opravljanju inšpekcijskega nadzorstva ima kmetijski inšpektor poleg pooblastil po drugih predpisih tudi pooblastilo pregledovati vinograde, pregledovati vpis v register in register kmetijskih gospodarstev ter pregledovati grozdje, mošt, vino in druge proizvode.
+(3) Pri opravljanju inšpekcijskega nadzorstva ima inšpektor za kontrolo kakovosti kmetijskih pridelkov in živil poleg pooblastil po drugih predpisih tudi pooblastilo jemati vzorce mošta in vina na stroške lastnika, jih dati v analizo in pregledati, ali vino, mošt in druge proizvode v prometu spremljajo ustrezne listine.

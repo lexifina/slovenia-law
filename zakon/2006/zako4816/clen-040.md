@@ -1,0 +1,7 @@
+# 40. člen (pravila pri označevanju geografskega porekla)
+(1) Geografska označba iz prejšnjega člena mora biti na embalaži dovolj vidna.
+(2) Če poslovno poimenovanje pravne osebe, samostojnega podjetnika posameznika (naziv, znak podjetja) ali ime fizične osebe, ki prideluje oziroma polni vino v originalno embalažo, vsebuje geografsko označbo, njen del ali izpeljanko iz nje, se poimenovanje te pravne ali fizične osebe lahko označi le tako, da ne zavaja potrošnika glede dejanskega geografskega izvora.
+(3) Če blagovna znamka ali fantazijsko ime vina vsebuje kakršno koli neposredno ali posredno navajanje geografske označbe, njenega dela ali izpeljanke (v besedi, delu besede ali posredno v znaku ali sliki), se takšna blagovna znamka ali fantazijsko ime lahko uporablja le v skladu s pogoji iz prilog VII in VIII k Uredbi 1493/1999/ES.
+(4) Pri geografskih imenih, ki so homonimna, mora pridelovalec točno opredeliti geografsko območje, da ne zavaja končnega potrošnika glede dejanskega geografskega izvora vina.
+(5) Če leži vinograd na obmejnem območju sosednje države v bližini meje z Republiko Slovenijo in je ob uveljavitvi tega zakona vpisan v register, lastniku vinograda minister z odločbo v upravnem postopku določi pogoje in način označevanja tako pridelanega vina. Postopek za izdajo odločbe se začne na zahtevo stranke. Odločba velja za določene količine grozdja oziroma vina ter je vsebinsko in časovno omejena.
+(6) Minister predpiše podrobnejše pogoje in način označevanja mošta, vina in drugih proizvodov iz tega člena.

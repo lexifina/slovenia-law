@@ -1,0 +1,2 @@
+# 20. člen (naravni alkohol)
+Na območju, ki je znotraj meja vinorodne dežele "Primorska", grozdja ni dovoljeno predelati v mošt, vino in druge proizvode, če ne vsebuje najmanj 8,5 vol. % naravnega alkohola, razen če ni s pristopno pogodbo ali predpisom Evropske unije določeno drugače. Na območju, ki je znotraj meja vinorodnih dežel "Podravje" in "Posavje", grozdja ni dovoljeno predelati v mošt, vino in druge proizvode, če ne vsebuje najmanj 6 vol. % naravnega alkohola.
