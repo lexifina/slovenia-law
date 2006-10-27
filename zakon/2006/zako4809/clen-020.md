@@ -1,0 +1,4 @@
+# 20. člen
+(1) Svet za preventivo in vzgojo v cestnem prometu Republike Slovenije, ustanovljen na podlagi Zakona o varnosti cestnega prometa (Uradni list SRS, št. 17/71), preneha delovati 1. januarja 2007, njegove naloge pa prevzame Ministrstvo za promet.
+(2) S 1. januarjem 2007 Ministrstvo za promet prevzame vse zaposlene, dokumentacijo, tehnična in materialna sredstva, s katerimi razpolaga Svet za preventivo in vzgojo v cestnem prometu Republike Slovenije.
+(3) Ne glede na določbo tretjega odstavka 197. člena zakona registracijska organizacija hrani izročene registrske tablice za kolesa z motorjem, motorna kolesa, trikolesa, lahka štirikolesa, štirikolesa, bivalna vozila, bivalne priklopnike ter starodobna vozila eno leto od dneva izročitve. Če v tem roku s temi registrskimi tablicami ni registrirano isto vozilo, se izročene registrske tablice uničijo.
