@@ -1,0 +1,2 @@
+# 11. člen
+V drugem odstavku 26. člena se doda nov drugi stavek, ki se glasi: "Pri načrtovanju, organizaciji in izvajanju ukrepov varstva pred požarom za preprečitev nastanka požara v naravnem okolju morajo sodelovati z lastniki, zakupniki in drugimi uporabniki zemljišč ter z Zavodom za gozdove Slovenije tudi organizacije, ki gospodarijo s cestno, železniško, elektroenergetsko in drugo infrastrukturo v naravnem okolju.".
