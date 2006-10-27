@@ -1,0 +1,2 @@
+# 14. člen
+V prvem odstavku 26. člena se v drugi alinei besedilo "- v primeru študija najdlje do zaključka dodiplomskega študija oziroma do dopolnjenega 26. leta starosti, v primeru šolanja na visoki stopnji, ki traja pet ali šest let, ali če zaradi daljše bolezni ali poškodbe ali služenja vojaškega roka med šolanjem otrok šolanja ni končal v predpisanem roku, pa še toliko časa, kolikor se je šolanje zaradi teh razlogov podaljšalo" nadomesti z besedilom "v skladu s predpisi, ki urejajo dolžnost preživljanja".
