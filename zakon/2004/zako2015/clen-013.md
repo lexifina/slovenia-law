@@ -3,7 +3,7 @@ Davčni urad opravlja naslednje naloge:
 1. opravlja odmero davkov in davčno izvršbo odmerjenih davkov;
 2. opravlja davčni nadzor in izvaja postopke davčne izvršbe;
 3. vodi davčne evidence;
-4. neposredno izvaja naloge davčnih preiskav;
+4. izvaja naloge davčnih preiskav;
 5. odloča v davčnem postopku na prvi stopnji, če ni z zakonom pristojnost odločanja prenešena na Generalni davčni urad ali na ministrstvo, pristojno za finance;
 6. izvaja postopke davčne izvršbe denarnih terjatev države in samoupravnih lokalnih skupnosti v skladu z zakonom, ki ureja splošni upravni postopek, in zakonom, ki ureja prekrške;
 7. izvaja vračila preveč plačanih davkov in pripadajočih obresti;

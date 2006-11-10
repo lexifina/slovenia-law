@@ -4,18 +4,25 @@
 (3) Inšpektor opravlja nadzor nad delom organizacijskih enot davčne uprave pri zavezancih za davek.
 (4) Pri opravljanju nalog iz prejšnjih odstavkov ima inšpektor pravico:
 1. ogledati si in pregledati vsa zemljišča, poslovne prostore in druge prostore, ki se uporabljajo za opravljanje dejavnosti ali pridobivanje dohodkov; za poslovne prostore se štejejo tudi stanovanjski prostori, ki jih je davčni zavezanec določil kot svoj sedež oziroma kot poslovni prostor, kjer se opravlja dejavnost;
-2. pregledati prostore, objekte, postroje, naprave, delovna sredstva, napeljave, predmete, blago, stvari, snovi, poslovne knjige, pogodbe, listine in druge dokumente ter poslovanje in dokumentacijo državnih organov, gospodarskih družb, zavodov, drugih organizacij in skupnosti ter fizičnih oseb, ki opravljajo dejavnost;
-3. pregledati poslovne knjige in evidence, pogodbe, poslovne listine in poslovno dokumentacijo drugih oseb, ki se nahajajo pri osebi, ki je predmet davčnega nadzora;
-4. pregledati evidence o zaposlenih, njihovem številu, pogodbah in dohodkih ter jih primerjati s prijavljenimi podatki in podatki iz uradnih evidenc;
-5. pregledati poslovne knjige, pogodbe, listine in druge dokumente ter poslovanje in dokumentacijo ter zahtevati izdelavo njihove pisne oblike, ki mora verodostojno potrjevati elektronsko obliko, kadar se vodijo in hranijo na elektronskem mediju;
-6. zaslišati stranke in priče v upravnem postopku;
-7. pregledati listine, ki dokazujejo pravni status zavezanca za davek, ter druge listine in dokumente, s katerimi lahko ugotovi istovetnost oseb;
-8. brezplačno pridobiti in uporabljati osebne in druge podatke iz uradnih evidenc in drugih zbirk podatkov, ki se nanašajo na zavezanca za davek in ki so potrebni za izvedbo davčnega nadzora;
-9. brezplačno vzeti vzorce blaga, materialov in opreme za potrebe preiskav;
-10. fotografirati ali posneti na drug nosilec vizualnih podatkov osebe, prostore, objekte, postroje, napeljave in druge predmete iz 2. točke tega odstavka;
-11. reproducirati listine, avdiovizuelne zapise in druge dokumente;
-12. preveriti listine, ki spremljajo blago na poti oziroma pri transportu; če se mora pri preverjanju blaga na poti ali pri transportu posebej urediti prometni režim, mora inšpektor zahtevati pomoč policije;
-13. zbirati in pridobivati potrebna obvestila in podatke od oseb, ki bi utegnili biti koristni za preprečevanje in odkrivanje kršitev predpisov o obdavčenju;
-14. preveriti izvajanje davčnega nadzora pri zavezancih za davek;
-15. opraviti druga dejanja, ki so v skladu z namenom davčnega nadzora.
-(5) Način izvajanja davčnih pooblastil predpiše minister, pristojen za finance, na predlog generalnega direktorja.
+2. vstopiti in pregledati poslovne in druge prostore (razen stanovanj), ki ne pripadajo zavezancu, ker obstaja utemeljen sum, da zavezanec v njih opravlja dejavnost, ali da so tam stvari zavezanca, na katere se nanaša izvajanje nalog iz prvega do tretjega odstavka tega člena;
+3. pregledati prostore, objekte, postroje, naprave, delovna sredstva, napeljave, predmete, blago, stvari, snovi, poslovne knjige, pogodbe, listine in druge dokumente ter poslovanje in dokumentacijo državnih organov, gospodarskih družb, zavodov, drugih organizacij in skupnosti ter fizičnih oseb, ki opravljajo dejavnost;
+4. pregledati poslovne knjige in evidence, pogodbe, poslovne listine in poslovno dokumentacijo drugih oseb, ki se nahajajo pri osebi, pri kateri se izvajajo naloge iz prvega do tretjega odstavka tega člena;
+5. pregledati evidence o zaposlenih, njihovem številu, pogodbah in dohodkih ter jih primerjati s prijavljenimi podatki in podatki iz uradnih evidenc;
+6. pregledati poslovne knjige, pogodbe, listine in druge dokumente ter poslovanje in dokumentacijo ter zahtevati izdelavo njihove pisne oblike, ki mora verodostojno potrjevati elektronsko obliko, kadar se vodijo in hranijo na elektronskem mediju;
+7. zaslišati stranke in priče v upravnem postopku;
+8. pregledati listine, ki dokazujejo pravni status zavezanca za davek, ter druge listine in dokumente, s katerimi lahko ugotovi istovetnost oseb;
+9. brezplačno pridobiti in uporabljati osebne in druge podatke iz uradnih evidenc in drugih zbirk podatkov, ki se nanašajo na zavezanca za davek in ki so potrebni za izvedbo nalog iz prvega, drugega in tretjega odstavka tega člena;
+10. brezplačno vzeti vzorce blaga, materialov in opreme za potrebe preiskav;
+11. fotografirati ali posneti na drug nosilec vizualnih podatkov osebe, prostore, objekte, postroje, napeljave in druge predmete iz 2. in 3. točke tega odstavka;
+12. reproducirati listine, avdiovizuelne zapise in druge dokumente;
+13. preveriti listine, ki spremljajo blago na poti oziroma pri transportu; če se mora pri preverjanju blaga na poti ali pri transportu posebej urediti prometni režim, mora inšpektor zahtevati pomoč policije;
+14. zbirati in pridobivati potrebna obvestila in podatke od oseb, ki bi utegnili biti koristni za preprečevanje in odkrivanje kršitev predpisov o obdavčenju;
+15. preveriti izvajanje nalog iz prvega in drugega odstavka tega člena pri zavezancih za davek;
+16. opraviti druga dejanja, ki so v skladu z namenom izvajanja nalog iz prvega, drugega in tretjega odstavka tega člena.
+(5) Inšpektor zahteva podatke in dokumente v skladu s 4., 5. in 6. točko in 13. točko prejšnjega odstavka praviloma ustno med izvajanjem nalog iz prvega, drugega in tretjega odstavka tega člena. V zahtevi mora navesti kraj in rok predložitve podatkov in dokumentacije ter opozoriti zavezanca za davek oziroma odgovorno osebo zavezanca za davek, da bo ob nepredložitvi zahtevanih podatkov oziroma dokumentov storil prekršek v skladu z zakonom, ki ureja davčni postopek.
+(6) Inšpektor ugotavlja identiteto v skladu z 8. točko četrtega odstavka tega člena tako, da od osebe zahteva, da mu izroči na vpogled osebno izkaznico ali drugo veljavno javno listino s fotografijo, ki jo je izdal državni organ, na podlagi katere lahko ugotovi njeno identiteto.
+(7) Inšpektor mora pred začetkom uporabe tehničnih pripomočkov za fotografiranje oziroma vizualno snemanje v skladu z 11. točko četrtega odstavka tega člena, s katerimi fotografira ali posname na drug nosilec vizualnih podatkov osebe, prostore, objekte, napeljave in druge predmete iz 3. in 4. točke četrtega odstavka tega člena, s tem seznaniti zavezanca za davek oziroma njegovega pooblaščenca.
+(8) Ne glede na prejšnji odstavek se ukrepi iz prejšnjega odstavka izvajajo brez seznanitve zavezanca za davek, če bi to onemogočilo ali otežilo opravljanje nalog službe, o čemer se naredi uradni zaznamek, ki vsebuje tudi navedbo o datumu in kraju fotografiranja oziroma snemanja. Fotografije in posnetki, pridobljeni na tak način, se lahko uporabijo kot dokaz v davčnem postopku.
+(9) Kadar inšpektor pri opravljanju nalog iz prvega, drugega in tretjega odstavka tega člena razmnoži listino, avdiovizualni zapis oziroma drug dokument v skladu z 12. točko četrtega odstavka tega člena, mora vsako kopijo vidno označiti, tako da bo nedvoumno dokazano, da je kopija, ter napisati datum njene izdelave.
+(10) O zbiranju podatkov in obvestil v skladu s 14. točko četrtega odstavka tega člena ni treba obvestiti osebe, o kateri se zbirajo podatki, če bi to onemogočilo ali otežilo opravljanje nalog službe. O zbranih in pridobljenih obvestilih se sestavi uradni zaznamek, iz katerega morata biti razvidna kraj in čas zbiranja obvestil. Pridobljeni podatki oziroma zbrana obvestila se lahko uporabijo v postopku davčnega nadzora. Podatek pomeni dejstvo, predstavljeno v berljivi obliki, kot so številke, črke, slike ali druge oblike zapisa v papirni oziroma elektronski obliki.
+(11) Pooblastilo v skladu s 15. točko četrtega odstavka tega člena se izvaja tako, kot je določeno s tem členom. Kadar se nadzor nad delom organizacijskih enot davčne uprave opravlja pri zavezancu za davek, je treba zavezanca za davek pred začetkom opravljanja teh dejanj seznaniti s tem, da je to nadzor nad delom organizacijskih enot davčne uprave pri zavezancih za davek.
