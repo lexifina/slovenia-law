@@ -1,0 +1,21 @@
+# 10. člen
+V četrtem odstavku 18. člena se doda 2. točka, ki se glasi:
+"2. vstopiti in pregledati poslovne in druge prostore (razen stanovanj), ki ne pripadajo zavezancu, ker obstaja utemeljen sum, da zavezanec v njih opravlja dejavnost, ali da so tam stvari zavezanca, na katere se nanaša izvajanje nalog iz prvega do tretjega odstavka tega člena;".
+Dosedanja 2. točka postane 3. točka.
+V dosedanji 3. točki, ki postane 4. točka, se besedilo "ki je predmet davčnega nadzora" nadomesti z besedilom "pri kateri se izvajajo naloge iz prvega do tretjega odstavka tega člena".
+Dosedanje 4., 5., 6. in 7. točka postanejo 5., 6., 7. in 8. točka.
+V dosedanji 8. točki, ki postane 9. točka, se besedi "davčnega nadzora" nadomestita z besedilom "nalog iz prvega, drugega in tretjega odstavka tega člena".
+Dosedanja 9. točka postane 10. točka.
+V dosedanji 10. točki, ki postane 11. točka, se za številko "2." doda "in 3".
+Dosedanje 11., 12. in 13. točka postanejo 12., 13. in 14. točka.
+V dosedanji 14. točki, ki postane 15. točka, se besedi "davčnega nadzora" nadomestita z besedilom "nalog iz prvega in drugega odstavka tega člena".
+V dosedanji 15. točki, ki postane 16. točka, se besedi "davčnega nadzora" nadomestita z besedilom "izvajanja nalog iz prvega, drugega in tretjega odstavka tega člena".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Inšpektor zahteva podatke in dokumente v skladu s 4., 5. in 6. točko in 13. točko prejšnjega odstavka praviloma ustno med izvajanjem nalog iz prvega, drugega in tretjega odstavka tega člena. V zahtevi mora navesti kraj in rok predložitve podatkov in dokumentacije ter opozoriti zavezanca za davek oziroma odgovorno osebo zavezanca za davek, da bo ob nepredložitvi zahtevanih podatkov oziroma dokumentov storil prekršek v skladu z zakonom, ki ureja davčni postopek.".
+Dodajo se šesti, sedmi, osmi, deveti, deseti in enajsti odstavek, ki se glasijo:
+"(6) Inšpektor ugotavlja identiteto v skladu z 8. točko četrtega odstavka tega člena tako, da od osebe zahteva, da mu izroči na vpogled osebno izkaznico ali drugo veljavno javno listino s fotografijo, ki jo je izdal državni organ, na podlagi katere lahko ugotovi njeno identiteto.
+(7) Inšpektor mora pred začetkom uporabe tehničnih pripomočkov za fotografiranje oziroma vizualno snemanje v skladu z 11. točko četrtega odstavka tega člena, s katerimi fotografira ali posname na drug nosilec vizualnih podatkov osebe, prostore, objekte, napeljave in druge predmete iz 3. in 4. točke četrtega odstavka tega člena, s tem seznaniti zavezanca za davek oziroma njegovega pooblaščenca.
+(8) Ne glede na prejšnji odstavek se ukrepi iz prejšnjega odstavka izvajajo brez seznanitve zavezanca za davek, če bi to onemogočilo ali otežilo opravljanje nalog službe, o čemer se naredi uradni zaznamek, ki vsebuje tudi navedbo o datumu in kraju fotografiranja oziroma snemanja. Fotografije in posnetki, pridobljeni na tak način, se lahko uporabijo kot dokaz v davčnem postopku.
+(9) Kadar inšpektor pri opravljanju nalog iz prvega, drugega in tretjega odstavka tega člena razmnoži listino, avdiovizualni zapis oziroma drug dokument v skladu z 12. točko četrtega odstavka tega člena, mora vsako kopijo vidno označiti, tako da bo nedvoumno dokazano, da je kopija, ter napisati datum njene izdelave.
+(10) O zbiranju podatkov in obvestil v skladu s 14. točko četrtega odstavka tega člena ni treba obvestiti osebe, o kateri se zbirajo podatki, če bi to onemogočilo ali otežilo opravljanje nalog službe. O zbranih in pridobljenih obvestilih se sestavi uradni zaznamek, iz katerega morata biti razvidna kraj in čas zbiranja obvestil. Pridobljeni podatki oziroma zbrana obvestila se lahko uporabijo v postopku davčnega nadzora. Podatek pomeni dejstvo, predstavljeno v berljivi obliki, kot so številke, črke, slike ali druge oblike zapisa v papirni oziroma elektronski obliki.
+(11) Pooblastilo v skladu s 15. točko četrtega odstavka tega člena se izvaja tako, kot je določeno s tem členom. Kadar se nadzor nad delom organizacijskih enot davčne uprave opravlja pri zavezancu za davek, je treba zavezanca za davek pred začetkom opravljanja teh dejanj seznaniti s tem, da je to nadzor nad delom organizacijskih enot davčne uprave pri zavezancih za davek.".
