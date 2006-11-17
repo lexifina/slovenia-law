@@ -1,2 +1,0 @@
-# 69. člen (izvajanje tretjega odstavka 15.a člena)
-V letu 2004 se vrednost dobav iz tretjega odstavka 15.a člena zakona določi z upoštevanjem skupne vrednosti dobav posameznega davčnega zavezanca, ugotovljena na podlagi podatkov iz njegovih carinskih deklaracij za izvoz oziroma ponovni izvoz blaga v Slovenijo v letu 2003 oziroma od 1. januarja do vključno 30. aprila 2004. Za obdobje po 1. maju 2004 se vrednost dobav ugotavlja na podlagi podatkov iz knjigovodstva davčnega zavezanca o dobavah blaga v Slovenijo.

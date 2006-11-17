@@ -1,5 +1,0 @@
-# 52.k člen (predložitev posebnega obračuna DDV)
-(1) Davčni zavezanec, ki nima sedeža, mora davčnemu organu predložiti posebni obračun DDV za elektronske storitve za vsako koledarsko trimesečje, ne glede na to, ali je v tem obdobju opravljal elektronske storitve ali ne. Obračun je dolžan predložiti v 20 dneh po koncu obračunskega obdobja, na katerega se obračun nanaša. Posebni obračun DDV je dolžan predložiti v elektronski obliki preko elektronskih sredstev na način, ki ga določi minister, pristojen za finance.
-(2) V posebnem obračunu DDV iz prvega odstavka tega člena mora davčni zavezanec, ki nima sedeža, navesti individualno številko ter za vsako državo članico potrošnje, v kateri je nastala obveznost za plačilo davka, skupno vrednost elektronsko opravljenih storitev v obračunskem obdobju, zmanjšano za DDV, in skupni znesek pripadajočega DDV. V posebnem obračunu DDV je davčni zavezanec, ki nima sedeža, dolžan navesti tudi uporabljene davčne stopnje in celoten znesek dolgovanega DDV.
-(3) V posebnem obračunu DDV mora davčni zavezanec, ki nima sedeža, izkazovati zneske v evrih.
-(4) Obliko posebnega obračuna DDV določi minister, pristojen za finance.

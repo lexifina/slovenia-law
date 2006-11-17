@@ -1,2 +1,0 @@
-# 67. člen (izvajanje 2. točke drugega odstavka 11.a člena)
-V letu 2004 se kot vrednost nabav iz 2. točke drugega odstavka 11.a člena zakona upošteva vrednost vseh nabav posameznega davčnega zavezanca, ugotovljena na podlagi podatkov iz carinskih deklaracij za sprostitev blaga v prost promet v letu 2003 oziroma od 1. januarja do vključno 30. aprila 2004. Za obdobje po 1. maju 2004 se vrednost nabav ugotavlja na podlagi podatkov iz knjigovodstva davčnega zavezanca.
