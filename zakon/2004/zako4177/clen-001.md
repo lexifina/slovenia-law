@@ -1,2 +1,0 @@
-# 1. člen
-V Zakonu o davku na dodano vrednost (Uradni list RS, št. 97/04 - uradno prečiščeno besedilo) se v 1. členu na koncu prvega odstavka doda naslednje besedilo: "v skladu s Šesto direktivo Sveta 77/388/EGS z dne 17. maja 1977 o usklajevanju zakonodaje držav članic o prometnih davkih - Skupni sistem davka na dodano vrednost: enotna osnova za odmero (UL L št. 145 z dne 13. 6. 1977, str. 1, z vsemi spremembami)".
