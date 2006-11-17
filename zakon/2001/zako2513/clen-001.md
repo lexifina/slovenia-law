@@ -1,6 +1,0 @@
-# 1. člen
-V zakonu o davku na dodano vrednost (Uradni list RS, št. 89/98 in 17/00 - odl. US) se v 36. členu tretji in četrti odstavek spremenita tako, da se glasita:
-"(3) Za davčnega zavezanca, ki je v preteklem koledarskem letu dosegel promet blaga oziroma storitev v vrednosti do 10,000.000 tolarjev, je davčno obdobje koledarsko polletje, za davčnega zavezanca, ki je v preteklem koledarskem letu dosegel promet blaga oziroma storitev od 10,000.000 tolarjev do 20,000.000 tolarjev, je davčno obdobje koledarsko trimesečje. Pri začetku opravljanja obdavčljive dejavnosti se davčno obdobje določi glede na pričakovano vrednost prometa blaga oziroma storitev v prvem koledarskem letu.
-(4) Davčni zavezanec - izvoznik, ki izpolnjuje pogoje za obračunavanje DDV v trimesečnem oziroma šestmesečnem obdobju, se lahko odloči za obračunavanje DDV v enomesečnem obdobju. V tem primeru mora pisno obvestiti pristojni davčni organ v roku 15 dni pred prehodom na mesečni obračun DDV. Obdobje obračunavanja DDV po tem odstavku ne sme biti krajše od 12 mesecev."
-Doda se nov peti odstavek, ki se glasi:
-"(5) Promet blaga oziroma storitev po tem členu je promet, ki je izkazan v obračunu DDV za preteklo koledarsko leto."
