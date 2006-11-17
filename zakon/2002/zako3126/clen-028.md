@@ -1,7 +1,0 @@
-# 28. člen
-Prvi odstavek 41. člena se spremeni tako, da se glasi:
-"(1) Davčni zavezanec, ki opravlja obdavčeno in oproščeno dejavnost, določi znesek vstopnega DDV, ki se nanaša na obdavčeno dejavnost in oproščeno dejavnost, v zvezi s katero ima pravico do odbitka vstopnega DDV v skladu s četrtim odstavkom 40. člena tega zakona, z odbitnim deležem, razen če v svojem knjigovodstvu ali izvenknjigovodski evidenci zagotovi podatke o vstopnem DDV in znesku vstopnega DDV, za katerega mu je priznana pravica do odbitka vstopnega DDV."
-V drugem odstavku se 1. točka spremeni tako, da se glasi:
-"1. v števcu: celotni znesek letnega prometa, ki se nanaša na promet, od katerega ima davčni zavezanec pravico do odbitka vstopnega DDV, brez DDV;".
-Peti odstavek se spremeni, tako da se glasi:
-"(5) Odbitni delež za tekoče leto se začasno določi na podlagi podatkov o prometu preteklega leta (v nadaljnjem besedilu: začasni odbitni delež). Če podatkov o prometu preteklega leta ni ali, če so v znesku neznatni, začasni odbitni delež določi davčni organ na podlagi napovedi davčnega zavezanca. Odbitni delež se dokončno določi, ko so znani podatki o dejanskem obsegu prometa v letu, za katero se določa odbitni delež (v nadaljnjem besedilu: dejanski odbitni delež). Če se ugotovi, da je bil odbitek vstopnega DDV na podlagi začasnega odbitnega deleža obračunan v višjem ali nižjem znesku, kot bi smel biti glede na dejanske podatke o obsegu prometa v tekočem letu, se odbitek vstopnega DDV ustrezno popravi v davčnem obdobju, v katerem se ugotovi dejanski odbitni delež."

@@ -1,2 +1,0 @@
-# 47. člen
-Davčni zavezanec, katerega davčno obdobje, določeno v skladu s tretjim odstavkom 36. člena zakona, ne poteče na dan pred dnevom, ko se začne uporabljati ta zakon, vloži obračun DDV po poteku davčnega obdobja v skladu z drugim odstavkom 38. člena zakona, mora pa obračunu priložiti ločene podatke o davčni obveznosti, ki se nanaša na del davčnega obdobja do začetka uporabe tega zakona ter na del davčnega obdobja po začetku uporabe tega zakona.
