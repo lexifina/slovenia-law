@@ -7,3 +7,4 @@
 4. število vrednostnih papirjev, ki so predmet prenosa,
 5. pravni temelj prenosa,
 6. podpis dosedanjega imetnika.
+Postopek zaradi insolventnosti nad imetnikom
