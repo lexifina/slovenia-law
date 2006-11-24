@@ -1,0 +1,3 @@
+# 98.b člen
+(1) Če izdajatelj zaradi prehoda na euro po 695. členu ZGD-1 ob nespremenjenem številu nematerializiranih delnic spremeni nominalni znesek, na katerega se glasijo delnice, ali zamenja delnice v kosovne delnice po razmerju za eno delnico, ki se glasi na tolarski znesek, ena kosovna delnica, se smiselno uporabljata prvi in drugi odstavek 98.a člena tega zakona.
+(2) Izdajatelj mora nalog iz prejšnjega odstavka oziroma ustrezen nalog za izdajo ali zamenjavo nematerializiranih delnic zaradi uskladitve po 695. členu ZGD-1 izdati v 15 dneh po dnevu, ko se izpolnijo pogoji za vpis uskladitve zneska delnic oziroma za izdajo ali zamenjavo nematerializiranih delnic zaradi prehoda na euro.".
