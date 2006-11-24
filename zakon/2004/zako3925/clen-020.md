@@ -1,2 +1,0 @@
-# 20. člen
-Minister, pristojen za finance, v sodelovanju z ministrom, pristojnim za kmetijstvo, izda podrobnejše predpise za izvajanje tega zakona, predvsem obrazce zapisnikov in obračuna dajatve ter podrobnejše predpise glede ugotavljanja presežnih zalog kmetijskih proizvodov in sladkorja ter glede umika presežnih zalog sladkorja s trga, odmere morebitne dajatve na presežne zaloge sladkorja v skladu z 12. členom tega zakona ter glede določitve kriterijev za izvajanje 15. člena tega zakona.
