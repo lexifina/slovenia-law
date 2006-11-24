@@ -1,0 +1,3 @@
+# 6. člen
+(1) Letno določena sredstva za izvajanje temeljnih razvojnih programov po tem zakonu, skupaj z drugimi proračunskimi sredstvi Ministrstva za obrambo ter izdatki proračuna Republike Slovenije, ki se vštevajo v obrambne izdatke Republike Slovenije na način, kot se ugotavljajo obrambni izdatki v Nato, ne smejo preseči 2 odstotka bruto domačega proizvoda od vključno leta 2008 do 2015, ki jih je kot obveznost prevzela Republika Slovenija kot članica Nato.
+(2) Določba prejšnjega odstavka se ne uporablja, če se zaradi spremembe varnostnih razmer povečajo obveznosti Republike Slovenije v zvezi Nato ali Evropski uniji na obrambnem področju.

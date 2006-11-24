@@ -1,0 +1,4 @@
+# 4. člen
+(1) Ministrstvo za obrambo za izvajanje temeljnih razvojnih programov v skladu s tem zakonom lahko sklepa pogodbe, s katerimi prevzema obveznosti za celotno obdobje veljavnosti zakona, vendar ne v višjem celotnem in letnem znesku, kot je določen v 2. členu tega zakona.
+(2) Pri sklepanju pogodb za izvajanje temeljnih razvojnih programov v skladu s tem zakonom morajo biti praviloma dogovorjene tudi protidobave blaga ali storitev, proizvedenih v Republiki Sloveniji, v skladu s smernicami, ki jih določi Vlada Republike Slovenije.
+(3) K sklenitvi pogodb za izvajanje temeljnih razvojnih programov daje predhodno soglasje medresorska delovna skupina, ki jo imenuje Vlada Republike Slovenije. Vlada Republike Slovenije imenuje tudi medresorsko delovno skupino za potrjevanje in spremljanje programov protidobav iz prejšnjega odstavka.
