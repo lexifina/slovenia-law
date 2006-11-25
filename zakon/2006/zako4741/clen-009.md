@@ -1,0 +1,2 @@
+# 9. člen
+V tretjem odstavku 12. člena se v prvem stavku za besedo "poslov" črta vejica, besedilo "sklenjenih za zavarovanje denarnih terjatev z zastavno pravico na nepremičninah," se nadomesti z besedilom "o ustanovitvi hipoteke in zemljiškega dolga na nepremičninah", besedilo "zastavne pravice" pa z besedilom "hipoteke in zemljiškega dolga". V drugem stavku se besedilo "z zastavno pravico" nadomesti z besedilom "s hipoteko ali zemljiškim dolgom".

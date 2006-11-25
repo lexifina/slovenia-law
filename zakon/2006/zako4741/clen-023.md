@@ -1,0 +1,4 @@
+# 23. člen
+Drugi odstavek 68. člena se spremeni tako, da se glasi:
+"V izvirniku notarskega potrdila iz prejšnjega odstavka, ki je lahko sestavljeno tudi v obliki notarskega zapisnika o dogajanju, ki mu je notar neposredno prisostvoval, notar navede kraj in čas, v katerem se je zgodilo ali ugotovilo obravnavano dejstvo, osebna imena in naslove strank ter drugih udeležencev in natančen popis tega, kar se je zgodilo vpričo njega, ali dejstva, ki jih je neposredno ugotovil. Potrdilo podpiše samo notar, zapisnik pa podpišejo tudi stranke, ki so opravilu prisostvovale.".
+V tretjem odstavku se na koncu odstavka dodata nova stavka, ki se glasita: "Če stranka noče podpisati zapisnika, notar navede, da je odklonila podpis in razlog za odklonitev. Podpis stranke na notarskem zapisniku ne vpliva na lastnost listine.".

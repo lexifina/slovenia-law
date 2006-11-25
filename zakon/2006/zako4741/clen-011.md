@@ -1,0 +1,3 @@
+# 11. člen
+V 15. členu se doda tretji odstavek, ki se glasi:
+"Za potrebe elektronske sestave listin iz 2. člena tega zakona si mora notar pred prisego priskrbeti varen elektronski podpis kot notarski elektronski podpis, overjen s kvalificiranim potrdilom v skladu s tretjim odstavkom 38.a člena tega zakona. Zahtevo za izstavitev kvalificiranega potrdila in izkaznice za notarski elektronski podpis je treba predložiti Notarski zbornici Slovenije. S prenehanjem notarske službe ali ob suspenzu preneha tudi pooblastilo za uporabo elektronskega notarskega podpisa. Notar mora izkaznico vrniti Notarski zbornici Slovenije in zahtevati preklic kvalificiranega potrdila.".
