@@ -1,0 +1,5 @@
+# 33. člen
+72. člen se spremeni tako, da se glasi:
+"72. člen
+(posebno hudi prekrški)
+Če se s prekrškom iz tega zakona povzroči neplačilo trošarine v znesku, ki presega štiri povprečne mesečne neto plače v Republiki Sloveniji na zaposleno osebo v času storitve prekrška, če prekršek stori posameznik, oziroma v znesku, ki presega osem povprečnih mesečnih neto plač v Republiki Sloveniji na zaposleno osebo v času storitve prekrška, če prekršek stori pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, se sme zaradi protipravno pridobljene premoženjske koristi pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, kaznovati z globo do 375.000 eurov, njihove odgovorne osebe z globo do 12.300 eurov, posameznik pa z globo do 3.600 eurov.".
