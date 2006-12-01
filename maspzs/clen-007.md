@@ -1,0 +1,13 @@
+# 7. člen Oprostitev poštnin
+
+1 Načelo
+
+1.1 Primeri, v katerih se plačevanje poštnine s frankiranjem oprosti, morajo biti v konvenciji izrecno navedeni. Ne glede na to pa se v zvezi s poštnimi storitvami lahko s pravilniki določita oprostitev poštnega frankiranja in oprostitev plačila tranzitnih stroškov, terminalnih stroškov in tarif za pisemsko in paketno pošto v prispetju, ki ju pošiljajo poštne uprave in ožje zveze. Poleg tega se za pisemske poštne pošiljke in poštne pakete, ki jih pošilja Mednarodni urad Svetovni poštni zvezi, ožjim zvezam in poštnim upravam, šteje, da so to pošiljke v okviru poštne službe, ki so oproščene vseh poštnin. Vseeno pa ima odpravna uprava možnost, da zaračuna doplačilo za letalske pošiljke.
+
+2 Vojni ujetniki in civilni zaporniki
+
+2.1 Pisemske poštne pošiljke, poštni paketi in pošiljke poštnih denarnih služb, naslovljeni na vojne ujetnike, ali jih oni pošiljajo neposredno ali prek uradov, navedenih v pravilnikih konvencije in Sporazumu o storitvah poštnega plačilnega prometa, so oproščeni vseh poštnin, razen doplačil za letalske pošiljke. Pripadniki vojskujočih se strani, zajeti in internirani v nevtralni državi, so izenačeni z vojnimi ujetniki v vsem, na kar se nanašajo prej omenjene določbe. 2.2 Določbe iz prvega odstavka 2. člena prav tako veljajo za pisemske poštne pošiljke, poštne pakete in pošiljke poštne denarne službe, ki izvirajo iz drugih držav in so naslovljeni na internirane civilne osebe, kot jih opredeljuje Ženevska konvencija z dne 12. avgusta 1949 o zaščiti civilnih oseb med vojno, ali so jih one poslale neposredno ali prek uradov, navedenih v pravilnikih konvencije in Sporazumu o storitvah poštnega plačilnega prometa. 2.3 Za urade iz pravilnikov konvencije in Sporazuma o storitvah poštnega plačilnega prometa prav tako velja oprostitev poštnin za pisemske poštne pošiljke, poštne pakete in pošiljke poštne denarne službe, ki se nanašajo na osebe, navedene v prvem in drugem odstavku 2. člena, ki jih pošiljajo ali sprejemajo neposredno ali kot posredniki. 2.4 Paketi so oproščeni poštnine do mase 5 kg. Omejitev mase se poveča do 10 kg pri paketih, katerih vsebina je nedeljiva, in pri paketih, ki so naslovljeni na taborišče ali tamkajšnje zaupnike zapornikov ("hommes de confiance") za razdelitev zapornikom. 2.5 Pri poravnavanju računov med poštnimi upravami se ne obračunajo pristojbine za službene pakete in pakete vojnih ujetnikov in civilnih zapornikov, razen za pristojbine za letalski prevoz, ki se nanašajo na letalske pakete.
+
+3 Literatura za slepe in slabovidne
+
+3.1 Literatura za slepe in slabovidne je oproščena vseh poštnin, razen dopolnilnih letalskih pristojbin.
