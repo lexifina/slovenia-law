@@ -1,3 +1,3 @@
 # 21. člen
-(1) Poleg izrečene denarne kazni se posamezniku lahko prepove samostojno opravljanje dejavnosti ali del za dobo od treh mesecev do enega leta, če mu je bila izrečena kazen po 15. členu tega zakona.
-(2) Posamezniku-tujcu se za storjeni prekršek po tem zakonu lahko izreče varstveni ukrep odstranitve iz države s prepovedjo vstopa za čas od šestih mesecev do dveh let.
+Posamezniku - tujcu se lahko za prekršek po tem zakonu poleg globe izreče sankcija izgona tujca iz države v trajanju od enega do petih let.
+Zakon o preprečevanju dela in zaposlovanja na črno - ZPDZC (Uradni list RS, št. 36/00) vsebuje naslednje prehodne in končne določbe:

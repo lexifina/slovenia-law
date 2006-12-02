@@ -1,2 +1,2 @@
 ZAKON
-O PREPREČEVANJU DELA IN ZAPOSLOVANJA NA ČRNO (ZPDZC)
+o preprečevanju dela in zaposlovanja na črno (ZPDZC)
