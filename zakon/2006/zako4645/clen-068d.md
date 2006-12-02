@@ -1,0 +1,14 @@
+# 68.d člen
+Energetske izkaznice in poročila o pregledih klimatskih sistemov izdajajo pooblaščene pravne ali fizične osebe (v nadaljnjem besedilu: izdajatelji). Pooblastilo za izdajo energetskih izkaznic in poročil o pregledih klimatskih sistemov podeli minister, pristojen za okolje, po izvedenem javnem natečaju. Pooblastilo za izdajo energetskih izkaznic se podeli kot javno pooblastilo.
+Naloge v zvezi z izdelovanjem energetskih izkaznic in pregledi klimatskih sistemov opravljajo posamezniki, ki imajo veljavno licenco za izvajanje teh nalog (v nadaljnjem besedilu: neodvisni strokovnjaki).
+Pooblastilo iz prvega odstavka tega člena lahko pridobi pravna ali fizična oseba:
+- za izdajanje energetskih izkaznic, če ima v sodni register oziroma v Poslovni register Slovenije vpisano dejavnost projektiranja ali tehničnega svetovanja,
+- za izdajanje poročil o pregledih klimatskih sistemov, če ima v sodni register oziroma Poslovni register Slovenije vpisano dejavnost tehničnega svetovanja ali meritev, in
+- če ima za izvajanje nalog iz prve in druge alinee tega odstavka zaposlenega vsaj enega neodvisnega strokovnjaka ali s pogodbo o delu zagotovljeno izvajanje teh nalog.
+Izdajatelji morajo izvesti postopek izdaje energetske izkaznice po vsaki zahtevi za njeno izdajo in izvesti vsak naročen pregled klimatskega sistema v skladu s tem zakonom. Naročnik energetske izkaznice ali pregleda klimatskega sistema mora neodvisnemu strokovnjaku dati na voljo vse potrebne podatke ter projektno in tehnično dokumentacijo v skladu s predpisi o graditvi objektov ter mu zaradi ogleda stavbe omogočiti vstop v prostore.
+Pri opravljanju svojih nalog morajo neodvisni strokovnjaki ravnati v skladu s predpisi v zvezi z izdajanjem energetskih izkaznic in pregledi klimatskih sistemov in jih opravljati v skladu s pravili stroke ter neodvisno od vpliva strank ali drugih oseb ter navodil delodajalca.
+Ne glede na določbo drugega odstavka tega člena neodvisni strokovnjak ne sme izdelati energetske izkaznice ali pregleda klimatskega sistema po tem zakonu, če:
+- obstaja kateri od razlogov za njegovo izločitev v skladu s predpisi, ki urejajo splošni upravni postopek;
+- je zaposlen pri stranki oziroma naročniku energetske izkaznice oziroma pregleda, ali je z njim v kakršnem koli drugem razmerju, na podlagi katerega zanj proti plačilu izvaja storitve ali delo v odvisnem razmerju v skladu s predpisi o dohodnini.
+Stranki oziroma naročniku pregleda mora neodvisni strokovnjak izročiti pisno izjavo, da ne obstaja katera od okoliščin iz prejšnjega odstavka, ki bi mu preprečevala izdelavo energetske izkaznice ali izvedbo pregleda klimatskega sistema.
+Cenik z najvišjimi cenami za izdajo energetske izkaznice in poročila o pregledu klimatskega sistema, ki ga opravi v skladu s tem zakonom neodvisni strokovnjak, predpiše vlada.
