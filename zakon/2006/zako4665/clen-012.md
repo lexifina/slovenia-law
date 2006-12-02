@@ -1,0 +1,5 @@
+# 12. člen
+Besedilo 10. člena se spremeni tako, da se glasi:
+"Postopke za preverjanje in potrjevanje poklicnih kvalifikacij lahko izvajajo medpodjetniški izobraževalni centri, šole, organizacije za izobraževanje odraslih in zbornice, ki izvajajo javno veljavne izobraževalne programe ter izpolnjujejo materialne in kadrovske pogoje, določene s katalogom standardov strokovnih znanj in spretnosti, ter drugimi akti, če je tako določeno s posebnimi predpisi (v nadaljnjem besedilu: izvajalci postopkov za ugotavljanje in potrjevanje poklicnih kvalifikacij).
+Za področja, za katera ni zagotovljenih pogojev v organizacijah iz prejšnjega odstavka, izbere Državni izpitni center izvajalca postopkov za ugotavljanje in potrjevanje poklicnih kvalifikacij na podlagi javnega razpisa.
+Državni izpitni center vpiše izvajalce postopkov za ugotavljanje in potrjevanje poklicnih kvalifikacij v register izvajalcev postopkov za ugotavljanje in potrjevanje kvalifikacij. Postopek vpisa in način vodenja registra določi minister.".
