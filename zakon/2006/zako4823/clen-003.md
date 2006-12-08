@@ -1,0 +1,3 @@
+# 3. člen
+V prvem odstavku 17. člena se prva alinea spremeni tako, da se glasi:
+"- ki je strokovno usposobljena za opravljanje dela v zvezi s postopki in nalogami, ki jih lahko izvaja. Strokovno usposobljenost dokazuje z opravljenim strokovnim usposabljanjem pri enem od proizvajalcev tahografov, ki imajo priznano odobritev tipa za analogne tahografe ali interoperabilni test za digitalne tahografe, oziroma pri pravni ali fizični osebi, ki ima zaposleno osebo, ki je pri enem od proizvajalcev opravila šolanje za inštruktorja strokovnega izobraževanja, in sicer glede na naloge in postopke, ki jih izvaja v delavnici. Potrdilo o izobraževanju za digitalne tahografe ne sme biti starejše od treh let;".

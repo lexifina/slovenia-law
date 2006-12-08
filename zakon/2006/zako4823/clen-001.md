@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o delovnem času in obveznih počitkih mobilnih delavcev ter o zapisovalni opremi v cestnih prevozih (Uradni list RS, št. 76/05) se v 2. členu doda nov tretji odstavek, ki se glasi:
+"(3) Ne glede na prejšnji odstavek se ta zakon v delu, ki ureja pristojnosti in naloge organov Republike Slovenije v zvezi z izvrševanjem Uredb 3820/85/EGS, 3821/85/EGS ali AETR in v zvezi z izrekanjem sankcij za prekršek za njihovo kršitev ter z izvajanjem nadzora, uporablja tudi za vse voznike, prevoznike ali druge pravne oziroma fizične osebe, ki so se v Republiki Sloveniji dolžne ravnati po Uredbah 3820/85/EGS, 3821/85/EGS ali AETR.".
