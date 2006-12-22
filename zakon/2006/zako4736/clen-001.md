@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o sodiščih (Uradni list RS, št. 100/05 - uradno prečiščeno besedilo) se tretji odstavek 13. člena spremeni tako, da se glasi:
+"Upravljavci zbirk osebnih in drugih varovanih podatkov, ki razpolagajo s podatki, ki so sodišču potrebni za ugotovitev ali presojo dejstev v zvezi z vodenjem postopkov ali za odločanje v postopkih iz pristojnosti sodišč, so dolžni, na obrazloženo zahtevo sodnika, brezplačno in v najkrajšem možnem roku posredovati zahtevane podatke. Sodnik v obrazloženi zahtevi navede, katere podatke zahteva, pravno podlago za njihovo posredovanje, namen njihove obdelave in opravilno številko zadeve, po potrebi pa tudi primeren rok, v katerem naj bi bili zahtevani podatki posredovani sodišču.".
