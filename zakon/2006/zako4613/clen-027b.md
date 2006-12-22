@@ -1,0 +1,5 @@
+# 27.b člen
+Odločba upravne enote, s katero je bilo odločeno, da oseba pridobi državljanstvo Republike Slovenije, se predloži v revizijo ministrstvu, pristojnemu za notranje zadeve, razen odločbe, izdane v postopku, ki je bil predhodno zaključen z izdajo zagotovila na podlagi 11. člena tega zakona.
+Upravna enota upravno zadevo predloži v revizijo najpozneje v osmih dneh od dneva, ko je potekel rok za pritožbo. Odločba upravne enote, s katero je bilo odločeno, da oseba pridobi državljanstvo Republike Slovenije, postane dokončna z dnem, ko je k odločbi dano soglasje ministrstva, pristojnega za notranje zadeve.
+Ne glede na določbo 15. člena tega zakona postane oseba, ki pridobi državljanstvo Republike Slovenije v postopkih, ki spadajo v pristojnost upravne enote, državljan Republike Slovenije z dnem, ko poda prisego iz 10. točke prvega odstavka 10. člena tega zakona.
+Upravna enota v primeru iz četrtega odstavka 12. člena tega zakona predloži upravno zadevo ministrstvu, pristojnemu za notranje zadeve, ki nato posebno prošnjo osebe predloži v soglasje Vladi Republike Slovenije.
