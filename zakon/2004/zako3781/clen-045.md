@@ -1,2 +1,2 @@
-# 45. člen (splošni upravni postopek)
-Agencija po sprejemu poročila komisije o oceni ponudb oziroma obrazloženega predloga Sveta za radiodifuzijo, če je predmet javnega razpisa dodelitev radijskih frekvenc za opravljanje radiodifuzije, nadaljuje z odločanjem po splošnem upravnem postopku, pri čemer imajo položaj stranke vsi ponudniki, ki izpolnjujejo pogoje iz 43. oziroma prvega odstavka 44. člena tega zakona.
+# 45. člen (uporaba določb zakona, ki ureja splošni upravni postopek)
+Agencija po sprejemu poročila komisije o oceni ponudb oziroma obrazloženega predloga Sveta za radiodifuzijo, če je predmet javnega razpisa dodelitev radijskih frekvenc za opravljanje radiodifuzije, nadaljuje z odločanjem po zakonu, ki ureja splošni upravni postopek, pri čemer imajo položaj stranke vsi ponudniki, ki so v roku, določenem v javnem razpisu, predložili pravilno označene ponudbe.

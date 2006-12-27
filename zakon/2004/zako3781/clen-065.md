@@ -1,2 +1,2 @@
-# 65. člen (veljavnost odločbe o dodelitvi številk)
-Odločbo o dodelitvi številk izda agencija za nedoločen čas.
+# 65. člen (veljavnost odločbe o dodelitvi elementov oštevilčenja)
+Odločbo o dodelitvi elementov oštevilčenja izda agencija za nedoločen čas.

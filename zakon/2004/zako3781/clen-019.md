@@ -29,5 +29,6 @@
 9. obstoj prostih (neizrabljenih) zmogljivosti;
 10. ali obstajajo neformalne ali druge povezave med temi operaterji;
 11. mehanizme, ki jih ti operaterji uporabijo pri povračilnih ukrepih;
-12. obstoj cenovne konkurence.
+12. podobne strukture stroškov;
+13. obstoj cenovne konkurence.
 (6) Pri določanju pomembne tržne moči in uporabi meril iz četrtega in petega odstavka agencija ravna skladno z zakonodajo Evropske skupnosti in dosledno upošteva smernice Evropske komisije, ki urejajo tržno analizo in določitev pomembne tržne moči na področju elektronskih komunikacijskih omrežij in storitev. Pri tem agencija sodeluje z organom, pristojnim za varstvo konkurence.

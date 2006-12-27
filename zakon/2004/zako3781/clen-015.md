@@ -1,7 +1,7 @@
 # 15. člen (kakovost univerzalne storitve)
-(1) Minister predpiše kakovost univerzalne storitve, tako da zlasti določi parametre kakovosti, njihove mejne vrednosti in metode merjenja teh parametrov.
+(1) Agencija s splošnim aktom predpiše kakovost univerzalne storitve, tako da zlasti določi parametre kakovosti, njihove mejne vrednosti in metode merjenja teh parametrov.
 (2) Agencija s splošnim aktom določi prenosno hitrost, primerno za funkcionalen dostop do interneta, in rok, v katerem jo je treba doseči. Pri tem upošteva prevladujoče tehnologije dostopa, ki jih uporablja večina naročnikov, ter tehnološko in ekonomsko izvedljivost. Po izteku roka, določenega v splošnem aktu, agencija ponovno preveri okoliščine, ki so pripeljale do določitve prenosne hitrosti, in po potrebi s splošnim aktom določi novo prenosno hitrost.
-(3) Agencija v splošnem aktu predpiše vsebino, obliko in način objave podatkov o kakovosti univerzalne storitve.
+(3) Agencija v splošnem aktu iz prvega odstavka tega člena predpiše tudi vsebino, obliko in način objave podatkov o kakovosti univerzalne storitve.
 (4) Izvajalci univerzalne storitve morajo najmanj enkrat letno objavljati ažurne podatke o kakovosti univerzalne storitve in podatke ter vsako njihovo spremembo pošiljati agenciji.
 (5) Agencija nadzoruje kakovost univerzalne storitve in lahko ukrepa v skladu s postopkom nadzora.
 (6) Če agencija utemeljeno sumi v resničnost podatkov iz četrtega odstavka tega člena, lahko agencija po uradni dolžnosti odredi neodvisno revizijo ali tej reviziji podoben pregled podatkov o kakovosti zagotavljanja univerzalne storitve na stroške določenega izvajalca univerzalne storitve.

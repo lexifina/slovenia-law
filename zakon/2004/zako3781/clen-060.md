@@ -1,2 +1,2 @@
-# 60. člen (uporaba številk)
-Operater ter fizične ali pravne osebe iz prvega odstavka 62. člena tega zakona lahko uporabljajo določene številke le na podlagi odločbe agencije, s katero ji ta podeli pravico do uporabe teh številk. Če se številke v nasprotju s tem zakonom in podzakonskimi predpisi uporabljajo brez veljavne odločbe, inšpektor ukrepa v skladu s postopkom nadzora.
+# 60. člen (uporaba elementov oštevilčenja)
+Operater in fizične ali pravne osebe iz prvega odstavka 62. člena tega zakona lahko uporabljajo elemente oštevilčenja le na podlagi odločbe o dodelitvi elementov oštevilčenja, s katero agencija podeli pravico do njihove uporabe.

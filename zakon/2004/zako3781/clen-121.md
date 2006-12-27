@@ -6,5 +6,7 @@
 3. obliko sodelovanja s predstavniki uporabniških organizacij javnih komunikacijskih storitev in pomoč pri njihovem oblikovanju in delovanju.
 (3) Agencija je dolžna objavljati podatke in informacije o:
 1. sklenjenih pogodbah o medomrežnem povezovanju operaterjev s pomembno tržno močjo;
-2. vzorčnih ponudbah tistih operaterjev, ki so jih dolžni oblikovati in objaviti;
-3. izračunih nadomestila in stroškov za zagotavljanje univerzalne storitve.
+2. vzorčnih ponudbah tistih operaterjev omrežij, ki so jih dolžni oblikovati in objaviti;
+3. izračunih nadomestila in stroškov za zagotavljanje univerzalne storitve;
+4. odločbah o pravicah uporabe radijskih frekvenc in elementov oštevilčenja;
+5. prenosu pravice do uporabe radijskih frekvenc in elementov oštevilčenja.

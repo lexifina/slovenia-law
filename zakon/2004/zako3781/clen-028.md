@@ -3,7 +3,7 @@
 (2) Obveznosti iz tega člena lahko agencija naloži le, če na podlagi tržnih analiz iz 21. člena tega zakona ugotovi, da upošteven trg, ki je namenjen končnim uporabnikom, ni dovolj konkurenčen, obveznosti na podlagi 23. do vključno 27. člena in 30. člena tega zakona pa ne bi dosegle ciljev, ki jih na trgu zasleduje. Obveznosti iz tega člena lahko vključujejo prepoved:
 1. zaračunavanja prekomernih cen,
 2. oviranja vstopa na trg,
-3. omejevanja konkurence s postavljanjem previsokih ali prenizkih cen,
+3. omejevanja konkurence s postavljanjem prenizkih cen,
 4. dajanja neupravičene prednosti določenim končnim uporabnikom,
 5. neutemeljenega združevanja določenih storitev.
 (3) Agencija lahko hkrati z naložitvijo obveznosti na podlagi tega člena predpiše eno izmed naslednjih metod:

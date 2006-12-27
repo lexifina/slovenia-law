@@ -5,5 +5,6 @@
 3. območje pokrivanja;
 4. čas veljavnosti odločbe o dodelitvi radijskih frekvenc;
 5. pogoje, ki morajo biti izpolnjeni pri uporabi radijskih frekvenc.
-(2) Kadar je predmet odločbe dodelitev radijskih frekvenc za opravljanje radiodifuzije, vsebuje odločba tudi navedbo imena programa ter pogoje in zahteve glede programskih vsebin, ki morajo biti izpolnjeni pri uporabi radijskih frekvenc.
-(3) Spremembo podatkov iz prve točke prvega odstavka tega člena mora imetnik pravice uporabe radijskih frekvenc agenciji sporočiti v 30 dneh od njihovega nastanka.
+(2) Pogoji iz 5. točke prejšnjega odstavka morajo pri odločbi o dodelitvi radijskih frekvenc, izdani na podlagi javnega razpisa, vsebovati tudi pogoje, ki se nanašajo na 5. in 7. točko 49. člena tega zakona.
+(3) Kadar je predmet odločbe dodelitev radijskih frekvenc za opravljanje radiodifuzije, vsebuje odločba tudi navedbo imena programa ter pogoje in zahteve glede programskih vsebin, ki morajo biti izpolnjeni pri uporabi radijskih frekvenc.
+(4) Spremembo podatkov iz 1. točke prvega odstavka tega člena in spremembo imena programa iz prejšnjega odstavka mora imetnik pravice uporabe radijskih frekvenc sporočiti agenciji v 30 dneh od njihovega nastanka.

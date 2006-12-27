@@ -1,4 +1,5 @@
 # 146. člen (pravna sredstva)
-(1) Zoper odločbo izdano v postopku nadzora po tem zakonu je v 15 dneh od njene vročitve dovoljena pritožba na ministrstvo, pristojno za elektronske komunikacije. Pritožba ne zadrži njene izvršitve.
-(2) Tožba v upravnem sporu zoper dokončno odločbo, izdano v pritožbenem postopku iz prvega odstavka tega člena, se vloži pri Upravnem sodišču Republike Slovenije v Ljubljani.
-(3) Postopki v zvezi s tožbami v upravnem sporu po tem zakonu so hitri. Sodišče o njih odloča po tem zakonu prednostno, kar velja tudi za pritožbeno sodišče.
+(1) Odločba agencije in informacijskega pooblaščenca, izdana v postopku nadzora na podlagi tega zakona, je v upravnem postopku dokončna. Zoper odločbo se lahko vloži tožba v upravnem sporu.
+(2) Zoper odločbo, izdano v postopku nadzora po tem zakonu s strani pristojnih inšpektorjev, je v 15 dneh od njene vročitve dovoljena pritožba na pristojno ministrstvo. Pritožba ne zadrži njene izvršitve.
+(3) Tožba v upravnem sporu zoper dokončno odločbo, izdano v postopku nadzora po tem zakonu, se vloži na sedežu Upravnega sodišča Republike Slovenije.
+(4) Sodišče prve stopnje in pritožbeno sodišče o tožbah v upravnem sporu po tem zakonu odločata prednostno.

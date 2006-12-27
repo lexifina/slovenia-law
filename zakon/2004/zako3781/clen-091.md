@@ -17,4 +17,4 @@
 8. skupni znesek računa.
 (4) Če operater iz prejšnjega odstavka uporablja različne tarife za krajevne in medkrajevne klice, morajo biti ločeno prikazani zahtevani podatki iz prve alinee 6. točke prejšnjega odstavka za krajevne in medkrajevne klice.
 (5) Za ostale operaterje javno dostopnih telefonskih storitev se smiselno uporabljajo določbe tretjega odstavka tega člena.
-(6) Vse višje stopnje razčlenitve računa, ki jih nudi operater, morajo biti opredeljene v splošnih pogojih. Če jih operater nudi odplačno, morajo biti njihove cene določene v višini dejanskih stroškov, ki jih imajo operaterji z zahtevano dodatno razčlenitvijo.
+(6) Vse višje stopnje razčlenitve računa, ki jih nudi operater, morajo biti opredeljene v splošnih pogojih. Če jih operater nudi odplačno, morajo biti njihove cene določene v višini dejanskih stroškov, ki jih imajo operaterji z zahtevano dodatno razčlenitvijo. Navedeno ne posega v možnost drugih uporabnikov in naročnikov, da posamične storitve plačujejo posebej, kjer je to tehnično mogoče, in v tem primeru niso vključene v razčlenjeni račun.

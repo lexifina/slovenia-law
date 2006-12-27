@@ -1,10 +1,10 @@
 # 153. člen (prekrški)
-(1) Z globo od 500.000 do 10,000.000 tolarjev se za prekršek kaznuje pravna oseba, če:
-1. ne deluje v skladu z odločbo o dodelitvi radijskih frekvenc (48. in 49. člen);
+(1) Z globo od 2,000.000 do 5,000.000 tolarjev se za prekršek kaznuje pravna oseba, če:
+1. (črtana)
 2. ne pošlje vseh podatkov o pravnih poslih v zvezi z dodeljenimi številkami agenciji (sedmi odstavek 62. člena);
 3. ne deluje v skladu z odločbo o dodelitvi številk (63. in 64. člen);
 4. ne omogoči uporabnikom iz drugih držav članic Evropske unije, da kličejo na negeografske številke v Republiki Sloveniji, če je to tehnično in ekonomsko izvedljivo (prvi odstavek 73. člena);
-5. načrtuje javno komunikacijsko omrežje v nasprotju z drugim odstavkom 75. člena;
+5. (črtana)
 6. deluje v nasprotju z drugim odstavkom 77. člena;
 7. naročniška pogodba ne vsebuje vseh predpisanih elementov (prvi in drugi odstavek 85. člena);
 8. ne obvešča svojih naročnikov v skladu s tretjim odstavkom 85. člena;
@@ -23,11 +23,11 @@
 - namenom in trajanjem obdelovanja lokacijskih podatkov;
 - vrsto lokacijskih podatkov, ki bodo posredovani tretjim osebam (drugi odstavek 106. člena);
 20. ne nudi naročniku oziroma uporabniku možnosti, da kadarkoli na enostaven način in brezplačno začasno prepreči obdelovanje lokacijskih podatkov (tretji odstavek 106. člena);
-21. za neposredno trženje uporablja klicne avtomate, faksimilne naprave ali elektronsko pošto, brez predhodnega soglasja naročnika (prvi odstavek 109. člena);
+21. (črtana)
 22. zbrane podatke uporablja v nasprotju z drugim odstavkom 110. člena;
 23. naročnikov predhodno in brezplačno ne obvesti o namenu in nadaljnji uporabi tiskanega ali elektronskega naročniškega imenika, ki vsebuje njihove osebne podatke (prvi odstavek 111. člena);
 24. naročnikom ne da možnosti za odločitev (drugi odstavek 111. člena);
 25. zavrnitev vpisa v javni naročniški imenik, preverjanje, sprememba ali izbris osebnih podatkov ni brezplačna (tretji odstavek 111. člena);
 26. elektronska komunikacijska omrežja za razširjanje storitev digitalne televizije ne načrtuje tako, da se da po njih razširjati tudi široko - zaslonske televizijske storitve in programe (prvi odstavek 113. člena);
 27. ne ohrani širokozaslonski format (drugi odstavek 113. člena);
-(2) Z globo od 50.000 do 200.000 tolarjev se kaznuje samostojni podjetnik posameznik in odgovorna oseba samostojnega podjetnika posameznika, ali odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
+(2) Z globo od 200.000 do 500.000 tolarjev se kaznuje samostojni podjetnik posameznik in odgovorna oseba samostojnega podjetnika posameznika, ali odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
