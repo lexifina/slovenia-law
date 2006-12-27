@@ -1,0 +1,15 @@
+# 8. člen Sodelovanje in pomoč
+
+1. Vsaka visoka pogodbenica, ki to lahko stori, pomaga pri označevanju in čiščenju, odstranjevanju ali uničevanju eksplozivnih ostankov vojne ter pri izobraževanju civilnega prebivalstva o tveganju in s tem povezanimi dejavnostmi med drugim prek sistema Združenih narodov, drugih ustreznih mednarodnih, regionalnih ali nacionalnih organizacij ali institucij, Mednarodnega odbora Rdečega križa, nacionalnih društev Rdečega križa in Rdečega polmeseca in njihove mednarodne federacije, nevladnih organizacij ali na dvostranski podlagi.
+
+2. Vsaka visoka pogodbenica, ki to lahko stori, pomaga pri skrbi za žrtve eksplozivnih ostankov vojne in pri njihovi rehabilitaciji ter ponovni socialni in ekonomski vključitvi v družbo. Taka pomoč se lahko med drugim zagotovi prek sistema Združenih narodov, ustreznih mednarodnih, regionalnih ali nacionalnih organizacij ali institucij, Mednarodnega odbora Rdečega križa, nacionalnih društev Rdečega križa in Rdečega polmeseca in njihove mednarodne federacije, nevladnih organizacij ali na dvostranski podlagi.
+
+3. Vsaka visoka pogodbenica, ki to lahko stori, prispeva v skrbniške sklade v sistemu Združenih narodov in v druge ustrezne skrbniške sklade, da bi omogočila pomoč po tem protokolu.
+
+4. Vsaka visoka pogodbenica ima pravico sodelovati pri čim širši izmenjavi opreme, materiala ter znanstvenih in tehnoloških informacij, potrebnih za izvajanje tega protokola, razen tehnologije, povezane z orožjem. Visoke pogodbenice se zavezujejo, da bodo olajšale take izmenjave v skladu z notranjo zakonodajo, in ne postavljajo nepotrebnih omejitev pri zagotavljanju opreme za čiščenje in s tem povezanih tehnoloških informacij za humanitarne namene.
+
+5. Vsaka visoka pogodbenica se zavezuje, da bo pošiljala informacije o protiminskem delovanju v ustrezne zbirke podatkov, vzpostavljene v okviru Združenih narodov, predvsem informacije o različnih sredstvih in tehnologijah za čiščenje eksplozivnih ostankov vojne, seznamih strokovnjakov, strokovnih agencijah ali nacionalnih točkah za stike za čiščenje eksplozivnih ostankov vojne, neobvezno pa tehnične informacije o ustreznih vrstah eksplozivnih sredstev.
+
+6. Visoke pogodbenice lahko prošnje za pomoč, podprte z ustreznimi informacijami, predložijo Združenim narodom, drugim ustreznim telesom ali drugim državam. Te prošnje lahko predložijo generalnemu sekretarju Združenih narodov, ta pa jih pošlje vsem visokim pogodbenicam ter ustreznim mednarodnim organizacijam in nevladnim organizacijam.
+
+7. Glede zaprosil, naslovljenih na Združene narode, lahko generalni sekretar Združenih narodov v okviru virov, ki jih ima na razpolago, sprejme ustrezne ukrepe za presojo položaja ter v sodelovanju z visoko pogodbenico prosilko in drugimi visokimi pogodbenicami, katerih odgovornost je opredeljena v 3. členu, priporoči primerno pomoč. Generalni sekretar lahko visokim pogodbenicam tudi poroča o kakršni koli taki presoji ter o vrsti in obsegu zaprošene pomoči, vključno z mogočimi prispevki iz skrbniških skladov, vzpostavljenih v sistemu Združenih narodov.
