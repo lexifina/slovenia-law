@@ -1,0 +1,8 @@
+# 82. člen
+96. člen se spremeni tako, da se glasi:
+"96. člen
+(izvajanje storitev)
+(1) Operaterji, ki zagotavljajo dostop do javnega telefonskega omrežja in javnih telefonskih storitev, morajo sprejeti ustrezne tehnične in organizacijske ukrepe, ki omogočajo, da so njihove dejavnosti v primeru katastrofalnega izpada omrežja, v vojnem ali izrednem stanju ter ob naravnih in drugih nesrečah čim manj motene. Te ukrepe morajo uskladiti z organi, ki so nosilci varnostnega in obrambnega sistema ter sistema zaščite in reševanja. Operaterji morajo te ukrepe izvajati ves čas trajanja okoliščin, zaradi katerih so bili sprejeti.
+(2) Z ukrepi iz prejšnjega odstavka mora biti zagotovljeno, da se v najkrajšem času zagotovi celovitost javnega telefonskega omrežja ter razpoložljivost javnega telefonskega omrežja in javno dostopnih telefonskih storitev. S temi ukrepi se mora omogočiti tudi neprekinjen dostop do in uporaba številk za klic v sili, predvsem do enotne evropske telefonske številke za klice v sili "112" in številke policije "113", in sicer tudi v primeru delnih izpadov javnega telefonskega omrežja.
+(3) Operaterji morajo prednostno zagotavljati delovanje tistih delov omrežja, ki so nujni za nemoteno delovanje omrežij nosilcev varnostnega in obrambnega sistema ter sistema zaščite in reševanja. Za čim krajše izpade teh omrežij morajo operaterji po potrebi predvideti tudi nadomestne poti.
+(4) Minister lahko izda navodila o tem, kaj morajo obsegati ukrepi iz prvega odstavka tega člena.".

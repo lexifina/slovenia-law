@@ -1,0 +1,12 @@
+# 4. člen
+V prvem odstavku 5. člena se besedilo "začetkom, spremembo ali prenehanjem" nadomesti z besedilom "začetkom ali spremembo", beseda "izvajanjem" se nadomesti z besedo "izvajanja", drugi stavek pa se črta.
+Doda se nov drugi odstavek, ki se glasi:
+"(2) Operater z obvestilom agencije pridobi pravico, da se pod pogoji in skladno z 9. členom tega zakona z drugimi operaterji pogaja o medomrežnem povezovanju in, kjer je to primerno, od njih pridobi operaterski dostop ali medomrežno povezavo, in možnost, da je določen za izvajalca univerzalne storitve skladno s 13. členom tega zakona. Merila in postopki za naložitev posamičnih obveznosti operaterjem izhajajo iz III. in IV. poglavja ter iz 9. in 13. člena tega zakona.".
+V dosedanjem drugem odstavku, ki postane tretji odstavek, se 4. točka spremeni tako, da se glasi:
+"4. predvideni datum začetka ali spremembe zagotavljanja javnih komunikacijskih omrežij oziroma izvajanja javnih komunikacijskih storitev.".
+Dosedanji tretji odstavek se črta.
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Spremembo podatkov iz 1., 2. in 3. točke prejšnjega odstavka mora operater agenciji sporočiti v roku 30 dni od njihovega nastanka. Spremembo podatkov iz 4. točke prejšnjega odstavka mora operater sporočiti pred predvidenim datumom, razen v primeru višje sile, ko spremembo lahko sporoči v osmih dneh po predvidenem datumu. Za spremembo podatkov iz 4. točke prejšnjega odstavka se šteje, če se zagotavljanje javnih komunikacijskih omrežij oziroma storitev na predvideni datum ne začne dejansko opravljati.".
+V petem, šestem in sedmem odstavku se besedilo "in dokazila iz drugega in tretjega odstavka" v različnih sklonih nadomesti z besedilom "iz tretjega odstavka".
+Doda se nov osmi odstavek, ki se glasi:
+"(8) Operater je najmanj 90 dni pred predvidenim prenehanjem zagotavljanja javnih komunikacijskih omrežij oziroma izvajanja javnih komunikacijskih storitev dolžan o tem obvestiti agencijo v pisni obliki. Operater mora v tem obvestilu opisati tudi način zagotavljanja trajne hrambe podatkov o registraciji zakonitega prestrezanja in hranjenih podatkov o prometu elektronskih komunikacij za celotno obdobje, za katerega je treba zagotoviti hrambo v skladu s tem zakonom, zlasti pa navesti, kje bo tako hranjeno gradivo dostopno. V zvezi z načinom in pogoji hrambe se uporabljajo določbe zakona, ki ureja varstvo osebnih podatkov, in zakona, ki ureja varstvo dokumentarnega gradiva.".

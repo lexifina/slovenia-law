@@ -1,0 +1,5 @@
+# 38. člen
+45. člen se spremeni tako, da se glasi:
+"45. člen
+(uporaba določb zakona, ki ureja splošni upravni postopek)
+Agencija po sprejemu poročila komisije o oceni ponudb oziroma obrazloženega predloga Sveta za radiodifuzijo, če je predmet javnega razpisa dodelitev radijskih frekvenc za opravljanje radiodifuzije, nadaljuje z odločanjem po zakonu, ki ureja splošni upravni postopek, pri čemer imajo položaj stranke vsi ponudniki, ki so v roku, določenem v javnem razpisu, predložili pravilno označene ponudbe.".
