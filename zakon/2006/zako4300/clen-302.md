@@ -1,0 +1,4 @@
+# 302. člen (sodelovanje med nadzornimi organi, če je ena od podrejenih družb zavarovalnica ali investicijsko podjetje)
+(1) Če banka, finančni holding ali mešani poslovni holding obvladuje eno ali več podrejenih družb, ki imajo položaj zavarovalnice ali druge nadzorovane finančne družbe, mora Banka Slovenije sodelovati tudi z nadzornimi organi, pristojnimi za nadzor te družbe.
+(2) Banka Slovenije si mora z nadzornimi organi iz prvega odstavka tega člena izmenjevati vse informacije, ki lahko olajšajo njihove naloge in jim omogočijo nadzor nad poslovanjem in splošnim finančnim položajem družb, ki jih nadzorujejo.
+(3) Če je mešani poslovni holding ali njegova podrejena družba zavarovalnica, se pregled poslovanja iz drugega odstavka 299. člena tega zakona lahko opravi v sodelovanju z nadzornim organom, pristojnim na nadzor zavarovalnice.

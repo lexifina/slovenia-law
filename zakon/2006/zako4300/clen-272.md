@@ -1,0 +1,3 @@
+## 7.8.2. Posebne določbe za prisilno likvidacijo banke, ki ima podružnico v drugi državi članici, in za banko države članice, ki ima podružnico v Republiki Sloveniji
+# 272. člen (neposredni učinek odločb pristojnih organov držav članic)
+Odločba o začetku postopka, ki ima enak učinek kot odločba o prenehanju banke po tem zakonu, nad banko države članice, ki ima podružnico v Republiki Sloveniji in ki jo izda pristojni organ države članice sedeža te banke, ima brez posebnega postopka priznanja in izvršitve neposredni učinek na območju Republike Slovenije, in sicer takoj, ko postane izvršljiva v državi članici.

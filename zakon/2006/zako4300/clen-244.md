@@ -1,0 +1,4 @@
+# 244. člen (poročilo o odpravi kršitev)
+(1) Banka mora v roku, določenem z odredbo o odpravi kršitev, odpraviti ugotovljene kršitve in Banki Slovenije dostaviti poročilo, v katerem opiše ukrepe za odpravo kršitev (v nadaljnjem besedilu: poročilo o odpravi kršitev).
+(2) Poročilu o odpravi kršitev je treba priložiti listine in druge dokaze, iz katerih izhaja, da so bile ugotovljene kršitve odpravljene, in v primeru iz 243. člena tega zakona tudi poročilo pooblaščenega revizorja o odpravi kršitev.
+(3) Če je poročilo o odpravi kršitev nepopolno oziroma iz poročila in priloženih dokazov ne izhaja, da so ugotovljene kršitve odpravljene, Banka Slovenije banki z odredbo naloži dopolnitev poročila in ji določi rok za dopolnitev (v nadaljnjem besedilu: odredba o dopolnitvi poročila o odpravi kršitev).

@@ -1,0 +1,4 @@
+# 208. člen (opustitev razkritja določenih informacij)
+(1) Banka lahko opusti razkritje posameznih informacij iz prvega odstavka 207. člena tega zakona, če niso bistvene.
+(2) Banka lahko opusti razkritje posameznih informacij iz prvega odstavka 207. člena tega zakona, če imajo te značilnost zaupnih informacij ali poslovne skrivnosti. V takem primeru mora navesti, da teh informacij ni razkrila, in razkriti splošnejšo informacijo o tem, razen če bi imelo tudi tako splošnejše razkritje značilnost zaupne informacije ali poslovne skrivnosti.
+(3) Banka Slovenije lahko banki na njeno zahtevo dovoli, da v celoti ali deloma opusti razkritja informacij iz prvega odstavka 207. člena tega zakona, če te informacije razkrije nadrejena družba banke tretje države na konsolidirani podlagi in če so ta razkritja enakovredna razkritjem po tem zakonu.

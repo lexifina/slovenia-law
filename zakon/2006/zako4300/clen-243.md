@@ -1,0 +1,2 @@
+# 243. člen (predložitev poročila pooblaščenega revizorja o odpravi kršitev)
+Če Banka Slovenije ugotovi kršitve pri vodenju poslovnih knjig oziroma administrativnih in drugih evidenc, ki jih je dolžna voditi banka, oziroma druge pomembnejše kršitve pri poslovanju banke, lahko banki z odredbo o odpravi kršitev naloži tudi, da o odpravi kršitev predloži poročilo, s pozitivnim mnenjem pooblaščenega revizorja, da so ugotovljene kršitve odpravljene.

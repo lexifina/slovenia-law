@@ -1,0 +1,3 @@
+# 268. člen (pravne posledice prisilne likvidacije)
+(1) Z dnem izdaje odločbe o prisilni likvidaciji prenehajo vse pristojnosti in pooblastila članom uprave in članom nadzornega sveta banke ter pooblastila skupščine, razen pristojnosti za sprejem predloga likvidacijskega upravitelja za razdelitev premoženja delničarjem iz prvega odstavka 416. člena ZGD-1.
+(2) V postopku prisilne likvidacije izvršuje pristojnosti nadzornega sveta banke in pristojnosti skupščine, razen pristojnosti za sprejem predloga likvidacijskega upravitelja za razdelitev premoženja delničarjem iz prvega odstavka 416. člena ZGD-1, Banka Slovenije.

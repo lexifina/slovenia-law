@@ -1,0 +1,5 @@
+# 19. člen (nadzorni organ, nadzorovana finančna družba in dovoljenje za opravljanje bančnih storitev)
+(1) Nadzorovana finančna družba je finančna družba, nad katero opravlja nadzor nadzorni organ države te družbe.
+(2) Nadzorni organ po prvem odstavku tega člena je organ posamezne države, ki je na podlagi zakonov ali drugih predpisov te države pristojen za nadzor nad finančnimi družbami.
+(3) Pojem nadzorni organ je v določbah tega zakona uporabljen za nadzorni organ, pristojen za nadzor nad kreditnimi institucijami, razen če je v posamezni določbi tega zakona določeno, da se ta določba nanaša na nadzorni organ, pristojen za nadzor nad drugimi finančnimi družbami.
+(4) Dovoljenje za opravljanje bančnih storitev je pravni akt, ki ga v kakršni koli obliki izda nadzorni organ države članice ali tretje države sedeža banke in na podlagi katerega ta banka pridobi pravico opravljati bančne storitve.

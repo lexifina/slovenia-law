@@ -1,0 +1,5 @@
+# 51. člen (prenehanje veljavnosti dovoljenja za pridobitev kvalificiranega deleža)
+(1) Če bodoči kvalificirani imetnik v roku iz 50. člena tega zakona ne pridobi delnic banke, na podlagi katerih bi dosegel 10-odstotni delež glasovalnih pravic ali delež v kapitalu banke, dovoljenje preneha veljati v celoti.
+(2) Če kvalificirani imetnik v roku iz 50. člena tega zakona doseže 10-odstotni delež glasovalnih pravic ali delež v kapitalu banke, ne doseže pa deleža, za katerega je izdano dovoljenje, dovoljenje preneha veljati v delu, ki presega višino deleža glasovalnih pravic ali deleža v kapitalu banke, ki ga je imetnik pridobil.
+(3) Če kvalificirani imetnik po pridobitvi deleža, za katerega je bilo izdano dovoljenje, odsvoji delnice banke, dovoljenje preneha veljati v delu, ki presega višino deleža glasovalnih pravic ali deleža v kapitalu banke, ki ga imetnik po odsvojitvi še ima.
+(4) O prenehanju ali delnem prenehanju veljavnosti dovoljenja za pridobitev kvalificiranega deleža izda Banka Slovenije ugotovitveno odločbo.

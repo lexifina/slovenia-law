@@ -1,0 +1,3 @@
+# 126. člen (strategije in procesi ocenjevanja potrebnega notranjega kapitala)
+(1) Banka mora vzpostaviti in uresničevati primerne, učinkovite in celostne strategije in procese za stalno ocenjevanje in zagotavljanje zneskov, vrst in razporeditve notranjega kapitala, ki ga ocenjuje kot potrebno kritje glede na značilnosti in ravni tveganj, ki jim je ali bi jim lahko bila izpostavljena pri svojem poslovanju.
+(2) Strategije in procesi iz prejšnjega odstavka morajo biti predmet rednih notranjih pregledov, da se zagotovi, da ostanejo jasno in celovito opredeljeni in sorazmerni značilnostim, obsegu in zapletenosti poslov, ki jih opravlja banka.

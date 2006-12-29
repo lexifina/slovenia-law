@@ -1,0 +1,3 @@
+# 409. člen (uskladitev kvalificiranih imetnikov z novo prepovedjo)
+(1) Ne glede na 407. člen tega zakona, dovoljenje za pridobitev kvalificiranega deleža, ki je bilo izdano pravni osebi, v kateri ima banka najmanj 20-odstotni delež glasovalnih pravic ali najmanj 20-odstotni delež v njenem kapitalu, preneha veljati z iztekom šestih mesecev od uveljavitve tega zakona.
+(2) Če pravna oseba iz prvega odstavka tega člena do izteka roka iz prvega odstavka tega člena ne odsvoji delnic banke, na podlagi katerih dosega ali presega kvalificirani delež v banki, nastopijo pravne posledice iz 52. člena tega zakona.

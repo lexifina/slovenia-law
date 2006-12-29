@@ -1,0 +1,2 @@
+# 127. člen (poslovanje v skladu z omejitvami)
+Banka mora poslovati tako, da tveganja, ki jim je izpostavljena pri posameznih oziroma vseh vrstah poslov, ki jih opravlja, nikoli ne presežejo omejitev največjih dopustnih izpostavljenosti ali vsote izpostavljenosti, omejitve naložb v kvalificirane deleže v osebah nefinančnega sektorja ali drugih omejitev, določenih s tem zakonom in s predpisi o upravljanju s tveganji.

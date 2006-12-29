@@ -1,0 +1,3 @@
+# 273. člen (obveščanje nadzornih organov druge države članice o začetku postopka prisilne likvidacije)
+(1) Če ima banka podružnico v drugi državi članici, Banka Slovenije o tem, da bo izdala odločbo o začetku postopka prisilne likvidacije, obvesti pristojni nadzorni organ države članice, v kateri ima banka podružnico. V obvestilu mora navesti tudi pravne posledice in dejanske učinke izdane odločbe.
+(2) Če zaradi zaščite interesov strank banke oziroma zaradi drugih javnih koristi z izdajo odločbe iz prvega odstavka tega člena ni mogoče odlašati, Banka Slovenije obvesti nadzorni organ države članice takoj po izdaji odločbe.

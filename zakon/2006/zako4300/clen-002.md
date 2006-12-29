@@ -1,0 +1,9 @@
+# 2. člen (prenos direktiv EU)
+S tem zakonom se v pravni red Republike Slovenije prenašajo naslednje direktive Evropskega parlamenta in Sveta:
+1. Direktiva 2006/48/ES Evropskega parlamenta in Sveta z dne 14. junija 2006 o začetku opravljanja in opravljanju dejavnosti kreditnih institucij (UL L št. 177 z dne 30. junija 2006, str. 1),
+2. Direktiva 2006/49/ES Evropskega parlamenta in Sveta z dne 14. junija 2006 o kapitalski ustreznosti investicijskih podjetij in kreditnih institucij (UL L št. 177 z dne 30. junija 2006, str. 201),
+3. Direktiva Sveta 86/635/EGS z dne 8. decembra 1986 o letnih računovodskih izkazih in konsolidiranih letnih računovodskih izkazih bank in drugih finančnih institucij (UL L št. 372 z dne 31. decembra 1986, str. 1), zadnjič spremenjena z Direktivo 2003/51/ES Evropskega parlamenta in Sveta z dne 18. junija 2003 o spremembah direktiv 78/660/EGS, 83/349/EGS, 86/635/EGS in 91/674/EGS o letnih in konsolidiranih računovodskih izkazih posameznih vrst družb, bank in drugih finančnih institucij ter zavarovalnic (UL L št. 178 z dne 17. julija 2003, str. 16),
+4. Direktiva 94/19/ES Evropskega parlamenta in Sveta z dne 30. maja 1994 o sistemih zajamčenih vlog (UL L št. 135 z dne 31. maja 1994, str. 5),
+5. Direktiva 2000/46/ES Evropskega parlamenta in Sveta z dne 18. septembra 2000 o začetku opravljanja in opravljanju dejavnosti ter nadzoru skrbnega in varnega poslovanja institucij za izdajo elektronskega denarja (UL L št. 275 z dne 27. oktobra 2000, str. 39),
+6. Direktiva 2001/24/ES Evropskega parlamenta in Sveta z dne 4. aprila 2001 o reorganizaciji in prenehanju kreditnih institucij (UL L št. 125 z dne 5. 5. 2001, str. 15),
+7. Direktiva Sveta 89/117/EGS z dne 13. februarja 1989 o obveznosti podružnic, ustanovljenih v državi članici, ki pripadajo kreditnim in finančnim institucijam, s sedežem zunaj te države članice, glede objave letnih računovodskih izkazov (UL L št. 44 z dne 16. februarja 1989, str. 40).

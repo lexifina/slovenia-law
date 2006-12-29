@@ -1,0 +1,12 @@
+# 295. člen (izmenjava informacij med nadzornimi organi držav članic)
+(1) Banka Slovenije mora sodelovati z nadzornimi organi drugih držav članic. Posredovati jim mora informacije, ki so ključne ali pomembne za izvajanje njihovih nalog nadzora. Za uresničitev tega namena mora drugemu nadzornemu organu:
+1. na njegovo zahtevo posredovati vse informacije, ki so ključne ali pomembne za izvajanje nalog nadzora tega nadzornega organa,
+2. na lastno pobudo posredovati vse informacije, ki so ključne za izvajanje nalog nadzora tega nadzornega organa.
+(2) Informacija se šteje za ključno po prvem odstavku tega člena, če bi lahko imela pomemben vpliv za oceno finančne trdnosti kreditne institucije ali finančne institucije druge države članice.
+(3) Če je Banka Slovenije odgovorna za nadzor na konsolidirani podlagi EU nadrejene banke ali banke, ki jo obvladuje EU nadrejeni finančni holding, mora nadzornim organom drugih držav članic, ki nadzorujejo družbe, ki so podrejene tem nadrejenim družbam, zagotoviti vse pomembne informacije. Pri določitvi pomena informacij je treba upoštevati pomen te podrejene družbe za finančni sistem države članice, katere nadzorni organ nadzoruje to podrejeno družbo.
+(4) Pomembne informacije iz tretjega odstavka tega člena morajo obsegati zlasti naslednje podatke:
+1. o strukturi skupine in o vseh pomembnih bankah v skupini kakor tudi o vseh nadzornih organih, ki so pristojni za nadzor nad bankami v skupini,
+2. o postopkih zbiranja informacij od bank v skupini in preverjanja pravilnosti teh informacij,
+3. o neugodnih dogajanjih v banki ali drugih osebah v skupini, ki lahko resno vplivajo na druge banke v skupini,
+4. o pomembnih ukrepih, ki jih je izrekla banki, vključno z zahtevo za zagotovitev dodatnega kapitala iz drugega odstavka 248. člena tega zakona, in o vzpostavitvi vsake omejitve za uporabo naprednega pristopa za izračun kapitalske zahteve za operativno tveganje.
+(5) Če je Banka Slovenije odgovorna za nadzor banke, ki jo obvladuje EU nadrejena kreditna institucija, mora, če potrebuje informacije glede uporabe pristopov in metodologij za izračun kapitalskih zahtev in omejitev, vedno, če je to mogoče, pri nadzornem organu, odgovornem za nadzor EU nadrejene kreditne institucije, preveriti, ali so te informacije dostopne pri njem.

@@ -1,0 +1,3 @@
+# 210. člen (posebna pravila o revidiranju letnega poročila banke)
+(1) Naloge revidiranja letnega in konsolidiranega letnega poročila nadrejene banke v bančni skupini in letnih poročil podrejenih družb v tej bančni skupini mora opraviti ista revizijska družba, razen če to ni mogoče zaradi predpisov drugih držav ali ker temu nasprotuje pristojni nadzorni organ druge države.
+(2) Banka mora Banki Slovenije predložiti revidirano letno poročilo in revidirano konsolidirano letno poročilo v osmih dneh po prejemu revizorjevega poročila, vendar ne kasneje kot v petih mesecih po koncu koledarskega leta.
