@@ -1,0 +1,3 @@
+# 8. člen
+
+Če član pododbora umre, odstopi ali zaradi kakršnega koli razloga ne more več opravljati svojih dolžnosti, država pogodbenica, ki je tega člana predlagala, predlaga drugo osebo, ki je ustrezno usposobljena in izpolnjuje zahteve iz 5. člena, ob upoštevanju potrebe po uravnoteženi zastopanosti različnih področij, in bo opravljala delo do naslednjega sestanka držav pogodbenic, če se s tem strinja večina držav pogodbenic. Šteje se, da se države pogodbenice strinjajo, razen če polovica ali več držav pogodbenic odgovori negativno v šestih tednih, potem ko jih je generalni sekretar Združenih narodov obvestil o predlaganem imenovanju.
