@@ -1,3 +1,0 @@
-# 68. člen (posebne uvozne dajatve)
-(1) Za izvajanje posebnih uvoznih dajatev se uporabljajo določbe zakona, ki ureja posebne uvozne dajatve, če ta zakon ne določa drugače. Posebne uvozne dajatve se določajo največ do višine in za tiste ribe, ribiške proizvode oziroma izdelke, kot je to določeno v mednarodnih pogodbah, ki obvezujejo Republiko Slovenijo.
-(2) Za zagotavljanje uravnotežene preskrbe trga s surovinami, namenjenimi za predelovalno industrijo, se lahko uvozne dajatve za določene ribe, ribiške proizvode oziroma izdelke v celoti ali delno oprostijo za nedoločen čas v skladu s predpisom vlade.

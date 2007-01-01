@@ -1,4 +1,0 @@
-# 62. člen (priporočene cene)
-(1) Zaradi potrebe stabilizacije cen v prometu z ribami in ribiškimi proizvodi, usklajevanja ponudbe in povpraševanja na trgu in preprečevanja tržnih presežkov rib in ribiških proizvodov vlada za vsako ribolovno leto v skladu z mednarodnimi pogodbami, ki obvezujejo Republiko Slovenijo, določi seznam rib in ribiških proizvodov, za katere določi priporočeno ceno in obdobje, za katero te cene veljajo.
-(2) Za potrebe določanja cen iz prejšnjega odstavka ministrstvo redno evidentira prodajne cene rib in ribiških proizvodov na reprezentativnih trgih in mestih uvoza rib, ribiških proizvodov in izdelkov, določenih v skladu z mednarodnimi pogodbami, ki obvezujejo Republiko Slovenijo.
-(3) Ministrstvo evidentirane podatke iz prejšnjega odstavka sporoča v mednarodni sistem zajema podatkov v skladu z mednarodno pogodbo, ki obvezuje Republiko Slovenijo.
