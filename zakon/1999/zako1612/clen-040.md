@@ -3,7 +3,7 @@
 # 40. člen
 (1) Kadar je pravni posel podlaga za nastanek pravic tretjih na nematerializiranem vrednostnem papirju (v nadaljnjem besedilu: pravice na vrednostnem papirju) iz prvega odstavka 28. člena tega zakona, se pravice vpišejo v centralni register na podlagi naloga imetnika vrednostnega papirja.
 (2) Nalog za vpis pravice na vrednostnem papirju mora obsegati:
-1. firmo in sedež oziroma ime in naslov imetnika in osebe, v korist katere se zahteva vpis pravice (v nadaljnjem besedilu: upravičenec);
+1. firmo in sedež oziroma ime in naslov imetnika in osebe, v korist katere se zahteva vpis pravice (v nadaljnjem besedilu: upravičenec),
 2. enolično identifikacijo imetnika in upravičenca,
 3. natančno označbo vrednostnih papirjev, na katerih naj se vpiše pravica,
 4. število vrednostnih papirjev, na katerih naj se vpiše pravica,
