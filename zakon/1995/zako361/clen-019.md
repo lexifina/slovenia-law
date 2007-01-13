@@ -1,5 +1,6 @@
 # 19. člen
 (1) Delavec, ki je ustvaril prosti izum, mora o izumu pisno obvestiti delodajalca. Obvestilo mora vsebovati toliko podatkov o izumu, da delodajalec lahko presodi, ali gre za prosti izum.
 (2) Delodajalec mora delavcu pisno potrditi prejem obvestila o prostem izumu.
-(3) Delodajalec lahko, v roku dveh mesecev od prejema obvestila o prostem izumu, pripozna delavcu, da gre za prosti izum, ali prostemu izumu ugovarja pri poravnalnem svetu.
-(4) Delavec mora pred začetkom uporabe prostega izuma pisno ponuditi delodajalcu odkup pravice do uporabe prostega izuma. Če delodajalec ponudbe ne sprejme v roku dveh mesecev od prejema ponudbe, ponudba ugasne. Če delodajalec ponudbo sprejme, ne strinja pa se s ponujenimi pogoji, lahko sproži postopek pri poravnalnem svetu v roku dveh mesecev od prejema ponudbe.
+(3) Delodajalec lahko, v roku dveh mesecev od prejema obvestila o prostem izumu, pripozna delavcu, da gre za prosti izum, ali prostemu izumu ugovarja pri poravnalnem svetu. Če delodajalec v tem roku izuma ne pripozna za prostega ali ne sproži postopka pred poravnalnim svetom, izgubi pravico prevzeti izum kot službeni izum.
+(4) Delavec mora pred začetkom uporabe prostega izuma pisno ponuditi delodajalcu odkup pravice do uporabe prostega izuma. Če delodajalec ponudbe ne sprejme v roku dveh mesecev od prejema ponudbe, njegova predkupna pravica ugasne. Če delodajalec ponudbo sprejme, ne strinja pa se s ponujenimi pogoji, lahko sproži postopek pri poravnalnem svetu v roku dveh mesecev od prejema ponudbe.
+(5) Delavec nima obveznosti iz prvega in četrtega odstavka tega člena, če prosti izum očitno ni s področja delodajalčeve dejavnosti.
