@@ -1,0 +1,3 @@
+# 4. člen
+V prvem odstavku 149. člena se v 1. točki beseda "ali" nadomesti z vejico, v 2. točki pa se pika nadomesti z besedo "ali" ter doda nova 3. točka, ki se glasi:
+"3. je za isto vrsto avtorskih del in za iste pravice že izdano dovoljenje za kolektivno upravljanje avtorskih pravic drugi kolektivni organizaciji, razen če pravna oseba izkaže, da bi lahko zagotovila učinkovitejše in gospodarnejše upravljanje avtorskih pravic in da bi na podlagi pogodb z avtorji upravljala obsežnejši repertoar varovanih del kakor obstoječa kolektivna organizacija. Z izdajo dovoljenja novi kolektivni organizaciji dotedanji dovoljenje preneha veljati.".
