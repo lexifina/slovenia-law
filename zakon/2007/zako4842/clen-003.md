@@ -1,0 +1,4 @@
+# 3. člen
+V prvem odstavku 19. člena se besedi "ocene ocenjevalcev" nadomestita z besedilom "oceno aktivnih snovi in FFS".
+Tretji odstavek se spremeni tako, da se glasi:
+"Ne glede na prvi odstavek tega člena predlog komisije in soglasje organa, pristojnega za kemikalije, nista potrebna pri spremembah odločb o registraciji FFS, ki se izdajajo zaradi manjših sprememb, ki ne vplivajo na razvrstitev, pakiranje in označevanje FFS v skladu s predpisi o nevarnih snoveh in pripravkih, kot so sprememba trgovskega imena, sprememba proizvajalca oziroma zastopnika, spremembe sestave, ki se v skladu z mednarodnimi standardi, priznanimi v EU, štejejo za manjše spremembe, ukinitev ali omejitev določenih uporab oziroma znižanja najvišjih dovoljenih vrednosti ostankov, če so te spremembe posledica usklajevanja s pravnim redom EU. O spremembi odločbe o registraciji pristojni organ obvesti organ, pristojen za kemikalije.".

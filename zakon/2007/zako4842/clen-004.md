@@ -1,0 +1,15 @@
+# 4. člen
+Za 23.a členom se doda nov 23.b člen, ki se glasi:
+"23.b člen
+(priznavanje nujno potrebnih FFS)
+Ne glede na določbe 3., 13. in 23.a člena tega zakona lahko minister na predlog pristojnega organa določi seznam nujno potrebnih FFS za zagotavljanje zdravstvenega varstva kmetijskih rastlin, tudi če aktivne snovi še niso na seznamu aktivnih snovi iz 29. člena tega zakona, če v Republiki Sloveniji niso registrirana FFS za učinkovito varstvo rastlin. Seznam nujno potrebnih FFS se objavi v Uradnem listu Republike Slovenije, dostopen pa je tudi na spletnih straneh pristojnega organa, kjer se sproti dopolnjuje in spreminja.
+Za uvrstitev FFS na seznam iz prejšnjega odstavka morajo biti izpolnjeni naslednji pogoji:
+- v Republiki Sloveniji ni v prometu učinkovitega FFS za določen namen uporabe;
+- FFS mora biti za tak namen registrirano v vsaj eni od držav članic EU, kjer so razmere v kmetijski pridelavi, varstvu rastlin in okolju, vključno s klimatskimi pogoji, pomembne za uporabo sredstva, primerljive z razmerami v Republiki Sloveniji;
+- promet in uporaba sta skladna s predpisi o mejnih vrednostih ostankov FFS in predpisi o vključitvi aktivnih snovi na seznam;
+- pravna ali fizična oseba oziroma pravne ali fizične osebe za distribucijo FFS na območju Republike Slovenije izpolnjujejo pogoje iz 5. člena tega zakona in so odgovorne za pravilno označevanje in opremljanje FFS v skladu s 4. členom tega zakona.
+Vlogo za uvrstitev FFS na seznam iz prvega odstavka tega člena lahko vloži predstavnik proizvajalca tega FFS v Republiki Sloveniji, združenje kmetijskih proizvajalcev, Kmetijsko gozdarska zbornica, pravna oseba, ki se ukvarja s prometom FFS, in osebe iz prvega odstavka 9. člena tega zakona.
+Iz vloge morajo biti razvidni strokovna utemeljitev potrebe po tem FFS, podatki o FFS (ime, proizvajalec in država, kjer je FFS registrirano), predviden namen uporabe v Republiki Sloveniji ter ime najmanj ene pravne ali fizične osebe, ki izpolnjuje pogoje iz 5. člena tega zakona in bo FFS dajala v promet na območju Republike Slovenije. Vlogi je treba priložiti originalno etiketo FFS.
+Izpolnjevanje pogojev iz prejšnjega odstavka preveri pristojni organ. V postopku obravnave vloge preveri skladnost FFS s pravnim redom EU ter pridobi podatke o registraciji FFS. Vlogo in podatke o registraciji FFS posreduje organu, pristojnemu za kemikalije. Če ima proizvajalec FFS, za katerega je vložena vloga iz tretjega odstavka tega člena, uradnega zastopnika ali distributerja za območje Republike Slovenije, vlogo pa je vložil drug vlagatelj, pristojni organ obvesti uradnega zastopnika ali distributerja o prispeli vlogi.
+Pristojni organ odloči o uvrstitvi FFS na seznam iz prvega odstavka tega člena in z odločbo določi namen uporabe. O uvrstitvi na seznam obvesti organ, pristojen za kemikalije. Če registracija iz druge alinee drugega odstavka tega člena preneha veljati, pristojni organ izbriše FFS s seznama po uradni dolžnosti.
+Ne glede na določbe 7. člena tega zakona se FFS, ki so na seznamu iz prvega odstavka tega člena, lahko prodajajo le kupcem, ki predložijo veljavno dokazilo o opravljenem usposabljanju.".
