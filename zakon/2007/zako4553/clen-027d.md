@@ -1,0 +1,2 @@
+# 27.d člen (posebnosti glede finančnega poslovanja Slovenskih železnic)
+Nad Slovenskimi železnicami ne more biti uveden stečajni postopek, če je insolventnost ali prezaldoženost posledica opravljanja obveznih gospodarskih javnih služb v skladu s tem zakonom in na njegovi podlagi izdanimi predpisi. V tem primeru se določbe Zakona o prisilni poravnavi, stečaju in likvidaciji (Uradni list RS, št. 67/93, 39/97, 1/99 - ZNIDC, 52/99, 42/02 - ZDR in 10/06 - odločba US) za Slovenske železnice ne uporabljajo.

@@ -1,0 +1,3 @@
+# 42. člen (prevzem nalog in nadaljevanje postopkov)
+(1) Postopke izdajanja dovoljenj in soglasij, ki jih izdaja agencija na podlagi Zakona o železniškem prometu (Uradni list RS, št. 26/05 - uradno prečiščeno besedilo), z dnem prevzema pravic in obveznosti iz drugega odstavka 40. člena tega zakona prevzamejo Slovenske železnice.
+(2) Organi, ki so opravljali naloge v skladu z Zakonom o železniškem prometu (Uradni list RS, št. 26/05 - uradno prečiščeno besedilo) in Zakonom o varnosti v železniškem prometu (Uradni list RS, št. 102/04 - uradno prečiščeno besedilo) do uveljavitve tega zakona, opravljajo te naloge do njihovega prenosa na pristojne organe, določene s tem zakonom.

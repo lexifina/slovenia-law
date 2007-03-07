@@ -1,0 +1,15 @@
+# 27. člen
+26. člen se spremeni tako, da se glasi:
+"26. člen
+(naloge preiskovalnega organa)
+(1) Preiskovalni organ izvaja preiskave resnih nesreč, nesreč in incidentov v železniškem prometu s ciljem izboljšanja varnosti v železniškem prometu. Preiskovalni organ mora biti organizacijsko, finančno in pravno neodvisen od upravljavca železniške infrastrukture, prevoznika v železniškem prometu, organa za določanje uporabnine, organa za dodeljevanje infrastrukturnih zmogljivosti in priglašenega organa ter od drugih subjektov, katerih interesi bi lahko bili v navzkrižju z nalogami, ki so zaupane preiskovalnemu organu. Mora biti tudi funkcionalno neodvisen od varnostnega organa in regulatornega organa.
+(2) Preiskovalni organ mora preiskati resne nesreče.
+(3) Preiskovalni organ lahko po lastnem preudarku odloči, da bo preiskal tudi nesreče in incidente, ki bi v podobnih okoliščinah lahko nesreče povzročili, vključno s primeri tehničnih napak strukturnih podsistemov ali komponent interoperabilnosti železniškega sistema. Pri svoji odločitvi upošteva:
+a) resnost nesreče ali incidenta;
+b) ali je nesreča ali incident del niza nesreč ali incidentov, ki zadevajo celotni sistem;
+c) vpliv na varnost v železniškem prometu na ravni Evropske skupnosti in
+d) zahteve upravljavcev železniške infrastrukture, prevoznikov v železniškem prometu, varnostnega organa ali države članice Evropske skupnosti.
+(4) Preiskovalni organ v zvezi s svojimi ugotovitvami daje priporočila varnostnemu organu v cilju izboljšanja varnosti železniškega prometa, vključno s priporočili za izdajo odločb o odreditvi odprave ugotovljenih nepravilnosti ali pomanjkljivosti v določenem roku, prepovedi nadaljnjega izvajanje prevoznih storitev v železniškem prometu prevozniku, če zanje nima veljavne licence ali varnostnega spričevala ali če ne izpolnjuje pogojev, na podlagi katerih je pridobil ta dokument, ali izvrševanja drugih pravic in dolžnosti, ki jih ima varnostni organ po zakonu, ki ureja inšpekcijsko nadzorstvo. Kadar je to potrebno zaradi narave varnostnega priporočila, se ta pošljejo tudi drugim organom v Republiki Sloveniji ali v drugih državah članicah Evropske Skupnosti.
+(5) Varnostno priporočilo ne sme vzpostaviti domneve o krivdi oziroma odgovornosti za nesrečo ali drug izredni dogodek.
+(6) Varnostni organ in po potrebi drugi državni organi morajo upoštevati varnostna priporočila in v ta namen sprejeti ustrezne ukrepe za njihovo uresničitev. Varnostni organ in po potrebi drugi državni organi obveščajo preiskovalni organ najmanj enkrat na leto o sprejetih ukrepih in o ukrepih, ki jih načrtujejo v zvezi s priporočili. Varnostni organ in po potrebi drugi državni organi obveščajo najmanj enkrat na leto o sprejetih ukrepih in o ukrepih, ki jih načrtujejo v zvezi s priporočili, tudi varnostni organ druge države članice, ki jim ja posredoval varnostno priporočilo.
+(7) Prevozniki, upravljavec in varnostni organ, če izve, da prevoznik oziroma upravljavec tega nista storila, so dolžni obveščati preiskovalni organ o resnih nesrečah, nesrečah in incidentih v železniškem prometu.".

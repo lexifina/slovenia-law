@@ -1,0 +1,7 @@
+# 18.c člen (zahteve v zvezi s podeljevanjem varnostnega spričevala in varnostnega pooblastila)
+(1) Agencija odloči o vlogi za varnostno spričevalo ali varnostno pooblastilo brez odlašanja najkasneje pa v štirih mesecih po posredovanju vseh potrebnih informacij in dodatnih informacij, ki jih zahteva agencija. Prosilec mora zahtevane dodatne informacije posredovati nemudoma.
+(2) Zaradi olajšanja ustanavljanja novih prevoznikov v železniškem prometu in predložitve vlog prevoznikov iz drugih držav članic Evropske skupnosti, agencija izda podrobna navodila o tem, kako pridobiti varnostno spričevalo. V teh navodilih navede vse zahteve in prosilcu nudi na razpolago vse potrebne dokumente.
+(3) Posebna navodila se izdajo za prevoznike v železniškem prometu, ki zaprosijo za varnostno spričevalo v zvezi s storitvami na določenem omejenem delu železniške infrastrukture, pri čemer je treba posebej navesti predpise, ki veljajo za ta del.
+(4) Navodila za predložitev vloge, ki opisujejo in pojasnjujejo zahteve za varnostna spričevala in navajajo dokumente, ki jih je treba predložiti, so prosilcem na voljo brezplačno. Vse vloge za varnostna spričevala se predložijo v jeziku, ki ga določi agencija.
+(5) Vlada predpiše način ugotavljanja izpolnjevanja pogojev za podelitev varnostnega spričevala in varnostnega pooblastila in postopek za njuno izdajo.
+(6) O pritožbah zoper odločbe agencije o dodelitvi varnostnega spričevala in varnostnega pooblastila odloča ministrstvo.
