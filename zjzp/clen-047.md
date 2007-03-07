@@ -1,0 +1,5 @@
+# 47. člen (obveznost javnega razpisa in izjeme)
+
+(1) Uporaba postopka konkurenčnega dialoga ne izključuje obveznosti javnega partnerja, ki so v zvezi z objavami določene v drugih zakonih. Zato mora, ne glede na uporabo postopka, določenega v 46. členu tega zakona, javni partner za obvestila v zvezi s prehodnimi fazami postopka, javnim razpisom in izbiro izvajalca javno-zasebnega partnerstva ter morebitne izjeme, odvisno od narave razmerja javno-zasebnega partnerstva (javnonaročniško, koncesijsko, statusno), uporabiti Zakon o javnem naročanju in zakon, ki ureja gospodarske javne službe, v delu, ki se nanaša na izbiro koncesionarja, oziroma ta zakon.
+
+(2) Konkurenčni dialog se ne uporablja v primeru javnonaročniškega partnerstva, ko je javni partner naročnik na vodnem, energetskem, prometnem in poštnem sektorju. V tem primeru lahko vodi javni partner postopek izbora izvajalca javno-zasebnega partnerja po postopku s pogajanji po predhodni objavi, pri čemer se pravila tega zakona o konkurenčnem dialogu (46. člen) smiselno uporabljajo.

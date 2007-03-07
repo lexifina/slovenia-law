@@ -1,0 +1,5 @@
+# 105. člen (subsidiarnost uporabe pravil, ki urejajo objave)
+
+(1) Določba prejšnjega člena se uporablja v primeru, če ni glede obveznih objav s tem ali drugim zakonom, ki ureja javna naročila ali koncesije gradenj, drugače določeno. Zato javnega razpisa ni dopustno namesto v uradnem glasilu EU objaviti v drugem primernem mediju, specifičnem za določen predmet javno-zasebnega partnerstva, če ima statusno partnerstvo naravo javnega naročila ali koncesije gradenj in je objava v uradnem glasilu EU obvezna.
+
+(2) Če je glede na naravo razmerja javno-zasebnega partnerstva (na primer koncesija gradenj) objava razpisa v uradnem glasilu EU obvezna, ne sme javni partner javnega razpisa v drugem primernem mediju, specifičnem za določen predmet javno-zasebnega partnerstva (na primer dnevnem ali specializiranem časopisju), objaviti pred tem, preden posreduje javni razpis v objavo v uradno glasilo EU, in ne z večjim številom podatkov, kot ga vsebuje objava v uradnem glasilu EU, skladno z 82. členom tega zakona.

@@ -1,0 +1,3 @@
+# 146. člen (preoblikovanje pravno-organizacijskih oblik pravnih oseb statusnega partnerstva)
+
+Druge pravnoorganizacijske oblike pravnih oseb statusnega partnerstva (na primer družba z neomejeno odgovornostjo, komanditna družba …), ki so izvajalci javno-zasebnega partnerstva in niso določene v 106. členu tega zakona, se preoblikujejo v eno izmed pravnoorganizacijskih oblik pravnih oseb zasebnega prava iz 106. člena tega zakona najkasneje do konca naslednjega poslovnega in koledarskega leta po začetku izvajanja statusnega partnerstva, sicer so izpolnjeni pogoji za razdor (enostranski odstop) razmerja javno-zasebnega partnerstva iz razlogov na strani zasebnega partnerja.

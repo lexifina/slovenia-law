@@ -1,0 +1,5 @@
+# 49. člen (tehnične specifikacije)
+
+(1) Tehnične specifikacije predmeta javno-zasebnega partnerstva mora javni partner oblikovati tako, da so te določene glede na izpolnjevanje standardov in glede na uspešnost ali učinkovitost, ki jo je treba doseči, ali izpolnjevanje dovolj natančnih funkcionalnih zahtev. Ob tem mora zagotoviti, da tehnične specifikacije ne bi povzročile izkrivljanja konkurence oziroma imele diskriminatornega učinka.
+
+(2) Kot referenčno sredstvo za opis proizvoda ali storitve se uporabijo evropski standardi ali nacionalni standardi, ki te izvajajo, vendar pa javni partner ne sme zahtevati, da bodo zahtevani proizvodi ali storitve oziroma gradnje v skladu z zadevnim standardom. Javni partner mora sprejeti tudi druge proizvode ali storitve oziroma gradnje, čeprav je uporabljena drugačna tehnologija, kot je navedena v standardu, če končni rezultat, ki je predmet javno-zasebnega partnerstva izpolnjuje vse zahteve glede uspešnosti, učinkovitosti oziroma funkcionalnih zahtev.
