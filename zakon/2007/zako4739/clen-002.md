@@ -1,0 +1,3 @@
+# 2. člen
+V 10.b členu se doda šesti odstavek, ki se glasi:
+"V specializiranem oddelku iz četrtega odstavka 10. člena tega zakona sta najmanj dva državna tožilca in en pomočnik državnega tožilca. Generalni državni tožilec na predlog vodje skupine odredi, kateri državni tožilci oziroma pomočniki državnega tožilca iz skupine so v oddelek dodeljeni za štiri leta z možnostjo ponovne dodelitve. Vodjo specializiranega oddelka določi vodja skupine s soglasjem generalnega državnega tožilca z letnim razporedom dela, z možnostjo ponovne določitve. Vodjo specializiranega oddelka lahko predčasno razreši vodja skupine po predhodnem soglasju ali na zahtevo generalnega državnega tožilca.".
