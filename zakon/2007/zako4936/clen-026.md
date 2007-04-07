@@ -1,0 +1,4 @@
+# 26. člen
+Šteje se, da izpolnjujejo pogoj glede strokovnega izpita za inšpektorja po tem zakonu inšpektorji, ki so na dan uveljavitve tega zakona v delovnem razmerju v državnem organu ali v upravi lokalne skupnosti in so opravili strokovne izpite, ki so bili predpisani za opravljanje nalog inšpekcijskega nadzorstva oziroma izpolnjujejo pogoj glede strokovnega izpita za inšpektorja.
+Inšpektorji, ki so bili imenovani za inšpektorje pred uveljavitvijo tega zakona in še niso opravili predpisanega strokovnega izpita, opravljajo strokovni izpit po predpisih, ki so veljali do uveljavitve tega zakona.
+Ne glede na določbe tretjega odstavka 49. člena Zakona o prekrških (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo) inšpektorju v okviru strokovnega izpita, ki zajema tudi poznavanje izvrševanja pooblastil po zakonu, ki ureja prekrške, ni potrebno opravljati preizkusa znanja iz poznavanja predpisov, katerih izvrševanje nadzoruje.
