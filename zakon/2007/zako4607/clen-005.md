@@ -1,0 +1,7 @@
+# 5. člen
+V 9. členu se besedilo spremeni tako, da se glasi:
+"9. člen
+(javne prireditve, športne in druge dejavnosti)
+(1) Organizator javnih prireditev na, v in ob vodi mora zagotoviti ustrezne ukrepe varstva pred utopitvami ter pridobiti dovoljenje pristojnega organa po predpisih o javnih zbiranjih, na morju pa dovoljenje Uprave Republike Slovenije za pomorstvo, po predpisih, ki urejajo varnost plovbe po morju. V postopku za izdajo dovoljenja mora izkazati, da je predvidel potrebne ukrepe varstva pred utopitvami, zlasti zadostno število reševalcev iz vode ali oseb, usposobljenih za reševanje iz vode, predpisano reševalno opremo in sredstva za reševanje iz vode.
+(2) Organizacije, ki se ukvarjajo s športnimi dejavnostmi v skladu s predpisi o športu na, v in ob vodi, morajo upoštevati ukrepe varstva pred utopitvami in zagotoviti varnost sodelujočih ali udeležencev, prisotnost zadostnega števila reševalcev iz vode oziroma oseb, usposobljenih za reševanje iz vode ter predpisano reševalno opremo in sredstva za reševanje iz vode.
+(3) Pravne osebe, samostojni podjetniki posamezniki in posamezniki, ki samostojno opravljajo dejavnosti organiziranja raftinga, kajakaštva, soteskanja in drugih dejavnosti na vodah s pridobitnim namenom, morajo zagotoviti za vsako skupino udeležencev prisotnost reševalca iz vode na divjih vodah oziroma osebe, usposobljene za reševanje iz vode ter predpisano reševalno opremo in sredstva za reševanje iz vode.".

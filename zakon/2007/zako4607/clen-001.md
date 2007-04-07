@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o varstvu pred utopitvami (Uradni list RS, št. 44/00) se v celotnem besedilu beseda "upravljalec" v vseh sklonih nadomesti z besedo "upravljavec" v ustreznem sklonu, besedi "lokalna skupnost" v vseh sklonih, se nadomestita z besedami "samoupravna lokalna skupnost" v ustreznem sklonu, besede "minister, pristojen za zdravstvo" v vseh sklonih, se nadomestijo z besedami "minister, pristojen za zdravje" v ustreznem sklonu.
