@@ -5,4 +5,4 @@ Družbe, ki želijo pridobiti sredstva za namene določene v 3. členu tega zako
 - da zoper družbo ni uveden stečajni postopek oziroma likvidacija.
 Državnih pomoči niso upravičene zaprositi novo nastale družbe in družbe, ki so nastale z likvidacijo prejšnje družbe ter družbe iz sektorja jeklarstva in premogovništva.
 Novo nastale družbe so za namene tega zakona družbe, ki poslujejo nepretrgoma manj kot tri leta.
-Poleg tega državnih pomoči niso upravičene zaprositi povezane družbe, razen če je mogoče dokazati, da so vzroki težav v družbi sami in da težave niso rezultat samovoljnega prerazporejanja stroškov med njimi.
+Poleg tega državnih pomoči niso upravičene zaprositi povezane družbe, razen če je mogoče dokazati, da so vzroki težav v družbi sami in da težave niso rezultat samovoljnega prerazporejanja stroškov med njimi ter da povezana družba kot celota ni sposobna odpraviti težav.

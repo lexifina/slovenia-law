@@ -1,6 +1,6 @@
 # 7. člen
 Državna pomoč je enkratna pomoč, ki se v skladu z določbami tega zakona dodeli po načelu 'enkrat in zadnjič'.
-Višina državne pomoči posamezni družbi v težavah ne sme presegati zneska 10 milijonov EVR v tolarski protivrednosti.
+Višina državne pomoči posamezni družbi v težavah ne sme presegati zneska 10 milijonov eurov.
 Ponovna državna pomoč po tem zakonu je možna po obdobju desetih let od zaključenega prestrukturiranja oziroma od prvega izplačila državne pomoči. Izjemoma se državna pomoč lahko ponovno podeli pred potekom desetih let v naslednjih primerih:
 1. če dodelitev pomoči za prestrukturiranje sledi dodelitvi pomoči za reševanje kot del enotnega ukrepa za prestrukturiranje;
 2. če je bila v skladu s tem zakonom dodeljena pomoč za reševanje in tej pomoči ni sledila pomoč za prestrukturiranje ter sta izpolnjena naslednja pogoja:
