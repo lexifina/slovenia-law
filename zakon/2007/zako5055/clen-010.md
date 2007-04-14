@@ -1,0 +1,6 @@
+# 10. člen
+Družba za svetovanje in upravljanje, d.o.o. v likvidaciji prenese na Slovensko odškodninsko družbo, d.d. arhiv komisije iz 5. člena zakona v 15 dneh po uveljavitvi tega zakona.
+Ministrstvo, pristojno za elektronske komunikacije, prenese na Slovensko odškodninsko družbo, d.d. v 15 dneh po uveljavitvi tega zakona sezname zakonitih izvršilnih naslovov, s katerimi razpolaga ob uveljavitvi tega zakona.
+Obveznosti na podlagi zakonitih izvršilnih naslovov, ki se glasijo v breme sklada za vračanje vlaganj v javno telekomunikacijsko omrežje, poravna Slovenska odškodninska družba, d.d. v skladu s tem zakonom.
+Slovenska odškodninska družba, d.d. mora obveznosti na podlagi zakonitih izvršilnih naslovov iz drugega in tretjega odstavka tega člena poravnati v šestih mesecih po uveljavitvi tega zakona.
+Dokler niso ustvarjeni finančni pritoki iz naslova prodaje delnic iz 11. člena zakona Slovenska odškodninska družba, d.d. zagotavlja likvidnost za izplačilo vlaganj iz drugih lastnih sredstev.
