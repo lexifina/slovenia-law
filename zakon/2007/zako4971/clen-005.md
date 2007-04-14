@@ -1,0 +1,5 @@
+# 5. člen
+(1) Tajnikom občin oziroma direktorjem občinskih uprav, ki so bili na ta položaj imenovani 28. junija 2003, v primeru razrešitve pred potekom mandata po petem odstavku 83. člena Zakona o javnih uslužbencih (Uradni list RS, št. 56/02) pripada:
+- v primeru prenehanja delovnega razmerja poleg odpravnine po sedmem odstavku 83. člena Zakona o javnih uslužbencih (Uradni list RS, št. 32/06 - uradno prečiščeno besedilo) tudi odpravnina v višini dveh petin povprečne bruto plače, kot jo je prejemal do razrešitve, za vsak polni mesec, ki je ostal do izteka dobe imenovanja na položaj,
+- v primeru premestitve polovica razlike med povprečno mesečno bruto plačo, kot jo je prejemal do razrešitve, in dejansko mesečno bruto plačo, in sicer do izteka dobe, za katero je bil imenovan na položaj.
+(2) Pravice iz prejšnjega odstavka pripadajo tajnikom občin oziroma direktorjem občinskih uprav v primeru, da so bili razrešeni po petem odstavku 83. člena Zakona o javnih uslužbencih (Uradni list RS, št. 56/02) po 27. avgustu 2006.
