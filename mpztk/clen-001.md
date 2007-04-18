@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificira se Pogodba med Kraljevino Belgijo, Zvezno republiko Nemčijo, Kraljevino Španijo, Francosko republiko, Velikim vojvodstvom Luksemburg, Kraljevino Nizozemsko in Republiko Avstrijo o poglobitvi čezmejnega sodelovanja predvsem pri zatiranju terorizma, čezmejne kriminalitete in nezakonite migracije in Skupna izjava Kraljevine Belgije, Zvezne republike Nemčije, Kraljevine Španije, Francoske republike, Velikega vojvodstva Luksemburg, Kraljevine Nizozemske in Republike Avstrije k pogodbi z dne 27. 5. 2005 o poglobitvi čezmejnega sodelovanja, predvsem pri zatiranju terorizma, čezmejne kriminalitete in nezakonite migracije, podpisani v Prümu 27. maja 2005.
