@@ -1,4 +1,1 @@
-# 75. člen (izvajanje pogojnega lokacijskega načrta)
-(1) Pogojni lokacijski načrt se lahko začne izvajati, če se v njem določeni pogoji iz prvega odstavka prejšnjega člena izvršijo najkasneje v roku, določenem v načrtu, kar ugotovi župan s sklepom. Sklep mora biti objavljen v uradnem glasilu. Če župan v dveh mesecih po tistem, ko so izpolnjeni pogoji, ne sprejme sklepa o začetku izvajanja pogojnega lokacijskega načrta, lahko prizadeti investitor ali lastnik nepremičnine vložita tožbo zaradi molka organa.
-(2) Če v predvidenem roku pogoji iz prvega odstavka prejšnjega člena niso izpolnjeni, pogojni lokacijski načrt preneha veljati, kar odloči občinski svet s sklepom, ki ga objavi v uradnem glasilu, sicer pa lahko velja najdalj štiri leta.
-(3) V roku iz drugega odstavka 74. člena tega zakona občinski svet ne sme spremeniti ali razveljaviti pogojnega lokacijskega načrta.
+# 75. člen (prenehal veljati)

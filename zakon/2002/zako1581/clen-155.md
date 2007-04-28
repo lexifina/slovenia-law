@@ -1,4 +1,1 @@
-# 155. člen (poročilo o stanju na področju urejanja prostora)
-(1) Vlada državnemu zboru vsake štiri leta predstavi poročilo o stanju na področju urejanja prostora, ki ga pripravi ministrstvo za prostor. Poročilo vsebuje analizo stanja in trendov prostorskega razvoja, analizo izvajanja strategije prostorskega razvoja Slovenije ter drugih državnih in skupnih prostorskih aktov ter predloge za nadaljnji prostorski razvoj države, vključno s predlogi za spremembe in dopolnitve strategije prostorskega razvoja Slovenije ter drugih državnih predpisov v zvezi z urejanjem prostora.
-(2) Lokalne skupnosti vsake štiri leta sprejmejo poročilo o stanju na področju urejanja prostora na njihovem območju s smiselno vsebino iz prejšnjega odstavka in ga objavijo na krajevno običajen način.
-(3) Vlada na predlog ministra za prostor predpiše vsebino poročila o stanju na področju urejanja prostora ter obvezne minimalne enotne kazalnike na državnem nivoju in lokalnem nivoju ter druge zahteve v zvezi s spremljanjem stanja na področju urejanja prostora.
+# 155. člen (prenehal veljati)

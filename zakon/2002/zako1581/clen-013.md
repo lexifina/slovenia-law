@@ -1,4 +1,4 @@
-# 13. člen (izvajanje aktivne zemljiške politike)
+# 13. člen (izvajanje aktivne zemljiške politike) (se delno preneha uporabljati)
 (1) Država z aktivno zemljiško politiko ustvarja prostorske pogoje za učinkovito gospodarjenje z nepremičninami tako, da spodbuja vzdržen prostorski razvoj ter s tem zagotavlja pogoje za skladen in celovit razvoj mest in drugih poselitvenih območij.
 (2) Z aktivno zemljiško politiko država:
 1. s finančnimi in drugimi ukrepi podpira občine pri izvajanju njihove zemljiške politike pridobivanja zemljišč in drugih nepremičnin za potrebe urejanja prostora ter pri ustvarjanju in izboljšanju pogojev za učinkovito gospodarjenje z nepremičninami in njihovo racionalno rabo;

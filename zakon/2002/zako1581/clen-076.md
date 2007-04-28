@@ -1,6 +1,1 @@
-# 76. člen (urbanistična pogodba)
-(1) Z urbanistično pogodbo iz tretjega odstavka 73. člena tega zakona se lahko določi, da mora investitor vse ali del, v občinskem lokacijskem načrtu določenih gradenj izvesti v določenem roku po njegovi uveljavitvi, ali da mora zgraditi v lokacijskem načrtu določene objekte, ki so v javno korist oziroma, da mora v določenem roku zagotoviti opremljenost zemljišča s komunalno infrastrukturo na območju lokacijskega načrta v skladu s programom opremljanja iz 139. člena tega zakona.
-(2) Kadar se z urbanistično pogodbo določi, da mora investitor načrtovane prostorske ureditve zgraditi objekte, ki so v javno korist ali opremiti območje s komunalno infrastrukturo, lahko investitor ta dela odda izvajalcu po predpisih o javnih naročilih.
-(3) Če urbanistična pogodba zajema finančne obremenitve investitorja, ki bi jih sicer morala prevzeti občina, se obremenitve lahko odštejejo investitorju od predpisanih dajatev občini, kar se določi s to pogodbo.
-(4) V primeru neizpolnitve pogojev iz prvega odstavka tega člena lahko občina uveljavi pravico do odkupa zemljišč v lasti investitorja po tržni vrednosti, ki je veljala v času neposredno pred začetkom priprave lokacijskega načrta.
-Posebne določbe o pripravi in sprejemu občinskega lokacijskega načrta
+# 76. člen (prenehal veljati) Posebne določbe o pripravi in sprejemu občinskega lokacijskega načrta

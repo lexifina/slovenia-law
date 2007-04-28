@@ -1,4 +1,4 @@
-# 3. člen (temeljni cilji urejanja prostora)
+# 3. člen (temeljni cilji urejanja prostora) (se delno preneha uporabljati)
 (1) Namen urejanja prostora je omogočati skladen prostorski razvoj z usklajevanjem gospodarskih, družbenih in okoljskih vidikov razvoja. Usmerjanje razvojnih procesov in z njimi povezanih prostorskih ureditev mora izhajati iz uravnoteženosti razvojnih potreb, pri čemer je treba prostor urejati tako, da se:
 1. zagotavlja vzdržen prostorski razvoj z racionalno rabo prostora in ohranjanjem prostorskih zmogljivosti za sedanje in prihodnje generacije;
 2. omogoča kakovostne življenjske razmere v mestih in na podeželju, zagotavlja kvaliteten in human razvoj mest in drugih naselij ter zagotavlja njihovo oskrbo;

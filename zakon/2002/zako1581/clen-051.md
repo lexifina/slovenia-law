@@ -1,2 +1,1 @@
-# 51. člen (sočasna priprava regionalne zasnove prostorskega razvoja in regionalnega razvojnega programa)
-Če je pobuda za pripravo regionalne zasnove prostorskega razvoja vezana na pripravo regionalnega razvojnega programa, se regionalni razvojni program in regionalna zasnova prostorskega razvoja pripravljata sočasno. Regionalni razvojni program in regionalna zasnova prostorskega razvoja morata biti med seboj usklajena.
+# 51. člen (prenehal veljati)

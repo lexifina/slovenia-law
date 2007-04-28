@@ -1,3 +1,1 @@
-# 49. člen (regionalna zasnova prostorskega razvoja in strategija prostorskega razvoja občine)
-Regionalna zasnova prostorskega razvoja zajema območja vseh, v pripravo regionalne zasnove prostorskega razvoja vključenih občin, lahko pa le dele njihovih območij. Če je regionalna zasnova prostorskega razvoja pripravljena z vsebino in podrobnostjo, kot jo ta zakon določa za strategijo prostorskega razvoja občine, lahko regionalna zasnova prostorskega razvoja nadomesti strategijo prostorskega razvoja občine v njenih posameznih delih, kar z odlokom ugotovi občinski svet hkrati s sprejetjem regionalne zasnove prostorskega razvoja.
-Posebne določbe o pripravi in sprejemu regionalne zasnove prostorskega razvoja
+# 49. člen (prenehal veljati) Posebne določbe o pripravi in sprejemu regionalne zasnove prostorskega razvoja

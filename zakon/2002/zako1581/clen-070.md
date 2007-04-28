@@ -1,3 +1,1 @@
-# 70. člen (uskladitev strategije prostorskega razvoja oziroma prostorskega reda občine)
-(1) V primeru zavrnitve strategije prostorskega razvoja oziroma prostorskega reda občine lahko občinski svet ponovno obravnava in v skladu z ugotovitvami ministra za prostor sprejme popravljeno strategijo prostorskega razvoja občine oziroma prostorski red občine in ga pošlje v potrditev ministru za prostor. Minister mora popravljeni del strategije prostorskega razvoja občine oziroma prostorskega reda občine potrditi ali zavrniti na način in po postopku iz prejšnjega člena v 30 dneh od njegovega prejema, sicer se šteje, da ga je potrdil.
-(2) Za uskladitev strategije prostorskega razvoja oziroma prostorskega reda občine z zahtevami ministra za prostor ne veljajo določbe tega zakona, ki se nanašajo na program priprave prostorskega akta, javno razgrnitev in javno obravnavo.
+# 70. člen (prenehal veljati)

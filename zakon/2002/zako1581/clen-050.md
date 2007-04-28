@@ -1,4 +1,1 @@
-# 50. člen (odgovornost in pobuda za pripravo regionalne zasnove prostorskega razvoja)
-(1) Za pripravo regionalne zasnove prostorskega razvoja je odgovorno ministrstvo za prostor in občine v skladu z dogovorom iz drugega odstavka 47. člena tega zakona. Pobudo za pripravo regionalne zasnove prostorskega razvoja lahko dajo poleg ministrstva za prostor tudi ministrstvo pristojno za regionalni razvoj in druga ministrstva, zainteresirane občine ali regionalne razvojne agencije z območja regionalne zasnove prostorskega razvoja.
-(2) Minister za prostor imenuje programski svet, ki koordinira pripravo regionalne zasnove prostorskega razvoja.
-(3) Programski svet je sestavljen iz predstavnikov ministrstev, katerih delovno področje zadeva regionalna zasnova prostorskega razvoja, predstavnikov občin iz prvega odstavka tega člena (v nadaljnjem besedilu: občine-udeleženke) in razvojne agencije z območja regionalne zasnove prostorskega razvoja.
+# 50. člen (prenehal veljati)

@@ -1,5 +1,5 @@
 ## Drugi razdelek: PRISTOJNOSTI NA PODROČJU UREJANJA PROSTORA
-# 11. člen (pristojnosti države na področju urejanja prostora)
+# 11. člen (pristojnosti države na področju urejanja prostora) (se delno preneha uporabljati)
 (1) Z urejanjem prostora v državni pristojnosti se v skladu s temeljnimi cilji urejanja prostora iz 3. člena tega zakona določa raba prostora in prostorske ureditve iz državne pristojnosti (v nadaljnjem besedilu: prostorske ureditve državnega pomena). Z urejanjem prostora v državni pristojnosti se določijo tudi pogoji prostorskega načrtovanja in umeščanja objektov v prostor, ki jih narekujejo predpisani režimi varovanja okolja, ohranjanja narave in trajnostne rabe naravnih dobrin, ohranjanja kulturnih spomenikov in druge kulturne dediščine državnega pomena, varstva pred naravnimi in drugimi nesrečami ter obrambne potrebe.
 (2) Urejanje prostora v državni pristojnosti obsega:
 1. določanje ciljev, usmeritev in izhodišč prostorskega razvoja;

@@ -1,2 +1,1 @@
-# 154. člen (podatki o nepremičninah in lastnikih)
-Nosilci urejanja prostora imajo za pripravo prostorskih aktov, za upravne postopke in za vodenje zbirk podatkov pravico vpogleda in pravico pridobitve podatkov iz evidenc o nepremičninah in njihovih lastnikih, vključno z osebnimi podatki, ki se vodijo v zemljiškem katastru, katastru stavb in zemljiški knjigi. Pravica zajema tudi pravico do podatkov iz evidence o državni meji in registru prostorskih enot, vključno z računalniškim dostopom do podatkov.
+# 154. člen (prenehal veljati)

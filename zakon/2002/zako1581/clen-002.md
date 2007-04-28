@@ -1,4 +1,4 @@
-# 2. člen (pojmi)
+# 2. člen (pojmi) (se delno preneha uporabljati)
 (1) Pojmi imajo po tem zakonu naslednji pomen:
 1. prostor je sestav fizičnih struktur na zemeljskem površju ter nad in pod njim, do kamor sežejo neposredni vplivi človekovih dejavnosti;
 2. prostorski razvoj je spreminjanje prostora zaradi človekovih dejavnosti;

@@ -1,4 +1,1 @@
-# 74. člen (pogojni lokacijski načrt)
-(1) Pogojni lokacijski načrt je občinski lokacijski načrt, katerega veljavnost se odloži do izpolnitve posebnih pogojev, ki jih določa načrt v zvezi s pridobitvijo nepremičnin, potrebnih za izvedbo načrtovane prostorske ureditve. Namen pogojnega lokacijskega načrta je zmanjšanje tveganj v zvezi z realizacijo investicijske namere.
-(2) Pogojni lokacijski načrt se pripravi, kadar je za njegovo izvedbo potrebna sprememba parcelne strukture ali lastništva na območju načrta. Pogojni lokacijski načrt mora določiti tudi rok za pridobitev vseh nepremičnin, potrebnih za izvedbo načrtovane prostorske ureditve, ki ne sme biti daljši od štirih let.
-(3) S sprejetjem pogojnega lokacijskega načrta sprejme občinski svet tudi začasno prepoved iz prvega odstavka 83. člena tega zakona za čas do uveljavitve pogojnega lokacijskega načrta oziroma do preteka roka iz prejšnjega odstavka. Začasna prepoved ne velja za pravne posle med investitorjem iz prejšnjega odstavka oziroma občino in lastniki nepremičnin na območju začasne prepovedi.
+# 74. člen (prenehal veljati)

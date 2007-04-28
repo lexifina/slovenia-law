@@ -1,3 +1,1 @@
-# 68. člen (sodelovanje pri pripravi)
-(1) Ministrstva so dolžna občini na njeno zahtevo posredovati razpoložljive podatke, predloge in druga gradiva iz njihove pristojnosti, ki so potrebna za pripravo strategije prostorskega razvoja oziroma prostorskega reda občine. V zvezi s pripravo lahko ministrstvo za prostor daje občini priporočila.
-(2) O pripravi strategije prostorskega razvoja oziroma prostorskega reda občine morajo biti posebej obveščene tudi sosednje občine, da lahko v postopku priprave dajejo predloge in mnenja v zvezi s prostorskimi ureditvami, ki lahko vplivajo na njihove zadeve urejanja prostora.
+# 68. člen (prenehal veljati)

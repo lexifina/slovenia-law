@@ -1,4 +1,4 @@
-# 12. člen (pristojnost občine na področju urejanja prostora)
+# 12. člen (pristojnost občine na področju urejanja prostora) (se delno preneha uporabljati)
 (1) Z urejanjem prostora v občinski pristojnosti se v skladu s temeljnimi določbami tega zakona ter z usmeritvami strateških prostorskih aktov države določa raba prostora in prostorske ureditve lokalnega pomena. Z urejanjem prostora v občinski pristojnosti se določijo tudi pogoji prostorskega načrtovanja in umeščanja objektov v prostor, ki jih predpisujejo režimi varovanja okolja, ohranjanja narave in trajnostne rabe naravnih dobrin, ohranjanja kulturnih spomenikov lokalnega pomena in druge kulturne dediščine ter varstva pred naravnimi in drugimi nesrečami na lokalni ravni.
 (2) Urejanje prostora v občinski pristojnosti obsega:
 1. usmerjanje prostorskega razvoja občine z določanjem ciljev in usmeritev za urejanje prostora v občini ob upoštevanju državnih usmeritev za urejanje prostora na lokalni ravni;
