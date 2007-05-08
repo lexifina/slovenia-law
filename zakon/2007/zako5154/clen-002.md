@@ -1,0 +1,12 @@
+# 2. člen
+10.e člen se spremeni tako, da se glasi:
+"10.e člen
+Osebe s pooblastili policije v predkazenskem postopku opravljajo naloge odkrivanja in preiskovanja kaznivih dejanj iz četrtega odstavka 10. člena tega zakona na delovnih mestih policistov v specializiranem oddelku.
+Policisti specializiranega oddelka lahko izvršujejo vsa policijska pooblastila in naloge, ki jih določajo zakon, ki ureja policijo, zakon ki ureja kazenski postopek in predpisi sprejeti na njuni podlagi, za namene izvrševanja pristojnosti specializiranega oddelka iz četrtega odstavka 10. člena tega zakona.
+Ne glede na določbe prvega odstavka 147. člena Zakona o javnih uslužbencih je lahko oseba s pooblastili policije ali drug javni uslužbenec začasno premeščen za dobo šestih let z možnostjo podaljšanja.
+V specializirani oddelek se lahko premesti ali zaposli osebe, ki izpolnjujejo pogoje iz prvega odstavka 67. člena Zakona o policiji.
+Oseba premeščena ali zaposlena v specializiranem oddelku, ki nima opravljenega izpita za izvajanje policijskih pooblastil, mora izpit opraviti v roku, določenem z aktom o sistemizaciji, v skladu z 69. členom Zakona o policiji, in do opravljenega izpita ne sme izvrševati policijskih pooblastil ali nalog. Če izpit ni opravljen v roku, določenem z aktom o sistemizaciji, premestitev preneha in se premeščeni javni uslužbenec vrne na delo v organ, iz katerega je bil premeščen, zaposlenemu javnemu uslužbencu pa preneha delovno razmerje.
+Za urejanje delovno-pravnega statusa, sklenitev pogodb o zaposlitvi, za urejanje pravic in obveznosti ter za določanje plače in drugih prejemkov iz delovnega razmerja, se za osebe, ki opravljajo naloge policistov specializiranega oddelka, poleg predpisov, ki urejajo pravice, obveznosti, plače in druge prejemke iz delovnega razmerja javnih uslužbencev, uporabljajo določbe zakona in drugih predpisov, ki urejajo policijo, pri čemer se za določitev dodatka za stalnost vsako začeto leto delovne dobe v specializiranem oddelku šteje kot začeto leto delovne dobe v policiji.
+Policija je dolžna policistom specializiranega oddelka brezplačno zagotavljati tehnične pogoje in pomoč za izvajanje njihovih policijskih pooblastil.
+Vlada Republike Slovenije izda na predlog ministra, pristojnega za pravosodje, in na podlagi predhodnega predloga generalnega državnega tožilca, odredbo, s katero določi število policistov specializiranega oddelka.".
+PREHODNE IN KONČNE DOLOČBE
