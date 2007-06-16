@@ -1,0 +1,4 @@
+# 3. člen
+12. členu se doda nov drugi odstavek, ki se glasi:
+"(2) Zahtevek za revizijo, ki se nanaša na vsebino objave in/ali razpisno dokumentacijo, se v postopkih iz 1., 2., 3., in 5. točke prvega odstavka 24. člena Zakona o javnem naročanju (Uradni list RS, št. 128/06; v nadaljnjem besedilu ZJN-2) in 1., 2. in 4. točke prvega odstavka 32. člena Zakona o javnem naročanju na vodnem, energetskem, transportnem področju in področju poštnih storitev (Uradni list RS, št. 128/06; v nadaljnjem besedilu ZJNVETPS) lahko vloži najkasneje v 10 dneh od dneva objave obvestila o javnem naročilu oziroma dostopnosti razpisne dokumentacije. Zahtevka za revizijo po tem odstavku v nobenem primeru ni mogoče vložiti po roku, ki je določen za oddajo ponudb.".
+Dosedanji drugi, tretji, četrti in peti odstavek postanejo tretji, četrti, peti in šesti odstavek.
