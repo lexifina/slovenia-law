@@ -1,0 +1,3 @@
+# 35.a člen Opredelitev pravice
+(1) Pravica do prostega dostopa na trg dela za državljana države članice EU, EGP ali Švicarske konfederacije pomeni, da se lahko v Republiki Sloveniji zaposli brez delovnega dovoljenja. Svojo pravico dokazuje z državljanstvom države članice EU, EGP ali Švicarske konfederacije.
+(2) Pravica do prostega dostopa na trg dela za družinskega člana državljana države članice EU, EGP ali Švicarske konfederacije, ki ni državljan države članice EU, EGP ali Švicarske konfederacije, pomeni, da se lahko v Republiki Sloveniji zaposli ali samozaposli brez delovnega dovoljenja. Svojo pravico dokazuje z dovoljenjem za prebivanje za družinskega člana zaradi združitve družine.
