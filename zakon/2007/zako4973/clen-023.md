@@ -1,0 +1,2 @@
+# 23. člen
+Naslov 3. točke XIII. poglavja se dopolni tako, da se glasi: "3. PRIMERJAVA MED PLAČO JAVNEGA USLUŽBENCA IN FUNKCIONARJA PRED IN PO ZAČETKU UPORABE TEGA ZAKONA".

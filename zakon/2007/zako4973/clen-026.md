@@ -1,0 +1,2 @@
+# 26. člen
+Funkcionarjem plačne podskupine A5, ki jim je v skladu z Odlokom o plačah funkcionarjev (Uradni list RS, št. 14/06) pripadla višja osnovna plača od prevedene osnovne plače, določene v skladu s predpisi, ki so se uporabljali do začetka uporabe navedenega odloka, in jim je bila s pričetkom uporabe navedenega odloka odpravljena ena četrtina nesorazmerja, se preostalo nesorazmerje odpravi v obdobju od leta 2007 do leta 2009, pri čemer se pri obračunu plač za december vsako leto odpravi ena četrtina nesorazmerja.

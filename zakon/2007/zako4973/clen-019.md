@@ -1,0 +1,4 @@
+# 19. člen
+V 49.c členu se dodata tretji in četrti odstavek, ki se glasita:
+"(3) Nominalni znesek osnovne plače funkcije, izračunan v skladu z 49.a in 49.b členom tega zakona se prevede v plačni razred po tem zakonu z uvrstitvijo v po vrednosti najbližji plačni razred iz priloge 1 tega zakona. Prevedba se določi z aktom organa uporabnika proračuna, ki je pristojen za urejanje pravic in obveznosti iz delovnih razmerij.
+(4) Nominalni znesek osnovne plače funkcionarja, izračunan v skladu z 49.a in 49.b členom tega zakona, se prevede v plačni razred po tem zakonu z uvrstitvijo v po vrednosti najbližji plačni razred iz priloge 1 tega zakona, vendar ne nižje kot v plačni razred, ki je za toliko razredov višji od plačnega razreda funkcije, kot jih je funkcionar dosegel do dneva prevedbe. Prevedba se določi z aktom organa uporabnika proračuna, ki je pristojen za urejanje pravic in obveznosti iz delovnih razmerij.".

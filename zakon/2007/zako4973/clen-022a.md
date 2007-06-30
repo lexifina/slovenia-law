@@ -1,0 +1,4 @@
+# 22.a člen (Del plače za redno delovno uspešnost javnih uslužbencev)
+(1) Del plače za redno delovno uspešnost pripada javnemu uslužbencu, ki je v obdobju, za katerega se izplačuje, pri opravljanju svojih rednih delovnih nalog dosegel nadpovprečne delovne rezultate. Ta del plače lahko letno znaša največ dve osnovni mesečni plači javnega uslužbenca, pri čemer se kot osnova upošteva višina osnovne plače javnega uslužbenca v mesecu decembru preteklega leta. Del plače za delovno uspešnost se izplača najmanj dvakrat letno, razen če ni s kolektivno pogodbo ali z aktom, izdanim na podlagi zakona, urejeno drugače.
+(2) Del plače za redno delovno uspešnost se javnemu uslužbencu določi na podlagi meril in kriterijev, dogovorjenih s kolektivno pogodbo za javni sektor.
+(3) Višino dela plače za redno delovno uspešnost ravnateljev, direktorjev in tajnikov določi organ, pristojen za njihovo imenovanje, na podlagi meril, ki jih določi pristojni minister.

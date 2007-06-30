@@ -1,0 +1,3 @@
+# 22.i člen (Obseg sredstev iz naslova prodaje blaga in storitev na trgu)
+(1) Uporabniki proračuna, ki poleg sredstev za izvajanje javne službe pridobivajo sredstva s prodajo blaga in storitev na trgu, del tako pridobljenih sredstev uporabijo za plačilo delovne uspešnosti iz tega naslova in s tem povečajo obseg sredstev nad omejitvijo iz 22. člena zakona.
+(2) Vlada z uredbo določi prihodke od prodaje blaga in storitev na trgu in zgornji obseg sredstev, ki se lahko uporabi za plačilo povečane delovne uspešnosti iz prejšnjega odstavka. Z uredbo se lahko določi, da se za plačilo delovne uspešnosti iz naslova prodaje blaga in storitev na trgu namenijo tudi nekateri nejavni prihodki za javno službo.
