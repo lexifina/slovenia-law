@@ -1,0 +1,5 @@
+# 26.b člen
+Subvencija pripada mladi družini, katere neto dohodki za predpreteklo koledarsko leto ne presegajo naslednjih zgornjih mej od povprečne neto plače v Republiki Sloveniji:
++----------------------------------+---------------------------+ |1. 2-članska | 250% | +----------------------------------+---------------------------+ |2. 3-članska | 315% | +----------------------------------+---------------------------+ |3. 4-članska | 370% | +----------------------------------+---------------------------+ |4. 5-članska | 425% | +----------------------------------+---------------------------+ |5. 6-članska | 470% | +----------------------------------+---------------------------+
+Za vsakega nadaljnjega člana mlade družine se lestvica iz prejšnjega odstavka nadaljuje s prištevanjem po 25 odstotnih točk.
+Pri ugotavljanju neto dohodkov se upoštevajo vsi obdavčljivi dohodki in prejemki, zmanjšani za davke in obvezne prispevke za socialno varnost, razvidni iz dokončnih dohodninskih odločb in iz drugih dokončnih odločb davčnega organa in davčnih obračunov.
