@@ -1,0 +1,13 @@
+## XIV. KAZENSKE DOLOČBE
+# 105. člen (prekrški)
+(1) Z globo od 4000 do 30.000 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, če:
+1. gradi oziroma vzdržuje železniške podsisteme v nasprotju s TSI oziroma drugimi predpisi, ki se uporabljajo za gradnjo ali vzdrževanje železniških podsistemov (prvi odstavek 9. člena, 37. in 38. člen);
+2. ne pošlje opisa projekta varnostnemu organu (tretji odstavek 16. člena);
+3. vključi v obratovanje železniški podsistem, ki nima izdanega uporabnega oziroma obratovalnega dovoljenja (prvi odstavek 16. člena);
+4. ne zagotovi sistema varnega upravljanja v skladu z 27. členom;
+5. kot upravljavec ali prevoznik ne razišče vzrokov ali ne vodi evidence o nesrečah, resnih nesrečah in incidentih v železniškem prometu v skladu s 34. členom;
+6. prometna mesta opremi z opremo in signali v nasprotju s 60. členom;
+7. s signali ne označi začasne nevarnosti ali če teh signalov ne odstrani takoj, ko ni več razlogov, zaradi katerih so bili postavljeni (61. člen);
+8. sestavi vlak in razporedi železniška vozila v vlaku tako, da nista zagotovljena učinkovito zaviranje in varna vožnja na določeni vlakovni poti ali če v vlak uvrsti vozilo, ki ne ustreza določbam zakona in na njegovi podlagi izdanih predpisov (62. člen);
+9. vlaka med vožnjo po progi ne zasede s predpisanim številom izvršilnih železniških delavcev, ki imajo ustrezno strokovno izobrazbo in so strokovno usposobljeni, odvisno od vrste, dolžine vlaka, vrste vlečnega vozila ter opremljenosti proge in železniških vozil s signalnovarnostnimi in telekomunikacijski napravami (64. člen).
+(2) Z globo od 600 do 1500 eurov se kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika posameznika in posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.

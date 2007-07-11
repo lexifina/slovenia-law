@@ -1,0 +1,9 @@
+## 3. Posebni zdravstveni in drugi pogoji
+# 77. člen (predhodno ugotavljanje posebnih zdravstvenih pogojev ter redno in izredno preverjanje zdravstvene sposobnosti)
+(1) Za osebo, ki se usposablja za opravljanje določenih del izvršilnega železniškega delavca, mora biti pred začetkom usposabljanja ugotovljeno izpolnjevanje zahtevanih posebnih zdravstvenih pogojev.
+(2) Izvršilni železniški delavec mora izpolnjevati predpisane posebne zdravstvene pogoje in biti duševno in telesno zmožen opravljati dela, za katera ima sklenjeno pogodbo o zaposlitvi.
+(3) Izvršilni železniški delavec mora biti zdravstveno pregledan pred sklenitvijo pogodbe o zaposlitvi za delovno mesto, za katero so predpisana strožja zdravstvena merila, ali pred šolanjem ali strokovnim usposabljanjem za to delovno mesto.
+(4) Zdravstvena sposobnost izvršilnega železniškega delavca se mora preverjati z rednimi in izrednimi zdravstvenimi pregledi.
+(5) Zdravstvene preglede in zdravstveno evidenco izvršilnih železniških delavcev opravlja in vodi pooblaščeni zdravstveni zavod, ki izpolnjuje predpisane pogoje ter ima pooblastilo ministra, pristojnega za zdravje, izdano na predlog ministra. Zdravstvene preglede opravlja zdravnik ali zdravnica (v nadaljnjem besedilu: zdravnik), specialist medicine dela, prometa in športa.
+(6) Pooblaščeni zdravstveni zavod iz prejšnjega odstavka mora delodajalca obveščati o ugotovitvah glede zdravstvene sposobnosti izvršilnega železniškega delavca za opravljanje del, za katera ima sklenjeno pogodbo o zaposlitvi.
+(7) Pogoji ugotavljanja zdravstvenega stanja delavcev morajo biti določeni s predpisom, ki ga izda minister v soglasju z ministrom, pristojnim za zdravje. Predpis mora vsebovati določbe o posebnih zdravstvenih in psihofizičnih sposobnostih, ki jih mora izpolnjevati izvršilni železniški delavec, o rokih pregledov in druge pogoje.

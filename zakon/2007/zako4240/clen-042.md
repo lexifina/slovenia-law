@@ -1,0 +1,2 @@
+# 42. člen (vračilo razlaščenih zemljišč)
+Če se razlaščena zemljišča in druge nepremičnine iz prejšnjega člena v štirih letih od odvzema ali omejitve lastninske pravice ne začnejo uporabljati za namen razlastitve, lahko razlaščenec zahteva vrnitev razlaščenih zemljišč in drugih nepremičnin ali pravic v skladu z zakonom. Če je bila med investitorjem in lastnikom zemljišča ali druge nepremičnine namesto razlastitve sklenjena pogodba, lahko prejšnji lastnik v tem primeru zahteva razdrtje pogodbe.

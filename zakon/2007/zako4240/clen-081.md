@@ -1,0 +1,6 @@
+# 81. člen (duševna in telesna zmožnost delavca za opravljanje dela)
+(1) Izvršilni železniški delavec mora ob sklenitvi pogodbe o zaposlitvi za določeno delovno mesto izvršilnega delavca podpisati izjavo, da je seznanjen z delovnim procesom in s psihofizičnimi zahtevami dela, ki ga bo opravljal, ter da se čuti psihofizično sposoben opravljati to delo. Navedena izjava je sestavni del pogodbe o zaposlitvi.
+(2) Izvršilni železniški delavec ne sme nastopiti dela oziroma mora takoj prenehati delati, če se čuti utrujenega ali bolnega ali iz katerihkoli drugih razlogov nezmožnega opravljati delo, in mora o tem obvestiti odgovorno osebo delodajalca.
+(3) Izvršilni železniški delavec med opravljanjem dela ne sme uživati alkoholnih pijač, mamil ali psihoaktivnih zdravil ali drugih psihoaktivnih snovi, niti nastopiti dela, če ima v organizmu alkohol ali je pod vplivom mamil ali psihoaktivnih snovi.
+(4) Delodajalec izvršilnemu železniškemu delavcu ne sme dovoliti opravljanja del, če duševno ali telesno ni zmožen opravljati svojega dela.
+(5) Način, obseg, pogostnost in rednost postopka preverjanja duševne ali telesne zmožnosti izvršilnih železniških delavcev predpiše minister, pristojen za zdravje, v soglasju z ministrom.

@@ -1,0 +1,2 @@
+# 80. člen (posledice ugotovljene nezmožnosti za opravljanje del, za katera ima sklenjeno pogodbo o zaposlitvi)
+Če se na izrednem ali rednem zdravstvenem pregledu ugotovi, da izvršilni železniški delavec ne izpolnjuje zdravstvenih pogojev, predpisanih za dela, za katera ima sklenjeno pogodbo o zaposlitvi, ali če se ugotovi, da ni bil na zdravstvenem pregledu, na katerega je bil napoten, se šteje, da je nezmožen opravljati dela, za katera ima sklenjeno pogodbo o zaposlitvi, in mu jih delodajalec ne sme dovoliti opravljati, dokler traja ugotovljena nezmožnost.

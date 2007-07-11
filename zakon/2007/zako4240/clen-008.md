@@ -1,0 +1,3 @@
+# 8. člen (združljivost TSI z obstoječim sistemom)
+(1) Sestavine TSI na primeren način zagotavljajo združljivost z obstoječim železniškim sistemom. S tem namenom se lahko za vsak sklop TSI predvidijo posebni primeri.
+(2) TSI se lahko sklicujejo na evropske standarde ali specifikacije, če je to potrebno za doseganje ciljev interoperabilnosti. V teh primerih se evropski standardi ali specifikacije obravnavajo kot priloge k TSI in postanejo obvezni z začetkom veljavnosti TSI. Če evropskih standardov ali specifikacij ni, se je do njihove izdelave možno sklicevati na jasno prepoznavne normativne dokumente, ki so dostopni in v prosti uporabi.

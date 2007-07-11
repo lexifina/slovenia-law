@@ -1,0 +1,3 @@
+# 75. člen (pridobitev strokovne usposobljenosti)
+(1) Strokovni izpit za izvršilnega železniškega delavca sme opravljati oseba, ki je pred tem končala program strokovnega usposabljanja za določen poklic in uvajanja v praktično delo za določeno vrsto dela in se je pripravljala za opravljanje strokovnega izpita po programu, določenem za usposabljanje in uvajanje v to delo.
+(2) Minister podrobneje določi pogoje za opravljanje dejavnosti usposabljanja kandidatov, programe strokovnega usposabljanja, pogoje in način opravljanja strokovnega izpita, način strokovnega izpopolnjevanja ter pogoje in način preverjanja strokovne usposobljenosti.
