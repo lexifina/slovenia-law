@@ -1,0 +1,2 @@
+# 10. člen (pogoji za upravičence iz četrte in pete alinee drugega odstavka 5. člena)
+Štipendije iz četrte in pete alinee drugega odstavka 5. člena tega zakona se dodelijo upravičencem, ki izpolnjujejo splošne pogoje iz tega zakona ter pod pogoji in v višini, ki jih v javnem razpisu, po predhodnem soglasju vlade določi sklad oziroma v javnem razpisu, ki ga objavi organ, pristojen za izvajanje mednarodnega sporazuma oziroma načela vzajemnosti.

@@ -1,0 +1,5 @@
+# 29. člen (dodatek za učni oziroma študijski uspeh)
+(1) Dodatek za učni oziroma študijski uspeh znaša 19 eurov za dijake s povprečno oceno najmanj 4,1 ali več oziroma za študente s povprečno oceno najmanj 8,5 ali več ter 35 eurov za dijake s povprečno oceno najmanj 4,5 ali več oziroma študente s povprečno oceno najmanj 9,0 ali več.
+(2) Pri zaključnem razredu osnovne šole in dijakih se učni uspeh določi tako, da se upošteva povprečje ocen vseh predmetov v preteklem šolskem letu.
+(3) Pri študentih se učni uspeh določi tako, da se izračuna povprečje vseh številčno izraženih ocen, doseženih od 1. oktobra do 30. septembra v preteklem študijskem letu. Če je v navedenem obdobju študent opravil manj kot tri izpite, se poleg ocen teh izpitov upoštevajo tudi vse ocene iz predhodnega študijskega leta.
+(4) Dodatek za učni oziroma študijski uspeh ne pripada v prvem letniku izobraževanja, razen če se nadaljuje izobraževanje za pridobitev višje stopnje izobrazbe v okviru srednješolskega ali visokošolskega izobraževanja.

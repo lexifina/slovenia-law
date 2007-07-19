@@ -1,0 +1,5 @@
+## 2. Kadrovske štipendije
+# 21. člen (dodeljevanje kadrovskih štipendij in posredovanje podatkov)
+(1) Kadrovske štipendije dodeljujejo delodajalci upravičencem, ki izpolnjujejo splošne pogoje po tem zakonu, razen starostnega pogoja, in pogoje, določene v splošnih aktih delodajalca.
+(2) Delodajalci, ki se prijavijo na javni razpis za neposredno sofinanciranje kadrovskih štipendij pri skladu, so dolžni skladu posredovati podatke o vrsti in področju izobraževanja oziroma o izobraževalnem programu, za katerega se razpisujejo štipendije, in o številu razpisanih štipendij ter druge podatke, ki jih določi sklad. Sklad objavi te podatke na spletni strani.
+(3) Delodajalci, ki so vključeni v enotno regijsko štipendijsko shemo, so dolžni nosilcu regijske štipendijske sheme ali samoupravni lokalni skupnosti posredovati podatke o vrsti in področju izobraževanja oziroma o izobraževalnem programu, za katerega se razpisujejo štipendije, in o številu razpisanih štipendij ter druge podatke, ki jih določi nosilec ali samoupravna lokalna skupnost. Nosilci enotnih regijskih štipendijskih shem in samoupravne lokalne skupnosti objavijo te podatke na spletni strani.
