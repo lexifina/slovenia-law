@@ -1,0 +1,7 @@
+# 13. člen
+Za drugim odstavkom 34.a člena se dodajo novi tretji, četrti, peti, šesti in sedmi odstavek, ki se glasijo:
+"Za opravljanje občinskih funkcij imajo občinski funkcionarji pravico do plače, če funkcijo opravljajo poklicno, ali do plačila za opravljanje funkcije, če funkcijo opravljajo nepoklicno. Plača za poklicne občinske funkcionarje je določena v skladu z zakonom, ki ureja plače v javnem sektorju.
+Če župan opravlja funkcijo nepoklicno, mu pripada plačilo v višini 50% plače, ki bi jo dobil, če bi funkcijo opravljal poklicno. Pri tem se ne upošteva dodatek za delovno dobo.
+Če podžupan opravlja funkcijo nepoklicno, mu pripada plačilo največ v višini 50% plače, ki bi jo dobil, če bi funkcijo opravljal poklicno. Višino plačila določi župan ob upoštevanju obsega podžupanovih pooblastil. Pri tem se ne upošteva dodatek za delovno dobo.
+Članu občinskega sveta, razen podžupanu, pripada sejnina za udeležbo na seji občinskega sveta ali seji delovnega telesa občinskega sveta. Letni znesek sejnin, vključno s sejninami za seje delovnih teles občinskega sveta, ki se izplača posameznemu članu občinskega sveta, ne sme presegati 15% plače župana. Pri tem se ne upošteva dodatek za delovno dobo.
+Občinski svet s svojim aktom določi merila za izplačilo sejnin za člane občinskih svetov, za člane delovnih teles občinskega sveta in člane drugih občinskih organov kakor tudi merila za sejnine za člane svetov ožjih delov občine.".
