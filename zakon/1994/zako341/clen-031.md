@@ -19,3 +19,8 @@ Zakon o spremembah in dopolnitvah Zakona o detektivski dejavnosti - ZDD-B (Uradn
 Postopki obravnave prošenj za izdajo licence detektiva, vloženih do uveljavitve tega zakona, o katerih do uveljavitve tega zakona še ni bilo odločeno, se dokončajo po dosedanjih predpisih.
 5. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
+_________________
+Zakon o spremembah in dopolnitvah Zakona o detektivski dejavnosti - ZDD-C (Uradni list RS, št. 60/07) vsebuje naslednjo končno določbo:
+## "KONČNA DOLOČBA
+4. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".

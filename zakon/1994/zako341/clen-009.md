@@ -6,7 +6,7 @@ Detektiv sme pridobivati informacije neposredno od osebe, na katero se podatki n
 - o zvestobi delavcev pri izvajanju konkurenčne klavzule;
 - o podatkih o uspešnosti in poslovnosti pravnih oseb.;
 - o kaznivih dejanjih, ki se preganjajo na zasebno tožbo ter o njihovih storilcih;
-- o disciplinskih kršitvah in disciplinskih kršiteljih;
+- o zlorabah pravice do zadržanosti z dela zaradi bolezni ali poškodbe, zlorabah uveljavljanja pravice do povračila stroškov prevoza na delo in z dela ter o drugih disciplinskih kršitvah in kršilcih;
 - o kandidatih za zaposlitev, v okviru vsebine pisnega soglasja kandidata za zaposlitev.
 Pri pridobivanju informacij iz prejšnjega odstavka je detektiv dolžan osebo predhodno opozoriti, da podatke daje prostovoljno.
 Detektiv lahko za fizične in pravne osebe opravlja tudi svetovalne naloge na področju preprečevanja kaznivih dejanj ter drugih škodljivih dejanj.
