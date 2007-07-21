@@ -1,0 +1,8 @@
+# 17. člen (ugotavljanje in preverjanje istovetnosti drugih oseb civilnega prava)
+(1) Če je stranka organizacije oseba civilnega prava iz 9. točke 3. člena tega zakona, ki ni fizična ali pravna oseba, mora organizacija:
+1. ugotoviti in preveriti istovetnost osebe, pooblaščene za zastopanje (v nadaljnjem besedilu: zastopnik);
+2. pridobiti overjeno pisno pooblastilo za zastopanje;
+3. pridobiti podatke iz 2. in 16. točke prvega odstavka 83. člena tega zakona.
+(2) Organizacija ugotovi in preveri istovetnost zastopnika iz prvega odstavka tega člena in pridobi podatke iz 2. točke prvega odstavka 83. člena tega zakona z vpogledom v uradni osebni dokument zastopnika v njegovi osebni navzočnosti. Če iz tega dokumenta ni mogoče dobiti vseh predpisanih podatkov, se manjkajoči podatki pridobijo iz druge veljavne javne listine, ki jo predloži zastopnik, oziroma neposredno od njega.
+(3) Organizacija podatke iz 16. točke prvega odstavka 83. člena tega zakona o vsaki fizični osebi, ki je član osebe civilnega prava iz prvega odstavka tega člena, pridobi iz overjenega pisnega pooblastila za zastopanje, ki ga organizaciji predloži zastopnik. Če iz tega pooblastila ni mogoče dobiti vseh podatkov iz 16. točke prvega odstavka 83. člena tega zakona, se manjkajoči podatki pridobijo neposredno od zastopnika.
+(4) Če organizacija pri ugotavljanju in preverjanju istovetnosti osebe iz prvega odstavka tega člena podvomi o resničnosti prejetih podatkov ali verodostojnosti listin, iz katerih so bili podatki zajeti, lahko pred sklenitvijo poslovnega razmerja ali izvedbo transakcije zahteva tudi pisno izjavo zastopnika.

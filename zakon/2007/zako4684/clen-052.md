@@ -1,0 +1,2 @@
+# 52. člen (sodelovanje pri sestavi seznama indikatorjev)
+Pri sestavi seznama indikatorjev iz prvega odstavka 51. člena tega zakona sodelujejo tudi urad, Banka Slovenije, Agencija Republike Slovenije za trg vrednostnih papirjev, Agencija za zavarovalni nadzor, Urad Republike Slovenije za nadzor prirejanja iger na srečo, Slovenski inštitut za revizijo, Notarska zbornica Slovenije, Odvetniška zbornica Slovenije ter združenja in društva, katerih člani so zavezanci po tem zakonu.

@@ -1,0 +1,4 @@
+# 15. člen (ugotavljanje in preverjanje istovetnosti zakonitega zastopnika pravne osebe)
+(1) Organizacija ugotovi in preveri istovetnost zakonitega zastopnika ter pridobi podatke iz 2. točke prvega odstavka 83. člena tega zakona z vpogledom v uradni osebni dokument zakonitega zastopnika v njegovi osebni navzočnosti. Če iz tega dokumenta ni mogoče dobiti vseh predpisanih podatkov, se manjkajoči podatki pridobijo iz druge javne listine, ki jo predloži zakoniti zastopnik.
+(2) Organizacija lahko ugotovi in preveri istovetnost zakonitega zastopnika pravne osebe tudi na drug način, če tako s pravilnikom določi minister, pristojen za finance.
+(3) Če organizacija pri ugotavljanju in preverjanju istovetnosti zakonitega zastopnika podvomi o resničnosti prejetih podatkov, mora zahtevati tudi njegovo pisno izjavo.
