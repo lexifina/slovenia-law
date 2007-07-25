@@ -1,0 +1,6 @@
+## V. OBRAČUNAVANJE IN PLAČEVANJE DAVKA NA TONAŽO
+# 24. člen (obračunavanje in plačevanje davka na tonažo)
+(1) Zavezanec na dan po dnevu izteka roka iz četrtega odstavka 12. člena tega zakona predloži davčnemu organu začasni obračun davka na tonažo. Za začasni obračun se šteje obračun, ki vsebuje podatke iz druge alineje drugega odstavka 12. člena tega zakona in vse druge podatke, potrebne za izračun davka na tonažo.
+(2) Zavezanec mora ob vsaki spremembi spiska ladij iz drugega odstavka tega člena ali drugih spremenjenih dejstvih in okoliščinah, ki vplivajo na obračun davka na tonažo, dopolniti obračun iz prejšnjega odstavka tega člena tako, da so te spremembe upoštevane. Za dopolnitev se šteje predložitev novega začasnega obračuna, ki upošteva stanje iz zadnjega predloženega obračuna in spremembe.
+(3) Zavezanec za davek na tonažo plača davek za davčno obdobje po zadnjem dopolnjenem začasnem obračunu za to davčno obdobje.
+(4) Zavezanec za davek na tonažo plačuje med letom akontacije davka na tonažo. Za prvo davčno obdobje, ko je zavezanec vključen v sistem davka na tonažo, plačuje akontacije glede na začasni obračun iz drugega odstavka tega člena.

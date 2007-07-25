@@ -1,0 +1,5 @@
+## VII. ZAPOSLOVANJE POMORŠČAKOV PRIPRAVNIKOV (KADETOV)
+# 26. člen (zaposlovanje pomorščakov pripravnikov)
+(1) Na ladjah, s katerimi zavezanec posluje in so vključene v sistem davka na tonažo, razen na ladjah, ki jih ima v najemu, mora biti zagotovljeno v povprečju po eno delovno mesto za pomorščake pripravnike (kadete) oziroma pomorščakinje pripravnice (kadetinje) (v nadaljnjem besedilu: pomorščake pripravnike (kadete)), ki so državljani Republike Slovenije ali druge države članice in imajo prebivališče v Republiki Sloveniji.
+(2) Šteje se, da je pogoj iz prejšnjega odstavka izpolnjen, če zavezanec zahtevano število delovnih mest najmanj enkrat letno javno objavi. Za javno objavo se šteje tudi objava na oglasni deski srednje, višje ali visoke šole pomorske usmeritve. Pri povezanih družbah se šteje, da je pogoj iz prvega odstavka izpolnjen, če skupno zahtevano število delovnih mest objavi eden od zavezancev.
+(3) Dokazilo o javni objavi mora zavezanec enkrat letno predložiti davčnemu organu.
