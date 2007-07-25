@@ -1,0 +1,3 @@
+# 11.b člen (samostojnost in neodvisnost pri delu)
+(1) Zagovornik oziroma zagovornica opravlja strokovne in organizacijske naloge pri obravnavi primerov domnevnih kršitev prepovedi diskriminacije na podlagi tega zakona samostojno, nepristransko in neodvisno od navodil predstojnika oziroma predstojnice Urada ali Vlade.
+(2) Predstojnik oziroma predstojnica Urada izvršuje v razmerju do zagovornika oziroma zagovornice pravice in dolžnosti delodajalca glede ostalih pravic in obveznosti iz delovnega razmerja, ki v tem zakonu niso drugače urejene, v skladu z določbami zakona, ki ureja sistem javnih uslužbencev ter izvršilnih predpisov, izdanih na njegovi podlagi.
