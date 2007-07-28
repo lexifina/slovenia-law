@@ -1,6 +1,6 @@
 ## VII. DEL KAZENSKE DOLOČBE Splošne kršitve določb tega zakona
 # 91. člen
-(1) Z globo od 1.000.000 do 3.000.000 tolarjev se kaznuje za prekršek pravna oseba ali samostojni podjetnik posameznik:
+(1) Z globo od 4.170 do 12.510 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost:
 1. če obdeluje osebne podatke, ne da bi imel za to podlago v zakonu ali v osebni privolitvi posameznika (8. člen);
 2. če posamezna opravila v zvezi z obdelavo osebnih podatkov zaupa drugi osebi, ne da bi sklenil pogodbo v skladu z drugim odstavkom 11. člena;
 3. če obdeluje občutljive osebne podatke v nasprotju s 13. členom ali jih ne zavaruje v skladu s 14. členom;
@@ -16,7 +16,7 @@
 13. če ravna v nasprotju s prvim ali drugim odstavkom 30. člena ali če ravna v nasprotju z drugim, tretjim ali petim odstavkom 31. člena;
 14. če ravna v nasprotju z 32. členom ali če ravna v nasprotju z drugim ali petim odstavkom 33. člena;
 15. če v nasprotju s prvim odstavkom 63. člena ali v nasprotju s 70. členom iznaša osebne podatke v tretjo državo.
-(2) Z globo od 200.000 do 500.000 tolarjev se kaznuje za prekršek iz prejšnjega odstavka tudi odgovorna oseba pravne osebe ali samostojnega podjetnika posameznika.
-(3) Z globo od 200.000 do 500.000 tolarjev se kaznuje za prekršek odgovorna oseba državnega organa ali organa samoupravne lokalne skupnosti, ki stori dejanje iz prvega odstavka tega člena.
-(4) Z globo od 50.000 do 200.000 tolarjev se kaznuje za prekršek posameznik, ki stori dejanje iz prvega odstavka tega člena.
+(2) Z globo od 830 do 2.080 eurov se kaznuje za prekršek iz prejšnjega odstavka tudi odgovorna oseba pravne osebe, samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost.
+(3) Z globo od 830 do 2.080 eurov se kaznuje za prekršek odgovorna oseba državnega organa ali organa samoupravne lokalne skupnosti, ki stori dejanje iz prvega odstavka tega člena.
+(4) Z globo od 200 do 830 eurov se kaznuje za prekršek posameznik, ki stori dejanje iz prvega odstavka tega člena.
 Kršitev določb o pogodbeni obdelavi
