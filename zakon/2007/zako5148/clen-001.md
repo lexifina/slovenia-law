@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o varstvu osebnih podatkov (Uradni list RS, št. 86/04, 113/05 - ZInfP in 51/07 - ZUstS-A) se za tretjim odstavkom 7. člena dodata nova četrti in peti odstavek, ki se glasita:
+"(4) Upravljavcem osebnih podatkov z manj kot 50 zaposlenimi ni treba izpolniti obveznosti iz drugega odstavka 25. člena in obveznosti iz 26. ter 27. člena tega zakona.
+(5) Izjeme iz prejšnjega odstavka se ne uporabljajo za zbirke osebnih podatkov, ki jih vodijo upravljavci osebnih podatkov iz javnega sektorja, notarji, odvetniki, detektivi, izvršitelji, izvajalci zasebnega varovanja, zasebni zdravstveni delavci, izvajalci zdravstvenih storitev ter za upravljavce osebnih podatkov, ki vodijo zbirke, ki vsebujejo občutljive osebne podatke in je obdelava občutljivih osebnih podatkov del njihove registrirane dejavnosti.".
