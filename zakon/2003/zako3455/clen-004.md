@@ -8,9 +8,9 @@ Posamezni izrazi, ki so uporabljeni v tem zakonu, imajo naslednji pomen:
 a) posebne oblike pridobivanja podatkov, določene v 20. in 23. členu zakona o Slovenski obveščevalno-varnostni agenciji - ZSOVA (Uradni list RS, št. 23/99 in 56/2002 - ZJU), in
 b) posebne oblike pridobivanja podatkov, določene v 34. členu zakona o obrambi - ZObr (Uradni list RS, št. 82/94, 44/97, 87/97, 13/98 - odločba US, 33/2000 - odločba US, 87/2001 - ZMatD, 47/2002 in 67/2002 - popr.);
 6. "nadzorovani ukrepi varnostne službe" so:
-a) ukrepi, določeni v 150., 151., 152. in 155. členu zakona o kazenskem postopku - ZKP (Uradni list RS, št. 63/94, 70/94 - popr., 25/96 - odločba US, 5/98 - odločba US, 49/98 - ZPol, 72/98, 6/99, 66/2000 in 111/2001),
-b) ukrepi, določeni v 49. členu zakona o policiji - ZPol (Uradni list RS, št. 49/98, 66/98 - popr., 93/2001, 52/2002 - ZDU-1 in 56/2002 - ZJU), razen ukrepov iz druge in tretje alinee prvega odstavka tega člena ZPol, in
-c) ukrepi, določeni v 34. členu ZObr v zvezi s 150., 151., 152. in 155. členom ZKP in 49. členom ZPol, razen ukrepov iz druge in tretje alinee prvega odstavka tega člena ZPol;
+a) ukrepi, določeni v 149.a, prvem odstavku 149.b, 150., 151., 152.,155. in 155.a členu Zakona o kazenskem postopku - ZKP (Uradni list RS, št. 32/07 - uradno prečiščeno besedilo, in
+b) ukrepi, določeni v 34. členu ZObr v zvezi s 149.a, prvim odstavkom 149.b, 150., 151., 152., 155., in 155.a. členom ZKP;
 7. "nadzorovani ukrepi" so ukrepi nadzorovanih služb iz 5. in 6. točke tega člena;
 8. "predstojnik nadzorovane službe" je predstojnik službe iz prejšnjega člena;
-9. "telekomunikacijski operater" je operater po zakonu, ki ureja telekomunikacije.
+9. "Operater elektronskih komunikacij" je operater po zakonu, ki ureja elektronske komunikacije.
+10. "Izvajalec poštnih storitev" je izvajalec po zakonu, ki ureja poštne storitve.
