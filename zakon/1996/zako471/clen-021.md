@@ -1,6 +1,6 @@
 ## VI. KAZENSKE DOLOČBE
 # 21. člen
-Z globo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna oseba:
+Z globo od 2.000 do 33.000 eurov se kaznuje za prekršek pravna oseba:
 1. če proizvaja ali prodaja cigarete, ki vsebujejo več kot 12 mg katrana na cigareto (drugi odstavek 6. člena);
 2. če od 1. januarja 2004 proizvaja ali prodaja cigarete za Republiko Slovenijo in države članice Evropske unije, od 1. januarja 2007 pa tudi za izvoz v druge države, ki vsebujejo več kot 10 mg katrana na cigareto, 1 mg nikotina na cigareto in 10 mg ogljikovega monoksida na cigareto (tretji odstavek 6. člena);
 3. če proizvaja ali prodaja cigarete, ki nimajo na bočni strani embalaže natisnjenih podatkov o tem, koliko miligramov katrana, nikotina in ogljikovega monoksida vsebuje posamezna cigareta (8. člen), na način, kot ga določa prvi odstavek 9.c člena tega zakona, oziroma imajo natisnjene napačne podatke;
@@ -15,15 +15,14 @@ Z globo od 500.000 tolarjev do 8,000.000 tolarjev se kaznuje za prekršek pravna
 12. če sponzorira ali oglašuje tobak in tobačne izdelke (prvi odstavek 10. člena);
 13. če oglašuje izdelke, ki ne sodijo med tobak in tobačne izdelke, vendar s svojim videzom in namenom uporabe neposredno vzpodbujajo k potrošnji tobaka in tobačnih izdelkov (tretji odstavek 10. člena);
 14. če oglašuje tobak in tobačne izdelke v nasprotju z 11. členom tega zakona;
-15. če prodaja tobačne izdelke osebam, mlajšim od 15 let (prvi odstavek 14. člena);
+15. če prodaja tobačne izdelke osebam, mlajšim od 18 let, ali če prepovedi prodaje ne objavi na vidnem mestu ali če prodaja tobačne izdelke oseba, mlajša od 18 let (14. člen);
 16. če prodaja tobačne izdelke iz avtomatskih naprav (drugi odstavek 14. člena);
 17. če prodaja cigarete in druge tobačne izdelke izven izvirne embalaže proizvajalca (tretji odstavek 14. člena);
 18. če prodaja tobak za oralno uporabo (četrti odstavek 14. člena);
-19. če v javnih prostorih ne objavi prepovedi kajenja ter označbe prostorov za nekadilce na vidnem mestu (četrti odstavek 15. člena);
-20. če ne določi prostora za kadilce v gostinskih objektih, kjer se gostom streže hrana (restavracije, gostilne, kavarne, okrepčevalnice in bari) v skladu s prvim odstavkom 16. člena tega zakona oziroma ga ne označi in ne zagotovi ločitve prostorov za nekadilce na način iz drugega odstavka 16. člena ter ne zagotovi spoštovanja prepovedi kajenja v prostorih za nekadilce (četrti odstavek 16. člena);
-21. če ne določi prostorov, v katerih je dovoljeno kajenje (prvi odstavek 17. člena);
-22. če se ne ravna po določbi 18.a člena in določbi 18.b člena tega zakona;
-23. če se ne ravna po odločbi iz 20. člena tega zakona.
-Z globo od 100.000 tolarjev do 250.000 tolarjev se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
-Z globo od 200.000 do 1.000.000 tolarjev se kaznuje samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
+19. če ne zagotovi spoštovanja prepovedi kajenja v javnih ali delovnih prostorih (16. člen);
+20. če kadilnice ne ustrezajo pogojem iz 17. člena tega zakona;
+21. če se ne ravna po določbi 18.a člena in določbi 18.b člena tega zakona;
+22. če se ne ravna po odločbi iz 20. člena tega zakona.
+Z globo od 400 do 1.000 eurov se kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
+Z globo od 800 do 4.000 eurov se kaznuje samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
 Za prekrške iz 1. do 12., 17. in 18. točke prvega odstavka tega člena se poleg globe izreče tudi varstveni ukrep obveznega odvzema tobačnih izdelkov, ki so predmet prekrška, za prekršek iz 16. točke prvega odstavka tega člena pa tudi odvzem avtomatskih naprav.
