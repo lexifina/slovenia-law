@@ -1,0 +1,4 @@
+# 6. člen
+(1) Po pravnomočnosti vseh ugotovitvenih odločb iz prejšnjega člena, druge sindikalne organizacije v roku šestih mesecev sklenejo dogovor o načinu delitve tistega nepremičnega sindikalnega premoženja iz Priloge I tega zakona, ki v skladu s Sporazumom pripada drugim sindikalnim organizacijam. Dogovor mora vsebovati zemljiškoknjižno oznako nepremičnin in je podlaga za vpis lastninske pravice v zemljiško knjigo.
+(2) Če druge sindikalne organizacije ne sklenejo dogovora o načinu delitve nepremičnega sindikalnega premoženja v roku iz prejšnjega odstavka, ministrstvo, pristojno za javno upravo, izvrši prodajo nepremičnega sindikalnega premoženja iz prvega odstavka tega člena.
+(3) Za prodajo nepremičnega premoženja iz prejšnjega odstavka se smiselno uporabijo določbe Stvarnopravnega zakonika (Uradni list RS, št. 87/02) o prodaji stvari v solastnini. Kupnina, zmanjšana za stroške prodaje, se v enakih delih razdeli med druge sindikalne organizacije.
