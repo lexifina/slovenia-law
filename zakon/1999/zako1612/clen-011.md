@@ -5,9 +5,5 @@
 1. bistvene sestavine nematerializiranih vrednostnih papirjev, na izdajo katerih se nanaša nalog (4. člen tega zakona);
 2. firmo oziroma ime upravičencev do nematerializiranih vrednostnih papirjev z navedbo enolične identifikacije upravičencev in sedeža oziroma prebivališča ter števila vrednostnih papirjev, ki se posameznemu upravičencu izročijo;
 3. firmo, sedež, naslov in kontaktno osebo izdajatelja.
-(3) Nalogu za izdajo morajo biti priložene naslednje listine:
-1. sklep o izdaji vrednostnih papirjev,
-2. odločba agencije o uspešnosti javne ponudbe, če je takšna odločba pogoj za veljavno izdajo vrednostnih papirjev,
-3. sklep o ustreznem vpisu v sodni register, kadar je takšen vpis pogoj za veljavno izdajo delnic,
-4. s strani izdajatelja podpisana pogodba o vodenju registra nematerializiranih vrednostnih papirjev in dokaz o plačilu obveznosti iz te pogodbe v zvezi z izdajo nematerializiranih vrednostnih papirjev.
+(3) (prenehal veljati)
 Nepopoln nalog za izdajo

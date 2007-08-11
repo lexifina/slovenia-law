@@ -3,4 +3,5 @@
 (2) Organiziran trg vrednostnih papirjev po tem zakonu je trg vrednostnih papirjev, ki je posredno ali neposredno dostopen javnosti, na katerem trgovanje poteka redno in je urejen in nadzorovan s strani pristojnih organov.
 (3) V primeru iz prvega odstavka tega člena se šteje, da je imetnik vrednostnega papirja udeležencu trgovanja, ki vodi imetnikov račun, izdal nalog za prenos nematerializiranih vrednostnih papirjev z njegovega računa na račun novega imetnika zaradi izpolnitve obveznosti iz poslov, ki jih je na organiziranem trgu vrednostnih papirjev sklenil udeleženec za njegov račun.
 (4) V primeru iz prvega odstavka tega člena se šteje, da je nalog za prenos nematerializiranega vrednostnega papirja vnesen, ko se v skladu s pravili poslovanja klirinško depotne družbe v centralni register vnesejo podatki o sklenjenih poslih.
+(5) Prvi do četrti odstavek tega člena se smiselno uporabljajo tudi, kadar se s serijskimi vrednostnimi papirji trguje v večstranskem sistemu trgovanja (MTF).
 Prenos na podlagi drugih poslov
