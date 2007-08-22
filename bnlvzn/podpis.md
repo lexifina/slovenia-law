@@ -1,0 +1,163 @@
+Razglašam Zakon o ratifikaciji Sporazuma med Republiko Slovenijo in Kraljevino Nizozemsko o vzajemnem vzdrževanju zalog surove nafte in/ali naftnih derivatov (BNLVZN), ki ga je sprejel Državni zbor Republike Slovenije na seji 12. julija 2007.
+
+Št. 001-22-99/07
+
+Ljubljana, dne 20. julija 2007
+
+dr. Janez Drnovšek l.r. Predsednik Republike Slovenije
+
+The Republic of Slovenia
+
+and
+
+the Kingdom of the Netherlands,
+
+(hereinafter referred to as “the Contracting Parties”);
+
+Having regard to Council Directive 68/414/EEC of 20 December 1968 imposing obligations on Member States of the European Economic Community to maintain minimum stocks of crude oil and/or petroleum products, as amended by Council Directive 98/93/EC of 14 December 1998 (hereinafter together referred to as “the Directive”);
+
+Having regard to Article 6, paragraph 2, of the Directive which envisages the establishment of stocks within the territory of a Member State for the account of undertakings, established in another Member State, under agreements between Governments;
+
+Having regard to national legislation regarding oil stocking obligations;
+
+Have agreed as follows:
+
+Article 1
+
+For the purposes of this Agreement:
+
+a. “competent authority” means the governmental authority of each Contracting Party responsible for supervising the fulfilment by undertakings of the stock obligation;
+
+b. “stocks” means any stocks of crude oil or petroleum products (including blending and finished products) covered by the Directive;
+
+c. “stock obligation” means the overall quantity of stock required to be held under national law;
+
+d. “supply crisis” in this Agreement shall have the same meaning as in Article 6, paragraph 2, of the Directive;
+
+e. “territory” means the area within the European Union over which each Contracting Party exercises jurisdiction;
+
+f. “undertaking” means any undertaking, body or entity established in the territory of one Contracting Party which holds stocks for the purpose of facilitating compliance, whether by that undertaking or a third party, with the law relating to oil stocking obligations of that or the other Contracting Party.
+
+Article 2
+
+This Agreement applies only to stocks covered by the Directive which have been accepted by the competent authorities of both Contracting Parties.
+
+Article 3
+
+1. An undertaking established in the Netherlands may hold stocks in Slovenia. Such stocks may be held either:
+
+a. directly by the undertaking established in the Netherlands, or
+
+b. by an undertaking established in Slovenia, on behalf of the undertaking established in the Netherlands.
+
+2. An undertaking established in Slovenia may hold stocks in the Netherlands. Such stocks may be held either:
+
+a. directly by the undertaking established in Slovenia, or
+
+b. by an undertaking established in the Netherlands, on behalf of the undertaking established in Slovenia.
+
+3. For stocks to be eligible for acceptance under Article 2 of this Agreement, the undertaking seeking acceptance of those stocks under that Article must have agreed to hold them whether itself or through the other undertaking, from the first day of any calendar month for a period of at least three full calendar months, after acceptance by the competent authorities.
+
+4. If an undertaking holds stocks on behalf of another undertaking in accordance with paragraphs 1(b) or 2(b) of this Article, then those stocks shall not be taken into account by the undertaking first mentioned in its own stocking declarations.
+
+Article 4
+
+Neither Contracting Party shall oppose the removal of stocks to which this Agreement applies from its territory nor their treatment in accordance with directions issued by the competent authority of the other Contracting Party.
+
+Article 5
+
+1. No stocks may be accepted under Article 2 of this Agreement as being stocks to which this Agreement applies unless:
+
+a. the undertaking seeking to hold the stocks outside the Contracting Party of establishment (“the first undertaking”) has furnished the competent authority of that Contracting Party, not later than ten working days before the commencement of the period to which the acceptance relates, with the following particulars:
+
+i. its name and address and the name and address of the undertaking established in the territory of the Contracting Party where the stocks are to be held (“the second undertaking”), which is to hold the stocks on its behalf;
+
+ii. the nature and quantity of the stocks;
+
+iii. location of the depot(s) where the stocks are to be held;
+
+iv. the period for which the stocks are to be held;
+
+v. if requested the provisions of any agreement whereby the stocks are to be held on behalf of the first undertaking by the second undertaking; and,
+
+b. both the first and the second undertaking consent to the competent authority of the Contracting Party in whose territory the stocks will be situated disclosing to the competent authority of the other Contracting Party any information obtained for the purpose of implementing this Agreement.
+
+2. Where an undertaking is seeking to hold outside the territory of the Contracting Party of its establishment, stocks which will not be owned by that undertaking (the “beneficiary undertaking”), but will be held at its disposal by another undertaking (the “delegating undertaking”), then in addition to the provisions of paragraph 1 above, no stocks which are to be so held may be accepted under Article 2 of this Agreement as being stocks to which this Agreement applies, unless:
+
+a. the stocks are to be held by virtue of an agreement in writing between the beneficiary undertaking and the delegating undertaking (the “contract”) which will subsist throughout the period to which the acceptance relates;
+
+b. the beneficiary undertaking has the contractual right to acquire the stocks throughout the period of the contract and the methodology for establishing the price of such acquisition is specified in the contract;
+
+c. the actual availability of the stocks for the beneficiary undertaking is guaranteed at all times throughout the period of the contract, and
+
+d. the delegating undertaking is one which is subject to the jurisdiction of the Contracting Party, on whose territory the stocks are situated, insofar as the legal powers of that Contracting Party to control and verify the existence of the stocks are concerned.
+
+3. Where the competent authority of one Contracting Party ("the first competent authority") has been furnished with particulars under paragraph 1(a) and 2 of this Article, or any changes in respect of such particulars, and accepts the stocks in question as stocks to which this Agreement applies, that authority shall, not later than ten working days before the commencement of the period to which the acceptance relates, transmit the particulars to the competent authority of the other Contracting Party ("the second competent authority") and notify it of such acceptance.
+
+4. The second competent authority shall use all reasonable endeavours to notify the first competent authority whether or not it accepts the stocks in question as stocks to which this Agreement applies no later than five working days before the commencement of the period to which the acceptance relates. In the event that no such notification is received by the first competent authority before the aforementioned date, the second competent authority shall be deemed not to have accepted the stocks in question as stocks to which this Agreement applies.
+
+5. Any acceptance under paragraph 3 and 4 of this Article may be withdrawn by either competent authority if any inaccuracy is found in the particulars furnished in respect of that acceptance under paragraph 1(a) or 2 of this Article or if there is any material change in the matters to which those particulars relate. Before withdrawing an acceptance under this provision the competent authority concerned shall inform the competent authority of the other Contracting Party and afford the undertaking, which had furnished the particulars a reasonable opportunity to make representations.
+
+Article 6
+
+1. Each competent authority shall require any undertaking holding stocks in the territory of the other Contracting Party to furnish it with a statistical return, at least monthly, of those stocks within six weeks of the expiry of the period to which the return relates.
+
+2. Each statistical return to be furnished under paragraph 1 of this Article shall include particulars of:
+
+a. the name and address of the undertaking holding the stocks in the other Contracting Party and where applicable, the name and address of the undertaking established in the Contracting Party where the stocks are to be held, which is to hold the stocks on its behalf;
+
+b. the nature and quantity of the stocks; and
+
+c. location of the depot(s) where the stocks are held.
+
+3. Each competent authority shall if requested by the other competent authority transmit to the latter copies of every statistical return furnished under paragraph 1 of this Article.
+
+4. The competent authority of the Contracting Party in which the stocks are held shall, by exercising from time to time its powers of inspection, check on the information contained in statistical returns so furnished and notify forthwith the competent authority of the other Contracting Party of any material discrepancy in respect of that information.
+
+Article 7
+
+1. In the event of a shortfall in the total amount of stocks which a delegating undertaking should be holding both on behalf of beneficiary undertakings and as part of the stock obligation of the Contracting party in which it is established the competent authority of the latter Contracting Party shall notify the competent authority of the other Contracting Party as soon as it becomes aware of the same.
+
+2. The Contracting Parties agree to consult each other as soon as reasonably practicable:
+
+a. in the event of a supply crisis; or
+
+b. on the occurrence of a shortfall referred to in paragraph (1) above; or
+
+c. at the request of either of them in order to
+
+i. resolve any difficulty arising in the interpretation or application of this Agreement; or
+
+ii. amend any of the terms of the Agreement.
+
+Article 8
+
+This Agreement shall enter into force on the first day of the second month after each Contracting Party has notified the other Contracting Party through the diplomatic channel of the completion of its procedures necessary for the entry into force of the Agreement.
+
+Article 9
+
+1. This Agreement may be terminated by either Contracting Party by giving notice in writing, through the diplomatic channel to the other Contracting Party, not less than six months before the end of any calendar year, in which case it shall cease to be in force from the first day of the following calendar year.
+
+2. Neither Contracting Party shall exercise the power of termination in paragraph 1 of this Article without having informed the Commission of the European Communities of its intention to do so.
+
+3. This Agreement may not be terminated during a supply crisis.
+
+In witness whereof the undersigned, being duly authorised thereto by their respective Governments, have signed this Agreement. Done in two originals at The Hague this 28th day of March 2007 in the English language only.
+
+For the Republic of Slovenia Andrej Vizjak (s) For the Kingdom of the Netherlands Maria J. A. van der Hoeven (s)
+
+Republika Slovenija
+
+in
+
+Kraljevina Nizozemska
+
+(v nadaljnjem besedilu »pogodbenici«) sta se
+
+ob upoštevanju Direktive Sveta 68/414/EGS z dne 20. decembra 1968 o obveznosti držav članic EGS glede vzdrževanja minimalnih zalog surove nafte in/ali naftnih derivatov, kakor je bila nazadnje spremenjena z Direktivo Sveta 98/93/ES z dne 14. decembra 1998 (v nadaljnjem besedilu skupaj imenovani »direktiva«);
+
+ob upoštevanju drugega odstavka 6. člena direktive, s katerim se predvideva vzpostavitev zalog na ozemlju države članice za potrebe podjetij, ustanovljenih v drugi državi članici, v skladu s sporazumi med vladami;
+
+ob upoštevanju notranje zakonodaje glede obveznosti vzdrževanja zalog nafte
+
+dogovorili:
