@@ -1,0 +1,3 @@
+# 3. člen
+(1) Če Republika Slovenija plača obveznosti iz kredita namesto Eko sklada, j.s., pridobi Republika Slovenija v razmerju do Eko sklada, j.s., pravico do regresiranja plačanih zneskov, obresti in vseh stroškov, ki so v zvezi s tem nastali.
+(2) V devetdesetih dneh po ratifikaciji poroštvene pogodbe iz 2. člena tega zakona skleneta Eko sklad, j.s., ter v imenu in za račun Republike Slovenije minister, pristojen za finance, pogodbo o načinu in pogojih zavarovanja poroštva Republike Slovenije. S pogodbo podrobneje uredita vire za vračilo zneskov, plačanih iz naslova poroštva, in instrumente zavarovanja.
