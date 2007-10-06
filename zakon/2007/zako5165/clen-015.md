@@ -1,0 +1,5 @@
+# 15. člen
+39. člen se spremeni tako, da se glasi:
+"(1) Sredstva za odpravo posledic škode v kmetijstvu se lahko dodelijo osebi, ki na ozemlju Republike Slovenije obdeluje kmetijska zemljišča, če je v času nastanka naravne nesreče kot nosilec kmetijskega gospodarstva vpisana v register kmetijskih gospodarstev, ki ga vodi ministrstvo, pristojno za kmetijstvo in gozdarstvo.
+(2) Sredstva za odpravo posledic škode v kmetijstvu se lahko dodelijo tudi pravni osebi, ki na ozemlju Republike Slovenije proizvaja kmetijske pridelke, če je v času nastanka naravne nesreče kot nosilec kmetijskega gospodarstva vpisana v register kmetijskih gospodarstev, ki ga vodi ministrstvo, pristojno za kmetijstvo in gozdarstvo.
+(3) Oseba iz prvega in drugega odstavka tega člena je upravičena do sredstev za odpravo posledic škode v kmetijstvu za tiste kmetijske pridelke, za katere iz ocene neposredne škode sledi, da je njihova kmetijska proizvodnja v obdobju ugotavljanja posledic neugodnih vremenskih razmer manjša od običajne letne kmetijske proizvodnje za več kakor 30%.".

@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o odpravi posledic naravnih nesreč (Uradni list RS, št. 114/05 - uradno prečiščeno besedilo) se v drugem odstavku 1. člena za besedo "zakon" doda besedilo "v skladu z Uredbo Komisije (ES) 1857/2006 z dne 15. decembra 2006 o uporabi členov 87 in 88 Pogodbe pri državni pomoči za majhna in srednje velika podjetja, ki se ukvarjajo s proizvodnjo kmetijskih proizvodov in o spremembi Uredbe (ES) 70/2001 (UL L št. 358 z dne 16. 12. 2006, str. 3; v nadaljnjem besedilu: Uredba 1857/2006/ES),".

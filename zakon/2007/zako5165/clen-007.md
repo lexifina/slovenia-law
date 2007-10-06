@@ -1,0 +1,4 @@
+# 7. člen
+V petem odstavku 17. člena se za besedilom "katere ustanovitelj je občina," doda besedilo "ali oseba zasebnega prava," in na koncu stavka doda besedilo, ki se glasi: "Za prihodke proračuna občine se štejejo prihodki, ki se kot lastni prihodki občine upoštevajo pri izračunu sredstev za finančno izravnavo iz državnega proračuna.".
+Doda se nov sedmi odstavek, ki se glasi:
+"(7) Če je občina v letu nastanka naravne nesreče porabila za odpravo posledic nesreč na svojih stvareh svojih proračunskih sredstev več, kakor je njena proračunska rezerva v tem letu, se razlika med porabljenimi proračunskimi sredstvi občine in njeno proračunsko rezervo v višini 1,5% prihodkov proračuna v letu naravne nesreče upošteva pri njenih obveznostih financiranja odprave posledic nesreč iz četrtega in petega odstavka tega člena. Če pa višina teh proračunskih sredstev občine presega obveznosti občine po tem zakonu, pa se ji presežna sredstva vrne v njen proračun.".

@@ -1,0 +1,2 @@
+# 4. člen
+V devetem odstavku 5. člena se besedilo "kot neposredno izplačilo v kmetijstvu za odpravo posledic naravnih nesreč v skladu s predpisi, ki urejajo posredna in neposredna izplačila v kmetijstvu, ni večja od tržne vrednosti izpada kmetijskega pridelka" nadomesti z besedilom "kot neposredno izplačilo v kmetijstvu za odpravo posledic naravnih nesreč ni večja od zmanjšanja vrednosti letne kmetijske proizvodnje, ki je nastalo zaradi posledic naravne nesreče.".
