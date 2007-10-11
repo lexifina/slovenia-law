@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o postopku priznavanja kvalifikacij državljanom držav članic Evropske unije za opravljanje reguliranih poklicev oziroma reguliranih poklicnih dejavnosti v Republiki Sloveniji (Uradni list RS, št. 21/02) se naslov dopolni tako, da se glasi "Zakon o postopku priznavanja poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije za opravljanje reguliranih poklicev oziroma dejavnosti v Republiki Sloveniji".
