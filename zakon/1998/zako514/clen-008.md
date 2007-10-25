@@ -1,2 +1,4 @@
 # 8. člen
-Strokovna in administrativna dela za odbor opravlja Urad Republike Slovenije za meroslovje.
+Strokovna in administrativna dela za odbor opravlja Ministrstvo za visoko šolstvo, znanost in tehnologijo, Urad Republike Slovenije za meroslovje (v nadaljnjem besedilu: urad).
+Urad vodi evidenco z osebnimi podatki kandidatov za ocenjevalce, imenovanih ocenjevalcev in razsodnikov.
+Evidenca iz drugega odstavka tega člena obsega: ime in priimek, akademski naziv, spol, letnico, kraj in občino rojstva, državo rojstva, stalno prebivališče, številke telefona, telefaksa in mobilnega telefona, na katere želi biti dosegljiv, davčno številko, državljanstvo, pridobljeno izobrazbo, naziv in naslov organizacije, kjer je zaposlen, funkcijo v organizaciji, delovne izkušnje, znanje tujih jezikov, znanja in izkušnje na posameznih področjih dela, druge podatke pa le, če tako določa zakon. V evidenci se o imenovanih ocenjevalcih vodijo tudi podatki o opravljenih usposabljanjih v sistemu za priznanje in sodelovanju v predhodnih postopkih ocenjevanja ter ocene dela v predhodnih postopkih ocenjevanja.

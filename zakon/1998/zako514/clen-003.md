@@ -1,3 +1,3 @@
 # 3. člen
-Priznanja se vsako leto lahko podelijo osebam v zasebnem in javnem sektorju v kategorijah, ki jih določi Odbor za priznanja Republike Slovenije za poslovno odličnost (v nadaljnjem besedilu: odbor), upoštevajoč kriterije in merila evropske nagrade za kakovost.
-Ob izpolnjevanju pogojev po tem zakonu se priznanje iz prejšnjega odstavka lahko podeli tudi podjetnikom posameznikom.
+Priznanja se vsako leto lahko podelijo organizacijam v zasebnem in javnem sektorju v kategorijah, ki jih določi Odbor za priznanja Republike Slovenije za poslovno odličnost (v nadaljnjem besedilu: odbor), upoštevajoč kriterije in merila evropske nagrade za kakovost. Pri tem v kategoriji javnega sektorja lahko sodelujejo: državni organi, organi samoupravnih lokalnih skupnosti in osebe javnega prava, ki so proračunski uporabniki, ter druge pravne in fizične osebe zasebnega prava, ki opravljajo nepridobitno dejavnost in izkažejo delovanje v javnem interesu.
+Ob izpolnjevanju pogojev po tem zakonu se priznanje iz prejšnjega odstavka lahko podeli tudi podjetnikom posameznikom. (črtan)
