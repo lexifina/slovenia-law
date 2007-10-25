@@ -1,0 +1,3 @@
+# 192.d člen
+(1) Predlogu za vpis združitve oziroma delitve investicijske družbe v sodni register je treba priložiti dovoljenje Agencije za združitev oziroma delitev.
+(2) Če registrsko sodišče ugotovi, da predlogu za vpis združitve oziroma delitve v sodni register ni priloženo dovoljenje za združitev oziroma delitev, določi predlagatelju rok za odpravo pomanjkljivosti. Če predlog v tem roku ni dopolnjen, registrsko sodišče s sklepom prekine postopek. Prekinjeni postopek se nadaljuje po prejemu odločbe, s katero je Agencija odločila o zahtevi za izdajo dovoljenja za združitev oziroma delitev.".

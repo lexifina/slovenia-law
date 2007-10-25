@@ -1,0 +1,6 @@
+# 5. člen
+V 5. členu se v šestem odstavku na koncu stavka pred piko doda besedilo, ki se glasi: "bodisi same bodisi z nadaljnjim prenosom pooblastila na tretjo osebo ob predhodnem pisnem soglasju družbe za upravljanje".
+V devetem in desetem odstavku se besedilo "10. točke" nadomesti z besedilom "9. točke".
+Dodata se nova enajsti in dvanajsti odstavek, ki se glasita:
+"(11) Za vodenje evidenc imetnikov investicijskih kuponov iz 2.b) točke prvega odstavka tega člena se podatki, ki so navedeni v tretjem odstavku 131. člena tega zakona, zbirajo neposredno od posameznika, na katerega se nanašajo.
+(12) Ne glede na enajsti odstavek tega člena lahko družba za upravljanje, v primeru, če ugotovi, da osebni podatek ni popoln, za namene opravljanja nalog iz enajstega odstavka tega člena na podlagi pisne zahteve pristojnemu davčnemu organu, pridobi davčno številko vlagatelja. Družba za upravljanje lahko podatek o davčni številki vlagatelja pridobi od pristojnega davčnega organa samo na podlagi pisnega soglasja vlagatelja, na katerega se podatek nanaša. Družba za upravljanje lahko davčno številko uporablja zgolj za namen izplačil investicijskih kuponov imetnika in izvajanja določb zakonov in podzakonskih aktov, ki urejajo obdavčitev imetnikov investicijskih skladov.".

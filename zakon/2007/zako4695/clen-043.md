@@ -1,0 +1,3 @@
+# 43. člen
+Drugi odstavek 76. člena se spremeni tako, da se glasi:
+"(2) Naložbe investicijskega sklada, za katerega je družba za upravljanje v roku zadnjih šestih mesecev pridobila dovoljenje Agencije za upravljanje iz 116. člena oziroma 171. člena tega zakona, lahko odstopajo od določb tega zakona, pravil upravljanja vzajemnega sklada in določb statuta investicijske družbe, ki se nanašajo na naložbene omejitve, vendar jih mora družba za upravljanje uskladiti z njimi v šestih mesecih od pridobitve dovoljenja za upravljanje vzajemnega sklada oziroma od vpisa ustanovitve investicijske družbe v sodni register.".

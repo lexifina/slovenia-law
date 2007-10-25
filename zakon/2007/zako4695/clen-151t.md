@@ -1,0 +1,6 @@
+# 151.t člen
+(1) Družba za upravljanje mora pripraviti skupen prospekt krovnega sklada za vse njegove podsklade. Izvlečki prospekta za podsklade krovnega sklada so lahko pripravljeni kot enoten dokument ali kot ločeni dokumenti za vsak posamezen podsklad.
+(2) V prospektu iz prvega odstavka tega člena mora biti jasno navedeno, kateri deli besedila veljajo za vse podsklade in kateri se nanašajo le na posamezen podsklad.
+(3) Če družba za upravljanje po nastanku krovnega sklada oblikuje dodatne podsklade, mora ustrezno spremeniti in dopolniti prospekt krovnega sklada in pripraviti izvleček prospekta, ki se nanaša na posamezni novi podsklad. Družba za upravljanje mora pred začetkom javne ponudbe investicijskih kuponov novega podsklada pridobiti dovoljenje za objavo sprememb in dopolnitev prospekta krovnega sklada in dovoljenje za objavo izvlečka prospekta posameznega novega podsklada.
+(4) Za postopek odločanja Agencije o izdaji dovoljenja za objavo sprememb in dopolnitev prospekta krovnega sklada ter dovoljenja za objavo izvlečka prospekta posameznega novega podsklada iz tretjega odstavka tega člena se smiselno uporabljajo določbe tega zakona, ki se nanašajo na izdajo dovoljenja za objavo prospekta in izvlečka prospekta vzajemnega sklada.
+5.10.3. Oblikovanje krovnih skladov iz obstoječih vzajemnih skladov

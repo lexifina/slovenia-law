@@ -1,0 +1,19 @@
+# 231. člen
+(1) Z globo od 1.250 do 125.000 eurov se za prekršek kaznuje pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost:
+1. če zbira denarna sredstva oziroma posreduje pri zbiranju denarnih sredstev oziroma kako drugače zagotavlja pogoje za zbiranje denarnih sredstev v nasprotju s tretjim odstavkom 2. člena tega zakona (četrti odstavek 2. člena);
+2. če v nasprotju s prepovedjo iz petega odstavka 5. člena tega zakona ali v nasprotju s šestim in sedmim odstavkom 5. člena ter v nasprotju s 6. členom tega zakona opravlja storitve upravljanja investicijskih skladov;
+3. če javno ponuja, posreduje pri prodaji ali kako drugače zagotavlja pogoje za prodajo investicijskih kuponov vzajemnega sklada v nasprotju s četrtim odstavkom 9. člena tega zakona (peti odstavek 9. člena);
+4. če javno ponuja, posreduje pri prodaji ali kako drugače zagotavlja pogoje za prodajo delnic investicijske družbe v nasprotju s sedmim odstavkom 10. člena tega zakona (osmi odstavek 10. člena);
+5. če je povezana s skrbnikom in z družbo za upravljanje sklene posel nakupa ali prodaje oziroma drugi posel, katerega predmet je naložba investicijskega sklada, ki ga ta družba za upravljanje upravlja in za katerega skrbnik, s katerim je pravna oseba povezana oseba, opravlja skrbniške storitve (prvi odstavek 54. člena);
+6. če je povezana z družbo za upravljanje in s skrbnikom sklene posel nakupa ali prodaje oziroma drugi posel, katerega predmet je naložba investicijskega sklada, za katerega ta skrbnik opravlja skrbniške storitve in ki ga upravlja družba za upravljanje s katero je ta pravna oseba povezana oseba (prvi odstavek 54. člena);
+7. upravljavec vzajemnega pokojninskega sklada, če ne sklene pogodbo o opravljanju skrbniških storitev (prvi odstavek 211. člena);
+8. upravljavec vzajemnega pokojninskega sklada, če se ne opravi revidiranje poslovanja vzajemnega pokojninskega sklada s strani pooblaščenega revizorja (prvi odstavek 212. člena);
+9. če ne ravna v skladu s pravnomočno odredbo Agencije iz 220. člena tega zakona o odpravi kršitev (prvi odstavek 221. člena).
+(2) Z globo od 125 do 4.100 eurov se za prekršek kaznuje odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost, ki stori prekršek iz prvega odstavka tega člena.
+(3) Z globo od 125 do 1.200 eurov se za prekršek kaznuje fizična oseba, če:
+1. zbira denarna sredstva oziroma posreduje pri zbiranju denarnih sredstev oziroma kako drugače zagotavlja pogoje za zbiranje denarnih sredstev v nasprotju s tretjim odstavkom 2. člena tega zakona (četrti odstavek 2. člena);
+2. v nasprotju s prepovedjo iz petega odstavka 5. člena tega zakona opravlja storitve upravljanja investicijskih skladov;
+3. javno ponuja, posreduje pri prodaji ali kako drugače zagotavlja pogoje za prodajo investicijskih kuponov vzajemnega sklada v nasprotju s četrtim odstavkom 9. člena tega zakona (peti odstavek 9. člena);
+4. javno ponuja, posredujejo pri prodaji ali kako drugače zagotavlja pogoje za prodajo delnic investicijske družbe v nasprotju s sedmim odstavkom 10. člena tega zakona (osmi odstavek 10. člena);
+5. če ne ravna v skladu s pravnomočno odredbo Agencije iz 220. člena tega zakona o odpravi kršitev (prvi odstavek 221. člena).
+(4) Če je narava storjenega prekrška iz prejšnjih odstavkov posebno huda zaradi višine povzročene škode oziroma višine pridobljene protipravne premoženjske koristi ali zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, se storilec, ki je pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, kaznuje z globo od 41.000 do 370.000 eurov, posameznik z globo od 400 do 3.600 eurov, odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost, pa z globo od 2.500 do 12.000 eurov.".
