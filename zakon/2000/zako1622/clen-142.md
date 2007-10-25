@@ -1,2 +1,2 @@
-# 142. člen (Obvezno zavarovanje odgovornosti za škodo povzročeno na tleh)
-Lastnik ali zakupnik letala je dolžan skleniti zavarovanje odgovornosti za škodo, ki jo letalo povzroči na tleh, v višini zavarovalne vsote in na način, kot ga določa zakon.
+# 142. člen (Obvezno zavarovanje odgovornosti do tretjih oseb)
+Obvezna zavarovanja odgovornosti za škodo, povzročeno tretjim osebam, urejata Uredba 785/2004/ES in zakon, ki ureja obvezna zavarovanja v prometu.

@@ -7,7 +7,7 @@
 1. pri pogodbah o prevozu potnikov:
 - v primeru smrti, okvare zdravja ali poškodbe potnikov ali zamude pri prevozu - od dneva, ko je letalo prispelo ali bi moralo prispeti v namembni kraj;
 - v primeru smrti, ki je nastopila po izkrcanju potnikov iz letala kot posledica poškodbe, nastale med prevozom - od dneva smrti, pri čemer mora biti tožba vložena najpozneje v treh letih od dneva, ko je letalo prispelo ali bi moralo prispeti v namembni kraj;
-2. pri prevozu ročne prtljage - od dneva, ko je letalo prispelo ali bi moralo prispeti v namembni kraj;
+2. pri prevozu neregistrirane prtljage - od dneva, ko je letalo prispelo ali bi moralo prispeti v namembni kraj;
 3. pri prevozu registrirane prtljage in tovora:
 - v primeru izgube ali okvare prtljage ali tovora - od dneva, ko sta bila izročena oziroma bi morala biti izročena v namembnem kraju;
 - v primeru zamude pri prevozu prtljage ali tovora - od dneva, ko sta bila izročena v namembnem kraju;

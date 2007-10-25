@@ -5,3 +5,4 @@
 (4) Če se vozovnica glasi na ime, se brez prevoznikove privolitve ne sme prenesti na drugega potnika.
 (5) Prevoznik lahko zavrne prenos vozovnice iz tretjega in četrtega odstavka tega člena le tedaj, ko ima opravičene razloge.
 (6) V vozovnici morajo biti navedeni odhodni in namembni kraj ter čas odhoda letala, ki je določen z voznim redom oziroma s pogodbo.
+(7) Glede vozovnice se uporablja tudi 3. člen Montrealske konvencije in druge njene določbe, ki se nanašajo na prevozno listino za prevoz potnikov.

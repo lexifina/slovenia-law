@@ -2,3 +2,4 @@
 # 117. člen (Predmet pogodbe)
 (1) S pogodbo o zakupu letala prevzame lastnik letala obveznost, da bo izročil letalo določenega tipa v izkoriščanje zakupniku, ta pa obveznost, da mu bo za to plačal zakupnino.
 (2) Pogodba o zakupu letala mora biti sklenjena v pisni obliki.
+(3) V tem zakonu izraz "zakup letala" pomeni tudi "najem letala", izraz "zakupnik" pomeni tudi "najemnika", izraz "zakupnina" pa pomeni tudi "najemnino".
