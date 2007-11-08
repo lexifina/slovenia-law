@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificira se Konvencija o pristopu Češke republike, Republike Estonije, Republike Ciper, Republike Latvije, Republike Litve, Republike Madžarske, Republike Malte, Republike Poljske, Republike Slovenije in Slovaške republike h Konvenciji o odpravi dvojnega obdavčevanja v zvezi s preračunom dobička povezanih podjetij, podpisana 8. decembra 2004 v Bruslju in Zapisnik o podpisu Konvencije o pristopu Češke republike, Republike Estonije, Republike Ciper, Republike Latvije, Republike Litve, Republike Madžarske, Republike Malte, Republike Poljske, Republike Slovenije in Slovaške republike h Konvenciji o odpravi dvojnega obdavčevanja v zvezi s preračunom dobička povezanih podjetij, podpisan 8. decembra 2004 v Bruslju.
