@@ -1,0 +1,2 @@
+# 8. člen
+V prvem odstavku 9. člena se za besedo "kmetijstvu" doda besedilo "podatki o gospodarskih družbah, samostojnih podjetnikih posameznikih ali samostojnih podjetnicah posameznicah (v nadaljnjem besedilu: podjetnik), posameznikih ali posameznicah, ki samostojno opravljajo dejavnost (v nadaljnjem besedilu: posameznik), zavodih (kot pravnih osebah zasebnega prava, v nadaljnjem besedilu: zavod) in zadrugah, ki so jim bila dodeljena sredstva za odpravo posledic škode v gospodarstvu".
