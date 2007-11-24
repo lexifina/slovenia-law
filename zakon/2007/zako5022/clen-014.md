@@ -1,0 +1,7 @@
+# 14. člen
+V 122. členu se dodata nova tretji in četrti odstavek, ki se glasita:
+"(3) Ne glede na prvi in drugi odstavek tega člena veljajo za pozavarovalnice, ki imajo sedež na ozemlju Republike Slovenije, naslednje omejitve glede posameznih naložb:
+1. naložbe v delnice in druge prenosljive vrednostne papirje, obravnavane kot delnice, obveznice, dolžniške vrednostne papirje, s katerimi se ne trguje na organiziranem trgu vrednostnih papirjev, ne smejo skupno presegati 30% zavarovalno-tehničnih rezervacij;
+2. posamezna pozavarovalnica ne sme vložiti več kot 5% zavarovalno-tehničnih rezervacij v delnice in druge prenosljive vrednostne papirje, ki se obravnavajo kot delnice, obveznice, dolžniški vrednostni papirji ter drugi denarni instrumenti in instrumenti kapitalskega trga istega podjetja ter več kot 10% skupnih zavarovalno-tehničnih rezervacij v delnice in druge prenosljive vrednostne papirje, ki se obravnavajo kot delnice, obveznice, dolžniški vrednostni papirji in drugi denarni instrumenti ter instrumenti kapitalskega trga podjetij, ki spadajo v isto skupino;
+3. naložbe v sredstva, s katerimi se ne trguje na organiziranem trgu vrednostnih papirjev, se v vsakem primeru zadržijo na preudarni ravni.
+(4) Agencija za zavarovalni nadzor lahko določi podrobnejša pravila, ki določajo pogoje za uporabo neporavnanih zneskov posebnega specializiranega podjetja kot sredstev, ki pokrivajo zavarovalno-tehnične rezervacije v skladu s tem členom.".
