@@ -1,5 +1,5 @@
 # 16. člen
-Skupščino sestavljajo predstavniki ustanoviteljev javnega podjetja z glasovalnimi pravicami glede na razmerje njihovih osnovnih vložkov.
+Pristojnosti skupščine izvršuje vlada.
 Skupščina javnega podjetja:
 - sprejema spremembe ustanovnega akta;
 - določa pogoje poslovanja in plan razvoja javnega podjetja;

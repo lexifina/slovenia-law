@@ -1,3 +1,2 @@
 # 28. člen
-Po prenosu navadnih delnic na sklade iz prejšnjega člena časopisni zavod opravi interno razdelitev delnic zaposlenim, bivšim zaposlenim in upokojenim delavcem časopisnega zavoda, ki so državljani Republike Slovenije, za največ 20 odstotkov vrednosti družbenega kapitala po otvoritveni bilanci.
-Preostanek delnic do največ 20 odstotkov vrednosti družbenega kapitala po otvoritveni bilanci, ki niso bile razdeljene na način iz prejšnjega odstavka, lahko časopisni zavod z internim razpisom zamenja za lastniške certifikate ožjih družinskih članov zaposlenih ali pa prenese na Sklad Republike Slovenije za razvoj za namene odprodaje pooblaščenim investicijskim družbam.
+(črtan)

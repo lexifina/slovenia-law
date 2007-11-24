@@ -1,5 +1,5 @@
 # 33. člen
-Ne glede na predpisani splošni rok za vlaganje lastniških certifikatov lahko upravičenci do interne razdelitve delnic v postopku lastninskega preoblikovanja časopisnega zavoda pravno veljavno vlagajo neizkoriščene lastniške certifikate v roku, ki bo določen z javnim pozivom za predložitev lastniških certifikatov.
+(črtan)
 Zakon o Uradnem listu Republike Slovenije - ZUL (Uradni list RS, št. 57/96) vsebuje naslednje prehodne in končne določbe:
 ## "VI. PREHODNE IN KONČNE DOLOČBE
 34. člen
@@ -21,4 +21,12 @@ Vlada izda predpis iz petega odstavka 11.a člena zakona ter uskladi Uredbo o ob
 19. člen
 Akti javnega podjetja se uskladijo z zakonom v šestih mesecih po uveljavitvi tega zakona.
 20. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
+Zakon o spremembah in dopolnitvah Zakona o Uradnem listu Republike Slovenije - ZUL-B (Uradni list RS, št. 102/07) vsebuje naslednji prehodni in končno določbo:
+## "PREHODNI IN KONČNA DOLOČBA
+10. člen
+Akti javnega podjetja se uskladijo s tem zakonom najkasneje v šestih mesecih po uveljavitvi tega zakona.
+11. člen
+Do imenovanja novega nadzornega sveta v skladu s tem zakonom nadaljuje delo dosedanji nadzorni svet.
+12. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".

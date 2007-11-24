@@ -1,3 +1,2 @@
 # 24. člen
-Pred ugotovitvijo deleža družbenega kapitala, ki po tem zakonu postane lastnina Republike Slovenije, in deleža družbenega kapitala, ki je osnova za lastninsko preoblikovanje časopisnega zavoda po tem zakonu, opravi Agencija Republike Slovenije za plačilni promet, nadziranje in informiranje, revidiranje lastninskega preoblikovanja v skladu z zakonom o lastninskem preoblikovanju podjetij za obdobje od 1. 1. 1990 do dneva uveljavitve tega zakona.
-Delež družbenega kapitala, ki po tem zakonu postane lastnina Republike Slovenije, ugotovita vlada in organ upravljanja časopisnega zavoda s posebnim aktom.
+(črtan)
