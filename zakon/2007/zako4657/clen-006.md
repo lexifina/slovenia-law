@@ -1,0 +1,2 @@
+# 6. člen
+V 21., 22., 23., 34., 44. členu se beseda "vajenec" v vseh sklonih in številih nadomesti z besedo "dijak" v ustreznem sklonu in številu, besedna zveza "Obrtna zbornica Slovenije" se v vseh sklonih nadomesti z besedno zvezo "Obrtna-podjetniška zbornica Slovenije" v ustreznem sklonu ter besedna zveza "območna obrtna zbornica" nadomesti z besedno zvezo "območna obrtno-podjetniška zbornica" v ustreznem sklonu in številu.
