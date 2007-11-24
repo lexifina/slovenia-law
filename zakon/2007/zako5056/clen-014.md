@@ -1,0 +1,2 @@
+# 14. člen (predhodna izvedba javnega razpisa)
+Agencija lahko izvede javni razpis in podeli radijske frekvence za multipleks tudi v času, ko se le-te še uporabljajo za analogno televizijsko radiodifuzijo, če je predviden njihov izklop v skladu s tem zakonom, tudi ko še niso izpolnjeni pogoji za prenehanje ali razveljavitev odločb o dodelitvi radijskih frekvenc za analogno televizijsko radiodifuzijo. V tem primeru mora agencija zagotoviti uporabo istih frekvenc za digitalno radiodifuzijo najpozneje v roku 12 mesecev od izbire operaterja multipleksa.

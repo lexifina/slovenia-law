@@ -1,0 +1,2 @@
+# 20. člen (sprememba odločbe o dodelitvi radijskih frekvenc za multipleks)
+Poleg primerov, določenih v zakonu, ki ureja elektronske komunikacije, lahko agencija po uradni dolžnosti spremeni odločbo o dodelitvi radijskih frekvenc za multipleks tudi v primeru novih komplementarnih storitev ali novih ali spremenjenih inovativnih storitev ali za razširitev obsega zmogljivosti, rezerviranih za televizijo visoke razločljivosti, ali ob spremembi tehničnih parametrov zaradi izboljšanja pokrivanja določenega območja.

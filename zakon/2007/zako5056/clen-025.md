@@ -1,0 +1,5 @@
+# 25. člen (obvezna vključitev določenih televizijskih in radijskih programov v multipleks)
+(1) Operater multipleksa na določenem geografskem območju mora omogočiti vključitev v multipleks vsem ponudnikom vsebin, ki imajo pravico razširjanja televizijskega ali radijskega programa v digitalni radiodifuzni tehniki za isto območje, v obsegu zmogljivosti multipleksa, ki ga v ta namen predpiše agencija v javnem razpisu.
+(2) Na vsakem javnem razpisu za podelitev radijskih frekvenc za multipleks lahko agencija del razpisanih zmogljivosti multipleksa rezervira za razširjanje televizijskih ali radijskih programov posebnega pomena, v skladu z zakonom, ki ureja medije.
+(3) Za pravico razširjanja v skladu s prejšnjim odstavkom morajo ponudniki programov posebnega pomena predhodno pridobiti pravico razširjanja programa v digitalni radiodifuzni tehniki, v skladu z zakonom, ki ureja medije.
+(4) Določbe tega člena se ne uporabljajo pri javnem razpisu za podelitev radijskih frekvenc za multipleks za inovativne storitve in za multipleks za mobilno televizijo.
