@@ -1,0 +1,2 @@
+# 6. člen
+Državni zbor Republike Slovenije in Vlada Republike Slovenije morata imenovati nove člane Sveta Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji in Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji v roku šestih mesecev po uveljaviti tega zakona. Do imenovanja novih članov sveta fundacije opravlja vse naloge sveta dosedanji svet fundacije.

@@ -1,0 +1,3 @@
+# 7. člen
+Vlada Republike Slovenije v roku 30 dni po uveljavitvi tega zakona imenuje vršilca dolžnosti direktorja Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji in vršilca dolžnosti direktorja Fundacije za financiranje športnih organizacij v Republiki Sloveniji za obdobje šestih mesecev. Pogodbo iz petega odstavka 13. člena zakona z vršilcem dolžnosti sklene Vlada Republike Slovenije.
+Svet fundacije imenuje direktorja fundacije, ki nastopi mandat po izteku šestih mesecev dela vršilca dolžnosti direktorja. Če direktor fundacije tudi po preteku mandata vršilca dolžnosti direktorja ni imenovan, se mandat vršilca dolžnosti direktorja podaljša do imenovanja direktorja, vendar za največ šest mesecev.
