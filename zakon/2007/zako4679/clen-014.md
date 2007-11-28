@@ -1,0 +1,2 @@
+# 14. člen
+V 38. členu se v drugem odstavku besedilo "in le v primerih, ko delavcu preneha pogodba o zaposlitvi po njegovi volji ali krivdi" nadomesti z besedilom "in le za primere prenehanja pogodbe o zaposlitvi s sporazumom med strankama, zaradi redne odpovedi s strani delavca, redne odpovedi delavcu iz krivdnega razloga ali izredne odpovedi delavcu s strani delodajalca, razen v primeru izredne odpovedi iz pete alineje prvega odstavka 111. člena tega zakona."

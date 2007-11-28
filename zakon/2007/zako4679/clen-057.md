@@ -1,0 +1,7 @@
+# 57. člen
+132. člen se spremeni tako, da se glasi:
+"(1) Če se delavec upokoji, mu ob prenehanju pogodbe o zaposlitvi pripada odpravnina v višini dveh povprečnih mesečnih plač v Republiki Sloveniji za pretekle tri mesece oziroma v višini dveh povprečnih mesečnih plač delavca za pretekle tri mesece, če je to za delavca ugodneje. Delodajalec lahko izplača odpravnino v breme posebnega zavarovanja.
+(2) Če se delavec po upokojitvi ponovno zaposli, ob prenehanju pogodbe o zaposlitvi nima pravice do odpravnine po prejšnjem odstavku.
+(3) Če se delavec delno upokoji, ima pri delodajalcu, pri katerem mu je prenehala pogodba o zaposlitvi in je sklenil novo za krajši delovni čas, pravico do odpravnine v sorazmernem delu.
+(4) Delavec, ki dela krajši delovni čas, ima v primeru upokojitve pravico do odpravnine sorazmerno delovnemu času, za katerega je bila sklenjena pogodba o zaposlitvi, razen v primerih, ko delavec dela krajši delovni čas v skladu s 66. členom tega zakona.
+(5) Delavec ni upravičen do odpravnine po prvem odstavku tega člena, če ima pravico do odpravnine po 109. členu tega zakona in če je delodajalec zanj financiral dokup pokojninske dobe. Delavec je upravičen do izplačila razlike, če je znesek odpravnine po 109. členu tega zakona oziroma znesek za dokup pokojninske dobe nižji od zneska odpravnine po prvem odstavku tega člena.".

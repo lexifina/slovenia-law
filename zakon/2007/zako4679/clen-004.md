@@ -1,0 +1,8 @@
+# 4. člen
+Doda se nov 6.a člen, ki se glasi:
+"6.a člen
+(prepoved spolnega in drugega nadlegovanja ter trpinčenja na delovnem mestu)
+(1) Prepovedano je spolno in drugo nadlegovanje. Spolno nadlegovanje je kakršna koli oblika neželenega verbalnega, neverbalnega ali fizičnega ravnanja ali vedenja spolne narave z učinkom ali namenom prizadeti dostojanstvo osebe, zlasti kadar gre za ustvarjanje zastraševalnega, sovražnega, ponižujočega, sramotilnega ali žaljivega okolja. Nadlegovanje je vsako neželeno vedenje, povezano s katero koli osebno okoliščino, z učinkom ali namenom prizadeti dostojanstvo osebe ali ustvariti zastraševalno, sovražno, ponižujoče, sramotilno ali žaljivo okolje.
+(2) Spolno in drugo nadlegovanje iz prejšnjega odstavka se šteje za diskriminacijo po določbah tega zakona.
+(3) Odklonitev ravnanj iz prvega odstavka tega člena s strani prizadetega kandidata oziroma delavca ne sme biti razlog za diskriminacijo pri zaposlovanju in delu.
+(4) Prepovedano je trpinčenje na delovnem mestu. Trpinčenje na delovnem mestu je vsako ponavljajoče se ali sistematično, graje vredno ali očitno negativno in žaljivo ravnanje ali vedenje, usmerjeno proti posameznim delavcem na delovnem mestu ali v zvezi z delom.".
