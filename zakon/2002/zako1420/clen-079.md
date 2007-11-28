@@ -1,4 +1,4 @@
-## 3. Sporazumna razveljavitev
+## 3. Prenehanje pogodbe o zaposlitvi s sporazumom
 # 79. člen (splošno)
-(1) Pogodbo o zaposlitvi lahko stranki kadarkoli razveljavita s pisnim sporazumom, ki mora vsebovati določbo o posledicah, ki nastanejo delavcu zaradi sporazumne razveljavitve pri uveljavljanju pravic iz naslova zavarovanja za primer brezposelnosti.
+(1) Pogodba o zaposlitvi preneha veljati s pisnim sporazumom med strankama, ki mora vsebovati določilo o posledicah, ki nastanejo delavcu zaradi prenehanja veljavnosti pogodbe o zaposlitvi pri uveljavljanju pravic iz naslova zavarovanja za primer brezposelnosti.
 (2) Sporazum, ki ni sklenjen v pisni obliki, je neveljaven.

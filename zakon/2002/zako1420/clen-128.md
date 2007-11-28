@@ -1,7 +1,7 @@
 # 128. člen (višina dodatkov)
 (1) Delavcu pripadajo dodatki za delo v posebnih pogojih dela, ki izhajajo iz razporeditve delovnega časa:
 - za nočno delo,
-- za delo preko polnega delovnega časa,
+- za nadurno delo,
 - za delo v nedeljo,
 - za delo na praznike in dela proste dneve po zakonu.
 (2) Višina dodatkov iz prejšnjega odstavka se določi s kolektivno pogodbo na ravni dejavnosti.

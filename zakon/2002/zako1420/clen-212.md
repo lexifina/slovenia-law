@@ -4,5 +4,6 @@
 - praznikih in dela prostih dnevih,
 - minimalnem letnem dopustu,
 - višini plače in valuti, v kateri se le-ta izplačuje,
+- dodatnem zavarovanju za zdravstvene storitve v tujini,
 - drugih prejemkih v denarju ali naravi, do katerih je delavec upravičen za čas dela v tujini in pogojih vrnitve v domovino.
-(2) Namesto določil iz četrte in pete alinee prejšnjega odstavka, se lahko pogodba o zaposlitvi sklicuje na drug zakon, drug predpis ali na kolektivno pogodbo, ki ureja to vprašanje.
+(2) Namesto določil iz četrte, pete in šeste alineje alinee prejšnjega odstavka, se lahko pogodba o zaposlitvi sklicuje na drug zakon, drug predpis ali na kolektivno pogodbo, ki ureja to vprašanje.

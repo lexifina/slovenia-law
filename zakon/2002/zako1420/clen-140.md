@@ -1,3 +1,3 @@
-# 140. člen (plačilo pripravnikom)
-(1) Delavec pripravnik ima pravico do plače najmanj v višini 70% osnovne plače za delovno mesto oziroma vrsto dela, za katerega je sklenil pogodbo o zaposlitvi kot pripravnik in do drugih osebnih prejemkov.
-(2) Plača pripravnika ne sme biti nižja od minimalne plače, določene z zakonom.
+# 140. člen (plačilo pripravnika in delavca na usposabljanju)
+(1) Pripravnik oziroma delavec, ki se usposablja oziroma uvaja v delo, ima pravico do osnovne plače najmanj v višini 70 odstotkov osnovne plače, ki bi jo prejel kot delavec na delovnem mestu oziroma pri vrsti dela, za katero se usposablja.
+(2) Plača pripravnika oziroma delavca, ki se usposablja oziroma uvaja v delo, ne sme biti nižja od minimalne plače, določene z zakonom.

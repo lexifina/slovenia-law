@@ -6,7 +6,7 @@
 - nadomeščanje začasno odsotnega delavca,
 - začasno povečan obseg dela,
 - zaposlitev tujca ali osebe brez državljanstva, ki ima delovno dovoljenje za določen čas, razen v primeru osebnega delovnega dovoljenja,
-- poslovodne osebe,
+- poslovodne osebe in za tistega vodilnega delavca, ki vodi poslovno področje ali organizacijsko enoto pri delodajalcu in ima pooblastila za sklepanje pravnih poslov ali za samostojne kadrovske in organizacijske odločitve.
 - opravljanje sezonskega dela,
 - delavca, ki sklene pogodbo o zaposlitvi za določen čas zaradi priprave na delo, usposabljanja ali izpopolnjevanja za delo, oziroma izobraževanja,
 - zaposlitev za določen čas zaradi dela v prilagoditvenem obdobju na podlagi dokončne odločbe in potrdila pristojnega organa, izdane v postopku priznavanja kvalifikacij po posebnem zakonu,

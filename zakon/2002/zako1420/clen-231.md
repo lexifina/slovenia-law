@@ -1,20 +1,24 @@
 # 231. člen
-(1) Delodajalec - pravna oseba se lahko kaznuje za prekršek z denarno kaznijo 300.000 tolarjev takoj na kraju prekrška, če:
+(1) Z globo od 750 do 2000 eurov se kaznuje delodajalec - pravna oseba, samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, če:
 1. delavcu ne izroči fotokopije prijave v zavarovanje v 15 dneh od nastopa dela (drugi odstavek 9. člena);
-2. pri njem opravlja delavec delo na podlagi pogodbe civilnega prava v nasprotju z drugim odstavkom 11. člena tega zakona;
-3. delavcu ne izroči pisnega predloga pogodbe in pogodbe o zaposlitvi v skladu z drugim odstavkom 15. člena tega zakona;
-4. ne določi pogojev za opravljanje del na posameznem delovnem mestu v skladu s drugim odstavkom 20. člena tega zakona;
-5. ne objavi prostega delovnega mesta v skladu s prvim in četrtim odstavkom 23. člena tega zakona;
-6. neizbranega kandidata ne obvesti v osmih dneh po sklenitvi pogodbe o zaposlitvi o tem, da ni bil izbran (prvi odstavek 28. člena);
-7. zagotavlja delo delavca uporabniku v nasprotju z 59. členom tega zakona;
-8. ne obvesti o nameravanem organiziranju dela na domu inšpekcijo za delo pred začetkom dela delavca (tretji odstavek 67. člena);
-9. delavcu, ki mu odpove pogodbo o zaposlitvi, ne izplača odpravnine v skladu z določbo 109. člena tega zakona;
-10. delavcu ne izplača plače v skladu z določbama 134. in 135. člena tega zakona;
-11. delavcu ne izplača nadomestila plače v skladu z določbo 137. člena tega zakona;
-12. delavcu-pripravniku ne izplača plače v skladu z določbo 140. člena tega zakona;
-13. delavki naloži opravljanje dela v nasprotju z zakonom in posebnim predpisom, izdanim na podlagi zakona (189. člen in 190. člen);
-14. delavcu, ki še ni dopolnil 18 let starosti naloži opravljanje dela v nasprotju z zakonom in posebnim predpisom, izdanim na podlagi zakona (195. člen);
-15. starejšemu delavcu brez njegovega soglasja odredi nadurno ali nočno delo (203. člen);
-16. na zahtevo delavca ne izroči delavcu delovne knjižice med trajanjem delovnega razmerja ali ne vrne delovne knjižice delavcu po prenehanju delovnega razmerja (tretji in peti odstavek 226. člena).
-(2) Delodajalec - fizična oseba, ki stori prekršek iz prejšnjega odstavka, se lahko kaznuje takoj na kraju prekrška z denarno kaznijo 200.000 tolarjev.
-(3) Z denarno kaznijo 100.000 tolarjev se lahko kaznuje takoj na kraju prekrška tudi odgovorna oseba delodajalca - pravne osebe ter odgovorna oseba v državnem organu, državni organizaciji ali lokalni skupnosti, ki stori prekršek iz prvega odstavka tega člena.
+2. delavcu ne izroči pisnega predloga pogodbe in pogodbe o zaposlitvi v skladu z drugim odstavkom 15. člena tega zakona;
+3. ne določi pogojev za opravljanje del delavca na podlagi pogodbe o zaposlitvi za posamezno delovno mesto ali za vrsto dela v skladu z drugim odstavkom 20. člena tega zakona;
+4. ne objavi prostega dela v skladu s prvim in četrtim odstavkom 23. člena tega zakona;
+5. neizbranega kandidata ne obvesti v osmih dneh po sklenitvi pogodbe o zaposlitvi o tem, da ni bil izbran (prvi odstavek 28. člena);
+6. nameravanem organiziranju dela na domu ne obvesti inšpekcije za delo pred začetkom dela delavca (četrti odstavek 67. člena);
+7. delavcu, ki mu odpove pogodbo o zaposlitvi, ne izplača odpravnine v skladu s 109. členom tega zakona;
+8. delavcu ne zagotavlja dodatkov v skladu s 128. členom tega zakona;
+9. delavcu ne izplača regresa v skladu s 131. členom tega zakona;
+10. delavcu ne izplača plače v skladu s 134. in 135. členom tega zakona;
+11. pobota svojo terjatev do delavca s svojo obveznostjo plačila brez delavčevega pisnega soglasja (drugi odstavek 136. člena);
+12. delavcu ne izplača nadomestila plače v skladu s 137. členom tega zakona;
+13. pripravniku oziroma delavcu na usposabljanju ne izplača plače v skladu s 140. členom tega zakona;
+14. delavca ne obvesti o odmeri letnega dopusta v skladu z drugim odstavkom 160. člena tega zakona;
+15. delavki naloži opravljanje dela v nasprotju z zakonom in posebnim predpisom, izdanim na podlagi zakona (189. in 190. člen);
+16. delavcu, ki še ni dopolnil 18. leta starosti, naloži opravljanje dela v nasprotju z zakonom in posebnim predpisom, izdanim na podlagi zakona (195. člen);
+17. starejšemu delavcu brez njegovega soglasja odredi nadurno ali nočno delo (203. člen);
+18. ne vpiše podatkov v delovno knjižico (četrti odstavek 226. člena);
+19. na zahtevo delavca ne izroči delavcu delovne knjižice med trajanjem delovnega razmerja ali ne vrne delovne knjižice delavcu po prenehanju delovnega razmerja (tretji in peti odstavek 226. člena).
+(2) Z globo od 200 do 1000 eurov se kaznuje manjši delodajalec - pravna oseba, samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 100 do 800 eurov se kaznuje delodajalec posameznik, če stori prekršek iz prvega odstavka tega člena.
+(4) Z globo od 100 do 800 eurov se kaznuje tudi odgovorna oseba delodajalca pravne osebe ter odgovorna oseba v državnem organu ali samoupravni lokalni skupnosti, če stori prekršek iz prvega odstavka tega člena.

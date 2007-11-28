@@ -4,3 +4,4 @@
 (3) Inšpektor za delo lahko posreduje v sporu med delavcem in delodajalcem z namenom, da delavec in delodajalec sporazumno rešita spor.
 (4) Inšpektor za delo lahko posreduje v sporu med delavcem in delodajalcem vse do izvršljive arbitražne odločitve o spornem vprašanju oziroma do odločitve sodišča prve stopnje o spornem vprašanju.
 (5) Sporazum o razrešitvi spornega vprašanja med delavcem in delodajalcem ne sme nasprotovati morali ali prisilnim predpisom.
+(6) Sporazum o razrešitvi spora med delavcem in delodajalcem, sklenjen v skladu z zakonom, je izvršilni naslov.

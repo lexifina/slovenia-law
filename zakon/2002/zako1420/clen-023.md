@@ -1,6 +1,6 @@
 ## 5. PRAVICE IN OBVEZNOSTI STRANK PRI SKLEPANJU POGODB O ZAPOSLITVI
-# 23. člen (objava prostih delovnih mest)
-(1) Delodajalec, ki zaposluje nove delavce, mora prosta delovna mesta javno objaviti. Objava prostega delovnega mesta mora vsebovati pogoje za opravljanje dela in rok za prijavo, ki ne sme biti krajši od osmih dni.
-(2) Za javno objavo se šteje tudi objava v uradnih prostorih Zavoda Republike Slovenije za zaposlovanje (v nadaljnjem besedilu: zavoda za zaposlovanje).
-(3) Če delodajalec objavi prosto delovno mesto tudi v sredstvih javnega obveščanja, začne rok za prijavo teči z dnem zadnje objave.
-(4) Delodajalec, ki ima zaposlene delavce za določen čas oziroma s krajšim delovnim časom in zaposluje na prosta delovna mesta za nedoločen čas oziroma s polnim delovnim časom, mora o prostih delovnih mestih oziroma o javni objavi prostih delovnih mest pravočasno obvestiti delavce na oglasnem mestu na sedežu delodajalca.
+# 23. člen (objava prostega delovnega mesta oziroma vrste dela)
+(1) Delodajalec, ki zaposluje nove delavce, mora prosto delovno mesto oziroma vrsto dela (v nadaljnjem besedilu: delo) javno objaviti. Objava prostega dela mora vsebovati pogoje za opravljanje dela in rok za prijavo, ki ne sme biti krajši od petih dni.
+(2) Za javno objavo po prejšnjem odstavku se šteje tudi objava, ki jo izvede zavod za zaposlovanje.
+(3) Če delodajalec objavi prosto delo tudi v sredstvih javnega obveščanja, začne rok za prijavo teči naslednji dan po zadnji objavi.
+(4) Delodajalec, ki ima zaposlene delavce za določen čas, s krajšim delovnim časom oziroma pri katerem opravljajo delo delavci, zaposleni pri delodajalcu, ki opravlja dejavnost zagotavljanja dela delavcev drugemu uporabniku in zaposluje za nedoločen čas oziroma s polnim delovnim časom, mora o prostih delih oziroma o javni objavi prostih del pravočasno obvestiti delavce na pri delodajalcu običajen način.
