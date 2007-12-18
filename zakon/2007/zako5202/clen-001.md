@@ -1,0 +1,8 @@
+# 1. člen
+V Zakonu o zaščiti prič (Uradni list RS, št. 81/06 - uradno prečiščeno besedilo) se v prvem odstavku 27. člena besedilo "na podlagi sprejetih obveznosti iz bilateralnih sporazumov, ki jih je sklenila Republika Slovenija" nadomesti z besedilom "z državami pogodbenicami mednarodnih pogodb, ki določajo tudi mednarodno izmenjavo in zaščito ogroženih oseb in obvezujejo Republiko Slovenijo".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Premestitev zaščitene osebe izven ozemlja Republike Slovenije ali na ozemlje Republike Slovenije se opravi na podlagi pisnega dogovora enote in organa države iz prejšnjega odstavka, ki je pristojen za izvajanje programa zaščite. S pisnim dogovorom se uredijo vsa vprašanja, povezana z ukrepi v programu zaščite.".
+Dodata se nova tretji in četrti odstavek, ki se glasita:
+"(3) Pred sklenitvijo dogovora iz prejšnjega odstavka enota obvesti komisijo o zaprosilu pristojnega organa države iz prvega odstavka tega člena za premestitev zaščitene osebe na ozemlje Republike Slovenije, oziroma predlaga komisiji premestitev zaščitene osebe izven ozemlja Republike Slovenije. Obvestilu oziroma predlogu mora priložiti oceno o možnosti uspešne izvedbe mednarodne izmenjave. Komisija sprejme sklep, s katerim odloči o izmenjavi, v osmih dneh po prejemu obvestila oziroma predloga.
+(4) Predlog za premestitev zaščitene osebe izven ozemlja Republike Slovenije enota v skladu s prejšnjim odstavkom posreduje komisiji le, če ukrep mednarodne izmenjave ni določen v sklepu komisije o vključitvi v program zaščite (tretji odstavek 15. člena).".
+Dosedanji tretji odstavek postane peti odstavek.
