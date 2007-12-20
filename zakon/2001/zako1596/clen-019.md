@@ -5,7 +5,9 @@ Register iz prejšnjega odstavka vsebuje podatke:
 - iz tretjega odstavka 11. člena tega zakona;
 - iz petega odstavka 12. člena tega zakona;
 - iz tretjega odstavka 13. člena tega zakona;
+- iz 9.a in 17.a člena tega zakona;
 - volilni pravici.
 V registru stalnega prebivalstva se vodi tudi evidenca gospodinjstev in vsebuje podatke iz 1., 2., 5., 6., 8., 9. in 11. točke prvega odstavka 7. člena tega zakona.
 Pristojni organ vodi register stalnega prebivalstva na centralnem računalniku, ki je neposredno povezan s centralnim registrom prebivalstva.
 Podatki o posameznikih, ki so umrli, bili izbrisani iz registra stalnega prebivalstva, ali so se za stalno odselili z območja Republike Slovenije, se hranijo v registru stalnega prebivalstva še sto let po dogodku, nato pa se odstopijo v hrambo Arhivu Republike Slovenije.
+Podatki iz prvega in drugega odstavka 9.a člena tega zakona se hranijo v registru stalnega prebivalstva še eno leto po prenehanju prijave začasnega prebivališča, nato se uničijo.

@@ -1,4 +1,16 @@
 # 17. člen (trajanje in obnova prijave začasnega prebivališča)
 Prijava začasnega prebivališča lahko traja največ eno leto.
 V primeru daljšega začasnega prebivanja mora stanodajalec oziroma posameznik obnoviti prijavo začasnega prebivališča v roku osmih dni od preteka roka iz prejšnjega odstavka.
-Šteje se, da posameznik ni prijavljen, če po preteku enega leta v roku osmih dni ne obnovi začasnega prebivališča.
+Šteje se, da posameznik ni prijavljen, če po preteku roka iz prvega odstavka tega člena v roku osmih dni ne obnovi začasnega prebivališča.
+Pristojni organ tujcu, ki je v skladu z določbami zakona, ki ureja vstop, zapustitev in bivanje tujcev v Republiki Sloveniji, pravočasno vložil prošnjo za podaljšanje dovoljenja za začasno prebivanje ali za izdajo nadaljnjega dovoljenja za začasno prebivanje oziroma potrdila o prijavi prebivanja v Republiki Sloveniji, obnovi prijavo začasnega prebivališča za čas reševanja prošnje.
+Obnova začasnega prebivališča iz prejšnjega odstavka traja do vročitve dovoljenja za začasno prebivanje ali potrdila o prijavi prebivanja oziroma do dokončnosti odločbe ali sklepa, s katerim je bila prošnja iz prejšnjega odstavka zavrnjena, zavržena ali postopek ustavljen.
+Tujec iz četrtega odstavka tega člena oziroma stanodajalec, pri katerem je tujec nastanjen, mora obnoviti prijavo začasnega prebivališča v osmih dneh od vročitve dovoljenja za začasno prebivanje oziroma potrdila o prijavi prebivanja v Republiki Sloveniji.
+## III.A NASLOV ZA VROČANJE
+17.a člen
+(naslov za vročanje)
+Posameznik mora ob prijavi oziroma odjavi stalnega oziroma začasnega prebivališča oziroma ob prijavi spremembe naslova stanovanja določiti tudi naslov za vročanje:
+- če ima posameznik v Republiki Sloveniji prijavljeno le stalno prebivališče, se naslov stalnega prebivališča šteje za naslov za vročanje;
+- če ima posameznik v Republiki Sloveniji poleg stalnega prebivališča prijavljeno tudi eno ali več začasnih prebivališč, mora ob prijavi stalnega oziroma začasnega prebivališča oziroma prijavi spremembe naslova stanovanja določiti, kateri od teh naslovov se šteje za naslov za vročanje. Če prijava začasnega prebivališča poteče, posameznik pa v roku iz prejšnjega člena ni obnovil prijave začasnega prebivališča, se za naslov za vročanje šteje naslov stalnega prebivališča;
+- če ima posameznik v Republiki Sloveniji prijavljeno le začasno prebivališče, se naslov začasnega prebivališča šteje za naslov za vročanje. Če ima posameznik v Republiki Sloveniji prijavljenih več začasnih prebivališč, mora ob prijavi oziroma odjavi začasnega prebivališča določiti naslov za vročanje. Če prijava začasnega prebivališča na naslovu, ki je bil določen kot naslov za vročanje, poteče, posameznik pa v roku iz prejšnjega člena ni obnovil prijave začasnega prebivališča na tem naslovu, se za naslov za vročanje šteje naslov veljavnega začasnega prebivališča, ki ga je posameznik prijavil nazadnje.
+V primerih iz druge ali tretje alineje prejšnjega odstavka lahko posameznik kadarkoli pristojnemu organu sporoči novi naslov za vročanje.
+Določbe prvega odstavka tega člena se smiselno uporabljajo tudi za prijavo začasnega prebivališča iz 11. člena in obnovo prijave začasnega prebivališča iz 17. člena tega zakona. Ne glede na določbe tega člena se za naslov za vročanje šteje naslov začasnega prebivališča iz 9.a člena tega zakona.
