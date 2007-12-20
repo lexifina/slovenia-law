@@ -1,0 +1,6 @@
+# 21. člen
+22. člen se spremeni tako, da se glasi:
+"22. člen
+(prekrškovni organi)
+Naloge prekrškovnega organa za kršitve iz prvega, drugega, tretjega, četrtega in petega odstavka 6. člena, prvega odstavka 9. člena, prvega odstavka 11. člena, prvega in drugega odstavka 12. člena, prvega in drugega odstavka 13. člena, prvega, tretjega in petega odstavka 15. člena, drugega odstavka 16. člena in drugega odstavka 17. člena tega zakona opravlja Inšpektorat Republike Slovenije, pristojen za notranje zadeve.
+Naloge prekrškovnega organa za kršitve iz prvega odstavka 9. člena, prvega, tretjega in petega odstavka 15. člena ter drugega odstavka 16. člena tega zakona, ki se nanašajo na policijsko prijavo, in za kršitve iz prvega, drugega, tretjega in četrtega odstavka 10. člena, 10.a člena, drugega odstavka 11. člena, tretjega odstavka 12. člena in šestega odstavka 17. člena tega zakona, opravlja policija.".

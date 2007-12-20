@@ -1,0 +1,8 @@
+# 8. člen
+Za 9. členom se doda novi 9.a člen, ki se glasi:
+"9.a člen
+(prijava in odjava v zavodu za prestajanje kazni in prevzgojnem domu)
+Zavod za prestajanje kazni, dislocirani oddelek zavoda oziroma prevzgojni dom prijavi začasno prebivališče posameznika v treh dneh po sprejemu, odjavi pa pred odpustom iz zavoda oziroma prevzgojnega doma.
+Za prijavo oziroma odjavo iz prejšnjega odstavka se smiselno uporabljajo določbe drugega, tretjega in petega odstavka prejšnjega člena ter tretjega in četrtega odstavka 11. člena tega zakona. Za trajanje prijave in obnovo začasnega prebivališča v zavodu za prestajanje kazni oziroma prevzgojnem domu se uporabljajo določbe 17. člena tega zakona.
+Določbi prejšnjih odstavkov se uporabljata za tujca le v primeru, če ima veljavno dovoljenje za prebivanje ali potrdilo o prijavi prebivanja v Republiki Sloveniji in pri pristojnem organu prijavljeno stalno oziroma začasno prebivališče. Tujca, ki nima veljavnega dovoljenja za prebivanje ali potrdila o prijavi prebivanja v Republiki Sloveniji, zavod za prestajanje kazni, dislocirani oddelek zavoda oziroma prevzgojni dom prijavi pri pristojni policijski postaji v roku treh dni po sprejemu, odjavi pa pred odpustom iz zavoda oziroma prevzgojnega doma.
+Za prijavo oziroma odjavo tujca, ki nima veljavnega dovoljenja za prebivanje ali potrdila o prijavi prebivanja v Republiki Sloveniji iz prejšnjega odstavka, se smiselno uporabljajo določbe drugega, tretjega in petega odstavka prejšnjega člena ter petega, sedmega in devetega odstavka 10. člena tega zakona.".
