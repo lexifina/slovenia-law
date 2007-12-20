@@ -1,0 +1,13 @@
+# 53. člen
+71. člen se spremeni tako, da se glasi:
+"71. člen
+(uničenje blaga pod carinskim nadzorom)
+(1) Pod pogoji, določenimi v tem členu, se lahko začasno zadržano blago, glede katerega obstaja sum da krši pravice intelektualne lastnine, na zahtevo imetnika pravice in na njegove stroške uniči pod carinskim nadzorom, ne da bi se pred tem v sodnem postopku ugotavljalo, ali blago krši pravice intelektualne lastnine.
+(2) O ukrepu začasnega zadržanja blaga mora carinski organ obvestiti:
+- imetnika pravice, ki mora v roku deset delovnih dni, v primeru pokvarljivega blaga pa v roku treh delovnih dni, od prejema obvestila o začasnem zadržanju blaga, pisno sporočiti carinskemu organu, da blago krši pravice intelektualne lastnine ter predložiti pisno soglasje deklaranta, imetnika ali lastnika blaga k uničenju blaga;
+- deklaranta, lastnika blaga ali osebo, ki z blagom razpolaga, ter ga pozvati, da se v roku deset delovnih dni, v primeru pokvarljivega blaga pa v roku treh delovnih dni od prejema obvestila o začasnem zadržanju blaga pisno izjavi o tem, ali blago krši pravice intelektualne lastnine ali ne in ali soglaša k uničenju tega blaga. Hkrati ga mora carinski organ opozoriti, da se bo v primeru molka štelo, da daje soglasje k uničenju blaga pod carinskim nadzorom.
+(3) Če je primerno, se lahko rok iz prejšnjega odstavka podaljša za nadaljnjih deset delovnih dni, v primeru pokvarljivega blaga pa za tri delovne dni.
+(4) Če deklarant, lastnik blaga ali oseba, ki z blagom razpolaga, v roku iz drugega odstavka tega člena izrecno ne nasprotuje uničenju blaga, se šteje, da je soglasje podano in da se blago na zahtevo imetnika pravice lahko uniči pod carinskim nadzorom.
+(5) Če imetnik pravice poda zahtevek za uničenje blaga in carinskemu organu predloži soglasje deklaranta, lastnika blaga ali osebe, ki z blagom razpolaga, ali se šteje, da je soglasje dano, se blago na stroške imetnika pravice uniči pod carinskim nadzorom. Pred tem mora biti opravljeno sistematično jemanje vzorcev, ki se hranijo za primer morebitnega sodnega postopka.
+(6) Če deklarant, lastnik blaga oziroma oseba, ki razpolaga z blagom, poda izjavo, da zadevno blago ne krši pravic intelektualne lastnine oziroma nasprotuje uničenju blaga, carinski organi blaga ne odstopijo v uničenje pod carinskim nadzorom. Imetnik pravice lahko vloži tožbo v skladu s 13. členom uredbe o varstvu pravic intelektualne lastnine in o tem v roku iz drugega odstavka tega člena obvesti zadevni carinski organ, sicer se blago prepusti v izbrano carinsko dovoljeno rabo ali uporabo.
+(7) Kot delovni dan se šteje dan, ko dela Generalni carinski urad.".
