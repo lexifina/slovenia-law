@@ -1,0 +1,5 @@
+# 19.b člen
+Stroške izpita krije kandidat. Stroške izpita za kandidata založi ministrstvo, pristojno za pravosodje. Višino stroškov predpiše minister, pristojen za pravosodje, upoštevajoč obseg priznanega dela izpita.
+Posameznik, ki v treh letih po opravljenem izpitu po svoji volji ne sklene delovnega razmerja v organih iz prvega odstavka 11.a člena tega zakona, je dolžan vrniti stroške izpita, ki jih je predhodno založilo ministrstvo, pristojno za pravosodje. Stroške mora povrniti najkasneje v 60 dneh po poteku triletnega roka.
+V odločbi, s katero se posameznemu kandidatu dovoli pristop k izpitu se določi višina stroškov izpita in obveznost iz prejšnjega odstavka. Posameznik lahko stroške izpita povrne tudi takoj po opravljenem izpitu oziroma pred potekom triletnega roka iz prejšnjega odstavka.
+Zaradi izpolnjevanja obveznosti iz tega člena ministrstvo, pristojno za pravosodje, v evidenci iz 30. člena tega zakona obdeluje tudi podatek o dolžnosti povrnitve stroškov izpita, predvidenem končnem roku povrnitve stroškov izpita in datumu, ko so bili stroški izpita povrnjeni.".

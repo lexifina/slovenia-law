@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o pravniškem državnem izpitu (Uradni list RS, št. 83/03 - uradno prečiščeno besedilo) se v prvem odstavku 1. člena za besedo "naslovu" doda besedilo "magister prava ali", za besedo "izpit" pa se pika nadomesti z vejico in doda besedilo "ter določa način in pogoje, pod katerimi lahko magistri prava in univerzitetni diplomirani pravniki neposredno pristopijo k opravljanju pravniškega državnega izpita brez opravljanja pripravništva po tem zakonu.".
