@@ -1,0 +1,3 @@
+# 17. člen
+Z dnem uveljavitve schengenskega pravnega reda v polnem obsegu, kot to določa drugi odstavek 3. člena Akta o pogojih pristopa Češke republike, Republike Estonije, Republike Cipra, Republike Latvije, Republike Litve, Republike Madžarske, Republike Malte, Republike Poljske, Republike Slovenije in Slovaške republike in prilagoditvah pogodb, na katerih temelji Evropska unija (Uradni list RS - Mednarodne pogodbe, št. 3/04), prenehajo veljati točka A tarifne številke 14 ter opombe (1), (2) in (4) te tarifne številke, ter 1. do 5. točka, odstavka B, tarifne številke 61, ter opombi (1) in (2) te tarifne številke.
+KONČNE DOLOČBE
