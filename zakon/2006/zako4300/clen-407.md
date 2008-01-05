@@ -1,2 +1,0 @@
-# 407. člen (ohranitev veljavnosti dovoljenj)
-Dovoljenja za opravljanje bančnih ali drugih storitev, za opravljanje funkcije člana uprave banke, za pridobitev kvalificiranega deleža ter druga dovoljenja in soglasja, ki v skladu z Zakonom o bančništvu (Uradni list RS, št. 104/04 - uradno prečiščeno besedilo) veljajo ob uveljavitvi tega zakona, se z dnem uveljavitve tega zakona štejejo za dovoljenja, izdana po tem zakonu.

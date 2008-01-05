@@ -1,2 +1,0 @@
-# 408. člen (uskladitev kvalificiranih imetnikov, ki še niso pridobili deleža, za katerega velja dovoljenje)
-Kvalificiranemu imetniku, ki na podlagi dovoljenja za pridobitev kvalificiranega deleža iz 407. člena tega zakona ob uveljavitvi tega zakona še ni pridobil delnic banke, na podlagi katerih bi dosegel delež, za katerega je izdano dovoljenje, začne rok za pridobitev deleža, na katerega se nanaša dovoljenje, iz prvega odstavka 50. člena tega zakona teči z dnem uveljavitve tega zakona.

@@ -1,2 +1,2 @@
 ZAKON
-O BANČNIŠTVU (ZBan-1)
+o bančništvu (ZBan-1)
