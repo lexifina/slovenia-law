@@ -1,0 +1,5 @@
+# 38. člen
+V 56. členu se v prvem odstavku na koncu druge alinee črta beseda "ali" in doda se nova tretja alinea, ki se glasi:
+"- pravnomočna sodna ali upravna odločba, ki izkazuje pravico graditi oziroma izvajati dela na nepremičnini, ali".
+V drugem odstavku se besedilo "potrdilom pristojnega sodišča o prejemu ali potrdilom o oddaji vloge po pošti, priporočeno ali brzojavno oziroma na način elektronskega poslovanja" nadomesti z besedilom "podatkom o zemljiškoknjižni plombi, pod katero se vodi predlog".
+V tretjem odstavku se za besedilom "javne infrastrukture" doda besedilo ", pri odstranitvah objektov in za zemljišča, na katerih je predvidena ureditev gradbišča samo za čas gradnje," in na koncu doda nov stavek: "Pri nameravani gradnji objektov gospodarske javne infrastrukture, ki se bo izvajala v cestnem telesu državne ali občinske javne ceste, se ne glede na določbe tega člena za dokazilo o pravici graditi šteje soglasje upravljalca javne ceste za izvedbo takšne gradnje znotraj cestnega telesa.".

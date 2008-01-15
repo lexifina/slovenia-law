@@ -1,0 +1,4 @@
+# 116. člen (izdelovanje in revidiranje projektne dokumentacije v prehodnem obdobju)
+(1) Projektna dokumentacija, določena s tem zakonom, se do uskladitve predpisa iz 40. člena zakona z določbami 20. člena tega zakona izdeluje in revidira po dosedanjih predpisih.
+(2) Do uveljavitve predpisa iz prejšnjega odstavka se šteje, da je povzetek podatkov o nameravani gradnji, ki jih je treba po prejemu zahteve za izdajo gradbenega dovoljenja posredovati pristojni občini, vodilna mapa v projektu za pridobitev gradbenega dovoljenja, brez dokazne dokumentacije.
+(3) Do uveljavitve uredbe o območju za določitev strank v postopku izdaje gradbenega dovoljenja iz drugega odstavka novega 49.a člena tega zakona se v projektih za pridobitev gradbenega dovoljenja območje za določitev strank v postopku izdaje gradbenega dovoljenja prikazuje kot vplivno območje po dosedanjih predpisih.

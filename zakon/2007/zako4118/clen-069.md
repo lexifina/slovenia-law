@@ -1,0 +1,5 @@
+# 69. člen
+V 98. členu se za drugim odstavkom dodajo tretji, četrti in peti odstavek, ki se glasijo:
+"(3) Investitor mora pred potekom obdobja poskusnega obratovanja pristojnemu upravnemu organu za gradbene zadeve predložiti poročila o prvih meritvah obratovalnega monitoringa, iz katerih nesporno izhaja, da emisije pri obratovanju objekta ne presegajo predpisanih mejnih vrednosti ter da objekt izpolnjuje s predpisi o varstvu okolja in drugimi predpisi določene parametre glede vplivov na okolje.
+(4) Pristojni upravni organ za gradbene zadeve poročilo o prvih meritvah posreduje pristojnemu organu za nadzor nad poskusnim obratovanjem in ga pozove, naj v roku 15 dni poda mnenje o tem, ali emisije pri obratovanju objekta presegajo predpisane mejne vrednosti in ali objekt izpolnjuje s predpisi o varstvu okolja in drugimi predpisi predpisane parametre glede vplivov na okolje.
+(5) Če pristojni organ za nadzor nad poskusnim obratovanjem mnenja iz prejšnjega odstavka ne pošlje v predpisanem roku, se šteje, da je njegovo mnenje pozitivno.".

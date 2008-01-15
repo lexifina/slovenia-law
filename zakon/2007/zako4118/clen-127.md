@@ -1,0 +1,6 @@
+# 127. člen (uskladitev določb v zvezi z gradbeno parcelo)
+(1) Z dnem začetka uporabe tega zakona se preneha z določanjem gradbenih parcel po 216. členu ZGO-1.
+(2) Postopki za določitev gradbenih parcel in postopki za izdajo gradbenih dovoljenj, ki so se začeli pred začetkom uporabe tega zakona, se končajo po dosedanjih predpisih.
+(3) Za namen odmere nadomestila za uporabo stavbnega zemljišča se z dnem začetka uporabe tega zakona za zazidano stavbno zemljišče šteje tisti del površine zemljiške parcele, na kateri stoji stavba (fundus), pomnožena s faktorjem 1,5, preostali del površine takšne zemljiške parcele pa se šteje za nezazidano stavbno zemljišče.
+(4) Ne glede na prejšnji odstavek se za zazidano stavbno zemljišče šteje tisti del površine zemljiške parcele, ki je bil z odločbo o določitvi funkcionalnega zemljišča, z odločbo o izdaji gradbenega dovoljenja ali z odločbo o določitvi gradbene parcele določen kot gradbena parcela ali funkcionalno zemljišče.
+(5) Z dnem začetka uporabe tega zakona se šteje, da pojem gradbena parcela pomeni zemljišče, sestavljeno iz ene ali več zemljiških parcel ali njihovih delov, na katerem stoji oziroma na katerem je predviden objekt in na katerem so urejene površine, ki služijo takšnemu objektu oziroma je predvidena ureditev površin, ki bodo služile takšnemu objektu.

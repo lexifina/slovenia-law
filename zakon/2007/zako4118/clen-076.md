@@ -1,0 +1,2 @@
+# 76. člen
+V 107. členu se v prvem odstavku prvi stavek spremeni tako, da se glasi: "Projekt za pridobitev gradbenega dovoljenja, na podlagi katerega je bilo izdano gradbeno dovoljenje, ter projekt izvedenih del, na podlagi katerega je bilo izdano uporabno dovoljenje, mora hraniti lastnik objekta oziroma njegov pravni naslednik, dokler objekt stoji oziroma do odstranitve objekta, če ni s posebnimi predpisi za določeno vrsto objektov določeno, da jih je treba hraniti trajno.".

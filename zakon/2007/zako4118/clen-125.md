@@ -1,0 +1,4 @@
+# 125. člen (uskladitev določb glede minimalne komunalne oskrbe)
+(1) Za potrebe izdajanja gradbenih dovoljenj se šteje, da je stavbno zemljišče opremljeno, če je zagotovljena minimalna komunalna oskrba, kot je predpisana v drugem odstavku 45. člena tega zakona.
+(2) Če v posameznih enotah urejanja še ni zgrajena minimalna komunalna oprema oziroma njena izgradnja ni predvidena v občinskem načrtu razvojnih programov v okviru občinskega proračuna za tekoče ali naslednje leto in zato ni mogoča priključitev na infrastrukturo, ki bi zagotovila minimalno komunalno oskrbo, investitor lahko zagotovi minimalno komunalno oskrbo tudi drugače, vendar ne v nasprotju s prostorskim aktom in predpisi, ki urejajo oskrbo s pitno vodo in elektriko, odvajanje odpadnih voda ter dostopanje do javnih cest.
+(3) Investitor lahko zagotovi komunalno oskrbo tudi na način, ki ga prostorski akt ne določa, če gre za način oskrbe, ki sledi napredku tehnike.

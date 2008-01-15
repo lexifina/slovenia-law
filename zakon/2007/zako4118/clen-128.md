@@ -1,0 +1,7 @@
+# 128. člen (dokazila o pravici graditi za energetske objekte državnega pomena)
+(1) Ne glede na določbo prvega odstavka 97. člena Zakona o urejanju prostora (Uradni list RS, št. 110/02, 8/03 - popravek in 58/03 - ZZK-1) in tretjega odstavka 59. člena Energetskega zakona (Uradni list RS, št. 27/07 - uradno prečiščeno besedilo) se v zvezi z gradnjo energetskih objektov državnega pomena za postopek sporazumnega pridobivanja potrebnih nepremičnin in glede dokazil o pravici graditi iz 56. člena zakona smiselno uporabljajo določbe 8. do 12. člena ter druge, četrte, pete, šeste, sedme in osme alineje 13. člena Zakona o ureditvi določenih vprašanj v zvezi z graditvijo avtocestnega omrežja v Republiki Sloveniji (Uradni list RS, št. 35/95). Za energetske objekte državnega pomena štejejo:
+- elektrarne (hidroelektrarna, termoelektrarna, termoelektrarna toplarna, geotermalna elektrarna, polje vetrnih elektrarn in druge vrste elektrarn) z nazivno električno močjo 10 MW ali več,
+- prenosni elektroenergetski vodi s pripadajočimi funkcionalnimi objekti, z nazivno napetostjo 110 kV ali več,
+- prenosni plinovodi, če je delovni tlak višji od 16 bar, s pripadajočimi funkcionalnimi objekti,
+- prenosni naftovodi in produktovodi, s pripadajočimi funkcionalnimi objekti.
+(2) Ta člen se uporablja do ureditve vprašanja dokazovanja pravice graditi in vprašanja pridobivanja nepremičnin v predpisu, ki ureja energetske objekte, vendar najdlje dve leti od uveljavitve tega zakona.
