@@ -1,0 +1,5 @@
+# 57.h člen
+(1) Organizator potovanja sme spremeniti program potovanja pred izpolnjevanjem pogodbe ali med njenim izpolnjevanjem le zaradi izrednih okoliščin, ki jih ni mogel pričakovati, niti se jim izogniti ali jih odvrniti. O spremembi programa mora potrošnika pisno obvestiti takoj, ko so nastopile izredne okoliščine, in navesti razloge za spremembo. Stroške, nastale s spremembo programa, krije organizator potovanja, zmanjšanje stroškov pa gre v korist potrošnika.
+(2) Organizator potovanja sme pod pogoji iz prejšnjega odstavka dogovorjeno nastanitev zamenjati samo za nastanitev v objektu iste kategorije ali objektu višje kategorije in samo v dogovorjenem kraju. Morebitne dodatne stroške zaradi razlike v ceni krije organizator potovanja.
+(3) Če organizator potovanja bistveno spremeni program potovanja pred izpolnjevanjem pogodbe, mora potrošniku, ki zaradi tega odstopi od potovanja, vrniti ves vplačani znesek, ki ga je od njega prejel.
+(4) Če organizator potovanja program bistveno spremeni med izpolnjevanjem pogodbe, potrošnik, ki zaradi tega odstopi od pogodbe, plača samo stroške dejansko opravljenih storitev.".

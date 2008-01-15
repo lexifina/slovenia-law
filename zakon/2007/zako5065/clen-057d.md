@@ -1,0 +1,4 @@
+# 57.d člen
+(1) Organizator potovanja po sklenitvi pogodbe ne sme zvišati cene razen, če je prišlo do sprememb v menjalnem tečaju valute ali tarifah prevoznikov, ki vplivajo na ceno potovanja. Če so te spremembe povzročile znižanje cene potovanja, mora organizator potrošniku povrniti razliko v ceni.
+(2) Organizator potovanja sme uveljaviti pravico do spremembe dogovorjene cene turističnega aranžmaja iz prejšnjega odstavka le, če je možnost spremembe cene predvidena v potrdilu o potovanju in potrdilo vsebuje način izračuna spremembe. Cena turističnega aranžmaja se sme zvišati najpozneje do dvajsetega dne pred začetkom potovanja.
+(3) Če zvišanje dogovorjene cene preseže deset odstotkov, lahko potrošnik odstopi od pogodbe, ne da bi moral povrniti škodo. V tem primeru mora organizator potovanja potrošniku vrniti vplačani znesek.
