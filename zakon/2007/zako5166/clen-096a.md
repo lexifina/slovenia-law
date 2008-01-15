@@ -1,0 +1,3 @@
+# 96.a člen
+(1) Organ vroča dokument osebi, ki do vročitve ni sodelovala v postopku, na naslovu za vročanje. Izjemoma lahko vroča tudi na drugem naslovu, ki ni enak naslovu za vročanje, če je verjetno, da oseba tam dejansko prebiva, vendar mora vročitev ponoviti tudi na naslovu za vročanje, če se izkaže, da na domnevnem drugem naslovu ne živi.
+(2) Če se ugotovi, da oseba ne prebiva na naslovu za vročanje, ker se je odselila oziroma je na naslovu neznana, odredi organ, da se vročitev opravi tako, da se dokument objavi na oglasni deski organa in na enotnem državnem portalu e-uprava. Vročitev velja za opravljeno po poteku 15 dni od dneva, ko je bil dokument objavljen na oglasni deski organa in na enotnem državnem portalu e-uprava.".

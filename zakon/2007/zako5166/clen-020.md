@@ -1,0 +1,8 @@
+# 20. člen
+96. člen se spremeni tako, da se glasi:
+"96. člen
+"(1) Če stranka ali njen zakoniti zastopnik ali pooblaščenec, ki ga je postavila stranka, med postopkom spremeni svoje stalno ali začasno prebivališče, sedež oziroma naslov, ki ga je navedel v vlogi ali pooblastilu, mora o tem takoj obvestiti organ, ki vodi postopek.
+(2) Če vročevalec ugotovi, da se je oseba iz prvega odstavka odselila iz naslova, kjer naj se opravi vročitev, oziroma je na naslovu neznana, mora o tem obvestiti organ in mu sporočiti naslov, če ga izve na podlagi opravljenega poizvedovanja, ali kako drugače.
+(3) Če oseba iz prvega odstavka tega člena ne obvesti organa o spremembi prebivališča, sedeža ali naslova, ki ga je navedla v vlogi ali v pooblastilu in vročevalec v skladu z drugim odstavkom tega člena ne sporoči naslova, organ pa na podlagi podatkov iz uradnih evidenc ugotovi, da je naslov za vročanje, prijavljen na podlagi zakona, ki ureja prijavo prebivališča (v nadaljnjem besedilu naslov za vročanje) oziroma sedež enak naslovu, kjer je bil opravljen poizkus vročitve, odredi naj se vse nadaljnje vročitve v postopku opravljajo tako, da se dokument objavi na oglasni deski organa in na enotnem državnem portalu e-uprava.
+(4) Če je iz uradnih evidenc razvidno, da je naslov za vročanje oziroma sedež drugačen kot naslov, na katerem je bil opravljen poizkus vročitve, se vročitev ponovno opravi na tem naslovu. Če vročitev ni možna iz razlogov iz drugega odstavka, organ odredi, da se vročitev opravi tako, da se dokument objavi na oglasni deski organa in na enotnem državnem portalu e-uprava.
+(5) Vročitev velja za opravljeno po poteku 15 dni od dneva, ko je bil dokument objavljen na oglasni deski organa, ki vodi postopek in na enotnem državnem portalu e-uprava.".
