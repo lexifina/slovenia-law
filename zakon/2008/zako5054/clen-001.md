@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o gospodarskih družbah (Uradni list RS, št. 42/06, 60/06 - popravek, 26/07 - ZSDU-B, 33/07 - ZSReg-B in 67/07 - ZTFI) se v prvem odstavku 2. člena za besedilom "Direktiva 84/253/EGS)," doda besedilo "Deseta direktiva Evropskega parlamenta in Sveta 2005/56/ES z dne 26. oktobra 2005 o čezmejnih združitvah kapitalskih družb (UL L št. 310 z dne 25. 11. 2005, str. 1, v nadaljnjem besedilu: Direktiva 05/56/ES),".
