@@ -1,0 +1,4 @@
+# 16. člen (preverjanje pogojev za nadaljnje uživanje varstvenega dodatka)
+(1) Zavod lahko po uradni dolžnosti preveri, če upravičenec še izpolnjuje pogoje za priznanje pravice do varstvenega dodatka. Če ugotovi spremembe, ki jih upravičenec ni javil, lahko od njega zahteva, da predloži dokazila in podatke, ki izkazujejo premoženjsko stanje upravičenca in njegovih družinskih članov po tem zakonu in jih zavod ne more pridobiti po uradni dolžnosti, v roku, ki ne sme biti krajši kot osem dni.
+(2) Če upravičenec ne predloži zahtevanih dokazil v roku iz prejšnjega odstavka, izgubi pravico do varstvenega dodatka z veljavnostjo od prvega dne naslednjega meseca po dokončnosti odločbe.
+(3) Uživalec pokojnine, ki v primeru iz prejšnjega odstavka izgubi pravico do varstvenega dodatka, jo znova pridobi, če naknadno predloži zahtevana dokazila in zanjo izpolnjuje pogoje.
