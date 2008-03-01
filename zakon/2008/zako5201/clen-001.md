@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o javnem naročanju na vodnem, energetskem, transportnem področju in področju poštnih storitev (Uradni list RS, št. 128/06) se v 1. členu v drugem odstavku črta besedilo "in Direktiva Komisije 2005/51/ES z dne 7. septembra 2005 o spremembi Priloge XX k Direktivi 2004/17/ES in Priloge VII k Direktivi 2004/18/ES Evropskega parlamenta in Sveta o javnih naročilih (UL L št. 257 z dne 1. 10. 2005, str. 127)".
