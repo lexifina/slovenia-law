@@ -1,0 +1,5 @@
+# 16. člen Podkupovanje tujih javnih uslužbencev in uradnikov mednarodnih organizacij
+
+1. Vsaka država pogodbenica sprejme zakonodajne in druge ukrepe, potrebne, da se kot kaznivo dejanje, kadar je storjeno naklepno, določi neposredno ali posredno obljubljanje, ponujanje ali dajanje nedovoljene koristi tujemu javnemu uslužbencu ali uradniku mednarodne organizacije, zanj ali za drugo fizično ali pravno osebo, da javni uslužbenec ali uradnik zaradi pridobitve ali ohranitve posla ali druge nedovoljene koristi v mednarodnem poslovanju pri opravljanju svojih uradnih dolžnosti opravi uradno dejanje ali ga ne opravi.
+
+2. Vsaka država pogodbenica preuči sprejetje zakonodajnih in drugih ukrepov, potrebnih, da se kot kaznivo dejanje, kadar je storjeno naklepno, določi, kadar tuji javni uslužbenec ali uradnik mednarodne organizacije neposredno ali posredno napeljuje k nedovoljeni koristi ali jo sprejme, zase ali za drugo fizično ali pravno osebo, da javni uslužbenec ali uradnik pri opravljanju svojih uradnih dolžnosti opravi uradno dejanje ali ga ne opravi.

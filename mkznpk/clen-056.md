@@ -1,0 +1,3 @@
+# 56. člen Posebno sodelovanje
+
+Vsaka država pogodbenica si ne glede na svoje notranje pravo prizadeva za sprejetje ukrepov, ki ji ne glede na njene preiskave, kazenske pregone ali sodne postopke omogočijo pošiljanje podatkov o premoženjski koristi, pridobljeni s kaznivim dejanjem, določenim v skladu s to konvencijo, drugi državi pogodbenici brez predhodnega zaprosila, če meni, da bi razkritje takih podatkov lahko državi pogodbenici prejemnici pomagalo pri uvedbi ali izvedbi preiskav, kazenskih pregonov ali sodnih postopkov ali pa bi lahko bilo podlaga za zaprosilo te države pogodbenice po tem poglavju konvencije.
