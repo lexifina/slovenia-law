@@ -1,0 +1,5 @@
+# 12. člen
+20. člen se spremeni tako, da se glasi:
+"20. člen
+(pogoji za opravljanje nalog inšpektorja)
+Inšpektorji inšpektoratov iz prvega in četrtega odstavka 19. člena tega zakona morajo imeti poleg splošnih pogojev primerno teoretično in praktično znanje smučanja po programu, ki ga predpiše minister, pristojen za notranje zadeve, v sodelovanju s pristojno nacionalno panožno športno zvezo. Komisijo za preizkus znanja smučanja imenuje minister, pristojen za notranje zadeve, v sodelovanju s pristojno nacionalno panožno športno zvezo.".
