@@ -1,26 +1,34 @@
 # 23. člen (pogoji za imenovanje nadzornika)
-(1) Delo nadzornika lahko opravlja oseba, ki pridobi pooblastilo ministra, pristojnega za notranje zadeve. Pooblastilo se izda z upravno odločbo osebi, ki izpolnjuje naslednje pogoje:
-- da je star najmanj 21 let;
-- da je poslovno in splošno zdravstveno sposoben;
-- da ima pridobljeno najmanj V. stopnjo izobrazbe in II. stopnjo usposobljenosti v smučanju;
-- da je opravil preizkus usposobljenosti za nadzornika smučišč;
-- da aktivno obvlada slovenski in pasivno en tuj jezik;
-- da ni bil pravnomočno obsojen za kaznivo dejanje z elementi nasilja.
-(2) Pogoj iz pete alinee prejšnjega odstavka se dokazuje s spričevali o končanem šolanju, ki veljajo v Republiki Sloveniji.
-(3) Pooblastilo se izda za čas štirih let. Osebi, ki izpolnjuje pogoje iz prejšnjega odstavka, se pooblastilo lahko podaljša za enak čas.
-(4) Nadzorniku se pooblastilo odvzame z upravno odločbo:
+(1) Delo nadzornika opravlja oseba, ki pridobi pooblastilo ministra, pristojnega za notranje zadeve, in izpolnjuje naslednje pogoje:
+- da je stara najmanj 18 let;
+- da ima državljanstvo Republike Slovenije ali druge države Evropske unije;
+- da je poslovno in splošno zdravstveno sposobna;
+- da ima najmanj IV. stopnjo izobrazbe;
+- da ima primerno teoretično in praktično znanje smučanja;
+- da je opravila preizkus usposobljenosti za nadzornika smučišč;
+- da aktivno obvlada slovenski jezik;
+- da ni bila pravnomočno obsojena za naklepno kaznivo dejanje, ki se preganja po uradni dolžnosti, ali za prekršek zoper javni red in mir z elementi nasilja.
+(2) Pogoj iz sedme alinee prejšnjega odstavka se dokazuje s spričevali o končanem šolanju, ki veljajo v Republiki Sloveniji.
+(3) Program za primerno teoretično in praktično znanje smučanja iz pete alinee prvega odstavka tega člena ter preizkus usposobljenosti za nadzornika smučišč iz šeste alinee prvega odstavka tega člena predpiše minister, pristojen za notranje zadeve, v sodelovanju s pristojno nacionalno panožno športno zvezo.
+(4) Preizkus usposobljenosti iz šeste alinee prvega odstavka tega člena izvaja organizacija, ki jo na podlagi javnega razpisa izbere minister, pristojen za notranje zadeve. Komisijo za preizkus znanja smučanja iz pete alinee prvega odstavka tega člena imenuje minister, pristojen za notranje zadeve, v sodelovanju s pristojno nacionalno panožno športno zvezo.
+(5) Osebi, ki ima pridobljeno najmanj II. stopnjo učitelja smučanja, se ob predložitvi ustreznega dokazila prizna znanje po peti alinei prvega odstavka tega člena, če program za učitelja smučanja II. stopnje vsebuje vsebine programa iz tretjega odstavka tega člena.
+(6) Minister, pristojen za notranje zadeve, predpiše obrazec vloge za podelitev pooblastila, obrazec službene izkaznice za nadzornika na smučišču ter oznake nadzornikov.
+(7) Nadzorniku se pooblastilo odvzame:
 - če ne izpolnjuje več pogojev iz prvega odstavka tega člena;
 - če poda pisno izjavo, da ne želi več opravljati nalog nadzornika;
 - če mu je izrečen varnostni ukrep prepovedi opravljanja poklica;
-- če ne izvršuje zakonito ali vestno svojih pooblastil.
-(5) Evidenco nadzornikov vodi minister, pristojen za notranje zadeve. Evidenca vsebuje naslednje podatke:
-- EMŠO;
+- če svojih pooblastil ne izvaja zakonito;
+- če se ne usposablja skladno z zahtevami 23.a člena tega zakona.
+(8) Evidenco nadzornikov vodi ministrstvo za notranje zadeve. Evidenca vsebuje naslednje podatke:
 - osebno ime;
+- EMŠO;
 - datum in kraj rojstva;
-- podatke o izobrazbi in usposobljenosti smučanja;
-- stalno ali začasno prebivališče;
+- stalno in začasno prebivališče;
+- državljanstvo;
+- podatke o izobrazbi;
+- podatke o znanju smučanju;
 - podatke o opravljenem preizkusu usposobljenosti;
+- podatke o udeležbi na usposabljanjih po 23.a členu tega zakona;
 - datum izdaje in številko pooblastila.
-(6) Podatki, ki se vodijo v evidenci iz petega odstavka tega člena, se hranijo še deset let po prenehanju nadzornikovega pooblastila. Po preteku tega roka se arhivirajo v skladu z zakonom, ki ureja arhivska gradiva in arhive.
-(7) Preizkus usposobljenosti predpiše minister, pristojen za notranje zadeve, v soglasju z ministrom, pristojnim za promet, na predlog pristojne nacionalne panožne športne zveze.
-(8) Preizkus usposobljenosti iz prejšnjega odstavka izvaja organizacija, ki jo izbere minister, pristojen za notranje zadeve, v soglasju z ministrom, pristojnim za promet, na podlagi javnega razpisa.
+(9) Podatki, ki se vodijo v evidenci iz prejšnjega odstavka tega člena, se hranijo še deset let po prenehanju nadzornikovega pooblastila. Po tem roku se arhivirajo skladno z zakonom, ki ureja arhivska gradiva in arhive.
+(10) Pri izvajanju svojih pooblastil po tem zakonu je nadzornik samostojen in neodvisen.
