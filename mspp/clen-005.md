@@ -1,0 +1,3 @@
+# 5. člen
+
+Za izvajanje sporazuma skrbi Ministrstvo za pravosodje.
