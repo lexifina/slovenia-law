@@ -1,0 +1,3 @@
+# 28. člen
+Strokovni delavci, ki so do uveljavitve tega zakona izpolnjevali z zakonom in drugimi predpisi določene pogoje za opravljanje dela v vrtcih, lahko tudi po uveljavitvi tega zakona opravljajo vzgojno-izobraževalno delo, in sicer do prenehanja nepretrganega delovnega razmerja na področju vzgoje in izobraževanja.
+Vzgojitelji v vrtcih, ki so izpolnjevali pogoje za vzgojitelja v razvojnem oddelku do uveljavitve tega zakona na podlagi drugega odstavka 40. člena Zakona o vrtcih (Uradni list RS, št. 100/05 - uradno prečiščeno besedilo) in so imenovani za ravnatelje vrtcev, izpolnjujejo pogoje za ravnatelja po tem zakonu še naprej.
