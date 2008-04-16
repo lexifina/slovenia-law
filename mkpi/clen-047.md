@@ -1,0 +1,7 @@
+# 47. člen Spremembe
+
+1. Vsaka država pogodbenica lahko predlaga spremembo te konvencije in jo predloži generalnemu sekretarju Združenih narodov. Generalni sekretar pošlje predlagane spremembe državam pogodbenicam in jih pozove, da ga obvestijo, ali podpirajo konferenco držav pogodbenic zaradi obravnavanja predlogov in odločanja o njih. Če se v štirih mesecih od dne pošiljanja vsaj tretjina držav pogodbenic izreče za konferenco, jo generalni sekretar skliče pod pokroviteljstvom Združenih narodov. Vsako spremembo, sprejeto z dvotretjinsko večino prisotnih in glasujočih držav pogodbenic, generalni sekretar predloži v potrditev Generalni skupščini in nato vsem državam pogodbenicam v sprejetje.
+
+2. Sprememba, sprejeta in potrjena v skladu s prvim odstavkom tega člena, začne veljati trideseti dan po dnevu, ko sta dve tretjini držav pogodbenic na dan sprejetja spremembe deponirali svoje listine o sprejetju. Nato začne sprememba za katero koli državo pogodbenico veljati trideseti dan po dnevu, ko je deponirala svojo listino o sprejetju. Sprememba je zavezujoča samo za tiste države pogodbenice, ki so jo sprejele.
+
+3. Če konferenca držav pogodbenic soglasno odloči, začne sprememba, sprejeta in potrjena v skladu s prvim odstavkom, ki se nanaša izključno na 34., 38., 39. in 40. člen, veljati trideseti dan po dnevu, ko sta dve tretjini držav pogodbenic na dan sprejetja spremembe deponirali svoje listine o sprejetju.
