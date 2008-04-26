@@ -1,0 +1,9 @@
+# 34. člen
+Besedilo 99. člena se spremeni tako, da se glasi:
+"Strokovni delavci v šolah in zavodih za izvajanje programov vzgoje in izobraževanja za otroke in mladostnike s posebnimi potrebami so učitelji, vzgojitelji, svetovalni delavci, knjižničarji in drugi strokovni delavci.
+Učitelj, laborant in drugi strokovni delavci v prilagojenih izobraževalnih programih morajo imeti izobrazbo, predpisano za učitelje, laborante in druge strokovne delavce šol, in specialnopedagoško izobrazbo.
+Vzgojitelj mora imeti izobrazbo ustrezne smeri, pridobljeno po študijskih programih za pridobitev izobrazbe druge stopnje, oziroma raven izobrazbe, pridobljene po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje, in specialno pedagoško izobrazbo.
+Učitelj predmetov ali področij v posebnih programih vzgoje in izobraževanja za otroke in mladostnike s posebnimi potrebami mora imeti izobrazbo ustrezne smeri pridobljeno po študijskih programih za pridobitev izobrazbe druge stopnje oziroma raven izobrazbe, pridobljene po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje in specialno pedagoško izobrazbo.
+Učitelj praktičnega izobraževanja v posebnem programu vzgoje in izobraževanja za otroke in mladostnike s posebnimi potrebami mora imeti najmanj srednjo ali srednjo strokovno izobrazbo ustrezne smeri in specialno pedagoško izobrazbo.
+Svetovalni delavec in knjižničar morata imeti izobrazbo ustrezne smeri, pridobljeno po študijskih programih za pridobitev izobrazbe druge stopnje, oziroma raven izobrazbe, pridobljene po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje, in pedagoško-andragoško ali specialno pedagoško izobrazbo.
+Delavci, ki opravljajo zdravstvene in socialno-varstvene storitve, morajo imeti izobrazbo, predpisano z zakoni, ki urejajo ta področja.".

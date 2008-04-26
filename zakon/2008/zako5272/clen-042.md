@@ -1,0 +1,2 @@
+# 42. člen (strokovni delavci)
+Strokovni delavci, ki so do uveljavitve tega zakona izpolnjevali z zakonom in drugimi predpisi določene pogoje za opravljanje vzgojno-izobraževalnega dela v vzgojno-izobraževalnih zavodih, lahko tudi po uveljavitvi tega zakona še naprej opravljajo vzgojno-izobraževalno delo, in sicer do prenehanja neprekinjenega delovnega razmerja na področju vzgoje in izobraževanja.

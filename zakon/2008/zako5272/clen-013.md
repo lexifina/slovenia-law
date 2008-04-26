@@ -1,0 +1,3 @@
+# 13. člen
+V 42. členu se doda nov tretji odstavek, ki se glasi:
+"V ustanovitvenem aktu vrtca oziroma šole lahko ustanovitelj, ki je pravna oseba javnega ali zasebnega prava določi, da se bodo vse ali posamezne spremljajoče dejavnosti (računovodstvo, pravno-kadrovske dejavnosti, organiziranje prehrane, vzdrževanje, čiščenje prostorov in podobno) za vrtec oziroma šolo izvajale v okviru služb ustanovitelja. Če se prenesene naloge vrtca oziroma šole financirajo iz sredstev, ki jih ne zagotavlja ustanovitelj, se je le-ta dolžan s financerjem predhodno dogovoriti o načinu plačila prenesenih nalog in načinu nadzora nad namensko porabo sredstev, namenjenih za izvajanje prenesenih nalog.".
