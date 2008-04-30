@@ -1,0 +1,6 @@
+# 47. člen
+V prvem odstavku 128. člena se za besedo "redarstva" doda besedilo "in na vozilih izvajalcev zasebnega varovanja, ki so na intervencijski vožnji ali vožnji, namenjeni prevozom denarja in drugih vrednostnih pošiljk", za besedami "se pri opravljanju" pa se doda besedilo "ali v zvezi z namenom opravljanja".
+V tretjem odstavku se črta besedilo "na vozilih v cestnem prometu, s katerimi se opravlja izredni prevoz, in na vozilih, ki spremljajo taka vozila,".
+V sedmem odstavku se znesek "40.000 tolarjev" nadomesti z zneskom "160 eurov".
+V osmem odstavku se znesek "500.000 tolarjev" nadomesti z zneskom "2.000 eurov", znesek "50.000 tolarjev" pa se nadomesti z zneskom "200 eurov". Znesek "500.000 tolarjev" se nadomesti z zneskom "2.000 eurov" tudi v četrtem odstavku 8. člena, drugem odstavku 35. člena, osmem odstavku 82. člena, tretjem odstavku 87. člena, desetem in enajstem odstavku 123. člena, tretjem odstavku 180. člena, osmem odstavku 190. člena, petem odstavku 208. člena, četrtem odstavku 210. člena, četrtem odstavku 216. člena, četrtem odstavku 219. člena, drugem odstavku 221. člena, četrtem odstavku 240. člena, četrtem odstavku 246. člena in drugem odstavku 251. člena.
+V devetem odstavku se znesek "20.000 tolarjev" nadomesti z zneskom "80 eurov".

@@ -1,0 +1,4 @@
+# 43. člen
+V šestem odstavku 116. člena se znesek "1,000.000 tolarjev" nadomesti z zneskom "4.000 eurov", znesek "100.000 tolarjev" pa se nadomesti z zneskom "400 eurov".
+Sedmi odstavek se spremeni tako, da se glasi:
+"(7) Z globo 40 eurov se kaznuje za prekršek udeleženec cestnega prometa, ki ravna v nasprotju s petim odstavkom tega člena, razen tistega, ki ravna v nasprotju s prometnim znakom za omejitev hitrosti, s prometnim znakom, s katerim je urejena prednost vozil, s prometnim znakom za obvezno uporabo snežnih verig, s prometnim znakom za omejitev skupne mase, osne obremenitve ali dimenzije, s prometnim znakom za omejitev največje dovoljene mase ali s prometnim znakom "prepovedano prehitevanje za tovorna vozila", postavljenim na avtocesti oziroma cesti, rezervirani za motorna vozila.".

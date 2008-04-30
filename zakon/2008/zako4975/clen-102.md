@@ -1,0 +1,4 @@
+# 102. člen
+(1) Vsi imetniki vozniških dovoljenj morajo najpozneje v desetih letih od uveljavitve tega zakona zamenjati vozniška dovoljenja, izdana na obrazcih, predpisanih s Pravilnikom o obrazcih prometnih dovoljenj in vozniškega dovoljenja ter o registrskih tablicah (Uradni list RS, št. 5/92, 70/95 in 73/00), Pravilnikom o vozniških dovoljenjih (Uradni list RS, št. 117/02, 100/03 in 59/04) ali Pravilnikom o vozniških dovoljenjih (Uradni list RS, št. 80/05), z vozniškim dovoljenjem na obrazcu, ki bo predpisan v skladu z Direktivo 2006/126/ES.
+(2) Ob zamenjavi vozniškega dovoljenja iz prejšnjega odstavka obdržijo imetniki vozniških dovoljenj vse pravice, ki izhajajo iz tega vozniškega dovoljenja.
+(3) Osebe, ki so bile do uveljavitve tega zakona imenovane za člane izpitnih komisij, nadaljujejo svoje delo ne glede na tretji in četrti odstavek 173. člena zakona.
