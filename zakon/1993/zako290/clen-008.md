@@ -23,3 +23,6 @@ Do začetka veljavnosti posebne pogodbe o gradnji avtocest in koncesijske pogodb
 Z dnem uveljavitve tega zakona se za družbo prenehajo uporabljati določbe ZJC, ki urejajo graditev, vzdrževanje in varstvo javnih cest, v obsegu v katerem posamezna vprašanja ta zakon ureja drugače.
 17. člen
 Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
+Zakon o spremembah in dopolnitvah Zakona o javnih cestah - ZJC-C (Uradni list RS, št. 45/08) vsebuje naslednjo končno določbo:
+"11. člen
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
