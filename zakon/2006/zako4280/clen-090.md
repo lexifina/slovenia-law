@@ -1,7 +1,7 @@
 # 90. člen (uradne evidence organa, pristojnega za zdravila)
 (1) Organ, pristojen za zdravila, vodi uradne evidence:
-1. podatkov o zdravilih iz dovoljenja za promet z zdravilom glede na vrste in razvrstitve zdravil (ime, farmacevtska oblika, jakost, pakiranje, imetnik dovoljenja za promet, proizvajalec, veljavna cena);
-2. podatkov o zdravilih iz dovoljenja za promet s paralelno uvoženim zdravilom (ime, farmacevtska oblika, jakost, pakiranje, imetnik dovoljenja za promet s paralelno uvoženim zdravilom, proizvajalec, veljavna cena);
+1. podatkov o zdravilih iz dovoljenja za promet z zdravilom glede na vrste in razvrstitve zdravil (ime, farmacevtska oblika, jakost, pakiranje, imetnik dovoljenja za promet, proizvajalec, najvišja dovoljena cena in izredna višja dovoljen cena);
+2. podatkov o zdravilih iz dovoljenja za promet s paralelno uvoženim zdravilom (ime, farmacevtska oblika, jakost, pakiranje, imetnik dovoljenja za promet s paralelno uvoženim zdravilom, proizvajalec, najvišja dovoljena cena in izredna višja dovoljena cena);
 3. podatkov o zdravilih iz dovoljenja za vnos ali uvoz (ime, farmacevtska oblika, jakost, pakiranje, imetnik dovoljenja za uvoz oziroma vnos, proizvajalec);
 4. imetnikov dovoljenja za promet z zdravilom (ime in pravno organizacijska oblika, sedež, ime in priimek odgovorne osebe za farmakovigilanco);
 5. imetnikov dovoljenja za dejavnost izdelave zdravil (ime in sedež, pravno organizacijska oblika, ime in priimek usposobljene osebe, ki je odgovorna za sproščanje posamezne serije zdravila);

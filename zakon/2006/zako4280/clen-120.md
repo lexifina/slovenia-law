@@ -1,8 +1,0 @@
-## XV. PREHODNE IN KONČNE DOLOČBE
-# 120. člen (rok ustanovitve Javne agencije)
-(1) Vlada Republike Slovenije ustanovi Javno agencijo za zdravila in medicinske pripomočke iz tretjega odstavka 2. člena tega zakona v roku enega leta po uveljavitvi tega zakona.
-(2) Do ustanovitve Javne agencije za zdravila in medicinske pripomočke opravlja naloge organa, pristojnega za zdravila, pristojni organ v sestavi ministrstva, pristojnega za zdravje.
-(3) Do ustanovitve Javne agencije za zdravila in medicinske pripomočke opravlja naloge uradnega kontrolnega laboratorija Zavod za farmacijo in preizkušanje zdravil - Ljubljana.
-(4) Kadri, prostori in sredstva za začetek delovanja Javne agencije za zdravila in medicinske pripomočke se zagotovijo z združitvijo virov Agencije Republike Slovenije za zdravila in medicinske pripomočke kot organa v sestavi ministrstva, pristojnega za zdravje, in Zavoda za farmacijo in preskušanje zdravil - Ljubljana. Sredstva za začetek dela Javne agencije se zagotovijo iz proračuna Republike Slovenije.
-(5) Javna agencija za zdravila in medicinske pripomočke prevzame vse zaposlene, ki na dan začetka njenega delovanja opravljajo delo v Agenciji Republike Slovenije za zdravila in medicinske pripomočke kot organu v sestavi Ministrstva za zdravje in Zavodu za farmacijo in za preskušanje zdravil - Ljubljana, skupaj s pripadajočo opremo in sredstvi, nedokončanimi zadevami, arhivi in evidencami.
-(6) Farmacevtski inšpektorji, ki delujejo v okviru Agencije Republike Slovenije za zdravila in medicinske pripomočke kot organa v sestavi ministrstva, pristojnega za zdravje, z dnem začetka delovanja Javne agencije za zdravila in medicinske pripomočke začnejo z opravljanjem nalog farmacevtskih nadzornikov v skladu s tem zakonom.

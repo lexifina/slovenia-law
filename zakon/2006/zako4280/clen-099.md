@@ -1,2 +1,7 @@
 # 99. člen (obveznost uporabe veljavne cene)
-Udeleženci oziroma udeleženke (v nadaljnjem besedilu: udeleženci) v prometu z zdravilom, katerega cena je oblikovana oziroma določena na podlagi podzakonskega predpisa iz 97. člena tega zakona, morajo v prometu z zdravilom uporabljati veljavno ceno oziroma ceno zdravila, določeno s tem predpisom.
+(1) Udeleženci oziroma udeleženke (v nadaljnjem besedilu: udeleženci) v prometu z zdravilom uporabljajo veljavno ceno zdravila.
+(2) Veljavna cena zdravila za uporabo v humani medicini po tem zakonu je lahko:
+- najvišja dovoljena cena zdravila;
+- cena zdravila, oblikovana na podlagi prvega odstavka 97.a člena tega zakona, ki ni višja od najvišje dovoljene cene zdravila;
+- izredna višja dovoljena cena zdravila.
+(3) Evidence o cenah in začetku veljavnosti cen iz druge alineje prejšnjega odstavka vodi zavod.

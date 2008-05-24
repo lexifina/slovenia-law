@@ -1,2 +1,0 @@
-# 123. člen (dograjevanje dokumentacije)
-Najkasneje do 31. decembra 2007 morajo imetniki dovoljenj za promet z zdravili, ki so jih pridobili pred uveljavitvijo Zakona o zdravilih in medicinskih pripomočkih (Uradni list RS, št. 101/99, 70/00, 7/02, 13/02 - ZKrmi, 67/02 in 47/04 - ZdZPZ) in na njegovi podlagi izdanih predpisov, predložiti podatke in dokumentacijo iz 23. in 25. člena tega zakona, če v dosedanjih postopkih v zvezi z dovoljenjem za promet z zdravilom še niso bili predloženi.
