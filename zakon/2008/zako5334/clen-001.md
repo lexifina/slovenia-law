@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o notariatu (Uradni list RS, št. 2/07 - uradno prečiščeno besedilo in 33/07 - ZSReg-B) se v 12. členu tretji odstavek spremeni tako, da se glasi:
+"Notarske zapise pravnih poslov o ustanovitvi hipoteke in zemljiškega dolga na nepremičninah, sestavi notar, ki ima sedež notarske pisarne na območju okrajnega sodišča, kjer nepremičnina leži. Če je predmet obremenitve s hipoteko ali zemljiškim dolgom več nepremičnin, je pristojen notar s sedežem pisarne na območju tistega okrajnega sodišča, kjer leži glavna nepremičnina. Pogoj iz tega odstavka izpolnjuje tudi notar, ki mu je v skladu z drugim odstavkom 20. člena tega zakona dovoljeno opravljanje poslovanja zunaj sedeža notarske pisarne.".
