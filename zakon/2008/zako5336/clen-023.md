@@ -1,0 +1,9 @@
+# 23. člen (pripravljalna opravila sodišča)
+(1) Sodišče v postopku za vzpostavitev etažne lastnine po tem zakonu po uradni dolžnosti:
+1. ugotovi identifikacijski znak stavbe, ki je predmet predloga,
+2. ugotovi pripadajoče zemljišče k stavbi, ki je predmet predloga,
+3. pri pristojnem upravnem organu zahteva izvedbo postopka za vpis stavbe in posameznih delov v kataster stavb, če stavba in njeni posamezni deli v katastru stavb še niso vpisani,
+4. pri pristojnem upravnem organu zahteva parcelacijo zemljiške parcele, če je to potrebno za ugotovitev pripadajočega zemljišča k stavbi, ki je predmet predloga.
+(2) Če sodišče oceni, da je za opravila iz prejšnjega odstavka potrebno povabiti izvedenca ali izvedenko ustrezne stroke, stori to po uradni dolžnosti.
+(3) Stroške za izvedbo vpisa stavbe in posameznih delov v kataster stavb in parcelacijo zemljiške parcele ter stroške za izvedence iz prejšnjega odstavka nosijo predlagatelj in drugi pridobitelji posameznih delov stavbe, ki so prijavili svojo udeležbo v postopku, po enakih delih. Če zavezanec ali zavezanka (v nadaljnjem besedilu: zavezanec) ne založi stroškov, se šteje, da je umaknil predlog oziroma prijavo udeležbe v postopku, o čemer ga mora sodišče obvestiti v pozivu za plačilo stroškov.
+(4) Kadar je za stavbo po določbah stvarnopravnega zakonika obvezen rezervni sklad, stroške iz prejšnjega odstavka plača upravnik ali upravnica (v nadaljnjem besedilu: upravnik) oziroma skupnost lastnikov iz sredstev rezervnega sklada, pri čemer se takšni stroški štejejo za stroške rednega upravljanja stavbe. Če upravnik oziroma skupnost lastnikov na poziv sodišča ne plača stroškov, sodišče poziv za plačilo posreduje zavezancem iz prejšnjega odstavka, pri čemer se v takem primeru uporablja prejšnji odstavek. Zavezanci iz prejšnjega odstavka lahko plačane stroške uveljavljajo v breme rezervnega sklada.

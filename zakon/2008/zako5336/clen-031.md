@@ -1,0 +1,2 @@
+# 31. člen (dokončanje postopkov za vzpostavitev etažne lastnine na stavbi kot celoti)
+Vzpostavitev etažne lastnine se dokonča po postopku za vzpostavitev etažne lastnine po tem zakonu tudi v primerih, ko se je etažna lastnina na posameznih delih že vpisala na podlagi Zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavb v zemljiško knjigo (Uradni list RS, št. 89/99, 97/01, 32/02 - odločba US, 15/03 in 58/03 - ZZK-1), če etažna lastnina ni bila vzpostavljena na stavbi kot celoti.

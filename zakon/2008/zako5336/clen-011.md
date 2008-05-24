@@ -1,0 +1,2 @@
+# 11. člen (ohranitev solastninske skupnosti po vzpostavitvi etažne lastnine)
+Če je nepremičnina po podatkih zemljiške knjige v solastnini, se ob vzpostavitvi etažne lastnine na stavbi na posameznih delih, ki po sklepu sodišča o vzpostavitvi etažne lastnine ne pripadejo posameznim pridobiteljem etažne lastnine, ohrani solastninska pravica v korist oseb, ki so bile vpisane v zemljiško knjigo kot solastniki celotne nepremičnine, razen če se zemljiškoknjižni lastniki do izdaje sklepa o vzpostavitvi etažne lastnine sporazumejo drugače.
