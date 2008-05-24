@@ -1,0 +1,5 @@
+# 3. člen
+(1) Ponudnika dnevnega toplega obroka (v nadaljnjem besedilu: ponudnik) izbere srednja šola v skladu z določili zakona, ki ureja javno naročanje. Pri izbiri ponudnika se upoštevajo merila, ki jih predpiše minister, pristojen za šolstvo, v sodelovanju z ministrom, pristojnim za zdravje.
+(2) Ne glede na prejšnji odstavek srednja šola, ki ima ustrezen prostor in pogoje za pripravo dnevnega toplega obroka, lahko sama zagotovi pripravo toplega obroka za svoje dijake. Javna srednja šola in javni dijaški dom, ki ima ustrezen prostor in pogoje za pripravo dnevnega toplega obroka, lahko na podlagi sklepa ustanovitelja, pripravlja tople obroke tudi za druge javne srednje šole.
+(3) Srednja šola mora vsem upravičencem zagotoviti dnevni topli obrok v vrednosti iz 5. člena tega zakona in sicer med poukom v ustreznem prostoru stavbe v kateri deluje in v dovolj dolgem odmoru. Srednja šola lahko zagotovi topli obrok tudi v vrednosti, ki presega vrednost iz 5. člena, in sicer na podlagi povpraševanja dijakov.
+II. NAČIN SUBVENCIONIRANJA DIJAŠKE PREHRANE
