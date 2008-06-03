@@ -1,0 +1,2 @@
+# 10. člen
+V drugem odstavku 22. člena se doda nov drugi stavek, ki se glasi: "Če je odvetnik napoten ali udeležen v mednarodni misiji zaradi opravljanja nalog na gospodarskem, obrambnem, kulturnem, znanstvenem, informativnem in drugih področjih v okviru pristojnosti take misije in to ni nezdružljivo z ugledom odvetniškega poklica ali ko dela za mednarodno organizacijo, katere članica je Republika Slovenija, mu med opravljanjem teh nalog opravljanje odvetniškega poklica miruje.".

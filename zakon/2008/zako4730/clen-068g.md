@@ -1,0 +1,4 @@
+# 68.g člen
+Zoper odločitev disciplinske komisije II. stopnje, s katero je odvetniku, odvetniškemu kandidatu ali odvetniškemu pripravniku izrečen disciplinski ukrep odvzema pravice opravljati odvetniški poklic, delo ali prakso v odvetniški pisarni, ki se izreka zaradi storjenih hujših disciplinskih kršitev, je dovoljena pritožba v 30 dneh od prejema odločbe.
+Pritožbo lahko vložijo odvetnik, odvetniški kandidat ali odvetniški pripravnik, ki je v disciplinskem postopku in disciplinski tožilec. Pritožbo lahko vložijo tudi predsednik sodišča, minister, pristojen za pravosodje ali Varuh človekovih pravic s soglasjem tistega, katerega človekove pravice ali temeljne svoboščine v posamični zadevi varuje v razmerju do državnih organov, organov lokalne samouprave in nosilcev javnih pooblastil, če so v posameznem primeru zahtevali uvedbo disciplinskega postopka.
+O pritožbi najpozneje v 60 dneh od prejema odloča disciplinsko sodišče na seji brez obravnave.".

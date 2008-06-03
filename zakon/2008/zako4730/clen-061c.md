@@ -1,0 +1,4 @@
+# 61.c člen
+Odvzem pravice opravljati odvetniški poklic oziroma delo v odvetniški pisarni se odvetniku ali odvetniškemu kandidatu lahko izreče za hujšo disciplinsko kršitev, zaradi katere odvetnik ali odvetniški kandidat ni vreden zaupanja za opravljanje odvetniškega poklica ali dela v odvetniški pisarni, in iz katere se da utemeljeno sklepati, da ne bo pošteno in vestno opravljal odvetniškega poklica ali dela v odvetniški pisarni. Disciplinski ukrep se lahko izreče v trajanju od enega do petih let.
+61.č člen
+Odvzem pravice opravljati prakso v odvetniški pisarni se odvetniškemu pripravniku lahko izreče za hujšo disciplinsko kršitev zaradi katere odvetniški pripravnik ni vreden zaupanja za opravljanje prakse v odvetniški pisarni, in iz katere se da utemeljeno sklepati, da ne bo pošteno in vestno opravljal odvetniške prakse v odvetniški pisarni. Disciplinski ukrep se lahko izreče v trajanju od enega do treh let.".

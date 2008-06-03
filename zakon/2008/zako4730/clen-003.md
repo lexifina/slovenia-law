@@ -1,0 +1,8 @@
+# 3. člen
+5. člen se spremeni tako, da se glasi:
+"5. člen
+Odvetnik prosto odloča, ali bo prevzel zastopanje stranke, ki se je nanj obrnila.
+Odvetnik prosto odloča, ali se bo uvrstil na seznam odvetnikov ali odvetniških družb, ki zastopajo stranke po uradni dolžnosti ali izvajajo storitve brezplačne pravne pomoči (v nadaljnjem besedilu: seznam odvetnikov). Če se odvetnik odloči, da se bo uvrstil na seznam odvetnikov iz prejšnjega stavka, ne sme odkloniti zastopanja stranke, če ga kot zagovornika ali pooblaščenca stranke v skladu z zakonom postavi sodišče iz seznama odvetnikov. V tem primeru lahko odvetnik odkloni zastopanje le, če obstajajo razlogi, zaradi katerih je dolžan odkloniti zastopanje, ali iz drugih upravičenih razlogov.
+Seznam odvetnikov vodi Odvetniška zbornica Slovenije, ki je dolžna posredovati seznam odvetnikov vsem sodiščem in jim sporočiti vsako spremembo.
+Odvetnik mora odkloniti zastopanje, če je v isti stvari zastopal nasprotno stranko, če je nasprotno stranko zastopal odvetnik, ki dela v isti odvetniški pisarni ali je kot zaposleni odvetnik, odvetniški kandidat ali odvetniški pripravnik delal pri odvetniku, ki je zastopal nasprotno stranko, če je v isti stvari delal kot sodnik, državni tožilec, policist ali kot uradna oseba v upravnem postopku in v drugih primerih, določenih z zakonom.
+Odvetnik lahko Odvetniški zbornici Slovenije ob vsakem času predlaga izbris iz seznama odvetnikov iz drugega odstavka tega člena. Po vložitvi predloga za izbris je odvetnik dolžan še 30 dni opravljati dejanja za stranko, če je treba odvrniti kakšno škodo, ki bi lahko nastala za stranko v tem času.".
