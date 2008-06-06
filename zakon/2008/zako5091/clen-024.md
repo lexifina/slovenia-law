@@ -1,0 +1,2 @@
+# 24. člen
+Nov četrti in peti odstavek 14. člena ter tretji odstavek 15. člena zakona se začnejo uporabljati po zagotovitvi tehničnih in tehnoloških možnosti za objavo podatkov na enotnem državnem portalu e-uprava, vendar najpozneje 1. oktobra 2009. Do tedaj se še naprej uporabljata četrti in peti odstavek 14. člena Zakona o osebni izkaznici (Uradni list RS, št. 100/05 - uradno prečiščeno besedilo).
