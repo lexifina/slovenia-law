@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o tujcih (Uradni list RS, št. 107/06 - uradno prečiščeno besedilo in 111/07 - ZPPreb-B) se v 2. členu dodata novi osemnajsta in devetnajsta alinea, ki se glasita:
+"- Garant je pravna oseba ali samostojni podjetnik posameznik s sedežem v Republiki Sloveniji ali fizična oseba s prijavljenim stalnim ali začasnim prebivališčem v Republiki Sloveniji, ki med bivanjem tujca v Republiki Sloveniji z garantnim pismom jamči za kritje vseh stroškov, nastalih v zvezi z bivanjem in nastanitvijo tujca v Republiki Sloveniji in vrnitvijo tujca v matično državo.
+- Garantno pismo je dokument, s katerim državljan tretje države v postopku izdaje vizuma dokazuje namen bivanja v Republiki Sloveniji, nastanitev in zadostna sredstva za preživljanje med bivanjem v Republiki Sloveniji in za vrnitev v matično državo.".

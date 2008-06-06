@@ -1,0 +1,3 @@
+# 7. člen
+V prvem odstavku 36. člena se doda nov drugi stavek, ki se glasi: "V enoletni rok veljavnega dovoljenja za začasno prebivanje se všteje tudi čas prebivanja tujca v Republiki Sloveniji na podlagi potrdila o vloženi prošnji za podaljšanje ali izdajo nadaljnjega dovoljenja za začasno prebivanje, ki po tem zakonu velja kot dovoljenje za začasno prebivanje.".
+V sedmem odstavku se na koncu doda besedilo, ki se glasi: "Mladoletnim neporočenim otrokom tujca ali njegovega zakonca in staršem mladoletnega tujca se dovoljenje za začasno prebivanje zaradi združitve družine ne more izdati ali podaljšati za daljši čas od otrokove polnoletnosti.".
