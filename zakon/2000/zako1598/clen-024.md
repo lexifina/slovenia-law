@@ -3,5 +3,3 @@ Pogrešitev, izgubo ali tatvino (v nadaljnjem besedilu: pogrešitev) potne listi
 Pogrešitev potne listine v tujini mora imetnik takoj, če to ni mogoče, pa najkasneje v osmih dneh po prihodu v Republiko Slovenijo, naznaniti pristojnemu organu na način, določen v prejšnjem odstavku.
 V naznanitvi pogrešitve je potrebno navesti resnične podatke o okoliščinah pogrešitve potne listine.
 Za prijavo pogrešitve potne listine se smiselno uporabljajo določbe 22. člena tega zakona.
-V primerih iz prvega in drugega odstavka tega člena pristojni organ, na podlagi naznanitve pogrešitve, na stroške državljana prekliče potno listino v Uradnem listu Republike Slovenije.
-Pristojni organ, na vlogo državljana, izda novo potno listino po objavi preklica potne listine v Uradnem listu Republike Slovenije.
