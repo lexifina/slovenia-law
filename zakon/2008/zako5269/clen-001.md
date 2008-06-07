@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o davku od dohodkov pravnih oseb (Uradni list RS, št. 117/06) se v prvem odstavku 19. člena pika nadomesti z vejico in doda besedilo "razen, če zavezanec dokaže, da bi v enakih ali primerljivih okoliščinah dal posojilo po obrestni meri, ki je nižja od priznane obrestne mere po tem odstavku, tudi posojilojemalcu - nepovezani osebi.".
+V drugem odstavku se pika nadomesti z vejico in doda besedilo "razen, če zavezanec dokaže, da bi v enakih ali primerljivih okoliščinah dobil posojilo po obrestni meri, ki je višja od priznane obrestne mere po tem odstavku, tudi od posojilodajalca - nepovezane osebe.".
