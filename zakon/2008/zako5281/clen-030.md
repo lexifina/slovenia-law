@@ -1,0 +1,3 @@
+## VIII. KONČNA DOLOČBA
+# 30. člen (začetek veljavnosti)
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
