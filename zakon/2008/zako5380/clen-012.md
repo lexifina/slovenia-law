@@ -1,0 +1,13 @@
+# 12. člen
+Prvi odstavek 19. člena se spremeni tako, da se glasi:
+"(1) Ob zaposlitvi, premestitvi na drugo delovno mesto oziroma imenovanju v naziv ali višji naziv se javni uslužbenec uvrsti v plačni razred, v katerega je uvrščeno delovno mesto, za katerega je javni uslužbenec sklenil delovno razmerje, oziroma na katerega je bil premeščen, oziroma v plačni razred, v katerega je uvrščen naziv, v katerega je imenovan. Če bi bil javni uslužbenec zaradi premestitve na delovno mesto oziroma v naziv v višjem tarifnem razredu uvrščen v nižji ali isti plačni razred kot ga je dosegel z napredovanjem na delovnem mestu oziroma v nazivu pred to premestitvijo, se mu plačni razred na novem delovnem mestu oziroma v nazivu določi tako, da se že doseženi plačni razred na delovnem mestu oziroma v nazivu pred premestitvijo oziroma imenovanjem poveča za en plačni razred. Ne glede na določbo prejšnjega stavka javnega uslužbenca ni možno uvrstiti v višji plačni razred kot znaša najvišji plačni razred delovnega mesta oziroma naziva, na oziroma v katerega je javni uslužbenec premeščen oziroma imenovan, ki ga je možno doseči z napredovanjem.".
+Dodajo se novi drugi, tretji in četrti odstavek, ki se glasijo:
+"(2) Če obstajajo za to utemeljeni razlogi, se lahko javnega uslužbenca ob zaposlitvi, na podlagi soglasja, premestitvi na drugo delovno mesto oziroma imenovanju v naziv ali višji naziv, uvrsti v plačni razred, ki je za največ pet plačnih razredov višji od plačnega razreda delovnega mesta oziroma naziva, vendar ne v višji plačni razred kot ga je možno doseči z napredovanjem. Soglasje za uvrstitev podajo:
+- za javnega uslužbenca, zaposlenega v organih državne uprave, Vlada,
+- za javnega uslužbenca, zaposlenega pri posrednih uporabnikih proračuna, katerih ustanovitelj in financer je država, pristojni minister,
+- za javnega uslužbenca, zaposlenega pri posrednih uporabnikih proračuna, katerih ustanovitelj in financer je lokalna skupnost, župan,
+- za javnega uslužbenca, zaposlenega pri posrednih uporabnikih proračuna, pri katerih je ustanovitelj lokalna skupnost, financer pa država, župan v soglasju s pristojnim ministrom,
+- za javnega uslužbenca, zaposlenega v upravi pravosodnih organov, predsednik Vrhovnega sodišča, generalni državni tožilec oziroma generalni državni pravobranilec,
+- za javne uslužbence, zaposlene v javnem zavodu RTV Slovenija, Programski svet javnega zavoda.
+(3) Za javnega uslužbenca, zaposlenega v drugih državnih organih, soglasje ni potrebno.
+(4) Pogoje za napredovanje v višji naziv določajo predpisi, ki urejajo napredovanje v višji naziv za posamezne plačne skupine.".
