@@ -1,0 +1,7 @@
+# 1. člen
+V Zakonu o vodah (Uradni list RS, št. 67/02, 110/02 - ZGO-1, 2/04 - ZZdrl-A in 41/04 - ZVO-1) se v 1. členu za tretjim odstavkom doda nov četrti odstavek, ki se glasi:
+"(4) S tem zakonom se v pravni red Republike Slovenije prenašajo:
+1. Direktiva Sveta z dne 8. decembra 1975 o kakovosti kopalnih voda (76/160/EGS) (UL L št. 31 z dne 5. 2. 1976, str. 1), zadnjič spremenjena z Direktivo Evropskega parlamenta in Sveta 2006/7/ES z dne 15. februarja 2006 o upravljanju kakovosti kopalnih voda in razveljavitvi Direktive 76/160/EGS (UL L št. 64 z dne 4. 3. 2006, str. 37),
+2. Direktiva Evropskega parlamenta in Sveta 2000/60/ES z dne 23. oktobra 2000 o določitvi okvira za ukrepe Skupnosti na področju vodne politike (UL L št. 327 z dne 22. 12. 2000, str. 1), zadnjič spremenjena z Odločbo št. 2455/2001/ES Evropskega parlamenta in Sveta z dne 20. novembra 2001 o določitvi seznama prednostnih snovi na področju vodne politike in o spremembi Direktive 2000/60/ES (UL L št. 331 z dne 15. 12. 2001, str. 1) (v nadaljnjem besedilu: Direktiva 2000/60/ES),
+3. Direktiva Evropskega parlamenta in Sveta 2006/7/ES z dne 15. februarja 2006 o upravljanju kakovosti kopalnih voda in razveljavitvi Direktive 76/160/EGS (UL L št. 64 z dne 4. 3. 2006, str. 37) in
+4. Direktiva 2007/60/ES Evropskega parlamenta in Sveta z dne 23. oktobra 2007 o oceni in obvladovanju poplavne ogroženosti (UL L št. 288 z dne 6. 11. 2007, str. 27).".

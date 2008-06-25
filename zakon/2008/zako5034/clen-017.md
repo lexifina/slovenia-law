@@ -1,0 +1,7 @@
+# 17. člen
+V 50. členu se v tretjem odstavku za piko na koncu stavka doda besedilo "Imetnik vodne pravice pripravi predlog programa odvzemanja in uporabe oziroma razpolaganja z naplavinami, ki ga potrdi ministrstvo. Odstranjevanje plavja in odvzemanje naplavin je treba prednostno in redno zagotoviti na prodnih zadrževalnikih.".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Imetnik vodne pravice, razen imetnika vodne pravice za odvzem naplavin, mora za izvajanje javnih služb po tem zakonu dopustiti njihovemu izvajalcu prednostno in brezplačno uporabo naplavin proti plačilu stroškov odvzema naplavin.".
+Šesti odstavek se spremeni tako, da se glasi:
+"(6) Imetnik vodne pravice, razen imetnika vodne pravice za odvzem naplavin, mora del naplavin, ki jih odvzame na podlagi potrjenega programa iz tretjega odstavka tega člena, odstopiti izvajalcu lokalne javne ali državne javne službe za namen izvajanja njegove javne službe proti plačilu stroškov odvzema naplavin. Preostale naplavine lahko imetnik vodne pravice, razen imetnika vodne pravice za odvzem naplavin, uporabi za lastne potrebe, jih proda ali v skladu s predpisi in na lastne stroške poskrbi za njihovo odložitev. Za prodane naplavine mora imetnik vodne pravice, razen imetnika vodne pravice za odvzem naplavin, plačati vodno povračilo in plačilo za vodno pravico v višini in na način, ki velja za plačilo za vodno pravico za odvzem naplavin.".
+V sedmem odstavku se za besedo "naprave" doda besedilo ", razen za vodni objekt ali napravo za odvzem vode za lastno oskrbo s pitno vodo".

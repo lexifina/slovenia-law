@@ -1,0 +1,5 @@
+# 88. člen (sprememba koncesije v vodno dovoljenje)
+(1) Pravni ali fizični osebi, ki je pridobila koncesijo za vzrejo vodnih organizmov za trg, za katere je treba v skladu s spremenjeno 8. točko prvega odstavka 125. člena zakona pridobiti vodno dovoljenje, ministrstvo koncesijo nadomesti z vodnim dovoljenjem v skladu z določbami 127. in 128. člena zakona najkasneje v treh letih od uveljavitve tega zakona.
+(2) Z vodnim dovoljenjem iz prejšnjega odstavka se določi izvajanje vodne pravice za čas, v obsegu in pod pogoji, določenimi v koncesijskem aktu in koncesijski pogodbi.
+(3) Ne glede na določbo prejšnjega odstavka lahko ministrstvo z vodnim dovoljenjem iz prvega odstavka tega člena spremeni čas, obseg in pogoje izvajanja vodne pravice, če je to potrebno zaradi prilagoditve določbam tega zakona.
+(4) Če bi zaradi prilagoditve določbam tega zakona osebi iz prvega odstavka tega člena nastali nesorazmerni stroški, ministrstvo z vodnim dovoljenjem zniža plačilo za vodno pravico ali določi rok za prilagoditev določbam tega zakona.

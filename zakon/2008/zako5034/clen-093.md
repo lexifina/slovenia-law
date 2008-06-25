@@ -1,0 +1,3 @@
+# 93. člen (začeti postopki)
+(1) Postopki za pridobitev koncesije za vzrejo vodnih organizmov za trg, za katere je treba pridobiti vodno dovoljenje v skladu s spremenjeno 8. točko prvega odstavka 125. člena zakona, začeti pred uveljavitvijo tega zakona, se končajo po postopku, določenem s tem zakonom.
+(2) Postopki za pridobitev vodnega dovoljenja za proizvodnjo električne energije v hidroelektrarni, ki ni neposredno priključena na javno električno omrežje, za katere je treba v skladu s spremenjeno 3. točko prvega odstavka 136. člena pridobiti koncesijo, začeti pred uveljavitvijo tega zakona, se končajo po postopku za podelitev koncesije, določenem s tem zakonom.
