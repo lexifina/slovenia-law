@@ -1,0 +1,2 @@
+# 4. člen
+V 442. členu se v tretjem odstavku doda nov stavek, ki se glasi: "Enako ravna centralna klirinško depotna družba tudi v primeru, če izdajatelj ob posredovanju naloga za izdajo nematerializiranih vrednostnih papirjev iz prvega odstavka tega člena temu nalogu ne priloži odločbe agencije o potrditvi prospekta za ponudbo vrednostnih papirjev javnosti, kadar je takšna odločba predpisana v tem zakonu.".
