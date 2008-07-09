@@ -1,0 +1,2 @@
+# 6. člen
+Če na dan uveljavitve tega zakona oseba sama ali skupaj z osebami, ki delujejo usklajeno, dosega ali presega prevzemni prag v ciljni družbi iz drugega odstavka 4. člena zakona in ne dosega ali presega končnega prevzemnega praga, mora dati prevzemno ponudbo, če namerava po uveljavitvi tega zakona pridobiti vrednostne papirje, ki se upoštevajo pri določanju deleža glasovalnih pravic po 6. členu zakona, in če se s tem poveča njen delež glasovalnih pravic.

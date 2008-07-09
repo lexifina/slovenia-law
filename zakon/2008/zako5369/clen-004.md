@@ -1,0 +1,5 @@
+# 4. člen
+V drugem odstavku 28. člena se na koncu 11. točke črta beseda "in", na koncu 12. točke se pika nadomesti z vejico, za vejico se doda beseda "in" ter se doda nova 13. točka, ki se glasi:
+"13. če je ciljna družba družba iz drugega odstavka 4. člena tega zakona, mora prevzemnik v prospektu objaviti:
+- pisno poročilo revizorjev o primernosti cene v prevzemni ponudbi, ki ga sestavi en ali več revizorjev, ki jih na predlog prevzemnika imenuje sodišče. Za revizijo primernosti cene v prevzemni ponudbi se smiselno uporabljajo določbe 583. člena Zakona o gospodarskih družbah (Uradni list RS, št. 42/06, 60/06 - popravek, 26/07 - ZSDU-B, 33/07 - ZSReg-B, 67/07 - ZTFI in 10/08; v nadaljnjem besedilu ZGD-1). Revizorjem v poročilih ni treba razkriti informacij zaradi razlogov iz prve in tretje alineje drugega odstavka 305. člena ZGD-1; in
+- pisno poročilo, v katerem prevzemnik pojasni primernost cene v prevzemni ponudbi in morebitne razloge za ceno, če ta v pisnem poročilu revizorjev ni bila spoznana za primerno.".
