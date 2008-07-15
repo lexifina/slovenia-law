@@ -1,0 +1,3 @@
+# 14. člen
+Peti odstavek 65. člena se spremeni tako, da se glasi:
+"(5) Zoper sklep komisije za pritožbe je dovoljen upravni spor. V primeru, da upravno sodišče ugotovi, da je tožba utemeljena iz razloga iz 1. točke prvega odstavka tega člena, lahko prisodi prizadetemu odškodnino v višini najmanj ene in največ treh najnižjih mesečnih bruto plač za delovno mesto, za katero se je potegoval. V primeru iz 1. točke prvega odstavka tega člena lahko upravno sodišče sklep o izbiri razveljavi ter pristojni komisiji za pritožbe naloži razveljavitev akta o imenovanju in pogodbe o zaposlitvi, organu pa po razveljavitvi obeh aktov naloži ponovitev izbirnega postopka. Odškodnino sodišče odmeri glede na težo kršitve in glede na posledice, ki jih je utrpel tožnik.".
