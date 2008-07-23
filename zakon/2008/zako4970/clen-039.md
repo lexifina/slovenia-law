@@ -1,0 +1,2 @@
+# 39. člen (nadzor nad izvajanjem obveznosti izvajalcev cestninjenja)
+Nadzor nad upravljavcem cestninskih cest, operaterjem elektronskega cestninskega sistema, zavezanim ponudnikom cestninjenja in ponudniki evropskega elektronskega cestninjenja glede izvrševanja določb tega zakona in na njegovi podlagi izdanih predpisov ter splošnih aktov za izvrševanje javnih pooblastil izvaja Prometni inšpektorat Republike Slovenije.

@@ -1,0 +1,2 @@
+# 4. člen (izbirne cestninske ceste)
+Vlada lahko z uredbo iz prejšnjega člena tega zakona določi kot cestninsko cesto tudi državno cesto, ki ne izpolnjuje pogojev iz prejšnjega člena, če gre za cesto, ki je projektirana za daljinski promet in gre za cesto, na katero je lahko preusmerjen promet iz cestninskih cest iz prejšnjega člena ali je v neposredni konkurenci s cestninsko cesto iz prejšnjega člena.
