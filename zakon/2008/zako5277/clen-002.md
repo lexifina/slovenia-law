@@ -1,0 +1,2 @@
+# 2. člen
+V tretjem odstavku 54. člena se doda nov drugi stavek, ki se glasi: "Vse družbe morajo pri vodenju poslovnih knjig upoštevati kontni okvir za glavno knjigo, ki ga sprejme Slovenski inštitut za revizijo v soglasju z ministroma, pristojnima za gospodarstvo in finance. Po prejemu soglasja mora Slovenski inštitut za revizijo kontni okvir objaviti v Uradnem listu Republike Slovenije. Kontni okvir določi razrede kontov od 0 do 9 in skupine kontov od 00 do 99.".

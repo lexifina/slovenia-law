@@ -1,0 +1,14 @@
+# 32. člen
+Doda se nov 356.a člen, ki se glasi:
+"356.a člen
+(izdaja delnic za stvarne vložke brez revizije)
+(1) Za izdajo delnic za stvarne vložke, ki je revizorju ni treba pregledati, se smiselno uporabljajo določbe prvega do četrtega odstavka in prvega do tretjega stavka petega odstavka 194.a člena tega zakona. Pri tem se:
+1. namesto izraza "ustanovitveni revizor" ali "ustanovitveni revizorji" uporablja izraz "revizor" ali "revizorji",
+2. namesto izraza "ustanovitev" uporablja izraz "izdaja delnic za stvarne vložke",
+3. namesto izraza "statut" uporablja izraz "sklep o izdaji delnic",
+4. namesto izraza "ustanovitvena revizija" uporablja izraz "revizija",
+5. pri smiselni uporabi določb četrtega odstavka 194.a člena tega zakona upošteva četrti odstavek tega člena.
+(2) V primeru iz drugega odstavka 353. člena tega zakona mora biti v dnevnem redu zasedanja skupščine navedeno, da revizorju ni treba pregledati izdaje delnic za stvarne vložke. Organi vodenja in nadzora morajo v objavi dnevnega reda navesti predloge za sprejemanje sklepov.
+(3) Pooblastilo mora določiti, da revizorju ni treba pregledati izdaje delnic.
+(4) Člani organov vodenja ali nadzora morajo najmanj pet delovnih dni pred dnem izročitve predmeta stvarnega vložka predložiti registrskemu organu ter v Uradnem listu Republike Slovenije in glasilu ali elektronskem mediju družbe, če ga družba ima, objaviti obvestilo, ki vsebuje datum sklepa o izdaji delnic in podatke iz prvega odstavka tega člena v zvezi s prvo do četrto alinejo četrtega odstavka 194.a člena tega zakona. Člani organov vodenja ali nadzora morajo v roku enega meseca od izročitve predmeta stvarnega vložka predložiti registrskemu organu in na način iz prejšnjega stavka objaviti izjavo, da od predložitve in objave obvestila iz prejšnjega stavka niso nastale nove okoliščine iz prvega odstavka tega člena v zvezi s prvim ali drugim stavkom petega odstavka 194.a člena tega zakona.
+(5) Če v primeru iz prvega odstavka tega člena v zvezi z drugo ali tretjo alinejo prvega odstavka 194.a člena tega zakona en ali več revizorjev ne pregleda izdaje delnic za stvarne vložke kljub nastanku novih okoliščin iz prvega odstavka tega člena v zvezi s prvim ali drugim stavkom petega odstavka 194.a člena tega zakona, imenuje sodišče na predlog delničarjev, katerih skupni deleži znašajo najmanj dvajsetino osnovnega kapitala na dan sprejema sklepa o izdaji delnic, revizorja, ki pregleda izdajo delnic za stvarne vložke. Predlog lahko delničarji vložijo do dneva izročitve predmeta stvarnega vložka. Delničarji morajo shraniti delnice pri klirinško depotni družbi, če še niso deponirane ali izdane v nematerializirani obliki in ne smejo z njimi razpolagati do vložitve predloga. Če revizor pregleda izdajo delnic za stvarne vložke, se izjava iz drugega stavka prejšnjega odstavka ne predloži registrskemu organu in ne objavi.".

@@ -1,0 +1,2 @@
+# 36. člen
+V četrtem odstavku 476. člena se doda nov drugi stavek, ki se glasi: "Cenitev stvarnih vložkov, ki jo opravi revizor, in izdelava revizorjevega poročila nista potrebni, če gre za stvarne vložke v obliki tržnih vrednostnih papirjev, že vrednotenih stvarnih vložkov ali stvarnih vložkov, ki se ocenijo po knjigovodskih vrednostih iz revidiranega letnega poročila ob smiselni uporabi določb tega zakona, ki se nanašajo na delniške družbe.".
