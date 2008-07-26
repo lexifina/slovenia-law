@@ -1,0 +1,4 @@
+# 110.h člen (čezmejna škoda)
+(1) Če okoljska škoda vpliva ali bi lahko vplivala na območje Republike Slovenije in druge države članice, mora ministrstvo sodelovati s pristojnim organom te države pri izmenjavi informacij in podatkov, potrebnih za preprečitev, omejitev ali sanacijo te škode.
+(2) Če okoljska škoda, katere izvor je v Republiki Sloveniji, prizadane območje druge države članice, mora ministrstvo poslati pristojnemu organu te države ustrezne informacije in podatke.
+(3) Če je nastala okoljska škoda v Republiki Sloveniji, njen izvor pa je v drugi državi članici, ministrstvo o nastali okoljski škodi obvesti pristojni organ te države in Komisijo EU ter predlaga sprejetje preprečevalnih oziroma sanacijskih ukrepov. Ministrstvo od povzročitelja okoljske škode zahteva tudi povrnitev stroškov, ki so nastali zaradi izvedbe preprečevalnih oziroma sanacijskih ukrepov v Republiki Sloveniji.

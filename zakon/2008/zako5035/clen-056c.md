@@ -1,0 +1,5 @@
+# 56.c člen (strokovna komisija)
+(1) V primeru iz drugega odstavka prejšnjega člena minister ustanovi strokovno komisijo, ki jo sestavlja pet članov. Sedež komisije je na ministrstvu, ki opravlja tudi vsa potrebna administrativno-tehnična dela za komisijo. Članom komisije pripada plačilo za delo in povračilo stroškov.
+(2) Člani komisije morajo biti strokovnjaki za presojo vplivov na okolje, kulturno dediščino ali zdravje ljudi, ki so predmet posameznega plana ali posega v okolje, v zvezi z katerim je bilo okoljsko poročilo ali poročilo o vplivih na okolje izdelano.
+(3) Člani komisije ne smejo biti poslovno ali na drug način povezani s pripravljavcem plana ali nosilcem posega ali z izdelovalcem okoljskega poročila ali poročila o vplivih na okolje, da bi zaradi te povezanosti lahko obstajal dvom o neodvisnosti in nepristranskosti njihovega dela. Član komisije ne more biti oseba, ki ima potrdilo o strokovni usposobljenosti iz tretjega odstavka 56.a člena tega zakona.
+(4) Minister podrobneje predpiše način delovanja komisije iz tretjega odstavka tega člena in višino plačila za delo ter nadomestila stroškov članov komisije.".

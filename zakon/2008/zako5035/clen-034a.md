@@ -1,0 +1,7 @@
+# 34.a člen (sodelovanje javnosti pri sprejemanju predpisov)
+(1) Ministrstvo, druga ministrstva in pristojni organ samoupravne lokalne skupnosti morajo v postopku sprejemanja predpisov, ki lahko pomembneje vplivajo na okolje, omogočiti javnosti seznanitev z osnutkom predpisa in dajanje mnenj in pripomb.
+(2) Za predpis, ki lahko pomembneje vpliva na okolje, se šteje predpis, izdan na področju varstva okolja, ohranjanja narave, in upravljanja, rabe ali varstva delov okolja, vključno z ravnanjem z gensko spremenjenimi organizmi, pa tudi drug predpis, za katerega je njegov pripravljavec v postopku sprejemanja ugotovil, da vpliva na okolje.
+(3) Organ iz prvega odstavka tega člena z javnim naznanilom v svetovnem spletu obvesti javnost o kraju, kjer je osnutek predpisa dostopen, načinu in času dajanja mnenj in pripomb.
+(4) Javnost ima pravico vpogleda in možnost dajanja mnenj in pripomb na osnutek predpisa v trajanju najmanj 30 dni.
+(5) Organ iz prvega odstavka tega člena preuči mnenja in pripombe javnosti in jih v primeru sprejemljivosti na primeren način upošteva pri pripravi predpisa, v svetovnem spletu pa objavi obrazloženo stališče, v katerem se opredeli do mnenja in pripomb javnosti, ter navede razloge za upoštevanje oziroma njihovo neupoštevanje pri pripravi predpisa.
+(6) Določbe prejšnjih odstavkov se ne uporabljajo za predpise, kjer je za njihov sprejem z drugimi zakoni že predpisano sodelovanje javnosti.".

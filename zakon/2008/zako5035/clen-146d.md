@@ -1,0 +1,4 @@
+# 146.d člen (javni poziv in javni razpis)
+(1) Sklad z javnim pozivom določi zlasti skupni obseg sredstev, pogoje za njihovo dodelitev, merila za določitev višine sredstev, upravičence in rok za vlaganje vlog. Razpisana sredstva se do svoje porabe dodeljujejo po vrstnem redu prispetja popolnih vlog.
+(2) Sklad z javnim razpisom določi zlasti skupni obseg sredstev, pogoje za njihovo dodelitev, merila za ocenjevanje in vrednotenje posameznih naložb oziroma ozaveščevalnih projektov ali programov, upravičence in rok za vlaganje vlog. Razpisana sredstva se dodelijo za tiste naložbe, projekte ali programe, ki so v izbirnem postopku višje ocenjeni oziroma ovrednoteni.
+(3) Pri odločanju o dodeljevanju sredstev sklada namenskega premoženja Sklada se uporablja zakon, ki ureja splošni upravni postopek, kolikor ta zakon ne določa drugače.

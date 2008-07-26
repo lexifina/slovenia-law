@@ -1,0 +1,9 @@
+# 16. člen
+42. člen se spremeni tako, da se glasi:
+"42. člen
+(mnenje ministrstev in drugih organizacij o okoljskem poročilu in sprejemljivosti vplivov izvedbe plana na okolje)
+(1) Pripravljavec posreduje plan in okoljsko poročilo ministrstvu.
+(2) Ministrstvo nemudoma pošlje dokumente iz prejšnjega odstavka ministrstvom in drugim organizacijam, ki so glede na vsebino plana pristojne za posamezne zadeve varstva okolja, varstvo ali rabo naravnih dobrin, krajine, varstvo zdravja ljudi ali varstvo kulturne krajine, in jih pozove, da v 21 dneh ministrstvu pošljejo pisno mnenje o sprejemljivosti vplivov izvedbe plana na okolje s stališča njihove pristojnosti, ali pisno sporočijo, da okoljsko poročilo ne omogoča presoje vplivov izvedbe plana na okolje in ga je zato treba dopolniti z dodatnimi ali podrobnejšimi informacijami, sicer se šteje, da je okoljsko poročilo ustrezno.
+(3) Ministrstvo po pridobitvi pisnih mnenj ali sporočil iz prejšnjega odstavka najkasneje v 30 dneh od prejema dokumentov iz prvega odstavka tega člena obvesti pripravljavca plana o tem, da je okoljsko poročilo ustrezno ali pa zahteva dopolnitev okoljskega poročila z dodatnimi ali s podrobnejšimi informacijami, sicer se šteje, da je okoljsko poročilo ustrezno.
+(4) Pripravljavec plana dopolnjeno okoljsko poročilo pošlje ministrstvu, ki ga posreduje ministrstvom in organizacijam iz drugega odstavka tega člena, ki so zahtevale dopolnitev okoljskega poročila, da v 21 dneh od prejema dopolnjenega okoljskega poročila pripravijo pisno mnenje o sprejemljivosti vplivov izvedbe plana na okolje.
+(5) Ministrstvo na podlagi plana in okoljskega poročila preuči sprejemljivost vplivov izvedbe plana na okolje ter o tem pripravi pisno mnenje, ki ga skupaj z mnenji ministrstev in organizacij iz drugega odstavka tega člena pošlje pripravljavcu plana najkasneje v 45 dneh od prejema plana in okoljskega poročila oziroma dopolnjenega okoljskega poročila.".

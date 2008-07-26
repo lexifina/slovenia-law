@@ -1,0 +1,11 @@
+# 110.f člen (stroški preprečevalnih in sanacijskih ukrepov)
+(1) Povzročitelj okoljske škode krije stroške preprečevalnih oziroma sanacijskih ukrepov, izvedenih na podlagi tega zakona.
+(2) Povzročitelj okoljske škode krije tudi stroške ugotavljanja okoljske škode ali njene neposredne nevarnosti, stroške vodenja upravnega postopka in zbiranja podatkov ter stroške spremljanja in nadzora izvajanja ukrepov, o čemer izda ministrstvo poseben sklep.
+(3) Ministrstvo hkrati z izdajo odločbe o preprečevalnih oziroma sanacijskih ukrepih predlaga vpis zastavne pravice na premoženju povzročitelja neposredne nevarnosti za nastanek okoljske škode oziroma povzročitelja okoljske škode, od njega zahteva bančno garancijo ali drugo obliko zavarovanja plačila v korist ministrstva, in sicer v višini ocenjenih stroškov izvedbe ukrepov, če bi jih moralo ministrstvo samo izvesti skladno z določbami 110.d in 100.e člena tega zakona.
+(4) Ministrstvo predlaga izbris zastavne pravice ali opravi druga dejanja, potrebna zaradi prenehanja zavarovanja plačila iz prejšnjega odstavka, če povzročitelj uspešno izvede vse preprečevalne oziroma sanacijske ukrepe skladno z določbami tega zakona.
+(5) Ministrstvo ima pravico z odločbo zahtevati povračilo stroškov za izvedbo ukrepov po tem zakonu, ki jih je samo izvedlo, in sicer v petih letih od dne, ko so bili izvedeni, oziroma od dne, ko je bil ugotovljen povzročitelj okoljske škode.
+(6) Oseba iz prvega odstavka tega člena ni dolžna kriti stroškov preprečevalnih oziroma sanacijskih ukrepov, če dokaže:
+1. da je neposredno nevarnost za nastanek okoljske škode oziroma okoljsko škodo povzročila tretja oseba, škoda pa je nastala kljub temu, da so bili izvedeni ustrezni varnostni ukrepi, ali
+2. da je neposredna nevarnost za nastanek okoljske škode oziroma okoljska škoda nastala zaradi izpolnitve obvezujočega ukaza ali navodila državnega ali občinskega organa ali osebe z javnimi pooblastili, razen če je bilo to izdano po emisiji ali dogodku, ki ga je povzročila dejavnost te osebe.
+(7) Oseba iz prejšnjega odstavka ima v primeru iz 1. točke prejšnjega odstavka pravico, da ji stroške povrne tretja oseba, v primeru iz 2. točke prejšnjega odstavka pa jih povrne organ ali oseba, ki je obvezujoči ukaz ali navodilo izdala.
+(8) Vlada predpiše način ugotavljanja stroškov iz drugega odstavka tega člena.

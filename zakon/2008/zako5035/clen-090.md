@@ -1,0 +1,3 @@
+# 90. člen (izdaja okoljevarstvenega dovoljenja za obstoječo napravo, ki lahko povzroča onesnaževanje večjega obsega)
+(1) V postopku za izdajo okoljevarstvenega dovoljenja za obstoječo napravo iz 68. člena zakona se ne uporabljajo določbe 71. in 73. člena zakona, vlogi za pridobitev dovoljenja pa ni treba priložiti elaborata o določitvi vplivnega območja naprave iz drugega odstavka 70. člena zakona. Za določitev strank v postopku se uporabljajo določbe 84.a člena zakona.
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, določena kot obstoječa naprava z Uredbo o vrsti dejavnosti in naprav, ki lahko povzročajo onesnaževanje večjega obsega (Uradni list RS, št. 97/04, 71/07 in 122/07).

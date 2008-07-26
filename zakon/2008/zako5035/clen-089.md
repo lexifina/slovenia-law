@@ -1,0 +1,4 @@
+# 89. člen (pooblaščene osebe za izdelovanje okoljskih poročil in poročil o vplivih na okolje)
+(1) Določbe prvega odstavka 55. člena zakona se začnejo uporabljati 1. januarja 2010.
+(2) Do roka iz prejšnjega odstavka lahko izdeluje okoljsko poročilo oziroma poročilo o vplivih na okolje oseba, ki jo za to pooblasti pripravljavec plana oziroma nosilec posega v okolje.
+(3) Ne glede na določbe prejšnjih odstavkov lahko izdela okoljsko poročilo ali poročilo o vplivih na okolje oseba, ki je s pripravljavcem plana ali nosilcem posega imela sklenjeno pogodbo o izdelavi okoljskega poročila oziroma poročila o vplivih na okolje na dan 1. januarja 2010, pripravljavec plana ali nosilec posega pa morata k vlogi za izdajo potrdila o ustreznosti plana oziroma okoljevarstvenega soglasja priložiti tudi revizijo okoljskega poročila ali poročila o vplivih na okolje.

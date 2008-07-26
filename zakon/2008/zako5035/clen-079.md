@@ -1,0 +1,15 @@
+# 79. člen
+V prvem odstavku 148. člena se v 5. točki beseda "ter" nadomesti s piko.
+6. točka se črta.
+Dodajo se novi sedmi do dvanajsti odstavki, ki se glasijo:
+"(7) Izvajalec gospodarske javne službe iz prvega odstavka tega člena mora zagotoviti hitro in učinkovito obravnavo pritožb uporabnikov njegovih storitev, ki menijo, da pri izvajanju teh storitev ne ravna v skladu s predpisi oziroma pravili stroke. Če uporabnik z odzivom izvajalca ni zadovoljen ali če takega odziva ne dobi v predpisanem roku, lahko zahteva od ministrstva, da odloči o zadevi. Če ministrstvo ugotovi, da izvajalec javne službe pri izvajanju storitev javne službe ni ravnal v skladu s predpisi oziroma pravili stroke, mu z odločbo naloži ravnanje skladno s predpisi ali pravili stroke pri izvajanju teh storitev, kar lahko vključuje tudi ponovno izvedbo storitev oziroma odpravo njihovih pomanjkljivosti na lastne stroške v določenem roku. Pri odločanju o zahtevi uporabnika lahko ministrstvo izvede tudi strokovni nadzor.
+(8) Strokovni nadzor nad izvajalci gospodarske javne službe iz prvega odstavka tega člena obsega nadzor nad tem, ali izvajalci javne službe pri njenem izvajanju ravnajo v skladu s predpisi oziroma pravili stroke. Strokovni nadzor izvaja ministrstvo v upravnem postopku.
+(9) Pri izvajanju strokovnega nadzora imajo uradne osebe ministrstva pravico:
+1. pregledati prostore, objekte, postroje, naprave, delovna sredstva, napeljave, predmete, blago, snovi, poslovne knjige, pogodbe, listine in druge dokumente ter poslovanje in dokumentacijo izvajalca javne službe in zahtevati izdelavo pisne oblike dokumentacije, ki mora verodostojno potrjevati elektronsko obliko, če se hrani v elektronski obliki,
+2. ugotavljati način izvajanja storitev javne službe pri izvajalcu javne službe, s soglasjem uporabnika pa tudi pri uporabniku,
+3. brezplačno vzeti vzorce materialov in opreme za potrebe preiskav,
+4. fotografirati ali posneti na drug nosilec vizualnih podatkov prostore, objekte, postroje, napeljave in druge predmete izvajalca javne službe, s soglasjem uporabnika pa tudi pri uporabniku, ter jih pozneje reproducirati,
+5. opraviti druga dejanja, ki so v skladu z namenom strokovnega nadzora.
+(10) V postopku strokovnega nadzora lahko ministrstvo z odločbo naloži izvajalcu javne službe določen način opravljanja storitev javne službe skladno s predpisi oziroma pravili stroke ali mu prepove določeno ravnanje pri izvajanju teh storitev, ki ni skladno s predpisi oziroma pravili stroke.
+(11) Če se gospodarska javna služba iz prvega odstavka tega člena izvaja s podelitvijo koncesije, vlada odvzame koncesijo z odločbo, če koncesionar ne ravna v skladu z izvršljivimi odločbami državnih organov, organov lokalnih skupnosti ali nosilcev javnih pooblastil, ali če pri izvajanju javne službe tako krši predpise oziroma pravila stroke, da od njega ni več mogoče pričakovati pravilnega in kvalitetnega izvajanja javne službe.
+(12) Vlada podrobneje predpiše razloge za odvzem koncesije iz prejšnjega odstavka.".

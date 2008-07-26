@@ -1,0 +1,10 @@
+# 110.e člen (izvajanje sanacijskih ukrepov)
+(1) V primeru nastanka okoljske škode mora njen povzročitelj ministrstvo nemudoma obvestiti o vseh pomembnih dejstvih, izvesti vse potrebne ukrepe za njeno omejitev in poslati ministrstvu informacije o nastali okoljski škodi in predlog sanacijskih ukrepov v odobritev.
+(2) Ministrstvo preuči vrsto, obseg in pomen okoljske škode za prizadeti posebni del okolja in možnost njegove naravne obnovitve, povzročitelju pa na podlagi predpisa iz devetega odstavka tega člena z odločbo odredi izvedbo najustreznejših sanacijskih ukrepov.
+(3) Sanacijski ukrepi iz prejšnjega odstavka so ukrepi ali njihova kombinacija, vključno z ukrepi za ublažitev, ali prehodni ukrepi za obnovitev, sanacijo ali nadomestitev poškodovanega posebnega dela okolja oziroma njegovih zmanjšanih funkcij ali za zagotovitev ustreznega nadomestila tem delom ali funkcijam v skladu s predpisom iz devetega odstavka tega člena.
+(4) Če je primerov okoljske škode več, izvedba sanacijskih ukrepov pa ni mogoča hkrati, ministrstvo odloči tudi o vrstnem redu izvedbe teh ukrepov, pri čemer upošteva vrsto, obseg in pomen posameznih primerov okoljske škode za prizadeti posebni del okolja, vključno z nevarnostjo za zdravje ljudi, ter možnost njegove naravne obnovitve.
+(5) Pritožba proti odločbi iz drugega odstavka tega člena ni dovoljena, mogoče pa je začeti upravni spor.
+(6) Če je ministrstvo obveščeno ali samo izve za nastanek okoljske škode, lahko od njenega povzročitelja zahteva določene informacije o nastali škodi ali z odločbo odredi izvedbo sanacijskih ukrepov, vključno s podrobnejšimi navodili za njihovo izvedbo. Pritožba zoper odločbo ni dovoljena, mogoče pa je začeti upravni spor.
+(7) Lastnik ali drug posestnik zemljišča, na katerem je nastala okoljska škoda, mora dopustiti izvedbo sanacijskih ukrepov za odpravo okoljske škode.
+(8) Osebe iz 110.g člena tega zakona imajo v postopku odreditve sanacijskih ukrepov položaj stranskega udeleženca.
+(9) Vlada predpiše vrste sanacijskih ukrepov na podlagi Priloge II Direktive 2004/35/ES, ki so podlaga za izbiro najustreznejših ukrepov za sanacijo okoljske škode.

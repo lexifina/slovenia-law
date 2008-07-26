@@ -1,0 +1,6 @@
+# 110.b člen (okoljska škoda)
+(1) Okoljska škoda, povzročena zavarovanim vrstam, njihovim habitatom in habitatnim tipom, je škoda, ki ima večji škodljiv vpliv na doseganje ali ohranjanje njihovega ugodnega stanja po predpisih o ohranjanju narave, ugotovljena na podlagi predpisanih meril.
+(2) Ne glede na določbo prejšnjega odstavka se za okoljsko škodo ne šteje škoda, nastala zaradi škodljivih vplivov na zavarovanih vrstah, njihovih habitatih ali habitatnih tipih, ki so bili ugotovljeni in dovoljeni ali predpisani na podlagi postopka presoje sprejemljivosti planov in posegov v naravo ali uveljavljanja odstopanj od strogega varstva zavarovanih vrst po predpisih o ohranjanju narave.
+(3) Okoljska škoda na vodah je škoda z večjim škodljivim vplivom na ekološko, kemijsko, količinsko stanje ali ekološki potencial vode skladno z določbami tega zakona in predpisov o vodah, razen če gre za dopustne izjeme pri izpolnjevanju ciljev, ki se nanašajo na doseganje dobrega stanja voda po predpisih o vodah.
+(4) Okoljska škoda, povzročena tlom, je vsako onesnaženje z emisijami v, na ali pod tla, ki lahko ogrozi zdravje ljudi in presega predpisane standarde kakovosti tal iz 23. člena tega zakona.
+(5) Minister na podlagi Priloge I Direktive 2004/35/ES predpiše podrobnejša merila za ugotavljanje škodljivosti vpliva iz prvega odstavka tega člena.
