@@ -1,6 +1,4 @@
 # 3. člen
-Republika Slovenija bo za uresničitev programov iz prejšnjega člena v državnem proračunu v obdobju od leta 1998 do leta 2003 zagotavljala sredstva v skupni višini 23.073,115.000 tolarjev po cenah na dan 31. 12. 1997.
-V posameznem letu znesek praviloma ne bo presegal 3.978,682.000 tolarjev po cenah na dan 31. 12. 1997 in ne bo manjši od 3.624,618.000 tolarjev po cenah na dan 31. 12. 1997.
-Republika Slovenija bo za uresničevanje programov iz prejšnjega člena z vsakokratnimi letnimi proračuni v obdobju od leta 2004 do leta 2008 zagotavljala sredstva v skupni višini 29.319,500.000 tolarjev. Sredstva so izračunana po cenah na dan 29. 4. 2002.
-Sredstva iz prejšnjih odstavkov se oblikujejo v proračunu pod posebno postavko ministrstva, pristojnega za kulturo.
+Republika Slovenija bo za uresničevanje nerealiziranih programov iz prejšnjega člena z vsakokratnimi letnimi proračuni v obdobju od leta 2009 do leta 2013 zagotavljala sredstva v skupni višini 80.758.833 eurov. Sredstva so izračunana po cenah na dan 29. 4. 2002.
+Sredstva iz prejšnjih odstavkov se oblikujejo v proračunu ministrstva, pristojnega za kulturo.
 Posamezni projekti v okviru programov iz prejšnjega člena se v celoti financirajo iz državnega proračuna v primerih, ko gre za lastništvo oziroma ustanoviteljstvo države. Ostali projekti pa se iz državnega proračuna sofinancirajo v višini 50% vrednosti, razen če ni pri posameznem programu oziroma projektu določeno drugače. V primeru spremembe namembnosti ali odtujitve objekta, ki je bil sofinanciran iz državnega proračuna, se vložek države v realni vrednosti vrne v državni proračun, kar se posebej uredi s pogodbo.
