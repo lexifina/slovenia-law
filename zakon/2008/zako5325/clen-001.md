@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o odgovornosti pravnih oseb za kazniva dejanja (Uradni list RS, št. 98/04 - uradno prečiščeno besedilo) se v prvem odstavku 1. člena besedilo "33. členom Kazenskega zakonika (Uradni list RS, št. 63/94, 70/94 - popr. in 23/99)" nadomesti z besedilom "42. členom Kazenskega zakonika (Uradni list RS, št. 55/08 - KZ-1)", besedi "poleg storilca" nadomestita z besedo "kazensko" ter črta beseda "tudi".
