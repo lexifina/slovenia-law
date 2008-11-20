@@ -18,3 +18,4 @@
 7. vloge članov uprave in nadzornega sveta oziroma drugega organa vodenja ali nadzora pravnih oseb iz 5. in 6. točke tega odstavka in njihovih ožjih družinskih članov,
 8. vloge, ki se glede na svoje lastnosti upoštevajo pri izračunu kapitala banke,
 9. vloge pravnih oseb, ki so velike oziroma srednje družbe po ZGD-1.
+(6) Ne glede na tretji odstavek tega člena višina zajamčene vloge ni omejena do 31. decembra 2010.
