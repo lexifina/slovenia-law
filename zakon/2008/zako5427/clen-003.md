@@ -1,0 +1,9 @@
+# 3. člen
+Doda se nov 86.a člen, ki se glasi:
+"86.a člen
+(obseg izdaje poroštev za omejitev učinkov finančne krize)
+(1) Ne glede na prvi odstavek 5. člena in prvi odstavek 86. člena tega zakona lahko država izdaja poroštva za omejitev učinkov svetovne finančne krize in ohranitev stabilnosti domačega finančnega sistema.
+(2) Poroštva države, izdana na podlagi prejšnjega odstavka, se ne vštevajo v obseg poroštev države, določen v zakonu, ki ureja izvrševanje proračuna.
+(3) Poroštva države, izdana na podlagi prvega odstavka tega člena, lahko država izdaja samo za obveznosti iz naslova zadolžitve kreditnih institucij in do skupne višine 12 milijard eurov glavnic.
+(4) Pogodbo o poroštvu podpiše v imenu in za račun države minister, pristojen za finance. Poroštva se lahko izdajajo za obveznosti iz naslova zadolžitve na finančnem ali medbančnem trgu, kamor se za namen tega zakona štejejo vse obveznosti do kreditnih institucij in drugih finančnih družb, razen obveznosti iz naslova strukturiranih finančnih instrumentov, podrejenih obveznosti kreditne institucije in obveznosti do nadrejene osebe ter z njo povezanih oseb. Poroštvo posamezni kreditni instituciji se lahko izda za obveznosti z rokom dospelosti od treh mesecev do največ pet let. Pogoji posojilnih pogodb, zavarovanih s poroštvom države, ne smejo bistveno odstopati od pogojev, ki jih v času izdaje poroštva na finančnih trgih ob zadolžitvi dosega država. Za pripravo in spremljavo izdanih poroštev lahko ministrstvo, pristojno za finance, pooblasti Slovensko izvozno in razvojno banko, s katero sklene pogodbo, v kateri se določi način izvajanja storitev, nadomestila in opravnine za izvajanje storitev ter poročanje.
+(5) Ob sprejemu sklepa o izdaji poroštva lahko vlada sprejme nekatere omejitve, določene v drugem odstavku 81.a člena tega zakona.".

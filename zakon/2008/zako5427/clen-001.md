@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o javnih financah (Uradni list RS, št. 79/99, 124/00, 79/01, 30/02, 56/02 - ZJU, 110/02 - ZDT-B, 127/06 - ZJZP in 14/07 - ZSPDPO) se prvi odstavek 81. člena spremeni tako, da se glasi:
+"(1) Država se za izvrševanje državnega proračuna v tekočem proračunskem letu lahko zadolži doma in v tujini do višine primanjkljaja bilance prihodkov in odhodkov, računa finančnih terjatev in naložb in odplačila glavnic dolga, ki zapadejo v plačilo v tekočem proračunskem letu in do višine, potrebne za odplačilo glavnic dolga državnega proračuna, ki zapadejo v plačilo v prihodnjih dveh proračunskih letih.".
