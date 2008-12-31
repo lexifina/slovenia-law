@@ -1,0 +1,2 @@
+# 17. člen
+V četrtem odstavku 371. člena se črta pika in doda besedilo, ki se glasi: "in po stopnji, ki velja za tekoče davčno obdobje. Pri zavezancih, ki imajo davčno obdobje različno od koledarskega leta, je stopnja iz tega odstavka stopnja za leto, ko se predhodno davčno obdobje zaključi, in stopnja za leto, ko se naslednje davčno obdobje začne, navedeni stopnji pa se uporabita sorazmerno glede na število mesecev poslovanja v posameznem koledarskem letu.".

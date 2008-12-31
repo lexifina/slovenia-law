@@ -1,0 +1,4 @@
+# 4. člen
+V drugem odstavku 85. člena se za besedo "zakona" doda besedilo, ki se glasi: "in odločbe, s katerimi je določeno obročno plačevanje davka".
+Doda se nov peti odstavek, ki se glasi:
+"(5) Če je potrebno opraviti vročitev tako, da se dokument objavi na oglasni deski organa in na enotnem državnem portalu e-uprava, v skladu z zakonom, ki ureja splošni upravni postopek, se v primeru, če dokument vsebuje podatke, ki se štejejo za davčno tajnost, na oglasni deski organa in na enotnem državnem portalu e-uprava, namesto dokumenta objavi zgolj obvestilo o dokumentu, ki vsebuje osnovne podatke iz dokumenta, brez podatkov, ki se štejejo za davčno tajnost. V obvestilu se navede osebno ime, letnico rojstva, oziroma firmo zavezanca za davek, njegov naslov, opravilno številko in datum dokumenta, ki se vroča, datum objave na oglasni deski in portalu ter davčni urad in izpostavo, ki je dokument izdala.".
