@@ -1,0 +1,2 @@
+# 13. člen (nagrade v razponu)
+Pri nagradah v razponu se nagrada v posameznem primeru določi po pravičnem preudarku, ob upoštevanju vseh okoliščin, predvsem obsega in težavnosti odvetniške storitve, uporabe tujih pravnih virov, posebnega strokovnega znanja z izvenpravnih področij, pravnega specialističnega znanja ali tujega jezika, pomena zadeve ter prihodkov in premoženjskih razmer stranke. V povprečnem primeru se določi srednja vrednost nagrade v razponu.

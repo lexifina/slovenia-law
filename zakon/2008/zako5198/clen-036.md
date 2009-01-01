@@ -1,0 +1,3 @@
+# 36. člen (nagrade glede na vrednost predmeta, ki se izplačajo iz državnega proračuna)
+Če se nagrade postavljenega ali dodeljenega odvetnika določijo glede na vrednost predmeta, se pri vrednosti predmeta nad 3.000 eurov namesto nagrad po 12. členu tega zakona določijo naslednje nagrade s količnikom 1,0:
+Pri vrednosti predmeta do ...EUR | znaša nagrada ... EUR | 3.500 | 129 | 4.000 | 135 | 4.500 | 140 | 5.000 | 145 | 6.000 | 149 | 7.000 | 152 | 8.000 | 154 | 9.000 | 157 | 10.000 | 160 | 13.000 | 162 | 16.000 | 170 | 19.000 | 180 | 22.000 | 193 | 25.000 | 210 | 30.000 | 234 | nad | | 30.000 | 258

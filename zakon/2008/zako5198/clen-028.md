@@ -1,0 +1,4 @@
+# 28. člen (vrednost predmeta v postopkih zaradi insolventnosti in prisilnega prenehanja)
+(1) Nagrade za zastopanje dolžnika po tarifnih številkah 3431, 3432 in 3435 se odmerijo po vsoti zneskov, ki so bili uporabljeni ali so na razpolago za poravnavo dolgov stečajne mase oziroma po vsoti zneskov, s katerimi je bila dosežena prisilna poravnava. To velja tudi za odmero nagrad za zastopanje dolžnika v postopku o pritožbi zoper sklep o začetku insolvenčnega postopka po tarifnih številkah 3220 in 3222. Vrednost predmeta za odmero nagrade za zastopanje dolžnika po tarifni številki 3431 znaša najmanj 4.000 eurov.
+(2) Nagrade za zastopanje upnika po tarifnih številkah 3430, 3432, 3434, 3220 in 3222 se odmerijo po vsoti upnikovih prijavljenih terjatev.
+(3) V ostalih primerih se vrednost predmeta za odmero nagrad v insolvenčnih postopkih in postopkih prisilnega prenehanja smiselno določi v skladu z 21. in 22. členom tega zakona.

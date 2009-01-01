@@ -1,0 +1,3 @@
+# 9. člen (zapadlost stroškov odvetniške storitve v plačilo)
+(1) Stroški odvetniške storitve zapadejo v plačilo, ko odvetnik izvrši vsa opravila, ki izhajajo iz mandatnega razmerja med njim in stranko oziroma naročnikom storitve. Če odvetnik opravlja storitve v sodnem postopku, zapadejo stroški njegove storitve v plačilo, ko je izdan sklep o stroških postopka.
+(2) Če odvetnik deluje v okviru brezplačne pravne pomoči, kot odvetnik, postavljen po uradni dolžnosti ali opravlja storitve za stranko, ki mora poslovati v skladu z zakonom, ki ureja izvrševanje proračuna Republike Slovenije za tekoče leto, se zapadlost stroškov njegove storitve določi po zakonu, ki ureja izvrševanje proračuna Republike Slovenije za tekoče leto.

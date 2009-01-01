@@ -1,0 +1,2 @@
+# 42. člen (način priprave sprememb ali dopolnitev zakona, ki ureja odvetniško tarifo)
+Minister, pristojen za pravosodje, v treh mesecih po začetku veljavnosti tega zakona s pravilnikom določi način sodelovanja Odvetniške zbornice Slovenije, sodišč, državnega pravobranilstva, državnega tožilstva, Notarske zbornice Slovenije in nevladnih organizacij pri spreminjanju ali dopolnitvi zakona, ki ureja odvetniško tarifo.
