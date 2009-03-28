@@ -1,0 +1,3 @@
+# 50. člen
+Drugi odstavek 230. člena se spremeni tako, da se glasi:
+"(2) Nadzorni organi morajo drug drugega na lastno pobudo obveščati o nepravilnostih ali drugih okoliščinah, ki jih ugotovijo pri opravljanju nadzora ali drugih svojih nalog in pristojnosti, če so te ugotovitve pomembne tudi za delo drugih nadzornih organov.".
