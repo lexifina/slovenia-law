@@ -5,5 +5,6 @@
 1. 214. in 215. člen tega zakona in
 2. določbe drugih zakonov, ki zaradi zaščite javnih koristi urejajo varstvo potrošnikov, preprečevanje pranja denarja oziroma druga področja in ki se uporabljajo za banke v Republiki Sloveniji.
 (3) Za banko države članice, ki opravlja bančne oziroma druge vzajemno priznane finančne storitve na območju Republike Slovenije prek podružnice, se uporabljajo tudi naslednje določbe zakonov in predpisov, izdanih v zvezi z njihovim izvrševanjem:
-1. 194., 195. in 234. člen tega zakona v delu, ki se nanaša na poročila in informacije, potrebne za izvrševanje pristojnosti in nalog Banke Slovenije na področju denarne politike, spremljanja likvidnostnih tveganj, statistike in uresničevanja jamstva za vloge,
+1. 194., in 234. člen tega zakona v delu, ki se nanaša na poročila in informacije, potrebne za izvrševanje pristojnosti in nalog Banke Slovenije na področju denarne politike, spremljanja likvidnostnih tveganj, statistike in uresničevanja jamstva za vloge,
 2. tretji odstavek 204. člena, drugi odstavek 210. člena ter 213., 224. in 311. člen tega zakona.
+(4) Pri uporabi 224. člena tega zakona za banko iz tretjega odstavka tega člena se poleg merila bilančne vsote podružnice upošteva tudi merilo sorazmernosti obsega nadzora nad podružnico.

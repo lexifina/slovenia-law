@@ -8,5 +8,6 @@
 (7) Prepoved iz petega odstavka tega člena velja tudi za druge finančne instrumente, katerih izdajatelj je banka oziroma družbe, v katerih je banka udeležena z najmanj 20‑odstotnim deležem, in ki se glede na svoje lastnosti lahko upoštevajo pri izračunu kapitala banke.
 (8) Drugi odstavek tega člena ne velja:
 1. ob ustanovitvi banke ali povečanju osnovnega kapitala banke zaradi izvedbe združitve ali delitve,
-2. ob povečanju osnovnega kapitala banke s stvarnim vložkom, katerega predmet so delnice druge banke, če banka za tako povečanje pridobi dovoljenje Banke Slovenije.
+2. ob povečanju osnovnega kapitala banke s stvarnim vložkom, katerega predmet so delnice druge banke, če banka za tako povečanje pridobi dovoljenje Banke Slovenije, in
+3. ob povečanju osnovnega kapitala banke po 262.a členu tega zakona.
 (9) Za dovoljenje iz 2. točke osmega odstavka tega člena se smiselno uporabljajo določbe tega zakona o dovoljenju za združitev oziroma delitev.

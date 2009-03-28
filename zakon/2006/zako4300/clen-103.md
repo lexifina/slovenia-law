@@ -4,7 +4,7 @@
 1. izpisek iz sodnega oziroma drugega ustreznega registra države sedeža za matično banko,
 2. statut oziroma druga ustrezna pravila matične banke,
 3. podatke o članih oziroma članicah poslovodnih in nadzornih organov matične banke,
-4. revidirana poslovna poročila matične banke za zadnja tri leta poslovanja,
+4. revidirana letna poročila matične banke za zadnja tri leta poslovanja,
 5. če iz izpiska iz 1. točke niso razvidni podatki o imetnikih delnic matične banke: ustrezno listino, ki verodostojno izkazuje imetnike delnic in njihove deleže pri upravljanju matične banke,
 6. izpisek iz sodnega oziroma drugega ustreznega registra države sedeža za pravne osebe, ki so imetnice kvalificiranih deležev v matični banki,
 7. opis bančnih storitev oziroma drugih vzajemno priznanih finančnih storitev, ki jih bo opravljala podružnica, ter poslovni načrt za prva tri leta poslovanja,

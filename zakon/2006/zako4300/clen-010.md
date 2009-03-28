@@ -23,4 +23,4 @@ Vzajemno priznane finančne storitve so:
 12. hramba vrednostnih papirjev in druge storitve, povezane s hrambo,
 13. kreditne bonitetne storitve: zbiranje, analiza in posredovanje informacij o kreditni sposobnosti pravnih oseb,
 14. oddajanje sefov ter
-15. investicijske ter pomožne investicijske storitve in posli.
+15. investicijske storitve in posli ter pomožne investicijske storitve iz prvega odstavka 10. člena ZTFI.

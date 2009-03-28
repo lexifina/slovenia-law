@@ -2,7 +2,7 @@
 (1) Nadrejena banka Republike Slovenije mora na ravni Republike Slovenije izpolnjevati naslednje obveznosti na konsolidirani podlagi:
 1. obveznosti glede minimalnega kapitala, določene v 136. členu tega zakona,
 2. obveznosti glede naložb v kvalificirane deleže v osebah nefinančnega sektorja, določene v pododdelku 4.5.6. tega zakona,
-3. obveznosti glede strategij in procesov ocenjevanja potrebnega notranjega kapitala, določene v 126. členu tega zakona,
+3. obveznosti glede strategij in procesov ocenjevanja ustreznega notranjega kapitala, določene v 126. členu tega zakona,
 4. obveznosti glede izpostavljenosti, določene v pododdelku 4.5.5. tega zakona.
 (2) Banka, ki je podrejena finančnemu holdingu Republike Slovenije, mora na ravni Republike Slovenije izpolnjevati obveznosti iz prvega odstavka tega člena na podlagi konsolidiranega položaja tega finančnega holdinga.
 (3) Banka, ki ima položaj EU nadrejene banke, mora na ravni Evropske unije izpolnjevati obveznosti glede razkritij, določene v 207. do 209. členu tega zakona, na podlagi njenega konsolidiranega finančnega položaja.

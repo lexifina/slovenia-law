@@ -5,7 +5,7 @@
 - pridobivanje kapitalskih deležev ali
 - opravljanje vzajemno priznanih finančnih storitev iz 2. do 12. in 15. točke 10. člena tega zakona.
 (2) Posebna finančna institucija države članice je finančna institucija države članice iz prvega odstavka 101. člena tega zakona.
-(3) Druga finančna družba je zavarovalnica, pozavarovalnica, družba za upravljanje, pokojninska družba ali druga pravna oseba:
+(3) Druga finančna družba je zavarovalnica, pozavarovalnica, družba za upravljanje, pokojninska družba, kolektivni naložbeni podjem, investicijska družba ali druga pravna oseba:
 1. ki ni kreditna institucija in
 2. ki opravlja dodatne ali druge finančne storitve.
 (4) Pokojninska družba je pravna oseba, ki opravlja dejavnost prostovoljnega dodatnega pokojninskega zavarovanja.

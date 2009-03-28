@@ -1,14 +1,12 @@
-# 48. člen (odločanje o izdaji dovoljenja za pridobitev kvalificiranega deleža)
-(1) Pri odločanju o izdaji dovoljenja za pridobitev kvalificiranega deleža Banka Slovenije presoja primernost bodočega kvalificiranega imetnika ob upoštevanju naslednjih meril:
-1. njegove pravnoorganizacijske oblike in dejavnosti, ki jih opravlja,
-2. njegovega finančnega položaja,
-3. preglednosti njegove lastniške strukture,
-4. resničnosti in poštenosti njegovih računovodskih izkazov,
-5. preglednosti njegovih finančnih naložb,
-6. njegove strateške usmeritve glede naložb v finančne družbe ter
-7. drugih ekonomskih značilnosti bodočega kvalificiranega imetnika, ki so pomembne za presojo njegovega vpliva na uresničevanje pravil o upravljanju s tveganji v banki,
-8. če bo bodoči kvalificirani imetnik pridobil položaj nadrejenega finančnega holdinga ali mešanega poslovnega holdinga, tudi:
-- dobrega imena ter ustreznosti sposobnosti in izkušenj članov oziroma članic njegovega poslovodstva za vodenje poslov tega holdinga, in
-- izpolnjevanje zahtev iz petega odstavka 289. člena tega zakona.
-(2) Če Banka Slovenije o zahtevi za izdajo dovoljenja za pridobitev kvalificiranega deleža ne odloči v roku iz drugega odstavka 377. člena tega zakona, se šteje, da je z dnem izteka tega roka izdano dovoljenje za pridobitev deleža, za katerega je kvalificirani imetnik zahteval izdajo tega dovoljenja.
-(3) V primeru iz drugega odstavka tega člena mora Banka Slovenije na zahtevo bodočega kvalificiranega imetnika izdati ugotovitveno odločbo, s katero ugotovi, da je dovoljenje izdano, v osmih dneh od prejema zahteve za izdajo ugotovitvene odločbe.
+# 48. člen (presoja primernosti bodočega kvalificiranega imetnika)
+(1) Da bi se zagotovilo varno in skrbno upravljanje banke, v kateri namerava bodoči kvalificirani imetnik pridobiti kvalificirani delež, mora Banka Slovenije pri odločanju o izdaji dovoljenja za pridobitev kvalificiranega deleža, ob upoštevanju vpliva, ki bi ga verjetno imel bodoči kvalificirani imetnik na upravljanje banke, če pridobi kvalificirani delež, ki je predmet zahteve, presojati primernost bodočega kvalificiranega imetnika na podlagi naslednjih meril:
+1. ugleda bodočega kvalificiranega imetnika,
+2. ugleda in izkušenj oseb, ki bodo imele možnost upravljati banko ali drugače vplivati na poslovanje banke, če bodoči kvalificirani imetnik pridobi kvalificirani delež, ki je predmet zahteve,
+3. finančne trdnosti bodočega kvalificiranega imetnika, zlasti v zvezi z vrstami poslov, ki jih opravlja ali načrtuje banka,
+4. verjetnih posledic, če bodoči kvalificirani imetnik pridobi kvalificirani delež, ki je predmet zahteve, za sposobnosti banke ravnati v skladu s pravili o upravljanju s tveganji ter izpolnjevati zahteve in omejitve, določene v 4. poglavju tega zakona, in zahteve iz petega odstavka 289. člena tega zakona.
+(2) Pri presoji primernosti bodočega kvalificiranega imetnika na podlagi merila iz 4. točke prvega odstavka tega člena mora Banka Slovenije presoditi tudi organizacijski ustroj, procese in sisteme znotraj skupine, katere del bo postala banka, če bodoči kvalificirani imetnik pridobi kvalificirani delež, ki je predmet zahteve, in verjetne posledice za možnost izvajanja učinkovitega nadzora, učinkovite izmenjave informacij med pristojnimi nadzornimi organi in razmejitve pristojnosti in odgovornosti za nadzor med pristojnimi nadzornimi organi.
+(3) Pri presoji primernosti bodočega kvalificiranega imetnika mora Banka Slovenije presoditi tudi, ali obstajajo razlogi za sum:
+1. da je bilo ali bo v zvezi s pridobitvijo kvalificiranega deleža, ki je predmet zahteve, storjeno dejanje pranja denarja iz prvega odstavka 2. člena ZPPDFT ali financiranja terorizma iz drugega odstavka 2. člena ZPPDFT, ali izveden poskus tega dejanja, ali
+2. da bo ta pridobitev povečala tveganje pranja denarja ali financiranja terorizma iz prvega odstavka 6. člena ZPPDFT.
+(4) Primernosti bodočega kvalificiranega imetnika Banka Slovenije ne sme presojati z vidika gospodarskih potreb trga.
+(5) Če Banka Slovenije hkrati obravnava dve ali več zahtev za pridobitev kvalificiranega deleža v isti banki, mora vse bodoče kvalificirane imetnike obravnavati nediskriminatorno.

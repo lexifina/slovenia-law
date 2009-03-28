@@ -5,3 +5,4 @@
 (4) Če banka ne ravna v skladu z opozorilom iz tretjega odstavka tega člena, ji Banka Slovenije izda ustrezno odredbo o odpravi kršitev.
 (5) Če pooblaščena oseba Banke Slovenije pri pregledu poslovanja ne ugotovi kršitve predpisov iz prvega odstavka 222. člena tega zakona, Banka Slovenije s sklepom ustavi postopek pregleda poslovanja.
 (6) V zvezi s pregledom poslovanja se ne uporabljajo določbe ZUP o zapisniku.
+(7) Prvi do četrti in šesti odstavek tega člena se smiselno uporabljajo tudi za nadzor, ki ga Banka Slovenije opravlja na podlagi poročil in informacij, ki ji jih posreduje banka v skladu s tem zakonom, ali ki jih pridobi Banka Slovenije na podlagi zbiranja in obdelovanja informacij po 227. členu tega zakona.

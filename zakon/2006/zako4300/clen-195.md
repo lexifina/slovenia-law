@@ -5,7 +5,7 @@
 3. imetnikih delnic banke ter o pridobitvi oziroma spremembi kvalificiranih deležev,
 4. razrešitvi in imenovanju članov uprave,
 5. nameravanem odprtju, preselitvi, zaprtju ali začasnem prenehanju podružnice ali predstavništva oziroma spremembah vrste poslov, ki jih opravlja podružnica,
-6. poslih začasne prodaje oziroma odkupa in poslih posoje oziroma izposoje vrednostnih papirjev ali blaga, če pride nasprotna stranka v položaj neplačila,
+6. poslih začasne prodaje oziroma odkupa in poslih posoje oziroma izposoje vrednostnih papirjev ali blaga, če nasprotna stranka svoje obveznosti ne izpolni ob njeni dospelosti,
 7. vsaki načrtovani spremembi kapitala banke, ki dosega ali presega 25 odstotkov kapitala banke pred spremembo,
 8. pridobitvi oziroma odtujitvi delnic, poslovnih deležev oziroma članskih pravic v pravnih osebah oziroma o drugih spremembah glede teh naložb,
 9. pomembnejših spremembah v strukturi kapitala,

@@ -11,7 +11,7 @@
 5. prepove ali omeji opravljanje posameznih ali vseh poslov določene vrste ali širjenje mreže poslovalnic banke,
 6. naloži upravi banke, da sprejme in opravi ukrepe za:
 - izboljšanje sistema upravljanja v skladu s 124. členom tega zakona,
-- izboljšanje strategij in procesov ocenjevanja potrebnega notranjega kapitala v skladu s 126. členom tega zakona,
+- izboljšanje strategij in procesov ocenjevanja ustreznega notranjega kapitala v skladu s 126. členom tega zakona,
 - spremembo področij poslovanja banke,
 - omejitev dajanja kreditov,
 - izboljšanje postopkov izterjatve zapadlih terjatev banke,
@@ -21,5 +21,5 @@
 7. naloži banki, da pri nadaljnjem poslovanju zmanjša tveganja, značilna za njeno poslovanje, produkte ali sisteme,
 8. naloži nadzornemu svetu banke, da imenuje ustrezne komisije za posamezne sklope strokovnih nalog iz pristojnosti nadzornega sveta,
 9. naloži banki druge ukrepe, potrebne za uresničitev pravil o upravljanju s tveganji.
-(2) V primeru iz 1. ali 3. točke 247. člena tega zakona lahko Banka Slovenije banki tudi odredi, da zagotovi dodatni kapital preko obsega minimalnega kapitala iz 136. člena tega zakona, če z drugimi ukrepi iz prvega odstavka tega člena v ustreznem časovnem obdobju ni mogoče zagotoviti, da bo banka ustrezno izboljšala sisteme upravljanja s tveganji oziroma strategije in procese ocenjevanja potrebnega notranjega kapitala.
-(3) Z odredbo, s katero banki odredi dodatni ukrep iz drugega odstavka tega člena, Banka Slovenije določi druge ukrepe iz prvega odstavka tega člena, ki jih mora opraviti banka, da bi zanjo ponovno začel veljati obseg minimalnega kapitala iz 136. člena tega zakona.
+(2) V primeru iz 1. ali 3. točke 247. člena tega zakona lahko Banka Slovenije banki tudi odredi, da zagotovi dodatni kapital preko obsega minimalnega kapitala iz 136. člena tega zakona, če oceni, da z ukrepi iz prvega odstavka tega člena v ustreznem časovnem obdobju ni mogoče zagotoviti, da bo banka ustrezno izboljšala sistem upravljanja oziroma strategije in procese ocenjevanja ustreznega notranjega kapitala.
+(3) Z odredbo, s katero banki odredi dodatni ukrep iz drugega odstavka tega člena, Banka Slovenije določi ukrepe iz prvega odstavka tega člena, ki jih mora opraviti banka, da bi zanjo prenehal veljati ukrep iz drugega odstavka tega člena.

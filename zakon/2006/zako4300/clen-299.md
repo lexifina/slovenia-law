@@ -1,4 +1,4 @@
-# 299. člen (obveznosti mešanega poslovnega holdinga in njegovih podrejenih družb glede nadzora na konsolidirani podlagi)
+# 299. člen (obveznosti mešanega poslovnega holdinga in njegovih podrejenih družb glede nadzora)
 (1) Če je družba, ki je nadrejena eni ali več bankam, mešani poslovni holding, morajo mešani poslovni holding in njegove podrejene družbe podrejenim bankam oziroma nadzornim organom, pristojnim in odgovornim za nadzor teh bank, posredovati vse informacije, ki so pomembne za nadzor teh podrejenih bank.
 (2) Podrejene družbe in nadrejeni mešani poslovni holding morajo Banki Slovenije oziroma drugemu nadzornemu organu, pristojnemu in odgovornemu za nadzor podrejenih bank, omogočiti, da opravi pregled poslovanja zaradi preveritve informacij iz prvega odstavka tega člena.
 (3) Obveznost iz prvega in drugega odstavka tega člena velja tudi, če podrejena družba, nadrejeni mešani poslovni holding oziroma banka, ki je podrejena nadrejenemu mešanemu poslovnemu holdingu, nima sedeža v Republiki Sloveniji.

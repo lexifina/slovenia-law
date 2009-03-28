@@ -4,5 +4,8 @@
 1. če stranka izrecno pisno pristane, da se sporočijo posamezni zaupni podatki,
 2. če te podatke potrebuje Banka Slovenije oziroma drug nadzorni organ za potrebe nadzora, ki ga vodi v okviru svojih pristojnosti,
 3. v primerih posredovanja podatkov nadrejenim družbam v zvezi z nadzorom na konsolidirani podlagi v skladu z določbami pododdelka 7.9.3. tega zakona ali v skladu z ZFK,
-4. za izmenjavo informacij o boniteti strank med bankami ali znotraj bančne skupine za namen upravljanja s kreditnim tveganjem in
+4. za izmenjavo informacij o boniteti strank za namen upravljanja s kreditnim tveganjem:
+- med bankami in finančnimi institucijami iz drugega odstavka 390.a člena tega zakona,
+- znotraj bančne skupine ali
+- z bankami držav članic ali sistemi za izmenjavo informacij o boniteti strank, organiziranih v drugih državah članicah, glede informacij o boniteti strank, ki so pravne osebe, in
 5. v drugih primerih, ki jih določa zakon.

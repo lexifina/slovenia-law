@@ -1,6 +1,6 @@
 # 196. člen (obvestilo o pridobitvi kvalificiranega deleža v finančni družbi tretje države)
 (1) Banka mora tri mesece pred pridobitvijo kvalificiranega deleža v finančni družbi tretje države, katerega vrednost presega 10 odstotkov kapitala banke, o tem obvestiti Banko Slovenije.
-(2) Banka mora obvestiti Banko Slovenije tudi tri mesece pred vsako nadaljnjo pridobitvijo, na podlagi katere bo v finančni družbi tretje države iz prvega odstavka tega člena dosegla ali presegla 10-, 20-, 33- ali 50-odstotni delež glasovalnih pravic ali delež v kapitalu te družbe ali delež, na podlagi katerega bo banka postala nadrejena oseba te družbe.
+(2) Banka mora obvestiti Banko Slovenije tudi tri mesece pred vsako nadaljnjo pridobitvijo, na podlagi katere bo v finančni družbi tretje države iz prvega odstavka tega člena dosegla ali presegla 10-, 20-odstotni, enotretjinski ali 50-odstotni delež glasovalnih pravic ali delež v kapitalu te družbe ali delež, na podlagi katerega bo banka postala nadrejena oseba te družbe.
 (3) Obvestilu iz prvega ali drugega odstavka tega člena je treba priložiti:
 1. seznam imetnikov kvalificiranih deležev v finančni družbi tretje države s podatki o njihovih deležih ter prevod overjenega izpiska iz sodnega registra oziroma drugega javnega registra za vsakega od njih,
 2. prevod overjenega izpiska iz sodnega registra oziroma drugega javnega registra za finančno družbo tretje države,

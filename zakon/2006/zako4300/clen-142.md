@@ -1,3 +1,7 @@
 # 142. člen (uporaba zunanje bonitetne ocene za določitev kreditne kvalitete)
 (1) Banka lahko za določanje kreditne kvalitete posamezne izpostavljenosti uporabi bonitetno oceno, ki jo je izdelala zunanja bonitetna institucija, če je Banka Slovenije to bonitetno institucijo priznala kot primerno za te namene, ali primerna izvozna agencija (v nadaljnjem besedilu: zunanja bonitetna ocena).
 (2) Banka Slovenije prizna zunanjo bonitetno institucijo kot primerno, če je metodologija ocenjevanja, ki jo uporablja, v skladu s standardi objektivnosti, neodvisnosti, neprekinjenega preverjanja in preglednosti, in če so bonitetne ocene, ki so rezultat metodologije ocenjevanja, v skladu s standardi verodostojnosti in preglednosti.
+(3) Banka Slovenije razveljavi odločbo, s katero je priznala zunanjo bonitetno institucijo kot primerno:
+1. če metodologija ocenjevanja, ki jo zunanja bonitetna institucija uporablja, ni več v skladu s standardi objektivnosti, neodvisnosti, neprekinjenega preverjanja in preglednosti,
+2. če njene bonitetne ocene, ki so rezultat metodologije ocenjevanja, niso več v skladu s standardi verodostojnosti in preglednosti, ali
+3. če nastopijo druge okoliščine, iz katerih izhaja, da zunanja bonitetna institucija ni več primerna.
