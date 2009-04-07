@@ -1,0 +1,3 @@
+# 5. člen
+Drugi odstavek 15. člena se spremeni tako, da se glasi:
+"(2) Ne glede na določbo prejšnjega odstavka predlagatelj finančnega načrta ne sme samostojno odločati o prerazporeditvah s plačnih kontov integralnih postavk, na druge podskupine kontov v finančnih načrtih neposrednih uporabnikov iz njegove pristojnosti, razen razporeditev med konti znotraj postavk, s postavk slovenske udeležbe, s postavk namenskih sredstev EU, s postavk glavnega programa 0304 - Predsedovanje Svetu EU in med podprogrami glavnega programa 2302 - Posebna proračunska rezerva in programi pomoči v primerih nesreč.".
