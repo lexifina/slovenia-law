@@ -1,0 +1,2 @@
+# 8. člen
+Z dnem uveljavitve tega zakona prenehata veljati Uredba o izdaji obveznic za plačilo odškodnine žrtvam vojnega in povojnega nasilja ter izvrševanju odločb o določitvi odškodnine (Uradni list RS, št. 60/01, 85/01, 102/01 in 30/02) in Navodilo o načinu, obliki in rokih posredovanja podatkov o upravičencih do odškodnine na podlagi Zakona o Skladu za poplačilo odškodnine žrtvam vojnega in povojnega nasilja (Uradni list RS, št. 70/01), uporabljata pa se še za primere iz prejšnjega člena.
