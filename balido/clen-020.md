@@ -1,0 +1,5 @@
+# 20. člen PROFESORJI IN RAZISKOVALCI
+
+1. Rezident države pogodbenice, ki je na povabilo univerze, višje ali visoke šole, šole ali druge podobne ustanove, ki je v drugi državi pogodbenici in jo priznava vlada te druge države pogodbenice, začasno navzoč v tej drugi državi pogodbenici samo zaradi poučevanja ali raziskovanja ali obojega v izobraževalni ustanovi, je za največ dve leti od prvega prihoda v to drugo državo pogodbenico oproščen davka v tej drugi državi pogodbenici za prejemke za tako poučevanje ali raziskovanje.
+
+2. Izjema iz prvega odstavka se ne prizna za prejemke za raziskovanje, če se tako raziskovanje ne izvaja v javno korist, ampak v zasebno korist določene osebe ali oseb.
