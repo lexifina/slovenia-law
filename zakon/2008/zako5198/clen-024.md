@@ -1,3 +1,0 @@
-# 24. člen (individualni delovni spori)
-(1) V individualnih delovnih sporih v zvezi s ponavljajočimi dajatvami se vrednost predmeta določi po znesku zahtevanih dajatev, pri čemer vrednost predmeta ne sme presegati triletnega zneska dajatev.
-(2) V individualnih delovnih sporih o sklenitvi, obstoju in prenehanju pogodbe o zaposlitvi se vrednost predmeta določi po znesku zadnjih šestih bruto dohodkov, ki so bili stranki izplačani pred nastankom nagrade. V sporih o uvrstitvi v plačilni razred se kot vrednost predmeta upošteva višina triletnega zneska, ki predstavlja razliko med dejanskim in zahtevanim plačilom.

@@ -1,3 +1,0 @@
-# 27. člen (vrednost predmeta v izvršilnem postopku)
-(1) V postopku za izterjavo denarne terjatve se vrednost predmeta določi po znesku denarne terjatve, ki je predmet izvršbe.
-(2) V postopkih za uveljavitev nedenarne terjatve se vrednost predmeta določi po vrednosti stvari, ki se izroča, dobavlja, izpraznjuje ali deli. V postopkih za uveljavitev nedenarne terjatve, ki se nanašajo na obveznost kaj storiti, dopustiti ali opustiti, na vrnitev delavca na delo, na izjavo volje ali na zadeve glede varstva in vzgoje otrok ter na zadeve glede osebnih stikov z otroki, se vrednost predmeta določi v skladu z 22. členom tega zakona.

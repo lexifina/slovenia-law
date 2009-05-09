@@ -1,6 +1,0 @@
-# 4. člen (dogovor o višini nagrad)
-(1) Odvetnik se lahko s stranko dogovori za plačilo višjih nagrad, kakor so določene s tem zakonom. Dogovor o višjem plačilu mora biti sklenjen pisno ter ločen od pooblastila in drugih dogovorov. Vsebovati mora opozorilo glede določbe iz četrtega odstavka tega člena in ne sme biti v nasprotju s tretjim odstavkom 17. člena Zakona o odvetništvu (Uradni list RS, št. 18/93, 24/96 - odločba US, 24/01 in 54/08).
-(2) Če je določitev višine nagrad prepuščena eni stranki dogovora iz prejšnjega odstavka, se štejejo za dogovorjene zakonske nagrade.
-(3) Odvetnik se lahko s stranko dogovori za plačilo pavšalnih zneskov ali zneskov po porabljenem času, ki so nižji od zakonsko določenih nagrad. Dogovor o nižjem plačilu mora biti sklenjen pisno. V primeru spora o obstoju takšnega dogovora je dokazno breme na stranki.
-(4) Sodišča in drugi organi, ki v okviru svojih pristojnosti odločajo o odvetniških nagradah, pri odmeri odvetniških nagrad ne smejo upoštevati dogovorov iz prvega in tretjega odstavka tega člena, razen v sporu med odvetnikom in njegovo stranko, ki izvira iz tega dogovora.
-(5) Odvetniške nagrade se v primeru zastopanja stranke po uradni dolžnosti ali v primeru nudenja brezplačne pravne pomoči odmerijo samo po tem zakonu. Drugačni dogovori so nični.

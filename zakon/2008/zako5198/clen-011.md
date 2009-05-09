@@ -1,5 +1,0 @@
-# 11. člen (specifikacija, izstavitev in plačilo računa ter plačilo zastopanja iz državnega proračuna)
-(1) Odvetnik lahko zahteva plačilo nagrade in izdatkov le na podlagi specificiranega in stranki izstavljenega računa.
-(2) V specifikaciji računa je treba navesti zneske posameznih nagrad in izdatkov, predujme, kratek opis dejstev, na podlagi katerih so nastale nagrade, opis izdatkov, številke iz Tarife, če so bile uporabljene kot podlaga za odmero stroškov odvetniške storitve, porabljeni čas, če je sklenjen dogovor o plačilu po porabljenem času ter vrednost predmeta pri nagradah, ki se določajo po vrednosti predmeta. Pri plačilih poštnih in telekomunikacijskih storitev zadostuje navedba skupnega zneska. Pri navajanju nagrad v razponu mora odvetnik na kratko obrazložiti razloge, ki utemeljujejo višino nagrade.
-(3) Stranka mora plačati račun v petnajstih dneh po izstavitvi, če drug zakon ne določa drugače.
-(4) O predlogu odvetnika za priznanje in odmero plačila zastopanja, opravljenega za določeno osebo na podlagi sklepa pristojnega organa, mora sodišče oziroma drug pristojni organ odločiti v tridesetih dneh od prejema predloga, če drug zakon ne določa drugače.
