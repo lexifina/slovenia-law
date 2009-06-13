@@ -1,0 +1,3 @@
+# 14. člen
+V 252. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Če je stanje finančnih instrumentov na računu borznoposredniške družbe v centralnem depoju ali drugem vmesnem poddepoju, prek katerega borznoposredniška družba vodi finančne instrumente strank, manjše od skupnega stanja teh finančnih instrumentov, vpisanih v poddepoju, ki ga vodi borznoposredniška družba, borznoposredniška družba v razmerju do svojih strank odgovarja za ta primanjkljaj, ne glede na to, ali v razmerju med borznoposredniško družbo in katerim koli vmesnim poddepozitarjem ali centralnim depozitarjem za ta primanjkljaj odgovarja borznoposredniška družba ali drug vmesni poddepozitar oziroma centralni depozitar.".
