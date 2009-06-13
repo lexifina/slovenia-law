@@ -1,5 +1,5 @@
 # 50. člen (vrnitev štipendije)
-(1) V primerih iz 50. člena tega zakona je štipendist dolžan vrniti štipenditorju štipendijo za letnik, ki ga ni uspešno zaključil, skupaj z obrestmi, v skladu z zakonom, ki predpisuje obrestno mero zamudnih obresti.
+(1) V primerih iz 49. člena tega zakona je štipendist dolžan vrniti štipenditorju štipendijo za letnik, ki ga ni uspešno zaključil, skupaj z obrestmi, v skladu z zakonom, ki predpisuje obrestno mero zamudnih obresti.
 (2) Pristojni center za socialno delo za državno štipendijo oziroma sklad za Zoisovo štipendijo lahko na prošnjo štipendista odloži vračilo štipendije ali dovoli obročno vračanje štipendije za enako dobo, kot je bila doba prejemanja štipendije, če štipendist iz utemeljenih razlogov štipendije ne more vrniti v enkratnem znesku.
 (3) Kot utemeljen razlog iz prejšnjega odstavka se šteje dalj časa trajajoča bolezen oziroma poškodba ali starševstvo štipendista, ki je vplivalo na potek študija.
 (4) Če se pristojni center za socialno delo oziroma sklad in štipendist ne dogovorita o vračilu štipendije na način, določen v prvem in drugem odstavku tega člena, se dolžni znesek štipendije z dodatki izterja od štipendista skladno s predpisi, ki urejajo izvršbo denarnih terjatev.

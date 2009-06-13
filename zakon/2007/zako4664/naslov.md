@@ -1,2 +1,2 @@
 ZAKON
-O ŠTIPENDIRANJU (ZŠtip)
+o štipendiranju (ZŠtip)

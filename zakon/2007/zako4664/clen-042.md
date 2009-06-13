@@ -1,5 +1,5 @@
 # 42. člen (odločanje o dodelitvi štipendij in spodbud za izobraževanje)
-(1) O dodelitvi državne štipendije odloča na prvi stopnji pristojni center za socialno delo.
+(1) O dodelitvi državne štipendije odloča na prvi stopnji pristojni center za socialno delo. Državna štipendija se uveljavlja pri centru, ki je krajevno pristojen glede na kandidatovo stalno prebivališče. Če kandidat nima stalnega prebivališča v Republiki Sloveniji, se državna štipendija uveljavlja pri centru, ki je krajevno pristojen glede na kandidatovo začasno prebivališče. Če kandidat nima ne stalnega ne začasnega prebivališča v Republiki Sloveniji je krajevno pristojen center, kjer je nastal povod za postopek.
 (2) O dodelitvi Zoisove štipendije odloča sklad.
 (3) O dodelitvi štipendije za Slovence v zamejstvu in Slovence po svetu odloča sklad, ki v javnem razpisu, poleg splošnih pogojev iz tega zakona, določi še druge pogoje za pridobitev teh štipendij in njihovo višino.
 (4) Sklad odloča tudi o spodbudah za izobraževanje in nagradah za prispevek k trajnostnemu razvoj družbe.
