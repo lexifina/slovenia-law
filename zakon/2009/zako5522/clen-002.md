@@ -1,0 +1,11 @@
+# 2. člen
+13. člen se spremeni tako, da se glasi:
+"13. člen
+(pogoji za pridobitev državne štipendije)
+(1) Državne štipendije se dodelijo kandidatom, ki izpolnjujejo splošne pogoje iz tega zakona in pri katerih povprečni mesečni dohodek na družinskega člana v preteklem koledarskem letu pred vložitvijo vloge ne presega 65% minimalne plače na družinskega člana v istem obdobju za tiste kandidate, ki se šolajo ali študirajo v kraju svojega stalnega bivališča, in od 66 do 68% minimalne plače na družinskega člana za tiste kandidate, ki se šolajo ali študirajo izven kraja svojega stalnega bivališča.
+(2) V primeru kandidatov iz enostarševskih družin, kandidatov s posebnimi potrebami oziroma kandidatov, katerih sorojenci so osebe s posebnimi potrebami, se državne štipendije dodelijo kandidatom, če izpolnjujejo splošne pogoje iz tega zakona in pri katerih povprečni mesečni dohodek na družinskega člana v preteklem koledarskem letu pred vložitvijo vloge ne presega 70% minimalne plače na družinskega člana v istem obdobju.
+(3) Enostarševska družina je življenjska skupnost enega od staršev in otrok, oziroma življenjska skupnost otrok in osebe, kateri so bili otroci zaupani v varstvo in vzgojo. Če tisti od staršev oziroma oseba, kateri so bili otroci zaupani v varstvo in vzgojo, osnuje novo življenjsko skupnost, se pogoji za dodelitev štipendije ugotavljajo po določbah prvega odstavka tega člena.
+(4) Oseba s posebnimi potrebami je:
+- oseba, ki je invalid z 100% telesno okvaro ali ji je bila priznana pravica do tuje nege in pomoči na podlagi odločbe Zavoda za pokojninsko in invalidsko zavarovanje Slovenije, centra za socialno delo ali upravnega organa, pristojnega za varstvo borcev in vojaških invalidov,
+- oseba, ki potrebuje posebno nego in varstvo v skladu z zakonom, ki ureja starševsko varstvo in družinske prejemke ali ima pravico do dodatka za pomoč in postrežbo v skladu z zakonom, ki ureja o pokojninsko in invalidsko zavarovanje, ali je skladno s predpisi o družbenem varstvu duševno in telesno prizadetih oseb za delo nezmožen.
+(5) Minister, pristojen za delo, glede na oddaljenost od kraja šolanja, v kateri ima upravičenec stalno prebivališče, podrobneje predpiše višino cenzusa v razponu od 66 do 68% minimalne plače na družinskega člana za pridobitev državne štipendije.".
