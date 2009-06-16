@@ -1,0 +1,4 @@
+# 18. člen
+V prvem odstavku 92. člena se doda nov drugi stavek, ki se glasi: "Biometrični podatek o podobi obraza in prstnih odtisih se v evidenci o dovoljenjih za začasno prebivanje hrani do pravnomočne odločitve o prošnji, nato pa se iz evidence briše.".
+V drugem odstavku se prvi stavek spremeni tako, da se glasi: "Podatki iz evidence o dovoljenjih za stalno prebivanje se hranijo 50 let od prenehanja dovoljenja za stalno prebivanje, nato se arhivirajo, razen biometričnega podatka o podobi obraza in prstnih odtisih, ki se hrani do pravnomočne odločitve o prošnji, nato pa se iz evidence briše.".
+V četrtem odstavku se pika na koncu nadomesti z vejico in doda besedilo "razen biometričnega podatka o podobi obraza in prstnih odtisih, ki se hrani do pravnomočne odločitve o prošnji, nato pa se iz evidenc briše.".

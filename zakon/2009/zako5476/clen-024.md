@@ -1,0 +1,2 @@
+# 24. člen
+Dovoljenja za prebivanje, izdana v obliki, določeni v 46. členu zakona, ki so bila izdana do začetka izdajanja nove oblike dovoljenja za prebivanje kot samostojne listine, veljajo do poteka veljavnosti dovoljenja, razen dovoljenja za stalno prebivanje, ki se lahko uporablja še dve leti od začetka izdajanja nove oblike dovoljenja za prebivanje kot samostojne listine, v tem roku pa ga mora tujec zamenjati za samostojno listino.

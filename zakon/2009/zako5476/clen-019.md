@@ -1,0 +1,2 @@
+# 19. člen
+V prvem odstavku 93. člena se drugi stavek spremeni tako, da se glasi: "Podoba obraza in prstni odtisi imetnika dovoljenja za prebivanje in potnega lista za tujce, shranjeni kot biometrični podatek iz 46. in 89. člena tega zakona, se lahko uporabljajo in obdelujejo za preverjanje verodostojnosti dovoljenja za prebivanje ali potnega lista in istovetnosti imetnika dovoljenja za prebivanje ali potnega lista pri prehajanju državnih meja in v državi pri ugotavljanju zakonitosti bivanja.".
