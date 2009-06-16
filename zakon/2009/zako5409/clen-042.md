@@ -1,0 +1,4 @@
+# 42. člen
+Ohranjevalne sorte, vpisane v sortno listo v skladu z Zakonom o semenskem materialu kmetijskih rastlin (Uradni list RS, št. 25/05 - uradno prečiščeno besedilo), ostanejo vpisane v sortno listo, Uprava pa jim v roku dveh let po uradni dolžnosti določi območje v skladu s tretjim odstavkom 55. člena zakona, na katerem se sme ta sorta pridelovati oziroma tržiti. Če podatkov, potrebnih za določitev območja, Uprava ne more pridobiti sama, lahko zanje zaprosi vzdrževalca ohranjevalne sorte.
+Sorte sadnih rastlin, vpisane v sortno listo v skladu z Zakonom o semenskem materialu kmetijskih rastlin (Uradni list RS, št. 25/05 - uradno prečiščeno besedilo), ostanejo še naprej vpisane v sortno listo.
+Postopki za vpis v sortno listo ohranjevalnih sort in sort sadnih rastlin, ki so se začeli na podlagi Zakona o semenskem materialu kmetijskih rastlin (Uradni list RS, št. 25/05 - uradno prečiščeno besedilo) in še niso pravnomočno zaključeni, se končajo po tem zakonu.
