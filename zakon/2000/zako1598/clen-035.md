@@ -1,4 +1,4 @@
-## VIII. PREHODNE IN KONČNE DOLOČBE
+## "VIII. PREHODNE IN KONČNE DOLOČBE
 # 35. člen
 Minister, pristojen za upravo, v soglasju z ministrom, pristojnim za zunanje zadeve, v treh mesecih po uveljavitvi tega zakona:
 1. predpiše obrazce iz 7., 12., 23. in 24. člena tega zakona;
