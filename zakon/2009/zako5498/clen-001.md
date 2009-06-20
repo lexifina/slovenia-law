@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o gospodarskih družbah (Uradni list RS, št. 42/06, 60/06 - popr., 26/07 - ZSDU-B, 33/07 - ZSReg-B, 67/07 - ZTFI, 10/08 in 68/08) se na koncu prvega odstavka 2. člena pred piko doda besedilo: ", Direktiva 2007/36/ES Evropskega parlamenta in Sveta z dne 11. julija 2007 o uveljavljanju določenih pravic delničarjev družb, ki kotirajo na borzi (UL L št. 184 z dne 14. 7. 2007, v nadaljnjem besedilu: Direktiva 2007/36/ES)".

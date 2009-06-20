@@ -1,0 +1,10 @@
+# 8. člen
+V naslovu 294. člena se za besedo "razrešnica" doda besedilo "in določitev politike prejemkov članov organov vodenja ali nadzora".
+V tretjem odstavku se črtajo tretji, četrti in peti stavek.
+Dodajo se novi peti, šesti in sedmi odstavek, ki se glasijo:
+"(5) Na skupščini, ki odloča o uporabi bilančnega dobička, mora poslovodstvo seznaniti delničarje s prejemki članov organov vodenja ali nadzora, ki so jih za opravljanje nalog v družbi prejeli v preteklem poslovnem letu. Informacija mora vsebovati prejemke za vsakega člana organa vodenja ali nadzora posebej in mora biti razčlenjena vsaj na fiksne in variabilne prejemke, udeležbo v dobičku, opcije in druge nagrade, povračila stroškov, zavarovalne premije, provizije in druga dodatna plačila. Informacija mora vsebovati tudi prejemke, ki so jih člani organov vodenja ali nadzora pridobili z opravljanjem nalog v odvisnih družbah. Takšna informacija mora biti razkrita tudi v letnem poročilu, skupaj s politiko prejemkov članov organov vodenja ali nadzora, če jo je skupščina določila.
+(6) Skupščina lahko določi politiko prejemkov članov organov vodenja ali nadzora. Vsi prejemki članov organov vodenja ali nadzora morajo biti v skladu s tako politiko prejemkov.
+(7) Pri določitvi politike prejemkov članov uprave in izvršnih direktorjev skupščina sledi naslednjim načelom:
+- politika prejemkov članov uprave in izvršnih direktorjev spodbuja dolgoročno vzdržnost družbe in zagotavlja, da so prejemki v skladu z doseženimi rezultati in finančnim stanjem družbe;
+- celotne prejemke lahko sestavljata fiksni in variabilni del. Variabilni del prejemkov mora biti odvisen od vnaprej določenih in merljivih meril. Skupščina lahko določi najvišji znesek variabilnega dela prejemka;
+- odpravnina se lahko izplača le v primeru predčasne prekinitve pogodbe. Odpravnina ne more biti izplačana, če je član uprave ali izvršni direktor odpoklican iz razlogov, določenih v prvi, drugi in tretji alineji drugega odstavka 268. člena tega zakona ali če član uprave ali izvršni direktor sam odpove pogodbo. Skupščina lahko določi najvišji znesek odpravnine.".
