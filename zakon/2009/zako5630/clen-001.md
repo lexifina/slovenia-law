@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o policiji (Uradni list RS, št. 107/06 - uradno prečiščeno besedilo in 14/07 - ZVS) se prvi odstavek 2.č člena spremeni tako, da se glasi:
+"Če obstaja utemeljena nevarnost, da bi izvedba pooblastil iz 2.c člena tega zakona pri nadzoru nad izvajanjem določb 48.a člena tega zakona in ukrepov iz 149.a, 149.b, 150., 151., 155., 155.a in 156. člena Zakona o kazenskem postopku (Uradni list RS, št. 32/07 - uradno prečiščeno besedilo, 40/07 - ZDT-E, 102/07 - ZSKZDČEU, 21/08 - odločba US, 23/08 - ZBPP-B, 65/08 - odločba US, 68/08, 89/08 - odločba US in 118/08 - popravni sklep US), onemogočila ali bistveno otežila izvedbo teh ukrepov ali ogrozila življenje in zdravje njihovih izvajalcev, lahko policija do odločitve ministra začasno odreče prikaz dokumentacije, pregled prostorov in posredovanje določenih podatkov ali informacij.".
+V drugem odstavku se beseda "zaupnosti" nadomesti z besedo "tajnosti".
