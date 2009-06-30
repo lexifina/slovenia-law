@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o javnih financah (Uradni list RS, št. 79/99, 124/00, 79/01, 30/02, 56/02 - ZJU, 110/02 - ZDT-B, 127/06 - ZJZP, 14/07 - ZSPDPO in 109/08), se v prvem odstavku 43. člena prvi stavek spremeni tako, da se glasi:
+"(1) Namenski prejemki proračuna so donacije, namenski prejemki proračunskega sklada, prihodki od lastne dejavnosti neposrednih uporabnikov, prihodki od okoljskih dajatev za onesnaževanje okolja zaradi odvajanja odpadnih voda, prihodki od okoljskih dajatev za onesnaževanje okolja zaradi odlaganja odpadkov, prihodki od prodaje ali zamenjave državnega oziroma občinskega stvarnega premoženja in odškodnine iz naslova zavarovanj.".

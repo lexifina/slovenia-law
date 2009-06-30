@@ -1,0 +1,9 @@
+# 106.c člen (Pogoji za članstvo)
+(1) Za člane Fiskalnega sveta se lahko imenujejo strokovnjaki s področja javnih financ, univerzitetni profesorji ekonomske smeri in raziskovalci ekonomske smeri. Kot strokovnjak s področja javnih financ ali raziskovalec ekonomske smeri se šteje oseba z najmanj univerzitetno oziroma visoko strokovno izobrazbo s specializacijo oziroma magisterijem ali drugo stopnjo visokošolskega izobraževanja v skladu z zakonom, ki ureja visoko šolstvo, in najmanj desetimi leti delovnih izkušenj na področju javnih financ.
+(2) Za člana Fiskalnega sveta ne more biti imenovana oseba, ki je bila pravnomočno obsojena zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti na kazen zapora v trajanju več kot šest mesecev. Podatke o pravnomočni obsodbi zaradi naklepnega kaznivega dejanja pridobi minister, pristojen za finance, na način, kot to določa zakon, ki ureja splošni upravni postopek.
+(3) V času trajanja mandata člani Fiskalnega sveta ne smejo biti v delovnem razmerju z neposrednim proračunskim uporabnikom.
+106.č člen
+(Plačila članom)
+(1) Člani Fiskalnega sveta delujejo nepoklicno. Za udeležbo na seji so upravičeni do plačila sejnine v višini obsega sejnin, ki jih je določila vlada za plačilo članov strokovnih in drugih svetov vlade in povrnitve potnih stroškov.
+(2) Predsednik Fiskalnega sveta lahko sklene pogodbo za pripravo analiz, obširnejših mnenj, izhodišč oziroma konkretnih rešitev, ki izhajajo iz delovnih nalog Fiskalnega sveta. Podlaga za plačilo po pogodbi je poročilo o opravljenem delu ter predloženo gradivo, ki je bilo predmet sklenjene pogodbe.
+(3) Člani Fiskalnega sveta sprejmejo kodeks in poslovnik o delu in ju objavijo v Uradnem listu Republike Slovenije. V Uradnem listu Republike Slovenije Fiskalni svet objavlja tudi letno poročilo iz 106.d člena tega zakona.
