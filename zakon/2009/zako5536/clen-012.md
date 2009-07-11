@@ -1,0 +1,2 @@
+# 12. člen
+Uredba o organih v sestavi ministrstev (Uradni list RS, št. 58/03, 45/04, 138/04, 52/05, 82/05, 17/06, 132/06, 41/07 in 64/08 - ZViS-F) in Uredba o notranji organizaciji, sistemizaciji, delovnih mestih in nazivih v organih javne uprave in v pravosodnih organih (Uradni list RS, št. 58/03, 81/03, 109/03, 22/04, 43/04, 58/04 - popr., 138/04, 35/05, 60/05, 72/05, 112/05, 49/06, 140/06, 9/07, 101/07, 33/08, 66/08, 88/08 in 8/09) se uskladita s tem zakonom najkasneje v treh mesecih od njegove uveljavitve.
