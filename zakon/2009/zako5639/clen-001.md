@@ -1,0 +1,12 @@
+# 1. člen
+V Zakonu o zavarovalništvu (Uradni list RS, št. 109/06 - uradno prečiščeno besedilo, 102/07, 69/08 in 19/09) se v 54. členu spremeni prvi odstavek tako, da se glasi:
+"(1) Za sklic skupščine, udeležbo na skupščini, zapisnik skupščine in pravico članov do obveščenosti se smiselno uporabljajo določbe ZGD o skupščini delniške družbe, ki urejajo možnosti članov uprave, da se udeležijo skupščine tudi, če niso delničarji, o pristojnosti skupščine, o sklicu skupščine, o vsebini in objavi sklica, o sklicnem roku in udeležbi, o zagotovitvi informacij, o dopolnitvi dnevnega reda, o predlogih delničarjev, o volilnih predlogih delničarjev, o zapisniku skupščine, o delničarjevi pravici do obveščenosti in o sodni odločbi glede pravice do obveščenosti.".
+Dodata se nova drugi in tretji odstavek, ki se glasita:
+"(2) Ne glede na določbe prejšnjega odstavka, je treba skupščino družbe za vzajemno zavarovanje, ki ima več kot 50.000 članov sklicati, če to pisno zahteva najmanj 1,5 odstotka članov družbe za vzajemno zavarovanje. Zahtevo članov za sklic skupščine, ki mora vsebovati predlog dnevnega reda in predlog sklepov ter obrazložitev posameznih točk dnevnega reda se pošlje upravi družbe. Uprava družbe za vzajemno zavarovanje mora skupščino sklicati v roku 15 dni od prejema zahteve članov za sklic skupščine. Tako sklicana skupščina ne sme biti kasneje kot 30. dan od dneva objave sklica skupščine. Skupščina, sklicana na podlagi zahteve članov, lahko odloča le v okviru dnevnega reda, podanega v zahtevi za sklic skupščine, k temu dnevnemu redu pa lahko uprava predlaga dopolnitve.
+(3) Če uprava družbe za vzajemno zavarovanje ne skliče skupščine po prejemu zahteve članov za sklic skupščine v roku iz prejšnjega odstavka, lahko sodišče člane oziroma njihove pooblaščence pooblasti za sklic skupščine.".
+Dosedanji drugi in tretji odstavek postaneta četrti in peti odstavek.
+Dosedanji četrti odstavek, ki postane šesti odstavek, se spremeni tako, da se glasi:
+"(6) Če za člane glasovalno pravico uresničuje pooblaščena oseba, morajo biti vsa pooblastila predložena družbi za vzajemno zavarovanje, najpozneje sedem dni pred skupščino. Pooblastila ostanejo shranjena pri družbi za vzajemno zavarovanje.".
+Dosedanji peti odstavek postane sedmi odstavek.
+Doda se nov osmi odstavek, ki se glasi:
+"(8) Predsednika skupščine izvoli skupščina za vsako skupščino posebej. Predlog za predsednika skupščine poda uprava družbe za vzajemno zavarovanje ali najmanj tretjina na seji skupščine prisotnih oziroma zastopanih članov.".
