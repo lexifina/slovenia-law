@@ -1,0 +1,15 @@
+## II. JAMSTVENA SHEMA
+
+# 6. člen (kreditojemalci, za katere se izdajo jamstva)
+
+(1) Jamstva po tem zakonu se lahko dajo bankam za obveznosti iz kreditov fizičnih oseb, ki so na dan vložitve vloge za kredit po tem zakonu državljani ali državljanke Republike Slovenije s stalnim prebivališčem v Republiki Sloveniji in tujcem ali tujkam, ki imajo na dan vložitve vloge za kredit po tem zakonu dovoljenje za stalno prebivanje v Republiki Sloveniji (v nadaljnjem besedilu: kreditojemalec), če:
+
+a) ima sklenjeno delovno razmerje za določen čas in je njegova povprečna plača v treh mesecih pred vložitvijo vloge za kredit po tem zakonu enaka ali nižja od 1,5 kratnika povprečne mesečne plače v Republiki Sloveniji v istem obdobju in njegovi skupni dohodki in dohodki iz kapitala, ki se v skladu z zakonom, ki ureja dohodnino, vštevajo v letno davčno osnovo ter dohodki iz kapitala obdavčeni v skladu z zakonom, ki ureja dohodnino, v letu pred najemom kredita, niso presegli 1,5 kratnika povprečne letne plače v Republiki Sloveniji, ali
+
+b) prvič rešuje svoje stanovanjsko vprašanje in je njegova povprečna plača v treh mesecih pred vložitvijo vloge za kredit po tem zakonu enaka ali nižja od 1,5 kratnika povprečne mesečne plače v Republiki Sloveniji v istem obdobju in njegovi skupni dohodki in dohodki iz kapitala, ki se v skladu z zakonom, ki ureja dohodnino, vštevajo v letno davčno osnovo ter dohodki iz kapitala obdavčeni v skladu z zakonom, ki ureja dohodnino, v letu pred najemom kredita, niso presegli 1,5 kratnika povprečne letne plače v Republiki Sloveniji, ali
+
+c) je član ali članica mlade družine, pri čemer se za mlado družino šteje življenjska skupnost obeh ali enega izmed staršev z enim ali več otroki oziroma posvojenci, pri čemer vsaj en otrok še ni šoloobvezen v koledarskem letu vložitve vloge za kredit po tem zakonu. Status mlade družine ugotavlja Stanovanjski sklad Republike Slovenije po Zakonu o nacionalni stanovanjski varčevalni shemi in subvencijah mladim družinam za prvo reševanje stanovanjskega vprašanja (Uradni list RS, št. 96/07 – uradno prečiščeno besedilo), ali
+
+č) mu je bila po 1. oktobru 2008 odpovedana pogodba o zaposlitvi iz poslovnih razlogov, zaradi začetka postopka za prenehanje delodajalca ali prisilne poravnave in na dan vložitve vloge za kredit po tem zakonu nima sklenjenega delovnega razmerja oziroma ne opravlja samostojne dejavnosti, če skupni dohodki njegove družine, ki se v skladu z zakonom, ki ureja dohodnino, vštevajo v letno davčno osnovo ter dohodki iz kapitala v skladu z zakonom, ki ureja dohodnino, v letu pred vložitvijo vloge za kredit po tem zakonu, niso presegli polovice letne povprečne plače v Republiki Slovenije na posameznega člana ali članico družine.
+
+(2) Za prvo reševanje stanovanjskega vprašanja se šteje prvi nakup, gradnja, rekonstrukcija ali sprememba namembnosti stanovanja, če stanovanje ustreza površinskim normativom za primerno stanovanje v skladu z zakonom, ki ureja stanovanjska razmerja in če kreditojemalec nima v lasti drugega primernega stanovanja.
