@@ -1,0 +1,4 @@
+# 2. člen
+V 114. členu se dodata nov drugi in tretji odstavek, ki se glasita:
+"(2) V predpisu, s katerim predpiše tarifo za odmero nagrade upravitelja in pavšalnega nadomestila za prevzem poslov razrešenega upravitelja ter podrobnejša pravila o stroških, do povrnitve katerih je upravičen upravitelj, in o pavšalnem znesku za kritje drugih stroškov stečajnega postopka, ki se konča brez razdelitve upnikom, iz 3. točke 233. člena tega zakona, minister, pristojen za pravosodje, določi tudi maksimalne zneske, ki jih nagrada, pavšalno nadomestilo, povrnitev stroškov ali pavšalni znesek za kritje drugih stroškov v posameznem primeru ne smejo preseči.
+(3) Vrhovno sodišče zbira podatke o pravnomočno odmerjenih zneskih iz prejšnjega odstavka in jih s poročilom, ki vsebuje ugotovitve, ki izhajajo iz sodne prakse, do 30. junija za preteklo leto posreduje ministrstvu, pristojnemu za pravosodje, in Državnemu zboru.".
