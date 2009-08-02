@@ -1,1 +1,0 @@
-# 27. člen (črtan) V. SPLOŠNI POGOJI, CENE IN RAČUNOVODSTVO

@@ -1,6 +1,0 @@
-# 13. člen (obvestilo)
-(1) Fizična ali pravna oseba (v nadaljnjem besedilu: vlagatelj), ki skladno s prvim odstavkom 10. člena tega zakona pisno obvesti agencijo, mora v obvestilu navesti ime ali naziv firme, naslov ali sedež, obliko gospodarske družbe, v kateri bo izvajala poštne storitve, in podrobnosti o vrstah poštnih storitev, ki jih bo izvajala ter priložiti potrdilo o registraciji za opravljanje poštne dejavnosti.
-(2) Če agencija na podlagi obvestila ugotovi, da želi vlagatelj izvajati poštne storitve prenosa poštnih pošiljk do mase 2 kg, poštnih paketov do mase 20 kg ali poštnih pošiljk za slepe in slabovidne, ali storitve priporočene in vrednostne poštne pošiljke, izda o tem ugotovitveni sklep.
-(3) Če agencija na podlagi obvestila ugotovi, da želi vlagatelj izvajati poštne storitve, za katere potrebuje dovoljenje, mu z odločbo prepove izvajanje teh poštnih storitev.
-(4) Izvajalec poštnih storitev mora pisno obvestiti agencijo o vsaki spremembi podatkov iz prvega odstavka tega člena v 30 dneh od njenega nastanka, o vsaki predvideni spremembi ali prenehanju izvajanja poštnih storitev pa najmanj 15 dni vnaprej.
-(5) Agencija v 15 dneh od prejema obvestila o prenehanju izvajanja poštnih storitev o tem izda ustrezen sklep, s katerim preneha obveznost iz 14. člena tega zakona.
