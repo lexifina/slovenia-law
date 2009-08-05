@@ -1,0 +1,13 @@
+# 8. člen Lažje izpolnjevanje obveznosti in pojasnila
+
+1. Države pogodbenice se strinjajo, da se posvetujejo in sodelujejo pri izvajanju te konvencije in si v duhu sodelovanja olajšujejo izpolnjevanje obveznosti po konvenciji.
+
+2. Če ena ali več držav pogodbenic želi razjasniti in rešiti vprašanja, povezana z izpolnjevanjem obveznosti druge države pogodbenice po tej konvenciji, lahko tej državi pogodbenici prek generalnega sekretarja Združenih narodov pošlje zaprosilo za pojasnilo o tej zadevi. Zaprosilu se priložijo vse ustrezne informacije. Država pogodbenica ne daje neutemeljenih zaprosil za pojasnilo, s čimer se preprečujejo zlorabe. Država pogodbenica, ki je prejela zaprosilo za pojasnilo, pošlje prek generalnega sekretarja Združenih narodov državi pogodbenici, ki je zaprosila za pojasnilo, v 28 dneh vse informacije, ki bi pomagale razjasniti zadevo.
+
+3. Če država pogodbenica, ki je zaprosila za pojasnilo, ne prejme odgovora prek generalnega sekretarja Združenih narodov v tem roku ali meni, da odgovor na zaprosilo za pojasnilo ni zadovoljiv, lahko prek generalnega sekretarja Združenih narodov predloži zadevo na naslednjem zasedanju držav pogodbenic. Generalni sekretar Združenih narodov vsem državam pogodbenicam pošlje zadevo skupaj z ustreznimi informacijami, ki se nanašajo na zaprosilo za pojasnilo. Informacije se predložijo državi pogodbenici, od katere se zahteva pojasnilo, ta pa ima pravico do odgovora.
+
+4. Do sklica zasedanja držav pogodbenic lahko katera koli zadevna država pogodbenica zaprosi generalnega sekretarja Združenih narodov za pomoč pri razjasnitvi.
+
+5. Ko je bila zadeva predložena na zasedanje držav pogodbenic v skladu s tretjim odstavkom, se najprej odloči, ali bo zadeva nadalje obravnavana, pri čemer so upoštevane vse informacije, ki so jih predložile zadevne države pogodbenice. Če se tako odloči, lahko zasedanje držav pogodbenic predlaga zadevnim državam pogodbenicam načine in sredstva za nadaljnjo razjasnitev ali rešitev obravnavane zadeve, vključno z začetkom ustreznih postopkov v skladu z mednarodnim pravom. V okoliščinah, pri katerih se ugotovi, da je obravnavano vprašanje nastalo zaradi razmer, ki so zunaj nadzora države pogodbenice, ki je zaprošena za pojasnilo, lahko zasedanje držav pogodbenic priporoči ustrezne ukrepe, vključno z uporabo ukrepov sodelovanja iz 6. člena.
+
+6. Poleg postopkov, predvidenih v drugem do petem odstavku, lahko zasedanje držav pogodbenic sprejme druge splošne postopke ali posebne mehanizme za razjasnitev izpolnjevanja obveznosti, vključno z dejstvi, in razrešitev primerov neizpolnjevanja obveznosti po tej konvenciji, kakor meni, da je primerno.
