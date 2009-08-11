@@ -1,0 +1,3 @@
+# 22. člen
+(1) Do izdaje predpisov iz tretjega in četrtega odstavka 138.a člena zakona se glede števila oseb, ki se smejo prevažati v vojaških vozilih ali na njih, in glede kategorije vozniškega dovoljenja, če se v vojaškem vozilu ali na njem poleg voznika vozi več kot osem oseb, uporablja Zakon o varnosti cestnega prometa (Uradni list RS, št. 56/08 - uradno prečiščeno besedilo in 57/08 - ZLDUVCP).
+(2) Do izdaje predpisa iz drugega odstavka 211.a člena zakona se glede tehničnih pregledov bojnih in nebojnih vojaških vozil za posebne namene, ki se uporabljajo za delovanje Slovenske vojske, uporablja Zakon o varnosti cestnega prometa (Uradni list RS, št. 56/08 - uradno prečiščeno besedilo in 57/08 - ZLDUVCP).
