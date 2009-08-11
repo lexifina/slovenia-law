@@ -7,7 +7,7 @@
 - 180. člen,
 - tretji odstavek 236. člena,
 - 243. do 246. člen,
-- tretji odstavek 297. člena,
+- (črtana),
 - peti odstavek 308. člena,
 - 365. člen,
 - prvi in drugi stavek prvega odstavka 376. člena.
