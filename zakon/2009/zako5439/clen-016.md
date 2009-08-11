@@ -1,0 +1,6 @@
+# 16. člen
+(1) Agencija v roku šestih mesecev od uveljavitve tega zakona od Slovenskih železnic d.o.o. prevzame dela in naloge zaračunavanja uporabnine ter zaposlene, ki na Slovenskih železnicah d.o.o. opravljajo ta dela in naloge.
+(2) Zaposlenim iz prejšnjega odstavka se zaradi spremembe delodajalca pravice in obveznosti iz delovnega razmerja določijo v skladu z določbami zakona, ki ureja delovna razmerja.
+(3) Slovenske železnice d.o.o. v roku sedmih dni po uveljavitvi tega zakona posredujejo Ministrstvu za promet seznam delovnih opravil in nalog z zahtevano stopnjo izobrazbe za opravljanje nalog iz prvega odstavka tega člena s seznamom delavcev ter programske opreme, potrebnih za izvajanje nalog v zvezi z zaračunavanjem uporabnine in izdelavo voznega reda omrežja.
+(4) Ministrstvo za promet zagotovi, da se ustrezna višina proračunskih sredstev, namenjenih za izvajanje nalog in potrebno opremo za zaračunavanje uporabnine, prenese iz sredstev, namenjenih za izvajanje gospodarske javne službe vzdrževanja javne železniške infrastrukture in vodenja prometa, na agencijo.
+(5) Vlada Republike Slovenije v treh mesecih od uveljavitve tega zakona uskladi določbe Uredbe o dodeljevanju vlakovnih poti in uporabnini na javni železniški infrastrukturi (Uradni list RS, št. 38/08) z določbami tega zakona.

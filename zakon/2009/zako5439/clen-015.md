@@ -1,0 +1,2 @@
+# 15. člen
+Prve okvirne pogodbe v skladu s 15.e členom zakona se lahko od 1. januarja 2010 sklepajo za obdobje petih let z možnostjo enkratnega podaljšanja, in sicer na podlagi značilnosti infrastrukturnih zmogljivosti, ki so jih uporabljali prosilci, ki so izvajali storitve pred 1. januarjem 2010, pri čemer se upoštevajo prosilčeve posebne naložbe ali sklenjene gospodarske pogodbe. Začetek veljavnosti takšne pogodbe odobri regulatorni organ.
