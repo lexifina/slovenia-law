@@ -1,0 +1,2 @@
+# 10. člen (strokovni delavci)
+Z uveljavitvijo tega zakona pridobijo pravico iz 146. člena zakona tudi tisti strokovni delavci, ki izpolnjujejo pogoje iz prvega odstavka 146. člena, 147. in 148. člena zakona ter 42. člena Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 36/08), ki so opravljali delo na področju vzgoje in izobraževanja na dan 24. 6. 2009, ne glede na dolžino morebitnih prekinitev opravljanja dela na področju vzgoje in izobraževanja v obdobju od 15. 3. 1996 oziroma 26. 4. 2008 do 24. 6. 2009.

@@ -1,0 +1,5 @@
+# 7. člen
+V 146. členu se dodata novi drugi in tretji odstavek, ki se glasita:
+"Strokovni delavci iz prvega odstavka tega člena imajo pravico opravljati vzgojno-izobraževalno delo do prenehanja neprekinjenega opravljanja dela na področju vzgoje in izobraževanja. Trimesečna ali krajša prekinitev ne pomeni prekinitve neprekinjenega opravljanja dela na področju vzgoje in izobraževanja. Učitelji v osnovni in glasbeni šoli, v gimnaziji in v poklicni, strokovni ter tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu iz tega člena na razpisih za prosta delovna mesta na področju vzgoje in izobraževanja enakovredno kandidirajo in se zaposlujejo kot kandidati, ki imajo z zakonom in drugimi predpisi določeno izobrazbo.
+Določba drugega odstavka tega člena se uporablja tudi za druge strokovne delavce, ki imajo v skladu z zakonom pravico opravljati vzgojno-izobraževalno delo iz istih razlogov kot strokovni delavci iz prvega odstavka tega člena.".
+Dosedanji drugi, tretji in četrti odstavek postanejo četrti, peti in šesti odstavek.

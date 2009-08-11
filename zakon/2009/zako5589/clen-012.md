@@ -1,0 +1,5 @@
+# 12. člen (uskladitev sestave svetov)
+Ustanovitelji javnih vrtcev in šol morajo uskladiti akte o ustanovitvi v skladu z določbami 1. člena tega zakona v roku enega leta po uveljavitvi tega zakona.
+Ne glede na določbe prvega odstavka tega člena se neposredno na podlagi tega zakona v svet javnega vrtca oziroma šole, v katerem imajo delavci tri predstavnike, najpozneje v šestih mesecih po uveljavitvi tega zakona izvolita še dva predstavnika delavcev. V svet javne poklicne oziroma strokovne šole, gimnazije in javnega dijaškega doma, v katerem dijaki nimajo svojega predstavnika, se izvolita tudi dva predstavnika dijakov.
+V roku iz drugega odstavka tega člena se v javnem vzgojno-izobraževalnem zavodu, v katerem so organizirane organizacijske enote poklicnih oziroma strokovnih šol, gimnazij ali dijaških domov, zagotovi zastopanost dijakov tako, da se izvoli toliko predstavnikov dijakov, kolikor je predstavnikov staršev.
+Sveti javnih vrtcev in šol nadaljujejo svoje delo do poteka mandata. Članom sveta zavoda, ki so bili imenovani oziroma izvoljeni pred uveljavitvijo tega zakona, in članom, ki so izvoljeni v skladu s tem členom, poteče mandat s potekom mandata sveta.
