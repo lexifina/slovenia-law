@@ -1,0 +1,3 @@
+# 125. člen (oprostitev odgovornosti za neizvršitev oziroma nepravilno izvršitev plačilne transakcije)
+(1) Ponudnik plačilnih storitev ne odgovarja uporabniku za neizvršitev ali nepravilno izvršitev plačilne transakcije na podlagi 122. oziroma 123. člena tega zakona, če je neizvršitev ali nepravilna izvršitev plačilne transakcije posledica izjemnih in nepredvidljivih okoliščin, ki se jim ponudnik plačilnih storitev ni mogel izogniti ali jih preprečiti.
+(2) Ponudnik plačilnih storitev prav tako ne odgovarja uporabniku, če je neizvršitev ali nepravilna izvršitev plačilne transakcije posledica izpolnjevanja obveznosti ponudnika plačilnih storitev, ki izhajajo iz drugih predpisov, ki zavezujejo ponudnika plačilnih storitev.

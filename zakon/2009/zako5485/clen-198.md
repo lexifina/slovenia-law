@@ -1,0 +1,5 @@
+## 3. PODPOGLAVJE NADZOR NAD PLAČILNO INSTITUCIJO Z OPUSTITVIJO
+# 198. člen (nadzor nad plačilnimi institucijami z opustitvijo)
+(1) Za nadzor nad plačilnimi institucijami z opustitvijo se smiselno uporabljajo določbe tega zakona o nadzoru nad plačilnimi institucijami, če ni v tem členu drugače določeno.
+(2) Če Banka Slovenije ugotovi, da plačilna institucija z opustitvijo ne izpolnjuje več pogojev iz 2. ali 3. točke drugega odstavka 67. člena tega zakona, ji odredi poseben ukrep, da v roku 30 dni zagotovi izpolnjevanje teh pogojev ali da v tem roku vloži zahtevo za izdajo dovoljenja Banke Slovenije za opravljanje plačilnih storitev kot plačilna institucija v skladu s tem zakonom.
+(3) Banka Slovenije plačilni instituciji z opustitvijo odvzame dovoljenje za opravljanje storitev denarnih nakazil kot plačilna institucija z opustitvijo, če plačilna institucija z opustitvijo ne ravna v skladu z odredbo za izvedbo posebnega ukrepa iz drugega odstavka tega člena.

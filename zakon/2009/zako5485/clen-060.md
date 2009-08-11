@@ -1,0 +1,4 @@
+# 60. člen (zavarovalna pogodba ali druga garancija)
+(1) Določbe 59. člena tega zakona se ne uporabljajo, če plačilna institucija zagotovi ustrezno zavarovanje izpolnitve svojih finančnih obveznosti do uporabnikov za primer, če plačilna institucija ne bi bila sposobna izpolniti svojih finančnih obveznosti do uporabnikov.
+(2) Zavarovanje se šteje kot ustrezno, če plačilna institucija zavaruje izpolnitev svojih finančnih obveznosti do uporabnikov z zavarovalno pogodbo ali drugo primerljivo garancijo, sklenjeno z zavarovalnico ali banko s sedežem v Republiki Sloveniji ali v drugi državi članici, ki ne sodi v isto skupino kakor plačilna institucija.
+(3) Zavarovalno pogodbo ali drugo primerljivo garancijo sklene plačilna institucija v korist uporabnikov kot zavarovancev. Zavarovalna pogodba ali garancija mora uporabnikom zagotavljati izplačilo zneska, ki bi moral biti sicer ločen na podlagi prvega odstavka 59. člena tega zakona.

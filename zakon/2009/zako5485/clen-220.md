@@ -1,0 +1,31 @@
+## 17. POGLAVJE KAZENSKE DOLOČBE
+# 220. člen (kršitve ponudnikov plačilnih storitev)
+(1) Z globo od 2.500 do 80.000 eurov se za prekršek kaznuje ponudnik plačilnih storitev, ki pri opravljanju plačilnih storitev v Republiki Sloveniji:
+1. zaračuna uporabniku nadomestila v nasprotju s 75. členom tega zakona,
+2. uporabniku pred sklenitvijo okvirne pogodbe o plačilnih storitvah ne zagotovi splošnih informacij iz 79. člena tega zakona ali jih ne zagotavlja na način iz 80. člena tega zakona,
+3. uporabniku ne zagotovi splošnih informacij in določil okvirne pogodbe v skladu z 81. členom tega zakona,
+4. uporabniku ne zagotovi informacij o posamezni plačilni transakciji v skladu z 82., 83. ali 84. členom tega zakona,
+5. zaračuna uporabniku nadomestila v primeru odpovedi okvirne pogodbe v nasprotju z drugim in tretjim odstavkom 87. člena tega zakona ali drugim odstavkom 88. člena tega zakona,
+6. uporabniku v zvezi z okvirno pogodbo o plačilnem instrumentu za plačila majhnih vrednosti ne zagotovi informacij o glavnih značilnostih plačilne storitve v skladu s prvim odstavkom 90. člena tega zakona,
+7. uporabniku ne zagotovi informacij o posamezni plačilni transakciji v zvezi s plačilnimi instrumenti za plačila majhnih vrednosti v skladu z 91. členom tega zakona,
+8. uporabniku pred sklenitvijo pogodbe o izvršitvi enkratne plačilne transakcije ne zagotovi splošnih informacij v skladu z 92. členom tega zakona,
+9. plačniku ne zagotovi informacij o posamezni plačilni transakciji po prejemu plačilnega naloga na podlagi pogodbe o enkratni plačilni transakciji v skladu s 93. členom tega zakona, ali ne zagotovi prejemniku plačila informacij o posamezni plačilni transakciji po izvršitvi plačilne transakcije na podlagi pogodbe o enkratni plačilni transakciji v skladu s 94. členom tega zakona,
+10. uporabnika pred odreditvijo plačilne transakcije ne obvesti o posebnem nadomestilu, ki ga zaračunava za uporabo določenega plačilnega instrumenta (drugi odstavek 97. člena tega zakona),
+11. uporabniku, ki je potrošnik, pred sklenitvijo pogodbe o plačilnih storitvah na daljavo ne zagotovi predhodnih informacij v skladu s 100. členom tega zakona,
+12. uporabniku, ki je potrošnik, pred sklenitvijo pogodbe o enkratni plačilni transakciji ne zagotovi predhodnih informacij v skladu s 101. členom tega zakona,
+13. ne izvrši plačilne transakcije po prejemu plačilnega naloga (104. člen tega zakona),
+14. ne obvesti uporabnika o zavrnitvi izvršitev plačilnega naloga (prvi in drugi odstavek 105. člena tega zakona),
+15. uporabniku ne omogoči preklica plačilnega naloga v skladu z 106. in 107. členom tega zakona,
+16. zaračuna uporabniku nadomestila za izvršitev plačilne transakcije v nasprotju s prvim ali drugim odstavkom 109. člena tega zakona,
+17. ne zagotovi prenosa celotnega zneska plačilne transakcije v skladu s tretjim odstavkom 109. člena tega zakona oziroma v primeru dogovora iz četrtega odstavka 109. člena tega zakona ne obvesti uporabnika o celotnem znesku plačilne transakcije in nadomestil, ki jih je odtegnil,
+18. prejemniku plačila prepreči ali ga kakor koli drugače omejuje, da od plačnika zahteva plačilo nadomestila ali mu ponudi znižanje za uporabo določenega plačilnega instrumenta (110. člen tega zakona),
+19. ne izvrši plačilne transakcije v predpisanem roku (111. člen tega zakona),
+20. ne posreduje plačilnega naloga, ki ga je odredil prejemnik plačila ali plačnik preko prejemnika plačila, plačnikovemu ponudniku plačilnih storitev v dogovorjenih rokih tako, da je na dogovorjeni dan zapadlosti mogoče izvršiti plačilno transakcijo (112. člen tega zakona),
+21. ne omogoči uporabniku razpolagati z denarnimi sredstvi na plačilnem računu in ne zagotovi ustreznega datuma valute odobritve ali obremenitve plačilnega računa (113., 114. in 115. člen tega zakona),
+22. ne izpolni zahtev v zvezi varno uporabo plačilnega instrumenta (prvi in drugi odstavek 117. člena tega zakona),
+23. ne zagotovi sredstev, ki uporabniku na njegovo zahtevo omogočajo, da dokaže posredovanje obvestila o izgubljenem, ukradenem ali zlorabljenem plačilnem instrumentu, ali jih ne zagotavlja v zahtevanem obdobju (tretji odstavek 117. člena tega zakona),
+24. ne povrne zneska neodobrenih oziroma nepravilno izvršenih plačilnih transakcija in pripadajočih nadomestil oziroma obresti v skladu s 119., 120, 122. oziroma 123. členom tega zakona,
+25. ne zagotovi uporabniku popravka neodobrene oziroma nepravilno izvršene plačilne transakcije v skladu s 130. členom tega zakona,
+26. ne povrne uporabniku zneska odobrene in pravilno izvršene plačilne transakcije v skladu s 131. členom tega zakona,
+27. ne vzpostavi postopka oziroma pravil za mirno reševanje sporov v zvezi z opravljanjem plačilnih storitev ali če tak postopek oziroma pravila ne izpolnjujejo zahtev iz 218. člena tega zakona.
+(2) Z globo od 400 do 4.000 eurov se za prekršek kaznuje odgovorna oseba ponudnika plačilnih storitev, ki stori prekršek iz prvega odstavka tega člena.

@@ -1,0 +1,7 @@
+# 146. člen (dostop do podatkov iz registra transakcijskih računov)
+(1) Podatki v registru transakcijskih računov, so javni in brezplačno dostopni na spletni strani Agencije. Določba prejšnjega stavka ne velja za osebne podatke fizičnih oseb. Podatki o transakcijskih računih podjetnikov in zasebnikov, ki se uporabljajo za opravljanje dejavnosti, postanejo javni z vpisom teh računov v Poslovni register Slovenije v skladu z zakonom, ki ureja Poslovni register Slovenije.
+(2) Agencija mora varovati podatke o fizičnih osebah in njihovih transakcijskih računih kot zaupne v skladu z zakonom, ki ureja varstvo osebnih podatkov, razen če so podatki o transakcijskih računih podjetnikov in zasebnikov postali javni v skladu s prvim odstavkom tega člena.
+(3) Osebne podatke o transakcijskih računih fizičnih oseb lahko pridobijo:
+1. osebe, ki so na podlagi pravnomočnega izvršilnega naslova upravičene predlagati postopek izvršbe ali zavarovanja zoper imetnika transakcijskega računa v skladu z zakonom, ki ureja izvršbo in zavarovanje, ali z drugim zakonom, ki določa postopek prisilne izvršitve terjatev,
+2. sodišča in drugi organi, ki opravljajo dejanja v postopku izvršbe ali drugih postopkih, ki jih vodijo v okviru svojih pristojnosti.
+(4) Osebne podatke o transakcijskih računih fizičnih oseb, ki se obdelujejo v registru transakcijskih računov, lahko pridobi tudi imetnik transakcijskega računa glede podatkov, ki se nanašajo nanj, ter druge osebe, za katere drug zakon določa pravno podlago in namen obdelave osebnih podatkov.

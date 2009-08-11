@@ -1,0 +1,4 @@
+## 3. POGLAVJE OPRAVLJANJE PLAČILNIH STORITEV IZVRŠEVANJA DENARNIH NAKAZIL KOT PLAČILNA INSTITUCIJA Z OPUSTITVIJO
+# 66. člen (opredelitev pojma)
+(1) Plačilna institucija z opustitvijo je pravna ali fizična oseba, ki opravlja storitve izvrševanja denarnih nakazil iz 6. točke prvega odstavka 5. člena tega zakona na podlagi dovoljenja Banke Slovenije za opravljanje teh storitev kot plačilna institucija z opustitvijo.
+(2) Določbe 2. poglavja tega zakona o zahtevah za opravljanje plačilnih storitev kot plačilna institucija se uporabljajo tudi za plačilne institucije z opustitvijo, razen če je Banka Slovenije plačilni instituciji z opustitvijo v skladu s 67. členom tega zakona dovolila opustitev izpolnjevanja posameznih zahtev ali če ta zakon izrecno določa, da se za plačilne institucije z opustitvijo posamezne določbe tega zakona ne uporabljajo.

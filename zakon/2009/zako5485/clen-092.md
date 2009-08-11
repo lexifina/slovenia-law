@@ -1,0 +1,11 @@
+## 3. ODDELEK POGODBA O IZVRŠITVI ENKRATNE PLAČILNE TRANSAKCIJE
+# 92. člen (splošne informacije)
+(1) Ponudnik plačilnih storitev mora uporabniku pred sklenitvijo pogodbe o izvršitvi enkratne plačilne transakcije dati na voljo naslednje informacije:
+1. katero vrsto enolične identifikacijske oznake ali katere druge podatke mora navesti uporabnik, da se lahko plačilni nalog pravilno izvrši;
+2. najdaljši rok izvršitve plačilne transakcije;
+3. vsa nadomestila, ki jih ponudnik plačilnih storitev zaračunava uporabnikom, vključno z razčlenitvijo postavk, če uporabniku zaračunava skupno nadomestilo;
+4. morebitni menjalni tečaj ali referenčni menjalni tečaj, ki ga ponudnik plačilnih storitev uporablja za plačilno transakcijo.
+(2) Ponudnik plačilnih storitev mora dati uporabniku informacije iz prvega odstavka tega člena na voljo na lahko dostopen način tako, da ima uporabnik dovolj časa, da se seznani s pogoji glede izvršitve plačilne transakcije preden je kakor koli zavezan s pogodbo o plačilni storitvi. Ponudnik plačilnih storitev lahko da uporabniku na voljo informacije iz prvega odstavka tega člena tudi s predložitvijo predloga pogodbe o izvršitvi enkratne plačilne transakcije ali predloga plačilnega naloga, ki vsebuje zahtevane informacije.
+(3) Ponudnik plačilnih storitev mora zagotoviti, da so informacije iz prvega odstavka tega člena podane na lahko razumljiv način, v jasni in razumljivi obliki ter v slovenskem jeziku ali v drugem jeziku o katerem se dogovorita stranki. Na zahtevo uporabnika mora ponudnik plačilnih storitev informacije iz prvega odstavka tega člena uporabniku posredovati v pisni obliki ali na drugem trajnem nosilcu podatkov.
+(4) Če je bila pogodba o enkratni plačilni transakciji na zahtevo uporabnika sklenjena z uporabo sredstev za sporazumevanje na daljavo, ki ponudniku plačilnih storitev ne omogočajo, da bi ravnal v skladu s prvim do tretjim odstavkom tega člena, mora ponudnik plačilnih storitev informacije iz prvega odstavka tega člena dati na voljo uporabniku takoj po izvršitvi plačilne transakcije.
+(5) Ponudnik plačilnih storitev mora uporabniku na lahko dostopen način dati na voljo tudi druge informacije iz 79. člena tega zakona, ki so pomembne za izvrševanje enkratne plačilne transakcije.

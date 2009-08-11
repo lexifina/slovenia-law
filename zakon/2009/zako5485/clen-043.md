@@ -1,0 +1,6 @@
+## 6. PODPOGLAVJE OPRAVLJANJE PLAČILNIH STORITEV PLAČILNE INSTITUCIJE DRŽAVE ČLANICE NA OBMOČJU REPUBLIKE SLOVENIJE
+# 43. člen (opravljanje plačilnih storitev plačilne institucije države članice na območju Republike Slovenije)
+(1) Plačilna institucija države članice sme plačilne storitve, ki jih je upravičena opravljati v državi sedeža, opravljati tudi na območju Republike Slovenije preko podružnice, preko zastopnika ali neposredno.
+(2) Plačilna institucija države članice lahko začne opravljati plačilne storitve na območju Republike Slovenije, ko Banka Slovenije od pristojnega nadzornega organa države sedeža prejme obvestilo z vsebino iz drugega odstavka 41. člena tega zakona.
+(3) Za namene tega zakona se vse podružnice in poslovne enote, ki jih v Republiki Sloveniji ustanovi plačilna institucija države članice, štejejo za eno samo podružnico.
+(4) Če Banka Slovenije oceni, da so podani utemeljeni razlogi za sum, da gre v zvezi z opravljanjem plačilnih storitev preko podružnice ali zastopnika plačilne institucije države članice v Republiki Sloveniji za poskus ali izvajanje pranja denarja ali financiranja terorizma, o tem nemudoma na primeren način obvesti pristojni nadzorni organ države sedeža plačilne institucije.

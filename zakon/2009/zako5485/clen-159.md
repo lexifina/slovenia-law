@@ -1,0 +1,11 @@
+# 159. člen (dovoljenje za oblikovanje plačilnega sistema)
+(1) Plačilni sistem je oblikovan, ko udeleženci iz prvega odstavka 155. člena tega zakona sprejmejo pravila plačilnega sistema in ko pridobijo dovoljenje Banke Slovenije za oblikovanje plačilnega sistema v skladu s tem zakonom.
+(2) K zahtevi za izdajo dovoljenja za oblikovanje plačilnega sistema morajo vložniki priložiti sprejeta pravila plačilnega sistema in druge dokaze o tem, da plačilni sistem izpolnjuje pogoje, določene s tem zakonom in predpisi, izdanimi na njegovi podlagi.
+(3) Banka Slovenije izda dovoljenje za oblikovanje plačilnega sistema, če plačilni sistem izpolnjuje pogoje, določene v 157. in 158. členu tega zakona in predpisih, izdanih na podlagi 179. člena tega zakona.
+(4) Če Banka Slovenije ugotovi, da vložnik ne izpolnjuje pogojev iz tretjega odstavka tega člena, zahtevo za izdajo dovoljenja za oblikovanje plačilnega sistema zavrne.
+(5) Če Banka Slovenije v postopku odločanja o izdaji dovoljenja za oblikovanje plačilnega sistema ugotovi, da plačilni sistem izpolnjuje kriterije za pomembne plačilne sisteme v skladu s 151. členom tega zakona in predpisom, izdanim na podlagi 1. točke 179. člena tega zakona, od vložnika zahteva, da uskladi pravila plačilnega sistema z zahtevo iz tretjega odstavka 155. člena tega zakona. Če vložnik ne uskladi pravil plačilnega sistema v roku, ki ga določi Banka Slovenije, Banka Slovenije zavrne zahtevo za oblikovanje plačilnega sistema.
+(6) Udeleženci plačilnega sistema iz prvega odstavka 155. člena tega zakona lahko začnejo izvajati kliring in/ali poravnave preko plačilnega sistema, ko pridobijo dovoljenje Banke Slovenije za oblikovanje plačilnega sistema.
+(7) Dovoljenje Banke Slovenije za oblikovanje plačilnega sistema preneha:
+1. če udeleženci v roku enega leta od izdaje dovoljenja Banke Slovenije za oblikovanje plačilnega sistema ne začnejo izvajati poravnave ali kliringa nalogov za poravnavo preko plačilnega sistema, z dnem, ko se izteče eno leto od izdaje dovoljenja,
+2. če se udeleženci plačilnega sistema dogovorijo o prenehanju plačilnega sistema, z dnem prenehanja,
+3. če udeleženci plačilnega sistema za več kakor šest mesecev prenehajo izvajati poravnavo ali kliring nalogov za poravnavo preko plačilnega sistema, z dnem, ko se izteče šest mesecev od zadnje poravnave ali kliringa nalogov za poravnavo.

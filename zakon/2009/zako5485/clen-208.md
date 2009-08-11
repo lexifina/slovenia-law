@@ -1,0 +1,4 @@
+# 208. člen (sodelovanje z nadzornimi organi držav članic)
+(1) Banka Slovenije mora sodelovati z nadzornimi organi drugih držav članic in po potrebi z Evropsko centralno banko, nacionalnimi centralnimi bankami držav članic in drugimi organi držav članic, pristojnimi za izvajanje predpisov, ki se uporabljajo za ponudnike plačilnih storitev.
+(2) Banka Slovenije mora nadzornemu organu države članice na njegovo zahtevo posredovati vse ustrezne informacije, ki so potrebne za izvajanje nalog nadzora tega nadzornega organa. Banka Slovenije nadzornemu organu države članice na lastno pobudo posreduje vse informacije, ki so ključne za izvajanje nalog nadzora tega nadzornega organa.
+(3) Informacija se šteje za ključno po drugem odstavku tega člena, če bi lahko imela pomemben vpliv za oceno finančne trdnosti nadzorovane finančne družbe druge države članice.

@@ -1,0 +1,5 @@
+## 2. ODDELEK KLIRINŠKA DRUŽBA DRŽAVE ČLANICE ALI KLIRINŠKA DRUŽBA TRETJE DRŽAVE
+# 177. člen (uporaba določb za klirinško družbo države članice ali klirinško družbo tretje države)
+(1) Klirinška družba države članice lahko opravlja storitve upravljanja plačilnega sistema preko podružnice v Republiki Sloveniji ali neposredno, če pridobi dovoljenje Banke Slovenije za opravljanje storitev upravljanja plačilnega sistema kot klirinška družba države članice.
+(2) Klirinška družba tretje države lahko opravlja storitve upravljanja plačilnega sistema preko podružnice v Republiki Sloveniji, če pridobi dovoljenje Banke Slovenije za opravljanje storitev upravljanja plačilnega sistema kot klirinška družba tretje države.
+(3) Glede pogojev za opravljanje storitev upravljanja plačilnega sistema kot klirinška družba države članice ali tretje države ter glede dovoljenja Banke Slovenije za opravljanje storitev upravljanja plačilnega sistema kot klirinška družba države članice ali tretje države se smiselno uporabljajo določbe 1. oddelka 2. podpoglavja 11. poglavja tega zakona.

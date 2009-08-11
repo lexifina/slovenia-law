@@ -1,0 +1,3 @@
+# 126. člen (odgovornost za ravnanje posrednikov in drugih oseb)
+(1) Ponudnik plačilnih storitev odgovarja uporabniku za neizvršitev ali nepravilno izvršitev plačilne transakcije v skladu s 122. oziroma 123. členom tega zakona tudi v primeru, če je za neizvršitev ali nepravilno izvršitev odgovoren posrednik ali druga oseba, ki sodeluje pri izvrševanju plačilne transakcije.
+(2) Ponudnik plačilnih storitev lahko uveljavlja povrnitev zneskov, ki jih je izplačal uporabniku v skladu s 122. oziroma 123. členom tega zakona in druge škode, ki mu je nastala zaradi neizvršitve ali nepravilne izvršitve plačilne transakcije, od posrednika ali druge osebe, ki odgovarja za nepravilno izvršitev plačilne transakcije v skladu s splošnimi pravili obligacijskega prava.

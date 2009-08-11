@@ -1,0 +1,2 @@
+# 10. člen (denarno nakazilo)
+Denarno nakazilo je plačilna storitev, pri kateri ponudnik plačilnih storitev prejme plačnikova denarna sredstva, ne da bi odprl plačilni račun za plačnika ali prejemnika plačila, izključno z namenom, da se enak znesek denarnih sredstev da na razpolago prejemniku plačila ali se prenese prejemnikovemu ponudniku plačilnih storitev, ki da sredstva na razpolago prejemniku plačila ali jih prenese na prejemnikov plačilni račun.

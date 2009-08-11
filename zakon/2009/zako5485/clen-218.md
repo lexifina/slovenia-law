@@ -1,0 +1,12 @@
+## 15. POGLAVJE MIRNO REŠEVANJE SPOROV
+# 218. člen (postopek mirnega reševanja sporov v zvezi s plačilnimi storitvami)
+(1) Ponudnik plačilnih storitev mora sam ali v sodelovanju z drugimi ponudniki plačilnih storitev zagotoviti postopek mirnega reševanja sporov s potrošniki v zvezi z opravljanjem plačilnih storitev tako, da lahko potrošnik hitro in enostavno na pristojno telo naslovi svojo pritožbo v zvezi z domnevnimi kršitvami ponudnika plačilnih storitev pri opravljanju plačilnih storitev po tem zakonu in da je potrošniku zagotovljena hitra in strokovna odločitev v zvezi s to pritožbo.
+(2) Ponudnik plačilnih storitev mora v zvezi z delovanjem telesa za mirno reševanje sporov zagotoviti sodelovanje neodvisnih strokovnjakov s pravnega področja. Ponudniki plačilnih storitev se lahko dogovorijo o oblikovanju skupnega telesa za mirno reševanje sporov s potrošniki.
+(3) Akt o ustanovitvi telesa za mirno reševanje sporov mora urejati tudi pravila in postopek sodelovanja tega telesa z organi, ki so v drugih državah članicah pristojni za mirno reševanje sporov v zvezi z opravljanjem plačilnih storitev, če reševanje posameznega spora sodi tudi v pristojnost takega organa druge države članice.
+(4) Pravila za mirno reševanje sporov morajo biti oblikovana jasno in razumljivo in morajo zlasti določati:
+1. naziv, obliko in sestavo telesa, ki je pristojno za mirno reševanje sporov;
+2. postopek predložitve zahteve za mirno rešitev spora pristojnemu telesu, vključno z naslovom, kamor lahko potrošnik posreduje zahtevo, in obliko zahteve;
+3. najdaljši rok, v katerem bo pristojno telo odločilo v sporu in ki ne sme biti daljši kakor dva meseca od dneva, ko je ponudnik plačilnih storitev prvič prejel zahtevo potrošnika za mirno rešitev spora;
+4. da predložitev zahteve za mirno rešitev spora pristojnemu telesu po tem členu in odločitev tega telesa ne posegata v pravico potrošnika, da kadar koli vloži tožbo pred pristojnim sodiščem zoper ponudnika plačilnih storitev z namenom rešitve spora v zvezi z opravljanjem plačilnih storitev.
+(5) Ponudnik plačilnih storitev potrošniku ne sme zaračunati posebnih nadomestil v zvezi s postopkom mirnega reševanja spora glede opravljanja plačilnih storitev.
+(6) Prvi do peti odstavek tega člena se ne uporabljajo za Upravo Republike Slovenije za javna plačila ter druge države organe in organe samoupravnih lokalnih skupnosti, kadar opravljajo plačilne storitve v okviru svojih izključnih pristojnosti na podlagi posebnega zakona.

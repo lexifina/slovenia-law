@@ -1,0 +1,3 @@
+# 217. člen (odredba o odpravi kršitev)
+(1) Določbe zakona, ki ureja bančništvo, o postopku z odredbo o odpravi kršitev se uporabljajo za postopek z odredbo o odpravi kršitev iz 4. oddelka 2. podpoglavja 13. poglavja tega zakona.
+(2) Določbe zakona, ki ureja bančništvo, o postopku z odredbo o odpravi kršitev se smiselno uporabljajo za postopek z odredbo o izvedbi posebnih ukrepov iz 195. člena tega zakona, za postopek z odredbo o prenehanju opravljanja plačilnih storitev iz 201. člena tega zakona ter za postopek z odredbo o prenehanju opravljanja storitev upravljanja plačilnega sistema in odredbo o prenehanju delovanja plačilnega sistema iz 202. člena tega zakona.

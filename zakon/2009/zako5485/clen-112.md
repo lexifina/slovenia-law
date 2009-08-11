@@ -1,0 +1,2 @@
+# 112. člen (posredovanje plačilnega naloga preko prejemnikovega ponudnika plačilnih storitev)
+Prejemnikov ponudnik plačilnih storitev mora posredovati plačilni nalog, ki ga je odredil prejemnik plačila ali plačnik preko prejemnika plačila, plačnikovemu ponudniku plačilnih storitev v rokih, o katerih sta se dogovorila prejemnikov ponudnik plačilnih storitev in prejemnik plačila, tako, da bo na dogovorjeni dan mogoče izvršiti plačilno transakcijo.

@@ -1,0 +1,2 @@
+# 82. člen (predhodne informacije za plačnika o posamezni plačilni transakciji)
+Plačnikov ponudnik plačilnih storitev mora pred izvršitvijo posamezne plačilne transakcije, ki jo odredi plačnik na podlagi okvirne pogodbe, plačniku na njegovo zahtevo posredovati jasne informacije o najdaljšem roku izvršitve te plačilne transakcije in nadomestilih, ki jih bo zaračunal plačniku, vključno z razčlenitvijo postavk, če bo plačniku zaračunal skupno nadomestilo.

@@ -1,0 +1,14 @@
+# 235. člen (uskladitev finančnih institucij)
+(1) Pravne osebe iz prvega odstavka 234. člena tega zakona, ki imajo položaj podrejene družbe banke in so vključene v konsolidirani nadzor banke v smislu zakona, ki ureja bančništvo (v nadaljnjem besedilu: finančne institucije), in so začele opravljati katero od plačilnih storitev iz 5. člena tega zakona pred 25. decembrom 2007, lahko ne glede na prepoved iz 18. člena tega zakona nadaljujejo z opravljanjem teh storitev brez dovoljenja Banke Slovenije za opravljanje plačilnih storitev kot plačilna institucija.
+(2) Finančna institucija mora Banko Slovenije do 25. decembra 2009 obvestiti o okoliščinah iz prvega odstavka tega člena in k obvestilu priložiti:
+1. akt o ustanovitvi,
+2. opis plačilnih storitev, ki jih je začela opravljati pred 25. decembrom 2007 in jih po uveljavitvi tega zakona opravlja na podlagi prvega odstavka tega člena brez dovoljenja Banke Slovenije za opravljanje plačilnih storitev kot plačilna institucija,
+3. opis ukrepov za varovanje denarnih sredstev uporabnikov v skladu z zahtevami iz 59. do 61. člena tega zakona,
+4. opis organizacijske strukture z natančno opredeljenimi, preglednimi in doslednimi razmerji glede odgovornosti v skladu z zahtevami iz 1. točke drugega odstavka 45. člena tega zakona,
+5. opis morebitne uporabe zastopnikov in podružnic ter zunanjih izvajalcev operativnih funkcij plačilnih storitev, ter dokazila, da izpolnjujejo zahteve iz 4. podpoglavja, 2. poglavja tega zakona,
+6. opis morebitne udeležbe v plačilnih sistemih,
+7. navedbo oseb, ki so imetniki kvalificiranih deležev, velikost kvalificiranih deležev in dokazila o primernosti imetnikov kvalificiranih deležev, in dokazila, da izpolnjujejo pogoje iz tretjega odstavka 27. člena tega zakona,
+8. navedbo oseb, ki so člani organov poslovodstva, in oseb, ki bodo neposredno odgovorne za vodenje poslov v zvezi s plačilnimi storitvami, in dokazila, da te osebe izpolnjujejo zahtevane pogoje iz prvega in drugega odstavka 26. člena tega zakona.
+(3) Če Banka Slovenije ugotovi, da finančna institucija izpolnjuje pogoje iz prvega in drugega odstavka tega člena, vpiše finančno institucijo v register plačilnih institucij kot plačilno institucijo.
+(4) Za odločanje Banke Slovenije o vpisu finančne institucije v register plačilnih institucij se smiselno uporabljajo določbe tega zakona o odločanju Banke Slovenije o izdaji dovoljenja Banke Slovenije za opravljanje plačilnih storitev kot plačilna institucija.
+(5) Ne glede na četrti odstavek tega člena Banka Slovenije v primeru, ko ugotovi, da finančna institucija izpolnjuje pogoje iz prvega in drugega odstavka tega člena, ne izda odločbe o vpisu finančne institucije v register ampak finančno institucijo vpiše v register plačilni institucij in jo o tem obvesti. Če Banka Slovenije ugotovi, da pogoji za vpis finančne institucije v register plačilnih institucij niso izpolnjeni, izda odločbo o zavrnitvi vpisa v register plačilnih institucij.

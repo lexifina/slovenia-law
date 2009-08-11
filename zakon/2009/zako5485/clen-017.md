@@ -1,0 +1,13 @@
+## 3. PODPOGLAVJE PONUDNIKI PLAČILNIH STORITEV
+# 17. člen (ponudniki plačilnih storitev)
+(1) Na območju Republike Slovenije lahko plačilne storitve opravljajo le:
+1. banke, ki so pridobile dovoljenje Banke Slovenije za opravljanje plačilnih storitev v skladu z zakonom, ki ureja bančništvo, in banke držav članic, ki so pridobile dovoljenje pristojnega nadzornega organa države sedeža za opravljanje plačilnih storitev, in so v skladu z zakonom, ki ureja bančništvo, ustanovile podružnico na območju Republike Slovenije ali neposredno opravljajo plačilne storitve na območju Republike Slovenije,
+2. družbe za izdajo elektronskega denarja, ki so pridobile dovoljenje Banke Slovenije za opravljanje storitev izdaje elektronskega denarja v skladu z zakonom, ki ureja bančništvo, in družbe za izdajo elektronskega denarja držav članic, ki so pridobile dovoljenje pristojnega nadzornega organa države sedeža za opravljanje storitev izdaje elektronskega denarja, in so v skladu z zakonom, ki ureja bančništvo, ustanovile podružnico na območju Republike Slovenije ali neposredno opravljajo storitve izdaje elektronskega denarja na območju Republike Slovenije,
+3. plačilne institucije in plačilne institucije držav članic, ki so v skladu s tem zakonom ustanovile podružnico na območju Republike Slovenije ali opravljajo plačilne storitve na območju Republike Slovenije preko zastopnika ali neposredno,
+4. plačilne institucije z opustitvijo,
+5. Banka Slovenije,
+6. Uprava Republike Slovenije za javna plačila ter drugi državni organi in organi samoupravnih lokalnih skupnosti v Republiki Sloveniji v skladu s predpisi, ki urejajo izvajanje njihovih nalog in pristojnosti
+(v nadaljnjem besedilu: ponudniki plačilnih storitev).
+(2) Družbe za izdajo elektronskega denarja iz prvega odstavka tega člena lahko opravljajo le tiste plačilne storitve, ki so povezane z izdajo elektronskega denarja in niso v nasprotju s posebnimi pogoji, ki jih glede dejavnosti družb za izdajo elektronskega denarja določa zakon, ki ureja bančništvo.
+(3) Kadar Banka Slovenije opravlja plačilne storitve v okviru izključnih pristojnosti v skladu z zakonom, ki ureja Banko Slovenije, ali z drugimi zakoni, ki določajo izključne pristojnosti Banke Slovenije, se določbe 5. in 6. poglavja tega zakona uporabljajo le, če poseben predpis ali pogodba o opravljanju plačilnih storitev izrecno tako določa.
+(4) Kadar Uprava Republike Slovenije za javna plačila ali drugi državni organi ali organi samoupravnih lokalnih skupnosti opravljajo plačilne storitve v okviru svojih izključnih pristojnosti na podlagi posebnega predpisa, se uporabljajo določbe 5. in 6. poglavja tega zakona, razen če ta zakon ali drug predpis izrecno določa drugače.

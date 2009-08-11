@@ -1,0 +1,5 @@
+## 3. ODDELEK PRIPOROČILA IN OPOZORILA
+# 192. člen (priporočila in opozorila)
+(1) Če pooblaščena oseba Banke Slovenije pri pregledu poslovanja ugotovi nesmotrnosti ali nedoslednosti pri poslovanju plačilne institucije, ki nimajo značilnosti kršitve predpisov iz prvega odstavka 183. člena tega zakona, Banka Slovenije izda ustrezna priporočila za izboljšanje poslovanja plačilne institucije.
+(2) Če pooblaščena oseba Banke Slovenije pri pregledu poslovanja ugotovi kršitve predpisov iz prvega odstavka 183. člena tega zakona, vendar te kršitve po svojih značilnostih in obsegu nimajo pomembnih učinkov, lahko Banka Slovenije plačilni instituciji namesto odredbe o odpravi kršitev izda opozorilo, v katerem jo opozori na te kršitve (v nadaljnjem besedilu: opozorilo).
+(3) Z opozorilom lahko Banka Slovenije plačilni instituciji naloži odpravo ugotovljenih kršitev in določi rok za njihovo odpravo. Če plačilna institucija v določenem roku ne odpravi kršitev, ji Banka Slovenije izda ustrezno odredbo o odpravi kršitev.

@@ -1,0 +1,9 @@
+# 223. člen (kršitve pri opravljanju plačilnih storitev v drugi državi članici)
+(1) Ponudnik plačilnih storitev s sedežem v Republiki Sloveniji ne odgovarja za prekršek iz prvega odstavka 220. člena tega zakona, ki ga stori v zvezi z opravljanjem plačilnih storitev preko podružnice ali preko zastopnika v drugi državi članici.
+(2) Ponudnik plačilnih storitev s sedežem v Republiki Sloveniji se kaznuje za prekršek iz prvega odstavka 220. člena tega zakona, ki ga stori pri neposrednem opravljanju plačilnih storitev v drugi državi članici.
+(3) Ponudnik plačilnih storitev se kaznuje za prekršek na podlagi drugega odstavka tega člena le, če je kršitev kazniva tudi po pravu države članice, v kateri je kršitev storjena.
+(4) Ponudnik plačilnih storitev s sedežem v Republiki Sloveniji se ne kaznuje za prekršek na podlagi drugega odstavka tega člena, če:
+1. je pristojni organ v državi, kjer ponudnik plačilnih storitev neposredno opravlja plačilne storitve, že izrekel kazen ponudniku plačilnih storitev zaradi kršitve in je bila kazen že izvršena ali je bilo v skladu z mednarodno pogodbo odločeno, da bo izvršena v Republiki Sloveniji,
+2. je bil v državi, kjer ponudnik plačilnih storitev neposredno opravlja plačilne storitve, s pravnomočno odločbo oproščen ali mu je bila kazen odpuščena, ali je izvršitev kazni zastarala,
+3. se za kršitev po pravu države, kjer ponudnik plačilnih storitev neposredno opravlja plačilne storitve, storilec preganja na zahtevo oškodovanca, takšna zahteva pa ni bila vložena.
+(5) Odgovorna oseba ponudnika plačilnih storitev se kaznuje za prekršek, ki ga stori ponudnik plačilnih storitev s sedežem v Republiki Sloveniji pri neposrednem opravljanju plačilnih storitev v drugi državi članici, če so v zvezi s kršitvijo odgovorne osebe izpolnjeni pogoji iz tretjega oziroma četrtega odstavka tega člena.

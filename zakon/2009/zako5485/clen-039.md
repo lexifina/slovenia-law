@@ -1,0 +1,3 @@
+# 39. člen (odgovornost plačilne institucije za ravnanja podružnice, zastopnika ali zunanjega izvajalca)
+(1) Plačilna institucija, ki opravlja plačilne storitve preko podružnice ali preko zastopnika ali je prenesla izvajanje operativnih nalog, povezanih z izvajanjem plačilnih storitev, na zunanje izvajalce, odgovarja za zakonitost in pravilnost ravnanja podružnice in zastopnika v zvezi z izvajanjem plačilnih storitev, ki jih podružnica in zastopnik opravlja v imenu plačilne institucije, ter za zakonitost in pravilnost izvajanja operativnih nalog, ki jih opravlja zunanji izvajalec za plačilno institucijo.
+(2) Plačilna institucija svoje odgovornosti iz prvega odstavka tega člena v razmerju do uporabnikov ne more izključiti ali omejiti.

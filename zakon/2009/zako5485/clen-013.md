@@ -1,0 +1,4 @@
+# 13. člen (transakcijski račun)
+(1) Transakcijski račun je plačilni račun, ki ga odpre banka s sedežem v Republiki Sloveniji ali podružnica banke države članice v Republiki Sloveniji v imenu enega ali več uporabnikov za namene izvrševanja plačilnih transakcij in za druge namene, povezane z opravljanjem bančnih storitev za uporabnika. Denarna sredstva na transakcijskem računu se štejejo kot vpogledni denarni depozit.
+(2) Za namene tega zakona se kot transakcijski račun šteje tudi enotni zakladniški račun države ali samoupravne lokalne skupnosti, ki je odprt pri Banki Slovenije, ter račun, ki je kot podračun enotnega zakladniškega računa države ali samoupravne lokalne skupnosti odprt pri Upravi Republike Slovenije za javna plačila.
+(3) Plačilne institucije ne smejo voditi transakcijskih računov.

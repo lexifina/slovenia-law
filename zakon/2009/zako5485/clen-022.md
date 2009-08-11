@@ -1,0 +1,5 @@
+# 22. člen (sprejemanje denarnih sredstev uporabnikov v zvezi s plačilnimi storitvami)
+(1) Plačilna institucija lahko pri opravljanju plačilnih storitev prejme denarna sredstva uporabnikov izključno z namenom izvršitve plačilne transakcije, ki naj se izvrši na določen dan, v skladu s pogoji okvirne pogodbe.
+(2) Šteje se, če se ne dokaže drugače, da so denarna sredstva prejeta izključno za namene izvršitve plačilne transakcije, če je plačilna institucija prejela denarna sredstva hkrati s prejemom ali po prejemu plačilnega naloga za izvršitev te plačilne transakcije.
+(3) Plačilne institucije ne smejo sprejemati depozitov od javnosti ali opravljati storitev izdaje elektronskega denarja po zakonu, ki ureja bančništvo.
+(4) Denarna sredstva, ki jih prejme plačilna institucija od uporabnikov izključno z namenom izvršitve plačilne transakcije v skladu z drugim odstavkom tega člena, ne predstavljajo sprejemanja depozitov od javnosti ali opravljanja storitev izdaje elektronskega denarja po zakonu, ki ureja bančništvo.
