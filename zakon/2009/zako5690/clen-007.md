@@ -1,0 +1,2 @@
+# 7. člen
+Upravičenci iz 2. člena in druge alineje 2.a člena tega zakona, ki po predpisih, ki so veljali pred uveljavitvijo tega zakona, niso mogli pridobiti statusa in pravic žrtve vojnega nasilja, pridobijo ob izpolnjevanju ostalih pogojev pravice iz 8. člena Zakona o žrtvah vojnega nasilja (Uradni list RS, št. 18/03 - uradno prečiščeno besedilo, 54/04 - ZDoh-1, 68/05 - odločba US, 61/06 - ZDru-1 in 114/06 - ZUTPG). Upravičenci iz prve alineje 2.a člena tega zakona pa pridobijo samo pravico do vojne odškodnine po posebnem zakonu.

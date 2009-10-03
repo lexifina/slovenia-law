@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o žrtvah vojnega nasilja (Uradni list RS, št. 18/03 - uradno prečiščeno besedilo, 54/04 - ZDoh-1, 68/05 - odločba US, 61/06 - ZDru-1 in 114/06 - ZUTPG) se v 1. členu doda drugi odstavek, ki se glasi:
+"Žrtev vojnega nasilja je tudi državljan Republike Slovenije, ki je bil kot civilna oseba izpostavljen nasilnim dejanjem ali prisilnim ukrepom drugih oboroženih sil. Kot druge oborožene sile se pri tem štejejo enote Narodnoosvobodilne vojske in partizanskih odredov Jugoslavije ter enote zaveznikov protifašistične oziroma protinacistične koalicije (v nadaljnjem besedilu: druge oborožene sile).".
