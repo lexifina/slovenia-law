@@ -13,7 +13,7 @@
 6. prodaje pogonskega goriva ob predaji ladje v najem,
 7. čiščenja ladijskih skladišč,
 8. prodaje drugega blaga in storitev, ki jih posadka porabi na ladji,
-9. storitev komercialnega, tehničnega in drugega upravljanja ladij,
+9. storitev tehničnega upravljanja in vodenja posadke ladij,
 10. odškodnin, prejetih od zavarovalnic za poškodovane ali izgubljene ladje ter izgubo najemnin ali voznin,
 11. prodaje kontejnerjev,
 12. pozitivne tečajne razlike pri naštetih aktivnostih,

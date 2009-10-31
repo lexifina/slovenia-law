@@ -1,2 +1,2 @@
 ZAKON
-O DAVKU NA TONAŽO (ZDTon)
+o davku na tonažo (ZDTon)
