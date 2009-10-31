@@ -1,3 +1,4 @@
 # 13. člen
-Blagovne rezerve se financirajo s sredstvi, določenimi v državnem proračunu, s sredstvi amortizacije blagovnih rezerv in s sredstvi, pridobljenimi s poslovanjem z blagom in nepremičninami blagovnih rezerv.
-Zavod sme za financiranje blagovnih rezerv najemati posojila do višine, za katero lahko zagotavlja kritje s premoženjem in sredstvi blagovnih rezerv.
+Blagovne rezerve se financirajo s sredstvi, določenimi v državnem proračunu, s sredstvi amortizacije blagovnih rezerv in s sredstvi, pridobljenimi s poslovanjem z blagom in nepremičninami blagovnih rezerv. Ne glede na določbo prejšnjega stavka se obvezne rezerve nafte in njenih derivatov financirajo iz sredstev posebnega nadomestila za izvajanje gospodarske javne službe oblikovanja obveznih rezerv nafte in njenih derivatov.
+Zavod sme za financiranje blagovnih rezerv najemati posojila do višine, za katero lahko zagotavlja kritje s premoženjem in sredstvi blagovnih rezerv. Pred sklenitvijo pogodbe o najemu posojila mora zavod pridobiti soglasje ministra, pristojnega za preskrbo, in ministra, pristojnega za finance.
+Vsa sredstva zavoda so last zavoda, država pa jih izkazuje kot kapitalsko naložbo v osnovni kapital zavoda.

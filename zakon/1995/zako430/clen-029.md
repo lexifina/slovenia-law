@@ -10,3 +10,26 @@ Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Sloven
 Zakon o spremembah in dopolnitvah zakona o blagovnih rezervah - ZBR-B (Uradni list RS, št. 50/04) vsebuje naslednjo končno določbo:
 "2. člen
 Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
+Zakon o spremembah in dopolnitvah Zakona o blagovnih rezervah - ZBR-C (Uradni list RS, št. 86/09) vsebuje naslednje prehodne in končne določbe:
+## "V. PREHODNE IN KONČNE DOLOČBE
+14. člen
+Celotno premoženje Zavoda Republike Slovenije za obvezne rezerve nafte in njenih derivatov (v nadaljnjem besedilu: ZORD), ki je bil ustanovljen s Sklepom o ustanovitvi javnega gospodarskega zavoda za obvezne rezerve nafte in njenih derivatov (Uradni list RS, št. 98/99), to so nepremičnine, oprema in blago v državnih blagovnih rezervah in druga sredstva, se z dnem začetka uporabe tega zakona prenese v sredstva zavoda, pri čemer se upošteva njegova knjigovodska vrednost na dan 31. decembra 2009. Zavod z dnem začetka uporabe tega zakona prevzame tudi vse obveznosti ZORD. Knjigovodska vrednost sredstev in obveznosti ZORD na dan 31. decembra 2009 se po tem zakonu šteje kot poštena vrednost v skladu s predpisi, ki urejajo odmero davkov.
+S prenosom sredstev in obveznosti preidejo na zavod vse pravice in obveznosti v zvezi s poslovanjem ZORD. Zavod kot univerzalni pravni naslednik ZORD vstopi v vsa pravna razmerja v zvezi z izvajanjem gospodarske javne službe oblikovanja obveznih rezerv nafte in njenih derivatov.
+Premoženje iz prvega odstavka tega člena postane last zavoda. Premoženje iz prejšnjega stavka, razen premoženja iz naslova obveznih rezerv nafte in njenih derivatov, država izkazuje kot kapitalsko naložbo v osnovni kapital zavoda.
+15. člen
+Z dnem začetka uporabe tega zakona zavod prevzame vse zaposlene ZORD, direktorju in članom upravnega odbora ZORD preneha mandat, direktor in člani upravnega odbora zavoda pa nadaljujejo z opravljanjem svoje funkcije do izteka mandata, za katerega so imenovani.
+Vlada Republike Slovenije mora najpozneje do začetka uporabe tega zakona uskladiti ustanovitveni akt zavoda z določbami tega zakona.
+Najpozneje do začetka uporabe tega zakona morajo biti splošni akti zavoda usklajeni z določbami tega zakona.
+Pristojni organ zavoda mora najkasneje do začetka uporabe tega zakona izvesti vse postopke, ki so potrebni za prenehanje delovanja ZORD in za njegov izbris iz registra.
+16. člen
+Zavod mora pripraviti zaključno poročilo zase in za ZORD na dan 31. december 2009, ter izdelati otvoritveno bilanco na dan 1. januar 2010.
+17. člen
+Z dnem uveljavitve tega zakona prenehajo veljati:
+- Odredba o določitvi cen pšenice iz državnih blagovnih rezerv (Uradni list RS, št. 86/98),
+- Odredba o določitvi cene rumene koruze iz državnih blagovnih rezerv (Uradni list RS, št. 4/99),
+- Uredba o določitvi tržnega reda za žita letine 2000 (Uradni list RS, št. 94/99 in 72/00),
+- Odlok o uvedbi finančnih intervencij za zagotavljanje primerne in uravnotežene ponudbe kmetijskih pridelkov in živil na trgu v letu 2000 (Uradni list RS, št. 31/00),
+- Odredba o pogojih za intervencijski odkup pšenice in rži letine 2000 (Uradni list RS, št. 48/00) in
+- Uredba o postopku delitve koruze imetnikom rejnih živali iz blagovnih rezerv Republike Slovenije zaradi omilitve posledic škode po suši v letu 2003 (Uradni list RS, št. 82/03).
+18. člen
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. januarja 2010.".

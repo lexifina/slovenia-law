@@ -7,7 +7,5 @@ Vlada Republike Slovenije:
 - predpisuje koncesije za uvoz blaga osnovne preskrbe zaradi oblikovanja blagovnih rezerv,
 - določi organe ter zavode in druge organizacije, ki se financirajo iz javnih sredstev in ki so dolžni prednostno kupovati blago iz blagovnih rezerv,
 - sprejema letno poročilo zavoda,
-- s sklepom določa odkup posamezne vrste kmetijskega pridelka po zaščitni ceni in njegovo količino,
-- zagotavlja sredstva za stroške odkupa iz prejšnje alinee,
 - odloča o uporabi blagovnih rezerv in njihovi nadomestitvi,
 - pooblasti ministra, pristojnega za preskrbo, da v določenih primerih v soglasju z ministrom, pristojnim za posamezno področje, odloča o uporabi blagovnih rezerv.

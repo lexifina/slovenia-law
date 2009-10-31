@@ -4,7 +4,6 @@ Ministrstvo, pristojno za preskrbo:
 - zbira podatke o količinah uvoženega blaga osnovne preskrbe po vrstah blaga v posameznem mesecu in ugotavlja količine letnega uvoza tega blaga po posameznih uvoznikih,
 - analizira gospodarska gibanja z vidika njihovega vpliva na preskrbljenost trga in na blagovne rezerve v prihodnjem trimesečnem in polletnem obdobju in o tem poroča Vladi Republike Slovenije,
 - daje soglasja zavodu k izbiri sopogodbenikov in k pogodbam, če to ni v pristojnosti Vlade Republike Slovenije,
-- odkupovalcem pri odkupu po zaščitnih cenah določi odkupna območja in vrste pridelkov, ki jih odkupujejo,
 - opravlja dela, ki so potrebna za izvajanje pravic in obveznosti Vlade Republike Slovenije kot ustanovitelja zavoda,
 - predpiše standarde in normative s področja skladiščenja in občasnega obnavljanja blaga, stroškov, amortizacije in organizacije,
 - odloča o izbiri koncesionarja v skladu s predpisom iz pete alinee 4. člena tega zakona,
