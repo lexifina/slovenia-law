@@ -1,0 +1,2 @@
+# 2. člen (opredelitev območja)
+Pomurska regija po tem zakonu obsega območja občin Apače, Beltinci, Cankova, Črenšovci, Dobrovnik, Gornja Radgona, Gornji Petrovci, Grad, Hodoš, Kobilje, Križevci, Kuzma, Lendava, Ljutomer, Moravske Toplice, Murska Sobota, Odranci, Ormož, Puconci, Radenci, Razkrižje, Rogašovci, Središče ob Dravi, Sveti Jurij, Sveti Tomaž, Šalovci, Tišina, Turnišče, Velika Polana, Veržej.

@@ -1,0 +1,5 @@
+# 10. člen (vlaganja v prestrukturiranje in dvig konkurenčnosti kmetijstva in gozdarstva ter živilsko-predelovalne industrije in diverzifikacija v nekmetijske dejavnosti)
+(1) Za ukrep razvojne podpore vlaganja v prestrukturiranje in dvig konkurenčnosti kmetijstva in gozdarstva ter živilsko‑predelovalne industrije in diverzifikacija v nekmetijske dejavnosti se namenijo sredstva v okvirni višini 40 milijonov eurov. Izvede se z ukrepi Programa razvoja podeželja Republike Slovenije za obdobje 2007-2013 (v nadaljnjem besedilu: PRP), ki se sofinancirajo iz sredstev Evropskega kmetijskega sklada za razvoj podeželja.
+(2) Sredstva iz prejšnjega odstavka se prednostno usmerijo v Pomursko regijo tako, da se s pomočjo meril za izbor okvirno deset odstotkov nepovratnih sredstev PRP za izvajanje ukrepov 1. in 3. osi PRP razpiše za vlagatelje iz Pomurske regije.
+(3) Za izvedbo vlaganj iz prvega odstavka tega člena je odgovorno Ministrstvo za kmetijstvo, gozdarstvo in prehrano.
+(4) Vlada z uredbo določi način izvajanja ukrepov iz tega člena.
