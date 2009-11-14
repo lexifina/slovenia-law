@@ -1,0 +1,3 @@
+# 10. člen
+Peti odstavek 28. člena se spremeni tako, da se glasi:
+"Orožje kategorije A, za katerega je ugotovljeno, da se ne izdeluje več in ga ne uporabljajo obrambne sile ali policija, in strelivo za takšno orožje ministrstvo, pristojno za notranje zadeve, uvrsti na seznam orožja iz kategorije A, ki ga je dovoljeno zbirati, in je za ta namen posameznikom, pravnim osebam in podjetnikom promet, nabava in posest pod pogoji tega zakona dovoljena. Izpolnjevanje pogojev za uvrstitev orožja na seznam ugotavlja komisija, ki jo imenuje minister, pristojen za notranje zadeve. Uvrstitev orožja na seznam lahko predlaga vsak, ki ima za to pravni interes. Seznam in njegove dopolnitve se objavijo v Uradnem listu Republike Slovenije in na svetovnem spletu.".

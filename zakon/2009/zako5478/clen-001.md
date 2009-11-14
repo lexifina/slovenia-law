@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o orožju (Uradni list RS, št. 23/05 - uradno prečiščeno besedilo) se za prvim odstavkom 1. člena doda nov drugi odstavek, ki se glasi:
+"Ta zakon določa nabavo, posest, prenos in promet z orožjem med državami članicami Evropske unije v skladu z Direktivo 91/477/EGS o nadzoru nabave in posedovanja orožja z dne 18. junija 1991 (UL L št. 256, z dne 13. septembra 1991, str. 51. Besedilo, kakor je bilo popravljeno v UL L 54, z dne 5. marca 1993, str. 22), zadnjič spremenjeno z Direktivo 2008/51/ES Evropskega parlamenta in Sveta z dne 21. maja 2008 o spremembah Direktive Sveta 91/477/EGS o nadzoru nabave in posedovanja orožja (UL L št. 179, z dne 8. julija 2008, str. 5).".

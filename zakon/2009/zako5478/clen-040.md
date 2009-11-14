@@ -1,0 +1,4 @@
+# 40. člen (rok za legalizacijo orožja)
+Imetnik, ki poseduje orožje brez veljavne listine za posest ali nošenje orožja, sme v treh mesecih po uveljavitvi tega zakona pri pristojnem organu podati vlogo za pridobitev ustrezne orožne listine. Pristojni organ izda ustrezno orožno listino po Zakonu o orožju (Uradni list RS, št. 23/05), razen orožnega lista, pod pogojem, da orožje ne izvira iz kaznivega dejanja, in da imetnik izpolnjuje pogoje iz 1., 2., 3., 5. in 6. točke drugega odstavka 14. člena Zakona o orožju (Uradni list RS, št. 23/05).
+Ne glede na določbo prejšnjega odstavka se orožnih listin ne izda za orožje kategorije A, razen če gre za registriranega zbiratelja orožja in je orožje po določbah Zakona o orožju (Uradni list RS, št. 23/05) dovoljeno zbirati ali muzejsko zbirko.
+Če orožne listine ni mogoče izdati, se z orožjem kategorij B in C ravna, kot da gre za odvzeto orožje, orožje kategorije A pa se pošlje ministrstvu, pristojnemu za notranje zadeve.
