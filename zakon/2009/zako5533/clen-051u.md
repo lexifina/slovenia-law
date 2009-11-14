@@ -1,0 +1,3 @@
+# 51.u člen (oblikovanje skupin strokovnjakov)
+Skupine strokovnjakov so skupine strokovnjakov za akreditacije in skupine strokovnjakov za zunanje evalvacije. V skupine strokovnjakov se imenujejo strokovnjaki iz registra strokovnjakov, ki ga vodi agencija. Sestavljajo jih vsaj trije člani, od tega vsaj en tuj strokovnjak in en študent.
+Pri izvajanju nalog in sprejemanju odločitev v postopkih akreditacij in evalvacij strokovnjaki upoštevajo načela preprečevanja konflikta interesov in načela nepristranosti. V ta namen podpišejo posebno izjavo, s katero se zavežejo k spoštovanju načel, določenih v tem členu.
