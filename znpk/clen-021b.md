@@ -1,0 +1,9 @@
+# 21.b člen (nadomestni certifikat)
+
+Izvajalec postopkov za ugotavljanje in potrjevanje poklicnih kvalifikacij mora imetniku izdati nadomestni certifikat, če ta dokaže, da je zaradi izgube, uničenja ali odtujitve v Uradnem listu Republike Slovenije preklicana veljavnost izvirnika.
+
+Izvajalec postopkov za ugotavljanje in potrjevanje poklicnih kvalifikacij izda nadomestni certifikat na posebnem obrazcu v obliki izpisa iz evidence; ta mora poleg predpisanih podatkov vsebovati še klavzulo, da je ta certifikat nadomesten in enakovreden izvirniku, podatke o izpisu in izvirniku certifikata (številka in datum izdaje) ter oznako evidence, iz katere so podatki povzeti.
+
+Izdajatelj nadomestnega certifikata navede ime izvajalca postopka za ugotavljanje in potrjevanje poklicnih kvalifikacij oziroma pravnega naslednika, ki ima ustrezno evidenco, ne glede na to, kdo je bil, oziroma kako se je imenoval izdajatelj izvirnika certifikata. Izpisek podpiše pooblaščena oseba izdajatelja in potrdi pristnost listine s pečatom izdajatelja.
+
+V evidenci o izdanih certifikatih se vpišejo podatki o izdanem nadomestnem certifikatu na podlagi predloženega dokazila o preklicu izvirnika v Uradnem listu Republike Slovenije.
