@@ -1,0 +1,4 @@
+# 8. člen
+Besedilo 22.d člena se spremeni tako, da se glasi:
+"(1) Uporabniki proračuna lahko v primerih, ko to določa ta zakon, izplačujejo sredstva za delovno uspešnost iz naslova povečanega obsega dela nad omejitvijo iz 22. člena tega zakona, če imajo za ta namen na razpolago sredstva iz prihrankov sredstev za plače, ki nastanejo zaradi odsotnosti javnih uslužbencev, ali nezasedenih delovnih mest za katera so bila predvidena sredstva v finančnem načrtu uporabnika proračuna, in sredstev za posebne projekte.
+(2) Posebni projekti, za izvajanje katerih je dovoljeno izplačevati del plače za delovno uspešnost iz naslova povečanega obsega dela, se za javne uslužbence določijo z aktom vlade, za javne uslužbence drugega državnega organa pa z aktom tega državnega organa, če so za to zagotovljena namenska sredstva v proračunu.".

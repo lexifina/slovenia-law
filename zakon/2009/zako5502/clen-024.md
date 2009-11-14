@@ -1,0 +1,3 @@
+# 24. člen
+(1) Sodniku ustavnega sodišča, generalnemu sekretarju ustavnega sodišča, sodniku, državnemu tožilcu in državnemu pravobranilcu ter generalnemu sekretarju vrhovnega sodišča se prične obračunavati plača v skladu s tem zakonom od prvega dne v mesecu po uveljavitvi tega zakona.
+(2) Za obdobje od 1. julija 2009 do pričetka obračunavanja plač v skladu s tem zakonom se sodniku ustavnega sodišča, generalnemu sekretarju ustavnega sodišča, sodniku, državnemu tožilcu in državnemu pravobranilcu ter generalnemu sekretarju vrhovnega sodišča poračuna razlika med osnovno plačo, določeno v skladu s tem zakonom, in osnovno plačo, ki mu je bila določena za mesec pred pričetkom obračunavanja plač v skladu s tem zakonom.
