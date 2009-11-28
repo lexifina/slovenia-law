@@ -1,0 +1,9 @@
+# 61.b člen
+Direktorja sodišča imenuje in razrešuje minister, pristojen za pravosodje, na predlog predsednika sodišča. Položaj se pridobi z odločbo o imenovanju za dobo petih let z možnostjo ponovnega imenovanja.
+Za pridobitev položaja direktorja sodišča mora kandidat izpolnjevati pogoje za imenovanje v naziv prvega kariernega razreda, ki so določeni z zakonom, ki ureja položaj javnih uslužbencev.
+Prosto mesto direktorja sodišča razpiše predsednik sodišča, ki s prijavljenimi kandidati, ki izpolnjujejo formalne pogoje, opravi ustni razgovor. Prijave, ki so bile vložene po izteku razpisnega roka, in prijave kandidatov, ki do poteka razpisnega roka ne izpolnjujejo formalnih pogojev, se zavržejo.
+Predsednik sodišča izbere in poda ministru obrazložen predlog najustreznejšega kandidata, pri čemer upošteva znanja, izkušnje, priporočila in dosežke kandidatov na področjih iz prvega odstavka 61.c člena tega zakona.
+Minister, pristojen za pravosodje, v odločbi o imenovanju navede razloge za imenovanje, pred imenovanjem pa lahko s kandidatom opravi ustni razgovor. Če kandidata ne izbere, mora navesti razloge za neimenovanje. Odločbo o imenovanju ali sklep, s katerim minister ne izbere predlaganega kandidata, se vroči vsem prijavljenim kandidatom. Zoper odločbo ali sklep je dovoljeno sprožiti upravni spor.
+Glede prenehanja položaja in razrešitve direktorja sodišča se smiselno uporabljajo določbe zakona, ki ureja položaj javnih uslužbencev.
+Direktor sodišča oziroma generalni sekretar Vrhovnega sodišča Republike Slovenije ima pravico do plače in dodatkov kot dela plače pod pogoji in v višini, kot jih določa zakon, ki ureja sistem plač v javnem sektorju.
+Direktor sodišča ne sme opravljati pridobitnih dejavnosti, razen znanstvenega, raziskovalnega, pedagoškega, umetniškega in publicističnega dela oziroma kulturne dejavnosti.
