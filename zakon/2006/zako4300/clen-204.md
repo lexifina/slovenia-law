@@ -9,7 +9,7 @@
 (2) Banka Slovenije v zvezi z revidiranjem letnih poročil banke predpiše:
 1. podrobnejši obseg in vsebino dodatnega revizijskega pregleda in dodatnega revizorjevega poročila o izpolnjevanju pravil o upravljanju s tveganji v banki iz prvega odstavka 211. člena tega zakona in
 2. podrobnejši način objave revidiranega letnega poročila na javnih spletnih straneh banke.
-(3) Banka Slovenije predpiše podrobnejši obseg podatkov, ki jih morajo objaviti podružnice bank držav članic in tretjih držav.
+(3) (črtan)
 (4) Banka Slovenije v zvezi z razkritji banke iz 207. člena tega zakona predpiše:
 1. merila za opredelitev bistvenih in zaupnih informacij ter poslovne skrivnosti,
 2. podrobnejšo vsebino razkritij,

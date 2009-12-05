@@ -7,3 +7,4 @@
 1. kreditna institucija s sedežem v Republiki Sloveniji,
 2. zavarovalnica, pozavarovalnica, borznoposredniška družba ali družba za upravljanje s sedežem v Republiki Sloveniji ali
 3. oseba, ki je nadrejena osebam iz 1. ali 2. točke tega odstavka.
+(4) Banka Slovenije s svojim delovanjem na področju nadzora bančnega poslovanja spodbuja sodelovanje med nadzornimi organi držav članic, zlasti izmenjavo vseh pomembnih informacij med nadzornimi organi države sedeža in države gostiteljice.

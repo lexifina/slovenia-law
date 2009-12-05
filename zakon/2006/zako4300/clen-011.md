@@ -1,7 +1,7 @@
 # 11. člen (dodatne finančne storitve)
 (1) Dodatne finančne storitve so:
 1. posredovanje pri prodaji zavarovalnih polic po zakonu, ki ureja zavarovalništvo,
-2. storitve upravljanja plačilnih sistemov po ZPlaP,
+2. storitve upravljanja plačilnih sistemov,
 3. upravljanje pokojninskih skladov po zakonu, ki ureja pokojninsko in invalidsko zavarovanje,
 4. skrbniške storitve, za katere drug zakon določa, da jih opravlja banka, in storitve, povezane s temi skrbniškimi storitvami,
 5. kreditno posredništvo pri potrošniških in drugih kreditih,

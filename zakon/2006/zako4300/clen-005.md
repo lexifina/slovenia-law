@@ -1,5 +1,5 @@
 # 5. člen (pojmi, ki so uporabljeni v pomenu, opredeljenem v drugem zakonu)
-(1) Pojem elektronski denar ima pomen, opredeljen v 12. točki 3. člena ZPlaP.
+(1) Pojmi plačilne storitve, storitve upravljanja plačilnih sistemov in elektronski denar imajo enak pomen, kakor je opredeljen v zakonu, ki ureja plačilne storitve.
 (2) Ti pojmi imajo enak pomen, kakor je opredeljen v naslednjih določbah ZTFI:
 1. investicijske storitve in posli v prvem odstavku 8. člena,
 2. kolektivni naložbeni podjem v prvem odstavku 26. člena.

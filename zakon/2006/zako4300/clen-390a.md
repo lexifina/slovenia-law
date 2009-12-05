@@ -54,7 +54,7 @@
 1. da je mogoč samo dostop do podatkov o posamezni osebi, prikaz teh podatkov na zaslon in izpis podatkov na papir (v nadaljnjem besedilu: izpis bonitetnih podatkov o posamezni osebi),
 2. da napačni podatek, ki se izbriše po osmem odstavku tega člena, ni več naveden v izpisu bonitetnih podatkov o posamezni osebi takoj, ko je izbrisan.
 (10) Podatke o posameznih poslih iz četrtega odstavka tega člena je v sistemu iz prvega odstavka tega člena dovoljeno hraniti tako, da so ti navedeni v izpisu bonitetnih podatkov o posamezni osebi, do poteka naslednjih rokov:
-1. če je pri izpolnjevanju obveznosti nastal položaj iz 6. točke tretjega odstavka tega člena: štirih let po prenehanju obveznosti,
+1. če je pri izpolnjevanju obveznosti nastal položaj iz 6. točke četrtega odstavka tega člena: štirih let po prenehanju obveznosti,
 2. v drugih primerih: enega leta po prenehanju obveznosti.
 (11) Podatke iz 5. točke tretjega odstavka tega člena je v sistemu iz prvega odstavka tega člena dovoljeno hraniti tako, da so ti navedeni v izpisu bonitetnih podatkov o posamezni osebi do poteka petih let po pravnomočnosti sklepa o končanju postopka osebnega stečaja.
 (12) Podatkov iz tretjega in četrtega odstavka tega člena ni dovoljeno uporabljati za neposredno ali ciljno trženje.

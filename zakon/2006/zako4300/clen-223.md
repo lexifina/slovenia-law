@@ -11,3 +11,4 @@
 5. postavitev izredne uprave,
 6. začetek prisilne likvidacije,
 7. odločitev o razlogih za stečaj banke.
+(3) Pri opravljanju svojih nalog in pristojnosti na področju nadzora bančnega poslovanja Banka Slovenije poleg navodil in priporočil, ki so jih sprejeli odbori EU-nadzornikov, upošteva tudi morebiten vpliv na finančno stabilnost držav članic.
