@@ -1,0 +1,2 @@
+# 7. člen (odpiranje novih postavk in zagotavljanje pravic porabe na njih)
+Za izvajanje politik in programov, ki se financirajo iz predpristopnih pomoči, popristopnih pomoči, donacij finančnih mehanizmov in namenskih sredstev EU lahko Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) na predlog ministrstva, pristojnega za finance, med letom odpre nove postavke. Pravice porabe na novih postavkah se zagotovijo s prerazporeditvami pravic porabe oziroma iz naslova večjih prihodkov proračuna od načrtovanih.
