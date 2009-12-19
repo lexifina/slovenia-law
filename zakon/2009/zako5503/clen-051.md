@@ -1,0 +1,3 @@
+# 51. člen (izjava o prosti prodaji medicinskega pripomočka)
+(1) Organ, pristojen za medicinske pripomočke, lahko proizvajalcu medicinskih pripomočkov s sedežem v Republiki Sloveniji na njegovo zahtevo izda izjavo, s katero potrjuje, da je zadevni medicinski pripomoček ali skupina medicinskih pripomočkov na trgu v skladu s predpisi Evropske unije, ki urejajo področje medicinskih pripomočkov, s tem zakonom in na njegovi podlagi izdanimi podzakonskimi predpisi ter da za ta medicinski pripomoček ni nobenih omejitev za dajanje na trg.
+(2) Natančnejšo vsebino vloge za izdajo izjave o prosti prodaji medicinskega pripomočka iz prejšnjega odstavka določi minister.

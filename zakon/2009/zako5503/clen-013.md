@@ -1,0 +1,4 @@
+# 13. člen (komisije in izvedenci)
+(1) Pri organu, pristojnem za medicinske pripomočke, delujejo komisije za medicinske pripomočke in izvedenci ali izvedenke (v nadaljnjem besedilu: izvedenci). Komisije za medicinske pripomočke in izvedenci imajo posvetovalno vlogo ter so strokovno neodvisni in samostojni na svojem področju delovanja.
+(2) Komisije za medicinske pripomočke in izvedence imenuje organ, pristojen za medicinske pripomočke, med uveljavljenimi strokovnjaki s področja farmacije, medicine, ali drugih naravoslovnih in tehničnih ved, za obravnavo in dajanje mnenj s strokovnih področij, ki zahtevajo posebno znanje.
+(3) Člani komisij za medicinske pripomočke in izvedenci morajo pri svojem delu ravnati nepristransko in skladno s predpisi, ne smejo omogočati neupravičenih koristi ali dajati prednosti posameznim predlagateljem postopkov ter morajo spoštovati zaupnost podatkov, s katerimi se seznanijo pri opravljanju svojih nalog.

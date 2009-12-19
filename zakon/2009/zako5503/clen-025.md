@@ -1,0 +1,2 @@
+# 25. člen (izjeme v izrednih razmerah)
+Organ, pristojen za medicinske pripomočke, lahko na podlagi ustrezno utemeljene zahteve predlagatelja odobri dajanje na trg oziroma v uporabo v Republiki Sloveniji tudi medicinskih pripomočkov, za katere niso bili izvedeni postopki ugotavljanja skladnosti, v izrednih razmerah (epidemije, zastrupitve, jedrska ali radiološka nesreča ali podobno) ali iz drugih razlogov, če gre za varovanje javnega zdravja.

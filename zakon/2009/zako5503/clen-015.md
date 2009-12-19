@@ -1,0 +1,9 @@
+# 15. člen (razmejitev med medicinskimi pripomočki in drugimi izdelki)
+(1) Pri odločanju o razvrstitvi izdelka med medicinske pripomočke ali med druge izdelke je treba upoštevati glavni namen njegovega delovanja.
+(2) Če je medicinski pripomoček dan na trg le za uporabo zdravila, se obravnava v skladu s tem zakonom.
+(3) Če je medicinski pripomoček dan na trg tako, da hkrati z zdravilom predstavlja enoten izdelek, namenjen izključno uporabi v dani kombinaciji in ne ponovni uporabi, se ta enotni izdelek obravnava v skladu s predpisi o zdravilih. Lastnosti medicinskega pripomočka, povezane z njegovo varnostjo in zmogljivostjo, morajo ustrezati bistvenim zahtevam iz tega zakona.
+(4) Če medicinski pripomoček kot svoj sestavni del vsebuje snov, ki bi, če bi bila uporabljena ločeno, lahko veljala za zdravilo v skladu s predpisi o zdravilih in na telo deluje z učinkom, ki je dopolnilen učinku medicinskega pripomočka, se ta izdelek obravnava kot medicinski pripomoček.
+(5) Če medicinski pripomoček kot sestavni del vsebuje snov, ki je v skladu s predpisi o zdravilih, če se uporablja ločeno, sestavina zdravila ali zdravilo, pridobljeno iz človeške krvi ali človeške plazme (derivat človeške krvi), in ki ima ob tem medicinskem pripomočku na telo verjetno dopolnilni učinek, se ta izdelek obravnava kot medicinski pripomoček.
+(6) Če je namen proizvajalca medicinskih pripomočkov, da se medicinski pripomoček uporabi kot osebna varovalna oprema v skladu s predpisi o osebni varovalni opremi, mora izdelek izpolnjevati tudi ustrezne zahteve za varnost in zdravje v skladu s predpisi o osebni varovalni opremi.
+(7) V primeru dvoma o razvrstitvi izdelka med medicinske pripomočke o razvrstitvi odloča organ, pristojen za medicinske pripomočke, na podlagi vloge predlagatelja ali po uradni dolžnosti.
+(8) Natančnejšo vsebino vloge iz prejšnjega odstavka določi minister.

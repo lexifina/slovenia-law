@@ -1,0 +1,3 @@
+# 49. člen (priglasitev medicinskih pripomočkov)
+(1) Proizvajalec medicinskih pripomočkov oziroma predstavnik proizvajalca s sedežem v Republiki Sloveniji mora organu, pristojnemu za medicinske pripomočke, priglasiti medicinske pripomočke za vpis v register medicinskih pripomočkov najpozneje v 15 dneh od začetka njihovega dajanja na trg.
+(2) Proizvajalci medicinskih pripomočkov in predstavniki proizvajalcev morajo organu, pristojnemu za medicinske pripomočke, na njegovo zahtevo predložiti dokumentacijo o aktivnih medicinskih pripomočkih za vsaditev, medicinskih pripomočkih razreda IIa, IIb in III, o medicinskih pripomočkih, ki so izdelani za posameznega uporabnika, in o in vitro diagnostičnih medicinskih pripomočkih, ki jih dajejo v uporabo v Republiki Sloveniji.
