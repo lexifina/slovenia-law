@@ -1,0 +1,2 @@
+- Zakon o cestnini za vozila, katerih največja dovoljena masa presega 3.500 kg - ZCestV (Uradni list RS, št. 69/08 z dne 8. 7. 2008),
+- Zakon o spremembi Zakona o cestnini za vozila, katerih največja dovoljena masa presega 3.500 kg - ZCestV-A (Uradni list RS, št. 109/09 z dne 28. 12. 2009).
