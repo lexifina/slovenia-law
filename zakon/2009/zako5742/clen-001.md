@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o javnih cestah (Uradni list RS, št. 33/06 - uradno prečiščeno besedilo, 45/08, 57/08 - ZLDUVCP, 69/08 - ZCestV in 42/09) se prvi odstavek 75.c člena spremeni tako, da se glasi:
+"(1) Pri izvajanju nadzora ima upravljavec cestninskih cest pooblastilo slikovno snemati vozila na kateremkoli delu cestninske ceste za namen identifikacije registrske označbe vozila in ugotavljanja pravilne uporabe vinjet, prevzema in oddaje zadnjega veljavnega dokumenta za plačilo cestnine v zaprtem sistemu cestninjenja ter pravilnosti registracije pri plačevanju cestnine z elektronsko napravo za cestninjenje.".
