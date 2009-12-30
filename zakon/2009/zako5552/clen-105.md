@@ -1,0 +1,5 @@
+# 105. člen
+Prvi odstavek 313. člena se spremeni tako, da se glasi:
+"(1) Akontacijo dohodnine od katastrskega dohodka davčni organ ugotovi z odločbo na podlagi podatkov o davčnem zavezancu, ki je kot imetnik pravice uporabe kmetijskih in gozdnih zemljišč vpisan v zemljiški knjigi oziroma zemljiškem katastru ali evidentiran kot dejanski uporabnik, podatkov o površini in parcelni številki zemljišč v uporabi zavezanca, kot jih izkazuje zemljiški kataster ali jih prijavi zavezanec kot vinograd za lastno proizvodnjo vina ali kot oljčnik, podatkov o katastrskem dohodku, vpisanem v zemljiškem katastru ali določenem s predpisi o dohodnini, ter podatkov o priznanih oprostitvah in znižanjih katastrskega dohodka, ki se priznajo za več let, po stanju na dan 30. junija leta, za katero se akontacija dohodnine odmerja.".
+Tretji odstavek se črta.
+V dosedanjem četrtem odstavku, ki postane tretji odstavek, se za besedo "čebelnjakov" doda besedilo "ter podatka o pavšalni oceni dohodka na panj po predpisih o dohodnini,".

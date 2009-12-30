@@ -1,0 +1,5 @@
+# 97. člen
+V drugem odstavku 298. člena se v zadnjem stavku črta besedilo "v obračunu akontacije dohodnine od dohodka iz dejavnosti" ter doda nov stavek, ki se glasi: "Izračun pripravi na obrazcu davčnega obračuna akontacije dohodnine od dohodka iz dejavnosti z izpolnitvijo samo tistih postavk, ki so potrebne za ustrezen prikaz višine davčne osnove, predhodne akontacije in obrokov predhodne akontacije.".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Predhodna akontacija se v novem davčnem letu do novega davčnega obračuna plačuje v rokih in v višini obrokov, kot se je plačevala za preteklo davčno leto. Če je višina predhodne akontacije na podlagi novega davčnega obračuna višja, mora zavezanec razliko za že dospele obroke predhodne akontacije tekočega leta plačati pri prvem naslednjem obroku predhodne akontacije. Če je višina predhodne akontacije na podlagi novega davčnega obračuna manjša, se preplačila zapadlih in plačanih obrokov predhodne akontacije vrnejo.".
+Šesti odstavek se črta.

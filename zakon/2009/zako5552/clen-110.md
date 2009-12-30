@@ -1,0 +1,3 @@
+# 110. člen
+V prvem odstavku 326. člena se za besedo "petega" dodata besedi "in osmega".
+Na koncu četrtega odstavka se doda besedilo, ki se glasi: "Davčni zavezanec napoved za odmero dohodnine od dobička iz odsvojitve vrednostnih papirjev in drugih deležev ter investicijskih kuponov vloži v elektronski obliki, če je v preteklem letu opravil več kot deset obdavčljivih odsvojitev tovrstnega kapitala. Če davčni zavezanec ne razpolaga z računalniško opremo oziroma nima dostopa do interneta, vloži napoved v elektronski obliki z uporabo računalniške opreme, ki jo zagotavlja DURS na davčnih uradih.".

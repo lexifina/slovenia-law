@@ -1,0 +1,2 @@
+# 119. člen
+V prvem odstavku 362. člena se prvi stavek spremeni tako, da se glasi: "Ne glede na 361. člen tega zakona, v primeru, ko je vpis združitve v sodni register izveden po poteku treh mesecev po koncu davčnega obdobja zavezanca, ki se pripoji ali spoji, prevzeta družba v skladu z določili tega zakona in zakona, ki ureja obdavčenje, predloži tudi davčni obračun na zadnji dan davčnega obdobja, ki sledi obračunskemu dnevu združitve.".
