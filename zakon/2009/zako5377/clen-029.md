@@ -1,0 +1,3 @@
+# 29. člen (storitve s področja kulture, umetnosti, športa, znanosti, izobraževanja, zabavnih in podobnih prireditev, pomožne prevozne storitve ter cenitve in dela na premičninah)
+(1) Kraj opravljanja storitev, vključno s pomožnimi, s področja kulture, umetnosti, športa, znanosti, izobraževanja, zabavnih in podobnih prireditev, kot so sejmi in razstave, vključno s storitvami organizatorjev teh dejavnosti, je kraj, kjer so te storitve dejansko opravljene.
+(2) Kraj opravljanja pomožnih prevoznih storitev, kot so nakladanje, razkladanje, pretovarjanje in podobne dejavnosti, ter cenitve in delo na premičninah, ki se opravijo osebam, ki niso davčni zavezanci, je kraj, kjer so te storitve dejansko opravljene.

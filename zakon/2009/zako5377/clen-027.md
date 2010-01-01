@@ -1,0 +1,2 @@
+# 27. člen (storitve v zvezi z nepremičninami)
+Kraj opravljanja storitev v zvezi z nepremičninami, vključno s storitvami strokovnjakov in nepremičninskih posrednikov, nastanitvijo v hotelih ali podobnih nastanitvenih obratih, vključno z nastanitvijo v počitniških domovih, počitniških kampih ali na prostorih, namenjenih kampiranju, dodeljevanjem pravic do uporabe nepremičnin in storitvami za pripravo in koordinacijo gradbenih del, kot so storitve arhitektov in podjetij, ki zagotavljajo nadzor na kraju samem, je kraj, kjer se nepremičnina nahaja.

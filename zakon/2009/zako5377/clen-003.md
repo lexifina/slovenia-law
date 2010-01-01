@@ -1,0 +1,2 @@
+# 3. člen
+Na koncu drugega odstavka 33. člena se doda besedilo, ki se glasi: "Za storitve, za katere je DDV dolžan plačati prejemnik storitev v skladu s 3. točko prvega odstavka 76. člena tega zakona, in ki se neprekinjeno opravljajo v obdobju, daljšem od enega leta, ter za katere se v tem obdobju ne izdajajo računi in ne vršijo plačila, se šteje, da so končane ob izteku vsakega koledarskega leta, dokler storitve niso dokončane.".
