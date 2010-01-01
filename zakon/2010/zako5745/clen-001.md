@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o tajnih podatkih (Uradni list RS, št. 50/06 - uradno prečiščeno besedilo) se prvi in drugi odstavek 22. člena spremenita tako, da se glasita:
+"Dovoljenja za dostop osebe do tajnih podatkov stopenj ZAUPNO, TAJNO ali STROGO TAJNO izdajajo ministrstvo, pristojno za notranje zadeve, ministrstvo, pristojno za obrambo, ter Slovenska obveščevalno-varnostna agencija (v nadaljnjem besedilu: pristojni organ).
+Osebam, ki bodo dostop do tajnih podatkov potrebovale zaradi opravljanja funkcij ali izvajanja nalog na delovnih mestih v ministrstvu, pristojnem za notranje zadeve, ministrstvu, pristojnem za obrambo, ali Slovenski obveščevalno-varnostni agenciji, dovoljenje izda, skladno z določili tega zakona in predpisi, izdanimi na njegovi podlagi, minister, pristojen za notranje zadeve, oziroma minister, pristojen za obrambo, oziroma direktor Slovenske obveščevalno-varnostne agencije. O izdaji dovoljenja obvestijo nacionalni varnostni organ.".
