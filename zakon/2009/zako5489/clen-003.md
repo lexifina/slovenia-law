@@ -1,0 +1,2 @@
+# 3. člen
+V tretjem odstavku 10. člena se besedilo "za primer poplačila stroškov obremenjevanja okolja pri opravljanju dejavnosti in po njenem prenehanju" nadomesti z besedilom "zaradi izvajanja predpisanih obveznosti ali poplačila stroškov obremenjevanja okolja pri opravljanju njegove dejavnosti, po njenem prenehanju ali prenehanju obratovanja naprave ali obrata ali prenehanju povzročitelja obremenitve".

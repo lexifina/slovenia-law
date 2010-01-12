@@ -1,0 +1,15 @@
+# 2. člen
+V 3. členu se v točki 6.4. za besedama "Kritična obremenitev" doda besedilo "ali alarmna vrednost".
+Za točko 7.1. se dodajo nove 7.2., 7.3., 7.3.1. in 7.3.2. točka, ki se glasijo:
+"7.2. Sprememba upravljavca je sprememba pravne ali fizične osebe ali sprememba firme ali sedeža osebe, ki je pridobila okoljevarstveno dovoljenje.
+7.3. Operator zrakoplova je oseba, ki upravlja zrakoplov med izvajanjem določene vrste letalske dejavnosti, ali lastnik zrakoplova, kadar ta ne pozna osebe, ki upravlja zrakoplov, ali je ne navede.
+7.3.1. Operator komercialnega zračnega prometa je operator zrakoplova, ki javnosti za plačilo zagotavlja redne ali izredne storitve zračnega prometa za prevoz potnikov, tovora ali poštnih pošiljk.
+7.3.2. Država članica upravljavka je država članica, ki je operatorju zrakoplova odobrila operativno licenco v skladu s predpisom EU o skupnih pravilih za opravljanje zračnih prevozov oziroma država članica z največjimi ocenjenimi pripisanimi emisijami iz letalstva, kot jih je določil pristojni organ EU. Operator zrakoplova je pripisan Republiki Sloveniji na podlagi podatkov pristojnega organa EU, da je na območju EU povzročil največ emisij toplogrednih plinov z opravljanjem določenih vrst letalskih dejavnosti na območje Republike Slovenije.".
+Za točko 8. se dodajo nove 8.1., 8.2., 8.3. in 8.4. točka, ki se glasijo:
+"8.1. Za začetek obratovanja naprave ali obrata se v primeru gradnje šteje datum dokončnosti uporabnega dovoljenja ali odločbe o odreditvi poskusnega obratovanja po predpisih o graditvi objektov, kadar je bilo odrejeno poskusno obratovanje, ali pa datum dokončnosti okoljevarstvenega dovoljenja, kadar ne gre za gradnjo.
+8.2. Sprememba v obratovanju naprave je sprememba v vrsti ali delovanju naprave ali njena razširitev, ki bi lahko vplivala na okolje in odstopa od pogojev, pod katerimi je bilo izdano okoljevarstveno dovoljenje skladno s tem zakonom.
+8.3. Večja sprememba v obratovanju naprave je njena sprememba ali razširitev, ki ima lahko pomembne škodljive vplive na ljudi ali okolje ali ki sama po sebi dosega prag, predpisan za uvrstitev naprave med tiste, ki lahko povzročajo onesnaževanje večjega obsega.
+8.4. Proizvodna zmogljivost naprave je največja možna količina vhodnih ali izhodnih snovi, kot so surovine, pomožna sredstva, izdelki ali polizdelki, ki v 24 urah na dan vstopajo v napravo ali izstopajo iz nje, če je ta zmožna obratovati na ta način. Lahko je opredeljena tudi posredno, in sicer s parametri, kot so prostornina, površina ali dimenzije naprave ali njenih delov, uporabljena moč ali energija, število mest ali osebkov v objektih za rejo živali in podobno.".
+Za točko 14.6. se dodata novi 15. in 16. točka, ki se glasita:
+"15. Javnost pomeni eno ali več fizičnih ali pravnih oseb in njihova združenja, organizacije ali skupine.
+16. Zainteresirana javnost je javnost, ki lahko sodeluje v postopku izdaje okoljevarstvenega soglasja ali okoljevarstvenega dovoljenja za obratovanje naprave, ki lahko povzroča onesnaževanje večjega obsega, v skladu s tem zakonom.".

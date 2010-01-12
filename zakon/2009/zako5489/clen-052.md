@@ -1,0 +1,4 @@
+# 52. člen
+V prvem odstavku 138. člena se za besedilom "118. člena tega zakona" doda besedilo "ali operator zrakoplova", besedilo "prvega odstavka 133." se nadomesti z besedilom "šestega odstavka 133.", besedilo "da so podatki iz prvega odstavka 134. člena tega zakona resnični, pravilni in natančni" pa z besedilom "da je poročilo iz šestega odstavka 133. člena tega zakona resnično, pravilno in natančno".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Ministrstvo izda upravljavcu naprave ali operatorju zrakoplova iz prejšnjega odstavka odločbo o ponovni dovolitvi trgovanja z emisijskimi kuponi, ko prejme poročilo o emisijah toplogrednih plinov in pisno mnenje iz prejšnjega odstavka, ter izda organu, pristojnemu za vodenje registra iz 132. člena tega zakona, nalog o ponovnem odprtju računa upravljavca naprave ali operatorja zrakoplova.".

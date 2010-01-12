@@ -1,0 +1,4 @@
+# 157.c člen (zastavna pravica in izvajanje denarnih izvršb)
+(1) Republika Slovenija ima v zavarovanje svoje terjatve iz naslova vseh stroškov, nastalih v inšpekcijskem postopku, vključno s kaznimi, določenimi na podlagi tega zakona, do celotnega poplačila zakonito zastavno pravico na vseh nepremičninah osebe, zoper katero je uvedla inšpekcijski ukrep.
+(2) Vse odločbe, sodbe in druge izvršljive akte, ki so podlaga za terjatve iz prejšnjega odstavka, pristojni organ pošlje pristojnemu sodišču, ki zastavno pravico vpiše v zemljiško knjigo po uradni dolžnosti.
+(3) Vse denarne izvršbe inšpekcijskih ukrepov ter drugih odločb in sklepov, izdanih na podlagi tega zakona v zvezi s plačili denarnih kazni, določenih po tem zakonu, izvaja tista davčna uprava, na območju katere ima inšpekcijski zavezanec stalno prebivališče ali sedež.".

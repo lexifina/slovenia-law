@@ -1,0 +1,7 @@
+# 77. člen (nove dejavnosti)
+(1) Upravljavci naprav morajo za naprave, ki izvajajo dejavnost, določeno s predpisom iz šestega odstavka tega člena, in bodo prvič vključene v trgovanje s pravicami do emisije toplogrednih plinov od 1. januarja 2013 dalje, ministrstvu najpozneje do 30. aprila 2010 poslati podatke o dejavnostih in emisijah toplogrednih plinov za te naprave v obdobju od leta 2005 do 2008.
+(2) Upravljavci naprav morajo za naprave, ki so vključene v trgovanje z emisijami toplogrednih plinov v obdobju od leta 2008 do 2012, ministrstvu najpozneje do 30. septembra 2010 poslati podatke o dejavnostih in emisijah toplogrednih plinov za te naprave v obdobju od leta 2005 do 2008.
+(3) Pravilnost in resničnost podatkov iz prvega odstavka tega člena preveri ministrstvo, preverjene in resnične podatke o emisijah iz naprav iz prvega odstavka tega člena pa najpozneje do 30. junija 2010 pošlje pristojnemu organu EU.
+(4) Ministrstvo lahko pristojnemu organu EU sporoči nižjo količino emisij glede na zmožnost naprave za zmanjšanje emisij, če naprava izpušča drug toplogredni plin kot ogljikov dioksid.
+(5) Za upravljavce naprav iz prvega odstavka tega člena se štejejo upravljavci naprav, določeni s predpisom iz šestega odstavka tega člena.
+(6) Minister najpozneje v 30 dneh od uveljavitve tega zakona predpiše vrsto in vsebino podatkov o dejavnostih in emisijah toplogrednih plinov iz prvega in drugega odstavka tega člena, način preverjanja iz tretjega odstavka tega člena in upravljavce naprav iz petega odstavka tega člena.
