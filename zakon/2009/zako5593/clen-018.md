@@ -1,0 +1,3 @@
+# 18. člen
+V 37.a členu se za drugim odstavkom doda tretji odstavek, ki se glasi:
+"(3) Diplomat, ki ni bil postavljen za veleposlanika, lahko v stalnem predstavništvu Republike Slovenije pri mednarodni organizaciji izjemoma uporablja naziv veleposlanik v zvezi z vodenjem dela na zaokroženem delovnem področju, če v skladu s prakso mednarodne organizacije tako delovno področje praviloma vodijo diplomati z nazivom veleposlanik. Diplomatu pripadajo pravice iz naziva v zunanji službi, za katerega izpolnjuje pogoje v skladu s tem zakonom. Naziv veleposlanika sme uporabljati diplomat, ki je dosegel naziv pooblaščeni minister.".
