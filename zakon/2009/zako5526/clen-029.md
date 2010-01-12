@@ -1,0 +1,2 @@
+# 29. člen (začetek vodenja operativnega zračnega prometa)
+Ne glede na druge določbe tega zakona začne javno podjetje z zagotavljanjem navigacijskih služb zračnega prometa za potrebe operativnega zračnega prometa po uveljavitvi predpisa iz šestega odstavka 3. člena zakona, sklenitvi pogodbe iz drugega odstavka 10. člena zakona in usposobitvi delavcev javnega podjetja za vodenje operativnega zračnega prometa.
