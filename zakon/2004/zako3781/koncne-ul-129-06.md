@@ -1,5 +1,3 @@
-# 117. člen
-Ta zakon začne veljati 1. januarja 2005.".
 Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah - ZEKom-A (Uradni list RS, št. 129/06) spreminja 164. člen zakona tako, da se glasi:
 "164. člen
 (obstoječa omrežja na tujem zemljišču)
@@ -8,7 +6,7 @@ Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah - ZEKom-A 
 (3) V primerih obstoječih elektronskih komunikacijskih omrežij v javnih cestah se je operater dolžan ravnati v skladu s pogoji uporabe omrežja, kot jih določa soglasje za njegovo postavitev, dano na podlagi zakona, ki ureja javne ceste.
 (4) Če je zaradi gradnje javne ceste in z njo povezanih objektov potrebno izvesti prestavitev in zaščito omrežja iz prejšnjega odstavka, mora operater predložiti soglasje iz prejšnjega odstavka, sicer ga bremenijo vsi stroški prestavitve in zaščite tega omrežja.";
 ter vsebuje naslednje prehodne in končne določbe:
-## "PREHODNE IN KONČNE DOLOČBE
+"PREHODNE IN KONČNE DOLOČBE
 121. člen
 (1) Agencija v roku šestih mesecev od uveljavitve tega zakona izda oziroma uskladi splošne akte, ki so po tem zakonu v njeni pristojnosti.
 (2) Do izdaje splošnega akta iz 14. člena tega zakona ostane v veljavi Pravilnik o kakovosti univerzalne storitve (Uradni list RS, št. 110/04).
@@ -17,9 +15,4 @@ ter vsebuje naslednje prehodne in končne določbe:
 (5) Operaterji morajo v dveh letih od uveljavitve tega zakona zagotoviti, da se funkcija prednosti prenaša med omrežji.
 (6) Določbe 92. člena tega zakona, ki se nanašajo na hrambo podatkov pri telefonskih storitvah, se začnejo uporabljati 15. septembra 2007, določbe, ki se nanašajo na hrambo podatkov o dostopu do interneta, elektronski pošti in internetni telefoniji, pa 15. marca 2009.
 122. člen
-Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
-_________
-Zakon o digitalni radiodifuziji - ZDRad (Uradni list RS, št. 102/07) vsebuje naslednjo končno določbo:
-"41. člen
-(začetek veljavnosti)
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".

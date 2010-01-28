@@ -1,5 +1,5 @@
 # 153. člen (prekrški)
-(1) Z globo od 2,000.000 do 5,000.000 tolarjev se za prekršek kaznuje pravna oseba, če:
+(1) Z globo od 20.000 do 50.000 eurov se za prekršek kaznuje pravna oseba, ki se po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, če:
 1. (črtana)
 2. ne pošlje vseh podatkov o pravnih poslih v zvezi z dodeljenimi številkami agenciji (sedmi odstavek 62. člena);
 3. ne deluje v skladu z odločbo o dodelitvi številk (63. in 64. člen);
@@ -13,6 +13,7 @@
 11. ne upošteva naročnikove zahteve (drugi odstavek 91. člena);
 12. osnovna stopnja razčlenitve računa ne vsebuje z zakonom določenih elementov (tretji in četrti odstavek 91. člena);
 13. zaračuna višjo ceno za dodatno razčlenitev računa kot pa so dejanski stroški (šesti odstavek 91. člena);
+13.a operater ustrezno ne zabeleži prijave napake končnega uporabnika (drugi odstavek 92. člena);
 14. v svojih splošnih pogojih ne določi, katere podatke o prometu se bo hranilo, ali obdelovalo, ali koliko časa oziroma ne izjavi, da se bo z njimi ravnalo v skladu z zakonom, ki ureja varstvo podatkov (četrti odstavek 104. člena);
 15. podatke o prometu obdeluje za trženje ali za izvajanje storitev z dodano vrednostjo brez predhodnega soglasja uporabnika (tretji odstavek 104. člena);
 16. ne zagotavlja možnosti, ki so določene v prvem do vključno šestem odstavku 105. člena;
@@ -30,4 +31,5 @@
 25. zavrnitev vpisa v javni naročniški imenik, preverjanje, sprememba ali izbris osebnih podatkov ni brezplačna (tretji odstavek 111. člena);
 26. elektronska komunikacijska omrežja za razširjanje storitev digitalne televizije ne načrtuje tako, da se da po njih razširjati tudi široko - zaslonske televizijske storitve in programe (prvi odstavek 113. člena);
 27. ne ohrani širokozaslonski format (drugi odstavek 113. člena);
-(2) Z globo od 200.000 do 500.000 tolarjev se kaznuje samostojni podjetnik posameznik in odgovorna oseba samostojnega podjetnika posameznika, ali odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
+(2) Z globo od 500 do 15.000 eurov se kaznuje pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 200 do 2.000 eurov se kaznuje odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika, ki stori prekršek iz prvega odstavka tega člena.

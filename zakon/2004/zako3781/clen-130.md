@@ -2,5 +2,6 @@
 (1) Agencija po preučitvi predloga za rešitev spora uvede posredovalni postopek, katerega namen je, da se stranki medsebojno poravnata s sporazumom.
 (2) Agencija v osmih dneh od prejema predloga za rešitev spora s strani ene od sprtih strani ali v primeru 9. člena tudi po uradni dolžnosti pisno obvesti sprti strani o uvedbi posredovalnega postopka in pogojih za reševanje spora z odločbo agencije iz tretjega odstavka prejšnjega člena, če do sporazuma ne pride.
 (3) Agencija ima v posredovalnem postopku vlogo posrednika in vodi celoten postopek tako, da upošteva načela nepristranskosti, enakosti, pravičnosti in zaupnosti ter cilje, ki jih zasleduje skladno s 120. členom tega zakona.
-(4) Posredovalni postopek je zaupne narave, kar je dolžan spoštovati vsakdo, kdor v njem kakor koli sodeluje.
-(5) Agencija lahko pravila posredovanja natančneje opredeli v splošnem aktu.
+(4) Če agencija uporabniku, ki je vlagatelj zahteve za rešitev uporabniškega spora, predloži predlog sporazumne rešitve, ki ga je pripravila fizična ali pravna oseba, ki zagotavlja elektronska komunikacijska omrežja in storitve, in s katerim ta v celoti ugodi zahtevku uporabnika, vlagatelj pa na ta predlog v za to določenem roku ne odgovori, se šteje, da se strinja s ponujeno rešitvijo in je umaknil zahtevek. Agencija mora v predloženem predlogu sporazumne rešitve vlagatelja zahteve za rešitev spora opozoriti na posledice, če ne odgovori v roku, določenem v predloženem predlogu.
+(5) Posredovalni postopek je zaupne narave, kar je dolžan spoštovati vsakdo, kdor v njem kakor koli sodeluje.
+(6) Agencija lahko pravila posredovanja natančneje opredeli v splošnem aktu.

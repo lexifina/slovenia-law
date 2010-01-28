@@ -1,7 +1,7 @@
 ## XV. SVET ZA ELEKTRONSKE KOMUNIKACIJE REPUBLIKE SLOVENIJE
 # 148. člen (Svet za elektronske komunikacije)
-(1) Svet za elektronske komunikacije (v nadaljnjem besedilu: svet) je organ za spremljanje in svetovanje pri usmerjanju razvoja elektronskih komunikacij v Republiki Sloveniji.
-(2) Svet ima enajst članov, ki jih za dobo pet let imenuje državni zbor izmed različnih strokovnjakov, ki se ukvarjajo s področjem elektronskih komunikacij.
+(1) Svet za elektronske komunikacije (v nadaljnjem besedilu: svet) je organ za spremljanje in svetovanje pri usmerjanju razvoja elektronskih komunikacij in pri varstvu interesov potrošnikov na področju elektronskih komunikacij v Republiki Sloveniji.
+(2) Svet ima 11 članov, ki jih za dobo pet let imenuje Državni zbor. Pri tem štiri člane imenuje izmed predstavnikov nevladnih organizacij, ki delujejo na področju varstva interesov potrošnikov, od tega vsaj enega predstavnika invalidskih organizacij in vsaj enega predstavnika izobraževalnih institucij, preostalih sedem članov pa izmed različnih strokovnjakov s področja elektronskih komunikacij.
 (3) Predsednika oziroma predsednico (v nadaljnjem besedilu: predsednik sveta) in namestnika oziroma namestnico predsednika sveta imenujejo člani sveta izmed sebe.
 (4) Člani sveta ne smejo biti:
 1. člani oziroma članice vodstev političnih strank,

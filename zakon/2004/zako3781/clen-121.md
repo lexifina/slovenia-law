@@ -9,4 +9,7 @@
 2. vzorčnih ponudbah tistih operaterjev omrežij, ki so jih dolžni oblikovati in objaviti;
 3. izračunih nadomestila in stroškov za zagotavljanje univerzalne storitve;
 4. odločbah o pravicah uporabe radijskih frekvenc in elementov oštevilčenja;
-5. prenosu pravice do uporabe radijskih frekvenc in elementov oštevilčenja.
+5. prenosu pravice do uporabe radijskih frekvenc in elementov oštevilčenja;
+6. javnih pozivih za pridobitev mnenj zainteresirane javnosti na podlagi tega zakona;
+7. javnih razpisih, ki jih vodi agencija na podlagi tega zakona.
+(4) Ne glede na drug način objave mora agencija podatke in informacije iz prejšnjega odstavka vedno objaviti tudi na svojih spletnih straneh.

@@ -5,8 +5,7 @@
 (4) Agencija razveljavi odločbo o dodelitvi radijskih frekvenc po uradni dolžnosti, če ugotovi, da:
 1. je vloga za odločbo o dodelitvi radijskih frekvenc vsebovala neresnične podatke;
 2. imetnik ne izpolnjuje več predpisanih pogojev, določenih na podlagi veljavne zakonodaje ali na podlagi njegove odločbe o dodelitvi radijskih frekvenc;
-3. imetnik ni začel uporabljati radijske frekvence v enem letu po izdaji odločbe o dodelitvi radijskih frekvenc ali se dodeljena radijska frekvenca v enoletnem obdobju med najmanj šestimi naključnimi preverjanji, ki so trajala najmanj dva dni skupaj, ni uporabljala, razen če z odločbo ni drugače določeno ali če imetnik s pisnimi dokazi ne dokaže nasprotnega;
-4. se ni mogoče drugače izogniti škodljivemu motenju, ki ga povzroča signal radijske opreme drugi radijski opremi, sprejemnikom ali električnim oziroma elektronskim sistemom.
-(5) Agencija razveljavi odločbo o dodelitvi radijskih frekvenc po uradni dolžnosti tudi:
-1. če plačilo za uporabo radijskih frekvenc oziroma znesek za učinkovito rabo omejene naravne dobrine kljub opozorilu ni bil plačan ali
-2. v primeru drugih nepravilnosti pri izpolnjevanju pogojev za uporabo radijskih frekvenc iz 49. člena tega zakona, ki so navedeni v odločbi o dodelitvi radijskih frekvenc, če te nepravilnosti niso bile odpravljene z milejšimi ukrepi v postopku nadzora.
+3. imetnik ni začel uporabljati radijske frekvence v roku, določenim v odločbi o dodelitvi radijskih frekvenc oziroma v ponudbi operaterja v javnem razpisu, ali se dodeljena radijska frekvenca v enoletnem obdobju med najmanj šestimi naključnimi preverjanji ni uporabljala, razen če z odločbo ni drugače določeno ali če imetnik s pisnimi dokazi ne dokaže nasprotnega;
+4. se ni mogoče drugače izogniti škodljivemu motenju, ki ga povzroča signal radijske opreme drugi radijski opremi, sprejemnikom ali električnim oziroma elektronskim sistemom;
+5. plačilo za uporabo radijskih frekvenc oziroma znesek za učinkovito rabo omejene naravne dobrine kljub večkratnemu opozorilu ni bil plačan;
+6. obstajajo druge hujše ali ponavljajoče se nepravilnosti pri izpolnjevanju pogojev za uporabo radijskih frekvenc iz 49. člena tega zakona, ki so navedeni v odločbi o dodelitvi radijskih frekvenc, če te nepravilnosti niso bile odpravljene z milejšimi ukrepi v postopku nadzora.
