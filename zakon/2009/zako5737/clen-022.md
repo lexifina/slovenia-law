@@ -1,0 +1,3 @@
+# 22. člen
+Za šestim odstavkom 91. člena se doda nov sedmi odstavek, ki se glasi:
+"(7) Operater izda razčlenjeni račun višje stopnje s takšno stopnjo členitve klicanih in klicočih oseb, pri kateri ni mogoče razpoznati njihove identitete, tako da izpusti oziroma izbriše zadnja tri mesta telefonskih številk. Celotno telefonsko številko klicane in klicoče osebe sme operater razkriti le na izrecno zahtevo naročnika, ki ji ta priloži pisno soglasje te osebe. Identitete klicanih in klicočih oseb operaterju ni potrebno prikriti v primerih razčlenjenega računa za klice med telefonskimi številkami istega naročnika. Razčlenjeni račun višje stopnje operater izda v elektronski obliki, razen če naročnik ne zahteva drugače.".

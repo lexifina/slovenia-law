@@ -1,0 +1,8 @@
+# 35. člen
+Prvi odstavek 129. člena se spremeni tako, da se glasi:
+"(1) Agencija rešuje spore med subjekti na trgu elektronskih komunikacij v Republiki Sloveniji, kakršni so spori med fizičnimi in pravnimi osebami, ki zagotavljajo elektronska komunikacijska omrežja oziroma storitve (medoperaterski spori), ter spori med fizičnimi in pravnimi osebami, ki zagotavljajo elektronska komunikacijska omrežja oziroma storitve, in uporabniki (uporabniški spori), če se spori nanašajo na pravice in obveznosti, ki jih določajo ta zakon, na njegovi podlagi izdani predpisi in splošni akti, kar pa ne posega v morebitno sodno pristojnost.".
+Tretji odstavek se spremeni tako, da se glasi:
+"(3) Če katera od strank nasprotuje posredovanju agencije ali to ne pripelje do poravnave oziroma sporazuma med strankami ter o zadevi ni bil sprožen sodni postopek, agencija na predlog katere koli stranke ali po uradni dolžnosti v primeru iz 9. člena tega zakona nadaljuje postopek reševanja spora in o sporu odloči z odločbo.".
+V šestem odstavku se besedilo "spora med fizičnimi in pravnimi osebami, ki zagotavljajo elektronska komunikacijska omrežja oziroma storitve" nadomesti z besedama "medoperaterskega spora", besedi "drugih sporih" pa z besedama "uporabniških sporih".
+Osmi odstavek se spremeni tako, da se glasi:
+"(8) Agencija mora odločbe, ki se nanašajo na medoperaterske spore, javno objaviti v obliki, ki upošteva prepoved objave poslovnih skrivnosti strank, razen če stranke predlagajo objavo svojih poslovnih skrivnosti. Agencija na svojih spletnih straneh objavlja tudi informacije o uporabniških sporih, ki jih obravnava, pri tem pa ne sme objaviti osebnih podatkov ali poslovnih skrivnosti.".

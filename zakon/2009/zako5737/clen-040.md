@@ -1,0 +1,97 @@
+# 40. člen
+152. člen se spremeni tako, da se glasi:
+"152. člen
+(prekrški)
+(1) Z globo od 50.000 do 400.000 eurov se za prekršek kaznuje pravna oseba, ki se po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, če:
+1. pisno ne obvesti agencije pred začetkom, spremembo ali prenehanjem zagotavljanja javnih komunikacijskih omrežij oziroma izvajanja javnih komunikacijskih storitev (prvi in osmi odstavek 5. člena);
+2. ne gradi ali ne načrtuje elektronskih komunikacijskih omrežij in pripadajoče infrastrukture v skladu s 7. členom oziroma 7.a členom tega zakona;
+3. ne izvrši odločbe agencije (tretji odstavek 8. člena);
+4. ne uresničuje pravice skupne uporabe v skladu s petim odstavkom 8. člena tega zakona;
+5. se ne pogaja o medomrežnem povezovanju (prvi odstavek 9. člena);
+6. ne varuje zaupnosti podatkov (tretji odstavek 9. člena);
+7. ne izvrši odločbe agencije (peti odstavek 9. člena);
+8. ne zagotavlja elektronskih komunikacijskih omrežij oziroma ne izvaja elektronskih komunikacijskih storitev v pravno samostojni družbi ali ne vodi ločenih računovodskih evidenc za aktivnosti, povezane z izvajanjem oziroma zagotavljanjem elektronskih komunikacijskih storitev ali omrežij (10. člen);
+9. zagotavlja univerzalni imenik oziroma univerzalno imeniško službo in različno obravnava podatke, ki jih dobi od različnih izvajalcev javno dostopne telefonske storitve (četrti odstavek 12. člena);
+10. ne zagotavlja univerzalne storitve, ki ji je bila naložena z odločbo agencije (tretji odstavek 13. člena);
+11. cene storitev, ki jih izvaja kot univerzalno storitev, niso enake na celotnem ozemlju Republike Slovenije (drugi odstavek 14. člena);
+12. cen in splošnih pogojev ni določila v skladu s četrtim odstavkom 14. člena tega zakona;
+13. ne spoštuje odločbe agencije (tretji in peti odstavek 14. člena);
+14. izmerjene vrednosti parametrov kakovosti univerzalne storitve, ki jo izvaja, najmanj trikrat zaporedoma ne dosežejo mejnih vrednosti (sedmi odstavek 15. člena);
+15. svojega prispevka ne plača izvajalcu univerzalne storitve v roku in višini, ki ju z odločbo določi agencija (tretji odstavek 17. člena);
+16. v roku, ki je določen s tem zakonom, ne obvesti agencije o prihodkih iz zagotavljanja javnih komunikacijskih omrežij oziroma izvajanja javnih komunikacijskih storitev (četrti odstavek 17. člena);
+17. ovira agencijo pri pregledu podatkov in oceni prihodkov (peti odstavek 17. člena);
+18. ne obvesti agencije v skladu s prvim odstavkom 27.b člena tega zakona;
+19. uporablja radijske frekvence brez veljavne odločbe o dodelitvi radijskih frekvenc (prvi odstavek 35. člena);
+20. ne uporablja radijskih frekvenc v skladu s tretjim odstavkom 36.a člena tega zakona;
+21. ne deluje v skladu z odločbo o dodelitvi radijskih frekvenc ali ne izpolnjuje pogojev, določenih v odločbi o dodelitvi radijskih frekvenc (48. in 49. člen);
+22. pravna oseba s sedežem v Republiki Sloveniji ali zunaj Republike Slovenije ne deluje v skladu z odločbo, izdano na podlagi skupnega izbirnega postopka, ki so ga izvedle pristojne institucije Evropske skupnosti na podlagi predpisa Evropske skupnosti (tretji odstavek 48. člena in 9. točka 49. člena);
+23. je imetnik odločbe o dodelitvi radijskih frekvenc in brez predhodnega soglasja agencije prenese pravico do uporabe teh radijskih frekvenc (52. člen);
+24. uporablja elemente oštevilčenja brez veljavne odločbe o dodelitvi elementov oštevilčenja (60. člen);
+25. dodeljene številke na podlagi pravnega posla dodeljuje v uporabo izvajalcem storitev in pri tem zaračuna več kot le dejanske stroške (sedmi odstavek 62. člena);
+26. imetnik odločbe o dodelitvi elementov oštevilčenja brez predhodnega soglasja agencije prenese pravico do uporabe teh elementov oštevilčenja (prvi odstavek 66. člena);
+27. svojim naročnikom ne omogoči prenosljivosti številk (prvi odstavek 71. člena);
+28. prenos številke drugemu operaterju naročniku zaračuna v nasprotju s tretjim odstavkom 71. člena tega zakona;
+29. cene medomrežnega povezovanja niso stroškovno naravnane (četrti odstavek 71. člena);
+30. svojim uporabnikom ne omogoči brezplačnega dostopa do številk za klic v sili (prvi odstavek 72. člena);
+31. ne omogoči uporabnikom-invalidom klicev v sili z uporabo govornih in znakovnih jezikov ter drugih oblik negovorjenih jezikov na način in v obsegu, kot je to tehnično mogoče (drugi odstavek 72. člena);
+32. v skladu s tehničnimi zmožnostmi pristojnim organom ne pošlje podatkov o številki in lokaciji kličočega (tretji odstavek 72. člena);
+33. ne obvešča uporabnikov v skladu s četrtim odstavkom 72. člena tega zakona;
+34. ne pošlje podatkov organu, pristojnemu za geodetske zadeve, skladno s četrtim odstavkom 83. člena tega zakona;
+35. v skladu s predpisi ne objavi preglednih podatkov o veljavnih cenah in tarifah ter splošnih pogojev dostopa do javnih komunikacijskih storitev in uporabe teh storitev (84. člen);
+36. ne obvesti uporabnikov in agencije v skladu z drugim odstavkom 93. člena tega zakona;
+37. omeji dostop do svojih storitev oziroma naročnika odklopi ter prekine naročniško pogodbo iz razlogov, ki niso določeni v njenih splošnih pogojih (prvi odstavek 94. člena);
+38. ukrep, ki ga izvede, ni določen v splošnih pogojih oziroma ni sorazmeren s kršitvami ali je diskriminacijski (prvi odstavek 94. člena);
+39. ne opozori uporabnika v skladu z drugim odstavkom 94. člena tega zakona;
+40. zaradi neplačevanja računov izvede ukrep iz tretjega odstavka 94. člena tega zakona brez vnaprejšnjega obvestila;
+41. izvede ukrep, čeprav je naročnik ravnal v skladu s četrtim odstavkom 94. člena tega zakona;
+42. ne odklopi uporabnika le od neplačane ali premalo plačane storitve, pa je tak odklop tehnično izvedljiv (peti odstavek 94. člena);
+43. ne sprejme ustreznih tehničnih in organizacijskih ukrepov za primer izpada omrežja, vojnega ali izrednega stanja ter naravnih in drugih nesreč oziroma teh ukrepov ne izvaja ves čas trajanja okoliščin, zaradi katerih so bili sprejeti, razen če je bilo to nemogoče zaradi višje sile (prvi odstavek 96. člena);
+44. ne zagotavlja neprekinjenega dostopa do številke za klic v sili in uporabe te številke (drugi odstavek 96. člena);
+45. ne prilagodi svojega omrežja tako, da omogoča funkcijo prednosti (prvi odstavek 97. člena);
+46. v vojnem ali izrednem stanju, ob naravnih in drugih nesrečah ali ob katastrofalnem izpadu omrežja ne izvede drugih ukrepov oziroma omejitev ali prekinitev delovanja skladno s sklepom vlade (tretji odstavek 97. člena);
+47. s sklepom ne določi svojih zaposlenih, ki morajo med stavko omogočiti nemoteno izvajanje univerzalne storitve oziroma obveznosti, ki jih ima operater ob izrednih stanjih (98. člen);
+48. tehnično in organizacijsko ne ukrepa tako, da zagotovi varnost svojega omrežja in svojih storitev (prvi odstavek 102. člena);
+49. ne sprejme takih ukrepov, ki zagotovijo raven varnosti in zaščite, ki je sorazmerna s pričakovanimi tveganji in stroški ter v skladu s tehničnim in tehnološkim razvojem (drugi odstavek 102. člena);
+50. ne opozori uporabnikov na posebna tveganja za varnost omrežja ali storitev takoj, ko za tveganje izve, ali jih ne obvesti o vseh mogočih sredstvih za odpravo tveganja in verjetnih stroških ali uporabnikom ne omogoči hitrega in učinkovitega dostopa do zaščitnih ukrepov (tretji odstavek 102. člena);
+51. ne varuje zaupnosti elektronskih komunikacij v skladu z drugim odstavkom 103. člena tega zakona;
+52. sebi ali komu drugemu pridobi podatke o vsebini, dejstvih in okoliščinah prenesenih sporočil, ki presegajo najmanjšo potrebno mero, nujno potrebno za izvajanje določenih elektronskih storitev, oziroma teh podatkov ne uporablja samo za izvajanje teh storitev ter uresničevanje pogodbenih obveznosti v zvezi z njimi (tretji odstavek 103. člena);
+53. ne seznani naročnika ali uporabnika v skladu s četrtim in šestim odstavkom 103. člena tega zakona;
+54. nadzoruje oziroma prestreza komunikacije, kadar to ni izrecno dovoljeno s tem zakonom (peti odstavek 103. člena);
+55. jasno in razumljivo ne obvesti uporabnika o upravljavcu in namenu obdelave podatkov in mu hkrati ne omogoči, da zavrne tako obdelavo ali izrazi soglasje (osmi odstavek 103. člena);
+56. podatkov o prometu po končani zvezi ne izbriše ali ne naredi tako, da postanejo brezosebni (prvi odstavek 104. člena);
+57. ne pridobi naročnikovega oziroma uporabnikovega predhodnega soglasja v skladu s tretjim odstavkom 104. člena tega zakona;
+58. podatke o prometu namesto oseb, ki so pod njenim nadzorom, obdeluje kdo drug (peti odstavek 104. člena);
+59. ne ravna v skladu s šestim odstavkom 104. člena tega zakona;
+60. ne hrani dokumentacije, ugotovitev in zahtev oziroma podatkov na način in pod pogoji iz 107.c člena tega zakona ali ne zagotavlja neizbrisne registracije izvedenih ukrepov in posegov v skladu s 107.č členom tega zakona (četrti odstavek 104.a člena);
+61. ne pošlje zahtevanih podatkov, kot določa zakon (šesti odstavek 104.a člena);
+62. ne obdeluje lokacijskih podatkov v skladu s prvim odstavkom 106. člena tega zakona;
+63. uporabniku ali naročniku krši pravico do začasne zavrnitve obdelave podatkov iz tretjega odstavka 106. člena tega zakona;
+64. lokacijske podatke namesto oseb, ki so pod njenim nadzorom, obdeluje kdo drug (četrti odstavek 106. člena);
+65. ne zagotovi na svoje stroške ustrezne opreme in primernih vmesnikov ali ustreznih prenosnih poti do nadzornih centrov pristojnega organa (prvi odstavek 107. člena);
+66. ne začne zakonitega prestrezanja komunikacij po prejemu prepisa izreka odredbe oziroma ustne odredbe (drugi in peti odstavek 107. člena);
+67. ne izvaja zakonitega prestrezanja na način, v obsegu in trajanju, kot je določeno v prepisu izreka odredbe ali v ustni odredbi (četrti in peti odstavek 107. člena);
+68. ne zagotovi neizbrisne registracije prestrezanja ali podatkov ne varuje v skladu z oznako stopnje tajnosti oziroma kot tajni podatek stopnje tajnosti "ZAUPNO" (šesti odstavek 107. člena);
+69. ne zagotovi hrambe za druge operaterje, če ji je naložena z odločbo (četrti odstavek 107.a člena);
+70. hrani podatke za krajši čas, kot ga določa zakon (peti odstavek 107.a člena);
+71. hranjenih podatkov ne uniči po koncu obdobja hranjenja ali uniči tiste podatke, do katerih je bil odrejen dostop (sedmi odstavek 107.a člena);
+72. ne zagotavlja hrambe podatkov v obsegu, kot ga določa zakon (107.b člen);
+73. ne zavaruje hranjenih podatkov (prvi odstavek 107.c člena);
+74. hranjene podatke pregleda, obdeluje ali drugače uporablja v nasprotju z zakonom (drugi odstavek 107.c člena);
+75. ne zagotavlja enake kakovosti, varnosti ali zaščite hranjenih podatkov kot za podatke v omrežju (tretji odstavek 107.c člena);
+76. ne posreduje hranjenih podatkov takoj oziroma najpozneje v treh dneh, na način in v obsegu, kot je določeno v prepisu izreka odredbe (prvi in tretji odstavek 107.č člena);
+77. ne zagotovi neizbrisne registracije sporočanja hranjenih podatkov ali podatkov ne varuje v skladu z oznako tajnosti prepisa odredbe (četrti odstavek 107.č člena);
+78. ne vodi zbirnih podatkov v skladu s prvim odstavkom 107.e člena tega zakona;
+79. elektronski naslov kupca uporablja za neposredno trženje, čeprav je kupec tako neposredno trženje odklonil (drugi odstavek 109. člena);
+80. uporablja elektronske komunikacije za neposredno trženje brez soglasja naročnika (prvi oziroma tretji odstavek 109. člena);
+81. pri neposrednem trženju z uporabo elektronskih komunikacij uporablja lažno identiteto ali lažni naslov (četrti odstavek 109. člena);
+82. na podlagi odločbe agencije ne zagotovi dostopa do vmesnikov aplikacijskega programa ali elektronskega programskega vodnika ali tega ne zagotovi pod poštenimi, upravičenimi in nediskriminacijskimi pogoji (tretji odstavek 113. člena);
+83. ne spoštuje predpisanih zahtev za medsebojno delovanje digitalnih interaktivnih televizijskih storitev in digitalne televizijske opreme, ki jo uporabljajo potrošniki (četrti odstavek 113. člena);
+84. njeni sistemi s pogojnimi dostopom do storitev digitalne televizije ali radia ne delujejo v skladu s prvim odstavkom 114. člena tega zakona;
+85. ne zagotovi tehničnih storitev pod poštenimi, upravičenimi in nediskriminacijskimi pogoji (drugi odstavek 114. člena);
+86. zagotavljanja pogojno dostopnih storitev računovodsko ne loči od drugih dejavnosti (tretji odstavek 114. člena);
+87. pravic industrijske lastnine za izdelke in sisteme s pogojnim dostopom pod pravičnimi in nediskriminacijskimi pogoji ne podeli proizvajalcem uporabniške opreme (četrti odstavek 114. člena);
+88. s kakršnimi koli pogoji prepreči izdelovalcu, da v isti izdelek vključi skupni vmesnik, ki dopušča priključitev na druge dostopne sisteme, ali elemente, ki so značilni za druge dostopne sisteme (četrti odstavek 114. člena);
+89. agenciji ne pošlje zahtevanih podatkov v skladu s 126. členom tega zakona;
+90. ovira pooblaščene osebe agencije, informacijskega pooblaščenca oziroma inšpektorje pri opravljanju nalog nadzora (141. do 144. člen).
+(2) Z globo od 2.000 do 20.000 eurov se kaznuje pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 500 do 10.000 eurov se kaznuje odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika, ki stori prekršek iz prvega odstavka tega člena.".
