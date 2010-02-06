@@ -1,0 +1,2 @@
+# 14. člen
+Dovoljenja za uvoz, tranzit, izvoz, skladiščenje in porabo strupenih kemikalij, proizvodnjo strupenih kemikalij in obratovanje objektov za njihovo proizvodnjo, ki so bila pred uveljavitvijo tega zakona izdana na podlagi Zakona o kemičnem orožju (Uradni list RS, št. 36/99 in 2/04 - ZZdrI-A), in dovoljenja za izvoz strateškega blaga, ki so bila pred uveljavitvijo tega zakona izdana na podlagi Zakona o nadzoru izvoza blaga z dvojno rabo (Uradni list RS, št. 37/04), ostanejo v veljavi do izteka.
