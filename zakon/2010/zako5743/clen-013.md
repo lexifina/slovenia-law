@@ -1,0 +1,2 @@
+# 13. člen
+Na koncu tretjega odstavka 119. člena se doda nov stavek, ki se glasi: "Predlog lahko vsebuje tudi po prednostnem redu razvrščeno rezervno listo programov ali projektov ustreznih vlog, ki lahko postanejo predmet sofinanciranja v primeru sprostitve ali povečanja proračunskih sredstev ali rezervno listo, na podlagi katere se lahko povečuje obseg sofinanciranja že odobrenih programov ali projektov.".
