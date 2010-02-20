@@ -1,0 +1,2 @@
+# 4. člen
+V drugem odstavku 96.a člena se besedilo "da se dokument objavi na oglasni deski organa in na enotnem državnem portalu e-uprava." nadomesti z besedilom "da se na oglasni deski organa in na enotnem državnem portalu e-uprava objavi sporočilo o vročanju z javnim naznanilom, ki vsebuje podatke iz tretjega odstavka 96. člena tega zakona.". Besedilo "ko je bil dokument objavljen" se nadomesti z besedilom "ko je bilo objavljeno sporočilo o vročanju z javnim naznanilom".
