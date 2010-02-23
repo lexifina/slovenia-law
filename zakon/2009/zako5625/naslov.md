@@ -1,2 +1,2 @@
 ZAKON
-O ZAČASNEM ZNIŽANJU PLAČ FUNKCIONARJEV (ZZZPF)
+o začasnem znižanju plač funkcionarjev (ZZZPF)
