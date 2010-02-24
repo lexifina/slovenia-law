@@ -1,9 +1,31 @@
 # 6. člen
-Osnova za davek je prodajna cena posameznega novega motornega vozila, ki ne vključuje tega davka in davka na dodano vrednost, pri uvozu pa vrednost, določeno v 22. členu zakona o davku na dodano vrednost (Uradni list RS, št. 89/98).
-Davek od posameznega novega motornega vozila se plačuje po naslednjih stopnjah od davčne osnove iz prejšnjega odstavka:
-Če znaša davčna osnova | Stopnja | | do 1,0 mio SIT | 1,0 | nad 1,0 mio SIT | do 1,4 mio SIT | 1,4 | nad 1,4 mio SIT | do 1,8 mio SIT | 2,0 | nad 1,8 mio SIT | do 2,4 mio SIT | 3,5 | nad 2,4 mio SIT | do 3,0 mio SIT | 5,0 | nad 3,0 mio SIT | do 4,0 mio SIT | 7,0 | nad 4,0 mio SIT | do 5,0 mio SIT | 9,0 | nad 5,0 mio SIT | do 6,0 mio SIT | 11,0 | nad 6,0 mio SIT | | 13,0
-Davek na promet rabljenih motornih vozil in drugih motornih vozil iz drugega odstavka 3. člena tega zakona se plača po stopnji 5% od nakupne cene, če ta cena ustreza prometni vrednosti. Če nakupna cena ne ustreza prometni vrednosti, je davčna osnova prometna vrednost teh motornih vozil, ki jo ugotovi davčni organ v kraju sedeža oziroma stalnega prebivališča davčnega zavezanca.
+Osnova za davek je prodajna cena posameznega motornega vozila, ki ne vključuje tega davka in davka na dodano vrednost.
+Kot prodajna cena se pri pridobitvi motornega vozila iz druge države članice Evropske unije šteje nakupna cena, pri uvozu pa vrednost, določena v prvem do četrtem odstavku 38. člena ZDDV-1.
+Če prodajna cena ne ustreza prometni vrednosti, ali če plačila ni, je davčna osnova prometna vrednost teh motornih vozil, ki jo ugotovi davčni organ. Davčni organ ugotavlja davčno osnovo na podlagi vseh okoliščin posameznega primera, pri čemer kot izhodišče za ugotavljanje prometne vrednosti, razen v primeru uvoza motornega vozila, uporabi orientacijske vrednosti motornih vozil iz katalogov za vrednotenje vozil.
+Stopnja davka za motorna vozila iz tarifnih oznak 8703 21, 8703 22, 8703 23, 8703 24, 8703 31, 8703 32, 8703 33, 8703 90, razen za trikolesa, štirikolesa in bivalna vozila (iz teh tarifnih oznak), je odvisna od izpusta CO2 pri kombinirani vožnji (v nadaljnjem besedilu: izpust CO2) in vrste goriva, ki se uporablja za pogon in znaša:
+Izpust CO2 (g/km) | Stopnja davka (%) od davčne osnove glede na vrsto goriva | bencin, utekočinjen naftni plin | dizelsko | od 0 do vključno 110 | 0,5 | 1 | nad 110 do vključno 120 | 1 | 2 | nad 120 do vključno 130 | 1,5 | 3 | nad 130 do vključno 150 | 3 | 6 | nad 150 do vključno 170 | 6 | 11 | nad 170 do vključno 190 | 9 | 15 | nad 190 do vključno 210 | 13 | 18 | nad 210 do vključno 230 | 18 | 22 | nad 230 do vključno 250 | 23 | 26 | nad 250 | 28 | 31
+Če motorno vozilo iz prejšnjega odstavka uporablja kateri koli drug pogon, vključno z električnim, ali kombinacijo različnih pogonov (hibridno vozilo), se stopnja davka določi z upoštevanjem lestvice, ki velja za vozila z bencinskim gorivom.
+Za motorna vozila iz četrtega odstavka tega člena z najmanj osmimi sedeži se stopnja davka iz četrtega odstavka tega člena zniža za 30%.
+Za motorna vozila iz četrtega odstavka tega člena s stopnjo izpusta nižjo od Euro 3, se stopnja davka, določena v četrtem odstavku tega člena, poveča za deset odstotnih točk.
+Za motorna vozila iz četrtega odstavka tega člena s stopnjo izpusta Euro 3, se stopnja davka, določena v četrtem odstavku tega člena, poveča za pet odstotnih točk.
+Za motorna vozila iz četrtega odstavka tega člena s stopnjo izpusta Euro 4, se stopnja davka, določena v četrtem odstavku tega člena, poveča za eno odstotno točko, po 1. januarju 2011 pa za dve odstotni točki.
+Za motorna vozila iz četrtega odstavka tega člena s pogonom na dizelsko gorivo in s stopnjo izpusta Euro 5 se do 1. januarja 2012 upošteva stopnja davka iz lestvice v četrtem odstavku tega člena za bencinsko gorivo. Za motorna vozila iz četrtega odstavka tega člena s pogonom na dizelsko gorivo s stopnjo izpusta Euro 6 se upošteva stopnja davka iz lestvice v četrtem odstavku tega člena za bencinsko gorivo.
+Za motorna vozila iz četrtega odstavka tega člena s pogonom na dizelsko gorivo z izpustom trdnih delcev, večjim od 0,005 g/km, se stopnja davka, določena v četrtem odstavku tega člena, poveča za dve odstotni točki, po 1. januarju 2011 pa za pet odstotnih točk.
+Za motorna vozila iz četrtega odstavka tega člena, ki nimajo podatka o izpustu CO2, se upošteva stopnja 28% za vozila s pogonom na bencin ali utekočinjen naftni plin ter 31% za vozila s pogonom na dizelsko gorivo.
+Stopnja davka za motorna vozila iz tarifne oznake 8711 ter trikolesa in štirikolesa je odvisna od moči motorja in znaša:
+Moč motorja (kW) | Stopnja davka (%) od davčne osnove | do vključno 25 | 1,5 | nad 25 do vključno 50 | 2 | nad 50 do vključno 75 | 3 | nad 75 | 5
+Za motorna vozila iz prejšnjega odstavka z dvotaktnim motorjem na notranje zgorevanje, se stopnja davka, določena v prejšnjem odstavku, poveča za tri odstotne točke.
+Za motorna vozila iz trinajstega odstavka tega člena s stopnjo izpusta nižjo od Euro 2, se stopnja davka, določena v trinajstem odstavku tega člena, poveča za deset odstotnih točk.
+Za motorna vozila iz trinajstega odstavka tega člena, razen za kolesa z motorjem, s stopnjo izpusta Euro 2, se stopnja davka, določena v trinajstem odstavku tega člena, poveča za pet odstotnih točk.
+Ne glede na določbo trinajstega odstavka tega člena, je za motorna vozila iz trinajstega odstavka tega člena z motorjem izključno na električni pogon, stopnja davka 0,5%.
+Stopnja davka za bivalna vozila je odvisna od moči motorja in znaša:
+Moč motorja (kW) | Stopnja davka (%) od davčne osnove | do vključno 60 | 6 | nad 60 do vključno 90 | 9 | nad 90 do vključno 120 | 13 | nad 120 | 18
+Za motorna vozila iz prejšnjega odstavka s stopnjo izpusta nižjo od Euro 3, se stopnja davka, določena v prejšnjem odstavku, poveča za deset odstotnih točk.
+Za motorna vozila iz osemnajstega odstavka tega člena s stopnjo izpusta Euro 3, se stopnja davka, določena v osemnajstem odstavku tega člena, poveča za pet odstotnih točk.
+Za motorna vozila iz osemnajstega odstavka tega člena s stopnjo izpusta Euro 4, se stopnja davka, določena v osemnajstem odstavku tega člena, poveča za eno odstotno točko, po 1. januarju 2011 pa za dve odstotni točki.
+Za motorna vozila iz osemnajstega odstavka tega člena s pogonom na dizelsko gorivo z izpustom trdnih delcev, večjim od 0,005 g/km, se stopnja davka, določena v osemnajstem odstavku tega člena, poveča za dve odstotni točki, po 1. januarju 2011 pa za pet odstotnih točk.
+Ne glede na določbo osemnajstega odstavka tega člena, je za motorna vozila iz osemnajstega odstavka tega člena z motorjem izključno na električni pogon, stopnja davka 0,5%.
 6.a člen
 Ne glede na drugi odstavek 6. člena tega zakona, se za nova motorna vozila, proizvedena ne prej kot 1. januarja 2003 in katerih uradna specifična emisija ogljikovega dioksida ne presega 110 gramov na prevoženi kilometer, davek ne plačuje do 31. decembra 2009.
 6.b člen
-Ne glede na prvi odstavek 6. člena tega zakona je pri pridobitvi motornega vozila iz druge države članice Evropske unije, ki je bilo trajno ali začasno registrirano v drugi državi, davčna osnova nakupna cena, če ta cena ustreza prometni vrednosti. Če nakupna cena ne ustreza prometni vrednosti, je davčna osnova prometna vrednost teh motornih vozil, ki jo ugotovi davčni organ.
+(črtan)
