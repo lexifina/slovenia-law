@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o davku na motorna vozila (Uradni list RS, št. 72/06 - uradno prečiščeno besedilo) se 3. člen spremeni tako, da se glasi:
+"3. člen
+Davek se plačuje od motornih vozil iz tarifnih oznak: 8703 21, 8703 22, 8703 23, 8703 24, 8703 31, 8703 32, 8703 33 in 8703 90 ter iz tarifne oznake 8711, določenih v carinski tarifi Evropske skupnosti, objavljeni kot Priloga I Uredbe Sveta (EGS) št. 2658/87 z dne 23. julija 1987 o tarifni in statistični nomenklaturi ter skupni carinski tarifi (UL L št. 256 z dne 7. 9. 1987, str. 1), zadnjič spremenjene z Uredbo Komisije (ES) št. 179/2009 z dne 5. marca 2009 o spremembi Priloge I k Uredbi Sveta (EGS) št. 2658/87 o tarifni in statistični nomenklaturi ter skupni carinski tarifi (UL L št. 63 z dne 7. 3. 2009, str. 1), ki se dajo prvič v promet ali se prvič registrirajo na območju Republike Slovenije.".
