@@ -1,0 +1,7 @@
+# 35. člen
+Doda se nov 108.a člen, ki se glasi:
+"108.a člen
+Nadzorni organ lahko v okviru svojih nalog nadzora prirejanja iger na srečo zaprosi organe drugih držav, pristojne za nadzor prirejanja iger na srečo, za podatke, informacije in dokumentacijo, ki jih potrebuje za nadzor prirejanja iger na srečo.
+Podatke, informacije in dokumentacijo, pridobljene na podlagi prejšnjega odstavka, sme nadzorni organ uporabiti izključno za namene, določene v tem zakonu. Brez predhodnega soglasja organa druge države, pristojnega za nadzor prirejanja iger na srečo, nadzorni organ prejetih podatkov, informacij in dokumentacije ne sme pošiljati oziroma dajati na vpogled tretji osebi ali jih uporabiti v nasprotju s pogoji in omejitvami, ki jih določi zaprošeni organ.
+Nadzorni organ podatke, informacije in dokumentacijo v zvezi z nadzorom prirejanja iger na srečo, ki jih pridobi ali vodi v skladu z določbami tega zakona, predloži organu druge države, pristojnemu za nadzor prirejanja iger na srečo, na njegovo pisno zaprosilo ob pogoju dejanske vzajemnosti. Nadzorni organ lahko zavrne izpolnitev zaprosila, če bi predložitev podatkov ogrozila ali utegnila ogroziti potek postopka nadzora prirejanja iger na srečo v Republiki Sloveniji, oziroma bi lahko kakor koli drugače škodovala interesom tega postopka.
+Nadzorni organ lahko organu druge države članice, pristojnemu za nadzor prirejanja iger na srečo, določi dodatne pogoje in omejitve za uporabo podatkov iz prejšnjega odstavka.".
