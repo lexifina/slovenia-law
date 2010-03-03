@@ -1,0 +1,3 @@
+# 21. člen PODPIS
+
+Protokol je na voljo za podpis v Kijevu (Ukrajina) od 21. do 23. maja 2003, potem pa na sedežu Združenih narodov v New Yorku do 31. decembra 2003, in sicer za države članice Gospodarske komisije za Evropo in države, ki imajo pri Gospodarski komisiji za Evropo posvetovalni status v skladu z osmim in enajstim odstavkom resolucije 36 (IV) Ekonomsko-socialnega sveta z dne 28. marca 1947, ter za organizacije za regionalno gospodarsko povezovanje, ki jih ustanovijo suverene države članice Gospodarske komisije za Evropo in na katere so njihove države članice prenesle pristojnosti o zadevah, ki jih ureja protokol, vključno s pristojnostjo sklepanja pogodb glede teh zadev.
