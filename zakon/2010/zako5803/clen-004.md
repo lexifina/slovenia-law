@@ -1,0 +1,5 @@
+# 4. člen
+20. člen se spremeni tako, da se glasi:
+"Uporabnik ekonomske cone lahko v skladu s tem zakonom za dejavnost, ki jo opravlja v ekonomski coni, pridobi davčno ugodnost v naslednjih oblikah:
+1. uporabnik ekonomske cone lahko v posameznem koledarskem letu za investicije ali za odpiranje novih delovnih mest povezanih z investicijo na območju ekonomske cone, če gre za nova sredstva, pri čemer to ne velja za mala in srednja podjetja in za prevzeme, uveljavlja znižanje davčne osnove za davek od dohodkov pravnih oseb za znesek investicije ali za odpiranje novih delovnih mest povezanih z investicijo, vendar to znižanje ne sme preseči 50% vlaganja v koledarskem letu;
+2. uporabnik ekonomske cone lahko uveljavlja znižanje davčne osnove za davek od dohodkov pravnih oseb za znesek plač težje zaposljivih oseb, in sicer delavcev, ki so bili pred sklenitvijo delovnega razmerja najmanj šest mesecev prijavljeni pri Zavodu RS za zaposlovanje, ki jih je uporabnik ekonomske cone zaposlil najmanj za obdobje dvanajst mesecev, vendar to znižanje ne sme preseči 50% zneska bruto plače in traja največ 12 mesecev.".
