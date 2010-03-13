@@ -1,0 +1,2 @@
+# 50. člen
+Za osebe iz devetega odstavka 51. člena zakona, ki želijo zaradi uveljavitve tega zakona spremeniti drobnoprodajne cene tobačnih izdelkov 1. aprila 2010, znaša enotni rok za prijavo drobnoprodajnih cen, ne glede na deseti odstavek 51. člena zakona, 12 dni.
