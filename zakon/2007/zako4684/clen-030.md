@@ -1,6 +1,6 @@
 # 30. člen (kontokorentna bančna razmerja s kreditnimi institucijami tretjih držav)
 (1) Pri sklepanju kontokorentnega razmerja z banko ali drugo podobno kreditno institucijo, ki ima sedež v tretji državi, organizacija v okviru poglobljenega pregleda stranke izvede ukrepe iz prvega odstavka 7. člena tega zakona ter dodatno pridobi naslednje podatke, informacije in dokumentacijo:
-1. datum izdaje in čas veljavnosti dovoljenja za opravljanje bančnih storitev ter naziv in sedež pristojnega organa tretje države, ki je dovoljenje izdal;
+1. datum izdaje dovoljenja za opravljanje bančnih storitev ter naziv in sedež pristojnega organa tretje države, ki je dovoljenje izdal;
 2. opis izvajanja internih postopkov, ki se nanašajo na odkrivanje in preprečevanje pranja denarja in financiranja terorizma, zlasti postopkov pregleda stranke, ugotavljanja dejanskih lastnikov, sporočanja podatkov o sumljivih transakcijah in strankah pristojnim organom, vodenja evidenc, notranje kontrole in drugih postopkov, ki jih je banka oziroma druga podobna kreditna institucija sprejela v zvezi s preprečevanjem in odkrivanjem pranja denarja ter financiranjem terorizma;
 3. opis sistemske ureditve na področju odkrivanja in preprečevanja pranja denarja ter financiranja terorizma, ki velja v tretji državi, v kateri ima sedež oziroma je registrirana banka oziroma druga podobna kreditna institucija;
 4. pisno izjavo, da banka oziroma druga podobna kreditna institucija ne posluje kot navidezna banka;

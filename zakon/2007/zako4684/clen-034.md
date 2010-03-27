@@ -1,5 +1,5 @@
-# 34. člen (pridobivanje in preverjanje podatkov o stranki)
-(1) Ne glede na prvi odstavek 7. člena tega zakona poenostavljen pregled stranke iz prvega odstavka 33. člena tega zakona obsega zgolj pridobitev nekaterih podatkov o stranki, poslovnem razmerju ali transakciji.
+# 34. člen (izvajanje poenostavljenega pregleda stranke)
+(1) Ne glede na prvi odstavek 7. člena tega zakona poenostavljen pregled stranke iz prvega odstavka prejšnjega člena obsega zgolj pridobitev nekaterih podatkov o stranki, poslovnem razmerju ali transakciji in redno skrbno spremljanje aktivnosti, ki jih stranka izvaja pri organizaciji, v skladu z 22. členom tega zakona. Ne glede na drugi odstavek 22. člena tega zakona, se za stranko, za katero je dopuščen poenostavljen pregled, preverjanje in posodabljanje pridobljenih listin in podatkov o stranki izvaja zgolj v obsegu in na način kot je predpisan v tem členu.
 (2) Organizacija mora v okviru poenostavljenega pregleda stranke pridobiti naslednje podatke:
 1. pri sklepanju poslovnega razmerja:
 - firmo, naslov in sedež pravne osebe, ki sklene poslovno razmerje oziroma pravne osebe, za katero se sklepa poslovno razmerje,

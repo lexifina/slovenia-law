@@ -24,4 +24,4 @@
 8. če ne hrani podatkov in pripadajoče dokumentacije o strokovnem usposabljanju delavčev štiri leta po tem usposabljanju (četrti odstavek 79. člena tega zakona);
 9. če ne vodi ločene evidence o dostopu nadzornih organov iz 85. člena tega zakona do podatkov, informacij in dokumentacije iz prvega odstavka 76. člena zakona oziroma je ta evidenca pomanjkljiva (prvi in drugi odstavek 84. člena tega zakona);
 10. če o dostopu nadzornih organov iz 85. člena tega zakona do podatkov iz prvega odstavka 84. člena o tem dogodku ne obvesti urada v predpisanem roku in na predpisan način (tretji odstavek 84. člena tega zakona).
-(4) Z globo od 800 do 4000 eurov se kaznuje odgovorno osebo odvetnika, odvetniška družba ali notarja, če stori prekršek iz prvega odstavka tega člena.
+(4) Z globo od 800 do 4000 eurov se kaznuje odgovorno osebo odvetniške družbe, če stori prekršek iz prvega odstavka tega člena.

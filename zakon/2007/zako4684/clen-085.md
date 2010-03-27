@@ -4,12 +4,12 @@
 (1) Nadzor nad izvajanjem določb tega zakona in predpisov, izdanih na njegovi podlagi, opravljajo v okviru svojih pristojnosti:
 a) urad,
 b) Banka Slovenije,
-c) Agencija Republike Slovenije za trg vrednostnih papirjev,
+c) Agencija za trg vrednostnih papirjev,
 d) Agencija za zavarovalni nadzor,
 e) Urad Republike Slovenije za nadzor prirejanja iger na srečo,
 f) Davčna uprava Republike Slovenije,
 g) Tržni inšpektorat Republike Slovenije,
-h) Slovenski inštitut za revizijo,
+h) Agencija za javni nadzor nad revidiranjem in Slovenski inštitut za revizijo,
 i) Odvetniška zbornica Slovenije in
 j) Notarska zbornica Slovenije.
 (2) Če nadzorni organ iz prvega odstavka tega člena pri opravljanju nadzornih nalog ugotovi kršitve iz 91., 92., 93., 94., 95., 96., 97., 98. in 99. člena tega zakona, ima pravico in dolžnost:

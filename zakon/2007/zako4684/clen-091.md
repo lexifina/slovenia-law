@@ -1,11 +1,11 @@
-## IX. POGLAVJE DOLOČBE O PREKRŠKIH
+## IX. POGLAVJE KAZENSKE DOLOČBE
 # 91. člen (najtežje kršitve)
 (1) Z globo od 12 000 do 120 000 eurov se za prekršek kaznuje pravna oseba:
 1. če ne izdela analize tveganja oziroma ne določi ocene tveganja posamezne skupine ali vrste stranke, poslovnega razmerja, produkta, ali transakcije (drugi odstavek 6. člena tega zakona);
-2. če ne opravi pregleda stranke (prvi odstavek 8. člena in četrti odstavek 12. člena tega zakona);
+2. če ne opravi pregleda stranke (prvi odstavek 8. člena in sedmi odstavek 12. člena tega zakona);
 3. če s stranko sklene poslovno razmerje, ne da bi pred tem izvedla predpisane ukrepe (prvi odstavek 9. člena tega zakona);
 4. če opravi transakcijo, ne da bi pred tem izvedla predpisane ukrepe (10. člen tega zakona);
-5. če ne ugotovi in ne preveri istovetnosti fizične osebe oziroma njenega zakonitega zastopnika, samostojnega podjetnika posameznika in posameznika, ki samostojno opravlja dejavnost, pravne osebe, zakonitega zastopnika pravne osebe, pooblaščenca, zastopnika drugih oseb civilnega prava in dejanskega lastnika pravne osebe ali podobnega pravnega subjekta tujega prava oziroma ne pridobi predpisanih podatkov ali jih ne pridobi na predpisani način ali ne pridobi overjenega pisnega pooblastila za zastopanje (13., 14., 15., 16., 17. in 20. člen tega zakona);
+5. če ne ugotovi in ne preveri istovetnosti fizične osebe oziroma njenega zakonitega zastopnika, samostojnega podjetnika posameznika in posameznika, ki samostojno opravlja dejavnost, pravne osebe, zakonitega zastopnika pravne osebe, pooblaščenca, zastopnika drugih oseb civilnega prava in dejanskega lastnika pravne osebe ali podobnega pravnega subjekta tujega prava oziroma ne pridobi predpisanih podatkov ali jih ne pridobi na predpisani način ali ne pridobi overjenega pisnega pooblastila ali pisnega pooblastila za zastopanje (13., 14., 15., 16., 17. in 20. člen tega zakona);
 6. če ugotovi in preveri istovetnosti stranke z uporabo kvalificiranega digitalnega potrdila na nedovoljeni način (peti odstavek 13. člena tega zakona);
 7. če ne ugotovi in preveri istovetnosti stranke ob vstopu stranke v igralnico oziroma igralni salon ali ob vsakokratnem pristopu stranke k sefu oziroma ne pridobi predpisanih podatkov ali jih ne pridobi na predpisani način (18. člen tega zakona);
 8. če ne pridobi podatkov o namenu in predvideni naravi poslovnega razmerja ali transakcije ter drugih podatkov po tem zakonu oziroma ne pridobi vseh zahtevanih podatkov (21. člen tega zakona);
@@ -24,6 +24,9 @@
 21. če ne upošteva odredbe urada o začasni ustavitvi transakcije ali v zvezi s tem danih navodil urada (57. člen ter prvi in tretji odstavek 68. člena tega zakona);
 22. če ne upošteva pisne odredbe urada o tekočem spremljanju finančnega poslovanja določene stranke (prvi, drugi in tretji odstavek 59. člena tega zakona);
 23. če uradu v predpisanem roku in na predpisani način ne predložijo podatkov, informacij in dokumentacije v zvezi z opravljanjem njihovih nalog po tem zakonu ter drugih podatkov, ki jih urad potrebuje pri izvajanju nadzora (tretji odstavek 86. člena tega zakona);
-24. če ne odpravi ugotovljenih nepravilnosti in pomanjkljivosti v roku, ki ga je odredila pooblaščena uradna oseba (1. točka drugega odstavka 85. člena tega zakona).
-(2) Z globo od 800 do 4.000 eurov se za prekršek kaznuje odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma odgovorna oseba posameznika, ki samostojno opravlja dejavnost, ki stori prekršek iz prvega odstavka tega člena.
+24. če ne odpravi ugotovljenih nepravilnosti in pomanjkljivosti v roku, ki ga je odredila pooblaščena uradna oseba (1. točka drugega odstavka 85. člena tega zakona);
+25. če stranki ali tretji osebi razkrije dejstva iz prvega odstavka 76. člena tega zakona;
+26. če urada ne obvesti o produktu, za katerega namerava opustiti pregled stranke, še pred njegovim trženjem oziroma prodajo (šesti odstavek 12. člena tega zakona);
+27. če ne opravi analize vpliva sprememb poslovnih procesov na njeno izpostavljenost tveganju pranja denarja ali financiranja terorizma (45a. člen tega zakona).
+(2) Z globo od 800 do 4000 eurov se za prekršek kaznuje odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika, ki stori prekršek iz prejšnjega odstavka.
 (3) Z globo od 4000 do 40 000 eurov se kaznuje samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, ki storita prekršek iz prvega odstavka tega člena.

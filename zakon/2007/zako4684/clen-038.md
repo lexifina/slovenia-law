@@ -1,6 +1,6 @@
 ## 2.3 Sporočanje
 # 38. člen (obveznost sporočanja in roki)
-(1) Organizacija mora sporočiti uradu podatke iz 1., 2., 3., 4., 5., 9., 10., 11. in 12. točke prvega odstavka 83. člena tega zakona o vsaki transakciji, ki se izvaja v gotovini in presega vrednost 30 000 eurov, in sicer takoj, ko je opravljena, najpozneje pa v treh delovnih dneh po opravljeni transakciji.
+(1) Organizacija mora sporočiti uradu podatke iz 1., 2., 3., 4., 5., 9., 10., 11. in 12. točke prvega odstavka 83. člena tega zakona o vsaki gotovinski transakciji, ki presega vrednost 30 000 eurov, in sicer takoj, ko je opravljena, najpozneje pa v treh delovnih dneh po opravljeni transakciji.
 (2) Obveznost sporočanja gotovinskih transakcij iz prvega odstavka tega člena ne velja za revizijske družbe, samostojne revizorje ter pravne in fizične osebe, ki opravljajo računovodske storitve ali storitve davčnega svetovanja.
 (3) Ne glede na določbi prejšnjih odstavkov tega člena mora organizacija sporočiti uradu podatke iz prvega odstavka 83. člena tega zakona vedno, kadar v zvezi s transakcijo ali stranko obstajajo razlogi za sum pranja denarja ali financiranja terorizma, in sicer še pred izvedbo transakcije, in v sporočilu navesti rok, v katerem naj bi se ta opravila. Takšno sporočilo se lahko da tudi po telefonu, vendar mora biti uradu poslano tudi v pisni obliki najpozneje naslednji delovni dan.
 (4) Obveznost sporočanja transakcij iz prejšnjega odstavka velja tudi za nameravano transakcijo, ne glede na to, ali je bila pozneje opravljena ali ne.

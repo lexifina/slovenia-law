@@ -14,7 +14,7 @@
 12. način izvedbe transakcije;
 13. podatki o izvoru premoženja in sredstev, ki so ali bodo predmet poslovnega razmerja ali transakcije;
 14. razlogi za sum pranja denarja ali financiranja terorizma;
-15. osebno ime, naslov stalnega ali začasnega prebivališča ter datum in kraj rojstva dejanskega lastnika pravne osebe oziroma v primeru iz točke b drugega odstavka 19. člena tega zakona podatek o kategoriji oseb, v interesu katerih je ustanovitev in delovanje pravne osebe ali podobnega pravnega subjekta tujega prava;
+15. osebno ime ter naslov stalnega ali začasnega prebivališča dejanskega lastnika pravne osebe oziroma v primeru iz točke b drugega odstavka 19. člena tega zakona podatek o kategoriji oseb, v interesu katerih je ustanovitev in delovanje pravne osebe ali podobnega pravnega subjekta tujega prava;
 16. naziv druge osebe civilnega prava iz 9. točke 3. člena tega zakona ter osebno ime, naslov stalnega ali začasnega prebivališča, datum in kraj rojstva ter davčna številka člana.
 (2) V evidencah o sporočenih podatkih uradu, ki jih upravljajo organizacije se za namen izvajanja 38. člena tega zakona obdelujejo podatki iz prvega odstavka tega člena.
 (3) V evidencah o strankah, poslovnih razmerjih in transakcijah, ki jih upravljajo odvetniki, odvetniške družbe in notarji, se za namen izvajanja 8. člena tega zakona obdelujejo naslednji podatki:

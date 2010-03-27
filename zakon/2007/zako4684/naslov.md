@@ -1,2 +1,2 @@
 ZAKON
-O PREPREČEVANJU PRANJA DENARJA IN FINANCIRANJA TERORIZMA (ZPPDFT)
+o preprečevanju pranja denarja in financiranja terorizma (ZPPDFT)

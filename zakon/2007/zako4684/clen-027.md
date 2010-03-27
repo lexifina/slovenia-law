@@ -9,4 +9,3 @@
 3. od tretje osebe, ki je opravila pregled stranke, predhodno ni dobila podatkov iz prvega odstavka tega člena;
 4. od tretje osebe, ki je opravila pregled stranke, predhodno ni dobila kopije identifikacijskih listin in druge dokumentacije o stranki;
 5. obstaja utemeljen dvom o verodostojnosti izvedenega pregleda stranke ali resničnosti pridobljenih podatkov o stranki, organizacija pa kljub zahtevi pri tretji osebi ni dobila pisne izjave iz četrtega odstavka tega člena.
-(6) Če je tretja oseba, ki je namesto organizacije opravila pregled stranke, organizacija iz 1., 2., 4., 5., 6., 7. ali 8. točke prvega odstavka 4. člena tega zakona, je tudi sama odgovorna za izpolnjevanje obveznosti po tem zakonu, vključno z obveznostjo prijave transakcij, v zvezi s katerimi obstajajo razlogi za sum pranja denarja ali financiranja terorizma, ter hrambo podatkov in dokumentacije.
