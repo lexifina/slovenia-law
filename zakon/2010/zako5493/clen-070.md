@@ -1,0 +1,2 @@
+# 70. člen
+Obratovalna dovoljenja za začetek obratovanja tirnih vozil, ki so bila odobrena pred 19. julijem 2008, vključno z dovoljenji, izdanimi na podlagi mednarodnih sporazumov, zlasti RIC (Regolamento Internazionale Carozze) in RIV (Regolamento Internazionale Veicoli), ter obratovalna dovoljenja, izdana pred uveljavitvijo tega zakona, ostanejo v veljavi v skladu s pogoji, pod katerimi so bila izdana.

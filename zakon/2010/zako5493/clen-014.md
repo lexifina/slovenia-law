@@ -1,0 +1,10 @@
+# 14. člen
+Za 16. členom se dodata nova 16.a in 16.b člen, ki se glasita:
+"16.a člen
+(uporabno in obratovalno dovoljenje pri gradnjah)
+(1) Pri obnovah, nadgradnjah in gradnjah, pri katerih ne gre za vzdrževalna dela v javno korist, je treba k projektu za pridobitev gradbenega dovoljenja pridobiti tudi soglasje varnostnega organa, zaradi zagotavljanja interoperabilnosti in varnosti železniškega prometa. Varnostni organ sodeluje tudi pri tehničnem pregledu podsistema ali dela podsistema, ki ga vodi organ pristojen za izdajo uporabnega dovoljenja. V tem primeru za izdajo obratovalnega dovoljenja naročnik varnostnemu organu poleg vloge posreduje izdano uporabno dovoljenje in dokumente iz pete in šeste alineje devetega odstavka 16.b člena tega zakona.
+(2) Varnostni organ mora najkasneje na tehničnem pregledu preveriti:
+- tehnično združljivost podsistemov ali delov podsistemov s sistemom, v katerega se vključujejo, in
+- varno vključitev podsistemov ali delov podsistemov v skladu s sistemi varnega upravljanja, opredeljenimi in odobrenimi v varnostnem spričevalu ali varnostnem pooblastilu.
+(3) Obratovalno dovoljenje se izda na podlagi opravljenega tehničnega pregleda in odprave vseh ugotovljenih pomanjkljivosti. Če so bile v podsistem ali v del podsistema vgrajene komponente interoperabilnosti, predpisane s TSI, je za izdajo obratovalnega dovoljenja potrebna tudi ES-izjava o verifikaciji podsistema s predpisanimi prilogami. Tehnični pregled v postopku pridobitve obratovalnega dovoljenja ni potreben, če je bil ta opravljen že v postopku pridobitve uporabnega dovoljenja.
+(4) Če iz tehničnega pregleda podsistema iz prejšnjega odstavka in priložene dokumentacije ni mogoče v celoti ugotoviti, ali so izvedena dela skladna z zahtevami varnosti železniškega prometa in je zato potrebno dodatno preverjanje izvedenih del z zahtevami varnosti železniškega prometa, lahko varnostni organ zahteva poskusno obratovanje podsistema za največ šest mesecev, ki se lahko podaljša še za največ šest mesecev.

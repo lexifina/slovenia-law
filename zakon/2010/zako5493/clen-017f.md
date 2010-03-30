@@ -1,0 +1,16 @@
+# 17.f člen (vzdrževanje tirnih vozil)
+(1) Za vsako tirno vozilo se pred začetkom obratovanja oziroma pred uporabo v omrežju določi subjekt, ki je zadolžen za njegovo vzdrževanje in ki se ga vpiše v nacionalni register tirnih vozil v skladu z določbami 18. člena tega zakona.
+(2) Subjekt, zadolžen za vzdrževanje, je lahko prevoznik v železniškem prometu, upravljavec infrastrukture ali imetnik in lahko izvaja vzdrževanje sam ali za to uporablja pogodbene vzdrževalne delavnice.
+(3) Subjekt, zadolžen za vzdrževanje, z ustreznim sistemom vzdrževanja zagotovi, da tirna vozila, za katera je zadolžen za vzdrževanje, varno obratujejo. Zato mora zagotoviti, da so tirna vozila vzdrževana v skladu z:
+- datoteko o vzdrževanju vsakega tirnega vozila,
+- veljavnimi predpisi, vključno s predpisi o vzdrževanju in z določbami TSI.
+(4) Subjekt, zadolžen za vzdrževanje tovornih vagonov, potrdi varnostni organ, ki pred tem preveri, ali subjekt izpolnjuje vse pogoje, določene v tem členu. Če je subjekt, zadolžen za vzdrževanje, prevoznik v železniškem prometu oziroma upravljavec infrastrukture, izpolnjevanje pogojev, določenih v tem členu, in pogojev, ki jih sprejme Komisija v skladu s petim odstavkom 14.a člena Direktive 2004/49/ES, preverijo varnostni organi ob izdaji varnostnega spričevala ali varnostnega pooblastila ter ob preverjanju izpolnjevanja pogojev za ohranitev varnostnega spričevala ali varnostnega pooblastila, kar potrdijo z ustreznimi potrdili, določenimi v teh postopkih.
+(5) Potrdila, ki jih je izdala druga država članica Evropske unije in so bila izdana v skladu z določbami petega odstavka 14.a člena Direktive 2004/49/ES, veljajo tudi v Republiki Sloveniji.
+(6) Določitev oziroma potrjevanje subjekta, zadolženega za vzdrževanje, se lahko izvede z odstopanji od določb tega člena, in sicer v primerih:
+- tirnih vozil, registriranih v tretji državi in vzdrževanih v skladu z zakoni te države;
+- tirnih vozil, ki se uporabljajo na omrežjih ali progah, katerih tirna širina se razlikuje od tiste na glavnem železniškem omrežju v Evropski uniji in za katere je izpolnjevanje pogojev, določenih v tretjem odstavku tega člena, zagotovljeno z mednarodnimi sporazumi s tretjimi državami;
+- tirnih vozil, opredeljenih v četrtem odstavku 6. člena tega zakona, in vojaške opreme ter posebnega transporta, za katere je pred obratovanjem potrebno ad hoc obratovalno dovoljenje nacionalnih varnostnih organov. V tem primeru se odstopanja odobrijo za obdobje največ petih let.
+(7) Odstopanja iz prejšnjega odstavka odobri varnostni organ, in sicer:
+- pri registriranju tirnih vozil v skladu z določbami 18. člena tega zakona;
+- pri izdajanju varnostnih spričeval in varnostnih pooblastil prevoznikom v železniškem prometu in upravljavcem infrastruktur v skladu z določbami zakona, ki ureja železniški promet.
+(8) Odstopanja iz šestega odstavka tega člena se določijo in upravičijo v letnem varnostnem poročilu varnostnega organa v skladu z določbami zakona, ki ureja železniški promet. Če Evropska komisija oceni, da zaradi odstopanj obstajajo prevelika tveganja glede varnosti v železniškem sistemu Evropske unije, lahko zahteva, da se takšna odstopanja prenehajo uporabljati, kar je varnostni organ dolžan upoštevati.".
