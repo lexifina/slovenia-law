@@ -1,2 +1,2 @@
 ZAKON
-O VARNOSTI V ŽELEZNIŠKEM PROMETU (ZVZelP)
+o varnosti v železniškem prometu (ZVZelP)

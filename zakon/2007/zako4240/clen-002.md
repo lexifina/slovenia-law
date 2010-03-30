@@ -2,28 +2,20 @@
 (1) Železniški sistem v Republiki Sloveniji predstavlja celoto stabilnih objektov, naprav in tirnih vozil, ki služijo izvajanju železniškega prometa, upravljanje železniškega sistema kot celote, ter pravila in postopke izvajanja in nadzora železniškega prometa.
 (2) Železniški sistem se deli na strukturne in operativne podsisteme.
 (3) Strukturni podsistemi so:
-a) Infrastruktura - spodnji in zgornji ustroj proge
-Podsistem zajema objekte in naprave spodnjega in zgornjega ustroja prog, ki omogočajo varno vožnjo železniških vozil z vidika ustrezne nosilnosti in zagotovitve potrebnega prostora, vključno z zaščitnimi napravami in objekti, ki so potrebni za vstop, izstop ali prestop potnikov na postajah.
-Stabilni objekti in naprave zgornjega in spodnjega ustroja prog so tiri, kretnice, inženirski objekti (mostovi, predori ipd.), postajne naprave (peroni, dostopne poti, naprave, ki zagotavljajo funkcionalno oviranim osebam dostop, vstop in uporabo železniških storitev brez komunikacijskih ovir ipd.) ter potrebna varnostna in zaščitna oprema.
-b) Energija - naprave električne vleke
-Podsistem zajema električne naprave, ki so potrebne za oskrbo vlakov z električno energijo iz visokonapetostnega (enofaznega ali trifaznega) omrežja.
-Električne naprave so električne napajalne postaje, stikala, vozno omrežje, povratni vod in odjemnik toka.
-c) Nadzor, vodenje in signalizacija - vodenje vlakov
-Podsistem sestavljajo oprema in funkcije, ki omogočajo varen in predvidljiv promet vlakov z namenom izvajanja želenih železniških prometnih storitev.
-Oprema tega podsistema obsega signalnovarnostne in telekomunikacijske naprave, ki so potrebne za varnost, nadzor in vodenje prometa vlakov.
-č) Vodenje in upravljanje prometa
-Podsistem sestavljajo postopki in pripadajoča oprema, ki zagotavljajo usklajeno obratovanje različnih strukturnih podsistemov v normalnih in izrednih pogojih. Nanašajo se predvsem na:
-- upravljanje in spremljanje vlakov,
-- zdravstvene in strokovne kvalifikacije izvršilnega osebja,
-- strokovno usposobljenost, ki se zahteva za opravljanje čezmejnih storitev v železniškem prometu,
-- vodenje, upravljanje in načrtovanje prometa.
-d) Vozni park - tirna vozila
-Podsistem sestavljajo ogrodje vozila, sistem za upravljanje in zavarovanje vlaka s pripadajočo opremo, prenosni mehanizmi in naprave za pretvarjanje energije, zavorne naprave, naprave za spenjanje vagonov, tekalni mehanizem (podstavni vozički, osi ipd.) in vzmetenje, vrata, vmesniki človek/stroj (vlakovno osebje in potniki), pasivne in aktivne varnostne naprave in pripomočki, ki so potrebni za zdravje potnikov in vlakovnega osebja, vključno z upoštevanjem potreb funkcionalno oviranih oseb.
+a) Infrastruktura
+Podsistem vsebuje železniške tire, kretnice, gradbene objekte (mostovi, predori itd.) in pripadajočo infrastrukturo na postajah (peroni, območja dostopa, vključno z upoštevanjem potreb oseb z omejeno mobilnostjo itd.).
+b) Energija
+Podsistem vsebuje naprave, namenjene elektrifikaciji, vključno z vozno mrežo in vlakovno opremo za merjenje porabe električne energije.
+c) Vodenje-upravljanje in signalizacija
+Podsistem vsebuje opremo, potrebno za zagotavljanje varnosti, vodenja in nadzora voženj vlakov.
+d) Tirna vozila
+Podsistem vsebuje strukturo, vodenje in nadzorne sisteme vlakovne opreme, tokovne odjemnike, vlečna vozila in vozila za pretvarjanje energije, zavorne naprave, naprave za spenjanje vagonov, tekalne mehanizme (vozni podstavek, osi itd.) in vzmetenje, vrata, vmesnike človek/stroj (voznik, vlakovno osebje in potniki, vključno z upoštevanjem potreb oseb z omejeno mobilnostjo), pasivne in aktivne varnostne naprave in pripomočke, ki so potrebni za zdravje potnikov in vlakovnega osebja.
 (4) Operativni podsistemi so:
-a) Vzdrževanje - nega vlakov
-V podsistem spadajo postopki in pripadajoča oprema, logistični centri za vzdrževanje in skladišča z rezervnimi deli, ki omogočajo obvezna popravila in preventivno vzdrževanje za zagotavljanje interoperabilnosti in učinkovitosti železniškega sistema.
-Sem sodijo predvsem aktivnosti, povezane z zunanjim in notranjim pranjem vozil, oskrba toaletnih prostorov in oskrba vozil z vodo in peskom.
-b) Telematske aplikacije za potniški in tovorni promet
-V telematske aplikacije spadajo:
-- aplikacije za potniški promet, ki potnikom dajejo informacije pred in med vožnjo, sistemi za rezervacije in prodajo vozovnic, sistemi za upravljanje prtljage in za povezavo med železniškim in drugimi načini prevoza;
-- aplikacije za tovorni promet, ki omogočajo spremljanje tovora in vlakov v realnem času, aplikacije na ranžirnih postajah, aplikacije za rezervacije, plačila in fakturiranje, upravljanje povezav z drugimi načini prevoza in aplikacije za izdelavo elektronskih spremnih dokumentov.
+a) Vodenje in upravljanje prometa
+V podsistem spadajo postopki in dodatna oprema, ki omogoča usklajeno obratovanje raznih strukturnih podsistemov med normalnim ali zmanjšanim obratovanjem, vključno s sestavo vlaka, vožnjami vlakov ter načrtovanjem in upravljanjem prometa. V ta podsistem spada tudi strokovna usposobljenost, ki se lahko zahteva za opravljanje čezmejnih storitev v železniškem prometu.
+b) Vzdrževanje
+V podsistem spadajo postopki, dodatna oprema in logistični centri za vzdrževanje in rezerve, ki omogočajo obvezna popravila in preventivno vzdrževanje za zagotavljanje interoperabilnosti železniškega sistema in njegove učinkovitosti.
+c) Telematske aplikacije za potniški in tovorni promet
+Ta podsistem zajema:
+- aplikacije za potniški promet, vključno s sistemi, ki potnikom dajejo informacije pred in med vožnjo, sisteme za rezervacije in plačila, za upravljanje prtljage in upravljanje povezav med železnico in drugimi načini prevoza;
+- aplikacije za tovorni promet, vključno z informacijskimi sistemi (spremljanje tovora in vlakov v realnem času), ranžirni sistemi in sistemi usmerjanja vlakov, sistemi rezervacij, plačil in fakturiranja, upravljanje povezav z drugimi načini prevoza in izdelava elektronskih spremnih dokumentov.

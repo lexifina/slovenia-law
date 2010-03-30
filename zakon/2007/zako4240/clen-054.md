@@ -6,4 +6,4 @@
 (4) Na postajah in postajališčih morajo biti dostopi do potniških vlakov narejeni tako, da omogočajo čim lažji dostop potnikom in osebam z omejenimi gibalnimi sposobnostmi.
 (5) Postaje in postajališča morajo imeti perone povezane s prehodi pod progo ali nad njo ali z dohodnimi potmi v nivoju.
 (6) Postajališča na dvotirnih progah, razen postajališč z otočnimi peroni ali kritnimi signali, morajo imeti med tiri ograjo.
-(7) Natančnejše pogoje iz prvega odstavka tega člena določa predpis, ki ga izda minister.
+(7) Natančnejše pogoje iz tega člena določa predpis, ki ga izda minister.

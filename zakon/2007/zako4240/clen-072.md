@@ -4,5 +4,6 @@ a) naprave za ogrevanje,
 b) naprave za električno razsvetljavo,
 c) sanitarno-higienske naprave,
 d) gasilnike za začetno gašenje požarov,
-e) naprave za prehajanje iz vagona v vagon (razen pri motornikih),
-f) opremo in naprave, ki jih določajo mednarodni predpisi.
+e) naprave za prehajanje iz vagona v vagon,
+f) opremo in naprave, ki jih določajo mednarodni predpisi,
+g) napravo za klimatizacijo prostorov za potnike.

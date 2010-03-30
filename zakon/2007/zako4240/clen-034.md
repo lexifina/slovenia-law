@@ -1,4 +1,4 @@
 # 34. člen (obveznost upravljavca in prevoznikov pri preiskavi nesreč, resnih nesreč in incidentov)
 (1) Poleg preiskovalnega organa morajo tudi upravljavec in prevozniki storiti vse potrebno, da v okviru svojih pristojnosti in delovnih področij ugotovijo vzroke nesreč, resnih nesreč in incidentov v železniškem prometu ter okoliščine, v katerih so nastali. Še posebej pozorno morajo preiskati vzroke nesreč, resnih nesreč in incidentov, ki jih preiskovalni organ ne preišče.
 (2) Upravljavec in prevozniki morajo voditi evidenco o nesrečah, resnih nesrečah in incidentih v železniškem prometu ter o drugih pojavih, pomembnih za varen železniški promet.
-(3) Kadar so vzroki ali posledice dogodka izključno na strani upravljavca ali prevoznika, opravi preiskavo upravljavec ali prevoznik sam. Če se vzroki ali posledice nanašajo na upravljavca in na prevoznika, opravita preiskavo skupaj.
+(3) Kadar so vzroki ali posledice dogodka izključno na strani upravljavca ali prevoznika, opravi preiskavo upravljavec ali prevoznik sam. Če se vzroki ali posledice nanašajo na upravljavca in na prevoznike, opravijo preiskavo skupaj.
