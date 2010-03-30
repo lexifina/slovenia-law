@@ -1,0 +1,9 @@
+# 2. člen
+Za prvim odstavkom 2. člena se doda nov drugi odstavek, ki se glasi:
+"(2) Določbe tega zakona, ki se nanašajo na delo z GSO v zaprtem sistemu, ne veljajo za shranjevanje, gojenje, prenos in prevoz, uničevanje, odstranjevanje ali uporabo gensko spremenjenih mikroorganizmov, ki so bili dani na trg v skladu s tem zakonom ali na podlagi zakonodaje Skupnosti, ki predvideva posebno oceno tveganja za okolje, podobno tisti, ki je določena z Direktivo 2001/18/ES, če je uporaba v zaprtem sistemu v skladu s pogoji, če obstajajo, za odobritev za dajanje na trg.".
+V dosedanjem drugem odstavku, ki postane tretji odstavek, se napovedni stavek spremeni tako, da se glasi: "Določbe tega zakona, ki se nanašajo na namerno sproščanje GSO v okolje in dajanje izdelkov na trg, ne veljajo za naslednja postopka spreminjanja genskega materiala:".
+V dosedanjem tretjem odstavku, ki postane četrti odstavek, se besedi "vodnih poteh" nadomestita z besedilom "morju in celinskih vodah", za besedo "primeru" pa se doda besedilo "izrednega dogodka in".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"(5) Določbe 11.a do 11.c člena in 27. do 36. člena tega zakona ne veljajo za zdravilne učinkovine in pomožne snovi za zdravila za uporabo v humani medicini, ki so sestavljene ali vsebujejo GSO ali kombinacijo GSO, pod pogojem, da njihovo namerno sproščanje za katerikoli namen, razen za dajanje na trg, dovoli zakonodaja Skupnosti, kot izhaja iz 5. člena Direktive 2001/18/ES.".
+Dosedanji četrti odstavek, ki postane šesti odstavek, se spremeni tako, da se glasi:
+"(6) Določbe tega zakona, ki se nanašajo na dajanje izdelkov na trg, na izvoz in tranzit GSO in izdelkov, ne veljajo za GSO, ki so namenjeni za uporabo kot živila ali krma ter GSO in izdelke, ki jih urejajo posebni predpisi v skladu z 12. členom Direktive 2001/18/ES.".

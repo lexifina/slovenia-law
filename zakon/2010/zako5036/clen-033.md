@@ -1,0 +1,9 @@
+# 33. člen
+Za 45.a členom se doda nov 45.b člen, ki se glasi:
+"45.b člen
+(postopek v skladu z Uredbo 1829/2003/ES)
+(1) Ministrstvo lahko kopijo prijave in dokumentacije, ki mu jo posreduje Evropska agencija za varnost hrane (v nadaljnjem besedilu: EFSA) v skladu s točko (b) drugega odstavka 5. člena in točko (b) drugega odstavka 17. člena Uredbe (ES) št. 1829/2003 Evropskega parlamenta in Sveta z dne 22. septembra 2003 o gensko spremenjenih živilih in krmi (UL L št. 268 z dne 18. 10. 2003, str. 1; v nadaljnjem besedilu: Uredba 1829/2003/ES) in se nanaša na GSO ali živilo, ki vsebuje GSO ali je iz njega sestavljeno ali krme, ki vsebuje GSO ali je iz njega sestavljena, posreduje odboru za sproščanje GSO.
+(2) Ne glede na prejšnji odstavek mora ministrstvo kopijo prijave in dokumentacije, ki mu jo posreduje EFSA in se nanaša na GSO, ki je namenjen za uporabo kot seme ali drug rastlinski material za razmnoževanje, posredovati odboru za sproščanje GSO.
+(3) Odbor za sproščanje GSO mora pisno mnenje iz prvega in drugega odstavka tega člena ministrstvu posredovati najpozneje v 45 dneh od dne, ko mu je to posredovalo kopijo prijave.
+(4) V postopku za oblikovanje stališča Republike Slovenije za sodelovanje v postopku iz Uredbe 1829/2003/ES v primeru GSO ali živila, ki vsebuje GSO ali je iz njega sestavljeno ali krme, ki vsebuje GSO ali je iz njega sestavljena, mora ministrstvo, pristojno za področje gensko spremenjenih živil oziroma krme, v zvezi z oceno tveganja za okolje ministrstvo zaprositi za mnenje.
+(5) Ne glede na prejšnji odstavek, mora ministrstvo, pristojno za področje gensko spremenjenih živil oziroma krme, v postopku iz prejšnjega odstavka v primeru GSO, ki je namenjen za uporabo kot seme ali drug rastlinski material za razmnoževanje, v zvezi z oceno tveganja za okolje ministrstvo zaprositi za soglasje.".
