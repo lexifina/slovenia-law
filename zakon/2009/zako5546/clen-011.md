@@ -5,7 +5,7 @@ Namenski prihodki proračuna za leti 2010 in 2011 so poleg prihodkov, določenih
 2. donacije finančnih mehanizmov se uporabijo za namen in na način, kakor ga določi donator in v skladu s predpisom ministra, pristojnega za finance;
 3. prihodki obresti na sredstva predpristopnih pomoči, popristopnih pomoči in donacij finančnih mehanizmov, se uporabijo za namen in na način, kakor ga določi donator in v skladu s predpisom ministra, pristojnega za finance;
 4. prihodki od obremenitve s stavbno ali služnostno pravico stvarnega premoženja države se uporabijo za nakup, graditev, obnovo, investicijsko in tekoče vzdrževanje nepremičnin v lasti države;
-5. prihodki požarne takse po 59. členu Zakona o varstvu pred požarom (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo), ki se po merilih, ki jih določi vlada, uporabijo za namene iz navedenega zakona;
+5. prihodki letne dajatve za uporabo vozil v cestnem prometu in prihodki koncesijske dajatve Luke Koper, d. d., ki pripadajo proračunu Republike Slovenije, se uporabijo za izvedbo investicij in vzdrževanj v javno železniško infrastrukturo;
 6. prihodki posebnega prispevka iz 6. člena Zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju (Uradni list RS, št. 26/05 - uradno prečiščeno besedilo in 114/06 - ZUE; v nadaljnjem besedilu: ZPOOSRP), ki se v skladu z vladnimi programi uporabijo za namene, določene v navedenem zakonu;
 7. prihodki po ZIOOZP, ki se uporabijo za namene, določene v navedenem zakonu;
 8. prihodki po ZSPOZ, ki se uporabijo za namene, določene v navedenem zakonu;
@@ -15,4 +15,4 @@ Namenski prihodki proračuna za leti 2010 in 2011 so poleg prihodkov, določenih
 - v letu 2010 del vodnega povračila do višine 19.319.036 eurov in plačila za pridobitev vodne pravice do višine 5.697.060 eurov, ki se pri ministrstvu, pristojnem za okolje, uporabijo za namene, določene v navedenem zakonu,
 - v letu 2011 del vodnega povračila do višine 19.319.036 eurov in plačila za pridobitev vodne pravice do višine 5.697.060 eurov, ki se pri ministrstvu, pristojnem za okolje, uporabijo za namene, določene v navedenem zakonu;
 12. prihodki po Zakonu o soobstoju gensko spremenjenih rastlin z ostalimi kmetijskimi rastlinami (Uradni list RS, št. 41/09), ki se uporabijo za namene, določene v navedenem zakonu;
-13. prihodki klirinškega dolga se uporabijo na področju varnosti in obrambe za nakup, obnovo, investicijsko in tekoče vzdrževanje nepremičnin, premičnin in zaščitne opreme v lasti države.
+13. prihodki letne dajatve za uporabo vozil v cestnem prometu in prihodki koncesijske dajatve Luke Koper, d. d., ki pripadajo proračunu Republike Slovenije, se uporabijo za izvedbo investicij in vzdrževanj v javno železniško infrastrukturo.

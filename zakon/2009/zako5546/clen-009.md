@@ -5,7 +5,7 @@
 3. postavkah na področju porabe 24 - Prispevek v proračun EU;
 4. postavkah namenskih sredstev EU;
 5. postavkah na področju porabe 23 - Intervencijski programi in obveznosti,
-6. ki presegajo pravice porabe, zagotovljene na teh postavkah v proračunu, se na podlagi odločitve vlade plačujejo tudi nad to višino.
+ki presegajo pravice porabe, zagotovljene na teh postavkah v proračunu, se na podlagi odločitve vlade plačujejo tudi nad to višino.
 (2) Sredstva za pokrivanje obveznosti iz prejšnjega odstavka se zagotovijo:
 1. iz večjih prihodkov proračuna od načrtovanih oziroma
 2. z dodatnim zadolževanjem države, če gre za primere iz 1., 2. in 3. točke prejšnjega odstavka.
