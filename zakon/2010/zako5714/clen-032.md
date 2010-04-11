@@ -1,0 +1,4 @@
+# 32. člen
+Besedilo 77. člena se spremeni tako, da se glasi:
+"(1) V primeru postopka iz 1. do 6. točke prvega odstavka 24. člena tega zakona, naročnik pred sprejetjem odločitve iz 79. člena tega zakona oziroma najpozneje pred sklenitvijo pogodbe o izvedbi javnega naročila preveri obstoj in vsebino podatkov iz najugodnejše ponudbe oziroma drugih navedb iz ponudbe. V primeru postopka iz 7. točke prvega odstavka 24. člena tega zakona mora naročnik preveriti obstoj in vsebino podatkov iz izbrane ponudbe oziroma drugih navedb iz ponudbe, kadar dvomi v resničnost ponudnikovih izjav.
+(2) Če se pri naročniku v postopku javnega naročanja pojavi utemeljen sum, da je posamezni ponudnik, ne glede na razvrstitev njegove ponudbe, predložil neresnične izjave ali dokazila, mora naročnik Državni revizijski komisiji podati predlog za uvedbo postopka o prekršku iz drugega odstavka 109.a člena tega zakona.".
