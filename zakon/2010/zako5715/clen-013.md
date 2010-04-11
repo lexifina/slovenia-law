@@ -1,0 +1,7 @@
+# 13. člen
+V četrtem odstavku 39. člena se za besedo "prijavo" in za besedo "prijav" doda besedilo "za vključitev v dinamični nabavni sistem".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Naročnik povabi vse ponudnike, ki so vključeni v dinamični nabavni sistem, da v roku, ki ga določi v obvestilu iz 11. točke prvega odstavka 57. člena tega zakona, predložijo ponudbo za vsako posamezno naročilo, ki se oddaja v okviru dinamičnega nabavnega sistema. Posamezno naročilo odda ponudniku, ki je predložil najboljšo ponudbo na podlagi meril za izbor, navedenih v obvestilu o javnem naročilu v zvezi z vzpostavitvijo dinamičnega nabavnega sistema. Ta merila se lahko, če je to primerno, natančneje navedejo v obvestilu iz 11. točke prvega odstavka 57. člena tega zakona.".
+Za petim odstavkom se doda nov šesti odstavek, ki se glasi:
+"(6) Naročnik obvesti ponudnike, ki so vključeni v dinamični nabavni sistem in so oddali ponudbo za posamezno naročilo, o svoji odločitvi o oddaji posameznega naročila in objavi obvestilo iz 9. točke prvega odstavka 57. člena tega zakona, zaradi česar ni mogoče izpodbijati pogodbe o izvedbi posameznega naročila. V postopku oddaje posameznega naročila mora naročnik v skladu z zakonom, ki ureja pravno varstvo v postopkih javnega naročanja, ponudnikom, ki so oddali ponudbo za posamezno naročilo, zagotoviti pravno varstvo. Naročnik v obdobju mirovanja ne sme skleniti pogodbe o izvedbi posameznega naročila.".
+Dosedanja šesti in sedmi odstavek postaneta sedmi in osmi odstavek.

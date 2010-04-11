@@ -1,0 +1,6 @@
+# 52. člen
+Besedilo 103.a člena se spremeni tako, da se glasi:
+"(1) Naročnik ne sporoča podatkov o oddanih javnih naročilih, katerih vrednost je enaka ali večja od vrednosti iz drugega odstavka 17. člena tega zakona. Navedeni podatki se zajemajo neposredno iz obvestil iz 3., 5. in 7. točke prvega odstavka 57. člena, ki jih naročnik objavi na portalu javnih naročil v skladu s tem zakonom. V primeru posameznih naročil, oddanih na podlagi okvirnega sporazuma, naročnik na portal javnih naročil do 28. februarja tekočega leta za preteklo leto sporoči podatke, ki jih določa predpis iz osmega odstavka 104. člena tega zakona.
+(2) Naročniki po tem zakonu, razen samoupravnih lokalnih skupnosti, posredujejo do 28. februarja tekočega leta na portal javnih naročil podatke o vrsti predmeta, skupni vrednosti in številu oddanih javnih naročil v preteklem letu, ločeno za:
+a) javna naročila, katerih vrednost je nižja od 40.000 eurov za blago in storitve oziroma 80.000 eurov za gradnje,
+b) javna naročila, katerih vrednost je enaka ali presega vrednosti iz prejšnje točke in je nižja od 80.000 eurov za blago in storitve oziroma 160.000 eurov za gradnje.".
