@@ -7,7 +7,7 @@ Evidenca detektivov, državljanov Republike Slovenije, in evidenca tujih detekti
 - šolsko izobrazbo;
 - poklic;
 - zaposlitev;
-- datum opravljenega detektivskega izpita pred komisijo iz 8. člena tega zakona oziroma datum opravljenega preizkusnega izpita o poznavanju pravnega reda Republike Slovenije, pred komisijo iz 8. člena tega zakona;
+- datum opravljenega detektivskega izpita pred komisijo iz 8. člena tega zakona;
 - datum in številko izdane licence;
 - datum in številko izdane izkaznice;
 - datum odvzema licence;

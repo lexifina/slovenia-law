@@ -1,8 +1,5 @@
-# 31. člen
-Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
-_________________
 Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti - ZDD-A (Uradni list RS, št. 96/02) vsebuje naslednje prehodne in končne določbe:
-## "PREHODNE IN KONČNE DOLOČBE
+"PREHODNE IN KONČNE DOLOČBE
 20. člen
 Delavci ministrstva, pristojnega za notranje zadeve, ki so opravljali nadzor nad izvajanjem zakona o detektivski dejavnosti do uveljavitve tega zakona, nadaljujejo s svojim delom do imenovanja v inšpektorje, vendar najdlje dve leti od uveljavitve tega zakona.
 Do izdaje predpisa iz drugega odstavka 22.a člena zakona se inšpektor izkazuje s pooblastilom ministra, pristojnega za notranje zadeve.
@@ -12,15 +9,4 @@ Minister, pristojen za notranje zadeve, izda predpise iz drugega odstavka 11. č
 Določba 2. člena tega zakona se začne uporabljati dvanajst mesecev po uveljavitvi tega zakona.
 Določbe 16.a do 16.e člena ter določbe druge in tretje alinee 23. člena zakona, ki se nanašajo na evidence tujih detektivov, se začnejo uporabljati z dnem pristopa Republike Slovenije k Evropski uniji.
 22. člen
-Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
-_________________
-Zakon o spremembah in dopolnitvah Zakona o detektivski dejavnosti - ZDD-B (Uradni list RS, št. 90/05) vsebuje naslednjo prehodno in končno določbo:
-"4. člen
-Postopki obravnave prošenj za izdajo licence detektiva, vloženih do uveljavitve tega zakona, o katerih do uveljavitve tega zakona še ni bilo odločeno, se dokončajo po dosedanjih predpisih.
-5. člen
-Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
-_________________
-Zakon o spremembah in dopolnitvah Zakona o detektivski dejavnosti - ZDD-C (Uradni list RS, št. 60/07) vsebuje naslednjo končno določbo:
-## "KONČNA DOLOČBA
-4. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
