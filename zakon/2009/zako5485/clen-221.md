@@ -5,5 +5,8 @@
 3. ne zagotavlja podatkov za vzpostavitev in vodenje registra transakcijskih računov v skladu s prvim odstavkom 144. člena tega zakona,
 4. krši dolžnost varovanja zaupnih podatkov iz 180. člena tega zakona,
 5. ne poroča v skladu z 219. členom tega zakona,
-6. ne obračuna stroškov in ne obvesti uporabnika v skladu s 3., 4. in 5. členom Uredbe 2560/2001.
+6. ne obračuna enakih nadomestil za čezmejna plačila in ustrezna nacionalna plačila v skladu s 3. členom Uredbe 924/2009/ES ali morebitnih dodatnih nadomestil ne zaračuna v skladu s tretjim odstavkom 4. člena Uredbe 924/2009/ES,
+7. uporabniku ne sporoči IBAN uporabnika in BIC ponudnika plačilnih storitev ali mu jih ne sporoči brezplačno (prvi odstavek 4. člena Uredbe 924/2009/ES),
+8. ne obračuna pristojbin za izmenjavo za čezmejne ali nacionalne transakcije z neposredno bremenitvijo v skladu s 6. oziroma 7. členom Uredbe 924/2009/ES,
+9. ki ni dosegljiv za transakcije z neposredno bremenitvijo v skladu z 8. členom Uredbe 924/2009/ES.
 (2) Z globo od 400 do 4.000 eurov se za prekršek kaznuje odgovorna oseba ponudnika plačilnih storitev, ki stori prekršek iz prvega odstavka tega člena.

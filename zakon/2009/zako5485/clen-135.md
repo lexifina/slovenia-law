@@ -1,4 +1,3 @@
 # 135. člen (uporaba določb, ki veljajo za izvrševanje plačilnih transakcij)
 (1) Ponudnik plačilnih storitev in uporabnik se lahko dogovorita, da se posamezne določbe 3. podpoglavja 5. poglavja tega zakona v celoti ali deloma ne uporabljajo za druge plačilne transakcije.
-(2) Če se uporabnik in njegov ponudnik plačilnih storitev nista dogovorila glede najdaljšega roka izvršitve druge plačilne transakcije, mora plačnikov ponudnik plačilnih storitev ne glede na 111. člen tega zakona zagotoviti, da je znesek plačilne transakcije odobren na računu prejemnikovega ponudnika plačilnih storitev najpozneje do konca četrtega delovnega dne po dnevu, ko je plačnikov ponudnik plačilnih storitev prejel plačilni nalog.
-(3) Ponudnik plačilnih storitev in uporabnik v pogodbi ne moreta izključiti ali omejiti uporabe 113. in 114. člena tega zakona v zvezi z izvrševanjem plačilnih transakcij iz 2. točke 133. člena tega zakona.
+(2) Ponudnik plačilnih storitev in uporabnik v pogodbi ne moreta izključiti ali omejiti uporabe 113. in 114. člena tega zakona v zvezi z izvrševanjem plačilnih transakcij iz 2. točke 133. člena tega zakona.

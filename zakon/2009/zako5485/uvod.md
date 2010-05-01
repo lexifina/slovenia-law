@@ -1,0 +1,2 @@
+- Zakon o plačilnih storitvah in sistemih - ZPlaSS (Uradni list RS, št. 58/09 z dne 27. 7. 2009),
+- Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih - ZPlaSS-A (Uradni list RS, št. 34/10 z dne 30. 4. 2010).

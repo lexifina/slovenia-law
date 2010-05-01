@@ -14,6 +14,11 @@
 - datum odprtja računa,
 - datum zaprtja računa.
 (3) Podatki iz drugega odstavka tega člena se ob zaprtju transakcijskega računa izbrišejo iz registra transakcijskih računov in prenesejo v arhiv registra transakcijskih računov pri Agenciji.
-(4) Register transakcijskih računov mora biti vzpostavljen tako, da je mogoča enolična identifikacija imetnikov transakcijskih računov. V primeru skupnega transakcijskega računa, se v registru transakcijskih računov vodijo podatki iz drugega odstavka tega člena o vseh imetnikih skupnega transakcijskega računa.
-(5) Podatke iz drugega odstavka tega člena je dovoljeno hraniti v arhivu registra transakcijskih računov še pet let po zaprtju računa, razen podatka, da sredstva na transakcijskem računu ne zadoščajo za izvršitev sklepa o izvršbi ali zavarovanju, ki se hrani eno leto.
-(6) Agencija v soglasju z Banko Slovenije predpiše podrobnejša pravila o vzpostavitvi in vodenju registra transakcijskih računov.
+(4) Točnost in ažurnost podatkov iz 1. točke drugega odstavka tega člena se zagotavljata s povezavo registra transakcijskih računov s Poslovnim registrom Slovenije, s centralnim registrom prebivalstva ali z davčnim registrom, preko katere se podatki avtomatično prevzemajo v register transakcijskih računov. Prevzemanje in povezovanje podatkov poteka z uporabo davčne številke.
+(5) Za namen zagotovitve točnosti in ažurnosti podatkov v registru transakcijskih računov Agencija kot upravljavec registra prevzema:
+- podatke o firmi, sedežu in naslovu imetnika transakcijskega računa, ki je pravna oseba, podatke o firmi, sedežu in naslovu ter imenu in priimku imetnika transakcijskega računa, ki je podjetnik ali zasebnik in podatke o nazivu in naslovu drugega imetnika transakcijskega računa iz Poslovnega registra Slovenije,
+- podatke o imenu, priimku in naslovu prebivališča imetnika transakcijskega računa, ki je fizična oseba iz centralnega registra prebivalstva,
+- podatke o imenu, priimku in naslovu prebivališča imetnika transakcijskega računa, ki je fizična oseba in ni vpisan v centralni register prebivalstva pa iz davčnega registra.
+(6) Register transakcijskih računov mora biti vzpostavljen tako, da je mogoča enolična identifikacija imetnikov transakcijskih računov. V primeru skupnega transakcijskega računa, se v registru transakcijskih računov vodijo podatki iz drugega odstavka tega člena o vseh imetnikih skupnega transakcijskega računa.
+(7) Podatke iz drugega odstavka tega člena je dovoljeno hraniti v arhivu registra transakcijskih računov še pet let po zaprtju računa, razen podatka, da sredstva na transakcijskem računu ne zadoščajo za izvršitev sklepa o izvršbi ali zavarovanju, ki se hrani eno leto.
+(8) Agencija v soglasju z Banko Slovenije predpiše podrobnejša pravila o vzpostavitvi in vodenju registra transakcijskih računov.

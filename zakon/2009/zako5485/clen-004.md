@@ -29,4 +29,5 @@ Izrazi, uporabljeni v tem zakonu, pomenijo:
 23. zastopnik je fizična ali pravna oseba, ki pri opravljanju plačilnih storitev na podlagi pooblastila za zastopanje deluje v imenu plačilne institucije;
 24. zasebnik oziroma zasebnica (v nadaljnjem besedilu: zasebnik) je fizična oseba, ki ni podjetnik oziroma podjetnica (v nadaljnjem besedilu: podjetnik) in ki kot poklic samostojno opravlja določeno dejavnost, kot je notar oziroma notarka, zdravnik oziroma zdravnica, odvetnik oziroma odvetnica, kmet oziroma kmetica in podobno;
 25. podjetnik pomeni enako kakor v zakonu, ki ureja gospodarske družbe;
-26. Uprava Republike Slovenije za javna plačila je državni organ, ki je na podlagi posebnega zakona pristojen za opravljanje plačilnih storitev za neposredne in posredne uporabnike državnega proračuna in proračunov samoupravnih lokalnih skupnosti.
+26. Uprava Republike Slovenije za javna plačila je državni organ, ki je na podlagi posebnega zakona pristojen za opravljanje plačilnih storitev za neposredne in posredne uporabnike državnega proračuna in proračunov samoupravnih lokalnih skupnosti;
+27. za namene drugega in četrtega poglavja tega zakona je podružnica poslovna enota, ki je ločena od sedeža plačilne institucije, ni pravna oseba in neposredno izvaja nekatere ali vse transakcije, ki so del poslovanja matične plačilne institucije.

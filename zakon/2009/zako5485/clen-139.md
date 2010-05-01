@@ -3,4 +3,3 @@
 (2) Ponudnik plačilnih storitev lahko zavrne izvršitev plačilne transakcije na podlagi plačilnega naloga za unovčitev domicilirane menice, če:
 1. je imetnik domicilirane menice odredil plačilni nalog za unovčitev domicilirane menice, ki je očitno v nasprotju z domicilirano menico (npr. glede zneska, glede domicila, glede zapadlosti menice),
 2. je plačilni nalog za unovčitev domicilirane menice odredila oseba, ki ni menični upnik, ali druga oseba, ki jo je menični upnik pooblastil za odreditev plačilne transakcije zaradi plačila domicilirane menice.
-(3) Banka Slovenije predpiše enotna pravila za izvrševanje plačilnih transakcij na podlagi plačilnega naloga za unovčitev domicilirane menice.

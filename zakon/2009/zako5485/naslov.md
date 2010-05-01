@@ -1,2 +1,2 @@
 ZAKON
-O PLAČILNIH STORITVAH IN SISTEMIH (ZPlaSS)
+o plačilnih storitvah in sistemih (ZPlaSS)

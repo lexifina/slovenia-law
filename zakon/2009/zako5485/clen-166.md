@@ -13,5 +13,5 @@
 (v nadaljnjem besedilu: upravljavec plačilnega sistema).
 (3) Nihče razen oseb iz drugega odstavka tega člena, ne sme opravljati storitev upravljanja plačilnih sistemov.
 (4) Osebe iz 2. do 5. točke drugega odstavka tega člena morajo pridobiti dovoljenje Banke Slovenije za opravljanje posameznih storitev upravljanja vsakega posameznega plačilnega sistema.
-(5) Upravljavec plačilnega sistema lahko opravlja le tiste storitve upravljanja plačilnega sistema, za katere je pridobil dovoljenje Banke Slovenije.
-(6) Če namerava upravljavec plačilnega sistema začeti opravljati storitve upravljanja plačilnega sistema, ki niso zajete v že izdanem dovoljenju za opravljanje storitev upravljanja posameznega plačilnega sistema, mora predhodno pridobiti odločbo Banke Slovenije o razširitvi dovoljenja za opravljanje storitev upravljanja plačilnega sistema.
+(5) Oseba iz 2. do 5. točke drugega odstavka tega člena lahko opravlja le tiste storitve upravljanja plačilnega sistema, za katere je pridobil dovoljenje Banke Slovenije.
+(6) Če namerava oseba iz 2. do 5. točke drugega odstavka tega člena začeti opravljati storitve upravljanja plačilnega sistema, ki niso zajete v že izdanem dovoljenju za opravljanje storitev upravljanja posameznega plačilnega sistema, mora predhodno pridobiti odločbo Banke Slovenije o razširitvi dovoljenja za opravljanje storitev upravljanja plačilnega sistema.

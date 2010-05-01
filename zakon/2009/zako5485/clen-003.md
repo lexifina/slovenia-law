@@ -24,3 +24,6 @@
 15. storitve, povezane z dvigom gotovine na bankomatih, ki jih zagotavljajo ponudniki, ki delujejo v imenu enega ali več izdajateljev kartic, pri čemer ti ponudniki nimajo sklenjene okvirne pogodbe s stranko, ki dviguje denar s plačilnega računa, pod pogojem, da ti ponudniki ne izvajajo drugih plačilnih storitev.
 (2) Za plačilne transakcije na podlagi papirnih menic v skladu z zakonom, ki ureja menico, ter drugih papirnih listin, ki jih ureja zakonodaja držav članic, in so po vsebini in učinkih podobne menicam na podlagi zakona, ki ureja menico, se uporablja le 8. poglavje tega zakona.
 (3) Banka Slovenije lahko s podzakonskim predpisom podrobneje določi lastnosti storitev in plačilnih transakcij iz prvega odstavka tega člena.
+3.a člen
+(izključitev uporabe določb Uredbe 1781/2006/ES)
+Uredba 1781/2006/ES se ne uporablja za prenose denarnih sredstev na območju Republike Slovenije, če se prenos opravi na plačilni račun prejemnika plačila, ki omogoča plačevanje blaga in storitev, in so izpolnjeni pogoji iz šestega odstavka 3. člena Uredbe 1781/2006/ES.

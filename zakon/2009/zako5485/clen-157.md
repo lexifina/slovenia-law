@@ -10,3 +10,5 @@
 7. pravo, ki se uporablja za plačilni sistem.
 (3) Pravila plačilnega sistema lahko določijo trenutek nepreklicnosti naloga za poravnavo najkasneje do trenutka vstopa naloga za poravnavo v plačilni sistem.
 (4) Če ima najmanj en udeleženec plačilnega sistema sedež v državi članici, udeleženci plačilnega sistema izberejo pravo države članice, ki naj se uporablja za plačilni sistem. Izberejo lahko samo pravo tiste države članice, v kateri ima vsaj eden od njih svoj sedež.
+(5) Pravila plačilnega sistema o trenutku nepreklicnosti nalogov za poravnavo in o trenutku vstopa nalogov za poravnavo v plačilni sistem ne vplivajo na pravila povezanih plačilnih sistemov glede vstopa in nepreklicnosti nalogov za poravnavo, razen če je izrecno drugače določeno s pravili vseh povezanih plačilnih sistemov.
+(6) Pravila povezanega plačilnega sistema morajo biti v čim večji meri usklajena s pravili drugih povezanih plačilnih sistemov glede opredelitev trenutka vstopa in nepreklicnosti nalogov za poravnavo.
