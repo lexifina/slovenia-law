@@ -1,0 +1,5 @@
+# 1. člen
+V Zakonu o plačilnih storitvah in sistemih (Uradni list RS, št. 58/09) se v 1. členu drugi odstavek spremeni tako, da se glasi:
+"(2) S tem zakonom se določajo sankcije za kršitve določb Uredbe (ES) št. 924/2009 Evropskega parlamenta in Sveta z dne 16. septembra 2009 o čezmejnih plačilih v Skupnosti in razveljavitvi Uredbe (ES) št. 2560/2001 (UL L št. 266, z dne 9. 10. 2009, v nadaljnjem besedilu: Uredba 924/2009/ES), pristojni organ za nadzor nad izvajanjem Uredbe 924/2009/ES ter odločanje o prekrških.".
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"(3) S tem zakonom se določajo sankcije za kršitve določb Uredbe (ES) št. 1781/2006 Evropskega parlamenta in Sveta z dne 15. novembra 2006 o podatkih o plačniku, ki spremljajo prenose denarnih sredstev (UL L št. 345, z dne 8. 12. 2006, v nadaljnjem besedilu: Uredba 1781/2006/ES), pristojna organa za nadzor nad izvajanjem Uredbe 1781/2006/ES ter odločanje o prekrških. Ta zakon določa tudi prenose sredstev, za katere se Uredba 1781/2006/ES na ozemlju Republike Slovenije ne uporablja.".

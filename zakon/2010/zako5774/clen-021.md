@@ -1,0 +1,5 @@
+# 21. člen
+Prvi odstavek 165. člena se spremeni tako, da se glasi:
+"(1) Začetek postopka ali ukrepa iz prvega odstavka 163. člena tega zakona zoper posameznega udeleženca plačilnega sistema ali udeleženca povezanega plačilnega sistema ne vpliva na veljavnost in izvrševanje pravic iz zavarovanja na premoženju, ki ga je ta udeleženec zagotovil v zvezi s plačilnim sistemom ali povezanim plačilnim sistemom:
+1. če je pravica iz zavarovanja na tem premoženju nastala pred začetkom postopka ali ukrepa in je udeleženec zagotovil premoženje kot zavarovanje pred začetkom tega postopka ali ukrepa, ali
+2. če je pravica iz zavarovanja na tem premoženju nastala isti delovni dan, v okviru katerega je bil začet postopek ali ukrep, in je udeleženec, zoper katerega je bil začet tak postopek ali ukrep, isti delovni dan to premoženje tudi zagotovil, če upravljavec plačilnega sistema oziroma povezanega plačilnega sistema dokaže, da ob nastanku pravice iz zavarovanja na tem premoženju ali ob zagotovitvi tega premoženja ni vedel in ni mogel vedeti za začetek postopka ali ukrepa.".

@@ -1,0 +1,3 @@
+# 16. člen
+V prvem odstavku 155. člena se 2. točka spremeni tako, da se glasi:
+"2. institucije iz 2. člena Direktive 2006/48/ES Evropskega parlamenta in Sveta z dne 14. junija 2006 o začetku opravljanja in opravljanju dejavnosti kreditnih institucij (preoblikovano) (UL L št. 177, 30. 6. 2006, str. 1, zadnjič spremenjene z Direktivo 2009/111/ES Evropskega parlamenta in Sveta z dne 16. septembra 2009 o spremembi direktiv 2006/48/ES, 2006/49/ES in 2007/64/ES glede bank, ki so odvisne od centralnih institucij, nekaterih postavk lastnih sredstev, velikih izpostavljenosti, nadzornih režimov in kriznega upravljanja, UL L št. 302, 17. 11. 2009, str. 97), za katere se omenjena direktiva ne uporablja,".
