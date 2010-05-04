@@ -1,5 +1,5 @@
 # 107. člen (prekrški)
-(1) Z globo od 2000 do 20.000 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, če:
+(1) Z globo od 2.000 do 20.000 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, če:
 1. kot priglašeni organ najmanj enkrat letno javno ne objavi informacij, določenih v petem odstavku 20. člena;
 2. varnostnemu organu pravočasno ne predloži letnega varnostnega poročila za prejšnje koledarsko leto (drugi odstavek 24. člen);
 3. ne vodi evidence o vlakovnem osebju, sestavi, zaviranju in gibanju ter dogodkih, ki vplivajo ali bi lahko vplivali na vozni red vlaka ali varnost železniškega prometa (65. člen);
@@ -20,4 +20,4 @@
 18. ne pridobi pisnega dovoljenja za svoje delavce, ki bodo opravljali delo na železniškem območju (drugi odstavek 94. člena);
 19. industrijski tir ali proga druge železnice nimata določenega poslovnega reda ali če k poslovnemu redu za industrijski tir, iz katerega tirna vozila prehajajo na javno železniško infrastrukturo ali obratno, ni pridobil soglasja upravljavca (101. člen);
 20. če se promet po industrijskem tiru ali progi druge železnice odvija v nasprotju s poslovnim redom (101. člen).
-(2) Z globo od 400 do 1000 eurov se kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika posameznika in posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
+(2) Z globo od 400 do 1.000 eurov se kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika posameznika in posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.

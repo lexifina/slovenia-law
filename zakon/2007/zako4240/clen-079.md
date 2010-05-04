@@ -8,4 +8,4 @@
 - v primeru suma na škodljivo rabo ali odvisnost od drugih psihoaktivnih snovi, vključno z zdravili, ali če se zdravi na način, ki lahko vpliva na varno opravljanje dela,
 - če je podan sum na poklicno bolezen ali poklicno okvaro zdravja, ki vpliva na varno opravljanje dela v železniškem prometu,
 - na zahtevo izvršilnega železniškega delavca, če se ta ne čuti zmožnega za varno opravljanje svojega dela.
-(2) Delavec iz prejšnjega odstavka se pošlje na izredni zdravstveni pregled na zahtevo delodajalca ali pristojnega inšpektorja oziroma inšpektorice (v nadaljnjem besedilu: inšpektor).
+(2) Delavca iz prejšnjega odstavka se pošlje na izredni zdravstveni pregled na zahtevo delodajalca ali pristojnega inšpektorja oziroma inšpektorice (v nadaljnjem besedilu: inšpektor).

@@ -14,7 +14,7 @@
 12. "motorna vozila za posebne namene" so tirna vozila in stroji vseh vrst z lastnim pogonom (vključno s priključenimi vozili), namenjena za posebne namene (npr. za gradnjo in vzdrževanje železniških podsistemov ter odpravljanje posledic nesreč);
 13. "nacionalni predpisi" so predpisi, izdani v Republiki Sloveniji, ki se uporabljajo za izpolnjevanje bistvenih zahtev podsistemov in so priglašeni Evropski komisiji v skladu s tretjim odstavkom 14. člena tega zakona;
 14. "nacionalni varnostni predpisi" so predpisi, izdani v Republiki Sloveniji, ki urejajo varnost železniškega prometa in se uporabljajo za več kakor enega prevoznika;
-15. "nadgradnja" je večja sprememba podsistema ali dela podsistema, ki izboljša celotno delovanje podsistema";
+15. "nadgradnja" je večja sprememba podsistema ali dela podsistema, ki izboljša celotno delovanje podsistema;
 16. "največja dovoljena progovna hitrost" je tista predpisana največja hitrost na progi ali odsekih proge, ki se določi glede na geometrijske elemente proge, tehnično stanje proge, njeno opremljenost in tehnične značilnosti vlaka;
 17. "največja hitrost vlaka" je hitrost, predpisana z voznim redom za posamezni vlak;
 18. "naročnik" je oseba, ki naroči projektiranje ali gradnjo, obnovo ali nadgradnjo podsistema. Ta oseba je lahko prevoznik, upravljavec, imetnik ali koncesionar, ki je odgovoren za izvedbo projekta, ter organ za vodenje investicij v javno železniško infrastrukturo, določen v zakonu, ki ureja železniški promet;
@@ -32,7 +32,7 @@
 30. "resna nesreča" pomeni katerokoli trčenje ali iztirjenje vlakov, katerega posledice so smrt ene ali več oseb ali resne poškodbe petih ali več oseb ali velika škoda na voznih sredstvih, infrastrukturi ali v okolju, in vsaka druga podobna nesreča, ki ima očitni vpliv na ureditev varnosti na železnici ali na upravljanje varnosti; "velika škoda" pomeni škodo, ki jo lahko preiskovalni organ oceni takoj in ki znaša vsaj dva milijona eurov;
 31. "serija" je število identičnih tirnih vozil enega tipa zasnove;
 32. "sistem varnega upravljanja" pomeni organizacijo in ureditev, ki ju je vzpostavil upravljavec železniške infrastrukture ali prevoznik v železniškem prometu, da bi zagotovil varno upravljanje svojih dejavnosti;
-33. "skupne varnostne metode (SVM) " so metode, ki jih je treba uporabiti za opis ocene o stopnji varnosti in doseganja varnostnih ciljev ter skladnosti z drugimi varnostnimi zahtevami;
+33. "skupne varnostne metode (SVM)" so metode, ki jih je treba uporabiti za opis ocene o stopnji varnosti in doseganja varnostnih ciljev ter skladnosti z drugimi varnostnimi zahtevami;
 34. "subjekt zadolžen za vzdrževanje" je subjekt, ki je zadolžen za vzdrževanje tirnega vozila in je kot tak registriran v nacionalnem registru tirnih vozil;
 35. "tehnični predpisi" so predpisi, izdani v Republiki Sloveniji, ki določajo zahtevane lastnosti podsistemov, delov podsistemov ali proizvodov ter postopek ugotavljanja in potrjevanja skladnosti s predpisanimi zahtevami;
 36. "tip" je tip tirnega vozila, ki opredeljuje osnovne značilnosti zasnove tirnega vozila, ki jih vsebuje enotno spričevalo o pregledu tipa, določeno v modulu B Sklepa 93/465/EGS;
@@ -44,4 +44,4 @@
 42. "vzdrževalna dela v javno korist na železniškem sistemu" (v nadaljnjem besedilu: vzdrževalna dela v javno korist) so postopki, po katerih se izvedejo obnove in nadgradnje strukturnih podsistemov, s katerimi se lahko izboljšajo lastnosti teh podsistemov, ter so namenjeni zagotavljanju obveznih gospodarskih javnih služb in se z njimi ne posega zunaj območja progovnega pasu, ter postopki, po katerih se izvedejo obnove in nadgradnje objektov in naprav izven progovnega pasu, ki so sestavni del strukturnih podsistemov in ne posegajo izven železniškega območja;
 43. "zamenjava v okviru vzdrževanja" je vsaka zamenjava komponent pri preventivnem ali korektivnem vzdrževanju s komponentami ali deli, ki imajo enako funkcijo in enako delujejo;
 44. "železniško območje" je zemljišče, na katerem je proga, ki obsega tudi progovni pas in postajna območja ter površine, na katerih poteka dejavnost, povezana s prevozom potnikov ali blaga, in dejavnost, povezana z nalogami upravljavca.
-(2) Drugi izrazi, uporabljeni v tem zakonu, imajo enak pomen, kot ga določajo drugi predpisi s področja železniškega prometa, urejanja prostora in tehnični predpisi..
+(2) Drugi izrazi, uporabljeni v tem zakonu, imajo enak pomen, kot ga določajo drugi predpisi s področja železniškega prometa, urejanja prostora in tehnični predpisi.

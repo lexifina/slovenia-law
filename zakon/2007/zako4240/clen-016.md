@@ -3,11 +3,10 @@
 (2) Obratovalno dovoljenje se izda za podsisteme ali dele podsistemov, ki so načrtovani, projektirani, zgrajeni in vgrajeni tako, da ob vključitvi v železniški sistem izpolnjujejo predpisane bistvene zahteve.
 (3) Če je potrebno obratovalno dovoljenje in se TSI ne uporablja v celoti, ministrstvo na predlog varnostnega organa posreduje Evropski komisiji naslednje podatke:
 - razlog, zakaj se TSI ne uporablja v celoti,
-- tehnične značilnosti, ki se uporabljajo namesto TSI,
-- organi, ki so v primeru teh značilnosti pristojni za izvedbo postopka verifikacije v skladu z določbami 14. člena tega zakona.
+- tehnične značilnosti, ki se uporabljajo namesto TSI, organi, ki so v primeru teh značilnosti pristojni za izvedbo postopka verifikacije v skladu z določbami 14. člena tega zakona.
 16.a člen
 (uporabno in obratovalno dovoljenje pri gradnjah)
-(1) Pri obnovah, nadgradnjah in gradnjah, pri katerih ne gre za vzdrževalna dela v javno korist, je treba k projektu za pridobitev gradbenega dovoljenja pridobiti tudi soglasje varnostnega organa, zaradi zagotavljanja interoperabilnosti in varnosti železniškega prometa. Varnostni organ sodeluje tudi pri tehničnem pregledu podsistema ali dela podsistema, ki ga vodi organ pristojen za izdajo uporabnega dovoljenja. V tem primeru za izdajo obratovalnega dovoljenja naročnik varnostnemu organu poleg vloge posreduje izdano uporabno dovoljenje in dokumente iz pete in šeste alineje devetega odstavka 16.b člena tega zakona.
+(1) Pri obnovah, nadgradnjah in gradnjah, pri katerih ne gre za vzdrževalna dela v javno korist, je treba k projektu za pridobitev gradbenega dovoljenja pridobiti tudi soglasje varnostnega organa, zaradi zagotavljanja interoperabilnosti in varnosti železniškega prometa. Varnostni organ sodeluje tudi pri tehničnem pregledu podsistema ali dela podsistema, ki ga vodi organ, pristojen za izdajo uporabnega dovoljenja. V tem primeru za izdajo obratovalnega dovoljenja naročnik varnostnemu organu poleg vloge posreduje izdano uporabno dovoljenje in dokumente iz pete in šeste alineje devetega odstavka 16.b člena tega zakona.
 (2) Varnostni organ mora najkasneje na tehničnem pregledu preveriti:
 - tehnično združljivost podsistemov ali delov podsistemov s sistemom, v katerega se vključujejo, in
 - varno vključitev podsistemov ali delov podsistemov v skladu s sistemi varnega upravljanja, opredeljenimi in odobrenimi v varnostnem spričevalu ali varnostnem pooblastilu.

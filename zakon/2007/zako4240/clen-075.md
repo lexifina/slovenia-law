@@ -19,11 +19,11 @@ c) je predložil potrdilo o opravljenem teoretičnem delu usposabljanja za delov
 (2) Spričevala so veljavna zgolj za tiste železniške infrastrukture in vozna sredstva, ki so v njih opredeljena.
 (3) Spričevalo izda delodajalec, ki je upravljavec, prevoznik ali subjekt, ki zaposluje delavca na delovnem mestu izvršilnega železniškega delavca na industrijskih tirih ali na progah drugih železnic.
 (4) Za ohranitev veljavnosti spričevala mora izvršilni železniški delavec:
-imeti veljavno potrdilo o opravljenem teoretičnem delu usposabljanja za delovno mesto izvršilnega železniškega delavca ali veljavno dovoljenje za strojevodjo;
-predložiti pisno potrdilo, ki dokazuje telesno in duševno zmožnost;
-udeleževati se rednih in izrednih izpopolnjevanj ter rednega in izrednega preverjanja strokovne usposobljenosti;
-opravljati preverjanja jezikovne usposobljenosti v primerih, določenih s tem zakonom;
-ostati v delovnem razmerju pri prevozniku ali upravljavcu, ki mu je spričevalo izdal.
+a) imeti veljavno potrdilo o opravljenem teoretičnem delu usposabljanja za delovno mesto izvršilnega železniškega delavca ali veljavno dovoljenje za strojevodjo;
+b) predložiti pisno potrdilo, ki dokazuje telesno in duševno zmožnost;
+c) udeleževati se rednih in izrednih izpopolnjevanj ter rednega in izrednega preverjanja strokovne usposobljenosti;
+d) opravljati preverjanja jezikovne usposobljenosti v primerih, določenih s tem zakonom;
+e) ostati v delovnem razmerju pri prevozniku ali upravljavcu, ki mu je spričevalo izdal.
 (5) Delodajalec začasno prekliče ali odvzame spričevalo, če delavec ne izpolnjuje kateregakoli od pogojev za ohranitev veljavnosti spričevala, navedenih v prejšnjem odstavku. Začasno se prekliče spričevalo, če izvršilni železniški delavec ne izpolnjuje več katerega od zahtevanih pogojev, vendar jih lahko v določenem roku zopet izpolni. Spričevalo se odvzame, če izvršilni železniški delavec pogojev ne more izpolniti zaradi zdravstvenih razlogov oziroma pogojev ne izpolni po poteku roka, določenega ob začasnem preklicu spričevala.
 (6) Delodajalec mora za svoje izvršilne železniške delavce stalno preverjati veljavnost potrdil o teoretični strokovni usposobljenosti, dovoljenj in spričeval.
 (7) Delodajalec za izvršilne železniške delavce, ki pri njem izvajajo naloge izvršilnih železniških delavcev, vzpostavi in vodi stalno ažuriran register izdanih spričeval.
