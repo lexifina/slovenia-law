@@ -1,0 +1,4 @@
+# 17.a člen
+(1) Za izvajanje regulatornih, razvojnih, strokovnih in drugih nalog s področja voznikov, vozil in prevoza nevarnega blaga, analitsko-raziskovalnih nalog, povezanih z varnostjo cestnega prometa, preventive, vzgoje, usposabljanja v cestnem prometu, neodvisnega preiskovanja dejavnikov za nastanek prometnih nesreč s smrtnim izidom ter strokovnih nalog za pripravo in izvedbo nacionalnega programa varnosti cestnega prometa, Republika Slovenija ustanovi javno agencijo. V imenu Republike Slovenije uresničuje ustanoviteljske pravice in izpolnjuje obveznosti Vlada Republike Slovenije.
+(2) Glede vprašanj organizacije in delovanja javne agencije, ki s tem zakonom niso urejena, se uporablja zakon, ki ureja javne agencije.
+(3) Javna agencija je pravna oseba javnega prava s pravicami, obveznostmi in odgovornostmi, ki jih določata ta zakon in zakon, ki ureja javne agencije.".
