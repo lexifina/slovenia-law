@@ -1,0 +1,3 @@
+## V. ZAGOTAVLJANJE JAVNIH DOBRIN Z JAVNIM KAPITALOM
+
+# 54. člen (prenehal veljati)
