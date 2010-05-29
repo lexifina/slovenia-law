@@ -1,2 +1,1 @@
-# 28. člen
-(črtan)
+# 28. člen (črtan)

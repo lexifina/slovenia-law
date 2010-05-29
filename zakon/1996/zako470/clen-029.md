@@ -1,2 +1,1 @@
-# 29. člen
-(črtan)
+# 29. člen (črtan)

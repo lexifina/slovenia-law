@@ -1,2 +1,1 @@
-# 27. člen
-(črtan)
+# 27. člen (črtan)

@@ -1,2 +1,1 @@
-# 26. člen
-(črtan)
+# 26. člen (črtan)

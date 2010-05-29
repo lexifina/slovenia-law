@@ -1,2 +1,2 @@
-# 23. člen
-(črtan)
+## V. LASTNINSKO PREOBLIKOVANJE (črtano)
+# 23. člen (črtan)

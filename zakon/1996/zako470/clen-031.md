@@ -1,2 +1,1 @@
-# 31. člen
-(črtan)
+# 31. člen (črtan)

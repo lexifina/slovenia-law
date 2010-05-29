@@ -1,2 +1,1 @@
-# 8. člen
-(črtan)
+# 8. člen (črtan)

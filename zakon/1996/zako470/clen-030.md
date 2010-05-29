@@ -1,2 +1,1 @@
-# 30. člen
-(črtan)
+# 30. člen (črtan)

@@ -1,2 +1,1 @@
-# 24. člen
-(črtan)
+# 24. člen (črtan)

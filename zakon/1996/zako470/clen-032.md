@@ -1,2 +1,1 @@
-# 32. člen
-(črtan)
+# 32. člen (črtan)
