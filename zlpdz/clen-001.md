@@ -1,0 +1,3 @@
+# 1. člen (predmet zakona)
+
+Ta zakon določa, da se delnice zavarovalnic, izdanih za delež nenominiranega kapitala, ki ustreza deležu premij, ki so jih v obdobju enega leta pred presečnim dnem plačale fizične osebe in katerih imetnica je na podlagi Zakona o lastninskem preoblikovanju zavarovalnic (Uradni list RS, št. 44/02 in 16/03 – odločba US) Kapitalska družba pokojninskega in invalidskega zavarovanja d. d., prenesejo v last Zavoda za pokojninsko in invalidsko zavarovanje Slovenije (v nadaljnjem besedilu: ZPIZ), z edinim namenom zagotavljanja dodatnih sredstev za obvezno pokojninsko in invalidsko zavarovanje.
