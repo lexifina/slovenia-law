@@ -1,0 +1,6 @@
+# 21. člen (vsebina sklepa)
+(1) Sklep mora imeti uvod, izrek, obrazložitev, pravni pouk ter številko, datum, podpis ravnatelja in pečat šole, ki ga je izdala.
+(2) Uvod sklepa obsega naziv šole, ki ga je izdala, navedbo predpisa o njeni pristojnosti, ime in priimek učenca oziroma dijaka ter označbo zadeve.
+(3) Izrek vsebuje ime in priimek učenca oziroma dijaka, razred oziroma letnik in oddelek izobraževalnega programa ter odločitev o pravici do dodatne subvencije za malico oziroma do subvencije za kosilo. Če se vlogi ugodi, izrek vsebuje tudi višino dodatne subvencije za malico oziroma subvencije za kosilo, navedbo šolskega leta ter datuma, od kdaj je učenec oziroma dijak upravičen do dodatne subvencije za malico oziroma subvencije za kosilo.
+(4) Obrazložitev sklepa je potrebna le takrat, ko se pravici do dodatne subvencije za malico oziroma subvencije za kosilo ne ugodi. Obrazložitev vsebuje podatke iz vloge ter ugotovitve šole o podatkih za ugotavljanje upravičenosti do subvencije.
+(5) Pravni pouk obsega pouk o pravici do pravnega sredstva, roku in načinu vložitve ter navedbo šole, pri kateri se pravno sredstvo vloži.

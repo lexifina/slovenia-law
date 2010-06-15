@@ -1,0 +1,2 @@
+# 29. člen (notranji nadzor)
+Ravnatelj je dolžan preverjati izpolnjevanje dogovorjenih dolžnosti zunanjega izvajalca oziroma drugega vzgojno-izobraževalnega zavoda. Na ugotovljene kršitve mora ravnatelj zunanjega izvajalca oziroma drugi vzgojno-izobraževalni zavod pisno opozoriti in zahtevati odpravo kršitev. Če se kršitve kljub opozorilu ne odpravijo v roku, ki je določen s pogodbo oziroma dogovorom, lahko šola pogodbo oziroma dogovor razdre.
