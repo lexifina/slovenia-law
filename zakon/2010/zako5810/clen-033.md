@@ -1,0 +1,2 @@
+# 33. člen
+V prvem odstavku 151. člena se doda nov drugi stavek, ki se glasi: "Za plačila, ki so dovoljena po prejšnjem stavku, veljajo tudi plačila za obveznosti, ki so nastale pred uvedbo postopka zaradi insolventnosti, če je tako plačilo v skladu s prvim odstavkom 34. člena tega zakona in za storitve revizorjev, odvetnikov, pooblaščenih ocenjevalcev vrednosti podjetja in drugih strokovnjakov v zvezi s pripravo popolnega predloga za začetek postopka prisilne poravnave ali listin, ki jih je takemu predlogu treba priložiti.".

@@ -1,0 +1,4 @@
+# 63. člen
+V 354. členu se dodata nova drugi in tretji odstavek, ki se glasita:
+"(2) Če upravitelj izvedbo posameznih storitev v zvezi z opravljanjem svojih nalog v stečajnem postopku (na primer storitve izdelave poročil, seznamov preizkušenih terjatev in načrtov razdelitve ali storitve svetovanja pri opravljanju nalog upravitelja v postopku zaradi insolventnosti), razen storitev iz sedmega odstavka 103. člena tega zakona, odda drugi osebi, nadomestila za te storitve ni dovoljeno plačati kot strošek stečajnega postopka, temveč jih mora upravitelj plačati iz lastnih sredstev.
+(3) Za storitve iz sedmega odstavka 103. člena tega člena, za katere je predpisana ali v poslovni praksi uveljavljena tarifa, kot strošek stečajnega postopka ni dovoljeno plačati cene v zneskih, ki so višji od zneskov, določenih s to tarifo.".

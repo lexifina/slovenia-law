@@ -1,0 +1,7 @@
+# 88. člen
+(1) S tem zakonom spremenjeni prvi odstavek 65. člena, četrti odstavek 68. člena, 1. točka četrtega odstavka 69. člena in šesti odstavek 296. člena zakona se uporabljajo za postopke zaradi insolventnosti, v katerih do uveljavitve tega zakona še ni potekel rok za prijavo terjatev.
+(2) S tem zakonom spremenjeni ali dodani drugi odstavek 142. člena, 164.a člen, 1. točka prvega odstavka 180. člena, tretji odstavek 181. člena, 203. člen in prvi odstavek 213. člena zakona se uporabljajo za postopke prisilne poravnave, ki se začnejo po uveljavitvi tega zakona.
+(3) S tem zakonom spremenjeni četrti odstavek 14. člena in 383. člen zakona se uporabljata za stečajne postopke, v katerih je predlog za začetek stečajnega postopka vložen po uveljavitvi tega zakona.
+(4) S tem zakonom spremenjeni ali dodani drugi odstavek 21. člena, 4. točka prvega odstavka 22. člena, drugi odstavek 60. člena, četrti odstavek 61. člena, 199.a člen, 263. člen, 264.a člen, četrti odstavek 265. člena in drugi odstavek 267. člena zakona se uporabljajo za postopke zaradi insolventnosti, ki se začnejo po uveljavitvi tega zakona.
+(5) S tem zakonom spremenjeni četrti odstavek 100. člena zakona se uporablja za pritožbe proti sklepom, ki jih sodišče izda po uveljavitvi tega zakona.
+(6) S tem zakonom spremenjeni 304. člen zakona se uporablja za odločitev sodišča o priznanju zavarovane terjatve in ločitvene pravice, o katerem sodišče do uveljavitve tega zakona še ni odločilo.
