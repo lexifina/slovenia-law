@@ -1,7 +1,7 @@
 # 23. člen (predplačila)
 (1) Ne glede na drugi odstavek 52. člena ZJF so predplačila dovoljena:
 1. na podlagi neposredne uporabe predpisov EU;
-2. za namenska sredstva EU in sredstva slovenske udeležbe do višine 20% vrednosti predvidenih izplačil teh sredstev in pod pogojem, da je prejemnik oseba zasebnega ali javnega prava in je ustanovljena in deluje kot društvo, zasebni ali javni zavod ali ustanova;
+2. za namenska sredstva EU in sredstva slovenske udeležbe do višine 20% vrednosti predvidenih izplačil teh sredstev in pod pogojem, da je prejemnik oseba zasebnega ali javnega prava in je ustanovljena in deluje kot društvo, zasebni ali javni zavod, zbornica, ki izvaja javna pooblastila po zakonu, ki ureja socialno varstvo ali ustanova;
 3. za plačilo:
 - pogodbenih obveznosti, pri katerih je to uveljavljeno s poslovnimi običaji (npr. šolnine, naročnine);
 - pogodbenih obveznosti za projekte medinstitucionalne pomoči tretjim državam, ki jih financira EU;

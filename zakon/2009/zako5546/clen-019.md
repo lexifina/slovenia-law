@@ -6,6 +6,7 @@
 1. najemne oziroma zakupne pogodbe, če na podlagi teh pogodb lastninska pravica preide oziroma lahko preide z najemodajalca na najemnika, kar se šteje kot investicijski odhodek;
 2. pogodbe za dobavo elektrike, telefona, vode, komunalnih storitev in drugih storitev, potrebnih za operativno delovanje neposrednih uporabnikov;
 3. pogodbe za nabavo blaga in storitev, ki so potrebni za izvajanje upravnih nalog v upravnih enotah (tiskovine in drugi javni dokumenti);
-4. pogodbe, ki se financirajo iz predpristopnih pomoči, popristopnih pomoči, namenskih sredstev EU in sredstev drugih donatorjev ter pripadajočih postavk slovenske udeležbe.
+4. pogodbe, s katerimi se dogovori plačilo zapadlih in neporavnanih terjatev, če so nastale v preteklih letih iz naslova opravljanja gospodarske javne službe;
+5. pogodbe, ki se financirajo iz predpristopnih pomoči, popristopnih pomoči, namenskih sredstev EU in sredstev drugih donatorjev ter pripadajočih postavk slovenske udeležbe.
 (5) Ne glede na prvi in drugi odstavek tega člena prevzemanje obveznosti v letih 2010 do 2015 za temeljne razvojne programe Slovenske vojske ureja poseben zakon.
 (6) O prevzemanju obveznosti po pogodbah o najemu iz 1. točke četrtega odstavka tega člena, ki jih sklepajo neposredni uporabniki državnega proračuna pri katerih lastninska pravica preide ali lahko preide z najemodajalca na najemnika, odloča vlada. Neposredni uporabniki občinskih proračunov morajo pred prevzemom navedenih obveznosti pridobiti soglasje ministrstva, pristojnega za finance.
