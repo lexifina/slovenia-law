@@ -1,0 +1,2 @@
+# 1.b člen
+Za državljana Republike Slovenije, ki je bil izbrisan iz registra stalnega prebivalstva, kasneje pa je bil sprejet v državljanstvo Republike Slovenije, ne da bi mu bilo pred tem izdano dovoljenje za stalno prebivanje, se šteje, da je imel v Republiki Sloveniji dovoljenje za stalno prebivanje in prijavljeno stalno prebivališče, na naslovu, na katerem je bil prijavljen ob izbrisu iz registra stalnega prebivalstva, v času od izbrisa iz registra stalnega prebivalstva do pridobitve državljanstva Republike Slovenije, o čemer se mu na prošnjo izda posebna odločba.

@@ -1,0 +1,5 @@
+# 8. člen
+Prošnja za izdajo dovoljenja za stalno prebivanje tujcu po prvem odstavku 1. člena zakona se vloži v roku treh let od uveljavitve tega zakona. Tujec, kateremu je bila prošnja za sprejem v državljanstvo Republike Slovenije po 40. členu Zakona o državljanstvu Republike Slovenije (Uradni list RS, št. 24/07 - uradno prečiščeno besedilo) zavrnjena, zavržena ali je bil postopek ustavljen, lahko vloži prošnjo za izdajo dovoljenja za stalno prebivanje po prvem odstavku 1. člena zakona v roku treh let od uveljavitve tega zakona oziroma od dokončnosti odločbe ali sklepa, če postane odločba ali sklep dokončen po uveljavitvi tega zakona.
+Prošnja za izdajo odločbe tujcu po tretjem odstavku 1. člena zakona se lahko vloži v roku treh let od uveljavitve tega zakona.
+Prošnja za izdajo dovoljenja za stalno prebivanje otroku po prvem odstavku 1.a člena zakona in za izdajo odločbe otroku po tretjem odstavku 1.a člena zakona se lahko vloži v roku treh let od uveljavitve tega zakona oziroma do njegovega 21. leta starosti, če je ta rok daljši.
+Oseba iz 1.b člena zakona lahko prošnjo za izdajo odločbe vloži v roku treh let od uveljavitve tega zakona.
