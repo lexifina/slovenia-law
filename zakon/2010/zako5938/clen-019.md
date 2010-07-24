@@ -1,0 +1,2 @@
+# 19. člen
+Določbe 10. člena tega zakona se začnejo uporabljati s 1. januarjem 2011. Do roka iz prejšnjega stavka morajo uporabniki proračuna, s soglasjem pristojnega ministra, iz nabora delovnih mest v veljavnih kolektivnih pogodbah oziroma drugih aktov iz 13. člena zakona, v internih aktih določiti delovna mesta, na katerih se opravlja dežurstvo. Predlog akta o določitvi delovnih mest, na katerih se opravlja dežurstvo, je potrebno predhodno posredovati v mnenje reprezentativnemu sindikatu.

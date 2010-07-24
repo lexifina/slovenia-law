@@ -1,0 +1,5 @@
+# 8. člen
+V 23. členu se doda nov četrti odstavek, ki se glasi:
+"(4) Ne glede na določilo prvega odstavka tega člena ravnateljem, direktorjem in tajnikom ne pripadajo: položajni dodatek, dodatki za manj ugodne delovne pogoje, dodatki za nevarnost in posebne obremenitve ter dodatki za delo v manj ugodnem delovnem času. Direktorji javnih zavodov, ki hkrati opravljajo tudi delo v svojem osnovnem poklicu, lahko izjemoma, s soglasjem pristojnega ministra oziroma rektorja, zaradi nemotenega opravljanja dejavnosti, opravljajo tudi delo preko polnega delovnega časa, delo v dežurstvu in stalni pripravljenosti. Za ta čas jim pripada plača in dodatki za delo v manj ugodnem delovnem času glede na delovno mesto, na katerem se tako delo opravlja.".
+V dosedanjem petem odstavku, ki postane šesti odstavek, se črta besedilo "in drugega". Doda se nov stavek, ki se glasi: "V primeru, da je javni uslužbenec oziroma funkcionar zaposlen za krajši delovni čas od polnega, mu dodatki, ki so določeni v nominalnem znesku, pripadajo v ustreznem deležu glede na delovni čas zaposlitve.".
+Dosedanji četrti odstavek postane peti odstavek.
