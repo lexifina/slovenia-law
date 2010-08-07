@@ -1,0 +1,5 @@
+# 2. člen (namen ustanovitve Agencije za javno naročanje)
+(1) Agencija za javno naročanje je oseba javnega prava, ki jo ustanovi Republika Slovenija.
+(2) Namen Agencije za javno naročanje je opravljanje strokovnih, razvojnih in izvršilnih nalog v zvezi s sistemom in izvajanjem javnih naročil. Agencija za javno naročanje opravlja tudi druge naloge, vezane na spodbujanje razvoja sistema javnega naročanja, prenos dobrih praks, skladno z namenom, določenim v ustanovitvenem aktu.
+(3) Agencija za javno naročanje opravlja s tem zakonom določene naloge v javnem interesu z namenom, da zagotovi trajne pogoje za razvoj področja javnega naročanja ter strokovno in neodvisno oddaja javna naročila, ki presegajo mejne vrednosti, ki jih je potrebno objaviti v Uradnem listu Evropske unije, skupna javna naročila in naročila po pooblastilu.
+(4) Za vprašanja, ki s tem zakonom niso urejena, se uporabljajo določbe zakona, ki ureja javne agencije, zakona, ki ureja javno naročanje ter zakona, ki ureja javno naročanje na energetskem, vodnem, transportnem področju in področju poštnih storitev.
