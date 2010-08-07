@@ -1,4 +1,0 @@
-# 8. člen
-Četrti odstavek 24. člena se spremeni tako, da se glasi:
-"(4) Organ zavrne vlogo za izdajo dovoljenja osebi, ki je dovoljenje že imela, pa ji je bilo odvzeto skladno z določbami tega člena ali ki je bila kaznovana v skladu z 11. točko 26. člena tega zakona. Organ zavrne vlogo tudi osebi, katere odgovorna oseba je bila pravnomočno obsojena za kaznivo dejanje goljufije oziroma oderuštva in osebi, katere odgovorna oseba je bila kaznovana v skladu s 1., 2., 3., 4., 5., 6., 7., 11. in 12. točko prvega odstavka 26. člena ter 1. točko prvega odstavka 26.a člena tega zakona.".
-V šestem odstavku se prvi stavek spremeni, tako da se glasi: "Organ lahko ob pozneje ugotovljenem neizpolnjevanju pogojev iz prvega odstavka tega člena in kršitev iz 1., 2., 3., 4., 5., 6., 7. in 11. točke prvega odstavka 26. člena ter 1. točke prvega odstavka 26.a člena tega zakona na predlog organa tržne inšpekcije ali organizacije za varstvo potrošnikov imetniku odvzame dovoljenje.".
