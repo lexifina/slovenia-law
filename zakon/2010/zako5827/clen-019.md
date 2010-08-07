@@ -1,0 +1,11 @@
+# 19. člen (predčasno odplačilo)
+(1) Potrošnik ima pravico, da kadar koli v celoti ali delno izpolni svoje obveznosti po kreditni pogodbi. V tem primeru je upravičen do zmanjšanja skupnih stroškov kredita v delu, ki ga sestavljajo obresti in stroški preostalega obdobja trajanja pogodbe, tako da se od zneska sedanje vrednosti obveznosti predčasnega plačila (diskontirane) kredita odšteje sedanja vrednost (valorizirana) pogodbenih obresti, vključno z morebitnimi stroški, ki bi tekle od dneva predčasnega plačila do dneva zapadlosti plačila po pogodbi, če so bili pogodbene obresti in stroški za to obdobje že obračunani in zajeti v plačila, ki jih je plačal potrošnik. Dajalec kredita mora potrošniku na razumljiv način predstaviti zmanjšanje obresti in drugih stroškov, ki bi nastalo s celotnim ali delnim predčasnim odplačilom kredita. Dogovorjena določila o obrestni meri se ne smejo spremeniti v škodo potrošnika.
+(2) Pri predčasnem odplačilu kredita je dajalec kredita upravičen do pravičnega nadomestila morebitnih stroškov, ki so neposredno povezani s predčasnim odplačilom kredita, če se predčasno odplačilo izvede za obdobje, za katero je bila določena fiksna kreditna obrestna mera.
+(3) Nadomestilo ne sme presegati 1% zneska predčasno odplačane glavnice, če potrošnik predčasno odplača kredit več kot eno leto pred končno dospelostjo kreditne pogodbe. Če je do končne dospelosti kreditne pogodbe eno leto ali manj kot eno leto, nadomestilo ne sme presegati 0,5% zneska predčasno odplačane glavnice.
+(4) Nadomestilo lahko dajalec kredita zahteva pod pogojem, da vsota predčasnih odplačil v 12 mesecih presega 10.000 eurov.
+(5) Nadomestila za predčasno odplačilo dajalec kredita ne sme zahtevati, če:
+1. se je odplačilo opravilo po zavarovalni pogodbi, ki zagotavlja jamstvo za odplačilo kredita;
+2. gre za kreditne pogodbe z dovoljeno prekoračitvijo stanja na plačilnem računu;
+3. se predčasno odplačilo opravi v obdobju, za katero ni določena fiksna kreditna obrestna mera;
+4. so v pogodbi nepopolne informacije o trajanju kreditne pogodbe, pravici do odstopa od pogodbe brez navedbe razloga ali izračunu nadomestila za predčasno odplačilo.
+(6) Nadomestilo za predčasno odplačilo ne sme presegati zneska obresti, ki bi jih potrošnik plačal v obdobju med predčasnim odplačilom in dogovorjenim datumom prenehanja trajanja kreditne pogodbe.

@@ -1,0 +1,4 @@
+# 11. člen (spremembe kreditne obrestne mere in stroškov)
+(1) Če je dogovorjena spremenljiva obrestna mera za celotno ali posamezno obdobje trajanja kreditne pogodbe, mora dajalec kredita pisno na papirju ali drugem trajnem nosilcu podatkov potrošnika brezplačno obvestiti o spremembi kreditne obrestne mere pred začetkom veljavnosti spremembe. V obvestilu se navedejo znesek odplačil od začetka veljavnosti nove kreditne obrestne mere ter morebitne spremembe števila in pogostnosti odplačil.
+(2) Ne glede na prejšnji odstavek se obvestilo o spremembi kreditne obrestne mere potrošniku pošilja periodično, če je sprememba posledica spremembe referenčne obrestne mere, nova referenčna obrestna mera pa je javno objavljena in dostopna v poslovnih prostorih dajalca kredita, v katerih se sklepajo kreditne pogodbe.
+(3) Če v kreditni pogodbi ni navedeno, pod katerimi pogoji se obrestne mere ali stroški lahko spremenijo, jih dajalec kredita ne sme spreminjati v škodo potrošnika.
