@@ -1,0 +1,2 @@
+# 10. člen (primarni register)
+Za proračunske uporabnike, ki pridobijo pravno sposobnost neposredno na podlagi zakona ali drugega ustanovitvenega akta, objavljenega v Uradnem listu Republike Slovenije in se ne registrirajo pri nobenem drugem registrskem organu ter za proračune in upravljavce sredstev sistema enotnega zakladniškega računa je register proračunskih uporabnikov primarni register oziroma UJP registrski organ.

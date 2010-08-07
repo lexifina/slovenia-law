@@ -1,0 +1,2 @@
+# 25. člen (prepoved odpiranja plačilnih in transakcijskih računov ter opravljanja plačilnih storitev izven sistema enotnega zakladniškega računa)
+Proračunski uporabnik, ki je vključen v sistem enotnega zakladniškega računa, ne sme odpirati plačilnih in transakcijskih računov pri drugih ponudnikih plačilnih storitev ter opravljati plačilnih storitev izven sistema enotnega zakladniškega računa, razen če ta zakon ali drugi predpisi določajo drugače.

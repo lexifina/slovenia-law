@@ -1,0 +1,4 @@
+# 17. člen (izključitev iz registra proračunskih uporabnikov)
+(1) UJP izvede postopek izključitve iz registra proračunskih uporabnikov na podlagi prijave proračunskega uporabnika oziroma njegovega ustanovitelja, pravnega naslednika ali po uradni dolžnosti.
+(2) Pravna oseba, ki ima pravni interes za prenehanje statusa proračunskega uporabnika, mora najpozneje v petih delovnih dneh od začetka veljavnosti akta o statusnem preoblikovanju oziroma akta o izbrisu iz primarnega registra o tem obvestiti UJP ter predložiti zahtevano dokumentacijo za izključitev iz registra proračunskih uporabnikov.
+(3) UJP ob upoštevanju meril, določenih v zakonu, ki ureja javne finance, in predpisih ministra, pristojnega za finance, izda odločbo o zavrnitvi vloge za izključitev ali odločbo o izključitvi iz registra proračunskih uporabnikov. Zoper to odločbo je dovoljena pritožba, ki se vloži pri UJP v 15 dneh od vročitve odločbe. O pritožbi odloča ministrstvo, pristojno za finance.
