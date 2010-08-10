@@ -1,3 +1,0 @@
-# 7. člen (načrt gospodarjenja s posameznimi mineralnimi surovinami)
-Načrt gospodarjenja s posameznimi mineralnimi surovinami je sestavljen iz pisnega in grafičnega dela in vsebuje opis in ovrednotenje razširjenosti, raziskanosti, izkoriščenosti posameznih mineralnih surovin, ter evidentiranje zalog in potreb po posameznih mineralnih surovinah na posameznem območju, razdelavo ciljev in ukrepov iz državnega programa po posameznih mineralnih surovinah na posameznih območjih.
-Podrobnejšo vsebino in sestavine načrta gospodarjenja s posameznimi mineralnimi surovinami predpiše minister, pristojen za rudarstvo.

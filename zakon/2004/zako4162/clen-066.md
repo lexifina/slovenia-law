@@ -1,2 +1,0 @@
-# 66. člen (izdelava rudarskih projektov)
-Rudarske projekte lahko izdeluje gospodarska družba oziroma samostojni podjetnik posameznik (v nadaljnjem besedilu: projektant), če ima gospodarska družba v sodni register vpisano, samostojni podjetnik posameznik pa pri davčni upravi priglašeno dejavnost projektiranja in drugih rudarskih in inženirskih storitev s področja rudarstva in geotehnologije. Enaki pogoji veljajo tudi za revizijo rudarskih projektov.

@@ -1,3 +1,0 @@
-# 32. člen (opredelitev)
-Zaradi zagotovitve izvajanja rudarske pravice po tem zakonu je lastnik ali uporabnik zemljišča na ali pod katerim se nahaja mineralna surovina in lastnik ali uporabnik pristopnega zemljišča iz 29. točke 2. člena tega zakona, dolžan trpeti omejitve svojih pravic, skladno z določbami tega zakona.
-Zaradi razlogov iz prejšnjega odstavka se lahko lastninska ali druga stvarna pravica na zemljišču iz prejšnjega odstavka ali druge nepremičnine v javno korist odvzame ali omeji v primerih in pod pogoji, ki jih določa ta zakon ter na način in po postopku, ki ga določa zakon, ki ureja razlastitev.

@@ -1,7 +1,0 @@
-# 44. člen (opravljanje strokovnih nalog s področja varnosti in zdravja pri delu)
-Vsak izvajalec rudarskih del mora zagotoviti izvajanje in nadzorstvo nad izvajanjem tehničnih predpisov in predpisov s področja varnosti in zdravja pri delu.
-Izvajalec podzemskih rudarskih del mora obvezno organizirati službo za varnost pri delu ter zagotoviti, da naloge zdravstvenega varstva pri delu opravlja pooblaščeni zdravnik.
-Vodja službe za varnost pri delu iz drugega odstavka tega člena je lahko le oseba z univerzitetno izobrazbo rudarske, geotehnološke ali vrsti podzemnih del ustrezne smeri, vodja službe za varnost pri delu pri podzemnem raziskovanju in izkoriščanju mineralnih surovin pa je lahko le oseba z univerzitetno izobrazbo rudarske smeri.
-Strokovne naloge s področja varnosti pri delu, ki potekajo pri izvajanju rudarskih del lahko opravlja oseba, ki izpolnjuje pogoje, določene s tem zakonom za tehničnega vodjo rudarskih del.
-Vsak izvajalec rudarskih del mora pred pričetkom del izdelati splošni akt o varnosti in zdravju pri delu, s katerim oceni tveganje za nastanek poškodb in zdravstvenih okvar delavca ter določi način in ukrepe za zagotavljanje varnosti in zdravja pri delu v rudarstvu ter ga dopolnjevati ob vsaki spremembi ravni tveganja.
-Podrobnejšo vsebino in način izdelave splošnega akta iz prejšnjega odstavka predpiše minister, pristojen za rudarstvo, v soglasju z ministrom, pristojnim za delo.

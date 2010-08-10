@@ -1,2 +1,0 @@
-# 22. člen (pravica na istem prostoru)
-Rudarska pravica za raziskovanje oziroma izkoriščanje mineralne surovine se sme podeliti tudi za prostor, za katerega je že podeljena rudarska pravica, če se raziskovanje oziroma izkoriščanje nanaša na mineralne surovine, ki jih obstoječi nosilec rudarske pravice ne raziskuje ali ne izkorišča, in če dodatna rudarska pravica na istem raziskovalno-pridobivalnem prostoru ne bo ovirala obstoječega izkoriščanja mineralnih surovin.

@@ -1,2 +1,0 @@
-# 46. člen (pooblastila)
-Tehnično vodenje iz prejšnjega člena zajema vsa pooblastila, ki so določena s tehničnimi predpisi in predpisi o varnosti in zdravju pri delu in jih odgovorna oseba izvajalca uporablja za tehnično pravilno in varno izvajanje del po odobreni rudarski projektni dokumentaciji znotraj rudnika ter pri izvajanju drugih rudarskih del. Tehnično nadzorstvo znotraj rudnika in pri izvajanju drugih rudarskih del pa zajema le pooblastila za tehnično pravilno izvajanje del po odobreni projektni dokumentaciji.

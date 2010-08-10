@@ -1,7 +1,0 @@
-# 60. člen (sanacija okolja in odprava posledic)
-Po pridobitvi dovoljenja za opustitev izkoriščanja mineralnih surovin iz 48. člena tega zakona mora nosilec rudarske pravice izvesti dokončno sanacijo okolja in odpraviti posledice, ki so nastale pri izvajanju rudarskih del.
-Tudi izvajalec ostalih rudarskih del, ki jih opredeljuje ta zakon, je dolžan izvršiti dokončno sanacijo okolja in odpraviti posledice, ki so nastale pri izvajanju rudarskih del.
-Na območjih, kjer posledic ni mogoče v celoti sanirati oziroma odpraviti, je izvajalec dolžan izvesti ukrepe zavarovanja, da se izključi nevarnost za zdravje ali življenje ljudi in živali ter možni povzročitelji onesnaževanja okolja oziroma predvidljive škode na objektih in okolju.
-O izvedenih delih iz prvega, drugega in tretjega odstavka tega člena mora izvajalec obvestiti ministrstvo, pristojno za rudarstvo, ali upravno enoto, ki je izdala dovoljenje za opustitev izkoriščanja in rudarsko inšpekcijo.
-Ministrstvo, pristojno za rudarstvo ali upravna enota, ki je izdala dovoljenje za opustitev izkoriščanja, izvede na podlagi obvestila iz prejšnjega odstavka tehnični pregled, s katerim ugotovi, ali je sanacija okolja izvršena v skladu z rudarskim projektom in ali izvedeni ukrepi iz tretjega odstavka tega člena zadoščajo. Rudarski projekt je ustrezen in edini dokument za sanacijo okolja, kolikor gre za dela iz 4. člena tega zakona.
-Pri tehničnem pregledu iz prejšnjega odstavka sodeluje tudi predstavnik ministrstva, pristojnega za okolje in prostor.

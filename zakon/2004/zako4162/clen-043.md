@@ -1,7 +1,0 @@
-# 43. člen (reševalna služba, obveščanje in vodenje akcije reševanja)
-Izvajalec, ki izvaja podzemna rudarska dela ali dela v ognje in eksplozijsko nevarnih obratih ali dela, pri katerih lahko nastanejo strupeni plini, pare ali nevarnosti vdorov plina, vode in mulja, mora organizirati reševalno službo. Več izvajalcev lahko organizira skupno reševalno službo. Površinski rudniki morajo organizirati reševalno službo v primeru, če je narava njihovega dela takšna, da ni mogoče uspešno izvajati reševanja s civilnimi reševalnimi službami.
-Vsak delavec je dolžan takoj obvestiti nadrejenega o vsakem pojavu nevarnosti, še posebej o pojavih eksplozivnih, zadušljivih, strupenih plinov, vdorih vode, mulja, blata, hribinskih udarih in plazovih, nastalih previsih, nestabilnih brežinah, zatajenih razstrelnih sredstvih in o drugih nastalih nevarnostih, ki lahko ogrozijo zaposlene, objekte in naprave.
-O vseh nevarnih pojavih iz prejšnjega odstavka tega člena, je odgovorna oseba izvajalca del dolžna takoj obvestiti rudarsko inšpekcijo.
-V primeru pojava nevarnosti, in ko je ogrožena varnost zaposlenih, objektov in naprav pri izvajanju rudarskih del, vodi akcijo reševanja odgovorna oseba, določena s splošnim aktom izvajalca.
-Rudarski inšpektor lahko odredi za vodenje akcije reševanja drugo odgovorno osebo ali prevzame vodenje akcije sam, če ugotovi, da vodenje akcije ni dovolj strokovno in učinkovito.
-Izvajanje opravil in način organiziranja in delovanja reševalne službe predpiše minister, pristojen za rudarstvo.

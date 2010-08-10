@@ -1,2 +1,0 @@
-# 26. člen (druga vprašanja rudarske pravice)
-Za pridobivanje in izbor nosilcev rudarske pravice, za javni razpis, za vprašanja v zvezi s koncesijsko pogodbo, za varstvo nosilca rudarske pravice in reševanje sporov, za prenehanje razmerja iz pogodbe o podelitvi rudarske pravice in za prenos rudarske pravice, se smiselno uporabljajo določbe zakona, ki ureja koncesijo na naravni dobrini, če s tem zakonom ni drugače določeno.
