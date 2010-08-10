@@ -1,6 +1,0 @@
-# 19. člen
-Za 90. členom se doda nov 90.a člen, ki se glasi:
-"90.a člen
-(zakonita hipoteka)
-Republika Slovenija ima v zavarovanje svoje terjatve iz naslova stroškov, nastalih v zvezi z izpolnitvijo inšpekcijskih ukrepov, ki se nanašajo na izvajanje sanacijskih del, odpravo posledic rudarjenja ali izvedbo potrebnih ukrepov zavarovanja, do celotnega poplačila zakonito hipoteko na nepremičninah zavezanca znotraj pridobivalnega prostora, ki so predmet sanacije, odprave posledic rudarjenja ali izvedbe potrebnih ukrepov zavarovanja.
-Vse odločbe, sodbe in druge izvršljive akte, ki so podlaga za terjatve iz prejšnjega odstavka, pristojni organi pošljejo pristojnemu sodišču, ki zakonito hipoteko v zemljiško knjigo vpiše po uradni dolžnosti.".
