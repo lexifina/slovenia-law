@@ -1,2 +1,2 @@
 ZAKON
-O PORAČUNAVANJU FINANČNIH OBVEZNOSTI REPUBLIKE SLOVENIJE IZ POKOJNINSKEGA IN INVALIDSKEGA ZAVAROVANJA (ZPFOPIZ)
+o poračunavanju finančnih obveznosti Republike Slovenije iz pokojninskega in invalidskega zavarovanja (ZPFOPIZ)
