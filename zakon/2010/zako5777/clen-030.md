@@ -1,0 +1,7 @@
+# 30. člen
+167. člen se spremeni tako, da se glasi:
+"167. člen
+(vzdrževanje usposobljenosti)
+(1) Agencija zaradi ohranjanja ustrezne strokovne usposobljenosti zaposlenih v agenciji (v nadaljnjem besedilu: uradne osebe agencije) zagotavlja njihovo stalno strokovno izpopolnjevanje in vzdrževanje izurjenosti.
+(2) Letalski nadzorniki zaradi vzdrževanja potrebnega znanja in izurjenosti lahko opravljajo določena strokovna dela v okviru svoje strokovne usposobljenosti v letalski stroki s pisnim soglasjem direktorja agencije, vendar pri osebi, pri kateri opravljajo ta strokovna dela, praviloma ne opravljajo letalskega nadzora.
+(3) Na zahtevo agencije mora vložnik zahteve za vpis novega tipa zrakoplova v Register zrakoplovov Republike Slovenije oziroma vpis novega tipa zrakoplova v spričevalo letalskega prevoznika in v podobnih primerih zagotoviti ustrezno usposabljanje za letalske nadzornike, ki je potrebno za izvajanje nadzora nad tem tipom zrakoplova.".

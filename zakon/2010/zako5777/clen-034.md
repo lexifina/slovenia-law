@@ -1,0 +1,6 @@
+# 34. člen
+Za 169. členom se doda nov 169.a člen, ki se glasi:
+"169.a člen
+(postopkovne določbe)
+(1) Odločba organa ali uradne osebe organa, ki se izda v postopku ugotovitve kršitve letalskih predpisov s strani letalskega prevoznika, ki ni registriran v Republiki Sloveniji, se šteje za vročeno, če in ko se fizično izroči vodji zrakoplova letalskega prevoznika, ki je v prekrškovnem postopku. Če to ni mogoče, se izroči kateremukoli drugemu članu posadke ali ob ustnem opozorilu o vročitvi pusti na vidnem mestu na krovu zrakoplova.
+(2) Če zavezanec ne izpolni obveznosti ali pogojev iz 170. člena tega zakona, se listina začasno prekliče do vzpostavitve predpisanega nadzora oziroma do izteka njene veljavnosti. Listino prekliče organ, ki jo je izdal. Imetnik listine, katere veljavnost je začasno preklicana, mora listino v naloženem roku vrniti organu, ki je listino izdal.".

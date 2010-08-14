@@ -1,0 +1,3 @@
+# 10. člen
+V 2. točki tretjega odstavka 51. člena, drugem in četrtem odstavku 114. člena, 10. točki prvega odstavka 181. člena, 1. točki 203. člena in prvem odstavku 214. člena se besedilo "letalski inšpektor" in "inšpektor" v različnih sklonih in številu nadomesti z besedilom "letalski nadzornik" v ustreznem sklonu in številu.
+V četrtem odstavku 112. člena se besedilo "letalski inšpektor" nadomesti z besedilom "letalski nadzornik oziroma nadzornik", v 1., 2. in 3. točki prvega odstavka 194. člena pa se beseda "inšpektor" v različnih sklonih nadomesti z besedilom "uradna oseba agencije" v ustreznem sklonu.
