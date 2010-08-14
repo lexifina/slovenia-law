@@ -1,2 +1,2 @@
 ZAKON
-O ŠOLSKI PREHRANI (ZŠolPre)
+o šolski prehrani (ZŠolPre)

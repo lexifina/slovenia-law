@@ -1,3 +1,0 @@
-# 33. člen (cena malice in višina subvencije za malico na dan uveljavitve zakona)
-(1) Ne glede na določbo 14. člena tega zakona se cena malice z dnem uveljavitve tega zakona določi s tem zakonom in znaša v osnovni šoli 0,80 eura in v srednji šoli 2,42 eura.
-(2) Ne glede na določbe sedmega odstavka 15. člena tega zakona se višina splošne subvencije z dnem uveljavitve tega zakona določi s tem zakonom in znaša v osnovni šoli 0,50 eura in v srednji šoli 1,60 eura, višina dodatne subvencije pa znaša v osnovni šoli 0,30 eura in v srednji šoli, v primerih, ko znaša dohodek na družinskega člana do 30% povprečne plače, 0,82 eura, v primerih, ko znaša dohodek na družinskega člana nad 30% do 55% povprečne plače, pa 0,41 eura.
