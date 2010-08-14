@@ -31,6 +31,6 @@
 - o občini šole (šifra občine šole),
 - o bivanju v času šolanja (v domu, pri sorodnikih, v najemniškem stanovanju, doma, vozač, v tujini),
 - o štipendiji, dodatkih v enkratnem znesku in višini zneska.
-(2) Evidenco štipendistov, prejemnikov državnih štipendij, vodijo centri za socialno delo, evidenco štipendistov, prejemnikov Zoisovih štipendij ter štipendistov Slovencev v zamejstvu in Slovencev po svetu, pa vodi sklad.
+(2) Evidenco štipendistov, prejemnikov državnih štipendij, vodijo centri za socialno delo, evidenco štipendistov, prejemnikov Zoisovih štipendij ter štipendistov Slovencev v zamejstvu in Slovencev po svetu, pa vodi sklad. (delno prenehal veljati)
 (3) Evidenco kadrovskih štipendistov, za katere kadrovsko štipendijo sofinancira sklad neposredno delodajalcu, vodi sklad.
 (4) Evidenco kadrovskih štipendistov, za katere so kadrovske štipendije sofinancirane v okviru enotnih regijskih štipendijskih shem oziroma samoupravnih lokalnih skupnosti, vodijo nosilci enotnih regijskih štipendijskih shem oziroma samoupravne lokalne skupnosti.

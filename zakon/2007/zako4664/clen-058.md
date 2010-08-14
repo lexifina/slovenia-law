@@ -1,6 +1,6 @@
 # 58. člen (dolžnost sporočanja podatkov)
 (1) Podatki po tem zakonu se zbirajo neposredno od štipendistov, štipenditorjev ter iz drugih uradnih zbirk osebnih podatkov, ki jih v Republiki Sloveniji vodijo za to pooblaščeni organi in organizacije.
-(2) Ministrstvo, pristojno za delo, sklad, pristojni centri za socialno delo, delodajalci ter nosilci enotnih regijskih štipendijskih shem in samoupravne lokalne skupnosti brezplačno in po uradni dolžnosti pridobivajo osebne podatke iz obstoječih zbirk osebnih podatkov od naslednjih upravljavcev:
+(2) Ministrstvo, pristojno za delo, sklad, pristojni centri za socialno delo, delodajalci ter nosilci enotnih regijskih štipendijskih shem in samoupravne lokalne skupnosti brezplačno in po uradni dolžnosti pridobivajo osebne podatke iz obstoječih zbirk osebnih podatkov od naslednjih upravljavcev: (delno prenehal veljati)
 - Upravljavca centralnega registra prebivalstva - EMŠO in podatke o prebivališču,
 - izvajalcev izobraževalne dejavnosti - ime izobraževalnega programa in smer, način izobraževanja, vrsta in področje izobraževanja, letnik izobraževanja, uspeh, status,
 - Zavoda Republike Slovenije za zaposlovanje - podatke o vpisu v evidenco brezposelnih oseb, evidenco oseb, prijavljenih pri zavodu na podlagi drugih zakonov, evidenco brezposelnih oseb, ki jim po zakonu pravice mirujejo, evidenco štipendistov, evidenco oseb, ki so vključene v programe aktivne politike zaposlovanja, in o materialnih pravicah, ki izhajajo iz teh naslovov, za štipendista in njegove družinske člane,
