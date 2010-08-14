@@ -1,3 +1,4 @@
-# 167. člen (skupne določbe glede opravljanja nadzora)
-(1) Zaradi ohranjanja ustrezne strokovne usposobljenosti izvajalcev nadzora iz prejšnjega člena mora biti zagotovljeno njihovo stalno strokovno izpopolnjevanje.
-(2) Ne glede na predpise o javnih uslužbencih, lahko izvajalci iz prejšnjega odstavka, zaradi vzdrževanja potrebnih znanj in izurjenosti, opravljajo določena strokovna dela v okviru svoje strokovne usposobljenosti v letalski stroki s pisnim soglasjem ministra, pristojnega za promet, vendar pri osebi, pri kateri opravlja ta strokovna dela, praviloma ne opravljajo nadzora.
+# 167. člen (vzdrževanje usposobljenosti)
+(1) Agencija zaradi ohranjanja ustrezne strokovne usposobljenosti zaposlenih v agenciji (v nadaljnjem besedilu: uradne osebe agencije) zagotavlja njihovo stalno strokovno izpopolnjevanje in vzdrževanje izurjenosti.
+(2) Letalski nadzorniki zaradi vzdrževanja potrebnega znanja in izurjenosti lahko opravljajo določena strokovna dela v okviru svoje strokovne usposobljenosti v letalski stroki s pisnim soglasjem direktorja agencije, vendar pri osebi, pri kateri opravljajo ta strokovna dela, praviloma ne opravljajo letalskega nadzora.
+(3) Na zahtevo agencije mora vložnik zahteve za vpis novega tipa zrakoplova v Register zrakoplovov Republike Slovenije oziroma vpis novega tipa zrakoplova v spričevalo letalskega prevoznika in v podobnih primerih zagotoviti ustrezno usposabljanje za letalske nadzornike, ki je potrebno za izvajanje nadzora nad tem tipom zrakoplova.

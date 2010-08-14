@@ -1,4 +1,8 @@
 # 5. člen (urejanje civilnega letalstva)
-(1) Ministrstvo, pristojno za promet, ureja in nadzoruje letalstvo v skladu s tem zakonom in na njegovi podlagi izdanimi predpisi ter drugimi predpisi in pravnimi akti, ki veljajo oziroma se uporabljajo v Republiki Sloveniji na področju letalstva.
-(2) Ministrstvo, pristojno za promet, opravlja upravno-strokovne naloge, vključno z inšpekcijskimi, ter druge naloge na letalskem področju, razen nalog, za katere so pristojni organi Evropske unije.
-(3) Za posamezne naloge iz prejšnjega odstavka, razen inšpekcijskih, lahko minister, pristojen za promet, v skladu s predpisi, ki veljajo v Republiki Sloveniji, pooblasti za to usposobljene organizacije ali posameznike, če izpolnijo predpisane pogoje in če je zagotovljen ustrezen strokovni nadzor nad delom teh organizacij oziroma posameznikov.
+(1) Ministrstvo, pristojno za promet, ureja in nadzoruje civilno letalstvo v skladu s tem zakonom in na njegovi podlagi izdanimi predpisi ter drugimi predpisi in pravnimi akti, ki veljajo oziroma se uporabljajo v Republiki Sloveniji na področju civilnega letalstva.
+(2) Ne glede na določbe prejšnjega odstavka izdaja plovnostno-tehnične in operativno-tehnične zahteve, certifikacijske specifikacije ter sprejemljive načine skladnosti in navodila Javna agencija za civilno letalstvo Republike Slovenije (v nadaljnjem besedilu: agencija).
+(3) Ob upoštevanju mednarodnih standardov in priporočenih praks Mednarodne organizacije civilnega letalstva ter predpisov in pravnih aktov Evropske unije Vlada Republike Slovenije izda uredbo o sistemu upravljanja varnosti, s katero se določijo pristojnosti in odgovornosti za varnost civilnega letalstva, način doseganja sprejemljive ravni varnosti ter obveznosti izvajalcev posameznih dejavnosti v letalstvu glede:
+a) identificiranja varnostnih tveganj,
+b) zagotavljanja izvajanja takojšnjih ukrepov za ohranjanje sprejemljivega nivoja varnosti,
+c) izvajanja stalnega nadzora in rednega ocenjevanja dosežene ravni varnosti in
+d) doseganja stalnih izboljšav splošne ravni varnosti.

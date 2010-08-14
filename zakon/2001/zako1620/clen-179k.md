@@ -1,0 +1,5 @@
+# 179.k člen (nadzor nad delom agencije)
+(1) Agencija mora voditi ločene računovodske evidence po področjih svojega dela v skladu s predpisi o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti. Računovodske izkaze in poslovno poročilo agencije mora pregledati pooblaščeni revizor.
+(2) Agencija mora vsako leto pripraviti poročilo o delu in poslovno poročilo. K poročilu o delu in poslovnemu poročilu mora pridobiti soglasje vlade.
+(3) Agencija povzetek poročila o delu objavi na svojih spletnih straneh.
+(4) Za nadzor, ki ga nad zakonitostjo, učinkovitostjo in uspešnostjo dela agencije opravlja ministrstvo, pristojno za promet, se razen glede zahtev, ki jih morajo izpolnjevati osebe, ki izvajajo nadzor, smiselno uporabljajo določbe predpisov Evropske unije o načinu dela Evropske agencije za varnost v letalstvu pri opravljanju inšpekcijskih pregledov standardiziranja oziroma o določitvi postopkov za izvajanje inšpekcijskih pregledov Komisije na področju varovanja letalstva.

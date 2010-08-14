@@ -1,6 +1,6 @@
 ## 5.8. Ovire za zračni promet
 # 110. člen (lokacija ovir)
-(1) Ovire za zračni promet so v coni letališča oziroma v coni vzletišča ali zunaj nje. Cono letališča objavi ministrstvo, pristojno za promet na način, ki je običajen v zračnem prometu.
+(1) Ovire za zračni promet so v coni letališča oziroma v coni vzletišča ali zunaj nje. Cono letališča objavi agencija na način, ki je običajen v zračnem prometu.
 (2) Med ovire v coni letališča štejejo objekti, instalacije, naprave, drevje in zvišanje okoliškega terena, kakor tudi poglobitve terena za ceste, kanale in podobno.
 (3) Zunaj cone letališča, štejejo za ovire:
 1. v krogu s polmerom 10 kilometrov od referenčne točke letališča - objekti, instalacije in naprave, ki so višje kot 100 metrov ali višje kot 30 metrov, pa se nahajajo na terenu, ki je več kot 100 metrov višji od referenčne točke letališča;

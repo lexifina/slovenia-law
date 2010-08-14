@@ -1,10 +1,13 @@
-# 171. člen (ukrepi inšpektorja)
-(1) Po opravljenem inšpekcijskem nadzoru ima inšpektor pravico in dolžnost, da v primeru ugotovljenih kršitev zakona ali drugih predpisov, ki jih nadzoruje, uporabi poleg ukrepov po splošnih predpisih o Upravi, predvsem naslednje ukrepe:
-1. kršitelju z odločbo odredi, da z dejanjem ali z opustitvijo dejanja odpravi pomanjkljivosti ali nepravilnosti,
-2. začasno odvzame licenco, pooblastilo, potrdilo oziroma dovoljenje za delo ali drugo listino o ustreznosti,
-3. izreče prepoved izvršitve leta zrakoplova, če bi bila njegova izvršitev nevarna za zračni promet, ali če ugotovi da obvezna zavarovanja v prometu niso sklenjena ali krita v predpisani višini,
-4. izreče začasno prepoved opravljanja dela ali dejavnosti, če bi bilo nadaljnje opravljanje dela ali dejavnosti očitno nevarno za zračni promet,
-5. zahteva izredno preveritev strokovne ali zdravstvene sposobnosti letalskega osebja in drugega strokovnega osebja,
-6. odredi preizkus s sredstvi ali napravami za merjenje alkohola oziroma napoti na strokovni pregled,
-7. izda plačilni nalog za globo na kraju prekrška, v primerih, ki jih določa ta zakon ali uredba vlade, izdana na njegovi podlagi.
-(2) Odvzete listine mora inšpektor takoj poslati ministrstvu, pristojnemu za promet.
+# 171. člen (ukrepi uradnih oseb)
+(1) Pri letalskem nadzoru imata uradna oseba ministrstva, pristojnega za promet, in uradna oseba agencije, pristojni za izvajanje stalnega nadzora, nadzora nad izvajanjem letalskih predpisov in s temi predpisi povezanih prekrškovnih postopkov, poleg pooblastil inšpektorja, določenih s predpisi o inšpekcijskem nadzoru, tudi pravice in dolžnosti, da v primeru ugotovljenih neskladnosti s predpisanimi zahtevami ali kršitvami zakona ali drugih predpisov in pravnih aktov, ki jih nadzorujeta, uporabiti, poleg ukrepov po letalskih predpisih in pravnih aktih, ki veljajo oziroma se uporabljajo v Republiki Sloveniji, splošnih predpisih o upravi in inšpekcijskem nadzoru, naslednja pooblastila za ukrepanje:
+1. kršitelju z odločbo odrediti, da z dejanjem ali opustitvijo dejanja odpravi pomanjkljivosti ali nepravilnosti;
+2. zahtevati odvzem licence, pooblastila, potrdila oziroma dovoljenja za delo ali druge listine od organa, ki jo je izdal;
+3. izreči prepoved izvršitve leta zrakoplova, če bi bila izvršitev leta nevarna za zračni promet ali če se ugotovi, da obvezna zavarovanja v prometu niso sklenjena ali krita v predpisani višini, ali če upravičeno domneva, da zrakoplov ni ploven ali nima ustrezne posadke ali če drugače niso izpolnjene zahteve in pogoji, ki urejajo letenje;
+4. začasno ukiniti ali omejiti izdani certifikat, če bi bilo nadaljnje opravljanje dela ali dejavnosti očitno nevarno za zračni promet;
+5. zahtevati izredno preveritev strokovne ali zdravstvene sposobnosti letalskega osebja in drugega strokovnega osebja;
+6. odrediti preizkus s sredstvi ali napravami za merjenje alkohola in mamil oziroma napotiti na strokovni pregled;
+7. izreči prepoved nadaljevanja opravljanja dejavnosti oziroma aktivnosti, če se ugotovi, da niso izpolnjeni pogoji, določeni s predpisi in pravnimi akti, ki se porabljajo oziroma veljajo v Republiki Sloveniji, ali z odobrenimi priročniki oziroma izdanimi listinami;
+8. izdati odločbo o prekršku oziroma plačilni nalog v skladu s predpisi o prekrških, če so izpolnjeni pogoji po predpisih o prekrških;
+9. izreči drugi ukrep v skladu z letalskimi predpisi, ki veljajo oziroma se uporabljajo v Republiki Sloveniji.
+(2) Če uradna oseba ugotovi, da si je zavezanec pridobil s storitvijo kaznivega dejanja ali prekrška premoženjsko korist, pristojnemu sodišču predlaga njen odvzem.
+(3) Če uradna oseba pri opravljanju nalog nadzora ugotovi kršitev zakona ali drugega predpisa oziroma akta, katerega izvajanje nadzoruje druga inšpekcija, sama ugotovi dejansko stanje ter o svojih ugotovitvah sestavi zapisnik in ga posreduje pristojni inšpekciji.

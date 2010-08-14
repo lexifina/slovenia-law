@@ -1,0 +1,2 @@
+# 168.d člen (posledice, če kandidat ni izpolnil pogojev glede usposobljenosti uradne osebe)
+Kandidatu, ki v predpisanem roku iz prvega odstavka 168.a člena tega zakona iz razlogov, ki so na njegovi strani, ne izpolni pogojev glede usposobljenosti uradne osebe iz 168.b člena tega zakona, preneha delovno razmerje. Med razloge, ki so na strani letalskega nadzornika oziroma nadzornika, ne šteje opravičena odsotnost z dela zaradi bolezni oziroma druga odsotnost, daljša od enega meseca, v času, v katerem kandidat prejema nadomestilo plače v skladu z zakonom.

@@ -4,7 +4,7 @@
 2. kot letalski prevoznik ne vodi zapisov o času letenja, delovni obveznosti in počitkih letalskega in drugega strokovnega osebja (tretji odstavek 65. člena),
 3. kot letalski prevoznik izvaja strokovno usposabljanje letalskega in drugega strokovnega osebja brez izpolnitve predpisanih pogojev (prvi odstavek 77. člena),
 4. kot izvajalec opravlja letalsko dejavnost posebne vrste brez ustreznega posebnega dovoljenja (drugi odstavek 77. člena),
-5. kot uporabnik zrakoplova ne pridobi predhodne odobritve ministrstva, pristojnega za promet za zakup zrakoplova (tretji odstavek 77. člena),
+5. kot uporabnik zrakoplova ne pridobi predhodne odobritve agencije za zakup zrakoplova (tretji odstavek 77. člena),
 6. kot organizator letalske prireditve ali organizator letalskega tekmovanja ne pridobi posebnega dovoljenja za letalsko prireditev ali letalsko tekmovanje (peti odstavek 77. člena),
 7. kot tuj letalski prevoznik opravlja redni zračni prevoz v nasprotju z mednarodnim sporazumom ali posebnim dovoljenjem (prvi odstavek 81. člena),
 8. kot letalski prevoznik opravlja posebni zračni prevoz brez dovoljenja (drugi odstavek 81. člena),
