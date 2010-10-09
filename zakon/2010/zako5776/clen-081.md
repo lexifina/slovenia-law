@@ -1,0 +1,5 @@
+# 81. člen
+(1) Banka, ki 31. decembra 2010 ni usklajena z omejitvami za hibridne instrumente iz 4. točke prvega odstavka 133. člena zakona, določenimi v predpisu, ki ga na podlagi 2. točke 129. člena zakona sprejme Banka Slovenije, mora vzpostaviti in uresničevati primerne in učinkovite strategije in procese za uskladitev s predpisanimi omejitvami najkasneje do 31. decembra 2020.
+(2) Nadzor nad usklajevanjem iz prvega odstavka tega člena izvaja Banka Slovenije v skladu z 222. členom zakona.
+(3) Sestavine temeljnega kapitala iz 1. in 5. točke prvega odstavka 133. člena zakona, ki so se do 31. decembra 2010 upoštevale pri izračunu kapitala banke, vendar od začetka uporabe tega zakona ne izpolnjujejo meril za sestavine temeljnega kapitala, določenih v predpisu, ki ga na podlagi 2. točke 129. člena zakona sprejme Banka Slovenije, se do 31. decembra 2040 štejejo za hibridne instrumente iz 4. točke prvega odstavka 133. člena zakona.
+(4) Banka Slovenije predpiše način in obseg upoštevanja hibridnih instrumentov iz tretjega odstavka tega člena pri izračunu kapitala.

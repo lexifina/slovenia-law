@@ -1,0 +1,8 @@
+# 49. člen
+290. člen se spremeni tako, da se glasi:
+"290. člen
+(dodatne naloge nadzora na konsolidirani podlagi)
+Če je Banka Slovenije po 287. členu tega zakona kot konsolidacijski nadzorni organ pristojna in odgovorna za nadzor na konsolidirani podlagi EU nadrejene banke ali banke, ki jo obvladuje EU nadrejeni finančni holding, mora poleg splošnih nalog nadzora opravljati tudi naslednje naloge:
+1. usklajevati zbiranje in posredovanje ustreznih in nujnih informacij med nadzornimi organi, vključenimi v nadzor na konsolidirani podlagi v času rednega poslovanja in v izrednih finančnih razmerah;
+2. načrtovati in usklajevati izvajanje nadzora v času rednega poslovanja, vključno z izvajanjem 126., 207. do 209., 222., 242., 248. člena in poglavja 4.6 tega zakona, z drugimi nadzornimi organi, vključenimi v nadzor na konsolidirani podlagi;
+3. načrtovati in usklajevati izvajanje nadzora z drugimi nadzornimi organi, vključenimi v nadzor na konsolidirani podlagi, in po potrebi s centralnimi bankami pri pripravah na izredne finančne razmere in v izrednih finančnih razmerah, vključno z neugodnim razvojem v bankah ali na finančnih trgih, po možnosti z uporabo obstoječih načinov obveščanja zaradi učinkovitega kriznega upravljanja. Načrtovanje in usklajevanje nalog nadzora iz prejšnjega stavka vključuje ukrepe iz 248. člena tega zakona in vzpostavitev vsake omejitve za uporabo naprednega pristopa za izračun kapitalske zahteve za operativno tveganje, pripravo skupnih ocen, izvajanje kriznih načrtov in obveščanje javnosti.".

@@ -1,0 +1,2 @@
+# 86. člen
+V zvezi s pogojem iz 2. točke prvega odstavka 63. člena zakona se do izbrisa obsodb iz kazenske evidence za kazniva dejanja izdaje in neupravičene pridobitve poslovne tajnosti, izdaje uradne tajnosti in izdaje državne tajnosti, določena v 241., 266. in 359. člena Kazenska zakonika (Uradni list RS, št. 95/04 - uradno prečiščeno besedilo) uporabljajo določbe zakona, ki so veljale do uveljavitve tega zakona.

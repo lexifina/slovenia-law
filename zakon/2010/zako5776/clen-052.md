@@ -1,0 +1,8 @@
+# 52. člen
+292. člen se spremeni tako, da se glasi:
+"292. člen
+(obvestilo in informacije o izrednih finančnih razmerah)
+(1) Če znotraj bančne skupine, za katero je Banka Slovenije konsolidacijski nadzorni organ, nastopijo izredne finančne razmere, vključno z neugodnim razvojem na finančnih trgih, ki lahko ogrozijo likvidnost trga in stabilnost finančnega sistema v kateri koli državi članici družb ali pomembnih podružnic iz drugega odstavka 278. člena tega zakona, vključenih v to skupino, mora takoj, ko je to mogoče, posredovati obvestilo in informacije o tem nadzornim organom držav članic, udeleženim pri nadzoru te skupine, in naslednjim organom vsake od teh držav članic:
+1. centralnim bankam Evropskega sistema centralnih bank, kadar so informacije pomembne za opravljanje njihovih zakonsko predpisanih nalog, vključno z vodenjem monetarne politike in s tem povezanim zagotavljanjem likvidnosti, nadzorom plačil, klirinških sistemov in sistemov poravnave ter varovanjem stabilnosti finančnega sistema,
+2. ministrstvom, pristojnim za finance, oziroma državnim organom drugih držav članic, pristojnim za izvrševanje zakonov na področju nadzora nad kreditnimi institucijami, finančnimi institucijami, investicijskimi podjetji ali zavarovalnicami, kadar so informacije pomembne.
+(2) Če je kot konsolidacijski nadzorni organ za nadzor bančne skupine na konsolidirani podlagi pristojen nadzorni organ druge države članice, mora Banka Slovenije ob nastopu izrednih finančnih razmer iz prvega odstavka tega člena takoj, ko je to mogoče, o tem obvestiti druge nadzorne organe držav članic, ki so udeleženi pri nadzoru te bančne skupine na konsolidirani podlagi ali na konsolidirani podlagi na ravni podskupine.".

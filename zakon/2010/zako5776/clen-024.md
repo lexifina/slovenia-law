@@ -1,0 +1,8 @@
+# 24. člen
+Besedilo 165. člena se spremeni tako, da se glasi:
+"165. člen
+(največja dopustna izpostavljenost)
+(1) Izpostavljenost banke do posamezne osebe ali skupine povezanih oseb, zmanjšana za izvzetja in učinke kreditnih zavarovanj, ne sme presegati 25 odstotkov njenega kapitala.
+(2) Ne glede na prvi odstavek tega člena izpostavljenost banke do institucije ali skupine povezanih oseb, ki vključuje eno ali več institucij, ne sme presegati višjega izmed zneskov 25 odstotkov kapitala banke ali 100 milijonov eurov, pod pogojem, da vsota izpostavljenosti do vseh povezanih oseb v skupini, ki niso institucije, ne presega 25 odstotkov kapitala banke.
+(3) Izpostavljenost iz drugega odstavka tega člena, ki presega 25 odstotkov kapitala banke, ne sme presegati 100 odstotkov kapitala banke oziroma manjšega odstotka, ki ga določi banka z namenom obravnave, spremljanja in nadzora tveganja koncentracije, ob upoštevanju politik in procesov iz 188. člena tega zakona.
+(4) V posameznih primerih izpostavljenost banke iz drugega odstavka tega člena lahko preseže 100 odstotkov njenega kapitala, če pridobi dovoljenje Banke Slovenije, vendar izpostavljenost ne sme presegati zneska 100 milijonov eurov.".
