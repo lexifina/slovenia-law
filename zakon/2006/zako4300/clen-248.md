@@ -4,6 +4,7 @@
 2. naloži upravi banke in nadzornemu svetu, da skličeta skupščino delničarjev banke ter predlagata sprejem ustreznih sklepov, kot na primer:
 - sklep o povečanju osnovnega kapitala banke z novimi vložki,
 - sklep o povečanju osnovnega kapitala banke iz sredstev družbe,
+- sklep o pokrivanju izgube s finančnimi instrumenti, ki so za ta namen razpoložljivi v času rednega poslovanja,
 3. naloži nadzornemu svetu banke, da razreši člana oziroma člane uprave in imenuje novega člana oziroma člane uprave,
 4. prepove banki:
 - dajanje kreditov oziroma opravljanje bančnih storitev ali storitev iz prvega odstavka 41. člena tega zakona za določene osebe z neprimerno kreditno boniteto,

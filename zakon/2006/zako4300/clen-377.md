@@ -7,4 +7,4 @@
 (2) O zahtevi za izdajo drugih dovoljenj mora Banka Slovenije odločiti v treh mesecih od prejema zahteve.
 (3) Če je Banka Slovenije izdala sklep o odpravi pomanjkljivosti v roku iz šestega odstavka 374. člena tega zakona, rok iz prvega oziroma drugega odstavka tega člena ne teče od vročitve sklepa do izteka roka za odpravo pomanjkljivosti oziroma do prejema dopolnitve oziroma poprave vloge, če je ta dopolnjena v roku, določenem s sklepom.
 (4) Če je Banka Slovenije pred iztekom roka iz prvega odstavka tega člena po 376. členu tega zakona vložnika pozvala, da se izjasni o razlogih za zavrnitev zahteve, rok iz prvega oziroma drugega odstavka tega člena ne teče od vročitve poziva do izteka roka za izjavo oziroma do prejema izjave, če je bila ta posredovana v roku, določenem s pozivom.
-(5) Banka mora šest mesecev pred vložitvijo zahteve iz 3. točke prvega odstavka tega člena obvestiti Banko Slovenije o tej nameri.
+(5) Banka mora šest mesecev pred vložitvijo zahteve iz 3. točke prvega odstavka tega člena obvestiti Banko Slovenije o tej nameri, razen v postopku izdaje dovoljenj iz 134.a člena, četrtega odstavka 165. in tretjega odstavka 172. člena tega zakona.

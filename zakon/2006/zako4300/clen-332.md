@@ -9,3 +9,4 @@
 (5) Po izteku roka za izjavo stranka nima pravice navajati novih dejstev in predlagati novih dokazov.
 (6) Ne glede na prvi odstavek tega člena, Banka Slovenije pred izdajo odločbe o izredni upravi banki ni dolžna zagotoviti možnosti, da se izjavi, če je razlog za izredno upravo okoliščina, da je banka postala nelikvidna.
 (7) Določbe prvega do petega odstavka tega člena se ne uporabljajo za ugotovitvene odločbe Banke Slovenije.
+(8) V postopku izdaje odločbe iz prvega odstavka 320. člena tega zakona rok za izjavo iz 2. točke drugega odstavka tega člena ne sme biti daljši od treh delovnih dni.

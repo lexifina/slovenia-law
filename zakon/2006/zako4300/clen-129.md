@@ -1,9 +1,11 @@
 # 129. člen (predpisi o upravljanju s tveganji)
 Banka Slovenije predpiše:
-1. podrobnejša pravila o obsegu in načinu konsolidacije za namen izpolnjevanja obveznosti na konsolidirani podlagi,
+1. podrobnejša pravila o obsegu in načinu konsolidacije za namen izpolnjevanja obveznosti na konsolidirani podlagi ter pogojih za pridobitev dovoljenja iz sedmega odstavka 297. člena tega zakona,
 2. v zvezi z izračunom kapitala banke:
 - lastnosti in vrste sestavin, ki se upoštevajo pri izračunu kapitala za namen pokrivanja vseh ali posameznih kapitalskih zahtev,
 - razmerja in omejitve med posameznimi sestavinami pri izračunu kapitala za namen pokrivanja vseh ali posameznih kapitalskih zahtev,
+- podrobnejše pogoje za pridobitev dovoljenja iz 134.a člena tega zakona,
+- način in obdobje usklajevanja posameznih finančnih instrumentov iz 133. in 134. člena tega zakona z omejitvami pri izračunu kapitala za namen pokrivanja vseh ali posameznih kapitalskih zahtev,
 3. v zvezi z vrednotenjem postavk za izračun kapitalskih zahtev in omejitev:
 - podrobnejša pravila o vrednotenju teh postavk za namene vseh ali posameznih kapitalskih zahtev in omejitev,
 - način in obseg upoštevanja posameznih postavk pri izračunu posameznih vrst kapitalskih zahtev oziroma omejitev,
@@ -22,15 +24,23 @@ Banka Slovenije predpiše:
 6. v zvezi z izračunom kapitalske zahteve za operativno tveganje:
 - pogoje za uporabo standardiziranega oziroma naprednega pristopa in za kombinirano uporabo pristopov,
 - podrobnejša pravila o izračunu kapitalske zahteve za operativno tveganje z uporabo posameznih pristopov,
-7. v zvezi z velikimi izpostavljenostmi: podrobnejša pravila o izračunu izpostavljenosti ter o spremljanju in poročanju o velikih izpostavljenostih,
+7. v zvezi z velikimi izpostavljenostmi podrobnejša pravila o:
+- izračunu izpostavljenosti,
+- izvzetjih in upoštevanju učinkov kreditnih zavarovanj,
+- spremljanju izpostavljenosti,
+- ugotavljanju obstoja skupine povezanih oseb,
+- obravnavi velikih posrednih kreditnih izpostavljenosti,
+- pogojih za pridobitev dovoljenja iz četrtega odstavka 165. člena tega zakona,
 8. v zvezi z naložbami v kvalificirane deleže v osebe nefinančnega sektorja: podrobnejša pravila:
 - o izračunavanju omejitev teh naložb in
 - o obravnavi preseganja teh omejitev,
+- pogojih za pridobitev dovoljenja iz tretjega odstavka 172. člena tega zakona,
 9. podrobnejša pravila o upravljanju s tveganji,
 10. podrobnejša pravila v zvezi z likvidnostno pozicijo,
 11. v zvezi s poročanjem:
 - podrobnejšo vsebino poročil in obvestil,
 - roke in način poročanja,
 12. ustrezne ukrepe za upravljanje z obrestnim tveganjem, ki nastopi zaradi nenadnih in nepričakovanih sprememb obrestnih mer, vendar le za banke, katerih izguba, nastala zaradi sprememb teh obrestnih mer, presega 20 odstotkov njihovega kapitala,
-13. merila za primerne izvozne agencije in
-14. podrobnejša pravila v zvezi z ocenjevanjem ustreznega notranjega kapitala.
+13. merila za primerne izvozne agencije,
+14. podrobnejša pravila v zvezi z ocenjevanjem ustreznega notranjega kapitala in
+15. podrobnejša pravila glede izpolnjevanja pogojev, pod katerimi je banka lahko izpostavljena prenesenemu kreditnemu tveganju oziroma ima pozicije v listinjenju.

@@ -1,2 +1,3 @@
 # 194. člen (poročila o merjenju tveganj)
-Banka mora Banki Slovenije poročati o izračunih iz 192. in 193. člena tega zakona in o podatkih, ki so podlaga za te izračune.
+(1) Banka mora Banki Slovenije poročati o izračunih iz 192. in 193. člena tega zakona in o podatkih, ki so podlaga za te izračune.
+(2) Banka Slovenije pri določitvi obveznosti poročanja o izračunih iz 1. do 4. točke 193. člena tega zakona upošteva značilnosti, obseg in zapletenost poslov, ki jih opravlja banka.

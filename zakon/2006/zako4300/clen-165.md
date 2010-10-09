@@ -1,9 +1,5 @@
-# 165. člen (največja dopustna izpostavljenost do posamezne osebe)
-(1) Izpostavljenost banke do posamezne osebe ne sme presegati 25 odstotkov njenega kapitala, če ni za posamezne primere v drugem do četrtem odstavku tega člena drugače določeno.
-(2) Izpostavljenost banke do posamezne osebe, ki ima položaj osebe v posebnem razmerju z banko, ne sme presegati 20 odstotkov njenega kapitala.
-(3) Izpostavljenost banke do teh oseb ne sme presegati 20 odstotkov njenega kapitala:
-1. do njene nadrejene družbe,
-2. do posamezne osebe, ki jo banka posredno ali neposredno obvladuje, in
-3. do posamezne osebe, ki jo posredno ali neposredno obvladuje ista oseba kot banko.
-(4) Ne glede na tretji odstavek tega člena, lahko Banka Slovenije s predpisom iz 7. točke 129. člena tega zakona določi višjo največjo dopustno izpostavljenost, če hkrati določi tudi posebne ukrepe in postopke za upravljanje s tveganji na podlagi teh izpostavljenosti vendar največ 25 odstotkov kapitala banke.
-(5) O izdaji predpisa po četrtem odstavku tega člena mora Banka Slovenije obvestiti Komisijo in Evropski bančni odbor.
+# 165. člen (največja dopustna izpostavljenost)
+(1) Izpostavljenost banke do posamezne osebe ali skupine povezanih oseb, zmanjšana za izvzetja in učinke kreditnih zavarovanj, ne sme presegati 25 odstotkov njenega kapitala.
+(2) Ne glede na prvi odstavek tega člena izpostavljenost banke do institucije ali skupine povezanih oseb, ki vključuje eno ali več institucij, ne sme presegati višjega izmed zneskov 25 odstotkov kapitala banke ali 100 milijonov eurov, pod pogojem, da vsota izpostavljenosti do vseh povezanih oseb v skupini, ki niso institucije, ne presega 25 odstotkov kapitala banke.
+(3) Izpostavljenost iz drugega odstavka tega člena, ki presega 25 odstotkov kapitala banke, ne sme presegati 100 odstotkov kapitala banke oziroma manjšega odstotka, ki ga določi banka z namenom obravnave, spremljanja in nadzora tveganja koncentracije, ob upoštevanju politik in procesov iz 188. člena tega zakona.
+(4) V posameznih primerih izpostavljenost banke iz drugega odstavka tega člena lahko preseže 100 odstotkov njenega kapitala, če pridobi dovoljenje Banke Slovenije, vendar izpostavljenost ne sme presegati zneska 100 milijonov eurov.

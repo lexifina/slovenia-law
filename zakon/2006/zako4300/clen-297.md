@@ -5,4 +5,4 @@
 (4) Banka mora uporabiti sorazmerno konsolidacijo udeležb v kreditnih institucijah ali finančnih institucijah, ki jih upravlja družba, vključena v konsolidacijo, skupaj z eno ali več družbami, ki niso vključene v konsolidacijo, če je odgovornost teh družb omejena samo na delež kapitala, katerega imetnice so te družbe.
 (5) Pri drugih oblikah udeležbe ali kapitalskih povezav, razen tistih iz prvega od četrtega odstavka tega člena, mora Banka Slovenije odločiti, ali in kako naj se opravi konsolidacija.
 (6) V primerih in z uporabo metod, določenih v prvem do petem odstavku tega člena, morajo biti v konsolidacijo vključene tudi družbe za pomožne storitve, družbe za upravljanje in finančni holdingi.
-(7) Iz konsolidacije se lahko izključi posamezna finančna institucija, družba za pomožne storitve ali družba za upravljanje, ki je podrejena banki ali finančnemu holdingu ali ima položaj pridružene osebe v skupini.
+(7) Banka lahko iz konsolidacije izključi posamezno finančno institucijo, družbo za pomožne storitve ali družbo za upravljanje, ki je podrejena banki ali finančnemu holdingu ali ima položaj pridružene osebe v skupini, če pridobi dovoljenje Banke Slovenije.

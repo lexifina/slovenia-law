@@ -13,7 +13,7 @@
 11. vseh dejstvih in okoliščinah, ki so pomembne za presojo, ali je banka vključena v bančno skupino, ter o osebah in načinu povezav v bančni skupini, v katero je banka vključena,
 12. vseh drugih dejstvih in okoliščinah, ki so pomembne za presojo, ali banka posluje v skladu s pravili o upravljanju s tveganji.
 (2) Uprava banke mora Banko Slovenije nemudoma obvestiti o naslednjih dogodkih:
-1. če je ogrožena likvidnost ali kapitalska ustreznost banke,
+1. če je ogrožena likvidnost ali kapitalska ustreznost banke ali če banka na zahtevo vlagatelja ni izplačala njegove dospele vloge,
 2. če nastopijo razlogi za prenehanje ali odvzem dovoljenja za opravljanje bančnih storitev oziroma prepoved opravljanja posameznih bančnih poslov ali storitev iz prvega odstavka 41. člena tega zakona,
 3. če se finančni položaj banke spremeni tako, da banka ne dosega minimalnega kapitala iz 136. člena tega zakona,
 4. če je banka začela z obširnejšo prenovo informacijskih sistemov ali če je banka začela z razvojem nove ponudbe storitev, ki so pretežno podprte z informacijsko tehnologijo,

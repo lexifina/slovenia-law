@@ -7,3 +7,4 @@
 (4) Če drug zakon za opravljanje posamezne storitve iz prvega odstavka tega člena določa dodatne pogoje:
 1. mora banka zahtevi za izdajo dovoljenja za opravljanje teh storitev priložiti tudi dokaze o izpolnjevanju teh pogojev in
 2. Banka Slovenije zavrne zahtevo za izdajo dovoljenja za opravljanje teh storitev, če banka teh pogojev ne izpolnjuje.
+(5) Banka države članice, ki je na območju Republike Slovenije upravičena opravljati bančne in druge vzajemno priznane finančne storitve, bodisi prek podružnice bodisi neposredno, mora za vsako od storitev iz 2. točke prvega odstavka tega člena pridobiti dovoljenje Banke Slovenije.

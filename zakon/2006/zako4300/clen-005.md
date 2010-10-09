@@ -1,5 +1,8 @@
 # 5. člen (pojmi, ki so uporabljeni v pomenu, opredeljenem v drugem zakonu)
-(1) Pojmi plačilne storitve, storitve upravljanja plačilnih sistemov in elektronski denar imajo enak pomen, kakor je opredeljen v zakonu, ki ureja plačilne storitve.
+(1) Ti pojmi imajo enak pomen, kakor je opredeljen v naslednjih določbah ZPlaSS:
+1. elektronski denar v 4. členu,
+2. plačilna storitev v 5. členu,
+3. storitve upravljanja plačilnih sistemov v prvem odstavku 166. člena.
 (2) Ti pojmi imajo enak pomen, kakor je opredeljen v naslednjih določbah ZTFI:
 1. investicijske storitve in posli v prvem odstavku 8. člena,
 2. kolektivni naložbeni podjem v prvem odstavku 26. člena.

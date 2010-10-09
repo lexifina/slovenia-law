@@ -1,0 +1,3 @@
+# 134.a člen (dovoljenje za upoštevanje finančnih instrumentov pri izračunu kapitala banke)
+(1) Banka lahko pri izračunu kapitala upošteva finančne instrumente iz 133. in 134. člena tega zakona, če pridobi dovoljenje Banke Slovenije. Ne glede na prejšnji stavek lahko banka pri izračunu kapitala upošteva vplačani osnovni kapital na podlagi navadnih delnic in prednostnih kumulativnih delnic brez dovoljenja Banke Slovenije.
+(2) Banka mora za izplačilo ali odkup pred datumom dospelosti in v drugih podobnih primerih, ki imajo za posledico, da se finančni instrumenti iz 133. in 134. člena tega zakona ne upoštevajo več pri izračunu kapitala, pridobiti dovoljenje Banke Slovenije.
