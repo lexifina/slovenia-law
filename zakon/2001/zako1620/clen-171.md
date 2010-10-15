@@ -6,7 +6,7 @@
 4. začasno ukiniti ali omejiti izdani certifikat, če bi bilo nadaljnje opravljanje dela ali dejavnosti očitno nevarno za zračni promet;
 5. zahtevati izredno preveritev strokovne ali zdravstvene sposobnosti letalskega osebja in drugega strokovnega osebja;
 6. odrediti preizkus s sredstvi ali napravami za merjenje alkohola in mamil oziroma napotiti na strokovni pregled;
-7. izreči prepoved nadaljevanja opravljanja dejavnosti oziroma aktivnosti, če se ugotovi, da niso izpolnjeni pogoji, določeni s predpisi in pravnimi akti, ki se porabljajo oziroma veljajo v Republiki Sloveniji, ali z odobrenimi priročniki oziroma izdanimi listinami;
+7. izreči prepoved nadaljevanja opravljanja dejavnosti oziroma aktivnosti, če se ugotovi, da niso izpolnjeni pogoji, določeni s predpisi in pravnimi akti, ki se uporabljajo oziroma veljajo v Republiki Sloveniji, ali z odobrenimi priročniki oziroma izdanimi listinami;
 8. izdati odločbo o prekršku oziroma plačilni nalog v skladu s predpisi o prekrških, če so izpolnjeni pogoji po predpisih o prekrških;
 9. izreči drugi ukrep v skladu z letalskimi predpisi, ki veljajo oziroma se uporabljajo v Republiki Sloveniji.
 (2) Če uradna oseba ugotovi, da si je zavezanec pridobil s storitvijo kaznivega dejanja ali prekrška premoženjsko korist, pristojnemu sodišču predlaga njen odvzem.

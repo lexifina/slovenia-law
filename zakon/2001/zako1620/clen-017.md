@@ -10,7 +10,7 @@ b) pravicami ali pogodbami, ki zagotavljajo odločilen vpliv na sestavo, glasova
 6. drugo strokovno osebje so osebe, ki opravljajo dela, pomembna za varnost zračnega prometa in niso letalsko osebje po 27. točki tega člena;
 7. ECAC - Evropska konferenca civilnega letalstva;
 8. EUROCONTROL - Evropska organizacija za varnost zračne plovbe;
-9. Evropski sporazum je Evropski sporazum o pridružitvi med Republiko Slovenijo na eni strani in Evropskimi skupnostmi in njihovimi državami članicami, ki delujejo v okviru Evropske unije na drugi strani (Uradni list RS, št. 44/79 - MP, št. 13/97);
+9. Evropski sporazum je Evropski sporazum o pridružitvi med Republiko Slovenijo na eni strani in Evropskimi skupnostmi in njihovimi državami članicami, ki delujejo v okviru Evropske unije na drugi strani (Uradni list RS, št. 44/97 - MP, št. 13/97);
 10. ICAO - Mednarodna organizacija civilnega letalstva;
 11. incident je dogodek, povezan z obratovanjem zrakoplova, ki je ali bi lahko ogrozil varnost zračnega prometa in ni nesreča;
 12. izvajalec storitev zemeljske oskrbe je vsaka pravna ali fizična oseba, ki tretjim osebam ponuja eno kategorijo ali več kategorij storitev zemeljske oskrbe;

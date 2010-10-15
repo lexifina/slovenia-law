@@ -8,4 +8,4 @@
 (2) Glavni preiskovalec ima posebna pooblastila:
 1. da pridobi na razpolago rezultate medicinskih in patoloških izvidov brez odločbe sodišča;
 2. za začasni odvzem vozila ali zrakoplova za potrebe vodenja preiskave proti ustreznemu nadomestilu, o čemer se izda potrdilo.
-(3) vlada izda predpise o preiskovanju letalskih nesreč, resnih incidentov in incidentov, načinu obveščanja in delu preiskovalnega organa, obveščanju pristojnih organov o navedenih dogodkih ter o obveznostih letalskega in drugega strokovnega osebja v tej zvezi.
+(3) Vlada izda predpise o preiskovanju letalskih nesreč, resnih incidentov in incidentov, načinu obveščanja in delu preiskovalnega organa, obveščanju pristojnih organov o navedenih dogodkih ter o obveznostih letalskega in drugega strokovnega osebja v tej zvezi.
