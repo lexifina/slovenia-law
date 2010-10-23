@@ -1,0 +1,6 @@
+# 154.b člen
+(1) Zavarovalnice, ki obravnavajo odškodninske zahtevke v škodnem dogodku, glede katerega so od Slovenskega zavarovalnega združenja prejele sporočilo o spornih okoliščinah, smejo za namen ugotovitve dejanskih okoliščin in v obsegu, ki je potreben, v postopku likvidacije škode izmenjati osebne podatke o udeležencih tega škodnega dogodka iz drugega odstavka prejšnjega člena.
+(2) Osebne in druge podatke, potrebne za likvidacijo škode v škodnem primeru, pri katerem so bile ugotovljene sporne okoliščine, zavarovalnice pridobivajo v skladu s 154. členom tega zakona.
+(3) Kadar sporne okoliščine škodnega primera vzbujajo sum storitve kaznivega dejanja goljufije na področju zavarovalništva, mora zavarovalnica vložiti ovadbo pristojnemu organu, skupaj z že zbranimi dokazili.
+(4) Kadar zavarovalnica v postopku likvidacije škode ugotovi, da sporne okoliščine ne vplivajo na obveznosti zavarovalnice po zavarovalni pogodbi, podatke, ki jih je prejela od Slovenskega zavarovalnega združenja, izbriše v 30 dneh po izplačilu odškodnine.
+(5) Zavarovalnice za analitične in statistične namene Slovenskemu zavarovalnemu združenju enkrat letno poročajo o številu vloženih ovadb po tretjem odstavku tega člena in številu likvidacij škod po prejšnjem odstavku.".

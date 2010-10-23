@@ -1,0 +1,9 @@
+# 53.b člen
+(1) Za volitve v skupščino zastopnikov članov se uporablja mešani sistem volitev.
+(2) Vsakih šest let se izvedejo splošne volitve (volilno obdobje), na katerih člani družbe za vzajemno zavarovanje izvolijo zastopnike skupščine zastopnikov in po dva nadomestna zastopnika za vsakega zastopnika skupščine zastopnikov.
+(3) Po izteku prvih dveh let preneha mandat prvi tretjini zastopnikov članov, izvoljenih na splošnih volitvah, in se z volitvami, ki jih izvedeta preostali dve tretjini zastopnikov, izvoljenih na splošnih volitvah (volitve s sistemom kooptacije) izvoli prva tretjina novih zastopnikov članov.
+(4) Po izteku štirih let preneha mandat drugi tretjini zastopnikov članov, izvoljenih na splošnih volitvah, in se z volitvami, ki jih izvede preostala ena tretjina zastopnikov, izvoljenih na splošnih volitvah, in prva tretjina zastopnikov članov, izvoljenih s sistemom kooptacije, izvoli druga tretjina novih zastopnikov članov.
+(5) Od celotnega števila na splošnih volitvah izvoljenih zastopnikov, ki sestavljajo skupščino, se, po poteku dveh let volilnega obdobja, z žrebom določi ena tretjina zastopnikov članov, ki jim tedaj preneha mandat. Po poteku štiriletnega volilnega obdobja se, od preostalih dveh tretjin zastopnikov članov, izvoljenih s splošnimi volitvami, z žrebom določi še polovica teh članov, ki jim tedaj preneha mandat.
+(6) Mandat zastopnikov članov, katerih mandat ni predčasno prenehal, preneha z izvolitvijo novih zastopnikov članov na volitvah s sistemom kooptacije ali na naslednjih splošnih volitvah, funkcija nadomestnih zastopnikov članov, katerih funkcija ni predčasno prenehala, pa z izvolitvijo novih nadomestnih zastopnikov na naslednjih splošnih volitvah.
+(7) Ponovna izvolitev je dopustna.
+Skupščina zastopnikov članov družbe za vzajemno zavarovanje, ki izvaja dopolnilno zdravstveno zavarovanje oziroma življenjsko zavarovanje
