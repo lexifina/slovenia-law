@@ -1,0 +1,15 @@
+# 14. člen Dohodek iz zaposlitve
+
+1. V skladu z določbami 15., 17., 18. in 19. člena se plače, mezde in drugi podobni prejemki, ki jih dobi rezident države pogodbenice iz zaposlitve, obdavčijo samo v tej državi, razen če se zaposlitev ne izvaja v drugi državi pogodbenici. Če se zaposlitev izvaja tako, se lahko tako dobljeni prejemki obdavčijo v tej drugi državi.
+
+2. Ne glede na določbe prvega odstavka se prejemek, ki ga dobi rezident države pogodbenice iz zaposlitve, ki se izvaja v drugi državi pogodbenici, obdavči samo v prvi omenjeni državi, če:
+
+a) je prejemnik navzoč v drugi državi v obdobju ali obdobjih, ki skupno ne presegajo 183 dni v katerem koli dvanajstmesečnem obdobju, ki se začne ali konča v določenem davčnem letu, in
+
+b) prejemek plača delodajalec, ki ni rezident druge države, ali se plača v njegovem imenu in
+
+c) prejemka ne krije stalna poslovna enota, ki jo ima delodajalec v drugi državi.
+
+3. Ne glede na prejšnje določbe tega člena se lahko prejemek, ki izhaja iz zaposlitve na ladji ali letalu, s katerim se opravljajo prevozi v mednarodnem prometu, obdavči v državi pogodbenici, v kateri je sedež dejanske uprave podjetja.
+
+4. Rezidenti države pogodbenice, ki jih uprava nacionalnega letalskega prevoznika te države pogodbenice določi kot letališko zemeljsko osebje v drugi državi pogodbenici, so oproščeni davkov od prejemkov v tej drugi državi pogodbenici.
