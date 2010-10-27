@@ -1,0 +1,5 @@
+# 21. ČLEN ŠTUDENTI IN PRIPRAVNIKI
+
+1. Plačila, ki jih študent, vajenec ali pripravnik, ki je ali je bil tik pred obiskom države pogodbenice rezident druge države pogodbenice in je v prvi omenjeni državi pogodbenici navzoč samo zaradi svojega izobraževanja ali usposabljanja, prejme za svoje vzdrževanje, izobraževanje ali usposabljanje, se ne obdavčijo v tej državi pogodbenici, če taka plačila izhajajo iz virov zunaj te države pogodbenice.
+
+2. Pri nagradah, štipendijah in prejemkih iz zaposlitve, ki niso zajeti v prvem odstavku, je študent, vajenec ali pripravnik iz prvega odstavka med izobraževanjem ali usposabljanjem upravičen tudi do enakih oprostitev, olajšav ali odbitkov pri davkih kot rezidenti države pogodbenice, v kateri je na obisku.
