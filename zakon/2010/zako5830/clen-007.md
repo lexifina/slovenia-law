@@ -1,0 +1,3 @@
+# 7. člen (umestitev načrtovane prostorske ureditve v prostor)
+(1) Umestitev načrtovane prostorske ureditve v prostor se v načrtu določi kot situacijski prikaz načrtovane razmestitve objektov in drugih posegov v prostor, vključno s komunalno opremo in drugo gospodarsko javno infrastrukturo in grajenim javnim dobrom, s prikazom in opisom funkcionalnih, tehničnih in oblikovalskih pogojev in rešitev ter z določitvijo njenega območja.
+(2) Načrtovana razmestitev iz prejšnjega odstavka zajema tudi objekte in druge posege v prostor, ki se odstranijo, rekonstruirajo oziroma se jim z načrtom spreminja namembnost.

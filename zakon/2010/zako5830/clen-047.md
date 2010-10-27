@@ -1,0 +1,6 @@
+## V. PRIDOBIVANJE NEPREMIČNIN IN PRAVIC NA NJIH
+# 47. člen (ponudba za odkup)
+(1) Za namene sklenitve pogodbe za odkup nepremičnine v območju iz 6. člena tega zakona oziroma pridobitev pravic na njej pripravi investitor ponudbo. Ponudbo pripravi na podlagi ocenjene vrednosti nepremičnine ter ocenjenih nadomestil za škodo in drugih stroškov v skladu z določbami tega zakona, ki urejajo ocenjevanje vrednosti. Investitor pripravi ponudbo za vsakega lastnika oziroma za vse solastnike ali skupne lastnike iste nepremičnine.
+(2) Ponudba za odkup se vroča osebno v skladu z zakonom, ki ureja splošni upravni postopek, pri čemer se uporabljajo tudi določbe o odklonitvi sprejema.
+(3) Določbe prejšnjega odstavka se uporabljajo tudi za vročanje ponudbe za odkup nepremičnine oziroma pridobitev pravic na njej v območju državnih prostorskih načrtov, sprejetih na podlagi ZPNačrt, državnih lokacijskih načrtov, sprejetih na podlagi ZUreP-1, in prostorskih izvedbenih načrtov, ki jih je na podlagi ZUN sprejela država.
+(4) Če investitor v 30 dneh po vročitvi ponudbe za odkup nepremičnine oziroma pridobitev pravic na njej pogodbe ne uspe skleniti, vloži država na predlog investitorja nemudoma predlog za razlastitev oziroma omejitev lastninske pravice.

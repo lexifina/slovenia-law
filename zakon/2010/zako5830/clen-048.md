@@ -1,0 +1,6 @@
+# 48. člen (pridobivanje podatkov)
+(1) Za namen sklenitve pogodbe za odkup nepremičnine v območju iz 6. člena tega zakona oziroma pridobitve pravic na njej ima investitor od upravljavcev zbirk podatkov pravico pridobiti podatke iz uradnih evidenc.
+(2) Investitor mora organu, ki vodi uradno evidenco, izkazati pravni interes za pridobitev podatkov. Pravni interes izkaže investitor s sklepom o pripravi načrta.
+(3) Kadar se za ocenjevanje vrednosti po tem zakonu potrebuje podatke o nepremičnini ali druge podatke, ki se ne vodijo v javnih evidencah, ima cenilec iz drugega odstavka 58. člena tega zakona, lahko pa tudi investitor, pravico pridobiti te podatke neposredno od lastnika nepremičnine oziroma nosilca pravic na njej.
+(4) Investitor mora s pridobljenimi podatki ravnati skrbno in jih ne sme neupravičeno posredovati tretjim osebam.
+(5) Določbe prejšnjih odstavkov se uporabljajo tudi za pridobivanje podatkov za namen sklenitve pogodbe za odkup nepremičnine oziroma pridobitve pravic na njej v območju državnih prostorskih načrtov, sprejetih na podlagi ZPNačrt, državnih lokacijskih načrtov, sprejetih na podlagi ZUreP-1, in prostorskih izvedbenih načrtov, ki jih je na podlagi ZUN sprejela država.

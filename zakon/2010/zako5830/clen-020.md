@@ -1,0 +1,3 @@
+# 20. člen (analiza smernic, podatkov in predlogov javnosti)
+(1) Po prejemu smernic, podatkov, strokovnih podlag in predlogov javnosti, jih koordinator in pobudnik skupaj z investitorjem in izdelovalcem v roku 30 dni analizirata. Namen analize je ugotoviti, katere podatke in strokovne podlage je ob upoštevanju smernic še treba pridobiti in kakšen je obseg s tem povezanih nalog. V analizi se preveri tudi, ali v območju predlaganih prostorskih ureditev obstajajo nasprotujoči si javni interesi.
+(2) Na podlagi analize koordinator pripravi osnutek sklepa o pripravi načrta, ki ga skupaj z analizo pošlje članom prostorske konference pred izvedbo njene seje.

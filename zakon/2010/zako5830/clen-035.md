@@ -1,0 +1,4 @@
+# 35. člen (predlog načrta)
+(1) Na podlagi stališč do pripomb in predlogov javnosti ter občin izdelovalec izdela predlog načrta ter pojasni, kako so bile pri njegovi pripravi upoštevane smernice nosilcev urejanja prostora ter morebitni pogoji za podrobnejše načrtovanje predloga najustreznejše variante ali rešitve.
+(2) Rešitve načrtovanih prostorskih ureditev iz 31. člena tega zakona se lahko na podlagi stališč do pripomb in predlogov spremenijo, pri čemer pa se morajo te rešitve še vedno nahajati znotraj območja potrjene variante ali rešitve teh prostorskih ureditev. V tem primeru je treba preveriti, ali je zaradi spremembe treba dopolniti poročilo o vplivih na okolje.
+(3) Kadar je investitor uporabnik sredstev javnih financ, se v tej fazi izdela tudi investicijska zasnova v skladu s predpisi, ki urejajo javne finance.

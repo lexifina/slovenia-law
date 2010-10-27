@@ -1,0 +1,3 @@
+# 34. člen (seznanitev občin z osnutkom načrta)
+(1) V času seznanitve javnosti iz prejšnjega člena občine koordinatorju podajo mnenje o tem, ali načrt še vedno sledi njihovim smernicam in ali predlog načrta upošteva pogoje iz prvega odstavka 26. člena tega zakona z vidika izvajanja njenih lokalnih javnih služb ter druge pripombe in predloge na razgrnjeno gradivo.
+(2) Koordinator in pobudnik preučita pripombe in predloge občin in v sklopu stališča iz sedmega odstavka prejšnjega člena zavzameta stališče tudi do njih. V kolikor se pripombe nanašajo na prostorske ureditve, ki niso predmet načrta, jih koordinator in pobudnik ne obravnavata.
