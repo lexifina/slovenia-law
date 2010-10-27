@@ -12,5 +12,5 @@
 6. ponudbo za sklenitev pogodbe o služnosti ali začasni uporabi iz četrtega odstavka tega člena.
 (6) O zahtevi za ustanovitev služnosti odloči upravni organ z odločbo. O pritožbi zoper to odločbo odloča ministrstvo za prostor, razen če je z drugim zakonom določeno drugače.
 (7) Glede ugotavljanja dopustnosti ustanovitve služnosti po tem členu in glede drugih vprašanj, ki niso posebej urejena, se smiselno uporabljajo določbe tega zakona o razlastitvi.
-(8) V primeru ustanovitve služnosti lastniku pripada odškodnina, ki obsega zmanjšano vrednost nepremičnine ali dejansko škodo in izgubljeni dobiček. O tem odloča sodišče na predlog prizadetega lastnika.
+(8) V primeru ustanovitve služnosti lastniku pripada odškodnina, ki obsega zmanjšano vrednost nepremičnine ali dejansko škodo in izgubljeni dobiček.(se delno preneha uporabljati) O tem odloča sodišče na predlog prizadetega lastnika.
 (9) Odločba o ustanovitvi služnosti v javno korist se lahko izvrši, ko postane pravnomočna, razen če upravni organ ugotovi, da gre za nujni primer iz 104. člena tega zakona.
