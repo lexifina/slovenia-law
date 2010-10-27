@@ -1,4 +1,0 @@
-# 45.d člen
-Zaradi izvajanja nadzora nad izvajanjem tega zakona in uresničevanja pravic brezposelnih oseb in drugih pogojev po tem zakonu, lahko zavod pridobi in uporabi osebne podatke in podatke o dohodkih ter premoženju davčnih zavezancev iz registrov in evidenc, ki jih vodijo davčni organ ter zavod za pokojninsko in invalidsko zavarovanje in zavod za zdravstveno zavarovanje.
-Podatki iz prejšnjega odstavka se posredujejo na podlagi zahtevka zavoda pristojnemu davčnemu organu.
-Podatki iz prvega odstavka tega člena, ki jih pridobi zavod, se štejejo za davčno tajnost po predpisih o davčnem postopku in se varujejo trajno ter se ne smejo posredovati tretjim osebam. Osebe, ki so seznanjene s temi podatki, so jih dolžne varovati kot davčno tajnost in so odgovorne za kršenje tajnosti po predpisih o davčnem postopku in davčni službi ter za ravnanje v nasprotju s predpisi o varstvu osebnih podatkov.
