@@ -1,2 +1,2 @@
 ZAKON
-O DIGITALNI RADIODIFUZIJI (ZDRad)
+o digitalni radiodifuziji (ZDRad)
