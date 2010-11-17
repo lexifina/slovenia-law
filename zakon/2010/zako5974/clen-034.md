@@ -1,0 +1,8 @@
+# 34. člen (neposredna pogodba)
+Postopek razpolaganja s premičnim premoženjem države in samoupravnih lokalnih skupnosti se lahko izvede z neposredno pogodbo le, če:
+- se neposredna pogodba sklepa najpozneje do preteka treh mesecev od dneva, ko se je izkazalo, da sta bili neuspešni izbrana metoda razpolaganja iz 1. ali 2. točke prvega odstavka 20. člena tega zakona in ponovno izvedena metoda razpolaganja iz 1. ali 2. točke prvega odstavka 20. člena tega zakona z znižano izklicno ceno za največ 25%; v tem primeru je lahko cena v neposredni pogodbi nižja največ za 25% od objavljene (izklicne) cene ponovno izvedene metode razpolaganja iz 1. ali 2. točke prvega odstavka 20. člena tega zakona, pred sklenitvijo neposredne pogodbe pa je v tem primeru treba izvesti postopek pogajanj z vsemi zainteresiranimi ponudniki ali
+- je knjigovodska vrednost nič ali je premičnina izločena iz uporabe in bi bili ocenjeni stroški razpolaganja na podlagi javne dražbe ali javnega zbiranja ponudb višji od predvidene kupnine ali
+- je posamezna vrednost premičnine nižja od 4.000 EUR ali
+- gre za nastanek zavarovanega škodnega dogodka in s tem povezanim razpolaganjem s premičnino v skladu s pravicami in obveznostmi države in samoupravnih lokalnih skupnosti, ki izhajajo iz sklenjene zavarovalne pogodbe ali
+- gre za razpolaganje z živalmi, ki so last države ali samoupravne lokalne skupnosti in jih ta ne uporablja več za opravljanje svojih nalog (službeni psi, službeni konji in podobno) ali
+- gre za rabljeno vojaško opremo in oborožitev, ki se ne uporablja več za obrambne potrebe; k predmetnemu pravnemu poslu da predhodno soglasje vlada.

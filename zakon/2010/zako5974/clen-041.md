@@ -1,0 +1,4 @@
+# 41. člen (prehodno obdobje)
+(1) 11. in 13. člen tega zakona se začneta uporabljati pri pripravi sprememb državnega proračuna oziroma sprememb proračuna samoupravne lokalne skupnosti za leto 2012, prvi, drugi in tretji odstavek 15. člena pa se začnejo uporabljati pri pripravi zaključnega računa proračuna za leto 2012.
+(2) Postopki sprejetja letnih načrtov pridobivanja stvarnega premoženja države in samoupravnih lokalnih skupnosti iz 11. in 13. člena ZSPDPO ter razpolaganja s tem premoženjem za leto 2011 in leto 2012, začeti pred uveljavitvijo tega zakona, se dokončajo po predpisih, ki so veljali pred uveljavitvijo tega zakona.
+(3) Postopki ravnanja s stvarnim premoženjem države in samoupravnih lokalnih skupnosti, ki so se začeli pred uveljavitvijo tega zakona, se izvedejo po predpisih, ki so veljali pred uveljavitvijo tega zakona.
