@@ -1,0 +1,7 @@
+# 43. člen (prevzem zaposlenih)
+(1) Po začetku delovanja javnega sklada ta s prevzemanjem nepremičnega premoženja prevzame tudi zaposlene javne uslužbence, ki opravljajo naloge na področju ravnanja s prevzetim nepremičnim premoženjem. Na javni sklad se prenese tudi ustrezen delež zaposlenih javnih uslužbencev, ki so opravljali naloge na področju kadrovskega, finančnega, administrativnega in drugega strokovnotehničnega poslovanja, razen tistih, za katere organ utemeljeno izkaže potrebo po njih.
+(2) S prenosom dela nepremičnega premoženja družbe D. S. U., družbe za svetovanje in upravljanje, d. o. o., prevzame javni sklad tudi ustrezen delež zaposlenih skladno s splošnimi predpisi, ki urejajo delovna razmerja.
+(3) S prevzemom zaposlenih se na javni sklad prenesejo tudi vsa finančna in materialna sredstva, ki jih zaposleni potrebujejo za opravljanje svojih nalog.
+(4) Zaposleni s prevzemom na javni sklad obdržijo vse pravice javnih uslužbencev iz delovnega razmerja, ki so jih imeli ob prevzemu, razen tistih, ki so vezane na status uradnika ali strokovnotehničnega javnega uslužbenca.
+(5) Prevzeti zaposleni s prevzemom obdržijo pravico do dodeljenega službenega stanovanja Stanovanjske komisije Vlade Republike Slovenije, ministrstva, pristojnega za notranje zadeve, in ministrstva, pristojnega za obrambo, ter vse pravice, povezane z dodeljenim stanovanjem.
+(6) Prevzeti zaposleni imajo pravico do letovanja v počitniških enotah v lasti javnega sklada pod enakimi pogoji kot drugi zaposleni v državni upravi.

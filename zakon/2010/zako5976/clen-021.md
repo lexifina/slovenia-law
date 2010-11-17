@@ -1,0 +1,4 @@
+# 21. člen (izjeme od obvezne vključitve v letni poslovni načrt)
+(1) Ob spremenjenih prostorskih potrebah uporabnikov, ki jih ni bilo mogoče predvideti ob pripravi letnega poslovnega načrta, ali ob spremembi okoliščin na trgu, ki zahtevajo hiter odziv, lahko javni sklad ob spoštovanju načela gospodarnosti ravnanja sklepa tudi pravne posle, ki niso predvideni v veljavnem letnem poslovnem načrtu.
+(2) Skupna vrednost poslov iz prejšnjega odstavka ne sme presegati odstotka skupne vrednosti načrtov iz tretjega odstavka prejšnjega člena, ki se določi vsako leto v letnem poslovnem načrtu.
+(3) O pravnih poslih iz prvega odstavka tega člena mora javni sklad poročati v letnem poročilu. Obrazložitev posamičnega pravnega posla mora obsegati navedbo vrste in obsega nepremičnine, ekonomsko utemeljenost ravnanja, metodo ravnanja in navedbo finančnih posledic sklenjenega pravnega posla.

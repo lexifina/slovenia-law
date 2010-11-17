@@ -1,0 +1,5 @@
+# 19. člen (razmerja med javnim skladom in uporabniki)
+(1) Za potrebe zagotavljanja poslovnih prostorov in drugih nepremičnin, potrebnih za delovanje uporabnikov, sklene javni sklad s posameznim uporabnikom sporazum o uporabi.
+(2) Sporazum o uporabi se sklene z upoštevanjem prostorskih potreb uporabnika skladno z merili in s kriteriji iz šestega odstavka 6. člena tega zakona.
+(3) V sporazumu o uporabi se določijo nepremičnina ali kompleks nepremičnin, ki je dan v uporabo, višina uporabnine, obveznost uporabnika, da krije obratovalne in morebitne druge stroške, dogovorjene s sporazumom ter druge pravice in obveznosti javnega sklada in uporabnika. Bistvena sestavina sporazuma o uporabi je tudi določilo, da je uporabnik dolžan javni sklad sprotno in pravočasno obveščati o povečanju in zmanjšanju prostorskih potreb ter na poziv javnega sklada skleniti spremembo sporazuma o uporabi, s katero se dogovori za vračilo nepotrebne nepremičnine ali dela nepremičnine.
+(4) V primeru spora o obsegu prostorskih potreb uporabnika odloči ustanovitelj.
