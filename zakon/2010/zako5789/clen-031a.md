@@ -1,0 +1,2 @@
+# 31.a člen
+Hidrografska dejavnost obsega hidrografsko izmero morja, temeljne in obalne črte, hidrografski monitoring, hidrografske meritve objektov in pojavov na priobalnem območju, površini morja, vodnem stebru, morskem dnu in v podzemlju, upravljanje, zbiranje, vodenje, vzdrževanje, obdelavo in objavo pridobljenih hidrografskih podatkov ter pomorsko kartografijo in objavo hidrografskih publikacij.
