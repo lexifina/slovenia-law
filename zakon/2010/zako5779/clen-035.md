@@ -1,0 +1,7 @@
+# 35. člen
+Za 450. členom se dodata nov 450.a in 450.b člen, ki se glasita:
+"450.a člen
+(učinki postopkov zaradi insolventnosti in drugih postopkov ali ukrepov na veljavnost nalogov za poravnavo)
+(1) Nalog za poravnavo, ki ga v poravnalni sistem vnese član tega sistema, je veljaven, če je nalog za poravnavo poravnalni član vnesel v poravnalni sistem pred začetkom postopka ali ukrepa iz prvega odstavka 450. člena tega zakona zoper tega člana oziroma drugega udeleženca, za katerega račun je poravnalni član vnesel nalog za poravnavo.
+(2) Nalog za poravnavo je veljaven tudi, če je bil vnesen v poravnalni sistem po začetku postopka ali ukrepa iz prvega odstavka 450. člena tega zakona zoper člana oziroma drugega udeleženca, za katerega račun je poravnalni član vnesel nalog za poravnavo, če se ta nalog za poravnavo izvrši v poravnalnem sistemu po začetku postopka ali ukrepa iz prvega odstavka 450. člena tega zakona in če član poravnalnega sistema, ki je vnesel nalog za poravnavo dokaže, da ob nastopu nepreklicnosti naloga za poravnavo ni vedel in ni mogel vedeti za začetek takšnega postopka ali ukrepa.
+(3) Določbe drugih predpisov, ki v zvezi z začetkom postopka ali ukrepa iz prvega odstavka 450. člena tega zakona določajo pravico do odpovedi pogodbe ali do razveljavitve izvršenih transakcij oziroma neveljavnost ali prepoved pobota, se ne uporabljajo, če so denarne obveznosti in denarne terjatve udeleženca poravnalnega sistema prenehale oziroma bile prenovljene v skladu s pravili poravnalnega sistema o neto poravnavi.
