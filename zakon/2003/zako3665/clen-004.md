@@ -1,5 +1,0 @@
-# 4. člen
-3. člen se spremeni tako, da se glasi:
-"Družba opravlja v imenu in za račun Republike Slovenije naloge v zvezi s prostorskim načrtovanjem in umeščanjem avtocest v prostor in naloge v zvezi s pridobivanjem zemljišč in drugih nepremičnin za potrebe izgradnje avtocest.
-Družba v svojem imenu in za račun Republike Slovenije opravlja naloge v zvezi z izgradnjo in obnavljanjem avtocest v skladu z nacionalnim programom izgradnje avtocest v Republiki Sloveniji ter opravlja finančni inženiring sredstev, namenjenih za izgradnjo avtocest in odplačilo posojil, najetih za njihovo izgradnjo.
-Družba v svojem imenu in za račun države upravlja in razpolaga s tistimi nepremičninami, ki so bile pridobljene v zvezi z gradnjo avtocest pa niso bile v celoti uporabljene za njihovo izgradnjo ali niso v celoti potrebne za upravljanje in vzdrževanje avtocest v skladu s tem zakonom in predpisi, ki urejajo javne ceste in varnost cestnega prometa. Pri upravljanju in razpolaganju s temi nepremičninami se smiselno uporabljajo določbe zakona, ki ureja javne finance, pridobljena sredstva pa se uporabijo za izgradnjo in obnavljanje avtocest."
