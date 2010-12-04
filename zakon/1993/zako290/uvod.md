@@ -1,5 +1,0 @@
-- Zakon o družbi za avtoceste v Republiki Sloveniji (Uradni list RS, št. 57/93 z dne 14. 10. 1993),
-- Zakon o spremembah in dopolnitvah zakona o družbi za avtoceste v Republiki Sloveniji - ZDARS-A (Uradni list RS, št. 126/03 z dne 18. 12. 2003),
-- Zakon o spremembah in dopolnitvah Zakona o javnih cestah - ZJC-C (Uradni list RS, št. 45/08 z dne 9. 5. 2008),
-- Zakon o cestnini za vozila, katerih največja dovoljena masa presega 3.500 kg - ZCestV (Uradni list RS, št. 69/08 z dne 8. 7. 2008),
-- Zakon o upravljanju kapitalskih naložb Republike Slovenije - ZUKN (Uradni list RS, št. 38/10 z dne 14. 5. 2010).
