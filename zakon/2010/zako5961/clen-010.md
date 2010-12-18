@@ -1,0 +1,4 @@
+# 10. člen
+Za tretjim odstavkom 114. člena se doda nov četrti odstavek, ki se glasi:
+"(4) Minister lahko določi v programih usposabljanja za posebej zahtevne reševalne naloge, kot so gasilske operativne naloge, pri katerih se uporablja izolirne dihalne aparate, tehnično potapljanje in druge, da je sestavni del programa usposabljanja tudi preverjanje izpolnjevanja psihofizičnih in zdravstvenih pogojev, predpisanih za reševalce, ki te naloge opravljajo. Stroške zdravstvenih pregledov in druge stroške za izvedbo teh programov krije Uprava Republike Slovenije za zaščito in reševanje, če je organizator in izvajalec teh programov izobraževalni center oziroma se stroški krijejo na način, določen s programom. Minister tudi v drugih programih izobraževanja in usposabljanja, ki jih izvaja izobraževalni center oziroma drugi izvajalci, določi kdo nosi stroške izvedbe programov.".
+Dosedanja četrti in peti odstavek postaneta peti in šesti odstavek.

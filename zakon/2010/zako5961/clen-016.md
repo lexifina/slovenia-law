@@ -1,0 +1,2 @@
+# 16. člen
+Uprava Republike Slovenije za zaščito in reševanje zavaruje operativne prostovoljne gasilce in druge reševalce, ki jih je mogoče na podlagi državnih in regijskih načrtov zaščite in reševanja napotiti z manj ogroženih območij na območje, ki ga je prizadela nesreča ter prevzame stroške zdravstvenih pregledov pri izvajanju programov usposabljanja za posebej zahtevne reševalne naloge v skladu z 10. členom tega zakona, s 1. januarjem 2011.
