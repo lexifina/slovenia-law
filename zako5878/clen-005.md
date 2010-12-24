@@ -1,0 +1,3 @@
+# 5. člen
+
+Pristojni organi vsake od pogodbenic, ki uporabljajo pravilnike s homologacijo, morajo mesečno pošiljati pristojnim organom drugih pogodbenic seznam cestnih vozil, opreme ali njihovih delov, ki so jim zavrnili podelitev homologacije ali so jim v tistem mesecu preklicali homologacijo; poleg tega mora pogodbenica takoj, ko od pristojnega organa prejme zahtevo druge pogodbenice, ki uporablja pravilnik s homologacijo, poslati temu pristojnemu organu vse ustrezne podatke, na katerih temelji njena odločitev, da podeli, zavrne podelitev ali prekliče homologacijo nekega cestnega vozila, opreme ali njegovih delov, podeljeno na podlagi ustreznega pravilnika.
