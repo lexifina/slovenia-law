@@ -1,0 +1,6 @@
+# 6. člen
+Besedilo 90. člena se spremeni tako, da se glasi:
+"(1) Minister, pristojen za finance, predpiše posebnosti pri izkazovanju prejemkov in izdatkov proračuna.
+(2) Zadolževanje pri likvidnostnem in drugem kratkoročnem zadolževanju ter zadolževanje pri intervencijah na sekundarnem trgu lastnih dolžniških vrednostnih papirjev se na koncu leta v računu financiranja izkaže le kot razlika med prejemki in izdatki iz naslova tega zadolževanja v tekočem letu.
+(3) Spremembe, nastale pri upravljanju z državnim in občinskim dolgom, prevzem dolga, konverzije terjatev v kapitalsko naložbo, odpis dolga ali terjatev, naložbe prostih denarnih sredstev na računih pravnih oseb, določenih v 61. členu tega zakona in naložbe denarnih sredstev sistema enotnega zakladniškega računa države oziroma občine v centralno banko, banke in hranilnice ter vloge v sistemu enotnega zakladniškega računa države oziroma občine se izkazujejo samo v bilanci stanja.
+(4) Spremembe v zvezi s tistimi posojili lastnih dolžniških vrednostnih papirjev, pri katerih posojilojemalec v pogodbeno določenem roku vrednostnega papirja ne vrne, zaradi česar je v istem letu opravljen nakup istovrstnega vrednostnega papirja, se izkazujejo samo v bilanci stanja.".
