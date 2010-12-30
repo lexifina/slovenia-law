@@ -1,0 +1,6 @@
+# 22. člen (preizkus strokovne usposobljenosti)
+(1) Preizkus strokovne usposobljenosti (v nadaljnjem besedilu: preizkus) je usten, obsega teoretični in praktični del ter se opravlja pred tričlansko izpitno komisijo, ki jo s sklepom imenuje uradna oseba ministrstva.
+(2) O poteku preizkusa vodi zapisnik zdravnik oziroma doktor dentalne medicine, ki ga določi uradna oseba in ni član izpitne komisije. Zapisnik se posreduje vlagatelju in ministrstvu v treh dneh po končanem preizkusu.
+(3) Preizkus se oceni tako, da se posamezen predmet oziroma vsebina oceni s točkami od 1 do 10, pri čemer je posamezen predmet oziroma vsebina opravljena uspešno, če je ocenjena z najmanj 6 točkami.
+(4) Vlagatelj pristopi k opravljanju praktičnega dela preizkusa po uspešno opravljenem teoretičnem delu preizkusa. Če vlagatelj ne opravi teoretičnega dela preizkusa se šteje, da preizkusa ni opravil. Vlagatelj lahko k preizkusu pristopi največ dvakrat letno, pri čemer se kot pristop k preizkusu šteje opravljanje preizkusa v celoti.
+(5) Kadar vlagatelj ne opravi praktičnega dela preiskusa, lahko izpitna komisija ministrstvu v oceni predlaga opravljanje prilagoditvenaga obdobja in ponoven preiskus strokovne usposobljenosti.

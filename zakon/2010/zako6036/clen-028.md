@@ -1,0 +1,2 @@
+# 28. člen (licenca)
+Kandidat, ki mu je bila izdana odločba o priznanju poklicne kvalifikacije doktor dentalne medicine iz prvega odstavka 16. člena tega zakona, in vlagatelj, ki mu je bila izdana odločba o priznanju poklicne kvalifikacije zdravnik specialist oziroma doktor dentalne medicine specialist iz prvega odstavka 23. člena tega zakona, pri Zdravniški zbornici Slovenije zaprosi za licenco, na podlagi katere lahko samostojno opravlja zdravniško službo.

@@ -1,0 +1,10 @@
+# 18. člen (Komisija za postopek priznavanja poklicne kvalifikacije zdravnik specialist in Komisija za postopek priznavanja poklic doktor dentalne medicine specialist)
+(1) Komisiji iz prvega odstavka 8. člena tega zakona sta Komisija za postopek priznavanja poklicne kvalifikacije zdravnik specialist (v nadaljnjem besedilu: Komisija za poklic zdravnik specialist) in Komisija za postopek priznavanja poklicne kvalifikacije doktor dentalne medicine specialist (v nadaljnjem besedilu: Komisija za poklic doktor dentalne medicine specialist), ki sta imenovani glede na specialnost za vsak primer posebej.
+(2) Komisiji iz prejšnjega odstavka sestavljajo:
+- zdravnik oziroma doktor dentalne medicine s seznama članov izpitne komisije za posamezne specialnosti, ki ga pripravi Zdravniška zbornica Slovenije v skladu s predpisi, ki urejajo specializacije zdravnikov;
+- koordinator specializacije s področja specializacije, ki jo je opravil vlagatelj;
+- zdravnik oziroma doktor dentalne medicine, ki ga je Zdravniška zbornica Slovenije imenovala za glavnega mentorja s področja specializacije, ki jo je opravil vlagatelj v skladu s predpisi, ki urejajo specializacije zdravnikov.
+(3) Kadar je vlagatelj opravil specializacijo, za katero v Republiki Sloveniji ni predpisanega programa, so člani komisij iz prvega odstavka tega člena strokovnjaki za področje, ki je vsebinsko najbližje vlagateljevi specializaciji.
+(4) Komisiji iz prvega odstavka tega člena pri izdelavi mnenja poleg pogojev iz 9. člena tega zakona primerjata obseg, trajanje in vsebino programa specializacije, ki ga je opravil vlagatelj, s programom specializacije v Republiki Sloveniji ter upoštevata tudi vlagateljeve delovne izkušnje in dodatna znanja.
+(5) Če v Republiki Sloveniji ni določenega programa specializacije, komisiji iz prvega odstavka tega člena primerjata program specializacije, ki je vsebinsko najbližji programu specializacije, ki ga je vlagatelj opravil v tujini.
+(6) Šteje se, da je vlagatelj zaključil študij, ki izpolnjuje pogoje iz 9. člena tega zakona, če je v zadnjih petih letih najmanj tri leta zapored samostojno opravljal zdravniško službo.

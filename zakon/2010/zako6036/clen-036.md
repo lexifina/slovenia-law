@@ -1,0 +1,3 @@
+# 36. člen (prenehanje uporabe)
+(1) Z dnem uporabe tega zakona se za kandidate oziroma vlagatelje ne uporabljajo določbe 12., 13., 14. in 19. člena Zakona o zdravniški službi (Uradni list RS, št. 72/06 - uradno prečiščeno besedilo, 15/08 - ZPacP in 58/08).
+(2) Z dnem uporabe tega zakona se za kandidate oziroma vlagatelje preneha uporabljati Pravilnik o pripravništvu in strokovnih izpitih zdravstvenih delavcev in zdravstvenih sodelavcev na področju zdravstvene dejavnosti (Uradni list RS, št. 33/04, 38/06 in 84/09) v delu, ki se nanaša na obveznost opravljanja pripravništva tujcev, kolikor ta zakon ne določa drugače.

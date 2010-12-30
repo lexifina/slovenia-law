@@ -1,0 +1,4 @@
+# 5. člen (stranke postopka)
+(1) Za priznanje poklicne kvalifikacije zdravnik oziroma doktor dentalne medicine lahko zaprosi oseba, ki je študij medicine oziroma dentalne medicine zaključila v tretji državi (v nadaljnjem besedilu: kandidat) in ima ponudbo za delo v Republiki Sloveniji.
+(2) Za priznanje poklicne kvalifikacije zdravnik specialist oziroma doktor dentalne medicine specialist lahko zaprosi oseba, ki je specialistični naslov pridobila v tretji državi (v nadaljnjem besedilu: vlagatelj) in ima ponudbo za delo v Republiki Sloveniji.
+(3) Ne glede na prvi in drugi odstavek tega člena ne more zaprositi za priznanje po tem zakonu oseba, ki je v disciplinskem, kazenskem ali drugem postopku, iz katerega izhaja prepoved opravljanja poklica ali ji je bila izrečena prepoved opravljanja poklica.

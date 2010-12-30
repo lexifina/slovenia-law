@@ -1,0 +1,4 @@
+## I. SPLOŠNE DOLOČBE
+# 1. člen (predmet urejanja)
+(1) Ta zakon določa pogoje in postopek priznavanja poklicne kvalifikacije zdravnik oziroma zdravnica (v nadaljnjem besedilu: zdravnik), zdravnik specialist oziroma zdravnica specialistka (v nadaljnjem besedilu: zdravnik specialist), doktor oziroma doktorica (v nadaljnjem besedilu: doktor) dentalne medicine in doktor dentalne medicine specialist za osebe, ki so poklicno kvalifikacijo zdravnik, zdravnik specialist, doktor dentalne medicine in doktor dentalne medicine specialist pridobile v tretjih državah (v nadaljnjem besedilu: oseba iz tretje države) in imajo ponudbo za delo v Republiki Sloveniji.
+(2) Ta zakon se ne uporablja za osebe, ki so poklicno kvalifikacijo zdravnik, zdravnik specialist, doktor dentalne medicine in doktor dentalne medicine specialist pridobile pred 25. junijem 1991 v eni od republik nekdanje Socialistične federativne republike Jugoslavije.
