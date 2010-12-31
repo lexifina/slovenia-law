@@ -1,0 +1,5 @@
+# 7. člen Davki in stroški
+
+7.01 Garanti banki povrnejo vse davke, ki bremenijo banko pri izvajanju njenih dolžnosti po tem sporazumu. Banka izkaže morebitna vračila davkov iz drugih virov.
+
+7.02 Poleg morebitne provizije, ki se lahko plača v skladu s 5. členom, garanti sorazmerno s svojimi deleži v zneskih z jamstvom in do zgornje meje 2% zapadlega neplačanega zneska, določene v členu 1.01 garancije, banki povrnejo vse njene upravičene zunanje stroške. Ta zgornja meja pa ne velja, kadar banka vnaprej pisno obvesti garante, da utegnejo njeni stroški preseči zgornjo mejo, vendar pa se bo po njenem mnenju zvišal tudi izterjani neto znesek. Povračilo stroškov je omejeno na stroške svetovanja in storitev tretjih oseb, ki jih osebje banke ne more ustrezno zagotoviti. Banka lahko takšne stroške odšteje od katerega koli izterjanega zneska prenesene terjatve. Banka garantom predloži izkaze. Obveznost garantov nastane šele potem, ko si je banka neuspešno 90 dni prizadevala izterjati povračilo stroškov od dolžnika z jamstvom. Ne glede na plačilo garantov si banka še naprej prizadeva za vračilo stroškov od dolžnika z jamstvom.
