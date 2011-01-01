@@ -1,0 +1,3 @@
+# 43. člen (prevzemanje obveznosti za investicije v gospodarsko javno infrastrukturo)
+(1) Zaradi prenehanja računovodskega izkazovanja sredstev v upravljanju na področju gospodarskih javnih služb, občini, ki prenese gospodarsko infrastrukturo v svoje poslovne knjige, ne glede na 10.a člen ZFO-1, ni potrebno pridobiti soglasja ministra, pristojnega za finance, pred zadolžitvijo, ki je posledica prevzema obveznosti za posojila, ki so bila v javnih podjetjih najeta za investicije v navedeno infrastukturo.
+(2) Za obseg zadolževanja iz prejšnjega odstavka lahko občina prekorači največji obseg možnega zadolževanja občine iz 10.b člena ZFO-1.

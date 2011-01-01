@@ -1,0 +1,3 @@
+# 15. člen (prerazporeditve pravic porabe, o katerih odloča predlagatelj finančnih načrtov)
+(1) Predlagatelj finančnih načrtov lahko odloča o prerazporeditvah pravic porabe znotraj istega podprograma v okviru finančnih načrtov neposrednih uporabnikov, ki so v njegovi pristojnosti.
+(2) Ne glede na določbo prejšnjega odstavka predlagatelj finančnega načrta ne sme samostojno odločati o prerazporeditvah pravic porabe s postavk slovenske udeležbe, s postavk namenskih sredstev EU ter s in na plačne konte integralnih postavk v finančnih načrtih neposrednih uporabnikov iz njegove pristojnosti, razen med plačnimi konti integralnih postavk v okviru istega podprograma.
