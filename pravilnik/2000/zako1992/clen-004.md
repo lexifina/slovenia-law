@@ -1,2 +1,0 @@
-# 4. člen
-Pristojnosti in postopek ugotavljanja, kateri predmeti se v konkretnih primerih v skladu z 2. in 3. členom tega pravilnika štejejo za narodno bogastvo, bo določen z izvršilnim predpisom, kot ga določa četrti odstavek 31. člena zakona o varstvu kulturne dediščine (Uradni list RS, št. 7/99). Do uveljavitve tega predpisa se smiselno uporabljajo določbe pravilnika o postopku za izdajo dovoljenj za izvoz kulturne dediščine (Uradni list RS, št. 19/95).
