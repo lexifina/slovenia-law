@@ -1,0 +1,3 @@
+# 25. člen
+Drugi odstavek 76. člena se spremeni tako, da se glasi:
+"(2) Če je v skladu s 1. do 5. točko prvega odstavka tega člena plačnik DDV davčni zavezanec, ki v Sloveniji nima sedeža, ima pa sedež v drugi državi članici, lahko ta davčni zavezanec imenuje davčnega zastopnika kot osebo, ki mora plačati DDV. Če je v skladu s 1. do 5. točko prvega odstavka tega člena plačnik DDV davčni zavezanec, ki v Sloveniji nima sedeža, ima pa sedež v tretji državi ali na tretjem ozemlju, mora tak davčni zavezanec imenovati davčnega zastopnika kot osebo, ki mora plačati DDV, razen v primeru, ko tak davčni zavezanec uporablja posebno ureditev za davčne zavezance, ki nimajo sedeža znotraj Unije, in opravljajo elektronske storitve osebam, ki niso davčni zavezanci.".

@@ -1,0 +1,5 @@
+# 1. člen
+V Zakonu o davku na dodano vrednost (Uradni list RS, št. 10/10 - uradno prečiščeno besedilo) se v prvem odstavku 1. člena v prvi alineji besedilo "zadnjič spremenjena z Direktivo Sveta 2009/69/ES z dne 25. junija 2009 o spremembi Direktive 2006/112/ES o skupnem sistemu davka na dodano vrednost glede davčne utaje, povezane z uvozom (UL L št. 175 z dne 4. 7. 2009, str. 12)" nadomesti z besedilom "zadnjič spremenjene z Direktivo Sveta 2010/23/EU z dne 16. marca 2010 o spremembi Direktive 2006/112/ES o skupnem sistemu davka na dodano vrednost v zvezi z neobvezno in začasno uporabo mehanizma obrnjene davčne obveznosti za opravljanje nekaterih storitev, dovzetnih za goljufije (UL L št. 72 z dne 20. 3. 2010, str. 1)".
+V drugem odstavku se druga in tretja alineja spremenita tako, da se glasita:
+"- "ozemlje države članice", "država članica" in "Unija" je ozemlje držav članic in ozemlje Unije, ki je kot tako definirano v predpisih Evropske unije,
+- "tretja država" je katerokoli drugo ozemlje, razen ozemlje Slovenije in ozemlja drugih držav članic oziroma Unije,".

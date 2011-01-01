@@ -1,0 +1,4 @@
+# 27. člen
+Prvi in drugi odstavek 76.b člena se spremenita tako, da se glasita:
+"(1) Vsak davčni zavezanec, identificiran za namene DDV v Sloveniji, je solidarno odgovoren za plačilo DDV, če iz objektivnih okoliščin izhaja, da je vedel oziroma bi moral vedeti, da sodeluje pri transakcijah, katerih namen je izogibanje plačilu DDV.
+(2) Če davčni organ ugotovi, da je dobava blaga ali storitev sestavni del transakcij, katerih namen je izogibanje plačilu DDV, davčnega zavezanca, ki sodeluje v teh transakcijah, obvesti o obstoju teh okoliščin in njegovi solidarni odgovornosti za plačilo DDV, če bo še naprej udeležen v takih transakcijah. Od dneva prejema obvestila davčnega organa se šteje, da je davčni zavezanec vedel, da z nakupom sodeluje pri transakcijah, katerih namen je izogibanje plačilu DDV.".
