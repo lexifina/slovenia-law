@@ -1,0 +1,2 @@
+# 26. člen
+Ne glede na 281. člen zakona in ne glede na zakon, ki ureja dohodnino, se od drugih dohodkov iz 70. člena ZDoh-2, od katerih se akontacija dohodnine plačuje z davčnim odtegljajem, davčni odtegljaj ne odtegne in ne plača, če so po uveljavitvi tega zakona ti dohodki izplačani na podlagi odločitev v zvezi z vloženim pravnim sredstvom ali sproženim upravnim sporom zoper odločitve o višini teh dohodkov, izdanih v upravnih postopkih, začetih pred 1. januarjem 2010.

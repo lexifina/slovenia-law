@@ -1,0 +1,2 @@
+# 311.a člen (uveljavljanje dejanskih stroškov)
+Davčni zavezanec nerezident, ki nima poslovne enote v Sloveniji - nastopajoči izvajalec ali športnik - in lahko v skladu z drugim odstavkom 68. člena ZDoh-2 uveljavlja dejanske stroške, dejanske stroške uveljavi pri davčnem organu v 30 dneh od izplačila dohodka ali v 30 dneh od zadnjega izplačila dohodka, če se dohodek za posamezno aktivnost izplačuje v več delih. Davčni zavezanec uveljavlja dejanske stroške na podlagi dokazil in s pisnim zahtevkom, ki ga predpiše minister, pristojen za finance.
