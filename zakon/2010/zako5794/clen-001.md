@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o železniškem prometu (Uradni list RS, št. 44/07 - uradno prečiščeno besedilo in 58/09) se v prvem odstavku 1. člena črta besedilo "in poslovni sistem slovenskih železniških družb".
+V četrti alineji drugega odstavka se besedilo "zadnjič spremenjene z Direktivo 2008/57/ES Evropskega parlamenta in Sveta z dne 17. junija 2008 o interoperabilnosti železniškega sistema v Skupnosti" nadomesti z besedilom "zadnjič spremenjene z Direktivo Komisije 2009/149/ES z dne 27. novembra 2009 o spremembi Direktive 2004/49/ES Evropskega parlamenta in Sveta glede skupnih varnostnih kazalnikov in skupnih metod za izračun stroškov nesreč (UL L št. 313 z dne 28. 11. 2009, str. 65).
