@@ -9,3 +9,4 @@
 3. zadolževanje države za potrebe upravljanja njenih dolgov;
 4. prevzem dolga.
 (5) Ne glede na določbe prvega, drugega in četrtega odstavka tega člena se lahko država v letih 2011 in 2012 dodatno zadolži za potrebe izvrševanja proračuna, in sicer v vsakem letu največ do višine 70.000.000 eurov. Vlada odloča o povečanem zadolževanju in mora o povečanem zadolževanju obvestiti Državni zbor Republike Slovenije.
+(6) Ne glede na določbe prvega, drugega in petega odstavka tega člena se lahko država v skladu s tretjim odstavkom 81. člena ZJF dodatno zadolži za izvajanje intervencij na sekundarnem trgu lastnih dolžniških vrednostnih papirjev z dodatno izdajo posameznega lastnega dolžniškega vrednostnega papirja do višine 10% stanja dolga iz naslova posameznega lastnega dolžniškega vrednostnega papirja, izdanega v skladu s prvim odstavkom 81. člena ZJF in s prvim odstavkom 82. člena ZJF, v tekočem in preteklih proračunskih letih, vendar ne več kot za 1.250.000.000 eurov.
