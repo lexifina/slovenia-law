@@ -1,0 +1,3 @@
+# 7.a člen (postopek dodeljevanja spodbud)
+(1) Spodbude iz 4. člena tega zakona se dodeljujejo na podlagi javnega razpisa.
+(2) Ne glede na prejšnji odstavek lahko vlada na predlog ministrstva dodeli spodbudo tudi brez javnega razpisa (v nadaljnjem besedilu: posebni postopek), če komisija iz tretjega odstavka 7.b člena tega zakona ugotovi, da investicija bistveno prispeva k razvoju slovenskega gospodarstva, in če investicija za najmanj 100 odstotkov preseže najmanjše število novo odprtih delovnih mest, določeno v uredbi iz četrtega odstavka prejšnjega člena, ali če znaša vrednost investicije več kot 12 milijonov evrov.
