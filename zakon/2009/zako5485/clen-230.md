@@ -1,7 +1,10 @@
 # 230. člen (kršitve drugih oseb)
 (1) Z globo od 2.500 do 80.000 eurov se za prekršek kaznuje pravna oseba ali podjetnik, ki:
 1. opravlja plačilne storitve v nasprotju s prepovedjo iz 18. člena tega zakona,
-2. opravlja storitve upravljanja plačilnega sistema v nasprotju s prepovedjo iz tretjega odstavka 166. člena tega zakona.
+2. opravlja storitve izdajanja elektronskega denarja v nasprotju s prepovedjo iz drugega odstavka 136. člena tega zakona,
+3. pridobi poslovni delež, delnice ali druge pravice v nasprotju z drugim, četrtim oziroma petim odstavkom 137.č člena tega zakona,
+4. opravlja storitve upravljanja plačilnega sistema v nasprotju s prepovedjo iz tretjega odstavka 166. člena tega zakona,
+5. pooblaščeni osebi Banke Slovenije ne omogoči pregleda na način, določen v 183., 190., 191., drugem odstavku 201. in drugem odstavku 201.a člena tega zakona.
 (2) Z globo od 800 do 8.000 eurov se za prekršek kaznuje pravna oseba ali podjetnik, ki:
 1. plačnika pred odreditvijo plačilne transakcije ne seznani z informacijami o menjalnem tečaju in nadomestilih, ki jih bo kot prejemnik plačila zaračunal plačniku v zvezi s pretvorbo valute (96. člen tega zakona),
 2. uporabnika pred odreditvijo plačilne transakcije ne obvesti, da mora uporabnik za uporabo določenega plačilnega instrumenta plačati posebno nadomestilo (prvi in drugi odstavek 97. člena tega zakona).

@@ -21,7 +21,9 @@
 12. plačilne transakcije, izvršene s kakršnimi koli telekomunikacijskimi, digitalnimi ali informacijsko-tehnološkimi napravami, za plačilo vsebin, ki se dobavljajo na telekomunikacijske, digitalne ali informacijsko-tehnološke naprave in se uporabljajo na teh napravah, pod pogojem, da upravljavec telekomunikacijskega, digitalnega ali informacijsko tehnološkega sistema vsebinam doda bistvene dodatne lastnosti v obliki dostopa, prenosa ali iskalnih funkcij in zaradi tega ne deluje zgolj kot posrednik med kupcem in ponudnikom vsebin;
 13. plačilne transakcije, izvršene med ponudniki plačilnih storitev, njihovimi zastopniki ali podružnicami za njihov račun;
 14. plačilne transakcije, izvršene med nadrejeno družbo in njenimi podrejenimi družbami, ali med podrejenimi družbami iste nadrejene družbe, brez vmesnega posredovanja ponudnika plačilnih storitev, ki ni družba iz iste skupine;
-15. storitve, povezane z dvigom gotovine na bankomatih, ki jih zagotavljajo ponudniki, ki delujejo v imenu enega ali več izdajateljev kartic, pri čemer ti ponudniki nimajo sklenjene okvirne pogodbe s stranko, ki dviguje denar s plačilnega računa, pod pogojem, da ti ponudniki ne izvajajo drugih plačilnih storitev.
+15. storitve, povezane z dvigom gotovine na bankomatih, ki jih zagotavljajo ponudniki, ki delujejo v imenu enega ali več izdajateljev kartic, pri čemer ti ponudniki nimajo sklenjene okvirne pogodbe s stranko, ki dviguje denar s plačilnega računa, pod pogojem, da ti ponudniki ne izvajajo drugih plačilnih storitev;
+16. denarno vrednost, shranjeno na instrumentih iz 11. točke tega odstavka;
+17. denarno vrednost, shranjeno na napravah iz 12. točke tega odstavka.
 (2) Za plačilne transakcije na podlagi papirnih menic v skladu z zakonom, ki ureja menico, ter drugih papirnih listin, ki jih ureja zakonodaja držav članic, in so po vsebini in učinkih podobne menicam na podlagi zakona, ki ureja menico, se uporablja le 8. poglavje tega zakona.
 (3) Banka Slovenije lahko s podzakonskim predpisom podrobneje določi lastnosti storitev in plačilnih transakcij iz prvega odstavka tega člena.
 3.a člen

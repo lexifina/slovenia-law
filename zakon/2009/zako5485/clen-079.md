@@ -21,7 +21,7 @@
 6. o možnosti omejitve porabe za uporabo plačilnega instrumenta, če obstaja možnost dogovora za omejitev porabe v skladu s 118. členom tega zakona.
 (4) Informacije o nadomestilih, obrestnih merah in menjalnih tečajih morajo vključevati naslednje podatke:
 1. o vseh nadomestilih, ki jih ponudnik plačilnih storitev zaračuna uporabniku, vključno z razčlenitvijo postavk, če uporabniku zaračuna skupno nadomestilo;
-2. o obrestnih merah in menjalnih tečajih, ki se bodo uporabljali, v primeru uporabe referenčne obrestne mere ali referenčnega menjalnega tečaja pa tudi metodo za izračun dejanskih obresti in menjalnega tečaja ter ustrezni datum in indeks ali drugo osnovo za ugotavljanje dejanske obrestne mere ali menjalnega tečaja;
+2. kjer je relevantno, o obrestnih merah in menjalnih tečajih, ki se bodo uporabili ali v primeru uporabe referenčne obrestne mere ali referenčnega menjalnega tečaja tudi metodo za izračun dejanskih obresti ter ustrezen datum in indeks ali osnovo za ugotavljanje takšne obrestne mere ali menjalnega tečaja;
 3. o možnosti, da se sprememba obrestne mere ali menjalnega tečaja, ki temelji na spremembi referenčne obrestne mere ali menjalnega tečaja, uporabi takoj in brez predhodnega obveščanja, ter način obveščanja uporabnika o teh spremembah v skladu s 86. členom tega zakona.
 (5) Informacije o načinu in sredstvih komunikacije med uporabnikom in ponudnikom plačilnih storitev morajo vključevati naslednje podatke:
 1. o komunikacijskih sredstvih, vključno s tehničnimi zahtevami glede opreme uporabnika, ki se bo uporabljala za izmenjavo informacij v skladu s tem zakonom;

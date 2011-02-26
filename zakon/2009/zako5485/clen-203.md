@@ -1,6 +1,6 @@
 # 203. člen (odločba o ugotovitvi razloga za likvidacijo)
 (1) Banka Slovenije lahko izda odločbo, s katero ugotovi, da obstaja razlog za likvidacijo pravne osebe (v nadaljnjem besedilu: odločba o ugotovitvi razloga za likvidacijo) v naslednjih primerih:
-1. če pravna oseba ne ravna po odredbi o prenehanju opravljanja plačilnih storitev iz 201. člena tega zakona,
+1. če pravna oseba ne ravna po odredbi o prenehanju opravljanja plačilnih storitev iz 201. člena tega zakona oziroma po odredbi o prenehanju izdajanja elektronskega denarja iz 201.a člena tega zakona,
 2. če pravna oseba ne ravna po odredbi o prenehanju opravljanja storitev upravljanja plačilnega sistema ali po odredbi o prenehanju delovanja plačilnega sistema iz 202. člena tega zakona.
 (2) Odločba o ugotovitvi razloga za likvidacijo mora biti obrazložena.
 (3) Na podlagi dokončne odločbe o ugotovitvi razloga za likvidacijo začne pristojno sodišče na predlog Banke Slovenije postopek likvidacije.

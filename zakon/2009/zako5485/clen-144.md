@@ -1,5 +1,5 @@
 # 144. člen (zagotavljanje podatkov za register transakcijskih računov)
-(1) Banke, ki vodijo transakcijske račune, ter Uprava Republike Slovenije za javna plačila glede podračunov, ki jih vodi v skladu z zakonom, morajo Agenciji tekoče zagotavljati podatke za vzpostavitev in vodenje registra transakcijskih računov.
+(1) Banke, ki vodijo transakcijske račune, Banka Slovenije glede računov bank in hranilnic, ki jih vodi v skladu z zakonom, ter Uprava Republike Slovenije za javna plačila glede podračunov, ki jih vodi v skladu z zakonom, morajo Agenciji tekoče zagotavljati podatke za vzpostavitev in vodenje registra transakcijskih računov.
 (2) V registru transakcijskih računov se obdelujejo naslednji podatki:
 1. podatki o imetniku transakcijskega računa:
 - ime, priimek in naslov prebivališča imetnika, ki je fizična oseba, ali firma, sedež in naslov imetnika transakcijskega računa, ki je pravna oseba, ali firma, sedež in naslov ter ime in priimek imetnika transakcijskega računa, ki je podjetnik ali zasebnik, ali naziv in naslov drugega imetnika transakcijskega računa;
@@ -18,7 +18,8 @@
 (5) Za namen zagotovitve točnosti in ažurnosti podatkov v registru transakcijskih računov Agencija kot upravljavec registra prevzema:
 - podatke o firmi, sedežu in naslovu imetnika transakcijskega računa, ki je pravna oseba, podatke o firmi, sedežu in naslovu ter imenu in priimku imetnika transakcijskega računa, ki je podjetnik ali zasebnik in podatke o nazivu in naslovu drugega imetnika transakcijskega računa iz Poslovnega registra Slovenije,
 - podatke o imenu, priimku in naslovu prebivališča imetnika transakcijskega računa, ki je fizična oseba iz centralnega registra prebivalstva,
-- podatke o imenu, priimku in naslovu prebivališča imetnika transakcijskega računa, ki je fizična oseba in ni vpisan v centralni register prebivalstva pa iz davčnega registra.
+- podatke o imenu, priimku in naslovu prebivališča imetnika transakcijskega računa, ki je fizična oseba in ni vpisan v centralni register prebivalstva iz davčnega registra,
+- podatke o firmi, sedežu in naslovu imetnika transakcijskega računa, ki je pravna oseba, ter podatke o firmi, sedežu in naslovu ter imenu in priimku imetnika transakcijskega računa, ki je podjetnik ali zasebnik, iz davčnega registra, če imetnik ni vpisan v Poslovni register Slovenije.
 (6) Register transakcijskih računov mora biti vzpostavljen tako, da je mogoča enolična identifikacija imetnikov transakcijskih računov. V primeru skupnega transakcijskega računa, se v registru transakcijskih računov vodijo podatki iz drugega odstavka tega člena o vseh imetnikih skupnega transakcijskega računa.
 (7) Podatke iz drugega odstavka tega člena je dovoljeno hraniti v arhivu registra transakcijskih računov še pet let po zaprtju računa, razen podatka, da sredstva na transakcijskem računu ne zadoščajo za izvršitev sklepa o izvršbi ali zavarovanju, ki se hrani eno leto.
 (8) Agencija v soglasju z Banko Slovenije predpiše podrobnejša pravila o vzpostavitvi in vodenju registra transakcijskih računov.
