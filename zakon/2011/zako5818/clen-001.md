@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o raziskovalni in razvojni dejavnosti (Uradni list RS, št. 22/06 - uradno prečiščeno besedilo, 61/06 - ZDru-1 in 112/07) se v drugem odstavku 2. člena, 6. členu, naslovu 1. podpoglavja II. poglavja, 7. členu, 8. členu, drugem odstavku 9. člena, 12. členu, 13. členu, drugem odstavku 15. člena, 20. členu, prvem odstavku 21. člena, prvem odstavku 36. člena in v četrtem odstavku 38. člena besedilo "Nacionalni raziskovalni in razvojni program" v vseh sklonih nadomesti z besedilom "Raziskovalna in inovacijska strategija Slovenije" v ustreznem sklonu.
