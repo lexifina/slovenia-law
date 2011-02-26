@@ -1,0 +1,6 @@
+# 28. člen
+Za 224. členom se doda nov 224.a člen, ki se glasi:
+"224.a člen
+(kršitve pri neposrednem izdajanju elektronskega denarja v Republiki Sloveniji)
+(1) Če izdajatelj elektronskega denarja s sedežem v drugi državi članici stori prekršek iz 225. člena tega zakona pri neposrednem izdajanju elektronskega denarja v Republiki Sloveniji, Banka Slovenije o ugotovljenih kršitvah obvesti nadzorni organ države sedeža po postopku iz 7. podpoglavja 13. poglavja tega zakona.
+(2) Ne glede na prvi odstavek 225. člena tega zakona se izdajatelj elektronskega denarja s sedežem v drugi državi članici, ki stori prekršek iz 225. člena tega zakona pri neposrednem izdajanju elektronskega denarja v Republiki Sloveniji, ne kaznuje za prekršek po tem zakonu, če pristojni nadzorni organ države sedeža zoper tega izdajatelja začne ustrezni postopek zaradi te kršitve.".

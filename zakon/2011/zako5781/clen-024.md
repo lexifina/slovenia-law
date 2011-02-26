@@ -1,0 +1,3 @@
+# 24. člen
+V tretjem odstavku 205. člena se za 2. točko, na koncu katere se pika nadomesti z besedo "ali", doda nova 3. točka, ki se glasi:
+"3. v primeru stečaja ali prisilne likvidacije družbe za izdajo elektronskega denarja, za zaupne informacije, ki so potrebne za uveljavljanje terjatev upnikov do družbe za izdajo elektronskega denarja in za druge potrebe v stečajnem postopku ali postopku prisilne likvidacije ali s tema postopkoma povezanega pravdnega postopka, razen tistih, ki se nanašajo tudi na druge osebe, ki so bile vključene v poskus finančne reorganizacije družbe za izdajo elektronskega denarja.".
