@@ -1,2 +1,0 @@
-# 7. člen
-Za ugotavljanje katastrskega dohodka in njegovo valorizacijo se denarna vrednost kmetijskih in gozdnih proizvodov določa po odkupnih oziroma tržnih cenah, materialni stroški pa po nabavnih cenah iz leta pred letom, v katerem se ugotavljanje oziroma valorizacija katastrskega dohodka izvaja. Te cene se valorizirajo s količnikom, ugotovljenim na podlagi poprečne letne stopnje rasti teh cen v zadnjih dveh letih. Kmetijski proizvodi, za katere se določajo zaščitne cene, se obračunavajo po zaščitnih cenah iz tekočega leta.
