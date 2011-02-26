@@ -4,4 +4,4 @@
 (3) Nepoučena oseba po prvem odstavku tega člena je fizična ali pravna oseba, ki nima ustreznih strokovnih znanj in izkušenj, potrebnih za presojo tveganj, povezanih z vplačevanjem depozitov.
 (4) Šteje se, da je nepoučena oseba po prvem odstavku tega člena vsaka fizična ali pravna oseba, če prejemnik vplačila ne dokaže drugače.
 (5) Ne glede na četrti odstavek tega člena se šteje, da države in centralne banke ter finančne družbe in njihove podrejene družbe niso nepoučene osebe, in nasproten dokaz ni dovoljen.
-(6) Za sprejemanje depozitov od javnosti se ne šteje sprejemanje denarnih vplačil za izdajo elektronskega denarja, če je za vplačana denarna sredstva takoj ob vplačilu izdan elektronski denar.
+(6) (prenehal veljati)
