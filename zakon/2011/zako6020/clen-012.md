@@ -1,0 +1,2 @@
+# 12. člen (evidentiranje proizvodnih območij in območij z omejenimi možnostmi za kmetijsko dejavnost)
+Proizvodna območja, območja z omejenimi možnostmi za kmetijsko dejavnost, kot so določena s predpisi o kmetijstvu in območja posebnih režimov za kmetovanje, GURS evidentira v zemljiškem katastru po uradni dolžnosti z brezplačnim prevzemom atributnih podatkov SURS, podatkov ministrstva, pristojnega za kmetijstvo in podatkov ministrstva, pristojnega za okolje.

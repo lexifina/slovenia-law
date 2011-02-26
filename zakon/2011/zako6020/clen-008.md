@@ -1,0 +1,4 @@
+# 8. člen (postopek ugotavljanja)
+(1) GURS vsako leto, na podlagi kalkulacij, ob upoštevanju spremembe odkupnih cen pridelkov, nabavnih cen materialnih potroškov in tujih storitev ter nabavnih vrednosti osnovnih sredstev za zadnja tri leta pred letom, za katero se dohodek ugotavlja, najkasneje do 15. aprila za tekoče leto pripravi, v soglasju z ministrstvom, pristojnim za kmetijstvo, in ministrstvom, pristojnim za finance, predlog lestvic katastrskega dohodka in predlog pavšalne ocene dohodka na panj.
+(2) Vlada na podlagi predloga določi lestvice katastrskega dohodka in pavšalne ocene dohodka na panj za tekoče leto in jih najpozneje do 30. junija objavi v Uradnem listu Republike Slovenije.
+(3) Šteje se, da so podatki o katastrskem dohodku oziroma pavšalni oceni dohodka na panj na dan objave pripisani zemljiščem v zemljiškem katastru oziroma čebeljim panjem v registru čebelnjakov.
