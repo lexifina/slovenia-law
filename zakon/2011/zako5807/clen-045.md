@@ -1,0 +1,4 @@
+# 45. člen
+Šesti in sedmi odstavek 207. člena se spremenita tako, da se glasita:
+"(6) Podatki iz evidence se dajejo samo na podlagi pisne prošnje posameznika, na katerega se podatki nanašajo, če jih potrebuje za uveljavljanje svojih pravic. Drugim uporabnikom se podatki iz evidence dajejo na podlagi obrazložene pisne zahteve, če imajo za uporabo teh podatkov upravičen, na zakonu utemeljen, interes. Sodiščem, državnim tožilstvom in policiji se omogoči brezplačni oddaljeni dostop do podatkov v skupni evidenci kazenskih točk.
+(7) Podrobnejša merila o vodenju evidence iz prvega odstavka tega člena določi minister, pristojen za pravosodje. Način oddaljenega elektronskega dostopa do evidence ter tehnične pogoje za uporabo podatkov določi minister, pristojen za pravosodje, po predhodnem mnenju državnega nadzornega organa za varstvo osebnih podatkov.".

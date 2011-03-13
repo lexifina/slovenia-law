@@ -1,0 +1,7 @@
+# 202.e člen
+(1) Če sodišče ugotovi, da storilec v preizkusni dobi ni storil hujšega prekrška in da je izpolnil določene obveznosti, s sklepom odloči, da se izrečena sankcija prenehanja veljavnosti vozniškega dovoljenja ne izvrši. Sklep sodišče izda po uradni dolžnosti po izteku enega leta od poteka preizkusne dobe. Zoper ta sklep ni pritožbe. Storilcu se v tem primeru iz skupne evidence kazenskih točk izbrišejo kazenske točke v skladu s četrtim odstavkom 207. člena tega zakona.
+(2) Sodišče s sklepom prekliče odložitev izvršitve prenehanja veljavnosti vozniškega dovoljenja, če storilec v preizkusni dobi stori hujši prekršek ali v rokih, ki jih določi sodišče, ne izpolnjuje vseh obveznosti iz sklepa o odložitvi izvršitve prenehanja veljavnosti vozniškega dovoljenja. Zoper sklep o preklicu odložitve izvršitve prenehanja veljavnosti vozniškega dovoljenja lahko storilec vloži pritožbo v osmih dneh od dneva vročitve. O pritožbi odloči višje sodišče s sklepom, ki ga izda v 15 dneh od prejema spisa.
+(3) Organ, ki vodi skupno evidenco kazenskih točk, po uradni dolžnosti obvesti pristojno sodišče o vpisu pravnomočne odločbe o hujšem prekršku voznika, ki mu je bilo odložena izvršitev prenehanja veljavnosti vozniškega dovoljenja:
+- če gre za hujši prekršek, ki je bil storjen v času preizkusne dobe in
+- če je bila pravnomočna odločba izdana najpozneje v enem letu po poteku preizkusne dobe.
+Izvrševanje odložitve izvršitve prenehanja veljavnosti vozniškega dovoljenja

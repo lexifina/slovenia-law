@@ -1,0 +1,4 @@
+# 21. člen
+V prvem odstavku 57.a člena se besedilo "zakonov o varstvu javnega reda in miru, o varnosti cestnega prometa, o tujcih ali o nadzoru državne meje ter predpisov o javnih zbiranjih" nadomesti z besedilom "s področja javnega reda in miru, varnosti cestnega prometa, vstopa in zapustitve države ter bivanja in prebivanja tujcev, nadzora državne meje in javnih zbiranj".
+Doda se nov peti odstavek, ki se glasi:
+"(5) Če je plačilni nalog iz prvega odstavka tega člena prekrškovni organ izdal in vročil kršitelju potem, ko mu je na kraju prekrška omogočil, da se neposredno po storjenem prekršku osebno izjavi o prekršku (55. člen), se v plačilnem nalogu kratko navede izjava kršitelja o dejanju. Zoper tak plačilni nalog kršitelj nima pravice do ugovora, dovoljena pa je zahteva za sodno varstvo.".
