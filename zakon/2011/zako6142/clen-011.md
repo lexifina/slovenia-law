@@ -1,0 +1,6 @@
+# 11. člen
+Ne glede na 41. člen zakona morajo ministrstva, pristojna za pripravo sektorskih politik, te politike predložiti agenciji najpozneje do 30. aprila 2011. Če ministrstva, pristojna za pripravo sektorskih politik, v predpisanem roku ne predložijo sektorskih politik agenciji, pripravi agencija predlog strategije na podlagi prejetih sektorskih politik in ga predloži vladi v sprejetje. Vlada mora predložiti predlog strategije državnemu zboru najpozneje do 30. junija 2011.
+Ne glede na 42. člen zakona lahko vlada do sprejetja strategije in prvega letnega načrta upravljanja kapitalskih naložb državnemu zboru predloži v sprejetje predlog sprememb in dopolnitev Odloka o programu prodaje državnega finančnega premoženja za leti 2010 in 2011 (Uradni list RS, št. 97/09), ki ga pripravi ministrstvo, pristojno za finance.
+Do sprejetja strategije in letnega načrta upravljanja kapitalskih naložb lahko agencija po predhodnem soglasju vlade pridobiva kapitalske naložbe v gospodarskih družbah, če so za to zagotovljena sredstva v proračunu.
+Otvoritveno stanje kapitalskih naložb po knjigovodski vrednosti se mora vzpostaviti v poslovnih knjigah agencije v 60 dneh po uveljavitvi tega zakona.
+Vlada da soglasje h kodeksu upravljanja v treh mesecih od uveljavitve tega zakona.
