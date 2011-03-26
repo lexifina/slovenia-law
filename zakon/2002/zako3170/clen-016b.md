@@ -1,7 +1,0 @@
-# 16.b člen
-Detektiv iz države, ki je članica Evropske unije, lahko ob pogoju vzajemnosti v Republiki Sloveniji opravlja detektivsko dejavnost pod nazivom "detektiv", z vsemi pravicami in dolžnostmi pri opravljanju detektivske dejavnosti, če izpolnjuje pogoje iz 2. do 6. točke 8. člena tega zakona in opravi preizkusni izpit o poznavanju pravnega reda Republike Slovenije.
-Detektiv iz prejšnjega odstavka mora vlogi za pridobitev licence detektiva priložiti potrdilo o državljanstvu, dokaz o tem, da ima pravico opravljati detektivsko dejavnost v svoji matični državi, ter druge dokaze, s katerimi izkazuje izpolnjevanje pogojev iz prejšnjega odstavka.
-Izpolnjevanje pogojev iz 2. do 4. točke prvega odstavka 8. člena tega zakona se dokazuje s potrdili, izdanimi po predpisih detektivove matične države. Potrdila morajo biti predložena v overjenem prevodu v angleški in slovenski jezik.
-Preizkusni izpit o poznavanju pravnega reda Republike Slovenije se opravlja pred komisijo iz 8. člena tega zakona.
-Zbornica v soglasju z ministrom, pristojnim za notranje zadeve, predpiše vsebino in način opravljanja preizkusnega izpita o poznavanju pravnega reda Republike Slovenije, s programom opravljanja detektivskega izpita.
-Detektivu iz prvega odstavka tega člena izda zbornica v soglasju z ministrstvom, pristojnim za notranje zadeve, licenco detektiva z nazivom "detektiv", z vsemi pravicami in dolžnostmi detektiva po tem zakonu ter izkaznico detektiva v skladu s 14. členom tega zakona.
