@@ -1,0 +1,19 @@
+# 26. člen
+Drugi odstavek 71. člena se spremeni tako, da se glasi:
+"(2) Razpisna dokumentacija lahko vsebuje tudi druge listine, ki so glede na predmet naročila potrebne pri izdelavi ponudbe. Podatki iz razpisne dokumentacije morajo biti enaki podatkom, objavljenim v obvestilu o naročilu. Kot del razpisne dokumentacije se štejejo tudi informacije, ki jih posreduje naročnik gospodarskim subjektom, sodelujočim v postopku oddaje javnega naročila. Informacije, ki jih posreduje naročnik gospodarskim subjektom na ali preko portala javnih naročil, se štejejo za spremembo, dopolnitev ali pojasnilo razpisne dokumentacije, če iz vsebine informacij izhaja, da se z njimi spreminja ali dopolnjuje razpisna dokumentacija ali če se s pojasnilom odpravlja dvoumnost navedbe v razpisni dokumentaciji.".
+Za petim odstavkom se doda nov šesti odstavek, ki se glasi:
+"(6) Za potrebe tega člena se za podizvajalca ne šteje gospodarski subjekt, ki glede na razmerje z izbranim ponudnikom izpolnjuje kriterije za povezano družbo po zakonu, ki ureja gospodarske družbe. V tem primeru:
+- se za potrebe neposrednih plačil za podizvajalca šteje subjekt, ki je pravna ali fizična oseba in za osebo, povezano z izbranim ponudnikom, dejansko dobavlja blago ali izvaja storitev oziroma gradnjo, ki je neposredno povezana s predmetom javnega naročila;
+- mora izbrani ponudnik s podizvajalcem iz prejšnje alineje skleniti pogodbo, s katero uredi obveznosti in pravice povezane s predmetom javnega naročanja.".
+V dosedanjem šestem odstavku, ki postane sedmi odstavek, se v drugi alineji besedi "glavnega izvajalca" obakrat nadomestita z besedo "ponudnika".
+V dosedanjem sedmem odstavku, ki postane osmi odstavek, se prva alineja spremeni tako, da se glasi:
+"- vsaka vrsta del, ki jih bo izvedel, in vsaka vrsta blaga, ki ga bo dobavil, podizvajalec,".
+Za osmim odstavkom se doda nov deveti odstavek, ki se glasi:
+"(9) Ponudnik, ki izvaja javno naročilo z enim ali več podizvajalci, mora imeti ob sklenitvi pogodbe z naročnikom ali med njenim izvajanjem, sklenjene pogodbe s podizvajalci. Podizvajalec mora naročniku posredovati kopijo pogodbe, ki jo je sklenil s svojim naročnikom (ponudnikom), v petih dneh od sklenitve te pogodbe. Naročnik mora nemudoma po prejemu kopije pogodbe preveriti, ali ima ponudnikovo pooblastilo iz prve alineje sedmega odstavka tega člena in podizvajalčevo soglasje iz druge alineje sedmega odstavka tega člena. Če pooblastila ali soglasja nima, mora ponudnika ali podizvajalca nemudoma pozvati, da mu ta dokument predloži v roku petih dni od prejema poziva. Če ponudnik ali podizvajalec pooblastila ali soglasje naročniku ne predloži v tem roku, mora naročnik Državni revizijski komisiji predlagati, da uvede postopek o prekršku iz 1. točke prvega odstavka 109.a člena ali prvega odstavka 109.b člena tega zakona.".
+V dosedanjem osmem odstavku, ki postane deseti odstavek, se črta beseda "svojih".
+V dosedanjem devetem odstavku, ki postane enajsti odstavek, se v prvi alineji za vejico doda besedilo "če je bil le-ta zamenjan,".
+Za dosedanjim desetim odstavkom, ki postane dvanajsti odstavek, se dodata nova trinajsti in štirinajsti odstavek, ki se glasita:
+"(13) Naročnik mora v razpisni dokumentaciji navesti, da mu mora na njegov poziv izbrani ponudnik v postopku javnega naročanja ali pri izvajanju javnega naročila posredovati podatke o:
+- svojih ustanoviteljih, družbenikih, vključno s tihimi družbeniki, delničarjih, komanditistih ali drugih lastnikih in podatke o lastniških deležih navedenih oseb;
+- gospodarskih subjektih, za katere se glede na določbe zakona, ki ureja gospodarske družbe, šteje, da so z njim povezane družbe.
+(14) Izbrani ponudnik mora podatke iz prejšnjega odstavka posredovati naročniku v roku osmih dni od prejema poziva.".
