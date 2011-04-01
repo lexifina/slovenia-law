@@ -1,0 +1,3 @@
+# 74. člen (uporaba mobilnih enot)
+(1) Tehnično brezhibnost vozil v cestnem prometu, ki vključuje tudi pregled in merjenje učinkovitosti zavornega sistema in izpustov izpušnih plinov ter pregled in nadzor omejilnikov hitrosti, nadzirajo inšpektorji inšpektorata, pristojnega za promet, in policisti tudi s pomočjo merilne opreme in naprav, ki se uporabljajo pri tehničnih pregledih vozil in so nameščene v posebnem vozilu (v nadaljnjem besedilu: mobilna enota).
+(2) Za postopke iz prejšnjega odstavka, merilno opremo in naprave mobilnih enot se smiselno uporabljajo zahteve o postopkih, merilni opremi in napravah, ki jih pri svojem delu uporabljajo strokovne organizacije, ki opravljajo tehnične preglede.

@@ -1,0 +1,2 @@
+# 4. člen (razmerje do drugih zakonov)
+Ta zakon in predpisi, izdani na njegovi podlagi, urejajo vse tehnične zahteve za vozila v cestnem prometu, postopke ugotavljanja skladnosti vozil, identifikacije in ocene tehničnega stanja vozil ter pogoje, ki jih morajo izpolnjevati pravne osebe in samostojni podjetniki posamezniki, ki na podlagi pooblastil sodelujejo pri teh postopkih, razen če s tem ali drugim zakonom ni določeno drugače.
