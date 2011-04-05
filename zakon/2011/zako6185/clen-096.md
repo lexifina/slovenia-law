@@ -1,0 +1,4 @@
+# 96. člen
+(1) Center za informatiko mora do 1. maja 2011 prenesti podatke o vseh vpisih iz sedanje baze informatizirane glavne knjige, ki na ta dan še niso izbrisani, v novo bazo informacijskega sistema e-ZK.
+(2) Če nepremičnina ob prenosu po prejšnjem odstavku še ni vpisana v elektronski zemljiški knjigi, temveč v glavni knjigi, ki se vodi ročno po Zakonu o zemljiški knjigi (Uradni list RS, št. 33/95), se v novo bazo informacijskega sistema e-ZK prenese samo identifikacijski znak te nepremičnine in kot njen osnovni pravni položaj vpiše "pravni položaj nepremičnine ni usklajen z ročno zemljiško knjigo".
+(3) Zemljiškoknjižno sodišče mora prenesti vse vpise iz listov B in C pri nepremičnini iz prejšnjega odstavka v novo bazo informacijskega sistema e-ZK pred odločitvijo o prvem predlogu za zemljiškoknjižni vpis glede te nepremičnine in najpozneje v enem letu po uveljavitvi tega zakona.

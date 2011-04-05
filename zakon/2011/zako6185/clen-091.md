@@ -1,0 +1,9 @@
+# 91. člen
+(1) Spremenjeni oziroma novi prvi odstavek 36. člena, prvi, tretji in četrti odstavek 40. člena, 40.a člen, šesti in sedmi odstavek 45. člena, prvi odstavek 46. člena, četrti odstavek 90. člena, peti in šesti odstavek 91. člena, peti odstavek 100. člena, 100.a člen, 111. člen, prvi in drugi odstavek 112. člena, 114. člen, prvi do šesti odstavek 115. člena, 127. člen, drugi in tretji odstavek 132. člena, prvi odstavek 149. člena, 151. člen, drugi in tretji odstavek 152. člena, 158. člen in 161. člen zakona se uporabljajo:
+1. za postopke, v katerih zemljiškoknjižno sodišče do 1. maja 2011 še ne odloči o vpisu, in
+2. za postopke, v katerih zemljiškoknjižno sodišče pred 1. majem 2011 odloči o vpisu, če:
+- je bodisi višje sodišče pred 1. majem 2011 razveljavilo sklep o vpisu in zemljiškoknjižno sodišče do 1. maja 2011 še ne odloči znova o vpisu,
+- bodisi višje sodišče po 1. maju 2011 razveljavi sklep o vpisu.
+(2) Za postopke, v katerih zemljiškoknjižno sodišče odloči o vpisu do 1. maja 2011, razen postopkov iz 2. točke prejšnjega odstavka, se uporabljajo prvi odstavek 36. člena, 40. člen, 45. člen, prvi odstavek 46. člena, 90. člen, 91. člen, 100. člen, 111. člen, 112. člen, 114. člen, prvi odstavek 115. člena, 118. člen, 127. člen, 132. člen, prvi odstavek 149. člena, 151. člen, drugi in tretji odstavek 152. člena, 153. člen, prvi do tretji odstavek 154. člena, 155. člen, 156. člen, tretji odstavek 157. člena, 158. člen, tretji odstavek 159. člena, 161. člen, 188. člen, 203. člen, četrti in peti odstavek 213. člena Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09).
+(3) V postopkih popravljanja pomotnega vpisa, ki se začnejo po 1. maju 2011, se uporablja spremenjeni 200. člen zakona.
+(4) V postopkih popravljanja pomotnega vpisa, ki se začnejo do 1. maja 2011 se uporabljata 200. in 201. člen Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09).

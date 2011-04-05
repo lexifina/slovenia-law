@@ -1,0 +1,3 @@
+# 92. člen
+(1) Spremenjeni oziroma novi 13.a člen, drugi in tretji odstavek 14. člena, 15. člen, 15.a člen, 17. člen, drugi odstavek 20. člena, 20.a člen, drugi in tretji odstavek 86. člena, drugi in tretji odstavek 88. člena, 177. člen in 178. člen zakona se uporabljajo za vpise, o dovolitvi katerih zemljiškoknjižno ali pritožbeno sodišče odloči po 1. maju 2011.
+(2) Za vpise, o dovolitvi katerih zemljiškoknjižno ali pritožbeno sodišče odloči pred 1. majem 2011, se uporabljajo 14. člen, 15. člen, drugi odstavek 16. člena, 17. člen, drugi odstavek 20. člena, 86. člen, 88. člen, 162. do 174. člen, 176. člen, 177. člen, 178. člen, 180. do 187. člen in 189. do 192. člen Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09).

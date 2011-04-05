@@ -1,0 +1,11 @@
+# 95. člen
+(1) Spremenjena 193. in 194. člen zakona se začneta uporabljati za zbirko listin v zvezi s postopki, ki so se začeli po 1. maju 2011. Za zbirko listin v zvezi s postopki, začetimi pred 1. majem 2011 se uporablja 194. člen Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09).
+(2) Spremenjeni sedmi odstavek 115. člena, 196. člen, 197. člen in 198. člen in novi 199.a člen zakona se začnejo uporabljati 1. maja 2011.
+(3) Spremenjeni 204. člen zakona se začne uporabljati za oklice, ki se objavijo po 1. maju 2011.
+(4) Peti in šesti odstavek 234. člena in drugi odstavek 236. člena Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09), se uporabljajo za postopke vzpostavitve zemljiškoknjižne listine, v katerih je do 1. maja 2011:
+1. bodisi bila izvedena objava oklica o začetku postopka po 204. členu Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09),
+2. bodisi je sklep iz drugega odstavka 236. člena Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09) postal pravnomočen.
+(5) Sodišče mora po uradni dolžnosti do 15. julija 2011 vrniti plačano pavšalno nadomestilo za objavo oklica v postopku vzpostavitve zemljiškoknjižne listine, če v tem postopku do 1. maja 2011 ni bila izvedena objava oklica o začetku postopka po 204. členu Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09).
+(6) Če je bil v postopku vzpostavitve zemljiškoknjižne listine izdan sklep iz šestega odstavka 234. člena Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09) ali sklep iz drugega odstavka 236. člena Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09), ki do 1. maja 2011 še ni postal pravnomočen:
+1. se šteje, da je s 1. majem 2011 sklep iz šestega odstavka 234. člena Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09) in morebitni nepravnomočni sklep iz drugega odstavka 236. člena Zakona o zemljiški knjigi (Uradni list RS, št. 58/03, 34/08 - ZST-1, 45/08 in 28/09) razveljavljen, in
+2. mora zemljiškoknjižno sodišče do 15. julija 2011 objaviti oklic o začetku postopka.
