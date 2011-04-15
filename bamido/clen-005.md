@@ -1,0 +1,39 @@
+# 5. člen STALNA POSLOVNA ENOTA
+
+1. V tej konvenciji izraz »stalna poslovna enota« pomeni stalno mesto poslovanja, prek katerega v celoti ali delno potekajo posli podjetja.
+
+2. Izraz »stalna poslovna enota« vključuje zlasti:
+
+a) sedež uprave,
+
+b) podružnico,
+
+c) pisarno,
+
+d) tovarno,
+
+e) delavnico in
+
+f) rudnik, nahajališče nafte ali plina, kamnolom ali kateri koli drug kraj raziskovanja ali pridobivanja naravnih virov.
+
+3. Gradbišče, projekt gradnje, montaže ali postavitve ali dejavnost nadzora ali svetovanja v zvezi z njimi je stalna poslovna enota samo, če tako gradbišče, projekt ali dejavnost traja na ozemlju države pogodbenice več kakor šest mesecev.
+
+4. Ne glede na prejšnje določbe tega člena se šteje, da izraz »stalna poslovna enota« ne vključuje:
+
+a) uporabe prostorov samo za skladiščenje, razstavljanje ali dostavo dobrin ali blaga, ki pripada podjetju;
+
+b) vzdrževanja zaloge dobrin ali blaga, ki pripada podjetju, samo za skladiščenje, razstavljanje ali dostavo;
+
+c) vzdrževanja zaloge dobrin ali blaga, ki pripada podjetju, samo za predelavo, ki jo opravi drugo podjetje;
+
+d) vzdrževanja stalnega mesta poslovanja samo za nakup dobrin ali blaga za podjetje ali zbiranje informacij za podjetje;
+
+e) vzdrževanja stalnega mesta poslovanja samo za opravljanje kakršne koli druge pripravljalne ali pomožne dejavnosti za podjetje;
+
+f) vzdrževanja stalnega mesta poslovanja samo za kakršno koli kombinacijo dejavnosti, omenjenih v pododstavkih od a do e, če je celotna dejavnost stalnega mesta poslovanja, ki je posledica te kombinacije, pripravljalna ali pomožna.
+
+5. Ne glede na določbe prvega in drugega odstavka se, kadar oseba, ki ni zastopnik z neodvisnim statusom, za katerega se uporablja šesti odstavek, deluje v imenu podjetja ter ima in običajno uporablja v državi pogodbenici pooblastilo za sklepanje pogodb v imenu podjetja, za to podjetje šteje, da ima stalno poslovno enoto v tej državi v zvezi z dejavnostmi, ki jih ta oseba prevzame za podjetje, razen če dejavnosti te osebe niso omejene na tiste iz četrtega odstavka, zaradi katerih se to stalno mesto poslovanja po določbah navedenega odstavka ne bi štelo za stalno poslovno enoto, če bi se opravljale prek stalnega mesta poslovanja.
+
+6. Ne šteje se, da ima podjetje stalno poslovno enoto v državi pogodbenici samo zato, ker posluje v tej državi prek posrednika, splošnega komisionarja ali katerega koli drugega zastopnika z neodvisnim statusom, če te osebe delujejo v okviru svojega rednega poslovanja. Kadar so dejavnosti takega zastopnika v celoti ali skoraj v celoti namenjene temu podjetju ter med podjetjem in zastopnikom v njunih komercialnih ali finančnih odnosih obstajajo ali se vzpostavijo pogoji, drugačni od tistih, ki bi obstajali med neodvisnimi podjetji, se ta ne šteje za zastopnika z neodvisnim statusom v smislu tega odstavka.
+
+7. Dejstvo, da družba, ki je rezident države pogodbenice, nadzoruje družbo ali je pod nadzorom družbe, ki je rezident druge države pogodbenice ali posluje v tej drugi državi (prek stalne poslovne enote ali drugače), še ne pomeni, da je ena od družb stalna poslovna enota druge.
