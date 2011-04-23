@@ -1,0 +1,5 @@
+# 12.e člen (sestava in imenovanje članov komisije za varstvo konkurence)
+(1) Komisijo za varstvo konkurence sestavlja pet članov, od katerih je eden predsednik komisije za varstvo konkurence.
+(2) Predsednika komisije za varstvo konkurence izvolijo člani komisije za varstvo konkurence med seboj z večino glasov in s tajnim glasovanjem.
+(3) Člane komisije za varstvo konkurence imenuje državni zbor. Enega člana izmed strokovnjakov za varstvo konkurence in tri člane izmed zaposlenih v agenciji, ki delajo na področju varstva konkurence, v imenovanje državnemu zboru predlaga vlada, enega člana izmed strokovnjakov za varstvo konkurence pa Sodni svet.
+(4) Državni zbor glasuje o predlaganem kandidatu za člana komisije za varstvo konkurence v 30 dneh po vložitvi predloga. Glasovanje je tajno. Predlagani kandidat je imenovan, če zanj glasuje večina navzočih poslancev. Če predlagani kandidat za člana komisije za varstvo konkurence ne dobi potrebne večine poslanskih glasov, predsednik državnega zbora o tem obvesti vlado oziroma Sodni svet, ki v 14 dneh posreduje državnemu zboru nov predlog za izvolitev člana komisije za varstvo konkurence.
