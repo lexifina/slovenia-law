@@ -1,0 +1,2 @@
+# 2. člen
+Državni zbor Republike Slovenije in Vlada Republike Slovenije imenujeta nove člane Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji v roku šestih mesecev po uveljaviti tega zakona. Do imenovanja novih članov Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji opravlja vse naloge sveta dosedanji Svet Fundacije za financiranje športnih organizacij v Republiki Sloveniji.
