@@ -1,3 +1,0 @@
-# 20. člen Sezonsko delo v kmetijstvu in gozdarstvu
-(1) Dovoljenje za delo na področju kmetijstva in gozdarstva se ne glede na določbo četrtega odstavka prejšnjega člena lahko podaljša ali ponovno izda istemu ali drugemu delodajalcu in sicer največ trikrat letno, če skupno trajanje dela ne presega šest mesecev v koledarskem letu. Delodajalec lahko, na podlagi mnenja zbornice, pristojne za kmetijstvo in gozdarstvo, da je prišlo do izrednih pridelovalnih pogojev (podaljšanje vegetacije), zaprosi za izjemno podaljšanje dovoljenja za delo za največ en mesec.
-(2) Delodajalec je lahko pravna ali fizična oseba, registrirana za opravljanje dejavnosti, ter fizična oseba, ki je lastnik ali zakupnik kmetije ali gozda oziroma kmetijskega zemljišča.

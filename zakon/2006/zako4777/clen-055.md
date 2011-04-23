@@ -1,4 +1,0 @@
-# 55. člen
-(1) Tujci, ki so v skladu z 10. členom zakona o zaposlovanju tujcev pridobili ustrezno dovoljenje, ki je štelo kot osebno delovno dovoljenje za opravljanje samostojne poklicne ali druge pridobitne dejavnosti in so na tej podlagi socialno zavarovani, morajo v roku šestih mesecev po uveljavitvi tega zakona vložiti vlogo pri pristojnem zavodu za zaposlovanje za izdajo osebnega delovnega dovoljenja, ki se izda v skladu z 10. členom tega zakona, za nedoločen ali določen čas glede na čas opravljanja dejavnosti pred uveljavitvijo tega zakona. Za izdajo osebnega delovnega dovoljenja iz tega člena se taksa ne plača.
-(2) Zavod za zaposlovanje v roku enega meseca po uveljavitvi tega zakona seznani vse tujce iz prejšnjega odstavka z obveznostjo zamenjave teh dovoljenj za nova in o roku za zamenjavo.
-(3) Po poteku roka iz prvega odstavka tega člena dovoljenje, ki je štelo kot osebno delovno dovoljenje po zakonu o zaposlovanju tujcev, preneha veljati.

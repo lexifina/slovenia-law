@@ -1,5 +1,0 @@
-# 24. člen Pogodbene storitve tujih umetnikov in poklicnih ustvarjalcev
-(1) Tujci, ki kot estradni umetniki ali poklicni ustvarjalci, ki z zabavnim programom samostojno ali v okviru skupin nastopajo na prireditvah v Republiki Sloveniji, lahko svoje storitve izvajajo brez delovnega dovoljenja, če te skupaj ne trajajo več kot sedem dni. Izjeme so cirkuške predstave in zabaviščni parki, ko je delo brez delovnih dovoljenj dopustno za čas odobrenega bivanja v državi.
-(2) Pogoj za izvajanje storitev po prejšnjem odstavku je prijava dela na zavodu za zaposlovanje. Zavezanec za prijavo dela je prireditelj oziroma naročnik storitev v kraju izvajanja storitve, če se dela izvajajo na več lokacijah pa v kraju, kjer je sedež prireditelja oziroma naročnika storitev.
-(3) V primeru, da se delo v okviru pogodb izvaja dalj časa, kot je določeno v prvem odstavku tega člena, morajo tujci pridobiti delovno dovoljenje v skladu z naravo dela, ki ga opravljajo.
-(4) Storitve, navedene v prvem odstavku tega člena, se lahko izvajajo na podlagi potrdila o prijavi dela večkrat, vendar skupno največ 30 dni v koledarskem letu.
