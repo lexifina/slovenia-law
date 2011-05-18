@@ -1,0 +1,6 @@
+# 9. člen
+V prvem odstavku 62. člena se 2. točka spremeni tako, da se glasi:
+"2. da je sodnik sodišča enakega ali višjega položaja in da je sodniško službo uspešno opravljal vsaj tri leta;".
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"Ne glede na določbi prvega odstavka 61.c člena tega zakona in prejšnjega odstavka funkcija direktorja sodišča oziroma predsednika sodišča ne preneha, če direktor sodišča oziroma predsednik sodišča, ki iz opravičenih razlogov ni mogel opraviti programa usposabljanja do izteka zakonskega roka, pred iztekom tega roka vloži prošnjo za njegovo podaljšanje. O prošnji predsednika sodišča odloči predsednik višjega sodišča, o prošnji direktorja sodišča pa generalni sekretar Vrhovnega sodišča Republike Slovenije. Če prošnji ni ugodeno, se direktor sodišča oziroma predsednik sodišča lahko pritoži v osmih dneh od vročitve odločitve o prošnji. O pritožbi predsednika sodišča odloči sodni svet, o pritožbi direktorja sodišča pa minister, pristojen za pravosodje. Z dnem pravnomočnosti odločbe pristojnega organa o zavrženju ali zavrnitvi prošnje funkcija direktorja oziroma predsednika sodišča preneha.".
+Dosedanji tretji odstavek postane četrti odstavek.
