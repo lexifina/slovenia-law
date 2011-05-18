@@ -1,0 +1,3 @@
+# 8. člen
+(1) Določba 6. člena tega zakona se v delu, v katerem se nanaša na določitev krajevne pristojnosti za opravljanje nalog davčne izvršbe iz 13. člena zakona, začne uporabljati 1. oktobra 2011, v delu, v katerem se nanaša na določitev krajevne pristojnosti za opravljanje ostalih nalog iz 13. člena zakona, pa se začne uporabljati 1. julija 2013. Do začetka uporabe ureditve iz 6. člena tega zakona se uporablja 45.a člen Zakona o davčni službi (Uradni list RS, št. 1/07 - uradno prečiščeno besedilo in 40/09).
+(2) Postopki, ki so ob uveljavitvi tega zakona v teku, se končajo po Zakonu o davčni službi (Uradni list RS, št. 1/07 - uradno prečiščeno besedilo in 40/09).
