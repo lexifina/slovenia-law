@@ -1,2 +1,0 @@
-# 1. člen
-V Zakonu o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti (Uradni list RS, št. 53/07) se v 3. členu v 6. točki besedilo "oddelek D" nadomesti z besedilom "področje C", besedilo "(s podpodročji od DA do DN)" pa se nadomesti z vejico in besedilom "oddelek 58 Založništvo, ki spada na področje J - Informacijske in komunikacijske dejavnosti, ali oddelek 38 Zbiranje in odvoz odpadkov ter ravnanje z njimi; pridobivanje sekundarnih surovin, ki spada na področje E - Oskrba z vodo; Ravnanje z odplakami in odpadki; Saniranje okolja".
