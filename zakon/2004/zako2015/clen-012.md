@@ -4,12 +4,18 @@
 2. organizira delo davčnih uradov;
 3. nadzira delo davčnih uradov v poslovnih prostorih davčnih uradov in pri zavezancih za davek;
 4. zagotavlja enotno izvajanje predpisov s področja obdavčenja in drugih predpisov z delovnega področja službe;
-5. organizira in skrbi za enotno izvajanje postopkov davčnega nadzora in davčne izvršbe;
-6. opravlja davčne preiskave, davčni nadzor in razvija metode in tehnike preprečevanja in odkrivanja davčnih prekrškov in dejanj v zadevah iz pristojnosti službe;
+5. organizira in skrbi za enotno izvajanje postopkov davčnega nadzora in davčne izvršbe ter opravlja posamezne naloge pred uvedbo davčne izvršbe (na primer opominjanje davčnih zavezancev in pripravljanje podatkov za davčno izvršbo);
+6. opravlja davčne preiskave, davčni nadzor in oblikuje metode ter tehnike preprečevanja in odkrivanja prekrškov in kaznivih dejanj v zadevah iz pristojnosti službe;
 7. odloča v upravnem postopku na prvi stopnji, kadar ta pristojnost izhaja iz zakonov ali drugih predpisov;
+7.a odloča v davčnem postopku na prvi stopnji, kadar:
+- ugotavlja zastaranje pravice do vračila preveč plačanega davka in odpisuje davek na tej podlagi,
+- ugotavlja zastaranje pravice do izterjave davka zaradi poteka absolutnega zastaralnega roka in odpisuje davek na tej podlagi in
+- odloča o obročnem plačilu davka na podlagi drugega odstavka 103. člena Zakona o davčnem postopku (Uradni list RS. št. 117/06, 24/08 - ZDDIKS, 125/08, 20/09 - ZDoh-2D, 110/09, 1/10 - popr., 43/10 in 97/10);
 8. vzpostavi, organizira, vzdržuje in vodi davčni register;
 9. zbira, obdeluje, hrani, daje na razpolago in razkriva podatke s področja dela službe;
 10. vzpostavi, vodi, vzdržuje in povezuje zbirke podatkov in evidenc s področja dela službe;
+10.a opravlja računovodske in finančne naloge s področja pobiranja davkov;
+10.b izvaja vračila preveč plačanih davkov;
 11. določa vsebino informacijskega sistema, ga upravlja in skrbi za njegov razvoj, vključno z upravljanjem in razvijanjem sistema za elektronsko davčno poslovanje;
 12. predlaga obliko in vsebino obrazcev s področja dela službe;
 13. določa in izvaja programe za kadrovski, strokovni in tehnični razvoj službe;
