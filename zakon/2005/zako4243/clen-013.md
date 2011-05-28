@@ -1,2 +1,0 @@
-# 13. člen
-Do vzpostavitve informatizirane evidence naznanitev okoliščin pogrešitev osebnih izkaznic državljan naznani pogrešitev osebne izkaznice pristojnemu organu, na območju katere ima prijavljeno stalno oziroma začasno prebivališče, če v Republiki Sloveniji nima stalnega prebivališča.
