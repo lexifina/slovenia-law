@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o uveljavljanju pravic iz javnih sredstev (Uradni list RS, št. 62/10) se v 9. členu pika nadomesti z vejico in doda besedilo "razen za ugotavljanje dohodka pri ugotavljanju upravičenosti do denarne socialne pomoči in varstvenega dodatka v skladu z zakonom, ki ureja socialnovarstvene prejemke in za ugotavljanje dohodka pri ugotavljanju upravičenosti do subvencije najemnine, kritja razlike do polne vrednosti zdravstvenih storitev in plačila prispevka za obvezno zdravstveno zavarovanje, glede katerih se uporablja zakon, ki ureja socialno varstvene prejemke."

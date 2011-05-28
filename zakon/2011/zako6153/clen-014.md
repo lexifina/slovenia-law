@@ -1,0 +1,4 @@
+# 14. člen
+Za drugim odstavkom 62. člena se dodata novi tretji in četrti odstavek, ki se glasita:
+"(3) Ne glede na določbo prvega odstavka 23. člena tega zakona so do začetka šolskega ali študijskega leta 2013/14 do državne štipendije upravičeni državljani Republike Slovenije, ki so starejši od 18 let in izpolnjujejo druge pogoje po zakonu, ki ureja štipendiranje, in pri katerih povprečni mesečni dohodek na osebo v preteklem koledarskem letu pred vložitvijo vloge ne presega 53 % neto povprečne plače na osebo v istem obdobju.
+(4) Upravičencem do državne štipendije, ki so to štipendijo pridobili po Zakonu o štipendiranju (Uradni list RS, št. 59/07, 63/07 - popr., 40/09 in 62/10 - ZUPJS) in ob začetku uporabe tega zakona še niso stari 18 let, štipendijsko razmerje miruje do izpolnitve starostnega pogoja za pridobitev državne štipendije po tem zakonu.".

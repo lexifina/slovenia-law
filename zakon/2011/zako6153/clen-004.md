@@ -1,0 +1,5 @@
+# 4. člen
+V 29. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Zavarovanec oziroma po njem zavarovan družinski član izkazuje izpolnjevanje pogojev iz prejšnjega odstavka z odločbo centra za socialno delo o pravici do kritja razlike do polne vrednosti zdravstvenih storitev. O pravici do kritja razlike do polne vrednosti zdravstvenih storitev center za socialno delo odloči po uradni dolžnosti, če je oseba upravičena do denarne socialne pomoči, in je, kadar oseba uveljavlja pravico do denarne socialne pomoči, ni treba posebej uveljavljati, razen če oseba na vlogi izrecno izjavi, da te pravice ne želi.".
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Center za socialno delo obvesti o številki, datumu in o obdobju veljavnosti izdane odločbe za posameznega upravičenca iz prvega odstavka tega člena Zavod za zdravstveno zavarovanje Slovenije, ki v evidenci zavarovanih oseb vodi podatek o upravičenosti do kritja razlike do polne vrednosti zdravstvenih storitev, in zavarovalnico, pri kateri ima upravičenec sklenjeno prostovoljno zdravstveno zavarovanje.".
