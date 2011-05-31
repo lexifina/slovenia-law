@@ -1,0 +1,13 @@
+# 3. člen
+Slovenska odškodninska družba, d.d. in Republika Slovenija na dan 31. decembra 2010 z zapisnikom, ki ga sestavita in podpišeta najpozneje v 45 dneh od uveljavitve tega zakona, ugotovita:
+- višino izplačanih sredstev za izplačilo obveznosti po zakonu,
+- višino sredstev, prejetih kot dividende iz imetništva 653.548 delnic družbe Telekom, d.d.,
+- višino sredstev, ki jih je Slovenska odškodninska družba, d.d. prejela od Republike Slovenije za izplačilo obveznosti po zakonu, in
+- višino sredstev, ki jih je Slovenska odškodninska družba, d.d. od leta 2007 založila za izplačila obveznosti po zakonu in jih še ni prejela povrnjenih, kar predstavlja dolg Republike Slovenije do Slovenske odškodninske družbe, d.d..
+Slovenska odškodninska družba, d.d. in Republika Slovenija s pogodbo, ki jo skleneta v 60 dneh od uveljavitve tega zakona, uredita medsebojna razmerja, in sicer vsaj:
+- neodplačen prenos 653.548 delnic družbe Telekom, d.d., ki jih je Slovenska odškodninska družba, d.d. pridobila za izvajanje zakona,
+- novo zavarovanje za poroštvo Republike Slovenije na podlagi Zakona o poroštvu Republike Slovenije za obveznosti Slovenske odškodninske družbe, d.d., iz naslova kreditov, najetih za financiranje Slovenske odškodninske družbe, d.d., v letu 2009 (Uradni list RS, št. 42/09; v nadaljnjem besedilu: ZPSOD09),
+- način in dinamiko plačila ter obrestno mero za sredstva, ki jih je Slovenska odškodninska družba, d.d. od leta 2007 založila za izplačila upravičencem po zakonu. Dolg Republike Slovenije do Slovenske odškodninske družbe, d.d. se od 31. 12. 2010 dalje obrestuje po obrestni meri, ki je enaka 6-mesečnemu EURIBOR-ju. Vrednost EURIBOR-ja se ugotavlja dvakrat letno, in sicer na dan 31. marca in 30. septembra in se uporabi za obračun obresti za preteklo šestmesečno obdobje. Obresti po tem zakonu se obračunavajo linearno za obdobje od 31. decembra 2010 do 31. marca 2012 in se 31. marca 2012 pripišejo glavnici,
+- da Republika Slovenija dolg do Slovenske odškodninske družbe, d.d. poravnava v desetih polletnih obrokih, pri čimer prvi obrok zapade v plačilo 31. marca 2012. Neplačan dolg se obrestuje po obrestni meri iz prejšnje alineje. Obresti se izplačujejo polletno skupaj z obrokom glavnice,
+- da lahko Slovenska odškodninska družba, d.d. terjatve do Republike Slovenije proda ali zastavi le, če se s tem zmanjšajo obveznosti Slovenske odškodninske družbe, d.d., za katere daje poroštvo Republika Slovenija po ZPSOD09,
+- da Slovenska odškodninska družba, d.d. sama nosi morebitne stroške predčasnega poplačila najetih kreditov.
