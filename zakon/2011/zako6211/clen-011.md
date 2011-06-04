@@ -1,0 +1,2 @@
+# 11. člen
+Na koncu prvega odstavka 29. člena se doda besedilo, ki se glasi: "Komisija opozori na nezdružljivost tudi funkcionarja, ki je po nastopu funkcije pričel opravljati dejavnost, članstvo ali funkcijo, ki po tem zakonu ni združljiva z opravljanjem njegove funkcije in mu v opozorilu določi rok, v katerem mora odpraviti nezdružljivost. Ta rok ne sme biti krajši od 15 dni in ne daljši od treh mesecev.".
