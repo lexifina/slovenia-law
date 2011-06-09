@@ -1,0 +1,3 @@
+# 14. člen
+(1) Društvo, ki je do uveljavitve tega zakona že registrirano, mora uskladiti dejavnost, ki je pridobitna, v skladu s predpisi, ki urejajo standardno klasifikacijo dejavnosti, ob prvi spremembi temeljnega akta po uveljavitvi tega zakona.
+(2) Če društvo iz prejšnjega odstavka ob prvi spremembi temeljnega akta po uveljavitvi tega zakona ne uskladi dejavnosti, ki je pridobitna, v skladu s predpisi, ki urejajo standardno klasifikacijo dejavnosti, pristojni organ odloči o zahtevi za registracijo spremembe temeljnega akta, ko je uskladitev opravljena. To uskladitev lahko opravi katerikoli organ društva.
