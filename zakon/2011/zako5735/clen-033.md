@@ -1,0 +1,5 @@
+# 33. člen
+Ne glede na 3.g in prvi odstavek 3.i člena zakona se odškodnina zaradi spremembe namembnosti odmeri za gradnjo objektov, načrtovanih z državnimi prostorskimi načrti, ter za gradnjo objektov s področja športa, zdravstva, šolstva, socialnega varstva, znanosti, kulture, prometne, energetske, komunalne in vodne infrastrukture, katerih investitor je država ali lokalna skupnost:
+- v višini 30 odstotkov od predpisane odškodnine iz 3.g oziroma prvega odstavka 3.i člena zakona, če investitor vloži vlogo za izdajo dovoljenja za gradnjo objekta od uveljavitve tega zakona do 31. decembra 2011;
+- v višini 50 odstotkov od predpisane odškodnine iz 3.g oziroma prvega odstavka 3.i člena zakona, če investitor vloži vlogo za izdajo dovoljenja za gradnjo objekta od 1. januarja 2012 do 31. decembra 2012;
+- v višini 70 odstotkov od predpisane odškodnine iz 3.g oziroma prvega odstavka 3.i člena zakona, če investitor vloži vlogo za izdajo dovoljenja za gradnjo objekta od 1. januarja 2013 do 31. decembra 2013.

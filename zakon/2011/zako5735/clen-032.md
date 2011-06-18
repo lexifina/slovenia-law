@@ -1,0 +1,2 @@
+# 32. člen
+Do vzpostavitve prostorskega informacijskega sistema v skladu z zakonom, ki ureja prostorsko načrtovanje, organi iz prvega odstavka 3.h člena zakona podatke o zneskih plačanih odškodnin zaradi spremembe namembnosti in o površinah zemljiških parcel, za katere je bila plačana odškodnina zaradi spremembe namembnosti, po pravnomočnosti gradbenega dovoljenja vnesejo v začasno evidenco, ki jo vodi ministrstvo, pristojno za kmetijstvo.

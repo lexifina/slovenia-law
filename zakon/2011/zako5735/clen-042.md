@@ -1,0 +1,3 @@
+# 42. člen
+Z dnem uveljavitve tega zakona prenehata veljati drugi in tretji odstavek 44. člena Zakona o prostorskem načrtovanju (Uradni list RS, št. 33/07, 70/08 - ZVO-1B, 108/09 in 80/10 - ZUPUDPP), uporabljata pa se do uveljavitve predpisov iz 3.b in 3.c člena zakona ter objave seznama organizacij iz 3.f člena zakona.
+Z dnem uveljavitve tega zakona preneha veljati Pravilnik o kriterijih za načrtovanje prostorskih ureditev in posegov v prostor na najboljših kmetijskih zemljiščih zunaj območij naselij (Uradni list RS, št. 110/08), njegove določbe, razen tretjega stavka prvega odstavka 2. člena in tretje alinee četrtega odstavka 4. člena, pa se uporabljajo do uveljavitve predpisov iz 3.b in 3.c člena zakona ter objave seznama organizacij iz 3.f člena zakona.

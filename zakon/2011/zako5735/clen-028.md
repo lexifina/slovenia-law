@@ -1,0 +1,2 @@
+# 28. člen
+Sklepe o začetku postopkov priprave prostorskih aktov lokalnih skupnosti, ki se sprejmejo po uveljavitvi predpisa iz 3.b člena zakona, po objavi seznama organizacij iz 3.f člena zakona in po uveljavitvi predpisov iz enajstega in trinajstega odstavka 3.c člena zakona, lokalne skupnosti do vzpostavitve prostorskega informacijskega sistema v skladu z zakonom, ki ureja prostorsko načrtovanje, posredujejo ministrstvu, pristojnemu za kmetijstvo.
