@@ -1,0 +1,3 @@
+# 32. člen (začetek pogajanj)
+
+Evropski svet delavcev, ki je ustanovljen po samem zakonu, mora najmanj šest mesecev pred koncem mandata z večino glasov vseh članov sprejeti sklep, ali bo začel pogajanja za dogovor z glavnim poslovodstvom v skladu s 15. členom tega zakona. Če se evropski svet delavcev odloči za začetek pogajanj, ima iste pravice in obveznosti kot posebno pogajalsko telo. Pri tem se smiselno uporabljajo določbe 7., 11. in 12. člena, prvi odstavek 13. člena ter 14., 15., 16. in 18. člen tega zakona. Če pride do sklenitve dogovora o obveščanju in posvetovanju z delavci po 15. členu tega zakona, mandat evropskega sveta delavcev preneha z njegovo sklenitvijo.
