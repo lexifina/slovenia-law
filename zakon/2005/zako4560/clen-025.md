@@ -1,2 +1,0 @@
-# 25. člen
-Če Evropska komisija meni, da je predlog za uvedbo pomirjevalnega postopka upravičen glede na veljavne predpise, pozove naročnika, da poda v naslednjih petih dneh izjavo, ali bo sodeloval v pomirjevalnem postopku. V primeru, da naročnik z izjavo odkloni sodelovanje v pomirjevalnem postopku, Evropska komisija obvesti osebo iz prvega odstavka 24. člena tega zakona, da ne more uvesti postopka.

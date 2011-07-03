@@ -1,4 +1,0 @@
-Z A K O N
-O REVIZIJI POSTOPKOV JAVNEGA NAROČANJA
-uradno prečiščeno besedilo
-(ZRPJN-UPB3)

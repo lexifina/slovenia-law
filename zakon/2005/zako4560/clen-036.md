@@ -1,9 +1,0 @@
-# 36. člen
-Do uveljavitve zakona, ki bo urejal pravice iz delovnega razmerja za javne uslužbence, veljajo glede pravic iz delovnega razmerja za predsednika in člane Državne revizijske komisije enaki predpisi kot veljajo za državne sekretarje, s tem, da se plača predsednika Državne revizijske komisije poveča za 10%.
-37. člen - upoštevan popravek ZRPJN in sprememba iz ZRPJN-A
-(1) Določbe tega zakona, ki obvezujejo naročnika, Republiko Slovenijo ali njene organe, da sporočajo določene podatke pristojnim organom Evropske unije in določbe, ki se nanašajo na obveznost objavljanja v Uradnem glasilu Evropskih skupnosti, začnejo veljati z dnem, ko bo postala Republika Slovenija članica Evropske unije.
-(2) Določbe 24. do 28. člena tega zakona, ki urejajo pomirjevalni postopek bodo pričele veljati z dnem, ko bo postala Republika Slovenija članica Evropske unije in veljajo za javna naročila, ki jih je potrebno objaviti v Uradnem glasilu Evropskih skupnosti.
-(3) Določbe 29. do 31. člena tega zakona, ki urejajo izdajo potrdil o pravilnosti postopkov oddaje javnega naročila in določbe 28.a člena tega zakona, začnejo veljati z dnem, ko bo postala Republika Slovenija članica Evropske unije in veljajo za javna naročila, ki jih je potrebno objaviti v Uradnem glasilu Evropskih skupnosti.
-(4) V primeru javnih naročil, ki se financirajo iz sredstev mednarodnih organizacij, skladov ali drugih podobnih virov, se določila tega zakona uporabljajo v primeru, če je s sporazumom, s katerim je takšno financiranje urejeno in katerega podpisnica je Republika Slovenija, predvideno, da se pravno varstvo zagotavlja v skladu s pravnim redom Republike Slovenije.
-(5) Državno pravobranilstvo, ministrstvo, pristojno za finance in urad, pristojen za varstvo konkurence, v postopkih revizije ne plačajo takse, ki jo določa ta zakon.
-Uveljavitev zakona
