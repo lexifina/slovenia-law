@@ -1,5 +1,0 @@
-# 32. člen
-Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
-Št. 450-02/99-10/13
-Ljubljana, dne 29. novembra 2002.
-Podpredsednik Državnega zbora Republike Slovenije dr. Mihael Brejc l. r.

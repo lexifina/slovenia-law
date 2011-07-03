@@ -1,4 +1,0 @@
-# 6. člen
-V 11. členu se prvi in drugi odstavek spremenita tako, da se glasita:
-"(1) Vložen zahtevek za revizijo zadrži postopek oddaje javnega naročila do odločitve Državne revizijske komisije. O vloženem zahtevku za revizijo mora naročnik obvestiti vse udeležene v postopku oddaje javnega naročila najkasneje v treh dneh od prejema zahtevka za revizijo.
-(2) Državna revizijska komisija lahko na predlog naročnika sprejme sklep, da vloženi zahtevek za revizijo ne zadrži nadaljnjih aktivnosti naročnika v postopku oddaje javnega naročila v celoti ali jih zadrži le deloma. Pri odločanju o predlogu naročnika Državna revizijska komisija upošteva razmerje med škodljivimi posledicami zadržanja in koristmi za vse, ki bi lahko bili oškodovani ter javnim interesom za izvedbo postopka oddaje javnega naročila. Če Državna revizijska komisija predlogu ugodi, mora naročnik o tem obvestiti vse udeležene v postopku oddaje javnega naročila."
