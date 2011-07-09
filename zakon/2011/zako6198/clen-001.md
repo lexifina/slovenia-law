@@ -1,0 +1,10 @@
+# 1. člen
+V Zakonu o prevozih v cestnem prometu (Uradni list RS, št. 131/06, 5/07 - popr., 123/08 in 28/10) se v prvem odstavku 2. člena črta druga alinea.
+V drugem odstavku se črtajo tretja, četrta, peta in šesta alinea, za dosedanjimi sedmo, osmo in deveto alineo, ki postanejo tretja, četrta in peta alinea, pa se dodajo nova šesta, sedma, osma, deveta in deseta alinea, ki se glasijo:
+"- Uredbe Sveta (ES) št. 1071/2009 Evropskega parlamenta in Sveta z dne 21. oktobra 2009 o skupnih pravilih glede pogojev za opravljanje dejavnosti cestnega prevoznika in o razveljavitvi Direktive Sveta 96/26/ES (UL L št. 300 z dne 14. 11. 2009, stran 51, v nadaljnjem besedilu: Uredba 1071/2009/ES);
+- Uredbe Sveta (ES) št. 1072/2009 z dne 21. oktobra 2009 o skupnih pravilih za dostop do trga mednarodnega cestnega prevoza blaga (UL L št. 300 z dne 14. 11. 2009, stran 72; v nadaljnjem besedilu: Uredba 1072/2009/ES);
+- Uredbe Sveta (ES) št. 1073/2009 z dne 21. oktobra 2009 o skupnih pravilih za dostop do mednarodnega trga avtobusnih prevozov in spremembi Uredbe (ES) št. 61/2006 (UL L št. 300 z dne 14. 11. 2009, stran 88; v nadaljnjem besedilu: Uredba 1073/2009/ES);
+- Uredbe Komisije (EU) št. 1213/2010 z dne 16. decembra 2010 o vzpostavitvi skupnih pravil o medsebojnem povezovanju nacionalnih elektronskih registrov podjetij cestnega prevoza (UL L št. 335 z dne 18. 12. 2010, stran 21; v nadaljnjem besedilu: Uredba 1213/2010/ES);
+- Uredbe (ES) št. 1370/2007 z dne 23. oktobra 2007 o javnih storitvah železniškega in cestnega potniškega prevoza ter o razveljavitvi uredb Sveta (EGS) št. 1191/69 in št. 1107/70 (UL L št. 315 z dne 3. 12. 2007, stran 1; v nadaljnjem besedilu: Uredba 1370/2007/ES.".
+Za drugim odstavkom se doda novi tretji odstavek, ki se glasi:
+"(3) S tem zakonom se ureja izvajanje Sklepa Komisije z dne 17. decembra 2009 o minimalnih zahtevah glede podatkov, ki morajo biti vneseni v nacionalni elektronski register podjetij cestnega prevoza (UL L št. 339 z dne 22.12.2009, stran 36.".

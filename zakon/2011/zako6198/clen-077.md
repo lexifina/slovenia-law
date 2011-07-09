@@ -1,0 +1,8 @@
+# 77. člen (prenos pristojnosti na organ JPP)
+(1) S 1. januarjem 2012 organ JPP prevzame naloge, določene v tretjem odstavku 4. člena zakona. Do takrat navedene naloge opravljajo organi, ki so te naloge opravljali do uveljavitve tega zakona.
+(2) S 1. januarjem 2012 organ JPP prevzame javne uslužbence, ki na Ministrstvu za promet in Direkciji Republike Slovenije za ceste, opravljajo naloge, prenesene v pristojnost organa JPP, dokumentacijo ter tehnična, finančna, materialna sredstva in prostore, ki so namenjeni za izvajanje prenesenih nalog.
+(3) Javni uslužbenci iz drugega odstavka tega člena sklenejo pogodbo o zaposlitvi z organom JPP za delovna mesta, določena v aktu o organizaciji in sistemizaciji delovnih mest organa JPP, pri čemer se jim zagotovijo najmanj enake pravice iz delovnega razmerja, kot so jih imeli pred premestitvijo.
+(4) S 1. januarjem 2012 organ JPP prevzame vse pogodbene obveznosti in pravice iz pogodb, ki so jih kot pogodbene stranke sklenili Ministrstvo za promet, Direkcija Republike Slovenije za ceste in Direkcija Republike Slovenije za vodenje investicij v javno železniško infrastrukturo in se nanašajo na izvajanje nalog organa JPP, in sicer do iztekov rokov, določenih v pogodbah.
+(5) S 1. januarjem 2012 organ JPP prevzame vodenje in upravljanje evidenc registra linij in voznih redov, registra posebnih linijskih prevozov, centralne zbirke podatkov sistema voznega reda in registra javnega linijskega prometa.
+(6) S 1. januarjem 2012 se na organ JPP prenese tudi dokumentarno in drugo gradivo, ki se nanaša na evidence iz prejšnjega odstavka.
+(7) Upravni postopki, začeti pred začetkom uporabe tega zakona, katerih vodenje je s tem zakonom preneseno na organ JPP se dokončajo po tem zakonu.

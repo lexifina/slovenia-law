@@ -1,0 +1,8 @@
+# 76. člen (prenos pristojnosti na Ministrstvo za promet)
+(1) S 1. septembrom 2011 Ministrstvo za promet prevzame naloge, določene v drugem odstavku 4. člena zakona. Do takrat navedene naloge opravljajo organi, ki so te naloge opravljali do uveljavitve tega zakona.
+(2) S 1. septembrom 2011 Ministrstvo za promet prevzame javne uslužbence, ki na Direkciji Republike Slovenije za ceste opravljajo naloge, prenesene v pristojnost Ministrstva za promet, dokumentacijo ter tehnična, finančna, materialna sredstva in prostore, ki so namenjeni za izvajanje prenesenih nalog.
+(3) Javni uslužbenci iz drugega odstavka tega člena sklenejo pogodbo o zaposlitvi z Ministrstvom za promet za delovna mesta, določena v aktu o organizaciji in sistemizaciji delovnih mest Ministrstva za promet, pri čemer se jim zagotovijo najmanj enake pravice iz delovnega razmerja, kot so jih imeli pred premestitvijo.
+(4) S 1. septembrom 2011 Ministrstvo za promet prevzame vse pogodbene obveznosti in pravice iz pogodb, ki jih je kot pogodbena stranka sklenila Direkcija Republike Slovenije za ceste in se nanašajo na izvajanje nalog Ministrstva za promet, in sicer do iztekov rokov, določenih v pogodbah.
+(5) S 1. septembrom 2011 Ministrstvo za promet prevzame vodenje in upravljanje registra mednarodnih linij in voznih redov.
+(6) S 1. septembrom 2011 se na Ministrstvo za promet prenese tudi dokumentarno in drugo gradivo, ki se nanaša na evidence iz prejšnjega odstavka.
+(7) Upravni postopki, začeti pred začetkom uporabe tega zakona, katerih vodenje je s tem zakonom preneseno na Ministrstvo za promet, se dokončajo po tem zakonu.

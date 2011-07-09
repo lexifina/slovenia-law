@@ -1,0 +1,8 @@
+# 54. člen
+V prvem odstavku 102. člena se beseda "direkcija" nadomesti z besedo "ministrstvo".
+V petem odstavku se besedilo "mora biti ustrezno in pravilno izpolnjeno" nadomesti z besedilom "morata biti ustrezno in pravilno izpolnjena".
+V osmem in desetem odstavku se beseda "direkcijo" nadomesti z besedo "ministrstvo".
+Enajsti, dvanajsti in trinajsti odstavek se spremenijo tako, da se glasijo:
+"(11) Pravne osebe, samostojni podjetniki posamezniki, posamezniki, ki samostojno opravljajo dejavnost, pri katerih se v mednarodnem cestnem prometu in pri opravljanju kabotaže blago nalaga ali razlaga, so dolžni pred nalaganjem ali razlaganjem blaga preveriti, če izdana bilateralna dovolilnica, ki jo potrebujejo tuji prevozniki, še ni bila uporabljena, oziroma, če se CEMT dovolilnica ustrezno uporablja.
+(12) Osebe, navedene v prejšnjem odstavku, morajo preverjeno dovolilnico v skladu z enajstim odstavkom tega člena na zadnji strani dovolilnice označiti kot uporabljeno tako, da navedejo, ali gre za nalaganje ali razlaganje, datum, se podpišejo in odtisnejo žig ter jo fotokopirajo. CEMT dovolilnice se po preverjanju samo fotokopirajo. Kopije dovolilnic oziroma CEMT dovolilnic, ki so jih evidentirale so dolžne hraniti dve leti po preteku leta, v katerem je bilo opravljeno preverjanje in evidentiranje.
+(13) Določbe enajstega in dvanajstega odstavka tega člena ne veljajo za območja prostih con kontrolne vrste 1, določenih v skladu s 799. členom Uredbe Komisije (EGS) št. 2454/93 z dne 2. julija 1993 o določbah za izvajanje Uredbe Sveta (EGS) št. 2913/92 o carinskem zakoniku Skupnosti (UL L št. 253 z dne 11.10.1993, stran 3; z vsemi spremembami in dopolnitvami).".
