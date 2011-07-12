@@ -1,0 +1,2 @@
+# 7. člen (načeli neodvisnosti in nepristranskosti)
+STA deluje po načelih neodvisnega, nepristranskega in profesionalnega novinarsko-agencijskega obveščanja. STA ne sme pod nobenim pogojem upoštevati vplivov in pogledov, ki bi lahko vplivali na točnost, objektivnost ali verodostojnost njenih informacij. STA ne sme, dejansko ali pravno, postati odvisna od katerekoli ideološke, politične ali ekonomske skupine.
