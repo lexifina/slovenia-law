@@ -1,0 +1,3 @@
+# 10. člen (oprostitve)
+(1) Davka ne plačajo zavezanci, pri katerih je stanje kreditov danih nefinančnim družbam in samostojnim podjetnikom v koledarskem letu, za katerega se plačuje davek, višje od stanja teh kreditov v preteklem koledarskem letu najmanj za 5 % bilančne vsote preteklega koledarskega leta. Bilančna vsota se izračuna kot povprečje vrednosti na vsak zadnji dan meseca v koledarskem letu.
+(2) Davka ne plačajo zavezanci, pri katerih stanje kreditov danih nefinančnim družbam in samostojnim podjetnikom na zadnji dan meseca uveljavitve tega zakona v bilančni vsoti, znaša manj kot 20 %.
