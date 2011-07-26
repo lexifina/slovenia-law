@@ -11,7 +11,8 @@
 9. pomembnejših spremembah v strukturi kapitala,
 10. prenehanju opravljanja določenih storitev iz prvega odstavka 41. člena tega zakona,
 11. vseh dejstvih in okoliščinah, ki so pomembne za presojo, ali je banka vključena v bančno skupino, ter o osebah in načinu povezav v bančni skupini, v katero je banka vključena,
-12. vseh drugih dejstvih in okoliščinah, ki so pomembne za presojo, ali banka posluje v skladu s pravili o upravljanju s tveganji.
+12. vseh drugih dejstvih in okoliščinah, ki so pomembne za presojo, ali banka posluje v skladu s pravili o upravljanju s tveganji in
+13. številu zaposlenih z najvišjimi prejemki, vključno z informacijami o višini teh prejemkov, zlasti plač, nagrad, bonitet in posebnih pokojninskih ugodnosti, ter o področju njihovega dela.
 (2) Uprava banke mora Banko Slovenije nemudoma obvestiti o naslednjih dogodkih:
 1. če je ogrožena likvidnost ali kapitalska ustreznost banke ali če banka na zahtevo vlagatelja ni izplačala njegove dospele vloge,
 2. če nastopijo razlogi za prenehanje ali odvzem dovoljenja za opravljanje bančnih storitev oziroma prepoved opravljanja posameznih bančnih poslov ali storitev iz prvega odstavka 41. člena tega zakona,

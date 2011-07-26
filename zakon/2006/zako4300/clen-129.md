@@ -43,4 +43,13 @@ Banka Slovenije predpiše:
 12. ustrezne ukrepe za upravljanje z obrestnim tveganjem, ki nastopi zaradi nenadnih in nepričakovanih sprememb obrestnih mer, vendar le za banke, katerih izguba, nastala zaradi sprememb teh obrestnih mer, presega 20 odstotkov njihovega kapitala,
 13. merila za primerne izvozne agencije,
 14. podrobnejša pravila v zvezi z ocenjevanjem ustreznega notranjega kapitala in
-15. podrobnejša pravila glede izpolnjevanja pogojev, pod katerimi je banka lahko izpostavljena prenesenemu kreditnemu tveganju oziroma ima pozicije v listinjenju.
+15. podrobnejša pravila glede izpolnjevanja pogojev, pod katerimi je banka lahko izpostavljena prenesenemu kreditnemu tveganju oziroma ima pozicije v listinjenju,
+16. v zvezi s sistemom prejemkov:
+- podrobnejšo opredelitev prejemkov iz 16. točke prvega odstavka 207. člena tega zakona,
+- podrobnejšo opredelitev zaposlenih s posebno naravo dela,
+- podrobnejša načela in pravila politik in praks prejemkov, vključno z zahtevami glede prilagajanja prejemkov tveganjem,
+- podrobnejša pravila glede uporabe načela sorazmernosti in opustitve pravil politik prejemkov,
+- podrobnejše naloge službe notranje revizije,
+- podrobnejšo opredelitev nalog in podrobnejšo sestavo komisije za prejemke,
+- podrobnejša merila za opredelitev pomembnosti banke za namen imenovanja komisije za prejemke,
+- podrobnejše dolžnosti članov nadzornega sveta.
