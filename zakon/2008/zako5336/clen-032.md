@@ -1,3 +1,0 @@
-# 32. člen (nepremičnine, ki so predmet postopkov denacionalizacije)
-(1) Če sodišče pred pravnomočnostjo odločbe o vzpostavitvi etažne lastnine oziroma določitvi pripadajočega zemljišča izve, da je nepremičnina, ki je predmet postopka po temu zakonu, hkrati tudi predmet postopka po predpisih o vračanju podržavljenega premoženja, postopek po tem zakonu nemudoma prekine do pravnomočnega zaključka postopka, v katerem se odloča o vračanju nepremičnine.
-(2) Če je bila odločba o vzpostavitvi etažne lastnine po tem zakonu izdana kljub temu, da za isto nepremičnino poteka postopek po predpisih o vračanju podržavljenega premoženja, takšna odločba ne vpliva na pravice upravičenca do vračila nepremičnine po predpisih o vračanju podržavljenega premoženja.

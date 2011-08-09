@@ -1,9 +1,9 @@
 # 24. člen (odločba o vzpostavitvi etažne lastnine)
-(1) Če sodišče ne zavrže ali zavrne predloga, s sklepom o vzpostavitvi etažne lastnine odloči o:
-1. otvoritvi posebnega zemljiškoknjižnega vložka za vpis etažne lastnine in vpisu pripadajočega zemljišča v ta vložek,
-2. otvoritvi posebnega podvložka pri vložku za vpis etažne lastnine za vpis morebitnih drugih nespornih skupnih delov stavbe, ki se vpisujejo v zemljiško knjigo,
-3. otvoritvi toliko dodatnih podvložkov pri vložku za vpis etažne lastnine, kolikor je posameznih etažnih delov stavbe, in o vpisu vsakega posameznega etažnega dela stavbe v svoj podvložek,
-4. vpisu solastninske pravice na skupnih delih stavbe v korist vsakokratnih lastnikov posameznih podvložkov,
-5. vpisu lastninske pravice na posameznih delih stavbe in
-6. vpisu bremen na skupnih in posameznih delih stavbe.
-(2) Sklep o vzpostavitvi etažne lastnine se po uradni dolžnosti izvede v zemljiški knjigi z vrstnim redom vpisane zaznambe postopka vzpostavljanja etažne lastnine ob smiselni uporabi zakona, ki ureja zemljiško knjigo, o vknjižbi lastninske pravice v vrstnem redu zaznambe spora.
+(1) Če sodišče ne zavrže ali zavrne predloga, z odločbo o vzpostavitvi etažne lastnine:
+1. odloči, da se na nepremičnini vzpostavi etažna lastnina,
+2. določi pripadajoče zemljišče in druge skupne dele stavbe, ki se vpisujejo v zemljiško knjigo,
+3. določi morebitna bremena na skupnih delih stavbe in njihove imetnike, če se vpisujejo v zemljiško knjigo,
+4. določi posamezne dele stavbe in solastniške idealne deleže, ki pripadajo njihovim vsakokratnim lastnikom na skupnih delih stavbe,
+5. za vsak posamezni del stavbe določi lastnika, morebitna bremena in njihove imetnike, če se vpisujejo v zemljiško knjigo in so jih uveljavljali v tem postopku,
+6. odredi vpis etažne lastnine v zemljiški knjigi v vrstnem redu vpisane zaznambe postopka vzpostavljanja etažne lastnine ob upoštevanju določb predpisov, ki urejajo zemljiško knjigo.
+(2) Odločba o vzpostavitvi etažne lastnine se izvede v zemljiški knjigi po uradni dolžnosti.
