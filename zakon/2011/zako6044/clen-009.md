@@ -1,0 +1,6 @@
+# 9. člen
+Za drugim odstavkom 26. člena se doda nov tretji odstavek, ki se glasi:
+"(3) V postopku za določitev pripadajočega zemljišča k stavbi so poleg predlagatelja iz prvega odstavka tega člena udeleženci postopka tudi zemljiškoknjižni lastnik zemljiške parcele, ki bi lahko prišla v poštev za določitev pripadajočega zemljišča k stavbi, zemljiškoknjižni lastnik stavbe, h kateri se določa pripadajoče zemljišče, druga oseba, katere pravni interes utegne biti s sodno odločbo prizadet, in občina, na območju katere se nahaja stavba, h kateri se določa pripadajoče zemljišče.".
+V dosedanjem tretjem odstavku, ki postane četrti odstavek, se za besedilom "23." dodata vejica in besedilo "23.a".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"(5) Določitev oziroma ugotovitev lastninske pravice na pripadajočem zemljišču k stavbi po tem zakonu ne vpliva na razmerja v zvezi z infrastrukturo državnega in lokalnega pomena, ki se nahaja na tej nepremičnini, in na pravice njenih vsakokratnih lastnikov oziroma upravljavcev v zvezi z dostopom in vzdrževanjem te infrastrukture, prav tako pa ne vpliva na druge stvarne in obligacijske pravice oseb, ki niso sodelovale in niso bile obveščene o postopku. Šteje se, da oseba ni bila obveščena že zgolj z objavo obvestila o postopku na spletni strani sodišča.".
