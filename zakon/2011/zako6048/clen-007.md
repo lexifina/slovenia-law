@@ -1,0 +1,2 @@
+# 7. člen
+V drugem odstavku 56. člena se v prvem stavku za besedo "pristojbinam" dodata vejica in besedilo "ki se plačujejo izvajalcu gospodarske javne službe rednega vzdrževanja pristaniške infrastrukture, namenjene za javni promet, ki jo zagotavlja Republika Slovenija,". Na koncu drugega stavka se besedilo "gospodarskih javnih služb iz 43. člena tega zakona" nadomesti z besedilom "gospodarske javne službe rednega vzdrževanja pristaniške infrastrukture, namenjene za javni promet".

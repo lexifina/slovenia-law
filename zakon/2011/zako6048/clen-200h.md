@@ -1,0 +1,3 @@
+# 200.h člen
+Vlada Republike Slovenije lahko za preiskovanje pomorskih nesreč sklene sporazum z državo članico Evropske unije. Na podlagi tega sporazuma lahko preiskovalci te države, ki so za preiskovanje pomorskih nesreč pooblaščeni v skladu z Direktivo 2009/18/ES, izvedejo preiskavo in pripravijo poročilo o pomorski nesreči v skladu s tem zakonom, če jim preiskovalec na podlagi tretjega odstavka 200.č člena tega zakona prepusti izvedbo preiskave in pripravo poročila.
+V sporazumu iz prejšnjega odstavka se določi naloge preiskovalcev, financiranje ter druge vsebine v skladu z Direktivo 2009/18/ES.".

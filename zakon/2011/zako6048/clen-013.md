@@ -1,0 +1,6 @@
+# 13. člen
+V drugem odstavku 128. člena se na koncu stavka črta pika in doda besedilo "(Uradni list RS - MP, št. 14/04). Višina zavarovanja ali drugega finančnega poroštva mora biti v znesku, ki je enak mejam odgovornosti, določenih v Konvenciji o omejitvi odgovornosti za pomorske terjatve, 1976, kakor je bila spremenjena s Protokolom iz leta 1996.".
+Doda se nov tretji odstavek, ki se glasi:
+"Ladja, registrirana za prevoz več kakor 12 potnikov, ki prevaža potnike, in za katero velja Uredba (ES) št. 392/2009 Evropskega parlamenta in Sveta z dne 23. aprila 2009 o odgovornosti prevoznikov potnikov po morju v primeru nesreč (UL L št. 131, z dne 28. 5. 2009, str. 24), mora imeti za vsak prevoz ali del prevoza, ki ga dejansko opravi, potrdilo o zavarovanju ali drugem finančnem poroštvu za kritje odgovornosti v skladu z Atensko konvencijo o prevozu potnikov in njihove prtljage po morju, 1974, kakor je bila spremenjena s Protokolom iz leta 2002, za smrt ali telesne poškodbe potnikov.".
+V dosedanjem tretjem odstavku, ki postane četrti odstavek, se besedilo "prvega in drugega odstavka" nadomesti z besedilom "prvega, drugega in tretjega odstavka".
+Dosedanji četrti odstavek postane peti odstavek.
