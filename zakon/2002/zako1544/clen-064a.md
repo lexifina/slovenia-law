@@ -1,0 +1,3 @@
+# 64.a člen (občinski in regionalni prostorski načrt)
+(1) Pripravljavec občinskega oziroma podrobnega občinskega prostorskega načrta in regionalnega prostorskega načrta mora pri načrtovanju upoštevati območja omejene rabe prostora zaradi jedrskega objekta, kjer je zaradi ukrepov sevalne in jedrske varnosti posameznega jedrskega objekta raba prostora omejena, in omejitve rabe tega prostora.
+(2) Za občinske ali podrobne občinske prostorske načrte in regionalne prostorske načrte, v katerih se načrtujejo posegi na območju omejene rabe prostora zaradi ukrepov sevalne in jedrske varnosti, je v postopku sprejemanja treba pridobiti smernice in mnenje organa, pristojnega za jedrsko varnost.

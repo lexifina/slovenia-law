@@ -2,4 +2,4 @@
 (1) Delavci, ki opravljajo naloge varstva pred sevanji v organizacijski enoti varstva pred sevanji, in odgovorne osebe za varstvo pred sevanji so posamezniki, ki so končali univerzitetni študij ali visoko šolo in imajo opravljen strokovni izpit za opravljanje nalog varstva pred sevanji.
 (2) Posamezniki iz prejšnjega odstavka so lahko tudi tehniki ustrezne stroke, ki zagotavlja znanja, potrebna za opravljanje nalog varstva pred sevanji, če opravijo strokovni izpit za opravljanje nalog varstva pred sevanji.
 (3) V soglasju z ministrom, pristojnim za izobraževanje, določita minister, pristojen za zdravje, in minister, pristojen za okolje, seznam izobraževalnih programov ter program in način opravljanja strokovnega izpita za opravljanje nalog varstva pred sevanji, način določanja izpitnih komisij, stroške izpitov in evidence o opravljenih izpitih.
-(4) Izvajanje strokovnih izpitov za opravljanje nalog varstva pred sevanji zagotavlja ministrstvo, pristojno za zdravje.
+(4) Izvajanje strokovnih izpitov za opravljanje nalog varstva pred sevanji zagotavlja organ, pristojen za varstvo pred sevanji.

@@ -7,5 +7,5 @@
 - opis sevalne dejavnosti oziroma opis vira sevanja,
 - pogoje za izvajanje sevalne dejavnosti in pogoje za uporabo vira sevanja,
 - podatke o geolokaciji vira sevanja.
-(5) Zbirko listin iz prvega, drugega in tretjega odstavka tega člena sestavljajo listine o priglasitvi namere, o izdaji dovoljenja za izvajanje sevalne dejavnosti in dovoljenja za uporabo vira sevanja, o izdaji odločbe o statusu sevalnega objekta ali jedrskega objekta, o izdaji soglasja jedrske ali sevalne varnosti in dovoljenja za obratovanje objekta.
+(5) Zbirko listin iz prvega, drugega in tretjega odstavka tega člena sestavljajo listine o priglasitvi namere, o izdaji dovoljenja za izvajanje sevalne dejavnosti in dovoljenja za uporabo vira sevanja, o izdaji odločbe o statusu sevalnega objekta ali jedrskega objekta, o izdaji predhodnega soglasja o jedrski in sevalni varnosti in dovoljenja za obratovanje objekta.
 (6) Minister, pristojen za okolje, in minister, pristojen za zdravje, podrobneje določita vsebino registrov, obliko in način vodenja registrov, način določanja materialnih stroškov posredovanih informacij ter način posredovanja listin in sporočanja podatkov, ki sestavljajo registre.

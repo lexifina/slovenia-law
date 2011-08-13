@@ -14,7 +14,7 @@
 10. zaščitno opremo in preverjanje učinkovitosti zaščitne opreme in postopkov zaščite in reševanja;
 11. redno umerjanje merilne opreme, preverjanje njene uporabnosti in pravilne uporabe;
 12. zdravstveni nadzor;
-13. takojšnje obveščanje pristojnih ministrstev v primeru preseganja mejnih doz, kontaminacije delovnega okolja ali izrednega dogodka.
+13. takojšnje obveščanje pristojnih organov v primeru preseganja mejnih doz, kontaminacije delovnega okolja ali izrednega dogodka.
 (2) Ne glede na obveznosti delodajalca iz prejšnjega odstavka mora izpostavljeni delavec, praktikant in študent, kolikor je mogoče, sam prispevati k izvajanju ukrepov varstva pred sevanji, kot jih določa ta zakon.
 (3) Ukrepe varstva pred sevanji iz prvega odstavka tega člena je treba izvesti pri sevalni dejavnosti, pri kateri je mogoče, da letna izpostavljenost delavcev presega vrednost letne efektivne mejne doze za posameznika iz prebivalstva ali eno desetino predpisane mejne ekvivalentne doze za očesne leče, kožo ali okončine za izpostavljenega delavca.
 (4) Usposabljanje izpostavljenih delavcev, praktikantov ali študentov iz 6. točke prvega odstavka tega člena lahko izvajajo osebe, ki so pridobile pooblastilo za izvajanje del pooblaščenega izvedenca varstva pred sevanji iz 27. člena tega zakona.

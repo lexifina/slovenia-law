@@ -4,5 +4,5 @@
 - usposabljanja pooblaščenih izvedencev medicinske fizike,
 - usposabljanja pooblaščenih izvedencev za sevalno in jedrsko varnost,
 - razvojnih študij in neodvisnih strokovnih preveritev ter mednarodnega strokovnega sodelovanja na področju varstva pred ionizirajočimi sevanji ter jedrske varnosti.
-(2) Sredstva iz prejšnjega odstavka se zagotovijo ministrstvu, pristojnemu za okolje, in ministrstvu, pristojnemu za zdravje.
-(3) O usposabljanju pooblaščencev, razvojnih študijah, strokovnih preveritvah in mednarodnem strokovnem sodelovanju iz prvega odstavka tega člena se poroča v poročilu o varstvu pred ionizirajočimi sevanji in jedrski varnosti.
+(2) Sredstva iz prejšnjega odstavka se zagotovijo organu, pristojnemu za jedrsko varnost, in organu, pristojnemu za varstvo pred sevanji.
+(3) (črtan)

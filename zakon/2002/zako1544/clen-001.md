@@ -1,4 +1,4 @@
 ## 1. SPLOŠNE DOLOČBE
 # 1. člen (namen in vsebina zakona)
 (1) Ta zakon ureja varstvo pred ionizirajočimi sevanji z namenom, da se zmanjša škoda za zdravje ljudi in radioaktivna kontaminacija življenjskega okolja zaradi ionizirajočih sevanj zaradi uporabe virov ionizirajočih sevanj (v nadaljnjem besedilu: vir sevanja) do najmanjše možne mere, in se hkrati omogoči razvoj, proizvodnja in uporaba virov sevanj in izvajanje sevalnih dejavnosti. Za vir sevanja, ki je namenjen pridobivanju jedrske energije, zakon ureja izvajanje ukrepov jedrske varnosti in, če gre za uporabo jedrskega blaga, tudi posebnih ukrepov varovanja.
-(2) Ta zakon določa tudi organizacijo po tem zakonu pristojnih upravnih organov in inšpektorjev ministrstva, pristojnega za zdravje, in ministrstva, pristojnega za okolje.
+(2) Ta zakon določa tudi nadzor nad izvajanjem zakona pristojnih inšpektorjev organa, pristojnega za jedrsko varnost, organa, pristojnega za varstvo pred sevanji ter inšpektorata, pristojnega za notranje zadeve.

@@ -1,35 +1,86 @@
 ## 15. KAZENSKE DOLOČBE
 # 139. člen (prekrški)
-(1) Z globo od 300.000 do 90,000.000 tolarjev se za prekršek kaznuje pravna oseba:
+(1) Z globo od 5.000 do 250.000 evrov se za prekršek kaznuje pravna oseba, če pa se ta po zakonu, ki ureja gospodarske družbe, šteje za srednjo veliko ali veliko gospodarsko družbo, znaša globa od 10.000 do 500.000 evrov:
 1. če je začela izvajati sevalno dejavnost, ne da bi pridobila dovoljenje (11. člen),
 2. če je začela uporabljati vir sevanja brez dovoljenja za njegovo uporabo ali preden so izpolnjeni pogoji za uporabo po tem zakonu (13. člen),
-3. če krši prepovedi iz 20. člena tega zakona,
-4. če kot delodajalec ne zagotavlja varstva nosečih in doječih žensk (20. člen),
-5. če kot delodajalec razporedi delavca proti njegovi volji na delovno mesto za opravljanje specifičnih nalog (21. člen),
-6. če kot delodajalec ne zagotavlja varstva izpostavljenih delavcev, praktikantov in študentov skladno z določbami 23. člena tega zakona,
-7. če kot imetnik dovoljenja za uporabo vira sevanja povzroči čezmerno obsevanost delavcev, praktikantov, študentov ali posameznikov iz prebivalstva (17. člen),
-8. če razporedi delavce, praktikante ali študente na delovno mesto v nasprotju z določbami 32. člena tega zakona,
-9. če ne zagotovi delovanja posebne organizacijske enote za izvajanje varstva pred sevanji skladno z določbami 34. člena tega zakona,
-10. če kot upravljavec objekta ali kot zunanji izvajalec sevalne dejavnosti ne zagotovi varstva delavcev zunanjega izvajalca sevalne dejavnosti ali ne izvaja drugih obveznosti iz 37. člena tega zakona,
-11. če kot delodajalec ne zagotavlja zdravstvenega nadzora izpostavljenih delavcev (39. člen),
-12. če razporedi na delovno mesto delavca, kljub temu, da po ugotovitvah zdravstvenega nadzora ni zmožen za to delovno mesto (39. člen),
-13. če kot delodajalec ne zagotovi zdravstvenega nadzora po prenehanju dela delavca (40. člen),
-14. če opravlja radiološke posege brez odobrenega programa radioloških posegov (47. člen),
-15. če je izvedel radiološki poseg, za katerega niso bili izpolnjeni pogoji za izvedbo (50. člen),
-16. če gradi, preskuša, obratuje, drugače uporablja ali trajno preneha uporabljati jedrski, sevalni ali manj pomembni sevalni objekt brez soglasij ali dovoljenj po tem zakonu (57. člen),
-17. če ne zagotavlja sevalne in jedrske varnosti objekta, radioaktivnih odpadkov ali izrabljenega goriva skladno z določbami drugega odstavka 57. člena,
-18. če izvaja posege v prostor, ki vplivajo na sevalno ali jedrsko varnost, brez soglasja ministrstva, pristojnega za okolje (66. in 68. člen),
-19. če začne s poskusnim obratovanjem objekta brez soglasja ministrstva, pristojnega za okolje (78. člen),
-20. če začne ali preneha z obratovanjem jedrskega ali sevalnega objekta ali če začne z odlaganjem izrabljenega goriva ali radioaktivnih odpadkov ali če zapre odlagališče izrabljenega goriva ali radioaktivnih odpadkov ali če začne ali zaključi razgradnjo jedrskega ali sevalnega objekta ali če zaključi rudarska dela za opustitev pridobivanja jedrskih mineralnih surovin ali če začne z odlaganjem rudarske ali hidrometalurške jalovine ali če zapre odlagališče rudarske in hidrometalurške jalovine brez dovoljenja ministrstva, pristojnega za okolje (79. člen),
-21. če kot upravljavec objekta uvaja spremembe in dopolnitve v nasprotju s postopki iz 83. in 84. člena tega zakona,
-22. če gradi, rekonstruira ali odstrani objekt znotraj območja sevalnega ali jedrskega objekta brez soglasja ministrstva, pristojnega za okolje (85. člen),
-23. če namerno dodaja radioaktivne snovi živilom, igračam, osebnemu nakitu, kozmetiki ali vnaša iz držav članic EU, iznaša v države članice EU, uvaža ali izvaža tako blago (89. člen),
-24. če daje v promet izdelke in materiale, ki so čezmerno radioaktivno kontaminirani z radionuklidi (89. člen),
-25. če skladišči ali obdeluje radioaktivne odpadke ali izrabljeno gorivo na kraju nastanka brez dovoljenja ministrstva, pristojnega za okolje (97. člen),
-26. če vnaša iz držav članic EU ali iznaša v države članice EU radioaktivne snovi v nasprotju s pravnimi akti EU, ki veljajo na območju EU neposredno, ali če uvaža ali izvaža radioaktivne snovi brez dovoljenja (100. člen),
-27. če vnaša iz držav članic EU, iznaša v države članice EU, uvaža, izvaža ali izvaja tranzit jedrskih snovi in radioaktivnih odpadkov ali jedrskega goriva brez dovoljenja (100. in 101. člen),
-28. če ne zagotovi načrtovanja ali izvajanja ukrepov fizičnega varovanja (118. člen),
-29. če uporablja jedrsko blago ali ga poseduje v nasprotju z določbami 121. člena tega zakona.
-(2) Z globo od 300.000 do 45,000.000 tolarjev se za prekršek iz prejšnjega odstavka kaznuje samostojni podjetnik posameznik.
-(3) Z globo od 30.000 do 3,000.000 tolarjev se za prekršek iz prvega odstavka tega člena kaznuje tudi odgovorna oseba pravne osebe in samostojnega podjetnika posameznika.
-(4) Prekrški iz prejšnjih odstavkov se ne izvajajo po hitrem postopku.
+3. če odpravi nadzor nad radioaktivnimi snovmi brez dovoljenja pristojnega organa (16.a člen)
+4. če kot imetnik dovoljenja za uporabo vira sevanja povzroči čezmerno obsevanost delavcev, praktikantov, študentov ali posameznikov iz prebivalstva (17. člen),
+5. če kot delodajalec zaposli osebo, mlajšo od 18 let na delovno mesto, na katerem bi postala izpostavljeni delavec ali če kot delodajalec noseče ženske, ki sama ne želi še naprej delati z viri sevanja, ne premesti takoj, ko ga ta obvesti o nosečnosti, na delovno mesto, kjer se ne dela z viri sevanja ali če doječe ženske takoj, ko ga ta obvesti o svojem stanju, začasno ne premesti na delovno mesto, kjer ni tveganja za radioaktivno kontaminacijo telesa ali če s premestitvijo noseče ali doječe ženske tej s pogoji dela povzroči manj ugoden položaj (20. člen),
+6. če kot delodajalec razporedi delavca proti njegovi volji na delovno mesto za opravljanje specifičnih nalog (21. člen),
+7. če kot delodajalec ne zagotovi izdelave ocene varstva izpostavljenih delavcev pred sevanji ali izdelave načrta optimizacije varstva ljudi in okolja pred ionizirajočimi sevanji v vseh delovnih pogojih (23. člen),
+8. če kot delodajalec ne zagotovi predhodnega pregleda načrtov prostorov objekta in naprav v njem glede varstva pred ionizirajočimi sevanji (23. člen),
+9. če kot delodajalec ne zagotovi razvrstitve delovišč na opazovana in nadzorovana območja ter njihove označitve glede na oceno pričakovanih letnih doz ter verjetnost in velikost potencialnih izpostavljenosti (23. člen),
+10. če kot delodajalec ne zagotovi razvrstitve izpostavljenih delavcev v dve kategoriji glede na verjetnost in velikost potencialne izpostavljenosti (23. člen),
+11. če kot delodajalec ne zagotovi izvajanja pisnih tehničnih, zdravstvenih in administrativnih postopkov, povezanih z obratovanjem ali upravljanjem sevalnega, jedrskega ali manj pomembnega sevalnega objekta ali uporabo vira sevanja (23. člen),
+12. če kot delodajalec ne zagotovi usposabljanja izpostavljenih delavcev, praktikantov in študentov, ki uporabljajo vire sevanja ali delajo na opazovanem in nadzorovanem območju, obnavljanja znanja in rednega preverjanja usposobljenosti v zvezi s postopki varstva pred sevanji ali (23. člen),
+13. če ne zagotovi seznanitve izpostavljenih delavcev, praktikantov in študentov z vsebino tehničnih, zdravstvenih in administrativnih postopkov, povezanih z obratovanjem, upravljanjem ali uporabo vira sevanja ali o tveganjih za zdravje, zlasti seznanitve žensk o nujnosti zgodnje naznanitve nosečnosti in dojenja (23. člen),
+14. če kot delodajalec ne zagotovi izvajanja nadzornih ukrepov, meritev in ocene izpostavljenosti ionizirajočim sevanjem na delovnih mestih na različnih področjih in ob različnih delovnih pogojih, vključno z osebno dozimetrijo (23. člen),
+15. če kot delodajalec ne zagotovi zaščitne opreme ali preverjanja učinkovitosti zaščitne opreme in postopkov zaščite in reševanja ali rednega umerjanja merilne opreme, preverjanja njene uporabnosti in pravilne uporabe (23. člen),
+16. če kot delodajalec ne zagotovi zdravstvenega nadzora izpostavljenih delavcev, praktikantov in študentov (23. člen),
+17. če kot delodajalec ne zagotovi takojšnjega obveščanja pristojnih organov v primeru preseganja mejnih doz, kontaminacije delovnega okolja ali izrednega dogodka (23. člen),
+18. če kot delodajalec izvaja usposabljanje prek oseb, ki nimajo pooblastila za izvajanje del pooblaščenega izvedenca varstva pred sevanji (23. člen),
+19. če posreduje pooblaščenemu zdravniku v nadaljnjo obdelavo in v centralno evidenco doz podatke o osebnih dozah izpostavljenih delavcev brez pisne privolitve izpostavljenega delavca ali če brez pisne privolitve razporedi delavca, praktikanta ali študenta na delovno mesto, ki je izpostavljeno ionizirajočemu sevanju (32. člen),
+20. če ne zagotovi delovanja posebne organizacijske enote za izvajanje varstva pred sevanji ali če ne zagotovi, da organizacijska enota za varstvo pred sevanji deluje ločeno od drugih organizacijskih enot ali če organizacijska zasnova enote varstva pred sevanji ali če kakovost opreme, obseg in vsebina njenega dela ni skladna s predpisanimi pogoji (34. člen),
+21. če kot upravljavec objekta ali kot zunanji izvajalec ne zagotovi, da doze delavcev zunanjega izvajalca ne presežejo predpisanih mejnih doz ali če ne zagotovi, da so delavci zunanjega izvajalca primerno usposobljeni in seznanjeni z ukrepi varstva pred sevanji, ali če ne zagotovi, da se za delavce zunanjega izvajalca ugotavlja izpostavljenost po določbah tega zakona, če ne zagotovi, da se za delavce zunanjega izvajalca izvajajo vsi ukrepi njihovega varstva pred sevanji po določbah tega zakona (37. člen),
+22. če kot upravljavec objekta ali kot zunanji izvajalec ne zagotovi, da se za izpostavljene delavce zunanjega izvajalca sporočajo podatki o njihovih osebnih dozah v centralno evidenco osebnih doz ali če za izpostavljene delavce zunanjega izvajalca ne zagotovi zdravstvenega nadzora v predpisanem obsegu (37. člen),
+23. če kot zunanji izvajalec upravljavcu objekta ali izvajalcu sevalne dejavnosti pred začetkom del v nadzorovanem območju ne sporoči osebnih podatkov, ocene zdravstvene delazmožnosti, datuma zadnjega zdravstvenega pregleda ali vrednosti prejetih doz svojih izpostavljenih delavcev v obdobju zadnjih petih let in kumulativne doze ali če kot upravljavec objekta ali izvajalec sevalne dejavnosti teh podatkov o izpostavljenih delavcih zunanjega izvajalca, ki je tuja pravna oseba, ne sporoči organu, pristojnemu za varstvo pred sevanji (37. člen),
+24. če kot izvajalec sevalne dejavnosti začne z deli z izpostavljenimi delavci zunanjega izvajalca, čeprav mu ta ni posredoval podatkov iz tretjega odstavka 37. člena tega zakona, ali če izpostavljeni delavec zunanjega izvajalca ni bil vpisan v centralni evidenci osebnih doz, ali če je iz posredovanih podatkov bilo razvidno, da delavec zunanjega izvajalca po določbah tega zakona ne more opravljati del v nadzorovanem območju (37. člen),
+25. če kot delodajalec ne zagotavlja zdravstvenega nadzora izpostavljenih delavcev ali ga ne zagotavlja v predpisanem obsegu ali če ne zagotovi izrednega zdravstvenega nadzora izpostavljenih delavcev vsakokrat, ko je bila presežena ali obstaja sum, da je bila presežena, ena od predpisanih mejnih doz, ali na zahtevo organa, pristojnega za varstvo pred sevanji (39. člen),
+26. če razporedi na delovno mesto delavca, kljub temu, da po ugotovitvah zdravstvenega nadzora ni zmožen za to delovno mesto (39. člen),
+27. če kot delodajalec ne zagotovi zdravstvenega nadzora po prenehanju dela delavca (40. člen),
+28. če opravlja radiološke posege brez odobrenega programa radioloških posegov ali v nasprotju z odobrenim programom radioloških posegov (47. člen),
+29. če je izvedel radiološki poseg, za katerega niso bili izpolnjeni pogoji za izvedbo (50. člen),
+30. če izvaja posege v prostor brez soglasja organa, pristojnega za jedrsko varnost, ali organa, pristojnega za varstvo pred sevanji( 65.b, 68. in 69. člen),
+31. če začne s poskusnim obratovanjem objekta brez soglasja organa, pristojnega za jedrsko varnost (78. člen),
+32. če začne ali preneha z obratovanjem jedrskega ali sevalnega objekta ali če začne z odlaganjem izrabljenega goriva ali radioaktivnih odpadkov ali če zapre odlagališče izrabljenega goriva ali radioaktivnih odpadkov ali če začne ali zaključi razgradnjo jedrskega ali sevalnega objekta ali če zaključi rudarska dela za opustitev pridobivanja jedrskih mineralnih surovin ali če začne z odlaganjem rudarske ali hidrometalurške jalovine ali če zapre odlagališče rudarske in hidrometalurške jalovine brez dovoljenja organa, pristojnega za jedrsko varnost, ali če shranjuje sveže gorivo na gradbišču jedrske elektrarne ali raziskovalnega reaktorja brez dovoljenja organa, pristojnega za jedrsko varnost, ali če izvaja dolgoročni nadzor in vzdrževanje odlagališč rudarske in hidrometalurške jalovine, odlagališča radioaktivnih odpadkov ali odlagališča izrabljenega goriva brez dovoljenja organa, pristojnega za jedrsko varnost (79. člen),
+33. če kot upravljavec objekta uvaja spremembe in dopolnitve brez predhodne odobritve organa, pristojnega za jedrsko varnost (83. in 84. člen),
+34. če namerno dodaja radioaktivne snovi živilom, igračam, osebnemu nakitu, kozmetiki ali vnaša iz držav članic EU, iznaša v države članice EU, uvaža ali izvaža tako blago (89. člen),
+35. če daje v promet izdelke in materiale, ki so čezmerno radioaktivno kontaminirani z radionuklidi (89. člen),
+36. če skladišči ali obdeluje radioaktivne odpadke ali izrabljeno gorivo na kraju nastanka brez dovoljenja organa, pristojnega za jedrsko varnost (93. člen),
+37. če vnaša iz držav članic EU ali iznaša v države članice EU radioaktivne snovi v nasprotju s pravnimi akti EU, ki veljajo na območju EU neposredno, ali če uvaža ali izvaža radioaktivne snovi brez dovoljenja (100. člen),
+38. če vnaša iz držav članic EU, iznaša v države članice EU, uvaža, izvaža ali izvaja tranzit jedrskih snovi in radioaktivnih odpadkov ali jedrskega goriva brez dovoljenja ali soglasja organa, pristojnega za jedrsko varnost (100. in 101. člen),
+39. če ne zagotovi načrtovanja ali izvajanja ukrepov fizičnega varovanja (118., 119. in 119.c člen),
+40. če uporablja jedrsko blago ali ga poseduje v nasprotju z določbami 121. člena tega zakona,
+41. če ne zagotavlja obratovalnega monitoringa radioaktivnosti ali če ne opravi monitoringa učinkov sanacijskih ukrepov, odrejenih v primeru izrednega dogodka (124. člen).
+(2) Z globo od 5.000 do 150.000 evrov se kaznuje za prekršek iz prejšnjega odstavka samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost.
+(3) Z globo od 1.000 do 10.000 evrov se kaznuje za prekršek iz prvega odstavka tega člena tudi odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+(4) Če je narava prekrška posebno huda zaradi višine povzročene škode ali višine protipravno pridobljene premoženjske koristi ali zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, se za prekršek iz prvega odstavka tega člena:
+- pravno osebo kaznuje z globo od 15.000 do 750.000 evrov, oziroma, če se ta po zakonu, ki ureja gospodarske družbe, šteje za srednjo veliko ali veliko gospodarsko družbo, znaša globa od 30.000 do 1.500.000 evrov;
+- samostojnega podjetnika posameznik ali posameznika, ki samostojno opravlja dejavnost kaznuje z globo od 15.000 do 450.000 evrov;
+- odgovorno osebo pravne osebe, odgovorno osebo samostojnega podjetnika posameznika ali odgovorno osebo posameznika, ki samostojno opravlja dejavnost z globo od 3.000 do 30.000 evrov.
+(5) Z globo od 1.800 do 250.000 evrov se za prekršek kaznuje pravna oseba, če pa se pravna oseba po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, pa z globo od 3.500 do 500.000 evrov:
+1. če ne priglasi namere o izvajanju sevalne dejavnosti (9. člen),
+2. če kot delodajalec ne zagotovi izdelave ocene varstva izpostavljenih delavcev pred sevanji (24. člen),
+3. če ne zagotovi pregleda ocene varstva izpostavljenih delavcev pred sevanji ali če ne uvede odobrenih sprememb ukrepov varstva pred sevanji (26. člen),
+4. če se ne posvetuje glede varstva izpostavljenih delavcev s pooblaščenimi izvedenci in organizacijami varstva pred sevanji (27. člen),
+5. če ne zagotavlja rednega ugotavljanja izpostavljenosti delavcev in merjenja sevanja na delovnem mestu (29. člen),
+6. če ne posreduje rezultatov ugotavljanja meritev doz izpostavljenih delavcev pooblaščenemu zdravniku in z njimi ne seznanja izpostavljenih delavcev ali če ne obvešča v primeru interventne izpostavljenosti ali izpostavljenosti ob izrednem dogodku (31. člen),
+7. če kot pooblaščeni izvajalec dozimetrije ne posreduje podatkov o osebnih dozah izpostavljenih delavcev v centralno evidenco doz v predpisanih rokih iz 33. člena tega zakona,
+8. če ne določi odgovorne osebe za varstvo pred sevanji ali o tem ne obvesti pristojnega organa (35. člen),
+9. če ne ravna po odredbi pristojnega organa v zvezi z varstvom izpostavljenih delavcev pred naravnimi viri sevanja (46. člen),
+10. če pri opravljanju radioloških posegov ne zagotavlja ocenjevanja in preverjanja radioloških posegov (51. člen),
+11. če pri opravljanju radioloških posegov uvaja spremembe in dopolnitve, ne da bi mu jih odobril organ, pristojen za varstvo pred sevanji (52. člen),
+12. če kot izvajalec radioloških posegov posreduje podatke o izvedenih radioloških posegih v nadaljnjo obdelavo in v centralno evidenco izvedenih radioloških posegov brez pisne privolitve pacienta ali njegovega zakonitega zastopnika, ali če ne posreduje pacientu na njegovo zahtevo podatkov o dozah, ki jih je pacient prejel med izvajanjem radioloških posegov (53. člen),
+13. če glede posameznih vprašanj sevalne in jedrske varnosti ne pridobi mnenja pooblaščenega izvedenca za sevalno in jedrsko varnost (58. člen),
+14. če ne izvaja programov spremljanja obratovalnih izkušenj sevalnih ali jedrskih objektov ali če ugotovitev programov ne upošteva pri ocenjevanju, preverjanju in izboljšanju sevalne in jedrske varnosti (60. člen),
+15. če kot upravljavec objekta ne zagotovi zadostnega števila usposobljenih delavcev za upravljanje tehnološkega procesa ali če ne zagotovi rednega obnavljanja strokovnega znanja usposobljenih delavcev ali preverjanja njihove usposobljenosti, psihofizičnih lastnosti in odvisnosti od alkohola, mamil ali drugih psihoaktivnih sredstev ali če ne hrani zapisov o opravljenem usposabljanju, vključno z ocenami dosežene strokovne usposobljenosti glede na zahteve za ustrezno delovno mesto za vsakega delavca, ki opravlja za varnost pomembna dela, ali če teh zapisov ne hrani še eno leto po tem, ko je delavec prenehal delati pri njem ali če dela in naloge upravljanja tehnološkega procesa opravlja delavec brez dovoljenja organa, pristojnega za jedrsko varnost (62. člen),
+16. če kot upravljavec objekta ni vzpostavil ali ne izvaja sistema vodenja (63. člen),
+17. če ne dopolnjuje varnostnega poročila, če pride med gradnjo ali razgradnjo objekta ali v času poskusnega obratovanja ali v času izvajanja rudarskih del, če gre za izkoriščanje ali opustitev izkoriščanja jedrskih mineralnih snovi, do sprememb, ki vplivajo na vsebino varnostnega poročila (71. in 80. člen),
+18. če ne zagotovi vzdrževanja in nadzora odlagališča v skladu s pogoji iz varnostnega poročila (80. člen),
+19. če ne zagotavlja obratovanja ali poskusnega obratovanja v skladu z odobrenimi obratovalnimi pogoji in omejitvami, ali uporabe pisnih postopkov za obratovanje, poskusno obratovanje, prenehanje obratovanja ali razgradnjo objekta, ali spremljanja svojih in tujih obratovalnih izkušenj, obratovalnih kazalnikov, procesov staranja opreme ali izvajanja ukrepov za zmanjšanje ali odpravo učinkov procesov staranja, ali vzdrževanja, pregledovanja ali preizkušanja sistemov in komponent objekta (80.a člen),
+20. če ne pripravi poročila o občasnem varnostnem pregledu ali če na podlagi poročila o občasnem varnostnem pregledu ne pripravi predloga potrebnih sprememb (82. člen),
+21. če kot upravljavec objekta o spremembah ne obvesti organa, pristojnega za jedrsko varnost ali sprememb ne priglasi organu, pristojnemu za jedrsko varnost (83. člen),
+22. če ne zagotovi izjemnega pregleda varnostnega poročila ali če na podlagi ocenjevanja in preverjanja varnosti ne izdela predloga sprememb varnostnega poročila (86. člen),
+23. če ne poroča o obratovanju objekta na predpisan način (87. člen),
+24. če ne zagotovi dekontaminacije v okviru sanacije posledic izrednega dogodka ali če ne izvede dekontaminacije na predpisan način, kadar radioaktivna kontaminacija ni posledica izrednega dogodka in o tem ne obvesti pristojnega organa (91. člen),
+25. če ne ravna z radioaktivnimi odpadki in izrabljenim gorivom na predpisan način (93. člen),
+26. če ne izdela ocene ogroženosti ali če ne izdela načrta zaščite in reševanja ali navodila za ukrepanje ob izrednem dogodku ali če ne izvaja ali zagotavlja izvajanja preventivnih zaščitnih ukrepov (104. člen),
+27. če ne posreduje nosilcem načrtovanja zaščite in reševanja vseh predpisanih podatkov, potrebnih za izdelavo državnega in lokalnega načrta zaščite in reševanja (106. člen),
+28. če ob izrednem dogodku ne izvaja ukrepov po načrtu zaščite in reševanja in ne izvaja ukrepov v skladu z določbami državnega in lokalnega načrta zaščite in reševanja (107. člen),
+29. če ob izrednem dogodku ne obvešča javnosti in pristojnih organov (108. člen),
+30. če v kontroliranem objektu ali prostoru, fizično nadzorovanem in vitalnem območju jedrskega objekta delajo osebe, ki ne izpolnjujejo predpisanih pogojev ali za katere obstajajo varnostni zadržki (120. člen).
+31. če ne vodi evidence jedrskih snovi ali če ne zagotavlja nemotenega delovanja opreme za vodenje evidenc ali če ne varuje jedrskih snovi in ne organizira njihove hrambe na predpisan način ali o izgubi nadzora nad jedrskimi snovmi ali odtujitvi takoj ne obvesti policije in organa, pristojnega za jedrsko varnost (122. člen),
+32. ne izvaja sanacije posledic izrednega dogodka, ki mu je bila odrejena kot izjemni ukrep (125. člen).
+(6) Z globo od 1.800 do 150.000 evrov se kaznuje za prekršek iz prejšnjega odstavka samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost.
+(7) Z globo od 350 do 10.000 evrov se kaznuje za prekršek iz četrtega odstavka tega člena tudi odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+(8) Z globo od 500 do 1.000 evrov se kaznuje za prekršek posameznik, če pravni osebi, ki je izvedla varnostno preverjanje in pri kateri je zaposlen, ne sporoči spremembe podatkov, pomembnih za varnostno preverjanje (četrti odstavek 120. člena).

@@ -12,7 +12,7 @@ Država zagotavlja sredstva za financiranje:
 - komisije za preverjanje izpolnjevanja predpisanih pogojev kvalificiranih delavcev in priprave programov za preverjanje strokovne usposobljenosti, psihofizičnih lastnosti delavcev in razpoložljivosti v zvezi z odsotnostjo alkohola in mamil kvalificiranih delavcev v jedrskem objektu (62. člen),
 - monitoringa radioaktivne kontaminacije okolja in izdelkov (90. člen),
 - vodenja centralne evidence radioaktivnih odpadkov in izrabljenega goriva (93. člen),
-- delovanja javnega zavoda za radioaktivne odpadke (97. člen),
+- delovanja javnega gospodarskega zavoda ARAO - Agencije za radioaktivne odpadke (97. člen),
 - načrtovanja intervencijskih ukrepov, če uporabnik sevanja ni določljiv, ali če povzročitelj ni na ozemlju Republike Slovenije (106. člen),
 - vodenja evidenc jedrskih snovi (122. člen),
 - monitoringa radioaktivnosti v okolju (123. člen),

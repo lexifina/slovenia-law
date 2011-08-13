@@ -1,6 +1,8 @@
 # 102. člen (izdaja dovoljenja)
-(1) Dovoljenje za vnos iz držav članic EU, iznos v države članice EU, uvoz, izvoz ali tranzit radioaktivnih odpadkov, izrabljenega goriva in jedrskih snovi in uvoz ter izvoz radioaktivnih snovi se izda za eno ali več pošiljk za dobo največ treh let.
-(2) Ministrstvo, pristojno za okolje, lahko odkloni izdajo dovoljenja za uvoz, izvoz ali tranzit radioaktivnih odpadkov ali izrabljenega goriva, če ugotovi, da država izvoznica oziroma država prejemnica nima tehničnih, pravnih ali upravnih sredstev za varno ravnanje z radioaktivnimi odpadki ali z izrabljenim gorivom.
-(3) Izdaja dovoljenja iz prvega odstavka tega člena ne vpliva na siceršnjo odgovornost imetnika, prevoznika, lastnika ali prejemnika ali katerekoli druge osebe, udeležene pri prevozu pošiljke, glede sevalne ali jedrske varnosti po tem zakonu.
-(4) Pošiljanje radioaktivnih odpadkov in izrabljenega goriva zaradi odlaganja v namembni kraj, ki leži južno od 60 stopinj južne zemljepisne širine, je prepovedano.
-(5) Radioaktivni odpadki, izrabljeno gorivo ter jedrske in radioaktivne snovi se pošiljajo v embalaži, kot jo določajo predpisi s področja prevoza nevarnega blaga.
+(1) Dovoljenje iz prvega odstavka 100. člena tega zakona ter dovoljenje in soglasje iz prvega odstavka prejšnjega člena se izda za eno ali več pošiljk za največ tri leta.
+(2) Organ, pristojen za jedrsko varnost, ne dovoli izvoza raadioaktivnih odpadkov ali izrabljenega goriva:
+- v namembne kraje južno od 60° južne zemljepisne širine; ali
+- v državo, ki je pogodbenica sporazuma o partnerstvu med članicami skupine afriških, karibskih in pacifiških držav na eni strani ter Evropsko skupnostjo in njenimi državami članicami na drugi (Sporazum AKP-ES iz Cotonouja) in ki ni država članica EU; ali
+- v tretjo državo, ki nima upravnih in tehničnih zmogljivosti ter upravne strukture za varno ravnanje z radioaktivnimi odpadki ali izrabljenim gorivom, kakor je navedeno v skupni konvenciji o varnosti ravnanja z izrabljenim gorivom in varnosti ravnanja z radioaktivnimi odpadki.
+(3) Izdaja dovoljenja ali soglasja iz prvega odstavka tega člena ne vpliva na siceršnjo odgovornost imetnika, prevoznika, lastnika ali prejemnika ali katerekoli druge osebe, udeležene pri prevozu pošiljke, glede sevalne ali jedrske varnosti po tem zakonu.
+(4) Radioaktivni odpadki, izrabljeno gorivo ter jedrske in radioaktivne snovi se pošiljajo v embalaži, kot jo določajo predpisi s področja prevoza nevarnega blaga.

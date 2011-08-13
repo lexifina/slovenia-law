@@ -3,8 +3,6 @@
 (2) Odgovorni strokovnjak jedrske in sevalne varnosti je lahko posameznik, ki izpolnjuje naslednje pogoje:
 - da je končal univerzitetni študij in
 - da ima po končanem študiju najmanj sedem let delovnih izkušenj na področju sevalne in jedrske varnosti.
-(3) Izvajanje preverjanja pogojev za izvajanje del pooblaščenega izvedenca za sevalno in jedrsko varnost zagotavlja ministrstvo, pristojno za okolje.
+(3) Preverjanje izpolnjevanja pogojev za izvajanje del pooblaščenega izvedenca za sevalno in jedrsko varnost zagotavlja organ, pristojen za jedrsko varnost.
 (4) Minister, pristojen za okolje, določi program preverjanja pogojev iz prejšnjega odstavka in imenuje posebno tričlansko komisijo, ki jo sestavljajo strokovnjaki na področju sevalne in jedrske varnosti, za preverjanje izpolnjevanja teh pogojev.
-(5) Tuja pravna ali fizična oseba pridobi pooblastilo za izvajanje del pooblaščenega izvedenca za sevalno in jedrsko varnost, če ima po predpisih države, v kateri je registrirana za ocenjevanje sevalne in jedrske varnosti, enakovredna pooblastila, kot jih za izvedenca za sevalno in jedrsko varnost določa ta zakon.
-(6) Izpolnjevanje pogojev tujih pravnih ali fizičnih oseb iz prejšnjega odstavka se ugotavlja po postopku priznavanja kvalifikacij takim osebam, kot ga določa zakon o postopku priznavanja kvalifikacij državljanom držav članic Evropske unije za opravljanje reguliranih poklicev oziroma reguliranih poklicnih dejavnosti v Republiki Sloveniji (Uradni list RS, št. 21/2002).
-(7) Minister, pristojen za okolje, določi podrobneje evidence pooblaščenih izvedencev, način in obseg rednega in izjemnega poročanja ter druge pogoje, ki jih morajo v zvezi z ocenjevanjem sevalne in jedrske varnosti izpolnjevati pooblaščeni izvedenci za posamezno področje sevalne in jedrske varnosti.
+(5) Minister, pristojen za okolje, določi podrobneje evidence pooblaščenih izvedencev, način in obseg rednega in izjemnega poročanja ter druge pogoje, ki jih morajo v zvezi z ocenjevanjem sevalne in jedrske varnosti izpolnjevati pooblaščeni izvedenci za posamezno področje sevalne in jedrske varnosti.

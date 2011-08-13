@@ -1,6 +1,6 @@
 ## 3.6 Poročilo o ocenah prejetih doz za prebivalstvo
 # 54. člen (poročilo o ocenah prejetih doz za prebivalstvo)
-(1) Ministrstvo, pristojno za zdravje, vsako leto pripravi poročilo o ocenah prejetih doz za prebivalstvo kot sestavni del poročila o varstvu pred ionizirajočimi sevanji in jedrski varnosti.
+(1) Organ, pristojen za varstvo pred sevanji, vsako leto pripravi poročilo o ocenah prejetih doz za prebivalstvo kot sestavni del poročila o varstvu pred ionizirajočimi sevanji in jedrski varnosti.
 (2) Poročilo o ocenah prejetih doz za prebivalstvo mora vsebovati:
 - realno oceno doz, ki jih zaradi izvajanja sevalnih dejavnosti prejmejo prebivalci kot celota in kot posamezne referenčne skupine,
 - opredelitev značilnih referenčnih skupin prebivalstva ob upoštevanju dejanskih poti prenosa radioaktivnih snovi,
