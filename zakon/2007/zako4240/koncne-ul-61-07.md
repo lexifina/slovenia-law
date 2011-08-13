@@ -1,4 +1,55 @@
-# 120. člen (nadaljnja uporaba posameznih predpisov)
+Zakon o varnosti v železniškem prometu - ZVZelP (Uradni list RS, št. 61/07) vsebuje naslednje prehodne in končne določbe:
+"XV. PREHODNE IN KONČNE DOLOČBE
+110. člen
+(dokončanje postopkov gradnje ali nadgradnje javne železniške infrastrukture)
+Postopki gradnje, nadgradnje in vzdrževalnih del v javno korist na javni železniški infrastrukturi, za katere je bila pred uveljavitvijo tega zakona že vložena vloga za izdajo gradbenega dovoljenja ali vloga za pridobitev sklepa o ustreznosti načrtovanih vzdrževalnih del v javno korist, se dokončajo v skladu s predpisi, ki so veljali do uveljavitve tega zakona.
+111. člen
+(uporaba TSI oziroma veljavnih predpisov)
+(1) Do začetka uporabe TSI oziroma do realizacije izvedbenega načrta TSI za posamezni podsistem, ki ga sprejme minister, se morajo železniški podsistemi ter njihovi sestavni deli na glavnih železniških progah projektirati, graditi, rekonstruirati, obnavljati, vključevati v obratovanje, vzdrževati in obratovati v skladu s tem zakonom in podzakonskimi predpisi, ki na dan uveljavitve tega zakona veljajo v Republiki Sloveniji oziroma se uporabljajo za to področje ali bodo izdani na podlagi tega zakona. S temi predpisi se lahko za posamezne podsisteme in njihove sestavne dele določi obvezna uporaba evropskih specifikacij, standardov in tehničnih parametrov.
+(2) Ko se za posamezen podsistem ali del podsistema začne uporabljati TSI, se za ta podsistem na glavnih progah uporablja TSI. V delu, ki ga TSI ne ureja oziroma za katerega se TSI ne uporablja, se uporabljajo določbe tega zakona in podzakonskih predpisov iz prejšnjega odstavka.
+(3) Na regionalnih progah, industrijskih tirih in progah drugih železnic se za železniške podsisteme uporabljajo določbe tega zakona in podzakonskih predpisov iz prvega odstavka tega člena, če s tem zakonom ni drugače določeno.
+(4) Varnostni organ, organ za vodenje investicij v javno železniško infrastrukturo, upravljavec in prevozniki, vsak za svoje področje dela, pripravijo vse potrebne ukrepe za izvajanje TSI v skladu s predpisom Evropske unije, ki uveljavlja TSI.
+112. člen
+(domneva pridobitve dovoljenja za vgradnjo)
+(1) Za elemente, naprave ali sestavne dele železniških podsistemov, ki so bili vgrajeni ali priključeni v železniško infrastrukturo pred uveljavitvijo tega zakona in imajo uporabno dovoljenje na podlagi gradbenega dovoljenja, se šteje, da so pridobili dovoljenje za vgradnjo ali priključitev na obstoječo železniško infrastrukturo.
+(2) Za elemente, naprave ali sestavne dele železniških podsistemov, ki so bili vgrajeni ali priključeni na obstoječo železniško infrastrukturo pred uveljavitvijo tega zakona in obratujejo več kot eno leto brez bistvenih napak, se šteje, da so pridobili dovoljenje za vgradnjo ali priključitev na obstoječo železniško infrastrukturo, pod pogojem, da upravljavec v roku devetih mesecev od uveljavitve tega zakona poda izjavo, da s svojim delovanjem zagotavljajo varno odvijanje železniškega prometa.
+(3) Določila prvega in drugega odstavka tega člena veljajo tudi za elemente, naprave ali sisteme, ki se vgrajujejo v nedokončanih postopkih gradnje, rekonstrukcije in vzdrževalnih del v javno korist iz 110. člena tega zakona.
+(4) Če v tem členu ni drugače določeno, se inšpekcijski postopki, ki so se začeli pred uveljavitvijo tega zakona, končajo po predpisih, ki so veljali pred njegovo uveljavitvijo.
+(5) Inšpekcijski postopki, ki se vodijo, ker posamezni elementi, naprave ali sestavni deli železniških podsistemov, ki so bili vgrajeni ali priključeni na obstoječo železniško infrastrukturo pred uveljavitvijo tega zakona, niso imeli dovoljenja za vgradnjo ali priključitev na obstoječo železniško infrastrukturo in v katerih še ni bil izrečen inšpekcijski ukrep, se ustavijo, če upravljavec v teku inšpekcijskega postopka, vendar najkasneje v štirih mesecih po uveljavitvi tega zakona, poda izjavo iz drugega odstavka tega člena.
+(6) Če so bili v inšpekcijskih postopkih iz prejšnjega odstavka izrečeni inšpekcijski ukrepi, se ti ne izvršijo, če upravljavec v teku inšpekcijskega postopka, vendar najkasneje v štirih mesecih po uveljavitvi tega zakona, poda izjavo iz drugega odstavka tega člena.
+113. člen
+(domneva izpolnjevanja pogojev za izvajanje strokovnega usposabljanja ter strokovnih izpitov)
+Šteje se da družba Slovenske železnice, d.o.o. izpolnjuje pogoje za izvajanje strokovnega usposabljanja in strokovnih izpitov za izvršilne železniške delavce.
+114. člen
+(posebni pogoji za vlečna vozila)
+(1) Ne glede na določbe 71. člena tega zakona lahko do konca leta 2010 na progah, opremljenih z napravami radijskih zvez, brez naprav radijskih zvez vozijo motorna vozila za posebne namene in vlečna vozila serije 311, 642, 643, 644, 661, 664, 713, 732 in 813.
+(2) Vlečna vozila in motorna vozila za posebne namene, ki se že uporabljajo, morajo biti opremljena z opremo za klimatizacijo vozniških kabin najpozneje do leta 2010.
+115. člen
+(prilagoditev obstoječih cest)
+Obstoječe ceste, ki ne izpolnjujejo pogojev iz drugega odstavka 48. člena tega zakona, morajo imeti na teh mestih zaščitno varovalno ograjo v enem letu od uveljavitve tega zakona. Stroški naložbe bremenijo upravljavca ceste, ki je tudi odgovoren za pravočasno izvedbo ukrepa.
+116. člen
+(uskladitev obstoječih nivojskih križanj s predpisanimi pogoji)
+(1) Obstoječa nivojska križanja proge s cesto, ki ne izpolnjujejo pogojev iz prvega odstavka 49. člena tega zakona, morajo biti izvedena kot izvennivojska v petih letih po začetku veljavnosti tega zakona.
+(2) Obstoječa nivojska križanja proge s cesto, ki z dnem uveljavitve tega zakona izpolnjujejo pogoje iz drugega odstavka 49. člena tega zakona, morajo biti izvedena kot izvennivojska v petih letih po začetku veljavnosti tega zakona.
+(3) Obstoječa nivojska križanja proge s cesto, ki ne izpolnjujejo pogojev iz tretjega odstavka 49. člena tega zakona, morajo biti izvedena kot izvennivojska v sedmih letih po začetku veljavnosti tega zakona. Minister lahko odloči, da se gradnja izvennivojskega križanja opusti, če je prostorsko nesprejemljiva oziroma ekonomsko neupravičena.
+(4) Dinamiko in prednostne naloge izvajanja del v zvezi z nadomeščanjem nivojskih križanj z izvennivojskimi skladno z določbami tega člena določi Nacionalni program razvoja in vzdrževanja železniške infrastrukture, ki ga na predlog vlade sprejme državni zbor.
+(5) Stroški za izvedbo izvennivojskih križanj iz prvega, drugega in tretjega odstavka tega člena bremenijo sredstva razvoja železniške in cestne infrastrukture v sorazmerju s potrebnim obsegom gradbenih posegov na eni ali drugi infrastrukturi.
+(6) Postavljanje in vzdrževanje zaščitnih višinskih profilov iz sedmega odstavka 51. člena tega zakona upravljavci ceste prevzamejo s 1. januarjem 2009.
+(7) Skladnost obstoječega načina zavarovanja s predpisom iz 51. člena tega zakona ugotavlja komisija, ki jo imenuje minister. Komisijo sestavljajo predstavniki ministrstva, pristojnega za notranje zadeve, ministrstva, pristojnega za promet, upravljavca, upravljavca ceste in lokalne skupnosti. Pri ugotovljeni neskladnosti komisija predlaga rešitve, o katerih odloči minister z upravnim aktom.
+(8) Število nivojskih prehodov se mora zmanjšati na najnujnejši obseg, in sicer tako, da se dve ali več cest usmeri na skupen nivojski ali izvennivojski prehod.
+(9) Minister lahko zaradi ogrožene varnosti železniškega ali cestnega prometa na podlagi mnenja komisije iz sedmega odstavka tega člena z odredbo prepove uporabo obstoječega nivojskega prehoda, če je v oddaljenosti največ 1000 m ustrezen nivojski ali izvennivojski prehod.
+117. člen
+(ureditev postaj in postajališč skladno s pogoji tega zakona)
+Pogoji iz 54. člena tega zakona morajo biti izpolnjeni v petih letih od uveljavitve tega zakona.
+118. člen
+(določitev priglašenega organa)
+(1) Do določitve priglašenega organa iz 19. člena tega zakona naloge priglašenega organa opravlja agencija.
+(2) Priglašeni organ se mora določiti v enem letu od uveljavitve tega zakona.
+119. člen
+(izdaja podzakonskih predpisov)
+Podzakonski predpisi, določeni v tem zakonu, se izdajo najkasneje v dveh letih od njegove uveljavitve.
+120. člen
+(nadaljnja uporaba posameznih predpisov)
 Do izdaje podzakonskih predpisov na podlagi tega zakona se še naprej uporabljajo naslednji predpisi, v kolikor niso v nasprotju s tem zakonom:
 - Uredba o kategorizaciji prog (Uradni list RS, št. 22/02),
 - Signalni pravilnik (Službeni glasnik ZJŽ, št. 4/78, 6/79, 8/81, 4/85, 1/88 in 8/89),
@@ -106,3 +157,9 @@ Do izdaje podzakonskih predpisov na podlagi tega zakona se še naprej uporabljaj
 - Navodilo o hrambi tehnične dokumentacije na JŽ (Službeni glasnik ZJŽ, št. 3/88),
 - Pravilnik o izolirnih stikih zgornjega ustroja železniških prog (Službeni glasnik ZJŽ, št. 2/84 in 3/85),
 - Navodilo za rabo, vgraditev, preizkus in vzdrževanje lokomotivskega dela AS naprave I 60 (Službeni glasnik ZJŽ, št. 2/75).
+121. člen
+(prenehanje veljavnosti zakona)
+Z dnem uveljavitve tega zakona preneha veljati Zakon o varnosti v železniškem prometu (Uradni list RS, št. 85/00, 110/02 - ZGO-1, 45/04 in 102/04 - uradno prečiščeno besedilo).
+122. člen
+(začetek veljavnosti zakona)
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".

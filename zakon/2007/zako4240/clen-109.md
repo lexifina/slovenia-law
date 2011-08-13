@@ -9,4 +9,3 @@ Z globo od 200 do 500 eurov se kaznuje za prekršek posameznik, če:
 7. ravna v nasprotju s 93. členom;
 8. pri gibanju na železniškem območju ne upošteva omejitev, prepovedi, ukazov in opozoril, ki so postavljeni na vidnih mestih ali jih dajejo izvršilni železniški delavci (tretji odstavek 94. člena);
 9. ravna v nasprotju s 95. členom.
-Zakon o varnosti v železniškem prometu - ZVZelP (Uradni list RS, št. 61/07) vsebuje naslednje prehodne in končne določbe:

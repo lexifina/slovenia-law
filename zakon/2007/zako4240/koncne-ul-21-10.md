@@ -1,12 +1,10 @@
-# 122. člen (začetek veljavnosti zakona)
-Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
 Zakon o spremembah in dopolnitvah Zakona o varnosti v železniškem prometu -ZVZelP-A (Uradni list RS, št. 21/10) spreminja 114. člen zakona tako, da se glasi:
 "114. člen
 (posebni pogoji za vlečna vozila)
 (1) Ne glede na določbe 71. člena tega zakona lahko do konca leta 2014 na progah, opremljenih z napravami radijskih zvez, brez naprav radijskih zvez vozijo motorna vozila za posebne namene in vlečna vozila serije 311, 642, 643, 644, 661, 664, 713, 732 in 813.
 (2) Vlečna vozila in motorna vozila za posebne namene, ki se že uporabljajo, morajo biti opremljena z opremo za klimatizacijo vozniških kabin najpozneje do leta 2010.";
 ter vsebuje naslednje prehodne in končne določbe:
-## "PREHODNE IN KONČNE DOLOČBE
+"PREHODNE IN KONČNE DOLOČBE
 64. člen
 Postopki gradnje, nadgradnje ali obnove na javni železniški infrastrukturi, začeti pred uveljavitvijo tega zakona, se dokončajo v skladu s predpisi, ki so veljali do uveljavitve tega zakona.
 65. člen
