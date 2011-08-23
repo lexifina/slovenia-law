@@ -1,0 +1,25 @@
+# 38. člen Ponovna odmera pokojnin
+
+(1) Pokojnine, ki jih je pristojni nosilec ene pogodbenice priznal v obdobju od 8. oktobra 1991 do uveljavitve tega sporazuma tudi z upoštevanjem zavarovalne dobe, dopolnjene po pravnih predpisih druge pogodbenice, se po uradni dolžnosti ponovno odmerijo po določbah tega sporazuma. To velja tudi za pokojnine, ki so bile prvič priznane v eni pogodbenici do 7. oktobra 1991, nato pa do začetka veljavnosti tega sporazuma uveljavljene in priznane v drugi pogodbenici na podlagi pretežnosti zavarovalne dobe, dopolnjene po pravnih predpisih te pogodbenice. Dan, ko je nosilec prve pogodbenice začel postopek, se šteje kot dan vložitve zahtevka po pravnih predpisih druge pogodbenice.
+
+(2) V postopku za ponovno odmero pokojnine nosilec druge pogodbenice ugotavlja pogoje za priznanje pravice do istovrstne pokojnine po pravnih predpisih, ki veljajo na dan uveljavitve tega sporazuma. Če je bila v prvi pogodbenici priznana pravica do invalidske pokojnine, v drugi pogodbenici pa pogoji za priznanje pravice do invalidske pokojnine niso izpolnjeni, se v drugi pogodbenici prizna pravica do starostne pokojnine, če so zanjo izpolnjeni pogoji.
+
+(3) Če pogoji za priznanje pravice do pokojnine v drugi pogodbenici na dan uveljavitve tega sporazuma niso izpolnjeni, izpolnjeni pa so na dan odločanja o pravici, se pravica do pokojnine prizna od dneva izpolnitve pogojev.
+
+(4) Če v drugi pogodbenici pogoji za priznanje pravice v skladu z drugim in tretjim odstavkom tega člena niso izpolnjeni, nosilec prve pogodbenice po uradni dolžnosti ponovno uvede postopek za ponovno odmero pokojnine, ko bodo izpolnjeni pogoji v drugi pogodbenici.
+
+(5) Če bi bil z uporabo prvega odstavka tega člena seštevek pokojnin, odmerjenih po pravnih predpisih obeh pogodbenic, nižji od že priznane pokojnine, ki bi se na dan ponovne odmere izplačevala po pravnih predpisih ene pogodbenice, pristojni nosilec te pogodbenice izplačuje upravičencu tudi razliko med svojo že priznano pokojnino in seštevkom pokojnin, odmerjenih po pravnih predpisih obeh pogodbenic, tako:
+
+1) upravičencu, ki je pokojnino že pridobil po pravnih predpisih ene pogodbenice in ima na dan ponovne odmere pokojnine stalno prebivališče v tej pogodbenici, pristojni nosilec pokojnino še naprej izplačuje v znesku, ki bi mu pripadal po pravnih predpisih te pogodbenice. V tem primeru pristojni nosilec druge pogodbenice izplačuje pokojnino neposredno pristojnemu nosilcu prve pogodbenice;
+
+2) upravičencu, ki je pravico do pokojnine že pridobil v tej pogodbenici in ima na dan ponovne odmere pokojnine stalno prebivališče v drugi pogodbenici ali neki tretji državi, izplačuje na novo odmerjeno pokojnino po svojih pravnih predpisih in razliko med zadnjim izplačanim zneskom prej priznane pokojnine ter seštevkom pokojnin, odmerjenih po pravnih predpisih obeh pogodbenic. Razliko iz prejšnjega stavka pristojni nosilec prve pogodbenice izplačuje, dokler seštevek pokojnin, odmerjenih po pravnih predpisih obeh pogodbenic, ne doseže višine prej izplačevane pokojnine. Za kritje preplačila pri nosilcu prve pogodbenice nosilec druge pogodbenice zneske svoje pokojnine izplačuje nosilcu prve pogodbenice, dokler nosilec prve pogodbenice ponovno ne odmeri pokojnine ter dokler preplačilo pri nosilcu prve pogodbenice ni poplačano, nato pa pokojnino izplačuje neposredno upravičencu. O vsaki spremembi višine pokojnine obvešča pristojnega nosilca prve pogodbenice, dokler je to potrebno.
+
+(6) Pristojni nosilec v prvi pogodbenici ponovno odmeri pokojnino na podlagi novougotovljene zavarovalne dobe v skladu s tem sporazumom le, če nosilec druge pogodbenice prizna pravico do pokojnine v skladu s prvim, drugim, tretjim in četrtim odstavkom tega člena.
+
+(7) Pravica do pokojnine, priznane in odmerjene v skladu s prvim, drugim in četrtim odstavkom tega člena, pripada od prvega dneva po poteku meseca, v katerem je nosilec, ki je prvi priznal pravico do pokojnine, začel postopek za ponovno odmero pokojnine.
+
+(8) Pokojnino, priznano v skladu s tem členom, nosilec druge pogodbenice izplačuje nosilcu prve pogodbenice, dokler nosilec prve pogodbenice ne sporoči, da je preplačilo poračunano in da se pokojnina druge pogodbenice lahko začne izplačevati neposredno upravičencu. Nosilec druge pogodbenice začne izplačevati pokojnino nosilcu prve pogodbenice takoj po priznanju pravice.
+
+(9) Pokojnine, ki jih je pristojni nosilec ene pogodbenice priznal v obdobju od 8. oktobra 1991 do uveljavitve tega sporazuma na podlagi zavarovalne dobe, krajše od 12 mesecev, dopolnjene po pravnih predpisih te pogodbenice, in z upoštevanjem zavarovalne dobe, dopolnjene izključno po pravnih predpisih druge pogodbenice, se ponovno odmerijo z uporabo 24. člena tega sporazuma in sedmega odstavka tega člena.
+
+(10) Zavarovalne dobe, dopolnjene po pravnih predpisih Socialistične federativne republike Jugoslavije o pokojninskem in invalidskem zavarovanju vojaških zavarovancev, dobe, ki so bile priznane na podlagi udeležbe v NOV, ter prevzete zavarovalne dobe iz prvega odstavka 36. člena tega sporazuma ostanejo obveznost pristojnega nosilca pogodbenice, ki je prvi priznal pokojnino.
