@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o prevozu nevarnega blaga (Uradni list RS, št. 33/06 - uradno prečiščeno besedilo in 41/09) se v drugem in četrtem odstavku 7. člena, prvem, tretjem in četrtem odstavku 25. člena, drugem odstavku 28. člena, 30. členu, drugem odstavku 31. člena, četrtem odstavku 35. člena, 42. členu, prvem, drugem in tretjem odstavku 43. člena besedi "notranje zadeve" nadomestita z besedo "promet".
