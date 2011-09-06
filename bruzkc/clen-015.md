@@ -1,0 +1,3 @@
+# 15. člen
+
+Vstop in bivanje zaposlenih v centru in njihovih družinskih članov, ki z njimi živijo v skupnem gospodinjstvu in so državljani države pošiljateljice ali tretje države, ureja notranja zakonodaja države gostiteljice o vstopu in bivanju tujih državljanov. Če notranja zakonodaja države gostiteljice ne določa drugače, se družinskim članom zaposlenih lahko izda vizum ali dovoljenje za prebivanje sočasno kot zaposlenim, če so izpolnjeni vsi drugi pogoji, ki jih določa notranja zakonodaja. Vloge zaposlenih in njihovih družinskih članov za izdajo vizuma in dovoljenja za prebivanje se obravnavajo prednostno.
