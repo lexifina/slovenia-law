@@ -1,0 +1,6 @@
+# 1. člen
+V Zakonu o vinu (Uradni list RS, št. 105/06) se četrti odstavek 13. člena spremeni tako, da se glasi:
+"(4) Ne glede na določbo drugega odstavka tega člena se lahko fizične osebe, ki niso samostojni podjetniki posamezniki in izpolnjujejo pogoje iz prvega odstavka tega člena, ukvarjajo s pridelavo mošta, vina in drugih proizvodov tudi iz določene količine grozdja, ki ni njihov lastni pridelek, če je bil njihov lastni pridelek pomembno zmanjšan zaradi naravne nesreče, kar pomeni, da je pridelek najmanj 60 % manjši od triletnega povprečja, kot je vpisan v Register pridelovalcev grozdja in vina. V Registru pridelovalcev grozdja in vina se o odkupu in sledljivosti grozdja in vina vodi evidenca o nakupu grozdja. Grozdje mora biti pridelano v vinorodnem okolišu oškodovanega pridelovalca grozdja. Skupni pridelek (lastni in dokupljen) ne sme presegati 100 % triletnega povprečja prijavljenega pridelka grozdja.".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"(5) Obseg škode se določi v skladu s predpisi, ki urejajo ocenjevanje škode v kmetijstvu oziroma v postopku ocenjevanja škode za izvajanje ukrepov kmetijske politike in velja za pridelek tekočega leta.".
+KONČNA DOLOČBA
