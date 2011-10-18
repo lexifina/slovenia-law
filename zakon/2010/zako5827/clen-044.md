@@ -1,2 +1,0 @@
-# 44. člen (podaljšanje pridobljenega dovoljenja urada)
-Dajalci kreditov, ki so pridobili dovoljenje urada za opravljanje storitev potrošniškega kreditiranja več kot tri leta pred uveljavitvijo tega zakona, morajo uradu predložiti dokazila, da še vedno izpolnjujejo pogoje za pridobitev dovoljenja v skladu s 30. členom tega zakona, v šestih mesecih od uveljavitve tega zakona, sicer jim dovoljenje preneha veljati.

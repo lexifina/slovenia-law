@@ -8,7 +8,7 @@ V tem zakonu uporabljeni izrazi pomenijo:
 6. kreditni posrednik ali posrednica (v nadaljnjem besedilu: kreditni posrednik) je fizična ali pravna oseba, ki v okviru svoje dejavnosti, poslovanja ali poklica in na podlagi pooblastila dajalca kredita potrošnikom predstavlja ali ponuja kredite, jim pomaga v postopkih pred sklenitvijo kreditne pogodbe ali v imenu dajalca kredita s potrošniki sklepa kreditne pogodbe;
 7. kreditni posrednik v pomožni funkciji je fizična ali pravna oseba, pri kateri dejavnost posredništva ni glavna dejavnost;
 8. molče dovoljena prekoračitev je prekoračitev, s katero dajalec kredita potrošniku na podlagi konkludentnih dejanj dovoli, da razpolaga s sredstvi, ki presegajo obstoječe stanje na plačilnem računu potrošnika ali dogovorjeno dovoljeno prekoračitev;
-9. potrošnik je fizična oseba, ki v poslih po tem zakonu deluje za namene izven svoje poklicne ali pridobitne dejavnosti;
+9. potrošnik je fizična oseba, ki deluje za namene izven svoje poklicne ali pridobitne dejavnosti;
 10. potrošniška kreditna pogodba (v nadaljnjem besedilu: kreditna pogodba) je pogodba, s katero dajalec kredita potrošniku da ali obljubi, da mu bo dal kredit v obliki odloga plačila, posojila ali drugega podobnega finančnega dogovora;
 11. potrošniška hipotekarna kreditna pogodba je pogodba, s katero dajalec kredita potrošniku da ali obljubi, da mu bo dal kredit, katerega vračilo je zavarovano s hipoteko ali zemljiškim dolgom na nepremičnini;
 12. povezana kreditna pogodba je kreditna pogodba, namenjena financiranju pogodbe o prodaji določenega blaga ali opravljanju določene storitve, pri čemer ti dve pogodbi sestavljata komercialno enoto.
