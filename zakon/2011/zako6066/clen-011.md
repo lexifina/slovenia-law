@@ -1,0 +1,2 @@
+# 11. člen
+Minister, pristojen za gospodarstvo, uskladi Pravilnik o pogojih za opravljanje storitev potrošniškega kreditiranja (Uradni list RS, št. 102/10), Pravilnik o pogojih, ki jih mora izpolnjevati kreditni posrednik (Uradni list RS, št. 13/11) in Pravilnik o poročanju dajalcev kreditov o sklenjenih kreditnih pogodbah (Uradni list RS, št. 13/11) s tem zakonom v roku treh mesecev od njegove uveljavitve.
