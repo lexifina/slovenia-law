@@ -1,0 +1,5 @@
+# 8. člen
+15. člen se spremeni tako, da se glasi:
+"15. člen
+(preprečevanje podvajanja poskusov na vretenčarjih)
+Da bi se izognili nepotrebnim poskusom na vretenčarjih, mora vsak predlagatelj, ki mora izkazati namen, da bo dal v promet biocidni proizvod, pri pristojnem organu zahtevati podatke o tem, ali je biocidni proizvod, ki ga namerava dati v promet, že dovoljen in kdo je imetnik dovoljenja zanj. Imetniki in naslednji predlagatelji iste aktivne snovi ali enakega biocidnega proizvoda morajo storiti vse, da se dogovorijo o souporabi podatkov. Če dogovora ne dosežejo, pristojni organ zaradi preprečitve nepotrebnih poskusov na vretenčarjih kljub temu uporabi že predložene podatke v korist naslednjih predlagateljev, imetniki in naslednji predlagatelji pa svoje medsebojne obveznosti uredijo sporazumno.".
