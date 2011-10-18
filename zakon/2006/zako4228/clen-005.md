@@ -29,10 +29,10 @@
 17. Izjava o dostopnosti podatkov je listina s podpisom lastnika oziroma lastnice (v nadaljnjem besedilu: lastnik) oziroma lastnikov zadevnih podatkov, zaščitenih z določbami tega zakona, v kateri se izjavlja, da smejo pristojni organi uporabljati te podatke za namene izdaje dovoljenja po postopku avtorizacije, registracije, po posebnem postopku, ali za vključitev aktivnih snovi na sezname snovi I, IA ali IB.
 18. Znanstveno raziskovanje in razvoj je znanstveno preskušanje, analiziranje ali izvajanje raziskav v nadzorovanih pogojih. Vključuje ugotavljanje specifičnih lastnosti snovi, njenega delovanja, učinkovitosti, škodljivih vplivov na zdravje ljudi, živali ali okolje, kakor tudi znanstvene raziskave v zvezi z razvojem novega biocidnega proizvoda.
 19. Raziskovanje in razvoj, usmerjena v uporabo, sta nadaljnji razvoj biocidnega proizvoda, kjer se na poskusni ali proizvodni ravni raziskujejo možnosti uporabe biocidnega proizvoda.
-20. Splošna uporaba je vsaka nepoklicna uporaba biocidnih proizvodov.
-21. Poklicna uporaba pomeni vsako uporabo biocidnega proizvoda pri opravljanju poslovne dejavnosti, vključno z dejavnostjo prometa.
+20. Splošni uporabnik je vsak nepoklicni uporabnik biocidnih proizvodov.
+21. Poklicni uporabnik je vsak uporabnik, ki uporablja biocidni proizvod pri opravljanju poslovne dejavnosti ter ima izkušnje in znanje za varno ravnanje z njim.
 22. Nepredvidena nevarnost je nevarnost, da bi zaradi ciljnih organizmov, ki jih ni bilo mogoče predvideti, preprečiti ali omejiti njihovega pojava, oziroma se nanje ni bilo mogoče pripraviti z ustreznimi ukrepi, nastala škoda za ljudi ali za njihovo imetje.
 23. Predlagatelj je proizvajalec oziroma proizvajalka (v nadaljnjem besedilu: proizvajalec) ali njegov zastopnik oziroma zastopnica (v nadaljnjem besedilu: zastopnik), ki predlagajo dajanje biocidnega proizvoda v promet. Zastopnik je lahko pravna ali fizična oseba.
-24. Imetnik dovoljenja je pravna ali fizična oseba, ki je navedena na dovoljenju za dajanje biocidnega proizvoda v promet in uporabo in ima svoj stalni sedež ali naslov v eni od držav članic EU.
-(2) Predlagatelj za avtorizacijo, registracijo ali za vključitev aktivne snovi na seznam snovi I, IA ali IB je pravna ali fizična oseba, ki je odgovorna za prvo dajanje biocidnega proizvoda v promet, ali oseba, ki posreduje vlogo v imenu osebe, odgovorne za prvo dajanje biocidnega proizvoda v promet.
-(3) Predlagatelj mora imeti svoj stalni sedež v eni od držav članic EU.
+24. Imetnik dovoljenja je pravna ali fizična oseba, ki je navedena v dovoljenju za dajanje biocidnega proizvoda v promet in uporabo, ima svoj stalni sedež ali naslov v eni od držav članic EU in je odgovorna za dajanje biocidnega proizvoda v promet.
+(2) (črtan).
+(3) (črtan).

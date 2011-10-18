@@ -1,5 +1,5 @@
 # 44. člen (evidence o prodaji biocidnih proizvodov, ki se ne smejo prodajati v prosti prodaji)
-(1) Pravne in fizične osebe, ki se ukvarjajo s prometom biocidnih proizvodov iz prvega odstavka 21. člena tega zakona in jih v skladu s tem zakonom prodajajo le pravnim in fizičnim osebam, ki izpolnjujejo s posebnimi predpisi določene pogoje, morajo za te proizvode poleg evidence iz prejšnjega člena voditi evidenco o prodaji, ki vsebuje naslednje podatke:
+(1) Pravne in fizične osebe, ki se ukvarjajo s prometom biocidnih proizvodov iz prve alineje prvega odstavka 54. člena tega zakona in jih v skladu s tem zakonom prodajajo le pravnim in fizičnim osebam, ki izpolnjujejo s posebnimi predpisi določene pogoje, morajo za te proizvode poleg evidence iz prejšnjega člena voditi evidenco o prodaji, ki vsebuje naslednje podatke:
 - rok trajanja biocidnega proizvoda,
 - datum prodaje oziroma izdaje biocidnega proizvoda,
 - količino prodanega oziroma izdanega biocidnega proizvoda,

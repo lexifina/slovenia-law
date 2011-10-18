@@ -5,6 +5,6 @@
 - povzetek dokumentacije iz drugega in tretjega odstavka 28. člena tega zakona, če je bilo dovoljenje izdano po popolnem postopku, oziroma podatke iz drugega in tretjega odstavka 29. člena tega zakona, razen podatkov o učinkovitosti, za katere zadošča povzetek, če je bilo dovoljenje izdano po skrajšanem postopku;
 - overjen prepis prvega izdanega dovoljenja, razen če pristojni organ izvod prvega izdanega dovoljenja lahko pridobi sam, in
 - overjen prevod prvega izdanega dovoljenja, razen če je dovoljenje izdano v jeziku, ki ga razume javni uslužbenec, ki vlogo obravnava.
-(3) V postopku medsebojnega priznavanja dovoljenj pristojni organ na podlagi mnenja komisije iz 22. člena tega zakona izda dovoljenje v 120 dneh, če gre za popolni postopek, oziroma v 60 dneh, če gre za skrajšani postopek, pod pogojem, da je aktivna snov v biocidnem proizvodu vključena na seznam snovi I ali IA. Dovoljenje se lahko izda za enako obdobje, kot velja za biocidni proizvod v državi članici, v kateri je bilo prvič izdano dovoljenje.
+(3) V postopku medsebojnega priznavanja dovoljenj pristojni organ izda dovoljenje v 120 dneh, če gre za popolni postopek, oziroma v 60 dneh, če gre za skrajšani postopek, pod pogojem, da je aktivna snov v biocidnem proizvodu vključena na seznam snovi I ali IA. Dovoljenje se lahko izda za enako obdobje, kot velja za biocidni proizvod v državi članici, v kateri je bilo prvič izdano dovoljenje.
 (4) Rok za izdajo dovoljenja iz prejšnjega odstavka začne teči od dne, ko je vloga popolna.
-(5) Pogoje in vsebino vloge za medsebojno priznavanje dovoljenj določi minister v soglasju z ministrom, pristojnim za okolje.
+(5) Pogoje in vsebino vloge za medsebojno priznavanje dovoljenj določi minister.

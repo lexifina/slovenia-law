@@ -1,4 +1,5 @@
 # 54. člen (omejitve pri uporabi)
-(1) Biocidne proizvode iz 21. člena tega zakona ne glede na njihovo razvrstitev smejo uporabljati le poklicni uporabniki, ki izpolnjujejo splošne pogoje za opravljanje dejavnosti in posebne pogoje v skladu s cilji tega zakona za doseganje pravilne uporabe biocidnih proizvodov in pridobijo pri pristojnem organu dovoljenje, da jih smejo uporabljati.
-(2) Posebne pogoje za doseganje pravilne uporabe biocidnih proizvodov in način pridobitve dovoljenja iz prejšnjega odstavka predpiše minister v soglasju z ministrom, pristojnim za okolje, in ministrom, pristojnim za kmetijstvo.
-(3) Ne glede na prvi odstavek tega člena lahko pristojni organ v primeru nepredvidene nevarnosti dopusti odstopanja od prvega odstavka tega člena in določi pogoje za tako uporabo.
+(1) Biocidni proizvodi:
+- ki so glede na nevarne lastnosti razvrščeni kot zelo strupeni, strupeni, rakotvorni skupine 1 ali 2, mutageni skupine 1 ali 2 ali strupeni za razmnoževanje skupine 1 ali 2, ali
+- za katere pristojni organ ugotovi, da zaradi drugih nevarnih lastnosti ali načinov uporabe predstavljajo tveganje za splošnega uporabnika, se ne smejo dajati v promet za splošno uporabo.
+(2) Biocidni proizvodi iz prejšnjega odstavka se lahko dajo v promet za poklicne uporabnike, ki izpolnjujejo splošne pogoje in posebne pogoje za doseganje pravilne uporabe biocidnih proizvodov, ki jih predpiše Vlada Republike Slovenije.

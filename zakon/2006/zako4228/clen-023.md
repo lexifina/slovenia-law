@@ -8,7 +8,7 @@
 5. razvrstitev vseh aktivnih in drugih snovi, če so razvrščene kot nevarne v skladu s predpisi, ki urejajo kemikalije,
 6. vrsto proizvoda v skladu s Prilogo V in dovoljene namene uporabe,
 7. vrsto formulacije biocidnega proizvoda (tekočina, granulat, prah, trdna snov),
-8. carinsko oznako,
+8. (črtana),
 9. številko in datum izdaje dovoljenja,
 10. rok veljavnosti dovoljenja,
 11. podatke o mejnih vrednostih ostankov, če so znani,
@@ -17,4 +17,4 @@
 14. vrsto postopka, po katerem je bilo izdano dovoljenje za dajanje biocidnega proizvoda v promet,
 15. varnostni list biocidnega proizvoda in
 16. vse druge posebnosti ali zahteve glede dajanja biocidnega proizvoda v promet ali uporabo.
-(3) Izvleček registra biocidnih proizvodov, ki vsebuje osebno ime oziroma firmo imetnika dovoljenja in najmanj podatke iz 2., 3., 6., 9. in 10. točke prejšnjega odstavka, se enkrat na leto objavi v Uradnem listu Republike Slovenije.
+(3) (črtan).
