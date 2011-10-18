@@ -1,0 +1,2 @@
+# 2. člen
+V prvem, drugem, petem, šestem in osmem odstavku 11. člena, prvem in drugem odstavku 12. člena, prvem, tretjem in šestem odstavku 15. člena, prvem, drugem in četrtem odstavku 16. člena, prvem odstavku 16.a člena, četrtem odstavku 19. člena, četrtem, petem in šestem odstavku 20. člena, prvem, četrtem in petem odstavku 24. člena, prvem odstavku 29. člena, šestem odstavku 31. člena, prvem odstavku 32. člena in prvem odstavku 40. člena se beseda "Direkcija" v različnih sklonih nadomesti z besedo "ministrstvo" v ustreznem sklonu.
