@@ -1,0 +1,12 @@
+# 49. člen
+Besedilo 430. člena se spremeni tako, da se glasi:
+"(1) Centralna klirinškodepotna družba s tarifo določi:
+1. nadomestila za odpiranje, zapiranje in vodenje računov nematerializiranih vrednostnih papirjev ter za opravljanje vpisov v centralnem registru,
+2. nadomestila, ki jih plačujejo izdajatelji za storitve v zvezi z izdajo, razveljavitvijo in zamenjavo nematerializiranih vrednostnih papirjev ter za vodenje registra imetnikov za izdajatelja,
+3. nadomestila za storitve v zvezi s prevzemi in
+4. nadomestila za druge storitve, ki jih opravlja.
+(2) Nadomestila iz prvega odstavka tega člena morajo biti v skladu z razumnimi poslovnimi pogoji in ne smejo biti diskriminatorna za posamezne imetnike, izdajatelje, prevzemnike ali vrste vrednostnih papirjev.
+(3) Centralna klirinškodepotna družba mora po objavi oziroma spremembi tarife agenciji nemudoma posredovati vsakokratno spremembo višine nadomestil iz prvega odstavka tega člena, skupaj z obrazložitvijo razlogov za spremembe. V kolikor agencija oceni, da je v zvezi s spremembo tarife potrebno pričeti postopek nadzora v zvezi s skladnostjo tarife centralne klirinške depotne družbe z drugim odstavkom tega člena, agencija pridobi mnenje Banke Slovenije, centralna klirinškodepotna družba pa mora zagotoviti dokaze glede skladnosti tarife z zakonskimi zahtevami oziroma z razumnimi poslovnimi pogoji.
+(4) Ne glede na tretji odstavek tega člena, mora centralna klirinškodepotna družba, ko določa tarifo v zvezi z nadomestili iz 2. točke prvega odstavka tega člena, za delnice družb, ki so zavezane izdati delnice kot nematerializirani vrednostni papir samo na podlagi ZGD-1, pred objavo oziroma spremembo tarife pridobiti tudi soglasje ministra oziroma ministrice (v nadaljnjem besedilu: minister), pristojne za gospodarstvo. Minister, pristojen za gospodarstvo lahko zavrne soglasje, če nadomestila niso v skladu s pogoji iz drugega odstavka tega člena. Če minister, pristojen za gospodarstvo ne odloči o zahtevi za izdajo soglasja v 30 dneh od njenega prejema, se šteje, da je bilo soglasje izdano.
+(5) Za tarifo centralne klirinškodepotne družbe se smiselno uporablja šesti odstavek 429. člena tega zakona.
+(6) Centralna klirinškodepotna družba mora odpraviti kršitve in predložiti poročilo o njihovi odpravi, kot ji je to naloženo z odredbo, ki jo agencija izda zaradi neskladja tarife centralne klirinškodepotne družbe z drugim odstavkom tega člena, najkasneje v treh delovnih dneh od dokončnosti odredbe.".
