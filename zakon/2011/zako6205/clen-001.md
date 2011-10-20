@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o davku na dodano vrednost (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo in 18/11) se v četrtem odstavku 4. člena, šestem odstavku 20. člena, drugem odstavku 74.c člena, prvem, drugem, tretjem, četrtem in šestem odstavku 74.e člena, prvem in drugem odstavku 74.f člena, prvem, četrtem, petem in šestem odstavku 74.h člena, četrtem odstavku 78. člena ter v tretji točki prvega odstavka 141. člena besedilo "pristojni davčni urad" v različnih sklonih nadomesti z besedilom "davčni organ" v ustreznem sklonu.
