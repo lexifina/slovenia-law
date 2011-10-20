@@ -1,0 +1,2 @@
+# 60.e člen
+Pogodbeno določilo, s katerim podjetje od potrošnika v času odstopnega roka, določenega za pogodbe o časovnem zakupu, pogodbe o dolgoročnem počitniškem proizvodu in pogodbe o zamenjavi, oziroma v primeru pogodbe o nadaljnji prodaji, preden je bila dejanska prodaja izvedena ali drugače prekinjena, zahteva predplačila, zagotavljanje jamstev, blokirani zneski na računih, izrecno priznanje dolga ali kakršnakoli druga plačila nadomestila potrošnika podjetju ali katerikoli drugi tretji stranki, je nično.".
