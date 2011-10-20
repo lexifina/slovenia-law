@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o nematerializiranih vrednostnih papirjih (Uradni list RS, št. 2/07 - uradno prečiščeno besedilo, 67/07 - ZTFI in 58/09) se prva alineja 1.a člena dopolni tako, da se glasi:
+"- Direktiva 98/26/ES Evropskega parlamenta in Sveta z dne 19. maja 1998 o dokončnosti poravnave pri plačilih in sistemih poravnave vrednostnih papirjev (UL L št. 166 z dne 11. 6. 1998, str. 45), spremenjena z Direktivo 2009/44/ES Evropskega parlamenta in Sveta z dne 6. maja 2009 o spremembi Direktive 98/26/ES o dokončnosti poravnave pri plačilih in sistemih poravnave vrednostnih papirjev in Direktive 2002/47/ES o dogovorih o finančnem zavarovanju glede povezanih sistemov in bančnih posojil (UL L št. 146 z dne 10. 6. 2009, str. 37) in".
