@@ -1,4 +1,1 @@
-# 34. člen
-(1) Klirinško depotna družba objektivno odgovarja izdajatelju oziroma imetniku pravic, ki so predmet vpisa v centralni register, za škodo, ki mu jo povzroči z neizvršitvijo oziroma nepravilno izvršitvijo naloga, oziroma s kršitvijo drugih obveznosti, določenih s tem zakonom.
-(2) Klirinško depotna družba je prosta odgovornosti za škodo iz prejšnjega odstavka, če dokaže, da je vzrok za neizvršitev oziroma nepravilno izvršitev naloga oziroma drugo kršitev dogodek, ki je bil zunaj njenega poslovanja in njegovega učinka ni bilo mogoče pričakovati, se mu izogniti ali ga odvrniti.
-(3) Klirinško depotna družba je prosta odgovornosti za škodo iz prvega odstavka tega člena tudi, če dokaže, da je vzrok za neizvršitev oziroma nepravilno izvršitev naloga oziroma drugo kršitev ravnanje izdajatelja, imetnika, člana klirinško depotne družbe ali koga tretjega, ki ga ni mogla pričakovati in se njegovim posledicam ne izogniti ali jih odstraniti.
+# 34. člen (črtan)

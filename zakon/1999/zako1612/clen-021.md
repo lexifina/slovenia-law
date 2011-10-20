@@ -1,5 +1,4 @@
 # 21. člen
-(1) Klirinško depotna družba mora zagotoviti, da se prenosi vrednostnih papirjev na račune imetnikov in vpisi pravic tretjih oziroma omejitve prenosljivosti oziroma prepovedi razpolaganj izvršujejo po vrstnem redu vnosa nalogov v centralni register.
-(2) Klirinško depotna družba mora zagotoviti, da se nalog za prenos vrednostnega papirja s posameznega računa vrednostnih papirjev na drug račun oziroma nalog za vpis pri tem računu glede posameznega vrednostnega papirja ne more izvršiti, dokler niso izvršeni prej vneseni nalogi za prenos oziroma vpis pri tem računu.
-(3) Določbe tega člena se smiselno uporabljajo tudi za druge prenose in vpise.
-Vnos nalogov
+(1) Posamezen vpis se v centralnem registru opravi na podlagi vnesenega naloga za tak vpis.
+(2) Klirinško depotna družba v pravilih poslovanja določi trenutek, od katerega nalog za vpis velja za vnesenega, ter pogoje, ki morajo biti izpolnjeni, da nalog za vpis velja za vnesenega. Vneseni nalog je nepreklicen. Začetek postopka prisilne poravnave, stečaja, prisilne likvidacije ali drug postopek, čigar začetek povzroči omejitev ali prenehanje veljavnosti nalogov osebe, nad katero je ta postopek začet, ne vpliva na veljavnost naloga za vpis, ki je bil v centralni register vnesen pred začetkom takšnega postopka ali ki je bil v centralni register vnesen po trenutku začetka takšnega postopka, vendar v slednjem primeru le, če oseba, ki je v centralni register vnesla nalog za tak vpis, ni vedela niti ni mogla vedeti za začetek takšnega postopka.
+Vrste nalogov

@@ -1,4 +1,6 @@
 # 18. člen
-(1) V centralnem registru se odprejo računi vrednostnih papirjev, preko katerih se vodijo stanja nematerializiranih vrednostnih papirjev posameznih imetnikov, opravljajo prenosi pravic iz nematerializiranih vrednostnih papirjev in vpisujejo pravice tretjih na nematerializiranih vrednostnih papirjih, omejitve prenosljivosti in prepovedi razpolaganja.
-(2) Podrobnejši način vodenja računov vrednostnih papirjev določi klirinško depotna družba v pravilih poslovanja.
-Vodenje stanj na računih vrednostnih papirjev
+(1) Za označitev imetnika računa oziroma člana klirinško depotne družbe se uporablja enolična identifikacija.
+(2) Poleg enolične identifikacije imetnika računa se v centralni register vpišejo tudi osebno ime, firma oziroma naziv imetnika računa, njegov naslov oziroma sedež ter davčna številka.
+(3) Organi, ki vodijo poslovni register, register prebivalstva oziroma davčni register, klirinško depotni družbi tekoče sporočajo podatke iz prejšnjega odstavka.
+(4) Klirinško depotna družba sporočene podatke iz drugega odstavka tega člena tekoče vpisuje v centralni register.
+Izpisek stanja na računu

@@ -1,6 +1,5 @@
 ## VI. PRENOS NEMATERIALIZIRANIH VREDNOSTNIH PAPIRJEV NA PODLAGI PRAVNEGA POSLA Prenos pravic iz nematerializiranega vrednostnega papirja
 # 35. člen
-(1) Pravice dosedanjega imetnika iz nematerializiranega vrednostnega papirja se prenesejo s prenosom nematerializiranega vrednostnega papirja na račun novega imetnika.
-(2) Če je na podlagi nematerializiranega vrednostnega papirja nastalo upravičenje iz prvega odstavka 15.b člena tega zakona, se to upravičenje prenese na novega imetnika hkrati s prenosom nematerializiranega vrednostnega papirja, če je bil prenos v centralnem registru izvršen do vključno presečnega dne pravne samostojnosti tega upravičenja.
-(3) Prenos iz prvega odstavka tega člena se opravi na podlagi naloga dosedanjega imetnika, če zakon ne določa drugače.
-Učinek omejitve prenosljivosti
+(1) Pravice iz nematerializiranega vrednostnega papirja se prenašajo s prenosom nematerializiranega vrednostnega papirja med računi.
+(2) Če je nematerializiran vrednostni papir omejeno prenosljiv (30. oziroma 31. člen tega zakona), sme oseba, ki na strani izročitelja opravlja vnos za prenos takega vrednostnega papirja, to storiti le po predhodni ugotovitvi, da je dovoljenje izdajatelja za tak prenos dano. To ne velja v primeru, če dovoljenje izdajatelja za konkretni prenos ni potrebno.
+(3) Če je na nematerializiranem vrednostnem papirju vpisana prepoved razpolaganja iz 32. člena tega zakona, sme oseba, ki vnaša izročitveni del naloga za prenos takega vrednostnega papirja, oziroma oseba, ki vnaša nalog za vpis pravic tretjih na takem vrednostnem papirju, to storiti le po predhodni ugotovitvi, da je dano dovoljenje osebe, v korist katere je prepoved razpolaganja vpisana. To ne velja, če gre za vpis na podlagi sodne odločbe.

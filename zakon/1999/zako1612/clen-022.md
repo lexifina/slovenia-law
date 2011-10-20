@@ -1,10 +1,5 @@
 # 22. člen
-(1) Naloge posameznega imetnika za:
-1. prenos nematerializiranih vrednostnih papirjev med računi istega imetnika,
-2. prenos nematerializiranih vrednostnih papirjev na račun novega imetnika,
-3. vpis oziroma izbris zastavne pravice oziroma drugih pravic tretjih na nematerializiranih vrednostnih papirjih tega imetnika,
-4. vpis oziroma izbris prepovedi razpolaganja v korist določene osebe,
-vnaša član klirinško depotne družbe, ki na podlagi pogodbe o vodenju računov vrednostnih papirjev vodi račun tega imetnika, če ta zakon za posamezne primere ne določa, da naloge vnaša klirinško depotna družba.
-(2) Naloge iz prejšnjega odstavka vnaša član klirinško depotne družbe neposredno v centralnem registru preko računalniške povezave s tem registrom.
-(3) Šteje se, da je nalog vnesen, ko član klirinško depotne družbe neposredno v centralnem registru preko računalniške povezave vnese podatke, ki jih mora v skladu s tem zakonom vsebovati nalog, in ko potrdi vnos, če zakon za posamezne primere ne določa drugače.
-Izvrševanje nalogov
+(1) Nalogi za vpis so enostranski in dvostranski.
+(2) Med enostranske naloge spadajo nalogi za vpise, ki spreminjajo število nematerializiranih vrednostnih papirjev, vpisanih v centralnem registru, ter nalogi za vpise in izbrise pravic tretjih in drugih bremen na nematerializiranih vrednostnih papirjih. Enostranski nalog se v centralni register vnese z enim samim vnosom.
+(3) Med dvostranske naloge spadajo nalogi za prenose nematerializiranih vrednostnih papirjev med različnimi računi. Dvostranski nalog se v centralni register vnese z dvema komplementarnima vnosoma: vnosom na strani izročitelja nematerializiranih vrednostnih papirjev (izročitveni del naloga) in vnosom na strani prejemnika nematerializiranih vrednostnih papirjev (prejemni del naloga). Če sta vnosa komplementarna, se uparita.
+Podrobnejša pravila

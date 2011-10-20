@@ -1,4 +1,13 @@
+## 1.A Vpisi v centralnem registru Vrste vpisov
 # 20. člen
-(1) Centralni register se vodi tako, da se vodijo in vzdržujejo vsi podatki iz računov vrednostnih papirjev imetnikov in članov klirinško depotne družbe.
-(2) V centralni register je vpisan vsak imetnik vrednostnih papirjev oziroma član klirinško depotne družbe z enolično identifikacijo imetnika in člana klirinško depotne družbe. Enolična identifikacija se določi ob vpisu pravic iz vrednostnega papirja imetnika oziroma člana klirinško depotne družbe.
-Načelo vrstnega reda
+(1) Vpisi, ki jih je mogoče opraviti v centralnem registru, se razvrščajo med:
+1. vpise, ki spreminjajo število nematerializiranih vrednostnih papirjev, vpisanih v centralnem registru;
+2. vpise, ki ne spreminjajo števila nematerializiranih vrednostnih papirjev, vpisanih v centralnem registru.
+(2) Vpisi, ki spreminjajo število nematerializiranih vrednostnih papirjev, vpisanih v centralnem registru, so:
+1. izdaje nematerializiranih vrednostnih papirjev,
+2. izbrisi nematerializiranih vrednostnih papirjev, in
+3. zamenjave nematerializiranih vrednostnih papirjev.
+(3) Vpisi, ki ne spreminjajo števila nematerializiranih vrednostnih papirjev, vpisanih v centralnem registru, so:
+1. prenosi nematerializiranih vrednostnih papirjev med različnimi računi;
+2. vpisi in izbrisi glede pravic tretjih in drugih bremen na nematerializiranih vrednostnih papirjih.
+Opravljanje vpisov
