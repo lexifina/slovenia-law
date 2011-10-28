@@ -1,3 +1,0 @@
-# 5. člen
-V tretjem odstavku 27. člena se na koncu doda besedilo, ki se glasi: "S pogodbo, s katero tujcu druga fizična ali pravna oseba izplačuje določen znesek za preživljanje, lahko tujec dokazuje največ polovico zagotovljenih sredstev za preživljanje, v celoti pa le v primeru izdaje dovoljenja za prebivanje zaradi študija. Pogodba mora biti sklenjena v Republiki Sloveniji v obliki neposredno izvršljivega notarskega zapisa.".
-V petem odstavku se doda nov drugi stavek, ki se glasi: "Če je po tem zakonu pogoj za izdajo dovoljenja za prebivanje veljavno delovno dovoljenje, se lahko prošnja za izdajo dovoljenja za prebivanje vloži sočasno z vloženo prošnjo za izdajo delovnega dovoljenja.".

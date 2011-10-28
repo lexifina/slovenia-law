@@ -1,4 +1,0 @@
-# 19.c člen (sredstva za preživljanje)
-(1) Tujec, ki prosi za izdajo vizuma, mora imeti zagotovljena zadostna sredstva za preživljanje. Organ, pristojen za izdajo vizuma, oceni sredstva za preživljanje glede na namen in trajanje tujčevega bivanja v Republiki Sloveniji.
-(2) Višino sredstev, ki zadoščajo za dnevno preživljanje tujca v državi, določi minister, pristojen za zunanje zadeve, ob upoštevanju povprečnih cen za prehrano in nastanitev v državi. Znesek se usklajuje enkrat letno glede na rast cen življenjskih potrebščin.
-(3) Izpolnjevanje pogoja zadostnih sredstev za preživljanje lahko tujec dokazuje z gotovino, potovalnimi čeki, kreditnimi karticami, garantnim pismom, dokazilom o plačanem bivanju v okviru turističnega aranžmaja oziroma na kakršenkoli drug način, ki dokazuje, da razpolaga s sredstvi, potrebnimi za njegovo preživljanje v državi.".

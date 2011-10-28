@@ -1,2 +1,0 @@
-# 2. člen
-V drugem odstavku 13. člena se doda nov drugi stavek, ki se glasi: "Tujec, ki lahko tri mesece v obdobju šestih mesecev brez vizuma biva in se giblje na območju držav pogodbenic Konvencije o izvajanju schengenskega sporazuma z dne 14. junija 1985, lahko v Republiko Slovenijo vstopi in v njej ostane največ toliko časa, da skupna dolžina bivanja v vseh državah pogodbenicah ne preseže treh mesecev v obdobju šestih mesecev, računajoč od dneva prvega vstopa v eno od držav pogodbenic.".
