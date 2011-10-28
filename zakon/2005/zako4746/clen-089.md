@@ -1,4 +1,0 @@
-# 89. člen (podatki za izdajo potnega lista za tujca)
-(1) Tujec mora k vlogi za izdajo potnega lista za tujca (evidenca iz šeste alinee prvega odstavka 85. člena tega zakona) pristojnemu organu oziroma organu Republike Slovenije v tujini, ki je pooblaščen za opravljanje konzularnih zadev, posredovati podatke iz 1., 2., 3., 4., 5., 6., 7., 8., 9., 10. in 11. točke prvega odstavka 86. člena tega zakona ter priložiti dve fotografiji predpisane velikosti, ki kažeta pravo podobo tujca.
-(2) V evidenci potnih listov za tujca vodi organ podatke o številki in datumu izdaje odločbe oziroma vrsti potnega lista, registrski in serijski številki potnega lista, veljavnosti in datumu izdaje potnega lista, podobi obraza imetnika potnega lista, zapisani kot biometrični podatek, ter podatke o ukradenih oziroma pogrešanih potnih listih.
-(3) Potni list za tujca vsebuje tudi pomnilniški medij, na katerem je podoba obraza imetnika, shranjena kot biometrični podatek.

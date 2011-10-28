@@ -1,4 +1,0 @@
-# 13. člen (dovoljen čas bivanja tujca v Republiki Sloveniji)
-(1) Tujec lahko ostane v državi toliko časa, kolikor mu je to določeno z vizumom, dovoljenjem za prebivanje, sklepom Vlade Republike Slovenije ali zakonom oziroma mednarodnim sporazumom.
-(2) Tujec, ki na podlagi zakona ali mednarodnega sporazuma ali sklepa Vlade Republike Slovenije za vstop v državo in bivanje ne potrebuje vizuma, lahko v Republiko Slovenijo vstopa in v njej biva največ 90 dni v šestih mesecih, računajoč od dneva prvega vstopa, z enakimi nameni kot so dovoljeni tujcem, ki morajo imeti vizum. Rezident za daljši čas in njegovi ožji družinski člani, ki imajo v drugi državi članici Evropske unije dovoljenje za prebivanje, lahko v Republiki Sloveniji ostanejo tri mesece od dneva vstopa v državo, oziroma do poteka veljavnosti dovoljenja, če je ta krajša.
-(3) Tujec mora zapustiti Republiko Slovenijo pred potekom časa iz prvega in drugega odstavka tega člena, če tako odloči pristojni organ.

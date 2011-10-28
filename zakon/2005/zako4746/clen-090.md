@@ -1,3 +1,0 @@
-# 90. člen (podatki za izdajo osebne izkaznice za tujca)
-(1) Tujec mora v vlogi za izdajo osebne izkaznice za tujca (evidenca iz sedme alinee prvega odstavka 85. člena tega zakona) pristojnemu organu dati podatke iz 1., 2., 3., 4., 5., 6., 7., 8., 11. in 16. točke prvega odstavka 86. člena tega zakona ter priložiti dve fotografiji predpisane velikosti, ki kažeta pravo podobo tujca.
-(2) V evidenci osebnih izkaznic za tujca vodi organ podatke o številki in datumu izdaje odločbe oziroma registrski in serijski številki osebne izkaznice, veljavnosti, datumu izdaje in podaljšanja osebne izkaznice za tujca ter podatke o ukradenih oziroma pogrešanih osebnih izkaznicah.

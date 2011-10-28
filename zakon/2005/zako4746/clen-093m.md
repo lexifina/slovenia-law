@@ -1,8 +1,0 @@
-# 93.m člen (ohranitev dovoljenja za začasno prebivanje za družinskega člana)
-(1) Dovoljenje za začasno prebivanje, izdano družinskemu članu v primeru smrti državljana EU ali slovenskega državljana, s katerim je družinski član v Republiki Sloveniji prebival najmanj eno leto, ostane v veljavi, če ima družinski član zagotovljena zadostna sredstva za preživljanje in ustrezno zdravstveno zavarovanje.
-(2) Zaradi razveze ali razveljavitve zakonske zveze dovoljenje za začasno prebivanje, izdano zakoncu državljana EU ali slovenskega državljana, ki ima zagotovljena zadostna sredstva za preživljanje in ustrezno zdravstveno zavarovanje, ostane v veljavi v naslednjih primerih:
-- če je zakonska zveza trajala najmanj tri leta, od tega eno leto v Republiki Sloveniji;
-- zaradi izvrševanja roditeljske pravice nad otroki državljana EU ali slovenskega državljana, ki so mu dani v varstvo in vzgojo;
-- zaradi izvrševanja roditeljske pravice nad otroki, ki prebivajo v Republiki Sloveniji in so bili dani v varstvo in vzgojo drugemu roditelju;
-- če je bil v času trajanja zakonske zveze žrtev družinskega nasilja.
-(3) V primeru iz prvega in drugega odstavka tega člena se lahko družinskemu članu, ki ima veljavno osebno izkaznico ali veljavni potni list, zagotovljena zadostna sredstva za preživljanje in ustrezno zdravstveno zavarovanje in če ne obstajajo razlogi za zavrnitev izdaje dovoljenja iz druge, četrte ali pete alinee prvega odstavka 93.h člena tega zakona, dovoljenje za začasno prebivanje podaljša z veljavnostjo pet let oziroma za čas nameravanega prebivanja v Republiki Sloveniji, če je ta krajši od petih let.

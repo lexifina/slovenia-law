@@ -1,4 +1,0 @@
-# 38. člen (otroci tujcev, rojeni v Republiki Sloveniji)
-(1) Otrok tujca, rojen v Republiki Sloveniji, ki ne pridobi slovenskega državljanstva, v prvih treh mesecih življenja ne potrebuje dovoljenja za prebivanje.
-(2) Pristojni državni organ otroku iz prejšnjega odstavka tega člena po treh mesecih po uradni dolžnosti izda dovoljenje za prebivanje, ki velja oziroma se podaljšuje toliko časa, kolikor ima dovoljenje ali se podaljšuje dovoljenje otrokovi materi ali otrokovemu očetu oziroma skrbniku, kateremu je bil otrok zaupan v vzgojo do dopolnjenega 18 leta starosti.
-(3) Pristojni organ izda po uradni dolžnosti dovoljenje za stalno prebivanje otroku iz prvega odstavka tega člena, ob pogoju, da ima vsaj eden od staršev dovoljenje za stalno prebivanje v Republiki Sloveniji oziroma katerega skrbnik je slovenski državljan ali tujec z dovoljenjem za stalno prebivanje v Republiki Sloveniji.
