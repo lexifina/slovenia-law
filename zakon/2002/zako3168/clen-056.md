@@ -1,9 +1,0 @@
-# 56. člen
-Za 65. členom se doda nov 65.a člen, ki se glasi:
-"65.a člen
-(postopek v diplomatsko konzularnih predstavništvih Republike Slovenije v tujini)
-(1) Prošnjo za izdajo vizuma vloži tujec praviloma osebno na obrazcu, ki ga predpiše ministrstvo, pristojno za notranje zadeve, v soglasju z ministrstvom, pristojnim za zunanje zadeve.
-(2) Tujec mora k prošnji za izdajo dovoljenja za prvo prebivanje priložiti vso dokumentacijo, ki jo zahteva diplomatsko konzularno predstavništvo Republike Slovenije v tujini. Če k prošnji ni priložena vsa dokumentacija, je diplomatsko konzularno predstavništvo Republike Slovenije v tujini ne sprejme. Roki po določbah zakona, ki ureja upravni postopek, začnejo teči potem, ko diplomatsko konzularno predstavništvo Republike Slovenije v tujini sprejme popolno vlogo in jo posreduje pristojni upravni enoti.
-(3) V primeru, da upravna enota zahteva dopolnitev prošnje za izdajo dovoljenja za prvo prebivanje, diplomatsko konzularno predstavništvo Republike Slovenije v tujini o tem pošlje poziv tujcu v pisni obliki, lahko pa ga pozove tudi po telefonu ali ustno, če tujec pride v diplomatsko konzularno predstavništvo v tujini.
-(4) V diplomatsko konzularnem predstavništvu Republike Slovenije v tujini odloča o vizumu uradna oseba, ki jo pooblasti minister, pristojen za zunanje zadeve. Uradna oseba presodi, če je prošnja za izdajo vizuma dovolj dokumentirana oziroma če so navedbe tujca dovolj argumentirane. Uradna oseba je pri svoji odločitvi vezana na navodila ministrstva, pristojnega za notranje zadeve. Vizum se praviloma vroči osebno.
-(5) Diplomatsko konzularno predstavništvo Republike Slovenije v tujini vroči tujcu dovoljenje za prvo prebivanje, odločbo ali sklep osebno. K vročitvi tujca povabi na način, kot ga določa tretji odstavek tega člena. Tujec ob vročitvi podpiše vročilnico, ki jo diplomatsko konzularno predstavništvo Republike Slovenije posreduje upravni enoti."
