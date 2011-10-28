@@ -1,2 +1,0 @@
-# 13. člen
-V četrtem odstavku 34. člena se pika nadomesti z vejico in doda besedilo "razen dovoljenja za začasno prebivanje zaradi zaposlitve ali dela v primeru, ko je zanj isti delodajalec, pri katerem je opravljal sezonsko delo, pridobil dovoljenje za zaposlitev v skladu z zakonom, ki ureja zaposlovanje in delo tujcev, in ob izpolnjevanju ostalih pogojev za izdajo dovoljenja za prebivanje zaradi zaposlitve ali dela.".
