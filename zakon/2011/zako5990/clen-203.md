@@ -1,0 +1,8 @@
+## 6.7.2. Prospekt odprtega investicijskega sklada
+# 203. člen (vsebina prospekta)
+(1) Prospekt mora vsebovati pomembne informacije o finančnem in pravnem položaju investicijskega sklada, vrstah naložb in tehnikah upravljanja sredstev, tveganjih, povezanih z naložbeno politiko, vrstah stroškov, ki bremenijo investicijski sklad, najmanjšem znesku vplačila v investicijski sklad in druge potrebne podatke, da vlagatelj na njihovi podlagi oceni primernost in ustreznost naložbe v enote investicijskega sklada.
+(2) Če namerava družba za upravljanje za račun investicijskega sklada sklepati posle z izvedenimi finančnimi instrumenti, mora prospekt vsebovati izrecno izjavo, iz katere je razvidno, ali so ti posli namenjeni varovanju investicijskega sklada pred tveganji ali doseganju njegovih naložbenih ciljev ter opis verjetnih posledic uporabe izvedenih finančnih instrumentov na profil tveganosti investicijskega sklada.
+(3) Kadar je verjetno, da bo vrednost enote investicijskega sklada zaradi sestave naložb ali zaradi uporabljenih tehnik upravljanja sredstev zelo nihala, morajo prospekt in po potrebi tudi vsi oglasi vsebovati izrecno izjavo o teh lastnostih investicijskega sklada.
+(4) Prospekt in vsi oglasi investicijskega sklada, ki ima sredstva naložena pretežno v naložbe, ki niso prenosljivi vrednostni papirji ali instrumenti denarnega trga, oziroma njegova sestava sredstev posnema sestavo katerega od priznanih finančnih indeksov, mora vsebovati izrecno izjavo o teh lastnostih investicijskega sklada.
+(5) Prospekt vsebuje navedbo, kje in kako je vlagateljem brezplačno dostopno revidirano letno oziroma polletno poročilo investicijskega sklada.
+(6) Če ima investicijski sklad pravila upravljanja, morajo biti ta vključena v prospekt.

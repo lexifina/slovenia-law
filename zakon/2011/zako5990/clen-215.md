@@ -1,0 +1,5 @@
+# 215. člen (predložitev revidiranega letnega oziroma polletnega poročila nadzornim organom in upravljavcu organiziranega trga)
+(1) Družba za upravljanje mora Agenciji predložiti revidirano letno poročilo odprtega investicijskega sklada, ki ga upravlja, v 15 dneh po prejemu revizorjevega poročila in najkasneje v štirih mesecih po koncu poslovnega leta, polletno poročilo pa najkasneje v dveh mesecih po koncu polletja poslovnega leta.
+(2) Če družba za upravljanje upravlja UCITS sklad države članice, mora revidirano letno in polletno poročilo UCITS sklada države članice na zahtevo predložiti tudi Agenciji.
+(3) Kadar se z enotami odprtega investicijskega sklada trguje na organiziranem trgu vrednostnih papirjev, mora družba za upravljanje revidirano letno poročilo in polletno poročilo investicijskega sklada v roku iz prvega odstavka tega člena predložiti tudi upravljavcu tega trga.
+(4) V zvezi s predložitvijo revidiranega letnega in polletnega poročila investicijske družbe se uporabljajo določbe ZTFI.

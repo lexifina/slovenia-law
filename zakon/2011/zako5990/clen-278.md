@@ -1,0 +1,3 @@
+# 278. člen (denarno izplačilo prevzemnega sklada pri menjavi investicijskih kuponov)
+(1) Če pri menjavi investicijskih kuponov prenosnega sklada za prenosljive investicijske kupone prevzemnega sklada, imetniku investicijskih kuponov prenosnega sklada ne pripade celo število prenosljivih investicijskih kuponov prevzemnega sklada, lahko družba za upravljanje prevzemnega sklada temu imetniku vrednost enot premoženja, ki sestavljajo delno pravico, izplača v denarju.
+(2) Vsota denarnih izplačil iz prejšnjega odstavka ne sme presegati 10 odstotkov čiste vrednosti sredstev na novo izdanih enot prevzemnega sklada, ki so posledica združitve.

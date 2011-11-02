@@ -1,0 +1,3 @@
+# 78. člen (uporaba določb zakona, ki ureja trg finančnih instrumentov)
+(1) Glede prepovedi zlorabe notranjih informacij iz 77. člena tega zakona in nadzora nad kršitvami prepovedi zlorabe notranjih informacij se uporabljajo 382. do 384., 386. in 391. do 401. členi ZTFI ter akti Agencije iz 2. do 4. in 8. točke prvega odstavka 381. člena ZTFI.
+(2) Ne glede na prejšnji odstavek, oseba, ki so ji neposredno dostopne notranje informacije, ki se nanašajo na odprt investicijski sklad druge države članice, ni dolžna poročati Agenciji v skladu z določbami iz prejšnjega odstavka, o katerih poroča pristojnemu nadzornemu organu države članice.

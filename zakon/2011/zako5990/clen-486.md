@@ -1,0 +1,5 @@
+# 486. člen (pregled poslovanja podružnice družbe za upravljanje države članice)
+(1) Nadzorni organi države članice oziroma osebe, ki jih pooblasti, lahko na območju Republike Slovenije opravijo pregled poslovanja podružnice družbe za upravljanje te države članice. O nameravanem pregledu poslovanja iz prejšnjega stavka mora nadzorni organ države članice predhodno obvestiti Agencijo.
+(2) V primeru iz prejšnjega odstavka ima nadzorni organ države članice oziroma osebe, ki jih pooblasti, enake pristojnosti kot Agencija na podlagi 460. do 463. člena tega zakona.
+(3) Na zaprosilo nadzornega organa države članice Agencija opravi pregled poslovanja podružnice družbe za upravljanje te države članice na območju Republike Slovenije. Nadzorni organ države članice se lahko, če tako zahteva, udeleži tega pregleda.
+(4) Ne glede na prvi do tretji odstavek tega člena je Agencija pristojna opraviti pregled poslovanja podružnice družbe za upravljanje te države članice na območju Republike Slovenije zaradi preverjanja, ali podružnica ravna v skladu s predpisi iz prvega odstavka 443. člena tega zakona.

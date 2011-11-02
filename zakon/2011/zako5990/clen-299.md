@@ -1,0 +1,6 @@
+# 299. člen (ustreznost informacij o združitvi)
+(1) Agencija mora, ko ji nadzorni organ prenosnega UCITS sklada države članice posreduje vlogo za združitev prenosnega UCITS sklada države članice s prevzemnim skladom, oceniti, ali so informacije o združitvi, ki bodo posredovane imetnikom investicijskih kuponov prevzemnega sklada, zadostne in skladne s predvidenimi posledicami, ki jih bo združitev imela za imetnike investicijskih kuponov prevzemnega sklada.
+(2) Če Agencija ugotovi, da informacije o združitvi, ki bodo posredovane imetnikom investicijskih kuponov prevzemnega sklada niso zadostne ali niso skladne s predvidenimi posledicami, Agencija zahteva, da se informacije, ki bodo posredovane imetnikom investicijskih kuponov prevzemnega sklada, spremenijo oziroma dopolnijo.
+(3) Zahtevo za dopolnitev Agencija posreduje neposredno družbi za upravljanje, ki upravlja prevzemni sklad, v 15 delovnih dneh od dneva prejema vloge za združitev iz prvega odstavka tega člena.
+(4) O posredovanju zahteve za dopolnitev družbi za upravljanje prevzemnega sklada Agencija obvesti pristojni nadzorni organ prenosnega sklada.
+(5) Po prejemu dopolnitev oziroma sprememb informacij, ki bodo posredovane imetnikom investicijskih kuponov prevzemnega sklada, Agencija v 20 delovnih dneh obvesti pristojni nadzorni organ prenosnega sklada, ali so spremembe oziroma dopolnitve ustrezne.

@@ -1,0 +1,5 @@
+# 93. člen (likvidacijski upravitelj družbe za upravljanje)
+(1) Za likvidacijskega upravitelja družbe za upravljanje je lahko imenovana le oseba, ki ima dovoljenje Agencije za opravljanje funkcije člana uprave v tej družbi za upravljanje.
+(2) Ne glede na prejšnji odstavek je lahko za likvidacijskega upravitelja družbe za upravljanje imenovana oseba, ki nima dovoljenja Agencije za opravljanje funkcije člana uprave v tej družbi za upravljanje, če pred imenovanjem pridobi dovoljenje Agencije za opravljanje funkcije likvidacijskega upravitelja družbe za upravljanje.
+(3) Za dovoljenje za opravljanje funkcije likvidacijskega upravitelja družbe za upravljanje iz prejšnjega odstavka se smiselno uporabljajo določbe tega zakona o dovoljenju za opravljanje funkcije člana uprave družbe za upravljanje. Dovoljenje za opravljanje funkcije likvidacijskega upravitelja družbe za upravljanje velja samo za likvidacijo tiste družbe za upravljanje, v zvezi s katero je bilo pridobljeno.
+(4) Likvidacijski upravitelj je dolžan redno in na primeren način obveščati vse upnike o poteku postopka likvidacije.

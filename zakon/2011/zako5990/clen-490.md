@@ -1,0 +1,2 @@
+# 490. člen (ukrepi zaradi odvzema dovoljenja družbi za upravljanje države članice)
+Če nadzorni organ države članice sedeža družbe za upravljanje, ki na območju Republike Slovenije neposredno ali prek podružnice opravlja storitve upravljanja investicijskih skladov, obvesti Agencijo, da je bilo tej družbi za upravljanje odvzeto dovoljenje za opravljanje teh storitev, Agencija opravi ustrezne ukrepe po tem zakonu, da se tej družbi za upravljanje prepreči nadaljnje opravljanje teh storitev in da se zavarujejo interesi strank te družbe za upravljanje.

@@ -1,0 +1,11 @@
+# 357. člen (združitev centralnega sklada z drugim odprtim investicijskim skladom)
+(1) Pri združitvi centralnega sklada z drugim odprtim investicijskim skladom družba za upravljanje nemudoma prične s postopkom likvidacije napajalnega sklada.
+(2) Prejšnji odstavek se ne uporablja, če Agencija družbi za upravljanje, ki upravlja napajalni sklad v skladu z oddelkom 9.3. tega zakona, izda soglasje k:
+1. spremembi pravil upravljanja napajalnega sklada, na podlagi katere bo napajalni sklad lahko investiral najmanj 85 odstotkov svojih sredstev v enote novega centralnega sklada, ki nastane s pripojitvijo ali spojitvijo centralnega sklada z drugim skladom,
+2. spremembi pravil upravljanja napajalnega sklada, na podlagi katere bo napajalni sklad lahko investiral najmanj 85 odstotkov svojih sredstev enote drugega centralnega sklada, ali
+3. spremembi pravil upravljanja napajalnega sklada, na podlagi katere se napajalni sklad preoblikuje v UCITS sklad.
+(3) Centralni sklad se lahko združi z drugim skladom šele, ko preteče 60 dni od dneva, ko je centralni sklad v skladu z 285. členom tega zakona obvestil imetnike svojih enot in pristojne nadzorne organe matičnih držav članic svojih napajalnih skladov o nameravani združitvi.
+(4) V roku iz prejšnjega odstavka mora centralni sklad na zahtevo napajalnega sklada odkupiti svoje enote, pri čemer mora biti višina izstopnih stroškov skladna s 348. členom tega zakona.
+(5) Prejšnji odstavek se ne uporablja, če Agencija izda družbi za upravljanje napajalnega sklada dovoljenje v skladu s 1. točko drugega odstavka tega člena.
+(6) Družba za upravljanje zahtevo za izdajo soglasja iz drugega odstavka tega člena oziroma obvestilo o nameravani likvidaciji napajalnega sklada predloži Agenciji v enem mesecu od dneva, ko je prejela obvestilo o nameravani združitvi centralnega sklada z drugim skladom. Če je družba za upravljanje napajalnega sklada prejela obvestilo o nameravani združitvi centralnega sklada z drugim skladom oziroma podatke iz 285. člena tega zakona več kot štiri mesece pred nameravanim dnevom izvedbe združitve, predloži Agenciji zahtevo ali obvestilo iz prejšnjega stavka najkasneje tri mesece pred tem datumom.
+(7) Družba za upravljanje, ki upravlja napajalni sklad, o nameravani likvidaciji napajalnega sklada iz prvega odstavka tega člena nemudoma obvesti vse imetnike enot napajalnega sklada.

@@ -1,0 +1,3 @@
+# 96. člen (prenehanje opravljanja storitev upravljanja investicijskih skladov zaradi spremembe dejavnosti družbe za upravljanje)
+(1) Določbe tega pododdelka se smiselno uporabljajo tudi, če skupščina družbe za upravljanje sprejme sklep, s katerim se dejavnost družbe za upravljanje spremeni tako, da družba za upravljanje ne opravlja več storitev upravljanja investicijskih skladov.
+(2) Pri smiselni uporabi se namesto besedila "sklep o likvidaciji" uporablja besedilo "sklep o spremembi dejavnosti", namesto besedila "posli, ki so potrebni za izvedbo likvidacije" pa besedilo "posli, ki so potrebni za izpolnitev obveznosti iz že sklenjenih poslov v zvezi z opravljanjem storitev upravljanja investicijskih skladov".

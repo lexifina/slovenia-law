@@ -1,0 +1,5 @@
+## 6.7.5. Izročitev dokumentov in poročil vlagateljem
+# 216. člen (izročitev dokumenta s ključnimi podatki za vlagatelje)
+(1) Družba za upravljanje oziroma vsaka oseba, ki v imenu in za račun družbe za upravljanje trži enote vzajemnega sklada oziroma enote UCITS sklada države članice v Republiki Sloveniji, mora vlagatelju pred sklenitvijo pristopnega dokumenta k vzajemnemu skladu oziroma UCITS skladu države članice brezplačno izročiti dokument s ključnimi podatki za vlagatelje.
+(2) Ponudnik finančnega produkta, ki se prodaja v Republiki Sloveniji in omogoča posredno izpostavljenost vlagatelja do UCITS sklada oziroma katerega komponenta je UCITS sklad, mora pred vplačilom vlagatelju brezplačno posredovati dokument s ključnimi podatki za vlagatelje.
+(3) Družba za upravljanje, ki UCITS sklad upravlja, mora osebi, ki je finančni produkt iz prejšnjega odstavka oblikovala, oziroma osebi, ki tak finančni produkt prodaja v Republiki Sloveniji, na njeno zahtevo predložiti dokument s ključnimi podatki za vlagatelje.

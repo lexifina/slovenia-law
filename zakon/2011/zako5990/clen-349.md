@@ -1,0 +1,2 @@
+# 349. člen (vplačilo prejemkov zaradi naložbe v premoženje napajalnega sklada)
+Če družba za upravljanje, ki upravlja napajalni sklad, ali oseba, ki deluje v njenem imenu in za njen račun, v zvezi z vplačilom sredstev napajalnega sklada v centralni sklad prejme provizijo ali drug denarni prejemek, ga nemudoma vplača v premoženje napajalnega sklada. Takšno vplačilo povečuje sredstva ostalih imetnikov enot napajalnega sklada.

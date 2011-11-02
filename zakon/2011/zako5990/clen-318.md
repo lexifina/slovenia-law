@@ -1,0 +1,5 @@
+# 318. člen (pravila upravljanja krovnega sklada)
+(1) Pravila upravljanja krovnega sklada morajo poleg splošnih določb, ki jih vsebujejo pravila upravljanja vzajemnega sklada, jasno določati, da gre za krovni sklad z najmanj dvema podskladoma. Za posamezne podsklade se ne sprejemajo ločena pravila upravljanja, ampak so posebnosti za posamezen podsklad določene v pravilih upravljanja krovnega sklada.
+(2) V pravilih upravljanja krovnega sklada morajo biti jasno ločene tiste določbe pravil upravljanja, ki veljajo za vse podsklade krovnega sklada, od določb, ki veljajo le za posamezen podsklad.
+(3) Pravila upravljanja krovnega sklada morajo določati pogoje izstopa oziroma izplačila iz posameznega podsklada in hkratnega pristopa oziroma vplačila k drugemu podskladu brez izplačila odkupne vrednosti investicijskega kupona (prehajanje med podskladi) in morebitne stroške, povezane s prehajanjem med podskladi.
+(4) Pravila upravljanja krovnega sklada morajo določati postopek prvega in nadaljnjih vplačil v posamezne podsklade.

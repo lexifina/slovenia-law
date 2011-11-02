@@ -1,0 +1,2 @@
+# 184. člen (obvezne sestavine pogodbe o opravljanju skrbniških storitev, kadar je pogodbena stranka družba za upravljanje države članice)
+Pogodba o opravljanju skrbniških storitev med družbo za upravljanje države članice in skrbnikom o opravljanju skrbniških storitev za investicijski sklad, oblikovan na podlagi tega zakona, mora vsebovati določbe, ki skrbniku investicijskega sklada omogočajo izvajanje skrbniških storitev v skladu s tem zakonom in drugimi predpisi, ki se nanašajo na opravljanje skrbniških storitev.

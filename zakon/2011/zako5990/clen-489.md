@@ -1,0 +1,2 @@
+# 489. člen (ukrepi nadzora nad družbo za upravljanje, ki trži enote vzajemnih skladov v državi članici)
+Agencija o vsakem izrečenem ukrepu nadzora, ki se nanaša na posamezen vzajemni sklad, ali o začasni zaustavitvi izdaje investicijskih kuponov, vplačil oziroma izplačil v vzajemni sklad, obvesti nadzorne organe držav članic, v katerih se tržijo enote tega vzajemnega sklada, in v kolikor je relevantno, nadzorni organ države članice sedeža družbe za upravljanje.

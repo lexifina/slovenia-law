@@ -1,0 +1,3 @@
+# 95. člen (ponovna pridobitev dovoljenja za opravljanje storitev upravljanja investicijskih skladov)
+(1) Če skupščina družbe za upravljanje odloči, da družba za upravljanje deluje dalje, lahko družba za upravljanje ponovno začne opravljati storitve upravljanja investicijskih skladov oziroma druge storitve, ki jih družba za upravljanje lahko opravlja na podlagi tega zakona, samo če ponovno pridobi dovoljenje Agencije za opravljanje teh storitev.
+(2) Predlogu za vpis sklepa iz prejšnjega odstavka v sodni register se priloži novo dovoljenje Agencije za opravljanje storitev upravljanja investicijskih skladov.

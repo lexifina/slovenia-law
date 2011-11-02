@@ -1,0 +1,8 @@
+# 289. člen (pravica do izstopa)
+(1) Imetnik investicijskega kupona prenosnega sklada lahko zahteva, da:
+1. prenosni sklad odkupi njegove investicijske kupone skladno s prvim odstavkom 240. člena tega zakona, pri čemer družba za upravljanje prenosnega sklada imetniku investicijskih kuponov ne sme zaračunati izstopnih stroškov, ali
+2. družba za upravljanje prenosnega sklada zamenja investicijske kupone prenosnega sklada za investicijske kupone drugega vzajemnega sklada s podobno naložbeno politiko, ki ga upravlja ta družba za upravljanje ali družba za upravljanje, ki je z družbo za upravljanje, ki upravlja prenosni sklad, v razmerju tesne povezanosti ali v razmerju družb, povezanih s skupnim vodenjem.
+(2) Imetniki investicijskih kuponov prevzemnega sklada lahko zahtevajo, da:
+1. prevzemni sklad odkupi svoje investicijske kupone skladno s prvim odstavkom 240. člena tega zakona, pri čemer družba za upravljanje prevzemnega sklada imetniku investicijskih kuponov ne sme zaračunati izstopnih stroškov, ali
+2. družba za upravljanje prevzemnega sklada zamenja investicijske kupone prevzemnega sklada za investicijske kupone drugega vzajemnega sklada s podobno naložbeno politiko, ki ga upravlja ta družba za upravljanje ali družba za upravljanje, ki je z družbo za upravljanje, ki upravlja prevzemni sklad v razmerju tesne povezanosti ali v razmerju družb, povezanih s skupnim vodenjem.
+(3) Imetniki investicijskih kuponov pridobijo pravico do izstopa pod pogoji iz prvega in drugega odstavka tega člena z dnem prejema obvestila o pripojitvi iz 285. člena tega zakona, ta pravica pa preneha z ustavitvijo izplačil v skladu s prvim odstavkom 290. člena tega zakona.

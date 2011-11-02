@@ -1,0 +1,6 @@
+## 10.3.4. Prenos upravljanja investicijske družbe
+## 10.3.4.1. Prenos upravljanja investicijske družbe na podlagi pogodbe o prenosu upravljanja
+# 425. člen (uporaba določb tega zakona o prenosu upravljanja investicijske družbe)
+(1) Za prenos upravljanja investicijske družbe na podlagi pogodbe o prenosu upravljanja se smiselno uporabljajo 265. do 271. člen tega zakona, če v tem členu ni določeno drugače.
+(2) Pri smiselni uporabi določb iz prejšnjega odstavka se namesto besedila 2. točke prvega odstavka 267. člena "listine iz prvega odstavka 263. člena tega zakona" uporablja besedilo "listine iz 420. člena tega zakona".
+(3) Zahtevi za izdajo dovoljenja za prevzem upravljanja investicijske družbe se priloži tudi sklep nadzornega sveta investicijske družbe, iz katerega je razvidno, da je nadzorni svet investicijske družbe dal soglasje k pogodbi o prenosu upravljanja investicijske družbe na prevzemno družbo za upravljanje. Agencija zavrne zahtevo za izdajo dovoljenja za prevzem upravljanja tudi, če iz dokumentacije priložene zahtevi za izdajo tega dovoljenja, ne izhaja, da je nadzorni svet investicijske družbe sprejel sklep o soglasju k pogodbi o prenosu upravljanja investicijske družbe na prevzemno družbo za upravljanje.

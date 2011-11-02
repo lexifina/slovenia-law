@@ -1,0 +1,4 @@
+# 71. člen (reševanje pritožb vlagateljev)
+(1) Družba za upravljanje vzpostavi in uresničuje ustrezne postopke, ki zagotavljajo, da se pritožbe vlagateljev investicijskih skladov, ki jih družba za upravljanje upravlja, primerno obravnavajo in da ni omejitev pri uveljavljanju pravic vlagateljev v primeru, ko ima družba za upravljanje sedež v državi članici, ki ni matična država investicijskega sklada.
+(2) Družba za upravljanje vlagatelju omogoči vložitev pritožbe v uradnem jeziku ali enem od uradnih jezikov države, kjer so enote investicijskega sklada predmet trženja.
+(3) Družba za upravljanje vzpostavi in uresničuje ustrezne politike in postopke, ki zagotavljajo, da so informacije v zvezi z reševanjem pritožb vlagateljev na zahtevo dostopne tudi javnosti ali nadzornim organom investicijskega sklada.

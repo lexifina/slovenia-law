@@ -1,0 +1,8 @@
+# 180. člen (prepovedani posli in naložbe skrbnika)
+(1) Skrbnik ne sme z družbo za upravljanje sklepati poslov nakupa in prodaje oziroma drugih poslov, ki jih družba za upravljanje sklepa za račun oziroma v imenu in za račun investicijskega sklada in katerih predmet so naložbe investicijskega sklada, ki ga družba za upravljanje upravlja.
+(2) Prepoved iz prejšnjega odstavka velja tudi za osebe, ki so s skrbnikom v razmerju iz 2. ali 3. točke 19. člena tega zakona.
+(3) Skrbnik in osebe, ki so z njim v razmerju iz 2. ali 3. točke 19. člena tega zakona ne smejo pridobiti enot investicijskega sklada, za katerega opravljajo skrbniške storitve.
+(4) Prepoved iz prvega odstavka tega člena ne velja za posle, katerih predmet so naložbe investicijskega sklada, sklenjene na organiziranem trgu vrednostnih papirjev pod pogojem, da stranki posla druga drugi nista bili oziroma ne moreta biti znani vnaprej.
+(5) Fizična oseba, ki upravlja premoženje skrbnika, ne sme hkrati opravljati skrbniških storitev po tem zakonu.
+(6) Skrbnik sprejme pravilnik, s katerim uredi omejitev prenosa informacij med osebami iz prejšnjega odstavka, ki se nanašajo na premoženje investicijskega sklada in omeji možen konflikt interesov, ki bi lahko nastal med opravljanjem skrbniških storitev za investicijski sklad glede na druge storitve in dejavnosti ter premoženje skrbnika, kakor tudi glede na kapitalsko povezanost skrbnika z drugimi subjekti in lastniško strukturo skrbnika.
+(7) Skrbnik poroča Agenciji o poslih, katerih predmet so naložbe investicijskega sklada, za katerega opravlja skrbniške storitve z vsebino, na način in v rokih, ki jih predpiše Agencija.

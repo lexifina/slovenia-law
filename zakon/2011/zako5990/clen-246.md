@@ -1,0 +1,3 @@
+# 246. člen (dopustna izpostavljenost do oseb, vključenih v skupino)
+(1) Pri izračunu izpostavljenosti vzajemnega sklada se za eno posamezno osebo štejejo tudi dve ali več oseb, ki so med seboj povezane tako, da za vzajemni sklad predstavljajo eno samo tveganje. To zlasti velja za osebe, ki so vključene v skupino oziroma za nadrejene družbe iz 23. člena tega zakona in morajo pripraviti konsolidirane izkaze poslovanja v skladu z ZGD-1, s Slovenskimi računovodskimi standardi oziroma priznanimi mednarodnimi računovodskimi standardi.
+(2) Ne glede na omejitve iz prejšnjega člena ima lahko vzajemni sklad na podlagi soglasja Agencije skupaj največ 20 odstotkov sredstev naloženih v vrednostne papirje in instrumente denarnega trga, izdane s strani oseb iz prejšnjega odstavka.

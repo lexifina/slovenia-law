@@ -1,0 +1,2 @@
+# 350. člen (dolžnost zagotovitve dostopa do informacij)
+Družba za upravljanje centralnega sklada zagotovi, da so družbi za upravljanje napajalnega sklada ter Agenciji, skrbniku in revizorju napajalnega sklada v najkrajšem možnem času dostopne vse informacije in podatki, ki jih navedene osebe lahko zahtevajo na podlagi tega zakona, na njegovi podlagi izdanih podzakonskih predpisov in pravil upravljanja centralnega in napajalnega sklada.

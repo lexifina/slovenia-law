@@ -1,0 +1,3 @@
+# 478. člen (pogojni odvzem dovoljenja)
+(1) Z odločbo o odvzemu dovoljenja lahko Agencija izreče tudi, da se odvzem dovoljenja ne bo izvršil, če družba za upravljanje v obdobju, ki ga določi Agencija, ki pa ne sme biti krajši od enega in ne daljši od petih let (preizkusna doba), ne bo storila nove kršitve, zaradi katere je mogoče odvzeti dovoljenje.
+(2) Kadar Agencija izreče pogojni odvzem dovoljenja, lahko določi, da bo odvzem dovoljenja izvršen tudi, če družba za upravljanje v določenem roku ne odpravi kršitev, zaradi katerih ji je bil izrečen pogojni odvzem dovoljenja, oziroma če družba za upravljanje investicijskemu skladu ne povrne škode iz 7. točke prvega odstavka prejšnjega člena. Rok za izpolnitev teh obveznosti določi Agencija v mejah preizkusne dobe.

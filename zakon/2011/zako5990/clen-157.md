@@ -1,0 +1,3 @@
+# 157. člen (obveščanje o spremembah priglasitvenega dokumenta)
+(1) Družba za upravljanje, ki trži enote vzajemnega sklada v državi članici gostiteljici, nadzornemu organu države članice gostiteljice omogoči elektronski dostop do prevodov veljavnih dokumentov o vzajemnem skladu iz drugega odstavka 153. člena tega zakona ter nadzorni organ države članice gostiteljice sproti obveščati o vseh spremembah teh dokumentov.
+(2) Če namerava družba za upravljanje spremeniti veljavno ureditev trženja enot vzajemnega sklada v državi članici gostiteljici oziroma veljaven nabor razredov enot vzajemnih skladov, ki so predmet trženja v državi članici gostiteljici, mora pred uvedbo teh sprememb o tem obvestiti Agencijo in nadzorni organ države gostiteljice.

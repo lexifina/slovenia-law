@@ -1,0 +1,7 @@
+# 247. člen (višja dopustna izpostavljenost do posebnih kategorij oseb)
+(1) Ne glede na omejitve iz 245. in 246. člena tega zakona ima lahko vzajemni sklad na podlagi soglasja Agencije naloženih do 100 odstotkov sredstev v različne prenosljive vrednostne papirje in instrumente denarnega trga, ki jih je izdala ali zanje jamči Republika Slovenija, njena lokalna ali regionalna skupnost, država članica, njena lokalna ali regionalna skupnost, tretja država ali javna mednarodna organizacija, ki ji pripada vsaj ena država članica, če pravila upravljanja vzajemnega sklada:
+1. določajo, da bodo sredstva vzajemnega sklada naložena najmanj v šest različnih izdaj prenosljivih vrednostnih papirjev ali instrumentov denarnega trga izdajateljev iz tega člena;
+2. določajo, da bodo naložbe v posamezno od teh izdaj znašale največ 30 odstotkov sredstev vzajemnega sklada;
+3. vsebujejo izrecno navedbo izdajateljev, do katerih je dopustna več kot 35-odstotna izpostavljenost.
+(2) Za soglasje iz prejšnjega odstavka se šteje soglasje, ki ga Agencija izda k pravilom upravljanja vzajemnega sklada. Agencija izda soglasje samo, če oceni, da bodo vlagatelji v tak vzajemni sklad deležni enake ravni zaščite kot vlagatelji v vzajemni sklad, ki bo nalagal v skladu z limiti izpostavljenosti iz 245. in 246. člena tega zakona.
+(3) Prospekt, dokument s ključnimi podatki za vlagatelje in drugi oglasi vzajemnega sklada morajo imeti vidno opozorilo, da je dopustna več kot 35-odstotna izpostavljenost do nekaterih izdajateljev ali kategorij izdajateljev, in navedbo teh izdajateljev.

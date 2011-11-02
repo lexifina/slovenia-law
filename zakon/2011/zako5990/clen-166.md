@@ -1,0 +1,2 @@
+# 166. člen (opravljanje storitev gospodarjenja s finančnimi instrumenti in pomožnih storitev s strani družbe za upravljanje države članice)
+Družba za upravljane države članice lahko storitve gospodarjenja s finančnimi instrumenti oziroma pomožne storitve, če jih lahko opravlja v državi članici, kjer ima sedež, opravlja tudi v Republiki Sloveniji, pri čemer se v zvezi z opravljanjem teh storitev v Republiki Sloveniji smiselno uporablja 3.3. oddelek tega zakona.

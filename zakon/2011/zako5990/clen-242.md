@@ -1,0 +1,5 @@
+# 242. člen (izračun in izplačilo odkupne vrednosti investicijskega kupona)
+(1) Odkupna vrednost investicijskih kuponov na podlagi zahtev za izplačilo, ki jih družba za upravljanje prejme v določenem obračunskem obdobju, se izračuna tako, da se število enot premoženja, na katere se glasi investicijski kupon, ki je predmet zahteve, pomnoži z odkupno vrednostjo enote premoženja vzajemnega sklada na zadnji dan tega obračunskega obdobja.
+(2) Družba za upravljanje imetniku izplača odkupno vrednost investicijskega kupona, izračunano po prejšnjem odstavku, v petih delovnih dneh po koncu obračunskega obdobja iz prejšnjega odstavka, če pravila upravljanja vzajemnega sklada ne določajo krajšega roka za izplačilo.
+(3) Ob predhodnem soglasju imetnika investicijskega kupona vzajemnega sklada, se odkupna vrednost investicijskega kupona lahko izplača tudi s prenosljivimi vrednostnimi papirji iz sredstev vzajemnega sklada v deležih, ki odražajo sestavo naložb vzajemnega sklada.
+(4) Agencija podrobneje predpiše pogoje in omejitve izplačil s prenosljivimi vrednostnimi papirji iz prejšnjega odstavka.

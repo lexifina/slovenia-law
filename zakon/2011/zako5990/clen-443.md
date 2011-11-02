@@ -1,0 +1,4 @@
+# 443. člen (pristojnost Agencije za nadzor nad družbo za upravljanje države članice in njeno podružnico)
+(1) Agencija je pristojna in odgovorna za nadzor nad podružnico družbe za upravljanje države članice, ustanovljeno v Republiki Sloveniji, glede spoštovanja pravil ravnanja pri opravljanju storitev družbe za upravljanje iz 2.2.2. pododdelka tega zakona.
+(2) Agencija je pristojna in odgovorna za nadzor nad družbo za upravljanje države članice, ki je v Republiki Sloveniji oblikovala in upravlja vzajemni sklad, glede spoštovanja določb drugega in tretjega odstavka 124. člena tega zakona.
+(3) Agencija je pristojna in odgovorna za nadzor nad družbo za upravljanje države članice, ki v Republiki Sloveniji trži enote UCITS skladov, glede spoštovanja zakonov in predpisov iz prvega odstavka 135. člena tega zakona.
