@@ -1,4 +1,0 @@
-# 29. člen
-V 69. členu se spremenita tretji in četrti odstavek tako, da se glasita:
-"(3) Ne glede na omejitev iz tretjega odstavka 68. člena tega zakona ima lahko investicijski sklad največ 25% sredstev vloženih v določene vrste obveznic izdanih s strani istega izdajatelja, ki je banka s sedežem ali podružnico v Republiki Sloveniji ali v državi članici in ki je skladno s posebnim zakonom predmet posebnega javnega nadzora z namenom zaščite pravic imetnikov teh obveznic.
-(4) Denarna sredstva oziroma kupnina od izdaje obveznic iz prejšnjega odstavka mora biti skladno s posebnim zakonom vložena le v premoženje, ki bo tekom celotnega obdobja do dospelosti obveznice omogočalo plačevanje obveznosti izdajatelja, nastalih na podlagi teh obveznic in ki bo v primeru nezmožnosti izpolnitve obveznosti izdajatelja, prednostno uporabljen za poplačilo glavnice in natečenih obresti.".
