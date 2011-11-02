@@ -1,4 +1,0 @@
-Z A K O N
-O INVESTICIJSKIH SKLADIH IN DRUŽBAH ZA UPRAVLJANJE
-(uradno prečiščeno besedilo)
-(ZISDU-1-UPB1)

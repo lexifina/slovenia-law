@@ -1,9 +1,0 @@
-# 96. člen
-(1) Družba za upravljanje mora pred začetkom javne ponudbe investicijskih kuponov vzajemnega sklada oziroma pred začetkom prve javne prodaje delnic investicijske družbe pridobiti dovoljenje Agencije za objavo prospekta in izvlečka prospekta.
-(2) Zahtevi za izdajo dovoljenja za objavo prospekta in izvlečka prospekta mora biti priloženo besedilo prospekta in izvlečka prospekta.
-(3) Agencija izda dovoljenje za javno objavo prospekta in izvlečka prospekta, če je njuna vsebina v skladu z vsebino, določeno v 92. in 93. členu tega zakona in v predpisu, izdanem na podlagi 105. člena tega zakona.
-(4) Prvi do tretji odstavek tega člena se smiselno uporabljajo tudi za vsako spremembo oziroma dopolnitev prospekta oziroma izvlečka prospekta, če ni v petem odstavku tega člena drugače določeno.
-(5) Če Agencija v tridesetih dneh po prejemu zahteve za izdajo dovoljenja za spremembo prospekta oziroma izvlečka prospekta o zahtevi ne odloči in v tem roku tudi ne izda sklepa, s katerim družbi za upravljanje naloži, da zahtevo popravi oziroma dopolni, se šteje, da je dovoljenje izdala.
-(6) Kadar je družba za upravljanje vložila zahtevo za izdajo dovoljenja za upravljanje vzajemnega sklada oziroma investicijske družbe, se postopek odločanja o dovoljenju za objavo prospekta in izvlečka prospekta tega vzajemnega sklada oziroma investicijske družbe združi s postopkom odločanja o dovoljenju za upravljanje vzajemnega sklada oziroma investicijske družbe.
-(7) Kadar je družba za upravljanje vložila zahtevo za izdajo dovoljenja za upravljanje vzajemnega sklada oziroma investicijske družbe, se lahko postopek odločanja o izdaji soglasja k pravilom upravljanja vzajemnega sklada oziroma k statutu investicijske družbe združi s postopkom odločanja o dovoljenju za upravljanje vzajemnega sklada oziroma investicijske družbe.
-Dopolnitev prospekta in izvlečka prospekta

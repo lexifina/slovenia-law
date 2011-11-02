@@ -1,6 +1,0 @@
-# 44. člen
-(1) Agencija opravlja nadzor nad podružnico družbe za upravljanje v državi članici.
-(2) Agencija lahko zaprosi pristojni nadzorni organ države članice, v kateri družba za upravljanje opravlja storitve upravljanja investicijskih skladov, da opravi pregled poslovanja podružnice družbe za upravljanje v tej državi članici, če se s tem postopek nadzora pospeši oziroma poenostavi oziroma če je to v skladu z interesi učinkovitosti, enostavnosti, hitrosti oziroma manjših stroškov postopka. Pod enakimi pogoji se lahko pooblaščene osebe Agencije udeležijo nadzora, ki ga izvaja pristojni organ države članice.
-(3) Če družba za upravljanje, ki opravlja storitve upravljanja investicijskih skladov v državi članici, kljub opozorilu pristojnega nadzornega organa države članice krši predpise te države članice, sprejme Agencija ukrepe nadzora v skladu s tem zakonom. Agencija mora nemudoma obvestiti pristojni nadzorni organ države članice o ukrepih, ki jih je sprejela.
-(4) Če Agencija družbi za upravljanje odvzame dovoljenje za opravljanje storitev upravljanja investicijskih skladov oziroma ji začasno prepove opravljati te storitve, mora o tem nemudoma pisno obvestiti pristojne nadzorne organe držav članic, v katerih družba za upravljanje opravlja storitve upravljanja investicijskih skladov.
-Opravljanje storitev v tuji državi

@@ -1,9 +1,0 @@
-# 20. člen
-(1) Zahtevi za izdajo dovoljenja za pridobitev kvalificiranega deleža oziroma deleža iz drugega odstavka 19. člena tega zakona mora vlagatelj zahteve priložiti seznam z njim povezanih oseb z opisom načina povezave ter listine iz 4. točke 37. člena tega zakona.
-(2) Agencija zavrne zahtevo za izdajo dovoljenja za pridobitev kvalificiranega deleža oziroma deleža iz drugega odstavka 19. člena tega zakona, če iz podatkov, s katerimi razpolaga, izhaja da:
-1. bi bilo zaradi dejavnosti ali poslov, ki jih opravlja imetnik kvalificiranega deleža oziroma z njim povezane osebe, oziroma zaradi ravnanj, ki jih je storil bodoči imetnik kvalificiranega deleža oziroma z njim povezane osebe, lahko ogroženo poslovanje investicijskega sklada v skladu z določbami tega zakona, ali
-2. bi bilo zaradi dejavnosti ali poslov, ki jih opravlja bodoči imetnik kvalificiranega deleža oziroma z njim povezane osebe, oziroma zaradi načina povezanosti med temi osebami lahko onemogočeno oziroma bistveno oteženo opravljanje nadzora nad družbo za upravljanje.
-(3) Agencija zavrne zahtevo za izdajo dovoljenja za pridobitev kvalificiranega deleža oziroma deleža iz drugega odstavka 19. člena tega zakona tujemu kvalificiranemu imetniku, če je verjetno, da bo ovirano oziroma bistveno oteženo izvajanje nadzora nad družbo za upravljanje.
-(4) Pred odločitvijo na podlagi drugega oziroma tretjega odstavka tega člena mora Agencija osebi dati rok, ki ne sme biti krajši od petnajstih dni in ne daljši od tridesetih dni, da se izjasni o razlogih za zavrnitev dovoljenja.
-(5) Kadar je pravna oseba vložila zahtevo za izdajo dovoljenja za opravljanje storitev upravljanja investicijskih skladov, se postopek odločanja o dovoljenju iz prvega odstavka tega člena združi s postopkom odločanja o dovoljenju za opravljanje storitev upravljanja investicijskih skladov.
-Sankcije za kršitev in odvzem dovoljenja za pridobitev kvalificiranega deleža

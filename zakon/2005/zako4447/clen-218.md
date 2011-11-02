@@ -1,8 +1,0 @@
-# 218. člen
-(1) Dovoljenje za oblikovanje vzajemnega pokojninskega sklada preneha, če je Banka Slovenije v postopku nadzora nad upravljavcem vzajemnega pokojninskega sklada, ki je banka, izdala odločbo o začetku prisilne likvidacije iz 147. člena ZBan oziroma odločbo o ugotovitvi pogojev za začetek stečajnega postopka iz 162. člena ZBan oziroma če je Agencija za zavarovalni nadzor v postopku nadzora nad upravljavcem, ki je zavarovalnica, izdala odločbo o začetku prisilne likvidacije iz 193. člena ZZavar oziroma odločbo o ugotovitvi pogojev za začetek stečajnega postopka iz 201. člena ZZavar.
-(2) Agencija mora naslednji delovni dan po prejemu odločbe Banke Slovenije oziroma Agencije za zavarovalni nadzor iz prvega odstavka tega člena izdati odločbo, s katero ugotovi, da je dovoljenje za oblikovanje vzajemnega pokojninskega sklada prenehalo in upravljavcu prepove nadaljnje upravljanje vzajemnega pokojninskega sklada.
-(3) Za odločbo iz drugega odstavka tega člena se smiselno uporablja tretji odstavek 216. člena tega zakona in 359. do 362. člen ZTVP-1.
-(4) Z izdajo odločbe iz drugega odstavka tega člena nastopijo pravne posledice iz četrtega odstavka 221. člena tega zakona. Pravne posledice iz prejšnjega stavka trajajo do konca postopka likvidacije vzajemnega pokojninskega sklada oziroma do prenosa upravljanja vzajemnega pokojninskega sklada na drugega upravljavca.
-(5) Kadar se zaradi prenehanja dovoljenja upravljavcu za oblikovanje vzajemnih pokojninskih skladov opravi likvidacija vzajemnega pokojninskega sklada, opravi likvidacijo skrbnik.
-9. NADZOR NAD DRUGIMI OSEBAMI
-Nadzor nad drugimi osebami

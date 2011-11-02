@@ -1,3 +1,0 @@
-# 58. člen
-Družba za upravljanje, ki je na dan uveljavitve tega zakona imetnica delnic oziroma poslovnega deleža v skrbniku, na podlagi katerega dosega ali presega kvalificiran delež v skrbniku ali na podlagi katerega izvaja pomemben vpliv na skrbnika, s katerim ima sklenjeno pogodbo o opravljanju skrbniških storitev, mora najkasneje v šestih mesecih po uveljavitvi tega zakona odtujiti delnice oziroma poslovni delež v skrbniku tako, da se zaradi tega njen delež zmanjša pod 10% oziroma pod mejo, ki ji zagotavlja izvajanje pomembnega vpliva na skrbnika.
-Nova tripartitna pogodba med družbo za upravljanje, skrbnikom in klirinško depotno družbo

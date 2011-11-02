@@ -1,4 +1,0 @@
-# 95. člen
-(1) Družba za upravljanje države članice, ki je po določbah tega zakona pooblaščena na območju Republike Slovenije prodajati investicijske kupone oziroma delnice investicijskega sklada države članice, lahko namesto prospekta in izvlečka prospekta z vsebino, določeno v 92. in 93. členu tega zakona in v predpisu, izdanem na podlagi 105. člena tega zakona, izdela in objavi overjen prevod prospekta in izvlečka prospekta investicijskega sklada države članice, ki ga je odobril pristojni nadzorni organ države članice, dopolnjen s podatki, ki so pomembni za prodajo investicijskih kuponov oziroma delnic na območju Republike Slovenije.
-(2) Prvi odstavek tega člena se smiselno uporablja tudi za spremembo prospekta in izvlečka prospekta po četrtem odstavku 96. člena tega zakona in za dopolnitev prospekta po prvem odstavku 97. člena tega zakona.
-Dovoljenje za objavo prospekta in izvlečka prospekta
