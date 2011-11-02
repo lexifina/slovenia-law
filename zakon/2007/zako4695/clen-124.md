@@ -1,2 +1,0 @@
-# 124. člen
-Če je katera od prenosnih ali prevzetih ali prevzemnih investicijskih družb, ki so udeležene pri združitvi oziroma delitvi investicijskih družb v skladu s 7. poglavjem zakona, zavezana k preoblikovanju v vzajemni sklad v skladu s petnajstim odstavkom 236. člena zakona, obveznost preoblikovanja v skladu s petnajstim odstavkom 236. člena zakona velja tudi za vse investicijske družbe, ki so pravne naslednice teh investicijskih družb.

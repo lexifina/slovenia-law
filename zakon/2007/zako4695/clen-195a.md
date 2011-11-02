@@ -1,3 +1,0 @@
-# 195.a člen
-(1) Za izvedbo postopka iz 46.a oziroma 47. člena tega zakona družba za upravljanje države članice oziroma investicijski sklad države članice v samostojnem upravljanju iz 46. člena tega zakona plača Agenciji nadomestilo, ki ga glede na število in vrsto investicijskih skladov določa tarifa Agencije.
-(2) Družba za upravljanje države članice oziroma investicijski sklad države članice v samostojnem upravljanju iz 46. člena tega zakona, ki trži in prodaja enote oziroma delnice investicijskih skladov v Republiki Sloveniji, plačuje letno nadomestilo za nadzor, ki ga glede na število in vrsto investicijskih skladov določa tarifa Agencije.".

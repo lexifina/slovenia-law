@@ -1,5 +1,0 @@
-# 1.a člen
-S tem zakonom se v pravni red Republike Slovenije prenašajo naslednje direktive Evropskega parlamenta in Sveta:
-1. Direktiva Sveta 85/611/EGS z dne 20. decembra 1985 o usklajevanju zakonov in drugih predpisov o kolektivnih naložbenih podjemih za vlaganja v prenosljive vrednostne papirje (KNPVP) (UL L št. 375 z dne 31. 12. 1985, str. 3; v nadaljnjem besedilu: Direktiva o investicijskih skladih), spremenjena z direktivami 88/220/ES, 95/26/ES, 2000/64/ES, 2001/107/ES, 2001/108/ES, 2004/39/ES in 2005/1/ES;
-2. Direktiva 98/26/ES Evropskega parlamenta in Sveta z dne 19. maja 1998 o dokončnosti poravnave pri plačilih in sistemih poravnave vrednostnih papirjev (UL L št. 166, z dne 11. 6. 1998, str. 45);
-3. Četrta Direktiva Sveta z dne 25. julija 1978 o letnih računovodskih izkazih posameznih vrst družb, ki temelji na členu 54(3)(g) Pogodbe (78/660/EGS) (UL L št. 222 z dne 14. 8. 1978, str. 11), spremenjena z direktivami 83/349/EGS, 84/569/EGS, 89/666/EGS, 90/604/EGS, 90/605/EGS, 94/8/ES, 99/60/ES, 2001/65/ES, 2003/98/ES, 2003/51/ES, 2006/46/ES, 2006/46/ES in 2006/99/ES".

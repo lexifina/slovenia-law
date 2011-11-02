@@ -1,3 +1,0 @@
-# 4. člen
-V 4. členu se četrti odstavek spremeni tako, da se glasi:
-"(4) Skrbnik je skrbnik premoženja investicijskega sklada, ali vzajemnega prostovoljnega pokojninskega sklada, ali kritnega premoženja pokojninske družbe. Skrbnik je lahko le skrbniška banka s sedežem v Republiki Sloveniji oziroma podružnica banke države članice, ustanovljena v Republiki Sloveniji v skladu z ZBan-1, ki je pridobila dovoljenje Banke Slovenije za opravljanje skrbniških storitev po tem zakonu, oziroma podružnica tuje banke, ustanovljena v Republiki Sloveniji v skladu z določbami ZBan-1, ki je pridobila dovoljenje Banke Slovenije za opravljanje skrbniških storitev po tem zakonu.".

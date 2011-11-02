@@ -1,2 +1,0 @@
-# 231.b člen
-Postopek o prekršku za prekrške iz tretjega odstavka 227. člena, tretjega odstavka 229. člena in četrtega odstavka 231. člena tega zakona, ni dopusten, če pretečejo tri leta od dneva, ko je bil prekršek storjen. Zastaranje pretrga vsako dejanje organa, pristojnega za postopek, ki meri na pregon storilca prekrška. Z vsakim pretrganjem začne zastaralni rok znova teči, vendar pa se postopek zaradi prekrška v nobenem primeru ne more več začeti ali nadaljevati po preteku šestih let od dneva, ko je bil prekršek storjen.".
