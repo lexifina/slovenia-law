@@ -19,3 +19,5 @@
 3. njeno delovanje je omejeno na posle za uresničitev namena iz 2. točke tega odstavka,
 4. njena organizacijska struktura ima namen ločiti njene obveznosti od obveznosti originatorja in
 5. osebe, ki so imetniki upravičenj v tej pravni osebi, imajo neomejeno pravico zastaviti ali zamenjati ta upravičenja.
+(10) Relistinjenje je listinjenje, pri katerem se tveganje, povezano s skupino osnovnih izpostavljenosti, razdeli na segmente kreditnega tveganja in pri katerem je vsaj ena osnovna izpostavljenost pozicija v drugem listinjenju.
+(11) Pozicija v relistinjenju je izpostavljenost v relistinjenju.

@@ -5,7 +5,7 @@
 - sklep o povečanju osnovnega kapitala banke z novimi vložki,
 - sklep o povečanju osnovnega kapitala banke iz sredstev družbe,
 - sklep o pokrivanju izgube s finančnimi instrumenti, ki so za ta namen razpoložljivi v času rednega poslovanja,
-3. naloži nadzornemu svetu banke, da razreši člana oziroma člane uprave in imenuje novega člana oziroma člane uprave,
+3. naloži nadzornemu svetu banke, da odpokliče člana oziroma člane uprave in imenuje novega člana oziroma člane uprave,
 4. prepove banki:
 - dajanje kreditov oziroma opravljanje bančnih storitev ali storitev iz prvega odstavka 41. člena tega zakona za določene osebe z neprimerno kreditno boniteto,
 - sklepanje poslov s posameznimi delničarji, člani uprave, nadzornega sveta, družbami, ki so z banko v razmerju tesne povezanosti, ali investicijskimi skladi, ki jih upravlja družba za upravljanje, ki je z banko v razmerju tesne povezanosti,
@@ -21,6 +21,11 @@
 - izboljšanje postopkov sistema notranjih kontrol in notranjega revidiranja,
 7. naloži banki, da pri nadaljnjem poslovanju zmanjša tveganja, značilna za njeno poslovanje, produkte ali sisteme,
 8. naloži nadzornemu svetu banke, da imenuje ustrezne komisije za posamezne sklope strokovnih nalog iz pristojnosti nadzornega sveta,
-9. naloži banki druge ukrepe, potrebne za uresničitev pravil o upravljanju s tveganji.
-(2) V primeru iz 1. ali 3. točke 247. člena tega zakona lahko Banka Slovenije banki tudi odredi, da zagotovi dodatni kapital preko obsega minimalnega kapitala iz 136. člena tega zakona, če oceni, da z ukrepi iz prvega odstavka tega člena v ustreznem časovnem obdobju ni mogoče zagotoviti, da bo banka ustrezno izboljšala sistem upravljanja oziroma strategije in procese ocenjevanja ustreznega notranjega kapitala.
-(3) Z odredbo, s katero banki odredi dodatni ukrep iz drugega odstavka tega člena, Banka Slovenije določi ukrepe iz prvega odstavka tega člena, ki jih mora opraviti banka, da bi zanjo prenehal veljati ukrep iz drugega odstavka tega člena.
+9. naloži banki, da omeji variabilni del prejemkov s primernim odstotkom skupnih neto prihodkov poslovnega leta, če bi izplačilo tega dela prejemkov ogrozilo ustrezno izpolnjevanje obveznosti ali ciljev glede kapitalske ustreznosti,
+10. naloži banki, da vključi čisti in preneseni dobiček v izračun kapitala, če je to potrebno za izboljšanje kapitalske ustreznosti banke,
+11. naloži banki druge ukrepe, potrebne za uresničitev pravil o upravljanju s tveganji.
+(2) V primeru iz 1. ali 3. točke 247. člena tega zakona in v drugih primerih, pri katerih kapital banke ne pokriva tveganj, ki jim banka je ali bi jim lahko bila izpostavljena, ji lahko Banka Slovenije odredi tudi, da zagotovi dodatni kapital preko obsega minimalnega kapitala iz 136. člena tega zakona, če presodi, da z ukrepi iz prvega odstavka tega člena v ustreznem obdobju ni mogoče zagotoviti, da bo ustrezno izboljšala sistem upravljanja oziroma strategije in procese ocenjevanja ustreznega notranjega kapitala.
+(3) Banka Slovenije lahko banki odredi dodatni kapital preko obsega minimalnega kapitala iz 136. člena tega zakona tudi ob upoštevanju:
+1. kvantitativnih in kvalitativnih elementov procesa ocenjevanja ustreznega notranjega kapitala iz 126. člena tega zakona,
+2. sistema upravljanja iz 124. člena tega zakona,
+3. ugotovitev preverjanja in ocenjevanja po tretjem odstavku 222. člena tega zakona.

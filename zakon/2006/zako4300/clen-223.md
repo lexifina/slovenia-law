@@ -12,5 +12,5 @@
 6. začetek prisilne likvidacije,
 7. odločitev o razlogih za stečaj banke.
 (3) Banka Slovenije pri opravljanju svojih nalog in pristojnosti na področju nadzora na podlagi informacij, ki so na voljo v tistem trenutku, ustrezno upošteva mogoč vpliv svojih odločitev na stabilnost finančnega sistema držav članic, kar zlasti velja v izrednih finančnih razmerah.
-(4) Banka Slovenije sodeluje pri dejavnostih Odbora evropskih bančnih nadzornikov z namenom približevanja nadzorniških metodologij in praks. Pri opravljanju svojih nalog in pristojnosti upošteva smernice, standarde in druga priporočila tega odbora, oziroma če jih ne upošteva, na njegovo zahtevo to obrazloži.
+(4) Banka Slovenije sodeluje pri dejavnostih Evropskega bančnega organa zaradi približevanja nadzorniških metodologij in praks. Pri opravljanju svojih nalog in pristojnosti upošteva smernice in druga priporočila Evropskega bančnega organa oziroma, če jih ne upošteva, to obrazloži.
 (5) Pristojnosti Banke Slovenije po tem in drugih zakonih ne smejo vplivati na izvajanje njenih nalog iz četrtega odstavka tega člena.
