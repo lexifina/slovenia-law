@@ -1,7 +1,0 @@
-# 1. člen
-V Zakonu o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (Uradni list RS, št. 20/04 - uradno prečiščeno besedilo) se v prvem odstavku 5. člena za besedilom "Holding Slovenske elektrarne d.o.o." doda besedilo ", le-ta pa jo lahko na podlagi predhodnega soglasja koncedenta v delu, ki se nanaša na izkoriščanje vodnega energetskega potenciala na območju Spodnje Save za proizvodnjo električne energije v hidroelektrarnah Boštanj, Blanca, Krško, Brežice in Mokrice prenese na novo družbo, katere družbeniki bodo Holding Slovenske elektrarne, d.o.o. in Gen energija, d.o.o. ter z njima povezane družbe, ki so v njuni izključni lasti.".
-Za prvim odstavkom se doda nov drugi odstavek, ki se glasi:
-"(2) Vstop tretjih oseb v lastništvo nove družbe iz prejšnjega odstavka je možen samo po predhodnem soglasju koncedenta in ob upoštevanju pogojev in postopkov iz zakona, ki ureja javno zasebno partnerstvo.".
-Dosedanji drugi odstavek postane tretji odstavek.
-V dosedanjem tretjem odstavku, ki postane četrti odstavek, se za piko na koncu stavka doda besedilo "V primeru prenosa koncesije iz prvega odstavka tega člena se med novim koncesionarjem in koncedentom sklene koncesijska pogodba z enakimi pravicami in obveznostmi strank, kot jih je urejala koncesijska pogodba s prejšnjim koncesionarjem.".
-Dosedanji četrti, peti, šesti, sedmi in osmi odstavek postanejo peti, šesti, sedmi, osmi in deveti odstavek.
