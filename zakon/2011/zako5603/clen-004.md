@@ -1,0 +1,7 @@
+# 4. člen
+Za prvim odstavkom 9. člena se dodajo novi drugi, tretji, četrti in peti odstavek, ki se glasijo:
+"(2) Strokovni delavci, ki izvajajo storitve zaposlitvene rehabilitacije, strokovni delavci v invalidskih podjetjih in zaposlitvenih centrih ter člani rehabilitacijskih komisij iz 28. člena tega zakona se vsako leto strokovno izobražujejo in pridobivajo nova znanja s področja zaposlitvene rehabilitacije. Udeležba na strokovnem izobraževanju je obvezna za vse strokovne delavce, ki izvajajo storitve zaposlitvene rehabilitacije, in za člane rehabilitacijskih komisij najmanj dvakrat letno.
+(3) Strokovna izobraževanja s področja zaposlitvene rehabilitacije izvaja Združenje izvajalcev zaposlitvene rehabilitacije v Republiki Sloveniji (v nadaljnjem besedilu: Združenje), pri izvajanju izobraževanj pa sodeluje tudi Inštitut.
+(4) Združenje organizira in izvede strokovno kakovostna izobraževanja s področja zaposlitvene rehabilitacije vsaj trikrat letno in o udeležbi strokovnim delavcem in članom rehabilitacijskih komisij, ki se jih udeležijo, izda potrdila.
+(5) Združenje o vsakem izvedenem izobraževanju pisno obvesti ministrstvo, pristojno za invalidsko varstvo, priloži pa tudi program izobraževanja, seznam strokovnih delavcev in članov rehabilitacijskih komisij ter seznam delodajalcev strokovnih delavcev, ki so se izobraževanja udeležili.".
+V dosedanjem drugem odstavku, ki postane šesti odstavek, se besedilo "iz prejšnjega odstavka" nadomesti z besedilom "iz prvega odstavka tega člena".

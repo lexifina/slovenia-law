@@ -1,0 +1,6 @@
+# 8. člen
+V tretjem odstavku 33. člena se za besedama "zaščitni zaposlitvi" črta besedilo "oziroma pri vključitvi v programe aktivne politike zaposlovanja".
+Za tretjim odstavkom se dodajo novi četrti, peti in šesti odstavek, ki se glasijo:
+"(4) Invalidsko podjetje, zaposlitveni center, izvajalec programa socialne vključenosti ali invalid lahko kadar koli predlaga ponovno oceno doseganja delovnih rezultatov invalida, če oceni, da se je njegovo doseganje delovnih rezultatov bistveno spremenilo ali kadar invalid in delodajalec skleneta pogodbo o zaposlitvi na drugem delovnem mestu.
+(5) Kadar ponovno oceno doseganja delovnih rezultatov invalida Zavodu predlaga izvajalec programa socialne vključenosti ali invalid, ki je vključen v program socialne vključenosti, je Zavod dolžan invalida napotiti na ponovno oceno doseganja delovnih rezultatov. Invalid ima v tem primeru enake pravice kakor brezposelna oseba, ki je aktivni iskalec zaposlitve. Zavod lahko napoti invalida na ponovno oceno doseganja delovnih rezultatov tudi po lastni presoji.
+(6) Invalidsko podjetje, zaposlitveni center ali zaposleni invalid, ki predlaga ponovno oceno doseganja delovnih rezultatov iz prejšnjega odstavka, nosi stroške ponovne ocene.".

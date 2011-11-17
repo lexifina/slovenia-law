@@ -1,0 +1,2 @@
+# 9. člen
+V prvem odstavku 35. člena se za besedilom "iz prejšnjega člena" pika nadomesti z vejico in doda besedilo "invalidi I. kategorije z odločbo Zavoda za pokojninsko in invalidsko zavarovanje Slovenije brez pravice do invalidske pokojnine po zakonu, ki ureja pokojninsko in invalidsko zavarovanje, in osebe z motnjo v telesnem in duševnem razvoju, ki nimajo možnosti vključitve v ustrezne socialno varstvene storitve.".
