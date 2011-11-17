@@ -1,3 +1,0 @@
-# 3. člen
-(1) Ne glede na peti odstavek 3. člena zakona se obveznosti koncesionarja za plačilo dela koncesnine, ki v skladu s šestim odstavkom 3. člena zakona pripada lokalni skupnosti, zmanjša za znesek, ki je bil koncesionarju priznan na podlagi pravnomočnih odločb Davčne uprave Republike Slovenije št. 27/99-414-5-417VM z dne 27. 2. 1999 in št. 414-6/98-417PN-25/98-1 z dne 9. 4. 2002, s katerima je bilo Občini Radeče naloženo vračilo preplačanega nadomestila za uporabo stavbnega zemljišča.
-(2) Podrobnosti glede plačevanja koncesnine v skladu s prejšnjim odstavkom se določijo v koncesijski pogodbi.
