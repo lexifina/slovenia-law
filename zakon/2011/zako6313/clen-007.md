@@ -1,0 +1,5 @@
+# 7. člen (plače funkcionarjev)
+(1) Ne glede na 18. člen Zakona o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 91/09; v nadaljnjem besedilu: ZSPJS‑L), se sodnikom ustavnega sodišča, generalnemu sekretarju ustavnega sodišča, sodnikom, državnim tožilcem in državnim pravobranilcem tudi v obdobju od 1. januarja 2012 do 31. decembra 2012 plače obračunavajo in izplačujejo v višini, določeni v skladu s 17. in 19. do 22. členom ZSPJS‑L.
+(2) Za omejitev učinkov finančne krize se od 1. januarja 2012 do 31. decembra 2012 določi znižanje plač funkcionarjev za znesek v višini 4 % osnovne plače posameznega funkcionarja.
+(3) Ne glede na določbe predpisov, ki določajo višino nadomestila funkcionarju po prenehanju funkcije, se plača funkcionarja, določena v skladu s prejšnjim odstavkom, upošteva kot osnova za določitev višine nadomestila plače funkcionarju po prenehanju funkcije.
+(4) Na način iz drugega odstavka tega člena se določijo tudi plače osebam, ki status funkcionarja pridobijo po uveljavitvi tega zakona.
