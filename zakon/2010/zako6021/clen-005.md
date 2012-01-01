@@ -1,6 +1,2 @@
 ## 3. PLAČE JAVNIH USLUŽBENCEV IN FUNKCIONARJEV
-# 5. člen (uskladitev plač in regres za letni dopust)
-(1) Ne glede na 5. člen Zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 108/09 - uradno prečiščeno besedilo, 13/10, 59/10 in 85/10; v nadaljnjem besedilu: ZSPJS) in na njegovi podlagi sprejetih predpisov oziroma kolektivnih pogodb, in ne glede na razliko med dejansko in napovedano rastjo cen življenjskih potrebščin v obdobju od decembra 2009 do decembra 2010, se vrednost plačnih razredov iz plačne lestvice s 1. 1. 2011 uskladi v višini 25% stopnje rasti cen življenjskih potrebščin v Republiki Sloveniji v letu 2011, predvidene v Jesenski napovedi gospodarskih gibanj Urada za makroekonomske analize in razvoj (december 2010-december 2011).
-(2) Višina uskladitve vrednosti plačnih razredov se za leto 2012 določi skladno s 5. členom ZSPJS.
-(3) Če bo rast cen življenjskih potrebščin v obdobju od decembra 2010 do decembra 2011 višja kot 2%, se vrednost plačnih razredov iz plačne lestvice uskladi z mesecem januarjem 2012 za razliko nad 2% rasti cen življenjskih potrebščin.
-(4) Javnim uslužbencem in funkcionarjem se ne glede na določbe zakona, ki ureja delovna razmerja, v letih 2011 in 2012 izplača regres za letni dopust v višini 692,00 eurov.
+# 5. člen (prenehal veljati)
