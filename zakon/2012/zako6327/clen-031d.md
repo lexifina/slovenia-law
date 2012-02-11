@@ -1,0 +1,14 @@
+# 31.d člen
+Neodvisni operater prenosnega sistema mora imeti vse človeške, tehnične, fizične in finančne vire, potrebne za izpolnjevanje svojih obveznosti in za opravljanje dejavnosti prenosa zemeljskega plina. Vse osebe, potrebne za izvajanje dejavnosti prenosa zemeljskega plina in drugih nalog družbe, morajo biti zaposlene pri operaterju prenosnega sistema.
+Neodvisni operater prenosnega sistema mora imeti v celoti v lasti prenosni sistem in druga sredstva, potrebna za opravljanje dejavnosti prenosa zemeljskega plina.
+Noben del vertikalno integriranega podjetja ne sme drugemu delu podjetja na kakršnikoli pravni podlagi dajati na razpolago svojega osebja ali zanj opravljati storitev ali najemati osebja, zaposlenega v drugem delu tega podjetja, ali opravljati storitev, ki jih opravlja drugi del podjetja.
+Operater prenosnega sistema ne sme deliti sistemov ali opreme informacijske tehnologije, fizičnih prostorov in sistemov za varnostni dostop z nobenim delom vertikalno integriranega podjetja, ali jih uporabljati skupaj z njim, niti ne sme uporabljati istih svetovalcev ali zunanjih izvajalcev za sisteme ali opremo informacijske tehnologije in sisteme za varnostni dostop, kot tudi ne istega revizorja.
+Operater prenosnega sistema mora imeti pravno obliko delniške družbe, družbe z omejeno odgovornostjo ali komanditne družbe. V firmi družbe, v celostni podobi svojega podjetja, v komunikacijah, pri trženju blagovne znamke in na objektih uporabljati firme ali oznak vertikalno integriranega podjetja ali katerega koli njegovega dela ali na drug način delovati tako, da bi ustvarjal zmedo v zvezi z ločeno identiteto vertikalno integriranega podjetja ali katerega koli njegovega dela. Družbeniki operaterja prenosnega sistema ne smejo sami neposredno upravljati družbe ali voditi njenih poslov.
+Poleg drugih nalog, ki jih določa ta zakon, obsega dejavnost operaterja prenosnega sistema še naslednje naloge:
+- zastopanje operaterja prenosnega sistema v pravnem prometu in v kakršnikoli komunikacijah z Agencijo za energijo, drugimi regulatornimi organi ter tretjimi osebami;
+- zastopanje operaterja prenosnega sistema v Evropski mreži operaterjev prenosnih sistemov za plin ("ENTSO za plin");
+- odločanje o dostopu do sistema in izvrševanje dejanj, potrebnih za njegovo izvajanje, pri čemer ne diskriminira med posameznimi uporabniki sistema ali vrstami uporabnikov sistema, posebno ne v korist svojih povezanih podjetij;
+- pobiranje vseh plačil v zvezi s prenosnim sistemom, tudi plačil za dostop in plačil za izravnavo za sistemske storitve, kot je obdelava plina, nakup storitev (stroški izravnave, energija za izgube);
+- obratovanje, vzdrževanje in razvoj varnega, učinkovitega in ekonomičnega prenosnega sistema;
+- načrtovanje naložb za zagotovitev dolgoročne zmogljivosti sistema, da zadosti razumnemu povpraševanju, in zanesljivosti oskrbe;
+- vse skupne storitve, tudi pravne, računovodske in informacijske.
