@@ -1,5 +1,0 @@
-# 9. člen
-Drugi odstavek 25. člena se spremeni tako, da se glasi:
-"(2) Hipotekarna kreditna vrednost nepremičnine je vrednost premoženja, kakršno določi neodvisni cenilec vrednosti nepremičnine s skrbno oceno možnosti za njeno prodajo v prihodnosti ob upoštevanju dolgoročnih trajnostnih vidikov te nepremičnine, običajnih in lokalnih razmer na trgu ter njene trenutne in alternativne primerne uporabe brez upoštevanja špekulativnih elementov.".
-Doda se nov tretji odstavek, ki se glasi:
-"(3) Neodvisni cenilec iz prejšnjega odstavka je oseba, ki ima potrebne kvalifikacije, znanje in izkušnje za cenitev ter je neodvisna od odločanja o poslih, ki so zavarovani z nepremičninami. Pri ocenjevanju vrednosti nepremičnin, ki so v Republiki Sloveniji, velja, da imajo potrebne kvalifikacije, znanje in izkušnje za cenitev osebe, ki so pooblaščeni ocenjevalci oziroma pooblaščene ocenjevalke vrednosti nepremičnin po zakonu, ki ureja revidiranje, pri ocenjevanju vrednosti nepremičnin, ki so zunaj Republike Slovenije, pa osebe, ki so za ocenjevanje vrednosti nepremičnin pooblaščene skladno s predpisi države, na območju katere je nepremičnina.".
