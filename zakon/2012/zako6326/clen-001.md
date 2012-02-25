@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o prevzemih (Uradni list RS, št. 79/06, 67/07 - ZTFI, 1/08, 68/08, 35/11 - ORZPre75, 55/11 - sklep US in 105/11 - odločba US) se v prvem odstavku 3. člena za 9. točko, na koncu katere se pika nadomesti s podpičjem, doda nova 10. točka, ki se glasi:
+"10. "terminska pogodba" je prodajna pogodba, na podlagi katere stranka pridobi delnice ciljne družbe z glasovalno pravico z datumom izpolnitve na določen ali določljiv dan ali določene ali določljive dni v prihodnosti po vnaprej dogovorjeni ceni. Za določen ali določljiv dan v prihodnosti iz prejšnjega stavka se šteje dan, ki nastopi najmanj 3 dni po sklenitvi prodajne pogodbe.".
