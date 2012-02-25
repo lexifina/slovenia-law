@@ -1,3 +1,0 @@
-# 523. člen (uskladitev družb za upravljanje glede storitev gospodarjenja s finančnimi instrumenti in pomožnih storitev)
-(1) Družbe za upravljanje, ki na dan uveljavitve tega zakona upravljajo premoženje dobro poučenih vlagateljev na podlagi dovoljenja, izdanega v skladu z 8. členom ZISDU-1, morajo v 18 mesecih po uveljavitvi tega zakona zaprositi za dovoljenje za opravljanje storitev gospodarjenja s finančnimi instrumenti iz 162. člena tega zakona oziroma za dovoljenje za opravljanje pomožnih storitev iz 164. člena tega zakona.
-(2) Dovoljenje za upravljanje premoženja dobro poučenih vlagateljev, ki je bilo izdano na podlagi 8. člena ZISDU-1, preneha veljati v 18 mesecih po uveljavitvi tega zakona.
