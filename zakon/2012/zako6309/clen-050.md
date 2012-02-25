@@ -1,0 +1,2 @@
+# 50. člen (stečaj drugega kreditodajalca)
+Če je v stečajnem postopku nad drugim kreditodajalcem uspešno izpodbito pravno dejanje odkupa iz 16. člena tega zakona, izdajatelj ne vrača tega, kar je prejel, ampak plača le denarno nadomestilo iz drugega odstavka 278. člena Zakona o finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju (Uradni list RS, št. 126/07, 40/09, 59/09, 52/10, 106/10 - ORZFPPIPP21, 26/11, 47/11 - ORZFPPIPP21-1 in 87/11 - ZPUOOD).

@@ -1,0 +1,6 @@
+# 7. člen (uporabljena kratica in pojmi)
+(1) Kratica, uporabljena v tem zakonu, pomeni: ZBan-1 je Zakon o bančništvu (Uradni list RS, št. 99/10 - uradno prečiščeno besedilo, 52/11 - popr., 9/11 - ZPlaSS-B, 35/11, 59/11 in 85/11).
+(2) Izrazi, uporabljeni v tem zakonu, pomenijo:
+1. Stanovanjske nepremičnine so zemljišča, stavbe in posamezni deli stavb v etažni lastnini, ki so namenjeni za bivanje: zemljišča na območju, predvidenem za pozidavo, stanovanja, stanovanjske hiše, garaže in počitniške hiše.
+2. Komercialne nepremičnine so zemljišča, stavbe in posamezni deli stavb v etažni lastnini, namenjeni opravljanju poslovne dejavnosti: zemljišča na območju, predvidenem za pozidavo, dokončani poslovni prostori, pisarne, trgovine, hoteli, poslovalnice in skladišča.
+3. Hipoteka je hipoteka, maksimalna hipoteka ali zemljiški dolg, ki daje upniku pravico do poplačila iz vrednosti nepremičnine pred drugimi upniki. Kot hipoteka se za namen tega zakona šteje tudi pravica upnika, ki je ustanovljena na nepremičnini v drugi državi podpisnici Sporazuma o Evropskem gospodarskem prostoru ali v Švici in ki v skladu s predpisi te države zagotavlja upniku pravico do poplačila iz vrednosti nepremičnine pred drugimi upniki in je primerljiva z upravičenji na podlagi hipoteke na nepremičnini v Republiki Sloveniji.

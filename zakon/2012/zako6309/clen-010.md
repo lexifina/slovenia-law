@@ -1,0 +1,2 @@
+# 10. člen (ločeno poslovanje)
+Ločeno poslovanje iz 3. točke prvega odstavka 9. člena tega zakona pomeni, da banka tako vodi poslovne knjige in evidence ter drugo dokumentacijo, ki zadeva dajanje hipotekarnih kreditov in kreditov z obveznostjo osebe javnega prava, sklepanje izvedenih finančnih instrumentov iz 24. člena tega zakona v zvezi s kritnim premoženjem ter izdajanje hipotekarnih in komunalnih obveznic, da je mogoča takojšnja ločitev takšnih poslovnih knjig, evidenc in dokumentacije od dokumentacije, povezane z drugim poslovanjem banke.

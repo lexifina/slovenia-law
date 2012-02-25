@@ -1,0 +1,4 @@
+# 45. člen (začetek stečajnega postopka nad izdajateljem)
+(1) Če se začne stečajni postopek nad izdajateljem, se kritno premoženje, vključno z izvedenimi finančnimi instrumenti iz 24. člena tega zakona, izloči iz stečajne mase izdajatelja in je prednostno namenjeno nadaljnjemu nepretrganemu poplačilu obveznosti iz hipotekarnih obveznic in upnikom iz naslova izvedenih finančnih instrumentov iz 24. člena tega zakona.
+(2) Pravne posledice začetka stečajnega postopka ne vplivajo na terjatve imetnikov hipotekarnih obveznic in na terjatve upnikov iz naslova izvedenih finančnih instrumentov iz 24. člena tega zakona.
+(3) Imetniki hipotekarnih obveznic in upniki iz naslova izvedenih finančni instrumentov iz 24. člena tega zakona so stranke v stečajnem postopku nad izdajateljem le v primeru iz 49. člena tega zakona.

@@ -1,0 +1,2 @@
+# 34. člen (predčasno poplačilo kredita)
+Kreditna pogodba lahko za predčasno poplačilo dela ali celotnega hipotekarnega kredita določi provizijo, ki sme znašati največ 1 % zneska predčasnega poplačila za vsako polno leto do konca trajanja kreditne pogodbe. Višina provizije pri predčasnem poplačilu potrošniških hipotekarnih kreditov, odobrenih potrošnikom, se določi v skladu z zakonom, ki ureja potrošniške kredite.
