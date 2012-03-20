@@ -1,1 +1,0 @@
-Na podlagi tretjega odstavka 21. člena in prvega odstavka 25. člena Zakona o Vladi Republike Slovenije (Uradni list RS, št. 24/05 - uradno prečiščeno besedilo in 109/08) izdaja Vlada Republike Slovenije
