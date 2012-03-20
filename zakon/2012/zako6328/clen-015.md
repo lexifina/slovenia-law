@@ -1,0 +1,5 @@
+# 15. člen
+(1) Pristojna ministrstva v skladu s tem zakonom najkasneje do 1. aprila 2012 prevzamejo naloge, javne uslužbence, opremo, prostore, dokumentacijo in pravice proračunske porabe Urada Vlade Republike Slovenije za enake možnosti, Urada Vlade Republike Slovenije za verske skupnosti, Urada Vlade Republike Slovenije za narodnosti in Službe Vlade Republike Slovenije za podnebne spremembe (v nadaljnjem besedilu: prevzem vladne službe). Vlada Republike Slovenije s sklepom ugotovi, kdaj je prišlo do prevzema vladne službe.
+(2) Vladne službe iz prejšnjega odstavka prenehajo z delom z dnem prevzema vladne službe.
+(3) Ministrstvo za izobraževanje, znanost, kulturo in šport do 1. aprila 2012 v skladu s tem zakonom prevzame naloge, javne uslužbence, opremo, prostore, dokumentacijo in pravice proračunske porabe na delovnih področjih informacijske družbe in elektronskih komunikacij.
+(4) Ministrstvo za finance do 1. aprila 2012 v skladu s tem zakonom prevzame naloge, javne uslužbence, opremo, prostore, dokumentacijo in pravice proračunske porabe na delovnem področju strukturnih reform in programskega proračuna.

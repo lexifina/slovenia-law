@@ -1,0 +1,5 @@
+# 9. člen
+37. člen se spremeni tako, da se glasi:
+"37. člen
+(ministrstvo za pravosodje in javno upravo)
+Ministrstvo za pravosodje in javno upravo opravlja naloge na področjih organizacije in statusa sodišč, državnega pravobranilstva in ustavnega sodišča, nadzora nad poslovanjem državnega pravobranilstva ter druge vrste z zakonom določenih pravosodnih nadzorov razen pravosodnega nadzora nad državnim tožilstvom, civilnega in kaznovalnega prava, sodnih postopkov, alternativnega reševanja sporov, pravosodne uprave, odvetništva, notariata, izvrševanja kazenskih sankcij, varstva osebnih podatkov, mednarodne pravne pomoči, mednarodnega pravosodnega sodelovanja v civilnih in kazenskih zadevah, naloge e-pravosodja, ter naloge na področjih javne uprave, sistemskega urejanja organiziranosti in delovanja javnega sektorja, sistema javnih uslužbencev, plačnega sistema v javnem sektorju, elektronskega poslovanja, dostopa do informacij javnega značaja, delovanja nevladnih organizacij, sistemskega urejanja gospodarskih javnih služb, sistemskega urejanja ravnanja s stvarnim premoženjem države ter naloge na področju lokalne samouprave.".
