@@ -1,0 +1,5 @@
+# 2. člen
+Prvi odstavek 3. člena se spremeni tako, da se glasi:
+"(1) Republika Slovenija se v skladu s pogoji posojilne pogodbe zavezuje zagotavljati svoj delež v posojilu v več tranšah oziroma obrokih do skupne višine največ 387.812.452 eurov, v obdobju od izpolnitve pogoja iz šestega odstavka tega člena do 8. maja 2013, pri čemer ročnost posojila (tranš oziroma obrokov) ne sme presegati 15 let.".
+Šesti odstavek se spremeni tako, da se glasi:
+"(6) Posojilna pogodba, razen dodatka k posojilni pogodbi z dne 14. junija 2011 in dodatka k posojilni pogodbi z dne 27. februarja 2012, in sporazum med posojilodajalkami zavezujeta Republiko Slovenijo od dneva, ko Evropska komisija prejme obvestilo Republike Slovenije, da so bili končani vsi notranjepravni postopki za prevzem obveznosti po posojilni pogodbi in sporazumu med posojilodajalkami. Dodatek k posojilni pogodbi z dne 14. junija 2011 in dodatek k posojilni pogodbi z dne 27. februarja 2012 zavezujeta Republiko Slovenijo od dneva izpolnitve pogojev za veljavnost dodatkov.".
