@@ -1,3 +1,3 @@
 # 35. člen (zagotavljanje sredstev za kapitalske naložbe)
 (1) Sredstva, zagotovljena v finančnem načrtu ministrstva, pristojnega za finance, za nakup kapitalskih naložb, se v letu 2011, do višine 250.000.000 eurov, prerazporedijo v finančni načrt Agencije za upravljanje s kapitalskimi naložbami Republike Slovenije, po imenovanju sveta agencije in po sprejemu Strategije upravljanja kapitalskih naložb države.
-(2) Za upravljanje s kapitalskimi naložbami, pridobljenimi v skladu z zakonom, ki ureja davčni postopek, zakonom, ki ureja dedovanje, zakonom, ki ureja izvrševanje kazenskih sankcij ter za upravljanje s kapitalskimi naložbami v mednarodnih finančnih institucijah je, ne glede na določbe prve alineje 42. člena Zakona o upravljanju kapitalskih naložb Republike Slovenije (Uradni list RS, št. 38/10), do višine 25.000 eurov, pristojno ministrstvo, pristojno za finance.
+(2) (prenehal veljati)
