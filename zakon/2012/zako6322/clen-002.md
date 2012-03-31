@@ -1,0 +1,2 @@
+# 2. člen
+Ne glede na prvi, drugi in šesti odstavek 54. člena Zakona o davčnem postopku (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo; v nadaljnjem besedilu: ZDavP-2) lahko zavezanec za leto 2011 uveljavlja znižanje davčne osnove za investicije v tovorna motorna vozila z motorjem, ki ustreza najmanj emisijskim zahtevam EURO V, in za investicije v avtobuse z motorjem, ki ustreza najmanj emisijskim zahtevam EURO IV, s predložitvijo popravka obračuna po 54. členu ZDavP-2 najpozneje v 30 dneh po uveljavitvi tega zakona.
