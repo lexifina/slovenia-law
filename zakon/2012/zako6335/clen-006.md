@@ -1,0 +1,2 @@
+# 6. člen
+Z dnem uveljavitve tega zakona preneha veljati Uredba o davčni regijski olajšavi za raziskave in razvoj (Uradni list RS, št. 110/07) v delu, ki se nanaša na izvajanje 55. člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 117/06, 56/08, 76/08, 5/09, 96/09, 110/09 - ZDavP-2B, 43/10, 59/11 in 24/12), uporablja pa se za regijske olajšave, uveljavljene pred uveljavitvijo tega zakona.
