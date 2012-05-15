@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificira se Pogodba o stabilnosti, usklajevanju in upravljanju v ekonomski in monetarni uniji med Kraljevino Belgijo, Republiko Bolgarijo, Kraljevino Dansko, Zvezno republiko Nemčijo, Republiko Estonijo, Irsko, Helensko republiko, Kraljevino Španijo, Francosko republiko, Italijansko republiko, Republiko Ciper, Republiko Latvijo, Republiko Litvo, Velikim vojvodstvom Luksemburg, Madžarsko, Malto, Kraljevino Nizozemsko, Republiko Avstrijo, Republiko Poljsko, Portugalsko republiko, Romunijo, Republiko Slovenijo, Slovaško republiko, Republiko Finsko in Kraljevino Švedsko, podpisana 2. marca 2012 v Bruslju.
