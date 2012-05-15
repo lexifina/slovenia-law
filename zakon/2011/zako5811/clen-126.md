@@ -1,0 +1,5 @@
+# 126. člen
+(1) Če je bil s pravnomočno odločbo pred uveljavitvijo tega zakona izrečen varnostni ukrep obveznega psihiatričnega zdravljenja in varstva v zdravstvenem zavodu, sme ta trajati največ pet let.
+(2) Če varnostni ukrep iz prejšnjega odstavka ob uveljaviti tega zakona traja več kot pet let, ga pristojno sodišče po uradni dolžnosti takoj ustavi in o tem obvesti zdravstveni zavod, v katerem se ukrep izvaja, pristojni center za socialno delo, zakonitega zastopnika in najbližje osebe obsojenca po zakonu, ki ureja duševno zdravje.
+(3) V primeru iz prejšnjega odstavka zdravstveni zavod, v katerem se ukrep izvaja, po uradni dolžnosti izvede postopek, ki ga zakon, ki ureja duševno zdravje, določa za sprejem na zdravljenje brez privolitve v nujnih primerih.
+(4) Do objave odredbe ministra, pristojnega za zdravje, s soglasjem ministra, pristojnega za pravosodje, v Uradnem listu Republike Slovenije, da so izpolnjeni pogoji za zdravljenje in varstvo v forenzičnem psihiatričnem oddelku zdravstvenega zavoda, ki ustreza posebnim varnostnim pogojem, se ukrep iz 70.a člena zakonika izvaja v zdravstvenih zavodih, v katerih se je izvajal pred uveljavitvijo tega zakona.

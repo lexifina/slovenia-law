@@ -1,0 +1,5 @@
+# 70.b člen
+(1) Storilcu, ki je storil protipravno dejanje v stanju neprištevnosti, izreče sodišče obvezno psihiatrično zdravljenje na prostosti, če ugotovi, da je to potrebno in da zadostuje za to, da storilec ne bo ponavljal hujših kaznivih dejanj.
+(2) Sodišče sme izreči obvezno psihiatrično zdravljenje na prostosti tudi storilcu, čigar prištevnost je bistveno zmanjšana in je bil po četrtem odstavku prejšnjega člena izpuščen na pogojni odpust.
+(3) Obvezno psihiatrično zdravljenje na prostosti sme trajati najdalj dve leti. Sodišče po preteku šestih mesecev vsakokrat znova odloči o tem, ali je obvezno zdravljenje na prostosti še potrebno.
+(4) Če se storilec noče zdraviti na prostosti, ali če zdravljenje samovoljno opusti, ali če zdravljenje ni uspešno, lahko sodišče ob pogojih iz prvega odstavka prejšnjega člena odredi, da se ta ukrep izvršuje v zdravstvenem zavodu. Tudi v takem primeru sme ta ukrep skupaj trajati največ dve leti. Sodišče po preteku šestih mesecev ponovno odloči o tem, ali je ta ukrep še potreben.".

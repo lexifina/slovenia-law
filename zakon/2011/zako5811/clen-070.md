@@ -1,0 +1,5 @@
+# 70. člen
+V prvem odstavku 176. člena se beseda "pokaže" nadomesti z besedo "prikaže".
+Drugi in tretji odstavek se spremenita tako, da se glasita:
+"(2) Kdor s silo, grožnjo, preslepitvijo, prekoračitvijo ali zlorabo pooblastil, novačenjem, nagovarjanjem ali zaradi izkoriščanja navede, pridobi ali spodbudi mladoletno osebo za izdelavo slik, avdiovizualnih ali drugih predmetov pornografske ali drugačne seksualne vsebine, za sodelovanje v pornografski ali drugačni seksualni predstavi ali kdor taki predstavi vedoma prisostvuje, se kaznuje z zaporom od šestih mesecev do osmih let.
+(3) Enako kot v prejšnjem odstavku se kaznuje, kdor zase ali za drugega pridobiva, proizvede, razširi, proda, uvozi, izvozi ali drugače ponudi pornografsko ali drugačno seksualno gradivo, ki vključuje mladoletne osebe ali njihove realistične podobe, ali kdor poseduje tako gradivo ali pridobi dostop do takega gradiva s pomočjo informacijskih ali komunikacijskih tehnologij, ali razkriva identiteto mladoletne osebe v takem gradivu.".
