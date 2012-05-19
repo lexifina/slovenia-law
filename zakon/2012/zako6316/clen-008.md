@@ -1,0 +1,13 @@
+# 8. člen
+137.a člen se spremeni tako, da se glasi:
+"137.a člen
+(dejavnost družb za izdajo elektronskega denarja)
+(1) Družba za izdajo elektronskega denarja lahko začne izdajati elektronski denar, ko pridobi dovoljenje Banke Slovenije za izdajanje elektronskega denarja kot družba za izdajo elektronskega denarja. Družba za izdajo elektronskega denarja lahko poleg izdajanja elektronskega denarja opravlja tudi plačilne storitve iz 5. člena tega zakona, ki so povezane z izdanim elektronskim denarjem, pod pogoji, ki jih za opravljanje teh storitev določa ta zakon.
+(2) Družba za izdajo elektronskega denarja lahko poleg storitev iz prejšnjega odstavka opravlja tudi naslednje dejavnosti (v nadaljnjem besedilu: hibridna družba za izdajo elektronskega denarja):
+1. plačilne storitve iz 5. člena tega zakona, ki niso povezane z izdajanjem elektronskega denarja, vključno z dajanjem posojil v zvezi s plačilnimi storitvami, če izpolnjuje pogoje, ki se zahtevajo za opravljanje teh storitev na podlagi tega ali drugih zakonov,
+2. storitve upravljanja plačilnih sistemov, če izpolnjuje pogoje za opravljanje storitev upravljanja plačilnih sistemov v skladu s tem zakonom,
+3. druge gospodarske posle, če izpolnjuje pogoje, ki jih glede izvajanja teh poslov določa drug zakon.
+(3) Za hibridno družbo za izdajo elektronskega denarja se uporabljajo določbe tega zakona o družbi za izdajo elektronskega denarja, razen če zakon za hibridne družbe za izdajo elektronskega denarja določa drugače.
+(4) Družba za izdajo elektronskega denarja lahko, če izpolnjuje pogoje, ki se zahtevajo za opravljanje teh storitev na podlagi tega ali drugih zakonov, opravlja tudi operativne in pomožne storitve, povezane z izdajanjem elektronskega denarja ali opravljanjem plačilnih storitev, kakor so menjava valut, shranjevanje in obdelava podatkov, dejavnost hrambe v zvezi s plačilnimi storitvami.
+(5) Družba za izdajo elektronskega denarja mora sredstva, ki jih prejme od imetnika elektronskega denarja, takoj zamenjati za elektronski denar.
+(6) Za družbo za izdajo elektronskega denarja, ki opravlja plačilne storitve iz 5. člena tega zakona, se smiselno uporabljata drugi odstavek 12. člena in četrti odstavek 22. člena tega zakona. Družba za izdajo elektronskega denarja ne sme odobriti posojila iz sredstev, ki jih je prejela v zameno za elektronski denar in jih mora varovati v skladu s 137.d členom tega zakona.".
