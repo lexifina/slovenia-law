@@ -1,0 +1,4 @@
+# 15. člen
+Za tretjim odstavkom 638. člena se dodata nova četrti in peti odstavek, ki se glasita:
+"(4) Soglasje skupščine prenosne družbe se ne zahteva, če imajo prevzemne družbe v lasti vse deleže prenosne družbe in če so izpolnjeni pogoji iz prvega odstavka 629. člena tega zakona vsaj mesec dni pred vložitvijo predloga za vpis delitve. Pri tem se smiselno uporabljajo tudi določbe šestega odstavka 626. člena in četrtega odstavka 627. člena tega zakona.
+(5) Kadar skupščina prenosne družbe skladno s prejšnjim odstavkom ni bila sklicana, mora poslovodstvo prenosne družbe obvestiti delničarje in poslovodstva prevzemnih družb o vseh pomembnih spremembah premoženja družbe, ki so nastale po datumu sklenitve pogodbe o delitvi in prevzemu. Poslovodstva prevzemnih družb morajo o teh spremembah obvestiti svoje delničarje.".
