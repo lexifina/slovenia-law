@@ -9,7 +9,7 @@
 7. začne neposredno izdajati elektronski denar v državi gostiteljici, ne da bi o tem obvestila Banko Slovenije (drugi odstavek 40. člena v povezavi s petim odstavkom 137. člena),
 8. ne obvesti Banke Slovenije v skladu s prvim odstavkom 38. člena v povezavi s petim odstavkom 137. člena ali v skladu s tretjim odstavkom 42. člena v povezavi s petim odstavkom 137. člena tega zakona,
 9. ne vzpostavi ali ne vzdržuje zanesljivega in celovitega sistema upravljanja in sistema notranjih kontrol (prvi odstavek 45. člena v povezavi s petim odstavkom 137. člena),
-10. ne poroča Banki Slovenije v skladu z drugim odstavkom 57. člena v povezavi šestim odstavkom 137.c člena tega zakona,
+10. ne poroča Banki Slovenije v skladu z drugim odstavkom 57. člena v povezavi petim odstavkom 137.c člena tega zakona,
 11. ne zagotavlja varstva denarnih sredstev imetnikov v skladu s 137.d členom tega zakona,
 12. vodi poslovne knjige, sestavlja knjigovodske listine, vrednoti knjigovodske postavke ali sestavlja računovodska poročila v nasprotju s prvim odstavkom 64. člena v povezavi s petim odstavkom 137. člena tega zakona,
 13. ne predloži pravočasno Banki Slovenije nerevidiranih računovodskih izkazov ali jih predloži brez ločenih računovodskih informacij (drugi odstavek 64. člena v povezavi s petim odstavkom 137. člena),

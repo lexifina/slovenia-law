@@ -11,7 +11,7 @@
 1. lastne delnice,
 2. neopredmetena dolgoročna sredstva,
 3. čista izguba poslovnega leta,
-4. naložbe v delnice, poslovne deleže ali druge pravice v kapitalu kreditne institucije ali finančne institucije ter naložbe v njihove druge instrumente in sestavine, ki se lahko upoštevajo v izračunu kapitala,
-5. naložbe v delnice, poslovne deleže ali druge pravice, ki zagotavljajo udeležbo v kapitalu zavarovalnice, pozavarovalnice ali pokojninske družbe, ter naložbe v njihove druge instrumente, ki se lahko upoštevajo pri izračunu kapitala,
+4. naložbe v delnice, poslovne deleže ali druge pravice v kapitalu kreditne institucije, finančne institucije in družbe za upravljanje ter naložbe v njihove druge instrumente in sestavine, ki se lahko upoštevajo v izračunu kapitala,
+5. naložbe v delnice, poslovne deleže ali druge pravice, ki zagotavljajo udeležbo v kapitalu zavarovalnice, pozavarovalnice, pokojninske družbe in zavarovalnega holdinga, ter naložbe v njihove druge instrumente, ki se lahko upoštevajo pri izračunu kapitala,
 6. druge postavke, ki so po svojih lastnostih enake postavkam iz prejšnjih točk tega odstavka.
-(5) Sestavine kapitala in odbitne postavke iz tega člena se uporabljajo v pomenu, kakor je določen v zakonu, ki ureja gospodarske družbe. Pri uporabi določb za osebne družbe, se vsebina sestavin kapitala in odbitnih postavk ustrezno prilagodi sestavinam, ki veljajo za osebne družbe v skladu z zakonom, ki ureja gospodarske družbe.
+(5) Sestavine kapitala in odbitne postavke iz tega člena se uporabljajo v pomenu, kakor je določen v zakonu, ki ureja gospodarske družbe. Pri uporabi za družbe, ki niso organizirane kot delniške družbe, se sestavine kapitala in odbitne postavke ustrezno prilagodijo sestavinam in odbitnim postavkam, ki veljajo za te družbe v skladu z zakonom, ki ureja gospodarske družbe.

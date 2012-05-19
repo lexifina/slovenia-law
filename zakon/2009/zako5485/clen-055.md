@@ -1,4 +1,5 @@
 # 55. člen (prepoved večkratnega upoštevanja sestavin kapitala)
-Pri izračunu kapitala plačilne institucije se ne smejo upoštevati naslednje sestavine:
-1. sestavine, ki se uporabijo v izračunu kapitala plačilne institucije iz prvega odstavka 19. člena tega zakona, kreditne institucije, investicijskega podjetja, družbe za upravljanje, zavarovalnice, pozavarovalnice ali pokojninske družbe, ki je del iste skupine kot plačilna institucija, ali
+(1) Pri izračunu kapitala plačilne institucije se ne smejo upoštevati:
+1. sestavine, ki se uporabijo v izračunu kapitala družbe za izdajo elektronskega denarja, druge plačilne institucije, kreditne institucije, investicijskega podjetja, družbe za upravljanje, zavarovalnice, pozavarovalnice ali pokojninske družbe, ki je del iste skupine kot plačilna institucija, ali
 2. sestavine, ki jih hibridna plačilna institucija uporablja za opravljanje dejavnosti, ki niso plačilne storitve.
+(2) Za namene prejšnjega odstavka pojem plačilne institucije in družbe za izdajo elektronskega denarja vključuje plačilne institucije oziroma družbe za izdajo elektronskega denarja s sedežem v Republiki Sloveniji, v drugi državi članici ali v tretji državi. Plačilne institucije oziroma družbe za izdajo elektronskega denarja iz tretjih držav so subjekti, ki v okviru svoje dejavnosti opravljajo plačilne storitve oziroma storitve izdajanja elektronskega denarja, kot so opredeljene v tem zakonu.

@@ -1,18 +1,3 @@
-# 242. člen (uveljavitev in začetek uporabe zakona)
-(1) Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. novembra 2009.
-(2) Ne glede na prvi odstavek tega člena se 240. člen uporablja z dnem uveljavitve tega zakona.".
-Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih - ZPlaSS-A (Uradni list RS, št. 34/10) vsebuje naslednje končne določbe:
-## "KONČNE DOLOČBE
-30. člen
-Z dnem uveljavitve tega zakona preneha veljati drugi odstavek 74. člena Zakona o plačilnem prometu (Uradni list RS, št. 30/02, 75/02 - ZIZ‑A, 15/03, 45/03 - uradno prečiščeno besedilo, 2/04 - ZPNNVSM, 37/04, 105/04 - uradno prečiščeno besedilo, 100/05 - odločba US, 39/06, 110/06 - uradno prečiščeno besedilo, 131/06 - ZBan‑1, 102/07, 126/07 - ZFPPIPP in 58/09 - ZPlaSS).
-31. člen
-Nova 8. točka 221. člena zakona se preneha uporabljati 1. novembra 2012.
-Nova 9. točka 221. člena zakona se začne uporabljati 1. novembra 2010.
-Spremenjena 1. točka prvega odstavka 17. člena zakona se začne uporabljati 31. decembra 2010, nova četrti in peti odstavek 144. člena zakona pa se začneta uporabljati 1. julija 2010.
-32. člen
-Z dnem uveljavitve tega zakona preneha veljati Uredba o izvajanju Uredbe (ES) št. 1781/2006 Evropskega parlamenta in Sveta z dne 15. novembra 2006 o podatkih o plačniku, ki spremljajo prenose denarnih sredstev (Uradni list RS, št. 1/08).
-33. člen
-Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
 Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih - ZPlaSS-B (Uradni list RS, št. 9/11) spreminja 236. člen zakona tako, da se glasi:
 "236. člen
 (veljavnost dovoljenj za oblikovanje plačilnih sistemov in opravljanje storitev upravljanja plačilnih sistemov)
@@ -21,7 +6,7 @@ Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih - ZP
 (3) Upravljavci plačilnih sistemov, ki so pridobili dovoljenje Banke Slovenije za opravljanje storitev upravljanja plačilnih sistemov na podlagi Zakona o plačilnem prometu in na njegovi podlagi sprejetih predpisov, morajo uskladiti svoje poslovanje z določbami tega zakona in na njegovi podlagi sprejetih predpisov najkasneje do 1. junija 2010.
 (4) Osebe, ki na dan uveljavitve tega zakona opravljajo storitve upravljanja plačilnih sistemov iz 1. točke prvega odstavka 166. člena tega zakona, in udeleženci plačilnih sistemov, ki pred dnem uveljavitve tega zakona niso bili dolžni pridobiti dovoljenja po Zakonu o plačilnem prometu, morajo uskladiti svoje poslovanje z zahtevami tega zakona in pridobiti dovoljenje Banke Slovenije za opravljanje storitev upravljanja plačilnih sistemov oziroma dovoljenje za oblikovanje plačilnega sistema do 31. decembra 2011. Ne glede na prejšnji stavek je v primeru plačilnega sistema, ki procesira plačila v skladu s slovensko medbančno plačilno shemo za direktne obremenitve, rok za uskladitev poslovanja in pridobitev dovoljenj Banke Slovenije 31. december 2012.";
 ter vsebuje naslednje prehodne in končne določbe:
-## "PREHODNE IN KONČNE DOLOČBE
+"PREHODNE IN KONČNE DOLOČBE
 35. člen
 (uskladitev družb za izdajo elektronskega denarja)
 (1) Pravne osebe, ki jim je bilo izdano dovoljenje za izdajanje elektronskega denarja v skladu z Zakonom o bančništvu (Uradni list RS, št. 131/06, 1/08, 109/08, 19/09, 98/09 in 79/10; v nadaljnjem besedilu: ZBan‑1), lahko ne glede na določbo prvega odstavka 137.a člena zakona nadaljujejo z opravljanjem teh storitev na podlagi že izdanega dovoljenja Banke Slovenije za izdajanje elektronskega denarja.

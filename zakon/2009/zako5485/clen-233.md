@@ -4,5 +4,3 @@
 (3) Pristojni prekrškovni organ obvesti osebo, ki ga je obvestila o domnevni kršitvi ponudnika plačilnih storitev po tem poglavju, o postopkih iz 218. člena tega zakona.
 (4) Ne glede na 212. člen tega zakona se za postopek Banke Slovenije o prekrških po tem zakonu uporablja zakon, ki ureja prekrške.
 (5) Globe, predpisane s tem zakonom, se lahko v hitrem postopku izrekajo tudi v višjem znesku, kakor je najnižji predpisani znesek globe, ne smejo pa presegati najvišjih zneskov glob, ki so za prekršek predpisane po tem zakonu.
-Zakon o plačilnih storitvah in sistemih - ZPlaSS (Uradni list RS, št. 58/09) vsebuje naslednje prehodne in končne določbe:
-"18. POGLAVJE PREHODNE IN KONČNE DOLOČBE

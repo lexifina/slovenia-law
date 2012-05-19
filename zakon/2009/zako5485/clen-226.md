@@ -10,13 +10,12 @@
 8. začne neposredno opravljati plačilne storitve v državi gostiteljici, ne da bi o tem obvestila Banko Slovenije (drugi odstavek 40. člena tega zakona),
 9. ne obvesti Banke Slovenije v skladu s prvim odstavkom 38. člena tega zakona ali v skladu s tretjim odstavkom 42. člena tega zakona,
 10. ne vzpostavi oziroma ne vzdržuje zanesljivega in celovitega sistema upravljanja in sistema notranjih kontrol (prvi odstavek 45. člena tega zakona),
-11. ne zagotovi minimalnega kapitala (prvi odstavek 46. člena tega zakona),
-12. ne poroča Banki Slovenije v skladu z drugim odstavkom 57. člena tega zakona oziroma v skladu z zahtevami in pravili, ki jih predpiše Banka Slovenije v skladu z 58. členom tega zakona,
-13. ne zagotovi varstva denarnih sredstev uporabnikov v skladu z 59. oziroma 60. členom tega zakona,
-14. zagotavlja varstvo denarnih sredstev uporabnikov za predvideni delež denarnih sredstev uporabnikov brez dovoljenja Banke Slovenije (61. člen tega zakona),
-15. ne obvešča Banke Slovenije o spremembah v zvezi z ukrepi za varovanje sredstev uporabnikov (63. člen tega zakona),
-16. vodi poslovne knjige, sestavlja knjigovodske listine, vrednoti knjigovodske postavke ali sestavlja računovodska poročila v nasprotju s prvim odstavkom 64. člena tega zakona,
-17. ne predloži pravočasno Banki Slovenije nerevidiranih računovodskih izkazov ali jih predloži brez ločenih računovodskih informacij (drugi odstavek 64. člena tega zakona),
-18. ne predloži pravočasno Banki Slovenije letnega poročila in revizorjevega poročila o revidiranju letnega poročila ali ga predloži brez mnenja revizorja o ločenih računovodskih informacijah (tretji odstavek 64. člena tega zakona).
+11. ne poroča Banki Slovenije v skladu z drugim odstavkom 57. člena tega zakona oziroma v skladu z zahtevami in pravili, ki jih predpiše Banka Slovenije v skladu z 58. členom tega zakona,
+12. ne zagotovi varstva denarnih sredstev uporabnikov v skladu z 59. oziroma 60. členom tega zakona,
+13. zagotavlja varstvo denarnih sredstev uporabnikov za predvideni delež denarnih sredstev uporabnikov brez dovoljenja Banke Slovenije (61. člen tega zakona),
+14. ne obvešča Banke Slovenije o spremembah v zvezi z ukrepi za varovanje sredstev uporabnikov (63. člen tega zakona),
+15. vodi poslovne knjige, sestavlja knjigovodske listine, vrednoti knjigovodske postavke ali sestavlja računovodska poročila v nasprotju s prvim odstavkom 64. člena tega zakona,
+16. ne predloži pravočasno Banki Slovenije nerevidiranih računovodskih izkazov ali jih predloži brez ločenih računovodskih informacij (drugi odstavek 64. člena tega zakona),
+17. ne predloži pravočasno Banki Slovenije letnega poročila in revizorjevega poročila o revidiranju letnega poročila ali ga predloži brez mnenja revizorja o ločenih računovodskih informacijah (tretji odstavek 64. člena tega zakona).
 (2) Z globo od 400 do 4.000 eurov se za prekršek kaznuje odgovorna oseba plačilne institucije ali plačilne institucije z opustitvijo, ki je storila prekršek iz prvega odstavka tega člena.
 (3) Z globo od 2.500 do 80.000 eurov se za prekršek kaznuje plačilna institucija z opustitvijo, če ne obvesti Banke Slovenije o dejstvih in okoliščinah, ki vplivajo na izpolnjevanje pogojev za opravljanje plačilnih storitev izvrševanja denarnih nakazil kot plačilna institucija z opustitvijo (šesti odstavek 67. člena tega zakona).
