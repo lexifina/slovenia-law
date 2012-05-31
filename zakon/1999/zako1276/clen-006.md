@@ -25,7 +25,3 @@ Za motorna vozila iz osemnajstega odstavka tega člena s stopnjo izpusta Euro 3,
 Za motorna vozila iz osemnajstega odstavka tega člena s stopnjo izpusta Euro 4, se stopnja davka, določena v osemnajstem odstavku tega člena, poveča za eno odstotno točko, po 1. januarju 2011 pa za dve odstotni točki.
 Za motorna vozila iz osemnajstega odstavka tega člena s pogonom na dizelsko gorivo z izpustom trdnih delcev, večjim od 0,005 g/km, se stopnja davka, določena v osemnajstem odstavku tega člena, poveča za dve odstotni točki, po 1. januarju 2011 pa za pet odstotnih točk.
 Ne glede na določbo osemnajstega odstavka tega člena, je za motorna vozila iz osemnajstega odstavka tega člena z motorjem izključno na električni pogon, stopnja davka 0,5%.
-6.a člen
-Ne glede na drugi odstavek 6. člena tega zakona, se za nova motorna vozila, proizvedena ne prej kot 1. januarja 2003 in katerih uradna specifična emisija ogljikovega dioksida ne presega 110 gramov na prevoženi kilometer, davek ne plačuje do 31. decembra 2009.
-6.b člen
-(črtan)
