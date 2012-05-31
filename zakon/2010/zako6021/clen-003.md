@@ -1,2 +1,1 @@
-# 3. člen (začetek uporabe Zakona o vrtcih)
-Ne glede na prvo in drugo alinejo drugega odstavka 31. člena Zakona o spremembah in dopolnitvah Zakona o vrtcih (Uradni list RS, št. 25/08 in 98/09 - ZIUZGK), se določbe drugega stavka drugega odstavka 29. člena, drugega stavka četrtega odstavka 32. člena, drugega stavka šestega odstavka in devetega odstavka 34. člena Zakona o vrtcih (Uradni list RS, št. 100/05 - uradno prečiščeno besedilo, 25/08, 98/09 - ZIUZGK in 36/10), za otroke, ki so dopolnili starost petih in štirih let, začnejo uporabljati 1. januarja 2013.
+# 3. člen (prenehal veljati)

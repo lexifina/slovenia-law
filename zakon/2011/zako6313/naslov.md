@@ -1,2 +1,2 @@
 ZAKON
-o dodatnih interventnih ukrepih za leto 2012 (ZDIU12)
+O DODATNIH INTERVENTNIH UKREPIH ZA LETO 2012 (ZDIU12)
