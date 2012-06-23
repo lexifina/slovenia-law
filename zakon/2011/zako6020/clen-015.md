@@ -1,2 +1,0 @@
-# 15. člen (prehodno obdobje ugotavljanja katastrskega dohodka)
-Ne glede na 6. člen tega zakona se do 30. junija 2013 katastrski dohodek za kmetijska zemljišča, ki niso evidentirana v zemljiškem katastru kot kmetijska zemljišča pod trajnimi nasadi, katastrski dohodek ugotovi z upoštevanjem možne rabe, ki se določi na podlagi bonitete zemljišča, in sicer se za zemljišča z boniteto 50 in več šteje, da so kmetijska zemljišča za obdelavo, za zemljišča z boniteto pod 50 pa se šteje, da so kmetijska zemljišča pod travinjem.
