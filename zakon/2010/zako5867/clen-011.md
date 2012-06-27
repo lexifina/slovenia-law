@@ -1,6 +1,0 @@
-# 11. člen (prehodne določbe)
-(1) Vlada v šestdesetih dneh po uveljavitvi tega zakona sprejme ustanovitveni akt in uredbo iz šestega odstavka 3. člena tega zakona.
-(2) Agencija za javno naročanje začne delovati v šestdesetih dneh po vpisu v sodni register.
-(3) Javna naročila, ki presegajo mejne vrednosti za objavo v Uradnem listu Evropske unije, in so določena v drugi alinei prvega odstavka 3. člena, začne Agencija za javno naročanje izvajati s 1. 1. 2012.
-(4) Z ustanovitvijo Agencije za javno naročanje preide vanjo določeno število zaposlenih v organih državne uprave, ki opravljajo upravne in strokovne naloge s področja javnega naročanja, ki skladno s tem zakonom preidejo v pristojnost Agencije za javno naročanje. Prehod zaposlenih se uredi v skladu z Zakonom o javnih uslužbencih (Uradni list RS, št. 63/07 - uradno prečiščeno besedilo, 65/08, 69/08 - ZTFI-A in 69/08 - ZZavar; v nadaljnjem besedilu: ZJU) in podrobneje v ustanovitvenem aktu.
-(5) Najkasneje do začetka delovanja Agencija za javno naročanje prevzame naloge, opremo, prostore in pravice proračunske uporabe, to je sredstva za plače zaposlenih ter sredstva za delovanje Agencije za javno naročanje. Postopek prevzema uredi vlada v ustanovitvenem aktu.
