@@ -1,0 +1,3 @@
+# 9. člen (prenehanje veljavnosti predpisov in izvajanje skupnega javnega naročanja)
+(1) Z dnem uveljavitve tega zakona prenehajo veljati Zakon o javni agenciji za javno naročanje (Uradni list RS, št. 59/10), Uredba o izvajanju javnih naročil Agencije za javno naročanje (Uradni list RS, št. 3/11 in 104/11) in Sklep o ustanovitvi Javne agencije za javno naročanje Republike Slovenije (Uradni list RS, št. 86/10), uporabljajo pa se še do 30. junija 2012.
+(2) Do sprejetja nove uredbe, ki ureja izvajanje skupnega javnega naročanja, se v skladu s predpisi o javnem naročanju za izvajanje skupnih javnih naročil smiselno uporablja Uredba o izvajanju javnih naročil Agencije za javno naročanje (Uradni list RS, št. 3/11 in 104/11), skupna javna naročila pa izvaja ministrstvo.
