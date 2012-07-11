@@ -1,0 +1,2 @@
+# 4. člen
+Določbe 38. člena in 38.a, 38.b, 38.c in 38.č člena zakona se uporabljajo tudi za poslance, ki še prejemajo nadomestilo na podlagi izdanih odločb pristojnega delovnega telesa zaradi izteka mandata državnega zbora 21. decembra 2011, pri čemer pravica do nadomestila iz prvega odstavka 38. člena zakona traja najdlje osem mesecev. Poslancu, ki je opravljal funkcijo tri zaporedne mandate, se pravica do nadomestila plače skupaj s podaljšanjem zaradi zaporednih mandatov omeji na največ 12 mesecev.
