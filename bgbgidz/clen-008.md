@@ -1,0 +1,3 @@
+# 8. člen STROŠKI
+
+Če se pristojna organa pogodbenikov ne dogovorita drugače, zaprošeni pogodbenik krije običajne stroške, ki nastanejo pri zagotavljanju pomoči, pogodbenik prosilec pa izredne stroške, ki nastanejo pri zagotavljanju pomoči (vključno s stroški za najem zunanjih svetovalcev v povezavi s pravdnim postopkom ali čim drugim). Pristojna organa se občasno posvetujeta v zvezi s tem členom, in še zlasti se pristojni organ zaprošenega pogodbenika vnaprej posvetuje s pristojnim organom pogodbenika prosilca, če se pričakujejo izredni stroški za zagotovitev informacij v zvezi s posamezno zahtevo.
