@@ -5,7 +5,7 @@
 2. besedilo sprememb statuta;
 3. notarsko overjeno prečiščeno besedilo statuta.
 (3) Hkrati z zahtevo za soglasje k spremembi statuta mora družba za upravljanje vložiti zahtevo za objavo spremembe prospekta, ki se nanaša na spremembo podatkov v prospektu zaradi spremembe statuta.
-(4) O zahtevi iz prejšnjega odstavka odloči Agencija hkrati z odločitvijo o soglasju k spremembi statuta. Za odločanje o zahtevi iz prejšnjega stavka se ne uporablja peti odstavek 204. člena tega zakona.
+(4) O zahtevi iz prejšnjega odstavka odloči Agencija hkrati z odločitvijo o soglasju k spremembi statuta.
 (5) Agencija izda soglasje k spremembi statuta, če:
 1. je vsebina sprememb statuta v skladu s tem zakonom in predpisi, izdanimi na njegovi podlagi, in
 2. izda dovoljenje iz tretjega odstavka tega člena.
