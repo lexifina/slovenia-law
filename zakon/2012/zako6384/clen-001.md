@@ -1,0 +1,8 @@
+# 1. člen
+V Zakonu o postopku priznavanja poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije za opravljanje reguliranih poklicev oziroma dejavnosti v Republiki Sloveniji (Uradni list RS, št. 21/02, 92/07 in 85/09) se v 2. členu doda nov drugi odstavek, ki se glasi:
+"(2) Ta zakon velja tudi za državljane oziroma državljanke tretjih držav, ki:
+- uživajo mednarodno zaščito v skladu z Direktivo 2004/83/ES z dne 29. aprila 2004 o minimalnih standardnih pogojih, ki jih morajo izpolnjevati državljani tretjih držav ali osebe brez državljanstva, da se jim prizna status begunca ali osebe, ki iz drugih razlogov potrebuje mednarodno zaščito, in o vsebini te zaščite (UL L št. 304, z dne 30. 9. 2004, str. 12);
+- so družinski člani državljanov EU v skladu z Direktivo 2004/38/ES z dne 29. aprila 2004 o pravici državljanov Unije in njihovih družinskih članov do prostega gibanja in prebivanja na ozemlju držav članic, ki spreminja Uredbo (EGS) št. 1612/68 in razveljavlja Direktive 64/221/EGS, 68/360/EGS, 72/194/EGS, 73/148/EGS, 75/34/EGS, 75/35/EGS, 90/364/EGS, 90/365/EGS in 93/96/EEC (UL L št. 158, z dne 30. 4. 2004, str. 77);
+- imajo v državi članici EU status rezidenta za daljši čas v skladu z Direktivo 2003/109/ES z dne 25. novembra 2003 o statusu državljanov tretjih držav, ki so rezidenti za daljši čas (UL L št. 16, z dne 23. 1. 2004, str. 44);
+- zaprosijo za sprejem na ozemlje države članice EU za namen visokokvalificirane zaposlitve v skladu z Direktivo 2009/50/ES z dne 25. maja 2009 o pogojih za vstop in prebivanje državljanov tretjih držav za namene visokokvalificirane zaposlitve (UL L št. 155, z dne 18. 6. 2009, str. 17).".
+KONČNA DOLOČBA
