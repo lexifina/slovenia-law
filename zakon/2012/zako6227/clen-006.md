@@ -1,0 +1,2 @@
+# 6. člen
+Na koncu drugega odstavka 14. člena se doda besedilo: "Komisija vsako leto opredeli dejavnosti, za katere ocenjuje, da se v njih državljani tretjih držav v večji meri nezakonito zaposlujejo, in pripravi načrt inšpekcijskih pregledov. Vsako koledarsko leto komisija pripravi tudi poročilo o opravljenih inšpekcijskih pregledih iz prejšnjega stavka ter o ugotovitvah teh pregledov obvesti Evropsko komisijo do konca junija naslednjega leta za preteklo koledarsko leto.".
