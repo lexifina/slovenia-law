@@ -1,4 +1,3 @@
 # 65. člen (prekršek zaradi opustitve dolžnosti poročanja)
 (1) Z globo od 500 eurov do 2.000 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, če skladu enkrat letno ne poroča o številu štipendistov, višini podeljenih štipendij, o vrsti in področjih izobraževanja oziroma izobraževalnih programih in o zaposlitvi štipendistov po končanem izobraževanju (drugi odstavek 39. člena).
 (2) Z globo od 250 eurov do 1.000 eurov se za prekršek kaznuje tudi odgovorna oseba pravne osebe ali samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
-Zakon o štipendiranju - ZŠtip (Uradni list RS, št. 59/07) vsebuje naslednje prehodne in končne določbe:

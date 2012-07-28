@@ -1,2 +1,0 @@
-# 67. člen (vzpostavitev enotnega informacijskega sistema)
-Ministrstvo, pristojno za delo, sklad in pristojni centri za socialno delo, nosilci enotnih regijskih štipendijskih shem oziroma samoupravne lokalne skupnosti vzpostavijo oziroma prilagodijo enoten informacijski sistem za spremljanje in poročanje o podeljenih štipendijah in spodbudah za izobraževanje po tem zakonu do začetka uporabe tega zakona.

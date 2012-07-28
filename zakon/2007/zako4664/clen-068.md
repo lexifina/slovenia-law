@@ -1,4 +1,0 @@
-# 68. člen (prenos kadrov, sredstev in zbirk podatkov)
-(1) Ministrstva in Zavod Republike Slovenije za zaposlovanje, ki so do uveljavitve tega zakona dodeljevali štipendije, ki jih v skladu s tem zakonom dodeljuje sklad, prerazporedijo javne uslužbence, ki so opravljali naloge v postopkih dodeljevanja štipendij, na pristojne centre za socialno delo in na sklad v skladu s sporazumom, ki ga podpišejo pristojni ministri in predstojniki centrov za socialno delo ter direktor sklada.
-(2) Ministrstvo za visoko šolstvo, znanost in tehnologijo prenese sredstva za štipendije za Slovence v zamejstvu in Slovence po svetu na sklad.
-(3) Upravljavci zbirk podatkov, ki na dan začetka uporabe tega zakona vodijo zbirke podatkov o pravicah iz tega zakona, s tem dnem prenesejo zbirke podatkov na upravljavce zbirke podatkov po tem zakonu.
