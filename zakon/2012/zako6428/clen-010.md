@@ -1,0 +1,3 @@
+# 10. člen
+V prvem odstavku 58. člena se besedilo "Agenciji Republike Slovenije za javnopravne evidence in storitve (v nadaljnjem besedilu: AJPES)" nadomesti z besedo "AJPES".
+V desetem odstavku se črta besedilo "hkrati s predložitvijo poročil po prvem in drugem odstavku tega člena" in doda nov stavek, ki se glasi: "Ne glede na prejšnji stavek morajo družbe in podjetniki, ki nameravajo prenehati s opravljanjem dejavnosti pred iztekom treh mesecev po koncu poslovnega leta, za javno objavo po tretjem odstavku tega člena hkrati s predložitvijo poročil plačati nadomestilo, ki ga določa tarifa AJPES.".

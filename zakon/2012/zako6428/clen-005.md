@@ -1,0 +1,8 @@
+# 5. člen
+V 11. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Če zakon določa dolžnost objave posameznih podatkov ali sporočil družbe, se ti objavijo na spletni strani Agencije Republike Slovenije za javnopravne evidence in storitve (v nadaljnjem besedilu: AJPES) za objave po Zakonu o gospodarskih družbah (v nadaljnjem besedilo: spletna stran AJPES), če zakon ne določa drugače. Če akt o ustanovitvi določa, da je treba objaviti posamezne podatke ali sporočila družbe, se objavijo na spletni strani AJPES ali v dnevniku, ki izhaja na celotnem območju Republike Slovenije, ali tako, kot določa ta zakon. Ti podatki ali sporočila družbe se objavijo tudi v glasilu družbe ali elektronskem mediju družbe, če ga družba ima (v nadaljnjem besedilu: glasilo ali elektronski medij družbe).".
+Dodata se nova drugi in tretji odstavek, ki se glasita:
+"(2) Spletno stran iz prejšnjega odstavka upravlja AJPES. Zasnovana mora biti tako, da je vsakomur omogočen brezplačen vpogled v objavljene podatke. Objave iz prejšnjega odstavka, ki jih določa zakon, so brezplačne. Za objave iz prejšnjega odstavka, ki jih določa akt o ustanovitvi, lahko AJPES zaračuna nadomestilo stroškov po tarifi, ki jo sprejme v soglasju z ministrom, pristojnim za gospodarstvo.
+(3) AJPES pripravi in objavi na svoji spletni strani in v Uradnem listu Republike Slovenije navodilo, s katerim podrobneje določi način in trajanje objave podatkov in sporočil družb iz prvega odstavka tega člena ter tarifo iz drugega odstavka tega člena.".
+Dosedanji drugi do četrti odstavek postanejo četrti do šesti odstavek.
+V dosedanjem petem odstavku, ki postane sedmi odstavek, se besedilo "tretjega in četrtega" nadomesti z besedilom "petega in šestega".
