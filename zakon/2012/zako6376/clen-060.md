@@ -1,0 +1,6 @@
+# 60. člen
+Drugi odstavek 107. člena se spremeni tako, da se glasi:
+"(2) Če se z indikatorjem alkohola v izdihanem zraku ugotovi, da ima udeleženec cestnega prometa v organizmu več alkohola, kot dovoljuje ta zakon, izpolni policist zapisnik o preizkusu, ki ga podpiše tudi preizkušen udeleženec cestnega prometa. Če udeleženec cestnega prometa oporeka rezultatu preizkusa z indikatorjem alkohola v izdihanem zraku, iz katerega je razvidno, da ima v organizmu več alkohola, kot dovoljuje ta zakon, mu policist odredi preizkus z merilnikom alkohola v izdihanem zraku (etilometrom) ali strokovni pregled. Če udeleženec cestnega prometa odkloni preizkus z merilnikom alkohola v izdihanem zraku (etilometrom) ali strokovni pregled, vpiše policist vzrok odklonitve v zapisnik, prav tako pa se šteje, da se udeleženec cestnega prometa strinja z rezultatom preizkusa z indikatorjem alkohola v izdihanem zraku.".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Policist izpolni zapisnik o preizkusu alkoholiziranosti tudi v primeru, če udeleženec cestnega prometa odkloni neposredno odrejen preizkus z indikatorjem alkohola v izdihanem zraku ali z merilnikom alkohola v izdihanem zraku (etilometrom) ali strokovni pregled.".
+V devetem odstavku se besedilo "predrzne vožnje" nadomesti z besedilom "nevarne vožnje".

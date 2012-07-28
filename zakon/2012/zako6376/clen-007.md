@@ -1,0 +1,2 @@
+# 7. člen
+V tretjem in četrtem odstavku 18. člena, tretjem odstavku 31. člena, šestem odstavku 55. člena, šestem odstavku 60. člena, tretjem odstavku 61. člena, drugem odstavku 64. člena, drugem odstavku 72. člena, drugem odstavku 73. člena, sedmem odstavku 74. člena, petem in šestem odstavku 77. člena, osmem odstavku 95. člena ter v sedmem odstavku 103. člena se znesek "80" nadomesti z zneskom "40".
