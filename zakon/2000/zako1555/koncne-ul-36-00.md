@@ -1,4 +1,9 @@
-# 23. člen
+Zakon o preprečevanju dela in zaposlovanja na črno - ZPDZC (Uradni list RS, št. 36/00) vsebuje naslednje prehodne in končne določbe:
+"V. PREHODNE IN KONČNE DOLOČBE
+22. člen
+(1) V roku šestih mesecev po uveljavitvi tega zakona izda minister, pristojen za delo, v soglasju z ministrom, pristojnim za finance, pravilnik iz tretjega odstavka 12. člena tega zakona.
+(2) Vlada Republike Slovenije imenuje komisijo iz 14. člena tega zakona v roku šestih mesecev po uveljavitvi tega zakona.
+23. člen
 Z dnem, ko se začne uporabljati ta zakon, prenehajo veljati:
 - druga točka prvega odstavka 573. člena zakona o gospodarskih družbah (Uradni list RS, št. 30/93, 29/94, 82/94, 20/98, 94/98 in 54/99),
 - 28. člen zakona o trgovini (Uradni list RS, št. 18/93),
@@ -13,3 +18,5 @@ Z dnem, ko se začne uporabljati ta zakon, prenehajo veljati:
 - 55. člen zakona o prevozih v cestnem prometu (Uradni list RS, št. 72/94, 18/95, 54/96, 48/98 in 65/99),
 - prva in druga točka 117. člena zakona o socialnem varstvu (Uradni list RS, št. 54/92, 42/94, 1/99 in 41/99),
 - 60. člen in prva točka prvega odstavka 61. člena zakona o zavodih (Uradni list RS, št. 12/91, 17/91, 55/92, 13/93, 66/93, 45/94 in 8/96).
+24. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne po preteku dvanajst mesecev od njegove uveljavitve, razen določb 6., 19. in 20. člena, ki se uporabljajo od dneva uveljavitve tega zakona.".
