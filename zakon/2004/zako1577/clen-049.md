@@ -1,2 +1,0 @@
-# 49. člen (preizkus znanja za opravljanje dejavnosti turističnega vodenja in turističnega spremljanja v prehodnem obdobju)
-Dokler Gospodarska zbornica Slovenije ne določi program iz tretjega odstavka 39. člena tega zakona se za preizkus znanja za opravljanje dejavnosti turističnega vodenja in turističnega spremljanja uporablja program strokovne izobrazbe in usposobljenosti, ki ga je dne 3. februarja 1999 sprejela Gospodarska zbornica Slovenije v soglasju z ministrom, pristojnim za delo, družino in socialne zadeve in ministrom, pristojnim za turizem.
