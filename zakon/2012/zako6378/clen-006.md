@@ -1,0 +1,7 @@
+# 6. člen
+V 10. členu se naslov člena spremeni tako, da se glasi: "(javni sklad, namenjen spodbujanju skladnega regionalnega razvoja in razvoja podeželja)".
+V prvem odstavku se besedilo "Javni sklad Republike Slovenije za regionalni razvoj in razvoj podeželja (v nadaljnjem besedilu: sklad) nadomesti z besedilom "javni sklad, namenjen spodbujanju skladnega regionalnega razvoja in razvoja podeželja (v nadaljnjem besedilu: sklad),", na koncu drugega stavka se vejica in besedilo "določenem s predpisi, ki urejajo dodeljevanje sredstev iz državnega proračuna" nadomestita z besedilom "dodelitve sredstev, določenem v zakonu, ki ureja podporno okolje za podjetništvo", tretji, četrti in peti stavek pa se črtajo.
+Za prvim odstavkom se doda nov drugi odstavek, ki se glasi:
+"(2) Sklad lahko ustanavlja kapitalske družbe in vlaga kapital v druge pravne osebe na podlagi pisnega soglasja ustanovitelja. Skupni obseg zadolženosti sklada ne sme preseči enainpolkratnik kapitala sklada. Sklad zaključi izterjavo kredita, ko je vsota poplačil dolžnika večja ali enaka vsoti glavnice, pogodbenih obresti in morebitnih stroškov izterjave, če je izvedel postopek prisilne izterjave dolga, v katerem je neuspešno izvedel dejanje izterjave. Če je to za sklad gospodarno, lahko s svojimi dolžniki v soglasju z ministrom, pristojnim za finance, sklepa poravnave.".
+Dosedanji drugi odstavek postane tretji odstavek.
+V dosedanjem tretjem odstavku, ki postane četrti odstavek, se beseda "drugega" nadomesti z besedo "tretjega".

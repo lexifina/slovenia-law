@@ -1,0 +1,2 @@
+# 17. člen
+Javni sklad Republike Slovenije za regionalni razvoj in razvoj podeželja, ki je bil ustanovljen z Ustanovitvenim aktom Javnega sklada Republike Slovenije za regionalni razvoj in razvoj podeželja št. 01401-4/2009/7 z dne 23. 7. 2009 in št. 01401-4/2009/12 z dne 18. 1. 2012, do pripojitve Javnega sklada Republike Slovenije za podjetništvo nadaljuje z delom na podlagi Zakona o spodbujanju skladnega regionalnega razvoja (Uradni list RS, št. 20/11).

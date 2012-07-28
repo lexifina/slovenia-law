@@ -1,0 +1,3 @@
+# 2. člen
+Tretji odstavek 6. člena se spremeni tako, da se glasi:
+"(3) Ne glede na prejšnji odstavek lahko najmanj eno leto pred začetkom novega programskega obdobja mejna občina v regiji prestopi v sosednjo regijo, če s tem soglaša večina občin z večino prebivalstva regije, v katero občina prestopa. Za prestop mejne občine čez mejo kohezijske regije, ki se lahko opravi najmanj štiri leta pred začetkom programskega obdobja, je poleg soglasja večine občin z večino prebivalstva sosednje regije, v katero občina prestopa, potrebno tudi soglasje ministra, pristojnega za regionalni razvoj (v nadaljnjem besedilu: minister).".
