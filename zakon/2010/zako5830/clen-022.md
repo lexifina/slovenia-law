@@ -1,6 +1,6 @@
 # 22. člen (sklep o pripravi načrta)
-(1) Sklep o pripravi načrta (v nadaljnjem besedilu: sklep) pripravi koordinator in ga uskladi s pobudnikom.
-(2) Sklep vsebuje vsaj:
+(1) Sklep o pripravi načrta pripravi koordinator in ga uskladi s pobudnikom.
+(2) Sklep o pripravi načrta vsebuje vsaj:
 - cilje načrtovane prostorske ureditve;
 - opis načrtovane prostorske ureditve z osnovnimi značilnostmi;
 - določitev okvirnega območja in občin, na območju katerih bo predvidoma načrtovana prostorska ureditev;
@@ -11,4 +11,4 @@
 - obveznosti nosilcev urejanja prostora v zvezi s pridobivanjem podatkov in strokovnih podlag, potrebnih za načrtovanje prostorskih ureditev, ter s tem povezane roke in financiranje;
 - seznam strokovnih podlag glede na fazo, v kateri se le-te pripravijo;
 - način pridobitve strokovnih rešitev.
-(3) Sklep sprejme vlada in ga pošlje koordinatorju, pobudniku, investitorju in vsem nosilcem urejanja prostora iz pete alineje prejšnjega odstavka. Koordinator objavi sklep na svojih spletnih straneh.
+(3) Sklep o pripravi načrta sprejme vlada in ga pošlje koordinatorju, pobudniku, investitorju in vsem nosilcem urejanja prostora iz pete alineje prejšnjega odstavka. Koordinator objavi sklep o pripravi načrta na svojih spletnih straneh. Skupaj s sklepom o pripravi načrta vlada imenuje tudi delovno skupino za pripravo načrta, ki jo sestavljajo predstavnik pobudnika, koordinatorja in investitorja.

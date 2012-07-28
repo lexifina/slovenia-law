@@ -4,6 +4,6 @@
 (2) Ta zakon ureja tudi dovoljenje za umestitev v prostor ter določena vprašanja glede:
 - začasnih ukrepov za zavarovanje urejanja prostora v območju načrtov,
 - urejanja mej in parcelacije zemljišč v območju načrtov ter
-- pridobivanja nepremičnin in pravic na njih za izvedbo prostorskih ureditev, načrtovanih z načrti.
+- pridobivanja nepremičnin in pravic na njih za izvedbo prostorskih ureditev.
 (3) V zvezi s pridobivanjem nepremičnin ter pravic na njih iz tretje alinee prejšnjega odstavka ureja ta zakon tudi način ocenjevanja vrednosti nepremičnin in pravic na njih ter nadomestil za škodo in drugih stroškov.
-(4) Za vprašanja prostorskega načrtovanja, ki niso urejena s tem zakonom, se uporablja Zakon o prostorskem načrtovanju (Uradni list RS, št. 33/07, 70/08 - ZVO-1B in 108/09; v nadaljnjem besedilu: ZPNačrt).
+(4) Za vprašanja prostorskega načrtovanja, ki niso urejena s tem zakonom, se uporablja zakon, ki ureja prostorsko načrtovanje (v nadaljnjem besedilu: ZPNačrt).

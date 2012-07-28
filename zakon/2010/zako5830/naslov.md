@@ -1,2 +1,2 @@
 ZAKON
-O UMEŠČANJU PROSTORSKIH UREDITEV DRŽAVNEGA POMENA V PROSTOR (ZUPUDPP)
+o umeščanju prostorskih ureditev državnega pomena v prostor (ZUPUDPP)

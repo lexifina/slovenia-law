@@ -1,3 +1,0 @@
-# 70. člen (prenehanje veljavnosti in podaljšanje uporabe podzakonskih predpisov izdanih na podlagi ZPNačrt)
-(1) Z dnem uveljavitve tega zakona preneha veljati Uredba o vrstah prostorskih ureditev državnega pomena (Uradni list RS, št. 95/07, 102/08 in 26/10), uporablja pa se do izdaje predpisa iz četrtega odstavka 2. člena tega zakona, če ni v nasprotju s tem zakonom.
-(2) Z dnem uveljavitve tega zakona preneha veljati Pravilnik o vsebini, obliki in načinu priprave državnega prostorskega načrta ter o načinu priprave variantnih rešitev prostorskih ureditev, njihovega vrednotenja in primerjave (Uradni list RS, št. 99/07), uporablja pa se do izdaje predpisa iz tretjega odstavka 5. člena tega zakona, če ni v nasprotju s tem zakonom.

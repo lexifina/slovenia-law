@@ -1,6 +1,0 @@
-# 63. člen (nadaljevanje postopkov priprave lokacijskih načrtov, začetih na podlagi ZUOPZP)
-Postopka priprave lokacijskih načrtov, začeta po ZUOPZP na podlagi Odloka o programu priprave lokacijskega načrta za vplivno območje plazu Macesnik v Občini Solčava (Uradni list RS, št. 92/03 in 85/07) in Odloka o programu priprave lokacijskega načrta za vplivno območje plazu Slano Blato v Občini Ajdovščina (Uradni list RS, št. 23/04), se nadaljujeta po določbah 31. člena tega zakona, pri čemer:
-- imata navedena odloka o programu priprave poleg učinkov po ZUOPZP tudi učinke potrditve variante ali rešitve iz 30. člena tega zakona;
-- koordinator pred podrobnejšim načrtovanjem rešitev oceni, če je treba pridobiti smernice, usmeritve in podatke nosilcev urejanja prostora iz prvega do petega odstavka 19. člena tega zakona oziroma pogoje za podrobnejše načrtovanje iz četrtega odstavka 27. člena tega zakona;
-- se roki za pridobitev smernic, usmeritev in podatkov nosilcev urejanja prostora oziroma pogojev za podrobnejše načrtovanje iz prejšnje alinee ter roki iz prvega odstavka 36. člena tega zakona skrajšajo na 15 dni, roki iz petega odstavka 36. člena tega zakona pa na 21 dni;
-- se roka za seznanitev javnosti in občin z osnutkom načrta skrajšata na 15 dni, če se skupaj s postopkom priprave načrta ne izvede postopka presoje vplivov na okolje.

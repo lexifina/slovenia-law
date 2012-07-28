@@ -1,3 +1,0 @@
-## 2. Uporaba določb tega zakona za razlastitvene postopke
-# 64. člen (razlastitveni postopki)
-Določbe tretjega odstavka 52. člena tega zakona se uporabljajo tudi za razlastitev ali omejitev lastninske pravice na nepremičninah iz območij državnih lokacijskih načrtov, sprejetih na podlagi ZUreP-1 ter državnih prostorski načrtov, sprejetih na podlagi ZPNačrt, če za te nepremičnine razlastitveni upravičenec z dnem uveljavitve tega zakona še ni vložil predloga za razlastitev v skladu z 97. členom ZUreP-1 oziroma če upravičenec še ni vložil zahteve za obremenitev nepremičnine s služnostjo ali začasno pravico uporabe v javno korist v skladu s četrtim odstavkom 110. člena ZUreP-1.

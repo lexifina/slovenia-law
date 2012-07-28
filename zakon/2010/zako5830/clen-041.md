@@ -4,7 +4,7 @@
 (3) Dodatne prostorske ureditve se načrtujejo po skrajšanem postopku, v okviru katerega se lahko ne glede na določbe:
 1. prvega odstavka 16. člena tega zakona opusti izvedba seje prostorske konference, če koordinator oceni, da ta ni potrebna;
 2. prvega odstavka 19. člena, prvega odstavka 27. člena in prvega odstavka 36. člena tega zakona ne izvede pridobivanje smernic in mnenj tistih nosilcev urejanja prostora, v delovno področje katerih dodatne prostorske ureditve ne posegajo;
-3. prvega odstavka 19. člena, prvega odstavka 27. člena in prvega odstavka 36. člena tega zakona roki za podajo smernic in mnenj skrajšajo na 15 dni, roki iz tretjega odstavka 19. člena, petega odstavka 27. člena ter petega odstavka 36. člena tega zakona pa na 21 dni;
+3. prvega odstavka 19. člena, prvega odstavka 27. člena in prvega odstavka 36. člena tega zakona roki za podajo smernic in mnenj skrajšajo na 15 dni;
 4. prvega odstavka 24. člena tega zakona ne načrtuje v variantah;
 5. 25., 26., 33. in 34. člena tega zakona seznanitev javnosti in občin skrajša na 15 dni, če se skupaj s postopkom priprave načrta ne izvede postopek celovite presoje vplivov na okolje oziroma presoje vplivov na okolje.
-(4) Spremembe in dopolnitve iz tega člena sprejme vlada z uredbo. Skupaj z uredbo se objavi tudi grafični del, iz katerega je razvidno območje načrta, če se le-to spremeni.
+(4) Spremembe in dopolnitve iz tega člena sprejme vlada z uredbo. Uredba, grafični del načrta, če se ta spremeni, in priloge se objavijo v skladu z drugim odstavkom 11. člena tega zakona.

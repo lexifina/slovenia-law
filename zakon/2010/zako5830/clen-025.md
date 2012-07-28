@@ -1,6 +1,6 @@
 # 25. člen (seznanitev javnosti s študijo variant)
 (1) Koordinator in pobudnik morata omogočiti seznanitev javnosti s študijo variant in predlogom najustreznejše variante ali rešitve v okviru javne razgrnitve, ki traja najmanj 30 dni, in v tem času zagotoviti tudi njegovo javno obravnavo.
-(2) Če je za načrt treba izvesti postopek celovite presoje vplivov na okolje in je ministrstvo, pristojno za celovito presojo vplivov na okolje, ugotovilo, da je okoljsko poročilo ustrezno, se skupaj z gradivi iz prvega odstavka tega člena razgrne tudi okoljsko poročilo.
+(2) Če je za načrt treba izvesti postopek celovite presoje vplivov na okolje, se skupaj z gradivi iz prvega odstavka tega člena razgrne tudi okoljsko poročilo.
 (3) Koordinator z javnim naznanilom na svojih spletnih straneh in na krajevno običajen način obvesti javnost najmanj sedem dni pred javno razgrnitvijo o:
 - kraju in času javne razgrnitve ter o spletnem naslovu, kjer je študija variant s predlogom najustreznejše variante ali rešitve elektronsko predstavljena,
 - kraju in času javne obravnave in
