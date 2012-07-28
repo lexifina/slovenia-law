@@ -1,0 +1,3 @@
+# 24. člen
+Drugi odstavek 43. člena se spremeni tako, da se glasi:
+"(2) Občina, ki namerava načrtovati prostorske ureditve iz svoje pristojnosti na območju načrta, po predhodni uskladitvi z investitorjem načrtovane prostorske ureditve oziroma če je prostorska ureditev iz načrta že zgrajena in predana v uporabo njenim upravljavcem, vladi pošlje pobudo, v kateri opredeli območje, na katerem namerava načrtovati, opiše načrtovano prostorsko ureditev iz svoje pristojnosti in utemelji potrebo po poseganju v območje načrta. Območje mora biti opredeljeno tako, da ga je mogoče določiti v naravi in prikazati v zemljiškem katastru. Pobudi občina priloži mnenje investitorja oziroma upravljavca, iz katerega je razvidno območje, za katerega je bila uskladitev z občino dosežena.".

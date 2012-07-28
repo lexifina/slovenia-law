@@ -1,0 +1,3 @@
+# 2. člen
+V prvem odstavku 11. člena se drugi stavek spremeni tako, da se glasi: "Izdela se v digitalni obliki, prav tako pa se v digitalni obliki zagotavlja arhiviranje in vpogled v načrt.". Na koncu se doda nov stavek, ki se glasi: "Ne glede na to se en izvod načrta v analogni obliki hrani pri koordinatorju.".
+V drugem odstavku se drugi stavek spremeni tako, da se glasi: "Z dnem objave uredbe v Uradnem listu Republike Slovenije se grafični del in obvezne priloge načrta objavijo na portalu prostorskega informacijskega sistema v skladu s predpisi, ki urejajo prostorsko načrtovanje (v nadaljnjem besedilu: portal prostorskega informacijskega sistema).".

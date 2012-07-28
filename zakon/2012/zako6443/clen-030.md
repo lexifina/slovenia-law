@@ -1,0 +1,2 @@
+# 30. člen (prenehanje veljavnosti določb ZPNačrt)
+Z dnem uveljavitve tega zakona prenehajo veljati določba drugega odstavka 92. člena v delu, ki ureja spreminjanje in dopolnjevanje državnih lokacijskih načrtov, določba tretjega odstavka 92. člena in določba četrtega odstavka 93. člena Zakona o prostorskem načrtovanju (Uradni list RS, št. 33/07, 70/08 - ZVO-1B, 108/09, 80/10 - ZUPUDPP in 43/11 - ZKZ-C).
