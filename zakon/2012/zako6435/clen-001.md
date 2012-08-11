@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o promociji kmetijskih in živilskih proizvodov (Uradni list RS, št. 26/11) se v tretjem odstavku 6. člena besedilo "usmeritev sveta za promocijo in sektorskih in posvetovalnih odborov iz 25. člena tega zakona. Svet za promocijo pripravi usklajen predlog strateškega načrta promocije, ki ga predlaga ministru" nadomesti z besedilom "usklajenega predloga usmeritev, ki ga na podlagi usmeritev sektorskih ter posvetovalnih odborov iz 25. člena tega zakona pripravi svet za promocijo in ga predlaga ministru".
