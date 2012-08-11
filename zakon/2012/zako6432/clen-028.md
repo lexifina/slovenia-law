@@ -1,0 +1,2 @@
+# 28. člen (prenos posameznih nalog)
+Organ v sestavi ministrstva, pristojnega za pomorstvo, prevzame v skladu s 17. členom tega zakona najkasneje v roku dveh let od uveljavitve tega zakona naloge, opremo, dokumentacijo in pravice proračunske uporabe za izvajanje prenesenih nalog od organa v sestavi ministrstva, pristojnega za okolje, ter ustrezno dokumentacijo in kadre, ki neposredno opravljajo operativne naloge, od dosedanjega izvajalca gospodarske javne službe urejanja voda.

@@ -1,0 +1,2 @@
+# 23. člen (vodna dovoljenja, za katera se šteje, da se glasijo na vsakokratnega lastnika objekta, v katerem se izvaja vodna pravica)
+Za vodna dovoljenja za neposredno rabo vode iz 1. in 4. točke prvega odstavka 125. člena zakona, izdana fizičnim osebam in ne gre za izvajanje dejavnosti, do uveljavitve tega zakona, se šteje, da so izdana na vsakokratnega lastnika objekta, v katerem se izvaja vodna pravica, v skladu z drugim odstavkom 128. člena zakona.

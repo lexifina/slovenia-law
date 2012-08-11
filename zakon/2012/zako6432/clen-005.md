@@ -1,0 +1,2 @@
+# 5. člen
+V šestem odstavku 79. člena se pika nadomesti z vejico, za njo pa se doda besedilo "ki mora v skladu s predpisom iz osmega odstavka tega člena upravičencu, ki izpolnjuje predpisane pogoje, v roku dveh mesecev po vložitvi zahtevka za izplačilo nadomestila za zmanjšanje dohodka iz kmetijske dejavnosti oziroma po odobritvi sheme pomoči s strani Komisije, predložiti pogodbo v podpis in izplačati nadomestilo za zmanjšanje dohodka iz kmetijske dejavnosti.".

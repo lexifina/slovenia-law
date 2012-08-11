@@ -1,0 +1,3 @@
+# 26. člen (prenehanje veljavnosti koncesijskih aktov, v primerih, ko postopek podelitve koncesije še ni bil zaključen)
+(1) Z dnem uveljavitve tega zakona prenehajo veljati koncesijski akti za rabo vode za gojenje morskih organizmov ali za gojenje sladkovodnih organizmov v stoječih vodah s površino vode, večjo od 0,5 km2, za pristanišče ali sidrišče in je investitor oseba zasebnega prava in koncesijski akti za rabo vode za proizvodnjo električne energije v hidroelektrarni z instalirano močjo, manjšo od 10 MW, in še ni bil začet postopek izbire koncesionarja na podlagi javnega razpisa oziroma še ni bila izdana odločba o izbiri koncesionarja.
+(2) Ministrstvo v primerih iz prejšnjega odstavka izda vodno dovoljenje po uradni dolžnosti.
