@@ -1,0 +1,8 @@
+# 6. člen
+V 14.a členu se tretji odstavek spremeni tako, da se glasi:
+"Organ Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji, pristojen za odločanje o pritožbi, se določi s pravili Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji. Odločitev pristojnega organa Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji za pritožbe je dokončna.".
+Za tretjim odstavkom se dodata novi četrti in peti odstavek, ki se glasita:
+"Organ Fundacije za financiranje športnih organizacij v Republiki Sloveniji, pristojen za odločanje o pritožbi, je Komisija za pritožbe. Komisija za pritožbe ima tri člane, ki jih imenuje in razrešuje Svet Fundacije za financiranje športnih organizacij v Republiki Sloveniji, in sicer enega na predlog ministrstva, pristojnega za šport, enega na predlog Olimpijskega komiteja Slovenije - Združenja športnih zvez in enega na predlog Strokovnega sveta Vlade Republike Slovenije za šport. Mandat člana Komisije za pritožbe preneha s sklepom Sveta fundacije o razrešitvi ali s potekom mandata Sveta, ki ga je imenoval.
+Komisija za pritožbe lahko pritožbo zavrne, s čimer je odločitev dokončna, ali pa odločitev Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji v celoti ali deloma odpravi ter zadevo vrne Svetu Fundacije za financiranje športnih organizacij v Republiki Sloveniji v ponovno odločanje. Ponovna odločitev Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji je dokončna.".
+Sedanji četrti odstavek postane šesti odstavek.
+PREHODNE IN KONČNE DOLOČBE

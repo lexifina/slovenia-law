@@ -1,0 +1,2 @@
+# 9. člen
+Do izvolitve novega predsednika Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji je poslovodni organ Fundacije za financiranje športnih organizacij v Republiki Sloveniji dosedanji direktor Fundacije za financiranje športnih organizacij v Republiki Sloveniji. Z dnem izvolitve novega predsednika Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji preneha mandat dosedanjemu direktorju Fundacije za financiranje športnih organizacij v Republiki Sloveniji.
