@@ -1,5 +1,0 @@
-# 15. člen (strokovni svet)
-(1) Strokovni svet ima štiri člane oziroma članice (v nadaljnjem besedilu: član strokovnega sveta). Član strokovnega sveta je predstavnik ministrstva, pristojnega za obrambo, predstavnik ministrstva, pristojnega za notranje zadeve, predstavnik ministrstva, pristojnega za pravosodje, in predstavnik ministrstva, pristojnega za upravo. Član strokovnega sveta je funkcionar ali javni uslužbenec ministrstva, ki ga je imenovalo. Predsednika oziroma predsednico strokovnega sveta izvoli strokovni svet izmed svojih članov.
-(2) Mandat članov strokovnega sveta traja štiri leta.
-(3) Strokovni svet se sestaja po potrebi, vendar najmanj enkrat letno. Strokovni svet ob tehničnostrokovni podpori javnega sklada sodeluje pri pripravi in daje predhodno mnenje k prostorskim standardom in merilom ter kriterijem za zagotavljanje poslovnih prostorov in drugih nepremičnin, kot so: prostori za izvrševanje kazenskih sankcij, prostori za potrebe pravosodnih organov in prostori ter druge nepremičnine, potrebne za izvajanje posebnih nalog Policije.
-IV. POSLOVANJE JAVNEGA SKLADA

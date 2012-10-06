@@ -1,4 +1,0 @@
-# 37. člen (vršilec dolžnosti predsednika uprave)
-(1) Hkrati s sprejetjem akta o ustanovitvi vlada brez javnega natečaja imenuje vršilca dolžnosti predsednika uprave oziroma vršilko dolžnosti predsednice uprave (v nadaljnjem besedilu: vršilec dolžnosti predsednika uprave) in z njim sklene delovno razmerje. Za vršilca dolžnosti predsednika uprave se lahko imenuje osebo, ki ima najmanj univerzitetno izobrazbo pravne, ekonomske, gradbene ali arhitekturne smeri in vsaj osem let delovnih izkušenj, od tega najmanj štiri leta delovnih izkušenj na vodstvenih delovnih mestih na področju urejanja premoženjsko-pravnih razmerij nepremičnin, poslovanja z nepremičninami ali vodenja investicij.
-(2) Vršilec dolžnosti predsednika uprave izvede vse postopke za pričetek delovanja javnega sklada.
-(3) Vršilec dolžnosti predsednika uprave opravlja naloge iz prejšnjega odstavka do imenovanja članov uprave, vendar največ eno leto.

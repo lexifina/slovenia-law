@@ -1,4 +1,0 @@
-# 28. člen (uporaba počitniških enot)
-(1) Skladno s posebnimi predpisi in z internimi akti ter na podlagi usklajenega plana javni sklad zagotavlja koriščenje počitniških enot tudi za potrebe izobraževanj, usposabljanj in za druge posebne potrebe pripadnikov Slovenske vojske, Uprave za izvrševanje kazenskih sankcij in Policije. Stroške koriščenja počitniških enot nosi organ, ki je delavca napotil v počitniško enoto.
-(2) V počitniških enotah ministrstva, pristojnega za notranje zadeve, ministrstva, pristojnega za obrambo, in ministrstva, pristojnega za pravosodje, ki so postale last javnega sklada, ta omogoča letovanje tudi upokojencem in veteranom vojne za Slovenijo skladno z internimi predpisi navedenih organov. Stroški letovanja se določijo v ceniku javnega sklada.
-VI. EVIDENCE JAVNEGA SKLADA

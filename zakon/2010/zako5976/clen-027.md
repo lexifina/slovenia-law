@@ -1,3 +1,0 @@
-# 27. člen (ravnanje s stanovanji)
-(1) Javni sklad pridobiva stanovanja, razpolaga in upravlja s stanovanji, namenjenimi za izvrševanje nalog Stanovanjske komisije Vlade Republike Slovenije, ministrstva, pristojnega za obrambo, in ministrstva, pristojnega za notranje zadeve. Navedeni organi odločajo o dodeljevanju in odvzemanju stanovanj skladno z njihovimi pravilniki in drugimi akti, javni sklad pa zagotavlja izvajanje sprejetih odločitev.
-(2) Vsak izmed organov, navedenih v prejšnjem odstavku, pripravi predlog načrta razpolaganja in predlog načrta pridobivanja stanovanj, kar je podlaga za oblikovanje predloga načrta razpolaganja z nepremičnim premoženjem in načrta pridobivanja nepremičnega premoženja v letnem poslovnem načrtu.

@@ -1,4 +1,0 @@
-# 45. člen (financiranje v prehodnem obdobju)
-(1) Finančna sredstva za delovanje javnega sklada v letih 2011 in 2012 se zagotovijo v obsegu sredstev, ki so bila dosedanjim upravljavcem, katerih nepremičnine je prevzel javni sklad, za namen ravnanja z nepremičnim premoženjem, zagotovljena v proračunu za leti 2011 in 2012. Način zagotavljanja sredstev za financiranje delovanja javnega sklada se za 2011 in 2012 določi v zakonu, ki ureja izvrševanje proračuna.
-(2) V prehodnem obdobju petih let se stroški za plače in druge prejemke iz delovnega razmerja zagotavljajo iz proračuna.
-(3) Osnovo za izračun uporabnine za leto 2013 predstavlja povprečje porabljenih proračunskih sredstev, ki so jih dosedanji upravljavci porabili za namen ravnanja z nepremičnim premoženjem v obdobju od leta 2008 do leta 2012.
