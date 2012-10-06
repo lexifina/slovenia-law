@@ -8,4 +8,10 @@
 - oddajo v brezplačno uporabo;
 - obremenjevanje s stvarnimi pravicami.
 (2) Postopke upravljanja nepremičnega premoženja države in samoupravnih lokalnih skupnosti izvaja upravljavec.
-(3) Obseg in način skrbi za pravno in dejansko urejenost nepremičnega premoženja države in samoupravnih lokalnih skupnosti predpiše vlada.
+(3) Upravljavec nepremičnega premoženja, ki ni sam neposredni uporabnik tega premoženja, lahko podeli pooblastilo uporabniku nepremičnega premoženja oziroma izda soglasje za izvajanje naslednjih nalog, in sicer:
+- skrb za dejansko urejenost,
+- oddaja v brezplačno uporabo v skladu z zakonom,
+- izvajanje investicijskega vzdrževanja,
+- izvajanje investicije, za katero si uporabnik kot upravičenec pridobi sredstva iz drugih virov.
+(4) V primerih iz prejšnjega odstavka je za izvedbo upravljavskih nalog odgovoren predstojnik upravljavca.
+(5) Obseg in način skrbi za pravno in dejansko urejenost nepremičnega premoženja države in samoupravnih lokalnih skupnosti predpiše vlada.

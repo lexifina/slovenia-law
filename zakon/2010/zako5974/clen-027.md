@@ -1,2 +1,1 @@
-# 27. člen (prenos nalog upravljavca nepremičninskemu skladu)
-Upravljavec lahko v primerih, ko ugotovi, da je to gospodarno, za izvajanje posameznih strokovno-tehničnih nalog, povezanih z zagotavljanjem poslovnih prostorov in drugih nepremičnin, potrebnih za njegovo delo, ter za izvajanje strokovno-tehničnih nalog, vezanih na izvrševanje posameznih upravljavskih nalog z nepremičninami, ki jih upravlja, z nepremičninskim skladom sklene pogodbo.
+# 27. člen (črtan)
