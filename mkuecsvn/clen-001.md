@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificirajo se Konvencija o ustanovitvi Evropskega centra za srednjeročne vremenske napovedi, sestavljena v Bruslju 11. oktobra 1973 (v nadaljnjem besedilu: konvencija), Protokol o spremembah – Spremembe Konvencije o ustanovitvi Evropskega centra za srednjeročne vremenske napovedi, sprejete 22. aprila 2005 (v nadaljnjem besedilu: spremembe konvencije), in Sporazum med Vlado Republike Slovenije in Evropskim centrom za srednjeročne vremenske napovedi o pristopu Republike Slovenije h Konvenciji o ustanovitvi Evropskega centra za srednjeročne vremenske napovedi in s tem povezanih pogojih, sestavljen 8. aprila 2011 (v nadaljnjem besedilu: sporazum).
