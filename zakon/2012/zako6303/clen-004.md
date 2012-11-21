@@ -1,0 +1,2 @@
+# 4. člen
+V drugem odstavku 18. člena se napovedni stavek spremeni tako, da se glasi: "(2) Ministrstvo, pristojno za varstvo pred požarom (v nadaljnjem besedilu: ministrstvo), v dogovoru z Gasilsko zvezo Slovenije ter drugimi nevladnimi organizacijami, ki delujejo v javnem interesu na področju varstva pred požarom, sodeluje pri pripravi in odločanju o raziskovalnih in razvojnih projektih na področju varstva pred požarom, tako, da:".

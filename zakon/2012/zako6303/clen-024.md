@@ -1,0 +1,2 @@
+# 24. člen (prenehanje veljavnosti)
+Z dnem uveljavitve tega zakona prenehajo veljati 18. in 19. člen Zakona o varstvu pred požarom (Uradni list SRS, št. 2/76 in 15/84) ter 29. člen, prvi odstavek 30. člena, drugi odstavek 34. člena, 36. in 37. člen Zakona o eksplozivnih snoveh, vnetljivih tekočinah, plinih ter drugih nevarnih snoveh (Uradni list SRS, št. 18/77, RS št. 4/92, 29/95 - ZPDF, 96/02 - ZE, 110/02 - ZGO - 1 in 101/05 - ZPNB) v delu, ki se nanaša na delo, pristojnosti in pravice organov požarne inšpekcije.
