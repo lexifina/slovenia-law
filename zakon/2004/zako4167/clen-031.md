@@ -1,5 +1,0 @@
-# 31. člen (izjemno dovoljenje)
-Zaradi nepredvidljive nevarnosti, ki jo predstavlja škodljivi organizem, ki ga ni mogoče zatreti oziroma ustrezno omejiti z registriranimi FFS ali drugimi ukrepi, lahko pristojni organ izda izjemno dovoljenje za promet oziroma uporabo neregistriranega FFS ali neregistrirano uporabo FFS. Postopek za izdajo izjemnega dovoljenja se lahko začne po uradni dolžnosti ali na predlog stranke. V postopku izdaje dovoljenja pristojni organ zahteva mnenje komisije. Izjemno dovoljenje se izda za največ 120 dni za omejeno in nadzorovano uporabo, ki ne predstavlja nesprejemljive nevarnosti za zdravje ljudi in okolje.
-Iz dovoljenja morajo biti razvidni podatki o FFS, količina FFS, območje in pogoji uporabe ter uporabniki.
-Pristojni organ lahko izjemno dovoljenje spremeni ali razveljavi, če FFS ni doseglo želenih rezultatov, če FFS ni več potrebno ali, če so škodljive posledice večje od škode, ki jo povzročajo škodljivi organizmi iz prvega odstavka tega člena.
-Podrobnejšo vsebino zahtevka in izjemnega dovoljenja predpiše minister.

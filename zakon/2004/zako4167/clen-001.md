@@ -1,7 +1,0 @@
-# 1. člen (vsebina)
-Ta zakon ureja promet in nadzor aktivnih snovi, ki so fitofarmacevtska sredstva (v nadaljnjem besedilu: FFS), registracijo FFS, izdajo dovoljenj na podlagi tega zakona, promet, uporabo in nadzor FFS, ostanke FFS, vodenje registra FFS in registra pravnih in fizičnih oseb, ki se ukvarjajo s prometom FFS, sporočanje podatkov in vodenje evidenc v zvezi s FFS, tehnične zahteve za naprave za nanašanje FFS (v nadaljnjem besedilu: naprave) in njihove sestavne dele, pooblastila organov, ki so odgovorni za izvrševanje tega zakona in nadzor nad njegovim izvajanjem ter predpisi, izdanimi na podlagi tega zakona.
-Ta zakon ureja tudi registracijo FFS, ki vsebujejo ali jih sestavljajo gensko spremenjeni organizmi, pod pogojem, da je izpust teh organizmov v okolje dovoljen na podlagi ocene tveganja za okolje v skladu z določbami predpisa, ki ureja gensko spremenjene organizme.
-Uvoz FFS na območje Evropske unije (v nadaljnjem besedilu: EU) in izvoz iz območja EU urejajo ta zakon in predpisi, ki urejajo uvoz na območje EU in izvoz iz območja EU določenih nevarnih kemikalij.
-FFS se razvrščajo, pakirajo in označujejo v skladu s tem zakonom in v skladu s predpisi, ki urejajo kemikalije.
-Proizvodnjo FFS, promet za potrebe proizvodnje FFS, sporočanje, ki se nanaša na vsebino varnostnega lista in dobro laboratorijsko prakso ter njihov nadzor urejajo predpisi o kemikalijah.
-Odpadke FFS in njihovo odpadno embalažo ter stanje imisij FFS v okolju urejajo predpisi o varstvu okolja.
