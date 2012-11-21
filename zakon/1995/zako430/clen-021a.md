@@ -1,9 +1,5 @@
 ## III.a ZAGOTAVLJANJE OBVEZNIH REZERV NAFTE IN NAFTNIH DERIVATOV
 # 21.a člen
-Obvezne rezerve nafte in njenih derivatov se zagotavljajo za naslednje skupine proizvodov:
-- motorni bencin, letalski bencin, letalsko gorivo na bencinski bazi;
-- dizelsko gorivo, ekstra lahko kurilno olje, gorilni kerozin, letalsko gorivo na kerozinski bazi;
-- kurilno olje.
-Vlada Republike Slovenije z uredbo predpiše način in pogoje za oblikovanje obveznih rezerv nafte in njenih derivatov ter vzdrževanje in upravljanje rezerv, pri čemer se mora zagotavljati količina rezerv, ki ustreza najmanj devetdesetdnevni povprečni porabi v preteklem letu.
-Zavod lahko sklepa pogodbe za skladiščenje obveznih rezerv nafte in njenih derivatov z domačimi subjekti, s tujimi subjekti pa na podlagi predhodno sklenjenega meddržavnega sporazuma.
-Obvezne rezerve nafte in njenih derivatov se oblikujejo in zagotavljajo po proizvodih, vrstah in količinah, ki jih za vsako koledarsko leto določi Vlada Republike Slovenije na predlog ministra, pristojnega za preskrbo.
+Obvezne rezerve nafte in naftnih derivatov se oblikujejo za zagotavljanje visoke stopnje varnosti oskrbe z nafto in naftnimi derivati v primeru motenj in nestabilnosti na trgu Republike Slovenije ali zaradi izpolnjevanja mednarodnih obveznosti Republike Slovenije o sproščanju obveznih rezerv nafte in naftnih derivatov.
+Republika Slovenija zagotavlja minimalne količine obveznih rezerv nafte in naftnih derivatov, ki ustrezajo dnevnemu povprečnemu neto uvozu za devetdeset dni ali dnevni povprečni domači porabi za enainšestdeset dni, glede na to, katera količina je večja.
+Vlada Republike Slovenije z uredbo določi postopke, merila in organizacijske ukrepe, ki se sprejmejo v primeru motenj in nestabilnosti pri preskrbi z nafto in naftnimi derivati na trgu Republike Slovenije ali zaradi izpolnitve mednarodnih obveznosti Republike Slovenije o sproščanju obveznih rezerv nafte in naftnih derivatov.

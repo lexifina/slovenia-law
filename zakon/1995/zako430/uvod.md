@@ -3,4 +3,5 @@
 - Zakon o spremembah in dopolnitvah zakona o blagovnih rezervah - ZBR-B (Uradni list RS, št. 50/04 z dne 6. 5. 2004),
 - Zakon o blagovnih rezervah - uradno prečiščeno besedilo - ZBR- UPB1 (Uradni list RS, št. 98/04 z dne 9. 9. 2004),
 - Zakon o spremembah in dopolnitvah Zakona o blagovnih rezervah - ZBR-C (Uradni list RS, št. 86/09 z dne 30. 10. 2009),
-- Zakon o blagovnih rezervah - uradno prečiščeno besedilo - ZBR- UPB2 (Uradni list RS, št. 96/09 z dne 27. 11. 2009).
+- Zakon o blagovnih rezervah - uradno prečiščeno besedilo - ZBR- UPB2 (Uradni list RS, št. 96/09 z dne 27. 11. 2009),
+- Zakon o spremembah in dopolnitvah Zakona o blagovnih rezervah - ZBR-D (Uradni list RS, št. 83/12 z dne 6. 11. 2012).

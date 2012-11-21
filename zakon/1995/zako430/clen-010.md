@@ -1,3 +1,3 @@
 # 10. člen
-Inšpekcijsko nadzorstvo nad blagom v blagovnih rezervah in nad poslovanjem z njim organizira in opravlja Tržni inšpektorat Republike Slovenije.
-Nadzorstvo nad ustreznostjo in neoporečnostjo ter kakovostnimi lastnostmi blaga v povečanih komercialnih zalogah iz 17. člena tega zakona opravljajo pristojni inšpekcijski organi.
+Inšpekcijski nadzor nad izvajanjem določb šeste alineje 4. člena, tretjega odstavka 17. člena in 21.c člena tega zakona opravlja Tržni inšpektorat Republike Slovenije.
+Nadzor nad izvajanjem drugih določb tega zakona izvaja ministrstvo, pristojno za preskrbo.
