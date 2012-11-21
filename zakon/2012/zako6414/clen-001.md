@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o lokalnih volitvah (Uradni list RS, št. 94/07 - uradno prečiščeno besedilo in 45/08) se za prvim odstavkom 1. člena doda nov drugi odstavek, ki se glasi:
+"S tem zakonom se v pravni red Republike Slovenije prenaša Direktiva Sveta 94/80 (ES) z dne 19. decembra 1994 o določitvi podrobne ureditve za uresničevanje volilne pravice in pravice do kandidiranja na lokalnih volitvah državljanov Unije, ki prebivajo v državi članici, v kateri nimajo državljanstva (UL L št. 368 z dne 31. 12. 1994, str. 38), zadnjič spremenjena z Direktivo Sveta 2006/106/ES z dne 20. novembra 2006 o spremembi Direktive 94/80/ES o določitvi podrobne ureditve za uresničevanje volilne pravice in pravice do kandidiranja na lokalnih volitvah državljanov Unije, ki prebivajo v državi članici, v kateri nimajo državljanstva, zaradi pristopa Bolgarije in Romunije (UL L št. 363 z dne 20. 12. 2006, str. 409).".
+Dosedanji drugi odstavek postane tretji odstavek.

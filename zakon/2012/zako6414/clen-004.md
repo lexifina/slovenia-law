@@ -1,0 +1,2 @@
+# 4. člen
+Do uskladitve zakona, ki ureja evidenco volilne pravice, z določbami 2. člena tega zakona, se volilni imeniki za volitve županov in članov občinskega sveta glede državljanov drugih držav članic Evropske unije, ki imajo potrdilo o prijavi prebivanja in prijavljeno začasno prebivališče v Republiki Sloveniji, sestavijo ob smiselni uporabi določb prvega odstavka 2. člena, 8., 9., 19., 20., 24. in 26. člena Zakona o evidenci volilne pravice (Uradni list RS, št. 1/07 - uradno prečiščeno besedilo).
