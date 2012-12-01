@@ -1,0 +1,3 @@
+# 7. člen (prepoved ali omejitev proizvodnje, uvoza, dajanja na trg in uporabe)
+
+Če glede na tehnična in znanstvena spoznanja obstaja utemeljen sum, da je gnojilo ali surovine za gnojilo, ki je že v prometu, nevarno za zdravje ali varnost ljudi ali okolja oziroma se z analizo ugotovi preseženo vsebnost težkih kovin ali drugih škodljivih snovi, pristojni organ odredi prepoved ali omejitev proizvodnje, uvoza, dajanja na trg, uporabo ter umik tega gnojila s trga in iz skladišč kmetijskih gospodarstev. O tem odloči pristojni organ z odločbo, ki jo izda po uradni dolžnosti. Pritožba zoper to odločbo ne zadrži njene izvršitve.
