@@ -1,0 +1,33 @@
+# 48. člen (nove informacije)
+
+(1) Če prijavitelj po vložitvi prijave iz 41. ali 43.a člena tega zakona in pred izdajo dovoljenja za dajanje izdelka na trg pridobi nove informacije v zvezi s tveganjem, ki ga predstavlja dajanje izdelka na trg ali njegova uporaba, mora o tem nemudoma sprejeti potrebne ukrepe za varovanje zdravja ljudi in varstva okolja in obvestiti ministrstvo.
+
+(2) Če prijavitelj od uporabnikov ali na drugačen način dobi nove informacije iz prejšnjega odstavka po pridobitvi dovoljenja za dajanje izdelka na trg, mora nemudoma:
+
+- sprejeti potrebne ukrepe za zavarovanje okolja in zdravja ljudi,
+
+- obvestiti ministrstvo o novih informacijah ali spremenjenih pogojih in
+
+- pregledati informacije in pogoje, navedene v prijavi.
+
+(3) Če ministrstvo pred izdajo dovoljenja za dajanje izdelka na trg ali pred njegovim podaljšanjem od prijavitelja ali na drugačen način pridobi nove informacije v zvezi s tveganjem, ki ga predstavlja dajanje izdelka na trg ali njegova uporaba, jih mora pri odločanju o dovoljenju upoštevati, nemudoma pa jih mora tudi posredovati pristojnim organom drugih držav članic in pristojnemu organu EU v skladu s postopkom iz prvega in drugega odstavka 42.b in druge alinee prvega odstavka 44. člena tega zakona.
+
+(4) Če ministrstvo po izdaji dovoljenja za dajanje izdelka na trg pridobi informacije iz prejšnjega odstavka in oceni, da lahko vplivajo na spremembo ali razveljavitev dovoljenja, o tem nemudoma pisno obvesti prijavitelja.
+
+(5) Ministrstvo v primeru iz prejšnjega odstavka po pridobitvi mnenja odbora za sproščanje GSO in v sodelovanju z ministrstvom, pristojnim za zdravje, in ministrstvom, pristojnim za kmetijstvo, gozdarstvo in prehrano, pripravi poročilo o primernosti izdelka, iz katerega mora biti razvidno, če in kako morajo biti zaradi novih zahtev pogoji v dovoljenju za dajanje izdelka na trg spremenjeni ali da je treba veljavno dovoljenje razveljaviti, ker se zaradi spremenjenih pogojev izdelek ne sme več dajati na trg. Ministrstvo poročilo o primernosti izdelka v 60 dneh od pridobitve novih informacij pošlje pristojnemu organu EU, pa tudi prijavitelju.
+
+(6) Odbor za sproščanje GSO mora pisno mnenje iz prejšnjega odstavka ministrstvu posredovati najpozneje v 21 dneh od dne, ko mu je to posredovalo nove informacije.
+
+(7) Ministrstvo v soglasju z ministrstvom, pristojnim za zdravje, in ministrstvom, pristojnim za kmetijstvo, gozdarstvo in prehrano izda odločbo, s katero spremeni, razveljavi ali dopolni veljavno dovoljenje za dajanje izdelka na trg, če je iz poročila o primernosti izdelka razvidno, da morajo biti pogoji v dovoljenju za dajanje izdelka na trg spremenjeni ali, da je treba veljavno dovoljenje za dajanje izdelka na trg razveljaviti, in:
+
+- v 60 dneh od dneva posredovanja poročila drugim državam članicam s strani njihovih pristojnih organov ali pristojnega organa EU niso bile posredovane pripombe ali ugovori, ki jih ni mogoče upoštevati, ali
+
+- je bilo v 75 dneh od dneva posredovanja poročila drugim državam članicam glede podanih pripomb in ugovorov doseženo soglasje držav članic in pristojnega organa EU v skladu z določbami tretjega odstavka 20. člena Direktive 2001/18/ES ali
+
+- v roku iz prejšnje alinee ni bilo doseženo soglasje, pristojni organ EU pa je v skladu z določbami prvega odstavka 18. člena Direktive 2001/18/ES sprejel odločitev, da je treba pogoje v dovoljenju za dajanje izdelka na trg spremeniti.
+
+(8) Ministrstvo mora v 30 dneh po izdaji odločbe o spremembi ali razveljavitvi dovoljenja za dajanje izdelka na trg o tem obvestiti druge države članice in pristojni organ EU.
+
+(9) Prijavitelj zaradi spremembe ali razveljavitve dovoljenja za dajanje izdelka na trg nima pravice do odškodnine.
+
+(10) Če ministrstvo od pristojnega organa EU dobi poročilo o primernosti izdelka, pripravljeno v drugi državi članici, se v zvezi s postopkom smiselno uporabljajo določbe 45.a člena tega zakona in roki, določeni v tretjem odstavku 20. člena Direktive 2001/18/ES.
