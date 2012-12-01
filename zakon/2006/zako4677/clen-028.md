@@ -1,3 +1,3 @@
 ## VI. FINANČNI PROGRAM
 # 28. člen (finančni program)
-Vsako leto minister sprejme finančni program za področje krme. Ministrstvo zagotovi sredstva za izvajanje tega programa.
+Vsako leto predstojnik Uprave sprejme finančni program za področje krme. Uprava zagotovi sredstva za izvajanje tega programa.

@@ -1,5 +1,5 @@
-# 25. člen (pooblastila in ukrepi inšpektorja za kontrolo krme)
-(1) Pri uradnem nadzoru ima inšpektor za kontrolo krme poleg pristojnosti po splošnih predpisih, ki urejajo inšpekcijo, in predpisih EU, še naslednja pooblastila:
+# 25. člen (pooblastila in ukrepi inšpektorja za hrano)
+(1) Pri uradnem nadzoru ima inšpektor za hrano poleg pristojnosti po splošnih predpisih, ki urejajo inšpekcijo, in predpisih EU, še naslednja pooblastila:
 1. pregledovati krmo po tem zakonu v proizvodnji, skladiščenju, prometu ali uporabi glede varnosti in kakovosti;
 2. jemati vzorce krme ter jih pošiljati v preiskave v uradne laboratorije oziroma v NRL;
 3. pregledovati predpisane evidence;
