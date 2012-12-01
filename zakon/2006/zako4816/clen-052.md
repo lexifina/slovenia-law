@@ -8,4 +8,4 @@
 - jemati na stroške lastnika vzorce grozdja, mošta, vina, drugih proizvodov in enoloških sredstev ter jih dati v analizo;
 - organoleptično preizkusiti mošt, vino in druge proizvode.
 (2) Pri opravljanju inšpekcijskega nadzorstva ima kmetijski inšpektor poleg pooblastil po drugih predpisih tudi pooblastilo pregledovati vinograde, pregledovati vpis v register in register kmetijskih gospodarstev ter pregledovati grozdje, mošt, vino in druge proizvode.
-(3) Pri opravljanju inšpekcijskega nadzorstva ima inšpektor za kontrolo kakovosti kmetijskih pridelkov in živil poleg pooblastil po drugih predpisih tudi pooblastilo jemati vzorce mošta in vina na stroške lastnika, jih dati v analizo in pregledati, ali vino, mošt in druge proizvode v prometu spremljajo ustrezne listine.
+(3) Pri opravljanju inšpekcijskega nadzorstva ima inšpektor za hrano poleg pooblastil po drugih predpisih tudi pooblastilo jemati vzorce mošta in vina na stroške lastnika, jih dati v analizo in pregledati, ali vino, mošt in druge proizvode v prometu spremljajo ustrezne listine.

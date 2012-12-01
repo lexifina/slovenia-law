@@ -26,4 +26,4 @@
 (2) Pri opravljanju inšpekcijskega nadzorstva lahko kmetijski inšpektor poleg ukrepov, določenih s splošnimi predpisi o inšpekcijah:
 - prepove sajenje in odredi uničenje trsov, ki niso v trsnem izboru,
 - prepove opravljanje dejavnosti, če zanjo niso izpolnjeni predpisani pogoji.
-(3) Pri opravljanju inšpekcijskega nadzorstva lahko inšpektor za kontrolo kakovosti kmetijskih pridelkov in živil poleg ukrepov, določenih s splošnimi predpisi o inšpekcijah, izreče še ukrep prepovedi prometa z moštom, vinom in drugimi proizvodi, ki ne ustrezajo predpisom ali niso označeni na predpisani način.
+(3) Pri opravljanju inšpekcijskega nadzorstva lahko inšpektor za hrano poleg ukrepov, določenih s splošnimi predpisi o inšpekcijah, izreče še ukrep prepovedi prometa z moštom, vinom in drugimi proizvodi, ki ne ustrezajo predpisom ali niso označeni na predpisani način.
