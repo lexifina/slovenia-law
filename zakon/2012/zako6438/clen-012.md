@@ -1,0 +1,3 @@
+# 12. člen
+V 69. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Kmečko gospodinjstvo po tem zakonu je skupnost ene ali več fizičnih oseb, članov enega ali več gospodinjstev, evidentiranih na istem naslovu, ki so na dan 30. junija v davčnem letu po predpisih o prijavi prebivališča stalno ali začasno prijavljene na tem naslovu, niso najeta delovna sila (v nadaljnjem besedilu: člani kmečkega gospodinjstva), ter se vsaj za enega ali več članov kmečkega gospodinjstva šteje, da opravljajo osnovno kmetijsko in osnovno gozdarsko dejavnost po določbah tega zakona in njihov skupni dohodek iz osnovne kmetijske in osnovne gozdarske dejavnosti znaša najmanj 200 eurov.".

@@ -1,0 +1,6 @@
+# 23. člen
+V prvem odstavku 109. člena se za besedilom "dohodka iz dejavnosti," doda besedilo "razen dohodka iz dejavnosti, če se davčna osnova od tega dohodka v davčnem letu ugotavlja na podlagi dejanskih prihodkov in normiranih odhodkov," ter za besedilom "gozdarske dejavnosti" črtata vejica in besedilo "dohodka iz oddajanja premoženja v najem".
+Drugi in tretji odstavek se črtata.
+Dosedanji četrti odstavek, ki postane drugi odstavek, se spremeni tako, da se glasi:
+"(2) Ne glede na prvi odstavek tega člena, se letna davčna osnova od dohodkov iz kmetijske in dopolnilne dejavnosti zmanjša tudi za obvezne prispevke za socialno varnost, ki se nanašajo na socialno varnost zavezanca, ki opravlja kmetijsko ali dopolnilno dejavnost na kmetiji, in jih plačuje kot kmet oziroma član kmečkega gospodarstva, v skladu s predpisi, v višini razlike med obveznimi prispevki za socialno varnost, ki jih zavezanec plačuje iz naslova opravljanja kmetijske in dopolnilne dejavnosti in delom obveznih prispevkov za socialno varnost iz tega naslova, ki so upoštevani pri izračunu davčne osnove od osnovne kmetijske in osnovne gozdarske dejavnosti. Razlika iz prejšnjega stavka se prizna v obračunu akontacije dohodnine od dohodka iz dejavnosti.".
+Dosedanji peti, šesti in sedmi odstavek postanejo tretji, četrti in peti odstavek.

@@ -1,0 +1,3 @@
+# 31. člen
+Naslov VIII. poglavja se spremeni tako, da se glasi:
+"VIII. STOPNJA DOHODNINE IN OBVEZNOST PLAČEVANJA DOHODNINE OD DOHODKA, KI SE NE VŠTEVA V LETNO DAVČNO OSNOVO".
