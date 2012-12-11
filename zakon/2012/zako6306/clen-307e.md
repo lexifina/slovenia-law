@@ -1,0 +1,2 @@
+# 307.e člen (skrbnik davčnega zavezanca oziroma njegovega premoženja)
+Če je davčnemu zavezancu v primeru, ko davčni zavezanec ni znan ali je opravilno nesposoben ali po odločbi o denacionalizaciji določen skrbnik oziroma skrbnik njegovega premoženja, se določbe, ki se nanašajo na dohodnino po 2. točki tega podpoglavja tega zakona, smiselno uporabljajo tudi za skrbnika oziroma upravljavca premoženja.

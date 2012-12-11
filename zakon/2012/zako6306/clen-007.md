@@ -1,0 +1,6 @@
+# 7. člen
+V drugem odstavku 23. člena se na koncu 5. točke pika nadomesti s podpičjem in dodata nova 6. in 7. točka, ki se glasita:
+"6. ministrstvu, pristojnemu za tehnologijo oziroma znanost, za ugotavljanje učinkovitosti davčnih ukrepov na področju raziskav in razvoja oziroma za analiziranje in spremljanje dodeljevanja spodbud na področju raziskav in razvoja (podatki o davčnih zavezancih, ki uveljavljajo davčne olajšave za vlaganja v raziskave in razvoj, ter podatki o višini olajšave);
+7. ministrstvu, pristojnemu za kmetijstvo, Agenciji Republike Slovenije za kmetijske trge in razvoj podeželja in drugim izvajalcem državnih pomoči v skladu z zakonom, ki ureja kmetijstvo, za izvajanje pristojnosti o finančnih pomočeh in izpolnitev davčnih obveznosti, in sicer podatek o davčnem statusu zavezanca, kot ga določa drugi odstavek 153. člena Zakona o kmetijstvu (Uradni list RS, št. 45/08 in 57/12).".
+Šesti odstavek se spremeni tako, da se glasi:
+"(6) Vlada Republike Slovenije posreduje Državnemu zboru Republike Slovenije podatke o stanju in gibanju davčnega dolga dvakrat letno, in sicer hkrati s predložitvijo predloga zaključnega računa proračuna za posamezno leto v revizijo računskemu sodišču in hkrati s poročilom o polletnem izvrševanju državnega proračuna.".

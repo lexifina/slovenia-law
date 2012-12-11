@@ -1,0 +1,3 @@
+# 42. člen
+Za prvim odstavkom 268. člena se doda nov drugi odstavek, ki se glasi:
+"(2) Ne glede na 1. točko prejšnjega odstavka davčni organ sestavi informativni izračun dohodnine za davčnega zavezanca rezidenta oziroma je davčni zavezanec rezident dolžan vložiti napoved, če izpolnjuje pogoje za priznanje olajšave iz tretjega odstavka 113. člena ZDoh-2 in njegovi dohodki za opravljeno začasno ali občasno delo na podlagi napotnice pooblaščene organizacije ali Zavoda Republike Slovenije za zaposlovanje, ki opravlja posredovanje dela dijakom in študentom v skladu s predpisi s področja zaposlovanja, v davčnem letu presegajo 75 % zneska splošne olajšave po prvem odstavku 111. člena ZDoh-2.".
