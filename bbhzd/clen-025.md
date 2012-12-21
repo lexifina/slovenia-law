@@ -1,0 +1,9 @@
+# 25. člen (veljavnost sporazuma)
+
+(1) Ta sporazum začne veljati prvi dan drugega meseca po prejemu zadnjega uradnega obvestila, s katerim se pogodbenika obvestita, da je končan notranjepravni postopek, potreben za začetek veljavnosti sporazuma.
+
+(2) Ta sporazum je sklenjen za nedoločen čas. Vsak pogodbenik ga lahko odpove z uradnim obvestilom drugemu pogodbeniku. Odpoved začne veljati prvi dan tretjega meseca po prejemu uradnega obvestila.
+
+Sestavljeno v Ljubljani dne 22. junija 2011 v dveh izvirnikih v slovenskem jeziku in uradnih jezikih Bosne in Hercegovine (bosanskem, hrvaškem in srbskem), pri čemer so vsa besedila enako verodostojna.
+
+Za Vlado Republike Slovenije Ivan Svetlik l.r. Za Svet ministrov Bosne in Hercegovine Sredoje Nović l.r.
