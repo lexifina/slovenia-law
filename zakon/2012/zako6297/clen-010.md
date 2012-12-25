@@ -1,0 +1,2 @@
+# 10. člen (odpiranje postavk in zagotavljanje pravic porabe na njih)
+Za izvajanje projektov, ki se financirajo iz predpristopnih pomoči, popristopnih pomoči, namenskih sredstev finančnih mehanizmov in namenskih sredstev EU lahko Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) na predlog ministrstva, pristojnega za finance, med letom odpre postavke. Pravice porabe na navedenih postavkah se zagotovijo s prerazporeditvami pravic porabe oziroma iz naslova večjih prihodkov proračuna od načrtovanih.

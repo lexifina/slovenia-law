@@ -1,0 +1,3 @@
+# 50. člen (neizplačevanje delovne uspešnosti)
+(1) Ne glede na določbe Zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 108/09 - uradno prečiščeno besedilo, 13/10, 59/10, 85/10, 107/10, 35/11 in 40/12 - ZUJF) in ZUJF javnim uslužbencem in funkcionarjem v letih 2013 in 2014 ne pripada del plače za delovno uspešnost dokler sprejeti letni obseg sredstev za stroške dela v finančnem načrtu uporabnika proračuna, ob upoštevanju ocene obveznosti do konca tekočega leta, ne izkazuje razpoložljivih sredstev.
+(2) Če iz ocene obveznosti do konca tekočega leta izhaja, da sprejeti letni obseg sredstev za stroške dela v finančnem načrtu uporabnika omogoča izplačevanje delovne uspešnosti, se delovna uspešnost lahko izplačuje v skladu z omejitvami, ki so določene v ZUJF.
