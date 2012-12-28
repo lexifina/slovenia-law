@@ -1,0 +1,2 @@
+# 249.k člen (namen posebnih ukrepov nadzora)
+Banka Slovenije lahko izreče posebne ukrepe nadzora po tem zakonu, če obstaja verjetnost, da bodo zaradi kršitev glede zagotavljanja kapitalske ustreznosti ali ustreznega likvidnostnega položaja po tem zakonu in na njegovi podlagi sprejetih podzakonskih predpisov pri banki podani razlogi, zaradi katerih lahko Banka Slovenije v skladu z s tem zakonom banki odvzame dovoljenje za opravljanje bančnih storitev.
