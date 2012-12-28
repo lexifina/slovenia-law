@@ -1,6 +1,1 @@
-# 261. člen (povečanje osnovnega kapitala z denarnimi vložki zaradi zagotovitve ekonomske stabilnosti banke)
-(1) Banka Slovenije z odločbo o povečanju osnovnega kapitala zaradi zagotovitve ekonomske stabilnosti banke naloži delničarjem banke, da sprejmejo sklep o povečanju osnovnega kapitala banke z novimi denarnimi vložki najmanj za znesek, določen v odločbi, s katerim kot zadnji dan roka za vpis in vplačilo novih delnic določijo dan, ki ne sme biti kasneje kot en mesec po dnevu zasedanja skupščine.
-(2) Ne glede na prvi odstavek 297. člena ZGD-1 je treba skupščino, ki bo odločala o povečanju osnovnega kapitala iz prvega odstavka tega člena, sklicati vsaj osem dni pred zasedanjem skupščine.
-(3) Uprava banke mora objaviti sklic skupščine, ki bo odločala o povečanju osnovnega kapitala iz prvega odstavka tega člena, v osmih dneh po prejemu odločbe o povečanju osnovnega kapitala zaradi zagotovitve ekonomske stabilnosti banke za dan, ki ne sme biti kasneje kot en mesec po dnevu prejema odločbe.
-(4) Če uprava banke v roku iz petega odstavka tega člena ne skliče skupščine, ki bo odločala o povečanju osnovnega kapitala z vsebino iz prvega odstavka tega člena, ali če jo skliče za dan, ki je kasnejši od enega meseca po prejemu odločbe o povečanju osnovnega kapitala zaradi zagotovitve ekonomske stabilnosti banke, lahko skupščino skliče Banka Slovenije.
-(5) V sklicu skupščine morajo biti delničarji opozorjeni na pravne posledice iz 262. in 262.a člena tega zakona.
+# 261. člen (črtan)

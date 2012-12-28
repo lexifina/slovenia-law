@@ -6,6 +6,7 @@
 3. če v likvidaciji opravlja posle v nasprotju s prepovedjo iz tretjega odstavka 78. člena tega zakona;
 4. če na ozemlju Republike Slovenije opravlja vzajemno priznane oziroma dodatne finančne storitve ali pomožne bančne storitve, ne da bi za opravljanje teh storitev pridobila dovoljenje Banke Slovenije oziroma predhodno obvestila Banko Slovenije (drugi odstavek 81. člena);
 5. če po prenehanju dovoljenja za opravljanje bančnih storitev sklepa nove posle v nasprotju s prepovedjo iz tretjega odstavka 87. člena tega zakona;
+5.a če ne ravna v skladu z odredbo iz 88.č člena tega zakona;
 6. če ustanovi podružnico v državi članici, ne da bi predhodno o tej nameri obvestila Banko Slovenije (prvi odstavek 91. člena);
 7. če začne opravljati posle prek podružnice v državi članici v nasprotju s 93. členom tega zakona;
 8. če glede podružnice v državi članici ne obvesti Banke Slovenije oziroma nadzornega organa države članice en mesec pred izvršitvijo nameravane spremembe v nasprotju s prvim odstavkom 94. člena tega zakona;
@@ -31,5 +32,5 @@
 26. če v postopku prisilne likvidacije sklepa nove posle v nasprotju z 270. členom tega zakona;
 27. če ne vzpostavi ustreznih postopkov upravljanja s tveganji oziroma notranjih kontrolnih mehanizmov, vključno z ustreznim poročanjem in računovodskimi postopki, z namenom ugotavljanja, merjenja, spremljanja in nadzora poslov s svojim nadrejenim mešanim poslovnim holdingom in njegovimi podrejenimi družbami v skladu z drugim odstavkom 300. člena tega zakona;
 28. če ne razvije in ne vzdržuje ustreznega informacijskega sistema v skladu s prvim odstavkom 311.a člena tega zakona;
-29. če ne poroča o znesku vseh vlog, neto vlog, zajamčenih vlog in številu vlagateljev, katerih vloge so zajamčene v skladu z drugim odstavkom 311.a člena tega zakona.
-(2) Z globo od 2.500 do 12.000 eurov se za prekršek kaznuje odgovorna oseba banke, ki stori prekršek iz prvega odstavka tega člena.
+29. če ne poroča o znesku vseh vlog, zajamčenih vlog in številu vlagateljev, katerih vloge so zajamčene v skladu z drugim odstavkom 311.a člena tega zakona.
+(2) Z globo od 2.500 do 30.000 eurov se za prekršek kaznuje odgovorna oseba banke, ki stori prekršek iz prvega odstavka tega člena.

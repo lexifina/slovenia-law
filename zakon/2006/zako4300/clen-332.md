@@ -7,6 +7,6 @@
 (3) V izjavi lahko stranka navaja dejstva, iz katerih izhaja, da dejstva in okoliščine, navedene v pozivu iz prvega odstavka tega člena, niso podane, in predlaga dokaze, s katerimi dokazuje obstoj zatrjevanih dejstev. Če se stranka v izjavi sklicuje na listinske dokaze, mora te dokaze izjavi priložiti.
 (4) Če stranka izjavi ne priloži listinskih dokazov, se ne uporabljajo določbe o nepopolnih vlogah, temveč Banka Slovenije pri odločanju upošteva zgolj tiste dokaze, ki so izjavi priloženi.
 (5) Po izteku roka za izjavo stranka nima pravice navajati novih dejstev in predlagati novih dokazov.
-(6) Ne glede na prvi odstavek tega člena, Banka Slovenije pred izdajo odločbe o izredni upravi banki ni dolžna zagotoviti možnosti, da se izjavi, če je razlog za izredno upravo okoliščina, da je banka postala nelikvidna.
+(6) Ne glede na prvi odstavek tega člena, Banki Slovenije pred izdajo odločbe o izrednem ukrepu ni treba pozvati strank, da se izjavijo o okoliščinah, pomembnih za izdajo odločbe.
 (7) Določbe prvega do petega odstavka tega člena se ne uporabljajo za ugotovitvene odločbe Banke Slovenije.
 (8) V postopku izdaje odločbe iz prvega odstavka 320. člena tega zakona rok za izjavo iz 2. točke drugega odstavka tega člena ne sme biti daljši od treh delovnih dni.

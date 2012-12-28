@@ -1,3 +1,3 @@
-# 191. člen (ukrepi uprave za zagotovitev minimalnega kapitala)
-(1) Če kapital banke zaradi povečanih kapitalskih zahtev ali drugih vzrokov ne dosega minimalnega kapitala, določenega v 136. členu tega zakona, mora uprava banke nemudoma sprejeti tiste ukrepe za zagotovitev minimalnega kapitala, za odločanje o katerih je pristojna sama, oziroma izdelati predlog tistih ukrepov, za odločanje o katerih so pristojni drugi organi banke.
-(2) O ukrepih oziroma predlogih ukrepov iz prvega odstavka tega člena mora uprava banke nemudoma poročati Banki Slovenije.
+# 191. člen (ukrepi uprave za zagotovitev kapitala)
+(1) Če banka zaradi povečanih tveganj v zvezi z določenimi posli, produkti ali sistemi ali zaradi drugih vzrokov ne zagotavlja kapitala v skladu s 136. in 126. členom tega zakona ali v skladu z oceno Banke Slovenije na podlagi prvega odstavka 222.a člena tega zakona ali na podlagi odredbe iz drugega odstavka 248. člena tega zakona, mora uprava banke nemudoma sprejeti ukrepe za zagotovitev ustreznega kapitala ali za ustrezno zmanjšanje tveganj.
+(2) O ugotovitvah in ukrepih iz prvega odstavka tega člena mora uprava banke nemudoma poročati Banki Slovenije.

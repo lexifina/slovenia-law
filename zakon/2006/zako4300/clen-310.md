@@ -6,8 +6,8 @@
 3. denarnega depozita,
 4. potrdila o depozitu oziroma blagajniškega zapisa, če sta izdana kot imenski vrednostni papir, ali
 5. kakršnega koli drugega pozitivnega salda, ki je posledica sredstev, ostalih na računu, ali začasnih stanj, ki so posledica običajnih bančnih transakcij, ki jih mora banka vrniti v skladu z veljavnimi zakonskimi in pogodbenimi pogoji, razen terjatev na osnovi izdanih obveznic ali drugih dolžniških vrednostnih papirjev banke.
-(2) Neto stanje vloge posamezne osebe je stanje vloge te osebe, zmanjšano za neporavnane obveznosti te osebe do banke, ki so dospele pred dnem začetka stečaja nad banko. Če ob začetku stečaja nad banko obstaja nedospela terjatev banke do imetnika vloge, se za to terjatev do višine zneska iz tretjega odstavka tega člena ne uporabljajo pravila zakona, ki ureja stečaj gospodarskih družb, o pobotu, ki nastane z začetkom stečaja.
-(3) Zajamčena vloga po tem zakonu je neto stanje vloge posamezne osebe do skupne višine 100.000 eurov na dan začetka stečaja nad banko.
+(2) Če ob začetku stečaja nad banko obstaja terjatev banke do imetnika vloge, se za to terjatev do višine zneska iz tretjega odstavka tega člena ne uporabljajo pravila zakona, ki ureja stečaj gospodarskih družb, o pobotu, ki nastane z začetkom stečaja.
+(3) Zajamčena vloga po tem zakonu je stanje vloge posamezne osebe do skupne višine 100.000 eurov na dan začetka stečaja nad banko.
 (4) Ne glede na tretji odstavek tega člena niso zajamčene vloge, ki se glasijo na prinosnika. Kot vloga na prinosnika se šteje tudi vloga na podlagi računa, ki ga odpre banka imetniku za račun ene ali več drugih oseb, če banka pred dnem začetka stečaja ni pridobila ustreznih podatkov za identifikacijo dejanskih upravičencev.
 (5) Ne glede na tretji odstavek tega člena niso zajamčene naslednje vloge:
 1. vloge drugih bank in finančnih družb, ki so jih vložile v svojem imenu in za svoj račun,

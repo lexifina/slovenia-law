@@ -8,7 +8,8 @@
 6. ZISDU-1 je zakon, ki ureja investicijske sklade in družbe za upravljanje,
 7. ZUP je zakon, ki ureja splošni upravni postopek,
 8. ZUS-1 je zakon, ki ureja upravni spor,
-9. ZPlaSS je zakon, ki ureja plačilne storitve in sisteme.
+9. ZPlaSS je zakon, ki ureja plačilne storitve in sisteme,
+10. ZPre-1 je zakon, ki ureja način, pogoje in postopek v zvezi s prevzemno ponudbo.
 (2) V tem zakonu so za predpise EU uporabljeni naslednji skrajšani naslovi:
 1. Direktiva 85/611/EGS je Direktiva Sveta 85/611/EGS o usklajevanju zakonov in drugih predpisov o kolektivnih naložbenih podjemih za vlaganja v prenosljive vrednostne papirje (KNPVP) (UL L št. 375 z dne 31. 12. 1985, str. 3), nazadnje spremenjena z Direktivo 2005/1/ES Evropskega parlamenta in Sveta z dne 9. marca 2005 o spremembi direktiv Sveta 73/239/EGS, 85/611/EGS, 91/675/EGS, 92/49/EGS in 93/6/EGS ter direktiv 94/19/ES, 98/78/ES, 2000/12/ES, 2001/34/ES, 2002/83/ES in 2002/87/ES za vzpostavitev nove organizacijske strukture odborov za finančne storitve (UL L 79, 24. 3. 2005, str. 3),
 2. Direktiva 2004/39/ES je Direktiva 2004/39/ES Evropskega parlamenta in Sveta z dne 21. aprila 2004 o trgih finančnih instrumentov in o spremembah direktiv Sveta 85/611/EGS, 93/6/EGS in Direktive 2000/12/ES Evropskega parlamenta in Sveta ter o razveljavitvi Direktive Sveta 93/22/EGS (UL L št. 145 z dne 30. 4. 2004, str. 1),

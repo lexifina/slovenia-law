@@ -5,5 +5,5 @@
 2. proti odločbi, s katero Banka Slovenije začne postopek za odvzem dovoljenja.
 (3) Odločba iz 1. točke drugega odstavka tega člena se lahko izpodbija s tožbo v postopku sodnega varstva proti odločbi, ki jo je Banka Slovenije izdala, ker subjekt nadzora ni ravnal v skladu z odredbo Banke Slovenije.
 (4) Odločba iz 2. točke drugega odstavka tega člena se lahko izpodbija s tožbo v postopku sodnega varstva proti odločbi o odvzemu dovoljenja.
-(5) Ne glede na 1. točko drugega odstavka tega člena, je proti odločbi, s katero Banka Slovenije odloči o ugovoru proti odredbi, s katero je banki naložila dodatni ukrep iz 3. točke prvega odstavka 248. člena tega zakona, dovoljeno začeti postopek sodnega varstva.
+(5) Ne glede na 1. točko drugega odstavka tega člena, je proti odločbi, s katero Banka Slovenije odloči o ugovoru proti odredbi, s katero je banki naložila dodatni ukrep iz 13. točke prvega odstavka 248. člena tega zakona, dovoljeno začeti postopek sodnega varstva.
 (6) Postopek sodnega varstva je dovoljeno začeti tudi proti sklepu, s katerim se konča postopek odločanja Banke Slovenije, začet na zahtevo stranke.
