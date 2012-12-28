@@ -1,0 +1,4 @@
+# 15. člen (prepoved pravnih poslov)
+(1) SDH in gospodarska družba, v kateri ima SDH in z njim povezane družbe delež, ki presega 25% v osnovnem kapitalu te družbe (v nadaljnjem besedilu: družba v lasti SDH) ne sme skleniti pravnega posla z drugo gospodarsko družbo, v kateri ima poslovodstvo, član organa nadzora ali prokurist ali ožji družinski član katere od navedenih oseb SDH ali družbe v lasti SDH, delež, ki presega 1% delež v osnovnem kapitalu te družbe, pri čemer ta omejitev ne velja za posle, ki se nanašajo na običajne produkte in storitve te družbe, po splošnih pogojih, ki veljajo tudi za druge subjekte na trgu.
+(2) Kršitev prepovedi iz prejšnjega odstavka je hujša kršitev obveznosti člana organa vodenja ali nadzora ali prokurista SDH ali družbe v lasti SDH.
+(3) Posel, sklenjen v nasprotju s prvim odstavkom tega člena, je ničen.
