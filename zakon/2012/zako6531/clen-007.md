@@ -1,0 +1,5 @@
+# 7. člen
+Sklad Republike Slovenije za vzpodbujanje zaposlovanja invalidov, ki je bil ustanovljen z Aktom o ustanovitvi Sklada Republike Slovenije za vzpodbujanje zaposlovanja invalidov (Uradni list RS, št. 92/04 in 117/04), se pripoji k Javnemu jamstvenemu in preživninskemu skladu Republike Slovenije.
+Sklad Republike Slovenije za vzpodbujanje zaposlovanja invalidov do vpisa pripojitve v sodni register nadaljuje delo na podlagi Akta o ustanovitvi Sklada Republike Slovenije za vzpodbujanje zaposlovanja invalidov (Uradni list RS, št. 30/09).
+Članom nadzornega sveta in direktorju Sklada Republike Slovenije za vzpodbujanje zaposlovanja invalidov preneha mandat z dnem vpisa pripojitve v sodni register.
+Javni jamstveni, preživninski in invalidski sklad Republike Slovenije z dnem vpisa pripojitve v sodni register prevzame od Sklada Republike Slovenije za vzpodbujanje zaposlovanja invalidov vse javne uslužbence, premoženje, sredstva, opremo, pravice in obveznosti, nedokončane zadeve, dokumentacijo in arhivsko gradivo ter se v pravnem prometu šteje kot njegov univerzalni pravni naslednik.
