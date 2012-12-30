@@ -1,0 +1,2 @@
+# 15. člen
+V tretjem odstavku 90. člena se za zadnjim stavkom doda besedilo, ki se glasi: "Pred pogajanji mora naročnik ponudnike, ki jih namerava povabiti k pogajanjem, seznaniti s pravili, po katerih bodo pogajanja potekala. Naročnik mora med pogajanji vnaprej pisno napovedati zadnji krog pogajanj razen, če je število krogov napovedal v razpisni dokumentaciji ali obvestilu o naročilu ali če se pogaja le z enim kandidatom. V primeru elektronske dražbe lahko namesto števila krogov draženja v povabilu k sodelovanju napove datum in čas zaključka dražbe.".
