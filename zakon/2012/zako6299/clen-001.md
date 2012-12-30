@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o javnem naročanju (Uradni list RS, št. 128/06, 16/08, 19/10, 18/11 in 43/12 - odl. US) se v drugem odstavku 1. člena prva alineja spremeni tako, da se glasi:
+"- Direktiva št. 2004/18/ES Evropskega parlamenta in Sveta z dne 31. 3. 2004 o usklajevanju postopkov za oddajo javnih naročil gradenj, blaga in storitev (UL L št. 134 z dne 30. 4. 2004, str. 114), nazadnje spremenjena z Uredbo Komisije (EU) št. 1251/2011 z dne 30. novembra 2011 o spremembi direktiv 2004/17/ES, 2004/18/ES in 2009/81/ES Evropskega parlamenta in Sveta glede njihovih pragov uporabe za postopke za oddajo naročil (UL L št. 319 z dne 2. 12. 2011, str. 43), in".
