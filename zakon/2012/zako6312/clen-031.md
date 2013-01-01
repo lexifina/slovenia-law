@@ -1,0 +1,2 @@
+# 31. člen
+V šestih mesecih od dneva začetka uporabe tega zakona center otroka razveže rejniške pogodbe za tiste osebe, ki so ob začetku uporabe tega zakona že dopolnile 26 let in na podlagi soglasja osebe ali skrbnika v skladu s 65. členom Zakona o socialnem varstvu (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo, 23/07 - popr., 41/07 - popr., 61/10 - ZSVarPre, 62/10 - ZUPJS in 57/12) sklene pogodbo o izvajanju storitve institucionalnega varstva v drugi družini ali na drug ustrezen način poskrbi za njeno varstvo.
