@@ -1,8 +1,2 @@
-## 12.a NADZOR NAD VZAJEMNIMI POKOJNINSKIMI SKLADI IN NJIHOVIMI UPRAVLJAVCI
-# 497.a člen (uporaba določb)
-(1) Pri opravljanju skrbniških storitev za vzajemni pokojninski sklad, kritni sklad dodatnega pokojninskega zavarovanja zavarovalnic in za kritno premoženje pokojninske družbe se smiselno uporabljata 6.3. in 6.4 oddelek ter 171. člen tega zakona. Vzajemni pokojninski sklad je sklad iz 307. člena ZPIZ-1. Kritni sklad dodatnega pokojninskega zavarovanja je kritno premoženje, namenjeno kritju obveznosti zavarovalnice iz dodatnega pokojninskega zavarovanja, kot ga določa zakon, ki ureja zavarovalništvo. Pokojninska družba je družba iz 337. člena ZPIZ-1.
-(2) Za revidiranje letnega poslovnega poročila vzajemnega pokojninskega sklada se smiselno uporabljata 214. člen in prvi odstavek 215. člena tega zakona.
-(3) Za nadzor nad upravljavci vzajemnih pokojninskih skladov se smiselno uporabljajo drugi in tretji odstavek 441. člena, 447. do 450. člen, 453. člen, tretji in četrti odstavek 454. člena, 455. člen, 459. do 463. člen, 465. člen, 478. in 479. člen tega zakona.
-(4) Pri smiselni uporabi določb iz prvega do četrtega odstavka tega člena se besedilo "družba za upravljanje" v vseh sklonih nadomesti z besedilom "upravljavec vzajemnega pokojninskega sklada" v ustreznem sklonu, besedi "investicijski sklad" v vseh sklonih pa se nadomestita z besedilom "vzajemni pokojninski sklad" v ustreznem sklonu.
-(5) Agencija obvesti Banko Slovenije ali Agencijo za zavarovalni nadzor o vseh ugotovitvah in o izrečenih ukrepih v postopku nadzora nad upravljavcem vzajemnega pokojninskega sklada, ki ga opravlja v okviru svojih pristojnosti.
-(6) Banka Slovenije ali Agencija za zavarovalni nadzor obvesti Agencijo o vseh ugotovitvah in o izrečenih ukrepih v postopku nadzora nad upravljavcem vzajemnega pokojninskega sklada, ki ga opravlja v okviru svojih pristojnosti.
+## 12.a NADZOR NAD VZAJEMNIMI POKOJNINSKIMI SKLADI IN NJIHOVIMI UPRAVLJAVCI (prenehalo veljati)
+# 497.a člen (prenehal veljati)
