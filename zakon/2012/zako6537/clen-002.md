@@ -1,0 +1,9 @@
+# 2. člen
+Za 33. členom se dodata nova 33.a in 33.b člen, ki se glasita:
+"33.a člen
+(pravice članov računskega sodišča po prenehanju funkcije)
+(1) Član računskega sodišča, ki mu je prenehala funkcija in iz objektivnih razlogov ne more nadaljevati z opravljanjem prejšnje funkcije ali nadaljevati prejšnjega dela ali dobiti druge ustrezne zaposlitve in ne izpolnjuje minimalnih pogojev za pridobitev pravice do starostne pokojnine brez zmanjšanja v skladu s predpisi, ki urejajo obvezno pokojninsko in invalidsko zavarovanje, oziroma s posebnimi predpisi, v katerih je urejena pravica do starostne pokojnine, ima, dokler se ne zaposli ali začne opravljati pridobitne dejavnosti oziroma dokler ne izpolni navedenih pogojev za upokojitev, pravico do nadomestila plače v višini 80 odstotkov zadnje mesečne plače, ki jo je prejel, ko je opravljal funkcijo, vendar najdlje devet mesecev od prenehanja funkcije člana računskega sodišča. Če je namesto zadnje plače prejel nadomestilo, se nadomestilo plače iz tega odstavka odmeri od zadnje mesečne plače, ki bi jo prejel, če bi opravljal funkcijo.
+(2) Pravica do nadomestila plače iz prejšnjega odstavka se lahko podaljša do izpolnitve pogojev za upokojitev, navedenih v prejšnjem odstavku, vendar najdlje še za šest mesecev.
+(3) Član računskega sodišča, ki je opravljal funkcijo člana že pred mandatom, ki mu je prenehal, ima za vse prejšnje mandate pravico do dodatnega trimesečnega nadomestila plače.
+(4) Čas prejemanja nadomestila plače se članu računskega sodišča, ki mu je prenehala funkcija, šteje v pokojninsko dobo. V tem času je socialno zavarovan po predpisih, ki urejajo socialno zavarovanje oseb v delovnem razmerju, ob upokojitvi pa mu pripada pravica do odpravnine.
+(5) Član računskega sodišča, ki mu je funkcija člana prenehala pred potekom enega leta od imenovanja, nima pravice do nadomestila plače.
