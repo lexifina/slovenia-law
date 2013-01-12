@@ -1,2 +1,0 @@
-# 28. člen (strokovno spremljanje)
-S strokovnim spremljanjem se vsaj enkrat letno ugotavlja skladnost jedilnikov s strokovnimi usmeritvami iz druge alineje četrtega odstavka 4. člena tega zakona in zagotavlja svetovanje šolam. Strokovno spremljanje izvajajo Inštitut Republike Slovenije za varovanje zdravja in območni zavodi za zdravstveno varstvo, ki jih za to pooblasti ministrstvo, pristojno za zdravje.
