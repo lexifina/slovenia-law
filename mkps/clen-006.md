@@ -1,0 +1,3 @@
+# 6. člen Izmenjava informacij brez zaprosila
+
+V določenih primerih organi odkrivanja in pregona pogodbenic drug drugemu pošljejo informacije, ne da bi bili zaprošeni, če na podlagi dokazanih dejstev obstajajo razlogi za domnevo, da so take informacije potrebne za boj proti konkretnim grožnjam javnemu redu in/ali varnosti ali za preprečevanje, odkrivanje in preiskovanje kaznivih dejanj. Pri izmenjavi informacij se ustrezno uporabljajo tretji odstavek (nacionalne centralne enote), četrti odstavek (zaprosila in odgovori na zaprosila) in šesti odstavek (zaprosila v pisni obliki po telefaksu ali elektronski pošti) 4. člena.
