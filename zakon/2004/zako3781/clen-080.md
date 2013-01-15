@@ -1,2 +1,0 @@
-# 80. člen (odločba pristojnega upravnega organa)
-Z odločbo pristojni upravni organ ustanovi služnost v takšnem obsegu in za takšno časovno obdobje, kot je nujno potrebno za gradnjo, postavitev, vzdrževanje ali obratovanje elektronskega komunikacijskega omrežja. Obvezna sestavina odločbe o ustanovitvi služnosti je določba o dopustnosti skupne uporabe zgrajenih zmogljivosti služnostnega upravičenca s strani le‑tega ter drugih fizičnih in pravnih oseb, ki zagotavljajo elektronska komunikacijska omrežja skladno s tem zakonom.

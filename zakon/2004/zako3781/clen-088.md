@@ -1,3 +1,0 @@
-# 88. člen (radijska in telekomunikacijska terminalska oprema)
-(1) Operaterji ne smejo iz tehničnih razlogov zavrniti razumne zahteve za priključitev uporabnikove radijske ali telekomunikacijske terminalske opreme, ki ustreza zahtevam iz predpisov, ki urejajo radijsko in telekomunikacijsko terminalsko opremo.
-(2) Uporabniki ne smejo na javno komunikacijsko omrežje priključiti radijske ali telekomunikacijske terminalske opreme, ki ne ustreza zahtevam iz predpisov, ki urejajo radijsko in telekomunikacijsko terminalsko opremo. Inšpektor nadzoruje izvajanje te določbe v smislu nadzora nad delovanjem navedene opreme v delovanju. Ob tem sodeluje ter usklajeno deluje z inšpektorjem, pristojnim za nadzor blaga na trgu, ter z agencijo ob uporabi 142. člena tega zakona.

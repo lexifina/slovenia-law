@@ -1,5 +1,0 @@
-# 109. člen (neželene komunikacije)
-(1) Uporaba samodejnih klicnih sistemov za opravljanje klicev na naročnikovo telefonsko številko brez človekovega posredovanja (klicni avtomati), faksimilnih naprav ali elektronske pošte za namene neposrednega trženja je dovoljena samo na podlagi naročnikovega predhodnega soglasja.
-(2) Ne glede na določbe prejšnjega odstavka lahko fizična ali pravna oseba, ki od kupca svojih izdelkov ali storitev pridobi njegov elektronski naslov za elektronsko pošto, ta naslov uporablja za neposredno trženje svojih podobnih izdelkov ali storitev, vendar mora kupcu dati možnost, da kadarkoli na brezplačen in enostaven način zavrne takšno uporabo njegovega elektronskega naslova.
-(3) Uporaba drugačnih sredstev za neposredno trženje s pomočjo elektronskih komunikacij kot so določena v prejšnjih dveh odstavkih tega člena, je dovoljena le s soglasjem naročnika.
-(4) Elektronske pošte za potrebe neposrednega trženja s skrito ali prikrito identiteto pošiljatelja, v imenu katerega se sporočilo pošilja, ali brez veljavnega naslova, na katerega lahko prejemnik pošlje zahtevo za prekinitev takega neposrednega trženja, ni dovoljeno pošiljati.
