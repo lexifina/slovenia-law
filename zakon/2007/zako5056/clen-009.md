@@ -1,5 +1,1 @@
-# 9. člen (skupna uporaba infrastrukture, primerne za digitalno radiodifuzijo)
-(1) Agencija vzpodbuja pogodbeno urejanje skupne uporabe lastnine in zmogljivosti za digitalno radiodifuzijo v skladu z zakonom, ki ureja elektronske komunikacije.
-(2) Kadar so operaterji multipleksa prikrajšani za dostop do uporabnih alternativ zaradi varstva okolja ali javnega zdravja, zaradi javne varnosti ali prostorskih ureditev vključno z zahtevami po racionalni rabi prostora in se z operaterji ali lastniki infrastrukture ne dogovorijo o skupni uporabi iz prejšnjega odstavka, o zadevi odloči agencija po postopku in v skladu z določbami zakona, ki ureja elektronske komunikacije.
-(3) Agencija presodi o prikrajšanem dostopu do uporabnih alternativ na podlagi razlogov iz prejšnjega odstavka na podlagi prejete zahteve zainteresirane stranke, in sicer v roku 30 dni od prejete zahteve.
-(4) Določbe tega člena se ne uporabljajo, če je lastnik infrastrukture, primerne za digitalno radiodifuzijo, Ministrstvo za obrambo oziroma Ministrstvo za notranje zadeve.
+# 9. člen (prenehal veljati)
