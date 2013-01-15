@@ -1,7 +1,0 @@
-# 86. člen
-V prvem odstavku 102. člena se beseda "Operaterji" nadomesti z besedilom "Izvajalci javnih komunikacijskih storitev".
-Na koncu drugega odstavka se doda nov stavek, ki se glasi: "Tveganje predstavlja zlasti vsako dejanje, storitev ali izdelek, ki posega v tajnost, zaupnost in varnost elektronskega komunikacijskega omrežja ali elektronske komunikacijske storitve, s tem ko spremeni dostopnost, vsebino, ceno ali kakovost storitve, in ki ga lahko operater sam ali skupaj z drugimi operaterji učinkovito onemogoči.".
-Tretji odstavek se spremeni tako, da se glasi:
-"(3) Pri posebnem tveganju za varnost omrežja mora izvajalec javnih komunikacijskih storitev takoj, ko za to tveganje izve, z objavo na svojih spletnih straneh in na drug primeren način obvestiti naročnike o takem tveganju. Če tveganje presega obseg ukrepov, ki jih izvajalec storitve lahko sprejme, mora hkrati obvestiti naročnike o vseh možnih sredstvih za odpravo tveganja, vključno z navedbo verjetnih stroškov, ter jim omogočiti hiter in učinkovit dostop do zaščitnih ukrepov.".
-Doda se nov četrti odstavek, ki se glasi:
-"(4) V primeru zlorab, ki niso nastale po krivdi uporabnikov, izvajalci javnih komunikacijskih storitev prevzamejo odgovornost in stroške, ki nastanejo kot posledica zlorab. Šteje se, da zloraba ni nastala po krivdi uporabnika, kadar je uporabnik uporabil vse razumne ukrepe za zaščito, o katerih je bil obveščen s strani izvajalca javnih komunikacijskih storitev.".

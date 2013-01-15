@@ -1,3 +1,0 @@
-# 99. člen
-Tretji odstavek 116. člena se spremeni tako, da se glasi:
-"(3) Direktor in njegovi namestniki, njihov zakonec, zunajzakonski partner ali partnerica (v nadaljnjem besedilu: partner) ali partner v skladu z zakonom, ki ureja istospolno partnersko skupnost, ter sorodnik v ravni vrsti do vključno drugega kolena ne smejo sami kot fizične osebe opravljati dejavnosti s področja urejanja iz pristojnosti agencije ali biti člani upravnega ali nadzornega organa organizacije, ki opravlja dejavnost s področja urejanja iz pristojnosti agencije, in ne smejo imeti lastninskih deležev v organizacijah, ki opravljajo dejavnost, ki je neposredno predmet urejanja iz pristojnosti agencije, ali v organizacijah, ki imajo lastninski delež v takih organizacijah.".

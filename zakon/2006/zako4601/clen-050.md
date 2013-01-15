@@ -1,5 +1,0 @@
-# 50. člen
-60. člen se spremeni tako, da se glasi:
-"60. člen
-(uporaba elementov oštevilčenja)
-Operater in fizične ali pravne osebe iz prvega odstavka 62. člena tega zakona lahko uporabljajo elemente oštevilčenja le na podlagi odločbe o dodelitvi elementov oštevilčenja, s katero agencija podeli pravico do njihove uporabe.".

@@ -1,6 +1,0 @@
-# 108. člen
-141. člen se spremeni tako, da se glasi:
-"141. člen
-(pristojnost za nadzor)
-(1) Agencija nadzira izvajanje določb tega zakona in na njegovi podlagi izdanih predpisov ter splošnih aktov, razen v primerih, ki spadajo v pristojnost inšpektorjev na podlagi šestega odstavka 7. člena, 83.a člena, drugega odstavka 88. člena in 100. člena tega zakona ali v pristojnost informacijskega pooblaščenca na podlagi drugega odstavka 112. člena tega zakona. Agencija opravlja tudi nadzor nad izvajanjem vseh posamičnih aktov oziroma ukrepov, ki jih sprejema na podlagi tega zakona ter na njegovi podlagi sprejetih predpisov in splošnih aktov.
-(2) Agencija nadzira tudi izvajanje določb predpisov Evropske skupnosti s področja elektronskih komunikacij, ki imajo neposredni učinek v pravnem redu Republike Slovenije, če določajo nadzor in sankcioniranje na ravni držav članic.".
