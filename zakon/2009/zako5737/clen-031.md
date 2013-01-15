@@ -1,4 +1,0 @@
-# 31. člen
-Besedilo 112. člena se spremeni tako, da se glasi:
-"(1) Agencija nadzira izvajanje določb tega poglavja o zaščiti tajnosti, zaupnosti in varnosti elektronskih komunikacij, razen določb o hrambi prometnih in lokacijskih podatkov, pridobljenih ali obdelanih v zvezi z zagotavljanjem javnih komunikacijskih omrežij ali storitev v skladu s 107.a do 107.e členom tega zakona in pošiljanjem podatkov, določenih v 104.a členu tega zakona.
-(2) Inšpekcijski nadzor nad hrambo prometnih in lokacijskih podatkov, pridobljenih ali obdelanih v zvezi z zagotavljanjem javnih komunikacijskih omrežij ali storitev v skladu s 107.a do 107.e členom tega zakona, in pošiljanjem podatkov, določenih v 104.a členu tega zakona, opravlja informacijski pooblaščenec.".
