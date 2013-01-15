@@ -1,0 +1,2 @@
+# 45. člen
+Zdravstveni zavodi iz spremenjenega 151. in spremenjenega 155. člena zakona morajo za osebe, za katere izvršujejo ukrepe obveznega psihiatričnega zdravljenja in varstva v zdravstvenem zavodu oziroma obveznega psihiatričnega zdravljenja na prostosti, če je ob uveljaviti tega zakona že preteklo več kot šest mesecev od zadnjega poročila, prvič poročati pristojnemu sodišču o izvrševanju teh ukrepov najpozneje v enem mesecu po uveljavitvi tega zakona.

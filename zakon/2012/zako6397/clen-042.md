@@ -1,0 +1,2 @@
+# 42. člen
+O dopustitvi prestajanja kazni na način iz 12. člena zakona na predlog obsojenca, ki je bil pravnomočno obsojen pred uveljavitvijo Zakona o spremembah in dopolnitvah Kazenskega zakonika (Uradni list RS, št. 91/11), pa kazni zapora do uveljavitve tega zakona še ni nastopil, odloči sodišče s sklepom po postopku, ki ga zakon, ki ureja kazenski postopek, določa za nadomestitev kazni zapora z zaporom ob koncu tedna, pri čemer mora biti predlog vložen do nastopa kazni zapora.

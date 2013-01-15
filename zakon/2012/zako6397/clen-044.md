@@ -1,0 +1,3 @@
+# 44. člen
+(1) Minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za pravosodje, določi zdravstvene zavode iz spremenjenega 148. člena zakona, ki izpolnjujejo pogoje iz spremenjenega 151. in spremenjenega 155. člena zakona, najkasneje v enem letu po uveljavitvi tega zakona.
+(2) Do določitve zdravstvenih zavodov iz prejšnjega odstavka se varnostna ukrepa obveznega psihiatričnega zdravljenja in varstva v zdravstvenem zavodu in obveznega psihiatričnega zdravljenja na prostosti izvršujeta v skladu s Pravilnikom o izvrševanju varnostnih ukrepov obveznega psihiatričnega zdravljenja in varstva v zdravstvenem zavodu, obveznega psihiatričnega zdravljenja na prostosti in obveznega zdravljenja alkoholikov in narkomanov (Uradni list RS, št. 84/09 in 6/12).
