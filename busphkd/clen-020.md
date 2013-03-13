@@ -1,0 +1,7 @@
+# 20. člen Pregled in nadzor
+
+1. Vsaka pogodbenica pregleduje izpolnjevanje svojih obveznosti o varstvu podatkov po določbah tega sporazuma in se po potrebi in če je to primerno z drugo pogodbenico dogovarja o vprašanjih varstva in zaščite.
+
+2. Ustrezni nadzorni organi ali druge pristojne organizacije, ustanovljene v skladu z notranjim pravom Republike Slovenije, lahko glede osebnih podatkov, ki jih zagotavlja Republika Slovenija po tem sporazumu, izvajajo nadzor nad zakonitostjo obdelave teh osebnih podatkov s strani Slovenije. Če ustrezni nadzorni organi ali druge pristojne organizacije v določenem primeru, po pritožbi posameznika, na katerega se podatki domnevno nanašajo, ali glede na druge informacije (nadzor po uradni dolžnosti) ugotovijo, da je Republika Slovenija odgovorna za nezakonito obdelavo, netočnosti ali druge nepravilnosti, smejo ustrezni nadzorni organi ali druge pristojne organizacije le obvestiti pritožnika, da je bil opravljen nadzor in da ne morejo niti potrditi niti zanikati, da so bili pritožnikovi osebni podatki obdelani z namenom, da se pošljejo drugi pogodbenici tega sporazuma. Ustrezni nadzorni organ ali druga pristojna organizacija lahko sprejme druge upravne ukrepe ali ukrepe za odpravljanje nepravilnosti v skladu z notranjim pravom Republike Slovenije, ki ne posegajo v določbe tega sporazuma. Izvedeni ukrepi ostanejo zaupni 2 leti.
+
+3. Nadzorni organi obeh pogodbenic lahko izmenjujejo informacije ali stališča o izvajanju svojih nadzornih pooblastil po tem sporazumu.
