@@ -1,0 +1,2 @@
+# 33. člen (spremljanje izvajanja začasnega in občasnega dela)
+Ministrstvo, pristojno za delo, po 12 mesecih izvajanja pripravi poročilo o izvrševanju in učinkih tega zakona v zvezi z opravljanjem začasnega ali občasnega dela upokojencev. Ministrstvo po predhodni obravnavi na Ekonomsko socialnem svetu s poročilom seznani Vlado Republike Slovenije, ki poročilo posreduje v seznanitev Državnemu zboru Republike Slovenije.

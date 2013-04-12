@@ -1,0 +1,4 @@
+# 176.b člen (nepredložitev obračuna in neplačilo dajatve iz začasnega ali občasnega dela v predpisanem roku)
+(1) Z globo 3.000 eurov se za prekršek kaznuje delodajalec, ki v roku iz tretjega odstavka 27.f člena tega zakona davčnemu organu ne predloži obračuna in ne plača dajatve iz začasnega ali občasnega dela.
+(2) Z globo 500 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika, odgovorna oseba posameznika, ki samostojno opravlja dejavnost, odgovorna oseba državnega organa in odgovorna oseba organa samoupravne lokalne skupnosti.
+(3) V primeru predložitve obračuna in plačila dajatve iz prvega odstavka tega člena na način, določen v 53., 54. in 55. členu Zakona o davčnem postopku (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo in 32/12), se šteje, da delodajalec ni storil prekrška iz prvega odstavka tega člena.

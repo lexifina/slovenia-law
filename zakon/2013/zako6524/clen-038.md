@@ -1,0 +1,3 @@
+# 38. člen (pravica do plačila prispevkov za pokojninsko in invalidsko zavarovanje za zavarovance iz drugega odstavka 69. člena zakona)
+(1) Ne glede na določbo 68. člena zakona je zavarovanec iz drugega odstavka 69. člena zakona, ki po prenehanju pravice do denarnega nadomestila ne izpolnjuje pogojev za starostno upokojitev v skladu z zakonom, ki ureja pokojninsko in invalidsko zavarovanje, upravičen do plačila prispevkov za pokojninsko in invalidsko zavarovanje, če mu do izpolnitve pogojev za starostno upokojitev manjka največ dve leti ter je brezposelna oseba.
+(2) Pravico iz prejšnjega odstavka je mogoče uveljaviti do 1. marca 2018.

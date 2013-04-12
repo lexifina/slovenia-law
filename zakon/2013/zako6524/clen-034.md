@@ -1,0 +1,2 @@
+# 34. člen (zdravstveno zavarovanje oseb, ki opravljajo začasno ali občasno delo)
+V Zakonu o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 77/06 - UPB3, 114/06 - ZUTPG, 91/07, 71/08 - sklep US, 76/08, 118/08 - sklep US, 47/10 - odločba US, 62/10 - ZUPJS, 87/11 in 40/12 - ZUJF) se v 12. točki 17. člena za besedilom "zaposlovanja na črno" doda vejica in besedilo "in osebe, ki opravljajo začasno ali občasno delo po predpisih, ki urejajo trg dela".
