@@ -1,4 +1,0 @@
-## d) Odpoved pogodbe o zaposlitvi zaradi začetka postopka za prenehanje delodajalca ali prisilne poravnave
-# 103. člen (stečaj, sodna likvidacija)
-(1) V stečajnem postopku ali postopku likvidacije, ki jo izvede sodišče, lahko stečajni oziroma likvidacijski upravitelj s 15-dnevnim odpovednim rokom odpove pogodbe o zaposlitvi zaposlenim delavcem, katerih delo je zaradi začetka stečajnega postopka oziroma likvidacije pri delodajalcu postalo nepotrebno.
-(2) Stečajni oziroma likvidacijski upravitelj mora pred odpovedjo pogodb o zaposlitvi večjemu številu delavcev izpolniti obveznosti iz prvega in tretjega odstavka 97. člena tega zakona in se s sindikati, določenimi v prvem odstavku 97. člena tega zakona, posvetovati o možnih načinih za preprečitev in omejitev števila odpovedi in o možnih ukrepih za preprečitev in omilitev škodljivih posledic.

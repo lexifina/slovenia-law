@@ -1,7 +1,0 @@
-# 213. člen (položaj napotenih delavcev)
-(1) Delavec, ki ga tuji delodajalec napoti na začasno delo v Republiko Slovenijo na podlagi pogodbe o zaposlitvi po tujem pravu, opravlja začasno delo v Republiki Sloveniji pod pogoji, določenimi s predpisi, ki urejajo delo in zaposlovanje tujih državljanov.
-(2) Delavcu iz prejšnjega odstavka mora delodajalec zagotoviti pravice po predpisih Republike Slovenije in po določbah kolektivne pogodbe na ravni dejavnosti, ki urejajo delovni čas, odmore in počitke, nočno delo, minimalni letni dopust, plačo, varnost in zdravje pri delu, posebno varstvo delavcev in zagotavljanje enakopravnosti, če je to za delavca ugodneje.
-(3) V primeru začasnih začetnih del, ki so sestavni del pogodbe o dobavi blaga, ki ne trajajo več kot osem delovnih dni in jih opravljajo strokovni delavci dobavitelja, se ne uporablja določba prejšnjega odstavka v delu, ki se nanaša na minimalni letni dopust in plačo.
-(4) Določba drugega odstavka tega člena se ne uporablja v delu, ki se nanaša na plačo, če opravljanje začasnega dela napotenih delavcev ni daljše od enega meseca v posameznem koledarskem letu.
-(5) Določbe tretjega in četrtega odstavka tega člena se ne uporabljajo za dejavnosti, ki so registrirane v okviru gradbeništva.
-(6) Zavod za zaposlovanje spremlja in obvešča o pogojih zaposlovanja in dela delavcev, ki opravljajo delo v Republiki Sloveniji po prvem odstavku tega člena.
