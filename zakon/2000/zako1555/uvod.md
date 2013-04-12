@@ -2,4 +2,5 @@
 - Zakon o spremembah in dopolnitvah Zakona o preprečevanju dela in zaposlovanja na črno - ZPDZC-A (Uradni list RS, št. 118/06 z dne 17. 11. 2006),
 - Zakon o preprečevanju dela in zaposlovanja na črno - uradno prečiščeno besedilo -ZPDZC- UPB1 (Uradni list RS, št. 12/07 z dne 12. 2. 2007),
 - Zakon o dopolnitvi Zakona o preprečevanju dela in zaposlovanja na črno - ZPDZC-B (Uradni list RS, št. 29/10 z dne 9. 4. 2010)
-- Zakon o spremembi in dopolnitvah Zakona o preprečevanju dela in zaposlovanja na črno - ZPDZC-C (Uradni list RS, št. 57/12 z dne 27. 7. 2012).
+- Zakon o spremembi in dopolnitvah Zakona o preprečevanju dela in zaposlovanja na črno - ZPDZC-C (Uradni list RS, št. 57/12 z dne 27. 7. 2012),
+- Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela - ZUTD-A (Uradni list RS, št. 21/13 z dne 13. 3. 2013).
