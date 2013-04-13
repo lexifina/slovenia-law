@@ -1,0 +1,3 @@
+# 5. člen
+Postopki, začeti na podlagi Zakona o dedovanju kmetijskih gospodarstev (Uradni list RS, št. 70/95 in 54/99 - odločba US), se končajo v skladu s tem zakonom.
+Upravne enote morajo v petih letih od uveljavitve tega zakona po uradni dolžnosti preveriti, ali kmetije, ki so bile določene kot zaščitene kmetije v skladu z Zakonom o dedovanju kmetijskih gospodarstev (Uradni list RS, št. 70/95 in 54/99 - odločba US), izpolnjujejo pogoje iz 1. člena tega zakona in o tem v upravnem postopku izdati ustrezno odločbo. Pri tem se prednostno preverijo tiste kmetije, ki so predmet zapuščinskega postopka ali pravnega prometa med živimi.
