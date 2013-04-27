@@ -6,7 +6,7 @@
 (5) Tržni inšpektor pri nadzoru nad dajalcem kredita z odločbo prepove sklepanje kreditnih pogodb po tem zakonu, če ugotovi, da dajalec kredita v nasprotju s tem zakonom odobrava kredite brez dovoljenja (29. člen).
 (6) Tržni inšpektor pri nadzoru nad dajalcem kredita z odločbo prepove sklepanje kreditnih pogodb po tem zakonu do odprave pomanjkljivosti, če ugotovi, da:
 1. dajalec kredita potrošniku pred sklenitvijo kreditne pogodbe ni zagotovil predhodnih informacij v skladu s 6. členom tega zakona;
-2. je dajalec kredita ocenil kreditno sposobnost potrošnika na podlagi osebnih podatkov, ki jih je pridobil drugače, kot določa ta zakon (8. in 9. člen);
+2. je dajalec kredita ocenil kreditno sposobnost potrošnika na podlagi osebnih podatkov, ki jih je pridobil drugače, kakor določa ta zakon (8. in 9. člen);
 3. kreditna pogodba ni sklenjena pisno na papirju ali drugem trajnem nosilcu podatkov (10. člen);
 4. potrošniška hipotekarna kreditna pogodba ni sklenjena v obliki notarskega zapisa (10. člen);
 5. kreditna pogodba ne vsebuje predpisanih informacij iz tretjega odstavka 10. člena in prvega odstavka 12. člena tega zakona;
@@ -15,13 +15,15 @@
 8. dajalec kredita ob razdoru kreditne pogodbe potrošniku ne vrne vseh plačanih zneskov v skladu s tretjim odstavkom 14. člena tega zakona;
 9. dajalec kredita ob odstopu od pogodbe potrošniku zaračuna nadomestilo v nasprotju s četrtim odstavkom 17. člena tega zakona;
 10. dajalec kredita ob predčasnem odplačilu kredita potrošniku zaračuna nadomestilo v nasprotju z 19. členom tega zakona.
-(7) Tržni inšpektor dajalcu kredita z odločbo prepove sklepanje kreditnih pogodb po tem zakonu in ministrstvu da predlog za odvzem dovoljenja, če ugotovi, da:
+(7) Tržni inšpektor dajalcu kredita z odločbo prepove sklepanje kreditnih pogodb po tem zakonu in ministrstvu predlaga odvzem dovoljenja, če ugotovi, da:
 1. dajalec kredita ni ocenil potrošnikove kreditne sposobnosti (8. člen);
-2. dajalec kredita ob sklenitvi kreditne pogodbe od potrošnika zahteva izdajo ali sprejem bianko menice ali čeka ali drugega plačilnega instrumenta, ki ima po svoji naravi podobne učinke (21. člen);
+2. dajalec kredita ob sklenitvi kreditne pogodbe od potrošnika zahteva izdajo ali sprejem bianco menice ali čeka ali drugega plačilnega instrumenta s podobnimi učinki (21. člen);
 3. dajalec kredita izračunava efektivno obrestno mero ali skupne stroške kredita v nasprotju z 22. in 23. členom tega zakona;
-4. s kreditno pogodbo dogovorjena efektivna obrestna mera presega najvišjo dopustno efektivno obrestno mero, kot to določa 24. člen tega zakona;
+4. s kreditno pogodbo dogovorjena efektivna obrestna mera presega najvišjo dopustno efektivno obrestno mero, kakor to določa 24. člen tega zakona;
 5. kreditna pogodba vsebuje pogodbeno določilo, ki je v nasprotju s tem zakonom in v škodo potrošnika (27. člen);
-6. se dajalec kredita poskuša izogibati določbam zakona, kot je to opredeljeno v 28. členu tega zakona;
+6. se dajalec kredita poskuša izogibati določbam zakona, kakor je to opredeljeno v 28. členu tega zakona;
 7. dajalec kredita inšpektorju ne predloži sklenjenih kreditnih pogodb v skladu z drugim odstavkom tega člena.
-(8) Če tržni inšpektor več kot enkrat med veljavnostjo dovoljenja pri istem dajalcu kredita ugotovi pomanjkljivost iz šestega odstavka tega člena, dajalcu kreditov z odločbo prepove sklepanje kreditnih pogodb po tem zakonu in ministrstvu da predlog za odvzem dovoljenja za opravljanje dejavnosti storitev potrošniškega kreditiranja.
-(9) Tržni inšpektor kreditnemu posredniku z odločbo prepove posredovanje potrošniških kreditov do odprave pomanjkljivosti, če ugotovi, da kreditni posrednik ne izpolnjuje pogojev za kreditno posredovanje iz 26. člena tega zakona.
+(8) Če tržni inšpektor več kakor enkrat med veljavnostjo dovoljenja pri istem dajalcu kredita ugotovi pomanjkljivost iz šestega odstavka tega člena, dajalcu kreditov z odločbo prepove sklepanje kreditnih pogodb po tem zakonu in ministrstvu predlaga odvzem dovoljenja za opravljanje dejavnosti storitev potrošniškega kreditiranja.
+(9) Tržni inšpektor kreditnemu posredniku z odločbo prepove posredovanje potrošniških kreditov do odprave pomanjkljivosti, če ugotovi:
+1. da kreditni posrednik potrošniku pred sklenitvijo pogodbe ni zagotovil predhodnih informacij v skladu s 6. členom tega zakona;
+2. da ne izpolnjuje pogojev za kreditno posredovanje iz 26. člena tega zakona.

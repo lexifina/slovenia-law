@@ -11,6 +11,7 @@ V tem zakonu uporabljeni izrazi pomenijo:
 9. potrošnik je fizična oseba, ki deluje za namene izven svoje poklicne ali pridobitne dejavnosti;
 10. potrošniška kreditna pogodba (v nadaljnjem besedilu: kreditna pogodba) je pogodba, s katero dajalec kredita potrošniku da ali obljubi, da mu bo dal kredit v obliki odloga plačila, posojila ali drugega podobnega finančnega dogovora;
 11. potrošniška hipotekarna kreditna pogodba je pogodba, s katero dajalec kredita potrošniku da ali obljubi, da mu bo dal kredit, katerega vračilo je zavarovano s hipoteko ali zemljiškim dolgom na nepremičnini;
+11.a odprta kreditna pogodba je kreditna pogodba, ki je sklenjena za nedoločen čas in vključuje kredite, ki jih je treba odplačati v celoti v določenem roku ali po njem, in so po odplačilu spet na voljo za črpanje;
 12. povezana kreditna pogodba je kreditna pogodba, namenjena financiranju pogodbe o prodaji določenega blaga ali opravljanju določene storitve, pri čemer ti dve pogodbi sestavljata komercialno enoto.
 Šteje se, da komercialna enota obstaja, kadar:
 - ponudnik ali ponudnica (v nadaljnjem besedilu: ponudnik) blaga ali storitve sam financira kredit v korist potrošnika, ali
