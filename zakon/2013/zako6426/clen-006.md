@@ -1,0 +1,3 @@
+# 6. člen
+Naslov II. poglavja se spremeni tako, da se glasi:
+"II. OBRTNE DEJAVNOSTI, ZA OPRAVLJANJE KATERIH JE POTREBNA USTREZNA POKLICNA USPOSOBLJENOST".

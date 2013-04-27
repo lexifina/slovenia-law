@@ -1,0 +1,12 @@
+# 15. člen
+V drugem odstavku 34. člena se peta alinea spremeni tako, da se glasi:
+"- izdajanje potrdil fizični ali pravni osebi, da je zakonito ustanovljena v Republiki Sloveniji z namenom opravljanja obrtne dejavnosti in da ji v trenutku izdaje potrdila ni začasno ali trajno prepovedano izvajanje te dejavnosti (v nadaljevanju: potrdilo o zakonitem opravljanju obrtne dejavnosti v Republiki Sloveniji),".
+Dodata se novi šesta in sedma alinea, ki se glasita:
+"- postopek priznavanja poklicnih kvalifikacij državljanom in državljankam (v nadaljnjem besedilu: državljan) države članice Evropske unije, Evropskega gospodarskega prostora, Švicarske konfederacije in države, s katero je sklenjen ustrezen mednarodni sporazum (v nadaljnjem besedilu: država pogodbenica), državljanom tretje države, ki so pridobili poklicne kvalifikacije v državi članici Evropske unije, Evropskem gospodarskem prostoru, v Švicarski konfederaciji in državljanom tretjih držav, v skladu z drugim odstavkom 2. člena Zakona o postopku priznavanja poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije za opravljanje reguliranih poklicev oziroma dejavnosti v Republiki Sloveniji (Uradni list RS, št. 21/02, 92/07, 85/09 in 55/12) (v nadaljnjem besedilu: upravičeni državljan tretje države),
+- prijavo čezmejnega občasnega (v nadaljevanju: občasnega) opravljanja obrtnih dejavnosti za fizične in pravne osebe iz države članice Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije.".
+Za drugim odstavkom se dodata nova tretji in četrti odstavek, ki se glasita:
+"(3) Javna pooblastila iz pete, šeste ali sedme alineje lahko minister, pristojen za obrt, na podlagi javnega razpisa podeli tudi reprezentativni gospodarski zbornici za njene člane, ki pridobi s tem status pristojnega organa z vsemi pravicami in dolžnostmi, ki jih ima Obrtno-podjetniška zbornica Slovenije v zvezi s temi javnimi pooblastili, pod pogojem, da:
+- deluje najmanj dve leti pred vložitvijo vloge za pridobitev javnega pooblastila,
+- ima usposobljen kader,
+- izkaže reference o usposobljenosti za izvajanje upravnih nalog na področju, ki je predmet podelitve teh javnih pooblastil.
+(4) Pri morebitnem izvajanju javnih pooblastil iz pete in sedme alineje reprezentativna gospodarska zbornica sodeluje z Obrtno-podjetniško zbornico Slovenije glede vprašanj, ki so povezana z vpisom v obrtni register, proti ustreznemu nadomestilu stroškov, določenim v soglasju z ministrom, pristojnim za obrt.".
