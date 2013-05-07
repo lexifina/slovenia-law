@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o prevozih v cestnem prometu (Uradni list RS, št. 131/06, 5/07 - popr. 123/08, 28/10, 49/11, 40/12 - ZUJF in 57/12) se v osmem odstavku 17. člena, petem odstavku 31. člena, četrtem odstavku 32. člena, prvem odstavku 78. člena, 106. členu, prvem in drugem odstavku 117. člena, prvem odstavku 118. člena, drugem odstavku 122. člena in prvem odstavku 123. člena, besedi "prometni inšpektorat" v vseh sklonih nadomestita z besedilom "inšpektorat, pristojen za področje prometa" v ustreznem sklonu.
