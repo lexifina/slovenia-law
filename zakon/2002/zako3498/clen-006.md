@@ -3,4 +3,5 @@ Oblike državnih pomoči po tem zakonu so:
 - krediti,
 - subvencije,
 - subvencije obrestnih mer,
-- poroštva.
+- poroštva,
+- kapitalske naložbe.

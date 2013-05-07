@@ -5,4 +5,4 @@ Državna pomoč se po tem zakonu lahko dodeli za naslednje namene:
 Državne pomoči se dodeljujejo v skladu z načeli racionalnosti, transparentnosti in nujnosti.
 Cilj državnih pomoči po tem zakonu je zagotoviti delovanje družbe, ki ima ohranjene vitalne funkcije in zagotovljen trg.
 Državna pomoč ni namenjena za financiranje novih investicij, ki niso bistvenega pomena za obnovo sposobnosti družbe za preživetje.
-Gospodarska družba v težavah po tem zakonu, v kateri kapitalski delež Republike Slovenije presega 25%, ne more prejeti državnih poroštev in posojil.
+Gospodarska družba v težavah po tem zakonu, v kateri kapitalski delež Republike Slovenije presega 25%, ne more prejeti državnih poroštev in posojil. (črtan)

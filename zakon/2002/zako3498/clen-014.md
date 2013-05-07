@@ -3,4 +3,4 @@
 Kredit se lahko črpa le v obdobju izvajanja programa prestrukturiranja pod naslednjimi pogoji:
 - moratorij na odplačilo kredita znaša največ dve leti,
 - za zavarovanje kredita da družba ustrezne instrumente zavarovanja.
-Višino obrestne mere za kredit določi vlada.
+Višino obrestne mere za kredit določi vlada. (črtan)
