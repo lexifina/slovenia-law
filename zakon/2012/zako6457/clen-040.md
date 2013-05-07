@@ -1,3 +1,0 @@
-# 40. člen (predlog kandidatov za nadzorni svet in mandat prvih članov nadzornega sveta)
-(1) Predlagatelji iz 21. člena tega zakona predlagajo državnemu zboru kandidate za člane nadzornega sveta najkasneje v enem mesecu od uveljavitve tega zakona.
-(2) Ne glede na četrti odstavek 21. člena tega zakona po 30 mesecih od njihove izvolitve štirim članom nadzornega sveta po sistemu žreba preneha mandat, namesto njih pa se izvolijo novi člani nadzornega sveta za polni mandat, in sicer na predlog predlagateljev iz 21. člena tega zakona, ki so predlagali člane nadzornega sveta, ki jim je skladno s tem členom prenehal mandat.
