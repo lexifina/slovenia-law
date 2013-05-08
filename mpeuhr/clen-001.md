@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificira se Pogodba med Kraljevino Belgijo, Republiko Bolgarijo, Češko republiko, Kraljevino Dansko, Zvezno republiko Nemčijo, Republiko Estonijo, Irsko, Helensko republiko, Kraljevino Španijo, Francosko republiko, Italijansko republiko, Republiko Ciper, Republiko Latvijo, Republiko Litvo, Velikim vojvodstvom Luksemburg, Republiko Madžarsko, Republiko Malto, Kraljevino Nizozemsko, Republiko Avstrijo, Republiko Poljsko, Portugalsko republiko, Romunijo, Republiko Slovenijo, Slovaško republiko, Republiko Finsko, Kraljevino Švedsko, Združenim kraljestvom Velika Britanija in Severna Irska (državami članicami Evropske unije) ter Republiko Hrvaško o pristopu Republike Hrvaške k Evropski uniji s Sklepno listino, podpisana 9. decembra 2011 v Bruslju.
