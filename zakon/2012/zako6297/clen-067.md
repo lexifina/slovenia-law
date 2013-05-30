@@ -1,2 +1,0 @@
-# 67. člen (financiranje Javne agencije Republike Slovenije za varstvo konkurence)
-Do spremembe Zakona o preprečevanju omejevanja konkurence (Uradni list RS, št. 36/08, 40/09, 26/11, 87/11 in 57/12) v delu, ki ureja financiranje Javne agencije Republike Slovenije za varstvo konkurence (v nadaljnjem besedilu: agencija), se agencija financira na način, kot je z javnofinančnimi predpisi določen za financiranje organov v sestavi ministrstev.
