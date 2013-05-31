@@ -1,11 +1,19 @@
 # 90. člen (zakonodajni referendum)
 
-Državni zbor lahko o vprašanjih, ki se urejajo z zakonom, razpiše referendum. Državni zbor je vezan na izid referenduma.
+Državni zbor razpiše referendum o uveljavitvi zakona, ki ga je sprejel, če to zahteva najmanj štirideset tisoč volivcev.
 
-Državni zbor lahko razpiše referendum iz prejšnjega odstavka na svojo pobudo, mora pa ga razpisati, če to zahteva najmanj tretjina poslancev, državni svet ali štirideset tisoč volilcev.
+Referenduma ni dopustno razpisati:
+
+- o zakonih o nujnih ukrepih za zagotovitev obrambe države, varnosti ali odprave posledic naravnih nesreč,
+
+- o zakonih o davkih, carinah in drugih obveznih dajatvah ter o zakonu, ki se sprejema za izvrševanje državnega proračuna,
+
+- o zakonih o ratifikaciji mednarodnih pogodb,
+
+- o zakonih, ki odpravljajo protiustavnost na področju človekovih pravic in temeljnih svoboščin ali drugo protiustavnost.
 
 Pravico glasovanja na referendumu imajo vsi državljani, ki imajo volilno pravico.
 
-Predlog je na referendumu sprejet, če zanj glasuje večina volilcev, ki so glasovali.
+Zakon je na referendumu zavrnjen, če proti njemu glasuje večina volivcev, ki so veljavno glasovali, pod pogojem, da proti zakonu glasuje najmanj petina vseh volivcev.
 
 Referendum se ureja z zakonom, ki ga sprejme državni zbor z dvotretjinsko večino glasov navzočih poslancev.

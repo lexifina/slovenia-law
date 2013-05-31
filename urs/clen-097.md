@@ -8,7 +8,7 @@ Državni svet lahko:
 
 - zahteva, da državni zbor pred razglasitvijo kakega zakona o njem še enkrat odloča;
 
-- zahteva razpis referenduma iz drugega odstavka 90. člena;
+- (črtana);
 
 - zahteva preiskavo o zadevah javnega pomena iz 93. člena.
 
