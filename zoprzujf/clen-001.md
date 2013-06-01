@@ -1,0 +1,3 @@
+# 1. člen
+
+S tem zakonom se z namenom, da se zagotovi enaka obravnava vseh uživalcev ali uživalk (v nadaljnjem besedilu: uživalci) pokojnin, usklajenih po določbah drugega, tretjega in četrtega odstavka 143. člena Zakona za uravnoteženje javnih financ (Uradni list RS, št. 40/12, 96/12 – ZPIZ-2, 104/12 – ZIPRS1314 in 105/12; v nadaljnjem besedilu: ZUJF), ki jih je Ustavno sodišče Republike Slovenije z odločbo U-I-186/12-34 (Uradni list RS, št. 25/13; v nadaljnjem besedilu: odločba Ustavnega sodišča) razveljavilo, določa način odprave posledic razveljavitve navedenih določb uživalcem tako usklajenih pokojnin na podlagi pravnomočnih odločb od uveljavitve ZUJF ter roke in način poračuna razlike vsem uživalcem pokojnin, usklajenih po razveljavljenih določbah ZUJF.
