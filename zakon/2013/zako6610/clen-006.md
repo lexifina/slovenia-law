@@ -1,0 +1,5 @@
+# 6. člen
+37. člen se spremeni tako, da se glasi:
+"37. člen
+(ministrstvo za pravosodje)
+Ministrstvo za pravosodje opravlja naloge na področjih organizacije in statusa sodišč, državnega tožilstva, državnega pravobranilstva in ustavnega sodišča, nadzora nad poslovanjem državnega tožilstva in državnega pravobranilstva ter druge vrste z zakonom določenih pravosodnih nadzorov, civilnega in kaznovalnega prava, sodnih postopkov, alternativnega reševanja sporov, pravosodne uprave, odvetništva, notariata, izvrševanja kazenskih sankcij, varstva osebnih podatkov, mednarodne pravne pomoči in mednarodnega pravosodnega sodelovanja v civilnih in kazenskih zadevah, e-pravosodja, sistemskega urejanja gospodarskih javnih služb ter naloge na področju sistemskega urejanja ravnanja s stvarnim premoženjem države in lokalnih skupnosti, načrtovanja in koordiniranja prostorskih potreb pravosodnih organov in organov državne uprave, vodenja investicij za potrebe dveh ali več organov državne uprave oziroma za potrebe posameznega organa državne uprave na podlagi pooblastila in druge naloge na področju ravnanja s stvarnim premoženjem v skladu z zakonom ali aktom vlade.".

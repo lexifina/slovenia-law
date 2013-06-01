@@ -1,0 +1,3 @@
+# 17. člen
+Uporabniki proračuna do ureditve v zakonu, ki ureja povračila stroškov v zvezi z delom in druge prejemke zaposlenih v javnem sektorju, podatke o višini izplačanih sredstev za regres za prehrano, nadomestilo za ločeno življenje, povračilo stroškov prevoza na delo in z dela, regres za letni dopust, jubilejno nagrado, solidarnostno pomoč, odpravnino ob upokojitvi in terenski dodatek brezplačno posredujejo Agenciji Republike Slovenije za javno pravne evidence in storitve v skladu s tem zakonom in metodologijo, ki jo predpiše minister, pristojen za sistem plač v javnem sektorju.
+Podatki iz prejšnjega odstavka so javnosti dostopni po vrstah povračil stroškov in drugih prejemkov za posameznega proračunskega uporabnika.
