@@ -1,0 +1,3 @@
+# 28. člen
+Za imetnike vozniških dovoljenj, ki so že zamenjali vozniška dovoljenja v skladu z določbo 87. člena Zakona o voznikih (Uradni list RS, št. 109/2010), se v vse odločbe, javne listine in evidence, za katere je z zakonom ali drugim predpisom določeno, da se v zvezi s postopkom o prekršku vpisuje številka njihovega vozniškega dovoljenja, navedba organa, ki je izdal vozniško dovoljenje ter datuma izdaje vozniškega dovoljenja, do uskladitve teh predpisov z zakonom, ki ureja voznike, namesto navedenih podatkov vpisuje številka vpisa vozniškega dovoljenja v evidenco o vozniških dovoljenjih, ki jo vodi ministrstvo, pristojno za promet.
+Odmera sodne takse

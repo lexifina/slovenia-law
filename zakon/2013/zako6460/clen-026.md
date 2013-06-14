@@ -1,0 +1,3 @@
+# 26. člen
+V 214. členu se za šestim odstavkom doda nov sedmi odstavek, ki se glasi:
+"(7) Za odločanje o prekrških, ki so bili storjeni z motornim vozilom, ki je registrirano v drugi državi članici Evropske unije in ni mogoče ugotoviti, kdo je storilec prekrška, pridobiti njegovo izjavo o prekršku oziroma storilcu odločbo o prekršku ni bilo mogoče izdati in vročiti na kraju storitve prekrška, lastnik, imetnik ali drugače identificirana oseba, za katero obstaja sum, da je storilec prekrška, pa nima stalnega ali začasnega prebivališča na ozemlju Republike Slovenije (48.b člen), je na prvi stopnji izključno pristojno Okrajno sodišče v Celju.".

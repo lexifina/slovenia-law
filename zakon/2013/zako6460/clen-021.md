@@ -1,0 +1,4 @@
+# 21. člen
+V sedmem odstavku 201. člena se drugi stavek spremeni tako, da se glasi: "Sklep o začasnem odvzemu vrednostnih papirjev ali premičnin iz petega odstavka tega člena izvrši pristojni davčni organ po določbah zakona, ki ureja davčno izvršbo, če ni s posebnim zakonom drugače določeno."
+Na koncu osmega odstavka se doda nov stavek, ki se glasi: "Prodajo začasno odvzetih vrednostnih papirjev ali drugih predmetov opravi pristojni davčni organ po določbah zakona, ki ureja davčno izvršbo, na podlagi predhodnega obvestila pristojnega organa, da so podani pogoji za izvršitev odločbe iz začasno odvzetih vrednostnih papirjev ali drugih predmetov.".
+Na koncu devetega odstavka se doda nov stavek, ki se glasi: "Za hrambo in upravljanje z začasno odvzetimi vrednostnimi papirji in drugimi predmeti iz petega odstavka tega člena, ki jih upravlja davčni organ, se smiselno uporabljajo določbe zakona, ki ureja davčni postopek.".

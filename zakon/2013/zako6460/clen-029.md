@@ -1,0 +1,4 @@
+# 29. člen
+Ne glede na določbe Zakona o sodnih taksah (Uradni list RS, št. 37/08 in 97/10, v nadaljevanju: ZST-1) se do začetka uporabe sprememb zakona, ki ureja sodne takse, ki se nanašajo na odmero sodnih taks v postopku o prekrških, sodne takse za redni sodni postopek o prekrških na vseh stopnjah odmerjajo glede na izrečeno ali odpuščeno sankcijo za prekršek.
+Ne glede na določbe ZST-1 se do začetka uporabe sprememb zakona, ki ureja sodne takse, ki se nanašajo na odmero sodnih taks v postopku o prekrških, sodne takse v postopku o prekrških namesto s plačilnim nalogom po 34. členu ZST-1 odmerjajo z odločbo, s katero se odloči v postopku, za katerega se odmerja sodna taksa. Odločbi, s katero se odloči v postopku, za katerega se odmerja sodna taksa, se priloži poziv za njeno plačilo, ki mora vsebovati vse sestavine iz plačilnega naloga po 34. členu ZST-1.
+Dokončanje postopkov o prekrških
