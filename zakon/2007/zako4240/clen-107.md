@@ -1,14 +1,15 @@
 # 107. člen (prekrški)
 (1) Z globo od 2.000 do 20.000 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, če:
 1. kot priglašeni organ najmanj enkrat letno javno ne objavi informacij, določenih v petem odstavku 20. člena;
-2. varnostnemu organu pravočasno ne predloži letnega varnostnega poročila za prejšnje koledarsko leto (drugi odstavek 24. člen);
+1.a kot imenovani organ najmanj enkrat letno javno ne objavi informacij, določenih v petem odstavku 20.a člena tega zakona;
+2. varnostnemu organu pravočasno ne predloži letnega varnostnega poročila za prejšnje koledarsko leto (tretji odstavek 24. člen);
 3. ne vodi evidence o vlakovnem osebju, sestavi, zaviranju in gibanju ter dogodkih, ki vplivajo ali bi lahko vplivali na vozni red vlaka ali varnost železniškega prometa (65. člen);
 4. ogreva in osvetljuje vlak v nasprotju s predpisom iz drugega odstavka 66. člena;
 5. na običajen način javno ne objavi voznega reda najmanj 15 dni pred začetkom njegove veljavnosti ali se ne ravna po voznem redu (67. člen);
 6. vlečnih vozil, razen parnih lokomotiv, ne opremi s predpisanimi napravami (71. člen);
 7. potniškega vagona ne opremi s predpisano opremo (72. člen);
-8. ne poskrbi za izredno preverjanje strokovne usposobljenosti v primerih, ki jih določa peti odstavek 74. člena;
-9. dovoli opravljanje del izvršilnemu železniškemu delavcu, ki ni uspešno opravil preverjanja strokovne usposobljenosti ali čigar strokovna usposobljenost ni preverjena (šesti odstavek 74. člena);
+8. ne poskrbi za izredno preverjanje strokovne usposobljenosti v primerih, ki jih določa deseti odstavek 74. člena;
+9. dovoli opravljanje del izvršilnemu železniškemu delavcu, ki ni uspešno opravil preverjanja strokovne usposobljenosti ali čigar strokovna usposobljenost ni preverjena (enajsti odstavek 74. člena);
 10. delodajalec ne preverja veljavnosti potrdil, dovoljenj in spričeval ali ne vodi ali stalno ne ažurira registra izdanih spričeval (šesti in sedmi odstavek 75.a člena);
 11. ne napoti izvršilnih železniških delavcev na redne zdravstvene preglede v predpisanih rokih (78. člen);
 12. ne napoti na izredni zdravstveni pregled izvršilnega železniškega delavca, pa so podani razlogi iz prvega odstavka 79. člena tega zakona;

@@ -2,8 +2,10 @@
 # 18. člen (nacionalni register tirnih vozil)
 (1) Nacionalni register tirnih vozil Republike Slovenije vodi varnostni organ. V register se na vlogo imetnika tirnega vozila vpišejo tirna vozila, ki niso vpisana v enega izmed nacionalnih registrov tirnih vozil v drugi državi članici Evropske unije in je zanje izdano obratovalno dovoljenje.
 (2) V register tirnih vozil se vpišejo tirna vozila, za katera je varnostni organ izdal evropsko številko tirnega vozila (v nadaljnjem besedilu: EVN). V primeru tirnih vozil, ki obratujejo ali nameravajo obratovati iz ali v državo, ki ni članica Evropske unije in ima tirno širino, drugačno od glavnega omrežja znotraj Evropske unije, se lahko določi drugo jasno prepoznavno številko na podlagi drugačnega sistema šifrskih oznak. Prosilec za prvo dovoljenje za obratovanje mora tirno vozilo označiti z EVN oziroma drugo številko, ki mu je dodeljena.
-(3) Register tirnih vozil mora biti sestavljen na podlagi skupnih specifikacij, ki jih sprejme Evropska komisija na predlog Evropske železniške agencije, in mora vsebovati vsaj naslednje podatke:
+(3) Register tirnih vozil mora biti sestavljen na podlagi specifikacij iz Sklepa Komisije z dne 10. februarja 2011 o spremembi Odločbe 2007/756/ES o sprejetju skupne specifikacije nacionalnega registra vozil (UL L št. 43 z dne 17. 2. 2011) in mora vsebovati vsaj naslednje podatke:
 - podatke o EVN;
+- podatke o državi in nacionalnem varnostnem organu,
+- podatke o letu izdelave tirnega vozila;
 - podatke o ES-izjavi o verifikaciji;
 - podatke o izdajatelju ES-izjave o verifikaciji;
 - podatke o tipu tirnega vozila s sklicevanjem na Evropski register dovoljenih tipov tirnih vozil;
@@ -16,8 +18,3 @@
 (6) Register tirnih vozil mora biti ažuriran na način, določen s skupno specifikacijo, ki jo sprejme Evropska komisija. Dokler nacionalni registri tirnih vozil držav članic Evropske unije niso povezani, varnostni organ ažurira register s tistimi podatki, ki jih je v svoj register vnesla druga država članica in zadevajo Republiko Slovenijo.
 (7) Varnostni organ skrbi, da je register tirnih vozil povezan z Evropskim registrom dovoljenih tipov tirnih vozil v skladu s skupno specifikacijo, ki jo sprejme Evropska komisija.
 (8) Zaradi posodobitve Evropskega registra dovoljenih tipov tirnih vozil mora varnostni organ Evropsko železniško agencijo obvestiti o vsakem izdanem dovoljenju za nov tip tirnega vozila, njegovi spremembi, začasnem preklicu ali odvzemu.
-18.a člen
-(register železniške infrastrukture)
-(1) Železniška infrastruktura mora biti vpisana v register. Register železniške infrastrukture vodi upravljavec.
-(2) V registru železniške infrastrukture so navedene, v veljavnih TSI določene, glavne značilnosti vsakega podsistema ali dela podsistema (npr. osnovni parametri) in njihova soodvisnost z značilnostmi drugih podsistemov ali delov podsistemov.
-(3) Register železniške infrastrukture mora biti objavljen in ažuriran na način, določen s skupnimi specifikacijami, ki jih sprejme Evropska komisija.

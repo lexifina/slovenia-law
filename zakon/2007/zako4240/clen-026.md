@@ -7,7 +7,6 @@
 (6) Ministrstvo obvesti Evropsko komisijo o nacionalnih varnostnih predpisih:
 - povezanih z obstoječimi nacionalnimi varnostnimi cilji in varnostnimi metodami;
 - ki določajo zahteve za sisteme varnega upravljanja in za varnostno spričevalo prevoznikov v železniškem prometu;
-- ki določajo zahteve za odobritev začetka obratovanja in vzdrževanje novih in bistveno spremenjenih tirnih vozil, ki še niso zajeta v TSI, s tem da mora obvestilo vsebovati predpise za izmenjavo tirnih vozil med prevozniki v železniškem prometu, sisteme registracije in zahteve glede postopkov preskusov;
 - ki obsegajo skupne operativne predpise za železniška omrežja, ki še niso zajeta v TSI, vključno s pravili v zvezi s sistemom signalizacije in vodenja prometa;
 - ki določajo zahteve za dodatne notranje operativne predpise (predpise družbe), ki jih morajo uveljaviti upravljavec in prevozniki v železniškem prometu;
 - ki določajo zahteve za izvršilne železniške delavce, vključno z merili izbire, zdravstvenimi sposobnostmi in poklicnim usposabljanjem ter podeljevanjem spričeval, če še niso zajeti v TSI;

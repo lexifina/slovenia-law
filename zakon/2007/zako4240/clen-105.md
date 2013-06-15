@@ -2,9 +2,10 @@
 # 105. člen (prekrški)
 (1) Z globo od 4.000 do 30.000 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, če:
 1. gradi oziroma vzdržuje železniške podsisteme v nasprotju s TSI oziroma drugimi predpisi, ki se uporabljajo za gradnjo ali vzdrževanje železniških podsistemov (prvi odstavek 9. člena, 37., 37.a in 38. člen);
-2. vgrajuje proizvode v nasprotju s petim odstavkom 11. člena;
-3. ne pošlje opisa projekta oziroma revidiranega izvedbenega načrta varnostnemu organu (prvi in drugi odstavek 16.b člena);
-4. vključi v obratovanje železniški podsistem, ki nima izdanega uporabnega oziroma obratovalnega dovoljenja (prvi odstavek 16. člena);
+2. vgrajuje proizvode v nasprotju s petim, šestim in sedmim odstavkom 11. člena;
+3. ne pošlje opisa projekta oziroma izvedbenega načrta varnostnemu organu (četrti in peti odstavek 16. člena);
+3.a podsistem ali del podsistema vključi v obratovanje brez izjave o verifikaciji po nacionalnih predpisih (šesti odstavek 16. člena);
+4. vključi v obratovanje železniški podsistem, ki nima izdanega obratovalnega dovoljenja (prvi odstavek 16. člena);
 5. vključi v obratovanje tirno vozilo brez obratovalnega dovoljenja (prvi odstavek 17. člena);
 6. tirno vozilo nima dodatnega obratovalnega dovoljenja ali prvega obratovalnega dovoljenja za tirna vozila, ki niso skladna s TSI (prvi odstavek 17.b in 17.c člena);
 7. ne zagotovi sistema varnega upravljanja v skladu z 27. členom;
