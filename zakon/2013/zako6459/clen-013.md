@@ -1,0 +1,3 @@
+# 13. člen
+Drugi odstavek 149. člena se spremeni tako, da se glasi:
+"(2) Policija sme fotografirati tistega, za katerega so razlogi za sum, da je storil kaznivo dejanje in vzeti njegove prstne odtise. Če je to nujno, da se ugotovi njegova istovetnost, ali v drugih primerih, ko je to pomembno za uspešno izvedbo postopka, sme njegovo fotografijo tudi objaviti. Policija sme vzeti bris ustne sluznice tistemu, za katerega so razlogi za sum, da je storil kaznivo dejanje, za katero se storilec preganja po uradni dolžnosti, če je to neogibno potrebno za uresničitev namenov, navedenih v prvem odstavku 148. člena tega zakona.".

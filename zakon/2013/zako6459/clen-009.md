@@ -1,0 +1,3 @@
+# 9. člen
+Peti odstavek 143.a člena se spremeni tako, da se glasi:
+"(5) Izjemoma, če je to nujno zaradi učinkovitega ali takojšnjega zavarovanja pravic ali uveljavljanja obveznosti posameznikov ali pravnih oseb, ki prebivajo ali imajo sedež v drugih državah ali nameravajo delati ali delovati ali delajo ali delujejo v drugi državi ali za mednarodno organizacijo, ali za posameznike zaradi prehajanja državnih meja, lahko diplomatsko-konzularna predstavništva Republike Slovenije ali diplomatsko-konzularna predstavništva, ki zastopajo Republiko Slovenijo, pridobijo potrdilo s smiselno uporabo določb prejšnjih odstavkov tega člena. Če je glede na okoliščine zadeve nujno, se v potrdilu navede tudi določeno kaznivo dejanje.".

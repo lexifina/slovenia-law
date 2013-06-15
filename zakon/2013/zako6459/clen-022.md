@@ -1,0 +1,2 @@
+# 22. člen
+V četrtem odstavku 288. člena se tretji stavek spremeni tako, da se glasi: "Če gre za kaznivo dejanje, ki se preganja na predlog, se oškodovanca opozori, da lahko predlog za pregon umakne do konca glavne obravnave in da bo z umikom izgubil pravico, da vnovič poda predlog ter da bo v primeru, če ga umakne po začetku glavne obravnave, moral plačati stroške kazenskega postopka, razen če bo obdolženec izjavil, da jih bo plačal sam.".

@@ -1,0 +1,3 @@
+# 17. člen
+Sedmi odstavek 216. člena se spremeni tako, da se glasi:
+"(7) O vsaki hišni ali osebni preiskavi se napravi zapisnik, ki ga podpišejo tisti, pri katerem se opravi preiskava ali ki se preišče, njegov zastopnik, če je bil navzoč pri preiskavi, in tisti, katerih navzočnost je obvezna. Pri preiskavi se zasežejo samo tisti predmeti oziroma listine, ki so v zvezi z namenom preiskave v posameznem primeru. V zapisnik se vpišejo in v njem natančno opišejo predmeti oziroma listine, ki se zasežejo. Zapisnik se izda tistemu, pri katerem se opravi preiskava ali ki se preišče oziroma njegovemu zastopniku.".

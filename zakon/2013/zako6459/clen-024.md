@@ -1,0 +1,2 @@
+# 24. člen
+V drugem odstavku 319. člena se drugi stavek spremeni tako, da se glasi: "Če gre za kaznivo dejanje, ki se preganja na predlog, predsednik senata oškodovanca opozori, da lahko predlog za pregon umakne do konca glavne obravnave in da bo z umikom izgubil pravico, da vnovič poda predlog ter da bo v primeru, če ga umakne po predstavitvi obtožnice, moral plačati stroške kazenskega postopka, razen če bo obdolženec izjavil, da jih bo plačal sam.".
