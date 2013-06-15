@@ -1,0 +1,3 @@
+# 13. člen
+Prvi odstavek 17. člena se spremeni tako, da se glasi:
+"(1) Pred uporabo tirnega vozila na omrežju varnostni organ, ki je pristojen za to omrežje, dovoli začetek obratovanja tega vozila z izdajo prvega obratovalnega dovoljenja ali s priznanjem prvega obratovalnega dovoljenja, izdanega v eni od držav članic. V primerih, ko TSI vključujejo posebne primere, odprta vprašanja ali odstopanja od uporabe TSI v skladu z 9. členom tega zakona, povezana s tehnično združljivostjo tirnih vozil in omrežja, varnostni organ dovoli začetek obratovanja tega vozila na omrežju z izdajo dodatnega obratovalnega dovoljenja.".

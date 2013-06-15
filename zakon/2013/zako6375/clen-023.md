@@ -1,0 +1,13 @@
+# 23. člen
+Za 19. členom se dodata nova 19.a in 19.b člen, ki se glasita:
+"19.a člen
+(imenovani organ po nacionalnih predpisih)
+(1) Imenovani organ po nacionalnih predpisih je subjekt, ki je pooblaščen za izvedbo postopka verifikacije podsistemov ali delov podsistemov v skladu z nacionalnimi predpisi. Imenovani organ določi minister, če izpolnjuje pogoje iz tega člena ter je njegovo usposobljenost preveril varnostni organ.
+(2) Ministrstvo na podlagi postopka iz prejšnjega odstavka obvesti Evropsko komisijo o imenovanih organih po nacionalnih predpisih, ki so v Republiki Sloveniji pooblaščeni za izvajanje postopka verifikacije v skladu s 14.a členom tega zakona, pri čemer navede tudi področje pristojnosti vsakega imenovanega organa po nacionalnih predpisih. Smiselno enak postopek se uporablja, če organ ne izpolnjuje več pogojev za imenovanje.
+(3) Imenovani organ po nacionalnih predpisih, njegov direktor in osebje, odgovorno za opravljanje postopkov pregledovanja, ne smejo biti niti neposredno niti kot pooblaščeni zastopniki udeleženi pri projektiranju, izdelavi, gradnji, trženju, uporabi ali vzdrževanju komponent ali podsistemov. Dovoljena pa je izmenjava podatkov med vsemi subjekti, ki v postopku sodelujejo.
+(4) Imenovani organ po nacionalnih predpisih in osebje, ki je pristojno za preglede, morajo biti funkcionalno neodvisni od organov, pristojnih za izdajo dovoljenj za začetek obratovanja, od organov, pristojnih za izdajo licenc prevoznikom, od organov, pristojnih za izdajo varnostnih spričeval, in od organov, ki vodijo preiskavo v primeru nesreče. Osebje, ki opravlja preglede, mora biti neodvisno in ne sme biti plačano glede na količino opravljenih preverjanj in ne na podlagi rezultatov teh preverjanj.
+(5) Imenovani organ po nacionalnih predpisih mora izpolnjevati pogoje za opravljanje svoje dejavnosti, predvsem pa mora imeti zaposleno osebje in sredstva, ki se zahtevajo za ustrezno opravljanje tehničnih in administrativnih nalog, povezanih z vodenjem pregledov v skladu z nacionalnimi predpisi. Imenovani organ mora imeti tudi možnost uporabe opreme, potrebne za izredne preglede.
+(6) Osebje, pristojno za opravljanje nalog iz prejšnjega odstavka, mora izpolnjevati najmanj naslednje minimalne pogoje:
+- biti mora ustrezno strokovno in poklicno usposobljeno,
+- imeti mora zadovoljivo znanje o nacionalnih predpisih povezanih s pregledi, ki jih opravlja in imeti dovolj prakse na tem področju,
+- biti mora usposobljeno v skladu z zakonom, ki ureja splošni upravni postopek.

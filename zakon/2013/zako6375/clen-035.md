@@ -1,0 +1,6 @@
+# 35. člen
+Za tretjim odstavkom 49. člena se dodajo novi četrti, peti, šesti in sedmi odstavek, ki se glasijo:
+"(4) Obstoječa nivojska križanja proge s cesto, ki ne izpolnjujejo pogojev iz prvega, drugega in tretjega odstavka tega člena, morajo biti izvedena kot izvennivojska najkasneje ob naslednji nadgradnji železniškega podsistema infrastruktura na delu proge, na katerem je nivojski prehod.
+(5) Če nivojskega križanja iz prejšnjega odstavka zaradi prostorskih, okoljevarstvenih, tehničnih ali ekonomskih razlogov, varstva kulturne dediščine, posebno težkih terenskih razmer ali drugih posebej utemeljenih razlogov ni mogoče načrtovati, projektirati ali graditi v skladu s tem zakonom in na njegovi podlagi izdanimi podzakonskimi predpisi, lahko minister na predlog upravljavca odloči, da se gradnja izvennivojskega križanja opusti.
+(6) Vrstni red ureditev obstoječih nivojskih prehodov iz tega člena se določi glede na varnostne in tehnične kriterije in kazalnike. Upravljavec mora izdelati prednostni seznam nivojskih prehodov. Upravljavec javne železniške infrastrukture mora pri pripravi prednostnega seznama sodelovati z upravljavcem ceste.
+(7) Stroški za izvedbo izvennivojskih križanj iz tega člena bremenijo sredstva razvoja železniške in cestne infrastrukture v sorazmerju s potrebnim obsegom gradbenih posegov na eni ali drugi infrastrukturi.".

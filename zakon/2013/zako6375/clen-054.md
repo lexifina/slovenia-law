@@ -1,0 +1,2 @@
+# 54. člen
+Ne glede na določbo drugega odstavka 3. člena Zakona o spremembah in dopolnitvah Zakona o varnosti v železniškem prometu (Uradni list RS, št. 60/11) minister določi proge iz petega odstavka 71. člena zakona najkasneje v dveh letih po pridobitvi pisnega pozitivnega mnenja Evropske železniške agencije o skladnosti in ustreznosti te zahteve s tehničnimi specifikacijami za interoperabilnost, ki urejajo podsistem tirna vozila.

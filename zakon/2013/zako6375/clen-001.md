@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o varnosti v železniškem prometu (Uradni list RS, št. 36/10 - uradno prečiščeno besedilo in 60/11) se v tretjem odstavku 1. člena druga alineja spremeni tako, da se glasi:
+"- Direktive 2008/57/ES Evropskega parlamenta in Sveta z dne 17. junija 2008 o interoperabilnosti železniškega sistema v Skupnosti (prenovitev) (UL L št. 191 z dne 18. 7. 2008, str. 1), zadnjič spremenjeno z Direktivo Komisije 2013/9/EU z dne 11. marca 2013 o spremembi Priloge III k Direktivi 2008/57/ES Evropskega parlamenta in Sveta o interoperabilnosti železniškega sistema v Skupnosti (UL L št. 68 z dne 12. 3. 2013, str. 55, v nadaljnjem besedilu: Direktiva 2008/57/ES);".
