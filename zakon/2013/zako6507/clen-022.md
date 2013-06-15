@@ -1,0 +1,10 @@
+# 22. člen
+Za 119. členom se doda nov 119.a člen, ki se glasi:
+"119.a člen
+(razrešitev imenovanega upravitelja in imenovanje novega upravitelja na podlagi odločitve večine upnikov)
+(1) Če upravitelj po presoji upniškega odbora ne uživa več zaupanja upnikov, lahko upniški odbor kadarkoli po objavi sklepa o preizkusu terjatev z večino glasov vseh svojih članov brez obrazložitve zahteva glasovanje upnikov o razrešitvi imenovanega upravitelja. Upniški odbor mora hkrati z zahtevo za glasovanje o razrešitvi imenovanega upravitelja zahtevati glasovanje o imenovanju novega upravitelja. V zahtevi za imenovanje novega upravitelja lahko upniški odbor izbere katerokoli osebo, ki izpolnjuje pogoje za imenovanje iz 115. člena tega zakona.
+(2) Sodišče mora v treh delovnih dneh po prejemu zahteve upniškega odbora iz prvega odstavka tega člena objaviti poziv upnikom, da v 15 dneh po objavi poziva oddajo glasovnice za glasovanje o zahtevi upniškega odbora za razrešitev imenovanega upravitelja in imenovanje novega upravitelja.
+(3) O razrešitvi imenovanega upravitelja in imenovanju novega upravitelja ima pravico glasovati vsak upnik, katerega terjatev je v postopku zaradi insolventnosti priznana ali verjetno izkazana.
+(4) Odločitev o razrešitvi imenovanega upravitelja in imenovanju novega upravitelja je sprejeta, če zanjo glasujejo upniki, katerih skupni znesek terjatev iz 73. člena tega zakona presega polovico osnove za izračun deleža glasovalnih pravic iz 74. člena tega zakona.
+(5) Sodišče imenovanega upravitelja razreši in imenuje novega upravitelja, če je dosežena večina iz četrtega odstavka tega člena. Sklep o razrešitvi imenovanega upravitelja in imenovanju novega upravitelja se vroči upraviteljema.
+(6) S pritožbo proti sklepu iz petega odstavka tega člena je dovoljeno izpodbijati samo način izračunavanja večine in da je bila za upravitelja imenovana oseba, ki ne izpolnjuje pogojev za imenovanje iz 115. člena tega zakona. Pritožbo lahko vložita tudi razrešeni in novo imenovani upravitelj.".

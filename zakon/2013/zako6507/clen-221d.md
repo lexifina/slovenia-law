@@ -1,0 +1,4 @@
+# 221.d člen (odločanje o začetku postopka poenostavljene prisilne poravnave)
+(1) Predlogu za začetek postopka poenostavljene prisilne poravnave je treba poleg listin iz 1., 3. in 5. točke drugega odstavka 141. člena tega zakona priložiti izjavo dolžnika, da poročilo iz 1. točke drugega odstavka 141. člena tega zakona resnično in pošteno prikazuje njegov finančni položaj in poslovanje. Izjava mora biti sestavljena v obliki notarskega zapisa.
+(2) Če predlagatelj v roku iz prvega odstavka 147. člena tega zakona predloga za začetek postopka poenostavljene prisilne poravnave ne dopolni tako, kot mu je bilo naloženo s sklepom o dopolnitvi, sodišče v osmih dneh po poteku tega roka zavrže predlog za poenostavljeno prisilno poravnavo, ne da bi hkrati začelo stečajni postopek.
+(3) Sodišče hkrati z objavo sklepa o začetku postopka poenostavljene prisilne poravnave objavi tudi predlog za začetek postopka poenostavljene prisilne poravnave z vsemi prilogami.
