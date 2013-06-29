@@ -5,6 +5,6 @@
 2. pridobivanje podatkov o cenah, tehnologijah in intenzivnosti kmetijske in gozdarske pridelave, ki so potrebni za izračun katastrskega dohodka in pavšalne ocene dohodka na panj, skladno s 5. in 7. členom tega zakona;
 3. izdelava predlogov kalkulacij za ugotavljanje katastrskega dohodka in pavšalne ocene dohodka na panj ter izračun odstotka za zmanjšanje katastrskega dohodka za zemljišča znotraj območij posebnih režimov za kmetovanje;
 4. vzpostavitev, vodenje in vzdrževanje evidence kalkulacij;
-5. priprava predloga zneskov katastrskega dohodka na hektar kmetijskih in gozdnih zemljišč glede na proizvodno območje, vrsto dejanske rabe in boniteto zemljišča (v nadaljnjem besedilu: lestvice katastrskega dohodka) in pavšalne ocene dohodka na panj;
+5. priprava predloga zneskov katastrskega dohodka na hektar kmetijskih in gozdnih zemljišč glede na proizvodno območje, vrsto dejanske rabe in boniteto zemljišča oziroma rastiščni koeficient (v nadaljnjem besedilu: lestvice katastrskega dohodka) in pavšalne ocene dohodka na panj;
 6. pripisovanje katastrskega dohodka zemljiščem, kot so evidentirana v zemljiškem katastru;
 7. druge naloge, povezane z ugotavljanjem katastrskega dohodka in pavšalne ocene dohodka na panj.
