@@ -5,7 +5,7 @@ a) dokazilo, da je tirno vozilo v drugi državi članici Evropske unije pridobil
 b) izvod tehnične dokumentacije, določene v Prilogi III Direktive 2011/18/ES. Pri tirnih vozilih z zapisovalniki podatkov, katerih podatki niso usklajeni z ustrezno TSI, mora dokumentacija vsebovati tudi informacije o postopku zbiranja teh podatkov in omogočiti prebiranje ter ovrednotenje podatkov;
 c) evidenco, v kateri je prikazan dnevnik vzdrževanja vozila, in, na zahtevo varnostnega organa, tudi tehnične spremembe, ki so izvedene po pridobitvi dovoljenja;
 d) dokazilo o tehničnih in operativnih značilnostih, ki pokaže, da je tirno vozilo skladno s sistemom napajanja z energijo, sistemom signalizacije in upravljanja ter vodenja, tirno širino in nakladalnim profilom, največjo dovoljeno osno obremenitvijo ter drugimi zahtevami in omejitvami omrežja železniških prog;
-e) poročilo o varnostni oceni ocenjevalnega organa ali oceno tveganja v primeru, da je ocenjevalni organ varnostni organ, v skladu z Uredbo 352/2009/ES.
+e) poročilo o varnostni oceni ocenjevalnega organa ali oceno tveganja v primeru, da je ocenjevalni organ varnostni organ, v skladu z Uredbo 352/2009/E.
 (3) Varnostni organ lahko pri odločanju o vlogi preverja pogoje glede:
 - tehnične združljivosti tirnega vozila in omrežja, vključno z nacionalnimi predpisi, ki se uporabljajo za odprta vprašanja in ki so nujni za zagotovitev te skladnosti,
 - uporabe nacionalnih predpisov, ki se uporabljajo za posebne primere, ustrezno opredeljene v TSI.

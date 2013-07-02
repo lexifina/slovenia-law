@@ -4,7 +4,7 @@
 (2) V register tirnih vozil se vpišejo tirna vozila, za katera je varnostni organ izdal evropsko številko tirnega vozila (v nadaljnjem besedilu: EVN). V primeru tirnih vozil, ki obratujejo ali nameravajo obratovati iz ali v državo, ki ni članica Evropske unije in ima tirno širino, drugačno od glavnega omrežja znotraj Evropske unije, se lahko določi drugo jasno prepoznavno številko na podlagi drugačnega sistema šifrskih oznak. Prosilec za prvo dovoljenje za obratovanje mora tirno vozilo označiti z EVN oziroma drugo številko, ki mu je dodeljena.
 (3) Register tirnih vozil mora biti sestavljen na podlagi specifikacij iz Sklepa Komisije z dne 10. februarja 2011 o spremembi Odločbe 2007/756/ES o sprejetju skupne specifikacije nacionalnega registra vozil (UL L št. 43 z dne 17. 2. 2011) in mora vsebovati vsaj naslednje podatke:
 - podatke o EVN;
-- podatke o državi in nacionalnem varnostnem organu,
+- podatke o državi in nacionalnem varnostnem organu;
 - podatke o letu izdelave tirnega vozila;
 - podatke o ES-izjavi o verifikaciji;
 - podatke o izdajatelju ES-izjave o verifikaciji;

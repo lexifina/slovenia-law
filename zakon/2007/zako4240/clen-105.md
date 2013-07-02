@@ -13,5 +13,5 @@
 9. prometna mesta opremi z opremo in signali v nasprotju s 60. členom;
 10. s signali ne označi začasne nevarnosti ali če teh signalov ne odstrani takoj, ko ni več razlogov, zaradi katerih so bili postavljeni (61. člen);
 11. sestavi vlak in razporedi železniška vozila v vlaku tako, da nista zagotovljena učinkovito zaviranje in varna vožnja na določeni vlakovni poti ali če v vlak uvrsti vozilo, ki ne ustreza določbam zakona in na njegovi podlagi izdanih predpisov (62. člen);
-12. vlaka med vožnjo po progi ne zasede s predpisanim številom izvršilnih železniških delavcev, ki imajo ustrezno strokovno izobrazbo in so strokovno usposobljeni, odvisno od vrste, dolžine vlaka, vrste vlečnega vozila ter opremljenosti proge in železniških vozil s signalnovarnostnimi in telekomunikacijski napravami (64. člen);
+12. vlaka med vožnjo po progi ne zasede s predpisanim številom izvršilnih železniških delavcev, ki imajo ustrezno strokovno izobrazbo in so strokovno usposobljeni, odvisno od vrste, dolžine vlaka, vrste vlečnega vozila ter opremljenosti proge in železniških vozil s signalnovarnostnimi in telekomunikacijski napravami (64. člen).
 (2) Z globo od 600 do 1.500 eurov se kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika posameznika in posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
