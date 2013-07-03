@@ -1,2 +1,2 @@
 # 19. člen
-Natančnejše pogoje in postopke izdaje poroštev po tem zakonu in obliko ter vrsto zavarovanj določi vlada z uredbo.
+Natančnejše pogoje in postopke izdaje poroštev po tem zakonu določi vlada z uredbo.
