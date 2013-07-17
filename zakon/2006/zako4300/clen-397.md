@@ -31,7 +31,7 @@
 5. če ne sprejme pravil sistema iz 1. točke trinajstega odstavka 390.a člena tega zakona ali če jih začne uporabljati pred pridobitvijo soglasja Informacijskega pooblaščenca Republike Slovenije (štirinajsti odstavek 390.a člena).
 (14) Z globo od 2.500 do 12.000 eurov se za prekršek kaznuje odgovorna oseba upravljavca sistema, ki stori prekršek iz trinajstega odstavka tega člena.
 (15) Z globo od 500 do 4.000 eurov se za prekršek kaznuje posameznik, ki stori prekršek iz trinajstega odstavka tega člena.
-(16) Z globo od 12.000 do 120.000 eurov se za prekršek kaznuje pravna oseba iz prvega odstavka 88.a člena tega zakona, v kateri je banka pridobila kvalificirano naložbo, ki ne poroča Banki Slovenije v skladu s prvim odstavkom 88.e člena tega zakona.
+(16) Z globo od 12.000 do 120.000 eurov se za prekršek kaznuje pravna oseba iz prvega odstavka 88.a člena tega zakona, v kateri je banka pridobila kvalificirano naložbo, ki ne poroča Banki Slovenije v skladu s prvim odstavkom 88.d člena tega zakona.
 (17) Z globo od 2.500 do 12.000 eurov se za prekršek kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz šestnajstega odstavka tega člena.
 (18) Ne glede na 402. člena tega zakona je prekrškovni organ, ki odloča o prekrških iz desetega do petnajstega odstavka tega člena, Informacijski pooblaščenec Republike Slovenije.
 (19) Prekrškovni organ lahko za prekrške iz desetega do petnajstega odstavka tega člena izreče globo v znesku, višjem od najnižje mere za posamezni prekršek.

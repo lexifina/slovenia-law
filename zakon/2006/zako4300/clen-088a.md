@@ -1,6 +1,6 @@
 # 88.a člen (dovoljenje za kvalificirane naložbe)
 (1) Kvalificirana naložba po tem zakonu je naložba, na podlagi katere pridobi banka kvalificiran delež v:
-1. finančni instituciji s sedežem v Republiki Sloveniji ali drugi državi članici, ki opravlja storitve iz 2., 3., 6. do 8. in 10. do 12. točke 10. člena tega zakona ali
+1. finančni instituciji s sedežem v Republiki Sloveniji ali drugi državi članici, z izjemo finančnih institucij, pri katerih mora banka za pridobitev kvalificiranega deleža v teh osebah pridobiti dovoljenje nadzornega organa Republike Slovenije ali druge države članice, ali
 2. finančni družbi s sedežem v tretji državi.
 (2) Banka mora pred vsako pridobitvijo kvalificirane naložbe pridobiti dovoljenje Banke Slovenije (v nadaljnjem besedilu: dovoljenje za kvalificirano naložbo). Banka Slovenije banki izda dovoljenje za kvalificirano naložbo, če:
 1. je banka vzpostavila ustrezen sistem upravljanja s tveganji glede pridobitve in upravljanja kvalificirane naložbe in
