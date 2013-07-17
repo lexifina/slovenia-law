@@ -1,2 +1,0 @@
-ZAKON
-o štipendiranju (ZŠtip)

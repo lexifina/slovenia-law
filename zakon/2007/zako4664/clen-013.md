@@ -1,3 +1,0 @@
-## IV. POGOJI ZA PRIDOBITEV POSAMEZNIH VRST ŠTIPENDIJ, VIŠINA ŠTIPENDIJE IN DODATKI K ŠTIPENDIJI
-## 1. Državne štipendije
-# 13. člen (prenehal veljati)

@@ -1,2 +1,0 @@
-# 36. člen (posredno sofinanciranje kadrovskih štipendij)
-Do sredstev sklada za sofinanciranje kadrovskih štipendij so upravičeni nosilci regijskih štipendijskih shem ali samoupravne lokalne skupnosti, ki ta sredstva dodeljujejo v skladu s predpisi o spodbujanju skladnega regionalnega razvoja oziroma v skladu s predpisi o enotnem izvajanju regijskih štipendijskih shem nosilcev enotnih regijskih štipendijskih shem ali z akti samoupravnih lokalnih skupnosti.

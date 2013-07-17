@@ -1,4 +1,0 @@
-# 41. člen (javni razpisi)
-(1) Sklad v soglasju z ministrom, pristojnim za delo, objavi javni razpis za dodelitev sredstev za sofinanciranje kadrovskih štipendij neposredno delodajalcu in v soglasju z ministrom, pristojnim za delo, ter ministrom, pristojnim za regionalni razvoj, javni razpis za dodelitev sredstev za sofinanciranje kadrovskih štipendij v okviru enotnih regijskih štipendijskih shem.
-(2) Sklad se en mesec pred objavo javnih razpisov iz prejšnjega odstavka seznani s potrebami delodajalcev po kadrih, ki mu jih glede na razvojne in kadrovske potrebe sporočijo delodajalci oziroma nosilci regijskih štipendijskih shem ali samoupravne lokalne skupnosti na podlagi javnega poziva delodajalcem.
-(3) V javnem razpisu iz prvega odstavka tega člena se določijo pogoji za pridobitev sredstev, višina sredstev, zahtevana dokumentacija, roki za oddajo prijav ter drugi podatki, potrebni za odločanje.

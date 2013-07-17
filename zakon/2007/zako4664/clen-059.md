@@ -1,4 +1,0 @@
-# 59. člen (varstvo podatkov)
-(1) Za zbiranje, obdelovanje, shranjevanje, posredovanje in uporabo podatkov, vsebovanih v zbirkah podatkov, ter za varstvo informacijske zasebnosti posameznika se uporabljajo določbe zakona, ki ureja varstvo osebnih podatkov, če s tem zakonom za posamezne primere ni določeno drugače.
-(2) Podatki, ki so davčna tajnost, se zbirajo, obdelujejo, shranjujejo, posredujejo in uporabljajo tako, kot določa zakon, ki ureja davčni postopek.
-(3) Ministrstvo, pristojno za delo, sklad, pristojni centri za socialno delo, delodajalci, nosilci enotnih regijskih štipendijskih shem in samoupravne lokalne skupnosti lahko pridobljene podatke uporabijo samo za potrebe odločanja in za vodenje evidenc po tem zakonu, ministrstvo, pristojno za delo, pa tudi za izvrševanje nadzora, spremljanja stanja, analize ter znanstveno raziskovalne in statistične namene. (delno prenehal veljati)

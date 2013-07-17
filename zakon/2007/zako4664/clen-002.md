@@ -1,2 +1,0 @@
-# 2. člen (namen zakona)
-Štipendije in spodbude za izobraževanje so namenjene spodbujanju izobraževanja in doseganju višje izobrazbene ravni upravičencev, spodbujanju kadrovskega štipendiranja in spodbujanju sistema delovanja enotnih regijskih štipendijskih shem, ki temelji na partnerstvu med delodajalci, nosilci regijske štipendijske sheme in državo, ter predstavlja izjemen pomen za razvoj regij in občin v Sloveniji, odpravi strukturnega neskladja na trgu dela in večji zaposlenosti.
