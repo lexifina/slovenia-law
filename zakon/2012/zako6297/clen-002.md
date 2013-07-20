@@ -30,4 +30,6 @@
 27. "organ upravljanja" je neposredni uporabnik, ki je pristojen za opravljanje nalog upravljanja in izvajanja programov, sofinanciranih s sredstvi iz proračuna EU na področju kohezijske politike;
 28. "postavke slovenske udeležbe" so tiste, s katerimi se zagotavljajo pravice porabe za sofinanciranje programov skupnih evropskih politik, sofinanciranje programov predpristopnih in popristopnih pomoči, sredstev finančnih mehanizmov ter sofinanciranje programov donacij;
 29. "TARGET" je sistem za medbančni prenos sredstev v eurih v EU. Sistem prispeva k združevanju in stabilnosti euro finančnih trgov. Slovenske kreditne institucije pri poslovanju preko sistema TARGET upoštevajo urnik delovanja sistema TARGET;
-30. "postavke presežnih pravic porabe" so postavke na katerih se, do izpolnitve odložnega pogoja nadomestitve projekta oziroma najdlje do konca finančne perspektive 2007-2013, zagotavljajo presežne pravice porabe.
+30. "postavke presežnih pravic porabe" so postavke na katerih se, do izpolnitve odložnega pogoja nadomestitve projekta oziroma najdlje do konca finančne perspektive 2007-2013, zagotavljajo presežne pravice porabe;
+31. "obratna sredstva" so zaloge materiala, nedokončane proizvodnje, proizvodov in trgovskega blaga ter stroški dela;
+32. "investicija" je vsak izdatek finančnih sredstev za nabavo zemljišča, zgradbe, proizvajalne opreme ter ostalih opredmetenih osnovnih sredstev.

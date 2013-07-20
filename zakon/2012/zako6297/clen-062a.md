@@ -1,3 +1,3 @@
 # 62.a člen (nadomestilo plače funkcionarjem in javnim uslužbencem za čas odsotnosti z dela zaradi bolezni ali poškodbe, ki ni povezana z delom)
-(1) Funkcionarjem za čas odsotnosti z dela zaradi bolezni ali poškodbe, ki ni povezana z delom, pripada nadomestilo, ki bremeni delodajalca, v višini 80 % osnove. Osnova za izračun nadomestila je izplačana plača v preteklem mesecu za polni delovni čas.
+(1) Funkcionarjem za čas odsotnosti z dela zaradi bolezni ali poškodbe, ki ni povezana z delom, pripada nadomestilo, ki bremeni delodajalca, v višini 80 % osnove. Osnova za izračun nadomestila je plača v preteklem mesecu za polni delovni čas.
 (2) Nadomestilo plače v višini iz prejšnjega odstavka pripada tudi javnim uslužbencem, za katere je višina nadomestila plače za čas odsotnosti z dela zaradi bolezni ali poškodbe, ki ni povezana z delom, s kolektivno pogodbo ali s splošnim aktom, veljavnim na dan uveljavitve tega zakona, določena drugače.

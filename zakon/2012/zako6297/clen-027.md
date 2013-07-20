@@ -1,5 +1,5 @@
 # 27. člen (pogoji za izdajo soglasja)
-(1) Minister, pristojen za finance, izda soglasje iz 2. in 3. točke prvega odstavka 26. člena tega zakona, če:
+(1) Minister, pristojen za finance, izda soglasje iz četrtega odstavka 26. člena tega zakona, če:
 1. ima neposredni uporabnik v veljavnem proračunu zagotovljene pravice porabe za ta namen;
 2. je prejemnik predplačila izkazoval pozitivno poslovanje v preteklem letu;
 3. ima prejemnik sredstev poravnane davčne obveznosti;
