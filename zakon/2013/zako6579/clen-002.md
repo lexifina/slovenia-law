@@ -1,0 +1,2 @@
+# 2. člen
+V drugem odstavku 14. člena se za piko na koncu odstavka doda nov stavek, ki se glasi: "Če v skladu s petim odstavkom 5. člena tega zakona oseba, ki je vložila zahtevek za revizijo, naročnika predhodno ni opozorila na očitano kršitev, ali tega ni storil drug morebitni ponudnik, s čimer je bila oseba seznanjena preko portala javnih naročil ali bi lahko bila seznanjena, se šteje, da taka oseba ni izkazala interesa za dodelitev javnega naročila.".

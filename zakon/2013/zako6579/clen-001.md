@@ -1,0 +1,9 @@
+# 1. člen
+V Zakonu o pravnem varstvu v postopkih javnega naročanja (Uradni list RS, št. 43/11 in 60/11 - ZTP-D) se prvi odstavek 5. člena spremeni tako, da se glasi:
+"(1) Zahteva za pravno varstvo v postopkih javnega naročanja se lahko vloži v vseh stopnjah postopka oddaje javnega naročila zoper ravnanje naročnika, ki pomeni kršitev predpisov, ki bistveno vpliva ali bi lahko bistveno vplivala na oddajo javnega naročila, razen če zakon, ki ureja oddajo javnih naročil, ali ta zakon ne določa drugače. Za kršitev, ki bistveno vpliva ali bi lahko bistveno vplivala na oddajo javnega naročila, šteje zlasti:
+- odločitev, da se naročilo odda ponudniku, ki ni najugodnejši ali ne izpolnjuje obveznih pogojev iz razpisne dokumentacije ali povabila k oddaji ponudbe;
+- dopuščena sprememba tistih delov ponudbe, ki se nanašajo na tehnične specifikacije predmeta javnega naročila, cene ali elemente ponudbe, ki vplivajo ali bi lahko vplivali na drugačno razvrstitev ponudb;
+- oddaja naročila brez objave obvestila o naročilu na portalu javnih naročil, čeprav tega zakon ne dopušča;
+- rok za prejem prijav ali ponudb, ki zainteresiranim ponudnikom glede na zahtevnost razpisne dokumentacije onemogoča pripravo popolne ponudbe.".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"(5) Zahteva za pravno varstvo, ki se nanaša na vsebino objave, povabilo k oddaji ponudb ali razpisno dokumentacijo, ni dopustna, če bi lahko vlagatelj ali drug morebitni ponudnik preko portala javnih naročil naročnika opozoril na očitano kršitev, pa te možnosti ni uporabil. Šteje se, da bi vlagatelj ali drug morebitni ponudnik preko portala javnih naročil lahko opozoril na očitano kršitev, če je bilo v postopku javnega naročanja na portalu javnih naročil objavljeno obvestilo o naročilu, na podlagi katerega ponudniki oddajo ponudbe.".
