@@ -1,0 +1,7 @@
+# 6. člen
+Za 22. členom se doda nov 22.a člen, ki se glasi:
+"22.a člen
+(prepoved prenosa finančnih sredstev)
+(1) Pravna oseba, ki opravlja dejavnosti, povezane z upravljanjem železniške infrastrukture, ter dejavnosti, povezane s prevoznimi storitvami, mora zagotoviti izdelavo in objavljanje ločenih izkazov in bilanc stanja, na eni strani za poslovanje prevoznikov v železniškem prometu, ki je povezano z njihovimi prevoznimi storitvami, in na drugi strani za poslovanje, povezano z upravljanjem železniške infrastrukture. Javna finančna sredstva, ki so dodeljena za eno od teh dveh področij dejavnosti, se ne smejo prenesti na drugo področje dejavnosti. Računovodski izkazi, ki se nanašajo na obe dejavnosti, morajo odražati prepoved prenosa javnih sredstev.
+(2) Prevozniki v železniškem prometu morajo izdelati in objaviti izkaz uspeha in bilanco stanja ter letno poročilo za poslovanje v zvezi z zagotavljanjem prevoza blaga v železniškem prometu. Sredstva za dejavnosti v zvezi z zagotavljanjem prevoza potnikov v železniškem prometu kot javne službe morajo biti prikazana ločeno v ustreznih poslovnih računih in se ne smejo prenašati na dejavnosti v zvezi z zagotavljanjem drugih prevoznih storitev ali na kakršno koli drugo poslovanje.".
+PREHODNE IN KONČNA DOLOČBA
