@@ -1,0 +1,5 @@
+# 2. člen
+V 32. členu se doda nov drugi odstavek, ki se glasi:
+"(2) Za posojila delničarja oziroma družbenika po prvem odstavku tega člena se štejejo tudi posojila osebe, ki se kadarkoli v davčnem obdobju šteje za povezano osebo tako, da ima delničar oziroma družbenik ali njegovi družinski člani hkrati neposredno ali posredno v lasti najmanj 25 % delnic ali deležev v kapitalu ali glasovalnih pravic v zavezancu in tej osebi. Za družinskega člana po tem členu se šteje družinski član iz drugega odstavka 16. člena tega zakona.".
+Dosedanji drugi odstavek postane tretji odstavek.
+V dosedanjem tretjem odstavku, ki postane četrti odstavek, se besedilo "vplačanega kapitala, prenesenega čistega dobička in rezerv na zadnji dan vsakega meseca v davčnem obdobju" nadomesti z besedilom "kapitala na začetku in koncu davčnega obdobja, pri čemer se za kapital upoštevajo vse sestavine kapitala na podlagi zakona in v skladu z njim uvedenimi računovodskimi standardi razen čistega poslovnega izida poslovnega leta".
