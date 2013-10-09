@@ -1,0 +1,2 @@
+# 7. člen
+V tretjem odstavku 481. člena se za prvim stavkom doda besedilo, ki se glasi: "Notar pred sestavo notarskega zapisa o odsvojitvi poslovnega deleža preveri, ali so podani razlogi za omejitev pri pridobitelju poslovnega deleža iz 1. do 3. točke prvega odstavka 10.a člena tega zakona. Če notar ugotovi, da obstajajo razlogi za omejitev iz prejšnjega stavka, mora sestavo notarskega zapisa odkloniti.".
