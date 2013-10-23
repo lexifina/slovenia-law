@@ -1,2 +1,0 @@
-# 15. člen
-Gradbeni proizvod, ki mu je kateri koli organ za tehnična soglasja iz 9. točke 5. člena tega zakona podelil evropsko tehnično soglasje, sme biti dan v promet, če je podeljeno tehnično soglasje v slovenskem jeziku pri dobavitelju dosegljivo inšpekcijskemu organu iz 29. člena tega zakona. Če je bilo evropsko tehnično soglasje podeljeno v tujem jeziku, mora imeti dobavitelj njegov prevod v slovenskem jeziku.

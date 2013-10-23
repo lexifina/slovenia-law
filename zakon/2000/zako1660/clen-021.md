@@ -1,4 +1,0 @@
-# 21. člen
-(1) Slovensko tehnično soglasje se sme podeliti tudi na podlagi evropskega tehničnega soglasja oziroma nacionalnega tehničnega soglasja, ki ga je gradbenemu proizvodu podelil organ za tehnična soglasja s sedežem v tujini. Tako podeljeno slovensko tehnično soglasje izkazuje ustreznost gradbenega proizvoda za predvideno uporabo glede na slovenske predpise o bistvenih zahtevah za gradbene objekte.
-(2) Slovensko tehnično soglasje iz prejšnjega odstavka se podeli po pregledu dokumentacije o izvedenih preiskavah, preskusih in ocenah, ki so bili podlaga za podelitev evropskega tehničnega soglasja oziroma nacionalnega tehničnega soglasja. Po potrebi se lahko pred podelitvijo slovenskega tehničnega soglasja opravijo dodatne preveritve, preiskave in preskusi.
-(3) Minister natančneje predpiše postopek podelitve, podaljšanja, spremembe in razveljavitve slovenskega tehničnega soglasja.
