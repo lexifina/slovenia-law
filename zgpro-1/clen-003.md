@@ -1,0 +1,3 @@
+# 3. člen (klavzula o medsebojnem priznavanju)
+
+Šteje se, da proizvodi, ki se zakonito tržijo v drugih državah članicah Evropske unije, Evropskem gospodarskem prostoru in Republiki Turčiji, če so proizvedeni v skladu z njihovo nacionalno zakonodajo, ki zagotavlja enakovredno raven varovanja javnega interesa kot je določena v zakonodaji Republike Slovenije, izpolnjujejo zahteve iz tega zakona in se lahko dajo na trg, razen če je bil izpeljan postopek v skladu z Uredbo (ES) št. 764/2008 Evropskega parlamenta in Sveta z dne 9. julija 2008 o določitvi postopkov za uporabo nekaterih nacionalnih tehničnih pravil za proizvode, ki se zakonito tržijo v drugi državi članici in o razveljavitvi Odločbe št. 3052/95/ES (UL L št. 218 z dne 13. 8. 2008, str. 21).

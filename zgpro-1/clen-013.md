@@ -1,0 +1,3 @@
+# 13. člen (zahteve za organe, pooblaščene za izvajanje nalog tretje stranke v postopku ocenjevanja in preverjanja nespremenljivosti lastnosti)
+
+Šteje se, da organ, pooblaščen za izvajanje nalog tretje stranke v postopku ocenjevanja in preverjanja nespremenljivosti lastnosti (v nadaljnjem besedilu: organ), izpolnjuje zahteve iz 43. člena Uredbe 305/2011/EU, če ocenjevanje in spremljanje iz 40. člena Uredbe 305/2011/EU izvaja Slovenska akreditacija, in organ priglasitvenemu organu iz prvega odstavka 16. člena tega zakona kot dokazilo predloži akreditacijsko listino za določeno vrsto in obseg nalog tretje stranke v postopku ocenjevanja in preverjanja nespremenljivosti lastnosti v skladu s prilogo V Uredbe 305/2011/EU.
