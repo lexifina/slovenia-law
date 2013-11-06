@@ -1,0 +1,2 @@
+# 5. člen
+Za zemljiške dolgove, ki so bili ustanovljeni pred uveljavitvijo tega zakona in zemljiške dolgove, ki so vpisani v zemljiško knjigo po uveljavitvi tega zakona na podlagi zemljiškoknjižnega predloga, vloženega pred uveljavitvijo tega zakona, se uporabljajo določbe drugega odstavka 108. člena, drugega odstavka 110. člena, 111. člena in 192. do 200. člena Stvarnopravnega zakonika (Uradni list RS, št. 87/02).
