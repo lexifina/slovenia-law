@@ -1,3 +1,0 @@
-# 14. člen (pakiranje in označevanje)
-Kozmetične proizvode je dovoljeno dati v promet le, če so pakirani v embalaži, ki omogoča pravilno uporabo in zagotavlja njihovo ustreznost ob predvidljivi uporabi.
-Kozmetični proizvodi morajo biti ustrezno označeni in opremljeni s podatki o dobavitelju in kozmetičnem proizvodu. Vse označbe, navodila oziroma napisi morajo biti dobro vidni in čitljivi ter takšni, da jih ni mogoče izbrisati. Na embalaži morajo biti v slovenskem jeziku navedene označbe in podatki, ki so posebnega pomena za varovanje zdravja uporabnikov. Podrobnejšo vsebino in način označevanja ter označbe in podatke, ki morajo biti v slovenskem jeziku, predpiše minister.

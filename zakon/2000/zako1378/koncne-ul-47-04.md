@@ -1,4 +1,0 @@
-Zakon o spremembah in dopolnitvah določenih zakonov na področju zdravja - ZdZPZ (Uradni list RS, št. 47/04) vsebuje naslednjo končno določbo:
-"II. KONČNA DOLOČBA
-36. člen
-Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.".
