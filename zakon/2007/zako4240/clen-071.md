@@ -17,5 +17,5 @@ b) sanitarno-higienske naprave,
 c) naprave za prehajanje iz vagona v vagon (razen pri motornikih),
 d) napravo za klimatizacijo prostorov za potnike.
 (3) Motorna vozila za posebne namene morajo biti opremljena z napravami, naštetimi v točkah c) do k) prvega odstavka tega člena.
-(4) Vlečna vozila, ki vozijo po progah, za katere ne veljajo pogoji za zagotavljanje interoperabilnosti, morajo imeti na sprednji strani vozila v smeri vožnje nameščene in prižgane stroboskopske luči, ki morajo biti pri vožnji po progah, za katere veljajo pogoji za zagotovitev interoperabilnosti, izključene.
-(5) Proge iz prejšnjega odstavka, za katere ne veljajo pogoji za zagotavljanje interoperabilnosti, ter obliko, barvo, velikost in način namestitve stroboskopskih luči iz prejšnjega odstavka, določi minister s predpisom.
+(4) (črtan).
+(5) (črtan).
