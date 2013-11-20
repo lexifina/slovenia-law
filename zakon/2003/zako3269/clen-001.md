@@ -1,3 +1,0 @@
-# 1. člen
-V zakonu o kozmetičnih proizvodih (Uradni list RS, št. 66/2000) se besedilo 2. člena spremeni tako, da se glasi:
-"Kozmetični proizvod v smislu tega zakona je katerakoli snov ali pripravek v končni obliki, namenjena nanašanju na zunanje dele človeškega telesa (povrhnjico, lasišče, nohte, ustnice ali zunanja spolovila) ali na zobe in sluznico v ustni votlini, z izključnim ali glavnim namenom, da jih očisti, odišavi ali zaščiti, jih ohrani v dobrem stanju, spremeni njihov izgled ali odpravi neprijeten telesni vonj.".
