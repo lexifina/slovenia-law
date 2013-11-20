@@ -1,3 +1,0 @@
-# 6. člen (ocena ustreznosti kozmetičnih proizvodov)
-Pred dajanjem kozmetičnih proizvodov v promet mora dobavitelj zagotoviti oceno njihove ustreznosti za človekovo zdravje. Ocena ustreznosti mora biti izdelana na podlagi rezultatov opravljenih preskusov in študij, pri čemer je potrebno upoštevati splošne toksikološke lastnosti uporabljenih sestavin, njihovo kemijsko strukturo in izpostavljenost uporabnika.
-Oceno ustreznosti lahko izdelajo strokovnjaki z najmanj visokošolsko strokovno izobrazbo s področja kemije ali farmacije ali z univerzitetno izobrazbo s področja medicine ali toksikologije.
