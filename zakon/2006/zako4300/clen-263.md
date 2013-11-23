@@ -1,6 +1,3 @@
-# 263. člen (ocena rezultatov izredne uprave)
-(1) Banka Slovenije mora najmanj enkrat na tri mesece oceniti rezultate izredne uprave.
-(2) Banka Slovenije mora sprejeti končno oceno rezultatov izredne uprave najkasneje v treh mesecih po prejemu poročila iz drugega odstavka 260. člena tega zakona.
-(3) Če Banka Slovenije oceni, da se je v času trajanja izredne uprave izboljšalo finančno stanje banke, tako da je banka dosegla minimalni kapital banke iz 136. člena tega zakona in redno izpolnjuje svoje dospele obveznosti, mora Banka Slovenije izdati odločbo o prenehanju izredne uprave in odpoklicu izrednih upraviteljev.
-(4) Če Banka Slovenije oceni, da se v času trajanja izredne uprave finančno stanje banke ni izboljšalo tako, da bi banka dosegla minimalni kapital banke iz 136. člena tega zakona oziroma da bi bila sposobno tekoče izpolnjevati dospele obveznosti, izda odločbo o začetku prisilne likvidacije oziroma o ugotovitvi pogojev za začetek stečaja banke.
-(5) V primeru iz četrtega odstavka tega člena lahko Banka Slovenije izda tudi odločbo o podaljšanju izredne uprave za največ šest mesecev po izteku roka iz 254. člena tega zakona, če ni pogojev za začetek stečaja banke in če Banka Slovenije oceni, da bo banka v nadaljnjih šestih mesecih lahko dosegla minimalni kapital banke iz 136. člena tega zakona.
+# 263. člen (ocena rezultatov izrednih ukrepov)
+(1) Banka Slovenije na podlagi poročil izredne uprave in drugih okoliščin najmanj enkrat na tri mesece oceni uspešnost izrednih ukrepov glede na cilje iz 253.b člena tega zakona.
+(2) Če Banka Slovenije oceni, da se med trajanjem izrednih ukrepov stanje banke ni toliko izboljšalo, da bi bila banka sposobna zagotoviti dolgoročno uspešno poslovanje v skladu s tem zakonom in drugimi veljavnimi predpisi, izda odločbo o začetku prisilne likvidacije ali o ugotovitvi pogojev za začetek stečaja banke.

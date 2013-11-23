@@ -8,7 +8,7 @@
 2. odreditev odprave kršitve,
 3. odreditev dodatnih ukrepov za uresničevanje pravil o upravljanju s tveganji,
 4. odvzem dovoljenja,
-5. postavitev izredne uprave,
+5. izredni ukrep,
 6. začetek prisilne likvidacije,
 7. odločitev o razlogih za stečaj banke.
 (3) Banka Slovenije pri opravljanju svojih nalog in pristojnosti na področju nadzora na podlagi informacij, ki so na voljo v tistem trenutku, ustrezno upošteva mogoč vpliv svojih odločitev na stabilnost finančnega sistema držav članic, kar zlasti velja v izrednih finančnih razmerah.

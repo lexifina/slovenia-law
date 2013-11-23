@@ -7,5 +7,6 @@
 4. za izmenjavo informacij o boniteti strank za namen upravljanja s kreditnim tveganjem:
 - med bankami in finančnimi institucijami iz drugega odstavka 390.a člena tega zakona,
 - znotraj bančne skupine ali
-- z bankami držav članic ali sistemi za izmenjavo informacij o boniteti strank, organiziranih v drugih državah članicah, glede informacij o boniteti strank, ki so pravne osebe, in
+- z bankami držav članic ali sistemi za izmenjavo informacij o boniteti strank, organiziranih v drugih državah članicah, glede informacij o boniteti strank, ki so pravne osebe,
+4.a če banka podatke posreduje sodišču, državnemu tožilstvu ali policiji v primeru obstoja razlogov za sum, da je bilo storjeno kaznivo dejanje, razen v primerih, ko za posredovanje zaupnih podatkov zakon izrecno določa odredbo preiskovalnega sodnika, in
 5. v drugih primerih, ki jih določa zakon.

@@ -1,0 +1,4 @@
+# 350.a člen (varstvo delničarjev in upnikov v primeru odločbe o izrednih ukrepih)
+(1) Delničarji, upniki in druge osebe, katerih pravice so prizadete zaradi učinkov odločbe Banke Slovenije o izrednem ukrepu, lahko zahtevajo od Banke Slovenije povrnitev škode ob upoštevanju 223.a člena tega zakona, če dokažejo, da je škoda, ki je nastala zaradi učinkov izrednega ukrepa, višja kot bi bila v primeru, če izredni ukrep ne bi bil izrečen.
+(2) Za varstvo pravic delničarjev in upnikov v primeru odločbe o prenehanju banke ali o izrednem ukrepu se v razmerju do Banke Slovenije ne uporablja 264. člen ZGD-1.
+(3) Če je zoper odločbo o izrednem ukrepu vložena tožba v skladu s 347. členom tega zakona, mora sodišče, ki odloča o odškodninskem zahtevku na podlagi prvega odstavka tega člena, prekiniti postopek do odločitve sodišča v postopku sodnega varstva zoper odločbo Banke Slovenije.

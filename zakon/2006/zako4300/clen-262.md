@@ -1,4 +1,4 @@
-## 7.7.2. Prodaja vseh delnic banke
+## 7.7.3. Prodaja vseh delnic banke
 # 262. člen (odločba o prodaji vseh delnic banke)
 (1) Banka Slovenije na podlagi odločbe o prodaji vseh delnic banke objavi javni poziv za predložitev zavezujočih ponudb za nakup delnic banke ter določi rok za predložitev ponudb. Po poteku roka za predložitev zavezujočih ponudb za nakup delnic Banka Slovenije odloči o izbiri ponudbe (v nadaljnjem besedilu: odločba o izbiri ponudbe) in obrazloži merila za izbiro ponudbe, če je prejela več ponudb za odkup delnic.
 (2) Ne glede na prvi odstavek tega člena lahko Banka Slovenije v odločbi o prodaji vseh delnic banke odloči, da se delnice prodajo kupcu tudi brez objave javnega poziva, če je takojšnja prodaja in prenos delnic na kupca nujna, da se zagotovijo pogoji za uspešno izvedbo izrednih ukrepov in odpravijo razlogi za povečano tveganje v banki (v nadaljnjem besedilu: odločba o takojšnji prodaji delnic).
