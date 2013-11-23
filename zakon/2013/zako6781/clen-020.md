@@ -1,0 +1,2 @@
+# 20. člen
+V drugem odstavku 262.b člena se na koncu napovednega stavka doda besedilo "kvalificirane obveznosti banke iz šestega odstavka 261.a člena tega zakona", dvopičje pa se nadomesti s piko. Besedilo "1. obveznosti banke do delničarjev banke, razen terjatve iz naslova vplačanih vlog, ki so zajamčene na podlagi tega zakona, 2. obveznosti banke do upnikov iz naslova hibridnih instrumentov, ki se upoštevajo pri izračunu temeljnega kapitala banke" se črta.

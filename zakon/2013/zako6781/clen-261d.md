@@ -1,0 +1,2 @@
+# 261.d člen (druga pravila o konverziji kvalificiranih obveznosti)
+V odločbi o konverziji kvalificiranih obveznosti mora Banka Slovenije pri določitvi razmerja iz 3. točke tretjega odstavka 261.a člena tega zakona upoštevati vrednost kvalificiranih obveznosti, ki so predmet stvarnih vložkov, na podlagi cenitve iz 261.b člena tega zakona, in glede na verjetni delež poplačila teh terjatev v primeru prenehanja banke, če ne bi bili izrečeni izredni ukrepi.
