@@ -1,0 +1,7 @@
+# 20. člen
+42. člen se spremeni tako, da se glasi:
+"42. člen
+(1) Pogoji za pridobitev pravic po tem zakonu morajo biti izpolnjeni ves čas prejemanja pravic iz javnih sredstev.
+(2) Upravičenec do denarne socialne pomoči, varstvenega dodatka, subvencije najemnine, pravice do kritja razlike do polne vrednosti zdravstvenih storitev, pravice do plačila prispevka za obvezno zdravstveno zavarovanje, oprostitve plačila socialnovarstvenih storitev in prispevka k plačilu družinskega pomočnika mora centru za socialno delo sporočiti vsa dejstva, okoliščine in vse spremembe, ki vplivajo na upravičenost do pravice iz javnih sredstev, njeno višino ali obdobje prejemanja, v osmih dneh od dne, ko je taka sprememba nastala ali je zanjo izvedel.
+(3) Upravičenec do otroškega dodatka, državne štipendije in znižanega plačila vrtca mora centru za socialno delo sporočiti naslednje spremembe, ki pri teh pravicah lahko vplivajo na upravičenost do pravice iz javnih sredstev, njeno višino ali obdobje prejemanja: spremembo števila oseb ali upravičencev, spremembo ali vključitev v vzgojno-izobraževalni oziroma visokošolski zavod, spremembo statusa učenca, dijaka ali študenta, spremembo stalnega prebivališča in spremembo vrste periodičnega dohodka, pri državni štipendiji pa tudi druge okoliščine, ki po zakonu, ki ureja štipendiranje, vplivajo na to pravico, v osmih dneh od dneva, ko je taka sprememba nastala ali je zanjo izvedel.
+(4) Center za socialno delo v primerih iz drugega in tretjega odstavka tega člena na novo odloči o posamezni pravici.".

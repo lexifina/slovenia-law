@@ -1,0 +1,5 @@
+# 28. člen
+(1) V primeru prvega odločanja po tem zakonu se po uradni dolžnosti preverijo tudi druge pravice, do katerih so upravičenec ali osebe, ki se upoštevajo pri ugotavljanju njegovega materialnega položaja, upravičeni na podlagi drugih odločb. Če center za socialno delo ugotovi, da bi bilo treba katero od teh odločb odpraviti ali o njej na novo odločiti, po uradni dolžnosti na novo odloči o vseh pravicah z dnem priznanja tiste pravice iz javnih sredstev, katere uveljavitev je vzrok za postopek odločanja tudi o drugih pravicah.
+(2) Centri za socialno delo po uradni dolžnosti do 28. februarja 2015 na novo odločijo o oprostitvah plačil socialnovarstvenih storitev in prispevkih k plačilu pravic družinskega pomočnika.
+(3) Upravičenec, ki ima odločbo o priznanju pravice do denarne socialne pomoči ali varstvenega dodatka, lahko ne glede na obdobje veljavnosti te odločbe pred potekom obdobja, za katerega mu je bila pravica priznana, v roku od 1. septembra do 31. oktobra 2014 uveljavlja odmero teh pravic po tem zakonu.
+(4) Za potrebe odločanja po prejšnjem odstavku se kot dan vložitve vloge šteje 31. avgust 2014.

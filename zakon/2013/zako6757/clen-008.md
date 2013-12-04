@@ -1,0 +1,6 @@
+# 8. člen
+23. člen se spremeni tako, da se glasi:
+"23. člen
+(1) Do državne štipendije so upravičeni državljani Republike Slovenije, ki izpolnjujejo pogoje po zakonu, ki ureja štipendiranje, in pri katerih povprečni mesečni dohodek na osebo v preteklem letu pred vložitvijo vloge ne presega 64 % neto povprečne plače na osebo v istem obdobju.
+(2) Državna štipendija brez dodatkov glede na uvrstitev v dohodkovni razred znaša:
++----------+------------------+---------------+-----------------+ |Dohodkovni|Povprečni mesečni |Osnovna višina | Osnova višina v | | razred | dohodek na osebo | eurih za | eurih za | | | v % od neto |upravičenca do | upravičenca nad | | | povprečne plače |18 let starosti| 18 let starosti | +----------+------------------+---------------+-----------------+ |1 |do 30 % |95 |190 | +----------+------------------+---------------+-----------------+ |2 |nad 30 % do 36 % |80 |160 | +----------+------------------+---------------+-----------------+ |3 |nad 36 % do 42 % |65 |130 | +----------+------------------+---------------+-----------------+ |4 |nad 42 % do 53 % |50 |100 | +----------+------------------+---------------+-----------------+ |5 |nad 53 % do 64 % |35 |70 | +----------+------------------+---------------+-----------------+ ".

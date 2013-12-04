@@ -1,0 +1,3 @@
+# 12. člen
+Četrti odstavek 29. člena se spremeni tako, da se glasi:
+"(4) Ministrstvo obvesti o številki, datumu in obdobju veljavnosti izdane odločbe za posameznega upravičenca iz prvega odstavka tega člena Zavod za zdravstveno zavarovanje Slovenije, ki te podatke vodi v evidenci zavarovanih oseb. Zavarovalnica, pri kateri ima upravičenec iz prvega odstavka tega člena sklenjeno dopolnilno zdravstveno zavarovanje, ima pravico do vpogleda v podatke o številki, datumu in obdobju veljavnosti odločbe o priznanju pravice do kritja razlike do polne vrednost zdravstvenih storitev v zbirki podatkov iz 10. točke drugega odstavka 49. člena tega zakona.".
