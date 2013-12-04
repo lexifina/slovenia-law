@@ -1,0 +1,2 @@
+# 37. člen (ugotavljanje gospodarske rasti)
+Gospodarsko rast v skladu s 34.b členom in prejšnjim členom ugotovi Statistični urad Republike Slovenije. Sklep o ugotovitvi, da je gospodarska rast presegla 2 odstotka bruto domačega proizvoda, Vlada Republike Slovenije objavi v Uradnem listu Republike Slovenije do 30. septembra leta, ki sledi letu, v katerem gospodarska rast preseže 2 odstotka bruto domačega proizvoda.

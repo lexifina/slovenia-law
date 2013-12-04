@@ -1,0 +1,8 @@
+# 40. člen (uveljavitev in začetek uporabe zakona)
+(1) Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije, uporablja pa se od 1. septembra 2014.
+(2) Ne glede na prejšnji odstavek se sprememba 3. člena in 7. člena zakona, 9. in 10. točka prvega odstavka 26. člena zakona, sprememba 1. in 2. točke drugega odstavka 27. člena zakona, sprememba 28. člena, 33. člena in 34. člena zakona, 34.a člen in 34.b člen zakona, sprememba 39. člena, 54. člena in 62. člena zakona ter prvi odstavek 35. člena, 36. člen, 37. člen in 39. člen tega zakona začnejo uporabljati 1. januarja 2014.
+(3) Do začetka uporabe določb iz prvega in drugega odstavka tega člena se glede vprašanj, ki jih te določbe urejajo, še naprej uporabljajo določbe Zakona o socialno varstvenih prejemkih (Uradni list RS, št. št. 61/10, 40/11, 110/11 - ZDIU12, 40/12 - ZUJF in 14/13).
+Št. 541-01/13-12/35
+Ljubljana, dne 21. novembra 2013
+EPA 1502-VI
+Državni zbor Republike Slovenije Janko Veber l.r. Predsednik

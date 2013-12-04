@@ -1,0 +1,4 @@
+# 25. člen
+Peti in šesti odstavek 36. člena se spremenita tako, da se glasita:
+"(5) Upravičencu, ki se v skladu s 54. členom tega zakona šteje kot trajno nezaposljiv ali trajno nezmožen za delo ali ki je nezaposlen in starejši od 63 let za ženske in od 65 let za moške ter je brez premoženja, ki se upošteva po zakonu, ki ureja uveljavljanje pravic iz javnih sredstev, ali je v institucionalnem varstvu in tudi njegovi družinski člani izpolnjujejo pogoje iz tega odstavka, se dodeli trajna denarna socialna pomoč.
+(6) Center za socialno delo enkrat letno po uradni dolžnosti preveri, ali osebe iz prejšnjega odstavka na dan 1. aprila še izpolnjujejo pogoje za upravičenost do socialno varstvenih pravic po tem zakonu in ali so nastopile spremembe, ki vplivajo na višino oziroma obdobje upravičenosti do teh pravic in izda novo odločbo. Za potrebe odločanja se kot dan vložitve vloge šteje 31. marec".

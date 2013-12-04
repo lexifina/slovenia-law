@@ -1,0 +1,11 @@
+# 18. člen
+V prvem odstavku 27. člena se besedilo "ki ima prihranke oziroma premoženje, ki se upoštevajo po tem zakonu" nadomesti z besedilom "ki ima premoženje, ki se upošteva po zakonu, ki ureja uveljavljanje pravic iz javnih sredstev".
+V napovednem stavku drugega odstavka se beseda "stanovanje" nadomesti z besedilom "stanovanje ali stanovanjsko hišo (v nadaljnjem besedilu: stanovanje)" in besedilo "po drugem odstavku 24. člena tega zakona" nadomesti z besedilom "v zakonu, ki ureja uveljavljanje pravic iz javnih sredstev", 1. in 2. točka pa se spremenita tako, da se glasita:
+"1. in v zadnjih 24 mesecih denarne socialne pomoči ni prejela ali jo je prejela največ osemnajstkrat ali
+2. je v zadnjih 24 mesecih denarno socialno pomoč prejela več kot osemnajstkrat in soglaša z vpisom prepovedi odtujitve in obremenitve nepremičnine, katere lastnik ali lastnica (v nadaljnjem besedilu: lastnik) je, v zemljiško knjigo v korist Republike Slovenije ter izpolnjuje ostale pogoje za upravičenost do denarne socialne pomoči po tem zakonu.".
+Za tretjim odstavkom se dodata nov četrti in peti odstavek, ki se glasita:
+"(4) Ne glede na določbo prvega odstavka tega člena lahko center za socialno delo odloči, da se denarna socialna pomoč dodeli samski osebi ali družini, ki ima v lasti nepremičnino oziroma nepremičnine, katere vrednost oziroma katerih skupna vrednost presega višino iz prvega odstavka tega člena, ne presega pa višine 50.000 eurov, in za katero je mogoče sklepati, da si s to nepremičnino oziroma s temi nepremičninami preživetja začasno ne more zagotoviti zaradi okoliščin, na katere ne more vplivati.
+(5) Kot okoliščine iz prejšnjega odstavka, na katere oseba ne more vplivati, se štejejo zlasti:
+- nasilje v družini, zaradi katerega so začeti ali tečejo postopki v skladno s predpisi, ki urejajo nasilje v družini,
+- začet postopek odtujitve ali razdružitve nepremičnine z namenom pridobitve sredstev za preživetje, ki ne traja več kot 24 mesecev,
+- če je oseba upravičena do oprostitve plačil socialnovarstvenih storitev ali do prispevka k plačilu sredstev, namenjenih za plačilo oziroma doplačilo pravic družinskega pomočnika po zakonu, ki ureja socialno varstvo, in je začet postopek zaznambe prepovedi odtujitve in obremenitve nepremičnine v zemljiški knjigi.".
