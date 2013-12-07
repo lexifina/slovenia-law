@@ -1,0 +1,3 @@
+# 42. člen
+Za drugim odstavkom 331. člena se doda nov tretji odstavek, ki se glasi:
+"(3) Če sodišče s prvim sklepom o prodaji kot način prodaje določi javno dražbo ali zavezujoče zbiranje ponudb, lahko v tem sklepu določi tudi, da se lahko javna dražba ali postopek zbiranja ponudb enkrat ali večkrat ponovi, če prejšnji postopek ni uspešen. V tem primeru mora sodišče v sklepu o prvi prodaji določiti tudi delež, za katerega se sme v ponovljenem postopku znižati izklicna ali izhodiščna cena. Ta delež ne sme biti večji od 10 odstotkov izklicne ali izhodiščne cene v prejšnjem, neuspešnem postopku.".

@@ -1,0 +1,6 @@
+# 50. člen
+(1) Pravila, določena v tem členu, se uporabljajo za ponovno prisilno poravnavo, če je bil postopek, v katerem je bila prejšnja prisilna poravnava pravnomočno potrjena, začet pred uveljavitvijo tega zakona.
+(2) Ne glede na 1. točko prvega odstavka 221.v člena zakona je predlog za ponovno prisilno poravnavo dovoljen, če je od pravnomočnosti sklepa o potrditvi prejšnje poravnave preteklo eno leto.
+(3) Soglasje iz 2. točke prvega odstavka 221.v člena zakona lahko dajo tudi upniki, ki so imetniki zavarovanih terjatev, ki so nastale do začetka postopka prejšnje pravnomočno potrjene prisilne poravnave, čeprav za te terjatve prejšnja pravnomočno potrjena prisilna poravnava ni učinkovala.
+(4) Ne glede na tretji odstavek 221.v člena zakona so postopek ponovne prisilne poravnave upravičeni predlagati tudi upniki, ki so imetniki zavarovanih terjatev, ki so nastale do začetka postopka prejšnje pravnomočno potrjene prisilne poravnave, čeprav za te terjatve prejšnja pravnomočno potrjena prisilna poravnava ni učinkovala.
+(5) Ne glede na drugi odstavek 221.z člena zakona lahko predlog za ponovno prisilno poravnavo vključuje tudi prestrukturiranje zavarovanih terjatev iz prvega odstavka 221.n člena zakona, ki so nastale do začetka postopka prejšnje pravnomočno potrjene prisilne poravnave.
