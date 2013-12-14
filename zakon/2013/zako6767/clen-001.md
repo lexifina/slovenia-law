@@ -1,0 +1,8 @@
+# 1. člen
+V Zakonu o volilni in referendumski kampanji (Uradni list RS, št. 41/07, 103/07 - ZPolS-D, 11/11 in 28/11 - odločba US) se prvi odstavek 3. člena se spremeni tako, da se glasi:
+"(1) Volilno kampanjo lahko organizirajo sam kandidat ali kandidatka (v nadaljnjem besedilu: kandidat), predstavnik predlagatelja kandidatov ali list kandidatov, politična stranka ali druga pravna ali fizična oseba, v primeru referenduma pa pravna ali fizična oseba, ki je pobudnik zahteve za razpis referenduma, ali je zainteresirana za izid referenduma (v nadaljnjem besedilu: organizator volilne kampanje). Zainteresirana pravna ali fizična oseba iz tega odstavka je državljan Republike Slovenije z volilno pravico, posameznik, ki samostojno opravljajo dejavnost, samostojni podjetnik posameznik ali pravna oseba s sedežem na območju Republike Slovenije ter, kadar Vlada Republike Slovenije tako odloči, pristojna služba Vlade Republike Slovenije.".
+Za četrtim odstavkom se doda peti odstavek, ki se glasi:
+"(5) Liste kandidatov in posamezni kandidati na volitvah predstavnikov v predstavniških in individualnih organih lokalnih skupnosti, ki jih predlagajo teritorialne organizacijske enote iste politične stranke v različnih lokalnih skupnostih, imajo lahko skupnega organizatorja volilne kampanje.".
+Dosedanji peti odstavek, ki postane šesti odstavek, se spremeni tako, da se glasi:
+"(6) Vsaka pravna ali fizična oseba, ki je pobudnik zahteve za razpis referenduma ali je zainteresirana za izid referenduma, ima lahko samo po enega organizatorja.".
+Dosedanja šesti in sedmi odstavek postaneta sedmi in osmi odstavek.

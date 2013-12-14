@@ -1,0 +1,2 @@
+# 29. člen
+Če se volitve ali referendum opravijo pred uveljavitvijo tega zakona ali 90 dni po njegovi uveljavitvi, se za volilno oziroma referendumsko kampanjo uporabljajo določbe Zakona o volilni in referendumski kampanji (Uradni list RS, št. 41/07, 103/07 - ZPolS-D, 11/11 in 28/11 - odločba US) in Pravilnika o vsebini in o obrazcih poročil o zbranih in porabljenih sredstvih za volilno in referendumsko kampanjo (Uradni list RS, št. 105/07).

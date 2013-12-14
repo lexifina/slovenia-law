@@ -1,0 +1,2 @@
+# 28. člen
+Ne glede na določbe zakona, ki ureja prekrške, do uveljavitve dopolnitve zakona, ki ureja prekrške, z določitvijo sodne pristojnosti za odločanje o prekrških s področja volilne in referendumske kampanje, o prekrških iz členov, navedenih v prvem odstavku 40. člena zakona, za katere nadzor je pristojno računsko sodišče, odloča sodišče. Obdolžilni predlog vloži računsko sodišče, za odločanje o prekršku pa je pristojno Okrajno sodišče v Ljubljani.
