@@ -1,0 +1,7 @@
+# 6. člen
+
+(1) Izdajatelji medijev morajo najkasneje 45 dni pred dnem glasovanja na volitvah oziroma 25 dni pred dnem glasovanja na referendumu določiti in objaviti pravila (obseg, pogoje in način) za izrabo programskega časa oziroma časopisnega prostora za predstavitev kandidatov, političnih strank in njihovih programov oziroma predstavitev mnenj o referendumskem vprašanju.
+
+(2) Radiotelevizija Slovenija v času volilne kampanje zagotavlja programski čas predstavitvi kandidatov oziroma mnenj o referendumskem vprašanju v skladu s tistimi določbami zakona, ki ureja Radiotelevizijo Slovenije, ki urejajo politično propagando v programih Radiotelevizije Slovenija.
+
+(3) Izdajatelji drugih tiskanih in elektronskih medijev v neposredni ali posredni večinski javni lasti morajo zagotoviti vsem organizatorjem enake pogoje za objavljanje volilnih propagandnih sporočil, s pravili iz prvega odstavka tega člena pa morajo zagotoviti enakopravnost organizatorjem volilne kampanje pri predstavitvi kandidatov in njihovih programov, pri čemer se lahko predvidijo posebni termini ali prostor za politične stranke, ki so že zastopane v državnem zboru ali za politične stranke in kandidatne liste, ki so že zastopane v predstavniških organih lokalnih skupnosti, in posebni termin ali prostor za politične stranke in kandidatne liste, ki še niso zastopane v državnem zboru oziroma v predstavniških organih lokalnih skupnosti.
