@@ -1,0 +1,4 @@
+# 21. člen
+Posredovanje letnega poročila stranke preko spletnega portala AJPES iz tretjega odstavka 24. člena zakona se omogoči najkasneje do 1. marca 2015.
+Do zagotovitve posredovanja letnih poročil preko spletnega portala iz prejšnjega odstavka se letna poročila izdelajo v skladu z Zakonom o političnih strankah (Uradni list RS, št. 100/05 - uradno prečiščeno besedilo in 103/07) in Pravilnikom o vsebini in obliki letnega poročila in skrajšanega letnega poročila političnih strank (Uradni list RS, št. 2/01) ter posredujejo AJPES na način, določen z Navodilom o predložitvi letnih poročil nepridobitnih organizacij - pravnih oseb zasebnega prava (Uradni list RS, št. 7/08, 8/09 in 109/10).
+Minister, pristojen za notranje zadeve, v Uradnem listu objavi datum, od katerega se letna poročila strank posredujejo preko spletnega portala AJPES.
