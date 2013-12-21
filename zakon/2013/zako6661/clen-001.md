@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o industrijski lastnini (Uradni list RS, št. 51/06 - uradno prečiščeno besedilo) se v drugem odstavku 67. člena prvi stavek spremeni tako, da se glasi: "Zahteva za nadaljevanje postopka se vloži v dveh mesecih, šteto od dneva, ko je prenehal vzrok, ki je povzročil zamudo, če je prijavitelj šele pozneje izvedel za zamudo, pa od dneva, ko je za to izvedel, vendar ne kasneje kot v šestih mesecih od dneva nastanka zamude.".
