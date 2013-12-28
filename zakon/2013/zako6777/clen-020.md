@@ -1,0 +1,5 @@
+# 20. člen
+Drugi odstavek 45. člena se spremeni tako, da se glasi:
+"(2) Če ministrstvo, pristojno za rudarstvo, ob preveritvi pogojev iz prejšnjega odstavka ugotovi, da je rudarski projekt za pridobitev koncesije za izkoriščanje izdelan v skladu s 1., 2., 3. in 4. točko prejšnjega odstavka, ga zapečati ter potrdi s podpisom uradne osebe in žigom organa, v nasprotnem zahteva popravo oziroma dopolnitev rudarskega projekta.".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Ko ministrstvo, pristojno za rudarstvo, ugotovi, da je rudarski projekt za pridobitev koncesije za izkoriščanje izdelan v skladu z zahtevami tega zakona in da izbrani nosilec rudarske pravice za izkoriščanje razpolaga z dokazilom o pravici izvajati rudarska dela na zemljišču, pripravi predlog koncesijske pogodbe v ustreznem številu izvodov. Predlog koncesijske pogodbe v imenu Republike Slovenije podpiše minister, pristojen za rudarstvo, ministrstvo pa nato vse izvode pošlje z osebno vročitvijo v podpis izbranemu nosilcu rudarske pravice za izkoriščanje.".

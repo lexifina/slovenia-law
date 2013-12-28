@@ -1,0 +1,2 @@
+# 150.d člen (izjema pri podaljšanju časa veljavnosti rudarske pravice)
+Ne glede na rok iz 1. točke prvega odstavka 50. člena Zakona o rudarstvu (Uradni list RS, št. 61/10, 62/10 - popr., 76/10, 57/12 in 111/13) ministrstvo, pristojno za rudarstvo, obravnava tudi vloge za podaljšanje časa veljavnosti rudarske pravice za izkoriščanje, ki so vložene po izteku tega roka, vendar pred prenehanjem koncesijske pogodbe, če bi koncesija za izkoriščanje potekla prej kot šest mesecev po uveljavitvi Zakona o spremembah in dopolnitvah Zakona o rudarstvu (Uradni list RS, št. 111/13).".

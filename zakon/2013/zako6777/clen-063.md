@@ -1,0 +1,3 @@
+# 63. člen
+(1) Ministrstvo, pristojno za rudarstvo, zaradi uskladitve imenika pooblaščenih oseb v rudarstvu z določbami tega zakona, izda osebi, ki je na dan uveljavitve tega zakona vpisana v imenik, novo odločbo. V njej navede vse dosedanje vpise v imenik, ter za identifikacijsko številko določi samo zadnjo identifikacijsko številko, s katero je bil posameznik vpisan v imenik.
+(2) Oseba, ki je bila izbrisana iz imenika pooblaščenih oseb v rudarstvu na podlagi določb Zakona o rudarstvu (Uradni list RS, št. 61/10, 62/10 - popr., 76/10 in 57/12) zaradi neobstoja ustrezne pogodbe iz tretjega odstavka 113. člena zakona, se ponovno vpiše v imenik, če izpolnjuje pogoje za vpis.

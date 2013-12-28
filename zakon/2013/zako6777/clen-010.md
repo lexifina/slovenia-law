@@ -1,0 +1,7 @@
+# 10. člen
+V prvem odstavku 34. člena se beseda "pridobi" nadomesti z besedo "podeli", vejica za besedilom "rudarske pravice za izkoriščanje" se spremeni v piko, besedilo v nadaljevanju tega stavka pa se črta.
+V drugem odstavku se napovedni stavek spremeni tako, da se glasi: "Ne glede na določbo prejšnjega odstavka se koncesija za izkoriščanje lahko podeli tudi brez javnega razpisa in samo na podlagi prej izdanega rudarskega koncesijskega akta za določeni pridobivalni prostor pravni ali fizični osebi, ki izpolnjuje katerega od naslednjih pogojev:".
+V 1. točki se besedilo "energetskih in drugih mineralnih surovin, ki se v skladu z določbami 12. člena tega zakona štejejo za mineralne surovine v javnem interesu," nadomesti z besedama "mineralnih surovin".
+V 3. točki se za besedilom "katerekoli mineralne surovine," doda besedilo "v globino ali", 5. točka pa se črta.
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"(3) Ne glede na določbo prejšnjega odstavka se za določen pridobivalni prostor koncesija za izkoriščanje ne more podeliti brez javnega razpisa, če sta za ta prostor ali del prostora istočasno vloženi dve ali več vlog za pridobitev rudarske pravice za izkoriščanje določene mineralne surovine, ki izpolnjujeta katerega od pogojev za podelitev koncesije brez javnega razpisa iz prejšnjega odstavka. Šteje se, da je vloga vložena istočasno, če je bila vložena v 30 dneh od vložitve prve vloge. Če je poznejša vloga vložena po izteku 30 dni od vložitve prve vloge, se vsaka poznejša vloga zavrže.".

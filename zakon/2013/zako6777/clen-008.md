@@ -1,0 +1,3 @@
+# 8. člen
+Tretji odstavek 28. člena se spremeni tako, da se glasi:
+"(3) Nosilec dovoljenja za raziskovanje mora najmanj 15 dni pred začetkom raziskovalnih rudarskih del pristojni rudarski inšpekciji prijaviti začetek raziskovalnih rudarskih del, ki jih namerava izvesti na določenih lokacijah znotraj odobrenega raziskovalnega prostora, za vsak raziskovalni izkop, raziskovalni jašek in raziskovalno vrtino posebej. V prijavi mora navesti številko in datum dovoljenja za raziskovanje, na podlagi katerega je pridobil rudarsko pravico za raziskovanje, vrsto raziskovalnih del, ki jih namerava izvesti ter datum pričetka posameznih del, izvajalca posameznih rudarskih del in osebo, ki bo opravljala posle tehničnega vodje teh del.".

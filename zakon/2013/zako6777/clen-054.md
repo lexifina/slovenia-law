@@ -1,0 +1,3 @@
+# 54. člen
+Za četrtim odstavkom 155. člena se doda nov peti odstavek, ki se glasi:
+"(5) Do izdaje predpisa iz petega odstavka 101. člena Zakona o rudarstvu (Uradni list RS, št. 61/10, 62/10 - popr., 76/10, 57/12 in 111/13) se za izdelavo rudarskega projekta za pridobitev dovoljenja za raziskovanje, rudarskega projekta za pridobitev koncesije za izkoriščanje, rudarskega projekta za izvedbo in rudarskega projekta izvedene sanacije smiselno uporabljajo določbe predpisa iz 13. točke prejšnjega odstavka, ki se nanašajo na vsebino rudarskega projekta za raziskovanje mineralnih surovin, rudarskega projekta za izkoriščanje mineralnih surovin, rudarskega projekta za izvajanje del in rudarskega projekta izvedenih del.".

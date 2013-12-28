@@ -1,0 +1,3 @@
+# 46. člen
+Drugi odstavek 122. člena se spremeni tako, da se glasi:
+"(2) Inšpekcijsko nadzorstvo iz prejšnjega odstavka opravlja rudarska inšpekcija v raziskovalnih in pridobivalnih prostorih oziroma območjih rudnikov, inšpekcijsko nadzorstvo nad nezakonitim izvajanjem rudarskih del pa na zemljiščih, za katera so izdani prostorski akti, namenjeni rudarstvu. Inšpekcijsko nadzorstvo nad nezakonitim izvajanjem rudarskih del na zemljiščih, za katera niso izdani prostorski akti, namenjeni rudarstvu, opravljajo v skladu z zakoni, ki urejajo zagotavljanje predpisane rabe prostora in predpisi, izdanimi na njihovi podlagi, za posamezno vrsto rabe prostora pristojne inšpekcije.".
