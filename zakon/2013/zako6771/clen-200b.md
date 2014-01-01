@@ -1,0 +1,2 @@
+# 200.b člen
+Globa, redovna globa, sodna taksa, stroški postopka, odvzem premoženjske koristi ali odškodnina se plača na podračun, določen v odločbi o prekršku, obvestilu o prekršku, pozivu ali univerzalnem plačilnem nalogu. Pri plačilu prek ponudnika plačilnih storitev se šteje, da je plačano v roku, če je prejeto na podračun iz tega odstavka v treh delovnih dneh po izteku roka, v katerem mora biti plačano.".

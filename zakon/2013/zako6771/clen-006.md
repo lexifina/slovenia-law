@@ -1,0 +1,2 @@
+# 6. člen
+V tretjem odstavku 49. člena se za drugim stavkom doda nov stavek, ki se glasi: "Ministrstvo, pristojno za javno upravo, za namene spremljanja in izvajanja preizkusov znanja vodi evidenco, ki vsebuje zaporedno številko, številko zbirke dokumentov o kandidatu, osebno ime kandidata, datum in kraj njegovega rojstva, stalno oziroma začasno prebivališče kandidata in elektronski naslov za obveščanje, raven in vrsto kandidatove izobrazbe, datum opravljanja preizkusa znanja in uspeh pri tem preizkusu.".
