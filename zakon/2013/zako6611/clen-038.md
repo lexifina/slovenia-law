@@ -1,0 +1,2 @@
+# 38. člen
+Vsi postopki, začeti po Zakonu o mednarodni zaščiti (Uradni list RS, št. 11/11 − uradno prečiščeno besedilo, 98/11 − odločba US in 83/12), se nadaljujejo in končajo po določbah tega zakona, razen postopkov, začetih po 17. členu Zakona o mednarodni zaščiti (Uradni list RS, št. 11/11 − uradno prečiščeno besedilo, 98/11 − odločba US in 83/12), ki se nadaljujejo in končajo po določbah Zakona o mednarodni zaščiti (Uradni list RS, št. 11/11 − uradno prečiščeno besedilo, 98/11 − odločba US in 83/12).

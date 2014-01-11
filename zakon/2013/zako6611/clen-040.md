@@ -1,0 +1,2 @@
+# 40. člen
+Minister uskladi Pravilnik o pravicah prosilcev za mednarodno zaščito (Uradni list RS, št. 68/11 in 42/12) in Pravilnik o načinu izvajanju zakonitega zastopanja mladoletnikov brez spremstva ter načinu zagotavljanja ustrezne nastanitve, oskrbe in obravnave mladoletnikov brez spremstva zunaj azilnega doma ali njegove izpostave (Uradni list RS, št. 6/12) z določbami tega zakona v šestih mesecih od njegove uveljavitve.

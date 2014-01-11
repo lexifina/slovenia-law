@@ -1,0 +1,2 @@
+# 39. člen
+Do uveljavitve določb, ki urejajo združevanje družine oseb s priznano mednarodno zaščito, v zakonu, ki ureja vstop, prebivanje in zapustitev tujcev, se v zvezi z združevanjem družine oseb s priznano mednarodno zaščito uporabljajo druga alineja drugega odstavka 1. člena, 16.b člen, 17. člen, drugi in tretji odstavek 92. člena, 93. člen ter 30., 31., in 32. točka 118. člena Zakona o mednarodni zaščiti (Uradni list RS, št. 11/11 − uradno prečiščeno besedilo, 98/11 − odločba US in 83/12).
