@@ -11,4 +11,5 @@
 - porabi vina za lastno rabo, v skladu s predpisom, ki ureja trošarine.
 (2) Vlogo za vpis v register mora zavezanec za vpis v register skupaj s predpisano dokumentacijo vložiti na upravno enoto pred začetkom opravljanja dejavnosti.
 (3) Pridelovalec, ki namerava obnoviti vinograd, mora vlogo za dovoljenje za obnovo vinograda v predpisanem roku vložiti na upravno enoto. Vlogi je treba priložiti potrebno dokumentacijo ter navesti predvsem podatke o velikosti vinograda, o številu trsov, o sorti vinske trte in sadilnih razdaljah.
-(4) Minister predpiše podrobnejšo vsebino vloge, dokumentacijo iz drugega in tretjega odstavka tega člena ter roke in način sporočanja podatkov v register.
+(4) Za spremljanje stanja vinogradništva in vinarstva ter za izvajanje ukrepov kmetijske politike ministrstvo na podlagi podatkov iz prvega odstavka tega člena vsako leto določi skupno pridelavo grozdja in vina v Republiki Sloveniji.
+(5) Minister podrobnejše predpiše vsebino vloge, dokumentacijo iz drugega in tretjega odstavka tega člena, roke in način sporočanja podatkov v register ter način določitve skupne pridelave grozdja in vina v Republiki Sloveniji.

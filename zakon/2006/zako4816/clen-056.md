@@ -1,13 +1,13 @@
 # 56. člen (hujši prekrški)
-(1) Z globo od 450.000 tolarjev do 15.000.000 tolarjev se za prekršek kaznuje velik pridelovalec, ki opravlja svojo dejavnost kot pravna oseba ali samostojni podjetnik posameznik:
+(1) Z globo od 2.800 eurov do 28.000 eurov se za prekršek kaznuje velik pridelovalec, ki opravlja svojo dejavnost kot pravna oseba ali samostojni podjetnik posameznik:
 1. če uporabi geografsko označbo, tradicionalni izraz in dodatni tradicionalni izraz, čeprav ne izpolnjuje pogojev, določenih v drugem odstavku 4. člena tega zakona;
 2. če uporabi geografsko označbo, tradicionalni izraz ali dodatni tradicionalni izraz na proizvodih, določenih v prvem odstavku 5. člena tega zakona ali v nasprotju s 37. členom tega zakona ter s prvim in drugim odstavkom 39. člena tega zakona;
 3. če uporabi označbo vino PTP v nasprotju z določbami 7. člena tega zakona;
 4. če označi izvor mošta, vina in drugih proizvodov v nasprotju z določbo prvega odstavka 8. člena tega zakona;
-5. če na pridelovalnem območju Republike Slovenije sadi ali ima posajeno sorto trte, ki ni Vitis vinifera, ali sorto vinske trte, ki ni v sortnem izboru, kakor to določa 10. člen tega zakona;
+5. če na pridelovalnem območju Republike Slovenije sadi za namen pridelave grozdja, namenjenega pridelavi mošta, vina ali drugih proizvodov, ki ni za lastno uporabo, sorto trte, ki ni Vitis vinifera, ali sorto vinske trte, ki ni v sortnem izboru, kakor to določa 10. člen tega zakona;
 6. če se s pridelavo grozdja, mošta, vina in drugih proizvodov ukvarja pridelovalec, ki za to ne izpolnjuje pogojev kot to določata ali če pridelovalec ni vpisan v register, kakor to določata prvi in drugi odstavek 13. člena tega zakona;
 7. če ne priglasi podatkov v register, kakor to določa 15. člen tega zakona;
-8. če pridela grozdje, namenjeno pridelavi mošta, vina ali drugih proizvodov, zunaj vinorodnih območij, kar je v nasprotju z določbami prvega odstavka 19. člena tega zakona;
+8. če pridela grozdje, namenjeno pridelavi mošta, vina ali drugih proizvodov, zunaj vinorodnih območij, kar je v nasprotju z določbami prvega odstavka 19. člena tega zakona, razen če pridela grozdje, namenjeno pridelavi mošta, vina ali drugih proizvodov za lastno uporabo;
 9. če pridela grozdje za mošt, vino in druge proizvode s tehnologijo, ki ni ustrezna, in če grozdje ob trgatvi nima ustrezne stopnje naravnega alkohola ali je bila presežena omejitev hektarskega pridelka, kar je v nasprotju z določbami tretjega odstavka 19. člena tega zakona;
 10. če trga grozdje za pridelavo mošta, vina in drugih proizvodov, preden je tehnološko zrelo, kar je v nasprotju z določbami 21. člena tega zakona;
 11. če ravna z grozdjem, moštom, vinom in drugimi proizvodi tako, da se ne ohranijo in razvijejo vse naravne kakovostne značilnosti grozdja, mošta in vina, kar je v nasprotju z določbami prvega odstavka 23. člena tega zakona;
@@ -31,10 +31,11 @@
 29. če grozdje, mošt, vino in druge proizvode v prometu ne spremljajo predpisane listine, kakor to določa drugi odstavek 45. člena;
 30. če ne vodi kletarske evidence, kakor to določa 46. člen tega zakona;
 31. če prideluje kakovostno vino pdpo zunaj vinorodnega okoliša v nasprotju z določbami 47. člena tega zakona.
-(2) Z globo od 40.000 tolarjev do 500.000 tolarjev se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba velikega pridelovalca, ki je pravna oseba ali samostojni podjetnik posameznik.
-(3) Z globo od 250.000 tolarjev do 300.000 tolarjev se za prekršek iz prvega odstavka tega člena kaznuje veliki pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot fizična oseba.
-(4) Z globo od 300.000 tolarjev do 10.000.000 tolarjev se za prekršek iz prvega odstavka tega člena kaznuje srednje velik pridelovalec, ki opravlja dejavnost kot pravna oseba ali samostojni podjetnik posameznik.
-(5) Z globo od 40.000 tolarjev do 400.000 tolarjev se za prekršek iz prvega odstavka tega člena kaznuje odgovorna oseba srednje velikega pridelovalca, ki je pravna oseba ali samostojni podjetnik posameznik.
-(6) Z globo od 200.000 tolarjev do 280.000 tolarjev se za prekršek iz prvega odstavka tega člena kaznuje srednje velik pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot fizična oseba.
-(7) Z globo od 100.000 tolarjev do 3.000.000 tolarjev se za prekršek iz prvega odstavka tega člena kaznuje manjši pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot pravna oseba ali samostojni podjetnik posameznik.
-(8) Z globo od 35.000 tolarjev do 250.000 tolarjev se za prekršek iz prvega odstavka tega člena kaznuje odgovorna oseba manjšega pridelovalca, ki je pravna oseba, odgovorna oseba manjšega pridelovalca, ki je samostojni podjetnik posameznik, ali manjši pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot fizična oseba.
+(2) Z globo od 250 eurov do 2.500 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba velikega pridelovalca, ki je pravna oseba ali samostojni podjetnik posameznik.
+(3) Z globo od 1.570 eurov do 15.700 eurov se za prekršek iz prvega odstavka tega člena kaznuje veliki pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot fizična oseba.
+(4) Z globo od 1.570 eurov do 15.700 eurov se za prekršek iz prvega odstavka tega člena kaznuje srednje velik pridelovalec, ki opravlja dejavnost kot pravna oseba ali samostojni podjetnik posameznik.
+(5) Z globo od 200 eurov do 2.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje odgovorna oseba srednje velikega pridelovalca, ki je pravna oseba ali samostojni podjetnik posameznik.
+(6) Z globo od 1.125 eurov do 11.250 eurov se za prekršek iz prvega odstavka tega člena kaznuje srednje velik pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot fizična oseba.
+(7) Z globo od 1.125 eurov do 11.250 eurov se za prekršek iz prvega odstavka tega člena kaznuje manjši pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot pravna oseba ali samostojni podjetnik posameznik.
+(8) Z globo od 150 eurov do 1.500 eurov se za prekršek iz prvega odstavka tega člena kaznuje odgovorna oseba manjšega pridelovalca, ki je pravna oseba, odgovorna oseba manjšega pridelovalca, ki je samostojni podjetnik posameznik.
+(9) Z globo od 650 eurov do 6.500 eurov se za prekršek iz prvega odstavka tega člena kaznuje manjši pridelovalec, ki prideluje grozdje, mošt, vino ali druge proizvode kot fizična oseba.
