@@ -1,0 +1,10 @@
+# 40.b člen (prekrški)
+(1) Z globo 400 eurov se kaznuje za prekršek pravna oseba ali samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, ki ravna v nasprotju s prvim odstavkom 14. člena Uredbe 3821/85/EGS ali 10. členom AETR, če se ta uporablja na podlagi tretjega odstavka 2. člena Uredbe 561/2006/ES, če ne zagotovi zadostnega števila tahografskih vložkov v vozilu ali če tip tahografskega vložka ni odobren ali primeren.
+(2) Z globo 400 eurov se kaznuje za prekršek pravna oseba ali samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, ki ravna v nasprotju s prvim odstavkom 14. členom Uredbe 3821/85/EGS ali 10. členom AETR, če se ta uporablja na podlagi tretjega odstavka 2. člena Uredbe 561/2006/ES, če ne zagotovi, da se zahtevani izpis lahko pravilno izvede.
+(3) Z globo 500 eurov se za vsako začeto 24-urno obdobje kršitve kaznuje za prekršek pravna oseba ali samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, ki ravna v nasprotju s četrtim odstavkom 14. člena Uredbe 3821/85/EGS ali 10. členom AETR, če se ta uporablja na podlagi tretjega odstavka 2. člena Uredbe 561/2006/ES:
+- če je lastnik ali posestnik več voznikovih kartic ali če uporablja poškodovano ali neveljavno voznikovo kartico,
+- če se opravlja vožnja z voznikovo kartico, ki ni njegova last.
+(4) Z globo 250 eurov se za kršitve iz prvega ali drugega odstavka tega člena kaznuje za prekršek odgovorna oseba pravne osebe ali samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost.
+(5) Z globo 250 eurov se za kršitve iz prvega ali drugega odstavka tega člena kaznuje za prekršek voznik.
+(6) Z globo od 2.000 do 8.000 eurov se kaznuje za prekršek odgovorna oseba pravne osebe ali samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ki stori prekršek iz tretjega odstavka tega člena.
+(7) Z globo od 2.000 do 8.000 eurov se za kršitve iz tretjega odstavka tega člena kaznuje za prekršek voznik.
