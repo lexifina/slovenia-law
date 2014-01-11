@@ -1,0 +1,2 @@
+# 103.b člen (opravljanje reguliranih poklicev za državljane držav pogodbenic)
+Državljani držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije ali držav, s katero je sklenjen ustrezen mednarodni sporazum (v nadaljnjem besedilu: države pogodbenice), lahko v Republiki Sloveniji opravljajo regulirane poklice v skladu s tem zakonom pod enakimi pogoji kot slovenski državljani, razen, če s tem zakonom ni določeno drugače.
