@@ -1,0 +1,5 @@
+# 19. člen
+Četrta alineja 99. člena se spremeni tako, da se glasi:
+"- obseg, dinamika izplačil in način zagotavljanja sredstev države,"
+Doda se nov drugi odstavek, ki se glasi:
+"Način in dinamika izplačil sta odvisna od specifičnosti načina izvajanja posameznega javnega kulturnega programa ali kulturnega projekta in morata zagotavljati njegovo kontinuirano pripravo in izvedbo. Kadar je zaradi specifike izvajanja javnega kulturnega programa ali kulturnega projekta potrebno, se lahko ob prvem izplačilu izplača predujem do višine, ki jo za predplačila določa zakon, ki ureja izvrševanje proračuna Republike Slovenije. Če se ugotovi nenamenska poraba predujma, ga mora izvajalec vrniti z zakonskimi zamudnimi obrestmi od izplačila dalje. Namenskost porabe proračunskih sredstev preverja financer na podlagi letnega poročila o izvedenem javnem kulturnem programu oziroma končnega poročila o izvedenem kulturnem projektu, kot tudi z drugimi instrumenti nadzora, določenimi s tem ali drugim zakonom.".

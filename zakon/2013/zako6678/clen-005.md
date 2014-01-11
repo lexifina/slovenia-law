@@ -1,0 +1,3 @@
+# 5. člen
+V 31. členu se doda nov peti odstavek, ki se glasi:
+"Če o financiranju javnega zavoda za tekoče leto ni odločeno v zakonsko določenem roku, se lahko za obdobje največ do 31. marca tekočega leta izda odločba o začasnem financiranju, s katero se določi višina sredstev, ki obsega proračunska sredstva za splošne stroške delovanja, stroške dela zaposlenih ter programske stroške na ravni povprečja stroškov iz istega obdobja preteklega leta. Če do 31. marca tekočega leta še ni sprejet proračun, se začasno financiranje podaljša do njegove uveljavitve. V tem primeru se pri izračunu povprečja stroškov upošteva obdobje od 1. januarja preteklega leta, do meseca, na katerega se izplačilo nanaša.".

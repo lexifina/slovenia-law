@@ -1,0 +1,4 @@
+# 3. člen
+V drugem odstavku 22. člena se za besedo "kulturo," doda besedilo "strateškega načrta,".
+Doda se nov tretji odstavek, ki se glasi:
+"Javna agencija in javni sklad morata imeti strateški načrt za obdobje petih let, pri čemer lahko načrt vsebuje tudi dolgoročne usmeritve, ki presegajo to obdobje. Strateški načrt obsega programske usmeritve, organizacijske usmeritve, opredelitev investicij in investicijskega vzdrževanja ter kadrovski načrt. Javna agencija oziroma javni sklad mora k strateškemu načrtu pridobiti predhodno mnenje ustanovitelja. Strateški načrt sprejme direktor javne agencije oziroma javnega sklada s soglasjem sveta javne agencije oziroma nadzornega sveta javnega sklada. Če direktor ne sprejme strateškega načrta do izteka veljavnosti prejšnjega, je to razlog za njegovo razrešitev.".

@@ -1,0 +1,2 @@
+# 25. člen
+V prvem odstavku 120. člena se dodata nova drugi in tretji stavek, ki se glasita: "Minister lahko zavrne predlog komisije glede financiranja posameznega javnega kulturnega programa oziroma kulturnega projekta ter ga z utemeljitvijo vrne strokovni komisiji v ponovno presojo, ne more pa sprejeti drugačne odločitve, kot je predlagana v predlogu strokovne komisije. Minister lahko vrne javni kulturni program ali kulturni projekt v ponovno presojo samo enkrat.".

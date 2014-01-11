@@ -1,0 +1,8 @@
+# 11. člen
+Doda se nov 82.a člen, ki se glasi:
+"82.a člen
+(spodbude za samozaposlovanje)
+Samozaposlenim v kulturi, katerih dohodki iz dejavnosti v preteklem letu niso presegli zneska 14.679 eurov ali so v tekočem letu prvič vpisani v razvid samozaposlenih v kulturi, ministrstvo, pristojno za kulturo, lahko zagotovi izvajanje računovodstva.
+Ministrstvo, pristojno za kulturo, vsako leto objavi javni poziv za dodelitev kulturnih žepnin, namenjenih podpori izvedbe projektov samozaposlenih v kulturi. Samozaposleni v kulturi lahko prejme kulturno žepnino v skladu s tem členom pod pogoji, ki se določijo v besedilu javnega poziva. Za izvedbo javnega poziva in sklenitev pogodbe o financiranju se smiselno uporabljajo določbe IV. in V. poglavja tega zakona.
+Poleg ukrepov iz prvega in drugega odstavka tega člena se lahko podprejo tudi drugi ukrepi, namenjeni spodbujanju ustvarjalnosti ter povečanju učinkovitosti podpornega poslovnega in inovativnega okolja za samozaposlene v kulturi. Za izvedbo financiranja ukrepov se smiselno uporabljajo določbe IV. in V. poglavja tega zakona.
+Samozaposleni v kulturi lahko za čas zadržanosti z dela zaradi bolezni, ki traja najmanj 31 delovnih dni, prejme dnevno nadomestilo za delovne dni do vključno 30. delovnega dne bolezni. Nadomestilo lahko prejme največ za enkratno zadržanost z dela zaradi bolezni v posameznem letu. Dnevno nadomestilo dodeli ministrstvo, pristojno za kulturo, na podlagi vloge samozaposlenega v kulturi, ki jo poda najkasneje 90. dan po nastopu zadržanosti z dela. Višino dnevnega nadomestila za tekoče leto določi vlada do 31. januarja tekočega leta.".

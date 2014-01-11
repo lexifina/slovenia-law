@@ -1,0 +1,2 @@
+# 27. člen
+Lokalna skupnost, ki ob uveljavitvi tega zakona nima svojega lokalnega programa za kulturo, ga mora sprejeti najpozneje v osmih mesecih od uveljavitve tega zakona ali v istem roku v skladu z drugim odstavkom 14. člena zakona opredeliti javni interes na področju kulture, prioritete, ukrepe ter cilje in kazalce za njihovo doseganje v drugem dokumentu razvojnega načrtovanja lokalne skupnosti.
