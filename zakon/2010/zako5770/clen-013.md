@@ -11,7 +11,7 @@
 - vključenost v proračun (tip, skupina in podskupina proračunskega uporabnika ter šifra proračuna, ki mu proračunski uporabnik pripada);
 - dejavnost (šifra glavne dejavnosti po standardni klasifikaciji dejavnosti - SKD);
 - ustanovitelji (šifra, naziv in tip ustanovitelja);
-- podatki o zastopnikih oziroma zastopnicah (ime in priimek, datum imenovanja in razrešitve);
+- podatki o zastopnikih (osebno ime, naslov stalnega ali začasnega prebivališča, enotna matična številka občana (v nadaljnjem besedilu: EMŠO), datum imenovanja in razrešitve, vrsta zastopnika);
 - upravljanje likvidnosti (skupina za upravljanje likvidnosti in pripadnost sistemu enotnega zakladniškega računa);
 - plačne skupine (oznaka plačne skupine);
 - vpisi v register proračunskih uporabnikov (datum ustanovitve ter vključitve in izključitve).
@@ -22,6 +22,7 @@
 (4) Podatki o upravljavcih sredstev sistema enotnega zakladniškega računa so:
 - identifikacija upravljavca sredstev sistema enotnega zakladniškega računa (šifra za upravljanje likvidnosti sistemov enotnega zakladniškega računa, naziv in kratek naziv);
 - upravljavec (šifra in naziv);
+- podatki o zastopnikih (osebno ime, naslov stalnega ali začasnega prebivališča, EMŠO, datum imenovanja in razrešitve, vrsta zastopnika);
 - vpisi v register proračunskih uporabnikov (datum vključitve in izključitve ter zadnje spremembe);
 - podatki za povezave z drugimi podatkovnimi zbirkami (matična številka, davčna številka in šifra SKIS).
 (5) Podatki o nadzornikih javnofinančnih prihodkov so:
@@ -37,7 +38,9 @@
 - vrsta računa po zahtevah registra transakcijskih računov;
 - imetnik računa;
 - souporaba računa;
+- identifikacijski podatki o osebah, pooblaščenih za razpolaganje s sredstvi na računu in podpisovanje plačilnih navodil (osebno ime, lastnoročni podpis, način podpisovanja, omejitve razpolaganja);
 - nadzorniki prometa in stanja na računu;
+- skrbnik;
 - aktivnost;
 - oznaka za objavo v registru transakcijskih računov;
 - datum odprtja računa;
@@ -53,4 +56,4 @@
 - naslovi prejemnikov obvestil;
 - način dostave obvestil in
 - vrsta obvestila.
-(8) Minister, pristojen za finance, podrobneje predpiše merila za pridobitev in prenehanje statusa proračunskega uporabnika ter način vodenja registra proračunskih uporabnikov.
+(8) Minister, pristojen za finance, podrobneje predpiše merila za pridobitev in prenehanje statusa proračunskega uporabnika, način vodenja registra proračunskih uporabnikov ter podrobnejšo razčlenitev podatkov iz prvega do sedmega odstavka tega člena.

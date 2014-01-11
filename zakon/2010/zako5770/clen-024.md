@@ -1,2 +1,2 @@
-# 24. člen (obveznost zaprtja plačilnih in transakcijskih računov)
-Pravna oseba, ki je pridobila status proračunskega uporabnika in je predhodno poslovala prek enega ali več plačilnih in transakcijskih računov pri drugih ponudnikih plačilnih storitev, mora v tridesetih dneh po dokončnosti odločbe o vključitvi v register proračunskih uporabnikov zapreti vse plačilne in transakcijske račune pri drugih ponudnikih plačilnih storitev.
+# 24. člen (obveznost zaprtja računov)
+Pravna oseba, ki je pridobila status proračunskega uporabnika in je predhodno poslovala prek enega ali več računov pri drugih ponudnikih plačilnih storitev, mora v tridesetih dneh po dokončnosti odločbe o vključitvi v register proračunskih uporabnikov zapreti vse račune pri drugih ponudnikih plačilnih storitev.

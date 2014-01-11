@@ -8,4 +8,5 @@
 - podatke za stike z imetnikom NMVP RS (elektronski naslov ali telefonska številka).
 (2) UJP lahko osebne podatke iz prejšnjega odstavka pridobiva neposredno od imetnika NMVP RS ali njegovega zakonitega zastopnika, lahko pa tudi od upravljavca centralne zbirke nematerializiranih vrednostnih papirjev.
 (3) Določbe prvega in drugega odstavka tega člena se smiselno uporabljajo tudi za zbiranje in nadaljnjo obdelavo osebnih podatkov o zakonitem zastopniku ali dediču imetnika NMVP RS, če je ta upravičen do izplačila dohodka iz naslova NMVP RS.
-(4) UJP je podatke iz prvega in tretjega odstavka tega člena upravičen pridobivati brezplačno.
+(4) UJP za vodenje in vzdrževanje registra proračunskih uporabnikov ter za zagotavljanje varnosti pravnega prometa in izmenjave podatkov med UJP in upravljavcem Poslovnega registra Slovenije obdeluje osebne podatke, ki so navedeni v 13. členu tega zakona.
+(5) UJP je podatke iz prvega do četrtega odstavka tega člena upravičen pridobivati brezplačno.

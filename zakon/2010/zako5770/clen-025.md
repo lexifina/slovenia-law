@@ -1,2 +1,6 @@
-# 25. člen (prepoved odpiranja plačilnih in transakcijskih računov ter opravljanja plačilnih storitev izven sistema enotnega zakladniškega računa)
-Proračunski uporabnik, ki je vključen v sistem enotnega zakladniškega računa, ne sme odpirati plačilnih in transakcijskih računov pri drugih ponudnikih plačilnih storitev ter opravljati plačilnih storitev izven sistema enotnega zakladniškega računa, razen če ta zakon ali drugi predpisi določajo drugače.
+# 25. člen (prepoved odpiranja računov in uporabe plačilnih storitev izven sistema enotnega zakladniškega računa)
+(1) Proračunski uporabnik ne sme odpirati računov pri drugih ponudnikih plačilnih storitev in uporabljati plačilnih storitev izven sistema enotnega zakladniškega računa, razen če ta ali drug zakon določa drugače.
+(2) Ponudniki plačilnih storitev, razen Banke Slovenije, morajo zavrniti zahtevek za odprtje računa ali naročilo plačilnih storitev, ki je v nasprotju s prepovedjo iz prejšnjega odstavka.
+(3) Ne glede na prvi in drugi odstavek tega člena lahko:
+- proračunski uporabnik pri izbranih poslovnih bankah odpre in uporablja posebne račune z ničelnim stanjem izključno za dvig ali polog domače in tuje gotovine na način, ki ga predpiše minister, pristojen za finance;
+- diplomatsko-konzularna predstavništva Republike Slovenije (v nadaljnjem besedilu: DKP) odpirajo račune pri poslovnih bankah v državi, kjer ima DKP sedež, če predhodno pridobijo soglasje ministrstva, pristojnega za zunanje zadeve. Ministrstvo, pristojno za zunanje zadeve, mora o odprtju teh računov obvestiti UJP, ki vzpostavi evidenčne račune. DKP morajo UJP brezplačno sporočati podatke o plačilih, opravljenih v breme in dobro teh računov, ter o stanju sredstev na njih na način, ki ga predpiše minister, pristojen za finance.
