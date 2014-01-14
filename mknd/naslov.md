@@ -1,0 +1,11 @@
+U K A Z
+
+o razglasitvi Zakona o ratifikaciji Konvencije o nočnem delu (Konvencija MOD št. 171) (MKND)
+
+Z A K O N
+
+O RATIFIKACIJI KONVENCIJE O NOČNEM DELU (KONVENCIJA MOD ŠT. 171) (MKND)
+
+CONVENTION CONCERNING NIGHT WORK
+
+KONVENCIJA O NOČNEM DELU
