@@ -1,0 +1,3 @@
+# 15. člen (podaljšanje veljavnosti obstoječih gradbenih dovoljenj)
+(1) Investitor načrtovane gospodarske infrastrukture, ki je za gradnjo pridobil gradbeno dovoljenje pred 30. januarjem 2014, a gradnja zaradi posledic žledu po tem zakonu ni mogoča ali jo je treba odložiti za nedoločen čas, lahko ne glede na določbe 72. člena ZGO-1 pri pristojnem organu, ki je gradbeno dovoljenje izdal, zahteva podaljšanje njegove veljavnosti za tri leta.
+(2) Investitor načrtovane gospodarske infrastrukture lahko v primeru iz prejšnjega odstavka zahteva podaljšanje veljavnosti gradbenega dovoljenja tudi, če je bilo že podaljšano in po določbah ZGO-1 podaljšanje ni več mogoče.

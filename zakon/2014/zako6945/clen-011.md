@@ -1,0 +1,2 @@
+# 11. člen (čas vožnje vlečnega vozila in motornih vozil za posebne namene v eni izmeni)
+Ne glede na drugi odstavek 84. člena Zakona o varnosti v železniškem prometu (Uradni list RS, št. 56/13 - uradno prečiščeno besedilo in 91/13), neprekinjena vožnja vlečnega vozila ali motornega vozila za posebne namene v času odprave posledic žleda v notranjem železniškem prometu ne sme trajati več kot pet ur.

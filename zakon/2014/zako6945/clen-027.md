@@ -1,0 +1,4 @@
+## VI. POSEBNOSTI PRI UGOTAVLJANJU KATASTRSKEGA DOHODKA IN ODPISU PRISPEVKOV
+# 27. člen (posebnosti pri ugotavljanju katastrskega dohodka ali določanju davčne osnove za davek od osnovne kmetijske oziroma gozdarske dejavnosti)
+(1) Oprostitev iz 18. točke prvega odstavka 73. člena Zakona o dohodnini (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 24/12, 30/12, 40/12 - ZUJF, 75/12, 94/12 in 96/13) se uporabi tudi za parcele gozdnih zemljišč, ki jih je prizadel žled v takem obsegu, da je gozd uničen v celoti in je Zavod za gozdove Slovenije naložil obvezno obnovo gozda s sadnjo.
+(2) Za parcele gozdnih zemljišč, na katerih je zaradi žledu nujna sanitarna sečnja v obsegu, ki znaša več kot 50 odstotkov desetletnega mogočega poseka, se katastrski dohodek, ugotovljen v skladu z zakonom, ki ureja ugotavljanje katastrskega dohodka, v desetih letih od leta naravne nesreče zniža za odstotek poškodovanosti, ki ga ugotovi Zavod za gozdove Slovenije.
