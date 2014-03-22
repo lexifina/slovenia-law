@@ -1,5 +1,0 @@
-# 36. člen
-V tretjem odstavku 67. člena se besede "Agencija za energijo" nadomestijo z besedama "Eko sklad".
-Drugi stavek četrtega odstavka se spremeni tako, da se glasi: "Dobavitelji toplote, električne energije, plinastih goriv, dobavitelje tekočih goriv za ogrevanje, ki so mali zavezanci, ter dobavitelje tekočih goriv za pogonski namen po drugem odstavku 66.b člena tega zakona zbrana sredstva za izvajanje programov nakazujejo Eko skladu.".
-Peti odstavek se spremeni tako, da se glasi:
-"Zavezanec, ki je dobavitelj toplote iz distribucijskega omrežja, plina ter tekočih goriv za ogrevanje in ni dosegel ciljev potrjenega programa, je pa obračunal dodatek k ceni toplote oziroma goriv, mora sorazmerni del obračunanih sredstev, ki ga določi Eko sklad, skupaj z zamudnimi obrestmi nakazati Eko skladu. Zavezanec, ki je dobavitelj toplote iz distribucijskega omrežja, plina ter tekočih goriv za ogrevanje in je zbral več sredstev, kot je potrebno za izvedbo potrjenega programa, mora razliko sredstev nakazati Eko skladu.".
