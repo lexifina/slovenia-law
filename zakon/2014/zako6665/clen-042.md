@@ -1,0 +1,9 @@
+# 42. člen (prikaz sestave proizvodnih virov energije na računu dobavitelja)
+(1) Dobavitelji elektrike morajo končnim odjemalcem na izdanih računih za dobavljeno elektriko, na promocijskih gradivih in na spletu prikazati:
+- delež posameznega proizvodnega vira energije v celotni strukturi elektrike, ki jo je dobavitelj koristil v predhodnem letu, tako da je mogoča razumljiva primerjava med različnimi dobavitelji na državni ravni;
+- vsaj navedbo sklica na obstoječe referenčne vire (npr. spletne strani, kjer so javno dostopni podatki o vplivih na okolje, izraženih z emisijami CO2 in količinami radioaktivnih odpadkov, ki so posledica proizvodnje elektrike iz celotne strukture proizvodnih virov elektrike, ki jo je dobavitelj koristil v predhodnem letu);
+- informacije o pravicah končnih odjemalcev v zvezi z metodami reševanja morebitnih sporov.
+(2) Glede obveznosti iz prve in druge alineje prejšnjega odstavka se lahko v zvezi z elektriko, kupljeno na borzi z električno energijo ali uvoženo iz podjetja, ki je zunaj Evropske unije, uporabijo zbirne številke, ki jih borza ali podjetje posreduje za predhodno leto.
+(3) Če dobavitelj elektrike v svojem naboru energetskih virov uporablja tudi elektriko iz obnovljivih virov, delež ali količino elektrike iz obnovljivih virov energije dokazuje z uporabo potrdil o izvoru iz svojega računa, vodenega v registru iz 368. člena tega zakona. Količina energije iz obnovljivih virov, ki ustreza potrdilom o izvoru in jo dobavitelj prenese na tretjo osebo, se odšteje od deleža energije iz obnovljivih virov v njegovem naboru energetskih virov.
+(4) Agencija s splošnim aktom podrobneje predpiše način določanja deležev posameznih proizvodnih virov in način njihovega prikazovanja.
+(5) Agencija spremlja izvajanje obveznosti dobaviteljev, zlasti pa preverja verodostojnost podatkov, ki jih dobavitelji posredujejo svojim odjemalcem, in ali so podatki posredovani na način, ki omogoča enostavno primerjavo na državni ravni.

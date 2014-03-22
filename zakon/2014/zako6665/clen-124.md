@@ -1,0 +1,2 @@
+# 124. člen (določitev plačila za najem in izvajanje nalog v odločbi o regulativnem okviru)
+V primeru iz prvega in drugega odstavka 121. člena tega zakona agencija z odločbo iz osmega odstavka 117. člena tega zakona določi tudi višino plačila za najem sistema ali plačila za izvajanje nalog za najemodajalca in vzdrževalca iz prvega in tretjega odstavka 121. člena tega zakona. To plačilo je upravičeni strošek distribucijskega operaterja.

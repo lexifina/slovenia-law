@@ -1,0 +1,4 @@
+# 370. člen (prenos in distribucija električne energije iz obnovljivih virov in soproizvodnje z visokim izkoristkom)
+(1) Elektrooperater mora zagotavljati prenos in distribucijo električne energije, proizvedene iz obnovljivih virov energije ter v soproizvodnji z visokim izkoristkom.
+(2) Elektrooperater mora pri svojih aktivnostih uravnavanja delovanja omrežja na podlagi preglednih in nediskriminatornih pravil dajati prednost proizvodnim napravam na obnovljive vire in soproizvodnji z visokim izkoristkom, če to omogoča varno delovanje elektroenergetskega sistema.
+(3) Če elektrooperater zaradi zagotavljanja stabilnosti elektroenergetskega sistema in zanesljivosti oskrbe z električno energijo sprejme ukrepe, ki bistveno zmanjšajo uporabo obnovljivih virov energije, mora o teh ukrepih poročati agenciji. V poročilu mora navesti tudi katere popravne ukrepe namerava sprejeti za preprečitev bistvenega zmanjšanja porabe energije iz obnovljivih virov.

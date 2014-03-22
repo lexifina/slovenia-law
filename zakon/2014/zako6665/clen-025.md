@@ -1,0 +1,4 @@
+# 25. člen (letna energetska bilanca)
+(1) Letna energetska bilanca napoveduje skupno letno porabo posameznih virov energije in načine zagotavljanja oskrbe z energijo v državi.
+(2) Ministrstvo, pristojno za energijo, predloži vsakoletno energetsko bilanco v sprejem vladi.
+(3) Obvezne sestavine energetske bilance so bilance količin primarne in končne energije, izražene v naravnih količinah in ekvivalentni energijski vrednosti, po posameznih virih v državi, in sicer realizacije za predpreteklo leto, oceno za preteklo leto ter napovedi za tekoče in prihodnje leto. Energetske bilance morajo vsebovati tudi načrt za delovanje podporne sheme za električno energijo iz obnovljivih virov in iz soproizvodnje z visokim izkoristkom ter napoved razpoložljivih virov sredstev za doseganje predvidenih letnih ciljev podporne sheme.

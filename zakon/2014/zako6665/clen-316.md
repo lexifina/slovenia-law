@@ -1,0 +1,4 @@
+# 316. člen (vrste finančnih spodbud)
+(1) Minister, pristojen za energijo, določi vrste finančnih spodbud za energetsko učinkovitost, daljinsko ogrevanje in rabo obnovljivih virov energije, pogoje in merila za njihovo dodelitev, vrste upravičencev do spodbud, ter spodbude, ki se dodeljujejo kot državne pomoči, spodbude, ki se dodeljujejo po pravilu "de minimis", in druge finančne spodbude (v nadaljnjem besedilu: subvencije).
+(2) Organ, ki dodeljuje finančne spodbude iz prejšnjega odstavka na svoji spletni strani objavi vse prejemnike finančnih spodbud, njihov naslov ter vrsto in velikost financiranega projekta.
+(3) V predpisu iz prvega odstavka tega člena minister določi tehnične specifikacije, ki jih morajo izpolnjevati naprave in sistemi za proizvodnjo energije iz obnovljive energije, da so upravičeni do finančnih spodbud.

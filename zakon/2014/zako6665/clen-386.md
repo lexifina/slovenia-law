@@ -1,0 +1,12 @@
+# 386. člen (mednarodno sodelovanje agencije)
+(1) Agencija je dolžna sodelovati z ACER.
+(2) Visokega predstavnika agencije v odboru regulatorjev ACER po prvem odstavku 14. člena Uredbe (ES) št. 713/2009 in njegovega namestnika imenuje svet agencije izmed zaposlenih na agenciji za dobo pet let in je po preteku te dobe lahko ponovno imenovan. Visoki predstavnik in njegov namestnik morata izpolnjevati pogoje iz prvega odstavka 393. člena tega zakona.
+(3) Visokemu predstavniku agencije in njegovemu namestniku predčasno preneha mandat iz razlogov, ki veljajo za člana sveta agencije in so navedeni v prvem odstavku 394. člena tega zakona ter z dnem prenehanja delovnega razmerja v agenciji.
+(4) Agencija sodeluje, se posvetuje in zagotavlja podatke, ki so potrebni za izpolnjevanje nalog ACER, drugih nacionalnih regulativnih organov, sistemskih operaterjev in operaterjev prenosnih sistemov drugih držav članic Evropske unije neposredno in v okviru regionalnega sodelovanja, po potrebi pa tudi z ustreznimi organi drugih držav.
+(5) Agencija spodbuja in omogoča sodelovanje sistemskih operaterjev na regionalni ravni, vključno s čezmejnimi vprašanji, da se ustvari konkurenčen notranji trg za elektriko in plin in spodbuja usklajenost pravnega in regulativnega ter tehničnega okvira na geografskih območjih, ki so opredeljena v skladu s tretjim odstavkom 12. člena Uredbe (ES) št. 714/2009 ali na drugih geografskih območjih.
+(6) Agencija sodeluje z regulativnimi organi v drugih državah članicah Evropske unije pri izvajanju ukrepov, s katerimi:
+- spodbuja uvajanje obratovalnih dogovorov, da bi omogočili optimalno upravljanje omrežja, spodbudili skupne borze elektrike in plina in dodeljevanje čezmejnih zmogljivosti ter - vključno z novimi povezavami - omogočili ustrezno raven zmogljivosti za medsebojno povezovanje v regiji in med regijami, da se omogoči razvoj učinkovite konkurence in izboljša zanesljivost dobave brez razlikovanja med dobavitelji v različnih državah članicah;
+- uskladi vse omrežne kodekse za operaterje prenosnih sistemov in druge udeležence na trgu;
+- uskladi pravila za upravljanje omrežij in
+- izvaja svoje pristojnosti skladno z Uredbo (EU) št. 1227/2011.
+(7) Agencija lahko sklepa sporazume z drugimi regulativnimi organi za pospešitev regulativnega sodelovanja. Pri izvajanju ukrepov iz prejšnjega odstavka se agencija, če je to potrebno, posvetuje z ministrstvom, pristojnim za energijo, sistemskim operaterjem in operaterjem trga.

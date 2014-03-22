@@ -1,0 +1,2 @@
+# 38. člen (izključne pravice)
+Zaradi zagotavljanja opravljanje obveznosti obveznih državnih gospodarskih javnih služb iz prejšnjega člena vlada skladno s predpisi o gospodarskih javnih službah in o javno-zasebnem partnerstvu ter skladno s tem zakonom podeli izključno pravico opravljati gospodarsko javno službo dejavnost sistemskega operaterja, izključno pravico za opravljanje dejavnosti distribucijskega operaterja ter izključno pravico za opravljanje dejavnosti operaterja trga z elektriko.

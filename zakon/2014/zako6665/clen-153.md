@@ -1,0 +1,5 @@
+# 153. člen (odklop na zahtevo uporabnika sistema)
+(1) Uporabnik sistema, ki je imetnik soglasja za priključitev, lahko zahteva od elektrooperaterja, naj njegovo prevzemno-predajno mesto odklopi od omrežja.
+(2) Elektrooperater je dolžan uporabnika sistema na njegove stroške ponovno priklopiti na sistem. Če traja odklop iz prejšnjega odstavka dlje kot tri leta, mora uporabnik sistema pred ponovnim priklopom pridobiti novo soglasje za priključitev na sistem iz 147. člena tega zakona in skleniti novo pogodbo o priključitvi, brez plačila omrežnine za priključno moč.
+(3) Elektrooperater lahko uporabniku sistema, ki je zahteval odklop, zavrne ponovno priključitev na sistem ali izdajo novega soglasja za priključitev, dokler uporabnik sistema ne poravna vseh zapadlih obveznosti iz pogodbe o uporabi sistema in pogodbe o priključitvi na sistem.
+(4) Elektrooperater v sistemskih obratovalnih navodilih podrobneje uredi medsebojna razmerja in plačilo stroškov v primeru ponovnega priklopa, če je bil odklop izveden na zahtevo uporabnika sistema.

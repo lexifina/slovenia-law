@@ -1,0 +1,2 @@
+# 233. člen (posledice prenehanja statusa zaprtega distribucijskega sistema)
+Po prenehanju dovoljenja o pridobitvi statusa zaprtega distribucijskega sistema, ki ni bilo podaljšano skladno s petim odstavkom 228. člena tega zakona ali je bila zahteva za podaljšanje pravnomočno zavrnjena, ali po pravnomočnosti odločbe o odvzemu statusa zaprtega distribucijskega sistema, se za ureditev razmerij med lastnikom zaprtega distribucijskega sistema in operaterjem distribucijskega sistema, na območju katerega je zaprt distribucijski sistem, uporabi drugi odstavek 219. člena tega zakona.

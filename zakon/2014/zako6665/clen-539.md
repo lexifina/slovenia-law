@@ -1,0 +1,2 @@
+# 539. člen (energetska izkaznica, pregledi klimatskih in ogrevalnih sistemov)
+Odločbe o izbiri za izvajalca usposabljanja ter odločbe o usposobljenosti za izdelavo in izdajo energetskih izkaznic ter preglede klimatskih in ogrevalnih sistemov, ki so bile izdane izvajalcem usposabljanja, neodvisnim strokovnjakom in izdajateljem na podlagi Energetskega zakona (Uradni list RS, št. 27/07 - uradno prečiščeno besedilo, 70/08, 22/10, 37/11 - odločba US, 10/12 in 94/12 - ZDoh-2L), se štejejo za skladne s tem zakonom.

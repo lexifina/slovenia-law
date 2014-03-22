@@ -1,0 +1,3 @@
+# 529. člen (metodologija za oblikovanje cen za dobavo toplote)
+(1) Za oblikovanje cen toplote za daljinsko ogrevanje se do uveljavitve splošnega akta agencije iz drugega odstavka 299. člena tega zakona uporablja Uredba o oblikovanju cen proizvodnje in distribucije pare in tople vode za namene daljinskega ogrevanja za tarifne odjemalce (Uradni list RS, št. 33/13).
+(2) Če agencija v treh mesecih pred iztekom veljavnosti Uredbe o oblikovanju cen proizvodnje in distribucije pare in tople vode za namene daljinskega ogrevanja za tarifne odjemalce (Uradni list RS, št. 33/13) ne sprejme splošnega akta iz drugega odstavka 299. člena tega zakona, vlada regulira cene daljinskega ogrevanja na podlagi zakona, ki ureja kontrolo cen.

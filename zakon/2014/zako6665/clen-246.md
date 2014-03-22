@@ -1,0 +1,6 @@
+# 246. člen (posebna določba za sisteme za UZP, pridobivalna plinovodna omrežja in skladišča)
+(1) Določba 239. člena tega zakona se uporablja tudi za dostop do sistema za UZP in do pridobivalnih plinovodnih omrežij, razen za dele omrežij in naprav, ki se uporabljajo za lokalno obratovanje na mestu, kjer se pridobiva plin.
+(2) V čezmejnih sporih se uporabljajo mehanizmi za reševanje sporov države članice Evropske unije, ki je pristojna za pridobivalno plinovodno omrežje, ki zavrne dostop. Če je več držav članic Evropske unije pristojnih za pridobivalno plinovodno omrežje, se zadevne države članice posvetujejo za zagotovitev usklajenega delovanja.
+(3) Določba 239. člena tega zakona se uporablja tudi za dostop do skladišča zemeljskega plina ali skladiščne zmogljivosti plinovodov, kadar je zagotovitev učinkovitega dostopa do tega sistema nujna zaradi oskrbe odjemalcev iz tehničnih ali ekonomskih razlogov, in za organiziranje dostopa do sistemskih storitev.
+(4) Določbe tega člena ne veljajo za sistemske storitve in za prehodna skladišča, ki so povezana z obrati za UZP in se uporabljajo pri postopku ponovnega uplinjanja in pri kasnejšem dovajanju zemeljskega plina v prenosni sistem.
+(5) Uporabnik skladiščnega sistema lahko sklene pogodbo o dobavi s konkurenčnim podjetjem plinskega gospodarstva, ki ni lastnik ali operater sistema ali z njim povezano podjetje.

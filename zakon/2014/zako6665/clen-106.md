@@ -1,0 +1,5 @@
+# 106. člen (poravnava in presežek bilančnega obračuna)
+(1) Operater trga izvaja obračun in finančno poravnavo bilančnega obračuna odgovornih bilančnih skupin.
+(2) Presežki prihodkov nad odhodki iz naslova bilančnega obračuna so namenjeni za zavarovanje in kritje tveganj operaterja trga in jih operater trga vodi na posebnem računu. Določitev višine potrebnih sredstev za namene zavarovanja in kritja tveganj operaterja trga se podrobneje uredi s pravili za delovanje trga z elektriko iz četrtega odstavka 97. člena tega zakona.
+(3) Sredstva, ki v posameznem koledarskem letu presegajo namene iz prejšnjega odstavka, agencija razporedi med udeležence bilančnega obračuna glede na dejanske stroške, ki jih je imel v istem letu sistemski operater iz naslova izravnave.
+(4) Sistemski operater posreduje operaterju trga podatke o dejanjih izravnave elektroenergetskega sistema Republike Slovenije, iz katerih izvirajo stroški izravnave odstopanj, tako da sta razvidna namen nakupa oziroma prodaje elektrike in izvor oziroma ponor elektrike.

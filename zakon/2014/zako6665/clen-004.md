@@ -1,0 +1,43 @@
+# 4. člen (pomen izrazov)
+Če ni v posameznem delu zakona pomen izraza določen drugače, imajo v zakonu uporabljeni izrazi naslednji pomen:
+1. "ACER" pomeni Agencija za sodelovanje energetskih regulatorjev, ustanovljena z Uredbo (ES) št. 713/2009;
+2. "biogorivo" je tekoče ali plinasto gorivo, namenjeno uporabi v prometu, proizvedeno iz biomase;
+3. "daljinsko hlajenje" pomeni distribucijo ohlajenih tekočin iz centralnih proizvodnih virov po omrežju do končnih odjemalcev v več zgradbah ali lokacijah;
+4. "daljinsko ogrevanje" pomeni distribucijo pare, vroče ali tople vode iz centralnih proizvodnih virov po omrežju do končnih odjemalcev v več zgradbah ali lokacijah;
+5. "distribucija tekočih goriv" pomeni distribucijo tekočih goriv do končnih uporabnikov, ki se ne izvaja po distribucijskih cevnih omrežjih;
+6. "distribucija toplote" pomeni prenos toplote po distribucijskem sistemu, ki vključuje tudi dobavo končnim odjemalcem;
+7. "distribucijski operater" pomeni pravno ali fizično osebo, ki izvaja dejavnost distribucijskega operaterja električne energije in je odgovorna za obratovanje, vzdrževanje in razvoj distribucijskega sistema električne energije na določenem območju, za medsebojne povezave z drugimi sistemi, kadar je ustrezno, in za zagotavljanje dolgoročne zmogljivosti sistema za zadovoljitev razumnih potreb po distribuciji električne energije;
+8. "dolgoročno načrtovanje" pomeni dolgoročno načrtovanje potrebnih naložb v proizvodnjo, prenosne in distribucijske zmogljivosti ter druge objekte, za zadostitev povpraševanja sistema po električni energiji, zemeljskem plinu in drugih energentih, in za zagotovitev zanesljive oskrbe odjemalcev;
+9. "elektrika" pomeni električno energijo;
+10. "elektrooperater" pomeni sistemskega operaterja ali distribucijskega operaterja;
+11. "energetski pregled" pomeni sistematični postopek za namene seznanitve z obstoječo porabo energije stavbe ali skupine stavb, industrijskega ali komercialnega procesa, obrata, zasebne ali javne storitve, s katerim se opredelijo in ocenijo stroškovno učinkovite možnosti za prihranek energije, ter v okviru katerega se poroča o ugotovitvah;
+12. "energija" pomeni vse oblike energentov, kakor so opredeljene v d) točki 2. člena Uredbe (ES) št. 1099/2008 Evropskega parlamenta in Sveta z dne 22. oktobra 2008 o statistiki energetike (UL L 304 z dne 14. 11. 2008, str. 1);
+13. "gospodinjski odjemalec" pomeni odjemalca, ki kupuje električno energijo, zemeljski plin, toploto ali drug energetski plin za svojo lastno rabo v gospodinjstvu, kar izključuje rabo za opravljanje trgovskih ali poklicnih dejavnosti;
+14. "končna bruto poraba energije" pomeni energijo ali energent, dobavljen za energetske namene industriji, prometu, gospodinjstvom, storitvenemu sektorju, vključno z javnim sektorjem, kmetijstvu, gozdarstvu in ribištvu, vključno z električno energijo in toploto, ki jo porabi sektor pretvorbe energije za proizvodnjo električne energije in toplote, ter izgubami električne energije in toplote pri distribuciji in prenosu;
+15. "končna poraba energije" pomeni energijo ali energent, dobavljen za energetske namene industriji, prometu, gospodinjstvom, storitvenemu sektorju, vključno z javnim sektorjem, kmetijstvu, gozdarstvu in ribištvu, razen dobave sektorju pretvorbe energije;
+16. "končni odjemalec" pomeni fizično ali pravno osebo, ki kupuje energijo za lastno končno rabo;
+17. "lokalna skupnost" pomeni samoupravno lokalno skupnost;
+18. "lokalni energetski koncept" je koncept razvoja lokalne skupnosti ali več lokalnih skupnosti na področju oskrbe in rabe energije, ki vključuje ukrepe za učinkovito rabo energije ter način oskrbe z energijo iz obnovljivih virov, soproizvodnje, odvečne toplote in iz drugih virov;
+19. "napredni merilni sistem" pomeni elektronski sistem, ki lahko meri porabo energije, ob čemer doda več informacij kot običajni števec ter lahko pošilja in prejema podatke z uporabo elektronske komunikacije;
+20. "nizkoogljične tehnologije" pomeni tehnologije, ki med proizvodnjo toplote ali električne energije ne povzročajo emisij ogljikovega dioksida;
+21. "obnovljivi viri energije" so obnovljivi nefosilni viri energije (veter, sonce, aerotermalna, hidrotermalna in geotermalna energija, energija oceanov, vodna energija, biomasa, plin, pridobljen iz odpadkov, plin iz naprav za čiščenje odplak in bioplin);
+22. "obveznost glede obnovljivih virov energije" pomeni program podpore, ki zahteva od:
+a. proizvajalcev energije, da v proizvodnjo vključijo določen delež energije iz obnovljivih virov;
+b. dobaviteljev energije, da v dobavo vključijo določen delež energije iz obnovljivih virov;
+c. od porabnikov energije, da v porabo vključijo določen delež energije iz obnovljivih virov;
+23. "odjemalec" je pravna ali fizična oseba, ki kupuje energijo ali gorivo za lastno rabo ali za nadaljnjo prodajo;
+24. "operater" pomeni elektrooperater ali operater sistema zemeljskega plina;
+25. "operater distribucijskega sistema" pomeni pravno ali fizično osebo, ki izvaja dejavnosti distribucije zemeljskega plina in je odgovorna za obratovanje, vzdrževanje in razvoj distribucijskega sistema na določenem območju, za medsebojne povezave z drugimi sistemi, kadar je ustrezno, in za zagotavljanje dolgoročne zmogljivosti sistema za zadovoljitev razumnih potreb po distribuciji plina;
+26. "operater prenosnega sistema" pomeni pravno ali fizično osebo, ki opravlja dejavnosti prenosa zemeljskega plina in je odgovorna za obratovanje, vzdrževanje in razvoj prenosnega sistema na določenem območju, za medsebojne povezave z drugimi sistemi, kadar je ustrezno, in za zagotavljanje dolgoročne zmogljivosti sistema za zadovoljitev razumnih potreb po transportu plina;
+27. "operater sistema" je operater prenosnega sistema zemeljskega plina ali operater distribucijskega sistema zemeljskega plina;
+28. "podjetje za maloprodajo energije" pomeni pravno ali fizično osebo, ki prodaja energijo končnim odjemalcem;
+29. "pogodbeno zagotavljanje prihranka energije" pomeni pogodbeni dogovor med koristnikom in ponudnikom ukrepa za izboljšanje energetske učinkovitosti, ki se preverja in spremlja v vsem obdobju pogodbe in v okviru katerega se naložbe (delo, dobava ali storitev) v ukrep plačujejo sorazmerno s stopnjo izboljšanja energetske učinkovitosti, dogovorjeno s pogodbo, ali drugim dogovorjenim merilom za energetsko učinkovitost, kot so finančni prihranki;
+30. "ponudnik energetskih storitev" pomeni fizično ali pravno osebo, ki opravlja energetske storitve ali druge ukrepe za izboljšanje energetske učinkovitosti v objektu ali prostorih končnega odjemalca;
+31. "prihranek energije" pomeni količino prihranjene energije, določeno z meritvijo ali oceno porabe pred izvedbo ukrepa za izboljšanje energetske učinkovitosti in po njej, ob zagotovljenih normalnih zunanjih pogojih, ki vplivajo na porabo energije;
+32. "revizor" je revizijska družba ali samostojni revizor, ki ima po zakonu, ki ureja revidiranje, dovoljenje za opravljanje revidiranja;
+33. "sistemski operater" pomeni pravno ali fizično osebo, ki opravlja dejavnost sistemskega operaterja prenosa električne energije in je odgovorna za obratovanje, vzdrževanje in razvoj na določenem območju, za medsebojne povezave z drugimi sistemi, kadar je ustrezno, in za zagotavljanje dolgoročne zmogljivosti sistema za zadovoljitev razumnih potreb po transportu električne energije;
+34. "soproizvodnja" pomeni postopek sočasne proizvodnje toplote in električne ali mehanske energije;
+35. "toplota" pomeni toploto v obliki pare, vroče vode, tople vode ali ohlajenih tekočin;
+36. "učinkovito daljinsko ogrevanje in hlajenje" pomeni sistem daljinskega ogrevanja ali hlajenja, pri katerem se uporablja vsaj 50 % energije iz obnovljivih virov, 50 % odvečne toplote, 75 % toplote iz soproizvodnje ali 75 % kombinacije takšne energije in toplote;
+37. "učinkovito individualno ogrevanje in hlajenje" pomeni sistem dobave za individualno ogrevanje in hlajenje, ki v primerjavi z učinkovitim daljinskim ogrevanjem in hlajenjem znatno zmanjša vnos primarne energije iz neobnovljivih virov, potrebne za dobavo enote energije znotraj ustrezne sistemske meje, ali zahteva enak vnos primarne energije iz neobnovljivih virov, vendar ob nižjih stroških, pri čemer se upošteva energija, potrebna za pridobivanje, pretvorbo, prevoz in distribucijo energije;
+38. "ukrep politike" pomeni regulativni, finančni, davčni, prostovoljni instrument ali instrument o obveščanju, ki ga država ali lokalna skupnost uvede in izvaja, da ustvari podporni okvir, zahteve ali spodbude, s katerimi zagotovi, da udeleženci na trgu nudijo ali kupujejo energetske storitve ter izvajajo druge ukrepe za izboljšanje energetske učinkovitosti.

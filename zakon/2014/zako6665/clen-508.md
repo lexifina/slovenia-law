@@ -1,0 +1,2 @@
+# 508. člen (pogodba o uporabi sistema)
+Če končni odjemalec ob uveljavitvi tega zakona nima sklenjene pogodbe o dostopu do distribucijskega sistema elektrike v pisni ali elektronski obliki, se šteje, da ima sklenjeno pogodbo o uporabi sistema za nedoločen čas, skladno s 114. členom tega zakona, distribucijski operater pa jo je dolžan skleniti v pisni ali elektronski obliki na zahtevo končnega odjemalca ali ob prvi spremembi pogodbe.

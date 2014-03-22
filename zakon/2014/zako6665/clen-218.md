@@ -1,0 +1,4 @@
+# 218. člen (izključna pravica)
+(1) Lokalna skupnost lahko skladno s predpisi o gospodarskih javnih službah na delu ali celotnem območju lokalne skupnosti podeli izključno pravico opravljati izbirno lokalno gospodarsko javno službo dejavnost operaterja distribucijskega sistema za največ 35 let.
+(2) Če lokalna skupnost skladno s prejšnjim odstavkom podeli za izvajanje gospodarske javne službe dejavnost operaterja distribucijskega sistema na določenem območju izključno pravico, sme na tem območju priključevati končne odjemalce zemeljskega plina na sistem le operater distribucijskega sistema, ki je imetnik te izključne pravice, razen če je operater distribucijskega sistema zavrnil priključitev na sistem ali dostop do sistema zaradi premajhne zmogljivosti distribucijskega sistema.
+(3) Izključna pravica iz prvega odstavka tega člena se ne nanaša na območje zaprtega distribucijskega sistema.

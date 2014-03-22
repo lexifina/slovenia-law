@@ -1,0 +1,7 @@
+# 109. člen (ločene dejavnosti)
+(1) Elektroenergetska podjetja morajo skladno z računovodskimi standardi voditi ločene računovodske evidence in v pojasnilih k računovodskim izkazom razkriti ločene računovodske izkaze za prenosne in distribucijske dejavnosti, kot bi se to od njih zahtevalo, če bi te dejavnosti opravljala ločena podjetja.
+(2) Če elektroenergetska podjetja opravljajo druge dejavnosti, ki niso prenosne ali distribucijske, morajo tudi za te dejavnosti voditi ločene računovodske evidence in v pojasnilih k računovodskim izkazom razkriti računovodske izkaze skladno s prejšnjim odstavkom.
+(3) Elektroenergetska podjetja morajo v pojasnilih k računovodskim izkazom izkazati prihodke in stroške iz najemnine prenosnega ali distribucijskega sistema.
+(4) Če opravljajo elektroenergetska podjetja tudi dejavnosti, ki niso elektroenergetske dejavnosti, lahko vodijo zbirne računovodske evidence in v pojasnilih k računovodskim izkazom razkrijejo računovodske izkaze za te dejavnosti skladno s prvim odstavkom tega člena.
+(5) Za ločene računovodske izkaze iz prvega in drugega odstavka tega člena se štejejo: bilanca stanja, izkaz poslovnega izida in izkaz denarnih tokov.
+(6) Elektroenergetska podjetja, na katera se nanaša zakon, ki ureja preglednost finančnih odnosov in ločeno evidentiranje dejavnosti, so dolžna voditi računovodske evidence in izkaze tudi po navedenem zakonu, če to ni v nasprotju s tem zakonom.

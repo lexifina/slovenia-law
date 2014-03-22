@@ -1,0 +1,5 @@
+# 467. člen (javno pooblastilo za izdajanje smernic in soglasij pri poseganju v prostor)
+(1) Lokalna skupnost lahko z odlokom podeli javno pooblastilu distributerju, ki opravlja lokalno gospodarsko javno službo na področju distribucije zemeljskega plina, toplote in drugih energetskih plinov, da:
+- daje v postopku priprave prostorskih aktov smernice in mnenja na načrtovane prostorske ureditve skladno s predpisi o urejanju prostora in s tem zakonom,
+- če je zanje zaprošen, določa projektne pogoje pred začetkom izdelave projektov za pridobitev gradbenega dovoljenja in daje soglasja k projektnim rešitvam za načrtovane posege v območje varovalnih pasov omrežij, skladno z zakonom, ki ureja graditev objektov, in tem zakonom.
+(2) Ne glede na prejšnji odstavek v postopkih priprave državnih prostorskih načrtov zastopa interese distributerja, ki opravlja lokalno gospodarsko javno službo na področju distribucije zemeljskega plina, toplote in drugih energetskih plinov, lokalna skupnost, ki je lokalni nosilec urejanja prostora na območju, ki je zajeto v državnem prostorskem načrtu.

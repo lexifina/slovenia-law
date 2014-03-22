@@ -1,0 +1,3 @@
+# 477. člen (skrbnik za poseben primer)
+(1) Če investitor infrastrukture za namen sklenitve pogodbe o služnosti v javno korist ali o pridobitvi lastninske ali stavbne pravice v javno korist ne uspe pridobiti podatkov iz javnih evidenc, ker ti podatki ne obstajajo oziroma organi, ki vodijo javne evidence s podatkom ne razpolagajo, centru za socialno delo posreduje predlog za postavitev skrbnika za poseben primer.
+(2) Center za socialno delo v 60 dneh imenuje skrbnika za poseben primer, ki z investitorjem infrastrukture sklene ustrezno pogodbo o ustanovitvi služnosti v javno korist ali pogodbo o pridobitvi lastninske ali stavbne pravice v javno korist.

@@ -1,0 +1,3 @@
+# 356. člen (obvezno merjenje toplote za posamezno stavbo)
+(1) Če stavba prejema toploto iz daljinskega ogrevanja ali hlajenja ali se s toploto oskrbuje iz skupne kotlovnice, kot jo določajo predpisi s področja večstanovanjskih stavb, lastniki vsake stavbe zagotovijo, da se toplotni števec namesti za vsako stavbo posebej, posebej za ogrevanje in za pripravo tople sanitarne vode.
+(2) Stroški za porabo toplote posamezne stavbe se določijo na podlagi stroškov za toploto oziroma stroškov za gorivo v skupni kotlovnici, na podlagi meritev iz prejšnjega odstavka, in sicer v razmerju izmerjenih porab toplote posameznih stavb.

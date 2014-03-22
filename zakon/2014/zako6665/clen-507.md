@@ -1,0 +1,3 @@
+# 507. člen (pogodba o dobavi elektrike)
+(1) Če gospodinjski ali mali poslovni odjemalec ob uveljavitvi tega zakona nima sklenjene pogodbe o dobavi elektrike v pisni ali elektronski obliki, se šteje, da ima sklenjeno pogodbo o dobavi za nedoločen čas skladno z 48. členom tega zakona, dobavitelj elektrike pa jo je dolžan skleniti v pisni ali elektronski obliki na zahtevo gospodinjskega ali malega poslovnega odjemalca oziroma ob prvi spremembi pogodbe.
+(2) Dobavitelj je dolžan na zahtevo gospodinjskega ali malega poslovnega odjemalca, ki ob uveljavitvi tega zakona že imajo sklenjeno pogodbo o dobavi elektrike v pisni ali elektronski obliki, uskladiti vsebino pogodbe z 48. členom tega zakona.

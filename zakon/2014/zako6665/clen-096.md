@@ -1,0 +1,2 @@
+# 96. člen (posledice prenehanja statusa zaprtega distribucijskega sistema)
+Po prenehanju dovoljenja o pridobitvi statusa zaprtega distribucijskega sistema ali v primeru, če je bila zahteva za podaljšanje pravnomočno zavrnjena, ali po pravnomočnosti odločbe o odvzemu statusa zaprtega distribucijskega sistema, se za ureditev razmerij med lastnikom zaprtega distribucijskega sistema in operaterjem distribucijskega sistema, na območju katerega se nahaja zaprt distribucijski sistem, uporabi 82. člen tega zakona.

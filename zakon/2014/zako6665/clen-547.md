@@ -1,0 +1,2 @@
+# 547. člen (izvajalci energetskega svetovanja za občane)
+Izvajalci energetskega svetovanja, ki na dan uveljavitve tega zakona izvajajo svetovanje za občane, morajo opraviti usposabljanje za neodvisne strokovnjake iz prve alineje prvega odstavka 353. člena tega zakona do 1. januarja 2016 ter pridobiti licenco neodvisnega strokovnjaka iz druge alineje prvega odstavka 353. člena tega zakona do 1. januarja 2024.

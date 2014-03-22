@@ -1,0 +1,7 @@
+# 317. člen (sredstva za izvajanje programa Eko sklada)
+(1) Sredstva za izvajanje programa Eko sklada iz drugega odstavka 314. člena tega zakona se zagotavljajo s prispevkom na rabo energije za povečanje energetske učinkovitosti (v nadaljnjem besedilu: prispevek za energetsko učinkovitost). Prispevek za energetsko učinkovitost bremeni daljinsko toploto, električno energijo ter trda, tekoča in plinasta goriva. Prispevek za energetsko učinkovitost plačuje vsak končni odjemalec elektrike in zemeljskega plina iz omrežja operaterju, vsak končni odjemalec toplote iz omrežja, ter trdih, tekočih in drugih plinastih goriv pa dobavitelju energije.
+(2) Operaterji in dobavitelji toplote iz omrežja ter trdih, tekočih in drugih plinastih goriv zbrana sredstva iz prejšnjega odstavka nakazujejo Eko skladu.
+(3) Vlada določi višino prispevka za energetsko učinkovitost iz prvega odstavka tega člena in sicer tako, da je vsa energija, ne glede na vrsto, enakomerno obremenjena.
+(4) Vlada ob potrditvi programa, ki je sestavni del Poslovnega načrta Eko sklada določi del zbranih sredstev, ki so prihodek Eko sklada in se porabijo za izvajanje programa za izboljšanje energetske učinkovitosti.
+(5) Vlada lahko določi, da nastane obveznost zaračunavanja prispevka za energetsko učinkovitost za goriva tudi preden se ta dobavijo končnim odjemalcem.
+(6) Eko sklad enkrat letno na svoji spletni strani objavi poročilo o izvedenem programu, doseženih prihrankih energije, višini porabljenih sredstev za izvajanje programa in specifičnih stroških doseganja prihrankov.
