@@ -1,2 +1,0 @@
-# 28. člen (biološka zdravila)
-Če biološko zdravilo, ki je podobno referenčnemu zdravilu, ne ustreza definiciji generičnega zdravila zaradi razlik, ki zadevajo vhodne snovi ali postopek izdelave v primerjavi z referenčnim zdravilom, morajo biti k predlogu za pridobitev dovoljenja za promet dodani rezultati ustreznih nekliničnih farmakološko-toksikoloških ali kliničnih študij, ki se nanašajo na navedene razlike. Vrsta in obseg dodatno zahtevanih podatkov mora ustrezati zahtevam tega zakona in na njegovi podlagi izdanih predpisov.

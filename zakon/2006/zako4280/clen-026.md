@@ -1,3 +1,0 @@
-# 26. člen (podatkovna zaščita)
-(1) Desetletno obdobje iz drugega odstavka prejšnjega člena se podaljša na največ 11 let, če v obdobju prvih osmih let trajanja desetletnega obdobja iz drugega odstavka prejšnjega člena imetnik dovoljenja za promet pridobi dovoljenje za eno ali več novih terapevtskih indikacij, za katere se predpostavlja, da bodo imele pomembno klinično korist v primerjavi z obstoječimi načini zdravljenja.
-(2) Za zdravila za uporabo v veterinarski medicini se desetletno obdobje iz drugega odstavka prejšnjega člena podaljša na 13 let za zdravila za ribe in čebele ali druge živalske vrste v skladu s tem zakonom in na njegovi podlagi izdanimi predpisi.

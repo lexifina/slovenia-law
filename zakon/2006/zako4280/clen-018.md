@@ -1,3 +1,0 @@
-# 18. člen (izjemna uporaba zdravil v veterinarski medicini)
-(1) Če ni na voljo nobenega zdravila za uporabo v veterinarski medicini z dovoljenjem za promet v Republiki Sloveniji za obravnavo bolezenskih stanj določenih živalskih vrst, lahko veterinar oziroma veterinarka (v nadaljnjem besedilu: veterinar), odgovoren za zdravljenje živali, in zlasti, da bi preprečil nesprejemljivo trpljenje živali, izjemno uporabi zdravila, ki nimajo dovoljenja za promet, za uporabo pri tej živalski vrsti ali za zadevno bolezensko stanje.
-(2) Natančnejše pogoje izjemne uporabe zdravil predpiše pristojni minister.
