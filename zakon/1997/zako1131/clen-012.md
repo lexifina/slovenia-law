@@ -1,3 +1,0 @@
-# 12. člen
-Do sprememb zakona o delovnih razmerjih in do sprememb zakona o zaposlovanju tujcev se ne glede na 25. člen zakona o prekrških (Uradni list SRS, št. 25/83, 42/85, 47/87 in 5/90 ter Uradni list RS, št. 10/91, 13/93, 66/93 in 61/96 - odločba US) z denarno kaznijo 100.000 tolarjev kaznuje takoj na kraju prekrška delodajalec - pravna oseba ali posameznik, za vsak prekršek, iz 3. in 13. točke prvega odstavka 132. člena zakona o delovnih razmerjih (Uradni list RS, št. 14/90, 5/91, 29/92 - odločba US, 71/93 in popravek v št. 2/94) in prvega odstavka 21. člena zakona o zaposlovanju tujcev (Uradni list RS, št. 33/92).
-Z denarno kaznijo 25.000 tolarjev se kaznuje takoj na kraju prekrška tudi odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
