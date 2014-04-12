@@ -1,3 +1,0 @@
-# 7. člen (pobiranje članskih prispevkov za zbornice)
-(1) Davčna uprava lahko pobira članske prispevke za Gospodarsko zbornico Slovenije, Obrtno zbornico Slovenije in Kmetijsko-gozdarsko zbornico Slovenije. Medsebojna razmerja določita davčna uprava in posamezna zbornica s pogodbo. V pogodbi se določijo medsebojna razmerja, obseg opravljanja storitev pobiranja ter plačilo za opravljanje storitev pobiranja. Cena opravljene storitve temelji na dejanskih stroških.
-(2) Davčni upravi se v državnem proračunu zagotovijo sredstva iz prejšnjega odstavka v znesku, ki je enak pričakovanim plačilom za opravljene storitve iz prejšnjega odstavka v proračunskem letu.
