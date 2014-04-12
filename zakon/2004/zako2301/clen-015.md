@@ -1,7 +1,0 @@
-# 15. člen
-Prvi odstavek 15. člena se spremeni tako, da se glasi:
-"(1) Pooblaščene uradne osebe iz 14. člena tega zakona so:
-1. carinik, ki nadzoruje pretok blaga in ljudi ter promet čez državno mejo na mejnih prehodih, ki jih določi vlada, opravlja carinski in trošarinski nadzor ter carinsko in trošarinsko kontrolo, izvaja posamezne ukrepe in dejanja carinske preiskave, carinjenje blaga, opravlja nadzor nad prijavo vnosa in iznosa domačih in tujih plačilnih sredstev na in iz carinskega območja, zbira in preverja statistične podatke o blagovni menjavi z državami članicami EU ter preprečuje in odkriva carinske in trošarinske prekrške ter druga kazniva ravnanja;
-2. inšpektor, ki opravlja inšpekcijski nadzor, carinsko in trošarinsko kontrolo v zahtevnejših zadevah, zbira, preverja, analizira in posreduje statistične podatke o blagovni menjavi z državami članicami EU, izvaja carinjenje blaga, preprečuje in odkriva carinske in trošarinske prekrške ter druga kazniva ravnanja, opravlja carinske preiskave, opravlja nadzor in kontrolo nad delom notranjih organizacijskih enot, vodi upravni postopek v carinskih in trošarinskih zadevah ter v drugih zadevah, za izvajanje katerih je pristojna služba, vodi postopek za prekrške prekrškovnega organa za prekrške, določene v predpisih, za nadzor nad izvajanjem katerih je pristojna služba;
-3. izterjevalec, ki izvaja postopke prisilne izterjave dajatev.".
-V drugem odstavku se črta besedilo "v zvezi s carinskim blagom in trošarinskimi izdelki".
