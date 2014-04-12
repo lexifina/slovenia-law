@@ -1,3 +1,0 @@
-# 9. člen
-Drugi odstavek 21.b člena se spremeni tako, da se glasi:
-"(2) Trošarinska kontrola obsega preverjanje pravilnosti prijav trošarinskih zavezancev, trošarinskih obračunov in obračunov drugih dajatev, ki se plačujejo na enak način kakor trošarine, preverjanje zahtevkov za vračilo, odpust in oprostitev plačila trošarine, preverjanje izpolnjevanja obveznosti iz dovoljenj, ki jih izdaja služba, preverjanje porabe trošarinskih izdelkov za namene, za katere se trošarina ne plačuje, preverjanje popisov trošarinskih izdelkov, vodenja evidenc in dostavljanja podatkov ter preverjanje gibanja trošarinskih izdelkov v režimu odloga plačila trošarine in gibanja trošarinskih izdelkov s plačano trošarino.".
