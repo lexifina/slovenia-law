@@ -1,2 +1,0 @@
-ZAKON
-O DAVČNI SLUŽBI (ZDS-1)
