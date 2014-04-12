@@ -1,3 +1,0 @@
-# 77. člen
-(1) Delavci službe, ki so na dan pričetka veljavnosti tega zakona opravljali delo, za katero nimajo ustrezne stopnje strokovne izobrazbe, lahko to delo opravljajo še naprej, vendar morajo izobrazbo dopolniti v petih letih od pričetka veljavnosti tega zakona.
-(2) Delavci iz prejšnjega odstavka, ki imajo nad 15 let delovnih izkušenj na enakih delovnih mestih ali na delovnih mestih podobne zahtevnosti in delo uspešno opravljajo, in delavci, katerih usposobljenost za opravljanje dela je bila posebej preverjena v skladu s predpisi, ki so bili uveljavljeni pred 25. 6. 1991, lahko to delo še naprej opravljajo.

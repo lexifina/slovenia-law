@@ -1,2 +1,0 @@
-# 47. člen
-Delavcu, ki je v skladu s 45. členom tega zakona za nedoločen čas razporejen v drug kraj, v katerega se po oceni generalnega direktorja oziroma direktorja ne more vsakodnevno voziti na delo, mora Generalni carinski urad v treh letih zagotoviti ustrezno stanovanje. Če Generalni carinski urad delavcu v navedenem roku ustreznega stanovanja ne zagotovi ali če z njim o tem ne doseže sporazuma, je potrebno delavca vrniti na delo, ki ga je opravljal pred razporeditvijo.

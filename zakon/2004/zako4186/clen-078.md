@@ -1,4 +1,0 @@
-# 78. člen
-(1) Do sprejema predpisov o obveznem dodatnem pokojninskem zavarovanju se sredstva iz prvega odstavka 64. člena tega zakona vplačujejo kot dolgoročna rezervacija za obvezno dodatno pokojninsko zavarovanje.
-(2) Sredstva se obračunavajo mesečno in vplačujejo na osebni varčevalni račun, ki se za delavca iz prvega odstavka 64. člena tega zakona odpre pri banki. Sredstva na osebnem varčevalnem računu se obravnavajo kot dolgoročno vezana bančna vloga.
-(3) Po uveljavitvi predpisov o obveznem dodatnem pokojninskem zavarovanju se sredstva na bančni vlogi iz prejšnjega odstavka prenesejo na osebni varčevalni račun, ki se za delavca iz prvega odstavka 64. člena tega zakona odpre pri nosilcu obveznega dodatnega pokojninskega zavarovanja in se koristijo v skladu s predpisi o obveznem dodatnem pokojninskem zavarovanju.

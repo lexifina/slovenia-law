@@ -1,4 +1,0 @@
-# 34. člen
-(1) Služba zbira osebne in druge podatke zaradi opravljanja z zakoni in drugimi predpisi določenih nalog neposredno od osebe, na katero se ti podatki nanašajo, od drugih oseb, ki o tem kaj vedo, ali iz že obstoječih zbirk podatkov.
-(2) Pri zbiranju osebnih in drugih podatkov od drugih oseb, ki o tem kaj vedo, ali iz že obstoječih zbirk podatkov, pooblaščene uradne osebe niso dolžne o tem obvestiti osebe, na katere se podatki nanašajo, če bi to onemogočilo ali otežilo izvršitev določene naloge.
-(3) Če pooblaščene uradne osebe zaradi opravljanja določenih nalog zbirajo osebne in druge podatke iz že obstoječih zbirk podatkov, so organi, organizacije in drugi subjekti, ki na podlagi zakona in v okviru svoje dejavnosti vodijo zbirke podatkov, dolžni brezplačno posredovati zahtevane osebne in druge podatke.

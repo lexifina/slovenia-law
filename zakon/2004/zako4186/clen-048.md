@@ -1,2 +1,0 @@
-# 48. člen
-Kadar je potrebno delavca razporediti na drugo delovno mesto zaradi ukinitve organizacijske enote ali trajnega povečanja obsega dela v drugi organizacijski enoti oziroma zaradi reorganizacije službe, se določbe tretjega in četrtega odstavka 45. člena tega zakona pri razporejanju ne upoštevajo. Delavec ima v tem primeru pravico do povračila stroškov iz 46. člena tega zakona, vse do ustrezne rešitve stanovanjskega vprašanja.
