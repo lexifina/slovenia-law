@@ -1,0 +1,6 @@
+# 31. člen
+95.a do 95.č člen se spremenijo tako, da se glasijo:
+"95.a člen
+(razpisna dokumentacija, izkazovanje izpolnjevanja zahtev naročnika in preveritev ponudb v postopku oddaje naročila male vrednosti)
+(1) Ne glede na prvi odstavek 72. člena tega zakona naročnik v postopku oddaje naročila male vrednosti pripravi razpisno dokumentacijo, predvsem pogoje, ki bodo sestavni del pogodbe o izvedbi naročila, če je to potrebno in v obsegu kot je to primerno, glede na način izvajanja postopka. Naročniku ni potrebno posebej pripraviti razpisne dokumentacije, kadar so vsi potrebni podatki in podlage za oddajo ponudbe podani v objavi obvestila o naročilu male vrednosti.
+(2) Ne glede na peti odstavek 37. člena, šesti odstavek 41. člena, peti in šesti odstavek 42. člena, 43. člen, drugi, tretji in peti odstavek 44. člena in drugi, tretji ter šesti odstavek 45. člena tega zakona lahko naročnik v postopku oddaje naročila male vrednosti zahteva, da ponudnik izkaže izpolnjevanje tehničnih specifikacij, pogojev za ugotavljanje sposobnosti, v primeru merila ekonomsko najugodnejša ponudba pa tudi meril za izbor, z izjavo. Ne glede na prvi odstavek 77. člena tega zakona naročniku v postopku oddaje naročila male vrednosti ni treba preveriti obstoja in vsebine navedb v ponudbi, razen če dvomi v resničnost ponudnikovih izjav.
