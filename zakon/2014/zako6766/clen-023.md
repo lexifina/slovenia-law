@@ -1,0 +1,2 @@
+# 23. člen
+Pristojna organizacija vzpostavi register zavezancev iz 3.b člena zakona najkasneje v šestih mesecih od uveljavitve tega zakona in zagotovi pogoje za posredovanje elektronskih prijav zavezancev na podlagi 3.č člena zakona najkasneje mesec dni pred potekom tega roka. Pristojna organizacija v register vpiše zavezance iz druge in tretje alineje prvega odstavka 3.b člena zakona v roku petih dni od vzpostavitve registra zavezancev.
