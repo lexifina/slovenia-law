@@ -1,6 +1,0 @@
-# 30. člen
-(1) Z dnem uveljavitve tega zakona se preneha uporabljati Pravilnik o dajanju biocidov v promet (Uradni list RS, št. 38/00, 81/03 in 114/04).
-(2) Z dnem uveljavitve tega zakona prenehata veljati:
-- Pravilnik o pogojih za izvajanje javne službe in načinu podelitve koncesije za izvajanje javne službe na področju ocenjevanja biocidnih proizvodov in preskušanja njihove učinkovitosti (Uradni list RS, št. 73/07),
-- Pravilnik o ustanovitvi, sestavi in načinu dela Komisije za biocidne proizvode (Uradni list RS, št. 73/07),
-- Pravilnik o pravilni uporabi biocidnih proizvodov za poklicne uporabnike (Uradni list RS, št. 79/07), ki se uporablja do uveljavitve predpisa iz 54. člena zakona.
