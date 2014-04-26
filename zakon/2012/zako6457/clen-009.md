@@ -1,7 +1,0 @@
-# 9. člen (priprava, sprejem in sprememba strategije)
-(1) K strategiji, ki jo sprejme vlada za obdobje petih let, da soglasje državni zbor.
-(2) Če državni zbor ne poda soglasja v skladu s prejšnjim odstavkom, vrne zadevo v popravo in ponovno odločanje vladi.
-(3) Predlog strategije z obrazložitvijo pripravi uprava SDH in ga po potrditvi nadzornega sveta SDH (v nadaljnjem besedilu: nadzorni svet) posreduje ministrstvu, pristojnemu za finance (v nadaljnjem besedilu: ministrstvo za finance) najpozneje do konca četrtega meseca pred zaključkom zadnjega leta, za katerega velja sprejeta strategija. Ministrstvo za finance usklajen predlog strategije posreduje vladi najpozneje do konca šestega meseca leta iz prejšnjega stavka.
-(4) Če predlog strategije ni sprejet do začetka obdobja, na katerega se nanaša, se za upravljanje naložb začasno uporablja sprejeta strategija.
-(5) SDH lahko poleg predloga strategije ločeno pripravi tudi enega ali več predlogov strategij za posamezen naložbeni segment. Za pripravo in sprejem predloga strategije iz prejšnjega stavka se uporabljajo določbe tega člena glede priprave in sprejema strategije.
-(6) SDH lahko znotraj obdobja sprejete strategije posreduje ministrstvu za finance predlog spremenjene strategije, če to zahtevajo spremenjene gospodarske ali socialne razmere. K spremenjeni strategiji, ki jo sprejme vlada za obdobje do izteka veljavnosti sprejete strategije, da soglasje državni zbor.
