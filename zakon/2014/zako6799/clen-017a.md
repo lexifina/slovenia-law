@@ -1,0 +1,4 @@
+# 17.a člen
+(1) Pred vložitvijo tožbe po prvem odstavku 26. člena tega zakona, povabi pristojni državni tožilec preiskovanca na državno tožilstvo, ki je uvedlo finančno preiskavo, da se preiskovancu omogoči vpogled v zbrane podatke iz finančne preiskave. V vabilu se navede razlog vabljenja in posledice neodziva. Če se povabilu odzove, seznani državni tožilec preiskovanca z rezultati finančne preiskave in s pravico izjaviti se o zbranih podatkih ter predlagati dokaze.
+(2) V primeru iz prejšnjega odstavka sestavi pristojni državni tožilec zapisnik o naroku, v katerega vpiše izjavo preiskovanca in druge njegove navedbe. Zapisnik, podpisan s strani preiskovanca in pristojnega državnega tožilca, se pošlje sodišču ob vložitvi tožbe.
+(3) Če se preiskovanec ne odzove vabilu, ga ni dopustno ponovno vabiti.".
