@@ -1,0 +1,11 @@
+U K A Z
+
+o razglasitvi Zakona o ratifikaciji Konvencije o pomoči pri preskrbi s hrano (MKPPH)
+
+Z A K O N
+
+O RATIFIKACIJI KONVENCIJE O POMOČI PRI PRESKRBI S HRANO (MKPPH)
+
+FOOD ASSISTANCE CONVENTION
+
+KONVENCIJA O POMOČI PRI PRESKRBI S HRANO

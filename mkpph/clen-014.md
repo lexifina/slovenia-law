@@ -1,0 +1,3 @@
+# 14. ČLEN URADNO OBVESTILO O ZAČASNI UPORABI
+
+Vse države, ki so navedene v 12. členu, ali Evropska unija, ki namerava to konvencijo ratificirati, sprejeti ali odobriti ali k njej pristopiti, ali vse države ali ločena carinska območja, ki se v skladu z drugim odstavkom 13. člena štejejo za upravičene do pristopa na podlagi sklepa odbora, vendar še niso deponirale svoje listine, lahko pri depozitarju kadar koli deponirajo uradno obvestilo o začasni uporabi te konvencije. Konvencija se za te države, ločena carinska območja ali Evropsko unijo začasno uporablja od dneva deponiranja uradnega obvestila.
