@@ -1,3 +1,0 @@
-# 6. člen (pristojni organ)
-Upravne naloge na področju prometa in uporabe biocidnih proizvodov, nadzor nad izvajanjem tega zakona, obveščanje Evropske komisije in zagotavljanje mednarodne izmenjave podatkov opravlja organ, pristojen za kemikalije (v nadaljnjem besedilu: pristojni organ).
-(2) V postopkih izdaje dovoljenj za promet in uporabo biocidnih proizvodov lahko na posameznih posebnih strokovnih področjih sodeluje z zdravstvenimi in drugimi javnimi zavodi ter usposobljenimi strokovnjaki s področja presoje vpliva biocidnih proizvodov na zdravje ljudi, okolje in učinkovitost (v nadaljnjem besedilu: zunanji strokovni izvajalci), ki jih na njegov predlog pooblasti minister oziroma ministrica, pristojna za zdravje (v nadaljnjem besedilu: minister).

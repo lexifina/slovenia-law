@@ -1,3 +1,0 @@
-# 39. člen (obveznosti imetnika dovoljenja ter pravnih in fizičnih oseb)
-(1) Imetnik dovoljenja, ki daje biocidni proizvod v promet, je dolžan poskrbeti za pravilno razvrstitev, pakiranje, označevanje in zagotovitev varnostnega lista, ki ga dopolnjuje z novimi spoznanji v skladu s predpisi, ki urejajo kemikalije. Imetnik dovoljenja mora predložiti varnostni list pravnim ali fizičnim osebam, ki opravljajo promet z biocidnimi proizvodi, ob prvi dobavi biocidnega proizvoda.
-(2) Pravne in fizične osebe, ki opravljajo promet z biocidnimi proizvodi, morajo dati varnostni list za biocidne proizvode na razpolago vsakemu uporabniku na njegovo zahtevo ob dobavi biocidnih proizvodov.

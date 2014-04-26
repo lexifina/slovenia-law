@@ -1,5 +1,0 @@
-# 19. člen (določitev okvirne formulacije za biocidne proizvode)
-(1) Okvirno formulacijo se lahko določi na zahtevo predlagatelja ali pa jo lahko kadarkoli določi pristojni organ na lastno pobudo.
-(2) Kadar zahteva določitev okvirne formulacije predlagatelj, da zahtevo skupaj z vlogo iz 28. ali 29. člena tega zakona in predloži vse potrebne podatke in dokaze, da odstopanja, ki jih je mogoče predvideti znotraj okvirne formulacije, ne povečujejo tveganja niti ne zmanjšujejo učinkovitosti v primerjavi s predlaganim biocidnim proizvodom.
-(3) Pristojni organ določi okvirno formulacijo, če so za biocidni proizvod izpolnjeni pogoji iz tega zakona glede zahtevane dokumentacije, če so odstopanja v okvirih, določenih s tem zakonom, in če ta odstopanja ne povzročajo povečanega tveganja in ne vplivajo na zmanjšanje učinkovitosti biocidnega proizvoda.
-(4) Pristojni organ o določitvi okvirne formulacije obvesti predlagatelja, ko mu izda dovoljenje za določen biocidni proizvod. Kadar pristojni organ določi okvirno formulacijo za biocidne proizvode na lastno pobudo, o tem v 30 dneh od dneva določitve okvirne formulacije obvesti predlagatelja.

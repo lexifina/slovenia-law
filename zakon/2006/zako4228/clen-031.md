@@ -1,6 +1,0 @@
-# 31. člen (dovoljenje po posebnem postopku)
-(1) Dovoljenje po posebnem postopku se lahko izda na podlagi vloge predlagatelja v primerih, ko gre za biocidne proizvode, ki so po sestavi, čistosti aktivnih snovi in učinkovitosti tako podobni biocidnim proizvodom, za katere je že bilo izdano dovoljenje in določena okvirna formulacija, da se zanje lahko uporabi ista dokumentacija.
-(2) Pristojni organ izda dovoljenje v 60 dneh od dneva prejema vloge, če ugotovi:
-- da je predlagatelj kot imetnik dovoljenja po postopku avtorizacije oziroma registracije za biocidni proizvod, za katerega je že bila v skladu s tem zakonom določena okvirna formulacija; predlagatelj mora vlogi za izdajo dovoljenja po posebnem postopku priložiti dokazila, da je za biocidni proizvod določena okvirna formulacija; ali
-- da je predlagatelj kot imetnik izjave o dostopnosti podatkov upravičen, da zahtevek opre na že določeno okvirno formulacijo.
-(3) Dovoljenje iz prvega odstavka tega člena se izda za obdobje, za katero je izdano dovoljenje za biocidni proizvod, za katerega je bila določena okvirna formulacija. V dovoljenju je treba predvideti možnost njegove spremembe v primeru spremembe ali odvzema dovoljenja, ki je bilo izdano po postopku avtorizacije ali registracije biocidnega proizvoda, na katerem temelji okvirna formulacija.
