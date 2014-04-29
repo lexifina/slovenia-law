@@ -1,0 +1,6 @@
+# 57.c člen (ugovor)
+(1) Stranka lahko v 15 dneh od prejema certifikata ali odločbe iz prejšnjega člena vloži pisni ugovor na naslov organizacije za kontrolo in certificiranje iz 92. člena tega zakona. Ugovor se lahko vloži, če je bil pri izdaji certifikata ali odločbe napačno uporabljen materialni predpis oziroma sploh ni bil uporabljen, če je bilo dejansko stanje nepopolno ali napačno ugotovljeno ali če so podane kršitve pravil postopka v skladu z zakonom, ki ureja splošni upravni postopek.
+(2) Dejanja v postopku pred izdajo odločbe o ugovoru opravijo, v skladu s standardom SIST EN ISO/IEC 17065:2012, člani komisije za obravnavanje ugovorov, ki jih imenuje organizacija za kontrolo in certificiranje iz 92. člena tega zakona. Člani komisije za obravnavanje ugovorov se štejejo za uradne osebe v skladu z zakonom, ki ureja splošni upravni postopek, in imajo pooblastilo za opravljanje posameznih dejanj v upravnem postopku. Odločbo o ugovoru izda predstojnik organizacije za kontrolo in certificiranje iz 92. člena tega zakona.
+(3) Če ugovor ni dovoljen, če je prepozen ali če ga je vložila neupravičena oseba, se s sklepom zavrže.
+(4) Organizacija za kontrolo in certificiranje iz 92. člena tega zakona o ugovoru odloči najpozneje v dveh mesecih od njegovega prejetja.
+(5) Zoper odločbo ali sklep o ugovoru ni pritožbe, dopusten pa je upravni spor.".

@@ -1,0 +1,3 @@
+# 65. člen (skupine proizvajalcev)
+(1) Skupine proizvajalcev, priznane na podlagi 89. člena Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12 in 90/12 - ZdZPVHVVR), se morajo uskladiti s 107.a členom zakona najpozneje do 1. januarja 2015.
+(2) Ne glede na prejšnji odstavek se morajo skupine proizvajalcev, priznane na podlagi 89. člena Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12 in 90/12 - ZdZPVHVVR), ki so prejele sredstva iz naslova ukrepov razvoja podeželja in se jim do 1. januarja 2015 ne bo iztekla petletna obveznost iz odločbe o pravici do sredstev, uskladiti s 107.a členom zakona v 60 dneh po izteku petletne obveznosti iz odločbe o pravici do sredstev.

@@ -1,0 +1,2 @@
+# 67. člen (registracija obrata)
+Obrati, ki so bili registrirani na podlagi Uredbe o izvajanju delov določenih uredb Skupnosti glede živil, higiene živil in uradnega nadzora nad živili (Uradni list RS, št. 72/10) in Pravilnika o registraciji obratov primarnih proizvajalcev živil in krme rastlinskega izvora (Uradni list RS, št. 79/06) pred uveljavitvijo tega zakona, se štejejo za registrirane po spremenjenem 152.a členu zakona.

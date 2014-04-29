@@ -1,0 +1,3 @@
+# 57.b člen (odločanje o skladnosti)
+(1) O skladnosti kmetijskih pridelkov ali živil odloča organizacija za kontrolo in certificiranje iz 92. člena tega zakona. Organizacija za kontrolo in certificiranje iz 92. člena tega zakona izda certifikat za kmetijske pridelke ali živila, za katere ugotovi skladnost, za pridelke ali živila, ki ne izpolnjujejo pogojev za skladnost, izdajo certifikata z odločbo zavrne.
+(2) Če pridelek ali živilo ne izpolnjuje več katerega od pogojev skladnosti postopkov za pridelavo in predelavo, predpisanih s tem zakonom in predpisi Unije, organizacija iz 92. člena tega zakona certifikat delno ali v celoti razveljavi.
