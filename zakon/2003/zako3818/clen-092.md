@@ -1,2 +1,0 @@
-# 92. člen (rok za uveljavljanje pravice do starševskega dodatka)
-Mati uveljavlja pravico do starševskega dodatka 30 dni pred predvidenim datumom poroda, vendar najkasneje 30 dni po rojstvu otroka. Oče uveljavlja pravico najkasneje 30 dni po nastanku dogodka, ki je razlog, da oče pridobi pravico. Če mati ali oče ne uveljavljata pravice v tem roku, pripada pravica do starševskega dodatka od prvega dne naslednjega meseca. Trajanje pravice se skrajša, sorazmerno zamujenemu roku za uveljavljanje pravice.

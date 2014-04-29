@@ -1,1 +1,0 @@
-SPLOŠNE DOLOČBE

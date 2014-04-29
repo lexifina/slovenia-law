@@ -1,3 +1,0 @@
-# 82. člen (dodatek za nego otroka ne pripada za otroka)
-Pravice do dodatka za nego otroka nima eden od staršev za otroka, ki je zaradi zdravljenja, usposabljanja, vzgoje ali šolanja v zavodu, v katerem ima celodnevno brezplačno oskrbo, ali v rejništvu.
-Ne glede na prejšnji odstavek se prizna pravica do dodatka za nego otroka, če se dokaže, da tudi v tem času materialno skrbi za otroka. Center mu v tem primeru lahko prizna pravico za dobo od 3 mesecev do 6 mesecev na leto. Za koliko časa se prizna pravica do dodatka za nego otroka, je odvisno od tega, kolikšno je letno število dni, ki jih je otrok preživel v družini v zadnjih 12 mesecih.

@@ -1,4 +1,0 @@
-# 39. člen (pravica do starševskega nadomestila)
-Pravico do starševskega nadomestila imajo tiste osebe, ki imajo pravico do starševskega dopusta in so bile zavarovane po tem zakonu pred dnevom nastopa posamezne vrste starševskega dopusta.
-Pravico do starševskega nadomestila imajo tudi osebe, ki nimajo pravice do starševskega dopusta, če so bile zavarovane po tem zakonu najmanj dvanajst mesecev v zadnjih treh letih pred nastopom posamezne vrste starševskega dopusta.
-Pravica do starševskega nadomestila po tem zakonu izključuje prejemanje drugih nadomestil po predpisih, ki urejajo zdravstveno zavarovanje in zavarovanje za primer brezposelnosti ter plačilo prispevkov za socialno varnost zaradi dela s krajšim delovnim časom zaradi starševstva in prejemanje delnega plačila za izgubljeni dohodek po tem zakonu.
