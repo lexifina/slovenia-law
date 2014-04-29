@@ -1,3 +1,0 @@
-# 15. člen
-V IV. poglavju se naslov spremeni tako, da se glasi:
-"IV. PRAVICA STARŠEV DO KRAJŠEGA DELOVNEGA ČASA IN DO PLAČILA PRISPEVKOV ZA SOCIALNO VARNOST ZARADI STARŠEVSTVA".

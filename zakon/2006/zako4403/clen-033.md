@@ -1,6 +1,0 @@
-# 33. člen
-95. člen se spremeni, tako da se glasi:
-"95. člen
-(rok za uveljavljanje dodatka za veliko družino)
-Pravico do dodatka za veliko družino določi center po uradni dolžnosti za vse prejemnike otroškega dodatka. Center po uradni dolžnosti preverja upravičenost do dodatka za veliko družino vsako leto, pri obravnavi vloge za pridobitev otroškega dodatka ali vloge ob povečanju števila otrok v družini. Če je bila upravičencu v tekočem letu že priznana pravica do dodatka za veliko družino v višini za družino s tremi otroki in se mu število otrok pozneje v tem letu poveča, je upravičen do izplačila razlike do dodatka za družine s štirimi ali več otroki. Center o tem odloči pri obravnavi vloge ob povečanju števila otrok.
-Kdor ni uveljavil pravice do otroškega dodatka ali mu ta ne pripada, mora v tekočem letu vložiti vlogo za uveljavitev pravice do dodatka za veliko družino za tekoče leto. Če je bila upravičencu v tekočem letu že priznana pravica do dodatka za veliko družino v višini za družino s tremi otroki in se mu število otrok pozneje v tem letu poveča, je upravičen do izplačila razlike do dodatka za družine s štirimi ali več otroki. Vlogo mora vložiti najpozneje v roku treh mesecev od dneva povečanja števila otrok.".
