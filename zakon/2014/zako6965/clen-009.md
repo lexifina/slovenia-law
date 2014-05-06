@@ -1,0 +1,2 @@
+# 9. člen
+Ne glede na deseti odstavek 51. člena zakona mora oseba iz devetega odstavka 51. člena zakona, ki želi na dan začetka uporabe spremenjenih določb petega oziroma osmega odstavka 51. člena zakona določiti novo drobnoprodajno ceno tobačnih izdelkov, spremembo drobnoprodajne cene prijaviti pristojnemu carinskemu organu, in sicer za cigarete dva dneva pred spremembo drobnoprodajnih cen, za cigare in cigarilose, drobno rezan tobak in drug tobak za kajenje pa en dan pred spremembo drobnoprodajnih cen.
