@@ -1,5 +1,5 @@
 # 5.b člen
-(1) Ponudnik storitev mora pred prvim opravljanjem storitev v Republiki Sloveniji, in če so se po začetku opravljanja storitev v Republiki Sloveniji bistveno spremenile okoliščine, dati pisno prijavo pri pristojnem ministrstvu oziroma pristojnem organu.
+(1) Ponudnik storitev mora pred prvim opravljanjem storitev v Republiki Sloveniji, in če so se po začetku opravljanja storitev v Republiki Sloveniji bistveno spremenile okoliščine, dati pisno prijavo pri pristojnem ministrstvu oziroma pristojnem organu, če to zahteva zakon oziroma podzakonski akt.
 (2) Ponudnik storitev lahko prijavo iz prejšnjega odstavka odda na pisni ali elektronski način na predpisanem obrazcu s priloženo zahtevano dokumentacijo.
 (3) Prijava iz prvega odstavka tega člena zajema osebne podatke ponudnika storitev ter podatke o zavarovalnem kritju ali drugih načinih osebnega ali kolektivnega zavarovanja v zvezi s poklicno odgovornostjo, kateri reguliran poklic oziroma dejavnost namerava ponudnik storitev izvajati in, če je znano, trajanje izvajanja storitev v Republiki Sloveniji.
 (4) Pisno prijavo je potrebno podaljšati ob prvem občasnem opravljanju storitev v Republiki Sloveniji v posameznem koledarskem letu, če je ponudnik storitev že opravljal te storitve v Republiki Sloveniji.
