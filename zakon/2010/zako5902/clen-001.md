@@ -1,2 +1,0 @@
-# 1. člen
-V Zakonu o preprečevanju dela in zaposlovanja na črno (Uradni list RS, št. 36/00 in 118/06) se v prvem odstavku 3. člena v četrti alineji za besedama "tuje podjetje" dodata vejica in besedilo "razen podjetja s sedežem v državi članici Evropske unije, Evropskega gospodarskega prostora ali Švicarske konfederacije, ki opravlja storitvene dejavnosti v skladu z zakonom, ki ureja storitve na notranjem trgu".
