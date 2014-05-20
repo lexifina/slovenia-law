@@ -1,4 +1,0 @@
-# 14. člen
-(1) Za določanje, koordiniranje in spremljanje aktivnosti za preprečevanje dela in zaposlovanja na črno imenuje Vlada Republike Slovenije komisijo za odkrivanje in preprečevanje dela in zaposlovanja na črno.
-(2) Komisija iz prejšnjega odstavka koordinira delo inšpekcijskih služb iz prejšnjega člena ter enkrat letno izdela poročilo o aktivnostih in učinkih preprečevanja dela in zaposlovanja na črno. Komisija vsako leto opredeli dejavnosti, za katere ocenjuje, da se v njih državljani tretjih držav v večji meri nezakonito zaposlujejo, in pripravi načrt inšpekcijskih pregledov. Vsako koledarsko leto komisija pripravi tudi poročilo o opravljenih inšpekcijskih pregledih iz prejšnjega stavka ter o ugotovitvah teh pregledov obvesti Evropsko komisijo do konca junija naslednjega leta za preteklo koledarsko leto.
-(3) Poročilo iz prejšnjega odstavka komisija predloži v obravnavo ekonomsko-socialnemu svetu in Vladi Republike Slovenije.
