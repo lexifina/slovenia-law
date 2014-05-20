@@ -1,0 +1,3 @@
+# 3. člen
+Vojnemu veteranu, ki mu je na podlagi 231. člena Zakona za uravnoteženje javnih financ (Uradni list RS, št. 40/12, 96/12 - ZPIZ-2, 104/12 - ZIPRS1314, 105/12, 25/13 - odločba US, 46/13 - ZIPRS1314-A, 47/13 - ZOPRZUJF, 56/13 - ZŠtip-1, 63/13 - ZOsn-I, 63/13 - ZJAKRS-A, 99/13 - ZUPJS-C, 99/13 - ZSVarPre-C in 101/13 - ZIPRS1415) zaradi preseganja osnove za veteranski dodatek 1. januarja 2013 prenehala pravica do plačila zdravstvenih storitev v višini razlike do polne vrednosti storitev, zagotovljenih v okviru obveznega zavarovanja, se z dnem uporabe spremembe 15. člena zakona ta pravica ponovno prizna.
+O priznanju pravice do zdravstvenega varstva vojnemu veteranu iz prejšnjega odstavka odloči pristojna upravna enota v postopku, uvedenem po uradni dolžnosti.
