@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015 (Uradni list RS, št. 101/13, 9/14 - ZRTVS-1A in 25/14 - ZSDH-1) se v prvem odstavku 14. člena za 15. točko, na koncu katere se pika nadomesti s podpičjem, doda nova 16. točka, ki se glasi:
+"16. prihodki iz dajatev od prejemkov, izplačanih zaradi opravljenega začasnega in občasnega dela upokojencev, ki v skladu z drugim odstavkom 27.f člena Zakona o urejanju trga dela (Uradni list RS, št. 80/10, 40/12 - ZUJF, 21/13, 63/13, 100/13 in 32/14 - ZPDZC-1) predstavljajo prihodek podračuna iz 4. točke 35. člena tega zakona.".
