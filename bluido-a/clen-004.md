@@ -1,0 +1,13 @@
+# 4. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe.
+
+Št. 432-01/11-15/14
+
+Ljubljana, dne 28. aprila 2014
+
+EPA 1956-V
+
+Državni zbor Republike Slovenije Janko Veber l.r. Predsednik
+
+(1) Besedilo protokola v francoskem jeziku je na vpogled v Sektorju za mednarodno pravo Ministrstva za zunanje zadeve.
