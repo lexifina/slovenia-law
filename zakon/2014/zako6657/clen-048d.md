@@ -1,0 +1,5 @@
+# 48.d člen
+Če je potrošnik odstopil od pogodbe o finančnih storitvah, lahko podjetje zahteva od potrošnika plačilo storitve, ki jo je zanj opravilo. Plačilo mora biti sorazmerno obsegu opravljene storitve v primerjavi s celotno pogodbo in ne sme pomeniti pogodbene kazni. Podjetje lahko zahteva od potrošnika plačilo le, če dokaže, da je bil potrošnik obveščen o znesku plačila v primeru odstopa od pogodbe iz 48.b člena tega zakona.
+Podjetje lahko zahteva plačilo storitve iz prejšnjega odstavka, če je potrošnik podal soglasje za začetek izpolnjevanja pogodbe pred iztekom odstopnega roka in je bil o plačilu tega zneska obveščen v skladu z 48.c členom.
+Če je potrošnik znesek oziroma blago že prejel in od pogodbe odstopi, mora nemudoma oziroma najpozneje v 30 dneh od oddaje sporočila iz prvega odstavka prejšnjega člena vrniti podjetju znesek oziroma blago.
+Vračilo plačil mora podjetje opraviti nemudoma, najpozneje pa v 30 dneh po prejemu sporočila o odstopu od pogodbe, razen zneska iz prejšnjega odstavka.

@@ -1,0 +1,5 @@
+# 18. člen
+V VI. poglavju se za 46.c členom dodajo novo 4.e) podpoglavje, ki se glasi: "e) Trženje finančnih storitev na daljavo", ter novi 48.a, 48.b, 48.c 48.č, 48.d in 48.e člen, ki se glasijo:
+"48.a člen
+Pogodba o finančnih storitvah, sklenjena na daljavo, po tem zakonu je pogodba, sklenjena med podjetjem in potrošnikom na podlagi organizirane prodaje na daljavo ali sistema opravljanja storitev brez istočasne fizične prisotnosti pogodbenih strank, ki ga vodi podjetje, ki za namen sklenitve uporablja izključno enega ali več sredstev za komuniciranje na daljavo vse do takrat in vključno s trenutkom, ko je pogodba sklenjena.
+Če pogodbe o finančnih storitvah obsegajo začetni sporazum o storitvi, ki mu sledijo zaporedni posli ali niz ločenih poslov iste vrste, se določbe tega podpoglavja uporabljajo za začetni sporazum. Kadar začetnega sporazuma ni, zaporedni ali ločeni posli pa so iste vrste, opravljeni v določenem času med istimi pogodbenimi strankami, se za prvi posel uporabljata 48.b in 48.c člen tega zakona. Kadar se posel iste vrste ne opravlja več kot eno leto, velja naslednji posel za prvega v novem nizu poslov.
