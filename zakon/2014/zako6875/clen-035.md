@@ -1,0 +1,2 @@
+# 35. člen (prehod na posebno rabo vode iz objektov in naprav, namenjenih oskrbi s pitno vodo, za katero ni treba pridobiti vodnega dovoljenja)
+Ministrstvo po uradni dolžnosti ugotovi prenehanje izdanih vodnih dovoljenj za posebno rabo vode, za katero na podlagi spremenjenega drugega odstavka 125. člena zakona ni treba pridobiti vodnega dovoljenja, v enem letu po uveljavitvi predpisa iz spremenjenega drugega odstavka 125. člena zakona.

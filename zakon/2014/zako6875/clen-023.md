@@ -1,0 +1,4 @@
+# 23. člen
+V prvem odstavku 157.a člena se beseda "sebe" nadomesti z besedo "osebe", za piko na koncu stavka pa se doda nov stavek, ki se glasi: "Ministrstvo ima na podlagi zahteve od upravljavca davčnega registra pravico pridobiti davčno številko imetnika vodne pravice ali upravičenca do evidentirane posebne rabe vode za zavezanca za vodno povračilo ali plačilo za vodno pravico.".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Ministrstvo lahko pridobiva in obdeluje podatke iz prejšnjega odstavka zaradi priprave aktov o zavarovanjih varstvenih in ogroženih območij po tem zakonu, zaradi programa ukrepov, podrobnejših načrtov upravljanja voda, priprave in vzdrževanja vodnega katastra in vodne knjige ter postopkov za izdajo vodnih pravic ter evidentiranja posebne rabe vode in pobiranja plačil za vodno pravico in vodnih povračil.".

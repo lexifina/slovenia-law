@@ -1,0 +1,2 @@
+# 36. člen (določitev osnove za obračun plačila za vodno pravico, ki se podeli z vodnim dovoljenjem, v prehodnem obdobju)
+Vodna dovoljenja za vrste rabe vode, za katere je treba plačati plačilo za vodno pravico, izdana do uveljavitve tega zakona, ministrstvo po uradni dolžnosti dopolni, če ne vsebujejo osnove za obračun plačila za vodno pravico v skladu z novo 47. točko 7. člena zakona, v enem letu po uveljavitvi predpisa iz četrtega odstavka 123. člena Zakona o vodah (Uradni list RS, št. 67/02, 110/02 - ZGO-1, 2/04 - ZZdrl-A, 41/04 - ZVO-1, 57/08, 57/12 in 100/13).

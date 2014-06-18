@@ -1,0 +1,9 @@
+# 9. člen
+111. člen se spremeni tako, da se glasi:
+"111. člen
+(začasna omejitev in prekinitev izvajanja posebne rabe vode)
+(1) Zaradi zagotavljanja vodnih količin, kakovosti voda in ohranjanja naravnega ravnovesja vodnih in obvodnih ekosistemov ministrstvo z objavo na svoji spletni strani in prek medijev obvesti in razglasi nastanek in prenehanje naravnega pojava na določenem območju, ki lahko povzroči začasno pomanjkanje vode ali zmanjšanje varnosti pred škodljivim delovanjem voda. Ministrstvo v času trajanja naravnega pojava iz prejšnjega stavka razglasi opozorila, napotila in obveznosti začasne omejitve ali prekinitve izvajanja posebne rabe vode.
+(2) Poleg omejitev iz prejšnjega odstavka lahko ministrstvo na določenem območju začasno omeji ali prekine izvajanje posebne rabe vode na način iz prejšnjega odstavka tudi, če pride do ekološke nesreče, vzdrževanja, rekonstrukcije ali gradnje vodne infrastrukture ali drugih dogodkov, ki povzročijo pomanjkanje vode ali zmanjšanje varnosti pred škodljivim delovanjem voda.
+(3) Pri omejitvah ali prekinitvah izvajanja posebne rabe vode iz prvega in drugega odstavka tega člena je treba najprej zagotoviti oskrbo s pitno vodo in vodo za varstvo pred požarom.
+(4) Zaradi začasne omejitve ali prekinitve izvajanja posebne rabe vode iz prvega in drugega odstavka tega člena imetnik vodne pravice in upravičenec do evidentirane posebne rabe vode nimata pravice do odškodnine.
+(5) Ne glede na določbe prejšnjega odstavka lahko imetnik vodne pravice in upravičenec do evidentirane posebne rabe vode zahtevata povračilo škode, ki sta jo utrpela zaradi začasne omejitve ali prekinitve izvajanja posebne rabe vode neposredno od osebe, ki je povzročila ekološko nesrečo, poškodbo vodne infrastrukture ali drugega dogodka iz drugega odstavka tega člena.".
