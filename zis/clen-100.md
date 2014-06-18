@@ -1,0 +1,5 @@
+# 100. člen
+
+Vse določbe tega zakona, ki se nanašajo na koncesionarja, se smiselno uporabljajo tudi za koncesionarja za igralni salon, razen 3.a, 55.a, 57., 58., 59., 60., 61., 75. in 82.a člena.
+
+Ne glede na prejšnji odstavek, se za delitev koncesijske dajatve iz prvega odstavka 74. člena tega zakona za igralne salone ne oblikuje zaokroženih turističnih območij. V primeru, da se igralni salon nahaja znotraj zaokroženega turističnega območja iz 74. člena tega zakona, se koncesijska dajatev v delu, ki pripada lokalnim skupnostim, nameni vsem lokalnim skupnostim znotraj zaokroženega turističnega območja. Če pa se igralni salon ne nahaja znotraj zaokroženega turističnega območja iz 74. člena tega zakona, je koncesijska dajatev, ki jo plačuje koncesionar za igralni salon, v delu, ki sicer pripada lokalnim skupnostim v zaokroženem turističnem območju, prihodek lokalne skupnosti, kjer se igralni salon nahaja oziroma se deli v skladu s posebno pogodbo med lokalnimi skupnostmi, ki so sklenile dogovor o opravljanju igralniške dejavnosti na podlagi predpisa iz 99. člena tega zakona.
