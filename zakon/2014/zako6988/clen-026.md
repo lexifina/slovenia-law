@@ -1,0 +1,5 @@
+# 26. člen (čista vrednost sredstev, vrednost enote premoženja, preračun vplačil in izplačil iz premostitvenega sklada ter vodenje evidence osebnih računov)
+(1) Glede določitve čiste vrednosti sredstev in vrednosti enote premoženja premostitvenega sklada, preračuna vplačanih prispevkov v premostitveni sklad v enote premoženja premostitvenega sklada in izračuna odkupne vrednosti enot premoženja premostitvenega sklada se smiselno uporablja zakon, ki ureja pokojninsko in invalidsko zavarovanje, v delu, ki velja za vzajemni pokojninski sklad, razen če ni s tem zakonom določeno drugače.
+(2) Obračunsko obdobje za izračun čiste vrednosti sredstev in vrednosti enote premoženja premostitvenega sklada je koledarski mesec. Obračunski dan je zadnji delovni dan obračunskega obdobja.
+(3) Enote premoženja premostitvenega sklada knjiži upravljavec v korist osebnih računov zavarovancev na ime posameznega zavarovanca.
+(4) Upravljavec vodi evidenco osebnih računov zavarovancev, na katere se vpisujejo podatki o posameznih vplačilih in enote premoženja premostitvenega sklada, izračunane v skladu s tem členom.
