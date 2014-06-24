@@ -1,0 +1,4 @@
+# 16.a člen
+Ne glede na določbe Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 99/13 - ZSVarPre-C in 101/13 - ZIPRS1415; v nadaljnjem besedilu: ZPIZ-2), se v tem poglavju urejajo posebni pogoji za pridobitev pravice do poklicne pokojnine za posamezne kategorije zaposlenih v Rudniku Trbovlje - Hrastnik.
+To poglavje ureja tudi obveznost Republike Slovenije da zagotovi sredstva za sofinanciranje poklicne pokojnine in za pokritje obveznosti iz petega, sedmega, osmega in devetega odstavka 16.c člena tega zakona v primeru, ko posamezni zavarovanec ne izpolnjuje pogoja zadostnosti sredstev na osebnem računu pri Skladu obveznega dodatnega pokojninskega zavarovanja.
+Za pridobitev pravice do poklicne pokojnine, odmero in izplačevanje poklicne pokojnine se uporabljajo določbe ZPIZ-2, če ta zakon ne določa drugače ali če so določbe ZPIZ-2 ugodnejše za zavarovanca.
