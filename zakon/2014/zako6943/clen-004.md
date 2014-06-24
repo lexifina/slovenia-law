@@ -1,0 +1,3 @@
+# 4. člen
+V 25. členu se doda nov drugi odstavek, ki se glasi:
+"Stranke lahko za financiranje volilne kampanje na podlagi pisnega dogovora prenesejo sredstva s svojega transakcijskega računa na transakcijski račun stranke, ki je organizator volilne kampanje za skupno listo kandidatov oziroma skupnega kandidata, če te stranke predlagajo skupno listo kandidatov oziroma skupnega kandidata. Stranka, ki je organizator volilne kampanje, mora celotni prejeti znesek nakazati na poseben transakcijski račun za volilno kampanjo. Stranka, ki je prejela delno povračilo stroškov za volilno kampanjo, lahko s svojega transakcijskega računa v skladu s pisnim dogovorom prenese ta sredstva na transakcijski račun drugih strank iz tega odstavka.".
