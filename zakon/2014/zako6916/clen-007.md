@@ -1,0 +1,3 @@
+# 7. člen
+Postopki inšpekcijskih nadzorov, začeti pred uveljavitvijo tega zakona, se končajo po določbah tega zakona.
+Predstojnik uporabnika proračuna lahko v dveh mesecih po uveljavitvi tega zakona vloži pri ministru, pristojnem za sistem plač v javnem sektorju, ugovor zoper zapisnike, izdane v postopkih inšpekcijskega nadzora nad izvajanjem določb zakona, ki ureja sistem plač v javnem sektorju, in na njegovi podlagi izdanih izvršilnih predpisov ter kolektivnih pogodb in splošnih aktov delodajalca, v delu, v katerem se urejajo plače, končanih pred uveljavitvijo tega zakona. Odločitev o ugovoru postane sestavni del zapisnika.
