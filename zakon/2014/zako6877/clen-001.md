@@ -1,0 +1,7 @@
+# 1. člen
+V Zakonu o ohranjanju narave (Uradni list RS, št. 96/04 - uradno prečiščeno besedilo, 61/06 - ZDru-1 in 8/10 - ZSKZ-B) se za tretjim odstavkom 1. člena doda nov četrti odstavek, ki se glasi:
+"(4) S tem zakonom se v pravni red Republike Slovenije prenašajo:
+1. Direktiva 2009/147/ES Evropskega parlamenta in Sveta z dne 30. novembra 2009 o ohranjanju prosto živečih ptic (UL L št. 20 z dne 26. 1. 2010, str. 7), zadnjič spremenjena z Direktivo Sveta 2013/17/EU z dne 13. maja 2013 o prilagoditvi nekaterih direktiv na področju okolja zaradi pristopa Republike Hrvaške (UL L št. 158 z dne 10. 6. 2013, str. 193),
+2. Direktiva Sveta 92/43/EGS z dne 21. maja 1992 o ohranjanju naravnih habitatov ter prosto živečih živalskih in rastlinskih vrst (UL L št. 206 z dne 22. 7. 1992, str. 7), zadnjič spremenjena z Direktivo Sveta 2013/17/EU z dne 13. maja 2013 o prilagoditvi nekaterih direktiv na področju okolja zaradi pristopa Republike Hrvaške (UL L št. 158 z dne 10. 6. 2013, str. 193),
+3. Direktiva Sveta z dne 28. marca 1983 o uvozu kož nekaterih tjulnjih mladičev in izdelkov iz njih v države članice 83/129/EGS (UL L št. 91 z dne 9. 4. 1983, str. 30), zadnjič spremenjena z Direktivo Sveta z dne 8. junija 1989 o spremembi Direktive 83/129/EGS o uvozu kož nekaterih tjulnjih mladičev in izdelkov iz njih v države članice (UL L št. 163 z dne 14. 6. 1989, str. 37) in
+4. Direktiva Sveta 1999/22/ES z dne 29. marca 1999 o zadrževanju prosto živečih živali v živalskih vrtovih (UL L št. 94 z dne 9. 4. 1999, str. 24).".

@@ -1,0 +1,7 @@
+# 20. člen
+V prvem odstavku 105. člena se za besedilom "naravovarstvene pogoje in" doda beseda "pravnomočno".
+V tretjem odstavku se črta besedilo "iz prvega odstavka tega člena".
+Za četrtim odstavkom se dodajo novi peti do sedmi odstavek, ki se glasijo:
+"(5) Naravovarstveni pogoji prenehajo veljati, če v dveh letih po njihovi izdaji ni vložena vloga za pridobitev naravovarstvenega soglasja, naravovarstveno soglasje pa preneha veljati, če se poseg, zaradi katerega je bilo soglasje dano, ne začne izvajati v dveh letih po njegovi pravnomočnosti. Če je za poseg v naravo treba pridobiti gradbeno dovoljenje po predpisih o graditvi objektov, naravovarstveno soglasje preneha veljati, če zahteva za izdajo gradbenega dovoljenja ni vložena v dveh letih po njegovi pravnomočnosti.
+(6) Ministrstvo lahko izda naravovarstveno soglasje, v katerem se na podlagi predpisov, ki urejajo ohranjanje narave, določijo pogoji, ki jih mora nosilec nameravanega posega upoštevati pri nadaljnji rabi objekta, da bi preprečil, zmanjšal ali odstranil škodljive vplive na naravo. Ministrstvo lahko izda tudi naravovarstveno soglasje, v katerem se določijo pogoji, ki jih mora nosilec nameravanega posega upoštevati v času gradnje.
+(7) Če je za gradnjo objekta iz prvega odstavka tega člena predpisan postopek presoje vplivov na okolje v skladu s predpisi, ki urejajo varstvo okolja, se namesto naravovarstvenega soglasja izda okoljevarstveno soglasje.".
