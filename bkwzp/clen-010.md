@@ -1,0 +1,9 @@
+# 10. člen OPROSTITEV CARIN IN DRUGIH DAJATEV
+
+1. Zrakoplovi, ki jih določeni letalski prevoznik ali prevozniki pogodbenice uporabljajo za mednarodni zračni prevoz in njihova običajna oprema, rezervni deli, zaloge goriva in maziv ter zaloge (vključno s hrano, pijačo in tobakom) na krovu zrakoplova, so oproščeni plačila carin, inšpekcijskih taks in drugih dajatev ali davkov ob prihodu na ozemlje druge pogodbenice, če taka oprema in zaloge ostanejo na krovu, dokler niso ponovno izvoženi.
+
+2. Zaloge goriva, maziv, rezervnih delov, običajne opreme in zaloge na zrakoplovu, ki se vnesejo na ozemlje vsake pogodbenice ali v imenu določenega letalskega prevoznika druge pogodbenice ali vkrcajo na zrakoplov, ki ga upravlja določeni letalski prevoznik in so namenjene izključno uporabi v mednarodnem zračnem prevozu, se oprostijo vseh nacionalnih davkov in dajatev, vključno s carinami in inšpekcijskimi taksami, naloženimi na ozemlju prve pogodbenice, celo če se bodo navedene zaloge uporabljale na delih potovanja čez ozemlje pogodbenice, v kateri se vkrcajo. Za zgoraj navedene materiale se lahko zahteva, da so pod carinskim nadzorom ali kontrolo.
+
+3. Običajna oprema na zrakoplovu, rezervni deli, zaloge na zrakoplovu ter zaloge goriva in maziv, ki so na krovu zrakoplova pogodbenice, se lahko raztovorijo na ozemlju druge pogodbenice le z odobritvijo njenih carinskih organov, ki lahko zahtevajo, da so ti materiali pod njihovim nadzorom, dokler niso ponovno izvoženi ali uporabljeni skladno s carinskimi predpisi.
+
+4. Premično premoženje določenega letalskega prevoznika ali prevoznikov pogodbenice, kot je pisarniška oprema, pisarniški material, potni dokumenti, vključno z letalskimi vozovnicami, letalskimi tovornimi listi, promocijskim gradivom in promocijskimi darili, ki se vnesejo na ozemlje druge pogodbenice, so oproščeni vseh carin, inšpekcijskih taks in drugih dajatev ali davkov.

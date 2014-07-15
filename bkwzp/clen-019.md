@@ -1,0 +1,3 @@
+# 19. člen PRENEHANJE VELJAVNOSTI
+
+Pogodbenica lahko kadar koli po diplomatski poti drugo pogodbenico obvesti, da odpoveduje ta sporazum. Kopija obvestila se hkrati pošlje generalnemu sekretarju Mednarodne organizacije civilnega letalstva. Če je tako obvestilo poslano, sporazum preneha veljati dvanajst (12) mesecev po dnevu, ko je druga pogodbenica prejela obvestilo o odpovedi, razen če ni pred potekom tega roka obvestilo po dogovoru med pogodbenicama umaknjeno. Če druga pogodbenica ne potrdi prejema obvestila o odpovedi, velja, da ga je prejela štirinajst (14) dni po dnevu, ko je svojo kopijo prejel generalni sekretar Mednarodne organizacije civilnega letalstva.
