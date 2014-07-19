@@ -9,4 +9,7 @@
 - če se premoženje odda v najem osebi javnega prava za izvajanje javnih nalog, razen javnim podjetjem;
 - če se javna komunalna infrastruktura odda v najem izvajalcu gospodarske javne službe;
 - če se premoženje odda v najem nevladnim organizacijam, ki delujejo v javnem interesu, za izvajanje dejavnosti, za katero so ustanovljene;
+- če se nepremično premoženje v obsegu, ki je potreben za opravljanje dejavnosti, za katero je ustanovljeno, odda v najem socialnemu podjetju, delujočemu v skladu z zakonom, ki ureja socialno podjetništvo (v nadaljnjem besedilu: socialno podjetje) ter ob upoštevanju predpisov, ki urejajo dodeljevanje državnih pomoči;
+- če se odda nepremično premoženje, ki ga je socialno podjetje dotlej uporabljalo na podlagi pogodbe o brezplačni uporabi iz tretje alineje prvega odstavka 30. člena tega zakona;
 - če se stvarno premoženje odda v najem za obrambo, zaščito, reševanje in pomoč ob naravnih in drugih nesrečah ali za razvoj obrambne industrije oziroma razvojnih obrambnih projektov.
+(4) V primerih iz devete alineje prejšnjega odstavka ne velja obveznost objave namere o oddaji nepremičnega premoženja v najem na spletni strani upravljavca.
