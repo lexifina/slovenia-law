@@ -1,0 +1,1 @@
+Hramba dokumentarnega gradiva pomeni ohranjanje izvirnega dokumentarnega gradiva ali uporabnosti vsebine tega gradiva. Hrambi izvirnega dokumentarnega gradiva je zato enaka hramba zajetega gradiva, če zagotavlja zajetemu gradivu vse učinke izvirnega gradiva (uporabnost vsebine gradiva).

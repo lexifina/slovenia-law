@@ -1,0 +1,5 @@
+# 13.a člen (izločanje in uničevanje izvirnega dokumentarnega gradiva po preteku rokov hranjenja)
+
+(1) Izvirno dokumentarno gradivo, ki so mu potekli predpisani roki hranjenja in nima več pomena za tekoče poslovanje javnopravne osebe in nima lastnosti arhivskega gradiva v skladu s pisnimi strokovnimi navodili pristojnega arhiva iz 34. člena tega zakona, se lahko izloči in uniči. O nameravanem uničenju je treba obvestiti pristojni arhiv, kadar ta zahteva to v pisnih strokovnih navodilih iz 34. člena tega zakona.
+
+(2) Za izločitev in uničenje izvirnega dokumentarnega gradiva je pristojna komisija za izločitev in uničenje izvirnega dokumentarnega gradiva javnopravne osebe, ki postopek dokumentira z zapisnikom na podlagi popisa gradiva. Vsebino zapisnika in popisa se podrobneje določi z uredbo. V roku trideset dni po sestavi zapisnika o izločitvi in uničenju in obvestilu pristojnemu arhivu, če ga ta zahteva v pisnih strokovnih navodilih iz 34. člena tega zakona, se gradivo lahko uniči oziroma odda v industrijsko predelavo, če pristojni arhiv ne določi drugače.

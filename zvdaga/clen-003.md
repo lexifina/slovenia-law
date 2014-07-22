@@ -1,0 +1,3 @@
+## II. TEMELJNA NAČELA ZAKONA
+
+# 3. člen

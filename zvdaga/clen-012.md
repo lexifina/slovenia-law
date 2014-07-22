@@ -1,0 +1,3 @@
+# 12. člen (zanesljiva pretvorba v obliko za dolgoročno hrambo)
+
+Za zanesljivo pretvorbo v digitalno obliko za dolgoročno hrambo se šteje pretvorba, ki ohranja celovitost in uporabnost vsebine zajetega gradiva v običajni digitalni obliki. Če se avtentičnost zajetega gradiva dokazuje z vsebinami, ki s tekom časa izgubljajo ali povsem izgubijo vrednost oziroma se izničijo, se avtentičnost zajetega gradiva v digitalni obliki za dolgoročno hrambo zagotovi s strogo nadzorovanim dodajanjem vsebin (npr. ponoven e-podpis vsebin), ki potrjujejo avtentičnost zajetega gradiva. Takšne vsebine se lahko dodajajo na ravni posameznih enot ali na ravni celotnega zajetega gradiva.
