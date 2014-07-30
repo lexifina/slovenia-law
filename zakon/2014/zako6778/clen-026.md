@@ -1,0 +1,3 @@
+# 26. člen
+Prvi odstavek 106. člena se spremeni tako, da se glasi:
+"Sodišče dovoli izvršbo na denarno terjatev dolžnika za izterjavo občasnih dajatev, ki bodo zapadle v določenih časovnih presledkih v obdobju enega leta od dneva vložitve predloga (denarna renta zaradi zmanjšanja življenjske aktivnosti, zaradi zmanjšanja oziroma izgube delovne zmožnosti, ali zaradi smrti tistega, ki je preživnino dajal, idr.) ter za izterjavo občasnih dajatev iz naslova zakonite preživnine, ki bodo zapadle v določenih časovnih presledkih v obdobju dveh let od dneva vložitve predloga, brez ponovne zahteve po njihovi zapadlosti.".

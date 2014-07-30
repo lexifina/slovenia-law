@@ -1,0 +1,4 @@
+# 18. člen
+V prvem odstavku 74. člena se besedilo "(71. in 73. člen, 11. člen zakona o državnem tožilstvu)" nadomesti z besedilom "(71. in 73. člen tega zakona, 20. člen Zakona o državnem tožilstvu (Uradni list RS, št. 58/11, 21/12 - ZDU-1F, 47/12, 15/13 - ZODPol, 47/13 - ZDU-1G in 48/13 - ZSKZDČEU-1))".
+Tretji odstavek se spremeni tako, da se glasi:
+"Če je predlagal odlog izvršbe upnik, jo sodišče oziroma izvršitelj odloži za toliko časa, za kolikor je upnik predlagal, vendar največ za eno leto. Upnik lahko predlaga podaljšanje odloga, vendar odlog skupno ne sme trajati dlje od enega leta od izdaje prvega sklepa o dovolitvi odloga. Če upnik predlaga odlog za več kot eno leto, se izvršba ustavi, upnik obdrži zastavno pravico na predmetu izvršbe, sodišče pa ne razveljavi zaznambe sklepa o izvršbi v zemljiški knjigi ali sodnem registru oziroma že opravljenega rubeža premičnin.".

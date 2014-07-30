@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o izvršbi in zavarovanju (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo, 93/07, 37/08 - ZST-1, 45/08 - ZArbit, 28/09, 51/10, 26/11, 17/13 - odl. US in 45/14 - odl. US) se v drugem odstavku 2. člena pika nadomesti z vejico in doda besedilo "če znesek po enem izvršilnem naslovu presega 10 eurov, ali če skupni znesek dolga enega dolžnika po posameznih izvršilnih naslovih presega 20 eurov.".
