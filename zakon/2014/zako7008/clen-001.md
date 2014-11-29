@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu za uravnoteženje javnih financ (Uradni list RS, št. 40/12, 96/12 - ZPIZ-2, 104/12 - ZIPRS1314, 105/12, 25/13 - odl. US, 46/13 - ZIPRS1314-A, 47/13 - ZOPRZUJF, 56/13 - ZŠtip-1, 63/13 - ZOsn-I, 63/13 - ZJAKRS-A, 99/13 - ZUPJS-C, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415, 101/13 - ZDavNepr in 107/13 - odl. US) se za drugim odstavkom 184. člena doda nov tretji odstavek, ki se glasi:
+"(3) V primeru, da se avtorska ali podjemna pogodba sklepa na podlagi zakona, ki ureja javno naročanje, morajo uporabniki proračuna od dajalcev soglasja navedenih v 186. členu zakona, pridobiti soglasje samo k objavi obvestila o naročilu oziroma k posredovanju povabila k oddaji ponudb.".
