@@ -1,0 +1,7 @@
+# 24. člen
+Prvi in drugi odstavek 127. člena se spremenita tako, da se glasita:
+"(1) Davčni zavezanec, ki nima sedeža znotraj Unije, mora davčnemu organu predložiti posebni obračun DDV za vsako koledarsko trimesečje ne glede na to, ali so bile telekomunikacijske storitve, storitve oddajanja ali elektronske storitve opravljene ali ne. Posebni obračun DDV mora predložiti do 20. dne naslednjega meseca po poteku obračunskega obdobja, na katero se obračun nanaša. Posebni obračun DDV mora predložiti v elektronski obliki.
+(2) V posebnem obračunu DDV iz prvega odstavka tega člena mora davčni zavezanec, ki nima sedeža znotraj Unije, navesti slovensko identifikacijsko številko za DDV ter za vsako državo članico potrošnje, v kateri je nastala obveznost za plačilo DDV, skupno vrednost telekomunikacijskih storitev, storitev oddajanja in elektronskih storitev v obračunskem obdobju brez DDV, in skupni znesek pripadajočega DDV te države članice, razdeljenega po davčnih stopnjah. V posebnem obračunu DDV mora davčni zavezanec, ki nima sedeža znotraj Unije, navesti tudi uporabljene davčne stopnje in skupni znesek dolgovanega DDV.".
+V tretjem odstavku se za besedo "sedeža" dodata besedi "znotraj Unije".
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Davčni zavezanec lahko v obdobju treh let od poteka roka za predložitev posebnega obračuna DDV predloži popravek posebnega obračuna DDV, če pozneje ugotovi nepravilnosti.".

@@ -1,0 +1,5 @@
+# 130.g člen (odbitek DDV)
+(1) Davčni zavezanec, ki prijavi uporabo posebne ureditve iz tega podpoglavja, nima pravice do odbitka DDV, lahko pa uveljavlja vračilo plačanega DDV.
+(2) Davčni zavezanec, ki prijavi uporabo posebne ureditve iz tega podpoglavja v Sloveniji, lahko ne glede na 3. člen Direktive Sveta 2008/9/ES uveljavlja vračilo plačanega DDV v drugi državi članici v skladu s podpoglavjem 2.3. poglavja IX tega zakona.
+(3) Davčni zavezanec, ki prijavi uporabo posebne ureditve v drugi državi članici, lahko ne glede na prvi odstavek 74. člena tega zakona uveljavlja vračilo plačanega DDV v Sloveniji v skladu s podpoglavjem 2.2. poglavja IX tega zakona.
+(4) Davčni zavezanec, ki prijavi uporabo posebne ureditve v drugi državi članici, ter v Sloveniji kot državi članici potrošnje opravlja tudi dejavnosti, za katere ne velja ta posebna ureditev in za katere se mora identificirati za namene DDV, odbije zneske DDV, povezane z obdavčljivimi dejavnostmi, za katere velja ta posebna ureditev, v obračunu DDV, ki ga mora predložiti v skladu s 87. členom tega zakona.

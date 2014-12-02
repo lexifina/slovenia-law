@@ -1,0 +1,2 @@
+# 14. člen
+V drugem odstavku 76. člena se besedilo "davčne zavezance, ki nimajo sedeža znotraj Unije, in opravljajo elektronske storitve osebam, ki niso davčni zavezanci" nadomesti z besedilom "telekomunikacijske storitve, storitve oddajanja ali elektronske storitve, ki jih opravljajo davčni zavezanci, ki nimajo sedeža znotraj Unije, ali posebno ureditev za opravljanje storitev mednarodnega občasnega cestnega prevoza potnikov".

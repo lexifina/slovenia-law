@@ -1,0 +1,4 @@
+# 122.b člen (vročanje davčnim zavezancem iz podpoglavja 6.a in 6.b)
+(1) Davčnim zavezancem iz 125. in 130.b člena tega zakona se odločbe, sklepi in drugi dokumenti vročajo osebno po elektronski poti skladno z zakonom, ki ureja splošni upravni postopek. Kot varen elektronski predal se uporablja informacijski sistem eDavki.
+(2) Davčnim zavezancem, ki so prijavili uporabo posebne ureditve za telekomunikacijske storitve, storitve oddajanja ali elektronske storitve v eni od držav članic znotraj Unije, vendar ne v Sloveniji, se odločbe, sklepi in drugi dokumenti vročajo na elektronski naslov. Šteje se, da je bila odločba, sklep ali drug dokument vročen davčnemu zavezancu 15. dan od dneva, ko je bil odposlan na elektronski naslov davčnega zavezanca, ki ga je navedel na obrazcu za prijavo v posebno ureditev.
+(3) Pritožba zoper odločbo se lahko vloži v 30 dneh od dneva, ko se šteje, da je bila odločba vročena.".
