@@ -1,2 +1,2 @@
-U K A Z
-o razglasitvi Zakona o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-1C)
+Z A K O N
+O SPREMEMBAH IN DOPOLNITVAH ZAKONA O DAVKU NA DODANO VREDNOST (ZDDV-1C)
