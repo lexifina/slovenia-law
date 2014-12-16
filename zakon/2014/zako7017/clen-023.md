@@ -1,0 +1,2 @@
+# 23. člen
+Uradnikom, ki so z dnem uveljavitve tega zakona na položaju generalnega direktorja v ministrstvu ali direktorja organa v sestavi ministrstva, z uveljavitvijo aktov iz 21. člena, ne glede na določbo četrtega odstavka 83. člena Zakona o javnih uslužbencih (Uradni list RS, št. 63/07 - uradno prečiščeno besedilo, 65/08, 69/08 - ZTFI-A, 69/08 - ZZavar-E in 40/12 - ZUJF), položaji ne prenehajo, če se direktorati ali organi v sestavi ministrstva, ki jih vodijo, ustanovijo v vsebinsko enakem ali zmanjšanem obsegu v drugem ministrstvu ali v sestavi drugega ministrstva.

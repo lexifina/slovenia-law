@@ -1,0 +1,3 @@
+# 17. člen
+V Zakonu o javnem naročanju na področju obrambe in varnosti (Uradni list RS, št. 90/12) se v 30. točki prvega odstavka 3. člena, tretjem odstavku 7. člena, 7. točki prvega odstavka 22. člena, osmem odstavku 32. člena, tretjem odstavku 40. člena, prvem, drugem, tretjem in četrtem odstavku 73. člena, drugem odstavku 81. člena, prvem, tretjem in četrtem odstavku 84. člena ter sedmem odstavku 86. člena besedilo "ministrstvo, pristojno za finance" v uporabljenem sklonu nadomesti z besedilom "ministrstvo, pristojno za javna naročila" v ustreznem sklonu.
+V šestem odstavku 83. člena se besedilo "Minister ali ministrica (v nadaljnjem besedilu: minister), pristojen za finance" nadomesti z besedilom "Minister, pristojen za javna naročila.

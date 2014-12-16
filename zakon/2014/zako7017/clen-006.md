@@ -1,0 +1,5 @@
+# 6. člen
+Za 34. členom se doda nov 34.a člen, ki se glasi:
+"34.a člen
+(ministrstvo za javno upravo)
+Ministrstvo za javno upravo opravlja naloge na področjih javne uprave, sistemskega urejanja organiziranosti in delovanja javnega sektorja, sistema javnih uslužbencev, plačnega sistema v javnem sektorju, javnih naročil, volilne in referendumske zakonodaje, sistemskega urejanja splošnega upravnega postopka, sistemskega urejanja upravnih taks, upravnega poslovanja, upravljanja z informacijsko komunikacijskimi sistemi in zagotavljanja elektronskih storitev javne uprave, dostopa do informacij javnega značaja, integritete in preprečevanja korupcije v javnem sektorju, delovanja nevladnih organizacij, lokalne samouprave, kakovosti javne uprave, boljše zakonodaje ter odprave administrativnih ovir in naloge na področju sistemskega urejanja ravnanja s stvarnim premoženjem države in lokalnih skupnosti, centraliziranega ravnanja s stvarnim premoženjem države, načrtovanja in koordiniranja prostorskih potreb organov državne uprave ter drugih nalog na področju ravnanja s stvarnim premoženjem v skladu s predpisi ali aktom vlade.".

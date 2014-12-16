@@ -1,0 +1,2 @@
+# 22. člen
+Od dne uveljavitve tega zakona Ministrstvo za infrastrukturo in Ministrstvo za kmetijstvo, gozdarstvo in prehrano nadaljujeta z delom kot isti proračunski uporabnik. Do začetka uporabe rebalansa proračuna države za leto 2015 se sredstva za delovanje prenesenih delovnih področij in novoustanovljenih ministrstev zagotavljajo v okviru ministrstev, katerih del so bila ta delovna področja pred uveljavitvijo Zakona o spremembah in dopolnitvah Zakona o Vladi Republike Slovenije (Uradni list RS, št. 65/14).
