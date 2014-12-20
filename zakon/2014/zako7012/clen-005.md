@@ -1,0 +1,5 @@
+# 5. člen
+V šestem odstavku 157. člena se na koncu stavka pika nadomesti z vejico in doda besedilo "ter jo poučiti, da ima za namene priprave pritožbe pravico pregledati gradivo zadeve, ki je povezano s pridržanjem. Pregled določenega gradiva se sme z odločbo o pridržanju odreči, če bi bilo lahko resno ogroženo življenje ali pravice druge osebe, ali če bi pregled vplival na potek predkazenskega postopka oziroma preiskave, ali če to narekujejo posebni razlogi obrambe ali varnosti države.".
+Za sedmim odstavkom se doda nov osmi odstavek, ki se glasi:
+"(8) Če pridržanje po drugem odstavku tega člena traja manj kot šest ur, mora policist osebi, ki ji je bila odvzeta prostost, najkasneje ob prenehanju pridržanja izročiti uradni zaznamek, iz katerega so razvidni podatki o njej, razlog pridržanja, pravice pridržane osebe, točen čas začetka in, če je to mogoče, tudi točen čas prenehanja pridržanja. Čas izročitve uradnega zaznamka oseba potrdi s podpisom. Če podpis odkloni, policist to navede na uradnem zaznamku.".
+Dosedanji osmi odstavek postane deveti odstavek.

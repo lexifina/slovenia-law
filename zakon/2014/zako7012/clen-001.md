@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o kazenskem postopku (Uradni list RS, št. 32/12 - uradno prečiščeno besedilo in 47/13) se v prvem odstavku 4. člena na koncu doda nov tretji stavek, ki se glasi: "Osumljenec, ki mu je vzeta prostost, mora biti obveščen tudi o pravicah iz 8. člena tega zakona ter o pravici iz četrtega odstavka tega člena.".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"(5) Osumljenec, ki mu je vzeta prostost, mora biti o svojih pravicah iz tega člena in 157. člena tega zakona poučen pisno, v vsebini iz Priloge 1, ki je sestavni del tega zakona. Pisno obvestilo mora biti sestavljeno v materinem jeziku osumljenca ali v jeziku, ki ga osumljenec razume. Če pisno obvestilo v ustreznem jeziku ni na voljo, se osumljenca, ki mu je vzeta prostost, o pravicah najprej pouči ustno v jeziku, ki ga razume, nato pa se brez nepotrebnega odlašanja zagotovi tudi pisno obvestilo.".
