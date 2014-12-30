@@ -1,0 +1,7 @@
+# 6. člen (prenehanje veljavnosti in uporabe področnih predpisov)
+Z dnem začetka uporabe tega zakona:
+- v Zakonu o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 63/13 - ZIUPTDSV, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415 in 44/14 - ORZPIZ206) v prvem odstavku 18. člena preneha veljati besedilo "oziroma opravljajo začasno in občasno delo dijakov in študentov, v skladu s predpisi, ki urejajo to delo", v tretjem odstavku 20. člena pa deveta alineja;
+- v Sklepu o določitvi prispevkov za posebne primere zavarovanja (Uradni list RS, št. 25/13 in 20/14) preneha veljati 5. člen;
+- v Zakonu o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 72/06 - uradno prečiščeno besedilo, 114/06 - ZUTPG, 91/07, 76/08, 62/10 - ZUPJS, 87/11, 40/12 - ZUJF, 21/2013 - ZUTD-A, 63/13 - ZIUPTDSV, 91/13, 99/13 - ZUPJS-C, 99/13 - ZSVarPre-C, 111/13 - ZMEPIZ-1) v prvi alineji prvega odstavka 55.a člena preneha veljati besedilo "z izjemo dohodka iz dela, opravljenega na podlagi 6. točke 17. člena tega zakona,";
+- v Zakonu o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015 (Uradni list RS, št. 101/13, 9/14 - ZRTVS-1A, 25/14 - ZSDH-1 in 38/14 in 84/14) prenehata veljati 59. in 60. člen;
+- v Zakonu o zaposlovanju in zavarovanju za primer brezposelnosti (Uradni list RS, št. 107/06 - uradno prečiščeno besedilo, 114/06 - ZUTPG, 59/07 - ZŠtip, 51/10 - odl. US in 80/10 - ZUTD, 40/12 - ZUJF) se preneha uporabljati drugi stavek tretjega odstavka 6.b člena.

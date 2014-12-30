@@ -1,0 +1,2 @@
+# 5. člen (plačnik davka)
+Do ustrezne ureditve v zakonu, ki ureja davčni postopek, se ne glede na 1. točko prvega odstavka 58. člena Zakona o davčnem postopku (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 32/12, 94/12, 101/13 - ZDavNepr, 111/13, 25/14 - ZFU in 40/14 - ZIN-B) za plačnika davka štejejo organizacije oziroma delodajalci, ki posredujejo začasna in občasna dela osebam iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti.
