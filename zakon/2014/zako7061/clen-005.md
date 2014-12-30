@@ -1,0 +1,11 @@
+# 5. člen
+Besedilo 39. člena se spremeni tako, da se glasi:
+"(1) Ne glede na določbe Zakona o Slovenskem državnem holdingu (Uradni list RS, št. 25/14; v nadaljnjem besedilu: ZSDH-1) in 80.č člen ZJF v letni program prodaje finančnega premoženja države ni treba vključiti kapitalskih naložb, katerih knjigovodska vrednost ne presega 25.000 eurov in naložb, pridobljenih skladno s 1. in 2. točko drugega odstavka 76. člena ZJF.
+(2) Ne glede na prvi odstavek 80.č člena ZJF v letni program prodaje finančnega premoženja države ni treba vključiti posamične terjatve Republike Slovenije do višine 7.000.000 eurov, pri čemer skupni obseg vseh terjatev posameznega leta, ki ne bodo vključene v letni program prodaje finančnega premoženja države, ne sme presegati 30.000.000 eurov.
+(3) O prodaji in drugih oblikah razpolaganja s premoženjem države iz prvega in drugega odstavka tega člena vlada enkrat letno za preteklo leto, najkasneje do 31. maja, poroča Državnemu zboru Republike Slovenije. Poročilo mora vsebovati najmanj:
+- opis finančnega premoženja,
+- dejansko vrednost premoženja,
+- razloge za prodajo ali druge oblike razpolaganja,
+- višino kupnine ali višino drugega plačila.
+(4) Izvajalci gospodarske javne službe v energetskih dejavnostih in druge gospodarske družbe s tega področja, v katerih ima država posredno ali neposredno pomemben vpliv, morajo imeti v svojih ustanovnih aktih določila, ki dopuščajo pridobitev kontrolnega deleža v osnovnem kapitalu družbe posameznemu vlagatelju neposredno ali skupaj z obvladovanimi (povezanimi) družbami oziroma osebami, ki delujejo usklajeno, z nakupom ali z dokapitalizacijo le s soglasjem vlade. Za pridobitev kontrolnega deleža na podlagi tega člena se šteje vsaka pridobitev oziroma povečanje že obstoječega deleža v osnovnem kapitalu te družbe tako, da ta po takšni pridobitvi dosega ali presega 25 % osnovnega kapitala te družbe.
+(5) Ne glede na prvi odstavek 19. člena ZSDH-1 z naložbami Republike Slovenije, pridobljenimi na podlagi zakona, ki ureja dedovanje, upravlja ministrstvo, pristojno za finance.".
