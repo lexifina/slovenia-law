@@ -1,0 +1,3 @@
+# 13. člen (ciljna raven sredstev)
+(1) Ciljna raven sredstev sklada znaša 2,3 odstotka vsote vseh zajamčenih vlog v Republiki Sloveniji, pri čemer se sredstva v višini 1,3 odstotka vsote vseh zajamčenih vlog zagotovijo z vplačanimi ustanovnimi denarnimi sredstvi v skladu s 14. členom tega zakona. Za sredstva v višini enega odstotka vsote vseh zajamčenih vlog pa banke zagotavljajo likvidna sredstva kot zavarovanje za izredno vplačilo denarnih sredstev v skladu s 15. in 16. členom tega zakona.
+(2) Za izračun ciljne ravni se kot vsota vseh zajamčenih vlog v Republiki Sloveniji upošteva podatek o stanju na dan 30. septembra 2014.

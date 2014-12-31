@@ -1,0 +1,14 @@
+## IV. PREMOSTITVENA BANKA
+# 19. člen (premostitvena banka)
+(1) Banka Slovenije lahko z odločbo o izrednih ukrepih, s katero izreče izredni ukrep prenosa premoženja in obveznosti banke, odloči o ustanovitvi premostitvene banke z vplačilom ustanovnega kapitala premostitvene banke iz sredstev sklada. Na premostitveno banko se prenese premoženje in obveznosti na podlagi odločbe o izrednih ukrepih, ki jih izreče Banka Slovenije. Premostitvena banka se za namene prenosa premoženja in obveznosti banke na prevzemno družbo, ki je izveden v skladu z zakonom, ki ureja bančništvo, šteje kot prevzemna družba.
+(2) Premostitvena banka se ustanovi za obdobje dveh let od zadnjega prenosa premoženja in obveznosti na podlagi izrečenih izrednih ukrepov z možnostjo podaljšanja do skupno največ petih let, pri čemer Banka Slovenije pri odločanju o upravičenosti podaljšanja upošteva zlasti razmere na trgu in predvideno časovno obdobje za učinkovito izvrševanje izrednih ukrepov.
+(3) Ustanovni kapital premostitvene banke se vplača v obliki denarnih ali stvarnih vložkov, ki se zagotovijo iz sklada ali s prenosom premoženja banke, ki ji je bil izrečen izredni ukrep, v višini obveznosti, ki se hkrati prenesejo na premostitveno banko. Edini delničar premostitvene banke je sklad.
+(4) Banka Slovenije z odločbo iz prvega odstavka tega člena imenuje izredno upravo premostitvene banke. Za upravljanje premostitvene banke se uporabljajo določbe zakona o bančništvu, ki urejajo pristojnosti organov banke v času izrednih ukrepov in izredno upravo banke.
+(5) Z izdajo odločbe iz prvega odstavka tega člena se šteje, da je premostitvena banka, v skladu z zakonom, ki ureja bančništvo, pridobila dovoljenje Banke Slovenije za opravljanje bančnih, finančnih in dodatnih finančnih storitev, ki jih bo opravljala premostitvena banka. V odločbi iz prvega odstavka tega člena se navedejo storitve, ki jih bo opravljala premostitvena banka.
+(6) Če ni v tem členu določeno drugače, se za premostitveno banko smiselno uporabljajo določbe zakona, ki ureja bančništvo, in Uredbe (EU) št. 575/2013, ki veljajo za banko, v kateri je imenovana izredna uprava.
+(7) Banka Slovenije izda odločbo o prenehanju premostitvene banke, če:
+1. se je premostitvena banka združila z drugim subjektom, ki ima dovoljenje za opravljanje storitev, ki jih opravlja premostitvena banka;
+2. je vse delnice premostitvene banke prevzel novi investitor ali so bila vsa sredstva, pravice in obveznosti premostitvene banke prenesena na tretjo osebo;
+3. je poteklo obdobje iz drugega odstavka tega člena;
+4. so sredstva premostitvene banke izčrpana in so njene obveznosti v celoti poravnane.
+(8) V primeru iz 3. in 4. točke prejšnjega odstavka Banka Slovenije predlaga začetek prisilne likvidacije ali stečaja premostitvene banke. Za prisilno likvidacijo in stečaj premostitvene banke se uporabljajo določbe o prisilni likvidaciji in stečaju banke.
