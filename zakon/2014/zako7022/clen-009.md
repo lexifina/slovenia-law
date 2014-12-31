@@ -1,0 +1,2 @@
+# 9. člen
+Osebe iz 115.a člena zakona se morajo v enem mesecu od uveljavitve tega zakona obvezno zavarovati v skladu z določbo 116. člena ZPIZ-2, če še naprej opravljajo delo ali dejavnost, ki je podlaga za pridobitev lastnosti zavarovanca. Če oseba v roku iz prejšnjega stavka ne uskladi lastnosti zavarovanca, zavod po uradni dolžnosti ugotovi lastnost zavarovanca ne glede na določbo četrtega odstavka 81. člena zakona od prvega naslednjega dne po poteku tega roka, pokojnina pa se s tem dnem preneha izplačevati.
