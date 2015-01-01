@@ -1,0 +1,2 @@
+# 9. člen (posebna ureditev glede na 245. člen ZPIZ-2)
+Ne glede na določbo 245. člena Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415, 44/14 - ORZPIZ206 in 85/14 - ZUJF-B) je lahko v letu 2015 znesek vplačil kolektivnega zavarovanja po Zakonu o kolektivnem dodatnem pokojninskem zavarovanju za javne uslužbence (Uradni list RS, št. 126/03), ki ga za posameznega javnega uslužbenca vplača delodajalec v posameznem koledarskem letu, nižji od 240 eurov.
