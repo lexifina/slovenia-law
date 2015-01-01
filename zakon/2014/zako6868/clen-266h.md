@@ -1,0 +1,2 @@
+# 266.h člen (naknadno priznanje ugodnejših pogojev)
+Če bi bili drugi partnerski jurisdikciji na podlagi podpisanega dvostranskega sporazuma priznani ugodnejši pogoji od tistih, ki se po 4. členu sporazuma ali njegovi prilogi I priznajo Sloveniji v zvezi z uporabo FATCE za finančne institucije Slovenije, in se ti ugodnejši pogoji skladno s sporazumom uporabljajo tudi za Slovenijo, minister, pristojen za finance, v Uradnem listu Republike Slovenije z odredbo objavi te pogoje in dan začetka njihove uporabe.

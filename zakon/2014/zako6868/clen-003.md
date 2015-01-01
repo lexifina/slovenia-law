@@ -1,0 +1,2 @@
+# 3. člen
+V drugem odstavku 13. člena se besedilo "generalni direktor ali generalna direktorica (v nadaljnjem besedilu: generalni direktor) Davčne uprave Republike Slovenije oziroma generalni direktor ali generalna direktorica (v nadaljnjem besedilu: generalni direktor) Carinske uprave Republike Slovenije", nadomesti z besedilom "in predstojnik ali predstojnica Finančne uprave Republike Slovenije (v nadaljnjem besedilu: predstojnik),".

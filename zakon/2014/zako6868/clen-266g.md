@@ -1,0 +1,3 @@
+# 266.g člen (sporočanje informacij pristojnemu organu)
+(1) Minister, pristojen za finance, predpiše način in obliko sporočanja informacij iz četrtega odstavka 266.c člena in prvega, tretjega ter četrtega odstavka 266.d člena tega zakona pristojnemu organu.
+(2) Poročevalska finančna institucija Slovenije informacije iz četrtega odstavka 266.c člena in prvega, tretjega ter četrtega odstavka 266.d člena tega zakona sporoči pristojnemu organu najpozneje do 31. maja leta, ki sledi koledarskemu letu, na katero se informacije nanašajo. Informacije se sporočajo na način in v obliki, ki jo predpiše minister, pristojen za finance.
