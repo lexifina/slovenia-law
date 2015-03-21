@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o graditvi objektov (Uradni list RS, št. 102/04 - uradno prečiščeno besedilo, 14/05 - popr., 92/05 - ZJC-B, 93/05 - ZVMS, 111/05 - odl. US, 126/07, 108/09, 61/10 - ZRud-1, 20/11 - odl. US, 57/12, 101/13 - ZDavNepr in 110/13) se v drugem odstavku 156.a člena v prvi alineji besedilo "eno leto" nadomesti z besedilom "pet let", v drugi alineji pa besedilo "tri leta" nadomesti z besedilom "pet let".
