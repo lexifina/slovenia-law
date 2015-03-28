@@ -1,0 +1,6 @@
+# 2. člen
+(1) Vlada Republike Slovenije najpozneje v roku treh mesecev od uveljavitve tega zakona sprejme akt, s katerim uredi ustanovitev in začetek delovanja javne agencije, pristojne za trženje in promocijo turizma.
+(2) Javna agencija, pristojna za trženje in promocijo turizma, začne delovati naslednji dan po vpisu v sodni register.
+(3) Do začetka delovanja javne agencije, pristojne za trženje in promocijo turizma, opravlja naloge s področja načrtovanja in izvajanje politike trženja celovite turistične ponudbe Slovenije na domačem in tujih trgih Javna agencija Republike Slovenije za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma.
+(4) Javna agencija, pristojna za trženje in promocijo turizma, z dnem začetka svojega delovanja od Javne agencije Republike Slovenije za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma prevzame naloge, povezane z opravljanjem dejavnosti na področju načrtovanja in izvajanje politike trženja celovite turistične ponudbe Slovenije na domačem in tujih trgih.
+(5) Javna agencija, pristojna za trženje in promocijo turizma, do sprejetja svojega programa dela in finančnega načrta uporablja program dela in načrt Javne agencije Republike Slovenije za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma v delu, ki se nanaša na področje turizma.
