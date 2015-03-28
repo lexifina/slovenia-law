@@ -1,0 +1,16 @@
+Zakon o spremembah in dopolnitvah Zakona o spodbujanju razvoja turizma - ZSRT-B (Uradni list RS, št. 17/15) vsebuje naslednje prehodne in končno določbo:
+"PREHODNE IN KONČNA DOLOČBA
+2. člen
+(1) Vlada Republike Slovenije najpozneje v roku treh mesecev od uveljavitve tega zakona sprejme akt, s katerim uredi ustanovitev in začetek delovanja javne agencije, pristojne za trženje in promocijo turizma.
+(2) Javna agencija, pristojna za trženje in promocijo turizma, začne delovati naslednji dan po vpisu v sodni register.
+(3) Do začetka delovanja javne agencije, pristojne za trženje in promocijo turizma, opravlja naloge s področja načrtovanja in izvajanje politike trženja celovite turistične ponudbe Slovenije na domačem in tujih trgih Javna agencija Republike Slovenije za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma.
+(4) Javna agencija, pristojna za trženje in promocijo turizma, z dnem začetka svojega delovanja od Javne agencije Republike Slovenije za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma prevzame naloge, povezane z opravljanjem dejavnosti na področju načrtovanja in izvajanje politike trženja celovite turistične ponudbe Slovenije na domačem in tujih trgih.
+(5) Javna agencija, pristojna za trženje in promocijo turizma, do sprejetja svojega programa dela in finančnega načrta uporablja program dela in načrt Javne agencije Republike Slovenije za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma v delu, ki se nanaša na področje turizma.
+3. člen
+(1) Javna agencija, pristojna za trženje in promocijo turizma, z dnem začetka svojega delovanja prevzame tiste javne uslužbence, ki na ta dan v Javni agenciji Republike Slovenije za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma opravljajo dela na področju turizma, sorazmerni del tistih javnih uslužbencev, ki opravljajo skupna in splošna dela in naloge, in ima v skladu s kadrovskim načrtom pravico do zapolnitve preostalih prostih delovnih mest za področje turizma. Prevzeti javni uslužbenci sklenejo nove pogodbe o zaposlitvi pod istimi pogoji. Prehod zaposlenih in njegov obseg se podrobneje uredi v ustanovitvenem aktu.
+(2) Javna agencija, pristojna za trženje in promocijo turizma, z dnem začetka svojega delovanja od Javne agencije Republike Slovenija za spodbujanje podjetništva, inovativnosti, razvoja, investicij in turizma prevzame pripadajočo opremo in sredstva, nedokončane zadeve, dokumentacijo, arhive ter pravice in obveznosti, ki se nanašajo na področje turizma in se v pravnem prometu v tem delu šteje kot njen univerzalni pravni naslednik. Postopek prevzema in njegov obseg vlada podrobneje uredi v ustanovitvenem aktu.
+4. člen
+(1) Do imenovanja direktorja javne agencije, pristojne za trženje in promocijo turizma, vendar največ eno leto, opravlja funkcijo direktorja vršilec dolžnosti, ki ga imenuje Vlada Republike Slovenije brez javnega natečaja. Pogodbo o njegovi zaposlitvi po pooblastilu Vlade Republike Slovenije podpiše minister, pristojen za turizem.
+(2) Vlada najkasneje v enem mesecu po sprejemu ustanovitvenega akta javne agencije, pristojne za trženje in promocijo turizma, imenuje člane sveta in vršilca dolžnosti direktorja.
+5. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.".
