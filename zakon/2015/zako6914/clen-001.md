@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o državnem tožilstvu (Uradni list RS, št. 58/11, 21/12 - ZDU-1F, 47/12, 15/13 - ZODPol, 47/13 - ZDU-1G in 48/13 - ZSKZDČEU-1) se v 21. členu doda nov šesti odstavek, ki se glasi:
+"(6) Ne glede na tretji odstavek tega člena lahko v postopku pred pritožbenim sodiščem druge stopnje po pooblastilu, ki ga za posamezno zadevo določi vodja pristojnega pritožbenega oddelka s soglasjem vodje pristojnega državnega tožilstva, nastopajo skupaj z višjim državnim tožilcem tudi okrajni oziroma okrožni državni tožilci, ki so vložili oziroma zastopali kazensko obtožbo v postopku na prvi stopnji.".

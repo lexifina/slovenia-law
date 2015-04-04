@@ -1,0 +1,4 @@
+# 23. člen
+(1) Državnotožilski red (Uradni list RS, št. 7/12, 29/12 in 38/13), Poslovnik Državnotožilskega sveta (Uradni list RS, št. 106/11) in Pravilnik o organizaciji, obveščanju in delu Specializiranega državnega tožilstva Republike Slovenije (Uradni list RS, št. 7/12) se uskladijo z določbami tega zakona v šestih mesecih po uveljavitvi tega zakona.
+(2) Uredba o plačah in drugih prejemkih javnih uslužbencev za delo v tujini (Uradni list RS, št. 14/09, 16/09, 23/09, 51/10, 67/10, 80/10, 41/12, 68/12 in 47/13) se uskladi z določbami tega zakona v šestih mesecih po uveljavitvi tega zakona.
+(3) Do uskladitve podzakonskih aktov iz prvega odstavka tega člena se smiselno uporabljajo določbe podzakonskih aktov, izdanih na podlagi Zakona o državnem tožilstvu (Uradni list RS, št. 58/11, 21/12 - ZDU-1F, 47/12, 15/13 - ZODPol, 47/13 - ZDU-1G in 48/13 - ZSKZDČEU-1), če niso v nasprotju z določbami tega zakona.

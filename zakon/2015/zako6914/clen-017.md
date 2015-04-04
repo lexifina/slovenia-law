@@ -1,0 +1,2 @@
+# 17. člen
+V šestem odstavku 198. člena se besedilo "z obrazloženim predlogom zaprosi vodjo SDT, da se zadeva dodeli v obravnavo SDT." nadomesti z besedilom "vodji SDT poda obrazložen predlog, da se zadeva obravnava pri SDT, lahko pa tudi predlaga, da jo obravnava državni tožilec pristojnega okrožnega državnega tožilstva na podlagi dodatne dodelitve v SDT (četrti odstavek 193. člena tega zakona).".
