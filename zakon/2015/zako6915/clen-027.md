@@ -1,0 +1,2 @@
+# 27. člen (podzakonski akti)
+Pravilnik o tehničnih in varnostnih zahtevah, obrazcih ter evidencah za eksplozive in pirotehnične izdelke (Uradni list RS, št. 105/08, 100/10, 24/12 in 88/13) je treba uskladiti s prvim in drugim odstavkom 20.a člena, 20.d členom, petim odstavkom 21. člena, tretjim odstavkom 23. člena in prvim odstavkom 24. člena zakona v treh mesecih, Pravilnik o strokovni usposobljenosti za delo z eksplozivi ali pirotehničnimi izdelki (Uradni list RS, št. 110/08) z drugim odstavkom 12. člena zakona pa v enem letu od uveljavitve tega zakona.
