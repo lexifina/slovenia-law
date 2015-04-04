@@ -1,0 +1,2 @@
+# 2. člen
+Ne glede na prvi, drugi in šesti odstavek 54. člena Zakona o davčnem postopku (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 32/12, 94/12, 101/13 - ZDavNepr, 111/13, 22/14 - odl. US, 25/14 - ZFU, 40/14 - ZIN-B in 90/14; v nadaljnjem besedilu: ZDavP-2) lahko zavezanec za leto 2014 uveljavlja znižanje davčne osnove za investiranje v avtobuse z motorjem, ki ustreza najmanj emisijskim zahtevam EURO VI, po spremenjenem 55.a členu zakona s predložitvijo popravka obračuna po 54. členu ZDavP-2 najpozneje v 30 dneh po uveljavitvi tega zakona.
