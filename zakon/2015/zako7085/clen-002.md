@@ -1,0 +1,4 @@
+# 2. člen
+Za tretjim odstavkom 47.b člena se doda nov četrti odstavek, ki se glasi:
+"(4) Izjemoma lahko pristojni organ za družinskega člana šteje tudi drugega sorodnika osebe s priznano subsidiarno zaščito, če posebne okoliščine govorijo v prid združitvi družine v Republiki Sloveniji. Posebne okoliščine so podane, kadar obstoji življenjska skupnost med drugimi sorodniki, ki je zaradi specifičnih dejanskih okoliščin v bistvenem podobna primarni družini oziroma ima enako funkcijo kot jo ima primarna družina, kar pomeni predvsem pristne družinske vezi med družinskimi člani, fizično skrb, varstvo, zaščito, čustveno podporo in finančno odvisnost.".
+Dosedanji četrti, peti, šesti, sedmi, osmi, deveti, deseti in enajsti odstavek postanejo peti, šesti, sedmi, osmi, deveti, deseti, enajsti in dvanajsti odstavek.
