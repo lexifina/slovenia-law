@@ -1,0 +1,7 @@
+# 24. člen
+46. člen se spremeni tako, da se glasi:
+"46. člen
+Stroški, ki jih je za upravičenca do brezplačne pravne pomoči iz naslova oprostitve plačila stroškov sodnega postopka po petem odstavku 26. člena tega zakona med sodnim postopkom iz proračuna založila Republika Slovenija ter nagrada in stroški dodeljenega pooblaščenca po šestem odstavku 30. člena tega zakona so stroški sodnega postopka.
+Ne glede na določbe procesnega zakona o priglasitvi stroškov pristojno sodišče pri odločanju o stroških postopka po uradni dolžnosti upošteva stroške iz prejšnjega odstavka, ki jih je med sodnim postopkom založila Republika Slovenija, tudi če jih stranka, ki je upravičena do brezplačne pravne pomoči, sama ne priglasi. Obseg stroškov sodišče ugotovi iz odločbe o dodelitvi brezplačne pravne pomoči.
+O višini in obsegu stroškov iz prvega odstavka tega člena, ki jih mora nasprotna stranka namesto stranki, ki je upravičena do brezplačne pravne pomoči, povrniti v korist proračuna Republike Slovenije, odloči pristojno sodišče po določbah o povrnitvi stroškov postopka.
+Če nasprotna stranka stroškov, naloženih v plačilo po prejšnjem odstavku, ne poravna prostovoljno, izvrši izterjavo na predlog pristojnega organa za BPP pristojni davčni organ po določbah zakona, ki ureja prisilno izterjavo davkov. Pri tem se odločba iz prejšnjega odstavka, s katero sodišče odloči o stroških, šteje za izvršilni naslov.".

@@ -1,0 +1,2 @@
+# 28. člen
+Če je bila upravičencu do brezplačne pravne pomoči pred uveljavitvijo tega zakona dodeljena brezplačna pravna pomoč v obliki prvega pravnega nasveta iz 25. člena Zakona o brezplačni pravni pomoči (Uradni list RS, št. 96/04 - uradno prečiščeno besedilo, 23/08 in 15/14 - odl. US), se postopek prvega pravnega nasveta konča po določbah Zakona o brezplačni pravni pomoči (Uradni list RS, št. 96/04 - uradno prečiščeno besedilo, 23/08 in 15/14 - odl. US).

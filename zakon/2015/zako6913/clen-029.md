@@ -1,0 +1,2 @@
+# 29. člen
+Če se je postopek, za katerega je bila upravičencu dodeljena brezplačna pravna pomoč, končal s pravnomočno ali nepravnomočno odločbo pred uveljavitvijo tega zakona, in je sodišče stroške postopka prisodilo v korist upravičenca do brezplačne pravne pomoči, se postopek izterjave sredstev, ki jih je upravičencu iz tega naslova dolžna plačati nasprotna stranka, konča po določbah Zakona o brezplačni pravni pomoči (Uradni list RS, št. 96/04 - uradno prečiščeno besedilo, 23/08 in 15/14 - odl. US).

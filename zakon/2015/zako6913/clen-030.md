@@ -1,0 +1,2 @@
+# 30. člen
+Če se je postopek, za katerega je bila upravičencu dodeljena brezplačna pravna pomoč, pravnomočno končal pred uveljavitvijo tega zakona, pa upravičenec do brezplačne pravne pomoči v postopku ni uspel, ali če država ni uspela izterjati sredstev za brezplačno pravno pomoč od nasprotne stranke, se postopek izterjave sredstev konča po določbah Zakona o brezplačni pravni pomoči (Uradni list RS, št. 96/04 - uradno prečiščeno besedilo, 23/08 in 15/14 - odl. US).

@@ -1,0 +1,3 @@
+# 31. člen
+Do izpolnitve tehničnih pogojev, ki bodo omogočili elektronsko povezavo do centralne zbirke podatkov o upravičencih do denarne socialne pomoči iz drugega odstavka 12. člena zakona, so prosilci za izredno brezplačno pravno pomoč dolžni strokovni službi za BPP sami predložiti odločbo centra za socialno delo o upravičenosti do denarne socialne pomoči.
+Minister, pristojen za pravosodje, ob tehnični izpolnitvi pogojev za vzpostavitev elektronske povezave do centralne zbirke podatkov o prejemnikih denarne socialne pomoči, z odredbo določi datum, od katerega prosilcem izredne brezplačne pravne pomoči ni več potrebno prilagati odločb o upravičenosti do denarne socialne pomoči.
