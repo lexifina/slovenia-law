@@ -1,7 +1,11 @@
 ## III. REGISTRACIJA VOZIL
 ## Prvi oddelek: Splošne določbe
 # 26. člen (pogoji za udeležbo v cestnem prometu)
-(1) Za udeležbo v cestnem prometu morajo biti vozila registrirana, imeti veljavno prometno dovoljenje ali veljavno dovoljenje za preskusno vožnjo in biti označena s predpisanimi registrskimi ali preskusnimi tablicami, izdanimi za njihovo označitev.
+(1) Za udeležbo v cestnem prometu morajo motorna in priklopna vozila:
+1. biti registrirana,
+2. imeti veljavno dokazilo o tehnični brezhibnosti vozila, če gre za tovorno vozilo ali priklopno vozilo ali avtobus, s katerim se opravljajo prevozi v skladu s predpisi o prevozih v cestnem prometu,
+3. imeti veljavno prometno dovoljenje ali veljavno dovoljenje za preskusno vožnjo, razen vojaških vozil na gosenicah, in
+4. biti označena s predpisanimi registrskimi ali preskusnimi tablicami, izdanimi za njihovo označitev.
 (2) Ne glede na prejšnji odstavek lahki priklopniki niso registrirani, morajo pa imeti brezhibne predpisane naprave in opremo, biti označeni s ponovljeno registrsko tablico vlečnega vozila in imeti veljavno potrdilo o opravljenem tehničnem pregledu, na katerem je označen rok, ko mora vozilo opraviti tehnični pregled, ali obvestilo o roku prvega tehničnega pregleda. V cestnem prometu smejo biti tudi neregistrirani motokultivatorji in delovni stroji, če imajo brezhibne predpisane naprave in opremo.
 (3) Vozila diplomatskih in konzularnih predstavništev, misij tujih držav, predstavništev mednarodnih organizacij v Republiki Sloveniji in njihovega osebja, tujih gospodarskih, prometnih, kulturnih in drugih predstavništev, tujcev, ki stalno ali začasno prebivajo v Republiki Sloveniji več kot šest mesecev, ter druga vozila, ki so v Republiki Sloveniji sproščena v prost promet ali dana v postopek začasnega uvoza, ki traja več kot šest mesecev, smejo biti v cestnem prometu v Republiki Sloveniji, če so registrirana v Republiki Sloveniji.
 (4) Določba prejšnjega odstavka ne velja za vozila tujcev, ki stalno ali začasno prebivajo v Republiki Sloveniji več kot šest mesecev, in so vozila registrirana v eni od držav članic Evropske unije.
