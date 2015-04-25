@@ -1,0 +1,2 @@
+# 55. člen (izjema pri določanju višine infrastrukturne pristojbine)
+Ne glede na 14. člen tega zakona določanje višine infrastrukturne pristojbine ni potrebno za cestninske ureditve, ki so že obstajale 10. junija 2008 ali za katere so bile na podlagi postopka javnih naročil prejete ponudbe ali odgovori na povabila za pogajanja v okviru postopka s pogajanji pred 10. junijem 2008, vse dokler te ureditve veljajo in pod pogojem, da se bistveno ne spremenijo način obračunavanja višine cestnine, merila za določanje cestninskih razredov, način izvajanja cestninjenja in podobno.
