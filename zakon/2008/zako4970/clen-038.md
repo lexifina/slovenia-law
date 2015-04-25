@@ -1,5 +1,0 @@
-# 38. člen (prisilna izterjava cestnine)
-(1) Cestninski zavezanec pride v zamudo s plačilom cestnine, če ne plača cestnine v roku in na način, kot je to določeno s tem zakonom in na njegovi podlagi izdanimi predpisi, splošnimi akti za izvrševanje javnih pooblastil ter cenikom upravljavca cestninskih cest.
-(2) Cestninskemu zavezancu, ki je prišel v zamudo s plačilom cestnine, izda na zahtevo cestninskega upnika, operaterja elektronskega cestninskega sistema ali ponudnika cestninjenja cestninski organ odločbo o odmeri dolgovane cestnine, s katero mu naloži plačilo dolgovane cestnine v 15 dneh od vročitve. Če je zavezancev več, se izda odločba vsem hkrati, pri čemer se določi, da za plačilo odgovarjajo solidarno. Odločba se izda v skrajšanem ugotovitvenem postopku, pri čemer v postopku stranke ni potrebno zaslišati.
-(3) O pritožbi zoper odločbo o odmeri dolgovane cestnine odloča ministrstvo, pristojno za promet. Pritožba ne zadrži izvršitve odločbe.
-(4) Carinska uprava Republike Slovenije je davčni organ, ki bo opravljal upravno izvršbo dolgovane cestnine.

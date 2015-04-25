@@ -1,5 +1,0 @@
-## V. NAČIN CESTNINJENJA
-# 18. člen (splošna določba)
-(1) Cestninjenje mora potekati tako, da čim manj ovira prost pretok prometa in brez obveznih kontrol ali pregledov na mejah Republike Slovenije z drugimi državami članicami Evropske unije. Oseba, ki je dolžna izvajati cestninjenje, mora poskrbeti za primerne objekte na mestih plačevanja cestnine, tako da je zagotovljena varnost cestnega prometa in omogočiti plačevanje cestnine 24 ur na dan z običajnimi plačilnimi sredstvi.
-(2) Vozniki so dolžni ravnati tako, da glede na način cestninjenja omogočajo pravilno in učinkovito cestninjenje in pri tem ravnati v skladu s tem zakonom, na njegovi podlagi izdanimi predpisi in splošnimi akti za izvrševanje javnih pooblastil, ter odredbami cestninskih nadzornikov, pri cestninjenju z ustavljanjem vozila pa tudi odredbami upravljavca cestninskih cest.
-(3) Ne glede na lastništvo naprave za elektronsko cestninjenje take naprave ni dovoljeno predrugačiti, ali s posegom v njeno konstrukcijo ali s posegom v programsko opremo njenega delovanja, ali na kakršenkoli drug način povzročiti, da ta naprava pri cestninjenju ne deluje pravilno.

@@ -1,5 +1,0 @@
-# 12. člen (ponderirana povprečna cestnina)
-(1) Cestnina se za cestninske ceste posameznega upravljavca teh cestninskih cest določi tako, da skupaj s cestnino, ki se plačuje za vožnjo po cestninski cesti z vozilom, katerega največja dovoljena masa ne presega 3.500 kg, ne glede na največjo dovoljeno maso priklopnega vozila, pokriva stroške cestninskih cest ali njihovega jasno določenega dela.
-(2) Stroški cestninskih cest iz prejšnjega odstavka vključujejo stroške gradnje ter stroške obratovanja, vzdrževanja in razvoja cestninskih cest posameznega upravljavca ali dela teh cestninskih cest. Stroški cestninskih cest lahko vključujejo tudi donosnost kapitala ali stopnjo dobička na podlagi tržnih pogojev. Upoštevajo se stroški, ki se nanašajo na cestninske ceste ali del teh cest, na katerem se cestnine zaračunavajo, ter na vozila, ki se jim cestnine zaračunavajo.
-(3) Določbe prvega in prejšnjega odstavka tega člena se uporabljajo tudi za cestninske cestne objekte iz 5. člena tega zakona.
-(4) Metodologijo za izračun stroškov iz drugega odstavka in njihovo razdelitev na posamezne cestninske razrede predpiše vlada.
