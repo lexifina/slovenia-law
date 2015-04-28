@@ -1,0 +1,3 @@
+# 6. ČLEN Spremembe finančne pogodbe
+
+6.01 Banka lahko soglaša s spremembami finančne pogodbe, s katerimi se ne povečujejo zneski, ki jih mora kreditojemalec plačati na njeni podlagi, in o teh spremembah uradno obvesti poroka. 6.02 Banka lahko, kot se ji zdi primerno, kreditojemalcu odobri podaljšanje roka do treh (3) mesecev za vsako odplačilo glavnice ali plačilo obresti in katerih koli drugih nepredvidenih izdatkov. O vsakem takem podaljšanju mora biti porok uradno obveščen. 6.03 Razen sprememb iz zgornjih dveh odstavkov tega člena je treba vse druge spremembe finančne pogodbe predložiti v odobritev poroku. Ta lahko predlagane spremembe zavrne samo, če bi bile zanj kot poroka škodljive.
