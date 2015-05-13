@@ -1,4 +1,1 @@
-# 278.a člen (kolegij nadzornih organov za nadzor pomembnih podružnic)
-(1) Če kolegij nadzornih organov po 294.a členu tega zakona ni ustanovljen, mora Banka Slovenije, kadar opravlja nadzor nad banko s pomembnimi podružnicami v drugih državah članicah, ustanoviti in voditi kolegij z namenom učinkovitega sodelovanja nadzornih in drugih organov v skladu z 278. členom in prvim odstavkom 292. člena tega zakona.
-(2) Ustanovitev in delovanje kolegija temelji na pisnem dogovoru, ki ga sklenejo udeleženi nadzorni organi. Banka Slovenije odloči o udeležbi nadzornih organov (člani kolegija) na posameznem sestanku ali pri dejavnostih kolegija. Pri tem upošteva, kako pomembna je za te nadzorne organe nadzorna aktivnost, ki jo načrtuje ali usklajuje, zlasti mogoč vpliv na stabilnost finančnega sistema iz tretjega odstavka 223. člena in njene obveznosti iz prvega in tretjega odstavka 278. člena in prvega odstavka 292. člena tega zakona.
-(3) Banka Slovenije vse člane kolegija obvešča o sestankih in pomembnejših zadevah, ki bodo obravnavane na sestanku, ter o odločitvah, sprejetih na sestankih, in o izvedenih aktivnostih.
+# 278.a člen (prenehal veljati)

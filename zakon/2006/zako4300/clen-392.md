@@ -1,4 +1,4 @@
-## 14. POGLAVJE: KAZENSKE DOLOČBE
+## 14. POGLAVJE: KAZENSKE DOLOČBE (delno prenehalo veljati)
 # 392. člen (hujše kršitve banke)
 (1) Z globo od 80.000 do 370.000 eurov se za prekršek kaznuje banka:
 1. če opravlja druge dejavnosti, razen bančnih storitev, vzajemno priznanih in dodatnih finančnih storitev ter pomožnih bančnih storitev (tretji odstavek 41. člena);

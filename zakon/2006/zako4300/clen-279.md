@@ -1,2 +1,1 @@
-# 279. člen (pregled poslovanja podružnice banke v državi članici)
-Banka Slovenije lahko zaprosi nadzorni organ države članice, v kateri banka opravlja bančne oziroma druge vzajemno priznane finančne storitve, da opravi pregled poslovanja podružnice banke v tej državi članici, če se s tem postopek nadzora pospeši oziroma poenostavi oziroma če je to v skladu z interesi učinkovitosti, enostavnosti, hitrosti oziroma manjših stroškov postopka. Pod enakimi pogoji se lahko pooblaščene osebe Banke Slovenije udeležijo nadzora, ki ga izvaja pristojni nadzorni organ države članice.
+# 279. člen (prenehal veljati)

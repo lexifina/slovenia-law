@@ -1,2 +1,1 @@
-# 293. člen (pridobivanje informacij od drugih nadzornih organov)
-Če Banka Slovenije glede nadzora na konsolidirani podlagi, za katerega je pristojna in odgovorna po tem zakonu, potrebuje informacije o bančni skupini, ki so bile že posredovane drugemu nadzornemu organu, mora, če je to mogoče, te informacije pridobiti od tega nadzornega organa z namenom preprečiti podvajanje poročanja različnim nadzornim organom, udeleženim pri nadzoru.
+# 293. člen (prenehal veljati)

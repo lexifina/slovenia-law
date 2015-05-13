@@ -1,3 +1,1 @@
-# 251. člen (pogojni odvzem dovoljenja)
-(1) Z odločbo o odvzemu dovoljenja lahko Banka Slovenije hkrati izreče, da se odvzem dovoljenja ne bo izvršil, če banka v preizkusni dobi, ki jo določi Banka Slovenije in ki ne sme biti krajša od šestih mesecev in ne daljša od dveh let od dneva izdaje odločbe, ne bo storila nove kršitve, zaradi katere je mogoče odvzeti dovoljenje.
-(2) Kadar Banka Slovenije izreče pogojni odvzem dovoljenja, lahko določi, da bo odvzem dovoljenja izvršen tudi, če banka v določenem roku ne odpravi kršitev, zaradi katerih ji je bil izrečen pogojni odvzem dovoljenja. Rok za izpolnitev teh obveznosti določi Banka Slovenije v mejah preizkusne dobe.
+# 251. člen (prenehal veljati)

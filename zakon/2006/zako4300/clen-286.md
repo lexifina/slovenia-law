@@ -1,2 +1,1 @@
-# 286. člen (ukrepi zaradi odvzema dovoljenja banki države članice)
-Če nadzorni organ države članice sedeža banke, ki na območju Republike Slovenije neposredno ali prek podružnice opravlja bančne oziroma druge vzajemno priznane finančne storitve, obvesti Banko Slovenije, da je bilo tej banki odvzeto dovoljenje za opravljanje teh storitev, mora Banka Slovenije opraviti ustrezne ukrepe po tem zakonu, da se tej banki prepreči nadaljnje opravljanje teh storitev in, da se zavarujejo interesi strank te banke.
+# 286. člen (prenehal veljati)

@@ -1,5 +1,1 @@
-# 284. člen (pregled poslovanja podružnice banke države članice)
-(1) Nadzorni organ države članice oziroma osebe, ki jih pooblasti, lahko na območju Republike Slovenije opravijo pregled poslovanja podružnice banke te države članice. O nameravanem pregledu poslovanja iz prvega stavka tega odstavka mora nadzorni organ države članice predhodno obvestiti Banko Slovenije.
-(2) V primeru iz prvega odstavka tega člena ima nadzorni organ države članice oziroma osebe, ki jih pooblasti, enake pristojnosti kot Banka Slovenije na podlagi 236. do 240. člena tega zakona.
-(3) Na zaprosilo nadzornega organa države članice mora Banka Slovenije opraviti pregled poslovanja podružnice banke te države članice na območju Republike Slovenije. Nadzorni organ države članice se lahko, če tako zahteva, udeleži pregleda iz prvega stavka tega odstavka.
-(4) Ne glede na prvi do tretji odstavek tega člena, je Banka Slovenije pristojna opraviti pregled poslovanja podružnice banke te države članice na območju Republike Slovenije zaradi preverjanja, ali podružnica ravna v skladu z določbami predpisov iz drugega in tretjega odstavka 97. člena tega zakona.
+# 284. člen (prenehal veljati)

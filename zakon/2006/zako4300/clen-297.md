@@ -1,8 +1,1 @@
-# 297. člen (obseg in način konsolidacije za namen nadzora na konsolidirani podlagi)
-(1) Banka Slovenije mora za namen nadzora na konsolidirani podlagi zahtevati polno konsolidacijo vseh kreditnih institucij in finančnih institucij, ki so podrejene določeni nadrejeni družbi, z nadrejeno družbo.
-(2) Ne glede na prvi odstavek tega člena, lahko Banka Slovenije zahteva samo sorazmerno konsolidacijo, če oceni, da je odgovornost nadrejene družbe omejena samo na delež kapitala, katerega imetnica je, ob upoštevanju odgovornosti drugih delničarjev, katerih dolgoročna plačilna sposobnost je ustrezna. Odgovornost drugih delničarjev iz prvega stavka tega odstavka mora biti ugotovljena na zanesljiv način, če je potrebno, tudi tako, da ti delničarji dajo Banki Slovenije ustrezno zavezujočo pisno izjavo o tem.
-(3) Pri družbah, povezanih s skupnim vodenjem, Banka Slovenije določi način konsolidacije.
-(4) Banka mora uporabiti sorazmerno konsolidacijo udeležb v kreditnih institucijah ali finančnih institucijah, ki jih upravlja družba, vključena v konsolidacijo, skupaj z eno ali več družbami, ki niso vključene v konsolidacijo, če je odgovornost teh družb omejena samo na delež kapitala, katerega imetnice so te družbe.
-(5) Pri drugih oblikah udeležbe ali kapitalskih povezav, razen tistih iz prvega od četrtega odstavka tega člena, mora Banka Slovenije odločiti, ali in kako naj se opravi konsolidacija.
-(6) V primerih in z uporabo metod, določenih v prvem do petem odstavku tega člena, morajo biti v konsolidacijo vključene tudi družbe za pomožne storitve, družbe za upravljanje, finančni holdingi in mešani finančni holdingi.
-(7) Banka lahko iz konsolidacije izključi posamezno finančno institucijo, družbo za pomožne storitve ali družbo za upravljanje, ki je podrejena banki ali finančnemu holdingu ali mešanemu finančnemu holdingu ali ima položaj pridružene osebe v skupini, če pridobi dovoljenje Banke Slovenije.
+# 297. člen (prenehal veljati)

@@ -1,4 +1,3 @@
-## 2. POGLAVJE: STATUSNI USTROJ BANKE
+## 2. POGLAVJE: STATUSNI USTROJ BANKE (prenehalo veljati)
 ## 2.1. Splošne določbe
-# 38. člen (organiziranost kot delniška družba)
-Banka mora biti organizirana v pravnoorganizacijski obliki delniške družbe ali evropske delniške družbe.
+# 38. člen (prenehal veljati)

@@ -1,5 +1,1 @@
-# 92. člen (posredovanje obvestila nadzornemu organu države članice)
-(1) Banka Slovenije zavrne zahtevo za posredovanje obvestila nadzornemu organu države članice, če ob upoštevanju obsega in vrste poslov, ki jih namerava banka opravljati prek podružnice, obstaja utemeljen dvom o ustreznosti organizacije in upravljanja podružnice oziroma finančnega položaja banke.
-(2) Če Banka Slovenije ne zavrne zahteve po prvem odstavku tega člena, mora v treh mesecih po prejemu obvestila banke s prilogami iz 91. člena tega zakona to obvestilo s prilogami posredovati nadzornemu organu države članice in o tem obvestiti banko.
-(3) Hkrati z obvestilom iz drugega odstavka tega člena mora Banka Slovenije nadzornemu organu države članice posredovati tudi podatke o višini kapitala banke in kapitalski ustreznosti.
-(4) Če Banka Slovenije v roku iz drugega odstavka tega člena ne obvesti banke o posredovanju obvestila nadzornemu organu države članice oziroma ji ne vroči odločbe o zavrnitvi zahteve za posredovanje tega obvestila, se šteje, da je zahtevo za posredovanje obvestila zavrnila.
+# 92. člen (prenehal veljati)

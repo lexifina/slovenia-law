@@ -1,4 +1,4 @@
-## 10. POGLAVJE: POSTOPEK ODLOČANJA BANKE SLOVENIJE V POSAMIČNIH ZADEVAH
+## 10. POGLAVJE: POSTOPEK ODLOČANJA BANKE SLOVENIJE V POSAMIČNIH ZADEVAH (delno prenehalo veljati)
 ## 10.1. Splošne določbe
 # 330. člen (uporaba določb o postopku)
 (1) Banka Slovenije odloča o posamičnih zadevah, za katere je pristojna po tem ali drugem zakonu, po postopku, določenem v tem poglavju, razen če zakon za posamezno vrsto postopka določa drugače.

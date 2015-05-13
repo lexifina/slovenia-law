@@ -1,4 +1,1 @@
-# 88.b člen (prenehanje veljavnosti dovoljenja)
-(1) Banka Slovenije z odločbo o dovoljenju za kvalificirano naložbo določi rok, v katerem mora banka pridobiti kvalificirano naložbo za katero je bilo izdano dovoljenje. Rok ne sme biti krajši od treh mesecev.
-(2) Za prenehanje veljavnosti dovoljenja za kvalificirano naložbo se smiselno uporablja 51. člen tega zakona. Ne glede na tretji odstavek 51. člena tega zakona dovoljenje za kvalificirano naložbo ne preneha veljati, če banka po pridobitvi kvalificirane naložbe v razponu, za katerega je bilo izdano dovoljenje, odsvoji delež tako, da ne dosega več razpona, za katerega je bilo izdano dovoljenje, in v roku treh mesecev po odsvojitvi ponovno poveča svoj delež tako, da ponovno dosega razpon, za katerega je bilo izdano dovoljenje.
-(3) Banka mora Banko Slovenije nemudoma obvestiti o spremembi njene kvalificirane naložbe, če njena naložba pade pod delež, za katerega je bilo izdano dovoljenje Banke Slovenije.
+# 88.b člen (prenehal veljati)

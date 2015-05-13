@@ -1,4 +1,1 @@
-# 77. člen (likvidacijski upravitelj banke)
-(1) Za likvidacijskega upravitelja banke je lahko imenovana le oseba, ki ima dovoljenje Banke Slovenije za opravljanje funkcije člana uprave v tej banki.
-(2) Ne glede na prvi odstavek tega člena, je lahko za likvidacijskega upravitelja banke imenovana oseba, ki nima dovoljenja Banke Slovenije za opravljanje funkcije člana uprave v tej banki, če pred imenovanjem pridobi dovoljenje Banke Slovenije za opravljanje funkcije likvidacijskega upravitelja banke.
-(3) Za dovoljenje za opravljanje funkcije likvidacijskega upravitelja banke iz drugega odstavka tega člena se smiselno uporabljajo določbe tega zakona o dovoljenju za opravljanje funkcije člana uprave banke. Dovoljenje za opravljanje funkcije likvidacijskega upravitelja banke velja samo za likvidacijo tiste banke, v zvezi s katero je bilo pridobljeno.
+# 77. člen (prenehal veljati)

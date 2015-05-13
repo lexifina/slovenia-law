@@ -1,3 +1,1 @@
-# 288. člen (prenos pristojnosti za nadzor na konsolidirani podlagi na nadzorni organ druge države članice)
-(1) Banka Slovenije lahko v dogovoru z nadzornimi organi držav članic sedeža drugih podrejenih bank prenese svoje pristojnosti in odgovornosti za nadzor na konsolidirani podlagi iz drugega, tretjega ali četrtega odstavka 287. člena tega zakona na nadzorni organ države članice sedeža posamezne druge podrejene banke.
-(2) Pred sprejemom odločitve iz prvega odstavka tega člena mora dati Banka Slovenije skupaj z drugimi nadzornimi organi EU nadrejeni banki, EU nadrejenemu finančnemu holdingu, EU nadrejenemu mešanemu finančnemu holdingu oziroma podrejeni banki z največjo bilančno vsoto možnost, da se o tem izjavi.
+# 288. člen (prenehal veljati)

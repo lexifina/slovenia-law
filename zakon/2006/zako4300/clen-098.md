@@ -1,5 +1,1 @@
-# 98. člen (opravljanje bančnih in drugih vzajemno priznanih finančnih storitev prek podružnice)
-(1) Banka države članice sme ustanoviti podružnico v Republiki Sloveniji in začeti opravljati bančne oziroma druge vzajemno priznane finančne storitve prek te podružnice z iztekom dveh mesecev od dneva, ko Banka Slovenije od nadzornega organa države članice sedeža te banke prejme obvestilo in priloge z vsebino iz prvega in drugega odstavka 91. člena in iz tretjega odstavka 92. člena tega zakona.
-(2) Če namerava banka države članice v zvezi s svojo podružnico v Republiki Sloveniji spremeniti katerega od dejstev oziroma okoliščin iz drugega odstavka 91. člena tega zakona, mora o tem obvestiti Banko Slovenije en mesec pred izvršitvijo take spremembe.
-(3) Vloge pri podružnici banke države članice so vključene v sistem zajamčenih vlog v državi članici sedeža banke.
-(4) Podružnica banke države članice se lahko za dopolnitev ravni oziroma obsega jamstva, ki presega raven oziroma višino zajamčene vloge v sistemu zajamčenih vlog v državi članici njenega sedeža, vključi v sistem zajamčenih vlog v Republiki Sloveniji.
+# 98. člen (prenehal veljati)

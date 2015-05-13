@@ -1,5 +1,1 @@
-# 294. člen (dogovori z nadzornimi organi o sodelovanju pri nadzoru na konsolidirani podlagi)
-(1) Z namenom zagotoviti učinkovit nadzor na konsolidirani podlagi mora Banka Slovenije z drugimi nadzornimi organi, udeleženimi pri tem nadzoru, skleniti ustrezne pisne dogovore o usklajevanju in sodelovanju.
-(2) Z dogovori iz prvega odstavka tega člena se lahko določijo dodatne naloge nadzornega organa, pristojnega za nadzor na konsolidirani podlagi, in postopki za sprejemanje odločitev in za sodelovanje z drugimi nadzornimi organi.
-(3) Banka Slovenije lahko v skladu z 28. členom Uredbe 1093/2010/EU na podlagi dvostranskega dogovora prenese pristojnost in odgovornosti za nadzor nad podrejeno banko nadzornemu organu, ki je izdal dovoljenje in nadzoruje nadrejeno banko, tako da slednja prevzame odgovornost za nadzor te podrejene banke.
-(4) Če je Banka Slovenije izdala dovoljenje in nadzoruje nadrejeno banko, lahko v skladu z 28. členom Uredbe 1093/2010/EU na podlagi dvostranskega dogovora z nadzornim organom, ki je izdal dovoljenje in je odgovoren za nadzor nad podrejeno družbo, prevzame pristojnost in odgovornosti za nadzor podrejene družbe.
+# 294. člen (prenehal veljati)

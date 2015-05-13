@@ -1,5 +1,2 @@
 ## 7.9.4. Nadzor nad drugimi osebami
-# 308. člen (odredba o prenehanju sprejemanja depozitov od javnosti)
-(1) Če oseba v nasprotju s prepovedjo, določeno v 35. členu tega zakona, sprejema depozite od javnosti, ji Banka Slovenije izda odredbo, s katero ji naloži, da preneha s tem (v nadaljnjem besedilu: odredba o prenehanju sprejemanja depozitov od javnosti).
-(2) Banka Slovenije lahko še pred izdajo odredbe o prenehanju sprejemanja depozitov od javnosti opravi pregled poslovnih knjig in druge dokumentacije osebe in zbere druge dokaze o tem, ali oseba zbira depozite od javnosti.
-(3) V odredbi o prenehanju sprejemanja depozitov od javnosti Banka Slovenije osebi naloži, da v roku, ki ne sme biti krajši od osem in ne daljši od 15 dni, predloži poročilo, v katerem opiše ukrepe, ki jih je opravila v zvezi s prenehanjem zbiranja depozitov od javnosti, ter v katerem se oseba lahko izjavi o utemeljenosti razlogov za izdajo odredbe. Oseba mora poročilu priložiti dokaze, iz katerih izhaja, da je opravila ukrepe v zvezi s prenehanjem zbiranja depozitov od javnosti.
+# 308. člen (prenehal veljati)
