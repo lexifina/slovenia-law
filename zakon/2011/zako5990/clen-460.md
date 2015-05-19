@@ -1,8 +1,0 @@
-# 460. člen (pregled poslovanja)
-(1) Družba za upravljanje pooblaščeni osebi Agencije na njeno zahtevo omogoči, da opravi pregled poslovanja na sedežu družbe za upravljanje in v drugih prostorih, v katerih družba za upravljanje oziroma druga oseba po njenem pooblastilu opravlja dejavnosti in posle, v zvezi s katerimi Agencija opravlja nadzor.
-(2) Družba za upravljanje pooblaščeni osebi Agencije na njeno zahtevo omogoči pregled poslovnih knjig, poslovne dokumentacije ter administrativnih oziroma poslovnih evidenc v obsegu, potrebnem za izvajanje posameznega nadzora.
-(3) Družba za upravljanje pooblaščeni osebi Agencije na njeno zahtevo izroči računalniške izpiske oziroma kopije poslovnih knjig, poslovne dokumentacije ter administrativnih oziroma poslovnih evidenc.
-(4) Člani uprave oziroma upravnega odbora in zaposleni pri družbi za upravljanje pooblaščeni osebi Agencije na njeno zahtevo posredujejo poročila in informacije o vseh zadevah, pomembnih za opravljanje nadzora.
-(5) Pooblaščena oseba Agencije lahko opravi tudi pregled poslovanja oseb iz drugega odstavka 441. člena tega zakona, če je to potrebno zaradi popolnega pregleda poslovanja družbe za upravljanje.
-(6) Pregled poslovanja iz prvega in drugega odstavka tega člena opravlja Agencija ob delavnikih med 8. in 18. uro. Kadar je zaradi obsega oziroma narave pregleda to potrebno, lahko Agencija opravi pregled poslovanja tudi po 18. uri oziroma med dnevi, ki niso delavniki.
-(7) Agencija pregled poslovanja opravi tako, da s tem ovira normalno poslovanje družbe za upravljanje samo v taki meri, kot je nujno za dosego namena nadzora.

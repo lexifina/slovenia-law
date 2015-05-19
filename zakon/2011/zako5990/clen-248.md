@@ -1,6 +1,0 @@
-# 248. člen (izpostavljenost v zvezi z izvedenimi finančnimi instrumenti)
-(1) Pri pridobivanju in uporabi izvedenih finančnih instrumentov skupna izpostavljenost vzajemnega sklada ne sme preseči celotne čiste vrednosti njegovih sredstev, sredstva pa morajo po vrsti in vrednosti v celotnem obdobju zagotavljati zadostno kritje za morebitne obveznosti, ki izvirajo iz izvedenih finančnih instrumentov.
-(2) Pri izračunu skupne izpostavljenosti iz prejšnjega odstavka je treba upoštevati sprotno vrednost osnov oziroma osnovnih instrumentov izvedenih finančnih instrumentov, tveganje nasprotne stranke, bodoča tržna gibanja in razpoložljivi čas za izravnavo izpostavljene postavke sredstev.
-(3) Če ima vzajemni sklad med svojimi sredstvi izvedene finančne instrumente, izpostavljenost do osnovnih instrumentov, iz katerih so izvedeni, ne sme skupaj presegati omejitev iz 245. in 246. člena tega zakona.
-(4) Ne glede na prejšnji odstavek naložb vzajemnega sklada v izvedene finančne instrumente na indeksni osnovi ni treba vključevati v merjenje izpostavljenosti do posameznih oseb iz 245. in 246. člena tega zakona.
-(5) Izvedeni finančni instrumenti, vgrajeni v prenosljive vrednostne papirje in instrumente denarnega trga, se obravnavajo skladno s tem ter 245. in 246. členom tega zakona ter merili, ki jih v zvezi z obravnavo teh instrumentov določi Agencija.

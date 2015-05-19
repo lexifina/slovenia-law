@@ -1,4 +1,0 @@
-# 218. člen (način izročitve dokumentov in poročil)
-(1) Prospekt odprtega investicijskega sklada in dokument s ključnimi podatki za vlagatelje se vlagateljem izročita kot tiskovini, pod pogoji, ki jih določa 38. člen Uredbe 583/2010/EU, pa se lahko izročita tudi na trajnem nosilcu podatkov, ki ni tiskovina, ali preko spletnih strani.
-(2) Zadnje revidirano letno poročilo in polletno poročilo investicijskega sklada morata biti vlagatelju izročena na način, kot ga določa prospekt investicijskega sklada oziroma v primeru, da prospekt ne določa načina izročitve, na način, kot velja za izročitev prospekta iz prejšnjega odstavka.
-(3) Ne glede na prejšnji odstavek mora družba za upravljanje vlagatelju na njegovo izrecno zahtevo izročiti brezplačen izvod zadnjega revidiranega letnega poročila oziroma polletnega poročila investicijskega sklada v obliki tiskovine.

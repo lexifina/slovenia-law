@@ -1,4 +1,0 @@
-# 431. člen (odškodninska odgovornost družbe za upravljanje in njenega poslovodstva)
-(1) Družba za upravljanje, ki upravlja prevzeto investicijsko družbo v združitvenem postopku, in člani njene uprave oziroma upravnega odbora so solidarno odgovorni za škodo, ki jo združitev povzroči prevzeti investicijski družbi, njenim delničarjem in upnikom.
-(2) Družba za upravljanje, ki upravlja prenosno investicijsko družbo v delitvenem postopku, in člani njene uprave oziroma upravnega odbora so solidarno odgovorni za škodo, ki jo delitev povzroči investicijskim družbam, udeleženim pri delitvi, in njihovim delničarjem.
-(3) Za odgovornost družbe za upravljanje in članov njene uprave iz prvega in drugega odstavka tega člena se smiselno uporabljajo določbe ZGD-1 o odgovornosti članov organov vodenja prevzete družbe v združitvenem postopku in članov poslovodstva prenosne družbe v delitvenem postopku.

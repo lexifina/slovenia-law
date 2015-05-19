@@ -1,3 +1,0 @@
-# 270. člen (obveščanje imetnikov investicijskih kuponov o prenosu upravljanja)
-(1) Prevzemna in prenosna družba za upravljanje morata po prejemu dovoljenja Agencije za prevzem upravljanja v osmih dneh objaviti informacijo o prenosu upravljanja vzajemnega sklada in v 15 dneh vsakemu imetniku investicijskega kupona vzajemnega sklada, katerega upravljanje je predmet prenosa, posredovati obvestilo o tem prenosu.
-(2) Agencija predpiše podrobnejšo vsebino objave in obvestila imetnikom investicijskih kuponov, način objave ter način posredovanja obvestila imetnikom investicijskih kuponov iz prvega odstavka tega člena.

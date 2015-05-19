@@ -1,4 +1,0 @@
-# 72. člen (reševanje sporov med ponudniki storitev in potrošniki)
-(1) Družba za upravljanje vzpostavi ali se vključi v učinkovito shemo zunajsodnega reševanja sporov med družbo za upravljanje na eni strani in vlagatelji v investicijske sklade, ki jih upravlja, oziroma neprofesionalnimi strankami, s katerimi je v pogodbenem razmerju v zvezi s storitvami gospodarjenja s finančnimi instrumenti, na drugi strani.
-(2) Obliko in sestavo telesa, ki odloča v sporu, način in postopek odločanja predpiše družba za upravljanje s svojim notranjim aktom ter ga objavi v dnevnem tisku oziroma strokovnem tisku, ki je namenjen vlagateljem.
-(3) Družba za upravljanje mora bodoče vlagatelje v investicijske sklade, ki jih upravlja oziroma neprofesionalne stranke, s katerimi bo sklenila pogodbo o gospodarjenju s finančnimi instrumentni, neposredno ali posredno preko pooblaščene osebe iz prvega odstavka 128. člena tega zakona seznaniti z vsemi elementi sheme zunajsodnega reševanja sporov.

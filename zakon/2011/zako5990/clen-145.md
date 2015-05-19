@@ -1,3 +1,0 @@
-# 145. člen (obveščanje o spremembah priglasitvenega dokumenta)
-(1) Družba za upravljanje države članice, ki trži enote UCITS sklada države članice v Republiki Sloveniji, Agencijo sproti obvešča o vseh spremembah dokumentov iz 1. do 4. točke drugega odstavka prejšnjega člena ter v obvestilu navede, kje lahko Agencija dobi te dokumente po elektronski poti.
-(2) Če namerava družba za upravljanje države članice spremeniti veljavno ureditev trženja v Republiki Sloveniji oziroma veljaven nabor razredov enot UCITS skladov države članice, ki so predmet trženja v Republiki Sloveniji, mora pred uvedbo teh sprememb o tem obvestiti Agencijo.

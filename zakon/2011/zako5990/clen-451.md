@@ -1,3 +1,0 @@
-# 451. člen (nadomestilo za notifikacijski postopek ter letno nadomestilo za nadzor nad trženjem enot investicijskih skladov iz drugih držav članic)
-(1) Za izvedbo postopka iz 144. člena tega zakona družba za upravljanje države članice Agenciji plača nadomestilo, ki ga glede na število in vrsto investicijskih skladov določa tarifa Agencije.
-(2) Družba za upravljanje države članice oziroma investicijski sklad države članice, ki se upravlja sam, ki trži enote investicijskih skladov v Republiki Sloveniji, plačuje letno nadomestilo za nadzor, ki ga glede na število in vrsto investicijskih skladov določa tarifa Agencije.

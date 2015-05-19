@@ -1,6 +1,0 @@
-# 274. člen (izbor prevzemne družbe za upravljanje in prenos upravljanja)
-(1) V dveh mesecih od nastopa razloga za prisilni prenos upravljanja vzajemnega sklada iz 272. člena tega zakona skrbnik opravi ustrezen postopek zbiranja ponudb družb za upravljanje, ki izpolnjujejo pogoje za prevzem upravljanja vzajemnega sklada in so pripravljene prevzeti upravljanje vzajemnega sklada.
-(2) Skrbnik mora poziv za predložitev ponudb iz prejšnjega odstavka nasloviti na vse družbe za upravljanje, ki v Republiki Sloveniji že upravljajo vzajemne sklade.
-(3) Če skrbniku ponudita prevzem upravljanja vzajemnega sklada dve ali več družb za upravljanje, ki izpolnjujejo pogoje za prevzem upravljanja vzajemnega sklada, mora skrbnik pri izbiri prevzemne družbe za upravljanje ravnati izključno v interesu vlagateljev v vzajemni sklad.
-(4) Skrbnik in prevzemna družba za upravljanje skleneta pogodbo o prenosu upravljanja. Za vsebino te pogodbe se smiselno uporablja drugi odstavek 265. člena tega zakona, pri čemer rok, v katerem bosta skrbnik in prevzemna družba opravili prenos upravljanja, ne sme biti daljši od enega meseca.
-(5) Za prisilni prenos upravljanja se smiselno uporabljajo 266. do 271. člen tega zakona.

@@ -1,3 +1,0 @@
-# 16. člen (podružnica družbe za upravljanje države članice oziroma družbe za upravljanje tretje države)
-(1) Podružnica družbe za upravljanje države članice oziroma družbe za upravljanje tretje države je poslovna enota družbe za upravljanje države članice oziroma družbe za upravljanje tretje države, ki je ločena od sedeža matične družbe za upravljanje in ni pravna oseba.
-(2) Če je družba za upravljanje države članice oziroma družba za upravljanje tretje države sočasno ustanovila na območju Republike Slovenije več podružnic, mora biti v prijavi za vpis v register in v firmi podružnice označeno, katera podružnica je na območju Republike Slovenije glavna.

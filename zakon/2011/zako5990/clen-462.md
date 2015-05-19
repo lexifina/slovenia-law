@@ -1,3 +1,0 @@
-# 462. člen (pogoji za opravljanje pregleda poslovanja)
-(1) Družba za upravljanje pooblaščenim osebam Agencije zagotovi ustrezne prostore, v katerih lahko nemoteno in brez prisotnosti drugih oseb opravijo pregled poslovanja.
-(2) Družba za upravljanje zagotovi, da so takrat, ko pooblaščene osebe Agencije opravljajo pregled poslovanja v prostorih iz prvega odstavka 460. člena tega zakona, v teh prostorih prisotne pooblaščene osebe družbe za upravljanje, ki lahko na zahtevo pooblaščenih oseb Agencije dajo ustrezna pojasnila v zvezi s poslovnimi knjigami, poslovno dokumentacijo, poslovnimi dogodki ter administrativnimi oziroma poslovnimi evidencami, ki so predmet pregleda.

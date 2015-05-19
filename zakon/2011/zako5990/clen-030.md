@@ -1,2 +1,0 @@
-# 30. člen (prva in nadaljnja prodaja vrednostnih papirjev in instrumentov denarnega trga)
-Prva prodaja vrednostnih papirjev in instrumentov denarnega trga je njihova prodaja na podlagi izdajateljeve ponudbe ob njihovi izdaji. Vse druge prodaje teh finančnih instrumentov, vključno s prodajo, ki jo opravi finančni posrednik, ki je te finančne instrumente odkupil od izdajatelja ob prvi prodaji, so nadaljnje prodaje.

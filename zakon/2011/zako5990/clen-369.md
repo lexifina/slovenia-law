@@ -1,3 +1,0 @@
-# 369. člen (dopustna izpostavljenost do oseb, vključenih v skupino in do posebnih kategorij oseb)
-(1) Pri izračunu izpostavljenosti ne-UCITS sklada se za eno posamezno osebo štejejo tudi dve ali več oseb, ki so med seboj povezane, tako da za ne-UCITS sklad predstavljajo eno samo tveganje. To zlasti velja za osebe, ki so vključene v skupino oziroma so v razmerju tesne povezanosti in morajo pripraviti konsolidirane izkaze poslovanja v skladu z ZGD-1, Slovenskimi računovodskimi standardi oziroma priznanimi mednarodnimi računovodskimi standardi.
-(2) V zvezi z izpostavljenostjo ne-UCITS sklada do posebnih kategorij oseb se smiselno uporabljajo določbe tega zakona in na njegovi podlagi izdani predpisi, ki veljajo za vzajemni sklad.

@@ -1,3 +1,0 @@
-# 169. člen (odgovornost družbe za upravljanje za obveznosti)
-(1) V razmerju do druge stranke iz posla, ki ga je sklenila družba za upravljanje za račun oziroma v imenu in za račun investicijskega sklada, odgovarja za izpolnitev obveznosti iz tega posla družba za upravljanje.
-(2) Terjatev do družbe za upravljanje iz poslov, ki jih je ta sklenila za svoj račun in iz pravnih poslov iz drugega odstavka 195. člena ter iz tretjega odstavka 198. člena tega zakona, ni dovoljeno pobotati s terjatvami, ki jih je družba za upravljanje po tem zakonu upravičena uveljavljati za račun oziroma v imenu in za račun investicijskega sklada.

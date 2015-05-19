@@ -1,2 +1,0 @@
-## 12.a NADZOR NAD VZAJEMNIMI POKOJNINSKIMI SKLADI IN NJIHOVIMI UPRAVLJAVCI (prenehalo veljati)
-# 497.a člen (prenehal veljati)

@@ -1,6 +1,0 @@
-# 305. člen (obveščanje imetnikov investicijskih kuponov ter poročanje Agenciji)
-(1) Družba za upravljanje mora Agenciji naslednji delovni dan po nastopu razloga za začetek likvidacije vzajemnega sklada poročati o nastopu razloga za začetek likvidacije in poročilu priložiti besedilo objave in obvestila iz drugega odstavka tega člena.
-(2) Družba za upravljanje mora v treh delovnih dneh po nastopu razloga za začetek likvidacije vzajemnega sklada objaviti informacijo o začetku likvidacije vzajemnega sklada in v istem roku vsakemu imetniku investicijskih kuponov vzajemnega sklada posredovati obvestilo o začetku likvidacije vzajemnega sklada.
-(3) Če družba za upravljanje ne izpolni obveznosti iz prvega in drugega odstavka tega člena, jih mora izpolniti skrbnik v rokih, določenih v prvem in drugem odstavku tega člena, ki tečejo od dneva, ko je skrbnik izvedel oziroma bi moral izvedeti za opustitev družbe za upravljanje.
-(4) Skrbnik ima pravico od družbe za upravljanje zahtevati povračilo stroškov, ki mu nastanejo zaradi izpolnitve obveznosti iz prejšnjega odstavka.
-(5) Agencija predpiše podrobnejšo vsebino objave in obvestila imetnikom investicijskih kuponov iz drugega odstavka tega člena, način objave ter način posredovanja obvestila imetnikom investicijskih kuponov.

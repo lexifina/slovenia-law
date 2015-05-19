@@ -1,3 +1,0 @@
-# 27. člen (trženje enot investicijskih skladov)
-(1) Trženje enot investicijskih skladov obsega vse storitve in posle, ki so kakorkoli povezani z distribucijo enot investicijskega sklada od družbe za upravljanje do vlagatelja. Trženje vključuje tudi aktivnosti povezane z oglaševanjem, obveščanjem in prodajo enot investicijskih skladov.
-(2) Za oglaševanje investicijskih skladov se štejejo vsa tržna sporočila, ki so z uporabo tiskanih in elektronskih medijev naslovljena na vlagatelje in morebitne vlagatelje v investicijske sklade, katerih namen je prispevati k pridobivanju novih vplačil enot investicijskih skladov.

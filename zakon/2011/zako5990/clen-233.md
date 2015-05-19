@@ -1,5 +1,0 @@
-# 233. člen (evidenca imetnikov investicijskih kuponov)
-(1) Družba za upravljanje za vsak vzajemni sklad, ki ga upravlja, zagotovi vodenje evidence imetnikov investicijskih kuponov.
-(2) Za vodenje evidenc imetnikov investicijskih kuponov se podatki iz petega odstavka 238. člena tega zakona zbirajo neposredno od osebe, na katero se nanašajo.
-(3) Ne glede na prejšnji odstavek lahko družba za upravljanje, v primeru, če od vlagatelja ne pridobi pravilnih in popolnih podatkov za vodenje evidence imetnikov investicijskih kuponov, na podlagi obrazložene pisne zahteve od pristojnega davčnega organa pridobi davčno številko, osebno ime, naslov, rojstni datumu in kraj rojstva vlagatelja. Družba za upravljanje lahko te podatke uporablja zgolj za namene vodenja evidenc imetnikov investicijskih kuponov po tem zakonu in za izvajanje zakona, ki ureja davčni postopek, ter zakonov, ki urejajo obdavčitev imetnikov investicijskih kuponov investicijskih skladov ter preprečevanje pranja denarja in financiranja terorizma.
-(4) Agencija predpiše podrobnejšo vsebino in način vodenja evidence imetnikov investicijskih kuponov vzajemnega sklada.

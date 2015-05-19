@@ -1,3 +1,0 @@
-# 123. člen (neposredno opravljanje storitev upravljanja investicijskih skladov)
-(1) Družba za upravljanje države članice lahko začne neposredno opravljati storitve upravljanja investicijskih skladov v Republiki Sloveniji, ko Agencija od nadzornega organa družbe za upravljanje države članice prejme obvestilo in priloge z vsebino iz prvega, drugega in četrtega odstavka 117. člena tega zakona.
-(2) Družba za upravljanje države članice, ki v Republiki Sloveniji neposredno opravlja storitve upravljanja investicijskih skladov, mora pred vsako spremembo dejstev oziroma okoliščin iz drugega odstavka 117. člena tega zakona o tem obvestiti Agencijo.

@@ -1,2 +1,0 @@
-# 467. člen (predložitev poročila revizijske družbe o odpravi kršitev)
-Če Agencija ugotovi kršitve pri vodenju poslovnih knjig oziroma administrativnih in drugih evidenc, ki jih mora voditi družba za upravljanje, oziroma druge pomembnejše kršitve pri poslovanju družbe za upravljanje, lahko družbi za upravljanje z odredbo o odpravi kršitev naloži tudi, da o odpravi kršitev predloži poročilo revizijske družbe, da so ugotovljene kršitve odpravljene.
