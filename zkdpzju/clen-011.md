@@ -1,0 +1,5 @@
+# 11. člen (posebna ureditev za izplačilo odkupne vrednosti)
+
+(1) Javni uslužbenci, ki jim na dan 1. avgusta 2003 manjka manj kot 10 let do izpolnitve minimalnih pogojev za pridobitev pravice do starostne pokojnine po 36. členu v zvezi s 398. členom ZPIZ-1, se vključijo v kolektivno dodatno pokojninsko zavarovanje na enak način kot drugi javni uslužbenci in pridobijo pravico do dodatne starostne pokojnine še pred potekom 10 let od vključitve v kolektivno dodatno pokojninsko zavarovanje ali pa se jim odkupna vrednost ne glede na določbe ZPIZ-1 izplača ob upokojitvi v obveznem pokojninskem zavarovanju še pred potekom 10 let od vključitve v kolektivno dodatno pokojninsko zavarovanje.
+
+(2) Ne glede na določbe 359. člena ZPIZ-1, se javnemu uslužbencu iz prejšnjega odstavka pri odmeri dohodnine izplačilo odkupne vrednosti iz prejšnjega odstavka šteje kot dohodek, ki izvira iz več let in se obdavči po povprečni stopnji dohodnine enoletnih dohodkov. Za ugotovitev povprečne stopnje dohodnine enoletnih dohodkov se prejeto izplačilo odkupne vrednosti, razdeli na toliko enakih delov, za kolikor let je bila premija vplačevana.
