@@ -1,0 +1,12 @@
+# 184.a člen
+(1) To poglavje določa pravila, po katerih domače sodišče izda evropsko odredbo o zaščiti ali prizna evropsko odredbo o zaščiti, ki jo je izdal pristojni pravosodni organ ali enakovredni organ druge države članice, ter pravila glede izvrševanja evropskih odredb o zaščiti, ki so bile priznane s strani domačih sodišč.
+(2) Izrazi, uporabljeni v tem poglavju, imajo naslednji pomen:
+- "evropska odredba o zaščiti" pomeni odločbo, ki jo izda pravosodni ali enakovredni organ države članice z namenom, da na njeni podlagi pravosodni ali enakovredni organ druge države članice, v skladu s svojo nacionalno zakonodajo odredi in izvrši ustrezne ukrepe za neprekinjeno zaščito zaščitene osebe;
+- "zaščitni ukrep" pomeni odločbo v kazenski zadevi, izdano v državi izdaje v skladu z nacionalno zakonodajo in postopki, s katero se osebi, ki ogroža, izreka eno ali več prepovedi ali omejitev iz tretjega odstavka 184.č člena tega zakona za zaščito zaščitene osebe pred kaznivim dejanjem, ki lahko ogrozi njeno življenje, telesno ali duševno celovitost, dostojanstvo, osebno svobodo ali spolno nedotakljivost;
+- "zaščitena oseba" pomeni fizično osebo, ki je zaščitena na podlagi zaščitnega ukrepa, sprejetega v državi izdaje; tudi sorodnik glavne zaščitene osebe, kot je določen v zakonu, ki ureja preprečevanje nasilja v družini, lahko zaprosi za evropsko odredbo o zaščiti, če je bil tudi zanj sprejet zaščitni ukrep;
+- "oseba, ki ogroža" pomeni fizično osebo, ki ji je izrečena ena ali več prepovedi ali omejitev iz tretjega odstavka 184.č člena tega zakona;
+- "država izdaje" pomeni državo članico, v kateri je bil sprejet zaščitni ukrep, na podlagi katerega se izda evropska odredba o zaščiti;
+- "država izvršitve" pomeni državo članico, ki ji je bila posredovana evropska odredba o zaščiti z namenom, da bi to odredbo priznala;
+- "država nadzora" pomeni državo članico, ki ji je bila posredovana odločba na podlagi 178. člena tega zakona ali odločba o nadzornih ukrepih na podlagi 118. člena tega zakona.
+(3) Pristojni organ države izvršitve v skladu z zakonodajo ni dolžan sprejeti enakega zaščitnega ukrepa, kot je bil sprejet v državi izdaje, in lahko ustrezno presodi, da sprejme zakonit ukrep, za katerega odloči, da je v primerljivem primeru v skladu z zakonodajo ter primeren za zagotavljanje neprekinjene zaščite zaščitene osebe z vidika zaščitnega ukrepa, sprejetega v državi izdaje in navedenega v evropski odredbi o zaščiti.
+Uporaba drugih predpisov in razmerje do drugih predpisov
