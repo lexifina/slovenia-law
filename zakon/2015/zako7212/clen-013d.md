@@ -1,0 +1,7 @@
+# 13.d člen (zadržanje izvajanja)
+(1) Če organ upravljanja ugotovi, da posredniški organ ne izvaja kohezijske politike v skladu z izvedbenim načrtom operativnega programa, ki ga je sprejela vlada, ga pozove, da najkasneje v 30 dneh odpravi neskladnost.
+(2) Če posredniški organ neskladnosti ne odpravi v roku iz prejšnjega odstavka, organ upravljanja zahteva, da ministrstvo, pristojno za finance, za največ tri mesece zadrži nadaljnja izplačila s posameznih postavk kohezijske politike posredniškega organa.
+(3) Če je organ upravljanja naložil popravljalne ukrepe posredniškemu organu, ki se ne nanašajo na odpravo neskladnosti po prvem odstavku, in jih ta ni izvedel v roku 60 dni od njihovega prejema, organ upravljanja zahteva, da ministrstvo, pristojno za finance, za največ tri mesece zadrži nadaljnja izplačila s posameznih postavk kohezijske politike posredniškega organa.
+(4) Če posredniški organ v primeru neupravičene porabe sredstev ne zahteva plačila od upravičenca v roku iz tretjega odstavka 13.č člena tega zakona, organ upravljanja zahteva, da ministrstvo, pristojno za finance, za največ tri mesece zadrži nadaljnja izplačila s posameznih postavk kohezijske politike posredniškega organa.
+(5) Ko posredniški organ odpravi pomanjkljivosti, s tem seznani organ upravljanja, ki takoj pozove ministrstvo, pristojno za finance, da odpravi zadržanje izplačil s posameznih postavk kohezijske politike.
+(6) Organ upravljanja o izvedenih zadržanjih iz drugega, tretjega in četrtega odstavka tega člena četrtletno seznanja vlado.

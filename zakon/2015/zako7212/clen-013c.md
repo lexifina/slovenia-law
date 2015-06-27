@@ -1,0 +1,14 @@
+# 13.c člen (izplačila iz proračuna)
+(1) Upravičencu do sredstev kohezijske politike se izplačilo iz proračuna izvrši na podlagi zahtevka za izplačilo, ki je pripravljen na podlagi računa ali druge enakovredne knjigovodske listine in druge dokumentacije (v nadaljnjem besedilu: dokazila), ki je bila zahtevana za pridobitev sredstev kohezijske politike.
+(2) Ne glede na prejšnji odstavek se v skladu z 2. točko prvega odstavka 27. člena tega zakona izplačilo sredstev kohezijske politike iz proračuna lahko izvede brez dokazil, če se upravičenec do sredstev kohezijske politike zaveže, da bo zahtevek za izplačilo posredoval najkasneje v 120 dneh po prejemu sredstev.
+(3) Ne glede na prvi odstavek tega člena se za izvajanje kohezijske politike izplačilo iz proračuna lahko izvede na podlagi dokazil, ki ne vsebujejo računa ali druge enakovredne knjigovodske listine, en dan pred dnevom plačila izvajalcu, če:
+- je upravičenec občina, posredni uporabnik proračuna ali nosilec javnih pooblastil,
+- predloži drugo dokumentacijo za izplačilo iz proračuna 25 dni pred dnevom plačila izvajalcu in
+- se zaveže, da bo račun ali drugo enakovredno knjigovodsko listino posredoval posredniškemu organu najkasneje v osmih dneh po prejemu sredstev.
+(4) Če upravičenec dokazil ne predloži v roku iz drugega odstavka tega člena oziroma če upravičenec računa ali druge enakovredne knjigovodske listine ne predloži v roku iz tretje alineje prejšnjega odstavka, se mu zadržijo nadaljnja izplačila s postavk kohezijske politike.
+13.č člen
+(neupravičena poraba sredstev kohezijske politike)
+(1) Če organ upravljanja ugotovi, da so bila sredstva kohezijske politike neupravičeno porabljena, najkasneje v 15 dneh od ugotovljene neupravičene porabe sredstev zahteva, da posredniški organ zahteva plačilo od upravičenca. Organ upravljanja zahtevo za plačilo predloži posredniškemu organu in z njo sočasno seznani organ za potrjevanje in revizijski organ.
+(2) Če je neupravičena poraba sredstev kohezijske politike ugotovljena pri posredniškem organu, ki je v vlogi upravičenca, organ upravljanja najkasneje v 15 dneh od ugotovljene neupravičene porabe sredstev zahteva, da organ za potrjevanje zahteva plačilo od posredniškega organa in z zahtevo sočasno seznani revizijski organ.
+(3) Posredniški organ oziroma organ za potrjevanje najkasneje v osmih dneh po prejemu zahteve iz prvega oziroma drugega odstavka tega člena zahteva plačilo od upravičenca oziroma od posredniškega organa.
+(4) Če je neupravičeno porabo sredstev povzročilo pomanjkljivo delovanje sistema pri organu upravljanja, posredniškemu organu ali izvajalskem organu ali v primeru iz drugega odstavka tega člena mora vračilo sredstev na način, kot je določen v 34. členu tega zakona, zagotoviti organ, pri katerem je bila ugotovljena neupravičena poraba sredstev kohezijske politike.
