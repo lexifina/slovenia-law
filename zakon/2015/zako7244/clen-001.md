@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o cestah (Uradni list RS, št. 109/10, 48/12 in 36/14 - odl. US) se v prvem odstavku 2. člena v 24. točki doda nov drugi stavek, ki se glasi: "Javna cesta je tudi cesta, ki je kategorizirana v sosednji državi in deloma poteka po ozemlju Republike Slovenije, pri čemer v zvezi z zagotavljanjem odvijanja prometa po cesti obstaja mednarodnopravna obveznost Republike Slovenije (skupna javna cesta);".
