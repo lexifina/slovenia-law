@@ -1,0 +1,2 @@
+- Zakon o premostitvenem zavarovanju poklicnih športnikov - ZPZPŠ (Uradni list RS, št. 41/14 z dne 6. 6. 2014),
+- Zakon o spremembi Zakona o premostitvenem zavarovanju poklicnih športnikov -ZPZPŠ-A (Uradni list RS, št. 47/15 z dne 30. 6. 2015).
