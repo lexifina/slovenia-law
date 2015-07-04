@@ -1,0 +1,3 @@
+# 23. člen (uveljavljanje izpolnjenih obveznosti po tem zakonu)
+
+Izpolnjene obveznosti na podlagi prevzema izpolnitve po tem zakonu Republika Slovenija uveljavlja po 7. členu Priloge C Sporazuma o vprašanjih nasledstva (Uradni list RS – Mednarodne pogodbe, št. 20/02; v nadaljnjem besedilu: Sporazum), podpisanega na Dunaju 29. junija 2001 med Bosno in Hercegovino, Republiko Hrvaško, Republiko Makedonijo, Republiko Slovenijo in Zvezno republiko Jugoslavijo kot državami naslednicami nekdanje Socialistične federativne republike Jugoslavije, z namenom doseči pravično razdelitev jamstev SFRJ ali Narodne banke Jugoslavije za stare devizne hranilne vloge iz a) točke tretjega odstavka 2. člena Priloge C Sporazuma.
