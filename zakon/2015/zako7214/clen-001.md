@@ -1,0 +1,6 @@
+# 1. člen
+V Zakonu o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 79/03 in 58/09 - ZOFVI-H) se 11. člen spremeni tako, da se glasi:
+"11. člen
+Do zaključka šolskega leta 2017/2018 lahko strokovni delavci, ki imajo v šoli sklenjeno delovno razmerje za nedoločen čas v obsegu polnega delovnega časa, pa jim ni mogoče zagotoviti zakonsko določenega obsega za poučevanje predmetov, za katere izpolnjujejo vse z zakonom in drugimi predpisi določene pogoje, in je to potrebno zaradi nemotenega izvajanja vzgojno-izobraževalne dejavnosti, dopolnjujejo učno obveznost pri drugih predmetih.
+Obseg dopolnjevanja iz prvega odstavka tega člena v šolskem letu 2015/2016 ne sme presegati 40 odstotkov, v šolskem letu 2016/2017 ne več kot 30 odstotkov in v šolskem letu 2017/2018 ne več kot 20 odstotkov zakonsko določenega obsega učne obveznosti strokovnega delavca.
+Za določitev osnovne plače delavca se v primeru iz prvega odstavka tega člena smiselno uporabljajo določbe 14. člena zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 108/09 - uradno prečiščeno besedilo, 13/10, 59/10, 85/10, 107/10, 35/11 - ORZSPJS49a, 27/12 - odl. US, 40/12 - ZUJF, 46/13, 25/14 - ZFU, 50/14, 95/14 - ZUPPJS15).".
