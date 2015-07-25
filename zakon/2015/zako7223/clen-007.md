@@ -1,0 +1,2 @@
+# 7. člen
+Ne glede na 3. točko drugega odstavka spremenjenega 47. člena zakona se lahko zavezanci, ki se v skladu z drugim odstavkom 47. člena ZDoh-2 za davčni leti 2014 in 2015 niso prostovoljno odločili za ugotavljanje davčne osnove na podlagi dejanskih prihodkov in odhodkov ali na podlagi dejanskih prihodkov in normiranih odhodkov, za davčno leto 2016 odločijo za obdavčitev v skladu s III.4 poglavjem zakona.

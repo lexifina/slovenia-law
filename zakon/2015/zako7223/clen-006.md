@@ -1,0 +1,3 @@
+# 6. člen
+(1) Ne glede na spremenjeni 26. člen zakona se za oprostitev dohodnine za dohodke, izplačane za ukrepe kmetijske politike, kot jih določa Uredba Sveta št. 1698/2005 z dne 20. septembra 2005 o podpori za razvoj podeželja iz Evropskega kmetijskega sklada za razvoj podeželja (EKSRP) (UL L št. 277 z dne 21. 10. 2005, str. 1) upošteva 2. točka 26. člena Zakona o dohodnini (Uradni list RS, 13/11 - uradno prečiščeno besedilo, 24/12, 30/12, 40/12 - ZUJF, 75/12, 94/12, 96/13, 29/14 - odl. US, 50/14 in 23/15; v nadaljnjem besedilu: ZDoh-2).
+(2) Ne glede na spremenjeno 3. točko 26. člena zakona in spremenjeni 47. člen zakona se za leto 2015 uporablja 3. točka 26. člena ZDoh-2 in 47. člen ZDoh-2.
