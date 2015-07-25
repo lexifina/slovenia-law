@@ -1,0 +1,6 @@
+# 5. člen (poraba presežkov proračunov)
+(1) Presežki, ki jih posamezna institucionalna enota sektorja država ustvari v posameznem letu, se zbirajo na ločenem računu.
+(2) Če je institucionalna enota sektorja država zadolžena, se presežki iz prejšnjega odstavka lahko uporabijo le za odplačevanje glavnic njenega dolga.
+(3) Če institucionalna enota sektorja država nima dolgov, se ustvarjeni presežki iz prvega odstavka tega člena uporabijo za financiranje primanjkljajev v obdobjih podpotencialne ravni BDP, za financiranje izpada prihodkov oziroma povečanja izdatkov zaradi okoliščin iz prvega odstavka 12. člena tega zakona ali za financiranje investicij v naslednjih letih.
+(4) Ne glede na drugi ali tretji odstavek se lahko ustvarjeni presežki iz prvega odstavka tega člena, ob predhodnem soglasju ustanovitelja posamezne institucionalne enote sektorja država, izjemoma uporabijo tudi za povečanje premoženja te institucionalne enote.
+(5) Ne glede na drugi, tretji ali četrti odstavek tega člena, lahko, po postopku in v primerih, ki so določeni s predpisi, ki urejajo javne finance, ustanovitelj institucionalne enote sektorja država zahteva vplačilo presežkov javnih prihodkov nad javnimi izdatki v proračun ustanovitelja.

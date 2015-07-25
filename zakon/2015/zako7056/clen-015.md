@@ -1,0 +1,4 @@
+## V. PREHODNE IN KONČNE DOLOČBE
+# 15. člen (izvajanje srednjeročne uravnoteženosti v obdobju približevanja srednjeročnemu fiskalnemu cilju)
+(1) Dokler se Republika Slovenija približuje srednjeročnemu fiskalnemu cilju, se šteje, da so proračuni države srednjeročno uravnoteženi, če se strukturni saldo sektorja država približuje srednjeročnemu fiskalnemu cilju skladno z dinamiko, določeno na podlagi Pakta za stabilnost in rast.
+(2) V času približevanja srednjeročnemu fiskalnemu cilju iz prejšnjega odstavka se srednjeročno uravnoteženost zagotavlja tako, da se ob upoštevanju predvidenega obsega prihodkov načrtovan obseg izdatkov sektorja država navzgor omeji na raven, s katero se zagotovi prilagoditev strukturnega salda sektorja država v smeri srednjeročnega fiskalnega cilja skladno z dinamiko iz prejšnjega odstavka.

@@ -1,0 +1,2 @@
+# 4. člen (načelo previdnosti pri načrtovanju in ocenjevanju obsega prihodkov in izdatkov)
+Za zagotavljanje spoštovanja srednjeročne uravnoteženosti iz prejšnjega člena je treba pri načrtovanju in ocenjevanju obsega prihodkov in izdatkov proračunov sektorja država upoštevati tveganja, ki bi lahko negativno vplivala na makroekonomsko stabilnost in s tem na prihodke in izdatke proračunov sektorja država ter dolgoročno vzdržnost javnega financiranja in obseg dolga sektorja država.
