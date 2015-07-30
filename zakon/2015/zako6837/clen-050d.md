@@ -1,0 +1,5 @@
+# 50.d člen
+(1) Če je avtor dela, ki se po tem zakonu šteje za osirotelo delo, najden ali opredeljen, pravne osebe iz prvega odstavka 50.a člena tega zakona takoj, ko za to izvejo, to delo prenehajo uporabljati.
+(2) Avtor osirotelega dela ima pravico do pravičnega nadomestila za dotedanjo uporabo svojega dela, ki ga lahko zahteva od pravne osebe iz prvega odstavka 50.a člena tega zakona, ki je njegovo delo uporabljala.
+(3) Pri določitvi višine pravičnega nadomestila se upoštevajo stroški izvedbe skrbnega iskanja, stroški in prihodki, povezani z dajanjem osirotelega dela na voljo javnosti, stroški reproduciranja in stroški morebitnega oškodovanja imetnikov pravic. Upošteva se tudi javni interes na področju kulture, kot ga določa zakon, ki ureja uresničevanje javnega interesa za kulturo ter poslanstvo posameznega javnega zavoda oziroma javne agencije, kot je določeno v njihovem ustanovitvenem aktu.
+(4) Način izračuna višine pravičnega nadomestila iz drugega odstavka tega člena in način njegovega plačila določi Vlada Republike Slovenije na predlog ministra, pristojnega za kulturo."
