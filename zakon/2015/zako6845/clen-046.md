@@ -1,0 +1,2 @@
+# 46. člen
+V drugem odstavku 281. člena se na koncu odstavka doda besedilo, ki se glasi: "Za izvrševanje teh pravic lahko pooblasti posameznega člana, komisijo ali za določene naloge tudi posebnega izvedenca. Pri sklenitvi pogodbe z izvedencem zastopa družbo predsednik nadzornega sveta. Predsednik nadzornega sveta zastopa družbo tudi pri sklenitvi pogodbe z revizorjem letnega in konsolidiranega letnega poročila.".

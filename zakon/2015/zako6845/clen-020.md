@@ -1,0 +1,6 @@
+# 20. člen
+V prvem odstavku 65. člena se v postavki OBVEZNOSTI DO VIROV SREDSTEV v točki A. Kapital, naslov podtočke IV. spremeni tako, da se glasi "IV. Revalorizacijske rezerve". Za njo se doda nova V. podtočka, ki se glasi: "V. Rezerve, nastale zaradi vrednotenja po pošteni vrednosti". Dosedanja V. in VI. podtočka postaneta VI. in VII. podtočka.
+V drugem odstavku 65. člena se v postavki OBVEZNOSTI DO VIROV SREDSTEV v točki A. Kapital, naslov podtočke IV. spremeni tako, da se glasi "IV. Revalorizacijske rezerve". Za njo se doda nova V. podtočka, ki se glasi: "V. Rezerve, nastale zaradi vrednotenja po pošteni vrednosti". Dosedanja V. in VI. podtočka postaneta VI. in VII. podtočka.
+V tretjem odstavku se v postavki OBVEZNOSTI DO VIROV SREDSTEV v točki A. Kapital, naslov podtočke IV. spremeni tako, da se glasi "IV. Revalorizacijske rezerve. Za njo se doda nova V. podtočka, ki se glasi: "V. Rezerve, nastale zaradi vrednotenja po pošteni vrednosti". Dosedanja V. in VI. podtočka postaneta VI. in VII. podtočka.
+Za šestim odstavkom se doda nov sedmi odstavek, ki se glasi:
+"(7) Pravice na nepremičninah in druge podobne pravice se izkazujejo pod ustrezno postavko Zemljišča in zgradbe ter se razkrijejo v prilogi k izkazom.".

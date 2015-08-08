@@ -1,0 +1,2 @@
+# 70. člen
+Na koncu prvega odstavka 495. člena se doda novo besedilo, ki se glasi: "V premoženje, ki je potrebno za ohranitev najnižjega zneska osnovnega kapitala iz 475. člena tega zakona, se ne štejejo posojila družbe družbeniku ali poslovodji ali njegovemu družinskemu članu, kot je opredeljen v sedmem odstavku 38.a člena tega zakona, ali pravni osebi, v kateri ima družbenik ali poslovodja ali njegov družinski član ali vsi skupaj najmanj desetino upravljavskih pravic. Pravni posel, ki ni sklenjen v skladu s prejšnjim stavkom, je ničen.".

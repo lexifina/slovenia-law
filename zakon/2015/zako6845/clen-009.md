@@ -1,0 +1,5 @@
+# 9. člen
+V 50. členu se v šesti alineji za besedilom "izrednega revizorja" doda besedilo "pogodbenega revizorja, posebnega revizorja za razmerja z obvladujočo družbo, vključitvenega revizorja", v oklepaju pa se za številko "386." doda besedilo "535.b, 546.b, drugi odstavek 555.a,".
+Enajsta alineja se črta.
+Za besedilom člena, ki postane nov prvi odstavek, se doda nov drugi odstavek, ki se glasi:
+"(2) Če družba z neomejeno odgovornostjo, komanditna družba ali družba z omejeno odgovornostjo nima poslovodje zaradi njegove smrti, trajne ali dolgotrajne nezmožnosti za delo ali v drugih nujnih primerih, ga na predlog imenuje sodišče v nepravdnem postopku. Predlog lahko vloži vsakdo, ki ima pravni interes. Funkcija sodno imenovanega poslovodje preneha najkasneje s potekom obdobja, za katerega je bil imenovan s strani sodišča, ali z imenovanjem novega poslovodje v skladu z aktom o ustanovitvi. Sodno imenovani poslovodja ima pravico do plačila za delo in poravnave stroškov. Če se o višini stroškov in plačila sodno imenovani poslovodja in družba ne sporazumeta, odloči o stroških in plačilu sodišče.".

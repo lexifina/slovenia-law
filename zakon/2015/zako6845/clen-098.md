@@ -1,0 +1,2 @@
+# 98. člen
+V prvem odstavku 688. člena se napovedni stavek spremeni tako, da se glasi: "Z globo od 2.000 do 5.000 eurov se za prekršek kaznuje podjetnik, ki ustreza merilom za velike družbe, z globo od 1.300 do 3.500 eurov podjetnik, ki ustreza merilom za srednje družbe, z globo od 600 do 2.000 eurov podjetnik, ki ustreza merilom za majhne družbe, z globo od 200 do 800 eurov pa podjetnik, ki ustreza merilom za mikro družbe:".

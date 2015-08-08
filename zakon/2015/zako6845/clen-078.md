@@ -1,0 +1,6 @@
+# 78. člen
+Prvi odstavek 545. člena se spremeni tako, da se glasi:
+"(1) Če ni sklenjena pogodba o obvladovanju, obvladujoča družba ne sme uporabiti svojega vpliva, da bi pripravila odvisno družbo do tega, da bi zase opravila škodljiv pravni posel ali da bi kaj storila ali opustila v svojo škodo, razen če se prikrajšanje nadomesti.".
+V drugem odstavku se drugi stavek spremeni tako, da se glasi: "V korist odvisne družbe se s pravnim poslom ustanovi zahtevek za nadomestitev prikrajšanja.".
+Tretji odstavek se spremeni tako, da se glasi:
+"(3) Poslovodstvo odvisne družbe mora v prvih treh mesecih poslovnega leta sestaviti poročilo o razmerjih s povezanimi družbami. V njem se navedejo vsi pravni posli, ki jih je družba sklenila v preteklem poslovnem letu z obvladujočo družbo ali z njo povezano družbo ali na pobudo ali v interesu teh družb, in vsa druga dejanja, ki jih je storila ali opustila na pobudo ali v interesu teh družb v preteklem poslovnem letu. Pri pravnih poslih se navedeta izpolnitev in nasprotna izpolnitev, pri dejanjih pa razlogi zanje, koristi in prikrajšanja za družbo. Pri nadomestilu prikrajšanja se natančno navede, kako so nadomestila med poslovnim letom dejansko potekala ali do kakšnih koristi je družba upravičena na podlagi pravnega posla, s katerim je bil ustanovljen zahtevek za nadomestitev prikrajšanja iz prejšnjega odstavka.".

@@ -1,0 +1,3 @@
+# 26. člen
+V 72. členu se za osmim odstavkom doda nov deveti odstavek, ki se glasi:
+"(9) Če podjetnik nima zastopnika za primer smrti ali prokurista, podjetniku zastopnika v primeru njegove smrti, trajne ali dolgotrajne nezmožnosti za delo ali v drugih nujnih primerih, na predlog imenuje sodišče v nepravdnem postopku. Predlog lahko vloži vsakdo, ki ima pravni interes. Funkcija sodno imenovanega zastopnika preneha najkasneje s potekom obdobja, za katerega je bil imenovan s strani sodišča, ali z imenovanjem novega zastopnika s strani dedičev. Sodno imenovani zastopnik ima pravico do plačila za delo in poravnave stroškov, ki jih določi sodišče.".
