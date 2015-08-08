@@ -1,0 +1,3 @@
+# 20. člen
+(1) Določbi 4. in 5. člena tega zakona se začneta uporabljati 1. maja 2016. Do začetka uporabe določb 4. in 5. člena tega zakona se uporabljajo določbe 6. in 8. člena Zakona o izvajanju carinskih predpisov Evropske skupnosti (Uradni list RS, št. 25/04, 28/06 - odl. US in 111/07).
+(2) Določbe 68. do 76. člena zakona se uporabljajo do uveljavitve uredbe o izvajanju Uredbe (EU) št. 608/2013 Evropskega parlamenta in sveta z dne 12. junija 2013 o uveljavljanju pravic intelektualne lastnine s strani carinskih organov in razveljavitvi Uredbe Sveta (ES) št. 1383/2003 (UL L št. 181 z dne 29. 6. 2013, str. 15).
