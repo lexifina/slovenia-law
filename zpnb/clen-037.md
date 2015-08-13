@@ -1,0 +1,21 @@
+# 37. člen (strokovno usposabljanje voznikov)
+
+(1) Strokovno usposabljanje voznikov se opravlja po programu in zahtevah, ki so določene v predpisu iz prvega odstavka 3. člena tega zakona. Strokovnost predavateljev se dokazuje z izpolnjevanjem pogojev za članstvo v izpitni komisiji za preverjanje nacionalne poklicne kvalifikacije s področja izvajanja prevoza nevarnega blaga (operater).
+
+(2) Strokovno usposabljanje voznikov iz prejšnjega odstavka izvajajo organizacije, ki jih na podlagi javnega razpisa določi minister, pristojen za promet. Pooblastilo izda minister z odločbo v upravnem postopku, če organizacija izpolnjuje pogoje, določene v predpisu iz prvega odstavka 3. člena tega zakona, v odločbi pa določi pogoje, pod katerimi se mora izvajati strokovno usposabljanje. Pooblaščene organizacije, ki izvajajo strokovno usposabljanje voznikov, kandidatom, ki izpolnijo vse predpisane zahteve, izdajo certifikat o usposobljenosti v skladu s predpisom iz prvega odstavka 3. člena tega zakona.
+
+(3) Pooblaščena organizacija iz prejšnjega odstavka mora izvajati strokovno usposabljanje v skladu z določbami tega člena, izdanim pooblastilom in predpisi iz prvega odstavka 3. člena tega zakona.
+
+(4) Minister, pristojen za promet, lahko na podlagi predloga organa, pristojnega za nadzor, začasno odvzame pooblastilo za obdobje treh mesecev, če pooblaščena organizacija ne izvaja strokovnega usposabljanja v skladu s prejšnjim odstavkom, in sicer:
+
+- če strokovnega usposabljanja ne izvaja po predpisanem programu ali ga ne izvede v celoti,
+
+- če strokovno usposabljanje izvajajo osebe, ki ne izpolnjujejo predpisanih pogojev,
+
+- če strokovno usposabljanje ni izvedeno v skladu z izdanim pooblastilom.
+
+(5) Če pooblaščena organizacija v roku enega leta po poteku začasnega odvzema pooblastila ponovno ne izvaja strokovnega usposabljanja v skladu s tretjim odstavkom tega člena, minister, pristojen za promet, na predlog organa, pristojnega za nadzor, trajno odvzame pooblastilo.
+
+(6) Preizkus znanja voznikov o usposobljenosti v skladu s predpisi iz prvega odstavka 3. člena tega zakona opravlja komisija, ki jo imenuje minister, pristojen za promet. Člani komisije morajo izpolnjevati pogoje, ki so določeni za članstvo v izpitni komisiji, kot so določeni za področje izvajanja prevoza nevarnega blaga (operater) s predpisi o nacionalnih poklicnih kvalifikacijah ali imeti najmanj tri leta delovnih izkušenj pri pripravi predpisov s področja prevozov nevarnega blaga oziroma preverjanju pogojev za izdajo pooblastil na podlagi tega zakona. Minister, pristojen za promet, določi stroške dela komisije z aktom o imenovanju komisije.
+
+(7) Komisija iz prejšnjega odstavka deluje v skladu s poslovnikom, v katerem določi način dela komisije. Komisija sprejme poslovnik s soglasjem večine članov.
