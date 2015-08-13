@@ -1,0 +1,4 @@
+# 16. člen
+(1) Minister, pristojen za promet, v petih letih od uveljavitve tega zakona določi pooblaščene organizacije za preglede ustreznosti vozil za prevoz nevarnega blaga in izdajo potrdil (certifikatov) v skladu z devetim odstavkom 35. člena zakona.
+(2) Pooblastila, ki so bila do uveljavitve tega zakona izdana organizacijam za opravljanje pregledov ustreznosti vozil za prevoz nevarnega blaga in izdajo potrdil (certifikatov), veljajo do določitve pooblaščenih organizacij v skladu s prejšnjim odstavkom.
+(3) Ministrstvo, pristojno za promet, vzpostavi evidenco izdanih potrdil (certifikatov) najkasneje v šestih mesecih od uveljavitve tega zakona. Pooblaščena organizacija iz četrtega odstavka 35. člena zakona začne vnašati podatke v evidenco iz novega šestega odstavka 35. člena zakona in jo uporabljati za izpis potrdil (certifikatov) v treh mesecih od vzpostavitve evidence.
