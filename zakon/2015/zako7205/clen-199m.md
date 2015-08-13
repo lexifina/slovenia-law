@@ -1,0 +1,2 @@
+# 199.m člen (izračun višine nadomestila za leti 2014 in 2015 za rabo vode za proizvodnjo pijač)
+Višina nadomestila za rabo vode za leti 2014 in 2015 za proizvodnjo pijač se za posamezno leto izračuna za pivo kot zmnožek 6 eurov na m³ prodanega piva in skupne količine prodanega piva v posameznem letu, izražene v m³, oziroma za vode in brezalkoholne pijače kot zmnožek 2 eurov na m³ prodane mineralne, izvirske, namizne vode ali brezalkoholne pijače ter skupne količine prodane mineralne, izvirske, namizne vode in brezalkoholne pijače v posameznem letu, izražene v m³.

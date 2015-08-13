@@ -1,0 +1,7 @@
+# 199.l člen (način plačila nadomestila za rabo vode za leti 2014 in 2015)
+(1) O plačilu nadomestila za rabo vode za leti 2014 in 2015 v primeru vodnega dovoljenja odloči ministrstvo z odločbo, v primeru koncesije pa se plačilo nadomestila za rabo vode za leti 2014 in 2015 uredi s koncesijsko pogodbo. Če je bila za rabo vode, za katero se plača nadomestilo za rabo vode za leti 2014 in 2015, pobuda oziroma vloga za izdajo koncesijskega akta ali vodnega dovoljenja umaknjena ali ni bila vložena, o plačilu nadomestila za rabo vode za leti 2014 in 2015 odloči po uradni dolžnosti ministrstvo z odločbo.
+(2) Obveznost plačila nadomestila za rabo vode za leti 2014 in 2015 se plača v enkratnem znesku za vsako posamezno leto posebej in nastopi v 60 dneh od dokončnosti odločbe iz prejšnjega odstavka oziroma v 60 dneh od izdaje računa na podlagi sklenjene koncesijske pogodbe.
+(3) Prihodki od plačila nadomestila za rabo vode so prihodek Sklada za vode iz 162. člena tega zakona.
+(4) Nadomestilo za rabo vode za leti 2014 in 2015 se plačuje na podračune, določene s predpisom, ki ureja podračune ter način plačevanja obveznih dajatev in drugih javnofinačnih prihodkov.
+(5) Za nepravočasno plačano nadomestilo za rabo vode za leti 2014 in 2015 je treba plačati zamudne obresti.
+(6) Odločbo o plačilu nadomestila za rabo vode za leto 2014 je treba izdati najpozneje do 31. decembra 2015, za leto 2015 pa do 15. marca 2016.

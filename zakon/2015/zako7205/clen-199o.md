@@ -1,0 +1,8 @@
+# 199.o člen (plačilo za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015)
+(1) Pravna ali fizična oseba, ki ji je bilo že izdano vodno dovoljenje za rabo vode za proizvodnjo pijač, ki se odvzema iz objektov in naprav, namenjenih za oskrbo s pitno vodo, ali ji je bilo izdano vodno dovoljenje za rabo mineralne, termalne ali termomineralne vode za dejavnost kopališč in naravnih zdravilišč po predpisih o zdravstveni dejavnosti, pa ji ni bilo odmerjeno plačilo za vodno pravico, mora poravnati plačilo za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015.
+(2) Plačilo za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015 za rabo vode za proizvodnjo pijač, ki se odvzema iz objektov in naprav, namenjenih za oskrbo s pitno vodo, se plača za leti 2014 in 2015 oziroma do prenehanja dejanske rabe vode, če to nastopi pred 31. decembrom 2015.
+(3) O plačilu za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015 odloči ministrstvo z odločbo.
+(4) Za določitev načina plačila za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015 se smiselno uporabljajo določbe 199.l člena tega zakona.
+(5) Za določitev višine plačila za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015 se smiselno uporabljajo določbe 199.m in 199.n člena tega zakona.
+(6) V primeru iz drugega stavka drugega odstavka 199.e člena tega zakona se ne glede na peti odstavek 199.e člena tega zakona za določitev višine plačila za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015 smiselno uporabljajo določbe 199.n člena tega zakona.
+(7) Za nepravočasno plačano plačilo za vodno pravico v primeru izdanih vodnih dovoljenj za leti 2014 in 2015 je treba plačati zamudne obresti.
