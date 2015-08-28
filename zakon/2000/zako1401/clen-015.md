@@ -1,5 +1,0 @@
-# 15. člen
-Deli telesa umrle osebe, ki je državljan Republike Slovenije oziroma ima v Republiki Sloveniji stalno prebivališče, se smejo odvzeti zaradi presaditve tudi v primeru, kadar oseba v to ni izrecno privolila, če odvzema ni izrecno prepovedala, razen če iz drugih okoliščin izhaja, da bi temu nasprotovala. Če si podatki o stališču umrle osebe do dajalstva nasprotujejo, odvzema ni mogoče opraviti.
-Ne glede na določbo prejšnjega odstavka se odvzem delov telesa umrle osebe ne opravi, če oseba, ki je bila umrlemu blizu, odvzemu nasprotuje. Če so take osebe dosegljive, je eno od njih treba obvestiti o nameravanem odvzemu in o njihovi pravici, da ga zavrnejo. Tej osebi je treba dati razumen čas, da se odloči.
-Deli telesa umrle osebe, ki ni državljan Republike Slovenije oziroma, ki v Republiki Sloveniji nima stalnega prebivališča, se smejo odvzeti zaradi presaditve, kadar v to izrecno privoli oseba, ki je bila umrlemu blizu.
-Osebe, ki so umrlemu blizu so: zakonec ali izvenzakonski partner, polnoletni otroci, starši ter bratje in sestre in osebe, za katere se da iz splošnih okoliščin sklepati, da so bile umrlemu blizu.
