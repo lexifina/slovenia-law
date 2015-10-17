@@ -1,0 +1,4 @@
+# 89. člen
+Dosedanji prvi odstavek 119.a člena, ki postane edini odstavek, se spremeni tako, da se glasi:
+"Minister, pristojen za notranje zadeve, v soglasju z ministrom, pristojnim za okolje, ter ministrom, pristojnim za zdravje, predpiše razvrstitev jedrskih objektov in jedrskih ter radioaktivnih snovi in njihove uporabe glede na možne učinke in posledice ob zlorabah in glede na to razvrstitev tudi obseg fizičnega varovanja, pogoje za osebe, ki izvajajo fizično varovanje, pogoje za osebe, ki imajo dostop do jedrskih in radioaktivnih snovi, vsebino ocene ogroženosti in načrtov fizičnega varovanja, način in obseg poročanja, usposabljanje varnostnega osebja in oseb, ki imajo dostop do jedrskih ali radioaktivnih snovi, ter druge pogoje za izvajanje ukrepov fizičnega varovanja.".
+Drugi odstavek se črta.

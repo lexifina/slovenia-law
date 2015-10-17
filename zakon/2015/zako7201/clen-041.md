@@ -1,0 +1,12 @@
+# 41. člen
+63. člen se spremeni tako, da se glasi:
+"63. člen
+(sistem vodenja)
+(1) Investitor ali upravljavec sevalnega ali jedrskega objekta mora zagotoviti, da je objekt voden varno in v skladu z določbami tega zakona.
+(2) Upravljavec sevalnega ali jedrskega objekta mora vzpostaviti, izvajati, ocenjevati in nenehno izboljševati sistem vodenja, ki združuje vse zahteve glede varnosti, zdravja, okolja, fizičnega varovanja, varnosti informacijskih sistemov in podatkov, kakovosti in gospodarnosti, ter zagotavlja, da se varnostni vidiki ustrezno upoštevajo pri vseh dejavnostih upravljavca sevalnega ali jedrskega objekta.
+(3) Upravljavec objekta iz prejšnjega odstavka mora sistem vodenja opisati v dokumentih sistema vodenja.
+(4) Upravljavec sevalnega ali jedrskega objekta mora vzpostaviti odnos in obnašanje zaposlenih v svoji organizaciji, ki ima za posledico dobro varnostno kulturo. Varnostna kultura mora biti vključena v sistem vodenja. Upravljavec mora s samoocenjevanjem in rednimi pregledi sistema vodenja preverjati ustreznost in učinkovitost varnostne kulture.
+(5) Upravljavec sevalnega ali jedrskega objekta mora kot del svojega sistema vodenja vzpostaviti nadzor nad dobavitelji opreme in izvajalci del, in sicer glede na njihov pomen za jedrsko varnost. Preverjeni in odobreni dobavitelji in izvajalci del morajo biti uvrščeni na ustrezen seznam odobrenih dobaviteljev upravljavca.
+(6) Upravljavec sevalnega ali jedrskega objekta mora kot del svojega sistema vodenja vzpostaviti nadzor nad pogodbenimi izvajalci in zagotavljati, da dela izvajajo podjetja, ki imajo vzpostavljen sistem vodenja kakovosti in imajo na strokovnem področju naročenih del usposobljene in izkušene delavce.
+(7) Upravljavec sevalnega ali jedrskega objekta mora kot del svojega sistema vodenja vzpostaviti postopke za zagotavljanje vnosa ali vgradnje samo takšne opreme, ki ustreza veljavnim standardom, specifikacijam ali tehničnim zahtevam.
+(8) Minister, pristojen za okolje, določi podrobnejše zahteve glede sistema vodenja ter vsebine in oblike dokumentacije sistema vodenja.".
