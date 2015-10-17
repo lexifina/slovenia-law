@@ -1,4 +1,4 @@
-# 37. člen (varstvo delavcev zunanjega izvajalca )
+# 37. člen (varstvo delavcev zunanjega izvajalca)
 (1) Zunanji izvajalec mora za vse svoje delavce sam ali posredno preko pogodbe z upravljavcem objekta, v katerem so viri sevanja, zagotoviti, da:
 - njihove doze ne presežejo predpisanih mejnih doz,
 - so primerno usposobljeni in seznanjeni z ukrepi varstva pred sevanji,

@@ -10,10 +10,12 @@
 - odreja ukrepe varstva pred sevanji, ukrepe sevalne in jedrske varnosti ter ukrepe na področju fizičnega varovanja jedrskih objektov ter jedrskih in radioaktivnih snovi po tem zakonu,
 - odreja prenehanje izvajanja sevalne dejavnosti ali uporabe vira sevanja, če ugotovi, da za izvajanje dejavnosti ali za uporabo vira sevanja niso izdana dovoljenja po tem zakonu oziroma je prišlo do opustitve predpisanih ravnanj z virom sevanja ali z radioaktivnimi odpadki,
 - zapečati radiološko napravo, če ta ne izpolnjuje kriterijev sprejemljivosti za pravilno delovanje,
+- zapečati rentgensko napravo, če je imetnik ne uporablja, temveč jo hrani kot rezervo,
+- odredi prepoved ali omejitev dajanja kontaminiranih izdelkov na trg, njihovo dostopnost na trgu ali odredi njihov umik ali odpoklic kontaminiranih izdelkov s trga in izvede dodatne ukrepe, ki zagotovijo, da se bo prepoved upoštevala,
 - v skladu s predpisi o tajnih podatkih izvaja vpogled v oceno ogroženosti in dokumente fizičnega varovanja s tajnimi podatki.
 (7) Inšpekcijski ukrep za posamezno zadevo varstva pred ionizirajočimi sevanji in jedrske varnosti izreče tisti izmed inšpektorjev, katerega organ ali ministrstvo je za zadevo pristojno po tem zakonu.
 (8) Pristojni inšpektor lahko pred predlogom za uvedbo postopka o prekršku zaseže vire sevanja, če oceni, da bi zaradi ravnanja z njimi nastala škoda za zdravje ljudi in okolje.
 (9) Zapisniki o inšpekcijskem nadzoru na področju fizičnega varovanja so tajni in se jim stopnja tajnosti določi v skladu s predpisi o tajnih podatkih.
 (10) Z zapisnikom iz prejšnjega odstavka mora biti poleg upravljavca objekta ali prevoznika seznanjen tudi organ, ki je dal soglasje k načrtu fizičnega varovanja iz 119. člena.
-(11) Pritožba zoper odločbo inšpektorja za prenehanje izvajanja dejavnosti ali uporabe vira sevanja iz petega odstavka tega člena ne zadrži njene izvršitve.
+(11) Pritožba zoper odločbo inšpektorja za prenehanje izvajanja dejavnosti ali uporabe vira sevanja iz šestega odstavka tega člena ne zadrži njene izvršitve.
 (12) Minister, pristojen za notranje zadeve, predpiše opremo inšpektorjev, ki izvajajo nadzorstvo nad fizičnim varovanjem jedrskih in radioaktivnih snovi in objektov.

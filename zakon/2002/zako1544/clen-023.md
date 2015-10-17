@@ -1,14 +1,14 @@
-## 3.4 Varstvo izpostavljenih delavcev
+## 3.4 Varstvo pred sevanji
 ## 3.4.1 Ukrepi zmanjševanja izpostavljenosti na delovnem mestu
 # 23. člen (temelji varstva pred sevanji)
 (1) Delodajalec mora pri izvajanju sevalne dejavnosti zaradi varstva izpostavljenih delavcev, praktikantov in študentov pred ionizirajočimi sevanji (v nadaljnjem besedilu: varstvo pred sevanji) zagotoviti:
-1. izdelavo ocene varstva izpostavljenih delavcev pred sevanji ter izdelavo načrta optimizacije varstva ljudi in okolja pred ionizirajočimi sevanji v vseh delovnih pogojih;
+1. izdelavo ocene varstva pred sevanji;
 2. predhodni pregled načrtov prostorov objekta in naprav v njem glede varstva pred ionizirajočimi sevanji;
 3. razvrstitev delovišč in njihovo označitev na opazovana in nadzorovana območja glede na oceno pričakovanih letnih doz ter verjetnost in velikost potencialnih izpostavljenosti;
 4. razvrstitev izpostavljenih delavcev v dve kategoriji glede na verjetnost in velikost potencialne izpostavljenosti;
-5. izvajanje pisnih tehničnih, zdravstvenih in administrativnih postopkov, povezanih z obratovanjem ali upravljanjem sevalnega, jedrskega ali manj pomembnega sevalnega objekta ali uporabo vira sevanja;
+5. izvajanje pisnih tehničnih, zdravstvenih in administrativnih postopkov, povezanih z izvajanjem sevalne dejavnosti;
 6. usposabljanje izpostavljenih delavcev, praktikantov in študentov, ki uporabljajo vire sevanja ali delajo na opazovanem in nadzorovanem območju, obnavljanje znanja in redno preverjanje usposobljenosti v zvezi s postopki varstva pred sevanji;
-7. seznanitev izpostavljenih delavcev, praktikantov in študentov z vsebino tehničnih, zdravstvenih in administrativnih postopkov, povezanih z obratovanjem, upravljanjem ali uporabo vira sevanja;
+7. seznanitev izpostavljenih delavcev, praktikantov in študentov z vsebino tehničnih, zdravstvenih in administrativnih postopkov, povezanih z izvajanjem sevalne dejavnosti;
 8. seznanitev izpostavljenih delavcev, praktikantov in študentov o tveganjih za zdravje, posebej pa seznanitev žensk o nujnosti zgodnje naznanitve nosečnosti in dojenja;
 9. izvajanje nadzornih ukrepov, meritev in ocene izpostavljenosti na delovnih mestih na različnih področjih in delovnih pogojih, vključno z osebno dozimetrijo;
 10. zaščitno opremo in preverjanje učinkovitosti zaščitne opreme in postopkov zaščite in reševanja;

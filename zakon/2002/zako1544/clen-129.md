@@ -11,5 +11,6 @@
 - mednarodnem sodelovanju na področju sevalne in jedrske varnosti,
 - delu po določbah tega zakona imenovanih svetov in pooblaščenih izvedencev,
 - izvajanju sevalnih dejavnosti ter uporabi jedrske energije v svetu,
-- usposabljanju pooblaščencev, razvojnih študijah, strokovnih preverjanjih in mednarodnem strokovnem sodelovanju na področju varstva pred ionizirajočimi sevanji in jedrske varnosti.
+- usposabljanju pooblaščencev, razvojnih študijah, strokovnih preverjanjih in mednarodnem strokovnem sodelovanju na področju varstva pred ionizirajočimi sevanji in jedrske varnosti,
+- doseganju ciljev resolucije o jedrski in sevalni varnosti v Republiki Sloveniji.
 (2) Poleg podatkov iz prejšnjega odstavka vsebuje poročilo o varstvu pred ionizirajočimi sevanji in jedrski varnosti tudi oceno o delovanju državnih organov ter o preprečevanju širjenja jedrskega orožja in nedovoljeni uporabi jedrskega blaga ter predloge nujnih in prednostnih nalog za izboljšanje stanja sevalne in jedrske varnosti.

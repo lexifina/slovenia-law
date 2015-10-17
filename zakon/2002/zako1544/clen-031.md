@@ -5,6 +5,5 @@
 (4) Minister, pristojen za zdravje, podrobneje predpiše:
 - pogoje, način izvajanja, obseg in pogostost ugotavljanja sevanja na delovnem mestu,
 - način vrednotenja prejetih doz tudi za primere, ko neposredne meritve prejetih doz niso možne,
-- vrsto in kakovost odobrene in tipsko preverjene merilne opreme,
 - način in obseg poročanja o rezultatih ugotavljanja izpostavljenosti delavcev in o prejetih dozah v primerih izvajanja intervencijskih ukrepov in v primerih dovoljenega preseganja mejnih doz zaradi opravljanja izjemnih nalog,
 - način in čas hranjenja podatkov ugotavljanja izpostavljenosti delavcev, ki ga mora zagotoviti delodajalec.

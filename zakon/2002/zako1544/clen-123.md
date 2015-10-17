@@ -1,4 +1,3 @@
-## 8. SPREMLJANJE STANJA RADIOAKTIVNOSTI OKOLJA
 # 123. člen (monitoring radioaktivnosti v okolju)
 (1) Monitoring radioaktivnosti okolja zagotavljajo:
 - organ, pristojen za jedrsko varnost, za zrak, vode in tla ter posameznih izdelkov,

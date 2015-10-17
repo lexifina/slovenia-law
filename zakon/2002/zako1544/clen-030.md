@@ -1,7 +1,7 @@
 # 30. člen (pooblaščeni izvajalci dozimetrije)
 (1) Pravne osebe pridobijo pooblastilo za izvajanje nalog dozimetrije, če imajo organizirano službo za dozimetrijo in redno zaposlene odgovorne strokovnjake za dozimetrijo ter izmed njih določijo odgovornega vodjo strokovnjakov za dozimetrijo.
 (2) Odgovorni strokovnjak za dozimetrijo je lahko posameznik, ki izpolnjuje naslednje pogoje:
-- da je končal univerzitetni študij in
+- da je končal študijski program najmanj druge stopnje tehnične ali naravoslovne smeri in
 - da ima po končanem študiju najmanj pet let delovnih izkušenj s področja izvajanja nalog dozimetrije.
 (3) Izvajanje preverjanja pogojev za izvajanje nalog dozimetrije zagotavlja organ, pristojen za varstvo pred sevanji.
 (4) Minister, pristojen za zdravje, določi program preverjanja pogojev iz prejšnjega odstavka in imenuje posebno tričlansko komisijo, ki jo sestavljajo strokovnjaki na področju dozimetrije, za preverjanje izpolnjevanja teh pogojev.

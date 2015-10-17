@@ -1,7 +1,7 @@
 # 49. člen (pooblaščeni izvedenci medicinske fizike)
 (1) Naloge pooblaščenih izvedencev medicinske fizike lahko opravljajo osebe, ki pridobijo od organa, pristojnega za varstvo pred sevanji, pooblastilo za opravljanje nalog s področja medicinske fizike.
 (2) Pooblaščeni izvedenec medicinske fizike je lahko posameznik, ki izpolnjuje naslednje pogoje:
-- da je končal univerzitetni študij, ki zagotavlja znanja s področja medicinske fizike in
+- da je končal študijski program najmanj druge stopnje, ki zagotavlja znanja s področja medicinske fizike in
 - da ima po končanem študiju najmanj pet let delovnih izkušenj s področja medicinske fizike.
 (3) Izvajanje preverjanja pogojev za izvajanje del pooblaščenega izvedenca medicinske fizike zagotavlja organ, pristojen za varstvo pred sevanji.
 (4) Minister, pristojen za zdravje, določi program preverjanja pogojev iz prejšnjega odstavka in imenuje posebno strokovno komisijo za preverjanje izpolnjevanja teh pogojev.

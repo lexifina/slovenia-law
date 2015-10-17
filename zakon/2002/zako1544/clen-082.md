@@ -5,4 +5,4 @@
 (4) Organ, pristojen za jedrsko varnost, potrdi poročilo o občasnem varnostnem pregledu v šestdesetih dneh od prejema popolne vloge.
 (5) Upravljavec objekta mora v petih letih od dokončnosti odločbe iz prejšnjega odstavka tega člena izvesti spremembe iz drugega odstavka tega člena.
 (6) Organ, pristojen za jedrsko varnost, lahko na predlog upravljavca objekta, rok iz prejšnjega odstavka tega člena za posamezne spremembe izjemoma podaljša za največ tri leta.
-(7) Potrjeno poročilo o občasnem varnostnem pregledu je pogoj za podaljšanje dovoljenja za obratovanje objekta iz 79. člena tega zakona.
+(7) Potrjeno poročilo o občasnem varnostnem pregledu je pogoj za podaljšanje veljavnosti dovoljenja za obratovanje objekta iz 79. člena tega zakona.

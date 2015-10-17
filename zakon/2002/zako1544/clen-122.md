@@ -2,7 +2,7 @@
 (1) Zaradi nadzora nad možnimi zlorabami jedrskih snovi, vodi organ, pristojen za jedrsko varnost, centralno evidenco jedrskih snovi.
 (2) Centralno evidenco jedrskih snovi sestavljajo zbirke podatkov o jedrskih snoveh ter z njimi povezane zbirke listin.
 (3) V centralno evidenco jedrskih snovi se vnašajo podatki iz evidenc jedrskih snovi, ki jih morajo voditi imetniki jedrskih snovi v skladu s pravnimi akti EU.
-(4) Podatki iz centralne evidence jedrskih snovi in z njimi povezane zbirke listin niso javni.
+(4) Podatki iz centralne evidence jedrskih snovi in iz evidenc jedrskih snovi imetnikov in z njimi povezane zbirke listin niso javni, razen zbirnih podatkov o vrsti in količini jedrskih snovi v državi.
 (5) Do podatkov iz prejšnjega odstavka lahko dostopajo le pristojni uradniki organa, pristojnega za jedrsko varnost, in pristojni inšpektorji iz 138. člena tega zakona. Imetnik jedrskih snovi lahko dostopa do tistih podatkov iz prejšnjega odstavka, ki se nanašajo na njegove jedrske snovi.
 (6) Imetnik jedrskih snovi mora zagotoviti varovanje jedrskih snovi in organizirati njihovo hranjenje po območjih materialnih bilanc in za vsako območje materialnih bilanc zase voditi evidenco jedrskih snovi.
 (7) Imetnik jedrskih snovi mora zagotoviti nemoteno delovanje opreme za trajni nadzor varovanja in za vodenje evidence jedrskih snovi ob neposrednem inšpekcijskem pregledu mednarodnih organizacij iz tretjega odstavka prejšnjega člena.
