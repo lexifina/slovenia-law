@@ -1,0 +1,7 @@
+# 26. člen
+Za drugim odstavkom 260. člena se dodata nova tretji in četrti odstavek, ki se glasita:
+"(3) Oseba, ki izpolni znake kaznivega dejanja iz prvega odstavka tega člena, se ne kaznuje, če gre za tajni podatek, ki razkriva protipraven poseg v človekove pravice ali temeljne svoboščine, druge ustavne ali zakonske pravice, hujše zlorabe oblasti ali pooblastil ali druge hujše nepravilnosti pri izvrševanju oblasti, javnih pooblastil ali opravljanju javne službe, dejanje pa ni storjeno iz koristoljubnosti in ne ogroža življenja ljudi ali nima hujših ali nepopravljivih škodljivih posledic za varnost ali zakonsko varovane interese Republike Slovenije.
+(4) Ne glede na določbo drugega odstavka tega člena se ne kaznuje, kdor tajni podatek javno objavi, pridobi, posreduje ali poseduje z namenom razkritja javnosti, če glede na okoliščine primera javni interes po razkritju tajnega podatka prevlada nad javnim interesom po ohranitvi njegove tajnosti, in če z dejanjem ni neposredno ogroženo življenje ene ali več oseb."
+Dosedanji tretji odstavek, ki postane peti odstavek, se spremeni tako, da se glasi:
+"(5) Če je dejanje iz prvega odstavka tega člena izvršeno iz koristoljubnosti ali je bilo z objavo neposredno ogroženo življenje ljudi ali je imela objava hujše ali nepopravljive škodljive posledice za varnost ali zakonsko varovane interese Republike Slovenije, se storilec kaznuje z zaporom do osmih let.".
+Dosedanji četrti odstavek postane šesti odstavek.
