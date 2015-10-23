@@ -1,0 +1,2 @@
+# 25. člen
+V prvem odstavku 69. člena se za besedo "prevzemnik" črta besedilo "na podlagi uspešne prevzemne ponudbe", za besedo "pravico" pa se doda besedilo "in je tak delež pridobil s sprejemom uspešne obvezne prevzemne ponudbe ali s sprejemom uspešne prostovoljne prevzemne ponudbe, ki so jo sprejeli imetniki vsaj 90 odstotkov delnic ciljne družbe z glasovalno pravico, na katere se je ta ponudba nanašala".
