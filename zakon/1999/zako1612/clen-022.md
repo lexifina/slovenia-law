@@ -1,5 +1,0 @@
-# 22. člen
-(1) Nalogi za vpis so enostranski in dvostranski.
-(2) Med enostranske naloge spadajo nalogi za vpise, ki spreminjajo število nematerializiranih vrednostnih papirjev, vpisanih v centralnem registru, ter nalogi za vpise in izbrise pravic tretjih in drugih bremen na nematerializiranih vrednostnih papirjih. Enostranski nalog se v centralni register vnese z enim samim vnosom.
-(3) Med dvostranske naloge spadajo nalogi za prenose nematerializiranih vrednostnih papirjev med različnimi računi. Dvostranski nalog se v centralni register vnese z dvema komplementarnima vnosoma: vnosom na strani izročitelja nematerializiranih vrednostnih papirjev (izročitveni del naloga) in vnosom na strani prejemnika nematerializiranih vrednostnih papirjev (prejemni del naloga). Če sta vnosa komplementarna, se uparita.
-Podrobnejša pravila

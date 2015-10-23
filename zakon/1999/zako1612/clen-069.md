@@ -1,3 +1,0 @@
-# 69. člen
-(1) Imetniki vrednostnih papirjev iz 68. člena tega zakona ali oseba, ki hrani takšne vrednostne papirje v imenu in za račun imetnika, morajo izročiti vrednostni papir klirinško depotni družbi še pred iztekom roka iz tretjega odstavka 68. člena tega zakona, kadar želijo opraviti prenos pravic iz vrednostnega papirja oziroma uveljaviti pravice iz vrednostnega papirja.
-(2) Klirinško depotna družba opravi zamenjavo vrednostnega papirja z nematerializiranim vrednostnim papirjem posameznega imetnika na način, določen v prvem odstavku 68. členu tega zakona, ko ji ta imetnik izroči vrednostni papir.
