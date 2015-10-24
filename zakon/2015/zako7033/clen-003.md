@@ -1,0 +1,3 @@
+# 3. člen
+V prvem odstavku 5. člena, prvem in tretjem odstavku 9. člena, 15. členu, prvem odstavku 17. člena, prvi alineji prvega odstavka 30. člena, drugi in tretji alineji prvega odstavka 35. člena, prvem in drugem odstavku 37. člena, 39. členu, prvem in tretjem odstavku 43. člena, 1., 8. in 10. točki 44. člena, 1. točki 46. člena, prvem odstavku 49. člena, naslovu in besedilu 50. člena ter šestem odstavku 53. člena se beseda "Skupnost" v vseh sklonih nadomesti z besedo "Unija" v ustreznem sklonu.
+V 1. točki 4. člena, 4. točki prvega odstavka 19. člena, 2. točki 44. člena in 3. točki 46. člena se besedilo "gojitev morskih organizmov" v vseh sklonih nadomesti z besedo "marikultura" v ustreznem sklonu.

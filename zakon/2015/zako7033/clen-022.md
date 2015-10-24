@@ -1,0 +1,4 @@
+# 22. člen
+(1) Vlada izda predpis iz četrtega odstavka 34. člena zakona v enem letu od uveljavitve tega zakona.
+(2) Minister izda predpis iz petega odstavka 20. člena zakona in tretjega odstavka 21.a člena zakona v enem letu od uveljavitve tega zakona.
+(3) Uredba o izvajanju uredbe (EGS), uredb (ES) in uredbe (EU) za določitev prekrškov in sankcij s področja skupne ribiške politike (Uradni list RS, št. 20/14), Uredba o spremljanju ulova in prodaji ribiških proizvodov (Uradni list RS, št. 2/13) in Uredba o izvajanju uredb (ES) o vzpostavitvi sistema Skupnosti za preprečevanje nezakonitega, neprijavljenega in nereguliranega ribolova, za odvračanje od njega ter za njegovo odpravljanje (Uradni list RS, št. 77/12) se uskladijo z določbami 13.a in 20.b člena zakona najpozneje v šestih mesecih od uveljavitve tega zakona.
