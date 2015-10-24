@@ -1,6 +1,0 @@
-# 16. člen
-Vlada lahko, če se v predpisanem postopku ugotovi, da gre za dumpinški ali subvencionirani uvoz, in če se ugotovi, da takšen uvoz povzroča znatno škodo domači proizvodnji istovrstnega blaga ali če takšna škoda grozi ali če takšen uvoz znatno zavira razvoj domače proizvodnje istovrstnega blaga, uvede antidumpinške dajatve ali kompenzacijske carine.
-Če se ugotovi, da obstajajo pogoji za uvedbo antidumpinške dajatve ali kompenzacijske carine, ta ne sme biti večja od stopnje dumpinga ali zneska subvencije in velja za čas in v višini, ki sta potrebna, da se nevtralizira dumping ali subvencija, ki povzroča škodo.
-Predlog za uvedbo antidumpinške dajatve ali kompenzacijske carine lahko vloži eno ali več podjetij, ki pomeni znaten del proizvodnje istovrstnega ali podobnega blaga.
-Predlog mora vsebovati podatke, iz katerih izhaja verjetnost, da obstaja dumpinški ali subvencionirani uvoz, škoda, ki nastaja ali utegne nastati na podlagi takšnega uvoza, ter vzročna zveza med dumpinškim oziroma subvencioniranim uvozom ter škodo ali morebitno škodo.
-Ukrepi iz prvega odstavka tega člena se uporabljajo na način po postopku, določenem v tem zakonu in predpisih, ki jih na njegovi podlagi izda Vlada Republike Slovenije.

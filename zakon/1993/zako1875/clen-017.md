@@ -1,2 +1,0 @@
-## VI. OMEJEVANJE TRGA Z OBLASTNIMI AKTI IN DEJANJI
-# 17. člen (prenehal veljati)
