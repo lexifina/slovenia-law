@@ -1,0 +1,3 @@
+# 4. člen
+Uživalci poklicne pokojnine po določbah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije (Uradni list RS, št. 26/05 - uradno prečiščeno besedilo, 43/10, 49/10 - popr., 40/12 - ZUJF, 25/14 in 46/14; v nadaljnjem besedilu: ZPZRTH), uživajo poklicno pokojnino in druge pravice na podlagi že priznane poklicne pokojnine do poteka te pravice v skladu z določbami ZPZRTH.
+Postopki v zvezi s poklicnimi upokojitvami na podlagi zahtevkov, za katere upravljavec še ni prejel popolne izjave zavarovanca o uveljavitvi pravice do poklicne pokojnine, se dokončajo v skladu s tem zakonom.
