@@ -1,0 +1,12 @@
+# 13. člen (višina prispevkov)
+(1) Za zavarovanca iz prvega odstavka 5. člena tega zakona se višina prispevka - če se prispevek plačuje iz sredstev iz 1. točke prvega odstavka 12. člena tega zakona - ki se obračuna in plača mesečno, določi na podlagi mesečne osnove za plačilo prispevka in znaša:
+1. osnova od vključno minimalne plače do 1.500 eurov: 50 eurov + 20% zneska, ki presega minimalno plačo;
+2. osnova od vključno 1.500 eurov do 3.500 eurov: 190 eurov + 30% zneska, ki presega 1.500 eurov;
+3. osnova od vključno 3.500 eurov do 5.500 eurov: 790 eurov + 40% zneska, ki presega 3.500 eurov;
+4. osnova od vključno 5.500 eurov do 9.000 eurov: 1.590 eurov + 45% zneska, ki presega 5.500 eurov;
+5. osnova nad vključno 9.000 eurov: 3.165 eurov + 50% zneska, ki presega 9.000 eurov.
+(2) Mesečna osnova za določitev višine prispevka iz prejšnjega odstavka je plača ali nadomestilo plače, ki ju zavarovanec prejme od zavezanca za prispevek v posameznem mesecu. Nadomestilo plače se šteje v osnovo pod pogojem, da zavezanca za prispevek tudi bremeni. Šteje se, da je plača oziroma nadomestilo plače prejeto, ko je izplačano zavarovancu.
+(3) Zavarovanec iz drugega odstavka 5. člena tega zakona ter zavarovanec iz prvega odstavka 5. člena tega zakona, če se prispevek plačuje iz sredstev iz 2. in 3. točke prvega odstavka 12. člena tega zakona, se o plačilu in višini prispevka, ki ga bo plačal za posamezno koledarsko leto iz prejemkov iz 2. in 3. točke prvega odstavka 12. člena tega zakona, prejetih v tem koledarskem letu, odloči sam. Šteje se, da je prejemek prejet, ko je izplačan zavarovancu.
+(4) Ne glede na prvi in tretji odstavek tega člena se za zavarovanca v posameznem koledarskem letu ne more plačati prispevka višjega od 150.000 eurov. Upravljavec premostitvenega sklada ob prejemu posameznega plačila preveri kumulativno višino plačanega prispevka v koledarskem letu za posameznega zavarovanca ter zavrne plačilo, če je kumulativna višina prispevka že dosegla 150.000 eurov oziroma zavrne del plačila, ko kumulativna višina prispevka doseže 150.000 eurov. O tem obvesti zavarovanca ter zavezanca za prispevek.
+(5) Zneski iz prvega in četrtega odstavka tega člena se enkrat letno uskladijo z rastjo cen življenjskih potrebščin v Republiki Sloveniji za mesec november tekočega leta v primerjavi z novembrom prejšnjega leta, po podatkih Statističnega urada Republike Slovenije.
+(6) Minister, pristojen za šport, vsako leto v Uradnem listu Republike Slovenije objavi zneske iz prejšnjega odstavka.
