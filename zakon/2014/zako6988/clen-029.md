@@ -1,6 +1,0 @@
-# 29. člen (redno obveščanje o stanju na osebnih računih zavarovancev)
-(1) Upravljavec premostitvenega sklada zavarovancu najkasneje do 31. januarja tekočega leta vsako leto, po stanju na dan 31. decembra prejšnjega leta, izda potrdilo o stanju na osebnem računu zavarovanca in podatek o vseh vplačilih v premostitveni sklad v preteklem letu.
-(2) Upravljavec premostitvenega sklada športnemu društvu, ki plačuje prispevke v imenu in za račun zavarovancev, do 31. januarja tekočega leta, po stanju na dan 31. decembra prejšnjega leta, predloži potrdilo o obračunu vseh vplačil v tem letu, ki jih je plačevalo športno društvo.
-(3) Šteje se, da je obveznost iz prvega in drugega odstavka tega člena izpolnjena, če upravljavec premostitvenega sklada zavarovancem omogoči elektronski sistem obveščanja v obliki elektronskega predala ali če omogoči dostop do osebnega portala. Na zahtevo zavarovanca je upravljavec dolžan izdati tudi pisno potrdilo o številu enot premoženja.
-(4) Posamezno potrdilo iz prvega in drugega odstavka tega člena je legitimacijski papir za uveljavljanje pravic iz premostitvenega zavarovanja.
-(5) Agencija za trg vrednostnih papirjev predpiše podrobnejšo vsebino potrdil iz prvega in drugega odstavka tega člena.

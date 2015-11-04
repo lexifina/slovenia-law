@@ -1,2 +1,0 @@
-# 30. člen (poslovne knjige in poslovna poročila premostitvenega sklada ter revidiranje)
-Glede vodenja poslovnih knjig, sestavljanja knjigovodskih listin, vrednotenja knjigovodskih postavk ter priprave, vsebine, revidiranja in javne objave periodičnih poročil o poslovanju premostitvenega slada se smiselno uporabljajo določbe zakona, ki ureja pokojninsko in invalidsko zavarovanje, ki veljajo za pokojninski sklad.
