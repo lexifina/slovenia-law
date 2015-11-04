@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o davku od dohodkov pravnih oseb (Uradni list RS, št. 117/06, 56/08, 76/08, 5/09, 96/09, 110/09 - ZDavP-2B, 43/10, 59/11, 24/12, 30/12, 94/12, 81/13, 50/14 in 23/15) se v drugem odstavku 1. člena na koncu druge alineje podpičje nadomesti z vejico in doda besedilo "zadnjič spremenjena z Direktivo Sveta (EU) 2015/121 z dne 27. januarja 2015 o spremembi Direktive 2011/96/EU o skupnem sistemu obdavčitve matičnih družb in odvisnih družb iz različnih držav članic (UL L št. 21 z dne 28. 1. 2015, str. 1);".
