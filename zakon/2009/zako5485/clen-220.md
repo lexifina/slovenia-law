@@ -27,5 +27,5 @@
 24. ne povrne zneska neodobrenih oziroma nepravilno izvršenih plačilnih transakcija in pripadajočih nadomestil oziroma obresti v skladu s 119., 120, 122. oziroma 123. členom tega zakona,
 25. ne zagotovi uporabniku popravka neodobrene oziroma nepravilno izvršene plačilne transakcije v skladu s 130. členom tega zakona,
 26. ne povrne uporabniku zneska odobrene in pravilno izvršene plačilne transakcije v skladu s 131. členom tega zakona,
-27. ne vzpostavi postopka oziroma pravil za mirno reševanje sporov v zvezi z opravljanjem plačilnih storitev ali če tak postopek oziroma pravila ne izpolnjujejo zahtev iz 218. člena tega zakona.
+27. ne vzpostavi postopka oziroma pravil za izvensodno reševanje sporov v zvezi z opravljanjem plačilnih storitev ali če tak postopek oziroma pravila ne izpolnjujejo zahtev iz 218. člena tega zakona.
 (2) Z globo od 400 do 4.000 eurov se za prekršek kaznuje odgovorna oseba ponudnika plačilnih storitev, ki stori prekršek iz prvega odstavka tega člena.

@@ -39,7 +39,7 @@
 1. o pogodbeno predvideni možnosti, da se bo štelo, da je uporabnik sprejel spremembe pogojev v skladu z drugim odstavkom 85. člena tega zakona, če do dneva pred njihovim predlaganim začetkom veljavnosti ne obvesti ponudnika plačilnih storitev, da jih ne sprejema, vključno z obvestilom o pravici uporabnika, da odpove okvirno pogodbo v skladu tretjim odstavkom 85. člena tega zakona, če je ponudnika plačilnih storitev obvestil o zavrnitvi predlaganih sprememb do dneva pred njihovim predlaganim začetkom veljavnosti;
 2. o trajanju okvirne pogodbe;
 3. o pogojih za odpoved okvirne pogodbe s strani uporabnika ali ponudnika plačilnih storitev v skladu s 87. in 88. členom tega zakona.
-(8) Informacije o postopkih zaradi kršitev tega zakona in o postopkih mirnega reševanja sporov morajo vključevati naslednje podatke:
+(8) Informacije o postopkih zaradi kršitev tega zakona in o postopkih izvensodnega reševanja sporov morajo vključevati naslednje podatke:
 1. o pravu, ki se uporablja za okvirno pogodbo, in o pristojnem sodišču;
 2. o postopkih zaradi prekrškov v zvezi z opravljanjem plačilnih storitev po tem zakonu in o organu, ki je pristojen za vodenje teh postopkov;
-3. o postopku mirnega reševanja sporov, ki je uporabniku na voljo v primeru spora v zvezi z opravljanjem plačilnih storitev, in o telesu, pristojnem za reševanje teh sporov v skladu z 218. členom tega zakona.
+3. o postopku izvensodnega reševanja sporov, ki je uporabniku na voljo v primeru spora v zvezi z opravljanjem plačilnih storitev, in o telesu, pristojnem za reševanje teh sporov v skladu z 218. členom tega zakona.
