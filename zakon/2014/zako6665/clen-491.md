@@ -19,10 +19,7 @@
 - na svoji spletni strani ne objavi splošnih pogodbenih pogojev in informacij o veljavnih cenah in tarifah za gospodinjske odjemalce in za male poslovne odjemalce zemeljskega plina v skladu s petim odstavkom 172. člena tega zakona;
 - določi ali spremeni splošne pogodbene pogoje o dobavi zemeljskega plina gospodinjskim odjemalcem oziroma malim poslovnim odjemalcem v nasprotju s petim oziroma šestim odstavkom 172. člena tega zakona;
 - zaračunava pavšalne stroške poslovanja dobavitelja v nasprotju z desetim odstavkom 172. člena tega zakona;
-- ne objavi pravil iz osmega odstavka 175. člena tega zakona;
-- ne zagotovi zadostnih sredstev za delovanje imenovane osebe oziroma oseb skladno z devetim odstavkom 175. člena tega zakona;
-- ne imenuje osebe za sprejem in obravnavo pritožb gospodinjskih odjemalcev v zvezi z dobavo elektrike ali zemeljskega plina, skladno s 175. členom tega zakona;
-- ne zagotovi gospodinjskim odjemalcem informacij skladno s 175. členom tega zakona;
+- ne zagotovi sam ali skupaj z drugimi dobavitelji v okviru združenja postopka izvensodnega reševanja sporov s potrošniki v zvezi z dobavo zemeljskega plina gospodinjskim odjemalcem po tem zakonu pred neodvisnim izvajalcem izvensodnega reševanja sporov, skladno z drugim, tretjim in četrtim odstavkom 175. člena tega zakona;
 - ne predloži letnega poročila zaradi javne objave na način, ki ga določa zakon, ki ureja gospodarske družbe (prvi in drugi odstavek 234. člena tega zakona);
 - ne predloži agenciji letnega poročila v rokih iz tretjega odstavka 234. člena tega zakona;
 - nima sprejetih in objavljenih aktov v skladu z 268. členom tega zakona;

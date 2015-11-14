@@ -1,2 +1,0 @@
-# 511. člen (ukrepi za zagotovitev lastniške ločitve)
-Z dnem uveljavitve tega zakona se za kapitalsko naložbo države v družbah ELES, d. o. o., SODO, d. o. o., in Borzen, d. o. o., preneha uporabljati Zakon o Slovenskem državnem holdingu (Uradni list RS, št. 105/12 in 39/13). Pravice in dolžnosti, ki pripadajo Republiki Sloveniji na podlagi kapitalske naložbe v teh družbah, z dnem uveljavitve tega zakona izvršuje vlada. Za spremljanje naložb je pristojno ministrstvo, pristojno za energijo.

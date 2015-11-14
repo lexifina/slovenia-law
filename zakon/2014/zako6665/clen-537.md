@@ -1,3 +1,0 @@
-# 537. člen (vpis v Register fizičnih oseb, ki opravljajo dejavnost proizvodnje električne energije)
-(1) AJPES v soglasju z agencijo izda navodilo iz 379. člena tega zakona v treh mesecih od uveljavitve tega zakona. Fizične osebe, ki so bile do uveljavitve tega zakona vpisane v Poslovni register Slovenije na podlagi 5.a člena Energetskega zakona (Uradni list RS, št. 27/07 - uradno prečiščeno besedilo, 70/08, 22/10, 37/11 - odločba US, 10/12 in 94/12 - ZDoh-2L), se po uradni dolžnosti in na podlagi podatkov agencije, vpišejo v register pri AJPES.
-(2) Določbe 379. člena tega zakona se začnejo uporabljati po izdaji navodila iz prejšnjega odstavka.

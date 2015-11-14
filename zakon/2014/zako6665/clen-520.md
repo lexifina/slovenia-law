@@ -1,4 +1,0 @@
-# 520. člen (pogodba o dobavi zemeljskega plina)
-(1) Če gospodinjski ali mali poslovni odjemalec ob uveljavitvi tega zakona nima sklenjene pogodbe o dobavi zemeljskega plina v pisni ali elektronski obliki, se šteje, da ima pod pogoji iz 172. člena tega zakona sklenjeno pogodbo o dobavi zemeljskega plina za nedoločen čas.
-(2) Dobavitelj zemeljskega plina je dolžan skleniti pogodbo o dobavi zemeljskega plina z gospodinjskim ali malim poslovnim odjemalcem v pisni ali elektronski obliki na zahtevo gospodinjskega ali malega poslovnega odjemalca ali ob prvi spremembi pogodbe iz prejšnjega odstavka.
-(3) Dobavitelj je dolžan na zahtevo gospodinjskega ali malega poslovnega odjemalca, ki ob uveljavitvi tega zakona že imajo sklenjeno pogodbo o dobavi zemeljskega plina v pisni ali elektronski obliki, uskladiti vsebino pogodbe s 172. členom tega zakona.

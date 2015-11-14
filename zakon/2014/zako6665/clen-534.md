@@ -1,3 +1,0 @@
-# 534. člen (sprejetje načrta za delovanje podporne sheme in prvi poziv k prijavi projektov za proizvodnjo elektrike iz obnovljivih virov in iz soproizvodnje z visokim izkoristkom za vstop v podporno shemo)
-(1) Vlada sprejme načrt za delovanje podporne sheme za električno energijo iz obnovljivih virov in iz soproizvodnje z visokim izkoristkom in odločitev o dovoljenem povečanju obsega sredstev za zagotovitev podpor za leto 2014 iz 25. člena tega zakona v dveh mesecih po uveljavitvi tega zakona.
-(2) Agencija izvede prvi javni poziv za povabilo investitorjev k prijavi projektov proizvodnih naprav za proizvodnjo elektrike iz obnovljivih virov in iz soproizvodnje z visokim izkoristkom za leto 2014 v roku petih mesecev po uveljavitvi tega zakona.

@@ -1,2 +1,0 @@
-# 527. člen (prehodne določbe za zanesljivo oskrbo z zemeljskim plinom)
-Do uveljavitve Načrta preventivnih ukrepov in Načrta za izredne razmere iz Uredbe (EU) 994/2010 se uporabljajo četrti in peti odstavek 32.č člena, 32.d člen, 32.e člen, 32.f člen ter tretja do osma alineja prvega odstavka 112. člena in drugi odstavek 112. člena Energetskega zakona (Uradni list RS, št. 27/07 - uradno prečiščeno besedilo, 70/08, 22/10, 37/11 - odločba US, 10/12 in 94/12 - ZDoh-2L) in Uredba o zagotavljanju zanesljivosti oskrbe z zemeljskim plinom (Uradni list RS, št. 8/07).
