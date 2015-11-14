@@ -1,0 +1,8 @@
+# 218. člen (postopek izvensodnega reševanja sporov v zvezi s plačilnimi storitvami in izdajanjem elektronskega denarja)
+(1) Ponudnik plačilnih storitev mora zagotoviti postopek izvensodnega reševanja sporov s potrošniki v zvezi z opravljanjem plačilnih storitev po tem zakonu in v zvezi z domnevnimi kršitvami obveznosti ponudnika plačilnih storitev po Uredbi 924/2009/ES pred neodvisnim subjektom, ki izpolnjuje pogoje in zagotavlja postopek v skladu z določbami zakona, ki ureja izvensodno reševanje potrošniških sporov.
+(2) Sodelovanje ponudnika plačilnih storitev v postopku, ki ga sproži potrošnik pred neodvisnim izvajalcem izvensodnega reševanja potrošniških sporov, je obvezno.
+(3) Izvajalec izvensodnega reševanja potrošniških sporov sodeluje z organi, ki so v drugih državah članicah pristojni za izvensodno reševanje sporov v zvezi z opravljanjem plačilnih storitev, če reševanje posameznega spora sodi tudi v pristojnost takega organa druge države članice.
+(4) Ponudnik plačilnih storitev potrošniku ne sme zaračunati posebnih nadomestil v zvezi s postopkom izvensodnega reševanja spora glede opravljanja plačilnih storitev.
+(5) Prvi do četrti odstavek tega člena se ne uporabljajo za Upravo Republike Slovenije za javna plačila ter druge države organe in organe samoupravnih lokalnih skupnosti, kadar opravljajo plačilne storitve v okviru svojih izključnih pristojnosti na podlagi posebnega zakona.
+(6) Prvi do četrti odstavek tega člena se smiselno uporabljajo tudi za izdajatelje elektronskega denarja v zvezi z njihovimi dolžnostmi glede izdajanja in unovčevanja elektronskega denarja.".
+PREHODNE IN KONČNA DOLOČBA
