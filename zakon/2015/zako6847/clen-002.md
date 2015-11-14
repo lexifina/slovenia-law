@@ -1,0 +1,7 @@
+# 2. člen
+Četrti odstavek 51. člena se spremeni tako, da se glasi:
+"(4) Izvajalec poštnih storitev mora na reklamacijo odgovoriti v 15 dneh za poštno pošiljko v notranjem poštnem prometu in v dveh mesecih za poštno pošiljko v mednarodnem poštnem prometu, sicer lahko uporabnik poštnih storitev v 15 dneh od poteka roka vloži predlog za rešitev spora na agencijo. Če je uporabnik poštnih storitev potrošnik, lahko vloži predlog za rešitev spora tudi pred izvajalcem izvensodnega reševanja potrošniških sporov, ki izpolnjuje pogoje in zagotavlja postopek skladno z zakonom, ki ureja izvensodno reševanje potrošniških sporov, če izvajalec poštnih storitev priznava takšno pristojnost izvajalcev za reševanje potrošniških sporov. V primeru, da izvajalec poštnih storitev ne priznava nobenega izvajalca izvensodnega reševanja potrošniških sporov kot pristojnega za reševanje potrošniškega spora, mora potrošnika na to v pravnem pouku posebej opozoriti.".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"(5) Če se postopek pred izvajalcem izvensodnega reševanja potrošniških sporov ne konča z zavezujočo odločbo skladno z zakonom, ki ureja izvensodno reševanje potrošniških sporov, lahko potrošnik ne glede na roke iz prejšnjega odstavka tega člena v 15 dneh od dneva, ko je bil ta postopek končan, vloži predlog za rešitev spora pred agencijo.".
+Dosedanji peti odstavek postane šesti odstavek.
+PREHODNA IN KONČNA DOLOČBA
