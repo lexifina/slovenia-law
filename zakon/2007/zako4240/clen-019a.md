@@ -7,4 +7,4 @@
 (6) Osebje, pristojno za opravljanje nalog iz prejšnjega odstavka, mora izpolnjevati najmanj naslednje minimalne pogoje:
 - biti mora ustrezno strokovno in poklicno usposobljeno,
 - imeti mora zadovoljivo znanje o nacionalnih predpisih povezanih s pregledi, ki jih opravlja in imeti dovolj prakse na tem področju,
-- biti mora usposobljeno v skladu z zakonom, ki ureja splošni upravni postopek.
+- biti mora usposobljeno za izdajanje cerifikatov, zapisov in poročil, ki sestavljajo uradno dokumentacijo o opravljenih pregledih.
