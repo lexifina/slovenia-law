@@ -1,0 +1,7 @@
+# 6. člen (nadzor)
+
+(1) Nadzor nad izvajanjem tega zakona v delu, ki se nanaša na izvajanje zavarovanja mednarodnih gospodarskih poslov, v okviru svojih pristojnosti opravlja ministrstvo, pristojno za finance.
+
+(2) Pooblaščena institucija mora o poslovanju po prvem odstavku 3. člena tega zakona voditi poslovne knjige ločeno od svojega drugega poslovanja ter sestavljati in hraniti knjigovodske listine ter poslovno dokumentacijo, vrednotiti bilančne postavke in sestavljati računovodske izkaze, če ni drugače določeno, v skladu s predpisi o gospodarskih družbah ter ob upoštevanju računovodskih in zavarovalnih standardov in načel ter splošnih računovodskih predpostavk.
+
+(3) Glede na naravo, lokacijo, trajanje, obseg, razpršenost in intenziteto nemarketabilnih rizikov ter značilnosti zavarovanja in izpostavljenost pred temi riziki v imenu in za račun države, lahko Agencija za zavarovalni nadzor na predlog ministra oziroma ministrice, pristojnega oziroma pristojne za finance, pooblaščeni instituciji predpiše posebna pravila in ukrepe za obvladovanje rizikov, pravila o naložbah sredstev varnostnih rezerv, upravljanju z likvidnostjo, posebne zavarovalne statistične standarde in pravila o periodičnih in letnih poročilih ter reviziji, pri čemer se za vodenje poslovnih knjig, poročanje o poslovanju in teh dejavnostih ter nadzor nad temi dejavnostmi pooblaščene institucije smiselno uporabljajo določila predpisov o zavarovalništvu.
