@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o prostovoljstvu (Uradni list RS, št. 10/11 in 16/11 - popr.) se v prvem, drugem in tretjem odstavku 10. člena, drugem odstavku 15. člena, prvem odstavku 16. člena, prvi alineji drugega odstavka 17. člena, drugem odstavku 29. člena, prvem in petem odstavku 31. člena, prvem odstavku 33. člena ter v 34. členu za besedilom "prostovoljska organizacija" doda besedilo "ali organizacija s prostovoljskim programom".
+V prvem odstavku 20. člena, peti alineji 21. člena, prvem odstavku 29. člena in tretji alineji drugega odstavka 31. člena se za besedilom "prostovoljske organizacije" doda besedilo "ali organizacije s prostovoljskim programom".
