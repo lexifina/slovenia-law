@@ -1,0 +1,3 @@
+# 34. člen (prenos nalog agencije na upravljavca)
+(1) Z agencije na upravljavca, se na podlagi 11.b člena zakona, najkasneje v roku šestih mesecev od uveljavitve tega zakona, opravi prenos dela in nalog dodeljevanja vlakovnih poti, določanja, zaračunavanja in pobiranja uporabnine, izdelave, sprejema, uveljavitve in objave voznega reda omrežja, zagotavljanja učinkovitosti mednarodnih vlakovnih poti, zagotavljanja konkurenčnosti mednarodnega tovornega prometa ter ustrezno programsko opremo v skladu s sklenjenimi pogodbami.
+(2) Agencija opravlja naloge iz prejšnjega odstavka do njihovega prenosa na upravljavca.
