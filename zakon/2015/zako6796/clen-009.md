@@ -1,0 +1,10 @@
+# 9. člen
+15. člen se spremeni tako, da se glasi:
+"15. člen
+(zaščita otrok in mladoletnikov v avdiovizualnih medijskih storitvah na zahtevo)
+(1) Programske vsebine, ki bi lahko resno škodovale telesnemu, duševnemu ali moralnemu razvoju otrok in mladoletnikov, so lahko prek avdiovizualnih medijskih storitev na zahtevo dostopne le tako, da so omejene s tehnično zaščito, ki zagotavlja, da jih otroci in mladoletniki praviloma ne bodo mogli slišati ali videti.
+(2) Tehnična zaščita iz prejšnjega odstavka pomeni omejitev dostopa do programske vsebine za izključno polnoletne osebe prek dodeljenega PIN kodnega sistema ali druge enakovredne zaščite. Dostop mora biti privzeto zaklenjen, uporabnik pa mora biti seznanjen z namenom tehnične zaščite in z natančnimi navodili za njeno uporabo ter imeti možnost nastavitve dostopa do programske vsebine.
+(3) Programske vsebine v avdiovizualnih medijskih storitvah na zahtevo, ki utegnejo škodovati telesnemu, duševnemu ali moralnemu razvoju otrok in mladoletnikov, morajo biti opremljene z ustreznim akustičnim in vizualnim opozorilom ter ustreznim vizualnim simbolom iz sedmega odstavka prejšnjega člena, da niso primerne za otroke in mladoletnike različnih starostnih skupin, kot določa osmi odstavek prejšnjega člena.
+(4) Za zagotovitev tehnične zaščite iz prvega in drugega odstavka tega člena ter objavo ustreznih vizualnih simbolov iz prejšnjega odstavka je odgovoren ponudnik avdiovizualne medijske storitve na zahtevo.
+(5) Operater elektronskih komunikacij ali ponudnik avdiovizualnih medijskih storitev na zahtevo morata pri ponujanju avdiovizualnih medijskih storitev na zahtevo, ki so plačljive, zagotoviti takšno razčlenitev računa, da so za posamezno obračunsko obdobje razvidna naročila in plačila posamezne storitve, vključno z zneskom, datumom in časom nakupa, ogleda ali poslušanja.
+(6) Razčlenitev računa v skladu s prejšnjim odstavkom se naročnikom pošlje brezplačno in ob izstavitvi vsakega računa, razen če naročnik obvesti operaterja elektronskih komunikacij oziroma ponudnika avdiovizualnih medijskih storitev na zahtevo, da razčlenitve računa ne želi prejemati.".

@@ -1,0 +1,4 @@
+# 12. člen
+Prvi odstavek 18. člena se spremeni tako, da se glasi:
+"(1) Izdajatelj televizijskega programa mora vsako leto do konca meseca februarja ministrstvu, pristojnemu za medije, in agenciji poslati razčlenjene podatke o doseženem deležu evropskih avdiovizualnih del v letnem oddajnem času za preteklo leto. Znotraj tega deleža morajo biti posebej prikazani podatki o obsegu letnega oddajnega časa, na podlagi katerega se izračuna delež slovenskih avdiovizualnih del, in podatki o obsegu letnega oddajnega časa, na podlagi katerega se izračuna delež evropskih avdiovizualnih del, podatki o deležu slovenskih avdiovizualnih del in avdiovizualnih del neodvisnih producentov ter podatki o deležu novih avdiovizualnih del iz drugega odstavka 17. člena tega zakona.".
+V tretjem odstavku se besedilo "v postopku inšpekcijskega nadzora" črta.
