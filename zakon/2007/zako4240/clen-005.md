@@ -5,7 +5,7 @@
 3. "evropska specifikacija" pomeni skupno tehnično specifikacijo, evropsko tehnično soglasje ali nacionalni standard, ki uvaja evropski standard, kot je določeno v Prilogi XXI k Direktivi 2004/17/ES;
 4. "gradnja" je izvedba del, s katerimi se zgradi nov podsistem ali del podsistema;
 5. "imetnik tirnega vozila" je oseba, ki je lastnik tirnega vozila ali ima pravico tirno vozilo uporabljati v železniškem prometu na podlagi najemne ali druge pogodbe in je kot tak vpisan v nacionalnem registru tirnih vozil;
-6. "incident" pomeni katerikoli dogodek, razen resne nesreče in nesreče, ki je povezan z železniškim prometom in ki bi lahko vplival na njegovo varnost;
+6. "incident" pomeni katerikoli dogodek, razen resne nesreče in nesreče, ki je povezan s prometom vlakov in vpliva na varnost železniškega prometa;
 7. "industrijski tir" je tir, ki ga lastnik uporablja za lasten prevoz blaga ali oseb in ni sestavni del železniškega sistema;
 8. "izvršilni železniški delavci" so osebe, ki neposredno sodelujejo v železniškem prometu in izpolnjujejo pogoje, določene v tem zakonu;
 9. "lokomotive" so vlečna vozila, namenjena za vleko vlakov, premik ali samostojno vožnjo;
