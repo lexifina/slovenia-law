@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o infrastrukturi za prostorske informacije (Uradni list RS, št. 8/10) se drugi odstavek 1. člena spremeni tako, da se glasi:
+"(2) S tem zakonom se v pravni red Republike Slovenije prenaša Direktiva 2007/2/ES Evropskega parlamenta in Sveta z dne 14. marca 2007 o vzpostavitvi infrastrukture za prostorske informacije v Evropski skupnosti (INSPIRE) (UL L št. 108, z dne 25. 4. 2007, str. 1), zadnjič popravljena s Popravkom Direktive 2007/2/ES Evropskega parlamenta in Sveta z dne 14. marca 2007 o vzpostavitvi infrastrukture za prostorske informacije v Evropski skupnosti (INSPIRE) (UL L št. 365 z dne 19. 12. 2014, str. 165), (v nadaljnjem besedilu: direktiva INSPIRE).".
