@@ -1,0 +1,5 @@
+# 4. člen
+(1) Postopki za ugotavljanje upravičenosti do denarne socialne pomoči ali varstvenega dodatka, ki so se začeli pred začetkom uporabe tega zakona, se dokončajo po določbah Zakona o uveljavljanju pravic iz javnih sredstev (Uradni list RS, št. 62/10, 40/11, 40/12 - ZUJF, 57/12 - ZPCP-2D, 14/13, 56/13 - ZŠtip-1, 99/13, 14/15 - ZUUJFO in 57/15) in Zakona o socialno varstvenih prejemkih (Uradni list RS, št. 61/10, 40/11, 14/13 in 99/13).
+(2) Ne glede na prejšnji odstavek se postopki za ugotavljanje upravičenosti do denarne socialne pomoči in varstvenega dodatka, ki so se začeli na prvi stopnji decembra 2015, dokončajo po tem zakonu.
+(3) Upravičenec, ki ima odločbo o priznanju pravice do denarne socialne pomoči ali varstvenega dodatka, lahko ne glede na obdobje veljavnosti te odločbe pred potekom obdobja, za katerega mu je bila pravica priznana, v roku od 1. januarja 2016 do 29. februarja 2016 uveljavlja odmero teh pravic po tem zakonu.
+(4) Za potrebe odločanja po prejšnjem odstavku se kot dan vložitve vloge šteje 31. december 2015.
