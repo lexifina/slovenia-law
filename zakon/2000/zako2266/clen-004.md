@@ -1,3 +1,0 @@
-# 4. člen
-V 4. členu se na koncu prvega odstavka črtajo besede "do leta 2000." in doda besedilo "ter v skladu s standardi prostorov in opreme, ki jih predpiše minister, pristojen za zdravstvo."
-V drugem odstavku se letnica "1999" nadomesti z letnico "2003", številka "15.600,000.000" se nadomesti s številko "60.504,064.000" in datum "junij 1993" se nadomesti z datumom "december 1998". Na koncu odstavka se črta pika in doda besedilo "z letno valorizacijo z ustreznim koeficientom rasti cen v gradbeništvu, ki ga objavi Urad Republike Slovenije za statistiko, ob upoštevanju dopolnjenega okvirnega srednjeročnega programa investicij po porabnikih in ocenjene vrednosti vlaganj."
