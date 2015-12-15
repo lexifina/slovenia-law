@@ -1,0 +1,3 @@
+# 94. člen (izdaja in uporaba podzakonskih predpisov)
+(1) Minister, pristojen za finance, izda predpis iz spremenjenega prvega odstavka 289. člena zakona do 31. decembra 2015.
+(2) Pravilnik o obrazcu zahtevka za zmanjšanje davčne osnove od dohodka iz zaposlitve (iz drugega pogodbenega razmerja) zaradi uveljavljanja dejanskih stroškov (Uradni list RS, št. 138/06) in Pravilnik o izvajanju Zakona o davčnem postopku (Uradni list RS, št. 141/06, 46/07, 102/07, 28/09, 101/11, 24/12, 32/12 - ZDavP-2E, 19/13, 45/14, 97/14 in 39/15) se uskladita z določbami tega zakona v šestih mesecih od uveljavitve tega zakona.

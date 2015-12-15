@@ -1,0 +1,4 @@
+# 36. člen
+Za prvim odstavkom 148. člena se doda nov drugi odstavek, ki se glasi:
+"(2) Davek se lahko izterja tudi od članov kmečkega gospodinjstva, če ugotavlja davčno osnovo v skladu z drugim odstavkom 47. člena ZDoh-2, za katere se v skladu z 69. členom ZDoh-2 šteje, da opravljajo osnovno kmetijsko in osnovno gozdarsko dejavnost ali so lastniki osnovnih sredstev, ki se uporabljajo za opravljanje dejavnosti kmečkega gospodinjstva, ali so obvezno pokojninsko in invalidsko zavarovani iz naslova kmetijske in dopolnilne dejavnosti. Ta odstavek se uporablja za davke, ki se nanašajo na osnovno kmetijsko in osnovno gozdarsko dejavnost, drugo kmetijsko dejavnost ter dopolnilno dejavnost kmečkega gospodinjstva, razen za poračun dohodnine na letni ravni, če kmečko gospodinjstvo ugotavlja davčno osnovo na podlagi dejanskih prihodkov in dejanskih odhodkov.".
+Dosedanji drugi do peti odstavek postanejo tretji do šesti odstavek.

@@ -1,0 +1,2 @@
+# 13. člen
+V prvem odstavku 95. člena se za besedilom "se za čas od poteka roka za plačilo davka" doda besedilo "oziroma od dneva neupravičeno vrnjenega davka, iz razlogov, ki so na strani zavezanca za davek,", za besedilom "v višini, ki je veljala na dan poteka roka za plačilo davka" pa se doda besedilo "oziroma na dan neupravičeno vrnjenega davka, iz razlogov, ki so na strani zavezanca za davek".

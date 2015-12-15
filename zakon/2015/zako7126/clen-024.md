@@ -1,0 +1,7 @@
+# 24. člen
+Naslov 129. člena se spremeni tako, da se glasi: "(davčni nadzor davčnih obračunov)".
+V prvem odstavku se v napovednem stavku besedilo "pri davčnem organu" črta.
+Peti, šesti in sedmi odstavek se spremenijo tako, da se glasijo:
+"(5) O ustni izjavi oziroma drugih pomembnejših dejanjih se v postopku nadzora po tem členu sestavi zapisnik, ki se vroči zavezancu za davek. Na zapisnik lahko zavezanec za davek da pripombe najkasneje v desetih dneh po vročitvi zapisnika, o čemer mora biti zavezanec za davek v zapisniku poučen. Rok za pripombe se lahko podaljša na prošnjo, ki jo vloži zavezanec za davek pred iztekom roka, če so podani upravičeni razlogi za podaljšanje. O podaljšanju roka se odloči s sklepom. Ponovno podaljšanje roka ni dovoljeno. Zapisnika se ne sestavi, če zavezanec za davek v skladu s prejšnjim odstavkom nepravilnosti odpravi.
+(6) Po poteku roka za pripombe iz prejšnjega odstavka davčni organ odmeri davek z odmerno odločbo po 84. členu tega zakona ali z odločbo o ugotovitvi nepravilnosti, ki ne vplivajo na višino davčne obveznosti. Če se pripombe zavezanca za davek v celoti upoštevajo in ni podlage za spremembo davka, davčni organ izda sklep o ustavitvi postopka.
+(7) Če iz ugotovitev nadzora po tem členu izhaja, da je treba dejansko stanje dodatno raziskati, lahko davčni organ opravi davčni nadzor posameznega področja poslovanja, o čemer izda sklep, ali davčni inšpekcijski nadzor.".

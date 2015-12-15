@@ -1,0 +1,7 @@
+# 255.b člen (obveznosti dolžne skrbnosti, zbiranja in poročanja informacij)
+(1) Poročevalske finančne institucije Slovenije izvajajo postopke dolžne skrbnosti za identificiranje računov nerezidentov, zbirajo informacije o računih nerezidentov, ter jih letno sporočajo pristojnemu organu v skladu s Prilogo I in Prilogo II Direktive 2014/107/EU in tem zakonom.
+(2) Ne glede na prejšnji odstavek za investicijske oziroma pokojninske sklade brez pravne osebnosti obveznosti po tem zakonu izpolnjuje in zanje odgovarja družba za upravljanje, ki upravlja investicijski sklad, oziroma upravljavec pokojninskega sklada.
+(3) Obveznost pregleda, identifikacije in poročanja, kot za račune, o katerih se poroča, velja za vse račune, ki jih vodi poročevalska finančna institucija Slovenije.
+(4) Poročevalska finančna institucija Slovenije lahko postopke dolžne skrbnosti, ki veljajo za račune visoke vrednosti, uporabi za račune nižje vrednosti.
+(5) Iz dokumentacije poročevalske finančne institucije Slovenije oziroma tretje osebe iz 255.e člena tega zakona, ki jo vodi v zvezi z izvajanjem postopkov dolžne skrbnosti in zbiranjem informacij iz prvega odstavka tega člena, morajo biti razvidni postopki, po katerih so bile informacije zbrane. Dokumentacija, vključno s samopotrdili in dokaznimi listinami, se hrani deset let od poteka leta, na katero se nanaša, na način iz 32. člena tega zakona.
+(6) Oseba, ki poročevalski finančni instituciji Slovenije predloži samopotrdilo iz Priloge I Direktive 2014/107/EU, v potrdilu navede resnične, pravilne in popolne podatke.
