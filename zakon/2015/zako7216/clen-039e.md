@@ -1,0 +1,3 @@
+# 39.e člen (razvojni dokumenti šolskih knjižnic)
+Minister, pristojen za izobraževanje, sprejme strategijo razvoja šolskih knjižnic v sodelovanju z nacionalno knjižnico in pristojnim razvojnim in svetovalnim javnim zavodom ter po pridobitvi predhodnega mnenja Nacionalnega sveta za knjižnično dejavnost iz 48. člena tega zakona ter po izteku obdobja, za katerega je bila strategija sprejeta, poročilo o njeni uresničitvi.
+Na podlagi strategije iz prejšnjega odstavka sprejmejo šole po pridobitvi strokovnega predloga nacionalne knjižnice triletne razvojne načrte svojih knjižnic in po preteku tega obdobja poročila o njihovem uresničevanju. Če ima šola program razvoja šole, je načrt njegov sestavni del.".

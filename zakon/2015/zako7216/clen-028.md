@@ -1,0 +1,2 @@
+# 28. člen
+Od uveljavitve tega zakona do izteka enega leta od začetka izvajanja študijskega programa za izpopolnjevanje iz bibliotekarstva iz prve alineje tretjega odstavka in prve alineje četrtega odstavka 39.a člena zakona se za opravljeni študijski program za izpopolnjevanje iz bibliotekarstva iz prve alineje tretjega odstavka in prve alineje četrtega odstavka 39.a člena zakona šteje tudi opravljeni tečaj za začetnike v stroki pri nacionalni knjižnici in najmanj pol leta delovne prakse na strokovnih knjižničarskih delih v knjižnicah.
