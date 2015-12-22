@@ -1,5 +1,0 @@
-# 40. člen
-Drugi odstavek 107. člena se spremeni tako, da se glasi:
-"(2) Postavke iz prvega odstavka tega člena se pri izračunu dodatnega kapitala upoštevajo največ v obsegu, določenem s predpisom iz 109. člena tega zakona glede na nižjega izmed kapitala zavarovalnice iz 106. člena tega zakona ali minimalnega kapitala zavarovalnice iz 110. in 111. člena tega zakona. Med druge postavke iz 5. točke prvega odstavka tega člena se na podlagi zahteve zavarovalnice, podprte z ustreznimi dokazili, in z dovoljenjem Agencije za zavarovalni nadzor šteje:
-- vrednost matematične rezervacije, ki v izračunu ne upošteva oziroma delno upošteva strošek pridobivanja zavarovanj iz premijskega izračuna, zmanjšana za matematično rezervacijo, ki v izračunu upošteva strošek pridobivanja zavarovanj iz premijskega izračuna. Stroški pridobivanja zavarovanj v izračunu matematične rezervacije ne smejo presegati 3,5% od zavarovalne vsote. V izračunu razlik matematičnih rezervacij se negativne vrednosti postavijo na nič;
-- polovica nevplačanega vpoklicanega kapitala delniške družbe oziroma ustanovnega kapitala vzajemne družbe.".

@@ -1,3 +1,0 @@
-# 20. člen
-Besedilo 56. člena se spremeni tako, da se glasi:
-"Za uveljavljanje ničnosti oziroma izpodbijanje sklepov skupščine družbe za vzajemno zavarovanje se smiselno uporabljajo določbe ZGD, ki urejajo ničnost in izpodbojnost, razen določb, ki urejajo izpodbijanje sklepa o povečanju osnovnega kapitala. Kadar navedene določbe govorijo o delničarju, se pri uporabi za uveljavljanje ničnosti oziroma izpodbijanje sklepov skupščine družbe za vzajemno zavarovanje, v primeru določbe ZGD, ki ureja vložitev tožbe zaradi izpodbijanja sklepa skupščine, šteje, da gre za člana družbe za vzajemno zavarovanje, v vseh ostalih primerih pa, da gre za člana skupščine.".
