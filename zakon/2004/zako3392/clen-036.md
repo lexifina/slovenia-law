@@ -1,3 +1,0 @@
-# 36. člen
-V prvem odstavku 83. člena se doda nova 7. točka, ki se glasi:
-"7. v primeru zdravstvenih zavarovanj, pri katerih se oblikujejo rezervacije za starost oziroma matematične rezervacije, tudi o pogojih in načinu izračunavanja teh rezervacij in s tem povezanih sprememb premije zaradi staranja zavarovanca, o pravicah, ki izhajajo iz že oblikovanih rezervacij za starost oziroma matematičnih rezervacij v primeru prenehanja zavarovanja oziroma v primeru menjave zavarovanja v okviru istega zavarovatelja ali v primeru menjave zavarovatelja ter o vplivih drugih dejavnikov na spreminjanje premije.".

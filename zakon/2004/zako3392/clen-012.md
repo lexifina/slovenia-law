@@ -1,7 +1,0 @@
-# 12. člen
-V prvem odstavku 24. člena se 2. točka spremeni tako, da se glasi:
-"2. da ni bila pravnomočno obsojena zaradi kaznivega dejanja, storjenega z naklepom, ki se preganja po uradni dolžnosti, ali zaradi enega od naslednjih kaznivih dejanj, storjenih iz malomarnosti: povzročitve smrti iz malomarnosti (129. člen Kazenskega zakonika, Uradni list RS, št. 63/94, 70/94 - popr., 23/99, 60/99 - odl. US in 110/02 - ZDT-B; v nadaljnjem besedilu: KZ), hude telesne poškodbe (134. člen KZ), posebno hude telesne poškodbe (135. člen KZ), ogrožanja varnosti pri delu (208. člen KZ), prikrivanja (221. člen KZ), izdaje in neupravičene pridobitve poslovne tajnosti (241. člen KZ), pranja denarja (252. člen KZ), izdaje uradne tajnosti (266. člen KZ), povzročitve splošne nevarnosti (317. člen KZ) ali izdaje državne tajnosti (359. člen KZ), ki še niso bila izbrisana iz evidence.".
-Drugi odstavek se spremeni tako, da se glasi:
-"(2) Pogoj iz 1. točke prvega odstavka tega člena je izpolnjen, če ima oseba zadostna teoretična in praktična znanja za vodenje zavarovalnih poslov ter najmanj štiriletne izkušnje pri vodenju poslov zavarovalnice oziroma podjetja primerljive velikosti in dejavnosti kot zavarovalnica oziroma drugih primerljivih poslov.".
-Doda se nov tretji odstavek, ki se glasi:
-"(3) Podatke iz 2. točke prvega odstavka tega člena pridobi Agencija za zavarovalni nadzor od kandidata za člana uprave zavarovalne delniške družbe, lahko pa jih pridobi iz kazenske evidence.".

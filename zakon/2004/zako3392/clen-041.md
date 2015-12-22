@@ -1,3 +1,0 @@
-# 41. člen
-V drugem odstavku 97. člena se 4. točka spremeni tako, da se glasi:
-"4. podružnica mora na ozemlju Republike Slovenije razpolagati z ustreznim premoženjem najmanj v višini ene polovice zajamčenega kapitala, kot je predpisan v 112. členu tega zakona, ter deponirati denarni znesek kot jamstvo za poravnavo obveznosti iz zavarovalnih pogodb, sklenjenih na območju Republike Slovenije, oziroma, ki krijejo nevarnosti v Republiki Sloveniji v višini ene četrtine zajamčenega kapitala podružnice (v nadaljnjem besedilu: jamstveni depozit). Presežek lastnih sredstev podružnice nad zahtevanim minimalnim kapitalom oziroma zajamčenim kapitalom, glede na to, kateri je višji, mora biti naložen na območju države podpisnice Sporazuma o Evropskem gospodarskem prostoru.".

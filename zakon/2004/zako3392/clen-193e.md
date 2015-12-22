@@ -1,2 +1,0 @@
-# 193.e člen
-V primeru začetka stečajnega postopka nad zavarovalnico, ki ima podružnico v državi članici, se smiselno uporabljajo tudi določbe 193.a, 193.c, 193.d ter drugega, tretjega, četrtega in petega odstavka 194. člena tega zakona, s tem da sklep o začetku stečajnega postopka v obliki kratkega povzetka v Uradnem listu Evropskih skupnosti objavi stečajno sodišče. Terjatve upnikov se prijavijo stečajnemu sodišču.".
