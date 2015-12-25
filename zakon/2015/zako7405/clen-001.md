@@ -1,0 +1,5 @@
+# 1. člen
+V Zakonu za uravnoteženje javnih financ (Uradni list RS, št. 40/12, 96/12 - ZPIZ-2, 104/12 - ZIPRS1314, 105/12, 25/13 - odl. US, 46/13 - ZIPRS1314-A, 47/13 - ZOPRZUJF, 56/13 - ZŠtip-1, 63/13 - ZOsn-I, 63/13 - ZJAKRS-A, 99/13 - ZUPJS-C, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415, 101/13 - ZDavNepr, 107/13 - odl. US, 85/14, 95/14, 24/15 - odl. US in 90/15) se v 199. členu dodata nova tretji in četrti odstavek, ki se glasita:
+"(3) Ne glede na prvi odstavek 122. člena Zakona o dohodnini (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 24/12, 30/12, 40/12 - ZUJF, 75/12, 94/12, 96/13, 29/14 - odl. US, 50/14, 23/15 in 55/15; v nadaljnjem besedilu: ZDoh-2) so stopnje dohodnine za davčni leti 2016 in 2017:
+če znaša neto letna davčna osnova | znaša dohodnina v eurih | nad | do | | | 8.021,34 | 16 % | 8.021,34 | 20.400,00 | 1.283,41 + 27 % nad 8.021,34 | 20.400,00 | 70.907,20 | 4.625,65 + 41 % nad 20.400,00 | 70.907,20 | | 25.333,60 + 50 % nad 70.907,20
+(4) Uskladitev zneskov iz prejšnjega odstavka se opravi v skladu z drugim in tretjim odstavkom 122. člena ZDoh-2.".
