@@ -1,0 +1,9 @@
+# 7. člen
+Za 39. členom se doda novi 39.a člen, ki se glasi:
+"39.a člen
+(izplačilo 20 % pokojnine)
+(1) Zavarovancu, ki je obvezno vključen v obvezno zavarovanje s polnim delovnim oziroma zavarovalnim časom in izpolnjuje pogoje za pridobitev pravice do starostne ali predčasne pokojnine po tem zakonu ali je izpolnil pogoje za pridobitev pravice do starostne pokojnine po predpisih, veljavnih do 31. decembra 2012 v skladu s prvim odstavkom 391. ali 394. členom tega zakona se, če se za to odloči, od prvega naslednjega dne po vložitvi zahteve mesečno izplačuje 20 % starostne ali predčasne pokojnine, do katere bi bil upravičen na dan njene uveljavitve. Del pokojnine se izplačuje do prenehanja obveznega zavarovanja s polnim delovnim oziroma zavarovalnim časom.
+(2) Izplačilo dela pokojnine lahko uveljavi tudi uživalec starostne ali predčasne pokojnine, uveljavljene po splošnih predpisih o obveznem pokojninskem in invalidskem zavarovanju, ki se je ali se bo obvezno vključil v obvezno zavarovanje za polni delovni oziroma zavarovalni čas. Del pokojnine se izplačuje v višini 20 % že uveljavljene pokojnine, od prvega naslednjega dne po vložitvi zahteve, vendar največ od vključitve v obvezno zavarovanje s polnim delovnim oziroma zavarovalnim časom, do prenehanja zavarovanja s polnim delovnim oziroma zavarovalnim časom.
+(3) Izpolnitev pogojev za priznanje pravice do starostne pokojnine v času izplačila dela predčasne pokojnine ne vpliva na višino tega izplačila.
+(4) Med uživanjem dela pokojnine iz prvega in drugega odstavka tega člena ni mogoče zahtevati spremembe odmere dela pokojnine.
+(5) Zavod v informaciji, ki jo pošlje zavarovancu po uradni dolžnosti v skladu s šestim odstavkom 140. člena zakona, opozori na možnost uveljavitve izplačevanja 20 % predčasne ali starostne pokojnine v skladu s prvim in drugim odstavkom tega člena.".

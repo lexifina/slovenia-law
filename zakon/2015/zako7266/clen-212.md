@@ -1,0 +1,2 @@
+# 212. člen (smiselna uporaba)
+Če v tem delu zakona ni določeno drugače, se za poslovanje sklada smiselno uporabljajo naslednje določbe dvanajstega dela tega zakona: drugi odstavek 217. člena, 237. člen, drugi odstavek 244. člena, 250. člen, peti odstavek 251. člena, 253. člen, drugi odstavek 254. člena, 259. člen, 261. člen, 262. člen, prvi, četrti in peti odstavek 263. člena, 264. do 267. člen, 269. do 295. člen, 302., 304. člen, 305. do 307. člen, 309. člen, 310. člen, 350. člen, 352. do 354. člen in 358. do 376. člen.
