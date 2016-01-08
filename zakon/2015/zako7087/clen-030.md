@@ -1,0 +1,6 @@
+# 30. člen
+(1) Ne glede na spremenjeni 34.a člen zakona se v dveh letih od uveljavitve tega zakona lahko zaračunava cena za ponovno uporabo za evidence ali podatkovne zbirke, v zvezi s katerimi organ ustvari zadosten prihodek za kritje znatnega dela stroškov njihovega zbiranja, priprave, razmnoževanja in razširjanja, in sicer:
+- za evidence in podatkovne zbirke meteoroloških in hidroloških podatkov ter podatkov o kakovosti zraka, vode in tal, in sicer: točkovni meteorološki, hidrološki in fenološki podatki ter podatki o kakovosti zraka, terminski višinski podatki nad Ljubljano, pridobljeni z radiosondažnimi meritvami, podatki meteorološkega radarja za območje Slovenije, kemijski podatki kakovosti voda in tal ter biološki podatki kakovosti voda,
+- za numerične rezultate analize vremena in zelo kratkoročnih napovedi ter numerične rezultate meteorološke modelske verige,
+- za evidence in podatkovne zbirke urejanja prostora, in sicer: zbirko podatkov državnega prostorskega koordinatnega sistema ter zbirko podatkov daljinskega zaznavanja ter nepremičninske evidence.
+(2) Za zaračunavanje cene za ponovno uporabo za evidence iz prejšnjega odstavka se uporabljajo določbe tretjega in četrtega odstavka 34.a člena zakona.

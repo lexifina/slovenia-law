@@ -1,0 +1,6 @@
+# 2. člen
+Za tretjim odstavkom 3.a člena se dodajo novi četrti, peti, šesti in sedmi odstavek, ki se glasijo:
+"(4) Izraz strojno berljiva oblika pomeni, da so podatki ali metapodatki strukturirani tako, da lahko programske aplikacije z lahkoto določajo, prepoznajo in izločajo določene podatke, vključno s posameznimi dejanskimi navedbami in njihovo notranjo strukturo.
+(5) Izraz odprti podatek pomeni, da je podatek v datotečnem formatu, katerega struktura je določena v dogovorjenih odprtih standardih, ki jih je sprejela organizacija za standarde in ki se lahko uporabijo ter implementirajo brez tehničnih omejitev. Poleg tega je prosto dostopen ter na voljo za uporabo in razširjanje brez omejitev po zakonu, ki ureja avtorsko in sorodne pravice, razen navedbe avtorstva ali vira.
+(6) Izraz formalni odprti standard pomeni standard, ki je javno dostopen, brez omejitev uporabe in natančno opredeljuje zahteve za zagotavljanje interoperabilnosti programske opreme in je določen v pisni obliki ter ga ministrstvo, pristojno za upravo (v nadaljnjem besedilu: ministrstvo), objavi na nacionalnem portalu odprtih podatkov.
+(7) Izraz metapodatek pomeni informacije, ki opisujejo zbirko podatkov in storitve v zvezi s podatki ter omogočajo njihovo iskanje, evidentiranje in uporabo.".

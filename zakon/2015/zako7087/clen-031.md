@@ -1,0 +1,3 @@
+# 31. člen
+(1) Izključne pravice, ki so jih podelile knjižnice, muzeji ali arhivi in so obstajale 17. julija 2013 in niso bile podeljene zaradi digitalizacije gradiva, prenehajo veljati po poteku pogodbe in v vsakem primeru najpozneje deset let od uveljavitve tega zakona.
+(2) Izključne pravice, ki so jih podelile knjižnice, muzeji ali arhivi in so obstajale 17. julija 2013 in so bile podeljene zaradi digitalizacije gradiva, prenehajo veljati po poteku pogodbe. Če pogodba o izključni pravici določa trajanje izključne pravice za več kot deset let od uveljavitve tega zakona, se zanjo uporablja prvi odstavek 36.b člena zakona.
