@@ -1,0 +1,5 @@
+# 11. člen (roki za vložitev predloga)
+
+(1) Predlog za vračilo predmeta kulturne dediščine mora biti vložen najkasneje v treh letih od dne, ko je država članica, ki zahteva vračilo, zvedela, kje je predmet kulturne dediščine in kdo je oseba, ki je zavezana za vračilo predmeta.
+
+(2) Predlog mora biti vložen najpozneje 30 let po tem, ko je bil predmet kulturne dediščine protipravno odstranjen z ozemlja države članice, ki zahteva vračilo. Izjema so predmeti kulturne dediščine, ki so del javnih zbirk, ki so v skladu z zakonodajo države članice opredeljene kot javne in so v lasti zadevne države članice, lokalnega ali regionalnega organa države članice ali ustanove v državi članici, če je taka ustanova last te države članice ali lokalnega ali regionalnega organa ali pa jo ta država članica ali organ v večji meri financira, in predmeti, ki spadajo v inventar cerkvenih ali drugih verskih ustanov v državi članici, kjer je ta dediščina po nacionalnem pravu pod posebnim varstvenim režimom. V teh primerih mora biti predlog vložen najpozneje v 75 letih, razen če mednarodna pogodba z državo članico, ki zahteva vračilo, določa daljši rok za zahtevanje vračila.
