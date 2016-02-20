@@ -1,2 +1,0 @@
-# 5. člen
-Republika Slovenija povrne zavodu sorazmerni del pokojnin, priznanih ob upoštevanju obdobij pokojninske dobe, za katere so bili obračunani, vendar neplačani prispevki za čas, ko je bil zavarovanec do 31. 12. 1999 zaposlen v invalidskem podjetju, za katerega so bili prispevki obračunani in vplačani na poseben račun pri delodajalcu, ki jih je bil dolžan uporabiti za materialni razvoj invalidskega podjetja.

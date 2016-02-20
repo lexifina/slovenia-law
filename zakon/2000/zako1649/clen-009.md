@@ -1,7 +1,0 @@
-# 9. člen
-Poleg obveznosti iz 2. do 8. člena tega zakona je obveznost države:
-- sorazmerni del stroškov izvajanja zavarovanja, ki nastane v zvezi z odmerjanjem in izplačevanjem pokojnin in drugih pravic, od katerih se obračuna obveznost države;
-- sorazmerni del prispevkov za obvezno zdravstveno zavarovanje, ki se plačujejo od pokojnin in drugih pravic, od katerih se obračuna obveznost države;
-- sorazmerni del stroškov plačilnega prometa in poštnih stroškov, vezanih na izplačevanje pokojnin in drugih pravic, od katerih se obračuna obveznost države.
-Sorazmerni del obveznosti iz prejšnjega odstavka se pri obračunu obveznosti iz 2. do 7. člena tega zakona izračuna v enakem deležu dejansko ugotovljenih obveznosti države, kot je delež vseh obračunanih stroškov izvajanja zavarovanja, stroškov plačilnega prometa in poštnih stroškov ter prispevkov za obvezno zdravstveno zavarovanje, v obdobju, na katero se nanaša obračun, v primerjavi s skupnim zneskom vseh pokojnin, ki jih je zavod izplačeval v istem obdobju.
-Sorazmerni del obveznosti iz prvega odstavka tega člena se pri obračunu obveznosti iz 8. člena tega zakona izračuna v enakem deležu dejansko ugotovljenih obveznosti države, kot je delež vseh obračunanih stroškov izvajanja zavarovanja, stroškov plačilnega prometa in poštnih stroškov, v obdobju, na katero se nanaša obračun, v primerjavi s skupnim zneskom prihodkov sklada obrtnikov v istem obdobju.
