@@ -1,2 +1,0 @@
-# 95.b člen (nedopustnost zahteve za dodatno obrazložitev odločitve o oddaji naročila)
-Ne glede na tretji odstavek 79. člena tega zakona zahteva za dodatno obrazložitev odločitve o oddaji naročila v postopku oddaje naročila male vrednosti ni dopustna. Ne glede na peti odstavek 79.a člena tega zakona teče rok za uveljavitev pravnega varstva zoper odločitev o oddaji naročila od dneva prejema odločitve o oddaji naročila.
