@@ -1,6 +1,0 @@
-# 49. člen
-Besedilo 105.a člena se spremeni tako, da se glasi:
-"(1) Naročnik ne sporoča podatkov o oddanih javnih naročilih, katerih vrednost je enaka ali večja od vrednosti iz drugega odstavka 12. člena tega zakona. Navedeni podatki se zajemajo neposredno iz obvestil iz 3., 5. in 7. točke prvega odstavka 57. člena, ki jih naročnik objavi na portalu javnih naročil v skladu s tem zakonom. V primeru posameznih naročil, oddanih na podlagi okvirnega sporazuma, naročnik na portal javnih naročil do 28. februarja tekočega leta za preteklo leto sporoči podatke, ki jih določa predpis iz šestega odstavka 107. člena tega zakona.
-(2) Naročniki iz prve alineje prvega odstavka 3. člena tega zakona, razen samoupravnih lokalnih skupnosti, posredujejo do 28. februarja tekočega leta na portal javnih naročil podatke o vrsti predmeta, skupni vrednosti in številu oddanih javnih naročil v preteklem letu, ločeno za:
-a) javna naročila, katerih vrednost brez DDV je nižja od 20.000 eurov za blago in storitve oziroma 40.000 eurov za gradnje,
-b) javna naročila, katerih vrednost brez DDV je enaka ali presega vrednosti iz prejšnje točke in je nižja od 40.000 eurov za blago in storitve oziroma 80.000 eurov za gradnje.".
