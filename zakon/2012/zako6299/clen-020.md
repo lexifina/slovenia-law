@@ -1,3 +1,0 @@
-# 20. člen
-Tretji odstavek 108. člena se spremeni tako, da se glasi:
-"(3) Kadar Državna revizijska komisija v skladu s tem zakonom ugotavlja pogoje za začetek postopka o prekršku zoper naročnika, ponudnika, podizvajalca in njihove odgovorne osebe ali zbira dodatne dokumente in dokaze o morebitnem prekršku naročnika, ponudnika, podizvajalca in njihovih odgovornih oseb, morajo naročnik, ponudnik, podizvajalec in njihove odgovorne osebe Državni revizijski komisiji najpozneje v treh delovnih dneh po prejemu njenega pisnega poziva odstopiti vse dokumente in dokaze, na odstop katerih jih je Državna revizijska komisija pozvala.".
