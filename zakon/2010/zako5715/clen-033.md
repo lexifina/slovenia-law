@@ -1,4 +1,0 @@
-# 33. člen
-Besedilo 81. člena se spremeni tako, da se glasi:
-"(1) V primeru postopka iz 1. do 5. točke prvega odstavka 32. člena tega zakona, naročnik pred sprejetjem odločitve iz 83. člena tega zakona oziroma najpozneje pred sklenitvijo pogodbe o izvedbi javnega naročila preveri obstoj in vsebino podatkov iz najugodnješe ponudbe oziroma drugih navedb iz ponudbe. V primeru postopka iz 6. točke prvega odstavka 32. člena tega zakona mora naročnik preveriti obstoj in vsebino podatkov iz izbrane ponudbe oziroma drugih navedb iz ponudbe, kadar dvomi v resničnost ponudnikovih izjav.
-(2) Če se pri naročniku v postopku javnega naročanja pojavi utemeljen sum, da je posamezni ponudnik, ne glede na razvrstitev njegove ponudbe, predložil neresnične izjave ali dokazila, mora naročnik Državni revizijski komisiji podati predlog za uvedbo postopka o prekršku iz drugega odstavka 106.a člena tega zakona.".
