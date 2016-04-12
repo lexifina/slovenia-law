@@ -31,6 +31,6 @@
 25. če pooblaščeni osebi Banke Slovenije ne omogoči pregleda na način, določen v 236. do 240. členu tega zakona;
 26. če v postopku prisilne likvidacije sklepa nove posle v nasprotju z 270. členom tega zakona;
 27. če ne vzpostavi ustreznih postopkov upravljanja s tveganji oziroma notranjih kontrolnih mehanizmov, vključno z ustreznim poročanjem in računovodskimi postopki, z namenom ugotavljanja, merjenja, spremljanja in nadzora poslov s svojim nadrejenim mešanim poslovnim holdingom in njegovimi podrejenimi družbami v skladu z drugim odstavkom 300. člena tega zakona;
-28. če ne razvije in ne vzdržuje ustreznega informacijskega sistema v skladu s prvim odstavkom 311.a člena tega zakona;
-29. če ne poroča o znesku vseh vlog, zajamčenih vlog in številu vlagateljev, katerih vloge so zajamčene v skladu z drugim odstavkom 311.a člena tega zakona.
+28. (prenehala veljati);
+29. (prenehala veljati).
 (2) Z globo od 2.500 do 30.000 eurov se za prekršek kaznuje odgovorna oseba banke, ki stori prekršek iz prvega odstavka tega člena.
