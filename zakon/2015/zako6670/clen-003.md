@@ -1,5 +1,0 @@
-# 3. člen
-V 2.a členu, drugem odstavku 5. člena, 9. in 10. členu, drugem in tretjem odstavku 13. člena, tretjem odstavku 19.a člena, prvem odstavku 36. člena, prvem odstavku 40. člena in prvem odstavku 48. člena se besedilo "Carinska uprava Republike Slovenije" v različnih sklonih nadomesti z besedilom "Finančna uprava Republike Slovenije" v ustreznem sklonu.
-V naslovu in prvem, drugem in tretjem odstavku 50. člena, drugem odstavku 52. člena in tretjem odstavku 70. člena se besedilo "Generalni carinski urad" v različnih sklonih nadomesti z besedilom "Generalni finančni urad" v ustreznem sklonu.
-V 17. in 18. členu, prvem odstavku 28. člena in 1. točki prvega odstavka 38. člena se besedi "carinski urad" v različnih sklonih nadomestita z besedama "finančni urad" v ustreznem sklonu.
-V prvem odstavku 20. člena, prvem odstavku 21. člena, prvem odstavku 26. člena, 46. členu, prvem odstavku 47. člena, prvem odstavku 64. člena, 4., 5. in 15. točki prvega odstavka 88. člena in 2. točki prvega odstavka 89. člena se besedi "carinski urad" v različnih sklonih nadomestita z besedama "carinski organ" v ustreznem sklonu.
