@@ -1,0 +1,7 @@
+# 52. člen (globa v primerih prekrškov, katerih narava je posebno huda)
+
+(1) V primeru, ko je narava prekrška iz 46. do 49. člena tega zakona posebno huda zaradi višine povzročene škode oziroma višine pridobljene protipravne premoženjske koristi ali zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, se z globo od 3.000 do 375.000 eurov za prekršek kaznuje pravna oseba, z globo od 2.000 do 225.000 eurov se za prekršek kaznuje samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, z globo od 500 do 3.600 eurov se za prekršek kaznuje posameznik.
+
+(2) Z globo od 600 do 12.000 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnosti ali odgovorna oseba v državnem organu ali samoupravni lokalni skupnosti.
+
+(3) Za potrebe tega člena se šteje, da je narava prekrška posebno huda zaradi višine pridobljene protipravne premoženjske koristi, če se s prekrškom iz 46., 47., 48. ali 49. člena tega zakona povzroči ali bi se lahko povzročilo neplačilo uvoznih ali izvoznih dajatev in drugih dajatev, ki se pobirajo pri uvozu ali izvozu blaga, v znesku, ki presega dvajset povprečnih mesečnih neto plač v Republiki Sloveniji. Pri izračunu neplačanega zneska dajatev se upošteva zadnja uradno objavljena povprečna neto plača na zaposleno osebo v Republiki Sloveniji v času storitve prekrška.
