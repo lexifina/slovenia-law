@@ -1,0 +1,6 @@
+# 1. člen
+V Zakonu o sodnih taksah (Uradni list RS, št. 37/08, 97/10, 63/13, 58/14 - odl. US in 19/15 - odl. US) se v 1. členu četrti odstavek spremeni tako, da se glasi:
+"(4) S tem zakonom se določa višina sodnih taks v postopku za evropski plačilni nalog, v evropskem postopku v sporih majhne vrednosti, v postopku o zahtevi za razglasitev izvršljivosti odločbe, izdane v drugi državi članici Evropske unije, v postopku o ugovoru zoper sklep o razglasitvi izvršljivosti odločbe, izdane v drugi državi članici Evropske unije, v postopku o zahtevi za izdajo evropskega potrdila o dedovanju in v postopku o zahtevi za začasni odlog učinkov evropskega potrdila o dedovanju za izvajanje:
+1. Uredbe (ES) št. 1896/2006 Evropskega parlamenta in Sveta z dne 12. decembra 2006 o uvedbi postopka za evropski plačilni nalog (UL L št. 399 z dne 30. 12. 2006, str. 1),
+2. Uredbe (ES) št. 861/2007 Evropskega parlamenta in Sveta z dne 11. julija 2007 o uvedbi evropskega postopka v sporih majhne vrednosti (UL L št. 199 z dne 31. 7. 2007, str. 1) in
+3. Uredbe (EU) št. 650/2012 Evropskega parlamenta in Sveta z dne 4. julija 2012 o pristojnosti, pravu, ki se uporablja, priznavanju in izvrševanju odločb in sprejemljivosti in izvrševanju javnih listin v dednih zadevah ter uvedbi evropskega potrdila o dedovanju (UL L št. 201 z dne 27. 7. 2012, str. 107).".
