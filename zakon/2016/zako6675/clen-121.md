@@ -1,0 +1,8 @@
+# 121. člen
+Prvi odstavek 563. člena se spremeni tako, da se glasi:
+"(1) Z globo od 25.000 do 250.000 eurov se za prekršek kaznuje:
+1. podrejena družba, ki nadrejeni borznoposredniški družbi v investicijski skupini ali borznoposredniški družbi, ki jo obvladuje nadrejeni finančni holding, ne pošlje vseh informacij, ki jih ta potrebuje za izpolnitev obveznosti na konsolidirani podlagi (prvi odstavek 301. člena ZBan-2 v zvezi s prvim odstavkom 301. člena tega zakona);
+2. nadrejeni finančni holding, ki svoji podrejeni borznoposredniški družbi ne pošlje vseh informacij, ki jih ta potrebuje za izpolnitev obveznosti na konsolidirani podlagi (drugi odstavek 301. člena ZBan-2 v zvezi s prvim odstavkom 301. člena tega zakona);
+3. podrejena družba oziroma nadrejeni finančni holding, ki agenciji oziroma drugemu nadzornemu organu, pristojnemu in odgovornemu za nadzor na konsolidirani podlagi, ne omogoči, da opravi pregled poslovanja (četrti odstavek 301. člena ZBan-2 v zvezi s prvim odstavkom 301. člena tega zakona);
+4. mešani poslovni holding oziroma njegova podrejena družba, ki podrejenim institucijam oziroma nadzornim organom, pristojnim in odgovornim za nadzor teh institucij, ne pošlje vseh informacij, pomembnih za nadzor teh podrejenih institucij (prvi odstavek 303. člena ZBan-2 v zvezi s prvim odstavkom 301. člena);
+5. podrejena družba oziroma nadrejeni mešani poslovni holding, ki agenciji oziroma drugemu nadzornemu organu, pristojnemu in odgovornemu za nadzor podrejenih institucij, ne omogoči, da opravi pregled poslovanja (drugi odstavek 303. člena ZBan-2 v zvezi s prvim odstavkom 301. člena tega zakona).".

@@ -1,0 +1,27 @@
+# 142. člen (razveljavitev predpisov)
+Z dnem uveljavitve tega zakona prenehajo veljati:
+1. Sklep o izvajanju obveznosti razkrivanja nadzorovanih informacij (Uradni list RS, št. 106/07 in 33/08),
+2. Sklep o informacijah o pomembnih deležih (Uradni list RS, št. 106/07 in 33/08),
+3. Sklep o poročanju o posameznih dejstvih in okoliščinah borznoposredniških družb (Uradni list RS, št. 74/09, 64/10, 75/10, 80/11, 100/11 - popr. in 33/12),
+4. Sklep o naložbah borznoposredniških družb v kvalificirane deleže v osebah nefinančnega sektorja (Uradni list RS, št. 106/07, 118/07 - popr. in 80/11),
+5. Sklep o nadzoru borznoposredniških družb na konsolidirani podlagi (Uradni list RS, št. 106/07, 74/09 in 80/11),
+6. Sklep o načinu izračuna količnikov likvidnosti sredstev in najmanjšem obsegu likvidnosti, ki ga mora zagotavljati borznoposredniška družba (Uradni list RS, št. 106/07),
+7. Sklep o upravljanju s tveganji in izvajanju procesa ocenjevanja ustreznega notranjega kapitala za borznoposredniške družbe (Uradni list RS, št. 106/07, 74/09, 80/11 in 33/12),
+8. Sklep o izračunu kapitala borznoposredniških družb (Uradni list RS, št. 80/11 in 33/12),
+9. Sklep o poročanju o kapitalu in kapitalskih zahtevah borznoposredniških družb (Uradni list RS, št. 74/09, 80/11, 90/11 - popr. in 33/12),
+10. Sklep o izračunu kapitalske zahteve za kreditno tveganje po standardiziranem pristopu za borznoposredniške družbe (Uradni list RS, št. 106/07, 74/09, 81/09 - popr., 10/10 - popr., 80/11 in 33/12),
+11. Sklep o izračunu kapitalske zahteve za operativno tveganje za borznoposredniške družbe (Uradni list RS, št. 106/07 in 80/11),
+12. Sklep o izračunu kapitalske zahteve za tržna tveganja za borznoposredniške družbe (Uradni list RS, št. 106/07, 74/09, 97/10, 80/11 in 33/12),
+13. Sklep o izračunu kapitalske zahteve za kreditno tveganje po pristopu na podlagi notranjih bonitetnih sistemov za borznoposredniške družbe (Uradni list RS, št. 106/07, 74/09, 81/09 - popr., 80/11 in 33/12),
+14. Sklep izračunu kapitalske zahteve za kreditno tveganje pri listinjenju in pravilih glede izpostavljenosti borznoposredniških družb prenesenemu kreditnemu tveganju (Uradni list RS, št. 80/11 in 33/12),
+15. Sklep o priznavanju zunanjih bonitetnih institucij za borznoposredniške družbe (Uradni list RS, št. 106/07 in 74/09),
+16. Sklep o kreditnih zavarovanjih za borznoposredniške družbe (Uradni list RS, št. 106/07, 74/09 in 80/11),
+17. Sklep o skrbnosti članov uprave in nadzornega sveta borznoposredniških družb (Uradni list RS, št. 33/12),
+18. Sklep o veliki izpostavljenosti borznoposredniških družb (Uradni list RS, št. 80/11 in 33/12),
+19. Sklep o obsegu in vsebini dodatnega revizijskega pregleda glede izpolnjevanja pravil o upravljanju s tveganji v borznoposredniških družbah (Uradni list RS, št. 74/09),
+20. Sklep o razkritjih s strani borznoposredniških družb (Uradni list RS, št. 106/07, 74/09, 80/11 in 33/12),
+21. Sklep o imetnikih kvalificiranih deležev centralne klirniškodepotne družbe (Uradni list RS, št. 74/09),
+22. Sklep o dokumentaciji za dokazovanje izpolnjevanja pogojev za opravljanje funkcije člana uprave oziroma izvršnega direktorja centralne klirinškodepotne družbe (Uradni list RS, št. 106/07 in 21/10),
+23. Sklep o organizacijskih zahtevah za vodenje centralnega registra in upravljanje poravnalnega sistema (Uradni list RS, št. 106/07 in 22/12),
+24. Sklep o podrobnejših pravilih za poravnavo borznih poslov in pogojih za prevzemanje položaja centralne nasprotne stranke in opravljanje drugih poslov, pri katerih prevzema kreditno tveganje nasprotne stranke (Uradni list RS, št. 106/07)
+uporabljajo pa se, v kolikor niso z njim v nasprotju, do uveljavitve podzakonskih aktov, izdanih na podlagi tega zakona.

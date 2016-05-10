@@ -1,0 +1,2 @@
+# 139. člen (veljavnost dovoljenja za upravljanje poravnalnega sistema)
+Oseba, ki ima ob pričetku veljavnosti tega zakona dovoljenje za upravljanje poravnalnega sistema, ne glede na določbe Uredbe 909/2014/EU glede dovoljenja in priznanja za centralno depotno družbo, nadaljuje poslovanje kot centralna depotna družba po Uredbi 909/2014/EU, in sicer do odločitve o njeni vlogi za dovoljenje v skladu z drugim odstavkom 69. člena Uredbe 909/2014/EU.

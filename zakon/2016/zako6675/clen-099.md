@@ -1,0 +1,4 @@
+# 99. člen
+Prvi in drugi odstavek 450.a člena se spremenita tako, da se glasita:
+"(1) Nalog za poravnavo, ki ga v poravnalni sistem vnese član tega sistema, je veljaven, če je nalog za poravnavo vstopil v poravnalni sistem pred začetkom postopka ali ukrepa iz prvega odstavka prejšnjega člena zoper tega člana oziroma drugega udeleženca, za katerega račun je poravnalni član vnesel nalog za poravnavo.
+(2) Nalog za poravnavo je veljaven tudi, če je vstopil v poravnalni sistem po začetku postopka ali ukrepa iz prvega odstavka prejšnjega člena zoper člana oziroma drugega udeleženca, za katerega račun je poravnalni član vnesel nalog za poravnavo, če se ta nalog za poravnavo izvrši v poravnalnem sistemu še isti delovni dan, kot ga določajo pravila poravnalnega sistema, in če upravljavec poravnalnega sistema dokaže, da ob nastopu nepreklicnosti naloga za poravnavo ni vedel in ni mogel vedeti za začetek takšnega postopka ali ukrepa.".

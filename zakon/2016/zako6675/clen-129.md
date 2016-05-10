@@ -1,0 +1,2 @@
+# 129. člen (ohranitev veljavnosti dovoljenj)
+Dovoljenja za opravljanje investicijskih storitev in poslov borznoposredniških družb, za opravljanje funkcije člana uprave borznoposredniške družbe, za pridobitev kvalificiranega deleža ter druga dovoljenja in soglasja, ki na podlagi zakona veljajo ob uveljavitvi tega zakona, se z dnem uveljavitve tega zakona štejejo za dovoljenja in soglasja izdana po tem zakonu ali Uredbi 575/2013/EU.

@@ -1,0 +1,2 @@
+# 126. člen (prehodno obdobje pri določanju varovalnega kapitalskega blažilnika in lastnega proticikličnega kapitalskega blažilnika)
+Ne glede na 208. in 209. člen ZBan-2 v zvezi z drugim odstavkom 193. člena zakona borznoposredniške družbe iz drugega odstavka 193. člena zakona v obdobju od uveljavitve tega zakona do 31. decembra 2018 vzdržujejo varovalni kapitalski blažilnik in posamezni borznoposredniški družbi lastni proticiklični kapitalski blažilnik v skladu z 127. členom tega zakona.

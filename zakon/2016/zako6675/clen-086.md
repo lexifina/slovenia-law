@@ -1,0 +1,3 @@
+# 86. člen
+Besedilo 404. člena se spremeni tako, da se glasi:
+"Agencija predpiše pogoje, ki jih mora izpolnjevati upravljavec poravnalnega sistema iz oddelka 11.6 tega zakona za prevzemanje položaja centralne nasprotne stranke in opravljanje drugih poslov, pri katerih prevzema kreditno tveganje nasprotne stranke, in sicer glede pravil poravnalnega sistema centralne nasprotne stranke, upravljanja s tveganji, upravljanja s sredstvi, organizacijskimi zahtevami in učinkovitostjo poravnalnega sistema na način, da ti pogoji zagotavljajo varno poslovanje upravljavca poravnalnega sistema iz oddelka 11.6 tega zakona.".
