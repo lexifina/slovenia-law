@@ -1,0 +1,2 @@
+# 20. člen (pričetek teka roka za opravo strokovnega izpita)
+Strokovni delavec, ki je na dan uveljavitve tega zakona zaposlen na področju muzejske, konservatorske in konservatorske - restavratorske dejavnosti na delovnem mestu, na katerem je strokovni izpit določen kot pogoj za zasedbo delovnega mesta, mora opraviti strokovni izpit najkasneje v dveh letih od uveljavitve tega zakona, sicer mu naslednji dan po poteku tega roka preneha delovno razmerje.
