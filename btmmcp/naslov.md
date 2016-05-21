@@ -1,0 +1,7 @@
+Z A K O N
+
+O RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN VLADO TURKMENISTANA O MEDNARODNEM CESTNEM PROMETU (BTMMCP)
+
+S P O R A Z U M
+
+med Vlado Republike Slovenije in Vlado Turkmenistana o mednarodnem cestnem prometu
