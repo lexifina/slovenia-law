@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o delovnem času in obveznih počitkih mobilnih delavcev ter o zapisovalni opremi v cestnih prevozih (Uradni list RS, št. 14/14 - uradno prečiščeno besedilo in 23/15) se v 2.a členu, prvem odstavku 2.b člena, 9. členu, tretjem odstavku 24. člena, tretjem odstavku 25. člena, prvem odstavku 28. člena, prvem in drugem odstavku 33. člena, prvem odstavku 35.a člena, prvem odstavku 39.b člena in prvem odstavku 39.d člena besedilo "Uredba 3821/85/EGS" v vseh sklonih nadomesti z besedilom "Uredba 165/2014/EU" v ustreznem sklonu.
