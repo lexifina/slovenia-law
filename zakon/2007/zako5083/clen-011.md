@@ -1,9 +1,0 @@
-# 11. člen
-Za 11. členom se dodajo novi 11.a, 11.b in 11.c člen, ki se glasijo:
-"11.a člen
-(delovno mesto zagovornika oziroma zagovornice)
-(1) Zagovornik oziroma zagovornica je posebno uradniško delovno mesto, za katero veljajo določbe zakona in drugih predpisov, ki urejajo sistem javnih uslužbencev v državnih organih ter sistem plač v javnem sektorju, razen tistih vprašanj, ki so s tem zakonom urejena drugače.
-(2) Zagovornika oziroma zagovornico na podlagi izvedenega javnega natečaja na predlog predstojnika oziroma predstojnice Urada imenuje Vlada za obdobje petih let.
-(3) Postopek javnega natečaja za zagovornika oziroma zagovornico mora biti zaključen najkasneje tri mesece pred potekom obdobja imenovanja iz prejšnjega odstavka. V istem roku lahko Vlada uradnika oziroma uradnico ponovno imenuje za zagovornika oziroma zagovornico brez javnega natečaja.
-(4) Za zagovornika oziroma zagovornico je lahko imenovan, kdor ima najmanj univerzitetno izobrazbo družboslovne ali humanistične smeri ali izobrazbo iste smeri, pridobljeno po študijskem programu druge stopnje v skladu z zakonom, ki ureja visoko šolstvo in najmanj tri leta delovnih izkušenj na področju uresničevanja načela enakega obravnavanja ali človekovih pravic in temeljnih svoboščin.
-(5) V primeru začasne odsotnosti zagovornika oziroma zagovornice daljše od treh mesecev, Vlada pooblasti drugo osebo, ki izpolnjuje pogoje iz prejšnjega odstavka, za opravljanje nalog zagovornika oziroma zagovornice po tem zakonu.
