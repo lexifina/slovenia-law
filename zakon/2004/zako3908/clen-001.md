@@ -1,5 +1,0 @@
-## I. SPLOŠNE DOLOČBE
-# 1. člen (vsebina in namen zakona)
-(1) S tem zakonom se določajo skupni temelji in izhodišča za zagotavljanje enakega obravnavanja vsakogar pri uveljavljanju njegovih ali njenih pravic in obveznosti ter pri uresničevanju človekovih pravic in temeljnih svoboščin.
-(2) Za namen iz prejšnjega odstavka določa ta zakon subjekte, ki z ukrepi v okviru svojih pristojnosti ustvarjajo pogoje za uresničevanje načela enakega obravnavanja ter skrbijo za osveščanje diskriminiranih oseb in domnevnih kršiteljev oziroma kršiteljic kot tudi družbe kot celote, ter vzpostavlja institucionalne pogoje za delovanje zagovornika oziroma zagovornice načela enakosti, ki z obravnavo primerov domnevnega neenakega obravnavanja po določbah tega zakona nudi pomoč diskriminiranim osebam.
-(3) Ta zakon določa tudi skupne posebnosti, ki veljajo za pravno varstvo diskriminiranih oseb v sodnih in upravnih postopkih, sproženih zaradi z zakonom določene kršitve prepovedi diskriminacije na podlagi osebnih okoliščin.
