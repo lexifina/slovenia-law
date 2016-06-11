@@ -1,0 +1,5 @@
+# 2. člen
+Za 11.c členom se doda nov 11.č člen, ki se glasi:
+"11.č člen
+Ob javni službi iz 11.a in 11.b člena tega zakona in gospodarski dejavnosti, povezani z javno službo, iz 11.c člena tega zakona, lahko Kobilarna Lipica opravlja tudi tržno dejavnost.
+Tržna dejavnost po tem zakonu je tista, ki ustrezno tržno vrednoti dejavnost javne službe Kobilarne Lipica na način, da celostno ohranja vrednost Kobilarne Lipica kot zgodovinsko pomembne in izvorne kobilarne konj lipicanske pasme ter kulturno funkcijo varovanega območja s kultivirano kraško krajino, da jo uveljavlja kot vrhunski konjerejski in konjeniški center, in da povezuje naravne danosti in kulturne vrednote Kobilarne Lipice s sodobnim življenjem ter postane generator razvoja turizma na Krasu in širše, dopolnjuje in nadgrajuje dejavnosti iz 11.a, 11.b in 11.c člena tega zakona, prispeva h gospodarnejšemu in učinkovitejšemu opravljanju primarne dejavnosti javne službe in pridobiva stabilne vire financiranja za delovanje vseh dejavnosti, ki jih izvaja Kobilarna Lipica.".
