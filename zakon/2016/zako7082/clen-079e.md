@@ -1,0 +1,4 @@
+# 79.e člen
+Centralno zbirko podatkov projektov poskusnega izvajanja iz 79.č člena tega zakona vodi ministrstvo, pristojno za socialno varstvo, kot upravljavec te zbirke.
+Izvajalci v mreži javne službe in izvajalci izbrani na podlagi petega odstavka 79.č člena tega zakona (v nadaljnjem besedilu: izvajalci poskusnega izvajanja) za namene vključitve podatkov v centralno zbirko podatkov iz prejšnjega člena ter za namene uvajanja, izvajanja, spremljanja in evalviranja posameznega projekta poskusnega izvajanja iz 79.č člena tega zakona zbirajo in obdelujejo tiste osebne podatke iz drugega odstavka prejšnjega člena, ki so potrebni za dosego namena posameznega projekta poskusnega izvajanja iz 79.č člena tega zakona.
+Izvajalci poskusnega izvajanja posredujejo ministrstvu, pristojnemu za socialno varstvo, osebne podatke iz prejšnjega odstavka za namene vodenja centralne zbirke iz 79.d člena tega zakona.

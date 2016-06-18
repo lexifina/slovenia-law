@@ -1,0 +1,7 @@
+# 14. člen
+102. člen se spremeni tako, da se glasi:
+"102. člen
+Nadzor nad izvajanjem tega zakona in predpisov, izdanih na njegovi podlagi, s strani javnih socialno varstvenih zavodov, koncesionarjev ter pravnih in fizičnih oseb, ki izvajajo socialno varstvene storitve in so vpisani v register zasebnikov in pravnih oseb iz 67. člena tega zakona (v nadaljnjem besedilu: izvajalci dejavnosti socialnega varstva), nadzor nad izvajanjem drugih zakonov ali na njihovi podlagi izdanih predpisov, ki določajo javna pooblastila ali druge naloge posameznim izvajalcem dejavnosti socialnega varstva ter nadzor nad izvajanjem nalog, ki jih ta zakon nalaga občinam, zlasti preverjanje obsega mreže javne službe, za katero je zadolžena občina in soglasij k cenam storitev, ki jih izda pristojni občinski organ, organizira in izvaja socialna inšpekcija v okviru Inšpektorata Republike Slovenije za delo.
+Socialna inšpekcija izvaja tudi nadzor nad izvajanjem tega zakona in predpisov, izdanih na njegovi podlagi, s strani fizičnih in pravnih oseb, za katere obstaja sum, da izvajajo dejavnost socialnega varstva brez vpisa v register zasebnikov in pravnih oseb iz 67. člena tega zakona.
+Inšpekcijski nadzor izvajajo socialni inšpektorji, ki so delavci s posebnimi pooblastili in odgovornostmi.
+Za izvajanje inšpekcijskega nadzora po tem zakonu se uporabljajo določbe zakona, ki ureja inšpekcijski nadzor in zakona, ki ureja inšpekcijo dela, v kolikor posamezna vprašanja s tem zakonom niso urejena drugače.".

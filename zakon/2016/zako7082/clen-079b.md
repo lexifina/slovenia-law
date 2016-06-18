@@ -1,0 +1,2 @@
+# 79.b člen
+Status delovanja v javnem interesu na področju socialnega varstva lahko pridobijo tudi druge pravne osebe zasebnega prava, ki niso ustanovljene z namenom pridobivanja dobička in ki presežek prihodkov nad odhodki uporabljajo izključno za opravljanje in razvoj svoje dejavnosti, pri čemer se smiselno uporabljajo določbe o statusu društva v javnem interesu, določene s tem zakonom in zakonom, ki ureja društva.
