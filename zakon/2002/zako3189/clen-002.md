@@ -1,2 +1,0 @@
-# 2. člen
-Ta zakon velja za državljane oziroma državljanke Republike Slovenije in za državljane oziroma državljanke tretjih držav, ki so pridobili poklicne kvalifikacije v eni od držav pogodbenic ali v državi, ki ni država pogodbenica, vendar so jim bila dokazila o formalnih kvalifikacijah že predhodno priznana v eni od držav pogodbenic in imajo najmanj tri leta poklicnih izkušenj v temu poklicu na ozemlju države, ki jim je dokazila o formalnih kvalifikacijah priznala.
