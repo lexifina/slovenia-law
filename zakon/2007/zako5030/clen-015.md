@@ -1,9 +1,0 @@
-# 15. člen
-12. člen se spremeni tako, da se glasi:
-"12. člen
-(1) Pristojno ministrstvo v postopku primerja pisno dokumentacijo o kandidatovih poklicnih kvalifikacijah s poklicnimi kvalifikacijami, ki jih za opravljanje posameznega reguliranega poklica oziroma dejavnosti zahtevajo predpisi Republike Slovenije. Če pristojno ministrstvo na podlagi te primerjave oceni, da kandidatove poklicne kvalifikacije ne ustrezajo, izda kandidatu o tej ugotovitvi začasno odločbo, v kateri pozove kandidata, da glede na okoliščine primera opravi enega od naslednjih dopolnilnih ukrepov za priznavanje njegovih poklicnih kvalifikacij:
-- preizkus poklicne usposobljenosti ali
-- prilagoditveno obdobje, v katerem bo izpolnil manjkajoče pogoje za priznavanje ustreznosti svojih poklicnih kvalifikacij.
-(2) Če je pristojno ministrstvo v začasni odločbi kandidatu naložilo, da opravi dopolnilni ukrep, v začasni odločbi alternativno določi tudi pogoje za opravljanje prilagoditvenega obdobja (čas trajanja in program) ali pogoje za preizkus poklicne usposobljenosti. Hkrati določi tudi pogoje za opravljanje prilagoditvenega obdobja z morebitno dopolnitvijo z dodatnim izobraževanjem ter kriterije za oceno uspešnosti opravljanja.
-(3) Začasna odločba iz prvega odstavka tega člena vsebuje seznam predmetov oziroma manjkajočih vsebin, ki na podlagi primerjave kandidatovih poklicnih kvalifikacij s poklicnimi kvalifikacijami, zahtevanimi v predpisih Republike Slovenije, niso zajeti v kandidatovih dokazilih o poklicnih kvalifikacijah.
-(4) Zoper začasno odločbo iz prvega odstavka tega člena kandidat lahko zahteva sodno varstvo pred upravnim sodiščem, če s posebnim zakonom ni določeno drugače.".

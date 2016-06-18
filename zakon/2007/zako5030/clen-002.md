@@ -1,4 +1,0 @@
-# 2. člen
-1. člen se spremeni tako, da se glasi:
-"1. člen
-Ta zakon v skladu z Direktivo Evropskega parlamenta in Sveta 2005/36/ES z dne 7. septembra 2005 o priznavanju poklicnih kvalifikacij (UL L, št. 255 z dne 30. 9. 2005, stran 22), zadnjič spremenjeno z Direktivo Sveta 2006/100/ES z dne 20. novembra 2006 o prilagoditvi nekaterih direktiv na področju prostega gibanja oseb zaradi pristopa Bolgarije in Romunije (UL L, št. 363 z dne 20. 12. 2006, stran 141), (v nadaljnjem besedilu: Direktiva 2005/36/ES), ureja postopek priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev oziroma dejavnosti v Republiki Sloveniji ter določa organe, ki vodijo ta postopek.".
