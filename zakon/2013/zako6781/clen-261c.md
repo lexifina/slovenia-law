@@ -1,3 +1,0 @@
-# 261.c člen (obseg prenehanja ali konverzije kvalificiranih obveznosti)
-(1) Banka Slovenije v odločbi o prenehanju kvalificiranih obveznosti iz drugega odstavka 261.a člena tega zakona določi prenehanje kvalificiranih obveznosti banke v obsegu, ki je potreben zaradi pokrivanja izgube banke, z upoštevanjem vrednotenja sredstev v skladu s prejšnjim členom.
-(2) Banka Slovenije v odločbi o konverziji kvalificiranih obveznosti iz tretjega odstavka 261.a člena tega zakona odloči o konverziji kvalificiranih obveznosti v navadne delnice banke v obsegu, ki je potreben za doseganje kapitalske ustreznosti banke v skladu z zahtevami Banke Slovenije.

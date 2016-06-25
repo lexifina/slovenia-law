@@ -1,3 +1,0 @@
-# 36. člen
-Besedilo 350. člena se spremeni tako, da se glasi:
-"Če v postopku sodnega varstva proti odločbi Banke Slovenije o prenehanju banke ali o izrednem ukrepu sodišče ugotovi, da so podani razlogi, na podlagi katerih bi lahko v skladu z ZUS-1 odpravilo odločbo ali zadržalo njeno izvajanje, odločbe o odpravi ali zadržanja ne izda, ampak s sodbo ugotovi, da je odločba nezakonita in da niso bili podani pogoji za prenehanje ali za izredni ukrep. Odločba sodišča o nezakonitosti odločbe o prenehanju banke ali o izrednem ukrepu ne vpliva na učinke odločbe o prenehanju ali na učinke izrednega ukrepa po tem zakonu.".

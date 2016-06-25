@@ -1,6 +1,0 @@
-# 26. člen
-Besedilo 272. člena, ki postane nov prvi odstavek, se spremeni tako, da se glasi:
-"(1) Ukrep pristojnega organa države članice o začetku postopka zoper banko države članice, ki opravlja bančne in druge vzajemno priznane finančne storitve v Republiki Sloveniji neposredno ali preko podružnice, in se izreče banki države članice zaradi prenehanja ali reorganizacije banke, ima brez posebnega postopka priznanja in izvršitve odločbe pristojnega organa države članice neposredni učinek na območju Republike Slovenije, in sicer takoj, ko postane izvršljiv v državi članici.".
-Za prvim odstavkom se dodata nova drugi in tretji odstavek, ki se glasita:
-"(2) Postopki iz prejšnjega odstavka za prenehanje banke vključujejo vse postopke, ki imajo splošne učinke in jih uvedejo, spremljajo in nadzirajo upravni ali sodni organi države članice, da bi unovčili premoženje banke, vključno s postopki, ki se zaključijo s poravnavo ali drugim podobnim ukrepom.
-(3) Postopki iz prvega odstavka tega člena za reorganizacijo banke vključujejo ukrepe, o katerih odloči pristojni organ države članice sedeža za ohranitev ali ponovno vzpostavitev finančno trdnega položaja banke, in ki lahko vplivajo na že veljavne pravice tretjih oseb, vključno z ukrepi, ki vključujejo možnost začasne ustavitve plačil in izvršilnih ukrepov ali znižanje obveznosti.".
