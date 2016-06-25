@@ -1,0 +1,7 @@
+Z A K O N
+
+O RATIFIKACIJI SPORAZUMA MED VLADO REPUBLIKE SLOVENIJE IN VLADO GRUZIJE O MEDNARODNEM CESTNEM PREVOZU POTNIKOV IN BLAGA (BGEMCP)
+
+S P O R A Z U M
+
+med Vlado Republike Slovenije in Vlado Gruzije o mednarodnem cestnem prevozu potnikov in blaga
