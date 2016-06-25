@@ -1,3 +1,0 @@
-# 88.d člen (poročanje na zahtevo Banke Slovenije)
-(1) Banka Slovenije lahko od pravne osebe, v kateri je banka pridobila kvalificirano naložbo, zahteva poročanje o dejstvih in okoliščinah, ki so pomembne za poslovanje te osebe in vplivajo na oceno tveganj, ki nastajajo za banko v zvezi s to naložbo.
-(2) Če pravna oseba iz prvega odstavka tega člena poroča o navedenih dejstvih drugim pristojnim organom v Republiki Sloveniji, lahko Banka Slovenije od teh organov zahteva predložitev vseh informacij o poslovanju te osebe, ki vplivajo na oceno tveganj, ki nastajajo za banko v zvezi z njeno naložbo v to osebo.".

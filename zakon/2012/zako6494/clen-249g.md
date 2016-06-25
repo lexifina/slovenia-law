@@ -1,4 +1,0 @@
-# 249.g člen (izredni pooblaščenec s pooblastili člana uprave)
-(1) Če Banka Slovenije imenuje izrednega pooblaščenca za izvajanje funkcij člana uprave banke s pooblastili iz 1. ali 2. točke prvega odstavka 249.f člena tega zakona, lahko z odločbo določi tudi prenehanje ali omejitev pooblastil za zastopanje banke in vodenje poslov posameznim članom uprave banke.
-(2) V primeru imenovanja izrednega pooblaščenca za izvajanje funkcij člana uprave banke morajo člani uprave izrednemu pooblaščencu nemudoma predati posle, v zvezi s katerimi so članom uprave prenehala ali so bila omejena pooblastila za zastopanje banke.
-(3) Banka Slovenije v primeru iz prvega odstavka tega člena predlaga vpis imenovanja ali odpoklica izrednega pooblaščenca ali vpis prenehanja ali omejitve pooblastil za zastopanje članom uprave v register.

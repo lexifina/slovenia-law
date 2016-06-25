@@ -1,2 +1,0 @@
-# 128.b člen (prestrukturiranje pred nastankom insolventnosti dolžnika)
-Banka, ki v primeru ogrožene kapitalske ustreznosti dolžnika, ki je pravna oseba, z dolžnikom sklene dogovor o delnem odpustu dolga dolžniku, lahko v postopku zaradi insolventnosti, ki je začet zoper tega dolžnika v 12 mesecih po sklenitvi dogovora o odpustu dolga, uveljavlja poplačilo celotnega dolga, kot da dogovor ne bi bil sklenjen.".

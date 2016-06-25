@@ -1,6 +1,0 @@
-# 249.j člen (odgovornost)
-(1) Izredni pooblaščenec odgovarja banki za škodo, ki je posledica namernega ravnanja ali malomarnosti pri izvajanju pooblastil na podlagi odločbe o imenovanju ali posledica prekoračitve pooblastil. Odškodninska odgovornost izrednega pooblaščenca v razmerju do banke ni omejena na znesek plačil, ki jih je prejel iz naslova opravljanja svojih pooblastil v banki.
-(2) Izrednemu pooblaščencu ni treba banki povrniti škode iz prvega odstavka tega člena, če dejanje, s katerim je bila banki povzročena škoda, temelji na navodilih Banke Slovenije ali na zakonitem skupščinskem sklepu.
-(3) Če je izredni pooblaščenec imenovan v zvezi z izvajanjem pooblastil člana uprave banke na podlagi 1. ali 2. točke prvega odstavka 249.f člena tega zakona, se glede odgovornosti izrednega pooblaščenca v razmerju do banke ne uporabljajo določbe ZFPPIPP o odškodninski odgovornosti članov poslovodstva v razmerju do upnikov.
-(4) Za osebo, ki je imenovana za izvajanje funkcije izrednega pooblaščenca s pooblastili člana uprave banke na podlagi 1. ali 2. točke prvega odstavka 249.f člena tega zakona, se v primeru stečaja banke za tega člana ne uporabljajo določbe 10.a in 10.b člena ZGD-1.
-7.5.c Posebni ukrepi nadzora
