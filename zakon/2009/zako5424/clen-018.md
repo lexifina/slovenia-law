@@ -1,6 +1,0 @@
-# 18. člen
-Drugi in tretji odstavek 57. člena se spremenita tako, da se glasita:
-"(2) Delničarji banke, ki so skupno imetniki delnic, na podlagi katerih dosegajo ali presegajo kvalificirani delež v banki, in ki nameravajo skleniti delničarski sporazum (v nadaljnjem besedilu: kvalificirani delničarski sporazum), morajo pred sklenitvijo tega sporazuma pridobiti dovoljenje Banke Slovenije za pridobitev kvalificiranega deleža.
-(3) Udeleženci kvalificiranega delničarskega sporazuma, ki imajo veljavno dovoljenje za pridobitev kvalificiranega deleža, morajo pred vsako nadaljnjo pridobitvijo delnic banke, na podlagi katere skupni delež udeležencev kvalificiranega delniškega sporazuma preseže razpon, za katerega velja že izdano dovoljenje za pridobitev kvalificiranega deleža, pridobiti novo dovoljenje za pridobitev kvalificiranega deleža.".
-Peti odstavek se spremeni tako, da se glasi:
-"(5) Določbe 45. do 56. člena tega zakona o dovoljenju za pridobitev kvalificiranega deleža ter o pravicah in obveznostih posameznega kvalificiranega imetnika se smiselno uporabljajo tudi za udeležence kvalificiranega delniškega sporazuma. Pri smiselni uporabi določb iz prvega stavka tega odstavka se namesto pojma "kvalificirani imetnik" uporabi pojem "udeleženci kvalificiranega delniškega sporazuma.".

@@ -1,9 +1,0 @@
-# 15. člen
-51. člen se spremeni tako, da se glasi:
-"51. člen
-(prenehanje veljavnosti dovoljenja za pridobitev kvalificiranega deleža)
-(1) Če je Banka Slovenije po prvem odstavku 50. člena tega zakona določila rok za pridobitev delnic banke in bodoči kvalificirani imetnik v tem roku ne pridobi delnic banke, na podlagi katerih bi dosegel kvalificirani delež, dovoljenje preneha veljati v celoti.
-(2) Če je Banka Slovenije po prvem odstavku 50. člena tega zakona določila rok za pridobitev delnic banke in kvalificirani imetnik v tem roku doseže kvalificirani delež, ne doseže pa razpona, za katerega je izdano dovoljenje, dovoljenje preneha veljati v delu, ki presega razpon, ki ga je imetnik dosegel.
-(3) Če kvalificirani imetnik po pridobitvi deleža v razponu, za katerega je bilo izdano dovoljenje, odsvoji delnice banke tako, da njegov delež glasovalnih pravic ali delež v kapitalu banke ne dosega več razpona, za katerega je bilo izdano dovoljenje, dovoljenje preneha veljati v delu, ki presega razpon, ki ga imetnik dosega po odsvojitvi.
-(4) Tretji odstavek tega člena se smiselno uporablja tudi, če se delež kvalificiranega imetnika zmanjša zaradi povečanja osnovnega kapitala ali drugih korporacijskih dejanj banke.
-(5) O prenehanju ali delnem prenehanju veljavnosti dovoljenja za pridobitev kvalificiranega deleža izda Banka Slovenije ugotovitveno odločbo.".
