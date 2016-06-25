@@ -1,2 +1,0 @@
-## 13. POGLAVJE: BANČNO INTERESNO ZDRUŽENJE IN SISTEM IZMENJAVE INFORMACIJ O BONITETI STRANK (prenehalo veljati)
-# 390. člen (prenehal veljati)

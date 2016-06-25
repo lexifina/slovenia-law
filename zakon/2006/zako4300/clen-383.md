@@ -1,2 +1,0 @@
-## 12. POGLAVJE: DRUŽBE ZA IZDAJO ELEKTRONSKEGA DENARJA
-# 383. člen (prenehal veljati)
