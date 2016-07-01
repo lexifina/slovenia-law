@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o spodbujanju skladnega regionalnega razvoja (Uradni list RS, št. 20/11 in 57/12) se v 9. členu, četrtem odstavku 12. člena, prvem odstavku 15. člena, drugem, četrtem, petem in šestem odstavku 20. člena, prvem odstavku 21. člena, prvem odstavku 23. člena, tretjem odstavku 24. člena, prvem in šestem odstavku 25. člena ter drugem, četrtem, petem, osmem in devetem odstavku 29. člena beseda "služba" v vseh sklonih nadomesti z besedo "ministrstvo" v ustreznem sklonu.
