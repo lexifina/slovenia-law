@@ -1,0 +1,3 @@
+# 13. člen (začetek uporabe poglavja "XVII.A ZBIRKE PODATKOV")
+Novi poglavje "XVII.A ZBIRKE PODATKOV" ter členi 135.a, 135.b, 135.c, 135.č, 135.d in 135.e se začnejo uporabljati tri leta od dneva uveljavitve tega zakona. Do takrat se uporabljajo poglavje "XVII.a ZBIRKA PODATKOV" in členi 135.a, 135.b, 135.c in 135.č Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 16/07 - uradno prečiščeno besedilo, 36/08, 58/09, 64/09 - popr., 65/09 - popr., 20/11, 40/12 - ZUJF, 57/12 - ZPCP-2D in 47/15).
+Za študente višjih strokovnih šol se v centralni evidenci vodijo podatki iz drugega odstavka 135.a člena zakona od študijskega leta 2005/2006 dalje. Višje strokovne šole vnesejo te podatke v devetih mesecih od uveljavitve tega zakona.

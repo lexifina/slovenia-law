@@ -1,0 +1,2 @@
+# 12. člen (rok za pridobitev ustrezne specialnopedagoške izobrazbe)
+Ne glede na določbe 99. člena zakona strokovni delavci v javnoveljavnih programih vzgoje in izobraževanja otrok in mladostnikov s posebnimi potrebami, razen vzgojiteljev v vzgojnem programu za otroke in mladostnike s posebnimi potrebami, pridobijo ustrezno specialnopedagoško izobrazbo v skladu s 100. členom zakona najkasneje v dveh letih od uveljavitve tega zakona.
