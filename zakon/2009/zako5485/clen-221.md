@@ -1,5 +1,6 @@
 # 221. člen (druge kršitve ponudnikov plačilnih storitev)
 (1) Z globo od 2.500 do 80.000 eurov se za prekršek kaznuje ponudnik plačilnih storitev, ki pri opravljanju plačilnih storitev v Republiki Sloveniji:
+a1. ne posreduje Banki Slovenije podatkov o nadomestilih iz prvega odstavka 137.k člena tega zakona na način, v obliki in rokih, določenih s predpisom, izdanim na podlagi drugega odstavka 137.k člena tega zakona,
 1. omogoči uporabniku razpolaganje z denarnimi sredstvi v nasprotju s prvim odstavkom 140. člena tega zakona,
 2. če nadomestilo, ki ga ponudnik plačilnih storitev zaračunava za izvajanje rubeža in za izvrševanje prenosa denarnih sredstev ter za opravljanje drugih dejanj na podlagi sklepa o izvršbi ali zavarovanju, ni v skladu z zahtevo iz prvega odstavka 142. člena tega zakona,
 3. ne zagotavlja podatkov za vzpostavitev in vodenje registra transakcijskih računov v skladu s prvim odstavkom 144. člena tega zakona,

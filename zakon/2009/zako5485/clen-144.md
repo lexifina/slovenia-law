@@ -5,11 +5,12 @@
 - ime, priimek in naslov prebivališča imetnika, ki je fizična oseba, ali firma, sedež in naslov imetnika transakcijskega računa, ki je pravna oseba, ali firma, sedež in naslov ter ime in priimek imetnika transakcijskega računa, ki je podjetnik ali zasebnik, ali naziv in naslov drugega imetnika transakcijskega računa;
 - davčna številka imetnika, če je imetnik vpisan v davčni register v skladu z zakonom, ki ureja davčni register,
 - identifikacijska oznaka imetnika in država sedeža ali prebivališča imetnika, če imetnik ni vpisan v davčni register v skladu z zakonom, ki ureja davčni register,
-- matična številka imetnika, ki je pravna oseba, podjetnik ali zasebnik, če je imetnik vpisan v Poslovni register Slovenije;
+- matična številka imetnika, ki je pravna oseba, podjetnik ali zasebnik, če je imetnik vpisan v Poslovni register Slovenije,
+- šifra proračunskih uporabnikov, če je pri poslovnem subjektu vpisana v Poslovnem registru Slovenije.
 2. podatki o transakcijskem računu:
 - številka računa,
 - naziv in matična številka ponudnika, ki vodi transakcijski račun,
-- oznaka vrste računa, ki je določena s predpisom iz šestega odstavka tega člena,
+- oznaka vrste računa, ki je določena s predpisom iz osmega odstavka tega člena,
 - podatek, da sredstva na transakcijskem računu ne zadoščajo za izvršitev sklepa o izvršbi ali zavarovanju,
 - datum odprtja računa,
 - datum zaprtja računa.
