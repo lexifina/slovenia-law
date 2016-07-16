@@ -1,7 +1,0 @@
-# 37. člen
-V tretjem odstavku 54. člena se v točkah 1.3 in 1.4 znesek "377,1115" nadomesti z zneskom "490,0000", v točki 2.1 se znesek "320,7144" nadomesti z zneskom "460,0000", v točki 2.2 se znesek "41,4538" nadomesti z zneskom "70,0000" in v točki 8.2 se številka "0,5" nadomesti s številko "1,0".
-V enajstem odstavku se številka "2851 00 10" nadomesti s številko "2853 00 10".
-Petnajsti odstavek se spremeni tako, da se glasi:
-"(15) Ne glede na 66. člen tega zakona trošarina za energente iz tretjega odstavka tega člena, razen za zemeljski plin, ne sme biti nižja od minimalne trošarine, določene z Energetsko direktivo.".
-V dvajsetem odstavku se v drugem stavku besedilo "posamezno obdobje" nadomesti z besedilom "posamezni koledarski mesec" in besedilo "Direktive Sveta 2003/96/ES, z dne 27. oktobra 2003 o prestrukturiranju okvira Skupnosti za obdavčevanje energentov in električne energije (UL L št. 283 z dne 31. 10. 2003, str. 51), zadnjič spremenjene z Direktivo Sveta 2004/75/ES z dne 29. aprila 2004 o spremembi Direktive Sveta 2003/96/ES glede možnosti Cipra za uporabo začasnih izjem ali znižanih stopenj obdavčitve energentov in električne energije (UL L št. 157 z dne 30. 4. 2004, str. 100), vendar največ 130 eurov za tisoč litrov" nadomesti z besedilom "Energetske direktive".
-V štiriindvajsetem odstavku se za besedilom "in prilog k zahtevku" doda vejica in besedilo "rok za predložitev zahtevka".
