@@ -1,4 +1,0 @@
-# 30. člen
-V 49. členu se v prvem odstavku besedilo 3. in 4. točke spremeni tako, da se glasi:
-"3. polnjeni z zdrobljenim mešanim tobakom in z zunanjim ovojem tobačne barve, ki v celoti ovija izdelek, vključno filter, kjer je to primerno, vendar ne ovija ustnika pri cigarah z ustnikom, in s prevezo, oboje iz rekonstituiranega tobaka, katerih teža na enoto brez filtra ali ustnika ni manjša od 1,2 grama in kjer je ovoj glede na vzdolžno os cigare spiralno ovit pod ostrim kotom najmanj 30° ali
-4. polnjeni z zdrobljenim mešanim tobakom in z zunanjim ovojem tobačne barve iz rekonstituiranega tobaka, ki v celoti ovija izdelek, vključno filter, kjer je to primerno, vendar ne ovija ustnika pri cigarah z ustnikom, katerih teža na enoto brez filtra ali ustnika ni manjša od 2,3 grama, obseg cigare pa je najmanj ena tretjina dolžine cigare in ne manjši od 34 mm.".

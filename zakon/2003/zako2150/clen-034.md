@@ -1,4 +1,0 @@
-# 34. člen
-V 54. členu se za desetim odstavkom dodata enajsti in dvanajsti odstavek, ki se glasita:
-"(11) Za mineralno olje in plin, kateremu se v trošarinskem skladišču doda biogorivo iz petega odstavka 53. člena tega zakona, in ki je dokazljivo in nadzorovano porabljeno pri preizkusnih projektih za tehnološki razvoj okolju prijaznejših izdelkov, ima imetnik trošarinskega skladišča pravico do vračila plačane trošarine ali do oprostitve plačila trošarine sorazmerno deležu dodanega biogoriva, vendar do največ 25%.
-(12) Količine, na katere se nanaša pravica do vračila plačane trošarine ali do oprostitve plačila trošarine, način vračila trošarine, organ, pristojen za vračilo, roke za predložitev zahtevka, roke za vračilo trošarine ter pogoje, ki jih mora izpolnjevati imetnik trošarinskega skladišča iz prejšnjega odstavka, predpiše minister, pristojen za finance v soglasju z ministrom, pristojnim za kmetijstvo ter ministrom, pristojnim za okolje.".
