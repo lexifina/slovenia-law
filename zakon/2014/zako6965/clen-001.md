@@ -1,2 +1,0 @@
-# 1. člen
-V Zakonu o trošarinah (Uradni list RS, št. 97/10 - uradno prečiščeno besedilo, 48/12 in 109/12) se v 1.a členu na koncu prve alineje podpičje nadomesti z vejico in doda besedilo "zadnjič spremenjeno z Direktivo Sveta 2013/61/EU z dne 17. decembra 2013 o spremembi direktiv 2006/112/ES in 2008/118/ES, kar zadeva najbolj oddaljene francoske regije in zlasti Mayotte (UL L št. 353 z dne 28. 12. 2013, str. 5; v nadaljnjem besedilu: Direktiva Sveta 2008/118/ES);".
