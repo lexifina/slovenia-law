@@ -1,0 +1,3 @@
+# 16. člen (objava seznamov)
+(1) Banka Slovenije na svoji spletni strani objavi seznam s standardizirano terminologijo iz 34. točke 4. člena zakona v treh mesecih od začetka veljavnosti regulativnih tehničnih standardov, ki jih sprejme Evropska komisija v skladu s četrtim odstavkom 3. člena Direktive 2014/92/EU.
+(2) Banka Slovenije vsaka štiri leta po objavi končnega seznama iz regulativnih tehničnih standardov, ki jih sprejme Evropska komisija v skladu s četrtim odstavkom 3. člena Direktive 2014/92/EU, oceni in, kadar je potrebno, posodobi seznam najbolj reprezentativnih storitev iz 137.g člena zakona ter o tem obvesti Evropsko komisijo in Evropski bančni organ.

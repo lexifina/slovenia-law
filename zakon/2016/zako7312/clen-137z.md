@@ -1,0 +1,3 @@
+# 137.z člen (splošne informacije o osnovnih plačilnih računih)
+(1) Banka objavi informacije o razpoložljivosti in splošnih cenovnih pogojih osnovnih plačilnih računov, postopkih za uveljavitev pravice do dostopa do osnovnega plačilnega računa in načinih za dostop do postopkov izvensodnega reševanja sporov na svojih javnih spletnih straneh in v vseh prostorih, v katerih posluje s potrošniki.
+(2) Banka da potrošniku brezplačno na voljo lahko dostopne informacije o posebnih značilnostih in pogojih uporabe osnovnega plačilnega računa, ki ga ponuja, z njim povezanih nadomestilih ter brezplačno pomoč v zvezi s tem. Iz informacij mora biti jasno razvidno, da za dostop do osnovnega plačilnega računa nakup dodatnih storitev ni obvezen.".
