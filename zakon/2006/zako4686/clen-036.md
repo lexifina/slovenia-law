@@ -1,2 +1,0 @@
-# 36. člen
-Oseba, ki je na dan uveljavitve tega zakona opravljala dejavnost proizvodnje ali trgovine z biogorivi iz 53. člena zakona, mora uskladiti poslovanje z določbami tega zakona do 1. marca 2007.
