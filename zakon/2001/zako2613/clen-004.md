@@ -1,2 +1,0 @@
-# 4. člen
-Trošarinski zavezanci za plačilo trošarine za alkoholne pijače in alkohol plačujejo trošarino v skladu s tem zakonom za trošarinske izdelke, ki jih sprostijo v porabo od vključno 1. januarja 2002.
