@@ -1,2 +1,0 @@
-# 26. člen
-16. člen tega zakona se uporablja od vložitve obračuna trošarine za leto 2001 dalje.
