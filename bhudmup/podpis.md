@@ -1,0 +1,1 @@
+Republika Slovenija in Madžarska (v nadaljevanju: pogodbenici) sta se v želji, da prilagodita potek mejne črte med mejnima znakoma A613 in A643.2 zaradi vodnogospodarske ureditve potoka Ledava, sporazumeli o naslednjem:
