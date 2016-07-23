@@ -1,0 +1,13 @@
+# 12. člen Licenčnine in avtorski honorarji
+
+1. Licenčnine in avtorski honorarji, ki nastanejo v državi pogodbenici in se plačajo rezidentu druge države pogodbenice, se lahko obdavčijo v tej drugi državi pogodbenici.
+
+2. Take licenčnine in avtorski honorarji pa se lahko obdavčijo tudi v državi pogodbenici, v kateri nastanejo, in v skladu z zakonodajo te države pogodbenice, če pa je upravičeni lastnik licenčnin in avtorskih honorarjev rezident druge države pogodbenice, tako obračunani davek ne sme presegati desetih odstotkov bruto zneska licenčnin in avtorskih honorarjev.
+
+3. Izraz «licenčnine in avtorski honorarji», kakor je uporabljen v tem členu, pomeni vse vrste plačil, prejetih kot povračilo za uporabo ali pravico do uporabe kakršnih koli avtorskih pravic za literarno, umetniško ali znanstveno delo, vključno s programsko opremo, kinematografskimi filmi, katerega koli patenta, blagovne znamke, vzorca ali modela, načrta, tajne formule ali postopka ali za informacije o industrijskih, komercialnih ali znanstvenih izkušnjah, in plačila za uporabo ali pravico do uporabe industrijske, komercialne ali znanstvene opreme.
+
+4. Določbe prvega in drugega odstavka se ne uporabljajo, če upravičeni lastnik licenčnin in avtorskih honorarjev, ki je rezident države pogodbenice, posluje v drugi državi pogodbenici, v kateri licenčnine in avtorski honorarji nastanejo, prek stalne poslovne enote v njej in je pravica ali premoženje, v zvezi s katerim se licenčnine in avtorski honorarji plačajo, dejansko povezano s tako stalno poslovno enoto. V tem primeru se uporabljajo določbe 7. člena.
+
+5. Šteje se, da licenčnine in avtorski honorarji nastanejo v državi pogodbenici, kadar je plačnik rezident te države pogodbenice. Kadar pa ima oseba, ki plačuje licenčnine in avtorske honorarje, ne glede na to, ali je rezident države pogodbenice, v državi pogodbenici stalno poslovno enoto, v zvezi s katero je nastala obveznost za plačilo licenčnin in avtorskih honorarjev, ter take licenčnine in avtorske honorarje krije taka stalna poslovna enota, se šteje, da so take licenčnine in avtorski honorarji nastali v državi pogodbenici, v kateri je stalna poslovna enota.
+
+6. Kadar zaradi posebnega odnosa med plačnikom in upravičenim lastnikom ali med njima in drugo osebo znesek licenčnin in avtorskih honorarjev glede na uporabo, pravico ali informacijo, za katero se plačujejo, presega znesek, za katerega bi se sporazumela plačnik in upravičeni lastnik, če takega odnosa ne bi bilo, se določbe tega člena uporabljajo samo za nazadnje omenjeni znesek. V tem primeru se presežni del izplačil še naprej obdavčuje v skladu z zakonodajo vsake države pogodbenice, pri čemer je treba upoštevati druge določbe te konvencije.
