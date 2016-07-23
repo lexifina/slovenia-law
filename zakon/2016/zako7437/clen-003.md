@@ -1,0 +1,2 @@
+# 3. člen
+V 37. členu se za besedilom "državnega pravobranilstva" beseda "in" nadomesti z vejico, za besedilom "ustavnega sodišča" se doda besedilo "in varuha človekovih pravic", za besedilom "kaznovalnega prava," se doda besedilo "sistemskega urejanja omejevanja korupcije,", za besedilom "sodb mednarodnih sodišč," pa se doda besedilo "preučevanja in načrtovanja uveljavljanja temeljnih človekovih pravic in svoboščin,".
