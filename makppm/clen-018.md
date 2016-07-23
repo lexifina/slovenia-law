@@ -1,0 +1,3 @@
+# 18. člen Ničnost pogodbenih določb
+
+Pogodbene določbe, dogovorjene pred nastankom nesreče, ki je povzročila smrt ali telesno poškodbo potnika ali izgubo ali poškodovanje prtljage, katerih namen je razbremeniti prevoznika odgovornosti do potnika ali predpisati nižjo omejitev odgovornosti, kot je določena s to konvencijo, razen v primerih iz četrtega odstavka 8. člena, in določbe, katerih namen je prevaliti dokazno breme s prevoznika ali dejanskega prevoznika ali katerih posledica je omejitev možnosti iz prvega odstavka 17. člena, so nične, vendar pa ničnost takih pogodbenih določb ne pomeni ničnosti celotne prevozne pogodbe, za katero še naprej veljajo določbe te konvencije.
