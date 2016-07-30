@@ -1,0 +1,2 @@
+# 2. člen (dodatek za delovno dobo)
+Delavci, ki so ob uveljavitvi Zakona o delovnih razmerjih (Uradni list RS, št. 21/13) ohranili dodatek za delovno dobo najmanj v višini 0,5 odstotka od osnovne plače za vsako izpolnjeno leto delovne dobe in so ga v tej višini imeli do uveljavitve Zakona o spremembah in dopolnitvah Pomorskega zakonika (Uradni list RS, št. 33/16; v nadaljnjem besedilu: PZ-F), ohranijo tak dodatek tudi po uveljavitvi PZ-F, razen če je s kolektivno pogodbo na ravni dejavnosti določeno drugače.
