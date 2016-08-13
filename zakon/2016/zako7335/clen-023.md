@@ -1,0 +1,8 @@
+# 23. člen
+V prvem odstavku 74. člena se v prvem stavku za besedo "dopolnitev" doda besedilo "ali spremembo v delu, v katerem ponudba ni formalno popolna", v drugem stavku se za besedo "dopolnitev" dodata besedi "oziroma spremembo", v tretjem stavku pa se za besedo "dopolnjena" dodata besedi "oziroma spremenjena".
+Tretji in četrti odstavek se spremenita tako, da se glasita:
+"(3) Razen kadar gre za popravek ali dopolnitev očitne napake, če zaradi tega popravka ali dopolnitve ni dejansko predlagana nova ponudba, ponudnik ne sme dopolnjevati ali popravljati:
+- svoje cene brez DDV na enoto, vrednosti postavke brez DDV, skupne vrednosti ponudbe brez DDV, razen kadar se skupna vrednost spremeni v skladu s četrtim odstavkom tega člena in ponudbe v okviru meril;
+- tistega dela ponudbe, ki se veže na tehnične specifikacije predmeta naročila;
+- tistih elementov ponudbe, ki vplivajo ali bi lahko vplivali na drugačno razvrstitev njegove ponudbe glede na preostale ponudbe, ki jih je naročnik prejel v postopku naročanja.
+(4) Ne glede na prejšnji odstavek sme izključno naročnik ob pisnem soglasju ponudnika popraviti računske napake, ki jih odkrije pri pregledu in ocenjevanju ponudb. Pri tem se količina in cena na enoto brez DDV ne smeta spreminjati. Če se pri pregledu in ocenjevanju ponudb ugotovi, da je prišlo do računske napake zaradi nepravilne vnaprej določene matematične operacije s strani naročnika, lahko naročnik ob pisnem soglasju ponudnika popravi računsko napako tako, da ob upoštevanju cen na enoto brez DDV in količin, ki jih ponudi ponudnik, izračuna vrednost ponudbe z upoštevanjem pravilne matematične operacije. Ne glede na prejšnji odstavek lahko naročnik ob pisnem soglasju ponudnika napačno zapisano stopnjo DDV popravi v pravilno.".

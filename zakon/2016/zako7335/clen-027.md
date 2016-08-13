@@ -1,0 +1,3 @@
+# 27. člen
+V prvem odstavku 79. člena se druga alineja spremeni tako, da se glasi:
+"- če je vrednost dela naročila, ki ga mora ali namerava ponudnik izvesti s podizvajalcem, enaka ali večja od vrednosti, od katere dalje je treba naročilo poslati v objavo Uradu za publikacije Evropske unije, ter niso izpolnjeni pogoji iz prvega ali tretjega odstavka 22. člena tega zakona ali če objavo obvestila o naročilu za podizvajalce iz 9. točke prvega odstavka 46. člena tega zakona zahteva naročnik, na portal javnih naročil in Uradu za uradne publikacije Evropske unije v objavo poslati obvestilo o naročilu za podizvajalce iz 9. točke prvega odstavka 46. člena tega zakona.".

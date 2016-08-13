@@ -1,0 +1,2 @@
+# 21. člen
+V prvem odstavku 72. člena se za besedilom "razen za naročila" doda vejica, besedilo "iz drugega odstavka 7. člena tega zakona, za katera preveriti" pa se nadomesti z besedilom "katerih vrednost je nižja od vrednosti, od katerih dalje je treba naročilo poslati v objavo Uradu za publikacije Evropske unije, in naročila iz 3. in 4. točke prvega odstavka 22. člena tega zakona, za katera preveri".
