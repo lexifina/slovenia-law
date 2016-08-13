@@ -1,2 +1,0 @@
-# 2. člen (prijavno-odjavna obveznost)
-Posameznik mora prijaviti stalno prebivališče in spremembo naslova stanovanja, odjaviti stalno prebivališče, če se za stalno odseli z območja Republike Slovenije, prijaviti začasni odhod z območja Republike Slovenije, ki traja več kot tri mesece ter prijaviti in odjaviti začasno prebivališče. Stanodajalec mora prijaviti in odjaviti gosta ter prijaviti in odjaviti začasno prebivališče posameznika, kot določa ta zakon.
