@@ -1,3 +1,0 @@
-# 35.a člen (pristojnost prekrškovnih organov)
-(1) Za odločanje o prekrških iz 32., 33., 34. člena in tretjega ter četrtega odstavka 35. člena je pristojen Prometni inšpektorat RS. Za odločanje o prekrških iz prvega odstavka 35. člena, ki se nanašajo na smučanje pod vplivom alkohola, prepovedanih drog, psihoaktivnih zdravil ali drugih psihoaktivnih snovi, je pristojna policija, za odločanje o prekrških iz prve, pete in devete alinee 32. člena, o prekrških iz prve in četrte alinee prvega odstavka 35. člena, drugega in petega odstavka 35. člena pa Inšpektorat RS za notranje zadeve.
-(2) Organi iz prejšnjega odstavka lahko izrekajo globe za prekrške po tem zakonu v okviru razpona, predpisanega po tem zakonu.

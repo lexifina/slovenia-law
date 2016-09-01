@@ -1,5 +1,0 @@
-# 28. člen (posebna pooblastila nadzornika in policista)
-(1) Nadzornik ali policist ima pravico smučarju prepovedati smučanje in mu odvzeti vozovnico za isti dan brez povračila in o tem obvestiti upravljavca smučišča, ki prekliče veljavnost vozovnice in mu onemogoči nakup nove vozovnice za isti dan, vendar mora smučarju omogočiti vrnitev v dolino, če vozovnica to omogoča.
-(2) Ukrep iz prejšnjega odstavka lahko uporabi nadzornik zoper smučarja, ki ravna v nasprotju z določbami iz drugega in tretjega odstavka 24. člena tega zakona.
-(3) Ukrep iz prvega odstavka tega člena lahko uporabi policist, ko ugotovi, da oseba smuča pod vplivom alkohola, prepovedanih drog, psihoaktivnih zdravil ali drugih psihoaktivnih snovi oziroma zaradi odklona preizkusa s sredstvi ali napravami za ugotavljanje prisotnosti alkohola ali strokovnega pregleda. Ob pogojih iz prejšnjega odstavka pa le, če nadzornik ni prisoten na kraju kršitve in smučar neposredno ogroža varnost oseb na smučišču.
-(4) O odvzemu vozovnice se izda potrdilo. Obrazec potrdila predpiše minister, pristojen za notranje zadeve.
