@@ -1,0 +1,3 @@
+# 46. člen (prepoved obratovanja)
+
+Inšpektor inšpektorata, pristojnega za žičniške naprave, inšpektorata, pristojnega za notranje zadeve, in zdravstvenega inšpektorata lahko v okviru svojih pristojnosti iz tega zakona začasno prepove obratovanje smučišča ali posamezne smučarske proge oziroma dela smučišča, če ugotovi, da niso izpolnjene zahteve za varnost na smučišču po tem zakonu in določi rok za odpravo pomanjkljivosti. Če pomanjkljivosti niso odpravljene v določenem roku, inšpektor predlaga ministrstvu, pristojnemu za področje žičniških naprav, da dovoljenje za obratovanje smučišča odvzame ali ga delno razveljavi ob upoštevanju petega odstavka 4. člena tega zakona.

@@ -1,0 +1,7 @@
+# 26. člen (prepoved smučanja in odvzem smučarske vozovnice)
+
+(1) Ko policist ugotovi, da ima oseba na smučišču pri izvajanju smučanja ali drugih športnih aktivnostih in dejavnosti v organizmu več alkohola, kot je dovoljeno, ali prisotnost prepovedanih drog, psihoaktivnih zdravil ali drugih psihoaktivnih snovi ali ko ta oseba odkloni sodelovanje pri preverjanju takih snovi v organizmu, mu policist prepove nadaljnje smučanje in odvzame smučarsko vozovnico za isti dan brez povračila stroškov nakupa smučarske vozovnice ter prepove nadaljnje športne aktivnosti in dejavnosti na smučišču. Policist o tem obvesti upravljavca smučišča, ki mora preklicati vozovnico in onemogočiti nakup nove vozovnice za isti dan ter osebi omogočiti vrnitev do vstopa na smučišče, če odvzeta vozovnica to omogoča.
+
+(2) Smučarju, ki ne ravna v skladu s 1. do 10. točko tretjega odstavka 23. člena tega zakona ali 1. do 5. točko četrtega odstavka 23. člena tega zakona, lahko nadzornik prepove smučanje in mu odvzame vozovnico za isti dan brez povračila stroškov nakupa smučarske vozovnice ter prepove nadaljnje športne aktivnosti in dejavnosti na smučišču. O tem obvesti upravljavca smučišča, ki mora preklicati vozovnico in onemogočiti nakup nove vozovnice za isti dan ter osebi omogočiti vrnitev do vstopa na smučišče, če odvzeta vozovnica to omogoča.
+
+(3) O odvzemu vozovnice se izda potrdilo. Obrazec potrdila predpiše minister, pristojen za notranje zadeve.
