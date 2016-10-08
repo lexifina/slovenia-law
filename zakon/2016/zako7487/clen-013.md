@@ -1,0 +1,2 @@
+# 13. člen
+V prvem odstavku 72. člena se na koncu doda nov stavek, ki se glasi: "Ne glede na prejšnji stavek se katastrski dohodek od zemljišč izven Slovenije, od pridelave posebnih kultur in proizvodnje vina, pripiše posameznemu zavezancu, članu kmečkega gospodinjstva, za katerega se v skladu z 69. členom tega zakona šteje, da opravlja osnovno kmetijsko in osnovno gozdarsko dejavnost, v sorazmernem deležu glede na skupno število zavezancev v kmečkem gospodinjstvu.".

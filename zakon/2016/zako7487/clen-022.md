@@ -1,0 +1,2 @@
+# 22. člen
+V tretjem odstavku 199. člena Zakona za uravnoteženje javnih financ (Uradni list RS, št. 40/12, 96/12 - ZPIZ-2, 104/12 - ZIPRS1314, 105/12, 25/13 - odl. US, 46/13 - ZIPRS1314-A, 56/13 - ZŠtip-1, 63/13 - ZOsn-I, 63/13 - ZJAKRS-A, 99/13 - ZUPJS-C, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415, 101/13 - ZDavNepr, 107/13 - odl. US, 85/14, 95/14, 24/15 - odl. US, 90/15 in 102/15) se besedilo "davčni leti 2016 in 2017" nadomesti z besedilom "davčno leto 2016".

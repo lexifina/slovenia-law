@@ -1,0 +1,2 @@
+# 12. člen
+V prvem odstavku 71. člena se na koncu doda nov stavek, ki se glasi: "Davčna osnova od potencialnih tržnih dohodkov kmetijskih in gozdnih zemljišč izven Slovenije je katastrski dohodek za kmetijsko zemljišče brez podrobnejše vrste dejanske rabe bonitete med 51 in 60 ter za gozdno zemljišče seštevek katastrskega dohodka rastiščnega koeficienta od 8 do 9 in katastrskega dohodka bonitete med 51 in 60.".

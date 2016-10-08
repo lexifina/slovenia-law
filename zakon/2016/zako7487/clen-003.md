@@ -1,0 +1,3 @@
+# 3. člen
+V 27. členu se za 7. točko, na koncu katere se pika nadomesti s podpičjem, doda nova 8. točka, ki se glasi:
+"8. pravično zadoščenje, razen v delu, ki predstavlja nadomestilo za izgubljen dohodek, zaradi kršitve pravic iz Konvencije o varstvu človekovih pravic in temeljnih svoboščin in Protokolov k tej Konvenciji, ki obvezujejo Slovenijo, ki je bilo prisojeno s sodbo Evropskega sodišča za človekove pravice ali se ga je Republika Slovenija zavezala izplačati v enostranski izjavi, v prijateljski ali izvensodni poravnavi, ki je bila podana oziroma sklenjena z namenom zaključka postopka pred Evropskim sodiščem za človekove pravice.".
