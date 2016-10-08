@@ -1,0 +1,9 @@
+# 12. člen (postopek ugotavljanja)
+
+(1) Pristojni organ vsaka tri leta do 15. aprila tekočega leta ob upoštevanju podatkov iz ekonomskih računov za kmetijstvo in gozdarstvo po zadnjih znanih podatkih za zadnjih pet let pred letom ugotavljanja katastrskega dohodka, podatkov iz zemljiškega katastra in podatkov iz registra čebelnjakov, v soglasju z ministrstvom, pristojnim za kmetijstvo in gozdarstvo, pripravi predlog lestvic katastrskega dohodka, predlog odstotkov zmanjšanja katastrskega dohodka po vrstah rabe zemljišč in vrstah območij posebnih režimov za kmetovanje in gospodarjenje z gozdovi ter predlog pavšalne ocene dohodka na čebelji panj.
+
+(2) Vlada na podlagi predloga iz prejšnjega odstavka določi lestvice katastrskega dohodka, odstotke zmanjšanja katastrskega dohodka po vrstah dejanske rabe zemljišč in vrstah območij posebnih režimov za kmetovanje in gospodarjenje z gozdovi in pavšalno oceno dohodka na čebelji panj in jih najpozneje do 30. junija leta v katerem prejme predlog iz prejšnjega odstavka, objavi v Uradnem listu Republike Slovenije.
+
+(3) Katastrski dohodek in pavšalna ocena dohodka na čebelji panj, ugotovljena v skladu s prvim in drugim odstavkom tega člena, se začneta pripisovati kmetijskim in gozdnim zemljiščem oziroma čebeljim panjem s 1. januarjem leta po letu objave lestvic katastrskega dohodka in pavšalne ocene dohodka na čebelji panj. Katastrski dohodek se zemljiščem v zemljiškem katastru pripisuje ob vsaki spremembi podatka o parceli, ki ima vpliv na pripis katastrskega dohodka.
+
+(4) Geodetska uprava Republike Slovenije zagotavlja vpogled v trenutne podatke o višini katastrskega dohodka za kmetijska in gozdna zemljišča. Najpozneje do 20. septembra tekočega leta Geodetska uprava Republike Slovenije zagotovi tudi vpogled v podatke o katastrskem dohodku, izračunanem po lestvicah katastrskega dohodka za naslednje leto.
