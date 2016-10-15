@@ -1,3 +1,0 @@
-# 10. člen
-Pokop umrlega prijavi upravljalcu pokopališča njegov družinski član ali oseba, ki je z njim stalno živela oziroma ga je po predpisih morala vzdrževati in zanj skrbeti. Če takih oseb ni, prijavi pokop organizacija združenega dela oziroma delovna skupnost, v kateri je bil umrli v delovnem razmerju, krajevna skupnost, organ socialnega skrbstva, uprava bolnišnice oziroma druga zdravstvena ali socialna ustanova ali hišni svet.
-Prijavi iz prejšnjega odstavka je treba priložiti listino o prijavi smrti. Kadar smrti ni bilo mogoče prijaviti, se prijavi pokopa priloži druga listina, predpisana s posebnim zakonom.
