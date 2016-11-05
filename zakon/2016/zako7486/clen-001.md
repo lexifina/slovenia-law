@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o davku od dohodkov pravnih oseb (Uradni list RS, št. 117/06, 56/08, 76/08, 5/09, 96/09, 110/09 - ZDavP-2B, 43/10, 59/11, 24/12, 30/12, 94/12, 81/13, 50/14, 23/15 in 82/15) se na koncu šestega odstavka 25. člena doda besedilo: "Ta odstavek se do dne ustrezne odobritve nove sheme državne pomoči za tvegan kapital uporablja za zavezanca, ki je vstopil v shemo državne pomoči za tvegan kapital, do prenehanja te sheme za tega zavezanca oziroma do prenehanja zavezanca ali družbe tveganega kapitala.".
