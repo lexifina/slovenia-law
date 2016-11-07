@@ -1,0 +1,3 @@
+# 3. člen
+Za drugim odstavkom 5. člena se doda nov tretji odstavek, ki se glasi:
+"(3) Ta zakon in predpisi o prekrških s področja varstva javnega reda in miru, orožja, obrambe ter proizvodnje in prometa s prepovedanimi drogami veljajo tudi za pripadnika Slovenske vojske, Policije ali druge uradne osebe oziroma javnega uslužbenca v njihovem okviru, ki stori prekršek v tujini pri izvajanju mirovne operacije, misije, vojaške vaje ali druge podobne aktivnosti, če je to ravnanje kaznivo tudi po predpisih države, na območju katere je bilo izvršeno, vendar organi te države niso pristojni za izvedbo postopka ali postopek v tej državi ni bil uveden iz drugih razlogov.".

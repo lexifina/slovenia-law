@@ -1,0 +1,4 @@
+# 18. člen
+Drugi odstavek 56. člena se spremeni tako, da se glasi:
+"(2) Pisna odločba o prekršku mora imeti številko, datum, podpis pooblaščene uradne osebe in žig prekrškovnega organa, ki jo je izdal, ter uvod, izrek in pravni pouk, kadar je zoper njo napovedana vložitev zahteve za sodno varstvo, pa tudi obrazložitev.".
+V četrtem odstavku se besedilo "o uklonilnem zaporu, če globa ne bo pravočasno plačana, oziroma da se bodo neplačana globa in stroški postopka prisilno izterjali, ter o možnosti nadomestitve uklonilnega zapora oziroma plačila z opravo določenih nalog" nadomesti z besedilom "o možnosti za nadomestitev plačila globe in stroškov postopka z delom v splošno korist in o tem, da se bodo neplačana globa in stroški postopka izterjali prisilno, če globe ne bo mogoče izterjati niti prisilno, pa se bo lahko v skladu z zakonom izvršila z nadomestnim zaporom".

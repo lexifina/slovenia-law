@@ -1,0 +1,3 @@
+# 26. člen
+Drugi odstavek 113.d člena se spremeni tako, da se glasi:
+"(2) Sodišče ugodi predlogu za vrnitev začasno odvzetega vozniškega dovoljenja le, če iz predloženega zdravniškega spričevala izhaja, da je oseba telesno in duševno zmožna za vožnjo motornih vozil, in če narava in pomen očitane kršitve, osebnost obdolženca, njegovo prejšnje življenje in druge okoliščine kažejo, da začasen odvzem ni neizogibno potreben za varnost cestnega prometa. Za razjasnitev teh okoliščin lahko sodišče pridobi pisno izjavo obdolženca ali ga zasliši ter izvede druge dokaze, potrebne za odločitev o predlogu.".

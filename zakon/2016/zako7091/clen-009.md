@@ -1,0 +1,2 @@
+# 9. člen
+Na koncu drugega odstavka 27. člena se doda nov drugi stavek, ki se glasi: "Če to opravičujejo okoliščine iz drugega, tretjega in petega odstavka prejšnjega člena, se za istovrstne prekrške v steku, za katere je izdana ena odločba o prekršku (56. člen), lahko storilcu izreče enotna sankcija, ki ne dosega seštevka določenih sankcij ali ne presega največje mere posamezne vrste sankcije po tem zakonu.".

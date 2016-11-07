@@ -1,0 +1,2 @@
+# 28. člen
+Na koncu petega odstavka 144. člena se doda nov drugi stavek, ki se glasi: "Če se te okoliščine ugotovijo po izdaji odločitve o stroških, sme sodišče na predlog obdolženca s posebnim sklepom oprostiti obdolženca povrnitve stroškov prekrškovnega postopka ali odložiti plačilo stroškov prekrškovnega postopka. Predlog lahko obdolženec poda najpozneje do izteka roka za plačilo, ki ga določi sodišče.".
