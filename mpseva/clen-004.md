@@ -1,0 +1,3 @@
+# 4. ČLEN
+
+Za izvedbo vsakega neobveznega programa agencije, za katerega so zadevne države članice soglasno potrdile udeležbo Slovenije, ima Slovenija od dneva te odobritve pravice in obveznosti sodelujoče države, kot je določeno v izjavi glede zadevnega programa, veljavnih pravilih in drugih sklepih, ki urejajo izvajanje omenjenega programa. Zlasti pa Slovenija prispeva h kritju stroškov, ki izhajajo iz izvajanja omenjenega programa v skladu z določbami izjave in katere koli naknadne spremembe te izjave, ki bi jo sprejele sodelujoče države na zasedanjih sveta agencije ali podrejenih teles sveta.
