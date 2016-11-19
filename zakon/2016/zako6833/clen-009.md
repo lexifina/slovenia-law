@@ -1,0 +1,3 @@
+# 9. člen
+Drugi odstavek 82.a člena se spremeni, tako da se glasi:
+"Ministrstvo, pristojno za kulturo, vsako leto objavi javni poziv ali javni razpis za dodelitev kulturnih žepnin oziroma delovnih štipendij, namenjenih podpori izvedbe projektov oziroma aktivnosti samozaposlenih v kulturi. Samozaposleni v kulturi lahko prejme kulturno žepnino oziroma delovno štipendijo v skladu s tem členom pod pogoji, ki se določijo v besedilu javnega poziva oziroma javnega razpisa. Za izvedbo javnega poziva oziroma javnega razpisa in sklenitve pogodbe o financiranju se smiselno uporabljajo določbe IV. In V. poglavja tega zakona.".

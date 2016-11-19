@@ -1,0 +1,2 @@
+# 102.b člen (financiranje projektov, izbranih pri institucijah zunaj Republike Slovenije)
+Javnim zavodom in drugim kulturnim izvajalcem se lahko, ne glede na določbe tega zakona, ki urejajo financiranje oziroma sklepanje pogodb v javnem interesu, ob upoštevanju nediskriminatorne in enakopravne obravnave javna sredstva dodelijo na podlagi neposredne pogodbe, če je predmet sofinanciranja kulturni projekt ali kulturni program, ki je sofinanciran iz proračuna Evropske unije in je bil izbran na javnem razpisu, ki ga je izvedla institucija zunaj Republike Slovenije.".
