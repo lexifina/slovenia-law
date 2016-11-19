@@ -1,0 +1,8 @@
+# 118. člen (predložitev podatkov stalni koordinacijski skupini, ustanovljeni skladno z zakonom, ki ureja omejevalne ukrepe)
+(1) Urad predloži stalni koordinacijski skupini, ustanovljeni skladno z zakonom, ki ureja omejevalne ukrepe, podatke iz svojih evidenc iz 1. do 5. in 9. do 12. točke četrtega odstavka 136. člena tega zakona, ki jih ta skupina potrebuje pri izvajanju svojih pristojnosti v skladu s predpisi, ki urejajo omejevalne ukrepe.
+(2) Ne glede na določbo prejšnjega odstavka urad stalni koordinacijski skupini, ustanovljeni skladno z zakonom, ki ureja omejevalne ukrepe, ne predloži podatkov iz evidence iz 4. in 5. točke četrtega odstavka 136. člena tega zakona, če tuji pristojni organ za takšno predložitev ni podal soglasja.
+(3) Podatke iz prejšnjega odstavka lahko stalna koordinacijska skupina zahteva le na podlagi obrazložene pisne zahteve, iz katere mora biti razvidno, da v zvezi z osebami ali transakcijami izvaja naloge iz prejšnjega odstavka v skladu s svojimi pristojnostmi.
+(4) Urad lahko zahtevo iz prvega in drugega odstavka tega člena zavrne, če oceni:
+1. da obstajajo dejanski razlogi za domnevo, da bi zagotovitev takšnih informacij otežila ali onemogočila delovanje ali izvajanje nalog urada, ali
+2. v izjemnih primerih, če bi bila predložitev podatkov očitno nesorazmerna z legitimnimi interesi fizične ali pravne osebe ali nepomembna za namene, za katere je bila zahtevana.
+(5) Stalna koordinacijska skupina iz prvega odstavka tega člena mora enkrat na leto, najpozneje pa do konca januarja tekočega leta za preteklo leto, urad obvestiti o svojih ugotovitvah, do katerih je prišel na podlagi prejetih podatkov iz tega člena, in drugih ukrepih, ki jih je sprejel na tej podlagi.

@@ -1,0 +1,8 @@
+# 30. člen (posebni primeri ugotavljanja istovetnosti stranke)
+(1) Ob upoštevanju 17. člena tega zakona mora biti istovetnost stranke ugotovljena oziroma preverjena tudi v naslednjih primerih:
+1. ob vstopu stranke v igralnico oziroma igralni salon koncesionarja, ki prireja igre na srečo;
+2. ob vsakokratnem pristopu stranke k sefu.
+(2) Pri ugotavljanju in preverjanju istovetnosti stranke na podlagi prejšnjega odstavka koncesionar, ki prireja posebne igre na srečo v igralnici ali igralnem salonu, ali zavezanec, ki opravlja dejavnost oddajanja sefov, pridobi podatke iz 3. in 5. točke prvega odstavka 137. člena tega zakona.
+(3) Ne glede na določbe 23., 24. in 25. člena tega zakona se lahko istovetnost stranke ob vsakokratnem pristopu k sefu ugotovi in preveri na podlagi elektronske identifikacijske kartice, osebnega gesla za dostop in video elektronskega identifikacijskega sredstva oziroma sredstva, ki omogoča identifikacijo stranke na podlagi njenih biometričnih značilnosti.
+(4) Določbe tega člena v zvezi z obveznostjo preverjanja istovetnosti stranke pri pristopu k sefu se nanašajo na vsako fizično osebo, ki dejansko pristopi k sefu, ne glede na to, ali je ta oseba sama stranka pogodbe o sefu ali zgolj zakoniti zastopnik oziroma pooblaščenec takšne osebe, in veljajo le, če je bila ob sklenitvi poslovnega razmerja istovetnost vseh oseb ugotovljena in preverjena v njihovi osebni navzočnosti.
+(5) Minister, pristojen za finance, s pravilnikom določi minimalne tehnične pogoje, ki jih morajo izpolnjevati sefi in video elektronska identifikacijska sredstva oziroma sredstva, ki omogočajo identifikacijo stranke na podlagi njenih biometričnih značilnosti.

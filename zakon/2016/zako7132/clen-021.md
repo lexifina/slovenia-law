@@ -1,0 +1,2 @@
+# 21. člen (neizpolnitev obveznosti pregleda stranke)
+Zavezanec, ki ukrepov iz 1., 2. in 3. točke prvega odstavka 16. člena tega zakona ne more izvesti v skladu z določbami tega zakona, ne sme skleniti poslovnega razmerja ali opraviti transakcije oziroma mora prekiniti poslovno razmerje, če je to že sklenjeno, in preučiti možnost, da v skladu z 69. členom tega zakona uradu sporoči podatke o stranki oziroma sumljivi transakciji.

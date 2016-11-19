@@ -1,0 +1,3 @@
+# 14. člen (neznatno in povečano tveganje za pranje denarja in financiranje terorizma)
+(1) Če zavezanec oceni, da stranka, poslovno razmerje, transakcija, produkt, storitev, distribucijska pot, država ali geografsko območje predstavljajo neznatno tveganje za pranje denarja ali financiranje terorizma, lahko izvaja ukrepe poenostavljenega pregleda stranke v skladu z določbami tega zakona o poenostavljenem pregledu stranke.
+(2) Če zavezanec oceni, da stranka, poslovno razmerje, transakcija, produkt, storitev, distribucijska pot, država ali geografsko območje predstavljajo povečano tveganje za pranje denarja ali financiranje terorizma, mora izvajati ukrepe poglobljenega pregleda stranke v skladu z določbami tega zakona o poglobljenem pregledu stranke.

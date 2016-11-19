@@ -1,0 +1,3 @@
+# 109. člen (povratna informacija)
+(1) Urad tuji finančni obveščevalni enoti na njeno zahtevo ob pogoju dejanske vzajemnosti pošlje povratno informacijo o koristnosti in uporabnosti prejetih podatkov iz prvega odstavka 105. člena tega zakona in informacijo o rezultatih analiz, ki jo je izdelal na podlagi podatkov, prejetih od tuje finančne obveščevalne enote.
+(2) Urad lahko od tuje finančne obveščevalne enote zahteva povratno informacijo o koristnosti in uporabnosti predloženih podatkov iz prvega odstavka 106. člena tega zakona in informacijo o rezultatih analize, izdelane na podlagi predloženih podatkov.

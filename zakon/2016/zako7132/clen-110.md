@@ -1,0 +1,4 @@
+# 110. člen (začasna ustavitev transakcije na pobudo tuje finančne obveščevalne enote)
+(1) Urad lahko pod pogoji, ki jih določa ta zakon, in ob pogoju dejanske vzajemnosti s pisno odredbo začasno, vendar največ za tri delovne dni ustavi transakcijo tudi na obrazloženo pisno pobudo tuje finančne obveščevalne enote in o tem obvesti pristojne organe.
+(2) Urad lahko zavrne pobudo tuje finančne obveščevalne enote, če na podlagi dejstev in okoliščin, navedenih v pobudi iz prejšnjega odstavka, presodi, da niso podani utemeljeni razlogi za sum storitve kaznivih dejanj pranja denarja ali financiranja terorizma. O zavrnitvi pobude urad pisno obvesti pobudnika in navede razloge, zaradi katerih je zavrnil pobudo.
+(3) V zvezi z odredbo o začasni ustavitvi transakcije po tem členu se smiselno uporabljata 96. in 97. člen tega zakona.

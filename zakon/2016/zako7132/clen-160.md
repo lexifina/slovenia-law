@@ -1,0 +1,7 @@
+# 160. člen (sistem obveščanja nadzornih organov o kršitvah)
+(1) Nadzorni organi iz 139. člena tega zakona vzpostavijo učinkovit in zanesljiv sistem obveščanja, ki omogoča zaposlenim in osebam v primerljivem položaju pri zavezancih, da jim posredujejo prijave o možnih ali dejanskih kršitvah določb tega zakona.
+(2) Nadzorni organi iz 139. člena tega zakona v zvezi s sistemom obveščanja iz prejšnjega odstavka zagotovijo:
+1. enostaven in lahko dostopen način posredovanja prijav kršitev,
+2. interne postopke za sprejem in obravnavo prijav,
+3. ustrezno varstvo osebnih podatkov oseb, ki so podale prijavo zoper zavezanca, in oseb, ki so domnevno odgovorne za kršitev, v skladu z določbami zakona, ki ureja varstvo osebnih podatkov.
+(3) Podatkov iz 3. točke prejšnjega odstavka ni dovoljeno razkriti brez soglasja prijavitelja in domnevnega kršitelja, razen ko je razkritje njune identitete v skladu z zakonom nujna za izvedbo predkazenskega ali kazenskega postopka. Nadzorni organi iz 139. člena tega zakona ne smejo zavezancu, zoper katerega je prijava podana, ali tretjim osebam razkriti podatkov o prijavitelju ali domnevnemu kršitelju. Nadzorni organi iz 139. člena tega zakona si morajo prizadevati, da se pri ugotavljanju in obravnavi kršitev, ki so predmet prijave, prepreči razkritje identitete prijavitelja in domnevnega kršitelja.

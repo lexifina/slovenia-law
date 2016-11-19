@@ -1,0 +1,19 @@
+# 61. člen (politično izpostavljene osebe)
+(1) Zavezanec mora vzpostaviti ustrezen sistem upravljanja s tveganji, ki vključuje tudi postopek, s katerim ugotavlja, ali je stranka oziroma njen zakoniti zastopnik ali pooblaščenec politično izpostavljena oseba. Ta postopek, ki temelji na oceni tveganja iz 13. člena tega zakona, določi v svojem notranjem aktu ob upoštevanju smernic pristojnega nadzornega organa iz 139. člena tega zakona. Politična izpostavljenost se ugotavlja tudi za dejanske lastnike stranke.
+(2) Politično izpostavljena oseba iz prejšnjega odstavka je vsaka fizična oseba, ki deluje ali je v zadnjem letu delovala na vidnem javnem položaju v državi članici ali tretji državi, vključno z njenimi ožjimi družinskimi člani in ožjimi sodelavci.
+(3) Fizične osebe, ki delujejo ali so delovale na vidnem javnem položaju, so:
+a) voditelji držav, predsedniki vlad, ministri in njihovi namestniki oziroma pomočniki;
+b) izvoljeni predstavniki zakonodajnih teles;
+c) člani vodstvenih organov političnih strank;
+d) člani vrhovnih in ustavnih sodišč ter drugih sodnih organov na visoki ravni, zoper odločitve katerih, razen v izjemnih primerih, ni mogoče uporabiti rednih ali izrednih pravnih sredstev;
+e) člani računskih sodišč in svetov centralnih bank;
+f) vodje diplomatskih predstavništev in konzulatov ter predstavništev mednarodnih organizacij, njihovi namestniki in visoki častniki oboroženih sil;
+g) člani upravnih ali nadzornih organov podjetij, ki so v večinski lasti države;
+h) predstojniki organov mednarodnih organizacij (kot so na primer predsedniki, generalni sekretarji, direktorji, sodniki), njihovi namestniki in člani vodstvenih organov ali nosilci enakovrednih funkcij v mednarodnih organizacijah.
+(4) Ožji družinski člani osebe iz drugega odstavka tega člena so: zakonec ali zunajzakonski partner, starši ter otroci in njihovi zakonci ali zunajzakonski partnerji.
+(5) Ožji sodelavci osebe iz drugega odstavka tega člena so vse fizične osebe, za katere je znano, da so skupaj dejanski lastniki ali da imajo kakršne koli druge tesne poslovne odnose s politično izpostavljeno osebo. Ožji sodelavec je tudi fizična oseba, ki je edini dejanski lastnik poslovnega subjekta ali podobnega pravnega subjekta tujega prava, za katerega je znano, da je bil ustanovljen v dejansko korist politično izpostavljene osebe.
+(6) Če je stranka, ki sklepa poslovno razmerje ali opravlja transakcijo, oziroma če je stranka, za katero se sklepa poslovno razmerje ali opravlja transakcija, oziroma njen zakoniti zastopnik, pooblaščenec ali dejanski lastnik politično izpostavljena oseba, zavezanec v okviru poglobljenega pregleda stranke poleg ukrepov iz prvega odstavka 16. člena tega zakona sprejme še naslednje:
+1. pridobi podatke o njenem premoženjskem stanju ter podatke o izvoru sredstev in premoženja, ki so ali bodo predmet poslovnega razmerja oziroma transakcije, in sicer iz listin in druge dokumentacije, ki jih zavezancu predloži stranka; če teh podatkov ni mogoče dobiti na opisani način, jih zavezanec pridobi neposredno iz pisne izjave stranke;
+2. zaposleni pri zavezancu, ki vodi postopek sklepanja poslovnega razmerja s stranko, ki je politično izpostavljena oseba, pred njegovo sklenitvijo obvezno pridobi pisno odobritev nadrejene odgovorne osebe, ki zaseda položaj višjega vodstva;
+3. po sklenitvi poslovnega razmerja s posebno skrbnostjo spremlja transakcije in druge poslovne aktivnosti, ki jih pri zavezancu izvaja politično izpostavljena oseba.
+(7) Kadar politično izpostavljena oseba iz tega člena preneha delovati na vidnem javnem položaju, zavezanec nadaljuje z izvajanjem ustreznih ukrepov še 12 mesecev. Po tem obdobju ponovno oceni nadaljnje tveganje, ki ga ta oseba predstavlja, ter izvaja ustrezne ukrepe z upoštevanjem tveganja tako dolgo, dokler ne ugotovi, da v zvezi s to osebo tveganje ne obstaja več.

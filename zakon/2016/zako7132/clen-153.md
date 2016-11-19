@@ -1,0 +1,3 @@
+# 153. člen (sporočanje dejstev)
+(1) Nadzorni organi iz 139. člena tega zakona, ki pri izvajanju nadzora po tem zakonu ali pri izvajanju dejavnosti ali poslov, ki jih opravljajo v skladu s pristojnostmi, določenimi v drugih zakonih, ugotovijo ali odkrijejo dejstva, ki so ali bi bila lahko povezana s pranjem denarja ali financiranjem terorizma, o tem brez odlašanja pisno obvestijo urad.
+(2) Na podlagi sporočenih dejstev iz prejšnjega odstavka lahko urad, če tako presodi, začne z zbiranjem in analiziranjem podatkov, informacij in dokumentacije, in sicer v skladu s svojimi pooblastili, določenimi v tem zakonu.

@@ -1,0 +1,4 @@
+# 157. člen (sodelovanje s pristojnimi nadzornimi organi tretjih držav)
+(1) Urad in drugi nadzorni organi iz 139. člena tega zakona sodelujejo z organi tretjih držav, ki so pristojni za nadzor na področju preprečevanja pranja denarja in financiranja terorizma, glede nadzora nad zavezanci, ki poslujejo zlasti prek podružnic in hčerinskih družb v Republiki Sloveniji in tretjih državah, v katerih nimajo sedeža.
+(2) Urad in drugi nadzorni organi iz 139. člena tega zakona sodelujejo s pristojnimi nadzornimi organi tretjih držav - zlasti z izmenjavo vseh informacij, s katerimi bi se lahko olajšal nadzor nad zavezanci.
+(3) Sodelovanje s pristojnimi nadzornimi organi tretjih držav je možno, če so v teh tretjih državah uveljavljeni ustrezni standardi preprečevanja pranja denarja in financiranja terorizma, ki so enakovredni določbam tega zakona, mednarodnih standardov ali drugim predpisom.

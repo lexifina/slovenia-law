@@ -1,0 +1,2 @@
+# 82. člen (podrobnejši predpisi o pooblaščencu, načinu izvajanja notranje kontrole, hrambi in varovanju podatkov, vodenju evidenc in strokovnem usposabljanju zaposlenih)
+Minister, pristojen za finance, s pravilnikom predpiše podrobnejša pravila o pooblaščencu, načinu izvajanja notranje kontrole, hrambi in varovanju podatkov, upravljanju evidenc in strokovnem usposabljanju zaposlenih po tem zakonu pri zavezancih.

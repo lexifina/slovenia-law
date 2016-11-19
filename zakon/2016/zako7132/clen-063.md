@@ -1,0 +1,8 @@
+# 63. člen (pregled strank iz visoko tveganih tretjih držav)
+(1) Kadar je stranka ali transakcija povezana z visoko tvegano tretjo državo iz petega odstavka 50. člena tega zakona, zavezanec v okviru poglobljenega pregleda stranke poleg ukrepov iz prvega odstavka 16. člena tega zakona izvede najmanj še naslednje ukrepe:
+1. pridobi dodatne podatke o dejavnosti stranke in pogosteje posodablja podatke o istovetnosti stranke in njenem dejanskem lastniku,
+2. pridobi dodatne podatke o namenu in predvideni naravi poslovnega razmerja in podatke o razlogih nameravane ali izvršene transakcije,
+3. pridobi podatke o izvoru sredstev in premoženja, ki so ali bodo predmet poslovnega razmerja ali transakcije,
+4. zaposleni pri zavezancu, ki vodi postopek sklepanja poslovnega razmerja s stranko, ki prihaja iz visoko tvegane tretje države, pred njegovo sklenitvijo obvezno pridobi pisno odobritev nadrejene odgovorne osebe, ki zaseda položaj višjega vodstva,
+5. po sklenitvi poslovnega razmerja s posebno skrbnostjo spremlja transakcije in druge poslovne aktivnosti, ki jih pri zavezancu izvaja oseba iz visoko tvegane tretje države.
+(2) Zavezancu ni treba izvajati dodatnih ukrepov iz prejšnjega odstavka, kadar je stranka podružnica ali hčerinska družba v večinski lasti družbe s sedežem v Evropski uniji, ustanovljena v visoko tvegani tretji državi, če ta podružnica ali hčerinska družba v celoti izvaja politike in postopke skupine, ki so enaki ali enakovredni določbam tega zakona. V teh primerih zavezanec obseg ukrepov prilagodi oceni tveganja pranja denarja in financiranja terorizma iz 13. člena tega zakona.

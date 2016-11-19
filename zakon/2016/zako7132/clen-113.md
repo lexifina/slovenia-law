@@ -1,0 +1,4 @@
+# 113. člen (diagonalna izmenjava)
+(1) Urad lahko za podatke, informacije in dokumentacijo posredno zaprosi tudi tuje organe države članice ali tretje države, pristojne za odkrivanje in preprečevanje pranja denarja in financiranja terorizma, vendar mora takšna izmenjava podatkov, informacij in dokumentacije potekati izključno prek finančne obveščevalne enote te države z uporabo varnih komunikacijskih sistemov.
+(2) Urad lahko podatke, informacije in dokumentacijo na podlagi zaprosila posredno posreduje tudi tujemu organu države članice ali tretje države, pristojnemu za preprečevanje in odkrivanje pranja denarja in financiranja terorizma, vendar mora takšna izmenjava podatkov, informacij in dokumentacije potekati izključno prek finančne obveščevalne enote te države z uporabo varnih komunikacijskih sistemov.
+(3) Za izmenjavo podatkov na podlagi tega člena se smiselno uporabljajo določbe iz poglavja o mednarodnem sodelovanju tega zakona.

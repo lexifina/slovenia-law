@@ -1,0 +1,6 @@
+# 167. člen (kršitve poslovnih subjektov v zvezi s podatki o dejanskem lastniku)
+(1) Z globo od 6.000 do 60.000 eurov se za prekršek kaznuje pravna oseba:
+1. če ne ugotovi ali če ugotovi napačne podatke o svojem dejanskem lastniku ali lastnikih, ne vzpostavi in upravlja natančne evidence podatkov o svojih dejanskih lastnikih ali če je ne posodablja ob vsaki spremembi podatkov ali če podatkov o svojih dejanskih lastnikih ne hrani pet let od dneva prenehanja statusa dejanskega lastnika (prvi, drugi, tretji in četrti odstavek 41. člena tega zakona);
+2. če ne posreduje brez odlašanja podatkov o svojih dejanskih lastnikih ali če posreduje napačne podatke na zahtevo zavezancev ali organov odkrivanja in pregona kaznivih dejanj, sodišč in nadzornih organov iz 139. člena tega zakona (42. člen tega zakona);
+3. če ne vpiše v register podatkov o svojem dejanskem lastniku ter njihove spremembe ali če vpiše napačne podatke v roku osmih dni od njegovega vpisa v Poslovni register Slovenije ali od njegovega vpisa v davčni register, če ni vpisan v Poslovni register Slovenije, oziroma v roku osmih dni od nastanka spremembe podatkov (tretji odstavek 44. člena tega zakona).
+(2) Z globo od 400 do 2.000 eurov se za prekršek kaznuje odgovorna oseba pravne osebe, ki stori prekršek iz prejšnjega odstavka.
