@@ -1,0 +1,5 @@
+# 1. člen
+V Zakonu o preprečevanju nasilja v družini (Uradni list RS, št. 16/08) se prvi odstavek 1. člena spremeni tako, da se glasi:
+"(1) Ta zakon opredeljuje pojem nasilja v družini, določa vlogo in naloge državnih organov, nosilcev javnih pooblastil, izvajalcev javnih služb in drugih izvajalcev storitev na področju socialnega varstva, zdravstva, vzgoje in izobraževanja, organov samoupravnih lokalnih skupnosti (v nadaljnjem besedilu: organi in organizacije) in nevladnih organizacij pri obravnavanju nasilja v družini ter določa ukrepe za varstvo žrtev nasilja v družini.".
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"(3) S tem zakonom se v pravni red Republike Slovenije delno prenaša Direktiva 2012/29/EU Evropskega parlamenta in Sveta z dne 25. 10. 2012 o določitvi minimalnih standardov na področju pravic, podpore in zaščite žrtev kaznivih dejanj in nadomestitvi Okvirnega sklepa Sveta 2001/220/PNZ (UL L št. 315 z dne 14. 11. 2012, str. 57), popravljena s Popravkom (UL L št. 287 z dne 31. 10. 2015, str. 87).".
