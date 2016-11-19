@@ -1,7 +1,0 @@
-# 66. člen (predložitev podatkov in informacij na zaprosilo tujega organa)
-(1) Urad podatke, informacije in dokumentacijo o strankah ali transakcijah, v zvezi s katerimi obstajajo razlogi za sum pranja denarja ali financiranja terorizma, ki jih pridobi ali vodi v skladu z določbami tega zakona, predloži organu države članice ali tretje države, pristojnemu za preprečevanje pranja denarja in financiranja terorizma, na njegovo pisno zaprosilo ob pogoju dejanske vzajemnosti.
-(2) Urad lahko zavrne izpolnitev zaprosila organa države članice ali tretje države, pristojnega za preprečevanje pranja denarja in financiranja terorizma, v naslednjih primerih:
-1. če na podlagi dejstev in okoliščin, navedenih v zaprosilu, presodi, da niso podani razlogi za sum pranja denarja ali financiranja terorizma;
-2. če bi predložitev podatkov ogrozila ali utegnila ogroziti potek kazenskega postopka v Republiki Sloveniji, oziroma bi lahko kakor koli drugače škodovala interesom tega postopka.
-(3) O zavrnitvi zaprosila urad pisno obvesti organ države članice ali tretje države, ki je pristojen za preprečevanje pranja denarja in financiranja terorizma, in ki je zaprosilo poslal, in navede razloge zavrnitve.
-(4) Urad lahko določi dodatne pogoje in omejitve, ob upoštevanju katerih sme organ države članice ali tretje države, pristojen za preprečevanje pranja denarja in financiranja terorizma, uporabiti podatke iz prvega odstavka tega člena.

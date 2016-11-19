@@ -1,4 +1,0 @@
-# 68. člen (začasna ustavitev transakcije na pobudo tujega organa)
-(1) Urad lahko pod pogoji, ki jih določa ta zakon, in ob pogoju dejanske vzajemnosti s pisno odredbo začasno, vendar največ za 72 ur ustavi transakcijo tudi na obrazloženo pisno pobudo organa države članice ali tretje države, pristojnega za preprečevanje pranja denarja in financiranja terorizma, in o tem obvesti pristojne organe.
-(2) Urad lahko zavrne pobudo organa države članice ali tretje države, pristojnega za preprečevanje pranja denarja in financiranja terorizma, če na podlagi dejstev in okoliščin, navedenih v pobudi iz prvega odstavka tega člena, presodi, da ni podan utemeljen sum pranja denarja ali financiranja terorizma. O zavrnitvi pobude urad pisno obvesti pobudnika in navede razloge, zaradi katerih je pobudo zavrnil.
-(3) V zvezi z odredbo o začasni ustavitvi transakcije po tem členu se smiselno uporabljata 57. in 58. člen tega zakona.

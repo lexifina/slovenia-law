@@ -1,2 +1,0 @@
-# 11. člen (neizpolnitev obveznosti pregleda stranke)
-Organizacija, ki ukrepov iz 1., 2. in 3. točke prvega odstavka 7. člena tega zakona ne more izvesti v skladu z določbami tega zakona, ne sme skleniti poslovnega razmerja ali opraviti transakcije, oziroma mora prekiniti poslovno razmerje, če je to že sklenjeno, in preučiti možnost, da v skladu s tretjim odstavkom 38. člena tega zakona uradu sporoči podatke o stranki oziroma transakciji.

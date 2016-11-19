@@ -1,2 +1,0 @@
-# 69. člen (pobuda tujemu organu za začasno ustavitev transakcije)
-Urad lahko v okviru svojih nalog odkrivanja in preprečevanja pranja denarja in financiranja terorizma organom držav članic ali tretjih držav, pristojnim za preprečevanje pranja denarja in financiranja terorizma, pošlje pisno pobudo za začasno ustavitev transakcije, če presodi, da je podan utemeljen sum pranja denarja ali financiranja terorizma.

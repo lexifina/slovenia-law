@@ -1,3 +1,0 @@
-# 96. člen (kršitve delavca organizacije)
-(1) Z globo od 200 do 1000 eurov se za prekršek kaznuje delavec organizacije, ki sklepa kontokorentno razmerje iz prvega odstavka 30. člena in vodi postopek poglobljenega pregleda stranke, če pred sklenitvijo tega razmerja ne pridobi pisne odobritve nadrejene odgovorne osebe v organizaciji (drugi odstavek 30. člena tega zakona).
-(2) Z globo od 200 do 1000 eurov se za prekršek kaznuje delavec organizacije, ki vodi postopek sklepanja poslovnega razmerja s stranko, ki je politično izpostavljena oseba, če pred sklenitvijo tega razmerja ne pridobi pisne odobritve nadrejene odgovorne osebe v organizaciji (2. točka šestega odstavka 31. člena tega zakona).

@@ -1,3 +1,0 @@
-# 67. člen (predložitev podatkov tujemu organu na lastno pobudo)
-(1) Urad lahko podatke in informacije o strankah ali transakcijah, v zvezi s katerimi obstajajo razlogi za sum pranja denarja ali financiranja terorizma, ki jih pridobi ali vodi v skladu z določbami tega zakona, pošlje organu države članice ali tretje države, pristojnemu za preprečevanje pranja denarja in financiranja terorizma, tudi na lastno pobudo ob pogoju dejanske vzajemnosti.
-(2) Urad lahko pri pošiljanju podatkov na lastno pobudo določi dodatne pogoje in omejitve, pod katerimi sme organ države članice ali tretje države, pristojen za preprečevanje pranja denarja in financiranja terorizma, uporabiti prejete podatke iz prvega odstavka tega člena.

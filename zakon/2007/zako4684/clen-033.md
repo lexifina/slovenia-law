@@ -1,9 +1,0 @@
-## 2.2.4.2 Poenostavljeni pregled stranke
-# 33. člen (splošno)
-(1) Ne glede na določbo 7. člena tega zakona lahko organizacija v primerih iz 1. in 2. točke prvega odstavka 8. člena tega zakona, razen če v zvezi s stranko ali transakcijo obstajajo razlogi za sum pranja denarja ali financiranja terorizma, opravi poenostavljeni pregled stranke, če je ta:
-1. organizacija iz 1., 2., 4., 5., 6. in 7. točke prvega odstavka 4. člena tega zakona ali zavarovalnica ali druga istovrstna institucija, pod pogojem, da ima sedež v državi članici ali enakovredni tretji državi iz petega odstavka 25. člena tega zakona;
-2. državni organ, organ samoupravne lokalne skupnosti, javna agencija, javni sklad, javni zavod ali zbornica, ki ima sedež v Republiki Sloveniji;
-3. družba, katere vrednostni papirji so uvrščeni v trgovanje na organiziranem trgu v eni ali več državah članicah v skladu z zakonodajo Skupnosti, oziroma družba s sedežem v tretji državi, katere vrednostnimi papirji so uvrščeni v trgovanje na organiziranem trgu v državi članici ali tej tretji državi, pod pogojem, da v tej tretji državi veljajo zahteve po razkritju podatkov v skladu z zakonodajo Skupnosti;
-4. druga oseba iz četrtega odstavka 6. člena tega zakona, v zvezi s katero obstaja neznatno tveganje za pranje denarja ali financiranje terorizma.
-(2) Ne glede na prvi odstavek tega člena organizacija, če sklepa kontokorentno razmerje z banko ali drugo podobno kreditno institucijo s sedežem v tretji državi, ravna v skladu s prvim odstavkom 30. člena tega zakona.
-(3) Ne glede na določbo 7. člena tega zakona revizijska družba ali samostojni revizor pri sklenitvi poslovnega razmerja obveznega revidiranja letnih računovodskih izkazov pravne osebe, ki izhaja iz zakona, ki ureja njeno delovanje, lahko opravi poenostavljeni pregled stranke, razen če v zvezi s stranko ali okoliščinami revidiranja obstajajo razlogi za sum pranja denarja ali financiranja terorizma.
