@@ -1,0 +1,7 @@
+# 15. člen (obveznosti ob ugotovljenih pomanjkljivostih male kurilne naprave)
+
+(1) Če dimnikar ob izvajanju dimnikarskih storitev ugotovi pomanjkljivosti na mali kurilni napravi, zaradi katerih je zmanjšano varstvo pred požarom, doseženo preseganje emisij pri zgorevanju goriv ali ugotovljeno tveganje zastrupitve z ogljikovim oksidom, s tem seznani uporabnika dimnikarskih storitev in mu predlaga ukrepe za odpravo pomanjkljivosti, ki jih uporabnik dimnikarskih storitev izvede v rokih, določenih v predpisu o pregledih, čiščenju in meritvah na malih kurilnih napravah. Po preteku tega roka je dimnikar dolžan preveriti, ali so pomanjkljivosti odpravljene. Če uporabnik dimnikarskih storitev ugotovljenih pomanjkljivosti ne odpravi, dimnikar o tem obvesti pristojno inšpekcijo.
+
+(2) Če dimnikar ob izvajanju dimnikarskih storitev ugotovi, da je zaradi pomanjkljivosti na mali kurilni napravi velika verjetnost zmanjšanja varstva pred požarom ali zastrupitve z ogljikovim monoksidom, nastalim pri zgorevanju goriv, o tem seznani uporabnika in nemudoma obvesti pristojno inšpekcijo.
+
+(3) V primeru, če pristojna inšpekcija ugotovi, da so s strani dimnikarja ugotovljene pomanjkljivosti na mali kurilni napravi ali predlagani ukrepi za njihovo odpravo neutemeljeni, dimnikarska družba uporabniku dimnikarskih storitev povrne stroške izvedbe naloženih ukrepov za odpravo pomanjkljivosti in stroške, ki jih je uporabnik plačal dimnikarski družbi za preverjanje odprave pomanjkljivosti.
