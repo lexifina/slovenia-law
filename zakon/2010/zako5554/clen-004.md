@@ -1,3 +1,0 @@
-# 4. člen
-Drugi odstavek 8. člena se spremeni tako, da se glasi:
-"(2) Če organizacija s stranko sklepa dodatno poslovno razmerje ali na podlagi obstoječega poslovnega razmerja izvaja transakcije iz 2. točke prejšnjega odstavka, organizacija pridobi le manjkajoče podatke iz prvega in drugega odstavka 21. člena tega zakona, ob pogoju, da je organizacija predhodno opravila pregled stranke na način, kot to določa 7. člen tega zakona in da je v okviru rednega spremljanja poslovnih aktivnosti, ki jih stranka izvaja pri organizaciji, zagotovila ustrezno preverjanje in posodabljanje predhodno pridobljenih listin in podatkov o stranki.".
