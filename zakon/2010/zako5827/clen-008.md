@@ -1,4 +1,0 @@
-# 8. člen (obveznost ocene kreditne sposobnosti potrošnika)
-(1) Dajalec kredita mora pred sklenitvijo kreditne pogodbe oceniti kreditno sposobnost potrošnika.
-(2) Dajalec kredita oceni kreditno sposobnost potrošnika na podlagi informacij o njegovih prejemkih oziroma njegovem premoženjskem stanju, ki jih pridobi od potrošnika. Informacijo o zadolženosti potrošnika dajalec kredita pridobi iz zbirk osebnih podatkov, ki se vodijo na podlagi zakona, ki ureja bančništvo, in do katerih ima lahko dostop v skladu z zakonom, ki ureja varstvo osebnih podatkov.
-(3) Če se po sklenitvi kreditne pogodbe potrošnik in dajalec kredita dogovorita o spremembi skupnega zneska kredita, mora dajalec kredita ponovno oceniti kreditno sposobnost potrošnika, kadar se skupni znesek kredita zviša za več kot petino prvotno odobrenega zneska kredita.

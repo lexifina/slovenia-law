@@ -1,4 +1,0 @@
-# 13. člen (molče dovoljena prekoračitev)
-(1) Pri molče dovoljeni prekoračitvi stanja na plačilnem računu mora dajalec kredita v pogodbi o plačilnem računu navesti vsaj kreditno obrestno mero in pogoje, pod katerimi se uporablja, indeks ali referenčno obrestno mero, če obstaja, vse stroške, ki nastanejo od trenutka prekoračitve, ter pogoje, pod katerimi se ti stroški lahko spremenijo. Dajalec kredita mora te informacije potrošniku redno zagotavljati pisno na papirju ali drugem trajnem nosilcu podatkov.
-(2) Ob prekoračitvi stanja na plačilnem računu potrošnika, ki traja več kot mesec dni, mora dajalec kredita potrošnika nemudoma obvestiti na papirju ali drugem trajnem nosilcu podatkov o prekoračitvi, višini prekoračenega zneska, kreditni obrestni meri, morebitnih pogodbenih kaznih, stroških in zamudnih obrestih.
-(3) Če dajalec kredita ravna v nasprotju s tem členom, potrošniku ni treba dajalcu kredita plačati stroškov ali obresti.
