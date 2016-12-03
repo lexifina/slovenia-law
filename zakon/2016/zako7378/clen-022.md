@@ -1,0 +1,2 @@
+# 22. člen
+Ne glede na določbo devetega odstavka 11. člena zakona, lahko lastnik gozda poda Zavodu pobudo za spremembo RK njegovih gozdnih parcel za vse veljavne gozdnogospodarske načrte gozdnogospodarskih enot, sprejetih pred uveljavitvijo tega zakona, v roku petih let od uveljavitve tega zakona. Zavod pobudo prouči po metodi določitve RK in če se pobuda izkaže za upravičeno, gozdni parceli določi nov RK. V primeru spremembe RK, nastale materialne stroške nosi Zavod, v nasprotnem primeru pa lastnik gozdne parcele.

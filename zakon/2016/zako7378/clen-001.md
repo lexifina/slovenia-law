@@ -1,0 +1,11 @@
+# 1. člen
+V Zakonu o gozdovih (Uradni list RS, št. 30/93, 13/98 - odl. US, 56/99 - ZON, 67/02, 110/02 - ZGO-1, 115/06 - ORZG40, 110/07, 106/10, 63/13, 101/13 - ZDavNepr, 17/14, 24/15 in 9/16 - ZGGLRS) se v 3. členu v 19. točki za tretjo alinejo pika nadomesti s podpičjem in doda nova četrta alineja, ki se glasi:
+"- spravilo in odvoz okuženega ali z insekti napadenega, močno poškodovanega ali podrtega drevja iz gozda.".
+24. točka se spremeni tako, da se glasi:
+"24. Prost dostop pomeni prosto hojo oseb po gozdu ter drug dostop v gozd, ki se izvaja na lastno odgovornost in je v skladu s predpisi, ki urejajo gozdove.".
+Za 32. točko se dodajo nove 33., 34., 35., 36. in 37. točka, ki se glasijo:
+"33. Knjigovodska listina je listina, kot jo določajo Slovenski računovodski standardi (Uradni list RS, št. 118/05, 10/06 - popr., 58/06, 112/06 - popr., 112/06 - popr., 3/07, 12/08, 119/08, 1/10, 90/10 - popr., 80/11, 2/12, 64/12, 94/14, 2/15 - popr., 95/15 in 98/15) v povezavi s Pravili skrbnega računovodenja (Uradni list RS, št. 95/15 in 98/15) in izpolnjuje pogoje iz tega zakona.
+34. Rastiščni koeficient (v nadaljnjem besedilu: RK) je koeficient, ki odraža trajno lesno proizvodno spodobnost gozdne združbe v primeru, da gozdna združba ne bi bila spremenjena zaradi delovanja človeka. Rastiščni koeficient je relativni pokazatelj kakovosti gozdne združbe in se izraža v razponih od najslabše do najboljše gozdne združbe v odnosu na povprečni lesno proizvodni potencial drugih gozdnih združb.
+35. Urejeno kurišče je prostor, na katerem se v gozdu lahko kuri in je urejen ter umeščen v gozd oziroma gozdni prostor v skladu s pogoji iz predpisa, ki ureja varstvo gozdov in protipožarno varstvo.
+36. Gozdna združba je skupnost različnih rastlinskih vrst, kjer so osnovne graditeljice drevesne vrste. Določen tip gozdne združbe je razvit v podobnih življenjskih razmerah ter ga odlikuje posebna vrstna sestava in struktura.
+37. Lokacija, ki ne predstavlja nevarnosti za nadaljnje širjenje podlubnikov, je center za zbiranje oziroma predelavo lesa (v nadaljnjem besedilu: center), ki ga organizira družba Slovenski državni gozdovi, d. o. o. ali druga pravna oseba, mesto skladiščenja gozdnih lesnih sortimentov ali druga lokacija, ki jo določi Zavod za gozdove Slovenije.".
