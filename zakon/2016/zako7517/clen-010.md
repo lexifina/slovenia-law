@@ -1,0 +1,5 @@
+# 10. člen (pridobivanje podatkov in informacij od upravljavcev drugih zbirk podatkov)
+(1) Center za informatiko na Vrhovnem sodišču Republike Slovenije Banki Slovenije za centralni kreditni register posreduje podatke v zvezi z insolvenčnimi postopki poslovnih subjektov ter podatke iz 5. točke prvega odstavka 7. člena tega zakona v zvezi z osebnimi stečaji fizičnih oseb.
+(2) Agencija za javnopravne evidence in storitve Banki Slovenije za centralni kreditni register posreduje podatke o poslovnih subjektih iz Poslovnega registra Slovenije.
+(3) Za namene pridobivanja podatkov na podlagi tega člena se zbirka centralnega kreditnega registra povezuje z zbirkami podatkov pri Vrhovnem sodišču Republike Slovenije in Agenciji za javnopravne evidence in storitve, pri čemer se povezovanje osebnih podatkov zagotavlja z uporabo davčne številke fizične osebe oziroma druge podobne identifikacijske oznake tuje fizične osebe.
+(4) Upravljavci zbirk podatkov iz tega člena Banki Slovenije na njeno zahtevo podatke in informacije posredujejo brezplačno.

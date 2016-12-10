@@ -1,0 +1,12 @@
+## 3.2. Dostop in obdelava podatkov iz sistema izmenjave informacij
+# 19. člen (dostop do podatkov)
+(1) Do podatkov v sistemu izmenjave informacij lahko dostopajo člani sistema, ki izpolnjujejo tehnične pogoje in varnostne zahteve za dostop do sistema izmenjave informacij, ki jih določi Banka Slovenije.
+(2) Člani sistema lahko za namene ocenjevanja kreditnega tveganja fizične osebe ali poslovnega subjekta, ki je izrazil interes za sklenitev kreditnega posla ali s katerim so sklenili kreditni posel, dostopajo do vseh podatkov, ki se o tej fizični osebi ali poslovnem subjektu obdelujejo v sistemu izmenjave informacij.
+(3) Ne glede na prvi odstavek tega člena lahko kreditodajalci, ki niso člani sistema izmenjave informacij, če izpolnjujejo tehnične pogoje in varnostne zahteve za dostop do sistema izmenjave informacij, ki jih določi Banka Slovenije (v nadaljnjem besedilu: vključeni dajalci kreditov), dostopajo izključno do naslednjih podatkov o zadolženosti posamezne fizične osebe, ki je izrazila interes za sklenitev kreditnega posla, o:
+1. znesku neodplačanega dela obveznosti iz kreditnega posla;
+2. znesku obveznosti, s plačilom katerih je potrošnik v zamudi;
+3. znesku neodplačanega dela obveznosti, v zvezi s katero se opravlja sodna ali davčna izvršba pri banki, in
+4. znesku neodplačanega dela obveznosti, za katero je banka začela postopek izterjave, vključno s podatki o omejitvi uporabe ali o onemogočeni uporabi plačilnega računa zaradi izterjave in o ponovni odpravi omejitev.
+(4) Do podatkov v sistemu izmenjave informacij lahko pri članih sistema in vključenih dajalcih kreditov dostopajo le osebe, ki so pooblaščene za dostop do zaupnih podatkov zaradi izvajanja nalog pri ocenjevanju kreditnih tveganj člana sistema oziroma vključenega dajalca kreditov v zvezi s sklepanjem ali izvajanjem kreditnih poslov.
+(5) Član sistema in vključeni dajalec kreditov varuje osebne podatke v skladu z zakonom, ki ureja varstvo osebnih podatkov, ter med drugim zagotovi sledljivost glede dostopa do podatkov in izpisovanja podatkov iz sistema izmenjave informacij tako, da sta mogoča identifikacija pooblaščene osebe, ki je dostopala oziroma izpisovala podatke iz sistema izmenjave informacij, in preverjanje razlogov, zaradi katerih je ta oseba dostopala oziroma izpisovala določene podatke.
+(6) Banka Slovenije na svoji spletni strani objavi seznam članov sistema ter seznam vključenih dajalcev kreditov.

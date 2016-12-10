@@ -1,0 +1,4 @@
+# 22. člen (pravica fizične osebe do seznanitve)
+(1) Fizična oseba uveljavlja pravico do seznanitve z obdelavo lastnih osebnih podatkov v sistemu izmenjave informacij v skladu z zakonom, ki ureja varstvo osebnih podatkov, tako, da vloži zahtevo za seznanitev pri Banki Slovenije ali članu sistema. Član sistema v tem delu glede izvajanja pravice posameznika do seznanitve z lastnimi osebnimi podatki za osebne podatke, do katerih lahko posamezen član sistema dostopa, nosi naloge upravljavca.
+(2) V postopku odločanja o pravici fizične osebe do seznanitve z obdelavo lastnih osebnih podatkov v sistemu izmenjave informacij se na prvi stopnji ne uporablja zakon, ki ureja splošni upravni postopek.
+(3) Za postopek v zvezi s pravico fizične osebe do seznanitve z osebnimi podatki, ki se nanašajo nanjo, se uporablja zakon, ki ureja varstvo osebnih podatkov, pri čemer Banka Slovenije z internim aktom določi podrobnejši postopek tehnične izvedbe obravnave teh vlog.
