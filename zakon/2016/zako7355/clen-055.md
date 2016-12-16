@@ -1,0 +1,3 @@
+# 55. člen (omejitev sredstev nad primerno porabo)
+(1) V letu 2017 občinam, pri katerih prihodki od dohodnine iz tretjega odstavka 6. člena ZFO-1, izračunani na podlagi 14. člena ZFO-1, presegajo primerno porabo, ti prihodki pripadajo samo do višine primerne porabe.
+(2) V letu 2018 občinam, pri katerih prihodki od dohodnine iz tretjega odstavka 6. člena ZFO-1, izračunani na podlagi 14. člena ZFO-1, presegajo primerno porabo, ti prihodki pripadajo do višine primerne porabe, nad višino primerne porabe pa le do polovice razlike med primerno porabo in prihodki od dohodnine iz tretjega odstavka 6. člena ZFO-1, izračunani na podlagi 14. člena ZFO-1.

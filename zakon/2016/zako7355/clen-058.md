@@ -1,0 +1,2 @@
+# 58. člen (zadolževanje za upravljanje z dolgom občinskega proračuna)
+Ne glede na 10.b člen ZFO-1 občini, ki na dan 31. decembra 2016 presega največji obseg možnega zadolževanja, ministrstvo izda soglasje k zadolžitvi za upravljanje z dolgom občinskega proračuna skladno z 10.c členom ZFO-1 tudi, če se s to zadolžitvijo zadolženost občine ne bo znižala do največjega obsega možnega zadolževanja občine.
