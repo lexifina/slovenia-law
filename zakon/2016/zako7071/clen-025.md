@@ -1,0 +1,5 @@
+# 25. člen
+Prvi odstavek 74. člena se spremeni tako, da se glasi:
+"(1) Policistom Specialne enote in neuniformiranim policistom, ki opravljajo naloge, povezane s prikritimi preiskovalnimi ukrepi ali zaščito prič in drugih oseb, ogroženih zaradi sodelovanja v kazenskem postopku, ter drugim policistom, ki neposredno skupaj s Specialno enoto ali prej navedenimi neuniformiranimi policisti opravljajo posebno nevarne naloge z najvišjo stopnjo ogroženosti življenja, za čas neposrednega opravljanja posebno nevarnih nalog z najvišjo stopnjo ogroženosti življenja, pripada dodatek za nevarnost in posebne obremenitve pod enakimi pogoji in v enaki višini kot to velja za policiste Posebne policijske enote, v skladu s kolektivno pogodbo za javni sektor.".
+Tretji odstavek se spremeni tako, da se glasi:
+"(3) Pravico do dodatnega plačila imajo policisti za čas, ko jim je odrejeno opravljanje dela v skladu s prvim odstavkom prejšnjega člena. Vlada na predlog ministra določi višino dodatnega plačila, pri čemer višina dodatnega plačila znaša najmanj dvakratnik in največ trikratnik višine, določene za dodatek za delo prek polnega delovnega časa.".

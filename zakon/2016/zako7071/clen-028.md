@@ -1,0 +1,19 @@
+# 28. člen
+86. člen se spremeni tako, da se glasi:
+"86. člen
+(pravice družinskih članov po smrti policista)
+(1) Ožjim družinskim članom policista, ki je pri opravljanju operativnega ali drugega nevarnega dela izgubil življenje, pripadajo tudi naslednje pravice:
+- psihološka pomoč in podpora ob smrti policista;
+- štipendiranje otrok in posvojencev, ki se šolajo v osnovni in srednji šoli, ter študentov, vendar ne dlje, kakor do leta, v katerem dopolnijo 27 let starosti;
+- prednost pri vpisu v dijaški ali študentski dom;
+- kritje stroškov šolske malice ali bonov za študentsko prehrano;
+- prednost pri vpisu v javni vrtec, zasebni vrtec s koncesijo in zasebni vrtec, ki se financira iz občinskega proračuna;
+- povračilo stroškov javnega vrtca, zasebnega vrtca s koncesijo ali zasebnega vrtca, ki se financira iz občinskega proračuna;
+- brezplačno svetovanje in nudenje informacij v zvezi z urejanjem zadev, povezanih s smrtjo policista;
+- prednost pri zaposlitvi brezposelnega zakonca, zunajzakonskega partnerja, partnerja partnerske zveze, otroka v policiji pod pogojem, da izpolnjuje pogoje za zasedbo delovnega mesta, določene v 44. členu tega zakona;
+- brezplačna uporaba počitniških zmogljivosti ministrstva deset let po smrti policista, in sicer sedem dni v letu.
+(2) Osebe iz druge alineje prejšnjega odstavka imajo pravico do štipendije v višini razlike med osnovo, ki znaša 100 odstotkov najvišje možne kadrovske štipendije v skladu z akti vlade o štipendiranju za otroke, ki se šolajo v osnovni šoli, 110 odstotkov za dijake srednjih šol in 120 odstotkov za študente, ter štipendijo, ki jo prejema upravičenec.
+(3) Štipendija, določena na način iz prejšnjega odstavka, se poveča za 40 odstotkov, če prejemnik štipendije med šolanjem prebiva zunaj kraja stalnega prebivališča.
+(4) Upravičenec izgubi pravico do štipendije, kritja stroškov šolske malice ali bonov za študentsko prehrano, če je pravnomočno obsojen zaradi naklepnega kaznivega dejanja, za katerega se storilec preganja po uradni dolžnosti, in je zanj predpisana kazen zapora najmanj pet let, ali je pravnomočno obsojen zaradi drugega kaznivega dejanja na nepogojno kazen zapora v trajanju več kot šest mesecev. Pravico do štipendije izgubi tudi mladoletnik, če mu je izrečen vzgojni ukrep oddaje v vzgojni zavod ali oddaje v prevzgojni dom v skladu s kazensko zakonodajo.
+(5) Sredstva za uveljavljanje in uživanje pravic po tem členu zagotavlja ministrstvo.
+(6) Način uveljavljanja in dodelitve pravic ožjim družinskim članom po smrti policista iz tega in naslednjega člena predpiše vlada.".

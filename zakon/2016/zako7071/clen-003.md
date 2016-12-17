@@ -1,0 +1,4 @@
+# 3. člen
+Za drugim odstavkom 32. člena se doda nov tretji odstavek, ki se glasi:
+"(3) Ne glede na določbe drugih predpisov lahko minister na predlog generalnega direktorja policije odredi kot poseben ukrep varovanja postavitev ovir ali prepoved dostopa ali zadrževanja ljudi na funkcionalnem zemljišču ali javni površini ob objektih policije ali objektih sedeža predsednika republike, vlade, državnega zbora, ministrstev ali diplomatsko konzularnih predstavništev, ki jih varuje policija, kadar obstaja nevarnost za teroristična dejanja, demonstracije ali druge oblike napada na življenje, varnost ali zdravje ljudi in premoženje. Obstoj te nevarnosti se ugotavlja z oceno tveganja, ki jo izdela policija. Poseben ukrep varovanja iz tega odstavka je začasne narave.".
+Dosedanji tretji odstavek postane četrti odstavek.
