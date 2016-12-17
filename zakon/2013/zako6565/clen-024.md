@@ -1,2 +1,0 @@
-# 24. člen (nadaljnja uporaba samostojnih sistemov spletnih plačil)
-Ne glede na 26.a člen zakona uporaba sistema za spletno plačevanje storitev proračunskih uporabnikov ni obvezna za proračunske uporabnike, ki so pred uveljavitvijo tega zakona vzpostavili samostojne sisteme spletnih plačil, razen če proračunski uporabnik prostovoljno pristopi k sistemu spletnih plačil iz prvega odstavka 26.a člena zakona.
