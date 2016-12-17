@@ -1,0 +1,3 @@
+# 9. člen (vodenje UJP)
+(1) UJP vodi generalni direktor ali generalna direktorica (v nadaljnjem besedilu: generalni direktor), ki vodi tudi Urad UJP.
+(2) Generalni direktor poleg nalog predstojnika organa, ki so opredeljene z zakoni in drugimi predpisi, določa splošne pogoje poslovanja UJP v zvezi z izvajanjem pogodbenih obveznosti in opravljanjem posameznih plačilnih in drugih storitev, pa tudi obliko in vsebino papirnih ali elektronskih obrazcev, ki se uporabljajo pri vodenju registra proračunskih uporabnikov in opravljanju plačilnih in drugih storitev UJP, če obrazci niso določeni s predpisi ministra, pristojnega za finance.
