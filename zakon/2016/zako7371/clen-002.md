@@ -1,0 +1,6 @@
+# 2. člen
+V drugem odstavku 3. člena se v 1. točki besedilo "kreditna institucija in ožji družinski član" nadomesti z besedilom "banka države članice in banka tretje države".
+V 2. točki se besedilo spremeni tako, da se glasi:
+"Direktiva 2004/39/ES, investicijsko podjetje, borznoposredniška družba, centralna depotna družba, upravljavec organiziranega trga, finančni posrednik, organizirani trg in finančni instrument imajo enak pomen kot v Zakonu o trgu finančnih instrumentov (Uradni list RS, št. 108/10 - uradno prečiščeno besedilo, 78/11, 55/12, 105/12 - ZBan-1J, 63/13 - ZS-K, 30/16 in 44/16 - ZRPPB; v nadaljnjem besedilu: ZTFI);".
+Na koncu 4. točke se pika nadomesti s podpičjem, za njo pa se doda nova 5. točka, ki se glasi:
+"5. kreditna institucija ima enak pomen kot v Uredbi (EU) št. 575/2013 Evropskega parlamenta in Sveta z dne 26. junija 2013 o bonitetnih zahtevah za kreditne institucije in investicijska podjetja ter o spremembi Uredbe (EU) št. 648/2012 (UL L št. 176 z dne 27. 6. 2013, str. 1), zadnjič spremenjena z Uredbo (EU) 2016/1014 Evropskega parlamenta in Sveta z dne 8. junija 2016 o spremembi Uredbe (EU) št. 575/2013 glede izjem za trgovce z blagom (UL L št. 171 z dne 29. 6. 2016, str. 153).".

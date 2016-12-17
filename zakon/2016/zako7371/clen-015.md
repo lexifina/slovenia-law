@@ -1,0 +1,3 @@
+# 15. člen
+V drugem odstavku 162. člena se v tretji alineji črta besedilo "če je njihov izdajatelj Republika Slovenija oziroma Banka Slovenije,".
+V četrtem odstavku se napovedni stavek spremeni tako, da se glasi: "Ne glede na 2. točko prvega odstavka tega člena lahko družba za upravljanje sklepa s skrbnikom denarne depozite, posle nakupa ali prodaje enot drugih investicijskih skladov, posle, katerih predmet so vrednostni papirji oziroma instrumenti denarnega trga oziroma izvedeni finančni instrumenti v postopku njihovega odkupa ali njihove prve prodaje kot jo opredeljuje ZTFI, če je njihov izdajatelj skrbnik pod pogojem, da:".

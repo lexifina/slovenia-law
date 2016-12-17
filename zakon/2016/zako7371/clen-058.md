@@ -1,0 +1,6 @@
+# 58. člen
+Tretji odstavek 469. člena se spremeni tako, da se glasi:
+"(3) Če Agencija pri izvajanju nadzora ugotovi, da je družba za upravljanje kršila predpise iz 447. člena tega zakona, vendar je družba za upravljanje kršitve odpravila pred izdajo odredbe iz 466. člena tega zakona, lahko Agencija z upoštevanjem pogojev iz četrtega odstavka tega člena izda ugotovitveno odločbo, s katero ugotovi, da je družba za upravljanje kršila predpise iz 447. člena tega zakona in da je kršitev odpravila.".
+Za tretjim odstavkom se dodata nova četrti in peti odstavek, ki se glasita:
+"(4) Agencija izda ugotovitveno odločbo iz prejšnjega odstavka, če bi glede na naravo in pomen kršitev za varno in skrbno upravljanje družbe za upravljanje izdaja takšne odločbe in objava informacij na podlagi 499.a člena tega zakona pomembno prispevala k izboljšanju praks upravljanja družb za upravljanje in k preprečevanju ravnanj, ki pomenijo kršitev predpisov iz 447. člena tega zakona.
+(5) Agencija pred izdajo ugotovitvene odločbe iz tretjega odstavka tega člena družbo za upravljanje pisno obvesti o ugotovitvah v zvezi s kršitvami predpisov iz 447. člena tega zakona ter o nameri, da bo izdala ugotovitveno odločbo o odpravljenih kršitvah, ter pozove družbo za upravljanje, da se izjavi o dejstvih in okoliščinah, ki so pomembne za odločitev o izdaji ugotovitvene odločbe o odpravi kršitev.".
