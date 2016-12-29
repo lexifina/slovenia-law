@@ -1,0 +1,5 @@
+# 15. člen (neodplačen prenos nepremičnin)
+
+(1) Ne glede na določbe zakona, ki ureja stvarno premoženje države in samoupravnih lokalnih skupnosti, zakona, ki ureja spodbujanje skladnega regionalnega razvoja, zakona, ki ureja Sklad kmetijskih zemljišč in gozdov Republike Slovenije, zakona, ki ureja vode in zakona, ki ureja Družbo za avtoceste v Republiki Sloveniji, lahko vlada za namen izvedbe strateške investicije na razvojnem območju s pogodbo o brezplačnem prenosu nepremičnin na Občino Hoče-Slivnica v last prenese nepremičnine, navedene v sklepu vlade iz četrtega odstavka 8. člena tega zakona, ki so v lasti Republike Slovenije.
+
+(2) Če se strateška investicija, ugotovljena v sklepu vlade iz četrtega odstavka 8. člena tega zakona na razvojnem območju, ne začne izvajati v petih letih od izdaje sklepa o ugotovitvi izpolnjevanja pogojev za strateško investicijo na razvojnem območju, mora Občina Hoče-Slivnica nepremičnine pridobljene na podlagi prejšnjega odstavka brezplačno prenesti v last Republike Slovenije.
