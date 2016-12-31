@@ -1,0 +1,13 @@
+# 8. člen (postopki v zvezi z zaznambo prepovedi odtujitve in obremenitve nepremičnin)
+(1) Vrhovno sodišče Republike Slovenije, ne glede na določbe zakona, ki ureja zemljiško knjigo, po uradni dolžnosti izbriše vse zaznambe prepovedi odtujitve in obremenitve nepremičnin, ki izpolnjujejo naslednje kriterije:
+- so bile vpisane v informatizirano glavno knjigo po 1. januarju 2012,
+- so vpisane v korist Republike Slovenije in
+- je vpis zaznambe prepovedi odtujitve in obremenitve nepremičnine temeljil na odločbi centra za socialno delo o upravičenosti do denarne socialne pomoči oziroma varstvenega dodatka. Izbris zaznambe prepovedi odtujitve in obremenitve nepremičnin se opravi ne glede na določbe o vrstnem redu odločanja o vpisih v zemljiškoknjižnem postopku in brez izdaje sklepa o izbrisu. Zoper tak izbris ni ugovora, pritožbe ali drugih pravnih sredstev v zemljiškoknjižnem postopku.
+(2) Vrhovno sodišče Republike Slovenije ne glede na določbe o vrstnem redu odločanja o vpisih v zemljiškoknjižnem postopku in druge določbe zakona, ki ureja zemljiško knjigo, po uradni dolžnosti ustavi vse začete postopke za vpis zaznambe prepovedi odtujitve in obremenitve nepremičnine, ki izpolnjujejo naslednje kriterije:
+- predlog ali obvestilo je bilo vloženo po 1. januarju 2012,
+- je vpis predlagan v korist Republike Slovenije,
+- predlagani vpis temelji na odločbi centra za socialno delo o upravičenosti do denarne socialne pomoči oziroma varstvenega dodatka in
+- zadeva do začetka uporabe tega zakona še ni bila dodeljena v reševanje odgovorni osebi. O ustavitvi postopka po uradni dolžnosti se sklep ne izda. Zoper ustavitev postopka ni ugovora, pritožbe ali drugih pravnih sredstev v zemljiškoknjižnem postopku.
+(3) Ostali začeti postopki vpisa zaznambe prepovedi odtujitve in obremenitve nepremičnine, ki izpolnjujejo kriterije iz prve do tretje alineje prejšnjega odstavka in so bili do začetka uporabe tega zakona že dodeljeni v reševanje odgovorni osebi, se ustavijo na podlagi tega zakona in v skladu z določbami zakona, ki ureja zemljiško knjigo.
+(4) Ne glede na določbe prejšnjih odstavkov lahko center za socialno delo, ki je predlagal vpis zaznambe prepovedi odtujitve in obremenitve nepremičnine, ki izpolnjuje pogoje za izbris ali ustavitev postopka iz prejšnjih odstavkov, v skladu z določbami zakona, ki ureja zemljiško knjigo, pošlje obvestilo in predlaga izbris take zaznambe ali umakne tak predlog za vpis.
+(5) Centri za socialno delo ne začnejo postopkov zaznambe prepovedi odtujitve in obremenitve nepremičnine v korist Republike Slovenije, na podlagi odločbe o upravičenosti do denarne socialne pomoči oziroma varstvenega dodatka.

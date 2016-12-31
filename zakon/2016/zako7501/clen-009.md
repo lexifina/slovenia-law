@@ -1,0 +1,4 @@
+# 9. člen (omejitev dedovanja za varstveni dodatek in denarno socialno pomoč)
+(1) Dedovanje zapustnikovega premoženja, ki je užival pomoč v skladu s predpisi o socialnem varstvu, ki so se uporabljali do začetka uporabe tega zakona, se omeji do višine 2/3 prejetih sredstev, ki jih je zapustnik prejel iz naslova varstvenega dodatka.
+(2) Za denarno socialno pomoč, prejeto v skladu s predpisi o socialnem varstvu, ki so se uporabljali do začetka uporabe tega zakona, se dedovanje zapustnikovega premoženja ne omeji, če je zapustnik to pomoč prejel za 12 ali manj mesecev.
+(3) Če je zapustnik pomoč iz prejšnjega odstavka prejel za več kot 12 mesecev, se dedovanje zapustnikovega premoženja omeji do višine prejete pomoči, zmanjšane za 12 najvišjih mesečnih zneskov, nato pa zmanjšane še za 1/3 od preostalih mesečnih zneskov prejete pomoči.
