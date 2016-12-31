@@ -1,0 +1,6 @@
+# 19. člen
+Kvalifikacija diplomirana medicinska sestra, diplomirana babica in magister farmacije iz spremenjenega petega odstavka 64. člena zakona se prizna tudi tistim diplomiranim medicinskim sestram, diplomiranim babicam in magistrom farmacije, ki so zaključili izobraževanje po študijskih programih v skladu s 7. členom Zakona o spremembah in dopolnitvah zakona o zdravstveni dejavnosti (Uradni list RS, št. 2/04).
+Kvalifikacija diplomirana medicinska sestra, diplomirana babica iz spremenjenega petega odstavka 64. člena zakona se prizna tudi:
+- diplomirani medicinski sestri ali diplomirani babici, ki izpolnjuje pogoje iz prvega odstavka 11. člena Zakona o spremembah in dopolnitvah zakona o zdravstveni dejavnosti (Uradni list RS, št. 2/04),
+- višji medicinski sestri, višjemu zdravstvenem tehniku oziroma višjemu medicinskemu tehniku, ki izpolnjuje pogoje iz prvega odstavka 11. člena Zakona o spremembah in dopolnitvah zakona o zdravstveni dejavnosti (Uradni list RS, št. 2/04).
+Kvalifikacija magister farmacije iz spremenjenega petega odstavka 64. člena zakona se prizna tudi tistim magistrom farmacije, ki izpolnjujejo pogoje iz 12. člena Zakona o spremembah in dopolnitvah zakona o zdravstveni dejavnosti (Uradni list RS, št. 2/04).

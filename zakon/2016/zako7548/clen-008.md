@@ -1,0 +1,17 @@
+## "VII.A ZDRAVSTVENI DELAVEC OZIROMA ZDRAVSTVENI SODELAVEC, KI IMA V DRUGI DRŽAVI ČLANICI EVROPSKE UNIJE, DRŽAVI EVROPSKEGA GOSPODARSKEGA PROSTORA ALI ŠVICARSKI KONFEDERACIJI PRIDOBLJENO POKLICNO KVALIFIKACIJO".
+# 8. člen
+73.a člen se spremeni tako, da se glasi:
+"73.a člen
+Zdravstveni delavec oziroma zdravstveni sodelavec, ki ima v drugi državi članici Evropske unije, državi Evropskega gospodarskega prostora ali Švicarski konfederaciji pridobljeno poklicno kvalifikacijo, je upravičen, da se njegova poklicna kvalifikacija prizna po postopku, ki ga določa zakon, ki ureja postopek priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev.
+Po priznanju poklicne kvalifikacije se zdravstveni delavec oziroma zdravstveni sodelavec iz prejšnjega odstavka na podlagi vloge vpiše v register iz šestega odstavka 64. člena tega zakona.
+Vloga za vpis v register zdravstvenih delavcev, ki vsebuje podatke iz osmega odstavka 64. člena tega zakona, se vloži pri ministrstvu, pristojnem za zdravje, oziroma pri zbornici ali strokovnem združenju, ki ima javno pooblastilo iz 87.c člena tega zakona.
+Vlogi za vpis v register zdravstvenih delavcev se priloži:
+1. potrdilo pooblaščene izobraževalne ustanove o uspešno opravljenem preizkusu znanja slovenskega jezika v skladu s 63. členom tega zakona;
+2. potrdilo pristojnega organa oziroma organizacije iz druge države članice Evropske unije, države Evropskega gospodarskega prostora ali Švicarske konfederacije, ki pri predložitvi ne sme biti starejše od treh mesecev in iz katerega je razvidno:
+- registracija pri pristojnem organu oziroma organizaciji;
+- da ni obravnavan v postopku pred pristojnimi organi strokovnih združenj ali zbornic v zvezi z opravljanjem poklica (v nadaljnjem besedilu: disciplinski postopek), kazenskem ali drugem postopku, iz katerega izhaja prepoved opravljanja poklica oziroma je izrečena prepoved opravljanja poklica;
+3. dokazilo o priznanju poklicne kvalifikacije v skladu s prvim odstavkom tega člena.
+Zdravstvenemu delavcu oziroma zdravstvenemu sodelavcu, ki ima v drugi državi članici Evropske unije, državi Evropskega gospodarskega prostora ali Švicarski konfederaciji pridobljeno poklicno kvalifikacijo za poklic, za katerega se v skladu s šestim odstavkom 64. člena tega zakona zahteva licenca, se licenca na podlagi vloge iz tretjega odstavka tega člena podeli istočasno z vpisom v register zdravstvenih delavcev, ob izpolnjevanju pogojev iz tega člena.
+Zdravstvenemu delavcu oziroma zdravstvenemu sodelavcu iz prvega odstavka tega člena se vpis v register oziroma podelitev licence zavrne, če je iz potrdila pristojnega organa oziroma organizacije iz druge države članice Evropske unije, države Evropskega gospodarskega prostora ali Švicarske konfederacije razvidno, da je obravnavan v disciplinskem, kazenskem ali drugem postopku ali če mu je bila v drugi državi članici Evropske unije, državi Evropskega gospodarskega prostora ali Švicarski konfederaciji izrečena prepoved opravljanja poklica.
+Minimalne pogoje usposobljenosti in pridobljenih pravic iz Direktive 2005/36/ES za poklice, za katere velja avtomatično priznavanje poklicnih kvalifikacij, določi minister, pristojen za zdravje.
+Potrdila o pridobljenih poklicnih kvalifikacijah v skladu s 64. členom tega zakona izdaja ministrstvo, pristojno za zdravje, na podlagi vloge. Pogoje izdajanja potrdil podrobneje določi minister, pristojen za zdravje.".

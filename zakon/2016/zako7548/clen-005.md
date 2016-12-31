@@ -1,0 +1,5 @@
+# 5. člen
+Peti odstavek 64. člena se spremeni tako, da se glasi:
+"Ne glede na prvi odstavek tega člena smejo delo v zdravstveni dejavnosti samostojno opravljati:
+- diplomirana medicinska sestra in diplomirana babica, če ima zaključen ustrezen študijski program prve stopnje, ki traja najmanj tri leta, in je lahko dodatno izražen z enakovrednimi kreditnimi točkami ECTS, ter obsega vsaj 4.600 ur teoretičnega in kliničnega izobraževanja oziroma usposabljanja, pri čemer trajanje teoretičnega izobraževanja predstavlja vsaj tretjino, trajanje kliničnega usposabljanja pa vsaj polovico minimalnega trajanja usposabljanja,
+- magister farmacije, če ima zaključen ustrezen študijski program druge stopnje, ki traja najmanj pet let, in je lahko dodatno izražen z enakovrednimi kreditnimi točkami ECTS, ter obsega najmanj štiri leta teoretičnega in praktičnega izobraževanja oziroma usposabljanja ter najmanj šestmesečno praktično usposabljanje v lekarni ali v bolnišnici pod vodstvom farmacevtskega oddelka bolnišnice in ima opravljen strokovni izpit.".
