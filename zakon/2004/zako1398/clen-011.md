@@ -1,3 +1,0 @@
-# 11. člen
-Diplomirani medicinski sestri in diplomirani babici, ki je diplomo pridobila po študijskem programu, ki je obsegal 2.250 ur, ima končano pripravništvo in opravljen strokovni izpit, se prizna enaka kvalifikacija kot tisti, ki konča študij skladno s 7. členom tega zakona.
-Višji medicinski sestri, višjemu zdravstvenemu tehniku oziroma višjemu medicinskemu tehniku, ki je diplomo pridobila oziroma pridobil po prej veljavnih študijskih programih, ima končano pripravništvo, opravljen strokovni izpit in tri leta opravljanja svojega poklica v zadnjih petih letih, se prizna enaka kvalifikacija kot tisti oziroma tistemu, ki konča študij skladno s 7. členom tega zakona, in lahko samostojno opravlja delo v zdravstveni dejavnosti.

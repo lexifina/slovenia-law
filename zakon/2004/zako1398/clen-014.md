@@ -1,3 +1,0 @@
-# 14. člen
-Z dnem uveljavitve tega zakona se v podnaslovu 2. člena zakona o opravljanju zdravstvenih poklicev v Republiki Sloveniji za državljane drugih držav članic Evropske unije (Uradni list RS, št. 86/2002) besedi "splošni pogoji" nadomestita z besedama "splošen pogoj", besedilo "Pogoja za opravljanje poklica iz prejšnjega člena sta: 1." se nadomesti z besedilom "Pogoj za opravljanje poklica iz prejšnjega člena je", črta se 2. točka, v 4. členu pa se beseda "pogojev" nadomesti z besedo "pogoja".
-Podzakonske akte, izdane na podlagi zakona o zdravstveni dejavnosti, ki urejajo pripravništvo, strokovni izpit in specializacije, je potrebno uskladiti z določbami tega zakona v treh mesecih od uveljavitve tega zakona.
