@@ -17,5 +17,5 @@
 - prekinitev nosečnosti;
 - zdravstveno oskrbo v nosečnosti in ob porodu;
 5. obveznih zdravstvenih pregledov pred vključitvijo v izobraževanje in v času izobraževanja v osnovni oziroma srednji šoli, enako kot to velja za državljane Republike Slovenije.
-(2) Ne glede na prejšnji odstavek lahko zdravstvena komisija, ki jo imenuje minister, v utemeljenih primerih odobri večji obseg zdravstvenega varstva.
-(3) Ministrstvo krije stroške zdravstvenih storitev oseb z začasno zaščito iz prejšnjih odstavkov tega člena.
+(2) Ne glede na prejšnji odstavek lahko zdravstvena komisija, ki jo imenuje predstojnik urada, v utemeljenih primerih odobri večji obseg zdravstvenega varstva.
+(3) Urad krije stroške zdravstvenih storitev oseb z začasno zaščito iz prejšnjih odstavkov tega člena.

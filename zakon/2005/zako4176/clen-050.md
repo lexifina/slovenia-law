@@ -1,5 +1,5 @@
 # 50. člen (zbirke osebnih podatkov o osebah z začasno zaščito)
-(1) Ministrstvo za opravljanje nalog, določenih s tem zakonom, zbira in obdeluje naslednje podatke:
+(1) Urad za opravljanje nalog, določenih s tem zakonom, zbira in obdeluje naslednje podatke:
 - o oskrbi in nastanitvi;
 - o številki in datumu izdaje odločbe o pridobitvi začasne zaščite;
 - o naslovu začasnega prebivališča v Republiki Sloveniji;
@@ -12,4 +12,4 @@
 - o zaposlitvah, dohodkih in drugih prejemkih ter premoženju;
 - o pridobitvi, odvzemu in prenehanju začasne zaščite;
 - o načinu in kraju vračanja v domovino.
-(2) Ministrstvo zbira podatke iz prejšnjega odstavka neposredno od oseb z začasno zaščito, od drugih oseb ali iz že obstoječih zbirk podatkov.
+(2) Urad zbira podatke iz prejšnjega odstavka neposredno od oseb z začasno zaščito, od drugih oseb ali iz že obstoječih zbirk podatkov.
