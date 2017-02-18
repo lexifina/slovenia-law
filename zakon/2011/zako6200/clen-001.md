@@ -1,4 +1,0 @@
-# 1. člen
-V Zakonu o pomoči za reševanje in prestrukturiranje gospodarskih družb v težavah (Uradni list RS, št. 44/07 - uradno prečiščeno besedilo) se v drugem odstavku 2. člena prva in druga alinea spremenita tako, da se glasita:
-"- kadar tekoča izguba kapitalske družbe, skupaj s prenesenimi izgubami preteklih let, doseže polovico osnovnega kapitala in je tekoča izguba v zadnjih 12 mesecih dosegla višino četrtine osnovnega kapitala, pa te izgube ni mogoče pokriti v breme prenesenega dobička, rezerv ali presežkov iz prevrednotenja;
-- kadar tekoča izguba osebne družbe, skupaj s prenesenimi izgubami preteklih let, doseže polovico kapitala, ki je prikazan v računovodskih izkazih, in je tekoča izguba v zadnjih 12 mesecih dosegla višino četrtine kapitala, ki je prikazan v računovodskih izkazih, pa te izgube ni mogoče pokriti v breme prenesenega dobička, rezerv ali presežkov iz prevrednotenja;".
