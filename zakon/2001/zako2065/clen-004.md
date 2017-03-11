@@ -1,4 +1,0 @@
-# 4. člen
-Če ni določeno drugače, dokaže podpisnik listine pristnost podpisa tako, da se pred uradno osebo svojeročno podpiše ali prizna podpis, ki je že na listini, za svoj. Na enak način se dokaže tudi pristnost ročnega znaka.
-Državni organi, organizacije in posamezniki, ki izvajajo javna pooblastila, ter pravne osebe, lahko, zaradi overitev svojih listin, ki jih bo opravljalo sodišče, pri sodišču deponirajo podpise tistih svojih delavcev, ki so upravičeni za podpisovanje listin. Hkrati s podpisom svojega pooblaščenega delavca mora državni organ, organizacija ali posameznik, ki izvaja javna pooblastila in pravna oseba deponirati tudi odtis pečata, katerega ta pooblaščeni delavec pri tem uporablja.
-Notarji lahko, zaradi overitev svojih listin, deponirajo svoje podpise in odtise pečatov, ki jih uporabljajo, pri ministrstvu Republike Slovenije, pristojnem za pravosodje.
