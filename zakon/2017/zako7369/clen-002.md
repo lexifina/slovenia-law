@@ -1,0 +1,4 @@
+# 2. člen
+V drugem odstavku 4. člena se beseda "in" na koncu 7. točke nadomesti z vejico in se doda nova 8. točka, ki se glasi:
+"8. Uredba 1031/2010/EU je Uredba Komisije (EU) št. 1031/2010 z dne 12. novembra 2010 o časovnem načrtu, upravljanju in drugih vidikih dražbe pravic do emisije toplogrednih plinov na podlagi Direktive 2003/87/ES Evropskega parlamenta in Sveta o vzpostavitvi sistema za trgovanje s pravicami do emisije toplogrednih plinov v Skupnosti (UL L št. 302 z dne 18. 11. 2010, str. 1), zadnjič spremenjena z Uredbo Komisije (EU) št. 176/2014 z dne 25. februarja 2014 o spremembi Uredbe (EU) št. 1031/2010 zlasti zaradi določitve količine pravic do emisije toplogrednih plinov, ki se bodo prodajale na dražbi med letoma 2013-2020 (UL L št. 56, z dne 26. 2. 2014, str. 11) in".
+Dosedanja 8. točka postane 9. točka.

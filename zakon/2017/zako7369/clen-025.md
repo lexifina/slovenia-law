@@ -1,0 +1,3 @@
+# 25. člen
+Za devetim odstavkom 255. člena se doda nov deseti odstavek, ki se glasi:
+"(10) Odvetnik, notar ali odvetniška družba ne sme voditi nematerializiranih vrednostnih papirjev stranke na fiduciarnem računu, kadar je predmet ali podlaga pogodbe, na podlagi katere bi se nematerializirani vrednostni papirji vodili na fiduciarnem računu, le vodenje teh nematerializiranih vrednostnih papirjev na fiduciarnem računu. Odvetnik, notar ali odvetniška družba ne krši prepovedi iz prejšnjega stavka, če se nematerializirani vrednostni papirji vodijo na fiduciarnem računu zaradi izvedbe posla nakupa ali prodaje, ki je skupen več imetnikom nematerializiranih vrednostnih papirjev.".
