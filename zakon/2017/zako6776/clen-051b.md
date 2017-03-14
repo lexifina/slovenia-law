@@ -1,0 +1,6 @@
+# 51.b člen
+V sporih iz zavarovalnih razmerij, v katerih je tožena stranka zavarovalnica, je za sojenje poleg sodišča splošne krajevne pristojnosti pristojno tudi sodišče, na območju katerega ima tožeča stranka stalno oziroma začasno prebivališče ali sedež.
+V sporih iz zavarovanja pred odgovornostjo in zavarovanja nepremičnin, v katerih je tožena zavarovalnica, je za sojenje pristojno tudi sodišče, na območju katerega je prišlo do škodnega dogodka. Enako velja, če premičnine in nepremičnine krije ista zavarovalna polica ter jih je prizadel isti dogodek.
+Določbi prvega in drugega odstavka tega člena veljata tudi, ko pri zavarovanju pred odgovornostjo oškodovanec neposredno od zavarovalnice zahteva povrnitev škode, ki mu je nastala zaradi dogodka, za katerega odgovarja zavarovanec.
+V sporih iz zavarovalnih razmerij, v katerih je tožen zavarovalec, zavarovanec ali upravičenec iz zavarovanja, je krajevno pristojno sodišče, na območju katerega ima zavarovalec, zavarovanec ali upravičenec iz zavarovanja stalno ali začasno prebivališče ali sedež.
+Sporazum o krajevni pristojnosti velja le tedaj, kadar je v pisni obliki in je sklenjen po tem, ko je prišlo do spora, ali po dogovoru, ki dodatno omogoča zavarovalcu, zavarovancu ali upravičencu iz zavarovanja, da začne postopek pred sodišči, ki niso navedena v tem členu.".

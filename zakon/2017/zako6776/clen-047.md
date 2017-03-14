@@ -1,0 +1,6 @@
+# 47. člen
+V prvem odstavku 206. člena se v 2. točki pika na koncu nadomesti s podpičjem in se doda nova 3. točka, ki se glasi:
+"3. če se je začel postopek za popoln ali delni odvzem poslovne sposobnosti stranki.".
+Za drugim odstavkom se dodata novi tretji in četrti odstavek, ki se glasita:
+"Sodišče lahko na predlog strank, ki soglašajo, da se opravi poskus alternativne rešitve spora, odredi prekinitev postopka za čas, ki ne sme biti daljši od treh mesecev.
+Sodišče lahko odredi prekinitev postopka, ko ugotovi, da bi moralo uporabiti pravno pravilo, glede katerega sodna praksa višjih sodišč ni enotna, sodne prakse vrhovnega sodišča pa ni. V takem primeru sodišče predlaga vrhovnemu sodišču izdajo svetovalnega mnenja. V predlogu navede dejansko in pravno ozadje zadeve. Vrhovno sodišče odloči, ali je predlog za izdajo svetovalnega mnenja dopusten. Za zavrnitev predloga za izdajo svetovalnega mnenja zadostuje splošno sklicevanje na neobstoj pogojev in zoper tak sklep ni pritožbe. Sodišče lahko da strankama možnost, da se o nameravani prekinitvi postopka izjavita. Če vrhovno sodišče predloga za izdajo svetovalnega mnenja ne zavrne, s sklepom izda svetovalno mnenje, v katerem poda razlago pravnega pravila. Svetovalna mnenja niso zavezujoča.".

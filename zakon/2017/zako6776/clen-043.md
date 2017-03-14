@@ -1,0 +1,5 @@
+# 43. člen
+V prvem odstavku 180. člena se besedilo "in druge podatke, ki jih mora imeti vsaka vloga (105. člen)" nadomesti z besedilom "druge podatke, ki jih mora imeti vsaka vloga (105. člen), in identifikacijske podatke strank iz 180.a člena tega zakona, pri čemer, če je tožena stranka fizična oseba, ni treba, da tožba vsebuje podatek iz 2. točke prvega odstavka 180.a člena tega zakona. Ta podatek pridobi sodišče po uradni dolžnosti iz centralnega registra prebivalstva oziroma davčnega registra, če lahko toženo stranko nedvoumno identificira na podlagi drugih identifikacijskih podatkov iz prvega odstavka 180.a člena tega zakona, navedenih v tožbi. Če to ni mogoče, stranko pozove, da podatek iz 2. točke prvega odstavka 180.a člena tega zakona pridobi od upravljalca teh podatkov, če je to mogoče".
+V drugem odstavku se črta besedilo "ali pravica do revizije".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"Upravljalec zbirke podatkov je dolžan tožeči stranki, ki izkaže pravni interes, posredovati identifikacijske podatke iz 2. točke prvega odstavka 180.a člena. Pravni interes se izkaže s pozivom sodišča.".

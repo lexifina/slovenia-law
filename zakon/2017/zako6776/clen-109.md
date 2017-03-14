@@ -1,0 +1,3 @@
+# 109. člen
+V prvem odstavku 394. člena se v 10. točki pika nadomesti s podpičjem in doda nova 11. točka, ki se glasi:
+"11. če je prišlo do pravnomočne sodne odločbe kazenskega sodišča, ki temelji na istem dejanskem stanju kot sodna odločba, na podlagi katerega je že bilo odločeno v pravdnem postopku. V takem primeru je sodišče vezano na pravnomočno obsodilno sodbo, izdano v kazenskem postopku, samo glede obstoja kaznivega dejanja in kazenske odgovornosti storilca. Predlog za obnovo se vloži v 30 dneh od dneva, ko je stranka zvedela za pravnomočno sodno odločbo v kazenskem postopku. Ne glede na določbo tretjega odstavka 396. člena tega zakona se obnova postopka iz tega razloga ne more več predlagati, če preteče 10 let od dneva, ko je odločba postala pravnomočna.".

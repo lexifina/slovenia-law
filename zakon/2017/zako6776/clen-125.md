@@ -1,0 +1,4 @@
+# 125. člen
+Postopek, ki se je začel pred začetkom uporabe tega zakona, se konča po določbah do sedaj veljavnega zakona, če ni v tem členu določeno drugače.
+Spremenjene in nove določbe 109. člena, 122. člena, 123. člena, 124. člena, 125. člena, 125.a člena, 126. člena, 127. člena, 132. člena, 133. člena, 138. člena, 139. člena, 139.a člena, 139.b člena, 141.a člena, 141.b člena, 142. člena, 143. člena, 144. člena, 146.a člena, 149. člena, 150. člena, 304. člena, 392. člena, 393. člena in 394. člena zakona se uporabljajo tudi za postopek, začet pred začetkom uporabe tega zakona.
+Postopek, ki se je začel pred začetkom uporabe tega zakona, se pred sodiščem druge stopnje in pred vrhovnim sodiščem nadaljuje po določbah tega zakona, če je odločba, s katero se postopek pred sodiščem prve stopnje konča, izdana po začetku uporabe tega zakona.

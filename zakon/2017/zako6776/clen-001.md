@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o pravdnem postopku (Uradni list RS, št. 73/07 - uradno prečiščeno besedilo, 45/08 - ZArbit, 45/08, 111/08 - odl. US, 57/09 - odl. US, 12/10 - odl. US, 50/10 - odl. US, 107/10 - odl. US, 75/12 - odl. US, 40/13 - odl. US, 92/13 - odl. US, 10/14 - odl. US, 48/15 - odl. US in 6/17 - odl. US) se prvi odstavek 11. člena spremeni tako, da se glasi:
+"Sodišče, stranke in drugi udeleženci si morajo prizadevati, da se postopek opravi brez zavlačevanja in s čim manjšimi stroški. Vsaka stranka je dolžna v postopku skrbno in pravočasno uresničevati svoje pravice, navajati dejstva in predlagati dokaze, da je mogoče postopek izvesti čim prej. Sodišče je dolžno onemogočiti vsako zlorabo pravic, ki jih imajo stranke in drugi udeleženci v postopku.".
