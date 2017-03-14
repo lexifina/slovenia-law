@@ -1,0 +1,5 @@
+# 6. člen (obveznosti)
+(1) Pred začetkom izvajanja storitve delodajalec oziroma samozaposlena oseba pridobi potrdilo A1.
+(2) Delodajalec čezmejne storitve izvaja ob upoštevanju določb zakona, ki ureja delovna razmerja, ki se nanašajo na opravljanje dela v tujini.
+(3) Delodajalec delavcu v času napotitve zagotavlja pravice v skladu z določbami zakona ali drugega predpisa ter kolektivne pogodbe ali drugih aktov s splošno veljavnostjo ali veljavnostjo na ravni dejavnosti, ki v državi napotitve urejajo delovni čas, odmore in počitke, nočno delo, minimalni letni dopust, plačo, varnost in zdravje pri delu, posebno varstvo delavcev in zagotavljanje enakopravnosti, če je to za delavca ugodneje.
+(4) Po pridobitvi potrdila A1 sta delodajalec in napoteni delavec dolžna Zavod za zdravstveno zavarovanje Slovenije (v nadaljnjem besedilu: ZZZS) obvestiti o vseh spremembah, ki se pojavijo med obdobjem napotitve, še posebej pa, če napotitev ni bila izvedena ali je bila zaključena pred načrtovanim datumom.
