@@ -1,0 +1,18 @@
+# 46. člen
+V 125. členu se:
+- v napovednem stavku beseda "obdelujejo" nadomesti z besedama "smejo obdelovati",
+- v 2. točki za besedo "oškodovancev" dodata vejica in besedilo "odnos med storilcem in oškodovancem", beseda "škoda" pa se nadomesti z besedo "posledica",
+- v 5. točki beseda "delavcem" nadomesti z besedo "uslužbencem",
+- v 8. točki besedilo "DNK preiskav" nadomesti z besedilom "preiskav DNK",
+- v 9. točki za besedo "okoliščine" dodata vejica in besedilo "fotografije, avdio- in videoposnetki",
+- v 17. točki besedilo "in gibanja v varovanih objektih policije in na območju okolišev teh objektov" nadomesti z besedilom "v objekte policije",
+- v 18. točki beseda "njenega" nadomesti z besedo "njegovega", za besedo "zastopnika" pa se dodata vejica in besedilo "odnos med storilcem in oškodovancem",
+- 19. točka spremeni tako, da se glasi:
+"19. evidenca prikritih in namenskih kontrol: podatki o izsleditvi osebe ali vozila, plovila, zrakoplova ali zabojnika, o kraju, času ali razlogu za kontrolo, poti in namembnem kraju potovanja, osebah, ki spremljajo osebo, ali potnikih v vozilu, na plovilu ali zrakoplovu, uporabljenem vozilu, plovilu, zrakoplovu ali zabojniku, stvareh, ki jih ima oseba s seboj, in okoliščinah, v katerih so bili oseba ali vozilo, plovilo, zrakoplov ali zabojnik izsledeni, številka, vrsta ter veljavnost ukrepa odredbodajalca;",
+- v 24. točki beseda "osumljenca" nadomesti z besedo "storilca",
+- za 27. točko dodajo nove 28., 29., 30., 31. in 32. točka, ki se glasijo:
+"28. evidenca oseb za izločitev: profil odvzetega vzorca DNK uslužbenca policije ali druge osebe, ki sodeluje pri ogledu kraja kaznivega dejanja ali opravlja dela v laboratoriju, ter kraj in čas odvzema vzorca;
+29. evidenca gradiv spolnega izkoriščanja mladoletnih oseb: fotografije, avdio in videoposnetki in druga podobna gradiva, ki prikazujejo ali so v vzročni zvezi s spolno izkoriščanimi mladoletnimi osebami, tehnični podatki o gradivih, vsebinski zapis gradiva, podatki o kaznivem dejanju, podatki o identifikaciji mladoletne osebe (datum ugotovitve identitete, navedba osebnih podatkov iz prvega odstavka 124. člena tega zakona) ter podatki o izbrisu gradiva;
+30. evidenca potnikov, prijavljenih na let: podatki o letu, načrtovani datum, ura ter kraj vzleta in pristanka letala, število vseh potnikov na letalu, status osebe na letalu, vrsta, številka, nacionalnost in datum poteka veljavnosti potovalnega dokumenta, kraj vkrcanja in tranzita potnika, mejni prehod vstopa potnika na območje schengenskega prostora, podatki o sedežu in prtljagi potnika ter identifikacijska številka potnika iz informacijskega sistema letalskega prevoznika;
+31. evidenca potnikov iz sistema rezervacij letalskih kart: podatki v zvezi z letom, datum rezervacije, datum in kraj izdaje ter drugi podatki o letalski karti, datum nameravanega potovanja, vzdevek ali lažno ime, naslovi in drugi kontaktni podatki iz rezervacije, podatki o plačilu letalske karte, vključno z naslovom za pošiljanje računa, celoten načrt potovanja, informacije o potnikih, ki pogosto letijo, podatki o potovalni agenciji oziroma drugem pravnem subjektu, pri kateri je bila opravljena rezervacija letalske karte, potovalni status potnika, številka sedeža, podatki o osebni prtljagi potnika, druge morebitne posebnosti, povezane s potovanjem potnika, število ter osebna imena drugih potnikov, povezanih z isto rezervacijo, vse naknadne spremembe podatkov in identifikacijska številka potnika iz informacijskega sistema letalskega prevoznika;
+32. evidenca optične prepoznave registrskih tablic: datum, čas in kraj nastanka podatka, fotografijo registrske tablice in znakovni podatek o registrski tablici.".

@@ -1,0 +1,5 @@
+# 39. člen
+V prvem odstavku 112. člena se za besedo "podatki" doda besedilo "o biometričnih značilnostih oseb in podatki", na koncu odstavka pa se doda nov stavek, ki se glasi: "Podatke o biometričnih značilnostih oseb smejo policisti obdelovati pri identifikacijskem postopku ter pri odkrivanju in preiskovanju kaznivih dejanj. Pri odkrivanju in preiskovanju kaznivih dejanj smejo policisti, če je to glede na okoliščine storitve konkretnega kaznivega dejanja nujno in potrebno, primerjati prstne odtise in odtise dlani, fotografije s fotografijami drugih oseb ter primerjati profile DNK. Navedene podatke smejo obdelovati avtomatizirano.".
+V drugem odstavku se na koncu doda nov stavek, ki se glasi: "Policija mora varovati tajnost vira prijave oziroma sporočila.".
+V četrtem odstavku se besedilo "Kazenskega zakonika" nadomesti s kratico "KZ-1", besedilo "genskem profilu" pa se nadomesti z besedilom "profilu DNK".
+V petem odstavku se besedilo "določbi Zakona o sodelovanju" nadomestijo z besedami "zakonu, ki ureja sodelovanje".
