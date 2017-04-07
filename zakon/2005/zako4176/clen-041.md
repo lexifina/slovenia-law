@@ -1,6 +1,6 @@
 # 41. člen (mladoletne osebe brez spremstva)
 (1) Center za socialno delo mora mladoletni osebi brez spremstva postaviti skrbnika v skladu s predpisi s področja skrbništva.
-(2) V času trajanja začasne zaščite se mladoletna oseba brez spremstva praviloma nastani:
+(2) V času trajanja začasne zaščite se mladoletno osebo brez spremstva praviloma nastani:
 - pri odraslih sorodnikih;
 - pri rejniški družini;
 - v nastanitvenih centrih ali v drugih nastanitvenih kapacitetah, ki so primerne za bivanje mladoletnih oseb;
