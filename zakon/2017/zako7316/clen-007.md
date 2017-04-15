@@ -1,0 +1,3 @@
+# 7. člen
+Prvi odstavek 58. člena se spremeni tako, da se glasi:
+"(1) Letna poročila iz prvega in sedmega odstavka prejšnjega člena ter konsolidirana letna poročila je treba zaradi javne objave skupaj z revizorjevim poročilom predložiti AJPES v osmih mesecih po koncu poslovnega leta. Družbe morajo v skladu s prejšnjim stavkom predložiti tudi popravljeno letno poročilo ali konsolidirano letno poročilo oziroma spremembe revizorjevega poročila. Družbe iz prvega odstavka 53. člena tega zakona morajo v skladu s prvim stavkom predložiti tudi predlog razporeditve dobička ali obravnavanja izgube ter razporeditev dobička ali obravnavanje izgube, če to ni razvidno iz letnega poročila.".

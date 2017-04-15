@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o gospodarskih družbah (Uradni list RS, št. 65/09 - uradno prečiščeno besedilo, 33/11, 91/11, 32/12, 57/12, 44/13 - odl. US, 82/13 in 55/15) se v drugem odstavka 2. člena v drugi alineji za zaklepajem dodata vejica in besedilo "zadnjič spremenjena z Direktivo 2014/95/EU Evropskega parlamenta in Sveta z dne 22. oktobra 2014 o spremembi Direktive 2013/34/EU glede razkritja nefinančnih informacij in informacij o raznolikosti nekaterih velikih podjetij in skupin (UL L št. 330 z dne 15. 11. 2014, str. 1)".

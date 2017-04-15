@@ -1,0 +1,3 @@
+# 6. člen
+Prvi odstavek 57. člena se spremeni tako, da se glasi:
+"(1) Letna poročila velikih in srednjih kapitalskih družb ter dvojnih družb pregleda revizor na način in pod pogoji, določenimi z zakonom, ki ureja revidiranje. Revizor mora revidirati računovodsko poročilo ter pregledati poslovno poročilo v obsegu, potrebnem, da preveri, ali je njegova vsebina v skladu z drugimi sestavinami letnega poročila. Revizor preveri, ali poslovno poročilo vsebuje izjavo o upravljanju družbe in izjavo o nefinančnem poslovanju ter pregleda njuno formalno popolnost, vsebinsko pa se v mnenju omeji na pregled podatkov iz 3. in 4. točke petega odstavka 70. člena tega zakona. Vse to velja tudi za konsolidirana letna poročila.".
