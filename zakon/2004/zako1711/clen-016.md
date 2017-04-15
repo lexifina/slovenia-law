@@ -1,7 +1,0 @@
-# 16. člen
-105. člen se spremeni tako, da se glasi:
-"105. člen
-(1) Če starša ne živita ali ne bosta več živela skupaj, se morata sporazumeti o varstvu in vzgoji skupnih otrok v skladu z njihovimi koristmi. Sporazumeta se lahko, da imata oziroma obdržita oba varstvo in vzgojo otrok ali da so vsi otroci v varstvu in vzgoji pri enem od njiju ali da so eni otroci pri enem, drugi pri drugem od njiju. Če se sama o tem ne sporazumeta, jima pri sklenitvi sporazuma pomaga center za socialno delo.
-(2) Če se starša sporazumeta o varstvu in vzgoji otrok, lahko predlagata, da sodišče v nepravdnem postopku izda o tem sklep. Če sodišče ugotovi, da sporazum ni v skladu s koristjo otrok, predlog zavrne.
-(3) Če se starša tudi ob pomoči centra za socialno delo ne sporazumeta o varstvu in vzgoji otrok, odloči sodišče na zahtevo enega ali obeh staršev, da so vsi otroci v varstvu in vzgoji pri enem od njiju ali da so eni otroci pri enem, drugi pri drugem od njiju. Sodišče lahko po uradni dolžnosti tudi odloči, da se vsi ali nekateri otroci zaupajo v varstvo in vzgojo drugi osebi. Preden sodišče odloči, mora glede otrokove koristi pridobiti mnenje centra za socialno delo. Sodišče upošteva tudi otrokovo mnenje, če ga je otrok izrazil sam ali po osebi, ki ji zaupa in jo je sam izbral in če je sposoben razumeti njegov pomen in posledice.
-(4) Zahtevi iz prejšnjega odstavka mora biti priloženo dokazilo pristojnega centra za socialno delo, da sta se starša ob njegovi pomoči poskušala sporazumeti o varstvu in vzgoji skupnih otrok.".
