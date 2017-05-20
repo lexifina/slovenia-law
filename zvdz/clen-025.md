@@ -1,7 +1,5 @@
 # 25. člen
 
-Član volilnega organa ne more hkrati kandidirati na volitvah.
+Član volilnega organa ne more hkrati kandidirati na volitvah in ne more biti določen za predstavnika ali zaupnika liste kandidatov.
 
-Če član volilnega organa sprejme kandidaturo, mu po zakonu preneha funkcija člana v volilnem organu.
-
-Člani volilnih organov ne morejo biti predstavniki oziroma zaupniki list kandidatov.
+Če član volilnega organa sprejme kandidaturo ali je določen za predstavnika ali zaupnika liste kandidatov, mu preneha funkcija člana v volilnem organu.
