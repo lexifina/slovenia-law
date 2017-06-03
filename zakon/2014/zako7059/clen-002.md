@@ -1,2 +1,1 @@
-# 2. člen (prenos aktov Evropske unije)
-Ta zakon delno prenaša Direktivo 2014/59/EU Evropskega parlamenta in Sveta z dne 15. maja 2014 o vzpostavitvi okvira za sanacijo ter reševanje kreditnih institucij in investicijskih podjetij ter o spremembi Šeste direktive Sveta 82/891/EGS ter direktiv 2001/24/ES, 2002/47/ES, 2004/25/ES, 2005/56/ES, 2007/36/ES, 2011/35/EU, 2012/30/EU in 2013/36/EU in uredb (EU) št. 1093/2010 ter (EU) št. 648/2012 Evropskega parlamenta in Sveta (UL L št. 173 z dne 12. junija 2014, str. 190).
+# 2. člen (črtan)
