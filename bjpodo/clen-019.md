@@ -1,0 +1,3 @@
+# 19. ČLEN ŠTUDENTI
+
+Plačila, ki jih za svoje vzdrževanje, izobraževanje ali usposabljanje prejme študent ali oseba na praksi, ki je ali je bila tik pred obiskom države pogodbenice rezident druge države pogodbenice in je v prvi omenjeni državi pogodbenici navzoča samo zaradi svojega izobraževanja ali usposabljanja, se ne obdavčijo v prvi omenjeni državi pogodbenici, če taka plačila izhajajo iz virov zunaj prve omenjene države pogodbenice. Oprostitev po tem členu se za osebo na praksi uporablja samo za obdobje, ki ne presega enega leta od dne, ko se je prvič začela usposabljati v prvi omenjeni državi.
