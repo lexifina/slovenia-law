@@ -1,0 +1,2 @@
+# 62. člen (pašne skupnosti)
+Pašne skupnosti, ki niso registrirane v skladu s tem zakonom, ampak so vzpostavljene v skladu z Zakonom o kmetijskih zemljiščih (Uradni list RS, št. 71/11 - uradno prečiščeno besedilo, 58/12 in 27/16), ostanejo vpisane v evidenci subjektov in RKG kot nosilke kmetijskih gospodarstev do konca finančne perspektive za izvajanje ukrepov kmetijske politike v letih 2014-2020.

@@ -1,0 +1,2 @@
+# 61. člen (agrarne skupnosti)
+Agrarne skupnosti, ki niso registrirane v skladu z Zakonom o agrarnih skupnosti (Uradni list RS, št. 74/15), ampak so vzpostavljene v skladu z Zakonom o ponovni vzpostavitvi agrarnih skupnosti ter vrnitvi njihovega premoženja in pravic (Uradni list RS, št. 5/94, 38/94, 69/95, 22/97, 56/99, 72/00, 87/11, 14/15 - ZUUJFO in 74/15 - ZAgrS), ostanejo vpisane v evidenci subjektov in RKG kot nosilke kmetijskih gospodarstev do konca finančne perspektive za izvajanje ukrepov kmetijske politike v letih 2014-2020.
