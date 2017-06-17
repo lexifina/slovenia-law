@@ -1,0 +1,18 @@
+# 1. člen
+V Stanovanjskem zakonu (Uradni list RS, št. 69/03, 18/04 - ZVKSES, 47/06 - ZEN, 45/08 - ZVEtL, 57/08, 62/10 - ZUPJS, 56/11 - odl. US, 87/11, 40/12 - ZUJF in 14/17 - odl. US) se za 11. členom doda nov 11.a člen, ki se glasi:
+"11.a člen
+(pridobivanje osebnih podatkov)
+Občina, javni stanovanjski sklad ali neprofitna stanovanjska organizacija, ki zagotavlja stanovanjske enote, za potrebe ugotavljanje dejanskega stanja in odločanja v upravnih postopkih dodeljevanja neprofitnih stanovanj ali bivalnih enot, preverjanja izpolnjevanja pogojev za upravičenost do nadaljevanja neprofitnega najemnega razmerja, odobritve izredne pomoči, zamenjave stanovanj, izdaje mnenja centrom za socialno delo, ali je posameznik upravičen do pridobitve neprofitnega najemnega stanovanja, brezplačno pridobivajo o najemnikih in drugih udeležencih v teh postopkih podatke iz zbirk podatkov naslednjih upravljavcev:
+1. Ministrstva za notranje zadeve - podatke iz centralnega registra prebivalstva (osebno ime, EMŠO, davčna številka), podatke o gospodinjstvu iz evidence gospodinjstev (osebno ime in EMŠO oseb v skupnem gospodinjstvu) ter iz evidence registriranih vozil podatke o lastništvu vozila in o vozilu;
+2. centrov za socialno delo - podatke o višini, obdobju upravičenosti in o datumu izplačila porodniškega nadomestila, očetovskega nadomestila, nadomestila za nego in varstvo otroka, posvojiteljskega nadomestila, starševskega dodatka, dodatka za nego otroka, ki potrebuje posebno varstvo;
+3. Zavoda za pokojninsko in invalidsko zavarovanje Slovenije - podatke o uživalcih pravic pokojninskega in invalidskega zavarovanja, ki jih izplačuje Zavod za pokojninsko in invalidsko zavarovanje (o vrsti, višini, datumu izplačila in datumu upravičenosti do posamezne pravice), in podatke o višini, datumu izplačila in datumu upravičenosti do dodatka za tujo nego in pomoč ter nadomestila za invalidnost;
+4. Zavoda Republike Slovenije za zaposlovanje - podatke o višini, obdobju upravičenosti, datumu izplačila dodatka za aktivnost;
+5. Jamstvenega in preživninskega sklada Republike Slovenije - podatke o višini, obdobju upravičenosti do nadomestil preživnine in izplačilih ob insolventnosti delodajalca;
+6. Finančne uprave Republike Slovenije - v skladu z zakonom, ki ureja davčni postopek, podatke o dohodkih v skladu z zakonom, ki ureja dohodnino, ki niso oproščeni plačila dohodnine, podatke o davku in obveznih prispevkih za socialno varnost, ki se nanašajo na te dohodke, in podatke o normiranih oziroma dejanskih stroških, ki se nanašajo na te dohodke;
+7. Geodetske uprave Republike Slovenije - podatke o vrednosti nepremičnin, podatke o vrsti nepremičnine, podatke o površini stanovanja;
+8. Uprave Republike Slovenije za pomorstvo - podatke o lastništvu vodnih plovil posamezne osebe ter o vodnem plovilu;
+9. okrajnih sodišč - podatke o lastništvu nepremičnin posamezne osebe;
+10. Agencije Republike Slovenije za javnopravne evidence in storitve - podatke o vrednosti lastniških deležev, podatek o višini dobička zasebnikov in pravnih oseb, podatek o številki transakcijskega računa;
+11. Kapitalske družbe - podatke o višinah pokojninskih rent in odkupnih vrednostih;
+12. Finančnih institucij po zakonu, ki ureja bančništvo - podatke o prihodkih oziroma prejemkih na transakcijskih računih, podatke o višini sredstev na varčevalnih računih, podatke o višini depozitov, podatke o premoženjskih pravicah iz poddepoja finančnih instrumentov, podatke o imetnikih enot premoženja investicijskih skladov, o številu enot, vrednosti enote ter podatke o skladu;
+13. Javnega sklada Republike Slovenije za razvoj kadrov in štipendije - obdobje upravičenosti do štipendije.".
