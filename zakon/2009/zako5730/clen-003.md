@@ -1,6 +1,6 @@
 # 3. člen (ukrepi razvojne podpore)
 (1) Ukrepi razvojne podpore so:
-1. program spodbujanja konkurenčnosti Pomurske regije v obdobju 2010-2017,
+1. program spodbujanja konkurenčnosti Pomurske regije v obdobju 2010-2019,
 2. spodbude za zaposlovanje,
 3. davčna olajšava za investiranje,
 4. prednostna obravnava programov in projektov iz Pomurske regije pri kandidiranju za sredstva iz nacionalnih programov, programov evropske kohezijske politike in politike razvoja podeželja na področjih:
