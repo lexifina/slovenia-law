@@ -1,0 +1,4 @@
+## PREHODNI IN KONČNA DOLOČBA
+# 15. člen
+(1) Z dnem uveljavitve tega zakona preneha veljati Pravilnik o vodenju evidence subjektov inovativnega okolja (Uradni list RS, št. 25/08).
+(2) Subjekti, ki so na dan uveljavitve tega zakona vpisani v evidenci A in v evidenci B subjektov inovativnega okolja, ostanejo vpisani do datuma izteka vpisa za vsak posamezni subjekt.

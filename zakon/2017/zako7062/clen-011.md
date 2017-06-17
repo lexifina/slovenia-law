@@ -1,0 +1,4 @@
+# 11. člen
+V 18. členu se za tretjim odstavkom dodata nov četrti in peti odstavek, ki se glasita:
+"(4) Sredstva proračuna, ki jih je skladno s 106.f členom Zakona o javnih financah javni sklad za spodbujanje podjetništva prejel za izvajanje finančnega inženiringa, sme ta javni sklad znova uporabiti le za enake namene in če predhodno pridobi soglasje ministrstva, pristojnega za gospodarstvo.
+(5) Ne glede na četrti in peti odstavek 2. člena Zakona o javnih financah se v proračunu ne izkazujejo posamezni poslovni dogodki instrumentov javnega sklada za spodbujanje podjetništva, ki jih ta javni sklad izvaja na podlagi prejšnjega člena. V proračunu se izkazujejo samo plačila temu javnemu skladu na podlagi pogodbe, sklenjene med Republiko Slovenijo in tem javnim skladom, ter zagotavljanje denarnih sredstev za izvajanje instrumentov tega javnega sklada, ki spadajo med povratna sredstva.".
