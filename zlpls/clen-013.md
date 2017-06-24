@@ -1,0 +1,13 @@
+# 13. člen
+
+Člani Sveta Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji in člani Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji opravljajo svoje delo nepoklicno. Državni zbor Republike Slovenije in Vlada Republike Slovenije imenujeta člane Sveta Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji in člane Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji za dobo petih let in so lahko največ dvakrat zaporedoma imenovani na to funkcijo.
+
+Funkcija direktorja Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji je poklicna in lahko traja največ dva zaporedna mandata. Mandat direktorja Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji je pet let.
+
+Direktorja Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji imenuje in razrešuje Svet Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji. K imenovanju in razrešitvi direktorja Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji daje soglasje Vlada Republike Slovenije.
+
+Glede razrešitve direktorja Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji se uporabljajo določbe Zakona o ustanovah (Uradni list RS, št. 70/05 – uradno prečiščeno besedilo in 91/05 – popr.), ki urejajo razrešitev članov uprave ustanov.
+
+Z direktorjem Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji Svet Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji sklene pogodbo, v kateri se opredelijo pravice in dolžnosti direktorja Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji. Vlada Republike Slovenije lahko določi zgornjo mejo plače, ki jo prejema direktor Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji.
+
+Predsednik Sveta Fundacije za financiranje športnih organizacij v Republiki Sloveniji opravlja svoje delo nepoklicno, upravičen pa je do mesečne nagrade v višini 50 odstotkov minimalne bruto plače za delo s polnim delovnim časom v Republiki Sloveniji.
