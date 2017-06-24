@@ -1,2 +1,0 @@
-ZAKON
-O ŠPORTU (ZSpo)
