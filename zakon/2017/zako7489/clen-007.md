@@ -1,0 +1,4 @@
+# 7. člen
+V tretjem odstavku 22.b člena se besedilo "Javni jamstveni, preživninski in invalidski sklad Republike Slovenije" nadomesti z besedilom "javni finančni sklad za vzpodbujanje razvoja zaposlovanja invalidov (v nadaljnjem besedilu: sklad)".
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Izvajalec prilagoditve vozila invalidu izda račun za izvedene prilagoditve vozila. Kopijo računa prilagoditve vozila posreduje upravni enoti, ki je vrednotnico izdala. Kopiji računa je dolžan priložiti originalne vrednotnice za plačilo stroškov prilagoditev vozila, iz katerih je razvidno, ali je plačnik ministrstvo, pristojno za invalidsko varstvo (za brezposelne invalide) ali sklad (za zaposlene ali samozaposlene invalide), na podlagi katerih je invalidu izvedel prilagoditve vozila in potrdilo izvedenca o ustreznosti in pravilnosti izvedene prilagoditve. Enako velja tudi pri nakupu novega prilagojenega vozila.".
