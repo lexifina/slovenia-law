@@ -1,6 +1,6 @@
 ## 3.2. Namenski prejemki in izdatki proračuna
 # 21. člen (namenski prihodki proračuna)
-Namenski prihodki proračuna za leti 2017 in 2018 so poleg prihodkov, določenih v prvem stavku prvega odstavka 43. člena in prvega odstavka 80. člena ZJF, tudi:
+(1) Namenski prihodki proračuna za leti 2017 in 2018 so poleg prihodkov, določenih v prvem stavku prvega odstavka 43. člena in prvega odstavka 80. člena ZJF, tudi:
 1. sredstva za preneseno izvrševanje nalog, ki se uporabijo za namene, dogovorjene med vlado in EK, in na način, določen s predpisom ministra;
 2. prihodki od obremenitve s stavbno ali služnostno pravico stvarnega premoženja države, ki se uporabijo za nakup, graditev, obnovo, investicijsko in tekoče vzdrževanje nepremičnin v lasti države;
 3. prihodki požarne takse po 59. členu Zakona o varstvu pred požarom (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo, 9/11 in 83/12), ki se po merilih, ki jih določi vlada, uporabijo za namene iz navedenega zakona;
@@ -14,3 +14,7 @@ Namenski prihodki proračuna za leti 2017 in 2018 so poleg prihodkov, določenih
 11. prihodki iz dajatev od prejemkov, izplačanih zaradi opravljenega začasnega in občasnega dela upokojencev, ki v skladu z drugim odstavkom 27.f člena Zakona o urejanju trga dela (Uradni list RS, št. 80/10, 40/12 - ZUJF, 21/13, 63/13, 100/13, 32/14 - ZPDZC-1 in 47/15 - ZZSDT) predstavljajo prihodek podračuna iz 4. točke 42. člena tega zakona;
 12. prihodki po tretjem odstavku 33. člena Zakona o gospodarjenju z gozdovi v lasti Republike Slovenije (Uradni list RS, št. 9/16; v nadaljnjem besedilu: ZGGLRS), se porabijo za namene, določene v četrtem odstavku 33. člena navedenega zakona;
 13. prihodki iz 2. točke prvega odstavka 162. člena Zakona o kazenskem postopku (Uradni list RS, št. 32/12 - uradno prečiščeno besedilo, 47/13, 87/14 in 8/16 - odl. US), ki se porabijo za odškodnino za povračilo škode žrtvam kaznivih dejanj po Zakonu o odškodnini žrtvam kaznivih dejanj (Uradni list RS, št. 101/05, 114/06 - ZUE in 86/10).
+(2) Ne glede na prvi odstavek 44. člena ZJF se namenska sredstva, ki jih neposredni uporabnik doseže z lastno dejavnostjo, ki niso bila porabljena v preteklem letu, prenesejo v proračun za tekoče leto v obsegu, kot je določen v tretjem in četrtem odstavku tega člena.
+(3) Če so namenski prejemki vplačani v proračun v nižjem obsegu, kot so načrtovani v sprejetem proračunu države oziroma občine, neposredni uporabnik oziroma občina prevzema in plačuje obveznosti samo v višini dejansko vplačanih oziroma razpoložljivih prejemkov.
+(4) Če so namenski prejemki vplačani v proračun v večjem obsegu, kot so načrtovani v sprejetem proračunu države oziroma občine, neposredni uporabnik oziroma občina prevzema in plačuje obveznosti samo v višini načrtovanih pravic porabe v sprejetem proračunu države oziroma občine.
+(5) Ne glede na prejšnji odstavek lahko neposredni uporabniki prevzemajo in plačujejo obveznosti preko načrtovanih pravic porabe v sprejetem proračunu države na podlagi soglasja vlade, če se s tem ne ogrozi doseganje ciljnega salda sektorja država.

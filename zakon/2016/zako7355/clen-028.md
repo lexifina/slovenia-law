@@ -9,10 +9,10 @@
 3. na postavke namenskih sredstev finančnih mehanizmov in med temi postavkami;
 4. na postavko 7608 - Tekoča proračunska rezerva pri ministrstvu, in sicer do obsega pravic porabe, določenega v 42. členu ZJF;
 5. na postavko 7640 - Rezerva Republike Slovenije pri ministrstvu, in sicer do obsega pravic porabe, določenega v 48. členu ZJF;
-6. na postavke v politiki 21 - Pokojninsko varstvo;
-7. na postavke v politiki 22 - Servisiranje javnega dolga in upravljanje z denarnimi sredstvi;
-8. na postavke v politiki 24 - Plačilo v EU;
-9. med postavkami politik iz 6., 7. in 8. točke tega odstavka;
+6. na postavke v politiki 21 - Pokojninsko varstvo in z njih;
+7. na postavke v politiki 22 - Servisiranje javnega dolga in upravljanje z denarnimi sredstvi in z njih;
+8. na postavke v politiki 24 - Plačilo v EU in z njih;
+9. (črtana);
 10. na postavke v glavnem programu 2302 - Posebna proračunska rezerva in programi pomoči v primerih nesreč, med njimi in z njih;
 11. na postavke v podprogramu 230102 - Sredstva za množične migracije, med njimi in z njih;
 12. na postavke v podprogramu 030104 - Predsedovanje EU, med njimi in z njih;
