@@ -1,0 +1,2 @@
+# 30. člen
+Do uveljavitve kazenskega zakona za mladoletnike iz drugega odstavka 5. člena zakonika se sme starejšemu mladoletniku stranska kazen izgona tujca iz države iz novega 48.a člena zakonika izreči, če mu je sodišče izreklo kazen za kaznivo dejanje, za katero se sme izreči kazen več kot dveh let mladoletniškega zapora, in če je na podlagi osebnih okoliščin podana resna grožnja za javni red in mir, vendar le, če je izgon nujen zaradi zagotavljanja njegovih največjih koristi.
