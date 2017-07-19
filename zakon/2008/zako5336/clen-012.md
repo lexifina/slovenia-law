@@ -1,4 +1,0 @@
-# 12. člen (prehod bremen ob vzpostavitvi etažne lastnine)
-(1) Bremena, ki so bila ustanovljena na nepremičnini kot celoti, po vzpostavitvi etažne lastnine preidejo na vse posamezne etažne dele.
-(2) Ne glede na določbo prejšnjega odstavka breme, ustanovljeno na nepremičnini na podlagi sodnega sklepa o izvršbi, ne preide na tiste posamezne etažne dele, za katere pridobitelji izkažejo, da so pravne naslove pridobili pred dnevom, od katerega učinkuje zemljiškoknjižni vpis bremena na nepremičnini.
-(3) V primerih iz prejšnjega odstavka se v postopku za vzpostavitev etažne lastnine po tem zakonu šteje, da je pravni naslov pridobljen v trenutku, ko je bila listina o pravnem poslu po zakonu overjena, če je pravni naslov odločba sodišča ali drugega državnega organa, pa glede na dan izdaje odločbe, ki predstavlja pravni naslov.

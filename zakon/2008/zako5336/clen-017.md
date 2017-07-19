@@ -1,2 +1,0 @@
-# 17. člen (sporna dejstva)
-Kadar bi moralo sodišče po določbah zakona, ki ureja nepravdni postopek, o predhodnem vprašanju zaradi spornih dejstev prekiniti postopek in posameznega udeleženca napotiti na pravdo, sodišče postopka za vzpostavitev etažne lastnine po tem zakonu ne prekine, temveč odloči v skladu z domnevami iz tega zakona, če se te ne nanašajo na sporna vprašanja, pa v korist tistega udeleženca, katerega pravico šteje za bolj verjetno.
