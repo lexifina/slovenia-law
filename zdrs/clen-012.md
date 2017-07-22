@@ -1,0 +1,19 @@
+# 12. člen
+
+Pristojni organ lahko, če je to v skladu z nacionalnim interesom, po prostem preudarku sprejme v državljanstvo Republike Slovenije slovenskega izseljenca in njegovega potomca do četrtega kolena v ravni črti, če dejansko živi v Republiki Sloveniji vsaj eno leto pred vložitvijo prošnje, če ima urejen status tujca in če izpolnjuje pogoje iz 1., 4., 5., 6., 7., 8., 9. in 10. točke prvega odstavka 10. člena tega zakona.
+
+Pristojni organ lahko, če je to v skladu z nacionalnim interesom, po prostem preudarku sprejme v državljanstvo Republike Slovenije osebo, ki je izgubila državljanstvo Republike Slovenije na podlagi odpusta ali odreka državljanstvu v skladu z določbami tega zakona ali v skladu s predpisi, ki so urejali državljanstvo na območju Republike Slovenije pred sprejemom tega zakona, če oseba dejansko živi v Sloveniji neprekinjeno šest mesecev pred vložitvijo prošnje, če ima urejen status tujca in če izpolnjuje pogoje iz 1., 4., 6., 7., 8., 9. in 10. točke prvega odstavka 10. člena tega zakona.
+
+Pristojni organ lahko, če je to v skladu z nacionalnim interesom, po prostem preudarku sprejme v državljanstvo Republike Slovenije osebo, ki je že najmanj tri leti poročena z državljanom Republike Slovenije, če dejansko živi v Sloveniji neprekinjeno vsaj eno leto pred vložitvijo prošnje, če ima urejen status tujca in če izpolnjuje pogoje iz 1., 2., 4., 5., 6., 7., 8., 9. in 10. točke prvega odstavka 10. člena tega zakona. Šteje se, da je pogoj neprekinjenega prebivanja izpolnjen, tudi če oseba fizično ni prisotna na ozemlju Republike Slovenije zaradi razlogov, ki na njeni strani ali na strani zakonca ne štejejo za prekinitev bivanja. Okoliščine zaradi katerih je kljub odsotnosti prosilca za sprejem v državljanstvo Republike Slovenije izpolnjen pogoj neprekinjenega prebivanja, določi Vlada Republike Slovenije.
+
+Oseba iz prejšnjega odstavka lahko na posebno prošnjo izjemoma pridobi državljanstvo Republike Slovenije, čeprav ne izpolnjuje pogoja iz 2. točke 10. člena tega zakona in pogoja neprekinjenega prebivanja iz prejšnjega odstavka, če s tem soglaša Vlada Republike Slovenije.
+
+Pristojni organ lahko, če je to v skladu z nacionalnim interesom, po prostem preudarku sprejme v državljanstvo Republike Slovenije polnoletno osebo, rojeno na območju Republike Slovenije, če dejansko živi v Sloveniji od rojstva dalje in če izpolnjuje pogoje iz 6., 7., 8., 9. in 10. točke prvega odstavka 10. člena tega zakona.
+
+Pri odločanju na podlagi prejšnjega odstavka lahko pristojni organ upošteva osebne, družinske, gospodarske, socialne in druge vezi, ki vežejo osebo na Republiko Slovenijo, ter posledice, ki bi jih povzročila zavrnitev prošnje za sprejem v državljanstvo Republike Slovenije.
+
+Pristojni organ lahko, če je to v skladu z nacionalnim interesom, po prostem preudarku sprejme v državljanstvo Republike Slovenije osebo s statusom begunca, priznanega po zakonu o azilu, če dejansko živi v Sloveniji neprekinjeno 5 let pred vložitvijo prošnje in če izpolnjuje pogoje iz 1., 4., 5., 6., 7., 8., 9. in 10. točke prvega odstavka 10. člena tega zakona.
+
+Pristojni organ lahko, če je to v skladu z nacionalnim interesom, po prostem preudarku sprejme v državljanstvo Republike Slovenije osebo brez državljanstva (apatrida), če dejansko živi v Sloveniji neprekinjeno 5 let pred vložitvijo prošnje, če ima urejen status tujca in če izpolnjuje pogoje iz 1., 4., 5., 6., 7., 8., 9. in 10. točke prvega odstavka 10. člena tega zakona.
+
+Pristojni organ lahko, če je to v skladu z nacionalnim interesom, po prostem preudarku sprejme v državljanstvo Republike Slovenije osebo, ki je v Republiki Sloveniji obiskovala in uspešno zaključila najmanj visokošolski program, če dejansko živi v Republiki Sloveniji najmanj sedem let, od tega neprekinjeno vsaj eno leto pred vložitvijo prošnje, če ima urejen status tujca ter izpolnjuje pogoje iz 2., 4., 6., 7., 8., 9. in 10. točke prvega odstavka 10. člena tega zakona.
