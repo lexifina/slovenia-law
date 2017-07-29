@@ -1,0 +1,5 @@
+# 3. člen
+V tretjem odstavku 32. člena se za drugim stavkom doda nov tretji stavek, ki se glasi: "V koncesijskem aktu za podelitev koncesije, ki ga izda vlada, se določi delež koncesijske dajatve, ki pripada lokalnim skupnostim, na območju katerih se nahaja kopenski del koprskega tovornega pristanišča. Delež koncesijske dajatve se deli na podlagi pomožnih meril, ki se nanašajo na območje kopenskega dela pristanišča in območje ter prebivalstvo lokalne skupnosti. Koncesijska dajatev je namenjena za financiranje javne občinske infrastrukture in občinskih javnih služb, kar se podrobneje določi s koncesijskim aktom.".
+V šestem odstavku se besedilo "znotraj pristanišča ali pristaniške infrastrukture" nadomesti z besedilom "ali pristaniške infrastrukture znotraj pristanišča v skladu s prostorskimi akti".
+Za šestim odstavkom se doda nov sedmi odstavek, ki se glasi:
+"Republika Slovenija je razlastitveni upravičenec na zemljiščih ali pristaniški infrastrukturi znotraj pristanišča v skladu s prostorskimi akti, za katere obstaja javni interes.".
