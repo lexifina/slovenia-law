@@ -19,7 +19,7 @@
 17. opravi izredni prevoz brez dovoljenja upravljavca (68. člen);
 18. na železniških vozilih z odprtim kuriščem, ki vozijo po progah na požarno ogroženem območju, ne izvaja protipožarnih ukrepov (drugi odstavek 69. člena);
 19. izvaja usposabljanje ali preverjanje strokovne usposobljenosti izvršilnih železniških delavcev, ne da bi jih za to delo imenoval varnostni organ (tretji in četrti odstavek 74. člena);
-20. izvršilni železniški delavec upravlja vlečno vozilo ali motorno vozilo za posebne namene v eni izmeni več kot 10 ur ali če traja neprekinjena vožnja vlečnega vozila več kot 4 ure (84. člen);
+20. izvršilni železniški delavec upravlja vlečno vozilo ali motorno vozilo za posebne namene v eni izmeni več kot 10 ur ali če traja neprekinjena vožnja vlečnega vozila več kot pet ur (84. člen);
 21. dnevni počitek izvršilnega železniškega delavca ni v skladu s 86. členom;
 22. ne organizira notranjega nadzora v skladu z 88. členom.
 (2) Z globo od 500 do 1.200 eurov se kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika posameznika in posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
