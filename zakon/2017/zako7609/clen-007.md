@@ -1,0 +1,4 @@
+# 7. člen
+Za sedmim odstavkom 15. člena se doda nov osmi odstavek, ki se glasi:
+"(8) Če se struktura vozil v posameznem emisijskem razredu vozila EURO, za katerega je infrastrukturna pristojbina prilagojena, v posameznem letu spremeni zaradi odliva vozil v drugi emisijski razred vozila EURO za tri odstotke ali več glede na predhodno leto, vlada na predlog upravljavca cestninskih cest najpozneje do konca junija naslednjega leta spremeni faktorje prilagoditve višine infrastrukturne pristojbine tako, da izniči negativni vpliv te spremembe na prihodke upravljavca cestninskih cest iz cestnin. Spremenjeni faktorji prilagoditve višine infrastrukturne pristojbine se uporabljajo od 1. januarja naslednjega leta. Upravljavec cestninskih cest zagotovi podatke in potrebne izračune za spremembo prilagoditve višine infrastrukturne pristojbine glede na emisijski razred vozila EURO.".
+Dosedanja osmi in deveti odstavek postaneta deveti in deseti odstavek.

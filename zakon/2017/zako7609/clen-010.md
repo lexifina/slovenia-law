@@ -1,0 +1,4 @@
+# 10. člen
+Tretji in četrti odstavek 27. člena se spremenita tako, da se glasita:
+"(3) Cestninski zavezanec pred vstopom na cestninsko cesto namesti OBU napravo v vozilu na način, določen v splošnem aktu iz 21. člena tega zakona, in vnese pravilne podatke o številu osi vozila ali skupine vozil.
+(4) Cestninski zavezanec uporablja OBU napravo med vožnjo po cestninski cesti na način, določen v splošnem aktu iz 21. člena tega zakona. Cestninski zavezanec takoj po vstopu na cestninsko cesto in med vožnjo po njej preverja pravilnost delovanja OBU naprave in zagotavlja zadostno višino dobroimetja na OBU napravi pri prehodu točke cestninjenja. Če cestninski zavezanec zazna premalo dobroimetja na OBU napravi, njeno nedelovanje ali nepravilno delovanje, mora to odpraviti na prvi cestninski uporabniški točki, na kateri pridobi tudi informacije o načinu in postopku odprave zaznane napake.".
