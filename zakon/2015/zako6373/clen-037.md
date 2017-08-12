@@ -14,4 +14,5 @@ b) polletna vinjeta: od dneva njenega nakupa do preteka dneva, ki ima isto štev
 c) mesečna vinjeta: od dneva njenega nakupa do preteka dneva, ki ima isto številko en mesec po dnevu nakupa, ali če v naslednjem mesecu takšnega dneva ni do preteka zadnjega dneva v mesecu;
 d) tedenska vinjeta: sedem zaporednih dni od vključno dneva, ki ga določi cestninski zavezanec ob nakupu vinjete.
 (6) Za enosledna vozila se lahko uporablja letna, polletna ali tedenska vinjeta, za dvosledna vozila pa letna, mesečna ali tedenska vinjeta.
-(7) Vlada določi obliko, vsebino in druge značilnosti vinjet, podrobneje predpiše način njihove izdaje, namestitve in uporabe ter uredi druga vprašanja cestninjenja z vinjetami.
+(7) Vlada določi vsebino in druge značilnosti vinjet, podrobneje predpiše način njihove izdaje, namestitve in uporabe ter uredi druga vprašanja cestninjenja z vinjetami.
+(8) Obliko in velikost vinjet določi upravljavec cestninskih cest iz drugega odstavka tega člena v splošnem aktu iz 21. člena tega zakona.

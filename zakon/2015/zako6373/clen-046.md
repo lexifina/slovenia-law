@@ -16,6 +16,7 @@
 - podatki o vključitvi OBU naprave ali naprav v elektronski sistem cestninjenja;
 - podatki o prevoženi razdalji po cestninski cesti z vozilom uporabnika elektronskega cestninjenja, ki uporablja OBU napravo;
 - registrska označba vozila, na katero je OBU naprava nameščena;
+- podatke o vnesenem številu osi vozila ali skupine vozil v OBU napravo pri prehodu cestninske točke;
 - podatki o vozilu (vrsta in kategorija, znamka, tip, različica in izvedba, največja dovoljena masa vozila, barva vozila in drugi tehnični podatki, potrebni za razvrstitev vozila v cestninski razred);
 - slikovni posnetki vozila v delu, ki omogoča prepoznavo registrske označbe vozila in samega vozila;
 - podatki o izdanih zahtevkih oziroma računih za cestninske obveznosti za posamezno vozilo in o prejetih plačilih;

@@ -1,4 +1,0 @@
-# 58. člen (rok za izdajo podzakonskih predpisov in splošnih aktov za izvrševanje javnih pooblastil)
-(1) Vlada izda predpise iz drugega odstavka 5. člena, osmega odstavka 11. člena, drugega odstavka 12. člena, sedmega odstavka 37. člena in šestega odstavka 42. člena v enem letu od uveljavitve tega zakona, predpise iz četrtega odstavka 3. člena, 10. člena in sedmega odstavka 15. člena pa najpozneje do dneva začetka izvajanja elektronskega cestninjenja v prostem prometnem toku iz prvega odstavka 52. člena tega zakona.
-(2) Minister izda predpis iz petega odstavka 40. člena in druge alineje drugega odstavka 41. člena v enem letu od uveljavitve tega zakona.
-(3) Upravljavec cestninskih cest izda splošni akt iz 21. člena tega zakona najpozneje do dneva začetka izvajanja elektronskega cestninjenja v prostem prometnem toku iz prvega odstavka 52. člena tega zakona.
