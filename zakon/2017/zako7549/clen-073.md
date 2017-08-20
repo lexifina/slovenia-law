@@ -1,0 +1,3 @@
+## PREHODNE DOLOČBE
+# 73. člen (vpis podatkov v evidenco infrastrukturnih omrežij ter objektov)
+Investitor ali upravljavec komunikacijskega omrežja in pripadajoče infrastrukture iz drugega odstavka 9. člena zakona podatke o trenutni uporabi komunikacijskega omrežja in pripadajoče infrastrukture, vključno s številom pripadajočih vodov, iz prvega odstavka 14. člena zakona, za komunikacijsko omrežje in pripadajočo infrastrukturo, ki je ob uveljavitvi tega zakona že vpisana v evidenco, sporoči neposredno organu, pristojnemu za geodetske zadeve, za vpis v evidenco infrastrukturnih omrežij ter objektov v skladu s predpisom, ki ureja vpis v to evidenco, v enem letu po uveljavitvi tega zakona.

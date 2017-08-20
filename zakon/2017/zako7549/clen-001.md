@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o elektronskih komunikacijah (Uradni list RS, št. 109/12, 110/13, 40/14 - ZIN-B, 54/14 - odl. US in 81/15) se v 1. členu za besedilom "elementov oštevilčenja," doda besedilo "ureja učinkovitejšo gradnjo in postavitev elektronskih komunikacijskih omrežij ter souporabo obstoječe fizične infrastrukture,", besedilo "med subjekti na trgu elektronskih komunikacij" pa se nadomesti z besedilom "na področju tega zakona".

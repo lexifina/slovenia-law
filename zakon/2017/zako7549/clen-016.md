@@ -1,0 +1,4 @@
+# 16. člen
+Na koncu tretjega odstavka 24. člena se doda besedilo "Agencija pripravi najmanj triletno strategijo upravljanja z radiofrekvenčnim spektrom in jo predloži v soglasje vladi. Po pridobitvi soglasja agencija strategijo objavi na svojih spletnih straneh.".
+Za tretjim odstavkom se doda nov četrti odstavek, ki se glasi:
+"(4) Pri čezmejnem škodljivem motenju, povzročenem z oddajanjem radijskega signala iz drugih držav v nasprotju z mednarodnopravnimi akti iz drugega odstavka tega člena, lahko agencija sprejme nujne in sorazmerne ukrepe za zaščito nemotene uporabe radiofrekvenčnega spektra v Republiki Sloveniji. Ti ukrepi obsegajo predvsem povečanje dovoljene oddajne moči, spremembo horizontalnega sevalnega diagrama, spremembo polarizacije, spremembo višine antene nad terenom ter spremembo lokacije oddajanja, če se s tem območje pokrivanja ne spremeni.".

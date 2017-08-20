@@ -1,0 +1,7 @@
+# 4. člen
+V drugem odstavku 6. člena se za besedama "posamezni operater" doda besedilo "v Republiki Sloveniji" in črta besedilo "na ozemlju Republike Slovenije".
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"(3) Ne glede na določbo prejšnjega odstavka agencija na utemeljen predlog operaterja pri prihodku od javnih komunikacijskih storitev mednarodnega prometa, ki v celoti izvira in se zaključi zunaj Republike Slovenije, ob določitvi števila točk upošteva polovico letnega prihodka od teh storitev. Navedeno ne velja, kadar tak promet opravi končni uporabnik zadevnega operaterja. Breme dokazovanja, da prihodek izvira od javnih komunikacijskih storitev mednarodnega prometa, ki v celoti izvira in se zaključi zunaj Republike Slovenije, je na operaterju. Če operater dokaže, da je za določeno višino prihodkov od javnih komunikacijskih storitev mednarodnega prometa, ki v celoti izvira in se zaključi zunaj Republike Slovenije, zavezan za plačilo nacionalnemu regulativnemu organu v drugi državi, agencija ob določitvi števila točk višine teh prihodkov ne upošteva.".
+Dosedanji tretji, četrti in peti odstavek postanejo četrti, peti in šesti odstavek.
+V dosedanjem šestem odstavku, ki postane sedmi odstavek, se beseda "prehodno" nadomesti z besedo "predhodno", za besedo "objavljen" pa se doda besedilo "najpozneje do 31. julija tekočega leta skupaj z osnutkom programa dela in finančnega načrta za prihodnje koledarsko leto".
+Dosedanji sedmi odstavek postane osmi odstavek.

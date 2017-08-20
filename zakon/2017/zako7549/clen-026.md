@@ -1,0 +1,3 @@
+# 26. člen
+Na koncu prvega odstavka 91. člena se doda besedilo "Agencija skupne uporabe ne sme odrediti investitorju v gradnjo elektronskih komunikacijskih omrežij in pripadajoče infrastrukture za potrebe varnosti, policije, obrambe in zaščite, reševanja in pomoči.".
+Na koncu drugega odstavka se doda besedilo "Agencija lahko določi oziroma omeji tudi ceno dostopa do te infrastrukture, tako da pri delitvi stroškov upošteva učinkovito zagotavljanje storitev. Fizična ali pravna oseba iz prejšnjega odstavka mora na zahtevo agencije cene dostopa do infrastrukture stroškovno dokazati in utemeljiti.".
