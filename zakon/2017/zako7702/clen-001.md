@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o pravilih cestnega prometa (Uradni list RS, št. 82/13 - uradno prečiščeno besedilo in 68/16) se štirinajsti odstavek 30. člena spremeni tako, da se glasi:
+"(14) V primeru ustavljanja ali zastoja prometa na avtocesti in hitri cesti z dvema ali več prometnimi pasovi za vožnjo v eno smer morajo vozniki med kolonama vozil takoj vzpostaviti reševalni pas, ki je dovolj širok za varno vožnjo intervencijskih vozil. Vozila, ki se ustavljajo ali stojijo na skrajnem levem prometnem pasu, se morajo razvrstiti čim bolj levo, tudi čez robno črto smernega vozišča. Vozila, ki se ustavljajo ali stojijo na ostalih prometnih pasovih, pa se morajo razvrstiti čim bolj desno, tudi čez robno črto smernega vozišča, kar vključuje tudi odstavni pas.".
