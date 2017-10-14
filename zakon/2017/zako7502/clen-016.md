@@ -1,0 +1,3 @@
+# 16. člen
+Za subjekte vpisa iz novega četrtega odstavka 4.a člena zakona in šestega odstavka 5. člena zakona, ki jim po spremenjenem 35.a členu zakona še ni bil določen enotni identifikator ob njihovi ustanovitvi, se enotni identifikator v sodni register avtomatično prevzame ob njihovi dodelitvi po določbah Zakona o spremembah in dopolnitvah Zakona o Poslovnem registru Slovenije (Uradni list RS, št. 54/17).
+Javni dostop do vsebine listin iz spremenjene prve in nove druge alineje 1. točke tretjega odstavka 7. člena zakona je prek spletnih strani agencije omogočen do listin, ki so bile v informatizirano zbirko listin vložene po uveljavitvi Zakona o spremembah in dopolnitvah Zakona o sodnem registru (Uradni list RS, št. 49/09).
