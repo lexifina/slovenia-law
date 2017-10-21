@@ -1,0 +1,5 @@
+# 10. člen
+V prvem odstavku 24.a člena se prva alineja spremeni tako, da se glasi:
+"- da ima končan najmanj izobraževalni program za pridobitev srednje strokovne izobrazbe ali izobraževalni program gimnazije z ustrezno nacionalno poklicno kvalifikacijo ali da izpolnjuje z zakonom in drugimi predpisi določene pogoje o izobrazbi za vzgojitelje predšolskih otrok - pomočnike vzgojiteljev, vzgojitelje, učitelje in svetovalne delavce na področju vzgoje in izobraževanja.".
+Drugi odstavek se spremeni tako, da se glasi:
+"Varuh predšolskih otrok lahko varuje skupino predšolskih otrok, ki ne sme presegati šest otrok. Varuh predšolskih otrok lahko varuje otroke v stanovanjski stavbi, ki ima izdano uporabno dovoljenje. Za prostor in opremo, ki jo mora zagotoviti varuh predšolskih otrok za varstvo otrok, se uporabljajo določbe predpisa o normativih in minimalnih tehničnih pogojih za prostor in opremo vrtca, ki ureja prostore za otroke v vzgojno-varstveni družini in določbe predpisa, s katerim se podrobneje urejajo vzgojno-varstvene družine. V stanovanjski enoti je lahko registriran le en varuh predšolskih otrok.".

@@ -1,0 +1,3 @@
+# 26. člen (začetek uporabe)
+Drugi odstavek novega 28.b člena zakona se začne uporabljati 1. januarja 2018, nova peta alineja prvega odstavka 29. člena in novi drugi odstavek 41. člena zakona pa 1. septembra 2018.
+Preimenovanje "pomočnika vzgojitelja" v "vzgojitelj predšolskih otrok - pomočnik vzgojitelja" v tretjem in petem odstavku 17. člena, prvem in drugem odstavku 18. člena, tretji alineji prvega odstavka 34. člena, prvem in četrtem odstavku 40. člena, naslovu in tretjem odstavku 41. člena, tretji alineji prvega odstavka 53. člena ter v prvem in drugem odstavku 58. člena se začne uporabljati 1. septembra 2018.
