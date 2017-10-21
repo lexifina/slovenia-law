@@ -1,0 +1,6 @@
+# 3. člen
+V 32. členu se za drugim odstavkom dodajo novi tretji, četrti, peti in šesti odstavek, ki se glasijo:
+"(3) Prejemniku denarnega nadomestila z nedokončano osnovnošolsko izobrazbo, doseženo osnovnošolsko izobrazbo, nižjo poklicno izobrazbo ali srednješolsko izobrazbo, ki v času upravičenosti do denarnega nadomestila sklene delovno razmerje s polnim delovnim časom, zavod do izteka obdobja, za katerega mu je bila navedena pravica priznana z dokončno odločbo, vendar največ še 12 mesecev po zaposlitvi, mesečno za pretekli mesec izplačuje spodbudo za zaposlovanje v višini 20 odstotkov od zadnjega izplačanega neto zneska denarnega nadomestila, pod pogojem ohranitve zaposlitve za polni delovni čas za celotno obdobje izplačevanja spodbude za zaposlovanje.
+(4) Spodbude iz prejšnjega odstavka ne more uveljaviti prejemnik denarnega nadomestila, ki je v okviru srednješolskega izobraževanja pridobil izobrazbo za deficitaren poklic, določen s politiko štipendiranja v skladu z zakonom, ki ureja štipendiranje.
+(5) Upravičenost do spodbude iz tretjega odstavka tega člena preneha s prenehanjem delovnega razmerja ter ne vpliva na možnost in pogoje morebitnega ponovnega uveljavljanja pravice do denarnega nadomestila.
+(6) Do spodbude iz tretjega odstavka tega člena ni upravičen udeleženec javnih del.".

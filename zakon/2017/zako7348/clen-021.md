@@ -1,0 +1,3 @@
+# 21. člen (strokovni izpit)
+(1) Osebe, ki izpolnjujejo pogoje iz prvega odstavka 6. člena Pravilnika o pogojih za opravljanje dejavnosti agencij za zaposlovanje (Uradni list RS, št. 139/06 in 80/10 - ZUTD), morajo do začetka uporabe zakona, ki bo urejal posredovanje občasnih in začasnih del študentom in dijakov, opraviti strokovni izpit iz 81. člena Zakona o urejanju trga dela (Uradni list RS, št. 80/10, 40/12 - ZUJF, 21/13, 63/13, 100/13, 32/14 - ZPDZC-1 in 47/15 - ZZSDT).
+(2) Osebam, ki so do uveljavitve tega zakona opravile strokovni izpit iz tretje alineje prvega odstavka 2. člena Pravilnika za opravljanje dejavnosti zagotavljanja dela delavcev uporabniku (Uradni list RS, št. 15/14, 38/15 in 90/15), strokovnega izpita iz prejšnjega odstavka ni treba opravljati.
