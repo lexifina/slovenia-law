@@ -1,0 +1,3 @@
+# 26. člen (prenehanje veljavnosti)
+(1) Z dnem uveljavitve tega zakona prenehata veljati Uredba o poslovanju z uporabniki v javnem zdravstvu (Uradni list RS, št. 98/08) in Pravilnik o najdaljših dopustnih čakalnih dobah za posamezne zdravstvene storitve in o načinu vodenja čakalnih seznamov (Uradni list RS, št. 63/10), ki pa se uporabljata do uveljavitve predpisa iz drugega odstavka 15.č člena zakona.
+(2) Ne glede na prejšnji odstavek se 13., 14. in 15. člen Uredbe o poslovanju z uporabniki v javnem zdravstvu (Uradni list RS, št. 98/08) uporabljajo do uveljavitve predpisov o kakovosti in varnosti v zdravstvu.
