@@ -1,0 +1,4 @@
+# 3. člen
+V četrtem odstavku 74. člena se besedilo "29., 30. in 31. točke 13. člena" nadomesti z besedilom "28., 29. in 30. točke prvega odstavka 13. člena".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"(5) Ne glede na prepoved iz 28. točke prvega odstavka 13. člena tega zakona lahko investitor v narodnem parku v tretjem varstvenem območju za obstoječi vodni zbiralnik pridobi gradbeno dovoljenje pod pogoji, določenimi v presoji sprejemljivosti in občinskem prostorskem načrtu za potrebe zasneževanja tekaških prog v rekreacijskem središču Rudno polje, in gradi vodne zbiralnike za potrebe zasneževanja smučišč, določenih s sklepom iz drugega odstavka prejšnjega člena, na območju rekreacijskih središč iz prvega odstavka tega člena, in sicer v velikosti, ki je prilagojena izvajanju zimskih dejavnosti in doseganju varstvenih ciljev.".
