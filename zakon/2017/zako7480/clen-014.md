@@ -1,0 +1,3 @@
+# 14. člen
+Za petim odstavkom 36. člena se doda nov šesti odstavek, ki se glasi:
+"(6) Če tujemu delodajalcu iz prvega odstavka tega člena zaradi objektivnih razlogov (na primer zaradi bolezni tujih delavcev, neugodnih vremenskih razmer, tehničnih ovir) ne uspe pravočasno začeti ali zaradi prekinitve dokončati izvedbe storitve, mora v treh dneh od nastopa objektivnega razloga za zamudo ali prekinitev izvajanja storitve zavod o tem pisno obvestiti in predložiti dokazila o razlogih za zamudo ali prekinitev izvajanja storitve. Zavod lahko v teh primerih na podlagi obrazložitve in dokazil tujemu delodajalcu spet izda potrdilo o opravljeni prijavi storitve, ki nadomesti predhodno izdano potrdilo o prijavi začetka opravljanja storitve.".

@@ -1,0 +1,3 @@
+# 18. člen
+Četrti odstavek 45. člena se spremeni tako, da se glasi:
+"(4) Tuji delodajalec iz prvega odstavka 36. člena tega zakona mora med napotitvijo svojih delavcev v Republiko Slovenijo na kraju opravljanja storitve hraniti in na zahtevo dati na voljo nadzornemu organu pogodbo med naročnikom in izvajalcem storitve, potrdilo o opravljeni prijavi začetka izvajanja storitev in izvode pogodb o zaposlitvi (in njihov prevod v slovenski jezik) za vse napotene delavce, potrdila o njihovi vključenosti v sistem socialnega zavarovanja na podlagi zaposlitve v državi, kjer ima tuji delodajalec sedež, ter listine s področja varnosti in zdravja pri delu (in njihov prevod v slovenski jezik).".

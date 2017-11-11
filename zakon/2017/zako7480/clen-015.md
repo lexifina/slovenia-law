@@ -1,0 +1,4 @@
+# 15. člen
+V prvem odstavku 42. člena se v 4. točki besedilo "po drugem ali tretjem odstavku 218. člena ZDR-1" nadomesti z besedilom "po drugem ali tretjem odstavku 217.a člena Zakona o delovnih razmerjih (Uradni list RS, št. 21/13, 78/13 - popr., 47/15 - ZZSDT, 33/16 - PZ-F, 52/16 in 15/17 - odl. US; v nadaljnjem besedilu: ZDR-1)".
+Za petim odstavkom se doda nov šesti odstavek, ki se glasi:
+"(6) Prepoved v skladu z 2. točko prvega odstavka tega člena, razen v primeru pravnomočno izrečene globe po 54. členu tega zakona, in prepoved v skladu s 4. točko prvega odstavka tega člena, razen v primeru pravnomočno izrečene globe po 17. ali 24. točki prvega odstavka 217. člena ZDR-1 ali po 9., 13. ali 15. točki prvega odstavka 217.a člena ZDR-1, v postopku podaje soglasja k podaljšanju enotnega dovoljenja, modre karte EU ali v postopku podaljšanja dovoljenja za sezonsko delo ne velja.".
