@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o volitvah poslancev iz Republike Slovenije v Evropski parlament (Uradni list RS, št. 96/02, 22/04, 41/07 - ZVRK, 109/09 in 9/14) se za sedmim odstavkom 18. člena dodata nova osmi in deveti odstavek, ki se glasita:
+"Ministrstvo, pristojno za notranje zadeve (v nadaljnjem besedilu: ministrstvo), je točka za stike za izmenjavo informacij in preverjanje podatkov o volilni pravici državljana Republike Slovenije, ki v drugi državi članici Evropske unije, kjer prebiva, kandidira na volitvah v Evropski parlament.
+Ministrstvo podatke iz prejšnjega odstavka preveri v evidenci volilne pravice, ki se vodi na podlagi zakona, ki ureja evidenco volilne pravice, in jih posreduje drugi državi članici Evropske unije v čim krajšem možnem času, najpozneje pa v petih delovnih dneh po prejemu zahteve.".
