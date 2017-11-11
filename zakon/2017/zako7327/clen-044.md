@@ -1,0 +1,7 @@
+# 44. člen
+Za 121. členom se doda se nov 121.a člen, ki se glasi:
+"121.a člen
+(prijava prebivanja za državljana EU, ki je iskalec zaposlitve)
+(1) Državljanu EU, ki se želi zaposliti v Republiki Sloveniji in se prijavi kot iskalec zaposlitve pri pristojnem organu za zaposlovanje, se lahko izda potrdilo o prijavi prebivanja z veljavnostjo šestih mesecev, če ima veljavno osebno izkaznico ali veljavni potni list.
+(2) Če se državljan EU v času veljavnosti potrdila o prijavi prebivanja za iskalca zaposlitve, zaposli, samozaposli ali začne z izvajanjem storitev, se zanj uporabljajo določbe 120. in 121. člena tega zakona.
+(3) Če se državljan EU v času veljavnosti potrdila o prijavi prebivanja za iskalca zaposlitve ne zaposli ali samozaposli, lahko pred potekom veljavnosti potrdila o prijavi prebivanja zaprosi za enkratno obnovo potrdila o prijavi prebivanja za iskalca zaposlitve za obdobje največ šestih mesecev, če s potrdilom pristojnega organa za zaposlovanje dokaže, da je še naprej vpisan v evidenci iskalcev zaposlitve oziroma brezposelnih oseb in ima veljavno osebno izkaznico ali veljavni potni list. Po 12 mesecih od izdaje potrdila o prijavi prebivanja obnova potrdila o prijavi prebivanja za iskalca zaposlitve ni več mogoča. Državljan EU lahko za novo potrdilo o prijavi prebivanja kot iskalec zaposlitve ponovno zaprosi po dveh letih od poteka veljavnosti potrdila o prijavi prebivanja, ki mu je bilo izdano kot iskalcu zaposlitve.".

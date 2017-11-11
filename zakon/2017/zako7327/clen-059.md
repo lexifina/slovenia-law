@@ -1,0 +1,3 @@
+# 59. člen
+V drugem odstavku 136. člena se za besedilom "na podlagi" doda besedilo "potrdila o prijavi stalnega prebivanja ali".
+V petem odstavku se prvi stavek spremeni tako, da se glasi: "Državljan EU in družinski član, kateremu je bilo prebivanje odpovedano in prepovedan ponoven vstop v Republiko Slovenijo, lahko pri upravni enoti, ki je odpovedala prebivanje, po poteku dveh tretjin časa, v katerem je tujcu prepovedan vstop v državo, v vsakem primeru pa po treh letih od izvršitve dokončne odločbe o odpovedi prebivanja vloži prošnjo za skrajšanje roka, v katerem mu je prepovedan ponoven vstop v Republiko Slovenijo.".

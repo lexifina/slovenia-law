@@ -1,0 +1,3 @@
+# 33. člen
+Tretji odstavek 73. člena se spremeni tako, da se glasi:
+"(3) Policija postopek za dovolitev zadrževanja uvede na prošnjo tujca ali po uradni dolžnosti po tem, ko je tujcu že vročena odločba o vrnitvi brez roka za prostovoljno vrnitev oziroma odločba, s katero je bila tujcu določena prepoved vstopa v državo, ali sodba, s katero je bila tujcu izrečena stranska kazen ali stranska sankcija izgona tujca iz države. Dovoljenje za zadrževanje se tujcu izda za največ šest mesecev. Dovoljenje se lahko na prošnjo tujca ali po uradni dolžnosti podaljša, dokler trajajo razlogi iz prejšnjega odstavka. Tujcu, kateremu je dovoljeno zadrževanje v Republiki Sloveniji, policija izda izkaznico o dovolitvi zadrževanja v Republiki Sloveniji.".

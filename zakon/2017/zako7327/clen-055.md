@@ -1,0 +1,4 @@
+# 55. člen
+V naslovu, prvem in tretjem odstavku 132. člena se črta beseda "začasno".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Pri odločanju o razveljavitvi dovoljenja za prebivanje družinskemu članu zaradi resne in dejanske nevarnosti za javni red in varnost države mora pristojni organ upoštevati naravo in trdnost družinskega razmerja, dolžino prebivanja družinskega člana v Republiki Sloveniji, njegovo vključenost v kulturno in družbeno življenje Republike Slovenije ter obstoj družinskih, kulturnih in socialnih vezi z matično državo. Samo predkaznovanost družinskega člana državljana EU ali slovenskega državljana ne zadošča za razveljavitev potrdila o prijavi prebivanja. V postopku razveljavitve potrdila o prijavi prebivanja je treba ugotoviti, ali družinski član predstavlja resnično, sedanjo in dovolj resno grožnjo za javni red ali varnost.".

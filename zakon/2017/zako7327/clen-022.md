@@ -1,0 +1,2 @@
+# 22. člen
+V prvem odstavku 53. člena se doda nov drugi stavek, ki glasi: "V petletno neprekinjeno zakonito prebivanje iz prejšnjega stavka se všteje tudi čas, za katerega je bilo z dopolnilno odločbo, izdano na podlagi 8. točke izreka odločbe Ustavnega sodišča Republike Slovenije št. U-I-246/02 z dne 3. aprila 2003, ali s posebno odločbo, izdano na podlagi zakona, ki ureja status državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji, odločeno, da se šteje, da je imel tujec v Republiki Sloveniji dovoljenje za stalno prebivanje.".

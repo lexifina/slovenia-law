@@ -1,0 +1,6 @@
+# 28. člen
+V drugem odstavku 58. člena se druga alineja spremeni tako, da se glasi:
+"- namenu ali razlogu prebivanja iz prvega in drugega odstavka 35. člena tega zakona, zaradi katerega se dovoljenje izda, oziroma navedbi, da gre za dovoljenje za stalno prebivanje,".
+V peti alineji se za besedilom "datum rojstva" doda besedilo "ter EMŠO".
+Na koncu tretjega odstavka se doda nov stavek, ki se glasi: "Dovoljenje za začasno prebivanje se družinskemu članu tujca s priznano mednarodno zaščito v Republiki Sloveniji v primeru, če družinski član še ni prisoten na ozemlju Republike Slovenije in zajem prstnih odtisov ni možen na diplomatskem predstavništvu ali konzulatu Republike Slovenije v tujini, izda brez prstnih odtisov družinskega člana, z veljavnostjo 90 dni.".
+Na koncu osmega odstavka se doda nov stavek, ki se glasi: "Pravico do dostopa na trg dela lahko pristojni organ na izkaznici dovoljenja za prebivanje označi tudi v postopku izdaje ali podaljšanja dovoljenja za začasno prebivanje, izdano iz drugih namenov, kot je zaposlitev, samozaposlitev ali delo, če tujec izpolnjuje pogoje oziroma ima pravico do prostega dostopa do trga dela po zakonu, ki ureja zaposlovanje, samozaposlovanje in delo tujcev.".
