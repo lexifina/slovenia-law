@@ -1,0 +1,3 @@
+# 2. člen (namen službe)
+
+Služba se izvaja v javnem interesu, da se stalno zagotavljajo splošno koristne informacije o naravnih pojavih ter stanju naravnih virov na področju meteorologije, hidrologije, oceanografije in seizmologije, informacije, ki koristijo izvajanju drugih državnih nalog ali nalog, ki se izvajajo v javnem interesu, ali splošno koristnih dejavnosti, zlasti varstvu pred naravnimi in drugimi nesrečami in odpravljanju njihovih posledic, obrambi, prostorskemu načrtovanju, graditvi objektov, varstvu kulturne dediščine, prometu, javnemu zdravju, kmetijski proizvodnji in gozdarstvu, oskrbi z energijo in drugim gospodarskim dejavnostim, ter podatki in informacije, potrebni zaradi varstva okolja in upravljanja voda.
