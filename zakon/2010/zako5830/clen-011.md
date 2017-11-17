@@ -1,4 +1,0 @@
-# 11. člen (oblika načrta)
-(1) Načrt vsebuje grafični in tekstualni del ter obvezne priloge. Izdela se v digitalni obliki, prav tako pa se v digitalni obliki zagotavlja arhiviranje in vpogled v načrt. Ne glede na to se en izvod načrta v analogni obliki hrani pri koordinatorju.
-(2) Tekstualni del načrta je uredba, s katero vlada izda načrt. Z dnem objave uredbe v Uradnem listu Republike Slovenije se grafični del in obvezne priloge načrta objavijo na portalu prostorskega informacijskega sistema v skladu s predpisi, ki urejajo prostorsko načrtovanje (v nadaljnjem besedilu: portal prostorskega informacijskega sistema).
-(3) Če je bil skupaj s postopkom priprave načrta izveden tudi postopek presoje vplivov na okolje, sta obvezni prilogi načrta tudi poročilo o vplivih na okolje in okoljevarstveno soglasje.

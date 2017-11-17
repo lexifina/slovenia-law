@@ -1,2 +1,0 @@
-# 21. člen (prostorska konferenca)
-Na podlagi analize in osnutka sklepa o pripravi načrta iz prejšnjega člena se člani prostorske konference uskladijo in dogovorijo o aktivnostih, potrebnih za pridobitev vseh podatkov in strokovnih podlag, za katere je bilo v smernicah ugotovljeno, da naj se z namenom upoštevanja predpisov pridobijo in uporabijo pri načrtovanju v pobudi predvidenih prostorskih ureditev. S tem povezane naloge, roke zanje in njihovo financiranje se določijo s sklepom o pripravi načrta.

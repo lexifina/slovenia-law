@@ -1,4 +1,0 @@
-# 49. člen (skrbnik za posebne primere)
-(1) Če investitor v skladu s prejšnjim členom ne uspe pridobiti podatkov iz uradnih evidenc, ker ti podatki ne obstajajo ali ker organi, ki vodijo uradne evidence, s podatki ne razpolagajo, in lastnik ni znan, posreduje investitor centru za socialno delo predlog za postavitev skrbnika za poseben primer.
-(2) Center za socialno delo v roku 60 dni imenuje skrbnika za poseben primer, ki z investitorjem sklene ustrezno pogodbo.
-(3) Določbe prejšnjih odstavkov se uporabljajo tudi za postavitev skrbnika za posebne primere in njegovo delovanje v postopkih za odkup nepremičnine oziroma pridobitve pravic na njej v območju državnih prostorskih načrtov, sprejetih na podlagi ZPNačrt, državnih lokacijskih načrtov, sprejetih na podlagi ZUreP-1, in prostorskih izvedbenih načrtov, ki jih je na podlagi ZUN sprejela država.

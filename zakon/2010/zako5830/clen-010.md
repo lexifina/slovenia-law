@@ -1,8 +1,0 @@
-# 10. člen (dopustne dodatne prostorske ureditve)
-(1) Poleg izvedbe načrtovanih prostorskih ureditev iz 5. člena tega zakona je zaradi smotrne izrabe prostora v območju veljavnega načrta dopustna tudi izvedba dodatnih prostorskih ureditev, ki niso načrtovane z načrtom, pod pogoji da:
-- gre za prostorske ureditve gospodarske javne infrastrukture ali grajenega javnega dobra in priključkov nanje,
-- gre za prostorske ureditve, za katere ni treba izvesti postopka celovite presoje vplivov na okolje ali postopka presoje vplivov na okolje,
-- se k rešitvam njihove umestitve pridobi predhodno soglasje investitorja oziroma, če je prostorska ureditev iz načrta že zgrajena in predana v uporabo, njenega upravljavca, in da
-- z njimi soglašajo projektni soglasodajalci, v katerih pristojnost posegajo te prostorske ureditve.
-(2) V primeru izdanega soglasja iz tretje in četrte alineje prejšnjega odstavka se šteje, da je zagotovljena skladnost teh objektov s prostorskim aktom v skladu s predpisi, ki urejajo graditev objektov, če načrt teh objektov izrecno ne prepoveduje.
-(3) Določbe tega člena se uporabljajo tudi v območjih državnih prostorskih načrtov, sprejetih na podlagi ZPNačrt, državnih lokacijskih načrtov, sprejetih na podlagi Zakona o urejanju prostora (Uradni list RS, št. 110/02, 8/03 - popr., 58/03 - ZZK-1, 33/07 - ZPNačrt in 108/09 - ZGO-1C; v nadaljnjem besedilu: ZUreP-1) in prostorske izvedbene načrte, ki jih je na podlagi Zakona o urejanju naselij in drugih posegov v prostor (Uradni list SRS, št. 18/84, 37/85, 29/86 in 26/90 ter Uradni list RS, št. 3/91, 18/93, 47/93, 71/93, 44/97 in 9/01 - ZPPreb; v nadaljnjem besedilu: ZUN) sprejela država.

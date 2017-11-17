@@ -1,3 +1,0 @@
-# 50. člen (predkupna pravica na nepremičnini v stečajni masi)
-(1) Na nepremičnini, ki je potrebna za izvedbo prostorskih ureditev, načrtovanih z načrtom, in ki zaradi začetih stečajnih postopkov postane del stečajne mase, pridobi investitor z dnem uvedbe stečaja predkupno pravico.
-(2) Določbe prejšnjega odstavka se uporabljajo tudi za nepremičnino v stečajni masi, ki je potrebna za izvedbo prostorskih ureditev, načrtovanih z državnimi prostorskimi načrti, sprejetimi na podlagi ZPNačrt, državnimi lokacijskimi načrti, sprejetimi na podlagi ZUreP-1 in prostorskimi izvedbenimi načrti, ki jih je na podlagi ZUN sprejela država.
