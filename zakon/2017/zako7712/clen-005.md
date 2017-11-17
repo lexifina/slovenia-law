@@ -1,0 +1,6 @@
+# 5. člen
+Ukrep umetniškega deleža v javnih investicijskih projektih se ne izvaja v okviru investicijskih projektov, pri katerih bodo do 1. januarja 2018 objavljena javna naročila za izvedbo gradbenih, obrtnih ali inštalacijskih del.
+Pri investicijskih projektih glede katerih bodo objavljena javna naročila za izvedbo gradbenih, obrtnih ali inštalacijskih del do 1. januarja 2019, višina sredstev za izvedbo ukrepa znaša četrtino vrednosti iz drugega oziroma tretjega odstavka 79.b člena zakona.
+Pri investicijskih projektih glede katerih bodo objavljena javna naročila za izvedbo gradbenih, obrtnih ali inštalacijskih del do 1. januarja 2020, višina sredstev za izvedbo ukrepa znaša polovico vrednosti iz drugega oziroma tretjega odstavka iz 79.b člena zakona.
+Pri investicijskih projektih glede katerih bodo objavljena javna naročila za izvedbo gradbenih, obrtnih ali inštalacijskih del do 1. januarja 2021, višina sredstev za izvedbo ukrepa znaša tri četrtine vrednosti iz drugega oziroma tretjega odstavka iz 79.b člena zakona.
+Višina sredstev za izvedbo ukrepa se začne zagotavljati v predpisani vrednosti iz drugega oziroma tretjega odstavka iz 79.b člena zakona za javna naročila za izvedbo gradbenih, obrtnih ali inštalacijskih del, objavljena po 1. januarju 2021.
