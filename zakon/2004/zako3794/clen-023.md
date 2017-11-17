@@ -1,5 +1,0 @@
-# 23. člen
-V 190. členu se dodajo novi drugi, tretji, četrti in peti odstavek, ki se glasijo:
-"(2) Organ, ki izda lokacijsko dovoljenje skladno s prejšnjim odstavkom, lahko na zahtevo stranke v času njegove veljavnosti podaljša njegovo veljavnost vsakokrat največ za eno leto, vendar skupaj največ za dve leti.
-(3) V času veljavnosti lokacijskega dovoljenja se lokacijsko dovoljenje lahko tudi spremeni. Zahtevo za spremembo lokacijskega dovoljenja je treba pisno utemeljiti tako, da je iz nje razviden vpliv zahtevane spremembe na pogoje, ki so določeni v lokacijskem dovoljenju. Nova odločba, ki deloma nadomesti lokacijsko dovoljenje, se omeji na predlagane spremembe, če zaradi narave predlaganih sprememb ni potrebno izdati novega lokacijskega dovoljenja.
-(4) Po določbah tega zakona se šteje, da lokacijsko dovoljenje preneha veljati, če v enem letu po njegovi pravnomočnosti ni v skladu z ZGO iz prvega odstavka 191. člena tega zakona vložena zahteva za izdajo gradbenega dovoljenja, če je takšna zahteva pravnomočno zavrnjena, ali če sicer izdano gradbeno dovoljenje po zakonu preneha veljati.".

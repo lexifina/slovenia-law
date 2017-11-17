@@ -1,3 +1,0 @@
-# 27. člen
-V 198. členu se doda nov drugi odstavek, ki se glasi:
-"(2) Na zahtevo lastnika objekta iz prejšnjega odstavka lahko ministrstvo, pristojno za prostorske in gradbene zadeve, izda potrdilo, da ima takšen objekt uporabno dovoljenje po samem zakonu, če so takšni zahtevi priložena dokazila, iz katerih izhaja, da so izpolnjeni pogoji, ki jih določajo določbe prejšnjega odstavka. Za takšna dokazila se lahko poleg potrdil in drugih listin, ki jih izdajajo pristojni državni organi, lahko pa tudi organi lokalnih skupnosti in nosilci javnih pooblastil, štejejo tudi izjave izvedencev, prič in ogledi objektov iz prejšnjega odstavka, v skladu s predpisi, ki urejajo splošni upravni postopek.".

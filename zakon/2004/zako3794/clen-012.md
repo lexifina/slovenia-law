@@ -1,2 +1,0 @@
-# 12. člen
-V drugem odstavku 102. člena se besedilo "projekt izvedenih del" nadomesti z besedilom "mapa, v kateri so podatki o objektu, izjava o zanesljivosti objekta in dokazne strani s kazali vsebine dokazila o zanesljivosti objekta (v nadaljnjem besedilu: vodilna mapa dokazila o zanesljivosti objekta) in mapa, v kateri so podatki o udeležencih, ki so sodelovali pri gradnji, s povzetkom ključnih podatkov iz projekta izvedenih del, določenih s predpisom iz 40. člena tega zakona (v nadaljnjem besedilu: vodilna mapa projekta izvedenih del)."
