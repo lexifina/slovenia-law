@@ -1,7 +1,0 @@
-# 104. člen
-V 180. členu se v prvem odstavku besedilo "denarno kaznijo" nadomesti z besedo "globo", številka "2,000.000" s številko "8.000", številka "7,000.000" s številko "30.000" in beseda "tolarjev" z besedo "eurov", za besedilom "pravna oseba" pa se doda besedilo "samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost".
-Drugi odstavek se črta.
-V dosedanjem tretjem odstavku, ki postane drugi odstavek, se besedilo "denarno kaznijo" nadomesti z besedo "globo", številka "200.000" s številko "800", številka "700.000" s številko "3.000" in beseda "tolarjev" z besedo "eurov".
-V dosedanjem četrtem odstavku, ki postane tretji odstavek, se besedilo "denarno kaznijo" nadomesti z besedo "globo", številka "50.000" s številko "500", številka "200.000" s številko "1.200" in beseda "tolarjev" z besedo "eurov".
-Dosedanji peti odstavek, ki postane četrti odstavek, se spremeni tako, da se glasi:
-"(4) V primeru prekrška iz prvega odstavka tega člena, ki se nanaša na gradnjo zahtevnega objekta ali objekta z vplivi na okolje ali ki naj bi se izvedla na območju, ki je varovano v skladu s predpisi o ohranjanju narave oziroma na vodnem zemljišču, če je narava prekrška posebno huda zaradi višine povzročene škode oziroma višine pridobljene protipravne premoženjske koristi ali zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, se globa, določena v prvem do tretjem odstavku tega člena, potroji.".

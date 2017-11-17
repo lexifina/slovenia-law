@@ -1,2 +1,0 @@
-# 63. člen
-V 92. členu se v prvem odstavku na koncu stavka pika črta in doda besedilo "in odgovorni vodja projekta za pridobitev gradbenega dovoljenja". Za prvim stavkom se doda nov stavek, ki se glasi: "Če je izvajalcev več, mora investitor pristojnemu upravnemu organu za gradbene zadeve predložiti skupno dokazilo o zanesljivosti, iz katerega je razvidno, da bo objekt kot celota pri uporabi in vzdrževanju izpolnjeval predpisane bistvene zahteve.".

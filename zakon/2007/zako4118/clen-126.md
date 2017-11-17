@@ -1,3 +1,0 @@
-# 126. člen (priznavanje poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švice)
-(1) Z dnem začetka uporabe tega zakona se dokončne odločbe o priznanju poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švice, ki jih izda pristojno ministrstvo v skladu s predpisi o priznavanju kvalifikacij kandidatu, ki se mora po ZGO-1 vpisati v imenik pristojne poklicne zbornice, pošiljajo pristojni poklicni zbornici, ki mora kandidata vpisati v imenik zbornice po uradni dolžnosti.
-(2) Kandidat ima pravico opravljati regulirani poklic z dnem, ko postane odločba o priznanju poklicne kvalifikacije dokončna.

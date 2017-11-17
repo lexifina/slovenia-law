@@ -1,2 +1,0 @@
-# 122. člen (pristojni upravni organ za nadzor nad poskusnim obratovanjem)
-Z dnem začetka uporabe tega zakona se šteje, da je pristojni upravni organ za nadzor nad poskusnim obratovanjem objektov oziroma gradenj, za katere je potrebno okoljevarstveno dovoljenje, Agencija Republike Slovenije za okolje, Uprava Republike Slovenije za jedrsko varnost pa za nadzor nad poskusnim obratovanjem objektov oziroma gradenj, ki se nanašajo na sevalne in jedrske objekte.

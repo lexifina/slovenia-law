@@ -1,4 +1,0 @@
-# 124. člen (uporabno dovoljenje po tem zakonu za objekte gospodarske javne infrastrukture)
-(1) Šteje se, da imajo uporabno dovoljenje po tem zakonu objekti gospodarske javne infrastrukture, ki so bili zgrajeni pred 25. junijem 1991 in ki z dnem uveljavitve ZGO-1 niso bili evidentirani v skladu z Zakonom o katastru komunalnih naprav (Uradni list SRS, št. 26/74, 29/74 - popravek in 42/86), ko se na predpisan način evidentirajo v zbirnem katastru gospodarske javne infrastrukture.
-(2) Šteje se, da imajo uporabno dovoljenje po samem zakonu vsi gradbeni inženirski objekti, ki so bili zgrajeni pred 31. decembrom 1967 in so v uporabi z dnem uveljavitve tega zakona, ko se zemljišča, na katerih so zgrajeni, na predpisani način evidentirajo v zemljiškem katastru.
-(3) Na zahtevo lastnika objektov iz prvega in drugega odstavka tega člena pristojni upravni organ izda potrdilo v skladu s četrtim in petim odstavkom 197. člena ZGO-1.

@@ -1,4 +1,0 @@
-# 28. člen
-Besedilo 49. člena se spremeni tako, da se glasi:
-"(1) Če je nameravana gradnja na območju, ki se ureja z državnim prostorskim načrtom ali občinskim podrobnim prostorskim načrtom, mora biti iz projektne dokumentacije razvidno, da so lega objekta na zemljišču, raba in oblikovanje objekta in komunalni priključki v skladu z rešitvami iz državnega prostorskega načrta ali občinskega podrobnega prostorskega načrta.
-(2) Če je nameravana gradnja na območju, ki se ureja z občinskim prostorskim načrtom, mora biti iz projektne dokumentacije razvidno, da so lega objekta na zemljišču, raba in oblikovanje objekta in komunalni priključki v skladu s pogoji iz občinskega prostorskega načrta, s projektno dokumentacijo pa mora biti prikazano tudi območje za določitev strank v postopku izdaje gradbenega dovoljenja.".
