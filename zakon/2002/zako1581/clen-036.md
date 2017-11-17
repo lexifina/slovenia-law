@@ -1,3 +1,0 @@
-## Drugi razdelek: DRŽAVNI PROSTORSKI AKTI
-## 1. STRATEGIJA PROSTORSKEGA RAZVOJA SLOVENIJE
-# 36. člen (prenehal veljati)

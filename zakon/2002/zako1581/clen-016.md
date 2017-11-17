@@ -1,3 +1,0 @@
-# 16. člen (sodelovanje države in lokalne skupnosti) (se delno preneha uporabljati)
-(1) Ministrstvo za prostor in občina se lahko dogovorita, da občina načrtuje in sprejme prostorski akt za določeno prostorsko ureditev skupnega pomena, če je glede na povezanost državne prostorske ureditve z lokalnim okoljem to primerneje. Občina takšno prostorsko ureditev načrtuje v skladu s programom priprave, ki ga sprejme občina po predhodnem soglasju ministra za prostor in pobudnika.
-(2) Če občina na način iz prejšnjega odstavka pripravlja in sprejema prostorsko ureditev skupnega pomena, mora prostorski akt pred njegovim sprejemom potrditi minister za prostor.

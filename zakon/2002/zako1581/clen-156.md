@@ -1,5 +1,0 @@
-## Šesti del: OPRAVLJANJE DEJAVNOSTI NA PODROČJU PROSTORSKEGA NAČRTOVANJA
-# 156. člen (pogoji za opravljanje dejavnosti prostorskega načrtovanja)
-(1) Zaradi zagotavljanja kakovosti in smotrnosti ureditev v prostoru, je opravljanje dejavnosti na področju prostorskega načrtovanja v javnem interesu.
-(2) Pri opravljanju dejavnosti na področju prostorskega načrtovanja je potrebno upoštevati zlasti strokovna dognanja in strokovne standarde prostorskega načrtovanja, kulturno ustvarjalni in tehnični vidik oblikovanja prostora ter ohranjanja prostorskih kvalitet, kakor tudi družbene, ekonomske, okoljske in tehnološke vidike urejanja prostora ter temeljne cilje, določene v 3. členu tega zakona.
-(3) Zaradi zagotavljanja javnega interesa in interesa naročnikov ter metodološke enotnosti strokovnega dela so pogoji za prostorsko načrtovanje povezani s pogoji za projektiranje arhitekture in krajinske arhitekture ter z merili za kakovostno opravljanje drugih strokovnih opravil, povezanih s prostorskim načrtovanjem.

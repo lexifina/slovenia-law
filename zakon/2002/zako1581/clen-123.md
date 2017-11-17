@@ -1,3 +1,0 @@
-# 123. člen (predlog nove razdelitve zemljišč)
-(1) Na pobudo strokovne komisije pripravi geodetsko podjetje v sodelovanju z izdelovalcem lokacijskega načrta in komasacijskim odborom predlog elaborata nove razdelitve zemljišč.
-(2) Predlog elaborata nove razdelitve zemljišč pristojni občinski upravni organ javno razgrne in obravnava v okviru javne razgrnitve predloga lokacijskega načrta za obravnavano območje, v skladu z 31. členom tega zakona. Na podlagi pripomb, danih med javno razgrnitvijo, pripravi geodetsko podjetje, v sodelovanju z občinskim upravnim organom in s komasacijskim odborom, elaborat nove razdelitve zemljišč.

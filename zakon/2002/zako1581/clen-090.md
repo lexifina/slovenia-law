@@ -1,2 +1,0 @@
-# 90. člen (prodaja nepremičnine)
-Občina mora ob prodaji nepremičnine, ki jo je pridobila na podlagi uveljavitve predkupne pravice ali z razlastitvijo, zahtevati od kupca, da se zaveže, da bo v določenem roku zgradil objekt, določen v prostorskem aktu. Če kupec v določenem roku objekta ne izgradi, lahko občina pogodbo razdre. Sankcije za neizvršene pogodbene obveznosti kupec in občina določita v pogodbi.

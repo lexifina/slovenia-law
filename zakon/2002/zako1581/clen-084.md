@@ -1,2 +1,0 @@
-# 84. člen (veljavnost začasnih ukrepov)
-Začasni ukrepi iz prvega odstavka prejšnjega člena veljajo še eno leto po uveljavitvi prostorskega akta, zaradi katerega so bili uvedeni, razen ukrepov, ki bi ovirali izvajanje prostorskega akta, sicer pa lahko trajajo največ štiri leta. Začasnih ukrepov se po prenehanju njihove veljavnosti za isto območje in za isto prostorsko ureditev ne sme ponovno uvesti vsaj štiri leta.

@@ -1,3 +1,0 @@
-# 8. člen (sodelovanje v zadevah urejanja prostora) (se delno preneha uporabljati)
-(1) Država in lokalne skupnosti ter lokalne skupnosti med seboj morajo sodelovati v zadevah urejanja prostora zlasti pri načrtovanju razvoja dejavnosti v prostoru in njihovi prostorski razmestitvi, ki se nanašajo na skupno rabo naravnih dobrin, na skupne prometne, energetske in komunalne objekte, kakor tudi na druge prostorske ureditve v zvezi z varovanjem okolja ter ohranjanjem narave in kulturne dediščine.
-(2) Pri pripravi prostorskih aktov ter drugih predpisov, ki se nanašajo na zadeve urejanja prostora iz prejšnjega odstavka, je treba upoštevati temeljne cilje urejanja prostora.

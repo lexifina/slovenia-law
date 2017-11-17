@@ -1,5 +1,0 @@
-## Peti razdelek: UKREPI PRI PRENOVI
-# 133. člen (obveznosti na območju prenove)
-(1) Lastniki nepremičnin na območju prenove so obvezani izvesti spremembe na svojih nepremičninah v skladu z lokacijskim načrtom, izdelanim za to območje po določbah tega zakona.
-(2) Občina in lastniki nepremičnin na območju prenove se dogovorijo za soudeležbo pri izvedbi sprememb na nepremičninah, kar se uredi s pogodbo.
-(3) Če se prenova financira z javnimi sredstvi, lahko občina v času trajanja prenove začasno omeji pravico uporabe nepremičnine. S pogodbo med lastnikom in občino se določi odškodnina lastniku zaradi motenja uporabe nepremičnine, lahko pa tudi višino in način povrnitve vloženih občinskih sredstev v prenovo njegove nepremičnine. V primeru, da je lastniku nepremičnina osnovni vir dohodka, mu mora občina povrniti izpad dohodka, ki nastane z omejitvijo pravice uporabe, kakor tudi njemu in njegovemu gospodinjstvu zagotoviti primerno začasno bivališče, če nepremičnino koristi za bivanje in je z začasno omejitvijo pravice uporabe nepremičnine onemogočeno bivanje v taki nepremičnini.

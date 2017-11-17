@@ -1,2 +1,0 @@
-# 157. člen (predmet prostorskega načrtovanja)
-Predmet prostorskega načrtovanja po tem zakonu, ki se opravlja na trgu storitev, je izdelava posameznih sestavin strategije prostorskega razvoja Slovenije oziroma strategije prostorskega razvoja občine, izdelava predlogov regionalne zasnove prostorskega razvoja, urbanistične in krajinske zasnove, prostorskega reda občine ter državnega oziroma občinskega lokacijskega načrta.
