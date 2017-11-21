@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o visokem šolstvu (Uradni list RS, št. 32/12 - uradno prečiščeno besedilo, 40/12 - ZUJF, 57/12 - ZPCD-2D, 109/12, 85/14, 75/16 in 61/17 - ZUPŠ) se prvi in drugi odstavek 69. člena spremenita tako, da se glasita:
+"Študenti imajo ne glede na to, ali se študij izvaja kot redni ali izredni, pravice in ugodnosti, ki izhajajo iz naslova statusa študenta, kot jih določajo posebni predpisi, če niso v delovnem razmerju ali ne opravljajo samostojne registrirane dejavnosti, niso vpisani v evidenco brezposelnih oseb pri pristojnem organu oziroma niso poslovodne osebe gospodarskih družb ali direktorji zasebnih zavodov.
+Študenti v prvem letniku študijskega programa prve stopnje opravijo preventivni sistematični zdravstveni pregled, kot ga določajo predpisi s področja preventivnega zdravstvenega varstva.".
