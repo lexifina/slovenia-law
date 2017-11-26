@@ -1,0 +1,11 @@
+# 38. člen
+Prvi in drugi odstavek 71. člena se spremenita tako, da se glasita:
+"(1) Kadar se zahtevek za revizijo nanaša na vsebino objave, povabilo k oddaji ponudb ali razpisno dokumentacijo, znaša taksa:
+- 2.000 eurov, če se javno naročilo oddaja po postopku naročila male vrednosti ali postopku zbiranja ponudb po predhodni objavi;
+- 4.000 eurov, če se javno naročilo oddaja po odprtem postopku, postopku s predhodnim ugotavljanjem sposobnosti, omejenem postopku, konkurenčnem postopku s pogajanji, postopku s pogajanji po predhodni objavi, postopku s pogajanji brez predhodne objave, partnerstvu za inovacije ali konkurenčnem dialogu.
+(2) Kadar se zahtevek za revizijo nanaša na odločitev, s katero naročnik odda javno naročilo, znaša taksa dva odstotka od cene najugodnejše dopustne ponudbe (z davkom na dodano vrednost) za sklop ali javno naročilo, v primeru javnega naročanja na področju obrambe in varnosti pa dva odstotka od cene najugodnejše popolne ponudbe (z davkom na dodano vrednost), vendar ne manj kot 500 eurov in ne več kot 25.000 eurov. Ne glede na navedeno znaša taksa za to odločitev 2.000 eurov, če se odločitev nanaša na izbiro strank za sklenitev okvirnega sporazuma, sprejeto v postopku naročila male vrednosti ali postopku zbiranja ponudb po predhodni objavi, in 6.000 eurov, če se odločitev nanaša na izbiro strank za sklenitev okvirnega sporazuma, sprejeto v katerem koli drugem postopku javnega naročanja. Kadar se zahtevek za revizijo nanaša na odločitev o ustavitvi postopka javnega naročanja, priznanju sposobnosti ali zavrnitvi ali izločitvi vseh ponudb, znaša taksa 1.000 eurov.".
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"(3) Kadar takse ni mogoče odmeriti v skladu s prvim in drugim odstavkom tega člena, znaša taksa 1.000 eurov.".
+Dosedanji tretji odstavek, ki postane četrti odstavek, se spremeni tako, da se glasi:
+"(4) Ne glede na prvi in drugi odstavek tega člena znaša taksa 1.000 eurov, če se zahtevek za revizijo nanaša na socialne in druge posebne storitve ali storitve na področju obrambe in varnosti B, oddajo posameznega naročila na podlagi okvirnega sporazuma ali v dinamičnem nabavnem sistemu ali na javni natečaj.".
+Dosedanji četrti in peti odstavek postaneta peti in šesti odstavek.

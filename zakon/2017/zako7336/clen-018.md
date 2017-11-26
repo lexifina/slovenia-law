@@ -1,0 +1,11 @@
+# 18. člen
+Prvi in drugi odstavek 25. člena se spremenita tako, da se glasita:
+"(1) Zahtevek za revizijo, ki se nanaša na vsebino objave, povabilo k oddaji ponudbe ali razpisno dokumentacijo, se vloži v desetih delovnih dneh od dneva objave obvestila o naročilu ali prejema povabila k oddaji ponudbe. Kadar naročnik spremeni ali dopolni navedbe v objavi, povabilu k oddaji ponudbe ali v razpisni dokumentaciji, se lahko zahtevek za revizijo, ki se nanaša na spremenjeno, dopolnjeno ali pojasnjeno vsebino objave, povabila ali razpisne dokumentacije ali z njim neposredno povezano navedbo v prvotni objavi, povabilu k oddaji ponudbe ali razpisni dokumentaciji, vloži v desetih delovnih dneh od dneva objave obvestila o dodatnih informacijah, informacijah o nedokončanem postopku ali popravku, če se s tem obvestilom spreminjajo ali dopolnjujejo zahteve ali merila za izbiro najugodnejšega ponudnika.
+(2) Zahtevka za revizijo iz prejšnjega odstavka ni dopustno vložiti po roku za prejem ponudb, razen če je naročnik v postopku javnega naročanja določil rok za prejem ponudb, ki je krajši od desetih delovnih dni. V tem primeru se lahko zahtevek za revizijo vloži v desetih delovnih dneh od dneva objave obvestila o naročilu.".
+Tretji odstavek se črta.
+Dosedanji četrti in peti odstavek postaneta tretji in četrti odstavek.
+V dosedanjem šestem odstavku, ki postane peti odstavek, se za besedo "postopka" črta beseda "oddaje", za besedo "vrednosti" pa se doda besedilo "ali postopka zbiranja ponudb po predhodni objavi".
+V dosedanjem sedmem odstavku, ki postane šesti odstavek, se v prvem stavku besedilo "postopku s pogajanji po predhodni objavi" nadomesti z besedilom "konkurenčnem dialogu ali konkurenčnem postopku s pogajanji".
+Dosedanji osmi odstavek postane sedmi odstavek.
+Dosedanji deveti odstavek, ki postane osmi odstavek, se spremeni tako, da se glasi:
+"(8) Ne glede na določbe prvega do sedmega odstavka tega člena lahko zagovornik javnega interesa zahtevek za revizijo vloži v kateri koli fazi postopka oddaje javnega naročila v 45 delovnih dneh od dneva, ko je izvedel za kršitev, vendar najpozneje v 12 mesecih od začetka izvajanja pogodbe ali posameznega naročila, oddanega na podlagi okvirnega sporazuma ali v dinamičnem nabavnem sistemu.".

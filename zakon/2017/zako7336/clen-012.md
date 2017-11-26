@@ -1,0 +1,5 @@
+# 12. člen
+Za 16. členom se doda nov 16.a člen, ki se glasi:
+"16.a člen
+(pogoj za uspeh zahtevka za revizijo)
+Naročnik v predrevizijskem postopku, Državna revizijska komisija pa v revizijskem postopku, zahtevku za revizijo ugodi, če pri presoji očitanih kršitev ugotovi, da je ravnanje naročnika kršitev, ki bistveno vpliva ali bi lahko bistveno vplivala na oddajo javnega naročila.".

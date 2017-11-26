@@ -1,0 +1,2 @@
+# 3. člen
+V drugem odstavku 4. člena se besedilo "Seznam storitev B (v nadaljnjem besedilu: storitve iz Seznama storitev B)" nadomesti z besedilom, ki se glasi: "Seznam storitev na področju obrambe in varnosti B (v nadaljnjem besedilu: storitve na področju obrambe in varnosti B) ter za javna naročila storitev, ki jih določa Priloga XIV Direktive 2014/24/EU ali Priloga XVII Direktive 2014/25/EU (v nadaljnjem besedilu: socialne in druge posebne storitve)".

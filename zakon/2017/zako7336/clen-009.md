@@ -1,0 +1,4 @@
+# 9. člen
+V prvem odstavku 14. člena se v prvi alineji besedilo "sistem ugotavljanja sposobnosti" nadomesti z besedama "kvalifikacijski sistem".
+Drugi odstavek se spremeni tako, da se glasi:
+"(2) Če je rok za oddajo prijav ali ponudb že potekel, se šteje, da je interes za dodelitev javnega naročila izkazala tista oseba, ki je oddala pravočasno prijavo oziroma ponudbo. V primeru konkurenčnega dialoga, konkurenčnega postopka s pogajanji ali postopka s pogajanji brez predhodne objave, ki ga naročnik ob upoštevanju določb zakona, ki ureja javno naročanje, izvaja zaradi prejšnjega neuspešno izvedenega postopka, se interes za dodelitev javnega naročila prizna tudi kandidatu ali ponudniku, ki je v prejšnjem neuspešnem postopku pravočasno oddal prijavo oziroma ponudbo in v tem postopku ni bil povabljen k oddaji ponudbe, pa bi v skladu z zakonom, ki ureja javno naročanje, moral biti.".
