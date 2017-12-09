@@ -1,0 +1,2 @@
+# 4. člen
+V prvem odstavku 67.e člena se pika nadomesti z vejico in doda besedilo "vendar ne več kot 40.000 eurov ali 80.000 eurov, če je bila v davčnem obdobju, za katero se uveljavlja ugotavljanje davčne osnove z upoštevanjem normiranih odhodkov, v skladu s predpisi, ki urejajo pokojninsko in invalidsko zavarovanje, pri zavezancu obvezno zavarovana vsaj ena oseba za polni delovni čas neprekinjeno najmanj pet mesecev.".
