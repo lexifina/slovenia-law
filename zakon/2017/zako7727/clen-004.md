@@ -1,0 +1,2 @@
+# 4. člen (začetek veljavnosti in uporabe)
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne, ko je državna meja med Republiko Slovenijo in Republiko Hrvaško na podlagi končne razsodbe arbitražnega sodišča na podlagi Arbitražnega sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške (Uradni list RS - Mednarodne pogodbe, št. 11/10), razglašene 29. junija 2017, evidentirana v evidenci državne meje.
