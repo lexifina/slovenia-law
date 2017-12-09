@@ -1,0 +1,3 @@
+# 14. člen
+Prvi odstavek 327. člena se spremeni tako, da se glasi:
+"(1) Kadar želi davčni zavezanec uveljavljati možnost v skladu z zakonom, ki ureja dohodnino, da se v davčno osnovo od obresti, doseženih v primeru vezanih denarnih sredstev in varčevanja pri bankah in hranilnicah, ustanovljenih v skladu s predpisi v Republiki Sloveniji, z ročnostjo, daljšo od enega leta, pri čemer zavezanec ne more razpolagati s privarčevanimi sredstvi pred potekom datuma vezave oziroma poteka varčevanja brez bistvenega zmanjšanja obresti, vštejejo obresti, obračunane za obdobje davčnega leta, je dolžan o tem obvestiti banko ali hranilnico v Republiki Sloveniji. Podatke v obvestilu predpiše minister, pristojen za finance.".
