@@ -1,0 +1,5 @@
+# 6. člen
+Drugi odstavek 68. člena se spremeni tako, da se glasi:
+"(2) Ne glede na prvi odstavek tega člena se davčni odtegljaj izračunava, odteguje in plačuje tudi od plačil, ki jih zavezanec po tem poglavju dosega v okviru opravljanja dejavnosti nastopajočega izvajalca ali športnika. Davčni odtegljaj se izračunava, odteguje in plačuje od posameznega plačila, zmanjšanega za normirane stroške v višini 30 % od posameznega plačila, po stopnji, določeni z zakonom, ki ureja davek od dohodkov pravnih oseb. Zavezanec nerezident, ki nima poslovne enote v Sloveniji, lahko na način, določen z zakonom, ki ureja davčni postopek, uveljavlja:
+1. normirane stroške v višini, določeni v prvem odstavku 59. člena tega zakona, če dokaže izpolnjevanje pogojev iz prve in druge alineje tretjega odstavka 48. člena tega zakona, pri čemer se pri presoji izpolnjevanja pogojev smiselno izhaja iz primerljivega položaja po pravilih oziroma predpisih druge države, ali
+2. namesto normiranih stroškov posamezni aktivnosti v Sloveniji neposredno pripisljive dejanske stroške, ki se priznajo na podlagi dokazil.".

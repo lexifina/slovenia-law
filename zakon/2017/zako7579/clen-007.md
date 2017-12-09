@@ -1,0 +1,4 @@
+# 7. člen
+Tretji odstavek 111. člena se spremeni tako, da se glasi:
+"(3) Poleg olajšave, določene v prvem odstavku tega člena, se rezidentu, katerega skupni dohodek iz naslova dohodka iz zaposlitve, dohodka iz dejavnosti, razen dohodka iz dejavnosti, če se davčna osnova od tega dohodka ugotavlja na podlagi dejanskih prihodkov in normiranih odhodkov, dohodka iz osnovne kmetijske in osnovne gozdarske dejavnosti in prenosa premoženjske pravice ter drugih dohodkov - razen dohodka, ki je oproščen plačila dohodnine oziroma se ne všteva v davčno osnovo - v letu, za katero se odmerja dohodnina, presega 11.166,37 eurov in ne presega 13.316,83 eurov, prizna zmanjšanje letne davčne osnove. Zmanjšanje se prizna v višini, določeni v odvisnosti od višine skupnega dohodka, in se izračuna po enačbi:
+zmanjšanje = 19.922,15 eurov - 1,49601 x skupni dohodek.".

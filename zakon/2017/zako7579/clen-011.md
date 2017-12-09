@@ -1,0 +1,2 @@
+# 11. člen
+V drugem odstavku 131. člena se v prvem stavku besedilo "in se upošteva 1/12 zneska olajšave iz 111. člena," nadomesti z besedilom "in se upošteva 1/12 zneska olajšave iz prvega in drugega odstavka 111. člena tega zakona oziroma 1/12 zneska olajšave iz tretjega odstavka 111. člena tega zakona, ugotovljenega z uporabo enačbe iz tretjega odstavka 111. člena tega zakona ob upoštevanju drugega dohodka iz tega člena zakona, preračunanega na letno raven,".
