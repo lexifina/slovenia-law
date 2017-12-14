@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (Uradni list RS, št. 87/11, 25/14 - ZSDH-1, 50/14 in 90/15) se v 8. členu v prvem odstavku pika na koncu stavka nadomesti v vejico ter doda besedilo "za katere mora kot dober gospodar skleniti zavarovalne pogodbe za zavarovanje rizikov, ki so povezani z izvrševanjem dejavnosti iz tega zakona, s prvovrstno zavarovalnico.".
+V tretjem odstavku se pika na koncu stavka nadomesti v vejico ter doda besedilo "razen za objekte iz 6. točke 2. člena tega zakona, ki jih v skladu s prvim odstavkom tega člena vzdržuje in zavaruje koncesionar.".
