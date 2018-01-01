@@ -1,0 +1,2 @@
+# 12. člen (zadolževanje za upravljanje z dolgom občinskega proračuna)
+Ne glede na 10.b člen zakona občini, ki na dan 31. decembra 2016 presega največji obseg možnega zadolževanja, ministrstvo, pristojno za finance, v letu 2018 in 2019, izda soglasje k zadolžitvi za upravljanje z dolgom občinskega proračuna skladno z 10.c členom zakona tudi, če se s to zadolžitvijo zadolženost občine ne bo znižala do največjega obsega možnega zadolževanja občine.

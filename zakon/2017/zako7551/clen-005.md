@@ -1,0 +1,9 @@
+# 5. člen
+20. člen se spremeni tako, da se glasi:
+"20. člen
+(sofinanciranje uresničevanja pravic avtohtone italijanske in madžarske narodne skupnosti)
+(1) Občinam, v katerih živita italijanska oziroma madžarska narodna skupnost se iz državnega proračuna zagotovijo sredstva za sofinanciranje dvojezičnosti in uresničevanje ustavnih pravic avtohtone italijanske oziroma madžarske narodne skupnosti. Financiranje dejavnosti in programov občinskih samoupravnih narodnih skupnosti je lahko neposredno ali posredno.
+(2) Neposredno financiranje občinske samoupravne narodne skupnosti iz državnega proračuna se izvaja na podlagi zahteve občinske samoupravne narodne skupnosti, ki jo poda najkasneje do 30. junija tekočega leta za naslednje proračunsko leto na državni organ, pristojen za narodnosti in soglasja občine za neposredno financiranje. Občinska samoupravna narodna skupnost, ki ne poda zahteve za neposredno financiranje, se financira posredno preko občinskega proračuna.
+(3) Sredstva iz prvega odstavka tega člena se navedenim občinam oziroma občinskim samoupravnim narodnim skupnostim za vsako proračunsko leto zagotovijo v višini 0,15 % skupne primerne porabe občin.
+(4) Sredstva za sofinanciranje nalog iz prvega odstavka tega člena se izračunajo kot povprečni stroški na občino oziroma občinsko samoupravno narodno skupnost za preteklo proračunsko leto ob upoštevanju stroškov dela, stroškov storitev in materialnih stroškov za izvajanje dvojezičnosti in uresničevanje ustavnih pravic avtohtone italijanske oziroma madžarske narodne skupnosti. Podrobnejše namene porabe in merila za izračun višine sredstev, ki pripada posameznim občinam oziroma posameznim občinskim samoupravnim narodnim skupnostim, določi vlada z uredbo.
+(5) Na podlagi uredbe izda vlada na predlog državnega organa, pristojnega za narodnosti, vsako leto odločbo o višini sredstev, ki pripada posamezni občini oziroma posamezni občinski samoupravni narodni skupnosti.".

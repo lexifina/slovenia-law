@@ -1,0 +1,5 @@
+# 6. člen
+V drugem odstavku 23. člena se peta in šesta alineja spremenita tako, da se glasita:
+"- upravičenih stroškov za namene iz prve do četrte alineje tega odstavka, če so kot upravičeni stroški določeni v navodilih organa upravljanja sredstev kohezijske politike ali v pogodbi o odobrenih sredstvih strukturne in kohezijske politike Evropske unije, vključno z davkom na dodano vrednost, če ta ni povračljiv, in če ti niso sofinancirani iz sredstev EU;
+- za plačilo tistih stroškov projektov strukturne in kohezijske politike EU za namene iz prve do četrte alineje tega odstavka, ki so nujno potrebni za izvedbo projekta, vendar jih organ upravljanja v navodilih iz prejšnje alineje ne pripozna kot upravičene stroške, vključno z davkom na dodano vrednost, če ta ni povračljiv.".
+V petem odstavku se v drugem stavku besedilo "15. septembra" nadomesti z besedilom "31. avgusta", tretji stavek pa se spremeni tako, da se glasi: "Ministrstvo, pristojno za regionalni razvoj in občina skleneta dodatek k pogodbi na podlagi spremembe projekta oziroma novo pogodbo na podlagi uvrstitve novega projekta v načrt razvojnih programov državnega proračuna.".

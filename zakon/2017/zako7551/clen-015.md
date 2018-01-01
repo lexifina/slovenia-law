@@ -1,0 +1,2 @@
+# 15. člen (začetek veljavnosti)
+Ta zakon začne veljati 1. januarja 2018, razen četrtega odstavka spremenjenega 26. člena zakona, ki začne veljati 1. januarja 2020. Do 1. januarja 2020 so občine upravičene do sofinanciranja nalog iz drugega odstavka spremenjenega 26. člena zakona v višini 50% sredstev za plače in druge izdatke ter prispevke delodajalca zaposlenim v skupnih občinskih upravah, povečane za 20%.
