@@ -1,4 +1,0 @@
-# 4. člen
-Drugi in tretji odstavek 4.a člena se spremenita tako, da se glasita:
-"(2) Pristojni organi iz prejšnjega odstavka najmanj vsakih deset let izvedejo samoocenjevanje, ki zajema usklajenost lastne organiziranosti in zakonodaje z mednarodno uveljavljenimi standardi na področju, ki ga urejajo ta zakon in na njegovi podlagi izdani predpisi ter drugi predpisi s področja miroljubne uporabe jedrske energije.
-(3) Na podlagi opravljenega samoocenjevanja vlada omogoči mednarodni strokovni pregled ustreznih delov področja varstva pred ionizirajočimi sevanji in jedrske varnosti, ravnanja z radioaktivnimi odpadki in izrabljenim gorivom in drugih področij miroljubne uporabe jedrske energije ter organov iz prvega odstavka tega člena z namenom, da se omogoči in zagotovi trajno in nenehno izboljševanje jedrske in sevalne varnosti.".

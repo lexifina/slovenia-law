@@ -1,2 +1,0 @@
-# 15. člen
-V prvem odstavku 23. člena se 1. točka spremeni tako, da se glasi: "1. izdelavo ocene varstva pred sevanji;", v 5. točki se besedilo "obratovanjem ali upravljanjem sevalnega, jedrskega ali manj pomembnega sevalnega objekta ali uporabo vira sevanja" nadomesti z besedilom "izvajanjem sevalne dejavnosti", v 7. točki pa se besedilo "obratovanjem, upravljanjem ali uporabo vira sevanja" nadomesti z besedilom "izvajanjem sevalne dejavnosti".
