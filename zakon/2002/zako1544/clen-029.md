@@ -1,4 +1,0 @@
-## 3.4.2 Ugotavljanje izpostavljenosti delavcev
-# 29. člen (ugotavljanje izpostavljenosti delavcev)
-(1) Delodajalec mora zagotoviti, da se redno ugotavlja izpostavljenost delavcev in meri sevanje na delovnem mestu, v primeru interventne izpostavljenosti ali izpostavljenosti ob izrednem dogodku in da se rezultate ugotavljanja izpostavljenosti in merjenja sevanja hrani in o njih poroča organu, pristojnemu za varstvo pred sevanji. Če je v oceni varstva pred sevanji tako določeno, je treba izvajati poleg ugotavljanja celotelesne izpostavljenosti tudi druge vrste izpostavljenosti, kakor so podrobneje določene v predpisu iz 23. člena tega zakona.
-(2) Ugotavljanje izpostavljenosti delavcev in merjenja sevanja na delovnem mestu lahko izvajajo pravne osebe, ki pridobijo od organa, pristojnega za varstvo pred sevanji, pooblastilo za izvajanje nalog dozimetrije.

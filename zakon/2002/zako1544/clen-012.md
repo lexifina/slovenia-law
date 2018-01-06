@@ -1,4 +1,0 @@
-# 12. člen (vloga za pridobitev dovoljenja za izvajanje sevalne dejavnosti)
-(1) K vlogi za pridobitev dovoljenja za izvajanje sevalne dejavnosti je treba priložiti podatke o sevalni dejavnosti in virih sevanja znotraj navedene dejavnosti ter druge podatke in dokumentacijo, s katero se izkazuje varno izvajanje sevalne dejavnosti.
-(2) Minister, pristojen za okolje, in minister, pristojen za zdravje, podrobneje določita vsebino vloge za pridobitev dovoljenja za izvajanje sevalne dejavnosti ter obseg in vsebino podatkov in dokumentacije iz prejšnjega odstavka.
-(3) Dovoljenje za izvajanje sevalne dejavnosti izda organ, ki je po tem zakonu pristojen za izdajo dovoljenja za izvajanje sevalne dejavnosti, če iz predložene dokumentacije ugotovi, da so izpolnjeni vsi predpisani pogoji za izvajanje sevalne dejavnosti.

@@ -1,3 +1,0 @@
-# 91. člen (dekontaminacija)
-(1) Če gre za radioaktivno kontaminacijo zaradi izrednega dogodka, mora dekontaminacijo zagotoviti uporabnik vira sevanja v okviru sanacije posledic izrednega dogodka na način, kot mu je bila odrejena kot izjemni ukrep iz 125. člena tega zakona.
-(2) Če radioaktivna kontaminacija zaradi uporabe vira sevanja ni posledica izrednega dogodka, mora uporabnik vira sevanja izvesti dekontaminacijo sam in o tem obvestiti organ, pristojen za jedrsko varnost, oziroma organ, pristojen za varstvo pred sevanji, če gre za izvajanje sevalne dejavnosti v zdravstvu ali veterinarstvu.

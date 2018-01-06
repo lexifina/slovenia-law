@@ -1,4 +1,0 @@
-# 138.c člen (stalno opravljanje reguliranih poklicev za državljane držav pogodbenic)
-(1) Državljani držav pogodbenic, ki želijo stalno opravljati regulirani poklic po tem zakonu, morajo pri pristojnemu organu iz 11. člena tega zakona, pridobiti odločbo o priznanju poklicne kvalifikacije.
-(2) Vloga za priznanje poklicne kvalifikacije se vloži v skladu z Zakonom o priznavanju poklicnih kvalifikacij. Poleg dokazil, ki jih za prijavo določa Zakon o priznavanju poklicnih kvalifikacij, mora vloga za priznanje poklicne kvalifikacije po tem zakonu vsebovati tudi dokazila o izpolnjevanju pogojev, ki so primerljivi pogojem iz 23., 28., 34., 36., 37., 49., 59. in 62. člena tega zakona.
-(3) Zoper odločbo o priznanju poklicne kvalifikacije, ki jo izda pristojni organ iz 11. člena tega zakona, ni pritožbe, možen pa je upravni spor.

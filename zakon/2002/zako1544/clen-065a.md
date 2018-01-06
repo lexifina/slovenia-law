@@ -1,2 +1,0 @@
-# 65.a člen (okoljevarstveno soglasje)
-Za jedrski objekt je treba pridobiti okoljevarstveno soglasje, skladno z določbami zakona, ki ureja varstvo okolja in zakona, ki ureja umeščanje prostorskih ureditev državnega pomena v prostor. Pogoje, obseg in vsebino poročila o vplivih na okolje v delu, ki se nanaša na sevalno in jedrsko varnost, določi organ, pristojen za izdajo okoljevarstvenega soglasja, na podlagi predloga organa, pristojnega za jedrsko varnost.
