@@ -1,3 +1,0 @@
-# 25. člen (starodobno vozilo)
-(1) Fizična ali pravna oseba, ki želi registrirati in začeti uporabljati vozilo kot starodobno, vloži pri strokovni organizaciji zahtevo za razvrstitev vozila kot starodobno vozilo (v nadaljnjem besedilu: starodobnik). Po izvedeni identifikaciji vozila strokovna organizacija razvrsti vozilo kot starodobnik, če vozilo izpolnjuje pogoje iz drugega odstavka tega člena.
-(2) Starodobnik je vozilo, ki je bilo izdelano pred 30 ali več leti, ohranjeno in tehnično vzdrževano tako, da je skladno z originalno konstrukcijsko sestavo in obliko in se zaradi svojega zgodovinskega in tehničnega pomena ne uporablja za vsakodnevne prevoze.

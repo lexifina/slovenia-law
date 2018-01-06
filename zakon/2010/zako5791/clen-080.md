@@ -1,6 +1,0 @@
-## VIII. DOSTOP DO INFORMACIJ O POPRAVILU IN VZDRŽEVANJU VOZILA
-# 80. člen (dostop do informacij o vozilu)
-(1) Informacije o popravilu in vzdrževanju vozila so informacije, potrebne za ugotovitev stanja vozila, servisiranje, pregled, redne preglede, popravilo, ponovno programiranje, ponovno vključitev vozila ali ugotovitev stanja vozila na daljavo, vključno z vsemi njihovimi kasnejšimi spremembami in dopolnitvami. Informacije vključujejo tudi vse podatke, potrebne za vgradnjo delov ali opreme v vozila.
-(2) Proizvajalec mora v skladu s posameznimi tehničnimi specifikacijami za vozila ob primernem povračilu stroškov omogočiti vsem zainteresiranim vzdrževalcem vozil neomejen dostop do informacij o vozilu, diagnostični in drugi opremi ter orodju, vključno z vso ustrezno programsko opremo. Omogočiti mora tudi dostop do informacij o popravilu in vzdrževanju vozila.
-(3) Proizvajalec mora po potrebi zagotoviti standardizirano in varno napravo za podporo na daljavo, ki zainteresiranim vzdrževalcem vozil omogoča, da opravijo posege, pri katerih je potreben dostop do varnostnega sistema vozila.
-(4) Z globo 4000 eurov se kaznuje za prekršek proizvajalec, ki ravna v nasprotju z drugim ali tretjim odstavkom tega člena, njegova odgovorna oseba pa z globo 400 eurov.

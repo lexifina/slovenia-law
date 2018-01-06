@@ -1,3 +1,0 @@
-# 52. člen (ugotovljene predelave ali spremembe)
-(1) Če se pri tehničnem pregledu vozila ugotovijo predelave ali spremembe na vozilu, opredeljene v 19. členu tega zakona, zaradi katerih se podatki v prometnem dovoljenju in v računalniških evidencah ne ujemajo z ugotovljenim stanjem vozila, se izda potrdilo o opravljenem tehničnem pregledu le na podlagi predhodno izvedenega postopka posamične odobritve v skladu s tem zakonom in ustreznega vpisa predelave ali spremembe v potrdilo o skladnosti oziroma v soglasje k registraciji.
-(2) Z globo 4000 eurov se kaznuje za prekršek strokovna organizacija, ki opravlja tehnične preglede in ravna v nasprotju s tem členom, njena odgovorna oseba pa z globo 400 eurov.

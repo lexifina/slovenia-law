@@ -1,6 +1,0 @@
-# 51. člen (izvedba tehničnega pregleda)
-(1) Tehnični pregled vozila mora biti opravljen v skladu z veljavnimi predpisi in ob uporabi brezhibnih predpisanih merilnih naprav in opreme. Merilne naprave morajo biti odobrene, pregledane in overjene skladno z meroslovnimi predpisi ali ustrezno umerjene, če zanje ni meroslovnih predpisov. Pri izvedbi tehničnega pregleda se upoštevajo tudi navodila za uporabo naprave, ki se uporablja pri tehničnem pregledu, ki jih izda proizvajalec naprave.
-(2) Če je bilo na tehničnem pregledu ugotovljeno, da je vozilo tehnično brezhibno, se izda potrdilo, na katerem je označen rok, ko mora vozilo opraviti tehnični pregled.
-(3) Za opravljeni tehnični pregled plača lastnik vozila organizaciji za tehnične preglede ceno storitve, ki ni višja od cene, ki jo določi minister.
-(4) Ne glede na drugi odstavek tega člena se pred začetkom uporabe lahkega priklopnika v cestnem prometu izda obvestilo, na katerem je označen rok, ko mora vozilo opraviti tehnični pregled. Obvestilo izda registracijska organizacija na predlog lastnika lahkega priklopnika.
-(5) Z globo 4000 eurov se kaznuje za prekršek strokovna organizacija, ki pri opravljanju tehničnih pregledov ravna v nasprotju s tem členom, njena odgovorna oseba pa z globo 400 eurov.
