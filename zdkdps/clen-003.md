@@ -1,0 +1,7 @@
+# 3. člen
+
+Organizacije, ki opravljajo dejavnost posredovanja začasnih in občasnih del za študente, zbrana sredstva iz prejšnjega člena nakazujejo v proračunski sklad v pristojnosti ministrstva, pristojnega za izobraževanje, za odplačilo posojil, najetih za sofinanciranje ali financiranje gradnje, nakupa, razširitve, prenove, vzdrževanja in posodobitve prostorskih pogojev in opremljenosti javnih visokošolskih zavodov in za odplačilo posojil, najetih za sofinanciranje ali financiranje gradnje, nakupa, razširitve, rekonstrukcije, prenove, vzdrževanja in opremljanja študentskih in dijaških bivalnih zmogljivosti v Republiki Sloveniji, v javnih zavodih, ki jih je ustanovila Republika Slovenija ali javni visokošolski zavod.
+
+Sredstva iz prejšnjega odstavka se lahko porabijo tudi za sofinanciranje ali financiranje gradnje, nakupa, razširitve, rekonstrukcije, prenove, vzdrževanja in posodobitve prostorskih pogojev in opremljenosti javnih visokošolskih zavodov ter za sofinanciranje ali financiranje gradnje, nakupa, razširitve, rekonstrukcije, prenove, vzdrževanja in opremljanja študentskih in dijaških bivalnih zmogljivosti v Republiki Sloveniji, v javnih zavodih, ki jih je ustanovila Republika Slovenija ali javni visokošolski zavod.
+
+Proračunski sklad je ustanovljen do zaključka odplačevanja posojil. Proračunski sklad se ukine, ko so porabljena vsa sredstva, zbrana do zaključka odplačila posojil. Nadzor nad obračunavanjem in plačevanjem dodatne koncesijske dajatve opravlja Finančna uprava Republike Slovenije.
