@@ -1,0 +1,3 @@
+# 3. člen
+Prvi odstavek 97.a člena se spremeni tako, da se glasi:
+"Če lokalna skupnost izkaže interes za prenos lastninske pravice na državnem namakalnem sistemu, razen na namakalni opremi, in se lastninska pravica s pogodbo med ministrstvom, pristojnim za kmetijstvo, in lokalno skupnostjo prenese na lokalno skupnost, se hkrati s prenosom lastninske pravice preneseta tudi upravljanje in vzdrževanje tega sistema, razen upravljanja in vzdrževanja namakalne opreme. O prenosu lastninske pravice ter prenosu upravljanja in vzdrževanja iz tega odstavka ministrstvo, pristojno za kmetijstvo, obvesti lastnike zemljišč na območju namakalnega sistema. S prenosom iz tega odstavka državni namakalni sistem postane lokalni namakalni sistem.".

@@ -1,0 +1,2 @@
+# 2. člen
+V drugem odstavku 3.h člena se drugi stavek spremeni tako, da se glasi: "Sredstva, zbrana iz odškodnin zaradi spremembe namembnosti, se namenijo za financiranje priprave in izvedbe ukrepov kmetijske zemljiške politike iz četrtega in šestega odstavka 1.b člena tega zakona, del iz 1.ba člena tega zakona, izdelave strokovnih podlag iz 3.c člena tega zakona ter drugih strokovnih podlag s področja kmetijske zemljiške politike in varstva kmetijskih zemljišč.".
