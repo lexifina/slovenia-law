@@ -1,0 +1,3 @@
+# 59. člen (zaključna in otvoritvena bilanca)
+(1) Zaradi statusnega preoblikovanja mora Javni zavod Kobilarna Lipica pripraviti letno poročilo v skladu z 22. členom Zakona o računovodstvu (Uradni list RS, št. 23/99, 30/02 - ZJF-C in 114/06 - ZUE), novoustanovljena družba Holding Kobilarna Lipica d.o.o. pa otvoritveno bilanco stanja.
+(2) Z dnem preoblikovanja Javnega zavoda Kobilarna Lipica v družbo Holding Kobilarna Lipica d.o.o. se nepremično premoženje, čreda lipicanskih konj, premična kulturna dediščina in pravice intelektualne lastnine, ki jih v svojih poslovnih knjigah vodi Javni zavod Kobilarna Lipica, prenese v poslovne knjige ministrstva, pristojnega za turizem.

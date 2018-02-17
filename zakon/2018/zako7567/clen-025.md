@@ -1,0 +1,2 @@
+# 25. člen (rejski program)
+Za izvajanje strokovnih nalog javne službe, katere se nanašajo na živinorejo na področju konjereje, pridobi koncesionar koncesijo v skladu z zakonom, ki ureja živinorejo, in sklene koncesijsko pogodbo z ministrstvom, pristojnim za živinorejo. Koncesionar je dolžan ministrstvu, pristojnemu za živinorejo, najkasneje v prvih treh mesecih koledarskega leta poročati o izvajanju potrjenega rejskega programa v preteklem letu, ki je pripravljen in potrjen v skladu z zakonom, ki ureja živinorejo.

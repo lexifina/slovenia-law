@@ -1,0 +1,4 @@
+# 18. člen (pomen reje lipicanskih konj)
+(1) Tradicionalna reja in vzreja lipicancev je reja konj te pasme v klasičnem, baročnem tipu, ki se je formiral na prehodu iz 19. v 20. stoletje. Gre za rejo lipicancev v okviru, proporcih in z zunanjimi ter značajskimi lastnostmi v skladu z dobro konjerejsko in konjeniško prakso, ki zagotavlja dobrobit in dobro počutje živali.
+(2) Lipicanske konje se redi za namen izvajanja klasične dresure in za vse oblike konjeniškega udejstvovanja pod sedlom in v vpregi. Način reje, rejski cilji, rejske metode in selekcijski program so opredeljeni v rejskem programu za lipicanske konje.
+(3) Lipicanske konje se redi v objektih in na kraških površinah, ki se od njenega nastanka niso bistveno spremenili, se jih je pa kontinuirano izboljševalo in nadgrajevalo z novimi strokovnimi spoznanji in praksami ter z uvajanjem novih tehničnih rešitev.
