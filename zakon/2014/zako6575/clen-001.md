@@ -1,7 +1,0 @@
-# 1. člen
-V Zakonu o Kobilarni Lipica (Uradni list RS, št. 107/06 - uradno prečiščeno besedilo in 33/07 - odločba US) se v prvem odstavku 4. člena črta besedilo ", označena z žigom in matično številko,".
-Drugi odstavek se spremeni tako, da se glasi:
-"Samo lipicanci iz prejšnjega odstavka so lahko označeni z zaščitenim kobilarniškim žigom, ki ga predstavlja velika črka "L" na levem licu konja ter trimestna matična številka na levem sedlišču.".
-V tretjem odstavku se v napovednem stavku črta besedilo "z zaščitenim plemenskim in kobilarniškim žigom".
-Druga alineja se spremeni tako, da se glasi:
-"- sedemnajst klasičnih rodov kobil, in sicer: Sardinia (Sardinia, 1776, Lipica), Spadiglia (Spadiglia, 1778, Lipica), Argentina (Argentina, 1767, Lipica), Africa (Africa, 1747, Kladruby), Almerina (Almerina, 1769, Kladruby), Presciana Bradamanta (Presciana, 1782/1777, Kladruby), Englanderia (Englanderia, 1773, Kladruby), Europa (Europa, 1774, Kladruby), Stornella/Fistula (Stornella/Fistula, 1771, Kopčani), Ivanka/Famosa (Ivanka/Famosa, 1754/1773, Kopčani), Deflorata (Deflorata, 1767, Frederiksborg), Capriola (Capriola, 1785 Kladruby), Rava (Rava, 1755, Kladruby), Gidrana (Gidrane, 1841, Lipica), Djebrin (100 Generale Junior, 1824, Babolna), Mercurio (60 Freies Gestuet, 1806, Radautz), Theodorosta (Theodorosta, 1870, Bukovina), rod Rebecca Thais (Rebecca, 1914, Višnjevci), to je najmanj 80 plemenskih kobil;".
