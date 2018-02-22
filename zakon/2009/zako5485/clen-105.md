@@ -1,5 +1,0 @@
-# 105. člen (zavrnitev plačilnih nalogov)
-(1) Ponudnik plačilnih storitev lahko zavrne izvršitev plačilnega naloga, če niso izpolnjeni vsi pogoji za izvršitev plačilnega naloga, kakor so določeni v pogodbi. Ponudnik plačilnih storitev o zavrnitvi in če je mogoče, o razlogih za zavrnitev in postopku za odpravo napak, ki so bile vzrok za zavrnitev, obvesti uporabnika, razen če je to prepovedano na podlagi drugih predpisov.
-(2) Ponudnik plačilnih storitev obvestilo iz prvega odstavka tega člena posreduje ali da na voljo uporabniku na način, dogovorjen v pogodbi, ob prvi priložnosti, najkasneje pa v roku, ki je določen za izvršitev plačilnega naloga v skladu s 111. členom tega zakona.
-(3) Okvirna pogodba lahko določa, da ponudnik plačilnih storitev uporabniku zaračuna obvestilo o zavrnitvi plačilnega naloga, če je zavrnitev utemeljena iz objektivnih razlogov.
-(4) Če je ponudnik plačilnih storitev zavrnil plačilni nalog v skladu s prvim do tretjim odstavkom tega člena, se šteje, da plačilnega naloga ni prejel.

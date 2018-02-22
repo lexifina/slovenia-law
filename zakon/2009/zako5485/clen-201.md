@@ -1,5 +1,0 @@
-## 5. PODPOGLAVJE NADZOR NAD DRUGIMI OSEBAMI
-# 201. člen (odredba o prenehanju opravljanja plačilnih storitev)
-(1) Če oseba v nasprotju s prepovedjo, določeno v 18. členu tega zakona, opravlja plačilne storitve, ji Banka Slovenije izda odredbo, s katero ji naloži, da preneha z opravljanjem teh dejavnosti (v nadaljnjem besedilu: odredba o prenehanju opravljanja plačilnih storitev).
-(2) Banka Slovenije lahko še pred izdajo odredbe o prenehanju opravljanja plačilnih storitev opravi pregled poslovnih knjig in druge dokumentacije osebe in zbere druge dokaze o tem, ali oseba opravlja plačilne storitve.
-(3) V odredbi o prenehanju opravljanja plačilnih storitev Banka Slovenije osebi naloži, da v roku, ki ne sme biti krajši od osem in ne daljši od 15 dni, predloži poročilo, v katerem opiše ukrepe, ki jih je opravila v zvezi s prenehanjem opravljanja plačilnih storitev, ter dokaze, iz katerih izhaja, da je te ukrepe izvedla. V poročilu se lahko oseba izjavi tudi o utemeljenosti razlogov za izdajo odredbe.

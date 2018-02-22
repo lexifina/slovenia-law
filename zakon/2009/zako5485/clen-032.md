@@ -1,2 +1,0 @@
-# 32. člen (ustanovitev ločene pravne osebe)
-Če Banka Slovenije zavrne zahtevo za izdajo dovoljenja zaradi razloga iz 4. točke 31. člena tega zakona, lahko v obrazložitvi k odločbi o zavrnitvi zahteve vložnika seznani z možnostjo, da za namen opravljanja plačilnih storitev ustanovi ločeno pravno osebo in vloži zahtevo za izdajo dovoljenja za opravljanje plačilnih storitev kot plačilna institucija za to pravno osebo, če oceni, da ti razlogi pri ločeni pravni osebi ne bodo več podani.

@@ -1,3 +1,0 @@
-# 114. člen (datum valute odobritve in obremenitve plačilnega računa)
-(1) Plačnikov ponudnik plačilnih storitev mora zagotoviti, da je datum valute obremenitve plačnikovega plačilnega računa v zvezi z izvršitvijo plačilne transakcije enak ali kasnejši od datuma, ko se ta plačilni račun obremeni za znesek plačilne transakcije.
-(2) Prejemnikov ponudnik plačilnih storitev mora zagotoviti, da je datum valute odobritve prejemnikovega plačilnega računa v zvezi z izvršitvijo plačilne transakcije najkasneje delovni dan, ko so sredstva plačilne transakcije odobrena na računu prejemnikovega ponudnika plačilnih storitev.

@@ -1,4 +1,0 @@
-# 181. člen (obdelava zaupnih podatkov)
-(1) Ponudniki plačilnih storitev in udeleženci plačilnih sistemov lahko zbirajo, obdelujejo in izmenjujejo zaupne podatke, vključno z osebnimi podatki o uporabnikih z namenom preprečevanja, preiskovanja ali odkrivanja goljufij v zvezi s plačilnimi storitvami.
-(2) Ponudniki plačilnih storitev in člani plačilnih sistemov morajo osebne podatke iz prvega odstavka tega člena varovati v skladu z zakonom, ki ureja varstvo osebnih podatkov.
-(3) Ponudniki plačilnih storitev in udeleženci plačilnih sistemov, ki obdelujejo osebne podatke iz prvega odstavka tega člena, morajo te podatke na zahtevo posredovati sodišču, državnemu tožilstvu, policiji in drugemu organu, ki te podatke potrebuje v postopku, ki ga vodi v skladu s svojimi pristojnostmi na področju preprečevanja, odkrivanja, dokazovanja in pregona kaznivih dejanj ali prekrškov, povezanih s plačilnimi goljufijami.

@@ -1,5 +1,0 @@
-# 86. člen (spremembe obrestne mere ali menjalnega tečaja)
-(1) Okvirna pogodba lahko določa, da se spremembe obrestne mere in menjalnega tečaja, ki temeljijo na spremembi referenčne obrestne mere ali referenčnega menjalnega tečaja, uveljavijo takoj in brez predhodnega obvestila uporabniku.
-(2) Ponudnik plačilnih storitev mora obvestiti uporabnika o spremembi obrestne mere iz prvega odstavka tega člena ob prvi priložnosti na način, kakor je opredeljen v drugem odstavku 80. člena tega zakona, razen če okvirna pogodba določa pogostost ali način obveščanja uporabnika o spremembi obrestne mere.
-(3) Če se obrestna mera ali menjalni tečaj iz prvega odstavka tega člena spremeni v korist uporabnika, ponudnik o spremembi ni dolžan obvestiti uporabnika.
-(4) Ponudnik plačilnih storitev mora zagotoviti, da se spremembe obrestnih mer in menjalnih tečajev, ki se uporabljajo za plačilne transakcije, izvedejo in izračunavajo po nevtralni poti na način, ki ne ustvarja razlik med uporabniki plačilnih storitev.

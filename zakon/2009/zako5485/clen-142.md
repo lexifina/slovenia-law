@@ -1,2 +1,0 @@
-# 142. člen (stroški izvrševanja sklepa o izvrši in zavarovanju)
-Če ponudnik plačilnih storitev dolžniku zaračunava posebno nadomestilo za izvajanje dejanj na podlagi sklepa o izvršbi ali zavarovanju na denarnih sredstvih dolžnika pri tem ponudniku plačilnih storitev, morajo biti ta nadomestila primerna in v skladu z dejanskimi stroški, ki nastanejo ponudniku plačilnih storitev v zvezi z izvrševanjem sklepa o izvršbi ali zavarovanju.

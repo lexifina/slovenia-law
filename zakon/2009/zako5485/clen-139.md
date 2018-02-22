@@ -1,5 +1,0 @@
-# 139. člen (izvršitev plačilne transakcije na podlagi domicilirane menice)
-(1) Imetnik domicilirane menice odredi izvršitev plačilne transakcije na podlagi domicilirane menice tako, da uporabnikovemu ponudniku plačilnih storitev predloži domicilirano menico in podatke za izvršitev plačilne transakcije v breme uporabnikovega plačilnega računa pri tem ponudniku plačilnih storitev in s prenosom denarnih sredstev imetniku menice (v nadaljnjem besedilu: plačilni nalog za unovčitev domicilirane menice).
-(2) Ponudnik plačilnih storitev lahko zavrne izvršitev plačilne transakcije na podlagi plačilnega naloga za unovčitev domicilirane menice, če:
-1. je imetnik domicilirane menice odredil plačilni nalog za unovčitev domicilirane menice, ki je očitno v nasprotju z domicilirano menico (npr. glede zneska, glede domicila, glede zapadlosti menice),
-2. je plačilni nalog za unovčitev domicilirane menice odredila oseba, ki ni menični upnik, ali druga oseba, ki jo je menični upnik pooblastil za odreditev plačilne transakcije zaradi plačila domicilirane menice.

@@ -1,4 +1,0 @@
-# 37. člen (poslovanje zastopnika in podružnice)
-(1) Plačilna institucija lahko začne opravljati plačilne storitve preko podružnice ali preko zastopnika v državi gostiteljici, ko so izpolnjeni pogoji iz prvega odstavka 42. člena tega zakona. Plačilna institucija ali plačilna institucija z opustitvijo lahko začne opravljati plačilne storitve preko podružnice v tretji državi ali preko zastopnika v Republiki Sloveniji, ko je podružnica ali zastopnik vpisan v register plačilnih institucij v skladu s tem zakonom.
-(2) Plačilna institucija lahko preko posameznega zastopnika opravlja plačilne storitve le na območju tiste države članice, ki je v registru plačilnih institucij vpisana pri tem zastopniku.
-(3) Plačilna institucija mora zagotoviti, da njena podružnica v državi gostiteljici in njen zastopnik v Republiki Sloveniji ali državi gostiteljici uporabnike na primeren način obvesti o tem, da deluje za račun plačilne institucije.

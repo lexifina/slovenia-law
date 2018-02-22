@@ -1,5 +1,0 @@
-## 3. ODDELEK OPRAVLJANJE STORITEV UPRAVLJANJA PLAČILNIH SISTEMOV KOT BANKA DRŽAVE ČLANICE ALI BANKA TRETJE DRŽAVE
-# 178. člen (uporaba določb za banko države članice ali banko tretje države)
-(1) Banka države članice lahko opravlja storitve upravljanja plačilnega sistema preko podružnice v Republiki Sloveniji ali neposredno, če pridobi dovoljenje Banke Slovenije za opravljanje storitev upravljanja plačilnega sistema kot banka države članice.
-(2) Banka tretje države lahko opravlja storitve upravljanja plačilnega sistema preko podružnice v Republiki Sloveniji, če pridobi dovoljenje Banke Slovenije za opravljanje storitev upravljanja plačilnega sistema kot banka tretje države.
-(3) Glede pogojev za opravljanje storitev upravljanja plačilnega sistema kot banka države članice ali tretje države, in glede dovoljenja Banke Slovenije za opravljanje storitev upravljanja plačilnega sistema kot banka države članice ali tretje države, se smiselno uporabljajo določbe zakona, ki ureja bančništvo, glede pogojev, ki jih mora izpolnjevati banka za pridobitev dovoljenja Banke Slovenije za opravljanje storitev upravljanja plačilnih sistemov.
