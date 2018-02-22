@@ -1,8 +1,0 @@
-# 9. člen
-Za petim odstavkom 182. člena se dodajo novi šesti, sedmi in osmi odstavek, ki se glasijo:
-"(6) Banka Slovenije je pristojna in odgovorna za nadzor nad izvajanjem Uredbe 260/2012/EU.
-(7) Banka Slovenije je pristojna in odgovorna za nadzor nad izvajanjem Uredbe 2015/751/EU.
-(8) Banka Slovenije je pristojna in odgovorna za nadzor nad izvajanjem smernic, priporočil in drugih pravnih aktov, ki jih izda Evropski bančni organ v skladu s 16. členom Uredbe (EU) št. 1093/2010 Evropskega parlamenta in Sveta z dne 24. novembra 2010 o ustanovitvi Evropskega nadzornega organa (Evropski bančni organ) in o spremembi Sklepa št. 716/2009/ES ter razveljavitvi Sklepa Komisije 2009/78/ES (UL L št. 331 z dne 15. 12. 2010, str. 12).".
-Za dosedanjim šestim odstavkom, ki postane deveti odstavek, se dodata nova deseti in enajsti odstavek, ki se glasita:
-"(10) Banka Slovenije je pristojna in odgovorna za nadzor nad ponudniki plačilnih storitev v zvezi z zagotavljanjem primerljivosti nadomestil, povezanih s plačilnimi računi, zamenjavo plačilnih računov in zagotavljanjem dostopa do osnovnih plačilnih računov, ki se opravljajo in zagotavljajo na območju Republike Slovenije, na območju druge države članice in na območju tretje države.
-(11) Banka Slovenije odloči o uporabi smernic ali priporočil Evropskega nadzornega organa, ki zadeva plačilne institucije, družbe za izdajo elektronskega denarja, plačilne sisteme in upravljavce plačilnih sistemov, ter lahko v celoti ali delno zavrne uporabo posameznih smernic ali priporočil, če so za to utemeljeni razlogi. Sklep o uporabi smernic ali priporočil iz prejšnjega stavka se objavi v Uradnem listu Republike Slovenije.".

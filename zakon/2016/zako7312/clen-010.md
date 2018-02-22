@@ -1,5 +1,0 @@
-# 10. člen
-Za 182. členom se doda nov 182.a člen, ki se glasi:
-"182.a člen
-(razkritje informacij o izrečenih ukrepih)
-Banka Slovenije z namenom preprečevanja in odvračanja ravnanj, ki pomenijo kršitev določb 7.a poglavja tega zakona javno objavi informacije v zvezi z ukrepi nadzora in sankcijami zaradi prekrška, ki jih je izrekla zaradi kršitev določb 7.a poglavja tega zakona. Te informacije se objavijo v skladu s pravili, ki jih za razkritje informacij o izrečenih ukrepih določa zakon, ki ureja bančništvo.".
