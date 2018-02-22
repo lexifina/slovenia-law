@@ -1,7 +1,0 @@
-# 22. člen
-Za 201. členom se doda nov 201.a člen, ki se glasi:
-"201.a člen
-(odredba o prenehanju izdajanja elektronskega denarja)
-(1) Če oseba v nasprotju s prepovedjo, določeno v drugem odstavku 136. člena tega zakona, izdaja elektronski denar, ji Banka Slovenije izda odredbo, s katero ji naloži, da preneha izdajati elektronski denar (v nadaljnjem besedilu: odredba o prenehanju izdajanja elektronskega denarja).
-(2) Banka Slovenije lahko še pred izdajo odredbe o prenehanju izdajanja elektronskega denarja opravi pregled poslovnih knjig in druge dokumentacije osebe ter zbere druge dokaze o tem, ali oseba izdaja elektronski denar.
-(3) Banka Slovenije v odredbi o prenehanju izdajanja elektronskega denarja osebi naloži, da v roku, ki ne sme biti krajši od osem in ne daljši od 15 dni, predloži poročilo, v katerem opiše ukrepe, ki jih je opravila v zvezi s prenehanjem izdajanja elektronskega denarja, ter dokaze, iz katerih izhaja, da je te ukrepe izvedla. V poročilu se lahko oseba izjavi o utemeljenosti razlogov za izdajo odredbe.".
