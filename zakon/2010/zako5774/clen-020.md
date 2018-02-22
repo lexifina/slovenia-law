@@ -1,4 +1,0 @@
-# 20. člen
-Prvi in drugi odstavek 164. člena se spremenita tako, da se glasita:
-"(1) Nalog za poravnavo, ki ga v plačilni sistem posreduje udeleženec tega sistema ali udeleženec povezanega sistema, je veljaven, če je nalog za poravnavo vstopil v plačilni sistem pred začetkom postopka ali ukrepa iz prvega odstavka 163. člena tega zakona zoper tega udeleženca.
-(2) Nalog za poravnavo je veljaven tudi v primeru, če je vstopil v plačilni sistem po začetku postopka ali ukrepa iz prvega odstavka 163. člena tega zakona zoper udeleženca tega plačilnega sistema ali povezanega plačilnega sistema, če se nalog za poravnavo izvrši v plačilnem sistemu isti delovni dan, v okviru katerega je bil začet takšen postopek ali ukrep, in če upravljavec plačilnega sistema oziroma povezanega plačilnega sistema dokaže, da ob nastopu nepreklicnosti naloga za poravnavo ni vedel in ni mogel vedeti za začetek takšnega postopka ali ukrepa.".
