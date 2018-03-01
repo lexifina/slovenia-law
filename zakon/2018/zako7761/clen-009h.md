@@ -1,0 +1,2 @@
+# 9.h člen (informacija o ravni BDP)
+Ministrstvo, pristojno za finance, ob upoštevanju podatkov iz jesenske napovedi urada, pristojnega za makroekonomske analize in razvoj, najpozneje do 16. oktobra tekočega leta ugotovi in na spletni strani objavi informacijo o tem, ali bo država v naslednjem letu v obdobju podpotencialne ali nadpotencialne ravni bruto domačega proizvoda (v nadaljnjem besedilu: BDP).

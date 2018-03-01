@@ -1,0 +1,2 @@
+# 9.o člen (povečanje premoženja institucionalnih enot sektorja država)
+Na ločenem računu zbrani presežki se lahko uporabijo za povečanje premoženja institucionalne enote sektorja država samo, če institucionalna enota sektorja država brez povečanja premoženja iz četrtega odstavka 5. člena ZFisP ne bi več izpolnjevala pogojev za delovanje ali če obveznost povečanja premoženja izhaja iz strukturne reforme, ki ima dolgoročno merljiv vpliv na vzdržnost javnih financ.".
