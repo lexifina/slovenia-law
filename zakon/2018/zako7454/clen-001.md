@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o cestah (Uradni list RS, št. 109/10, 48/12, 36/14 - odl. US in 46/15) se v drugem odstavku 1. člena napovedni stavek spremeni tako, da se glasi: "S tem zakonom se prenašajo naslednje direktive Evropske unije:".
+V tretji alineji se za zaklepajem pika nadomesti s podpičjem in doda nova četrta alineja, ki se glasi:
+"- Direktiva (EU) 2015/719 Evropskega parlamenta in Sveta z dne 29. aprila 2015 o spremembi Direktive Sveta 96/53/ES o določitvi največjih dovoljenih mer določenih cestnih vozil v Skupnosti v notranjem in mednarodnem prometu in največjih dovoljenih tež v mednarodnem prometu (UL L št. 115 z dne 6. 5. 2015, str. 1) v delu, ki se nanaša na prepoznavo vozil ali skupine vozil, ki sama ali skupaj s tovorom presegajo dovoljene mase, predpisane za posamezne vrste vozil ali skupine vozil, in na obveznosti špediterja pri prevozu zabojnikov in zamenljivih tovorišč.".
