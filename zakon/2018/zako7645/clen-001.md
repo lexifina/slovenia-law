@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o posebnih pravicah italijanske in madžarske narodne skupnosti na področju vzgoje in izobraževanja (Uradni list RS, št. 35/01 in 102/07 - ZOsn-F) se v 1. členu pred besedama "srednjega splošnega" beseda "in" nadomesti z vejico, na koncu stavka pa se pika nadomesti z vejico in doda besedilo "višjega strokovnega izobraževanja ter vzgoje in izobraževanja otrok, mladoletnikov in polnoletnih oseb s posebnimi potrebami.".
