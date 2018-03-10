@@ -1,0 +1,2 @@
+# 61. člen
+V prvem odstavku 109. člena se na koncu stavka doda nov stavek, ki se glasi: "Oseba, ki prestaja nadomestni zapor, se v skladu z zakonom, ki ureja prekrške, odpusti na dan, ko se izteče število dni izrečenega nadomestnega zapora, na dan, ki ga sodišče določi s sklepom o ustavitvi izvrševanja nadomestnega zapora oziroma na dan, ki ga sodišče določi s sklepom o znižanju števila dni nadomestnega zapora.".

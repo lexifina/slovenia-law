@@ -1,0 +1,5 @@
+# 32. člen
+V prvem odstavku 56. člena se za prvim stavkom doda nov drugi stavek, ki se glasi: "Če obsojenec redno dela s časom krajšim od polnega, se mu določi sorazmerni del letnega dopusta tako, da se opravljene ure dela seštejejo in se mu za seštevek, ki je enak mesečni obveznosti ur za polni delovni čas, določita dva dneva letnega dopusta.".
+Za prvim odstavkom se doda nov drugi odstavek, ki se glasi:
+"(2) Obsojenec, ki se med prestajanjem kazni zapora v skladu z osebnim načrtom izobražuje, ima za vsak mesec uspešno opravljenega izobraževanja pravico do dveh dni letnega počitka. Obsojenec lahko dobi do šest dni dodatnega letnega počitka v enem letu, pri čemer se upoštevajo učna uspešnost, prizadevnost in prisotnost pri pouku. Odločitev o odmeri in izrabi letnega počitka se zapiše v osebnem načrtu obsojenca. Za izrabo letnega počitka se smiselno uporabljajo določbe tega zakona, ki urejajo izrabo letnega dopusta.".
+Dosedanji drugi, tretji in četrti odstavek postanejo tretji, četrti in peti odstavek.

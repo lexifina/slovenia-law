@@ -1,0 +1,9 @@
+# 3. člen
+V 10. členu se v prvi, drugi in tretji alineji na koncu pika nadomesti s podpičjem.
+V četrti alineji se besedilo "ali registrirani istospolni partnerski skupnosti po zakonu, ki ureja registracijo istospolne partnerske skupnosti" nadomesti z besedilom "oseba, s katero je oseba, zoper katero se izvršuje kazenska sankcija, v partnerski zvezi po zakonu, ki ureja partnerske zveze", pika na koncu alineje pa se nadomesti s podpičjem.
+Za četrto alinejo se dodajo nove peta, šesta, sedma, osma in deveta alineja, ki se glasijo:
+"- varovani objekti so: zavodi za prestajanje kazni zapora, vključno z mladoletniškim zaporom, prevzgojni dom, oddelki za forenzično psihiatrijo zdravstvenih zavodov, v katerih se izvaja varnostni ukrep obveznega psihiatričnega zdravljenja in varstva, lahko pa tudi sodišča in druge stavbe ministrstva, pristojnega za pravosodje;
+- varovano območje je območje varovanega objekta, kjer je prepovedano ali omejeno gibanje;
+- varovane osebe so zaprte osebe: obsojenci, osebe, ki jim je izrečen varnostni ukrep obveznega psihiatričnega zdravljenja in varstva v zdravstvenem zavodu, osebe, za katere je sodišče odredilo pridržanje (sodno pridržane osebe), priporniki, osebe na prestajanju nadomestnega zapora in mladoletniki v prevzgojnem domu;
+- probacijske naloge, so naloge, ki so določene v zakonu, ki ureja probacijo;
+- zaostrene varnostne razmere so zlasti: odkrite priprave na upor in upor, odkrite priprave na množični pasivni odpor in množični pasivni odpor, požar ali naravna nesreča, ki vpliva na delovanje zavoda, nastavitev eksplozivnega sredstva oziroma grožnja z nastavitvijo eksplozivnega sredstva, neupravičen izklop/izpad elektrike, protesti in množično izražanje nezadovoljstva (pred ali v varovanemu objektu), najdba orožja v varovanem objektu, množično nasilje v varovanem objektu in zajetje talcev.".

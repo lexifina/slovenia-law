@@ -1,0 +1,2 @@
+# 41.b člen
+Zaradi zagotavljanja pravice obsojencev, oseb, ki prestajajo kazen mladoletniškega zapora, mladoletnikov, zoper katere se izvršuje vzgojni ukrep oddaje v prevzgojni dom in oseb na prestajanju nadomestnega zapora do zdravstvenega varstva, obdeluje zdravstveno osebje zavoda zdravstvene podatke o obsojencih, katerih upravljalec je zdravstveni dom, ki zagotavlja zdravstveno oskrbo obsojencev v zavodu.

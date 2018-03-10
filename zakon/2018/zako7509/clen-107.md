@@ -1,0 +1,16 @@
+# 107. člen
+V prvem odstavku 250.a člena se prvi stavek nadomesti z novim stavkom, ki se glasi: "Ministrstvo upravlja kazensko evidenco, evidenco vzgojnih ukrepov in evidenco izbrisanih obsodb za kazniva dejanja zoper spolno nedotakljivost (v nadaljnjem besedilu: kazenske evidence), skupno evidenco kazenskih točk v cestnem prometu in evidenco pravnomočnih sodb oziroma sklepov o prekrških (v nadaljnjem besedilu: evidence).", v drugem stavku pa se besedilo "oproščena" nadomesti z besedilom "odpuščena".
+V tretjem odstavku:
+- se v 3. točki črta vejica in doda beseda "in", besedilo "občina in upravna enota ter" pa se črta;
+- se 7. točka spremeni tako, da se glasi: "7. zakonska označba kaznivega dejanja oziroma prekrška z navedbo člena, odstavka in točke, ki je bil uporabljen;";
+- se za 7. točko doda nova 8. točka, ki se glasi: "8. čas izvršitve kaznivega dejanja;";
+- v dosedanji 8. točki, ki postane 9. točka, se besedilo "vrsta kazenske sankcije, vzgojnega ukrepa in varnostnega ukrepa" nadomesti z besedilom "vrsta in višina izrečene kazenske sankcije";
+- dosedanja 9. točka postane 10. točka;
+- dosedanja 10. točka, ki postane 11. točka se spremeni tako, da se glasi: "11. v evidenci kazenskih točk se obdelujejo tudi podatki o vozniškem dovoljenju ter podatek o času izvršitve prekrška.".
+Šesti odstavek se spremeni tako, da se glasi:
+"(6) Ministrstvo posreduje podatke iz kazenskih evidenc o neizbrisani obsodbi državnim organom, organom samoupravnih lokalnih skupnosti in nosilcem javnih pooblastil, na obrazloženo zahtevo pa tudi pravnim osebam in zasebnim delodajalcem, če še trajajo pravne posledice obsodbe ali varnostni ukrepi, in če imajo te osebe za prejem podatkov upravičen, na zakonu utemeljen interes. Državnim organom, organom samoupravnih lokalnih skupnosti in nosilcem javnih pooblastil se omogoči varen elektronski dostop do kazenskih evidenc tako, da lahko zahtevo posredujejo tudi v elektronski obliki, in v primeru, če oseba ni zabeležena v evidencah, takoj prejmejo sporočilo, da oseba ni vpisana v kazenskih evidencah. Če je oseba zabeležena, ministrstvo organu posreduje v elektronski obliki podatek iz kazenskih evidenc o neizbrisani obsodbi.".
+Osmi odstavek se spremeni tako, da se glasi:
+"(8) Podatke iz kazenske evidence za kazniva dejanja po 170. do 173.a členu, po drugem odstavku 174. člena, po drugem odstavku 175. člena, ki je izvršeno proti mladoletni osebi, in po 176. členu Kazenskega zakonika (Uradni list Republike Slovenije, št. 50/12 - uradno prečiščeno besedilo, 6/16 - popr., 54/15, 38/16 in 27/17), vpiše ministrstvo na podlagi pravnomočne odločbe o izbrisu obsodbe iz kazenske evidence oziroma po izpolnitvi pogojev za izbris obsodbe iz kazenske evidence v evidenco izbrisanih obsodb za kazniva dejanja zoper spolno nedotakljivost. Podatki iz evidence izbrisanih obsodb za kazniva dejanja zoper spolno nedotakljivost se dajo na upravičeno, z zakonom določeno zahtevo ustanov, društev ali skupin, ki so jim otroci ali mladoletniki zaupani v učenje, vzgojo, varstvo ali v oskrbo.".
+Deveti odstavek se črta.
+Dosedanji deseti in enajsti odstavek postaneta nova deveti in deseti odstavek.
+V dosedanjem dvanajstem odstavku, ki postane nov enajsti odstavek, se za besedilom "Republike Slovenije" doda besedilo "in pravnim osebam s sedežem v Republiki Sloveniji".
