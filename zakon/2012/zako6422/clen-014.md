@@ -1,4 +1,0 @@
-# 14. člen
-V 29. členu se doda nov drugi odstavek, ki se glasi:
-"(2) V primerih iz drugega odstavka prejšnjega člena se lahko nepremično premoženje samoupravnih lokalnih skupnosti odda v najem na podlagi metode javnega zbiranja ponudb. Objava javnega zbiranja ponudb mora vsebovati kriterije, ki bodo poleg ponujene najemnine odločilni za izbor najugodnejšega ponudnika. Objava vsebuje tudi navedbo, da bo sestavni del pogodbe o oddaji v najem nepremičnega premoženja določilo tudi o takih sankcijah, ki v primeru kršitve pogodbeno dogovorjenih obveznosti najemnika zagotavljajo uresničevanje razvojnega programa samoupravne lokalne skupnosti.".
-V dosedanjem drugem odstavku, ki postane tretji odstavek, se na koncu osme alineje pred piko doda besedilo "ali za razvoj obrambne industrije oziroma razvojnih obrambnih projektov".

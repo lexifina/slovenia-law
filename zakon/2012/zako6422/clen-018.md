@@ -1,2 +1,0 @@
-# 18. člen
-Šteje se, da so z uveljavitvijo sprememb tega zakona izpolnjene obveze glede zagotavljanja javnega interesa na podlagi drugega in tretjega odstavka 24. člena tega zakona v primerih brezplačnih odsvojitev nepremičnega premoženja med državo in občinami, ki so bili izvršeni do uveljavitve sprememb tega zakona. Katerakoli od pogodbenih strank lahko zahteva sklenitev dodatka k sklenjeni pogodbi o brezplačni odsvojitvi nepremičnega premoženja, ki vsebuje ustrezno zemljiškoknjižno dovolilo za izbris obremenitev, dogovorjenih s pogodbo.
