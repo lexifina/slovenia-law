@@ -1,6 +1,0 @@
-## 3. poglavje
-## UPRAVLJAVCI STVARNEGA PREMOŽENJA
-# 9. člen (upravljavci)
-(1) Upravljavci nepremičnega premoženja države so državni organi, pravosodni organi in osebe javnega prava, ki jih kot upravljavce določi Vlada Republike Slovenije (v nadaljnjem besedilu nadaljevanju: vlada) s sklepom ali jim je pravica upravljanja nepremičnega premoženja države podeljena z zakonom, podzakonskim predpisom ali aktom o ustanovitvi, ki ga sprejme vlada.
-(2) Upravljavci premičnega premoženja države so državni organi, pravosodni organi in osebe javnega prava, ki so to premoženje pridobili v uporabo na podlagi kupoprodajne pogodbe, menjalne pogodbe, pogodbe o neodplačni pridobitvi ali na podlagi drugega pravnega posla. Podlaga za določitev novega upravljavca premičnega premoženja je dogovor o prenosu med starim in novim upravljavcem, kar se evidentira v skladu s predpisi, ki urejajo materialno in finančno poslovanje upravljavcev premičnega premoženja države.
-(3) Upravljavci stvarnega premoženja samoupravnih lokalnih skupnosti so uprava samoupravne lokalne skupnosti in osebe javnega prava, ki jih za upravljavce določi organ, pristojen za izvrševanje proračuna samoupravne lokalne skupnosti, s svojim aktom.
