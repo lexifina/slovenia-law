@@ -1,4 +1,0 @@
-# 31. člen (spremljanje in nadzor nad pobiranjem turistične takse)
-(1) Osebe iz 28. člena tega zakona morajo voditi evidenco o turistični taksi, ki se vodi v evidenci gostov v skladu s predpisi, ki urejajo prijavo prebivališča. Iz evidence mora biti poleg s predpisi o prijavi bivališča določenih podatkov, razvidno tudi število prenočitev posameznega gosta oziroma turista.
-(2) Nadzor nad pobiranjem in odvajanjem turistične takse ter vodenjem evidenc opravlja pristojni davčni organ.
-(3) Nadzor iz prejšnjega odstavka tega člena lahko opravlja tudi pristojni občinski inšpekcijski organ, ustanovljen v skladu s predpisom, ki ureja lokalno samoupravo. Glede položaja, pravic in dolžnosti inšpektorjev, pooblastil inšpektorjev, postopka inšpekcijskega nadzora, inšpekcijskih ukrepov in druga vprašanja, povezana z inšpekcijskim nadzorom, se uporablja predpis o inšpekcijskem nadzoru.

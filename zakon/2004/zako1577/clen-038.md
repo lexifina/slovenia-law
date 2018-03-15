@@ -1,4 +1,0 @@
-# 38. člen (obveznost zagotavljanja turističnega vodenja in spremljanja)
-(1) Organizator potovanja mora pri vsaki izvedbi turističnega aranžmaja doma in v tujini za vsako organizirano skupino posebej zagotoviti turističnega spremljevalca oziroma turistično spremljevalko (v nadaljnjem besedilu: turistični spremljevalec) ali turističnega vodnika oziroma turistično vodnico (v nadaljnjem besedilu: turistični vodnik), ki izpolnjuje pogoje iz 39. člena tega zakona.
-(2) Ne glede na določbo prejšnjega odstavka organizatorju potovanja ni treba zagotoviti turističnega spremljevalca ali turističnega vodnika med prevozom, če je ta organiziran v okviru javnega potniškega prometa.
-(3) Ne glede na določbo prvega odstavka tega člena organizatorju potovanja ni treba zagotoviti turističnega spremljevalca ali turističnega vodnika z licenco med prevozom do izhodiščnega kraja letovanja ali potovanja in nazaj.
