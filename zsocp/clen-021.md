@@ -1,0 +1,9 @@
+# 21. člen (spremljanje poslovanja in podzakonski akti)
+
+(1) Strokovno spremljanje poslovanja socialnih podjetij in izpolnjevanja pogojev po tem zakonu zagotavlja pristojno ministrstvo, če drug zakon ne določa drugače.
+
+(2) Izvajalci ukrepov, ki socialnim podjetjem dodeljujejo denarna sredstva na podlagi tega zakona ali drugih predpisov, ki določajo spodbude za poslovanje socialnih podjetij, o zahtevah, ki jih opredeljujejo programski ali izvedbeni dokumenti, ki določajo izvajanje posameznega vira financiranja, poročajo pristojnemu ministrstvu.
+
+(3) Nadzorni organi, ki pri izvrševanju svojih pooblastil ugotovijo, da je pri socialnemu podjetju nastopil kateri od razlogov zaradi katerega se socialnemu podjetju prepove poslovanje kot socialno podjetje, so dolžni o tem nemudoma podati pristojnemu ministru pisno prijavo, ter mu priložiti vse zbrane dokaze.
+
+(4) Podrobnejši način spremljanja poslovanja socialnih podjetij in izpolnjevanja pogojev, podrobnejšo vsebino vloge iz 14. člena, dokazil in poročil iz 19. člena in dokazil iz prejšnjega člena tega zakona, pogoje na podlagi katerih so upravičenci iz 35. člena tega zakona upravičeni do spodbud iz posameznega ukrepa spodbujanja razvoja socialnega podjetništva, pogoje na podlagi katerih so socialna podjetja upravičena do posebnih spodbud iz 37. in 38. člena tega zakona, način spremljanja upravičenosti in poročanja socialnega podjetja, ki je upravičeno do spodbud iz 37. in 38. člena tega zakona, način izvajanja nadzora nad porabo finančnih sredstev iz naslova spodbud in oprostitev, ki jih socialno podjetje prejme na podlagi tega zakona ter način vrnitve neupravičeno pridobljenih ali nepravilno porabljenih ali neizkoriščenih sredstev s pripadajočimi obrestmi, predpiše pristojni minister s podzakonskim aktom. S podzakonskim aktom predpiše tudi podrobnejše pogoje, ki jih mora izpolnjevati izvajalska organizacija iz šestega odstavka 7. člena tega zakona.

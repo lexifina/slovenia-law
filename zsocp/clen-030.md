@@ -1,0 +1,3 @@
+# 30. člen (izvajanje politike razvoja socialnega podjetništva)
+
+Izvajanje politike razvoja socialnega podjetništva zagotavljajo ministrstva in vladne službe, vsak na svojem delovnem področju, vendar usklajeno in skladno s programom ukrepov za izvajanje strategije razvoja socialne ekonomije. Izvajanje politik zajema tudi predlaganje in sprejemanje predpisov, ki omogočajo ali olajšujejo poslovanje socialnim podjetjem na posameznih področjih in dejavnostih, odpravljanje administrativnih ovir za delovanje socialnih podjetij in omogočanje prenosa javnih pooblastil, če to določa zakon, tudi na socialna podjetja.
