@@ -1,0 +1,8 @@
+# 13. člen
+112.a člen se spremeni tako, da se glasi:
+"112.a člen
+(začasni ukrepi)
+(1) Ne glede na določbo prvega odstavka 46. člena tega zakona izplačilo nadomestila za polno odsotnost z dela ne more biti višje od dvakratnika vrednosti povprečne mesečne plače v Republiki Sloveniji z uskladitvami iz 2. člena Zakona o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji (Uradni list RS, št. 114/06, 59/07 - ZŠtip, 10/08 - ZVarDod, 71/08, 98/09 - ZIUZGK, 62/10 - ZUPJS, 85/10, 94/10 - ZIU, 110/11 - ZDIU12, 40/12 - ZUJF in 96/12 - ZPIZ-2).
+(2) Ne glede na določbo prvega odstavka 47. člena tega zakona znaša nadomestilo, razen materinskega nadomestila, za polno odsotnost z dela 90 odstotkov osnove. Nadomestilo znaša 100 odstotkov osnove, kadar osnova ne presega minimalne plače.
+(3) Ne glede na določbo prvega odstavka 78. člena tega zakona ima pravico do dodatka za veliko družino eden od staršev, če imajo eden od staršev in otroci skupno stalno prebivališče v Republiki Sloveniji in dejansko živijo v Republiki Sloveniji in povprečni mesečni dohodek na osebo ne presega 64 odstotkov neto povprečne plače skladno z določbami zakona, ki ureja uveljavljanje pravic iz javnih sredstev, ki se uporabljajo za odločanje o pravici do otroškega dodatka oziroma za izdajo avtomatičnega informativnega izračuna.
+(4) Za namen iz tretjega odstavka tega člena centri za socialno delo iz centralne zbirke podatkov skladno z zakonom, ki ureja uveljavljanje pravic iz javnih sredstev, obdelujejo osebne podatke, ki jih potrebujejo pri odločanju o pravicah po tretjem in četrtem odstavku tega člena.".
