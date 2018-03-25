@@ -1,0 +1,2 @@
+# 38. člen
+V tretjem odstavku 102. člena se pika nadomesti z vejico in doda besedilo "vendar tako, da dolžniku ostane najmanj znesek v višini 50 % minimalne plače, če dolžnik preživlja družinskega člana ali drugo osebo, ki jo mora preživljati po zakonu, pa tudi znesek v višini prejemka, določenega za osebo, ki jo preživlja dolžnik, po merilih, ki jih določa zakon, ki ureja socialno varstvene prejemke, za dodelitev denarne socialne pomoči.".

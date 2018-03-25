@@ -1,0 +1,8 @@
+# 5. člen
+13. člen se spremeni tako, da se glasi:
+"13. člen
+(Izvršitev tujih odločb, tujih poravnav in tujih javnih listin)
+Izvršitev odločbe ali poravnave tujega sodišča, tujega upravnega in drugega organa ter izvršitev javne listine tujega upravnega in drugega organa se sme v Republiki Sloveniji dovoliti in opraviti, če:
+- odločba, poravnava ali javna listina izpolnjuje z zakonom ali ratificirano in objavljeno mednarodno pogodbo predpisane pogoje za priznanje ali
+- je bil na podlagi Uredbe 44/2001/ES, Uredbe 2201/2003/ES, Uredbe 4/2009/ES, Uredbe 2016/1103/EU ali Uredbe 2016/1104/EU v Republiki Sloveniji izveden postopek priznanja in izvršitve odločbe ali poravnave tujega sodišča, tujega upravnega in drugega organa oziroma javne listine tujega upravnega ali drugega organa.
+Če zakon, ratificirana in objavljena mednarodna pogodba ali Uredba 6/2002/ES, Uredba 2201/2003/ES, Uredba 805/2004/ES, Uredba 1896/2006/ES, Uredba 861/2007/ES, Uredba 4/2009/ES, Uredba 207/2009/ES, Uredba 1215/2012/EU, Uredba 606/2013/EU ali Uredba 655/2014/EU določa, da se odločba ali poravnava tujega sodišča, tujega upravnega in drugega organa ter javna listina tujega upravnega in drugega organa izvrši brez postopka priznanja in izvršitve, se sme izvršitev odločbe ali poravnave tujega sodišča, tujega upravnega in drugega organa ter izvršitev javne listine tujega upravnega in drugega organa dovoliti in opraviti v Republiki Sloveniji, če odločba, poravnava ali javna listina izpolnjuje pogoje, določene z zakonom, ratificirano in objavljeno mednarodno pogodbo ali Uredbo 6/2002/ES, Uredbo 2201/2003/ES, Uredbo 805/2004/ES, Uredbo 1896/2006/ES, Uredbo 861/2007/ES, Uredbo 4/2009/ES, Uredbo 207/2009/ES, Uredbo 1215/2012/EU, Uredbo 606/2013/EU ali Uredbo 655/2014/EU.".

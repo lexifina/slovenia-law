@@ -1,0 +1,7 @@
+# 15. člen
+42.a člen se spremeni tako, da se glasi:
+"42.a člen
+(Potrdilo o izvršljivosti na podlagi Uredbe 2201/2003/ES, Uredbe 805/2004/ES, Uredbe 1896/2006/ES, Uredbe 861/2007/ES, Uredbe 4/2009/ES, Uredbe 1215/2012/EU, Uredbe 606/2013/EU, Uredbe 2016/1103/EU in Uredbe 2016/1104/EU ter na podlagi Uredbe 207/2009/ES, Uredbe 6/2002/ES, Pogodbe o ustanovitvi Evropske skupnosti za atomsko energijo in Pogodbe o delovanju Evropske unije)
+Potrdilo o izvršljivosti odločbe, poravnave oziroma javne listine na podlagi Uredbe 2201/2003/ES, Uredbe 805/2004/ES, Uredbe 1896/2006/ES, Uredbe 861/2007/ES, Uredbe 4/2009/ES, Uredbe 1215/2012/EU, Uredbe 606/2013/EU, Uredbe 2016/1103/EU in Uredbe 2016/1104/EU izda na zahtevo stranke sodišče ali organ, ki je odločal o terjatvi na prvi stopnji, ali notar, ki je sestavil javno listino.
+Potrdilo o izvršljivosti odločb in aktov institucij Evropske unije in nekaterih v okviru Evropske unije ustanovljenih organov na podlagi določb pravnega akta Evropske unije, ki se v Republiki Sloveniji uporablja neposredno, zlasti na podlagi 86. člena Uredbe 207/2009/ES, 71. člena Uredbe 6/2002/ES, 18. in 164. člena Pogodbe o ustanovitvi Evropske skupnosti za atomsko energijo (Uradni list RS - MP, št. 27/04 z dne 23. 3. 2004) ter 280. in 299. člena Pogodbe o delovanju Evropske unije (UL C št. 83 z dne 30. 3. 2010, str. 47) po preveritvi pristnosti izda na zahtevo stranke minister, pristojen za pravosodje.
+Minister, pristojen za pravosodje, s podzakonskim predpisom predpiše postopek za izdajo potrdila iz prejšnjega odstavka.".

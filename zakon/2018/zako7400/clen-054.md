@@ -1,0 +1,2 @@
+# 54. člen
+V prvem odstavku 192. člena se doda nov drugi stavek, ki se glasi: "Sodišče lahko v sklepu o izročitvi nepremičnine kupcu na predlog osebe, ki je namesto kupca položila kupnino in je do izdaje sklepa o izročitvi nepremičnine kupcu sodišču predložila listino, sposobno za vknjižbo hipoteke v svojo korist, določi, da se po pravnomočnosti tega sklepa vknjiži hipoteka za zavarovanje terjatve, ki izhaja iz listine, ki je podlaga za vpis, v korist te osebe.".

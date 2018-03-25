@@ -1,0 +1,8 @@
+# 46. člen
+Četrti odstavek 178. člena se spremeni tako, da se glasi:
+"Na predlog, ki mora biti vložen najkasneje 20 dni pred prodajnim narokom, sodišče na prodajnem naroku z odredbo ponovno ugotovi vrednost nepremičnine, če stranka s predložitvijo mnenja sodnega cenilca o tržni vrednosti nepremičnine verjetno izkaže, da se je vrednost nepremičnine od prejšnje ugotovitve vrednosti do dneva prodaje precej spremenila. V primeru spletne javne dražbe sodišče z odredbo ponovno ugotovi vrednost nepremičnine najkasneje en delovni dan pred začetkom spletne javne dražbe.".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"Sodišče predlog in mnenje sodnega cenilca o tržni vrednosti nepremičnine iz prejšnjega odstavka vroči strankam in osebam iz drugega odstavka 179. člena tega zakona, da se o njem izjavijo v osmih dneh od vročitve, če novega mnenja sodnega cenilca o tržni vrednosti nepremičnine brez objave osebnih in drugih varovanih podatkov ne objavi na spletnih straneh sodišča.".
+Za dosedanjim petim odstavkom, ki postane šesti odstavek, se dodata nova sedmi in osmi odstavek, ki se glasita:
+"Sodišče na predlog stranke za ugotovitev tržne vrednosti nepremičnine ne postavi sodnega cenilca, če stranka predloži cenitev iz drugega sodnega postopka, ki ni starejša od dveh let, in ponovne cenitve na svoje stroške ne zahtevajo stranke ali osebe iz drugega odstavka 179. člena tega zakona.
+Predlog in mnenje sodnega cenilca o tržni vrednosti nepremičnine iz prejšnjega odstavka se vroči strankam in osebam iz drugega odstavka 179. člena tega zakona, da se o njem izjavijo v osmih dneh od vročitve.".

@@ -1,0 +1,2 @@
+# 64. člen
+V četrtem odstavku 295. člena se v prvem odstavku besedilo "in številki odločbe o razrešitvi, številki skrbniškega računa ter podatke o zavarovanju izvršiteljeve odgovornosti iz 285. člena tega zakona" nadomesti z besedilom "in številki odločbe o razrešitvi oziroma o datumu prenehanja funkcije izvršitelja, številki skrbniškega računa, na podatke o zavarovanju izvršiteljeve odgovornosti iz 285. člena tega zakona in na podatke o številu pomočnikov izvršitelja, njihovem osebnem imenu ter datumu sklenitve in prenehanja pogodbe o zaposlitvi".

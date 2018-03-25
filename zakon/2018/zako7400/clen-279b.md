@@ -1,0 +1,3 @@
+# 279.b člen (Pristojnost za izdajo naloga za zamrznitev na podlagi odločbe, poravnave in javne listine)
+Kadar je bila upniku že vročena sodna odločba, sodna poravnava ali javna listina, je za izdajo naloga za zamrznitev glede zahtevka, navedenega v sodni odločbi ali sodni poravnavi, pristojno sodišče, ki je izdalo sodno odločbo oziroma pred katerim je bila sklenjena sodna poravnava, glede zahtevka, navedenega v javni listini, pa okrajno sodišče, na območju katerega je bila sestavljena javna listina.
+V postopku izvršbe na podlagi verodostojne listine je za izdajo naloga po prejšnjem odstavku pristojno sodišče, ki je krajevno pristojno glede na dovoljena sredstva izvršbe.
