@@ -1,0 +1,3 @@
+ZAKON
+
+O DRUŠTVIH (ZDru-1)
