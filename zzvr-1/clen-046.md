@@ -1,0 +1,3 @@
+# 46. člen (izdaja rastlinskih potnih listov za neokužene rastline, rastlinske proizvode in nadzorovane predmete)
+
+Če se s fitosanitarnim pregledom ugotovi, da je del rastlin, rastlinskih proizvodov in nadzorovanih predmetov, ki jih pridelujejo, predelujejo ali uporabljajo registrirani pridelovalci oziroma predelovalci, ali je kakor koli drugače navzoč v njihovih prostorih, okužen s škodljivimi organizmi s seznamov I.A, I.B, II.A ali II.B, se lahko izda rastlinski potni list za preostale rastline, rastlinske proizvode in nadzorovane predmete, če ni suma, da so okuženi in če ni nevarnosti za širjenje škodljivih organizmov.

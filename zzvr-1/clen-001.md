@@ -1,0 +1,31 @@
+## I. SPLOŠNE DOLOČBE
+
+# 1. člen (vsebina)
+
+Ta zakon določa zdravstveno varstvo rastlin; biotično varstvo rastlin; pridobivanje, izmenjavo podatkov in informacijski sistem; stroške in odškodnine; javno službo zdravstvenega varstva rastlin; določa organe, ki so odgovorni za uresničevanje tega zakona in inšpekcijsko nadzorstvo ter ureja ukrepe in obveznosti v zvezi s pojavom, preprečevanjem vnosa in širjenja ter zatiranjem škodljivih organizmov na rastlinah, rastlinskih proizvodih in nadzorovanih predmetih v skladu z:
+
+- Direktivo Komisije št. 92/70/EGS z dne 30. julija 1992 o določitvi podrobnih pravil za popise, ki se opravijo za priznanje varovanih območij v Skupnosti (UL L št. 250 z dne 29. 8. 1992, str. 37),
+
+- Direktivo Komisije št. 92/90/EGS z dne 3. novembra 1992 o obveznostih pridelovalcev in uvoznikov rastlin, rastlinskih proizvodov ali drugih predmetov in podrobnostih za njihovo registracijo (UL L št. 344 z dne 26. 11. 1992, str. 38),
+
+- Direktivo Komisije št. 92/105/EGS z dne 3. decembra 1992 o določanju stopnje standardizacije za rastlinske potne liste, ki se uporabljajo za premeščanje nekaterih rastlin, rastlinskih proizvodov ali drugih predmetov znotraj Skupnosti, in določanju podrobnih postopkov za izdajo takih rastlinskih potnih listov ter pogojev in podrobnih postopkov za njihovo zamenjavo (UL L št. 4 z dne 8. 1. 1993, str. 22), zadnjič spremenjeno z Direktivo Komisije 2005/17/ES z dne 2. marca 2005 o spremembi nekaterih določb Direktive 92/105/EGS glede rastlinskih potnih listov (UL L št. 57 z dne 3. 3. 2005, str. 23),
+
+- Direktivo Komisije št. 93/50/EGS z dne 24. junija 1993 o določitvi nekaterih rastlin, ki niso navedene v delu A Priloge V Direktive Sveta 77/93/EGS in katerih proizvajalci, skladišča ali distribucijski centri na pridelovalnih območjih teh rastlin se navedejo v uradnem registru (UL L št. 205 z dne 17. 8. 1993, str. 22),
+
+- Direktivo Komisije št. 93/51/EGS z dne 24. junija 1993 o predpisih za premeščanje nekaterih rastlin, rastlinskih proizvodov ali drugih predmetov prek varovanega območja (UL L št. 205 z dne 17. 8. 1993, str. 24),
+
+- Direktivo Komisije št. 94/3/ES z dne 21. januarja 1994 o postopku obveščanja o zadržanju pošiljke ali škodljivega organizma, ki predstavlja neposredno fitosanitarno nevarnost, iz tretjih držav (UL L št. 32 z dne 5. 2. 1994, str. 37),
+
+- Direktivo Komisije št. 98/22/ES z dne 15. aprila 1998 o minimalnih pogojih za opravljanje zdravstvenih pregledov rastlin v Skupnosti, in sicer tistih rastlin, rastlinskih proizvodov in drugih predmetov, ki prihajajo iz tretjih držav in za katere se zdravstveni pregledi opravljajo na mestih pregledov, ki niso v namembnem kraju (UL L št. 126 z dne 28. 4. 1998, str. 26),
+
+- Direktivo Sveta št. 2000/29/ES z dne 8. maja 2000 o varstvenih ukrepih proti vnosu organizmov, škodljivih za rastline ali rastlinske proizvode, v Skupnost in proti njihovemu širjenju v Skupnosti (UL L št. 169 z dne 10. 7. 2000, str. 1), zadnjič spremenjeno z Direktivo Komisije 2010/1/EU z dne 8. januarja 2010 o spremembi prilog II, III in IV k Direktivi Sveta 2000/29/ES o varstvenih ukrepih proti vnosu organizmov, škodljivih za rastline ali rastlinske proizvode, v Skupnost in proti njihovemu širjenju v Skupnosti (UL L št. 7 z dne 12. 1. 2010, str. 17),
+
+- Direktivo Komisije št. 2008/61/ES z dne 17. junija 2008 o določitvi pogojev, pod katerimi je mogoče nekatere škodljive organizme, rastline, rastlinske proizvode in druge predmete, iz Prilog I do V Direktive Sveta 2000/29/ES, vnesti ali jih premeščati znotraj Skupnosti oziroma na nekaterih njenih varovanih območjih v preskusne ali znanstvene namene in za delo pri žlahtnjenju (kodificirana različica), (UL L št. 158 z dne 18. 6. 2008, str. 41).
+
+Določbe tega zakona se uporabljajo tudi za izvajanje ukrepov proti drugim rastlinskim škodljivim organizmom, ki niso navedeni v predpisih iz prejšnjega odstavka in se pojavijo na ozemlju Republike Slovenije ter:
+
+- zaradi množičnega izbruha povzročajo gospodarsko škodo v kmetijstvu,
+
+- pomenijo nevarnost za zdravstveno varstvo semenskega materiala rastlin ali
+
+- imajo škodljiv vpliv na gospodarstvo, okolje ali družbo.
