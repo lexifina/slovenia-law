@@ -1,0 +1,13 @@
+# 12. člen (zahteve glede sorte)
+
+(1) Če je za semenski material posamezne vrste kmetijskih rastlin v zahtevah iz 10. člena tega zakona predpisana zahteva glede sortne pristnosti in čistosti, se lahko semenski material kmetijskih rastlin trži, če izpolnjuje zahteve iz 10. člena tega zakona in je označen z imenom sorte.
+
+(2) Pri poljščinah (žitih, krmnih rastlinah, krompirju, pesi, oljnicah in predivnicah), zelenjadnicah, trti in hmelju mora biti sorta iz prejšnjega odstavka vpisana v sortno listo v skladu s tem zakonom oziroma v skupni katalog sort poljščin v skladu z Direktivo 2002/53/ES (v nadaljnjem besedilu: skupni katalog sort poljščin), v skupni katalog sort zelenjadnic v skladu z Direktivo 2002/55/ES (v nadaljnjem besedilu: skupni katalog sort zelenjadnic) ali v skupni katalog sort trte v skladu z Direktivo 68/193/EGS (v nadaljnjem besedilu: skupni katalog sort trte).
+
+(3) Pri sadnih rastlinah, namenjenih za pridelavo sadja (v nadaljnjem besedilu: sadne rastline), mora biti sorta iz prvega odstavka tega člena vpisana v sortno listo v skladu s tem zakonom, zavarovana v skladu s predpisi, ki urejajo varstvo novih sort rastlin, ali splošno znana.
+
+(4) Pri okrasnih rastlinah mora biti sorta iz prvega odstavka tega člena vpisana v sortno listo v skladu s tem zakonom, zavarovana v skladu s predpisi, ki urejajo varstvo novih sort rastlin, splošno znana ali vpisana v seznam sort, ki ga vodi dobavitelj.
+
+(5) Semenski material sort iz drugega, tretjega in četrtega odstavka tega člena mora biti na trgu označen z uradnim imenom sorte, pod katerim je bila sorta vpisana v sortno listo ali v posamezni skupni katalog sort ali v drug uradni seznam ali uradni register sort. Če je sorta okrasnih rastlin vpisana v seznam sort dobavitelja, se semenski material take sorte označi z imenom ali oznako, pod katero se ta sorta vodi v seznamu sort dobavitelja.
+
+(6) Minister v skladu s predpisi Skupnosti predpiše, kdaj se sorta iz tretjega in četrtega odstavka tega člena šteje za splošno znano, in način vodenja seznama sort, ki ga v skladu s četrtim odstavkom tega člena vodi dobavitelj.
