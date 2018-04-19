@@ -1,0 +1,4 @@
+# 5. člen
+V prvem odstavku 73. člena se 2. in 3. točka spremenita tako, da se glasita:
+"2. kadar je izkazana prisotnost prepovedanih oziroma nedovoljenih substanc v uradnih vzorcih iz prejšnje točke, se na podlagi odločitve imetnika živali izvede vzorčenje vseh živali na gospodarstvu, ki so lahko sumljive, v nasprotnem primeru se izvede usmrtitev sumljivih živali. Primarni proizvodi od sumljivih živali se ocenijo kot neustrezni za prehrano ljudi, hkrati pa se odredi predpisano odstranjevanje nastalih ŽSP;
+3. usmrtitev živali, pri katerih je izkazana prisotnost prepovedanih oziroma nedovoljenih substanc ter sumljivih živali iz prejšnje točke, za katere se imetnik ni odločil za njihovo vzorčenje. Primarni proizvodi od usmrčenih živali se ocenijo kot neustrezni za prehrano ljudi, hkrati pa se odredi predpisano odstranjevanje nastalih ŽSP;".
