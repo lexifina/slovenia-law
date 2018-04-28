@@ -1,0 +1,5 @@
+# 21. ČLEN SPREMEMBE
+
+1. Država pogodbenica lahko predlaga spremembo tega protokola in jo predloži generalnemu sekretarju Organizacije združenih narodov. Ta države pogodbenice seznani z vsemi predlogi sprememb in jih hkrati zaprosi, naj ga uradno obvestijo, ali želijo sklic konference držav pogodbenic za obravnavo predlogov in odločanje o njih. Če v štirih mesecih od datuma njegovega sporočila vsaj ena tretjina držav pogodbenic podpre konferenco, generalni sekretar skliče konferenco pod pokroviteljstvom Organizacije združenih narodov. Vsako spremembo, ki jo sprejme dvotretjinska večina držav pogodbenic, ki so navzoče in glasujejo, generalni sekretar predloži v potrditev Generalni skupščini in nato v sprejetje državam pogodbenicam.
+
+2. Sprememba, sprejeta in potrjena v skladu s prejšnjim odstavkom, začne veljati trideseti dan po tem, ko listine o sprejetju deponirata dve tretjini držav, ki so pogodbenice na dan sprejetja spremembe. Za druge države pogodbenice začne sprememba veljati trideseti dan po deponiranju njihove listine o sprejetju. Sprememba zavezuje samo tiste države pogodbenice, ki jo sprejmejo.
