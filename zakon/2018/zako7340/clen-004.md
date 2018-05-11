@@ -1,0 +1,6 @@
+# 4. člen
+Četrti odstavek 47. člena se spremeni tako, da se glasi:
+"Volivci dajejo podporo zahtevi za razpis referenduma s podpisovanjem na seznamu ali z osebnim podpisovanjem. O načinu dajanja podpore odloči župan z aktom, s katerim določi obrazec seznama ali obrazec za podporo z osebnim podpisovanjem in rok za zbiranje podpisov. Obrazca morata vsebovati jasno izraženo zahtevo za razpis referenduma. Osebno podpisovanje se izvaja na upravni enoti, na območju katere je občina, v kateri se zbirajo podpisi v podporo zahtevi za razpis referenduma. Upravna enota preveri in potrdi tudi pravilnost navedbe osebnih podatkov volivca na seznamu in njegovo volilno pravico. Glede postopka dajanja podpore zahtevi za razpis referenduma z osebnim podpisovanjem se smiselno uporabljajo določbe zakona, ki ureja referendum in ljudsko iniciativo.".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"Volivci lahko dajo svojo podporo zahtevi za razpis referenduma tudi preko enotnega državnega portala eUprava s kvalificiranim elektronskim podpisom. Za oddajo podpore zahtevi preko enotnega državnega portala eUprava se uporabljajo določbe zakona, ki ureja referendum in ljudsko iniciativo.".
+Dosedanji peti odstavek postane šesti odstavek.
