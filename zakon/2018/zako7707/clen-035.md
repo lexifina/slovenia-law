@@ -1,0 +1,2 @@
+# 35. člen (posebni ukrep)
+Ne glede na določbe zakona, ki ureja inšpekcijski nadzor, lahko inšpektor zavezancem le v skrajnem primeru in upoštevaje pomen področij iz drugega odstavka 5. člena tega zakona oziroma njihovega sistema ter dejavnosti, prepove uporabo tega sistema ali njegovega dela, dokler ni ugotovljena pomanjkljivost odpravljena in če s tem ukrepom ni ogrožena zanesljivost oskrbe na posameznem področju oziroma zagotavljanje njihovih storitev.
