@@ -1,5 +1,5 @@
 # 7. člen
-Način dela odbora se uredi s pravilnikom o delu odbora (v nadaljnjem besedilu: pravilnik), ki ga izda minister, pristojen za znanost po predhodnem mnenju odbora. Pravilnik določa zlasti:
+Način dela odbora se uredi s pravilnikom o delu odbora (v nadaljnjem besedilu: pravilnik), ki ga izda minister, pristojen za gospodarstvo po predhodnem mnenju odbora. Pravilnik določa zlasti:
 - pravice, dolžnosti in način delovanja odbora,
 - obliko in vsebino javnega razpisa za zbiranje prijav,
 - obliko, material in znake na skulpturi ter vsebino listine iz 5. člena tega zakona,
