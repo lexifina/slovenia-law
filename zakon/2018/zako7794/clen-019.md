@@ -1,0 +1,5 @@
+# 19. člen
+V drugem odstavku 107. člena se prva alineja spremeni tako, da se glasi:
+"- ministrstva, pristojnega za notranje zadeve - podatke o osebi iz centralnega registra prebivalstva (osebno ime, EMŠO, državljanstvo, stalno ali začasno prebivališče (od-do) za celoten čas trajanja štipendijskega razmerja, naslov za vročanje, zakonski stan, sprememba osebnega imena, datum smrti, podatke o izdanem dovoljenju za prebivanje tujca, serijska številka dovoljenja, vrsta dovoljenja, razlog in namen izdaje, datum izdaje in rok veljavnosti, podatek o tem, ali je dovoljenje za prebivanje veljavno ali je prenehalo veljati);".
+V drugem odstavku se v drugi alineji za besedilom "področje izobraževanja po KLASIUS, letnik" dodata vejica in besedilo "povprečna ocena), podatke o vključenosti študentov v študentske domove (osebno ime in EMŠO študenta, podatek o subvencioniranem bivanju".
+V drugem odstavku se v osmi alineji pred zaklepajem doda besedilo "za celoten čas trajanja štipendijskega razmerja in izpolnjevanja obveznosti iz štipendijskega razmerja".

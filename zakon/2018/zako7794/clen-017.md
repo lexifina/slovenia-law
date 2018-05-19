@@ -1,0 +1,5 @@
+# 17. člen
+Prvi odstavek 99. člena se spremeni tako, da se glasi:
+"(1) V primeru prenehanja štipendijskega razmerja je štipendist dolžan vrniti štipendijo za letnik, ki ga ni uspešno zaključil, razen če ga ni zaključil iz opravičljivih razlogov iz prvega odstavka 87. člena tega zakona. Znesek za vračilo se preračuna skladno z gibanjem indeksa cen življenjskih potrebščin, razen v primeru iz pete alineje 97. člena tega zakona, ko je štipendist dolžan vrniti štipendijo skupaj s pogodbenimi obrestmi, pri čemer je obrestna mera za izračun pogodbenih obresti enaka zamudnim obrestim.".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Če štipendist ne zaključi obveznosti izobraževalnega programa v roku iz druge alineje 92. člena tega zakona, mora vrniti štipendije, prejete za zaključni letnik izobraževalnega programa ali za dodatno študijsko leto po izteku izobraževalnega programa, če je bil v dodatnem letu upravičen do štipendije. Štipendist ni dolžan vrniti prejetih zneskov štipendije, ki so mu bili izplačani za ponavljanje letnika iz opravičljivih razlogov iz prvega odstavka 87. člena tega zakona, ne glede na to, ali je letnik uspešno zaključil.".
