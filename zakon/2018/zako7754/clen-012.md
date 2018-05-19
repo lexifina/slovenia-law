@@ -1,0 +1,7 @@
+# 12. člen
+57.c člen se spremeni tako, da se glasi:
+"57.c člen
+(1) Če je pogodba o paketnem potovanju sklenjena po telefonu, organizator potovanja in prodajalec potovanja, kadar se turistični paket prodaja prek njega, potrošniku zagotovita standardne informacije na obrazcu iz četrtega odstavka tega člena in informacije iz 1. do 8. točke prvega odstavka prejšnjega člena.
+(2) Pri turističnih paketih, ki se kupijo pri različnih podjetjih prek povezanih postopkov spletne rezervacije, pri katerih podjetje, s katerim je bila sklenjena prva pogodba, drugemu ali drugim podjetjem posreduje ime potrošnika, njegov elektronski naslov in podatke o plačilu ter je pogodba z drugim ali drugimi podjetji sklenjena najpozneje 24 ur po potrditvi rezervacije prve potovalne storitve, organizator potovanja in podjetje, ki so mu bili podatki posredovani, zagotovita, da vsak od njiju potrošniku posreduje informacije iz 1. do 8. točke prvega odstavka prejšnjega člena, če so povezane s potovalnimi storitvami, ki jih ponujata, pred sklenitvijo pogodbe o paketnem potovanju oziroma preden potrošnika zavezuje ponudba. Organizator potovanja hkrati potrošniku zagotovi standardne informacije na obrazcu iz četrtega odstavka tega člena.
+(3) Informacije iz prvega in drugega odstavka tega člena morajo biti podane na jasen, razumljiv in viden način. Kadar so podane v pisni obliki, se navedejo čitljivo.
+(4) Obrazec za standardne informacije iz prvega in drugega odstavka tega člena predpiše minister, pristojen za varstvo potrošnikov.".

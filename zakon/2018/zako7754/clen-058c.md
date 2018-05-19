@@ -1,0 +1,6 @@
+# 58.c člen
+(1) Nacionalna kontaktna točka lahko v primeru dvoma od druge države članice, v kateri ima organizator potovanja sedež, zahteva pojasnila glede njegovega jamstva v primeru likvidnostnih težav.
+(2) Če nacionalna kontaktna točka prejme zahtevo za pojasnila iz prejšnjega odstavka od pristojnega organa druge države članice Evropske unije, na prejeto zahtevo odgovori brez nepotrebnega odlašanja ob upoštevanju nujnosti in zahtevnosti zadeve oziroma najpozneje v 15 delovnih dneh od prejema zahteve.
+58.č člen
+(1) Podjetja, ki omogočajo povezane potovalne aranžmaje, zagotovijo jamstvo za povračilo vseh plačil potrošnikov, če potovalna storitev, ki je del povezanega potovalnega aranžmaja, ni izvedena zaradi njihovih likvidnostnih težav. Če je podjetje, ki omogoča povezane potovalne aranžmaje, odgovorno tudi za prevoz potrošnikov, jamstvo krije tudi povratek potrošnikov.
+(2) Glede zagotavljanja jamstva v primeru likvidnostnih težav podjetij, ki omogočajo povezane potovalne aranžmaje, se smiselno uporabljajo določbe četrtega odstavka 58. člena in 58.a do 58.c člena tega zakona o odgovornosti organizatorja potovanja, obsegu in učinkovitosti jamstva, vzajemnem priznavanju, nacionalni kontaktni točki in upravnem sodelovanju.".
