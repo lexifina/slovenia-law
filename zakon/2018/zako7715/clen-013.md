@@ -1,0 +1,7 @@
+# 13. člen
+14. člen se spremeni tako, da se glasi:
+"14. člen
+(javno zasebno partnerstvo za razvoj javne železniške infrastrukture)
+(1) Gradnja in nadgradnja javne železniške infrastrukture, predvidena s strategijo razvoja, se lahko zagotovi tudi v obliki javno-zasebnega partnerstva ali s podelitvijo koncesije za gradnje v skladu z določili področne zakonodaje in tega zakona. Pod enakimi pogoji mora biti zagotovljen prost dostop do železniške infrastrukture in stopnja varnosti železniškega prometa, kot velja za obstoječo javno železniško infrastrukturo, zasebni partner oziroma koncesionar pa mora izpolnjevati pogoje iz 11.c in 11.č člena tega zakona, če opravlja svojo dejavnost znotraj vertikalno integriranega podjetja.
+(2) V javno-zasebnem partnerstvu ali v primeru podelitve koncesije za gradnje, pri čemer je predmet nadgradnja obstoječega železniškega omrežja ali gradnja nove proge, se zagotovi funkcija upravljavca javne železniške infrastrukture tako, da zasebni partner oziroma koncesionar v obdobju trajanja javno-zasebnega partnerstva oziroma koncesije prevzame odgovornost za opravljanje nalog upravljavca, za poslovne učinke gospodarjenja in za poslovno tveganje v zvezi s predmetom koncesije.
+(3) Vlada v aktu o javno-zasebnem partnerstvu oziroma koncesijskem aktu na predlog ministrstva določi predmet javno-zasebnega partnerstva oziroma koncesije, uredi pravice in obveznosti zasebnega partnerja oziroma koncesionarja ter določi predvideni način financiranja in druga finančna razmerja.".

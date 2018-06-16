@@ -1,0 +1,4 @@
+# 40. člen
+(1) Vlada uskladi akt o ustanovitvi Javne agencije za železniški promet Republike Slovenije in akt o ustanovitvi Agencije za komunikacijska omrežja in storitve Republike Slovenije, s tem zakonom v 90 dneh od uveljavitve tega zakona.
+(2) Agencija in regulatorni organ šest mesecev od uveljavitve akta iz prejšnjega odstavka začneta izvajati naloge iz tretjega in četrtega odstavka 24.b člena zakona in naloge prekrškovnega organa po zakonu. Do začetka izvajanja nadzora in nalog prekrškovnega organa s strani agencije in regulatornega organa, inšpekcijski nadzor in naloge prekrškovnega organa po zakonu izvaja inšpektorat, pristojen za železniški promet.
+(3) Inšpektorat, pristojen za železniški promet, je dolžan vse postopke, začete pred uveljavitvijo tega zakona, dokončati po dosedanjih predpisih.
