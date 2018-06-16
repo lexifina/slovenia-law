@@ -1,7 +1,0 @@
-# 57. člen
-(1) Postopki, ki so se začeli pred uveljavitvijo tega zakona, se končajo po dosedanjih predpisih.
-(2) Postopki, ki so se začeli na podlagi 116. člena Zakona o varnosti v železniškem prometu (Uradni list RS, št. 36/10 - uradno prečiščeno besedilo in 60/11), se nadaljujejo v skladu s tem zakonom.
-(3) Projektna dokumentacija, gradnje, nadgradnje ali obnove javne železniške infrastrukture, ki se izdelujejo ali izvajajo na podlagi državnega prostorskega načrta, občinskega prostorskega načrta ali občinskega podrobnega prostorskega načrta, ki so bili sprejeti pred uveljavitvijo tega zakona, se dokončajo v skladu z navedenimi prostorskimi akti.
-(4) Do imenovanja imenovanega organa po nacionalnih predpisih iz 19.a in 19.b člena zakona, se postopki verifikacije podsistemov ali delov podsistemov v skladu z nacionalnimi predpisi izvajajo v skladu z določbami tretjega odstavka 14. člena Zakona o varnosti v železniškem prometu (Uradni list RS, št. 61/07, 21/10 in 60/11).
-(5) Postopki strokovnega usposabljanja izvršilnih železniških delavcev in izvršilnih železniških delavcev na industrijskih tirih se do določitve subjekta usposabljanja, subjekta preverjanja in ocenjevalcev iz 74. člena zakona izvajajo v skladu z določbami Zakona o varnosti v železniškem prometu (Uradni list RS, št. 36/10 - uradno prečiščeno besedilo in 60/11).
-(6) Javni poziv za oddajo vlog za imenovani organ, subjekte usposabljanja in subjekte preverjanja ocenjevalcev iz četrtega in petega odstavka tega člena mora objaviti varnostni organ v roku enega leta od uveljavitve tega zakona.

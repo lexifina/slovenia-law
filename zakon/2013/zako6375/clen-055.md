@@ -1,2 +1,0 @@
-# 55. člen
-Ne glede na določbo drugega odstavka 4. člena Zakona o spremembah in dopolnitvah Zakona o varnosti v železniškem prometu (Uradni list RS, št. 60/11) mora biti pogoj opremljenosti vlečnih vozil s stroboskopskimi lučmi iz četrtega odstavka 71. člena zakona izpolnjen najkasneje v dveh letih po pridobitvi pisnega pozitivnega mnenja Evropske železniške agencije o skladnosti in ustreznosti te zahteve s tehničnimi specifikacijami za interoperabilnost, ki urejajo podsistem tirna vozila.

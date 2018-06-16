@@ -1,6 +1,0 @@
-# 38. člen
-Za šestim odstavkom 52. člena se dodajo novi sedmi, osmi, deveti in deseti odstavek, ki se glasijo:
-"(7) Če je gradnja, rekonstrukcija ali obnova ceste ali druge javne infrastrukture nujna posledica gradnje, nadgradnje, obnove ali odstranitve javne železniške infrastrukture, se gradnja, rekonstrukcija ali obnova ceste ali druge javne infrastrukture lahko sofinancira iz sredstev za gradnjo, nadgradnjo ali obnovo javne železniške infrastrukture.
-(8) V primeru ukinitve nivojskega prehoda, v delu ki je sestavni del javne železniške infrastrukture, in je nujna posledica gradnje ali rekonstrukcije cestne infrastrukture, se ukinitev nivojskega prehoda lahko sofinancira iz sredstev javne železniške infrastrukture.
-(9) Razmejitev obveznosti med investitorji iz sedmega in osmega odstavka tega člena ter upravljavci posamezne infrastrukture se podrobneje uredi s pogodbo.
-(10) Cesto ali drugo javno infrastrukturo, ki se v skladu s tem členom gradi v okviru projekta gradnje, nadgradnje, obnove ali odstranitve javne železniške infrastrukture mora po njeni končani izgradnji prevzeti v upravljanje in vzdrževanje upravljavec ceste ali druge javne infrastrukture. Če je ne prevzame v upravljanje oziroma vzdrževanje, mora investitorju javne železniške infrastrukture povrniti vsa vložena finančna sredstva in vso s tem nastalo škodo.".

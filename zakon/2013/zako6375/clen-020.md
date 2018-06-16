@@ -1,8 +1,0 @@
-# 20. člen
-Za 17.f členom se dodata nova 17.g in 17.h člen, ki se glasita:
-"17.g člen
-(certifikacijski organ)
-(1) Certifikacijski organ je akreditirani oziroma varnostni organ.
-(2) Certifikacijski organ vsaj enkrat letno izvede nadzor pri subjektu, zadolženem za vzdrževanje tovornih vagonov, da preveri ali še vedno izpolnjuje merila iz Priloge III Uredbe 445/2011/EU oziroma izpolnjuje merila iz devetega odstavka 17.f člena tega zakona.
-(3) Če certifikacijski organ ugotovi, da subjekt, zadolžen za vzdrževanje, ne izpolnjuje zahtev, na podlagi katerih je bilo izdano spričevalo subjekta, zadolženega za vzdrževanje, se s subjektom, zadolženim za vzdrževanje, dogovori o načrtu za izboljšanje ali omeji področje uporabe spričevala ali začasno odvzame spričevalo, odvisno od stopnje neizpolnjevanja. V primeru dolgotrajnega neizpolnjevanja zahtev v zvezi s spričevalom ali morebitnega načrta za izboljšanje, certifikacijski organ omeji področje uporabe spričevala subjekta, zadolženega za vzdrževanje, ali razveljavi spričevalo subjekta, zadolženega za vzdrževanje.
-(4) Zoper spričevalo certifikacijskega organa je dopustna pritožba na ministrstvo.
