@@ -1,4 +1,0 @@
-# 7. člen
-Besedilo 8. člena se spremeni tako, da se glasi:
-"(1) Sestavine TSI na primeren način zagotavljajo združljivost z obstoječim železniškim sistemom. S tem namenom se lahko za vsak sklop TSI predvidijo posebni primeri, če pa nekaterih tehničnih vidikov, ki ustrezajo bistvenim zahtevam, ni mogoče izrecno zajeti s TSI, se navedejo v prilogi k TSI kot odprta vprašanja.
-(2) TSI se lahko sklicujejo na evropske standarde ali specifikacije ali tehnične dokumente, ki jih objavi Evropska železniška agencija, če je to potrebno za doseganje ciljev interoperabilnosti. V teh primerih se evropski standardi, specifikacije ali tehnični dokumenti ali njihovi deli obravnavajo kot priloge k TSI in postanejo obvezni z začetkom veljavnosti TSI. Če evropskih standardov, specifikacij ali tehničnih dokumentov ni, se je do njihove izdelave možno sklicevati na jasno prepoznavne normativne dokumente, ki so dostopni in v javni uporabi.".

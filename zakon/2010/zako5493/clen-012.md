@@ -1,6 +1,0 @@
-# 12. člen
-15. člen se spremeni tako, da se glasi:
-"15. člen
-(ES-izjava o verifikaciji)
-(1) ES-izjava o verifikaciji je dokument, ki ga na podlagi potrdila o verifikaciji pripravi naročnik in je pogoj za pridobitev uporabnega dovoljenja, če gre za gradnjo, za katero je treba pridobiti gradbeno dovoljenje, oziroma pogoj za izdajo obratovalnega dovoljenja, če gre za gradnjo ali dela, za katera gradbeno dovoljenje ni potrebno. Za podsisteme, ki imajo ES-izjavo o verifikaciji, se šteje, da so interoperabilni in da izpolnjujejo bistvene zahteve, ki veljajo zanje.
-(2) Vsebina ES-izjave o verifikaciji podsistema je določena v Prilogi V Direktive 2008/57/ES.".

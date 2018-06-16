@@ -1,4 +1,0 @@
-# 67. člen
-(1) Obstoječi objekti, ki se nahajajo v progovnem pasu železniških prog in ne izpolnjujejo pogojev iz 45. člena zakona, se smejo vzdrževati ali obnavljati samo v obsegu in na način, da se gabariti objektov ne povečajo. Pred pričetkom del morajo lastniki takih objektov pridobiti soglasje upravljavca, ki mora ob tem preveriti, ali se na tem območju načrtujejo večji posegi v progo ali progovni pas, ki bi zahtevali odstranitev objekta, kar mora upoštevati pri izdaji oziroma zavrnitvi soglasja.
-(2) Upravljavec je dolžan v devetih mesecih od uveljavitve tega zakona pripraviti seznam objektov iz prejšnjega odstavka. Seznam mora vsebovati vrsto in lastnika objekta, položaj objekta z navedbo kilometraže na progi, odmik od osi tira, namembnost, parcelno številko in katastrsko občino objekta.
-(3) Upravljavec si mora prizadevati, da bi se objekti iz prvega odstavka tega člena ob večjih posegih v progo ali progovni pas odstranili iz progovnega pasu.
