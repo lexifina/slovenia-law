@@ -1,5 +1,0 @@
-## 6. Notranji nadzor
-# 88. člen (organiziranost in izvajanje notranjega nadzora)
-(1) Upravljavec in prevozniki morajo organizirati notranji nadzor in trajno skrbeti za varen železniški promet skladno s tem zakonom, na njegovi podlagi izdanimi predpisi in splošnimi akti. Upravljavec in prevozniki s splošnim aktom določijo organiziranost tega nadzora ter pooblaščene delavce za njegovo izvajanje.
-(2) Organ notranjega nadzora mora v primerih iz četrtega odstavka 74. člena, 80. člena, prvega odstavka 83. člena, prvega in drugega odstavka 84. člena in 86. člena odstraniti delavca z dela in odrediti izredno preverjanje strokovne usposobljenosti, če pa obstaja sum o telesnih ali duševnih zmožnostih delavca, mora odrediti izredni zdravstveni pregled. Začasno opravljanje drugega dela v tem času je obveznost delavca, ki traja do ugotovitve o strokovni usposobljenosti oziroma zdravstveni zmožnosti delavca, ki se mora izvesti najpozneje v enem mesecu.
-(3) Ugovor zoper odločbo organa notranjega nadzora, s katero je delavcu na podlagi prejšnjega odstavka odrejeno izredno preverjanje strokovne usposobljenosti ali izredni zdravstveni pregled, ne zadrži izvršitve.

@@ -1,3 +1,0 @@
-# 58. člen (varnostni ukrepi na elektrificiranih progah)
-(1) Na elektrificiranih progah, kjer obstaja nevarnost poškodb zaradi električnega toka, je treba izvesti varnostne ukrepe v skladu s predpisom, ki ga izda minister.
-(2) Električno omrežje mora biti izvedeno tako, da njegovi škodljivi vplivi ne vplivajo na varno delovanje telekomunikacijskih in signalnovarnostnih naprav ali na dele ostalih naprav, ki so v neposredni bližini električnega omrežja. Minister v predpisih za posamezne naprave natančneje določi način izvedbe električnega omrežja in ukrepe, s katerimi se preprečijo škodljivi vplivi na posamezne naprave ali njihove dele.
