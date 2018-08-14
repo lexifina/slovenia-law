@@ -1,0 +1,3 @@
+# 6. člen (obseg nadomestitve)
+
+Negativne finančne posledice iz prvega odstavka prejšnjega člena nadomesti Sklad banki v višini zneska, ki je bil prisilno izpolnjen, in sicer znesek glavnice, pripadajočih obresti, sodnih, odvetniških in drugih stroškov nasprotne stranke, stroškov prisilnega poplačila in zneske pripadajočih obresti od navedenega. Če je bila prisilna izpolnitev opravljena v valuti, ki ni valuta Republike Slovenije, Sklad povrne banki znesek v valuti Republike Slovenije v protivrednosti zneska prisilne izpolnitve, preračunani po referenčnem tečaju Evropske centralne banke na dan, ko je bila prisilna izpolnitev opravljena.
