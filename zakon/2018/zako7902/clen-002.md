@@ -1,0 +1,5 @@
+## PREHODNI IN KONČNA DOLOČBA
+# 2. člen (način dokončanja postopkov za pridobitev denarne socialne pomoči oziroma varstvenega dodatka)
+(1) Postopki za uveljavljanje pravice do denarne socialne pomoči oziroma varstvenega dodatka, ki so se začeli pred začetkom uporabe tega zakona, se dokončajo po določbah Zakona o socialno varstvenih prejemkih (Uradni list RS, št. 61/10, 40/11, 14/13, 99/13, 90/15, 88/16 in 31/18).
+(2) Ne glede na prejšnji odstavek se postopki ugotavljanja upravičenosti do denarne socialne pomoči in varstvenega dodatka na podlagi vloženih vlog na prvi stopnji decembra 2018 dokončajo po tem zakonu.
+(3) Upravičencem, ki imajo odločbo o priznanju pravice do denarne socialne pomoči oziroma varstvenega dodatka, s katero jim je bila pravica priznana za obdobje tudi po 1. januarju 2019 in je bilo hkrati odločeno, da se bo za čas od 1. januarja 2019 višina pravice določila z dopolnilno odločbo, se dopolnilna odločba ne izda, ampak se šteje, da je bil priznani znesek pravice za obdobje do 31. decembra 2018 določen za celotno obdobje priznane pravice.
