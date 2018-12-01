@@ -1,0 +1,3 @@
+# 15. člen
+Drugi odstavek 125. člena se spremeni tako, da se glasi:
+"(2) Davčni zavezanec, ki nima sedeža znotraj Unije, mora v prijavi iz prvega odstavka tega člena, ki jo predloži davčnemu organu ob začetku opravljanja telekomunikacijskih storitev, storitev oddajanja in elektronskih storitev, navesti naslednje podatke za identifikacijo: ime, poštni naslov, elektronski naslov, vključno z naslovi internetnih strani, nacionalno davčno številko, če jo ima, in izjavo, da znotraj Unije nima niti sedeža niti stalne poslovne enote. Davčni zavezanec je dolžan davčnemu organu sporočiti tudi vse spremembe posredovanih podatkov za identifikacijo.".
