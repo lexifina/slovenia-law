@@ -1,0 +1,6 @@
+# 12. člen
+Naslov 164. člena se spremeni tako, da se glasi: "(uporaba ZTFI-1 in EU predpisov)".
+V prvem odstavku se besedilo "34. člena, 200. do 204. člen, 206. do 219. člen, 221. do 239. člen in 243. do 269. člen ZTFI" nadomesti z besedilom "62. člena, 235. do 241. člen, 245. do 260. člen, 262. do 280. člen in 284. do 309. člen ZTFI-1".
+V drugem odstavku se kratica "ZTFI" nadomesti s kratico "ZTFI-1".
+Tretji odstavek se spremeni tako, da se glasi:
+"(3) Upravljavec AIS, ki opravlja storitve iz prvega odstavka prejšnjega člena, poroča Agenciji v skladu s 24. do 27. členom Uredbe (EU) št. 600/2014 Evropskega parlamenta in Sveta z dne 15. maja 2014 o trgih finančnih instrumentov ter spremembi Uredbe (EU) št. 648/2012 (UL L št. 173 z dne 12. 6. 2014, str. 84), zadnjič spremenjene z Delegirano uredbo Komisije (EU) 2017/2417 z dne 17. novembra 2017 o dopolnitvi Uredbe (EU) št. 600/2014 Evropskega parlamenta in Sveta o trgih finančnih instrumentov v zvezi z regulativnimi tehničnimi standardi o obveznosti trgovanja za določene izvedene finančne instrumente (UL L št. 343 z dne 22. 12. 2017, str. 48).".
