@@ -8,4 +8,5 @@ Proračunski skladi v letih 2018 in 2019 so:
 5. podračun, ustanovljen na podlagi 128. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 - uradno prečiščeno besedilo, 49/06 - ZMetD, 66/06 - odl. US, 33/07 - ZPNačrt, 57/08 - ZFO-1A, 70/08, 108/09, 108/09 - ZPNačrt-A, 48/12, 57/12, 92/13, 56/15, 102/15 in 30/16);
 6. podračun, ustanovljen na podlagi 162. člena Zakona o vodah (Uradni list RS, št. 67/02, 2/04 - ZZdrI-A, 41/04 - ZVO-1, 57/08, 57/12, 100/13, 40/14 in 56/15);
 7. podračun, ustanovljen na podlagi prvega odstavka 33. člena ZGGLRS;
-8. podračun, ustanovljen na podlagi tretjega odstavka 79. člena ZSDH-1.
+8. podračun, ustanovljen na podlagi tretjega odstavka 79. člena ZSDH-1;
+9. podračun, ustanovljen na podlagi prvega odstavka 28. člena ZNOrg.
