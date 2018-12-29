@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o postopnem zapiranju Rudnika Trbovlje- Hrastnik in razvojnem prestrukturiranju regije (Uradni list RS, št. 26/05 - uradno prečiščeno besedilo, 43/10, 49/10 - popr., 40/12 - ZUJF, 25/14, 46/14 in 82/15) se v 2. členu prva alineja spremeni tako, da se glasi:
+"- za dokončanje vseh zapiralnih del, izvedbo dokončne sanacije okolja in vložitev zahteve za izdajo odločbe o prenehanju pravic in obveznosti rudarske pravice za izkoriščanje na celotnem pridobivalnem prostoru Trbovlje-Hrastnik do 31. decembra 2019 ter za izvedbo postopka za izdajo odločbe o ukinitvi pravic in obveznosti in likvidacijo Rudnika Trbovlje- Hrastnik, d.o.o. do 31. decembra 2020;".
