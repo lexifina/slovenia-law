@@ -1,0 +1,13 @@
+# 76. člen
+Besedilo 119. člena se spremeni tako, da se glasi:
+"(1) Akti iz 136. člena tega zakona se subjektu nadzora, ki je pravna oseba oziroma samostojni podjetnik posameznik, vročajo prek informacijskega sistema Finančne uprave Republike Slovenije (v nadaljnjem besedilu: portal eDavki).
+(2) Vročitve članom uprave pravne osebe se opravljajo z vročanjem pravni osebi prek portala eDavki. Šteje se, da je z vročitvijo pravni osebi opravljena tudi vročitev članom uprave.
+(3) Kadar subjekt nadzora zastopa odvetnik, se šteje, da mu je vročitev opravljena, če je dokument prek portala eDavki vročen odvetniku.
+(4) Revizijskim družbam in pooblaščenim revizorjem se vročitev opravi prek portala eDavki. Pooblaščenim revizorjem, zaposlenim v revizijskih družbah, se elektronska vročitev opravi z vročitvijo prek portala eDavki delodajalcu, revizijski družbi oziroma podjetju v mreži.
+(5) Subjektu nadzora, ki ni oseba iz prvega, drugega, tretjega oziroma četrtega odstavka tega člena, se dokumenti vročajo v skladu z zakonom, ki ureja splošni upravni postopek.
+(6) Agencija posreduje dokument, ki ga je treba vročiti, Finančni upravi Republike Slovenije, ki dokument vroči v skladu z zakonom, ki ureja davčni postopek.
+(7) Agencija posreduje dokument, ki ga je treba vročiti, Finančni upravi Republike Slovenije, ki ga odloži v portal eDavki in prek njega obvesti subjekt nadzora, da je prejel dokument, ki mu ga je treba vročiti. Informativno sporočilo o elektronsko odloženem dokumentu subjekt nadzora prejme tudi na elektronski naslov, če ga je sporočil Finančni upravi Republike Slovenije za namen elektronskega vročanja.
+(8) Subjekt nadzora dokument prevzame s portala eDavki tako, da z uporabo kvalificiranega digitalnega potrdila dokaže svojo istovetnost in prevzame dokument v elektronski obliki ter elektronsko podpiše vročilnico.
+(9) Vročitev velja za opravljeno z dnem, ko subjekt nadzora z elektronskim podpisom vročilnice prevzame dokument. Če dokumenta ne prevzame v 15 dneh od dneva, ko mu je bilo obvestilo puščeno prek portala eDavki, velja vročitev za opravljeno z dnem preteka tega roka. Portal eDavki dokument po preteku šestih mesecev od dneva vročitve izbriše in naslovniku pošlje elektronsko sporočilo, da je dokument izbrisan s portala eDavki in ga lahko subjekt nadzora prevzame pri Agenciji.
+(10) Če ima subjekt nadzora pooblaščenca za vročanje, se dokument temu vroči tako, da se odloži na portal eDavki, pooblaščencu za vročanje pa se pošlje informativno sporočilo iz sedmega odstavka tega člena. Glede vročitve dokumenta pooblaščencu za vročanje se uporabljata sedmi in osmi odstavek tega člena.
+(11) Skladno z določbami tega člena lahko Agencija subjektom nadzora vroča tudi druga pisanja.".

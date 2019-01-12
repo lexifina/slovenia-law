@@ -1,0 +1,3 @@
+# 109. člen (uskladitev firme)
+(1) Agencija v 60 dneh od uveljavitve tega zakona pozove osebe, ki nimajo dovoljenja za opravljanje storitev revidiranja, imajo pa v firmi besedo revizija ali izpeljanke iz te besede, da svojo firmo uskladijo z novim 72.a členom zakona. Uskladitev firme mora biti opravljena ob prvem vpisu v sodni register in najkasneje v šestih mesecih od vročitve poziva Agencije.
+(2) Če gospodarska družba tudi po pravnomočno zaključenem prekrškovnem postopku ne uskladi svoje firme s šestim odstavkom novega 72.a člena zakona, je to razlog za likvidacijo gospodarske družbe ob smiselni uporabi novega 84.c člena zakona.

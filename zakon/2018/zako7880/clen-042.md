@@ -1,0 +1,8 @@
+# 42. člen
+Besedilo 61. člena se spremeni tako, da se glasi:
+"(1) Pooblaščeni revizorji, revizijske družbe, revizijska podjetja in revizijski subjekti tretjih držav so imetniki delnic revizijske družbe z vsaj 75 odstotki glasovalnih pravic.
+(2) Če Agencija osebi iz prejšnjega odstavka odvzame dovoljenje za opravljanje nalog pooblaščenega revizorja oziroma dovoljenje za opravljanje storitev revidiranja, oseba ne sme izvrševati upravljavskih pravic iz delnic, katerih imetnik je, do vzpostavitve stanja iz prejšnjega odstavka.
+(3) Če oseba iz prvega odstavka tega člena odtuji delnice tretji osebi, ki ni oseba iz prvega odstavka tega člena, tako da zaradi tega osebe iz prvega odstavka tega člena nimajo več 75 odstotkov glasovalnih pravic, imetnik iz delnic, s pridobitvijo katerih je kršena določba prvega odstavka tega člena, ne sme izvrševati upravljavskih pravic iz delnic do vzpostavitve stanja iz prvega odstavka tega člena.
+(4) V primeru iz drugega ali tretjega odstavka tega člena izda Agencija odločbo, s katero odloči, da imetnik delnic ne sme izvrševati upravljavskih pravic iz delnic do vzpostavitve stanja iz prvega odstavka tega člena.
+(5) Pred izdajo odločbe iz prejšnjega odstavka da Agencija imetniku delnic rok, ki ne sme biti krajši od osem dni in ne daljši od 15 dni, da se izjasni o razlogih.
+(6) Revizijski subjekt tretje države je po prvem odstavku tega člena lahko imetnik delnic samo, če so po pravu države sedeža revizijskega subjekta tretje države revizijske družbe s sedežem v Republiki Sloveniji, ki imajo za opravljanje storitev revidiranja dovoljenje Agencije, lahko imetniki delnic revizijskega subjekta v državi sedeža revizijskega subjekta tretje države.".

@@ -1,0 +1,4 @@
+# 106. člen (nedokončani postopki nadzora)
+(1) Postopki nadzora, ki so začeti pred uveljavitvijo tega zakona in do uveljavitve tega zakona še niso dokončani, se zaključijo po določbah do sedaj veljavnega zakona in na njegovi podlagi izdanih predpisov.
+(2) Za ponavljajoče kršitve iz osme alineje prvega odstavka spremenjenega 84. člena in tretje alineje drugega odstavka 99. člena zakona se štejejo tudi pravnomočno izrečeni opomini in pogojni odvzemi, izrečeni po določbah do sedaj veljavnega zakona.
+(3) Petletni rok za ponovno pridobitev dovoljenja iz četrtega odstavka spremenjenega 48. člena zakona, za ponovno pridobitev dovoljenja oseb, ki jim je bilo pravnomočno odvzeto dovoljenje za opravljanje nalog pooblaščenega revizorja skladno z določbami do sedaj veljavnega zakona, se šteje od pravnomočnosti odločbe o odvzemu dovoljenja.
