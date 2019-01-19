@@ -1,0 +1,3 @@
+Republika Slovenija in Republika Makedonija v želji, da bi nadgradili medsebojne odnose na področju socialnega zavarovanja, skleneta naslednji Sporazum o spremembi in dopolnitvi Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo (v nadaljevanju: sporazum o socialnem zavarovanju), podpisanega v Ljubljani 13. julija 1998:
+
+Pristojni organi Republike Slovenije in Republike Makedonije sklenejo naslednji Sporazum o spremembi Administrativnega sporazuma o izvajanju Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo (v nadaljevanju: sporazum), podpisanega v Ljubljani 13. julija 1998:
