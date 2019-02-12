@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificirata se spremenjeni Priloga I in Priloga II k Pogodbi o ustanovitvi Evropskega mehanizma za stabilnost med Kraljevino Belgijo, Zvezno republiko Nemčijo, Republiko Estonijo, Irsko, Helensko republiko, Kraljevino Španijo, Francosko republiko, Italijansko republiko, Republiko Ciper, Republiko Latvijo, Republiko Litvo, Velikim vojvodstvom Luksemburg, Malto, Kraljevino Nizozemsko, Republiko Avstrijo, Portugalsko republiko, Republiko Slovenijo, Slovaško Republiko in Republiko Finsko, ki ju je sprejel Svet guvernerjev Evropskega mehanizma za stabilnost v Luksemburgu 17. decembra 2018.
