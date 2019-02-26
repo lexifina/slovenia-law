@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o raziskovalni in razvojni dejavnosti (Uradni list RS, št. 22/06 - uradno prečiščeno besedilo, 61/06 - ZDru-1, 112/07, 9/11, 57/12 - ZPOP-1A in 21/18 - ZNOrg) se v 1. členu drugi odstavek spremeni tako, da se glasi:
+"S tem zakonom se v pravni red Republike Slovenije prenese Direktiva (EU) 2016/801 Evropskega parlamenta in Sveta z dne 11. maja 2016 o pogojih za vstop in prebivanje državljanov tretjih držav za namene raziskovanja, študija, opravljanja pripravništva, prostovoljskega dela, programov izmenjave učencev ali izobraževalnih projektov in dela varušk au pair (UL L št. 132 z dne 21. 5. 2016, str. 21).".
