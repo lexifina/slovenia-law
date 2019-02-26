@@ -1,0 +1,3 @@
+# 24. člen
+V 184. členu se za sedmim odstavkom doda nov osmi odstavek, ki se glasi:
+"(8) Glede prilagoditve za nestanovitnost krivulje netvegane obrestne mere iz tega člena se prilagoditev za nestanovitnost ne uporablja pri obveznostih, kadar krivulja netvegane obrestne mere za izračun najboljše ocene portfelja teh obveznosti vključuje uskladitveno prilagoditev krivulje netvegane obrestne mere iz 182. člena tega zakona. Prilagoditev za nestanovitnost krivulje netvegane obrestne mere se ne uporablja za valute in nacionalne trge, za katere prilagoditev za nestanovitnost krivulje netvegane obrestne mere ni določena v izvedbenih tehničnih standardih Evropske komisije.".

@@ -1,0 +1,2 @@
+# 145. člen (zastopniki dopolnilnih zavarovanj)
+Za osebe, ki so na podlagi četrtega odstavka 227. člena Zakona o zavarovalništvu (Uradni list RS, št. 99/10 - uradno prečiščeno besedilo, 90/12, 56/13, 63/13 - ZS-K in 93/15 - ZZavar-1) ali četrtega odstavka 558. člena Zakona o zavarovalništvu (Uradni list RS, št. 93/15) dobile dovoljenje za opravljanje dejavnosti zavarovalnega zastopanja v povezavi z glavno dejavnostjo, se šteje, da so pridobite dovoljenje iz spremenjenega tretjega odstavka 558. člena zakona kot zastopniki dopolnilnih zavarovanj.

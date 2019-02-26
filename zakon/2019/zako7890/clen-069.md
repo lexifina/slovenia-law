@@ -1,0 +1,9 @@
+# 69. člen
+Besedilo 406. člena se spremeni tako, da se glasi:
+"(1) Če nadzorna ureditev na ravni skupine v tretji državi, kjer ima sedež nadrejena družba, v skladu s 404. členom tega zakona ni enakovredna, opravlja ob smiselni uporabi 356. in 357. člena tega zakona nadzor na ravni skupine Agencija za zavarovalni nadzor.
+(2) Za namen nadzora na ravni skupine, ko ima nadrejena družba sedež v tretji državi, katere nadzorna ureditev na ravni skupine ni enakovredna in opravlja nadzor na ravni skupine Agencija za zavarovalni nadzor ali nadzorni organ druge države članice, se smiselno uporabljajo 357., 362. do 393. in 399. do 403.a člen tega zakona.
+(3) Nadzor na ravni skupine iz prejšnjega odstavka se opravi na ravni zavarovalnega holdinga, mešanega finančnega holdinga ali zavarovalnice tretje države.
+(4) Nadrejena družba s sedežem v tretji državi se pri izračunu solventnosti skupine obravnava kot zavarovalnica, za katero se uporablja 4.9. oddelek tega zakona glede lastnih virov sredstev in če gre za:
+1. zavarovalni holding ali mešani finančni holding tretje države, določbe 386. člena tega zakona glede zahtevanega solventnostnega kapitala;
+2. zavarovalnico tretje države, določbe 387. člena tega zakona glede zahtevanega solventnostnega kapitala.
+(5) Agencija za zavarovalni nadzor lahko v primeru, ko opravlja nadzor na ravni skupine, katere nadrejena družba ima sedež v tretji državi, po predhodnem posvetovanju s člani kolegija določi in uporabi druge ustrezne nadzorne postopke in ukrepe, da se dosežejo cilji nadzora na ravni skupine. Agencija za zavarovalni nadzor lahko zlasti zahteva, da se ustanovi zavarovalni holding ali mešani finančni holding s sedežem v EU in da se ta naslov uporablja za zavarovalnice v skupini, na čelu katere je ta zavarovalni holding ali mešani finančni holding.".

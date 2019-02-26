@@ -1,0 +1,5 @@
+## PREHODNE IN KONČNA DOLOČBA
+# 144. člen (uskladitev bank)
+(1) Dovoljenja Banke Slovenije bankam za opravljanje dejavnosti zavarovalnega posredovanja, ki so veljavna na dan uveljavitve tega zakona, se z dnem uveljavitve tega zakona štejejo za dovoljenja za opravljanje dejavnosti zavarovalnega zastopanja.
+(2) Banke, ki imajo dovoljenje Banke Slovenije za opravljanje dejavnosti zavarovalnega zastopanja, v šestih mesecih od začetka veljavnosti tega zakona uskladijo svoje poslovanje s spremenjenim 561. členom zakona.
+(3) Bančni uslužbenci, ki na dan uveljavitve tega zakona pri banki opravljajo naloge zavarovalnega posrednika in imajo dovoljenje Agencije za zavarovalni nadzor za opravljanje poslov zavarovalnega posredovanja, so oproščeni plačila takse za odločanje o izdaji dovoljenja za opravljanje poslov zavarovalnega zastopanja pod pogoji, da so dovoljenje za zavarovalno posredovanje pridobili v času, ko so bili zaposleni pri tej ali drugi banki in da v šestih mesecih od začetka veljavnosti tega zakona vložijo zahtevo za izdajo dovoljenja za opravljanje poslov zavarovalnega zastopanja ter da so ob vložitvi zahteve zaposleni pri banki.

@@ -1,0 +1,5 @@
+# 39. člen
+V 309. členu se v tretjem odstavku v 3. točki pika nadomesti s podpičjem in doda nova 4. točka, ki se glasi:
+"4. tveganje zavarovalnice, ki uporablja uskladitveno prilagoditev krivulje netvegane obrestne mere iz 182. člena tega zakona ali prilagoditev za nestanovitnost krivulje netvegane obrestne mere iz 184. člena tega zakona ali prehodne ukrepe iz 639. oziroma 640. člena tega zakona, znatno odstopa od predpostavk, ki so podlaga za te prilagoditve oziroma prehodne ukrepe.".
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Agencija za zavarovalni nadzor določi v primeru iz 1. in 2. točke prejšnjega odstavka kapitalski dodatek tako, da upošteva četrti in peti odstavek 203. člena tega zakona. V primeru iz 3. točke prejšnjega odstavka je kapitalski dodatek sorazmeren pomembnim tveganjem, ki nastanejo zaradi pomanjkljivosti, zaradi katerih se je Agencija za zavarovalni nadzor odločila, da določi kapitalski dodatek. V primeru iz 4. točke prejšnjega odstavka je kapitalski dodatek sorazmeren pomembnim tveganjem, ki nastanejo zaradi odstopanja iz navedene točke.".

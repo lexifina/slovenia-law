@@ -1,0 +1,3 @@
+# 101. člen
+V 552. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Kadar zavarovalni posrednik ali zavarovalno posredniška družba deluje po naročilu zavarovalnice, se na zavarovalni polici označi, da je bila zavarovalna pogodba sklenjena s posredovanjem zavarovalnega posrednika. V tem primeru se na zavarovalni polici navedeta osebno ime oziroma firma zavarovalnega posrednika ali zavarovalno posredniške družbe in način prejetega plačila, ki ga je zavarovalni posrednik ali zavarovalno posredniška družba upravičena zahtevati od zavarovalnice za posredovanje pri sklenitvi zavarovalne pogodbe."

@@ -1,0 +1,5 @@
+# 118. člen
+Za 570. členom se doda nov 570.a člen, ki se glasi:
+"570.a člen
+(začasna prepoved opravljanja nalog upravljanja zavarovalno zastopniške družbe ali zavarovalno posredniške družbe)
+Če zavarovalno zastopniška ali zavarovalno posredniška družba ne posluje v skladu z devetim do šestnajstim odstavkom 521., četrtim do osmim odstavkom 522., prvim in drugim odstavkom 524. člena, 527.a, 528.a, 528.b, 528.c, 528.č, 528.d in 545. členom tega zakona, Agencija za zavarovalni nadzor z odredbo začasno prepove članu poslovodstva zavarovalno zastopniške ali zavarovalno posredniške družbe, v odgovornost katerega spada distribucija zavarovalnih naložbenih produktov, opravljanje nalog člana poslovodstva.".
