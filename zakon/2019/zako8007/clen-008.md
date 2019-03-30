@@ -1,0 +1,2 @@
+# 8. člen (obravnava ostalih državljanov Združenega kraljestva in njihovih družinskih članov)
+Za državljana Združenega kraljestva in njegovega družinskega člana, za katerega ne veljajo določbe 3., 4. ali 5. člena tega zakona, glede vstopa, zapustitve in bivanja v Republiki Sloveniji po izstopu veljajo določbe zakona, ki ureja vstop in prebivanje tujcev v Republiki Sloveniji, ki veljajo za tujce, državljane držav, ki niso članice Evropskega gospodarskega prostora.

@@ -1,0 +1,2 @@
+# 17. člen (postopki priznavanja poklicnih kvalifikacij)
+Postopki priznavanja poklicnih kvalifikacij za opravljanje reguliranega poklica v Republiki Sloveniji, za katere so državljani Združenega kraljestva, ki so pridobili poklicne kvalifikacije na ozemlju EU ali v Združenem kraljestvu, oziroma državljani EU, ki so pridobili poklicno kvalifikacijo v Združenem kraljestvu, oddali vlogo pred izstopom, se končajo v skladu z zakonom, ki ureja postopek priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev.

@@ -1,0 +1,3 @@
+# 18. člen (opravljanje storitev)
+(1) Ponudniki storitev, ustanovljeni v Združenem kraljestvu, ki so začeli opravljati občasno oziroma začasno storitev v okviru reguliranega poklica v Republiki Sloveniji pred datumom izstopa, lahko opravljajo to storitev do izteka, skladno z zakonom, ki ureja postopek priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev.
+(2) Delodajalci oziroma samozaposlene osebe s sedežem v Združenem kraljestvu, ki so izvajanje čezmejnih storitev v Republiki Sloveniji v skladu z zakonom, ki ureja čezmejno izvajanje storitev, začeli pred izstopom, lahko opravljajo te storitve do datuma zaključka izvajanja storitev, navedenem v potrdilu Zavoda Republike Slovenije za zaposlovanje o opravljeni prijavi.
