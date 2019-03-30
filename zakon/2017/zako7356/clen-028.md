@@ -14,7 +14,7 @@
 8. na postavke v politiki 24 - Plačilo v EU in z njih;
 9. na postavke v glavnem programu 2302 - Posebna proračunska rezerva in programi pomoči v primerih nesreč, med njimi in z njih;
 10. na postavke v podprogramu 230102 - Sredstva za množične migracije, med njimi in z njih;
-11. na postavke v podprogramu 030104 - Predsedovanje EU, med njimi in z njih;
+11. na postavke v podprogramu 030104 - Predsedovanje Svetu EU, med njimi in z njih;
 12. med, na in s plačnih kontov neposrednih uporabnikov proračuna;
 13. s plačnih kontov integralnih postavk na postavko organa, ki je zadolžen za zagotovitev pogojev za začetek dela in poslovanja osebe javnega prava, ki je ustanovljena po uveljavitvi proračuna za tekoče leto, ko se prerazporejajo javni uslužbenci skupaj s kadrovsko kvoto in sredstvi za plače;
 14. z integralnih postavk za materialne stroške in z integralnih postavk za investicije in investicijsko vzdrževanje državnih organov na postavko organa, ki je zadolžen za zagotovitev pogojev za začetek dela in poslovanja osebe javnega prava, ki je ustanovljena po uveljavitvi proračuna za tekoče leto.
