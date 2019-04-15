@@ -1,0 +1,3 @@
+# 218. člen (uskladitev Zakona o sodnih taksah)
+
+Do uskladitve Zakona o sodnih taksah (Uradni list RS, št. 37/08, 97/10, 63/13, 58/14 – odl. US, 19/15 – odl. US, 30/16, 10/17 – ZPP-E, 11/18 – ZIZ-L in 35/18 – odl. US) s tem zakonom se za postopke, ki so bili do uveljavitve tega zakona urejeni v sedemindvajsetem poglavju Zakona o pravdnem postopku (Uradni list RS, št. 73/07 – uradno prečiščeno besedilo, 45/08 – ZArbit, 45/08, 111/08 – odl. US, 57/09 – odl. US, 12/10 – odl. US, 50/10 – odl. US, 107/10 – odl. US, 75/12 – odl. US, 40/13 – odl. US, 92/13 – odl. US, 10/14 – odl. US, 48/15 – odl. US, 6/17 – odl. US in 10/17), plačujejo sodne takse, ki so določene za postopek v zakonskih sporih ter sporih iz razmerij med starši in otroki.

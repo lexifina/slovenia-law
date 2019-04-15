@@ -1,0 +1,5 @@
+# 69. člen (zaznamba v zemljiški knjigi in vpis v druge javne knjige ali evidence)
+
+(1) Če ima oseba, ki naj se postavi pod skrbništvo, nepremičnine ali drugo premoženje, glede katerega se vodijo javne knjige ali evidence, sodišče, ki vodi postopek, zemljiškoknjižnemu sodišču in drugim organom ali organizacijam, ki glede določene vrste premoženja po zakonu vodijo javne knjige ali evidence, pošlje obvestilo o uvedbi postopka za postavitev pod skrbništvo, obvestilo in pravnomočni sklep o postavitvi osebe pod skrbništvo ter obvestilo in pravnomočni sklep o prenehanju skrbništva za vpis zaznambe v zemljiško knjigo ali za vpis v drugo javno knjigo ali evidenco, če se predvideva vpis takega dejstva.
+
+(2) Sodišče pošlje obvestilo in prepis pravnomočnega sklepa o postavitvi osebe pod skrbništvo in pravnomočnega sklepa o prenehanju skrbništva brez obrazložitve tudi organizaciji za plačilni promet, pri kateri ima oseba, ki je postavljena pod skrbništvo, odprt transakcijski ali drug račun, in članu centralne depotne družbe, pri katerem ima oseba, ki je postavljena pod skrbništvo, odprt račun nematerializiranih vrednostnih papirjev.
