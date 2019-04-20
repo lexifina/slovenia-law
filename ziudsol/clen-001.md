@@ -1,0 +1,3 @@
+# 1. člen (vsebina zakona)
+
+S tem zakonom se določajo pristojni organi, ureja postopek izrekanja nadzornih ukrepov ter določajo prekrški in sankcije za izvajanje Uredbe 2017/2402/EU Evropskega parlamenta in Sveta z dne 12. decembra 2017 o določitvi splošnega okvira za listinjenje in o vzpostavitvi posebnega okvira za enostavno, pregledno in standardizirano listinjenje ter o spremembah direktiv 2009/65/ES, 2009/138/ES in 2011/61/EU ter uredb (ES) št. 1060/2009 in (EU) št. 648/2012 (UL L št. 347 z dne 28. decembra 2017, str. 35; v nadaljnjem besedilu: Uredba 2017/2402/EU), ki jih izrekajo pristojni organi.
