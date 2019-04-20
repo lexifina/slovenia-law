@@ -1,0 +1,2 @@
+# 26. člen
+Postopki odpovedi in razveze rejniške pogodbe, ki so se na podlagi 48. ali 49. člena Zakona o izvajanju rejniške dejavnosti (Uradni list RS, št. 110/02, 56/06 - odl US, 114/06 - ZUTPG, 96/12 - ZPIZ-2, 109/12) začeli pred uveljavitvijo tega zakona, se dokončajo po določbah Zakona o izvajanju rejniške dejavnosti (Uradni list RS, št. 110/02, 56/06 - odl US, 114/06 - ZUTPG, 96/12 - ZPIZ-2 in 109/12).

@@ -1,0 +1,4 @@
+# 13. člen
+V 46. členu se na koncu drugega odstavka doda besedilo, ki se glasi: "Center otroka izda odločbo o razvezi rejniške pogodbe. Zoper odločbo je dovoljena pritožba na ministrstvo.".
+Za drugim odstavkom se doda nov tretji odstavek, ki se glasi:
+"(3) Ne glede na prvi odstavek tega člena lahko center otroka podaljša veljavnost rejniške pogodbe z rejnikom tudi po polnoletnosti osebe, če ta po zaključku srednješolskega izobraževanja nima druge možnosti bivanja in v 30 dneh po podaljšanju veljavnosti rejniške pogodbe izkaže, da se vodi v evidenci brezposelnih oseb v skladu z določbami zakona, ki ureja trg dela. Podaljšanje rejniške pogodbe iz tega razloga je možno za največ 12 mesecev neposredno po zaključku srednješolskega izobraževanja, vendar najdlje do dopolnjenega 26. leta starosti osebe.".

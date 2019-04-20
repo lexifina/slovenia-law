@@ -1,0 +1,4 @@
+## PREHODNE IN KONČNE DOLOČBE
+# 25. člen
+(1) Postopki za pridobitev dovoljenja za izvajanje rejniške dejavnosti, ki so se na podlagi 14. člena Zakona o izvajanju rejniške dejavnosti (Uradni list RS, št. 110/02, 56/06 - odl. US, 114/06 - ZUTPG, 96/12 - ZPIZ-2 in 109/12) začeli pred uveljavitvijo tega zakona, se dokončajo po določbah Zakona o izvajanju rejniške dejavnosti (Uradni list RS, št. 110/02, 56/06 - odl. US, 114/06 - ZUTPG, 96/12 - ZPIZ-2 in 109/12).
+(2) Za zakonske učinke pravnomočnih dovoljenj za izvajanje rejniške dejavnosti, ki so bila izdana na podlagi 14. člena Zakona o izvajanju rejniške dejavnosti (Uradni list RS, št. 110/02, 56/06 - odl. US, 114/06 - ZUTPG, 96/12 - ZPIZ-2 in 109/12), se uporabljajo določbe Zakona o izvajanju rejniške dejavnosti (Uradni list RS, št. 110/02, 56/06 - odl. US, 114/06 - ZUTPG, 96/12 - ZPIZ-2 in 109/12).
