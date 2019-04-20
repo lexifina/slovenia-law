@@ -1,0 +1,4 @@
+# 21. člen
+V 86. členu se peti in šesti odstavek spremenita tako, da se glasita:
+"(5) Zapisnik o posvetovanju in glasovanju, ki se izda v elektronski obliki, podpišejo vsi člani senata in zapisnikar s svojimi elektronskimi podpisi, ki so enakovredni lastnoročnim podpisom. Zapisnik o posvetovanju in glasovanju, ki se izda v elektronski obliki, se v informacijskem sistemu e-sodstvo vodi v posebni mapi tako, da je dostopen v povezavi z obravnavano zadevo. Ko višje sodišče pri odločanju o pravnem sredstvu pregleda tak zapisnik, ga mora spet shraniti v posebno mapo v informacijskem sistemu e-sodstvo in na njej označiti, da ga je pregledalo.
+(6) Minister, pristojen za pravosodje, predpiše način hrambe in sledljivost zapisnika o posvetovanju in glasovanju, ki se izda v elektronski obliki, iz prejšnjega odstavka ter izločenih dokazov v elektronski obliki iz šestega odstavka 83. člena tega zakona.".

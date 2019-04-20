@@ -1,0 +1,3 @@
+# 88. člen
+V 285.a členu se v prvem odstavku na začetku beseda "Po" nadomesti z besedilom "Najpozneje v dveh mesecih po", na koncu odstavka pa se doda besedilo, ki se glasi: "Če predsednik senata v določenem roku ne razpiše predobravnavnega naroka, obvesti predsednika sodišča, iz katerih razlogov predobravnavnega naroka ni razpisal. Predsednik sodišča ukrene, kar je potrebno, da se predobravnavni narok določi v nadaljnjem roku največ dveh mesecev.".
+V tretjem odstavku se v 4. točki besedilo "da navede utemeljene razloge, zakaj jih ni podal na tem naroku" nadomesti z besedilom "da ne gre za očitno zavlačevanje ali zlorabo pravic".

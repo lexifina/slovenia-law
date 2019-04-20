@@ -1,0 +1,3 @@
+# 101. člen
+V 367. členu se četrti odstavek spremeni tako, da se glasi:
+"(4) Oškodovanec sme izpodbijati sodbo, s katero je sodišče zavrnilo obtožbo (357. člen), oprostilo obtoženca obtožbe (358. člen), sodbo, s katero je sodišče obtoženca spoznalo za krivega, pa sme izpodbijati le glede odločbe o premoženjskopravnem zahtevku (7. točka prvega odstavka 359. člena), objavi pravnomočne sodbe in odločbe o stroških. Če je državni tožilec prevzel pregon od oškodovanca kot tožilca (drugi odstavek 63. člena), se sme oškodovanec pritožiti iz vseh razlogov, iz katerih se sme izpodbijati sodba (370. člen).".

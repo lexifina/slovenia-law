@@ -1,0 +1,9 @@
+# 24. člen
+V 117.a členu se tretji, četrti in peti odstavek spremenijo tako, da se glasijo:
+"(3) Pristojni organ za sodišča vzpostavi in vzdržuje informacijski sistem e-sodstvo. Po varni elektronski poti se vročitev pisanja opravi prek informacijskega sistema e-sodstvo neposredno na naslov za vročanje, ki je registriran v informacijskem sistemu e-sodstvo, ali v varni elektronski predal s posredovanjem pravne ali fizične osebe, ki opravlja vročanje pisanj po varni elektronski poti kot registrirano dejavnost in pridobi dovoljenje ministra, pristojnega za pravosodje, če izpolnjuje tehnične pogoje, ki jih določi minister, pristojen za pravosodje.
+(4) Informacijski sistem e-sodstvo samodejno pošlje naslovniku v njegov varni elektronski predal pisanje in hkrati tudi informativno sporočilo, v katerem ga opozori, da je v informacijskem sistemu e-sodstvo pisanje in da ga mora prevzeti v 15 dneh od dne, ko mu je bilo poslano v varni elektronski predal, sicer bo pisanje izbrisano iz informacijskega sistema e-sodstvo, naslovniku pa se bo pisanje vročalo po določbah tega zakona, ki urejajo vročanje pisanj v fizični obliki.
+(5) Naslovnik se z vsebino pisanja, poslanega po varni elektronski poti, seznani in ga prevzame tako, da se pred prevzemom na predpisan način identificira, elektronsko podpiše vročilnico in jo tako podpisano vrne pošiljatelju po varni elektronski poti.".
+V šestem odstavku se za besedilom "informacijski sistem" doda beseda "e-sodstvo", za besedilom "informacijskega sistema" se doda beseda "e-sodstvo".
+V sedmem odstavku se za besedilom "Informacijski sistem" doda beseda "e-sodstvo".
+Osmi odstavek se spremeni tako, da se glasi:
+"(8) Na način, določen v tem členu, se po varni elektronski poti lahko vročajo tudi tista pisanja, ki imajo izvirnike v fizični obliki, če je elektronski (digitaliziran) prepis, ki je izdelan na podlagi izvirnika v fizični obliki, opremljen z elektronskim žigom informacijskega sistema e-sodstvo.".

@@ -1,0 +1,8 @@
+# 25. člen
+V 128. členu se za petim odstavkom dodata nova šesti in sedmi odstavek, ki se glasita:
+"(6) Če so bili v postopku uporabljeni dokumenti, ki vsebujejo tajne podatke in so bili uporabljeni kot podlaga za odločitev, jih imajo stranke in zagovornik pravico pregledati. Sodnik lahko odloči, da glede na stopnjo varovanja tajnih podatkov in težav z zagotavljanjem primernih varnostnih pogojev dopusti vpogled v spise, ki vsebujejo tajne podatke, v prostorih sodišča, ki ne izpolnjujejo varnostnih pogojev, kot jih določa zakon, ki ureja tajne podatke, ob uvedbi dodatnih varnostnih ukrepov. Prepis ali kopiranje listin in drugih delov spisa, ki vsebujejo tajne podatke, ni dovoljen, razen pod pogoji, kot jih določa zakon, ki ureja tajne podatke.
+(7) Vpogled v listine in dele spisa, ki vsebujejo tajne podatke, se v skladu s pogoji iz prejšnjih odstavkov lahko dopusti tudi izvedencem, cenilcem, tolmačem, če je seznanitev s to vsebino nujna za opravo njihovega dela ter jih sodišče opozori, da morajo podatke varovati v skladu z določbami zakona, ki ureja tajne podatke, in na posledice in njihovo odgovornost v primeru razkritja teh podatkov.".
+Dosedanji šesti odstavek postane osmi odstavek.
+Dosedanji sedmi odstavek, ki postane deveti odstavek, se spremeni tako, da se glasi:
+"(9) Spis v elektronski obliki imajo upravičenci po tem zakonu pravico pregledovati in prepisovati tudi v elektronski obliki v informacijskem sistemu e-sodstvo, v katerem stranka dokaže svojo istovetnost.".
+V dosedanjem osem odstavku, ki postane deseti odstavek, se za besedilom "informacijskem sistemu" doda beseda "e-sodstvo".

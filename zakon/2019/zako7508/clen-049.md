@@ -1,0 +1,6 @@
+# 49. člen
+V 161. členu se za tretjim odstavkom doda nov četrti odstavek, ki se glasi:
+"(4) Preden državni tožilec zavrže ovadbo za kaznivo dejanje, za katero je v zakonu predpisana kazen zapora več kot osem let, mora oškodovanca pisno seznaniti o nameri, da bo zavrgel ovadbo, ter mu navesti bistvene razloge za to odločitev in mu omogočiti, da se v roku 15 dni do njih pisno opredeli ter da posreduje morebitne dodatne podatke in dokaze glede utemeljenosti suma, da je osumljenec storil kaznivo dejanje. Oškodovanec svoje mnenje, podatke in dokaze posreduje državnemu tožilcu in vodji pristojnega okrožnega državnega tožilstva. Če oškodovancu pisnega pojasnila ni bilo mogoče vročiti, ker državnemu tožilstvu ni pravočasno posredoval spremembe naslova ali prebivališča (66. člen), lahko državni tožilec zavrže ovadbo brez njegove opredelitve. Ta odstavek se ne uporablja za oškodovanca, ki je pravna oseba.".
+Dosedanji četrti odstavek, ki postane peti odstavek, se spremeni tako, da se glasi:
+"(5) Državni tožilec zavrže ovadbo, če so tudi po opravljenih dejanjih iz drugega do četrtega odstavka tega člena podane kakšne okoliščine iz prvega odstavka tega člena. V primeru iz prejšnjega odstavka se mora državni tožilec v sklepu o zavrženju ovadbe opredeliti tudi do mnenja oškodovanca.".
+Dosedanji peti odstavek postane šesti odstavek.

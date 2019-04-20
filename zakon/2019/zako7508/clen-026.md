@@ -1,0 +1,3 @@
+# 26. člen
+V 129. členu se za četrtim odstavkom doda nov peti odstavek, ki se glasi:
+"(5) Če zaradi pravnomočne sodbe nastanejo z zakonom določene pravne posledice obsodbe, ki se nanašajo na prenehanje ali izgubo posameznih pravic (prvi odstavek 79. člena Kazenskega zakonika in 21. člen Zakona o odgovornosti pravnih oseb za kazniva dejanja), sodišče, ki je izdalo sodbo na prvi stopnji, pošlje obvestilo o pravnomočni sodbi s podatki o opravilni številki sodbe, imenu in priimku obsojenca, EMŠO obsojenca, opredelitev kaznivega dejanja z navedbo člena iz Kazenskega zakonika in izrečeno sankcijo pristojnemu organu, delodajalcu ali drugi pravni osebi oziroma instituciji, ki glede na zakon, s katerim so določene pravne posledice obsodbe, zagotovi njihovo spoštovanje.".

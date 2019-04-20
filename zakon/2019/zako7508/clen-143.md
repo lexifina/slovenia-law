@@ -1,0 +1,2 @@
+# 143. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati se začne šest mesecev po njegovi uveljavitvi, razen spremenjenih in novih določb 149.a člena, 149.b člena, 149.c člena, 149.č člena, 149.d člena, 149.e člena, 150.a člena, 150.b člena, 152. člena, 153. člena, prvega do četrtega odstavka in šestega odstavka 154. člena, 156. člena in 156.a člena zakona, ki se začnejo uporabljati tri mesece po uveljavitvi tega zakona, do tedaj pa se uporabljajo dosedanji predpisi.
