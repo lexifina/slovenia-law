@@ -1,0 +1,4 @@
+# 1. člen
+V Družinskem zakoniku (Uradni list RS, št. 15/17 in 21/18 - ZNOrg) se v 184. členu tretji in četrti odstavek spremenita tako, da se glasita:
+"(3) Če je otrok ob izreku ukrepa trajnejšega značaja nameščen v rejništvo ali v zavod, se celotna določena preživnina ali družinska pokojnina nakazuje na poseben otrokov račun, ki ga v ta namen odpre otrokov skrbnik.
+(4) Če skupni redni prihodki otroka mesečno presegajo 25 odstotkov materialnih stroškov, določenih z zakonom, ki ureja izvajanje rejniške dejavnosti, nakaže skrbnik razliko v proračun Republike Slovenije, vendar največ v višini 50 odstotkov materialnih stroškov, določenih z zakonom, ki ureja izvajanje rejniške dejavnosti. Za redni prihodek po tem členu se štejeta preživnina in družinska pokojnina, ki ga otrok dejansko periodično prejema v določenem znesku.".
