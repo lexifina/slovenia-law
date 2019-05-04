@@ -1,0 +1,3 @@
+# 3. člen
+V 109. členu se za petim odstavkom doda nov šesti odstavek, ki se glasi:
+"(6) Ne glede na prvi odstavek tega člena, se v letno davčno osnovo od regresa za letni dopust šteje vsota tega dohodka, ki presega 100 % povprečne letne plače zaposlenih v Sloveniji, preračunane na mesec, za leto, za katero se dohodnina odmerja, po podatkih Statističnega urada Republike Slovenije, zmanjšana za prispevke za socialno varnost, upoštevane pri določanju davčne osnove v skladu z 41. členom tega zakona. V vsoto iz prejšnjega stavka se ne šteje posamezno izplačilo tega dohodka, za katerega niso izpolnjeni pogoji za davčno obravnavo po 13. točki prvega odstavka 44. člena tega zakona.".
