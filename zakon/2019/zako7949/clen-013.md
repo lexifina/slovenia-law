@@ -1,0 +1,3 @@
+## PREHODNA IN KONČNA DOLOČBA
+# 13. člen
+Organ, pristojen za varovanje tajnih podatkov, mora v enem mesecu od sprejema tega zakona predati ministrstvu, pristojnemu za notranje zadeve, vso dokumentacijo, vključno z evidencami, v zvezi s dokončanimi postopki varnostnega preverjanja po Zakonu o varstvu pred ionizirajočimi sevanji in jedrski varnosti (Uradni list RS, št. 76/17). Postopki varnostnega preverjanja tujih državljanov, začeti pred uveljavitvijo tega zakona, se dokončajo po dosedanjih predpisih. Dokumentacija v zvezi s temi postopki pa se preda ministrstvu, pristojnemu za notranje zadeve, v roku enega meseca po njihovem dokončanju.
