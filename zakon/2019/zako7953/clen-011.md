@@ -1,0 +1,2 @@
+# 11. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne tri mesece po njegovi uveljavitvi. Do takrat se uporablja Zakon o socialnem varstvu (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo, 23/07 - popr., 41/07 - popr., 61/10 - ZSVarPre, 62/10 - ZUPJS, 57/12, 39/16, 52/16 - ZPPreb-1, 15/17 - DZ, 29/17, 54/17, 21/18 - ZNOrg in 31/18 - ZOA-A).
