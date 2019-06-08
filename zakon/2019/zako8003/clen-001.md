@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 72/06 - uradno prečiščeno besedilo, 114/06 - ZUTPG, 91/07, 76/08, 62/10 - ZUPJS, 87/11, 40/12 - ZUJF, 21/13 - ZUTD-A, 91/13, 99/13 - ZUPJS-C, 99/13 - ZSVarPre-C, 11/13 - ZMEPIZ-1, 95/14 - ZUJF-C, 47/15 - ZZSDT, 61/17 - ZUPS in 64/17 - ZZDej-K) se v 31. členu v tretjem odstavku v prvi alineji beseda "presaditve" nadomesti z besedilom "darovanja in posledic darovanja".
+V četrtem odstavku se v prvi alineji beseda "in" nadomesti z vejico in se za besedo "delu" doda besedilo ", darovanja in posledic darovanja živega tkiva in organov v korist druge osebe in posledic darovanja krvi".
+V šestem odstavku se beseda "in" nadomesti z vejico in se za besedo "člana" doda besedilo ", darovanja in posledic darovanja živega tkiva in organov v korist druge osebe in posledic darovanja krvi".
