@@ -1,0 +1,4 @@
+# 6. člen
+V 34.e členu se v drugem odstavku za besedo "državi" dodata vejica in besedilo "ali sodišča, pred katerim ima pravico opravljati poklic po predpisih te države".
+Tretji odstavek se spremeni tako, da se glasi:
+"Odvetnik iz prejšnjega člena je disciplinsko odgovoren po tem zakonu, kot če bi bil vpisan v imenik odvetnikov, vendar le za kršitve, ki jih lahko stori pri opravljanju posamezne storitve. Če pristojni organ zahteva uvedbo disciplinskega postopka, lahko v ta namen od pristojnih organov matične države pridobi vse podatke o odvetniku, ki jih potrebuje za izvedbo disciplinskega postopka. O svojih odločitvah uradno obvesti pristojne organe matične države tega odvetnika. Disciplinske kazni in začasni ukrepi, ki omejujejo odvetnika, smejo biti izrečeni samo z veljavnostjo v Republiki Sloveniji. Namesto disciplinske kazni izbrisa iz imenika se izreče prepoved opravljanja storitev v Republiki Sloveniji.".
