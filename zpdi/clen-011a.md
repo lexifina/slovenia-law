@@ -1,0 +1,13 @@
+# 11.a člen
+
+Sodniški pripravnik, ki je opravil sodniško pripravništvo kot oseba v delovnem razmerju na sodišču, ter državnotožilski in državnopravobranilski pripravnik z opravljenim pripravništvom v okviru izobraževanja, ki ga zagotavlja delodajalec, ki je državno tožilstvo oziroma državno pravobranilstvo, morajo po uspešno opravljenem pravniškem državnem izpitu skleniti delovno razmerje za ustrezno delovno mesto na sodišču, pri državnem tožilstvu, državnem pravobranilstvu ali ministrstvu, pristojnem za pravosodje, za toliko časa, kolikor je trajalo pripravništvo s sklenjenim delovnim razmerjem na sodišču, državnem tožilstvu oziroma državnem pravobranilstvu, ali za krajši čas, kakor v pozivu določi ministrstvo, pristojno za pravosodje.
+
+Minister, pristojen za pravosodje, na predlog predstojnika organa, pri katerem obstaja ustrezno prosto delovno mesto, pisno pozove sodniškega, državnotožilskega in državnopravobranilskega pripravnika na delo v smislu sklenitve delovnega razmerja iz prejšnjega odstavka najpozneje v 30 dneh po opravljenem pravniškem državnem izpitu. Če je predlogov več, odloči o njih minister, pristojen za pravosodje. Pri odločanju o predlogih upošteva zlasti možnost sklenitve delovnega razmerja za delovno mesto pri organu, v katerem je pripravnik opravljal pripravništvo, ter oddaljenost med krajem njegovega prebivanja in krajem delovnega mesta, glede katerega je sklenil delovno razmerje iz prejšnjega odstavka.
+
+Pripravnik, kateremu poziv ni bil vročen v roku iz prejšnjega odstavka, je prost obveznosti iz tega člena.
+
+Poziv iz drugega odstavka tega člena lahko vroči tudi predsednik, član izpitne komisije ali zapisnikar takoj po opravljenem pravniškem državnem izpitu na kraju opravljanja izpita. Vročilnico podpišeta prejemnik in vročevalec. Prejemnik sam z besedami napiše na vročilnici datum prejema.
+
+Če sodniški, državnotožilski in državnopravobranilski pripravnik vročenega poziva na način iz prejšnjega odstavka noče sprejeti, se poziv izroči ministrstvu, pristojnemu za pravosodje, ki je vročitev odredilo, vročevalec pa zapiše na vročilnici dan, uro in razlog odklonitve sprejema. Šteje se, da je s tem vročitev opravljena.
+
+Če sodniški, državnotožilski in državnopravobranilski pripravnik ne sklene delovnega razmerja na poziv iz drugega odstavka tega člena, je dolžan povrniti stroške izobraževanja v višini seštevka bruto plač, prejetih v času sodniškega pripravništva.

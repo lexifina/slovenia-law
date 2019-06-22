@@ -1,0 +1,13 @@
+# 19.a člen
+
+Pravico do opravljanja izpita ima tudi oseba, ki ni opravila pripravništva po tem zakonu, če:
+
+- je bila v rednem delovnem razmerju v trajanju najmanj 32 mesecev s polnim delovnim časom pri sodnem svetu, sodišču, državnem tožilstvu, državnem pravobranilstvu, odvetniku, notarju, osebi, ki opravlja dejavnost brezplačne pravne pomoči s soglasjem ministra, pristojnega za pravosodje, ali ministrstvu, pristojnem za pravosodje, na pravnih delih po pridobljenem strokovnem naslovu univerzitetni diplomirani pravnik oziroma magister prava, oziroma je bila v rednem delovnem razmerju najmanj 48 mesecev s polnim delovnim časom pri ustavnem sodišču, zakonodajnem organu, v državni upravi in v upravah samoupravnih lokalnih skupnosti, pri pravni fakulteti, visoki pravni šoli ali v pravni osebi na pravnih delih po pridobljenem strokovnem naslovu univerzitetni diplomirani pravnik oziroma magister prava,
+
+- izpolnjuje pogoje iz 6. člena tega zakona, določene za sodniškega pripravnika,
+
+- je opravila obvezne oblike izobraževanja, ki jih s pravilnikom predpiše minister, pristojen za pravosodje, zlasti je prisostvovala na obravnavah in drugih procesnih dejanjih, izdelala osnutke sodnih odločb, se udeleževala seminarjev in drugih primerljivih oblik izobraževanj.
+
+Oseba iz prejšnjega odstavka vloži zahtevo za opravljanje izpita iz 19. člena tega zakona po izpolnitvi vseh pogojev iz prejšnjega odstavka. K zahtevi mora priložiti vsa dokazila o izpolnjevanju pogojev, razen dokazil o državljanstvu in poslovni sposobnosti, ki ju za državljane Republike Slovenije zaradi ugotavljanja pogojev iz prejšnjega odstavka pridobi ministrstvo, pristojno za pravosodje, brezplačno, pri upravljavcu matičnega registra na podlagi neposrednega elektronskega dostopa, tako da navede osebno ime, rojstni datum in naslov prebivališča osebe. Neposredni elektronski dostop, vključno z omogočanjem ustreznega elektronskega prenosa podatkov, zagotovi upravljavec matičnega registra.
+
+Če je oseba pridobila strokovni naslov iz 6. člena tega zakona v Republiki Sloveniji, ji dokazil o strokovnem naslovu ni treba priložiti, temveč te podatke zaradi ugotavljanja pogojev iz prvega odstavka tega člena pridobi ministrstvo, pristojno za pravosodje, namesto nje na visokošolskem zavodu, kjer je pridobila strokovni naslov.
