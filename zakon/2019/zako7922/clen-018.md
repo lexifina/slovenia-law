@@ -1,0 +1,3 @@
+# 18. člen
+V 148. členu se tretji odstavek spremeni tako, da se glasi:
+"(3) Povezana oseba po tem zakonu je družinski član, za katerega se šteje: zakonec dolžnika ali oseba, s katero dolžnik živi v dalj časa trajajoči življenjski skupnosti, ki ima po zakonu, ki ureja zakonsko zvezo in družinska razmerja, enake pravne posledice kot zakonska zveza, otrok, posvojenec in pastorek ali otrok osebe, s katero dolžnik živi v dalj časa trajajoči življenjski skupnosti, ki ima po zakonu, ki ureja zakonsko zvezo in družinska razmerja, enake pravne posledice kot zakonska zveza, prednik ali potomec dolžnika ali njegovega zakonca, zakonec prednika ali potomca zavezanca ali njegovega zakonca, bratje in sestre oziroma polbratje in polsestre ter posvojenci in posvojitelji.".

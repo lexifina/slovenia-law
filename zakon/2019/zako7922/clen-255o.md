@@ -1,0 +1,8 @@
+# 255.o člen (posrednik)
+(1) Posrednik je oseba, ki oblikuje, trži, organizira ali daje na voljo za uporabo čezmejni aranžma, o katerem se poroča, ali upravlja njegovo izvajanje in izpolnjuje vsaj enega od dodatnih pogojev iz tretjega odstavka tega člena.
+(2) Poleg oseb iz prejšnjega odstavka je posrednik tudi oseba, ki se ob upoštevanju ustreznih dejstev in okoliščin ter na podlagi razpoložljivih informacij in ustreznega strokovnega znanja in razumevanja, potrebnega za zagotavljanje takih storitev, zaveda, ali bi bilo zanjo upravičeno pričakovati, da se zaveda, da bo neposredno ali prek drugih oseb nudila pomoč oziroma svetovanje pri oblikovanju, trženju, organizaciji, dajanju na voljo za uporabo ali upravljanju izvajanja čezmejnega aranžmaja, o katerem se poroča, pri tem pa izpolnjuje vsaj enega od dodatnih pogojev iz tretjega odstavka tega člena. Vsakdo lahko dokazuje, da ni vedel, niti ne bi bilo upravičeno pričakovati, da bi vedel, da je sodeloval pri čezmejnem aranžmaju, o katerem se poroča. V ta namen se lahko sklicuje na vsa ustrezna dejstva in okoliščine, pa tudi na razpoložljive informacije, svoje ustrezno strokovno znanje in razumevanje.
+(3) Oseba iz prvega oziroma drugega odstavka tega člena se šteje za posrednika, če izpolnjuje vsaj enega od dodatnih pogojev:
+1. je rezident za davčne namene v Sloveniji;
+2. ima stalno poslovno enoto v Sloveniji, prek katere zagotavlja storitve v zvezi s čezmejnim aranžmajem;
+3. je ustanovljena oziroma organizirana v skladu s slovenskim pravom ali
+4. je v Sloveniji registrirana za opravljanje pravnih, davčnih ali svetovalnih storitev.

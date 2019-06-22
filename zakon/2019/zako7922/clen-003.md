@@ -1,0 +1,6 @@
+# 3. člen
+V 39. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Osebe iz 31. člena tega zakona ter druge osebe, ki so z zakonom pooblaščene, da vzpostavijo, vodijo in vzdržujejo zbirke podatkov, registre ali druge evidence, morajo davčnemu organu, če tako zahteva, dati na razpolago vse podatke, potrebne za pobiranje davkov, ter v tem obsegu tudi omogočiti davčnemu organu vpogled v svojo dokumentacijo. Na razpolago morajo dati tudi vso dokumentacijo, ki jo vodijo, in zbirke podatkov, ki jih vodijo v obliki registrov, evidenc ali zbirov podatkov, ne glede na to, ali so z zakonom predpisane kot obvezne, če in v obsegu, kot so potrebne za pobiranje davkov, in druge informacije, ki so pomembne pri pobiranju davka, vključno s svojo davčno številko in davčnimi številkami drugih oseb, s katerimi morajo razpolagati v skladu s tem zakonom ali zakonom o obdavčenju, ter enotnimi matičnimi številkami občana, če se v evidencah ne vodijo podatki o davčni številki.".
+V drugem odstavku se 1. in 2. točka spremenita tako, da se glasita:
+"1. avtomatično, če sta tak način dajanja podatkov in vrsta zahtevanih podatkov določena z zakonom,
+2. na zahtevo, če ni s tem zakonom drugače določeno, ali".

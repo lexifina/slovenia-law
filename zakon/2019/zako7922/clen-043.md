@@ -1,0 +1,2 @@
+# 43. člen (dokončanje postopkov)
+Zadeve, glede katerih je postopek ob začetku uporabe tega zakona v teku, in zadeve, glede katerih je bilo ob začetku uporabe tega zakona že vloženo pravno sredstvo oziroma začet upravni spor, se končajo po Zakonu o davčnem postopku (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 32/12, 94/12, 101/13 - ZDavNepr, 111/13, 22/14 - odl. US, 25/14 - ZFU, 40/14 - ZIN-B, 90/14, 91/15, 63/16, 69/17 in 13/18 - ZJF-H).
