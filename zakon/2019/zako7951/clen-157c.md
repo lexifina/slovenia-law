@@ -1,0 +1,8 @@
+# 157.c člen (rok hrambe osebnih podatkov)
+(1) Merilni podatki iz 157.a člena tega zakona se zaradi zagotavljanja podatkov za učinkovito delovanje trga z električno energijo, izvajanje energetskih storitev ter za namen obratovanja in zagotavljanja zanesljivosti oskrbe hranijo največ dve leti.
+(2) Ne glede na določbe prejšnjega odstavka se časovni agregati na ravni od vključno enega meseca, ki se nanašajo na uporabnika sistema, hranijo največ pet let.
+(3) Drugi osebni podatki uporabnikov sistema, ki izhajajo iz pogodbenega razmerja, se hranijo tako dolgo, kot je nujno za izvajanje ukrepov na zahtevo posameznika pred sklenitvijo pogodbe, za izvajanje pogodbe in uveljavljanje pravic ter obveznosti iz sklenjene pogodbe, oziroma do poteka roka za uveljavljanje pravnega varstva pogodbenih strank.
+157.č člen
+(posredovanje podatkov)
+(1) Upravljavec osebnih podatkov v okviru sistema za enotni dostop do podatkov na podlagi standardiziranih podatkovnih storitev uporabnikom sistema in drugim subjektom, ki so upravičeni do dostopa do osebnih podatkov na podlagi tega zakona, pogodbenega razmerja sklenjenega z uporabnikom sistema ali njegovega pooblastila, zagotavlja varen, učinkovit in brezplačen dostop do osebnih podatkov preko enotne vstopne točke nacionalnega podatkovnega vozlišča.
+(2) Ne glede na določbo prejšnjega odstavka upravljavec osebnih podatkov uporabnikom sistema in drugim subjektom, ki so upravičeni do dostopa do osebnih podatkov na podlagi tega zakona, pogodbenega razmerja sklenjenega z uporabnikom sistema ali njegovega pooblastila, omogoči dostop do osebnih podatkov preko vmesnika pametnega sistemskega števca za lokalni dostop do podatkov.".

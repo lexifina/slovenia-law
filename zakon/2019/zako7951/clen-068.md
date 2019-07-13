@@ -1,0 +1,2 @@
+# 68. člen (odškodnina za uporabo nepremičnine)
+Če je investitor začel z gradnjo na podlagi tretjega odstavka 475. člena zakona pred uveljavitvijo tega zakona, pripada lastniku odškodnina iz četrtega odstavka 475. člena zakona za čas od dejanske uporabe nepremičnine zaradi gradnje energetske infrastrukture do izdaje odločbe o razlastitvi ali do ustanovitve služnosti v javno korist oziroma do pridobitve pravice do posesti v razlastitvenem postopku.
