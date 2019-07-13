@@ -6,6 +6,7 @@
 - pri zagotavljanju dostopa do prenosnega sistema zemeljskega plina diskriminira v korist povezanega podjetja, v nasprotju s c) točko drugega odstavka 190. člena.
 (2) Z globo od 5.000 do 10.000 eurov se kaznuje za prekršek iz prejšnjega odstavka odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
 (3) Z globo od 15.000 do 250.000 eurov se za prekršek kaznuje pravna oseba, če:
+- sama ali preko posrednikov oziroma zastopnikov pri prodaji zemeljskega plina uporablja zavajajoče ali nepoštene poslovne prakse (enajsti odstavek 172. člena tega zakona);
 - za opravljanje dejavnosti, ki je po tem zakonu gospodarska javna služba, ne pridobi pravice opravljanja te dejavnosti (177., 216. člen tega zakona);
 - pri vodenju računovodskih izkazov ravna v nasprotju s 235. členom tega zakona;
 - uporabnikom sistema ne zagotovi dostopa do prenosnega sistema zemeljskega plina pod objektivnimi in nediskriminatornimi pogoji (četrti odstavek 238. člena tega zakona).
@@ -26,6 +27,7 @@
 - o začasnem odklopu ne obvesti odjemalca (tretji odstavek 273. člena tega zakona);
 - ne omogoči izdaje enotnega računa v skladu s prvim odstavkom 249. člena tega zakona;
 - brez soglasja operaterja na njegovo omrežje priključi svoje objekte, naprave in napeljave oziroma omogoči priključitev drugih objektov, naprav in napeljav (270. člen tega zakona);
+- odjemnega mesta ne izključi iz bilančne skupine dosedanjega dobavitelja (peti odstavek 274. člena tega zakona);
 - ne priključi v roku 24 ur na svoje stroške odjemalca energije iz omrežja, kadar se ugotovi, da je bil neutemeljeno odklopljen (četrti odstavek 276. člena tega zakona);
 - ravna v nasprotju s prvim odstavkom 280. člena tega zakona;
 - drugim udeležencem na trgu z zemeljskim plinom skladno z drugim odstavkom 216. člena tega zakona ne da na razpolago podatkov v skladu s splošnim aktom agencije iz tretjega odstavka 280. člena tega zakona.

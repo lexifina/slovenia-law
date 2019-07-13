@@ -1,3 +1,6 @@
-# 472. člen (določitev javne koristi)
-(1) Gradnja in prevzem objektov in zemljišč, ki so potrebni za prenos in distribucijo elektrike, zemeljskega plina, distribucijo toplote in oskrbo z drugimi energetskimi plini, sta v javno korist in se zanju uporabljata prvi in tretji odstavek 93. člena Zakona o urejanju prostora (Uradni list RS, št. 110/02, 8/03 - popravek, 58/03 - ZZK-1, 33/07 - ZPNačrt, 108/09 - ZGO-1C in 80/10 - ZUPUDPP, v nadaljnjem besedilu: ZUreP-1).
-(2) Gradnja in prevzem objektov in zemljišč, ki so potrebni za proizvodnjo elektrike, skladišča zemeljskega plina, terminal za utekočinjen zemeljski plin ali transport tekočih goriv po vodih, sta v javno korist in se zanju uporablja četrti odstavek 93. člena ZUreP-1.
+# 472. člen (javna korist in razlastitveni namen)
+(1) Gradnja in prevzem objektov in zemljišč, ki so potrebni za:
+- prenos in distribucijo elektrike, zemeljskega plina, distribucijo toplote in oskrbo z drugimi energetskimi plini, ali
+- proizvodnjo elektrike, skladišča zemeljskega plina, terminal za utekočinjen zemeljski plin ali transport tekočih goriv po vodih,
+sta v javno korist in se zanju nepremičnine lahko razlastijo, omejijo s pravico uporabe za določen čas ali obremenijo z začasno ali trajno služnostjo.
+(2) Za vprašanja glede razlastitve in omejitve lastninske pravice, ki niso posebej urejena s tem zakonom, se uporabljajo določbe zakona, ki ureja razlastitev in omejitev lastninske pravice.

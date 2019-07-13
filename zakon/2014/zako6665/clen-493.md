@@ -1,8 +1,7 @@
 # 493. člen (prekrški za peti del zakona)
 (1) Z globo od 15.000 do 250.000 eurov se za prekršek kaznuje pravna oseba, če:
 - ne zbira sredstev in jih ne nakazuje Eko skladu skladno s 317. in 323. členom tega zakona;
-- ne dosega prihrankov energije pri končnih odjemalcih skladno s 318. členom tega zakona;
-- ne da na trg biogoriv ali drugih obnovljivih virov energije skladno s 380. členom tega zakona.
+- ne dosega prihrankov energije pri končnih odjemalcih skladno s 318. členom tega zakona.
 (2) Z globo od 15.000 do 150.000 eurov se za prekršek iz prejšnjega odstavka kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost.
 (3) Z globo od 2.000 do 10.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
 (4) Z globo od 5.000 do 125.000 eurov se kaznuje za prekršek pravna oseba, če:
@@ -19,14 +18,14 @@
 (6) Z globo od 2.000 do 10.000 eurov se za prekršek iz četrtega odstavka tega člena kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
 (7) Z globo od 400 do 2.000 eurov se kaznuje posameznik, ki stori prekršek iz druge ali sedme alineje četrtega odstavka tega člena.
 (8) Z globo od 1.000 do 10.000 eurov se kaznuje za prekršek pravna oseba, če:
-- ne namesti energetske izkaznice na vidno mesto skladno s prvim odstavkom 336. člena tega zakona;
+- ne namesti energetske izkaznice na vidno mesto skladno z drugim in tretjim odstavkom 336. člena tega zakona;
 - ne zagotovi rednega pregleda klimatskega sistema (337. člen tega zakona);
 - ne zagotovi rednega pregleda ogrevalnega sistema (338. člen tega zakona).
 (9) Z globo od 1.000 do 10.000 eurov se kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
 (10) Z globo od 100 do 500 eurov se kaznuje odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost, ki stori prekršek iz osmega odstavka tega člena.
 (11) Z globo v višini 1.000 eurov se za prekršek kaznuje izdajatelj, ki ravna v nasprotju s 340. členom tega zakona.
 (12) Z globo v višini 300 eurov se za prekršek kaznuje lastnik stavbe ali posameznega dela stavbe, če pri njeni prodaji ali oddaji v najem kupcu oziroma najemniku najpozneje pred sklenitvijo pogodbe ne predloži originala ali kopije veljavne energetske izkaznice stavbe ali njenega posameznega dela skladno s 334. členom tega zakona.
-(13) Z globo v višini 1.000 eurov se za prekršek kaznuje upravljavec stavbe ali posameznega dela stavbe, če v stavbah s celotno uporabno tlorisno površino nad 250 m², ki so v lasti ali uporabi javnega sektorja, ne namesti veljavne energetske izkaznice na vidno mesto skladno s 336. členom tega zakona.
+(13) Z globo v višini 1.000 eurov se za prekršek kaznuje upravljavec stavbe ali posameznega dela stavbe, če ne namesti veljavne energetske izkaznice na vidno mesto skladno z drugim odstavkom 336. člena tega zakona.
 (14) Z globo v višini 300 eurov se za prekršek kaznuje lastnik stavbe ali posameznega dela stavbe, če:
 - v stavbi ali delu stavbe, v katerem je vgrajen klimatski sistem z izhodno močjo nad 12 kW, ne zagotovi rednih pregledov klimatskih sistemov skladno s 337. členom tega zakona;
 - v stavbi ali delu stavbe, v katerem je vgrajen ogrevalni sistem z določeno močjo, ki jo je predpisal minister, ne zagotovi rednih pregledov ogrevalnih sistemov skladno s 338. členom tega zakona.

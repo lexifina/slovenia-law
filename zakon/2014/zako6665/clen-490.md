@@ -4,6 +4,7 @@
 - ne ravna v skladu s 66. členom tega zakona.
 (2) Z globo od 5.000 do 10.000 eurov se kaznuje za prekršek iz prejšnjega odstavka odgovorna oseba pravne osebe.
 (3) Z globo od 15.000 do 250.000 eurov se za prekršek kaznuje pravna oseba, če:
+- sama ali preko posrednikov oziroma zastopnikov pri prodaji elektrike uporablja zavajajoče ali nepoštene poslovne prakse (enajsti odstavek 48. člena tega zakona);
 - uporabnikom sistema ne zagotovi dostopa do prenosnega sistema elektrike pod nediskriminatornimi pogoji (8. točka drugega odstavka 54. člena tega zakona);
 - ne obvesti agencije v skladu s prvim, drugim in tretjim odstavkom 65. člena tega zakona;
 - ravna v nasprotju z izvršljivo odločbo agencije o odpravi kršitev iz tretjega odstavka 66. člena tega zakona;
@@ -29,6 +30,7 @@
 - energetski objekti, naprave in napeljave pravne osebe ne izpolnjujejo predpisanih tehničnih normativov in standardov ter drugih pogojev, s katerimi se zagotavlja tehnična varnost obratovanja energetskih postrojev (145. člen tega zakona);
 - brez soglasja operaterja na njegovo omrežje priključi svoje objekte, naprave in napeljave oziroma omogoči priključitev drugih objektov, naprav in napeljav (147. člen tega zakona);
 - o začasnem odklopu ne obvesti odjemalca (tretji odstavek 150. člena tega zakona);
+- prevzemno-predajnega mesta ne izključi iz bilančne skupine dosedanjega dobavitelja (peti odstavek 151. člena tega zakona);
 - ne priključi v roku 24 ur na svoje stroške odjemalca energije iz omrežja, kadar se ugotovi, da je bil neutemeljeno odklopljen (drugi odstavek 154. člena tega zakona);
 - ravna v nasprotju s prvim odstavkom 156. člena tega zakona;
 - drugim udeležencem na trgu z elektriko skladno z drugim odstavkom 78. člena tega zakona ne da na razpolago podatkov v skladu s splošnim aktom agencije iz tretjega odstavka 156. člena tega zakona.

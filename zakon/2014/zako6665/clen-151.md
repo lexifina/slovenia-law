@@ -2,7 +2,7 @@
 (1) Elektrooperater odklopi uporabnika sistema na posameznem prevzemno-predajnem mestu po predhodnem obvestilu, če ta v roku, določenem v obvestilu, ne izpolni svoje obveznosti, če uporabnik sistema:
 a) moti oskrbo z elektriko drugih uporabnikov sistema;
 b) odreče ali onemogoči osebam, ki imajo pooblastilo operaterja sistema, dostop do vseh delov priključka, do zaščitnih in merilnih naprav in do energetskih objektov, naprav ali napeljav, kadar obstaja sum, da te naprave povzročajo motnje;
-c) brez soglasja elektrooperaterja priključi na omrežje svoje energetske naprave ali napeljave ali če omogoči prek svojih energetskih naprav priključitev energetskih naprav drugih uporabnikov;
+c) omogoči prek svojih energetskih naprav priključitev energetskih naprav drugih uporabnikov;
 č) na opomin elektrooperaterja ne zniža odjema ali oddaje moči oziroma količine na dogovorjeno vrednost v zahtevanem roku;
 d) onemogoča pravilno registriranje obračunskih količin elektrike ali če uporablja elektriko brez zahtevanih oziroma dogovorjenih merilnih naprav ali mimo njih;
 e) ne plača omrežnine v predpisanem roku;

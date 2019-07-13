@@ -3,7 +3,7 @@
 (2) V skupni kontaktni točki mora agencija zagotoviti dostop najmanj do informacij o:
 - načinih obravnave pritožb iz prejšnjega odstavka;
 - veljavnih tarifah omrežnine ter splošnoveljavnih pogojih v zvezi z uporabo omrežja;
-- primerjavi veljavnih rednih cenikov ponudnikov elektrike za gospodinjske in male poslovne odjemalce, brez primerjave akcijskih ali paketnih cenikov;
+- primerjavi veljavnih cenikov ponudnikov elektrike za gospodinjske in male poslovne odjemalce;
 - načinu pridobitve podatkov o njihovi porabi;
 - pravicah do zasilne oskrbe iz 44. člena ali nujne oskrbe iz 51. člena tega zakona;
 - kakovosti napetosti, zanesljivosti oskrbe ter komercialni kakovosti, ki jih je dolžan zagotavljati elektrooperater;

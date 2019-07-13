@@ -15,7 +15,7 @@ V tem delu zakona imajo posamezni izrazi naslednji pomen:
 13. "izvedeni finančni instrument za trgovanje s plinom" pomeni finančni instrument, opredeljen v 5., 6. ali 7. točki drugega odstavka 7. člena Zakona o trgu finančnih instrumentov (Uradni list RS, št. 108/10 - uradno prečiščeno besedilo, 78/11, 55/12, 105/12 - ZBan-1J in 63/13 - ZS-K), če se ta instrument nanaša na zemeljski plin;
 14. "izravnalni trg" je namenjen trgovanju s količinami zemeljskega plina, ki so potrebne za izravnavo odstopanj pri operaterju prenosnega sistema med prevzetimi in predanimi količinami v plinovodnem sistemu;
 15. "končni odjemalec" pomeni odjemalca, ki ima sklenjeno pogodbo o dobavi in kupuje zemeljski plin za svojo lastno rabo;
-16. "mali poslovni odjemalec" je negospodinjski odjemalec zemeljskega plina, katerega predvidena povprečna letna poraba ne presega 10.000 Sm3;
+16. "mali poslovni odjemalec" je negospodinjski odjemalec zemeljskega plina, katerega predvidena povprečna letna poraba ne presega 100.000 kWh;
 17. "nadzor" pomeni, pravice, pogodbe ali druga sredstva, ki vsako zase ali skupaj in ob upoštevanju ustreznih dejanskih ali pravnih okoliščin omogočajo izvajanje odločilnega vpliva v podjetju, zlasti z:
 a) lastništvom ali pravico do uporabe celotnega ali dela premoženja podjetja;
 b) pravicami ali pogodbami, ki zagotavljajo odločilen vpliv na sestavo, glasovanje ali odločitve organov podjetja;
@@ -46,7 +46,7 @@ b) pravicami ali pogodbami, ki zagotavljajo odločilen vpliv na sestavo, glasova
 42. "prosti trg" je trg, na katerem lahko udeleženci neposredno med seboj sklepajo pogodbe o dobavi zemeljskega plina. Dobavitelj in odjemalec se prosto dogovorita o ceni in količini dobavljenega zemeljskega plina;
 43. "ranljivi odjemalec" je gospodinjski odjemalec, ki si zaradi svojih premoženjskih razmer, dohodkov in drugih socialnih okoliščin ter bivalnih razmer ne more zagotoviti drugega vira energije za ogrevanje, ki bi mu povzročil enake ali manjše stroške za ogrevanje stanovanjskih prostorov;
 44. "regulirani letni prihodek" pomeni reguliran letni prihodek operaterja sistema zemeljskega plina posameznega leta regulativnega obdobja iz zaračunanih omrežnin za sistem in drugih prihodkov in je namenjen pokrivanju upravičenih stroškov tega operaterja;
-45. "redni cenik" pomeni cenik za določen tip odjemalca (gospodinjski, poslovni oziroma podskupine poslovnih), ki velja za vse, ki sklenejo pogodbo o dobavi z dobaviteljem za dotičen tip odjemalca, z izjemo akcijskih oziroma paketnih cenikov, in je vanj vključenih najmanj 50 % in najmanj 250 odjemalcev pri posameznem dobavitelju;
+45. (črtana);
 46. "regulativni okvir" pomeni vrednostno opredelitev načrtovanih upravičenih stroškov operaterja sistema zemeljskega plina po posameznih letih regulativnega obdobja, načrtovanih omrežnin, drugih prihodkov iz izvajanja dejavnosti operaterja sistema zemeljskega plina, presežkov ali primanjkljajev omrežnin iz preteklih let;
 47. "regulativno obdobje" je obdobje enega ali več zaporednih koledarskih let, za katero se določa regulativni okvir;
 48. "sistem" pomeni prenosno omrežje, distribucijsko omrežje, obrat za UZP oziroma skladišče, ki je v lasti podjetja plinskega gospodarstva ali ki ga upravlja podjetje plinskega gospodarstva, vključno s skladiščno zmogljivostjo plinovoda in njenimi objekti, ki opravljajo sistemske storitve, ter s tistimi objekti povezanih podjetij, ki so potrebni za zagotavljanje dostopa do prenosa, distribucije in UZP;

@@ -34,7 +34,7 @@ b) pravicami ali pogodbami, ki zagotavljajo odločilen vpliv na sestavo, glasova
 30. "proizvajalec" pomeni pravno ali fizično osebo, ki proizvaja elektriko;
 31. "prenos" pomeni prenos elektrike po prenosnem sistemu;
 32. "prevzemno-predajno mesto" pomeni mesto na prenosnem ali distribucijskem sistemu, kjer se izvajata prevzem in predaja elektrike in na katerem se izvajajo meritve ali drug način ugotavljanja realiziranih količin o oddaji in odjemu elektrike;
-33. "redni cenik" pomeni cenik za določen tip odjemalca (gospodinjski, poslovni oziroma podskupine poslovnih), ki velja za vse, ki sklenejo pogodbo o dobavi z dobaviteljem za dotičen tip odjemalca, z izjemo akcijskih oziroma paketnih cenikov, in je vanj vključenih najmanj 50 % in najmanj 1000 odjemalcev pri posameznem dobavitelju;
+33. (črtana);
 34. "regulirani letni prihodek" pomeni reguliran letni prihodek elektrooperaterja posameznega leta regulativnega obdobja iz zaračunanih omrežnin za sistem in drugih prihodkov ter je namenjen pokrivanju upravičenih stroškov tega operaterja;
 35. "regulativno obdobje" pomeni obdobje enega ali več zaporednih koledarskih let, za katero se določa regulativni okvir;
 36. "regulativni okvir" pomeni vrednostno opredelitev načrtovanih upravičenih stroškov elektrooperaterja po posameznih letih regulativnega obdobja, načrtovanih omrežnin, načrtovanih drugih prihodkov iz izvajanja dejavnosti elektrooperaterja, presežkov ali primanjkljajev omrežnin iz preteklih let;

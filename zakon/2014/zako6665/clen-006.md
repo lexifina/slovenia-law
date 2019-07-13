@@ -14,7 +14,7 @@
 - gospodarske subjekte, ki opravljajo dejavnost pridobivanja premoga, nafte in zemeljskega plina,
 - izvajalce energetskih storitev, energetskega svetovanja in energetskih pregledov,
 - inštalaterje naprav na obnovljive vire energije,
-- proizvajalce ali njihove pooblaščene zastopnike ali uvoznike, ki dajejo na trg proizvode, povezane z energijo,
+- proizvajalce ali njihove pooblaščene zastopnike ali uvoznike ali distributerje ali trgovce, ki dajejo na trg proizvode, povezane z energijo,
 - proizvajalce ali njihove pooblaščene zastopnike ali uvoznike, ki dajejo na trg naprave za proizvodnjo toplote iz obnovljivih virov energije,
 - upravljavce oziroma lastnike javnih parkirišč in parkirišč, ki so dostopna javnosti, ter parkirišč stavb oseb javnega sektorja,
 - osebe javnega sektorja,

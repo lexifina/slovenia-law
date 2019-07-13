@@ -11,5 +11,5 @@
 - konkurence na trgu z energijo,
 - prilagodljivih porabnikov energije,
 - varstva potrošnikov.
-(2) Ukrepi za doseganje ciljev iz prejšnjega odstavka se določijo v naslednjih dokumentih dolgoročnega načrtovanja: v energetskem konceptu Slovenije, državnem razvojnem energetskem načrtu ter v operativnih in akcijskih načrtih za posamezna področja oskrbe in ravnanja z energijo. Ukrepi morajo zajemati regulativno urejanje oskrbe z energijo, sklepanje in izvajanje mednarodnih pogodb s področja energije, izvajanje investicij in spodbujanje investicij na področju energije ter druge aktivnosti.
+(2) Ukrepi za doseganje ciljev iz prejšnjega odstavka se določijo v naslednjih dokumentih dolgoročnega načrtovanja: v energetskem konceptu Slovenije, celovitem nacionalnem energetskem in podnebnem načrtu ter v operativnih in akcijskih načrtih za posamezna področja oskrbe in ravnanja z energijo. Ukrepi morajo zajemati regulativno urejanje oskrbe z energijo, sklepanje in izvajanje mednarodnih pogodb s področja energije, izvajanje investicij in spodbujanje investicij na področju energije ter druge aktivnosti.
 (3) Izvajanje ukrepov za doseganje ciljev iz prvega odstavka tega člena je v splošnem gospodarskem interesu države.

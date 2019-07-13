@@ -1,5 +1,5 @@
 # 200. člen (razvoj omrežja)
-(1) Ne glede na 30. člen tega zakona, mora operater prenosnega sistema pripraviti desetletni razvojni načrt omrežja skladno s tem členom.
+(1) Operater prenosnega sistema pripravi desetletni razvojni načrt omrežja v skladu s četrtim odstavkom 30. člena tega zakona in tem členom.
 (2) Operater prenosnega sistema mora vsako leto najkasneje do 1. junija, po posvetovanju z vsemi ustreznimi zainteresiranimi stranmi, sprejeti in predložiti agenciji desetletni razvojni načrt omrežja. Za prva tri leta tega načrta mora operater prenosnega sistema priložiti tudi naložbeni načrt, usklajen z desetletnim razvojnim načrtom in izdelan v skladu z metodologijo iz četrtega odstavka 252. člena tega zakona.
 (3) Desetletni razvojni načrt omrežja mora temeljiti na obstoječi in predvideni ponudbi in povpraševanju in mora vsebovati učinkovite ukrepe za zagotovitev ustreznosti sistema in zanesljivosti oskrbe.
 (4) Desetletni razvojni načrt omrežja zlasti:

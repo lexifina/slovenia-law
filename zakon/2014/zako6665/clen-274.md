@@ -2,7 +2,7 @@
 (1) Operater sistema odklopi uporabnika sistema na posameznem odjemnem mestu po predhodnem obvestilu, če ta v roku, določenem v obvestilu, ne izpolni svoje obveznosti, če uporabnik sistema:
 a) moti dobavo zemeljskega plina drugim uporabnikom sistema;
 b) odreče ali onemogoči osebam, ki imajo pooblastilo operaterja sistema, dostop do vseh delov priključka, do zaščitnih in merilnih naprav in do energetskih objektov, naprav ali napeljav, kadar obstaja sum, da te naprave povzročajo motnje;
-c) brez soglasja operaterja sistema priključi na omrežje svoje energetske naprave ali napeljave ali omogoči prek svojih energetskih naprav priključitev energetskih naprav drugih uporabnikov sistema;
+c) omogoči prek svojih energetskih naprav priključitev energetskih naprav drugih uporabnikov sistema;
 č) na opomin operaterja sistema ne zniža odjema oziroma oddaje količine zemeljskega plina na dogovorjeno vrednost v zahtevanem roku;
 d) onemogoča pravilno registriranje obračunskih količin zemeljskega plina;
 e) uporablja zemeljski plin brez zahtevanih oziroma dogovorjenih merilnih naprav ali mimo njih;

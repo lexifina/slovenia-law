@@ -8,5 +8,5 @@
 - obveznosti glede obnovljivih virov energije;
 - kazalniki po pripadajočih ciljih energetske politike programskega proračuna Republike Slovenije.
 (4) EKS vlada obnovi vsakih deset let, razen v primeru iz šestega odstavka tega člena.
-(5) Za izvajanje ukrepov EKS je odgovorna vlada. Vlada vsake tri leta poroča Državnemu zboru o doseganju ciljev nacionalne energetske politike, izvajanju ukrepov iz EKS ter o izvajanju naložb v infrastrukturne objekte, opredeljene v državnem razvojnem energetskem načrtu.
+(5) Za izvajanje ukrepov EKS je odgovorna vlada. Vlada vsake tri leta poroča Državnemu zboru o doseganju ciljev nacionalne energetske politike in o izvajanju ukrepov iz EKS.
 (6) V primeru, da je na podlagi poročila iz prejšnjega odstavka potrebno veljavni EKS pri določenih ciljih ali ukrepih spremeniti oziroma dopolniti, vlada predlaga Državnemu zboru sprejem novega EKS.

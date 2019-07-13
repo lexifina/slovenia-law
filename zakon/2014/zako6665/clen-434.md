@@ -10,6 +10,6 @@
 6. spremljanje trgovanja z veleprodajnimi energetskimi proizvodi skladno z Uredbo (EU) št. 1227/2011 z namenom odkrivanja in preprečevanja trgovanja na podlagi notranjih informacij in tržnih manipulacij;
 7. pojav drugih omejevalnih ravnanj udeležencev na trgu, ki preprečujejo, omejujejo ali izkrivljajo konkurenco na trgu, vključno z vidika ravnanja podjetij s prevladujočim položajem in vidika koncentracij;
 8. spremljanje zanesljivosti oskrbe, od katere so odvisni ravnotežje med ponudbo in povpraševanjem na nacionalnem trgu, raven predvidenega prihodnjega povpraševanja in predvidene dodatne zmogljivosti, ki se načrtujejo ali gradijo;
-9. izdelavo in vzdrževanje primerjalnika cen rednih cenikov za gospodinjske in male poslovne odjemalce, s katerim je mogoče primerjati veljavne redne cenike ponudnikov elektrike in zemeljskega plina. Agencija ne vodi primerjalnika cen za akcijske oziroma paketne ponudbe;
+9. izdelavo in vzdrževanje primerjalnika cen za gospodinjske in male poslovne odjemalce;
 10. preprečevanje navzkrižnega subvencioniranja med dejavnostmi prenosa, distribucije in proizvodnje.
 (3) Agencija o izvajanju monitoringa sestavi poročilo, ki obsega oceno o stopnji preglednosti in konkurenčnosti na trgu elektrike in zemeljskega plina. Vsebina poročila je sestavni del letnega poročila o stanju na področju energetike iz 404. člena tega zakona.
