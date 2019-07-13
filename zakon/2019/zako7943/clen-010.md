@@ -1,0 +1,3 @@
+# 10. člen
+V 19. členu se v prvem odstavku besedilo "trajajo pravne posledice obsodbe" nadomesti z besedilom "traja preizkusna doba ali pravne posledice obsodbe".
+V tretjem odstavku se črta besedilo "petega odstavka 139. člena", besedilo "Zakona o splošnem upravnem postopku (Uradni list RS, št. 80/99, 70/00, 52/02, 73/04 in 119/05)" pa se nadomesti z besedilom "zakona, ki ureja splošni upravni postopek". Doda se nov stavek, ki se glasi: "Državljan Republike Slovenije, ki prebiva v tujini, mora v postopku spremembe osebnega imena predložiti tudi potrdilo o nekaznovanju pristojnega tujega organa.".
