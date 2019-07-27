@@ -1,0 +1,3 @@
+# 2. člen
+V 8.c členu se tretji odstavek spremeni tako, da se glasi:
+"(3) Javno korist za ustanovitev služnosti in obdobje obremenitve s služnostjo v javno korist ugotovi Vlada Republike Slovenije s sklepom, ki se objavi v Uradnem listu Republike Slovenije. Javna korist za ustanovitev služnosti velja tudi za zemljišča, ki nastanejo s parcelacijo zemljišč, določenih v sklepu iz prejšnjega stavka, če so potrebna za opravljanje nalog v skladu s prvim odstavkom tega člena. Do pravnomočnosti odločitve o služnosti v javno korist lahko policija na zemljiščih, za katere obstaja javna korist za ustanovitev služnosti, še naprej opravlja naloge iz 8. člena tega zakona, za katere je potrebna trajnejša in nepretrgana uporaba zemljišč, ki otežuje redno rabo zemljišč.".

@@ -1,0 +1,2 @@
+# 6. člen (sprememba že sklenjenih pogodb o ustanovitvi služnosti)
+Pogodbe o ustanovitvi služnosti v javno korist, sklenjene v skladu z 8.d členom Zakona o nadzoru državne meje (Uradni list RS, št. 35/10 - uradno prečiščeno besedilo, 15/13 - ZNPPol, 5/17 in 68/17), se preverijo v delu, ki se nanaša na višino odškodnine, in se k njim sklenejo aneksi v skladu z 8.d členom zakona, če se lastniki zemljišč s tem strinjajo.
