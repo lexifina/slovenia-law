@@ -1,5 +1,5 @@
 # 185. člen (letalski prekrški)
-Z globo od 100.000 do 150.000 tolarjev se kaznuje za prekršek tudi odgovorna oseba izvajalca navigacijskih služb zračnega prometa, če:
+Z globo od 400 do 600 eurov se kaznuje za prekršek tudi odgovorna oseba izvajalca navigacijskih služb zračnega prometa, če:
 1. ne zagotovi, da se pred določitvijo lokacije, pričetka gradnje ali rekonstrukcije, oziroma pred postavitvijo infrastrukturnih objektov, naprav in sistemov navigacijskih služb zračnega prometa pridobi predhodno soglasje (prvi odstavek 119. člena),
 2. dopusti, da izvajalec navigacijskih služb zračnega prometa ne izvaja teh služb v skladu s pogoji, ki so določeni s tem zakonom ali predpisi, izdanimi na njegovi podlagi (drugi odstavek 117. člena),
 3. dopusti, da se uporablja infrastrukturne objekte, naprave in sisteme navigacijskih služb zračnega prometa, ki ne izpolnjujejo predpisanih pogojev ali to ni bilo ugotovljeno s predpisanimi meritvami, in umerjanji če dopusti, da osebje, ki jih vzdržuje in uporablja za to ni strokovno usposobljeno ali če dopusti, da se uporablja navedene objekte brez obratovalnega dovoljenja (prvi odstavek 121. člena).

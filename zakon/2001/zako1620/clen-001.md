@@ -11,5 +11,6 @@
 - Direktiva Evropskega parlamenta in Sveta 2002/30/ES z dne 26. marca 2002 o oblikovanju pravil in postopkov glede uvedbe s hrupom povezanih omejitev obratovanja na letališčih Skupnosti (UL L št. 85 z dne 28. 3. 2002, str. 40),
 - Direktiva Evropskega parlamenta in Sveta 2003/42/ES z dne 13. junija 2003 o poročanju o dogodkih v civilnem letalstvu (UL L št. 167 z dne 4. 7. 2003, str. 23),
 - Direktiva Sveta 2004/82/ES z dne 29. aprila 2004 o dolžnosti prevoznikov, da posredujejo podatke o potnikih (UL L št. 261 z dne 6. 8. 2004, str. 24),
-- Direktiva 2009/12/ES Evropskega parlamenta in Sveta z dne 11. marca 2009 o letaliških pristojbinah (UL L št. 70 z dne 14. 3. 2009, str. 11).
+- Direktiva 2009/12/ES Evropskega parlamenta in Sveta z dne 11. marca 2009 o letaliških pristojbinah (UL L št. 70 z dne 14. 3. 2009, str. 11),
+- Direktiva (EU) 2016/681 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o uporabi podatkov iz evidence podatkov o potnikih (PNR) za preprečevanje, odkrivanje, preiskovanje in pregon terorističnih in drugih hudih kaznivih dejanj (UL L št. 119 z dne 4. 5. 2016, str. 132), v delu, ki določa obveznosti letalskih prevoznikov glede prenosa podatkov iz evidence podatkov o potnikih (PNR).
 (3) Zagotavljanje varnosti, rednosti in nemotenosti zračnega prometa je v javnem interesu.

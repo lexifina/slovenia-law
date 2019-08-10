@@ -1,5 +1,5 @@
 # 187. člen (letalski prekrški)
-Z globo od 100.000 tolarjev do 150.000 tolarjev se kaznuje za prekršek vodja zrakoplova ali druga oseba, ki upravlja zrakoplov, če:
+Z globo od 400 do 600 eurov se kaznuje za prekršek vodja zrakoplova ali druga oseba, ki upravlja zrakoplov, če:
 1. krši pravila letenja (prvi odstavek 8. člena),
 2. v primeru kršitve zračnega prostora z zrakoplovom ne pristane na ukaz pristojnega organa v skladu z navodili (tretji odstavek 10. člena),
 3. ni seznanjen z vsebino tovora, ki ga prevaža (sedmi odstavek 59. člena),

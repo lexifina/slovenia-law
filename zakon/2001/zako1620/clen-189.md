@@ -1,5 +1,5 @@
 # 189. člen (letalski prekrški)
-(1) Z globo od 600.000 tolarjev do 6,000.000 tolarjev se kaznuje za prekršek pravna oseba, če:
+(1) Z globo od 2.500 do 25.000 eurov se kaznuje za prekršek pravna oseba, če:
 1. kot letalski prevoznik ne zagotovi, da posadke ne prekoračijo dovoljenih časovnih omejitev v zvezi z letenjem, počitki ter številom vzletov in pristankov ali ne zagotovi predpisanega časa počitka (prvi odstavek 65. člena),
 2. kot letalski prevoznik ne vodi zapisov o času letenja, delovni obveznosti in počitkih letalskega in drugega strokovnega osebja (tretji odstavek 65. člena),
 3. kot letalski prevoznik izvaja strokovno usposabljanje letalskega in drugega strokovnega osebja brez izpolnitve predpisanih pogojev (prvi odstavek 77. člena),
@@ -11,6 +11,6 @@
 9. kot letalski prevoznik rednega zračnega prevoza ne opravlja v skladu z redom letenja (prvi odstavek 84. člena),
 10. kot letalski prevoznik oziroma operator zrakoplova ne zagotovi osnovnih varnostnih pregledov zrakoplovov ali opreme, potrebne za njihovo izvajanje (tretji odstavek 127. člena),
 11. kot letalski prevoznik za lastne potrebe zagotavlja zemeljsko oskrbo v pogojih samooskrbe, pa ne izpolnjuje predpisanih organizacijskih, tehničnih in tehnoloških pogojev za izvajanje posamezne kategorije storitev oziroma ne pridobi predpisane odločbe (tretji odstavek 159. člena).
-(2) Z globo od 80.000 tolarjev do 300.000 tolarjev se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe.
-(3) Z globo od 600.000 tolarjev do 4,000.000 tolarjev se kaznuje samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
-(4) Z globo od 60.000 do 140.000 tolarjev se kaznuje tudi posameznik - fizična oseba, ki stori prekršek iz prvega odstavka tega člena.
+(2) Z globo od 300 do 1.200 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe.
+(3) Z globo od 2.500 do 17.000 eurov se kaznuje samostojni podjetnik posameznik, ki stori prekršek iz prvega odstavka tega člena.
+(4) Z globo od 250 do 600 eurov se kaznuje tudi posameznik - fizična oseba, ki stori prekršek iz prvega odstavka tega člena.
