@@ -1,0 +1,2 @@
+# 3. člen
+V 15. členu se v prvem odstavku na koncu dodata nova drugi in tretji stavek, ki se glasita: "Pristojni organ lahko pozove vlagatelja, da priskrbi dodatne informacije glede usposabljanja, če je to potrebno za ugotovitev možnih vsebinskih razlik glede na nacionalne zahteve. Če vlagatelj teh informacij ne more zagotoviti, jih pristojni organ pridobi od ustreznega pristojnega organa v državi pogodbenici izvora.".
