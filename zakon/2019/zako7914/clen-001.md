@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o nalogah in pooblastilih policije (Uradni list RS, št. 15/13, 23/15 - popr. in 10/17) se za besedilom 2. člena, ki postane prvi odstavek, doda nov drugi odstavek, ki se glasi:
+"(2) S tem zakonom se v pravni red Republike Slovenije prenaša Direktiva (EU) 2016/681 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o uporabi podatkov iz evidence podatkov o potnikih (PNR) za preprečevanje, odkrivanje, preiskovanje in pregon terorističnih in hudih kaznivih dejanj (UL L št. 119 z dne 4. 5. 2016, str. 132), v delu, ki ureja obdelavo, zbiranje, uporabo in hrambo podatkov iz evidence podatkov o potnikih (PNR) s strani pristojnega organa države ter izmenjavo informacij.".
