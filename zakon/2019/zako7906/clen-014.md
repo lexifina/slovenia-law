@@ -1,0 +1,10 @@
+# 14. člen
+Za 189.a členom se doda nov 189.b člen, ki se glasi:
+"189.b člen
+(letalski prekrški)
+(1) Z globo od 3.000 do 15.000 eurov se za prekršek kaznuje letalski prevoznik - pravna oseba, ki ni poslal podatkov o potnikih ali jih ni poslal pravočasno ali je poslal nepravilne podatke ali jih ni poslal na predhodno dogovorjen način (84.c in 84.č člen).
+(2) Z globo od 2.000 do 10.000 eurov se za prekršek iz prejšnjega odstavka kaznuje letalski prevoznik, ki je samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost.
+(3) Z globo od 1.000 do 5.000 eurov se za prekršek iz prvega in drugega odstavka tega člena kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, ki je letalski prevoznik.
+(4) Z globo od 3.000 do 8.000 eurov se za prekršek kaznuje pravna oseba, ki v okviru izvajanja svoje pridobitne dejavnosti opravi rezervacijo za potnike v rednem in posebnem zračnem prevozu in letalskemu prevozniku podatkov o teh potnikih ni poslala ali jih ni poslala pravočasno ali je poslala nepravilne podatke (84.c člen).
+(5) Z globo od 400 do 3.000 eurov se za prekršek iz prejšnjega odstavka kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, kadar v okviru izvajanja svoje pridobitne oziroma registrirane dejavnosti opravi rezervacijo za potnike v rednem in posebnem zračnem prevozu.
+(6) Z globo od 200 do 1.000 eurov se za prekršek iz četrtega in petega odstavka tega člena kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, kadar v okviru izvajanja svoje pridobitne oziroma registrirane dejavnosti opravi rezervacijo za potnike v rednem in posebnem zračnem prevozu.".
