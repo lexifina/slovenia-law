@@ -1,0 +1,9 @@
+# 4. člen
+Za 34. členom se doda nov 34.a člen, ki se glasi:
+"34.a člen
+(prekrški zavezancev za prejemanje e-računov, izdanih v skladu z evropskim standardom)
+(1) Z globo od 2.500 do 10.000 eurov se za prekršek kaznuje naročnik, ki zavrne sprejem in obdelavo e-računa, če je e-račun skladen z evropskim standardom za izdajanje e-računov in katero koli od sintaks s seznama, ki sta določena v vsakokratnem izvedbenem sklepu Evropske komisije, objavljenem v Uradnem listu Evropske unije v skladu z Direktivo 2014/55/EU, in sicer:
+- če je e-račun izdan s strani domačega ali tujega gospodarskega subjekta na podlagi pogodbe, kot je opredeljena v devetnajsti alineji 2. člena tega zakona (prvi odstavek 28.a člena);
+- če gre za e-račun podizvajalca, ki ga svojemu računu priloži glavni izvajalec, kadar je s pogodbo ali drugim aktom določeno, da naročnik neposredno plačuje podizvajalcu, v skladu s pogoji, določenimi v zakonu, ki ureja javno naročanje (tretji odstavek 28.a člena);
+- če gre za e-račune, za katere se predpisi, ki urejajo javno naročanje, koncesije in javno-zasebno partnerstvo, ne uporabljajo, če se naročnik in gospodarski subjekt s pogodbo dogovorita o izdajanju oziroma prejemanju e-računov (četrti odstavek 28.a člena).
+(2) Z globo od 1.000 do 4.100 eurov se za prekršek kaznuje odgovorna oseba naročnika, ki stori prekršek iz prejšnjega odstavka.".
