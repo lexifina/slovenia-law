@@ -1,0 +1,7 @@
+# 10. člen
+
+Finančno in materialno poslovanje ter razpolaganje s pridobljenimi sredstvi Študentske organizacije Slovenije in njenih organizacijskih oblik poteka pod pogoji in na način, določen z zakonom in akti Študentske organizacije Slovenije. Za vodenje poslovnih knjig in izdelavo letnih poročil pravnih oseb javnega prava po tem zakonu se smiselno uporabljajo določbe zakona, ki ureja računovodstvo, v delu, ki ureja javne zavode. Študentska organizacija Slovenije in njene organizacijske oblike ter pravne osebe, v katerih imajo Študentska organizacija Slovenije ali njene organizacijske oblike prevladujoč vpliv, uporabljajo določbe zakona, ki ureja javno naročanje.
+
+Računsko sodišče Republike Slovenije revidira pravilnost in smotrnost poslovanja Študentske organizacije Slovenije in njenih organizacijskih oblik ter pravnih oseb, v katerih imajo Študentska organizacija Slovenije ali njene organizacijske oblike prevladujoč vpliv.
+
+Zaposlenim, poslovodnim osebam ter članom organov vodenja in nadzora Študentske organizacije Slovenije, njenih organizacijskih oblik ter pravnih oseb, v katerih imajo Študentska organizacija Slovenije ali njene organizacijske oblike prevladujoč vpliv, se plača določi tako, da najvišja bruto plača brez dodatka na delovno dobo ne presega dvakratnika povprečne bruto plače, izplačane v Republiki Sloveniji v predpreteklem mesecu.

@@ -1,0 +1,29 @@
+## II. STATUSNA OPREDELITEV ŠTUDENTSKE ORGANIZACIJE
+
+# 3. člen
+
+V Študentski organizaciji Slovenije se pravice pridobijo ali prenehajo s pridobitvijo ali izgubo statusa študenta na visokošolskem zavodu v Republiki Sloveniji v skladu z zakonom. Pravice v Študentski organizaciji Slovenije pridobijo tudi državljani Republike Slovenije, ki imajo status študenta na tujih visokošolskih zavodih.
+
+Študentska organizacija Slovenije je pravna oseba javnega prava s pravicami, obveznostmi in odgovornostmi, ki jih določata ta zakon in njen temeljni akt. Študentska organizacija Slovenije je avtonomna pri izvajanju pooblastil in dejavnosti v skladu z določbami tega zakona.
+
+Organizacijske oblike povezovanja v Študentski organizaciji Slovenije so študentske organizacije visokošolskih zavodov, študentske organizacije višjih strokovnih šol, študentske organizacije lokalnih skupnosti in interesne oblike povezovanja študentov, ki za pridobitev statusa organizacijske oblike Študentske organizacije Slovenije izpolnjujejo pogoje, določene v tem zakonu in aktih Študentske organizacije Slovenije.
+
+Študentsko organizacijo visokošolskega zavoda sestavljajo vsi študentje posameznega visokošolskega zavoda.
+
+Študentsko organizacijo višje strokovne šole sestavljajo vsi študentje posamezne višje strokovne šole. Določbe zakonov, ki se uporabljajo za študentsko organizacijo visokošolskega zavoda, se uporabljajo tudi za študentske organizacije višjih strokovnih šol.
+
+V študentsko organizacijo lokalne skupnosti se združujejo študentje s stalnim bivališčem v lokalni skupnosti, ki izkažejo interes, v skladu s temeljnim aktom Študentske organizacije Slovenije.
+
+Študentska organizacija univerze, samostojnega visokošolskega zavoda oziroma višje strokovne šole je pravna oseba javnega prava s pravicami, obveznostmi in odgovornostmi, ki jih določajo zakon in temeljni akt Študentske organizacije Slovenije.
+
+Študentske organizacije drugih visokošolskih zavodov so pravne osebe javnega prava s pravicami, obveznostmi in odgovornostmi, ki jih določajo zakon in temeljni akt Študentske organizacije Slovenije.
+
+Izraz pravna oseba javnega prava iz tega člena se nanaša izključno na poslovanje in nadzor nad delovanjem študentskih organizacij, kot jih določa ta zakon.
+
+Člani organov vodenja in nadzora Študentske organizacije Slovenije in njenih organizacijskih oblik ter pravnih oseb, v katerih imajo Študentska organizacija Slovenije ali njene organizacijske oblike prevladujoč vpliv, ne smejo biti osebe, ki so bile pravnomočno obsojene na zaporno kazen v trajanju več kot šest mesecev.
+
+Za Študentsko organizacijo Slovenije in njene organizacijske oblike ter pravne osebe, v katerih imajo Študentska organizacija Slovenije ali njene organizacijske oblike prevladujoč vpliv, se uporabljajo določbe zakona, ki ureja dostop do informacij javnega značaja, kot velja za druge osebe javnega prava.
+
+Za člane organov vodenja in nadzora Študentske organizacije Slovenije in njenih organizacijskih oblik ter pravnih oseb, v katerih imajo Študentska organizacija Slovenije ali njene organizacijske oblike prevladujoč vpliv, se uporabljajo določbe zakona, ki ureja integriteto in preprečevanje korupcije, glede omejitve poslovanja, začasne prepovedi poslovanja po prenehanju funkcije, nasprotja interesov, daril, lobiranja in nadzora nad premoženjskim stanjem ter protikorupcijske klavzule.
+
+V temeljnem aktu Študentske organizacije Slovenije se za namene izvajanja določb prejšnjega odstavka določi funkcije in zaposlitve v organizaciji, ki štejejo za člane organov vodenja in nadzora.
