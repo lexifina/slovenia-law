@@ -1,0 +1,2 @@
+# 12. člen
+V 126. členu se v četrti alineji besedilo "zadnjič spremenjeni z Izvedbeno uredbo Sveta (EU) št. 1042/2013 z dne 7. oktobra 2013 o spremembi Izvedbene uredbe (EU) št. 282/2011 glede kraja opravljanja storitev (UL L št. 284 z dne 26. 10. 2013, str. 1)" nadomesti z besedilom "zadnjič spremenjeni z Izvedbeno uredbo Sveta (EU) 2018/1912 z dne 4. decembra 2018 o spremembi Izvedbene uredbe (EU) št. 282/2011 glede nekaterih oprostitev za transakcije znotraj Skupnosti (UL L št. 311 z dne 7. 12. 2018, str. 10)".
