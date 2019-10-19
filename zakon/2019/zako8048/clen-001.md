@@ -1,0 +1,8 @@
+# 1. člen
+V Stanovanjskem zakonu (Uradni list RS, št. 69/03, 18/04 - ZVKSES, 47/06 - ZEN, 45/08 - ZVEtL, 57/08, 62/10 - ZUPJS, 56/11 - odl. US, 87/11, 40/12 - ZUJF, 14/17 - odl. US in 27/17) se v 29. členu doda nov tretji odstavek, ki se glasi:
+"(3) Ne glede na določbo prejšnjega odstavka lahko etažni lastniki, ki imajo več kakor tri četrtine solastniških deležev, izvedejo gradbena dela in izboljšave za odpravo arhitektonskih ovir tudi, kadar je zanje treba pridobiti gradbeno dovoljenje.".
+Dosedanji tretji in četrti odstavek postaneta četrti in peti odstavek.
+Dosedanji peti odstavek, ki postane šesti odstavek, se spremeni tako, da se glasi:
+"(6) Etažni lastnik, ki se z odločanjem o poslih iz tretjega ali četrtega odstavka tega člena ne strinja, lahko zahteva razveljavitev sklepa o odločitvi etažnih lastnikov v nepravdnem postopku. Sodišče sklep razveljavi, če ugotovi, da bi se s posegom iz izpodbijanega sklepa poslabšal posamezni del ali bivanje etažnega lastnika, ki zahteva razveljavitev sklepa, ali bi stroški izvršitve izpodbijanega sklepa predstavljali zanj preveliko breme. Če kritje stroškov izvršitve izpodbijanega sklepa prevzamejo etažni lastniki, ki so sklep sprejeli, ga sodišče ne more razveljaviti iz razloga, da stroški izvršitve predstavljajo preveliko breme.".
+Doda se nov sedmi odstavek, ki se glasi:
+"(7) Odprava arhitektonskih ovir iz tretjega odstavka tega člena predstavlja zagotovitev neoviranega dostopa in uporabe stavbe (npr. klančine, mehanske dvižne naprave, prilagoditev stavbnega pohištva oziroma gradbena dela, ki jih za zagotovitev univerzalne uporabe objekta določa pravilnik, ki ureja univerzalno graditev in uporabo objektov).".
