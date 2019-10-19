@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o enakih možnostih žensk in moških (Uradni list RS, št. 59/02, 61/07 - ZUNEO-A in 33/16 - ZVarD) se v drugem odstavku 6. člena, drugem in tretjem odstavku 11. člena, drugem odstavku 13. člena, prvem odstavku 15. člena, drugem in tretjem odstavku 16. člena in naslovu pododdelka 1.2. besedilo "Urad za enake možnosti" v vseh sklonih, v drugem odstavku 30. člena pa beseda "uradom", nadomesti z besedilom "ministrstvo, pristojno za enake možnosti" v ustreznem sklonu.
