@@ -1,0 +1,6 @@
+# 2. člen
+V 11. členu se v prvem odstavku na koncu doda besedilo, ki se glasi: "Kadar je razlika med vrednostjo izvedenega finančnega instrumenta ob odsvojitvi in vrednostjo izvedenega finančnega instrumenta ob pridobitvi pozitivna, je davčna osnova razlika, zmanjšana za normirane stroške, povezane s pridobitvijo in odsvojitvijo izvedenega finančnega instrumenta. Normirani stroški, povezani s pridobitvijo in odsvojitvijo izvedenega finančnega instrumenta, se priznajo največ v višini, ki ne sme preseči nižjega od:
+1. seštevka 1% od plačane vrednosti izvedenega finančnega instrumenta ob pridobitvi in 1% od izplačane vrednosti izvedenega finančnega instrumenta ob odsvojitvi oziroma v primeru trgovanja z vzvodom kot seštevek 0,25% od plačane vrednosti izvedenega finančnega instrumenta ob pridobitvi in 0,25% od izplačane vrednosti izvedenega finančnega instrumenta ob odsvojitvi, ali
+2. pozitivne razlike med vrednostjo izvedenega finančnega instrumenta ob odsvojitvi in vrednostjo izvedenega finančnega instrumenta ob pridobitvi.".
+V drugem odstavku se črta besedilo ", povečana za normirane stroške, povezane s pridobitvijo izvedenega finančnega instrumenta, v višini 1% od plačane vrednosti".
+V tretjem odstavku se črta besedilo ", zmanjšana za normirane stroške, povezane z odsvojitvijo izvedenega finančnega instrumenta, v višini 1% od izplačane vrednosti".

@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o davku od dobička od odsvojitve izvedenih finančnih instrumentov (Uradni list RS, št. 65/08 in 40/12 - ZUJF) se v 9. členu v drugem in tretjem odstavku besedilo "(Uradni list RS, št. 117/06 in 10/08)" nadomesti z besedilom "(Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 9/12 - odl. US, 24/12, 30/12, 40/12 - ZUJF, 75/12, 94/12, 52/13 - odl. US, 96/13, 29/14 - odl. US, 50/14, 23/15, 55/15, 63/16, 69/17, 21/19 in 28/19)".
