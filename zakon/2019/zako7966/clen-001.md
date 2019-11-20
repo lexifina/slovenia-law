@@ -1,0 +1,12 @@
+# 1. člen
+V Zakonu o trgu finančnih instrumentov (Uradni list RS, št. 77/18 in 17/19 - popr., v nadaljnjem besedilu: ZTFI-1) se v 2. členu v prvem odstavku:
+- 5. točka črta;
+- 7. točka spremeni tako, da se glasi:
+"7. Direktiva 2013/36/EU Evropskega parlamenta in Sveta z dne 26. junija 2013 o dostopu do dejavnosti kreditnih institucij in bonitetnem nadzoru kreditnih institucij in investicijskih podjetij, spremembi Direktive 2002/87/ES in razveljavitvi direktiv 2006/48/ES in 2006/49/ES (UL L št. 176 z dne 27. 6. 2013, str. 338), zadnjič spremenjena z Direktivo (EU) 2018/843 Evropskega parlamenta in Sveta z dne 30. maja 2018 o spremembi Direktive (EU) 2015/849 o preprečevanju uporabe finančnega sistema za pranje denarja ali financiranje terorizma ter o spremembi direktiv 2009/138/ES in 2013/36/EU (UL L št. 156 z dne 19. 6. 2018, str. 43), v delu, ki se nanaša na borznoposredniške družbe (v nadaljnjem besedilu: Direktiva 2013/36/EU),".
+V drugem odstavku se:
+- 1. točka črta;
+- 2. točka spremeni tako, da se glasi:
+"2. Uredbe (EU) št. 575/2013 Evropskega parlamenta in Sveta z dne 26. junija 2013 o bonitetnih zahtevah za kreditne institucije in investicijska podjetja ter o spremembi Uredbe (EU) št. 648/2012 (UL L št. 176 z dne 27. 6. 2013, str. 1), zadnjič spremenjena z Uredbo (EU) 2019/630 Evropskega parlamenta in Sveta z dne 17. aprila 2019 o spremembi Uredbe (EU) št. 575/2013 glede minimalnega kritja izgub za nedonosne izpostavljenosti (UL L št. 111 z dne 25. 4. 2019, str. 4), (v nadaljnjem besedilu: Uredba 575/2013/EU),";
+- 6. točka spremeni tako, da se glasi:
+"6. Uredbe (EU) 2016/1011 Evropskega parlamenta in Sveta z dne 8. junija 2016 o indeksih, ki se uporabljajo kot referenčne vrednosti v finančnih instrumentih in finančnih pogodbah ali za merjenje uspešnosti investicijskih skladov, in spremembi direktiv 2008/48/ES in 2014/17/EU ter Uredbe (EU) št. 596/2014 (UL L št. 171 z dne 29. 6. 2016, str. 1), zadnjič spremenjena z Delegirano uredbo Komisije (EU) 2018/1646 z dne 13. julija 2018 o dopolnitvi Uredbe (EU) 2016/1011 Evropskega parlamenta in Sveta v zvezi z regulativnimi tehničnimi standardi za informacije, ki se navedejo v vlogi za dovoljenje in v vlogi za registracijo (UL L št. 274 z dne 5. 11. 2018, str. 4), (v nadaljnjem besedilu: Uredba 2016/1011/EU),";
+- v 7. točki besedilo "(UL L št. 168 z dne 30. 6. 2017, str. 12)" nadomesti z besedilom "(UL L št. 168 z dne 30. 6. 2017, str. 12; v nadaljnjem besedilu: Uredba 2017/1129/EU)".
