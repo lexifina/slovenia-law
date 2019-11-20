@@ -1,0 +1,2 @@
+# 8. člen
+V 126. členu se v šestnajstem odstavku za besedilom "Direktive 2011/62/EU" doda besedilo "Evropskega parlamenta in Sveta z dne 8. junija 2011 o spremembi Direktive 2001/83/ES o zakoniku Skupnosti o zdravilih za uporabo v humani medicini glede preprečevanja vstopa ponarejenih zdravil v zakonito dobavno verigo (UL L št. 174 z dne 1. 7. 2011, str. 74), zadnjič popravljene s Popravkom (UL L št. 238 z dne 9. 8. 2014, str. 31), (v nadaljnjem besedilu: Direktiva 2011/62/EU)".
