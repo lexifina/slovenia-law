@@ -1,0 +1,7 @@
+# 8. člen
+Za 32.b členom se doda nov 32.c člen, ki se glasi:
+"32.c člen
+(posebne določbe za licenco Skupnosti)
+(1) Za pridobitev licence Skupnosti je oseba lahko upravljavec prevozov samo v enem podjetju in mora biti zaposlena za poln delovni čas. To ne velja za osebe, ki so v podjetju več kot 50-odstotni lastniki. Če ima podjetje namesto upravljavca prevozov imenovano fizično osebo, ki opravlja naloge upravljavca prevozov v skladu z drugim odstavkom 4. člena Uredbe 1071/2009/ES (pogodbeni upravljavec), je ta oseba lahko namesto upravljavca prevozov upravljavec samo v enem podjetju, ki ne sme imeti skupno več kot pet vozil, pod pogojem, da ni že upravljavec prevozov v drugem podjetju.
+(2) Za pridobitev licence Skupnosti mora imeti podjetje za poln delovni čas zaposleno določeno število voznikov in drugih zaposlenih (npr. administracija, mehaniki, disponenti) v sorazmerju s številom vozil, za katera je izdan izvod licence. V času uradnih ur, ki jih določi prevoznik in priglasi pri izdajatelju licence, mora biti določeno število zaposlenih prisotnih na sedežu podjetja ali v drugih prostorih, iz katerih se vodi dejavnost podjetja v Republiki Sloveniji. Minimalno število zaposlenih glede na število vozil in njihovo prisotnost v podjetju, predpiše minister, glede na velikost podjetja.
+(3) Za pridobitev licence Skupnosti mora imeti podjetje na razpolago ustrezne prostore v skladu s 5. členom Uredbe 1071/2009/ES. Minimalno velikost, opremo in namen prostorov predpiše minister.".

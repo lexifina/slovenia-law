@@ -1,0 +1,4 @@
+# 19. člen
+V 42.e členu se drugi in tretji odstavek spremenita tako, da se glasita:
+"(2) Evidenco izkaznic vodi ministrstvo, upravne enote in izpitni centri iz 41. člena tega zakona pa vanjo vnašajo podatke. Evidenca se poveže z evidenco izdanih vozniških dovoljenj. Podatki iz evidence se vodijo pet let po prenehanju veljavnosti izkaznice.
+(3) Podatke iz evidence o izdanih izkaznicah o vozniških kvalifikacijah lahko uporabljajo delavci upravnih enot v postopkih izdaje izkaznic o vozniških kvalifikacijah in drugih dokumentov, ki jih izdaja upravna enota ter delavci izpitnih centrov iz 41. člena tega zakona v postopkih pridobivanja temeljnih kvalifikacij in rednih usposabljanj voznikov. Te podatke uporabljajo tudi policisti, pooblaščene uradne osebe finančne uprave, prometni inšpektorji in delavci ministrstva za namen izvrševanja njihovih z zakonom določenih nalog na področju nadzora temeljnih kvalifikacij voznikov.".
