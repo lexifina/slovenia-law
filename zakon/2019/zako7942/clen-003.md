@@ -1,0 +1,7 @@
+# 3. člen
+V 7. členu se drugi odstavek spremeni tako, da se glasi:
+"Rojstvo otroka izven zdravstvenega zavoda pristojnemu organu prijavi pri porodu navzoča zdravnica oziroma zdravnik (v nadaljnjem besedilu: zdravnik), diplomirana medicinska sestra oziroma diplomirani zdravstvenik (v nadaljnjem besedilu: diplomirani zdravstvenik) ali diplomirana babica oziroma diplomirani babičar (v nadaljnjem besedilu: diplomirani babičar), ki je vpisan v register zasebnih zdravstvenih delavcev oziroma je pridobil dovoljenje za opravljanje zdravstvene dejavnosti pri ministrstvu, pristojnem za zdravje, otrokov oče oziroma oseba, s katero mati živi ali mati, ko je za to zmožna.".
+Četrti odstavek se spremeni tako, da se glasi:
+"Če je prijavitelj oseba iz drugega ali tretjega odstavka tega člena, mora biti prijavi rojstva priloženo potrdilo o rojstvu otroka, ki ga je izdal pri porodu navzoč zdravnik, diplomirani zdravstvenik ali diplomirani babičar, ki je vpisan v register zasebnih zdravstvenih delavcev oziroma je pridobil dovoljenje za opravljanje zdravstvene dejavnosti pri ministrstvu, pristojnem za zdravje. Potrdilo o rojstvu lahko izda tudi zdravnik, ki ni bil prisoten ob porodu, če lahko potrdi, da je mati rodila.".
+Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
+"Kadar potrdila iz prejšnjega odstavka ni mogoče pridobiti, se lahko rojstvo vpiše v matični register na podlagi odločbe pristojnega organa, če obstajajo dokazi o nastalem matičnem dejstvu.".
