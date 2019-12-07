@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o zdravstveni dejavnosti (Uradni list RS, št. 23/05 - uradno prečiščeno besedilo, 15/08 - ZPacP, 23/08, 58/08 - ZZdrS-E, 77/08 - ZDZdr, 40/12 - ZUJF, 14/13, 88/16 - ZdZPZD, 64/17 in 1/19 - odl. US) se v 64. členu v šestem odstavku za prvim stavkom doda nov drugi stavek, ki se glasi: "Osebam iz prvega in drugega odstavka 38. člena Zakona o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti (Uradni list RS, št. 64/17) se licenca podeli za strokovna področja, ki se določijo v predpisu iz sedmega odstavka tega člena.".
