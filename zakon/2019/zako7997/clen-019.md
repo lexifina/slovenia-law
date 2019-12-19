@@ -1,0 +1,2 @@
+# 19. člen (sodna taksa)
+Do ustrezne ureditve v zakonu, ki ureja sodne takse, se takse za upravni spor po 39.a členu zakona zaračunajo po tabeli 6.1 taksne tarife, pomnožene s količnikom 30, taksna tarifa za postopek o predlogu za dopustitev revizije pa znaša eno tretjine takse, ki je določena za postopek o reviziji, pomnožena s količnikom 30. Če sodišče dopusti revizijo, se taksa, plačana za postopek o predlogu za dopustitev revizije, všteje v takso za postopek revizije.

@@ -1,0 +1,2 @@
+# 20. člen (dokončanje postopkov, začetih po dosedanjih predpisih)
+Predrevizijski postopek, ki se je z vložitvijo zahtevka za revizijo začel pred uveljavitvijo tega zakona, in revizijski postopek, ki se je začel pred uveljavitvijo tega zakona, se dokončata po dosedanjih predpisih. Revizijski postopek, ki se je začel na podlagi zahtevka za revizijo, vloženega pred uveljavitvijo tega zakona, se dokonča po dosedanjih predpisih.
