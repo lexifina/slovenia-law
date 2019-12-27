@@ -1,0 +1,3 @@
+# 28. člen
+V 117. členu se za sedmim odstavkom doda nov osmi odstavek, ki se glasi:
+"(8) Ne glede na prvi do sedmi odstavek tega člena se osebo iz četrtega odstavka 9. člena tega zakona z dnem začetka začasne nezaposljivosti zaradi začasne nezmožnosti za delo iz zdravstvenih razlogov preneha voditi v evidenci brezposelnih oseb in se jo do prenehanja razlogov za začasno nezaposljivost vodi v evidenci oseb, ki so začasno nezaposljive. Če je oseba prejemnik denarnega nadomestila, se ji to izplačuje tudi za čas trajanja začasne nezaposljivosti. Z naslednjim dnem po prenehanju razlogov za začasno nezaposljivost zavod osebo po uradni dolžnosti začne voditi v evidenci brezposelnih oseb.".

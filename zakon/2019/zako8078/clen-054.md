@@ -1,0 +1,7 @@
+# 54. člen (začetek uporabe)
+(1) Rok iz prvega odstavka novega 8.a člena zakona začne teči štiri mesece od uveljavitve tega zakona.
+(2) Določbe spremenjene pete in šeste alineje prvega odstavka 60. člena zakona, novega četrtega odstavka 63. člena zakona, spremenjene pete alineje prvega odstavka 65. člena in novega 66.a člena zakona se začnejo uporabljati tri mesece od uveljavitve tega zakona.
+(3) Določbe spremenjenega tretjega in novega četrtega odstavka 9. člena zakona, spremenjenega 65.a člena zakona, novega osmega odstavka 117. člena zakona in spremenjenega drugega odstavka 129. člena zakona se začnejo uporabljati šest mesecev od uveljavitve tega zakona.
+(4) Spremenjeni prvi odstavek 59. člena zakona, spremenjena prva alineja prvega odstavka 60. člena zakona, spremenjena sedma alineja prvega odstavka 64. člena zakona in spremenjen drugi odstavek 66. člena zakona se začnejo uporabljati z začetkom uporabe spremenjenih pravil evidentiranja izrabe delovnega časa, določenih s predpisom, ki ureja evidence na področju dela in socialne varnosti, najpozneje pa 1. januarja 2021.
+(5) Določbe nove četrte alineje tretjega odstavka, spremenjenega šestega in osmega odstavka 123.a člena zakona ter spremenjenega prvega in četrtega odstavka 124.a člena zakona se začnejo uporabljati šest mesecev od uveljavitve tega zakona.
+(6) Do začetka uporabe določb iz drugega, tretjega, četrtega in petega odstavka tega člena se uporablja Zakon o urejanju trga dela (Uradni list RS, št. 80/10, 40/12 - ZUJF, 21/13, 63/13, 100/13, 32/14 - ZPDZC-1, 47/15 - ZZSDT in 55/17).

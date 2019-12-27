@@ -1,0 +1,3 @@
+# 22. člen
+V 67. členu se peti odstavek spremeni tako, da se glasi:
+"(5) Zavarovanec je dolžan zavod obvestiti o vsaki podlagi za izplačilo dohodka iz dela iz drugega odstavka tega člena ne glede na dogovorjeno višino plačila za opravljeno delo. Če ta podlaga obstaja že ob uveljavljanju pravice do denarnega nadomestila, je o njej dolžan obvestiti zavod ob uveljavljanju denarnega nadomestila, sicer pa v osmih dneh po njenem nastanku. Denarno nadomestilo se zavarovancu zniža v mesecu, v katerem je prejel plačilo za delo, oziroma v naslednjem mesecu po prejetem plačilu, če obvestila o prejetem plačilu ni več mogoče upoštevati pri obračunu denarnega nadomestila za tekoči mesec.".
