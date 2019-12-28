@@ -1,0 +1,11 @@
+# 6. člen
+
+(1) Če družba 2TDK d.o.o. ne bo sposobna poravnati obveznosti iz naslova izdanih dolžniških vrednostnih papirjev, za katere je Republika Slovenija dala poroštvo po tem zakonu, bo Republika Slovenija namesto družbe 2TDK d.o.o. na podlagi njenega predhodnega pisnega obvestila poroku na dan zapadlosti posamezne obveznosti brezpogojno in nepreklicno poravnala zapadlo obveznost zakonitemu imetniku dolžniškega vrednostnega papirja ali drugemu upravičencu.
+
+(2) Če družba 2TDK d.o.o. ne bo poravnala obveznosti iz naslova izdanih dolžniških papirjev, za katere je Republika Slovenija dala poroštvo po tem zakonu, in ne bo predhodno pisno obvestila poroka, da ne bo sposobna poravnati obveznosti, bo Republika Slovenija namesto družbe 2TDK d.o.o. na podlagi predhodnega pisnega poziva zakonitega imetnika dolžniškega vrednostnega papirja ali drugega upravičenca brezpogojno in nepreklicno poravnala zapadlo obveznost zakonitemu imetniku dolžniškega vrednostnega papirja ali drugemu upravičencu.
+
+(3) Če družba DARS d.d. ne bo sposobna poravnati obveznosti iz naslova izdanih dolžniških vrednostnih papirjev, za katere je Republika Slovenija dala poroštvo po tem zakonu, bo Republika Slovenija namesto družbe DARS d.d. na podlagi njenega predhodnega pisnega obvestila poroku na dan zapadlosti posamezne obveznosti brezpogojno in nepreklicno poravnala zapadlo obveznost zakonitemu imetniku dolžniškega vrednostnega papirja ali drugemu upravičencu.
+
+(4) Če družba DARS d.d. ne bo poravnala obveznosti iz naslova izdanih dolžniških vrednostnih papirjev, za katere je Republika Slovenija dala poroštvo po tem zakonu, in ne bo predhodno pisno obvestila poroka, da ne bo sposobna poravnati obveznosti, bo Republika Slovenija namesto družbe DARS d.d. na podlagi predhodnega pisnega poziva zakonitega imetnika dolžniškega vrednostnega papirja ali drugega upravičenca brezpogojno in nepreklicno poravnala zapadlo obveznost zakonitemu imetniku dolžniškega vrednostnega papirja ali drugemu upravičencu.
+
+(5) Republika Slovenija in družba 2TDK d.o.o. oziroma družba DARS d.d. podrobneje opredelita način in vsebino obvestila iz prvega oziroma tretjega odstavka tega člena s pogodbo iz prvega odstavka 10. člena tega zakona.
