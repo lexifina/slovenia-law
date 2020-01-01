@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o starševskem varstvu in družinskih prejemkih (Uradni list RS, št. 26/14, 90/15, 75/17 - ZUPJS-G in 14/18) se v 2. členu za besedilom člena, ki se označi kot prvi odstavek, doda nov drugi odstavek, ki se glasi:
+"(2) S tem zakonom se v slovenski pravni red prenaša Direktiva 2011/98/EU Evropskega parlamenta in Sveta z dne 13. decembra 2011 o enotnem postopku obravnavanja vloge za enotno dovoljenje za državljane tretjih držav za prebivanje in delo na ozemlju države članice ter o skupnem nizu pravic za delavce iz tretjih držav, ki zakonito prebivajo v državi članici (UL L št. 343 z dne 23. 12. 2011, str. 1), v delu, ki se nanaša na pravico do enakega obravnavanja glede področij socialne varnosti.".
