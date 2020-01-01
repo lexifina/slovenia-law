@@ -1,0 +1,5 @@
+# 136. člen (prehodne določbe poklicnega zavarovanja)
+(1) Upravljavec Sklada obveznega dodatnega pokojninskega zavarovanja v devetih mesecih od uveljavitve tega zakona uskladi pokojninski načrt in pravila upravljanja z določbami tega zakona in predpisi, izdanimi na njegovi podlagi. Do začetka uporabe novega pokojninskega načrta in novih pravil upravljanja se ne glede na ta zakon uporabljajo pokojninski načrt in pravila upravljanja, veljavna ob uveljavitvi tega zakona.
+(2) Zavarovanci-člani, ki so bili vključeni v poklicno zavarovanje po pokojninskem načrtu, veljavnem ob uveljavitvi tega zakona, se v novi pokojninski načrt poklicnega zavarovanja vključijo na dan, ko bo pokojninski načrt iz prejšnjega odstavka odobril minister, pristojen za delo.
+(3) Spremenjeni tretji in enajsti do petnajsti odstavek 200. člena zakona in spremenjeni štirinajsti odstavek 209. člena zakona se začnejo uporabljati z dnem začetka uporabe novega pokojninskega načrta.
+(4) Upravljavec Sklada obveznega dodatnega pokojninskega zavarovanja prvič pripravi potrdilo o stanju na osebnem računu v skladu s spremenjenim 211. členom zakona na dan 31. december 2020.

@@ -1,0 +1,2 @@
+# 129. člen (omejitev izplačevanja dela pokojnine uživalcem dela pokojnine, delne pokojnine in sorazmernega dela pokojnine)
+Tretji, četrti in peti odstavek novega 40.a člena zakona se uporabljajo tudi za uživalce pravic iz 126. člena tega zakona, za uživalce delne pokojnine iz 127. člena tega zakona, ki jim je priznana pravica do sorazmernega dela zneska v skladu s spremenjenim tretjim odstavkom 40. člena zakona, in za uživalce pravic iz 128. člena tega zakona, ki se jim sorazmerni del starostne pokojnine poveča v skladu s spremenjenim četrtim odstavkom 116. člena zakona.

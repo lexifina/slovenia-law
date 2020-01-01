@@ -1,0 +1,3 @@
+# 139. člen (rok za izdajo predpisov)
+(1) Ministrstvo, pristojno za delo, Agencija za trg vrednostnih papirjev in Agencija za zavarovalni nadzor izdajo nove in uskladijo veljavne splošne akte, izdane na podlagi 238., 240. 243., 251., 272., 274., 275., 284., 285., 291., 292., 296., 300., 302., 303., 308., 313., 322., 332.g, 334. in 366. člena zakona, s tem zakonom v šestih mesecih od uveljavitve tega zakona.
+(2) Do uveljavitve predpisov iz prejšnjega člena se uporabljajo predpisi, ki sta jih Agencija za trg vrednostnih papirjev in Agencija za zavarovalni nadzor izdali na podlagi 238., 240. 243., 251., 272., 274., 275., 284., 285., 291., 292., 296., 300., 302., 303., 308., 313., 322., 334. in 366. člena zakona, če niso v nasprotju s tem zakonom.

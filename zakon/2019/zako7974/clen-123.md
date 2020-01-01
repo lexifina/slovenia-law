@@ -1,0 +1,2 @@
+# 123. člen (odmera invalidske pokojnine pri kombiniranih vzrokih invalidnosti v prehodnem obdobju)
+Ne glede na drugi odstavek 51. člena zakona, ki je veljal do uveljavitve tega zakona, do nove ureditve v predpisih, ki urejajo pokojninsko in invalidsko zavarovanje, znesek seštevka iz drugega odstavka 51. člena ne more biti nižji od najnižje pokojnine, določene v novem 39. členu zakona, in ne more presegati zneska pokojnine, odmerjene od pokojninske osnove v odstotku, ki ga za moške za 40 let določa novi 37. člen zakona.

@@ -1,0 +1,5 @@
+# 27. člen
+V 126. členu se v tretjem odstavku besedilo "iz opravičljivih razlogov ne more zagotoviti" nadomesti z besedilom "ne zagotovi" in se doda nov drugi stavek, ki se glasi: "Na enak način se nadalje izplačuje tudi nadomestilo za invalidnost, kadar se pri zavarovancu zaradi sprememb v stanju invalidnosti priznajo nove omejitve ali pa pravica do premestitve na drugo delovno mesto, pa delodajalec delovnemu invalidu ne zagotovi ustreznega delovnega mesta, vendar največ eno leto po dokončnosti odločbe o spremembi v stanju invalidnosti in priznanju novih omejitev ali pa premestitve na drugo delovno mesto.".
+Za petim odstavkom se doda nov šesti odstavek, ki se glasi:
+"(6) Brezposelni, ki se v času prejemanja denarnega nadomestila po predpisih, ki urejajo trg dela, ali po prenehanju prejemanja tega nadomestila zaposli za krajši delovni čas od delovnega časa, ki ustreza njegovi preostali delovni zmožnosti, pridobi pravico do nadomestila iz invalidskega zavarovanja v sorazmernem delu. Sorazmerni del nadomestila se izračuna na enak način, kot je določeno v prejšnjem odstavku.".
+Dosedanji šesti odstavek postane sedmi odstavek.
