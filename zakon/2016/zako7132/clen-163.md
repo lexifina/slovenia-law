@@ -34,8 +34,9 @@
 30. če ne upošteva pisne odredbe urada o tekočem spremljanju finančnega poslovanja določene stranke (prvi, drugi in tretji odstavek 98. člena tega zakona);
 31. če stranki ali tretji osebi razkrije dejstva iz prvega odstavka 122. člena tega zakona;
 32. če ne odpravi ugotovljenih nepravilnosti in pomanjkljivosti v roku, ki ga je odredila pooblaščena uradna oseba (1. točka drugega odstavka 139. člena tega zakona);
-33. če uradu v predpisanem roku in na predpisani način ne predložijo podatkov, informacij in dokumentacije v zvezi z opravljanjem njihovih nalog po tem zakonu ter drugih podatkov, ki jih urad potrebuje pri izvajanju nadzora (tretji odstavek 141. člena tega zakona);
-34. če inšpektorju za preprečevanje pranja denarja ne omogoči dostopa do prostorov ter do poslovnih knjig in druge dokumentacije ali kako drugače ovira inšpektorja pri izvajanju pooblastil (drugi odstavek 146. člena tega zakona).
+33. če ne spoštuje z odločbo odrejene prepovedi o opravljanju dejavnosti iz četrtega odstavka 139. člena tega zakona;
+34. če uradu v predpisanem roku in na predpisani način ne predložijo podatkov, informacij in dokumentacije v zvezi z opravljanjem njihovih nalog po tem zakonu ter drugih podatkov, ki jih urad potrebuje pri izvajanju nadzora (tretji odstavek 141. člena tega zakona);
+35. če inšpektorju za preprečevanje pranja denarja ne omogoči dostopa do prostorov ter do poslovnih knjig in druge dokumentacije ali kako drugače ovira inšpektorja pri izvajanju pooblastil (drugi odstavek 146. člena tega zakona).
 (2) Z globo od 4.000 do 40.000 eurov se kaznujeta samostojni podjetnik posameznik in posameznik, ki samostojno opravlja dejavnost, ki storita prekršek iz prejšnjega odstavka.
 (3) Z globo od 800 do 4.000 eurov se za prekršek kaznujejo odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika in odgovorna oseba posameznika, ki samostojno opravlja dejavnost, ki storijo prekršek iz prvega odstavka tega člena.
 (4) Če je narava storjenega prekrška iz 1. do 22. točke prvega odstavka tega člena posebno huda zaradi višine povzročene škode oziroma višine protipravno pridobljene premoženjske koristi, zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, zaradi ponavljanja ali sistematičnosti storitve prekrška, se pravna oseba kaznuje z globo v višini do:
