@@ -1,0 +1,7 @@
+# 200. člen (črtan)
+
+VIII. del PRENOS V ZAVAROVANJE
+
+## 1. oddelek PRENOS LASTNINSKE PRAVICE V ZAVAROVANJE
+
+Pojem
