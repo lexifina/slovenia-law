@@ -1,0 +1,3 @@
+# 1. člen (vsebina)
+
+S tem zakonom se z namenom zagotovitve zadostne oskrbe prebivalstva s hrano v Republiki Sloveniji zaradi posledic epidemije nalezljive bolezni SARS-CoV-2 (COVID-19) (v nadaljnjem besedilu: epidemija), preprečitve širjenja virusne okužbe, varovanja zdravja in življenja ljudi, ureja možnost omejitve prometa s kmetijskimi pridelki, živili ali živalmi, namenjenih za hrano ljudi, omejitve z gozdno lesnimi sortimenti, ukrepe na področju veterinarstva, fitofarmacevtskih sredstev in semenskega materiala kmetijskih rastlin, podaljšanje mandata organom Kmetijsko gozdarske zbornice Slovenije ter nekatere druge s tem povezane ukrepe.
