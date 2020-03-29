@@ -1,0 +1,2 @@
+# 24. člen (prenehanje veljavnosti posameznih določb Zakona o izvršbi in zavarovanju)
+Z dnem uveljavitve tega zakona prenehajo veljati drugi in tretji stavek petega odstavka, šesti odstavek, sedmi odstavek, drugi in tretji stavek osmega odstavka, deveti odstavek ter deseti odstavek 81. člena Zakona o izvršbi in zavarovanju (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo, 93/07, 37/08 - ZST-1, 45/08 - ZArbit, 28/09, 51/10, 26/11, 17/13 - odl. US, 45/14 - odl. US, 53/14, 58/14 - odl. US, 54/15, 76/15 - odl. US, 11/18, 53/19 - odl. US in 66/19 - ZDavP-2M).

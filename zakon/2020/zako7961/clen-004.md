@@ -1,0 +1,3 @@
+# 4. člen
+V 70. členu se v prvem odstavku za prvim stavkom doda besedilo, ki se glasi: "Če je kateri od solastniških deležev na stvari obremenjen s stvarno pravico, lahko ta ob delitvi preide samo na nekatere nove stvari, če s tem soglaša imetnik te pravice ali če tako odloči sodišče v nepravdnem postopku. Za odločanje se smiselno uporablja drugi stavek drugega odstavka tega člena.".
+V drugem odstavku se doda nov drugi stavek, ki se glasi: "Če je kateri od solastniških deležev na stvari obremenjen s stvarno pravico, sodišče odloči, na katero novo stvar preide obremenitev, tako da se z delitvijo ne poslabša položaj njenega imetnika.".
