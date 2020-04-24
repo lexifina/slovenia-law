@@ -1,0 +1,2 @@
+# 3. člen (začasna premestitev in izpolnjevanje pogojev za delovno mesto)
+Začasna premestitev je dopustna s soglasjem ali brez soglasja javnega uslužbenca, in sicer na ustrezno delovno mesto, za katero javni uslužbenec izpolnjuje predpisane pogoje in za katero se zahteva enaka vrsta in raven izobrazbe, kot se zahteva za opravljanje dela, za katero ima javni uslužbenec sklenjeno pogodbo o zaposlitvi, ter je delo sposoben opravljati.

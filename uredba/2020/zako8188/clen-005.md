@@ -1,0 +1,3 @@
+# 5. člen (trajanje začasne premestitve)
+(1) Začasna premestitev začne učinkovati z dnem, ki je določen v sklepu o začasni premestitvi, in preneha s potekom datuma, določenega v sklepu o začasni premestitvi, pri čemer datum prenehanja začasne premestitve ne sme biti poznejši, kot ga določa 20. člen Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo (Uradni list RS, št. 49/20).
+(2) Ne glede na prejšnji odstavek začasna premestitev javnega uslužbenca preneha tudi z dnem nastopa katere izmed okoliščin iz prvega odstavka 6. člena te uredbe.

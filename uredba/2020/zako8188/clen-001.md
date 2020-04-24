@@ -1,0 +1,2 @@
+# 1. člen (vsebina)
+Ta uredba ureja pogoje za začasno premestitev javnih uslužbencev zaradi nujnega zagotavljanja nemotenega delovnega procesa (v nadaljnjem besedilu: nujne delovne potrebe) zaradi epidemije COVID-19 v okviru istega delodajalca ali k drugemu delodajalcu v javnem sektorju, vsebino sklepa o začasni premestitvi, način izplačevanja plače, povračil stroškov in drugih prejemkov iz delovnega razmerja v času začasne premestitve ter kategorije javnih uslužbencev, ki jih ni dopustno začasno premestiti.

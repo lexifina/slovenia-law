@@ -1,0 +1,1 @@
+Na podlagi drugega odstavka 66. člena Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo (Uradni list RS, št. 49/20) Vlada Republike Slovenije izdaja
