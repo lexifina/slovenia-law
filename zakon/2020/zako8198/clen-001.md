@@ -1,0 +1,5 @@
+# 1. člen
+V Zakonu o začasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19) (Uradni list RS, št. 36/20) se za 3. členom doda nov 3.a člen, ki se glasi:
+"3.a člen
+(obravnava prepozne vloge)
+Ne glede na tretji odstavek 121. člena Zakona o finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju (Uradni list RS, št. 13/14 - uradno prečiščeno besedilo, 10/15 - popr., 27/16, 31/16 - odl. US, 38/16 - odl. US, 63/16 - ZD-C, 54/18 - odl. US in 69/19 - odl. US) sodišče obravnava in odloča o vlogi, predlogu, izjavi, ugovoru, drugem procesnem dejanju ali predloženi listini, tudi če je stranka zamudila rok ali izostala z naroka v času trajanja ukrepov iz razloga, neposredno povezanega z epidemijo virusne okužbe SARS-CoV-2 (COVID-19), in sodišče odločitve še ni sprejelo. Stranka mora ob vložitvi vloge, predloga, izjave, ugovora, opravi drugega procesnega dejanja ali predložitvi listine izkazati tudi razlog za zamudo roka ali za izostanek z naroka.".
