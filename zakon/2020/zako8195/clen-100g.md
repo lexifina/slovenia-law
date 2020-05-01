@@ -1,0 +1,3 @@
+# 100.g člen (pravno varstvo)
+(1) Ne glede na določbe predpisov, ki urejajo upravni spor in graditev objektov, se lahko tožba zoper gradbeno dovoljenje, izdano z upoštevanjem določb tega zakona, vloži v 15 dneh od objave odločbe na spletnih straneh e-uprave.
+(2) Nevladna organizacija, ki zoper gradbeno dovoljenje, izdano z upoštevanjem določb tega zakona, uresničuje pravno varstvo na podlagi 58. člena GZ ali tretjega odstavka 137. člena Zakona o ohranjanju narave (Uradni list RS, št. 96/04 - uradno prečiščeno besedilo, 61/06 - ZDru-1, 8/10 - ZSKZ-B, 46/14, 21/18 - ZNOrg in 31/18), mora izpolnjevati pogoje iz prvega odstavka 100.f člena tega zakona.

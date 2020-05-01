@@ -1,0 +1,2 @@
+# 102.b člen (metodologija za določitev upravičenih stroškov elektrooperaterjev)
+Agencija za energijo spremeni splošni akt, s katerim določa metodologijo za določitev upravičenih stroškov elektrooperaterjev iz Energetskega zakona (Uradni list RS, št. 60/19 - uradno prečiščeno besedilo) tako, da za leto 2020 priznana stopnja donosnosti znaša največ 4,13 %. To uporabi Agencija za energijo v postopku odstopanj od tekočega regulativnega obdobja.".

@@ -1,0 +1,2 @@
+# 51. člen (dokončanje postopkov glede uveljavljanja povračila nadomestil plač)
+Postopki, začeti pred uveljavitvijo tega zakona na podlagi 29. člena Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo (Uradni list RS, št. 49/20; v nadaljnjem besedilu: ZIUZEOP), se dokončajo po 29. členu ZIUZEOP, razen če bi bilo dokončanje postopka po določbah tega zakona za vlagatelja ugodneje. Pri tem se za ugodnejšo rešitev šteje zlasti tista, katere uresničitev ne bi imela za posledico postopka vračila državne pomoči.

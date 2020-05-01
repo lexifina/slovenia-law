@@ -1,0 +1,3 @@
+# 6. člen
+V 28. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Delodajalec je za delavce, ki so upravičeno začasno odsotni od dela ter je za njih upravičen do povračila izplačanih nadomestil plače po prvem in drugem odstavku 26. člena tega zakona, oproščen plačila prispevkov za vsa socialna zavarovanja od nadomestila plače za obdobje veljavnosti ukrepov iz tega zakona, vendar največ od nadomestila plače do višine povprečne plače za leto 2019 v Republiki Sloveniji, preračunane na mesec. Prispevke za vsa socialna zavarovanja, ki so bili oproščeni po prejšnjem stavku, v celoti plačuje Republika Slovenija.".

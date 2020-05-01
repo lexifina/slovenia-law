@@ -1,0 +1,4 @@
+# 33. člen
+V 87. členu se za tretjim odstavkom doda nov četrti odstavek, ki se glasi:
+"(4) Zavezanec iz 6., 7. in 11. točke prvega odstavka 4. člena ZPPDFT-1 način pridobivanja podatkov, kot je opredeljen v prvem do tretjem odstavku tega člena, lahko uporabi tudi v primeru pregleda stranke pri izvajanju transakcij iz 20. člena ZPPDFT-1 in v primeru transakcij strank, pri katerih obstaja dvom o verodostojnosti in ustreznosti predhodno pridobljenih podatkov o stranki ali dejanskem lastniku stranke. Zavezanec podatke obvezno pridobi pred izvršitvijo transakcije in izključno v zvezi s transakcijami, ki se izvajajo na podlagi obstoječega poslovnega razmerja. Za hrambo tako pridobljenih podatkov se smiselno uporabljajo določbe ZPPDFT-1 oziroma predpisov, izdanih na njegovi podlagi, glede hrambe podatkov pri zavezancu.".
+Dosedanji četrti odstavek postane peti odstavek.

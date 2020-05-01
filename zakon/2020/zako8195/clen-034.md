@@ -1,0 +1,3 @@
+# 34. člen
+V 92. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Vsi prejemki, izplačani dolžniku na podlagi zakonov, ki urejajo interventne ukrepe zaradi epidemije, razen prejemkov, ki predstavljajo nadomestilo plače, so izvzeti iz izvršbe po Zakonu o izvršbi in zavarovanju (Uradni list RS, št. 3/07 - uradno prečiščeno besedilo, 93/07, 37/08 - ZST-1, 45/08 - ZArbit, 28/09, 51/10, 26/11, 17/13 - odl. US, 45/14 - odl. US, 53/14, 58/14 - odl. US, 54/15, 76/15 - odl. US, 11/18, 53/19 - odl. US, 66/19 - ZdavP-2M in 23/20 - SPZ-B; v nadaljnjem besedilu: ZIZ) in iz davčne izvršbe po ZDavP-2.".

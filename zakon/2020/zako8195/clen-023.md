@@ -1,0 +1,5 @@
+# 23. člen
+V 70. členu se za tretjim odstavkom dodajo novi četrti, peti in šesti odstavek, ki se glasijo:
+"(4) Če je javnemu uslužbencu odrejena karantena zaradi rizičnega stika v času opravljanja dela in v primeru preventivne izolacije, ki ju pisno odredi delodajalec oziroma predstojnik, pripada javnemu uslužbencu plača, ki bi jo prejel, če bi delal, v primeru začasne zadržanosti od dela zaradi okužbe pri opravljanju dela pa znaša nadomestilo plače za čas odsotnosti z dela 100 % osnove, ki je določena za obračun nadomestila za čas odsotnosti zaradi bolezni. Preventivna izolacija iz tega odstavka pomeni, da zaradi zagotavljanja nemotenega delovnega procesa delodajalec oziroma predstojnik pisno napoti zdravega javnega uslužbenca v izolacijo.
+(5) Nadomestilo plače, določeno v skladu s prvim, drugim in tretjim odstavkom tega člena, ne sme biti nižje od minimalne plače.
+(6) Glede pravic iz socialnih zavarovanj se za izplačilo nadomestil v skladu s tem členom za javne uslužbence smiselno uporablja 27. člen tega zakona.".

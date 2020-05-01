@@ -1,0 +1,9 @@
+# 40. člen
+Besedilo 99. člena se spremeni tako, da se glasi:
+"(1) Subjekt, ki je uveljavil:
+- povračilo nadomestila plače delavcem na začasnem čakanju na delo iz podpoglavja 1.1 tega zakona,
+- oprostitev plačila prispevkov na podlagi 28. člena tega zakona v povezavi s povračilom nadomestila plače delavcem na začasnem čakanju na delo in na podlagi 38. člena tega zakona ali
+- izredno pomoč v obliki mesečnega temeljnega dohodka iz podpoglavja 1.3 tega zakona,
+mora v primeru, da je od uveljavitve tega zakona prišlo do izplačila dobička, nakupov lastnih delnic ali lastnih poslovnih deležev, izplačil nagrad poslovodstvu oziroma dela plač za poslovno uspešnost poslovodstvu, izplačanih v letu 2020 oziroma za leto 2020, o tem seznaniti Finančno upravo Republike Slovenije. Prejeta sredstva mora vrniti po vročitvi odločbe, skupaj z zakonsko določenimi zamudnimi obrestmi, ki tečejo od dneva uveljavitve pravic iz tega zakona do dneva vračila.
+(2) Subjekt, ki je uveljavil upravičenja po tem zakonu in naknadno ugotovi, da ni izpolnjeval pogojev za njihovo pridobitev, o tem obvesti Finančno upravo Republike Slovenije najkasneje do roka za predložitev obračuna davka od dohodkov pravnih oseb za leto 2020 oziroma za obdobje, ki vključuje podatke za obdobje drugega polletja 2020, oziroma do roka za predložitev obračuna davka od dohodkov iz dejavnosti za leto 2020, in vrniti znesek prejete pomoči v 30 dneh od vročitve odločbe. Po poteku roka za plačilo do plačila, se mu obračunavajo zakonske zamudne obresti po Zakonu o predpisani obrestni meri zamudnih obresti (Uradni list RS, št. 11/07 - uradno prečiščeno besedilo).
+(3) Nadzor nad uveljavljanjem pravic iz tretje alineje prvega odstavka tega člena, drugega odstavka 28. člena, prvega in petega odstavka 33. člena ter 38. člena tega zakona izvaja Finančna uprava Republike Slovenije v skladu z zakonom, ki ureja davčni postopek, razen če ta zakon določa drugače.".

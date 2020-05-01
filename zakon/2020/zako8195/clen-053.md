@@ -1,0 +1,2 @@
+# 53. člen (vračilo zarubljenih prejemkov)
+Če je bil prejemek, ki je po 92. členu zakona izvzet iz izvršbe in iz stečajne mase v postopku osebnega stečaja, zarubljen, izplačan upniku ali prenesen v stečajno maso v postopku osebnega stečaja pred uveljavitvijo tega zakona in ta prejemek pred uveljavitvijo tega zakona ni bil izvzet iz izvršbe ali stečajne mase v postopku osebnega stečaja, se tak prejemek dolžniku ne vrača.

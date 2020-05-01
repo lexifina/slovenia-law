@@ -1,0 +1,3 @@
+# 54. člen (začetek veljavnosti)
+(1) Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+(2) Ne glede na prejšnji odstavek se 22., 26., 28., 33., 33.a, 33.b, 34., 35., 37., 38., 58., 61.a in 102. člen uporabljajo od 13. marca 2020, 69. in 108. člen pa od 11. aprila 2020.
