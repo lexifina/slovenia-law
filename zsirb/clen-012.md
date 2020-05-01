@@ -1,0 +1,7 @@
+# 12. člen (storitve in instrumenti za opravljanje dejavnosti)
+
+(1) SID banka za izvajanje dejavnosti iz prejšnjega člena opravlja vse storitve, ki se lahko opravljajo po zakonu, ki ureja bančništvo. Poleg storitev po zakonu, ki ureja bančništvo lahko SID banka opravlja tudi druge storitve (svetovanje, izobraževanje in druge), če so le-te namenjene za podporo storitvam, ki jih SID banka opravlja za izvajanje dejavnosti iz prejšnjega člena.
+
+(2) SID banka lahko, na podlagi pogodb sklenjenih s posameznimi ministrstvi in drugimi državnimi organi ali drugimi osebami, posreduje različna razvojna sredstva in izvaja različne programe ukrepov Republike Slovenije ter druge programe oziroma projekte skladne s pravili EU, pri čemer lahko v različnih oblikah sodeluje tudi z različnimi evropskimi finančnimi institucijami. Pri izvajanju storitev SID banka uporablja vse v finančni zakonodaji razpoložljive finančne instrumente kot so na primer krediti, garancije in druge oblike jamstva, odkupi terjatev, finančni zakup, koncesijski krediti in drugi instrumenti mednarodnega razvojnega sodelovanja, druge oblike financiranja, dodeljevanje nepovratnih sredstev, subvencije, kapitalske naložbe in drugi načini prevzemanja tveganj.
+
+(3) Za izvajanje storitev na področjih iz 11. člena tega zakona ter za uporabljanje instrumentov iz prejšnjega odstavka tega člena, SID banka najema kredite in izdaja dolžniške vrednostne papirje ter se zadolžuje tudi v drugih oblikah.

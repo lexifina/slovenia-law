@@ -1,0 +1,39 @@
+## II. DEJAVNOSTI
+
+# 11. člen (področje izvajanja dejavnosti banke)
+
+(1) SID banka pri izvajanju pooblastila iz 2. člena tega zakona podpira ekonomske, strukturne, socialne in druge politike tako, da opravlja predvsem finančne storitve na segmentih, kjer nastajajo oziroma so ugotovljene tržne vrzeli, med katere sodijo tudi ciklične vrzeli, in sicer zlasti na področjih:
+
+a) mednarodnih gospodarskih poslov in mednarodnega gospodarskega sodelovanja, zlasti z namenom spodbujanja dolgoročnih poslovnih transakcij, ki udeležencem omogočajo vstop in poslovanje na tujih trgih, vključno s podporo povezanim uvoznim transakcijam, pripravi na mednarodne gospodarske posle, investicijam in spodbudam za trajnostno rast izvoza in internacionalizacijo gospodarstva ter aktivnosti z namenom spodbujanja oziroma izvajanja poslov po koncesijskih pogojih in spodbujanja skupnega nastopa na tretjih trgih z domačimi, tujimi ali mednarodnimi subjekti;
+
+b) gospodarstva, s posebnim poudarkom na malih in srednje velikih podjetjih, podjetništvu in tveganemu kapitalu, predvsem z namenom financiranja podjetniških projektov v vseh fazah razvoja, uvajanja novih finančno zavarovalnih shem, ustvarjanja možnosti za ustanavljanje novih podjetij in vključevanja v naloge in programe izvajalcev podjetniškega, inovativnega in finančnega okolja;
+
+c) raziskav in razvoja ter inovacij, zlasti z namenom spodbujanja konkurenčnosti in razvoja v okviru raziskovalnih in razvojnih programov, promocije inovativnosti in pospeševanja raziskovalne in razvojne dejavnosti ter prenosa znanja in zagotavljanja različne podpore nosilcem projektov za razvoj izdelkov, proizvodnih procesov in storitev;
+
+d) izobraževanja, zlasti z namenom spodbujanja in izboljševanja nivoja izobrazbe, znanj in upravljanja znanj ter spodbud potrebnim prekvalifikacijam ter pridobivanja specifičnih znanj;
+
+e) zaposlovanja, med drugim z namenom zagotavljanja spodbud podjetjem za zaposlovanje oseb specializiranih kvalifikacij in znanj, potrebnih za njihovo rast ali prekvalifikacijo posameznikov;
+
+f) varovanja okolja in energetske učinkovitosti, zlasti z namenom financiranja in spodbujanja ukrepov za varstvo narave, ustreznega ravnanja z odpadki, ustrezne rabe naravnih dobrin, pospeševanja naložb v infrastrukturo varstva okolja, izrabe obnovljivih virov energije in učinkovite rabe energije;
+
+g) regionalnega razvoja, zlasti z namenom zagotavljanja skladnega razvoja na državni, regionalni in lokalni ravni, zmanjševanja razlik v gospodarski razvitosti in drugih aktivnostih, kjer se lahko povezuje z drugimi osebami, ki so dejavne in namenjene doseganju javnih ciljev na področju regionalnega razvoja in razvoja podeželja in pri tem uporabljajo različne kombinirane instrumente finančnega inženiringa;
+
+h) stanovanjskem, zlasti z namenom zagotavljanja ustrezne stanovanjske oskrbe in spodbujanja stanovanjske gradnje, prenove in vzdrževanja stanovanj in stanovanjskih hiš določenim kategorijam prebivalstva, skupaj z zagotavljanjem okolja in pogojev, ki omogočajo ustrezne bivalne razmere;
+
+i) gospodarske in javne infrastrukture, občinskega in pokrajinskega razvoja, zlasti z namenom izboljšanja logistične, komunalne in druge infrastrukture in poleg tega izvaja jamstvene, finančne in javno zasebno partnerske sheme za izgradnjo te infrastrukture npr. za obnovo in razvoj ter prenovo mest itd;
+
+j) SID banka poleg izvajanja dela tehnično-operativnih del sodeluje pri financiranju razvojnih projektov, ki se izvajajo v državah v razvoju.
+
+(2) Pri izvajanju nalog iz prejšnjega odstavka SID banka upošteva prakso, usmeritve in cilje spodbujevalne politike ter strategije razvoja Republike Slovenije in EU.
+
+(3) SID banka lahko opravlja dejavnosti po tem zakonu v zvezi s sredstvi skladov EU in drugimi sredstvi evropskega proračuna ter v povezavi z različnimi kombiniranimi instrumenti finančnega inženiringa.
+
+(4) Glede na pomen svojega delovanja ima pri izvajanju svojih dejavnosti SID banka kot pooblaščena institucija po tem zakonu pravico do brezplačnega dostopa, vpogleda in neposrednega dnevnega elektronskega pridobivanja podatkov, potrebnih za izvajanje tega člena in poslov v imenu in za račun Republike Slovenije po ZZFMGP:
+
+- posameznih in zbira finančnih podatkov, ki so jih pravne osebe in samostojni podjetniki dolžni pošiljati pristojnim organizacijam,
+
+- podatkov iz poslovnega in drugih registrov, ki jih vodijo Agencija za javnopravne evidence in storitve, Statistični urad Republike Slovenije ali sodišča,
+
+- statističnih in drugih podatkov ministrstev in drugih državnih organov ter Banke Slovenije, ki so potrebni za izvajanje dejavnosti SID banke in glede katerih SID banka izkaže utemeljen interes.
+
+(5) Podrobnejši nabor podatkov iz prejšnjega odstavka se določi v predpisu Vlade Republike Slovenije na predlog ministrstva, pristojnega za finance.

@@ -1,0 +1,3 @@
+# 10. člen (nekonkurenčnost, nediskriminatornost in preglednost)
+
+SID banka pri svojem poslovanju po tem zakonu upošteva vsebino in naloge podeljenega pooblastila iz drugega člena tega zakona, zato pri izvajanju dejavnosti praviloma ne konkurira drugim finančnim institucijam na trgu. Za dosego cilja nekonkurenčnosti finančnim institucijam na trgu SID banka uporablja tudi načelo enakega dostopa oziroma nediskriminatornosti vseh uporabnikov finančnih storitev SID banke ter preglednost ponujenih storitev, poslovanja in rezultatov poslovanja. SID banka pri uporabi načel iz tega člena sledi tudi dobri praksi uporabe teh načel v primerljivih institucijah v EU.
