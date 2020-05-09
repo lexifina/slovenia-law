@@ -1,9 +1,0 @@
-## Deveti del: PREHODNE IN KONČNE DOLOČBE
-## I. poglavje: Končanje postopkov
-# 106. člen (končanje postopkov)
-(1) Postopki, začeti pred začetkom uporabe tega zakona na podlagi Zakona o graditvi objektov (Uradni list RS, št. 102/04 - uradno prečiščeno besedilo, 14/05 - popr., 92/05 - ZJC-B, 93/05 - ZVMS, 111/05 - odl. US, 126/07, 108/09, 61/10 - ZRud-1, 20/11 - odl. US, 57/12, 101/13 - ZDavNepr, 110/13 in 19/15; v nadaljnjem besedilu: ZGO-1), se končajo po določbah ZGO-1.
-(2) Inšpekcijski postopki in postopki izvršbe, začeti pred začetkom uporabe tega zakona zaradi dejanja, ki v skladu z določbami tega zakona ne pomeni več kršitve, se ustavijo po uradni dolžnosti.
-(3) Če je izdana odločba v skladu s V. poglavjem tega dela zakona, se inšpekcijski postopki in postopki izvršbe ustavijo po uradni dolžnosti.
-(4) Postopki izdaje okoljevarstvenih soglasij, začeti na podlagi Zakona o varstvu okolja (Uradni list RS, št. 39/06 - uradno prečiščeno besedilo, 49/06 - ZMetD, 66/06 - odl. US, 33/07 - ZPNačrt, 57/08 - ZFO-1A, 70/08, 108/09, 108/09 - ZPNačrtA, 48/12, 57/12, 92/13, 56/15, 102/15 in 30/16; v nadaljnjem besedilu: ZVO-1) pred začetkom uporabe tega zakona, se končajo po določbah ZVO-1.
-(5) Če je okoljevarstveno soglasje izdano pred začetkom uporabe tega zakona ali če se v skladu s prejšnjim odstavkom izda po začetku uporabe tega zakona, se postopek izdaje gradbenega dovoljenja, začet po začetku uporabe tega zakona, vodi po določbah II. poglavja četrtega dela tega zakona, pri čemer se v teh primerih ob spremembi okoljevarstvenega soglasja uporablja 61.a in 62. člen ZVO-1.
-(6) Postopki izdaje soglasij, določenih v drugem odstavku 112. člena tega zakona, začeti pred začetkom uporabe tega zakona, se končajo po dosedanjih predpisih in se z dnem njihove izdaje štejejo za mnenja po tem zakonu.

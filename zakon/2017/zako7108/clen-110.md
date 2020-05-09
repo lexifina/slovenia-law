@@ -1,9 +1,0 @@
-## IV. poglavje: Druge uskladitve
-# 110. člen (prehodno obdobje do vzpostavitve prostorskega informacijskega sistema)
-(1) Določbe 9. člena tega zakona glede elektronskega pošiljanja, drugega odstavka 55. člena tega zakona, šestega odstavka 57. člena tega zakona v delu, ki se nanaša na javno objavo v prostorskem informacijskem sistemu, in določbe 76. člena tega zakona se začnejo uporabljati 1. januarja 2021.
-(2) Do 1. januarja 2021 se vloge po tem zakonu vlagajo pri pristojnemu upravnemu organu za gradbene zadeve v pisni obliki.
-(3) Do 1. januarja 2021 se gradbenemu dovoljenju, ki se vroči stranskim udeležencem, priloži risba situacije iz potrjene dokumentacije za pridobitev gradbenega dovoljenja.
-(4) Ne glede na drugi odstavek tega člena se do 1. Januarja 2021 dokumentacija za izvedbo gradnje lahko vloži samo na elektronskem nosilcu.
-(5) Dokumentacijo za pridobitev gradbenega dovoljenja in dokumentacijo za izvedbo gradnje, na podlagi katerih je bilo izdano gradbeno oziroma uporabno dovoljenje v postopku, začetem pred 1. januarjem 2021, mora lastnik objekta oziroma njegov pravni naslednik hraniti, dokler objekt stoji oziroma do njegove odstranitve, če ni s posebnimi predpisi za nekatere vrste objektov določeno, da jih je treba hraniti trajno. Dokumentacija se lahko hrani na papirju, elektronskem mediju ali mikrofilmu. Za objekt, ki je v etažni lastnini, mora hraniti dokumentacijo iz prvega stavka tega odstavka upravnik objekta.
-(6) Dokumentacijo za pridobitev gradbenega dovoljenja, vodilno mapo dokazila o zanesljivosti in dokumentacijo za pridobitev uporabnega dovoljenja, na podlagi katerih je bilo izdano gradbeno oziroma uporabno dovoljenje v postopku, začetem pred 1. januarjem 2021, mora pristojni upravni organ hraniti deset let po izdaji dovoljenja.
-(7) Če sta s tem zakonom predvideni seznanjanje in obveščanje mnenjedajalcev, gradbene inšpekcije in drugih organov, se ti do 1. januarja 2021 obveščajo po elektronski poti.

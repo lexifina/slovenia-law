@@ -1,2 +1,0 @@
-# 108. člen (prehodno obdobje za začetek izvajanja nalog občinske inšpekcije)
-Če na dan začetka uporabe tega zakona občina nima občinske inšpekcije ali za namen inšpekcijskega nadzora ni ustanovljena skupna občinska uprava, opravljajo inšpekcijski nadzor iz drugega odstavka 8. člena tega zakona do ustanovitve občinske inšpekcije ali skupne občinske uprave gradbeni inšpektorji, vendar najpozneje do 1. januarja 2020.
