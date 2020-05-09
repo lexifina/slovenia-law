@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o divjadi in lovstvu (Uradni list RS, št. 16/04, 120/06 - odl. US, 17/08, 46/14 - ZON-C in 31/18) se v prvem odstavku 13. člena, v naslovu, prvem in drugem odstavku 15. člena, v drugem in tretjem odstavku 16. člena, v tretjem odstavku 17. člena, v tretjem odstavku 46. člena ter v 12. točki prvega odstavka 76. člena besedilo "letni načrt lovsko upravljavskega območja" v vseh sklonih in številih nadomesti z besedilom "dvoletni načrt lovsko upravljavskega območja" v ustreznem sklonu in številu.
