@@ -1,0 +1,3 @@
+# 10. člen (povračilo stroškov za zaporo občinske ceste)
+
+Stroške ureditve zapore občinske ceste zaradi izvedbe varstvenih del za odpravo posledic škode zaradi prenamnožitve populacije podlubnikov upravičencu povrne ministrstvo, pristojno za gozdarstvo. Povračilo se izvede na podlagi zahtevka upravičenca. Zahtevek mora vsebovati najmanj potrdilo o plačilu računa za ureditev zapore državne ceste, dovoljenje za zaporo ceste in potrdilo o izvedbi potrebnih sanacijskih del, ki ga izda Zavod. O upravičenosti zahtevka odloči ministrstvo, pristojno za gozdarstvo, z odločbo. Dodatne podatke glede lokacije zapore, trajanja zapore in o izvedenih sanacijskih delih lahko ministrstvo, pristojno za gozdarstvo, pridobi na Zavodu.
