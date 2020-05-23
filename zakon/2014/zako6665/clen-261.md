@@ -6,5 +6,5 @@ a) z investicijo se povečuje konkurenca pri oskrbi z zemeljskim plinom in zanes
 b) raven tveganja, povezana z investicijo, dopušča izvedbo investicije samo v primeru odobritve izvzetja;
 c) lastnik infrastrukture je pravna ali fizična oseba, ki je vsaj glede svoje pravne oblike ločena od operaterjev sistemov, v okviru katerih bo infrastruktura zgrajena;
 č) stroški se zaračunajo uporabnikom infrastrukture in
-d) izvzetje ne ovira konkurence, učinkovitega delovanja notranjega trga z zemeljskim plinom ali učinkovitega obratovanja reguliranega sistema, na katerega je infrastruktura priključena.
+d) izvzetje ne ovira konkurence na zadevnih trgih, na katere bodo investicije najverjetneje vplivale, učinkovitega delovanja notranjega trga z zemeljskim plinom, učinkovitega obratovanja plinovodnih sistemov, na katere je infrastruktura priključena, ali zanesljivosti oskrbe z zemeljskim plinom v Evropski uniji.
 (3) Izvzetje iz prvega odstavka tega člena se lahko dovoli tudi za znatna povečanja zmogljivosti obstoječe infrastrukture in za spremembe infrastrukture, ki omogoča razvoj novih virov oskrbe z zemeljskim plinom.

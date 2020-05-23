@@ -10,3 +10,4 @@
 - uskladi pravila za upravljanje omrežij in
 - izvaja svoje pristojnosti skladno z Uredbo (EU) št. 1227/2011.
 (7) Agencija lahko sklepa sporazume z drugimi regulativnimi organi za pospešitev regulativnega sodelovanja. Pri izvajanju ukrepov iz prejšnjega odstavka se agencija, če je to potrebno, posvetuje z ministrstvom, pristojnim za energijo, sistemskim operaterjem in operaterjem trga.
+(8) Agencija pri čezmejnih zadevah sodeluje z regulativnim organom ali organi zadevnih držav članic Evropske unije in ACER. Glede plinske infrastrukture, ki poteka v tretjo državo ali iz nje se lahko agencija posvetuje in sodeluje s pristojnimi organi tretje države v zvezi z delovanjem infrastrukture. Kadar je v Republiki Sloveniji prva povezovalna točka plinske infrastrukture v tretjo državo ali iz nje, se agencija pred sodelovanjem s pristojnimi organi tretje države posvetuje z regulativnimi organi drugih držav članic, ki jih ta infrastruktura zadeva.
