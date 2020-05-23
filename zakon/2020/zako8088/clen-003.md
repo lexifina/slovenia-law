@@ -1,0 +1,3 @@
+# 3. člen
+V 5. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Do ukrepov za odpravo posledic škode zaradi prenamnožitve populacije podlubnikov iz tretje do sedme alineje prejšnjega člena je upravičen lastnik gozda, ki izvaja ali je izvedel vsa dela v obsegu, vsebini in rokih, kot je določeno z odločbo Zavoda o sanitarni sečnji ter spravilu in odvozu okuženega ali s podlubniki napadenega, močno poškodovanega ali podrtega drevja iz gozda na lokacijo, ki ne predstavlja nevarnosti za nadaljnje širjenje podlubnika oziroma preventivnih varstvenih delih za odpravo posledic škode zaradi prenamnožitve populacije podlubnikov v skladu s predpisi, ki urejajo gozdove, in s tem zakonom.".
