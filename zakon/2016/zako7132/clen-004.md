@@ -1,6 +1,6 @@
 # 4. člen (zavezanci)
 (1) Ukrepe za odkrivanje in preprečevanje pranja denarja in financiranja terorizma, določene v tem zakonu, pred oziroma pri sprejemanju, izročitvi, zamenjavi, hrambi, razpolaganju oziroma drugem ravnanju z denarjem ali drugim premoženjem in pri sklepanju poslovnih razmerij izvajajo:
-1. banke, podružnice bank tretjih držav in bank držav članic, ki ustanovijo podružnico v Republiki Sloveniji oziroma so pooblaščene za neposredno opravljanje bančnih storitev v Republiki Sloveniji;
+1. banke in njihove podružnice v državah članicah, podružnice bank tretjih držav in bank držav članic, ki ustanovijo podružnico v Republiki Sloveniji;
 2. hranilnice;
 3. plačilne institucije, plačilne institucije z opustitvijo ter plačilne institucije in plačilne institucije z opustitvijo držav članic, ki v skladu z zakonom, ki ureja plačilne storitve in sisteme, ustanovijo podružnico v Republiki Sloveniji ali opravljajo plačilne storitve v Republiki Sloveniji prek zastopnika oziroma neposredno;
 4. pošta, če opravlja storitve prenosa denarja (vplačila in izplačila) prek poštne nakaznice;
@@ -23,7 +23,7 @@
 a) dajanja kreditov oziroma posojil, ki vključuje tudi potrošniške kredite, hipotekarne kredite, faktoring in financiranje komercialnih poslov, vključno s forfetiranjem,
 b) finančnega zakupa (lizinga),
 c) izdajanja in upravljanja drugih plačilnih sredstev (npr. menic in potovalnih čekov), pri čemer ne gre za plačilno storitev v skladu z zakonom, ki ureja plačilne storitve in sisteme,
-d) izdajanje in upravljanje virtualnih valut, vključno s storitvijo menjave virtualnih valut v običajne valute in obratno,
+d) storitev menjav med virtualnimi in fiat valutami ali druge posle, ki so vključeni v te storitve, ali ponujanja skrbniških denarnic;
 e) izdajanja garancij in drugih jamstev,
 f) upravljanja naložb za tretje osebe in svetovanja v zvezi s tem ter upravljanja naložb Republike Slovenije v skladu z zakonom, ki ureja Slovenski državni holding,
 g) oddajanja sefov,
@@ -31,10 +31,10 @@ h) posredovanja pri sklepanju kreditnih in posojilnih poslov, razen tistih pravn
 i) zavarovalnega zastopstva pri sklepanju pogodb o življenjskem zavarovanju,
 j) zavarovalnega posredništva pri sklepanju pogodb o življenjskem zavarovanju,
 k) računovodskih storitev,
-l) storitev davčnega svetovanja,
+l) storitev davčnega svetovanja, neposrednega ali posrednega zagotavljanja materialne pomoči, pomoči ali svetovanja o davčnih zadevah kot glavno poslovno ali poklicno dejavnost;
 m) podjetniških ali fiduciarnih storitev,
 n) prometa plemenitih kovin in dragih kamnov ter izdelkov iz njih,
-o) trgovanja z umetninami,
+o) trgovanja ali posredovanja v trgovini z umetniškimi deli, vključno ko to izvajajo umetniške galerije, dražbene hiše in prostocarinska območja, ter hrambe umetniških del, ko to izvajajo prostocarinska območja;
 p) organiziranja ali izvajanja dražb ali
 r) poslovanja z nepremičninami, kamor spadajo poslovanje z lastnimi nepremičninami, oddajanje ali obratovanje lastnih ali najetih nepremičnin ter posredništvo v prometu z nepremičninami,
 s) izvajanja ukrepov za krepitev stabilnosti bank v Republiki Sloveniji v skladu z zakonom, ki ureja ukrepe Republike Slovenije za krepitev stabilnosti bank.

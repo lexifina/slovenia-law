@@ -1,6 +1,6 @@
 # 58. člen (izvajanje poenostavljenega pregleda stranke)
 (1) Pri poenostavljenem pregledu stranke iz prvega odstavka prejšnjega člena se ugotavljanje in preverjanje istovetnosti stranke izvaja v skladu z določbami od 23. do 31. člena tega zakona, podatki pa se pridobijo v obsegu, kot je določeno v tem členu.
-(2) Ugotavljanje dejanskega lastnika stranke se izvaja v skladu z določbami od 33. do 40. člena tega zakona.
+(2) Ugotavljanje dejanskega lastnika stranke se izvaja v skladu s 33. do 37. členom tega zakona.
 (3) Pridobivanje podatkov o namenu, predvideni naravi poslovnega razmerja ali transakcije in drugih podatkov se izvaja v obsegu, kot je določeno v tem členu.
 (4) Redno skrbno spremljanje poslovnih aktivnosti, ki jih stranka izvaja pri zavezancu, se izvaja v skladu z določbami 49. člena tega zakona.
 (5) Zavezanec v okviru poenostavljenega pregleda stranke, ki je pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, pridobi naslednje podatke:

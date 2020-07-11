@@ -5,6 +5,6 @@
 (4) Če zavezanec presodi, da obstaja utemeljen dvom o verodostojnosti opravljenega pregleda stranke oziroma identifikacijske dokumentacije ali o resničnosti pridobljenih podatkov o stranki, mora pregled opraviti sam.
 (5) Zavezanec ne sme skleniti poslovnega razmerja, če:
 1. je pregled stranke opravila oseba, ki ni tretja oseba v skladu s 52. členom tega zakona;
-2. če je tretja oseba, ki ji je zavezanec zaupal pregled stranke, ugotovila in preverila istovetnost stranke brez njene navzočnosti;
+2. če je tretja oseba, ki ji je zavezanec zaupal pregled stranke, ugotovila in preverila istovetnost stranke v nasprotju s tretjim odstavkom 51. člena tega zakona;
 3. od tretje osebe, ki je opravila pregled stranke, predhodno ni dobil podatkov iz prvega odstavka tega člena;
 4. obstaja utemeljen dvom o verodostojnosti izvedenega pregleda stranke ali resničnosti pridobljenih podatkov o stranki, zavezanec pa ne opravi pregleda stranke sam.

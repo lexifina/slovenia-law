@@ -6,3 +6,4 @@
 (2) Če nadzorni organi iz 139. člena tega zakona ob izdaji odločbe ocenijo, da so v zvezi z objavo identitete kršitelja podani razlogi iz prejšnjega odstavka, hkrati z izdajo odločbe, s katero izrečejo ukrepe nadzora, odločijo tudi, da se:
 - identiteta kršitelja ne objavi ali
 - se objava identitete kršitelja začasno zadrži in se navedejo roki za zadržanje objave, če bodo razlogi za zadržanje objave v tem obdobju predvidoma prenehali obstajati.
+(3) Če se možnosti iz prejšnjega odstavka štejeta za nezadostni, da bi se z njima zagotovilo učinkovito varstvo zadevnih osebnih podatkov ali da stabilnost finančnih trgov ne bi bila ogrožena, nadzorni organi iz 139. člena tega zakona hkrati z izdajo odločbe, s katero izrečejo ukrepe nadzora, odločijo tudi, da se informacije v zvezi z ukrepi nadzora in sankcijami zaradi prekrškov, ki so jih izrekli zaradi kršitev tega zakona, ne objavijo.

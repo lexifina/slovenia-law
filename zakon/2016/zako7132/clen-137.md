@@ -16,11 +16,11 @@
 7. znesek transakcije in valuta, v kateri se opravi transakcija;
 8. namen transakcije ter osebno ime, naslov stalnega in začasnega prebivališča oziroma firma in sedež osebe, ki ji je transakcija namenjena, in država, v katero je izvršena transakcija;
 9. način izvedbe transakcije;
-10. podatki o izvoru premoženja in sredstev, ki so ali bodo predmet poslovnega razmerja ali transakcije;
+10. podatki o izvoru premoženja in sredstev stranke, njenega zakonitega zastopnika, pooblaščenca in dejanskega lastnika ter podatki o izvoru premoženja in sredstev, ki so ali bodo predmet poslovnega razmerja ali transakcije;
 11. osebno ime, naslov stalnega in začasnega prebivališča, datum in kraj rojstva, davčna številka ali EMŠO, državljanstvo ter številka, vrsta in naziv izdajatelja uradnega osebnega dokumenta oziroma firma, naslov, sedež ter matična številka osebe, v zvezi s katero obstajajo razlogi za sum pranja denarja ali financiranja terorizma;
 12. podatki o transakciji, sredstvih in premoženju, v zvezi s katerimi obstajajo razlogi za sum pranja denarja ali financiranja terorizma (znesek, valuta, vrsta sredstev in premoženja, vrednost sredstev in premoženja, datum ali obdobje opravljanja transakcij);
 13. razlogi za sum pranja denarja ali financiranja terorizma;
-14. za dejanske lastnike iz 35., 36., 37., 38., 39. in 40. člena tega zakona:
+14. za dejanske lastnike iz 35., 36. in 37. člena tega zakona:
 a) osebno ime, naslov stalnega in začasnega prebivališča, datum rojstva, državljanstvo ter višina lastniškega deleža ali drug način nadzora;
 b) v primeru iz točke b) prvega odstavka 37. člena tega zakona podatek o kategoriji oseb, v interesu katerih je ustanovitev in delovanje tujega sklada, tuje ustanove ali podobnega pravnega subjekta tujega prava;
 15. naziv druge osebe civilnega prava iz 5. točke 3. člena tega zakona ter osebno ime, naslov stalnega in začasnega prebivališča, datum in kraj rojstva ter davčna številka ali EMŠO člana.
@@ -57,8 +57,8 @@ b) v primeru iz točke b) prvega odstavka 37. člena tega zakona podatek o kateg
 (9) V evidencah mednarodnih zaprosil iz 105. in 106. člena tega zakona, ki jih upravlja urad, se za namen izvajanja 87. in 113. člena tega zakona obdelujejo naslednji podatki:
 1. osebno ime, naslov stalnega in začasnega prebivališča, datum in kraj rojstva, davčna številka ali EMŠO ter številka, vrsta in naziv izdajatelja uradnega osebnega dokumenta oziroma firma, naslov, sedež, matična številka in davčna številka osebe, na katere se zaprosilo nanaša;
 2. ime države in naziv zaprošenega organa oziroma organa, ki je izdal zaprosilo.
-(10) V evidencah o iznesenih osebnih podatkih iz države iz 105., 106., 107. in 108. člena tega zakona, ki jih upravlja urad, se za namen izvajanja 87. in 113. člena tega zakona obdelujejo naslednji podatki:
-1. osebno ime, naslov stalnega in začasnega prebivališča, datum in kraj rojstva, davčna številka ali EMŠO ter številka, vrsta in naziv izdajatelja uradnega osebnega dokumenta oziroma firma, naslov, sedež, matična številka in davčna številka osebe, katere podatki se iznašajo iz države;
+(10) V evidencah o iznesenih osebnih podatkih iz države iz 47.a, 105., 106. in 108. člena tega zakona, ki jih upravlja urad, se za namen izvajanja 87. in 113. člena tega zakona obdelujejo naslednji podatki:
+1. osebno ime, naslov stalnega in začasnega prebivališča, datum in kraj rojstva, davčna številka ali EMŠO, številka, vrsta in naziv izdajatelja uradnega osebnega dokumenta ter firma, naslov, sedež, matična številka in davčna številka osebe, katere podatki se iznašajo iz države;
 2. ime države in naziv organa, h kateremu se podatki iznašajo.
 (11) V evidencah o kaznivih dejanjih iz 121. člena tega zakona, ki jih upravlja urad, se za namen centralizacije in analize vseh podatkov v zvezi s pranjem denarja in financiranjem terorizma obdelujejo naslednji podatki:
 1. osebno ime, naslov stalnega in začasnega prebivališča, datum in kraj rojstva, davčna številka ali EMŠO oziroma firma, naslov, sedež, matična številka in davčna številka ovadene osebe oziroma obdolžene osebe, ali osebe, v zvezi s katero je bilo odrejeno začasno zavarovanje zahtevka za odvzem premoženjske koristi;

@@ -1,6 +1,6 @@
 # 123. člen (razkritje podatkov v okviru skupine)
 (1) Prepoved razkritja podatkov iz 1. točke prvega odstavka prejšnjega člena ne velja, če gre za razkritje podatkov med kreditnimi institucijami in med finančnimi institucijami iz držav članic, ki so del iste skupine, in če so politike in postopki skupine enakovredni določbam tega zakona.
-(2) Prepoved razkritja podatkov iz 1. točke prvega odstavka prejšnjega člena prav tako ne velja, če gre za razkritje podatkov med kreditnimi ali finančnimi institucijami iz držav članic in njihovimi podružnicami ali hčerinskimi družbami v večinski lasti, ki so ustanovljene v tretjih državah, če sta izpolnjena naslednja pogoja:
+(2) Prepoved razkritja podatkov iz 1. točke prvega odstavka prejšnjega člena prav tako ne velja, če gre za razkritje podatkov med kreditnimi ali finančnimi institucijami iz držav članic in njihovimi podružnicami ali hčerinskimi družbami v večinski lasti, ki imajo sedež v tretjih državah, če sta izpolnjena naslednja pogoja:
 1. da podružnice ali hčerinske družbe v večinski lasti v tretjih državah izvajajo politike in postopke skupine, vključno s postopki izmenjave informacij znotraj skupine, ki so enakovredni določbam iz 71., 72. in 75. člena tega zakona, in
 2. da so politike in postopki skupine enakovredni določbam iz tega zakona.
 (3) Zavezanec za namene izvajanja tega člena upravlja evidenco podatkov, za katere ne velja prepoved razkritja in ki so bili razkriti v okviru skupine, v kateri se obdelujejo naslednji podatki:

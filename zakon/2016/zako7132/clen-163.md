@@ -51,7 +51,7 @@
 2. deset odstotkov skupnega letnega prometa v predhodnem poslovnem letu, če ta znesek presega znesek iz prejšnje točke.
 (8) Kadar je pravna oseba iz prejšnjega odstavka oseba, kreditna ali finančna institucija, ki obvladuje eno ali več odvisnih družb ali ki je odvisna družba, se za podatek o skupnem letnem prometu v predhodnem poslovnem letu upošteva letno konsolidirano poročilo v skladu z zakonom, ki ureja gospodarske družbe.
 (9) Samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, iz petega odstavka tega člena, ki je kreditna ali finančna institucija, se kaznuje z globo v višini do:
-1. 2.500.000 eurov, ali
+1. 5.000.000 eurov ali
 2. deset odstotkov skupnega letnega prometa v predhodnem poslovnem letu, če ta znesek presega znesek iz prejšnje točke.
 (10) Odgovorna oseba pravne osebe iz sedmega odstavka tega člena ter odgovorna oseba samostojnega podjetnika posameznika in odgovorna oseba posameznika, ki samostojno opravlja dejavnost, iz devetega odstavka tega člena se kaznuje z globo v višini do 500.000 eurov.
 (11) Zoper pravno osebo iz četrtega in sedmega odstavka tega člena ter zoper samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, iz petega in devetega odstavka tega člena se poleg izreka globe odredi tudi trajen ali začasen umik dovoljenja za opravljanje dejavnosti, kadar pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, za opravljanje svoje dejavnosti potrebuje takšno dovoljenje.

@@ -5,5 +5,6 @@
 - podatke o specifičnih nacionalnih in mednarodnih tveganjih, povezanih s strankami, produkti in storitvami,
 - podatke o tveganju posameznih zavezancev in druge razpoložljive podatke in
 - pomembne dogodke ali spremembe v zvezi z upravljanjem in vodenjem zavezanca ter spremembo dejavnosti.
-(3) Banka Slovenije, Agencija za trg vrednostnih papirjev in Agencija za zavarovalni nadzor pri načrtovanju in izvajanju inšpekcijskega nadzora upoštevajo tudi smernice evropskih nadzornih organov.
-(4) Urad ostalim nadzornim organom iz prejšnjega člena predlaga izvedbo nadzora pri določenem zavezancu ali vrsti zavezancev glede na informacije in podatke, s katerimi razpolaga urad, ter glede na opravljene strateške in operativne analize.
+(3) Nadzorni organi podatke iz prejšnjega odstavka posodobijo najmanj vsaki dve leti in ustrezno prilagodijo načrtovanje pogostosti, obsega in intenzivnosti nadzora ter izvajanje nadzora.
+(4) Banka Slovenije, Agencija za trg vrednostnih papirjev in Agencija za zavarovalni nadzor pri načrtovanju in izvajanju inšpekcijskega nadzora upoštevajo tudi smernice evropskih nadzornih organov.
+(5) Urad ostalim nadzornim organom iz prejšnjega člena predlaga izvedbo nadzora pri določenem zavezancu ali vrsti zavezancev glede na informacije in podatke, s katerimi razpolaga urad, ter glede na opravljene strateške in operativne analize.

@@ -12,7 +12,7 @@
 2. evidenco o prejetih pobudah iz 99. in 100. člena tega zakona;
 3. evidenco obvestil in informacij iz 101. in 102. člena tega zakona;
 4. evidenco mednarodnih zaprosil iz 105. in 106. člena tega zakona;
-5. evidenco o iznesenih osebnih podatkih iz države iz 105., 106., 107. in 108. člena tega zakona;
+5. evidenco o iznesenih osebnih podatkih iz države iz 47.a, 105., 106. in 108. člena tega zakona;
 6. evidenco o dostopu do podatkov iz 116. člena tega zakona;
 7. evidenco o dostopu do podatkov iz 117. člena tega zakona;
 8. evidenco o dostopu do podatkov iz 118. člena tega zakona;
@@ -59,7 +59,11 @@
 - podatek o višini dobička zasebnikov in pravnih oseb,
 - podatek o številki transakcijskega računa,
 - podatek o statusu računa (odprt, zaprt),
-- datum zaprtja računa.
+- datum zaprtja računa,
+- podatek o pooblaščencu imetnika transakcijskega računa (ime in priimek ali firma ali naziv, davčna številka ali identifikacijska oznaka in država sedeža ali prebivališča, matična številka),
+- podatek o dejanskem lastniku transakcijskega računa (ime in priimek, davčna številka ali identifikacijska oznaka in država prebivališča),
+- podatek o sefu (številka ali drug identifikacijski znak sefa in trajanje najema),
+- podatek o najemniku sefa (ime in priimek ali firma ali naziv, davčna številka ali identifikacijska oznaka in država sedeža ali prebivališča, matična številka).
 (7) Urad dostopa do pisnih in grafičnih podatkov iz zbirk podatkov iz prejšnjega odstavka z neposredno računalniško povezavo, če tehnične možnosti to omogočajo.
 (8) Za namen izvajanja drugega odstavka 87. člena tega zakona se evidence iz tretjega in četrtega odstavka tega člena lahko povezujejo med seboj in z evidencami iz šestega odstavka tega člena.
 (9) Za medsebojno povezovanje evidenc iz tretjega in četrtega odstavka tega člena se lahko uporablja davčno številko ali EMŠO, matično številko ter evidenčno oznako, določeno s strani urada.

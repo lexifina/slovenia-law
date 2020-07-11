@@ -1,7 +1,8 @@
 # 50. člen (obravnava neobičajnih transakcij)
-(1) V zvezi z zapletenimi in neobičajno visokimi transakcijami ali transakcijami, ki imajo neobičajno sestavo ali nimajo jasno razvidnega ekonomskega ali pravno utemeljenega namena ali niso v skladu ali so v nesorazmerju z običajnim oziroma pričakovanim poslovanjem stranke, zavezanec:
-- preuči ozadje in namen teh transakcij, vključno z izvorom premoženja in sredstev, in sicer v takšni meri, kot je glede na okoliščine to mogoče, in
-- zabeleži in hrani svoje ugotovitve.
+(1) V zvezi z zapletenimi ali neobičajno visokimi transakcijami ali transakcijami, ki imajo neobičajno sestavo ali vzorec ali nimajo jasno razvidnega ekonomskega ali pravno utemeljenega namena ali niso v skladu z običajnim ali pričakovanim poslovanjem stranke ali so s takim poslovanjem stranke v nesorazmerju, zavezanec:
+- preuči ozadje in namen teh transakcij, vključno z izvorom premoženja in sredstev, in sicer v takšni meri, kot je glede na okoliščine to mogoče,
+- zabeleži in hrani svoje ugotovitve in
+- okrepi spremljanje poslovnih aktivnosti stranke, da ugotovi, ali so te transakcije ali dejavnosti videti sumljive.
 (2) Če zavezanec oceni, da neobičajna transakcija predstavlja povečano tveganje za pranje denarja ali financiranje terorizma, uporabi enega ali več ukrepov poglobljenega pregleda stranke, kot je predpisano v določbah tega zakona, ki urejajo ukrepe poglobljenega pregleda stranke.
 (3) Pri obravnavanju neobičajnih transakcij mora zavezanec posebno skrbnost nameniti strankam, poslovnim razmerjem ali transakcijam, ki so povezane z državami:
 1. ki so uvrščene na seznam visoko tveganih tretjih držav s strateškimi pomanjkljivostmi, v katerih ne veljajo ustrezni ukrepi za preprečevanje in odkrivanje pranja denarja ali financiranja terorizma, ali
