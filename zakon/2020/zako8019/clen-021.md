@@ -1,0 +1,5 @@
+# 21. člen
+Za 47. členom se doda nov 47.a člen, ki se glasi:
+"47.a člen
+(predložitev podatkov in informacij o dejanskih lastnikih na zaprosilo pristojnih organov države članice)
+Nadzorni organi iz 139. člena tega zakona podatke, informacije in dokumentacijo o dejanskih lastnikih brezplačno in v primernem času predložijo tuji finančni obveščevalni enoti države članice in nadzornim organom države članice za potrebe izvajanja pooblastil in nalog v zvezi s preprečevanjem in odkrivanjem pranja denarja in financiranja terorizma na njihovo pisno zaprosilo.".
