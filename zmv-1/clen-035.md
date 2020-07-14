@@ -1,0 +1,13 @@
+# 35. člen (vsebina registrske tablice)
+
+(1) Registrska tablica vsebuje razpoznavni znak Republike Slovenije (evropski znak), registracijsko območje ter prostor, predviden za grb in registrsko oznako, ki jo sestavljajo kombinacija črk in številk ali kombinacija črk. Registrska tablica, izdana za označitev vozila, ki ga uporablja Predsednik Republike Slovenije, namesto razpoznavnega znaka Republike Slovenije vsebuje zastavo Republike Slovenije.
+
+(2) Registracijska območja so zaokrožena območja več upravnih enot.
+
+(3) Na registrski tablici sta oznaka registracijskega območja, v katerem je vozilo registrirano, in grb občine, v kateri je sedež upravne enote, na območju katere so izdane registrske tablice. Na podlagi predhodnega naročila lastnika vozila se registrska tablica lahko izda z oznako registracijskega območja in grbom ustrezne občine po izbiri lastnika vozila.
+
+(4) Registrskih tablic na vozilu ni dovoljeno spreminjati. Vozilo ne sme biti v prometu z drugačno registrsko tablico, kot je predpisano, ali s spremenjeno registrsko tablico.
+
+(5) Registrske tablice morajo biti pritrjene tam, kjer je to predvidel proizvajalec vozila, in sicer tako, da so dobro vidne in čitljive, niso poškodovane, upognjene, zakrite, dodatno prevlečene ali prekrite. Registrske tablice so lahko prikovičene, privijačene ali kako drugače čvrsto pritrjene.
+
+(6) Z globo 200 eurov se kaznuje za prekršek voznik vozila, ki ravna v nasprotju s četrtim ali petim odstavkom tega člena.

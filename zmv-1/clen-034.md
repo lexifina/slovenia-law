@@ -1,0 +1,5 @@
+# 34. člen (vezanost registrske tablice)
+
+(1) Registrske tablice, izdane za označitev vozila, so vezane na vozilo. Oznako registrske tablice je mogoče na posebno zahtevo izbrati po lastni želji. Registrske tablice z izbranim delom oznake so vezane na osebo, ki je rezervirala registrsko tablico z izbranim delom oznake. Ta oseba lahko rezervacijo izbranega dela oznake oziroma registrske tablice z izbranim delom oznake prenese na drugo osebo.
+
+(2) Z globo 500 eurov se kaznuje za prekršek voznik, ki uporabi registrske tablice na vozilu, za katero niso bile izdane. Z globo 5.000 eurov se kaznuje za prekršek pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki uporabi registrske tablice na vozilu, za katero niso bile izdane, njihova odgovorna oseba pa z globo 500 eurov. Z globo 500 eurov se kaznuje za prekršek tudi odgovorna oseba državnega organa ali organa samoupravne lokalne skupnosti, ki uporabi registrske tablice na vozilu, za katero niso bile izdane.
