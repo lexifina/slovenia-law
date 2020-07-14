@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o pravilih cestnega prometa (Uradni list RS, št. 82/13 - uradno prečiščeno besedilo, 68/16, 54/17, 69/17 - popr., 3/18 - odl. US in 43/19 - ZVoz-1B) se v 3. členu 38. točka prvega odstavka spremeni tako, da se glasi:
+"38. "skupina otrok" je skupina najmanj petih predšolskih otrok ali otrok, ki obiskujejo osnovno šolo, in ki predstavljajo večino potnikov v motornem vozilu. Skupina petih ali več otrok družine in sorodnikov v ravni črti in v stranski črti do vštetega tretjega kolena in skupina petih ali več otrok, ki se prevaža v javnem linijskem prevozu potnikov, se ne šteje za skupino otrok;".
