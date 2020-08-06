@@ -1,0 +1,5 @@
+# 18. člen
+V 194. členu se v prvem odstavku za besedilom "Določba ne velja za" doda besedilo "podatke o pooblaščencih in dejanskih lastnikih imetnikov transakcijskih računov ter sefih in".
+V drugem odstavku se za besedilom "Agencija varuje" doda besedilo "osebne podatke v zvezi s sefi, pooblaščenci in dejanskimi lastniki imenikov transakcijskih računov ter".
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Osebne podatke o transakcijskih računih fizičnih oseb, pooblaščencih in dejanskih lastnikih imetnikov transakcijskih računov ter sefih, ki se obdelujejo v registru transakcijskih računov, lahko pridobijo tudi imetnik transakcijskega računa, ali pooblaščenec, ali dejanski lastnik imetnika transakcijskega računa, ali najemnik sefa glede podatkov, ki se nanašajo nanj, ter druge osebe, za katere drug zakon določa pravno podlago in namen obdelave osebnih podatkov. Fizična oseba uveljavlja pravico dostopa do osebnih podatkov v registru transakcijskih računov v skladu z zakonom, ki ureja varstvo osebnih podatkov.".
