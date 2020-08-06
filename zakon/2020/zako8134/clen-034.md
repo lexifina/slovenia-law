@@ -1,0 +1,2 @@
+# 34. člen
+V 575.a členu se v prvem odstavku doda nov drugi stavek, ki se glasi: "V primeru dogovora Agencije za zavarovalni nadzor s pristojnim organom druge države članice iz tega odstavka, Agencija za zavarovalni nadzor o tem nemudoma obvesti zavarovalno zastopniško družbo, zavarovalno posredniško družbo, zastopnika dopolnilnih zavarovanj ali banko, ki opravlja dejavnost zavarovalnega zastopanja ali zavarovalnega posredovanja v drugi državi članici, in EIOPA.".

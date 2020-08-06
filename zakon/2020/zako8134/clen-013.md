@@ -1,0 +1,2 @@
+# 13. člen
+V 184. členu se v petem odstavku prvi stavek spremeni tako, da se glasi: "Za vsako zadevno državo se pred uporabo 65 % faktorja prilagodljivosti za nestanovitnost krivulje netvegane obrestne mere iz prejšnjega odstavka za valuto te države poveča za razliko med razponom države, popravljenim za tveganje, in dvakratnim valutnim razponom, popravljanim za tveganje, vedno kadar je ta razlika pozitivna in je razpon države, popravljen za tveganje, večji od 85 baznih točk.".

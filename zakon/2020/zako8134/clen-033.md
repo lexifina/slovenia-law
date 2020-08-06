@@ -1,0 +1,3 @@
+# 33. člen
+Besedilo 568. člena se spremeni tako, da se glasi:
+"Zavarovalno posredniška družba ima zavarovano poklicno odgovornost za zavarovalno vsoto, ki ne sme biti manjša od zneska iz uredbe EU, ki predpisuje zavarovalne vsote za zavarovanje poklicne odgovornosti zavarovalnega posrednika na en odškodninski zahtevek, ali ne sme biti manjša od zneska iz uredbe EU, ki predpisuje zavarovalne vsote za zavarovanje poklicne odgovornosti zavarovalnega posrednika za vse odškodninske zahtevke skupno v enem letu. Oškodovanec je ob nastanku zavarovalnega primera upravičen uveljavljati od zavarovalnice znesek brez upoštevanja morebitne franšize, ki jo nato zavarovalnica regresira od zavarovalca.".

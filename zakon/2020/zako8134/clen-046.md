@@ -1,0 +1,2 @@
+# 46. člen (nadzor nad pokojninskimi družbami)
+Za nadzor nad pokojninskimi družbami iz Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415, 44/14 - ORZPIZ206, 85/14 - ZUJF-B, 95/14 - ZUJF-C, 90/15 - ZIUPTD, 102/15, 23/17, 40/17, 65/17, 28/19 in 75/19) se do ureditve v Zakonu o pokojninskem in invalidskem zavarovanju smiselno uporablja 7. poglavje zakona, razen drugega odstavka 277. člena zakona.
