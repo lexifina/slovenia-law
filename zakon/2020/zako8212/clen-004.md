@@ -1,0 +1,5 @@
+# 4. člen
+Za 49. členom se doda nov 49.a člen, ki se glasi:
+"49.a člen
+(višina globe v hitrem prekrškovnem postopku)
+Za prekrške iz tega zakona se sme v hitrem postopku izreči globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem zakonom.".
