@@ -1,0 +1,3 @@
+# 6. člen (izredna uskladitev pokojnin v letu 2020)
+
+Ne glede na osmi odstavek 430. člena Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 99/13 – ZSVarPre-C, 101/13 – ZIPRS1415, 44/14 – ORZPIZ206, 85/14 – ZUJF-B, 95/14 – ZUJF-C, 90/15 – ZIUPTD, 102/15, 23/17, 40/17, 65/17, 28/19 in 75/19; v nadaljnjem besedilu: ZPIZ-2) se v decembru 2020 pokojnine in drugi prejemki, priznani na podlagi pravic iz prvega odstavka 3. člena, prejemki iz 389. člena, četrtega odstavka 392. člena, 404. in 405. člena ZPIZ-2, razen letnega dodatka in dodatka za pomoč in postrežbo, poleg redne uskladitve v skladu s 105., 106. in 107. členom ZPIZ-2, izredno uskladijo v višini 2 odstotkov.
