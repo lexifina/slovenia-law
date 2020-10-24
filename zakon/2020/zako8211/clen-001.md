@@ -1,0 +1,5 @@
+# 1. člen
+V Zakonu o varstvu javnega reda in miru (Uradni list RS, št. 70/06) se v 11. členu za drugim odstavkom dodajo novi tretji, četrti in peti odstavek, ki se glasijo:
+"(3) Kdor nosi, razkazuje ali uporablja predmete iz prejšnjega odstavka na način, ki vzbuja videz, da izvaja naloge uradnih ali vojaških oseb, se kaznuje z globo od 500 do 1.000 eurov.
+(4) Če je prekršek iz prejšnjega odstavka storjen v skupini najmanj dveh oseb, se posameznik kaznuje z globo od 1.000 do 2.000 eurov.
+(5) Ne glede na drugi, tretji in četrti odstavek tega člena se lahko predmeti iz drugega odstavka tega člena nosijo, razkazujejo ali uporabljajo kot rekvizit za film, televizijo, gledališke predstave, druge javne nastope, humanitarne, kulturno zgodovinske, reklamne in druge komercialne namene, v skladu s predpisi, ki urejajo področje uporabe uniforme, položajnih oznak in simbolov uradnih organov ali vojaških oseb, ali nastopajočih na prireditvah, katerih del programa je nošenje, razkazovanje ali uporaba predmetov iz drugega odstavka tega člena in so organizirane v skladu z zakonom, ki ureja javna zbiranja.".
