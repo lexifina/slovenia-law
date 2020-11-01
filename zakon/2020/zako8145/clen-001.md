@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o voznikih (Uradni list RS, št. 85/16, 67/17, 21/18 - ZNOrg in 43/19) se v 1. členu v drugem odstavku besedilo "Direktivo Komisije 2016/1106/EU z dne 7. julija 2016 o spremembi Direktive 2006/126/ES Evropskega parlamenta in Sveta o vozniških dovoljenjih (UL L št. 183 z dne 8. 7. 2016, str. 59)" nadomesti z besedilom "Direktivo Komisije (EU) 2020/612 z dne 4. maja 2020 o spremembi Direktive 2006/126/ES Evropskega parlamenta in Sveta o vozniških dovoljenjih (UL L št. 141 z dne 5. 5. 2020, str. 9)".
