@@ -1,0 +1,30 @@
+# 9. člen
+Besedilo 13. člena se spremeni tako, da se glasi:
+"(1) Komisija lahko na svojo pobudo ali na podlagi prijave pravne ali fizične osebe uvede postopek zaradi:
+1. suma korupcije, ki ne obsega kršitev iz 2. do 13. točke tega odstavka;
+2. suma kršitve integritete uradne osebe;
+3. suma kršitve obveznosti vključitve protikorupcijske klavzule v pogodbo;
+4. suma kršitve dolžnosti pridobitve izjave oziroma podatkov o udeležbi fizičnih in pravnih oseb v lastništvu ponudnika ter o gospodarskih subjektih, za katere se glede na določbe zakona, ki ureja gospodarske družbe, šteje, da so povezane družbe s ponudnikom;
+5. suma kršitve določb o zaščiti prijaviteljev;
+6. suma opravljanja nezdružljive funkcije, dejavnosti ali članstva;
+7. suma kršitve pri sprejemanju daril;
+8. suma kršitev določb o prepovedi oziroma omejitvah poslovanja;
+9. suma kršitve določb o nasprotju interesov;
+10. suma kršitve dolžnosti prijave premoženjskega stanja;
+11. suma nesorazmernega povečanja premoženja;
+12. suma kršitve določb o lobiranju;
+13. suma kršitve dolžnosti, povezanih z izdelavo načrta integritete.
+(2) Komisija v poslovniku določi natančnejša pravila za postopanje s prijavami, ki vključujejo tudi merila za sprejem prijave v obravnavo oziroma za zavrnitev, zavrženje ali odstop prijave drugemu organu (predhodni preizkus prijave). V poslovniku se določijo tudi merila za določanje vrstnega reda obravnave prijav oziroma za uvedbo postopka na lastno pobudo, način odločanja o obravnavi posameznih zadev in podrobnejša pravila za izvedbo postopkov po tem členu.
+(3) Če komisija v okviru postopka zaradi suma korupcije iz 1. točke prvega odstavka tega člena zazna znake kaznivega dejanja, nemudoma vloži ovadbo. Postopek zaradi suma korupcije lahko komisija z vložitvijo ovadbe zaključi, lahko pa izda in javno objavi tudi načelno mnenje, v katerem se na načelni ravni opredeli do ugotovljenega ravnanja in do morebitnih sistemskih pomanjkljivosti ali neskladij, ki omogočajo takšno ravnanje, ter predlaga ukrepe za izboljšanje stanja. Načelno mnenje lahko komisija izda tudi, če ne zazna znakov kaznivega dejanja. Načelno mnenje komisije ne pomeni odločanja o kazenski, prekrškovni, odškodninski ali disciplinski odgovornosti pravne ali fizične osebe in nima oblike upravne odločbe. V načelnem mnenju komisija ne sme objaviti osebnih podatkov fizičnih in pravnih oseb iz konkretne zadeve ali podatkov na podlagi katerih bi jih bilo mogoče prepoznati. Ne glede na prejšnji stavek, sme komisija, kadar je to potrebno zaradi opisa in opredelitve do ugotovljenega ravnanja, objaviti zgolj psevdonimizirane osebne podatke, vendar tako, da fizične ali pravne osebe ni mogoče prepoznati.
+(4) V primeru suma kršitve integritete uradne osebe iz 2. točke prvega odstavka tega člena komisija izda ugotovitve o konkretnem primeru, ki vsebujejo opis dejanskega stanja, oceno kršitve uradne osebe z vidika krepitve integritete in v primeru ugotovljenih nepravilnosti pojasnilo, kakšno bi bilo pričakovano ravnanje. Osnutek ugotovitev o konkretnem primeru komisija pošlje obravnavani uradni osebi, ki se lahko v roku, ki ga komisija določi glede na okoliščine obravnavane kršitve, vendar ne krajšem od treh dni, izjasni o navedbah glede dejanskega stanja. Ob pošiljanju osnutka obravnavani osebi, se jo obvesti, da bo njen odgovor objavljen skupaj z ugotovitvami o konkretnem primeru.
+(5) V primeru suma kršitev iz 3. do 13. točke prvega odstavka tega člena, ki so v tem zakonu določene za prekršek, pooblaščena uradna oseba komisije kot prekrškovnega organa uvede prekrškovni postopek in odloči o prekršku.
+(6) Komisija lahko z namenom preprečevanja in odvračanja ravnanj, ki pomenijo kršitev tega zakona po pravnomočnosti odločbe o prekršku, ki se nanaša na funkcionarja, odločitev predstavi javnosti z objavo na svoji spletni strani in na drug primeren način. Objava obsega podatke o kršitelju (osebno ime ali naziv in sedež pravne osebe), kršitvi (opis okoliščin, ki pomenijo prekršek) in izrečeni sankciji. Objava je na spletni strani javno dostopna pet let po objavi.
+(7) V primeru suma kršitev iz 3. do 13. točke prvega odstavka tega člena, ki v tem zakonu niso določeni kot prekršek, komisija izvede ugotovitveni postopek in sprejme ukrepe ali opravi druga dejanja v skladu z zakonom. Pred dokončnim sprejetjem odločitve mora komisija v roku, ki ga določi glede na okoliščine obravnavane kršitve, vendar ne krajšem od treh dni, pridobiti izjavo obravnavane osebe o očitkih in ugotovitvah glede kršitev. Osebo se ob tem obvesti, da bo v primeru javne objave ugotovitev komisije, objavljen tudi njen odgovor.
+(8) Po prejemu odgovora obravnavane osebe iz četrtega in sedmega odstavka tega člena lahko komisija:
+- sprejme ugotovitve ali odločitev, kot so bile v osnutku ugotovitev ali odločitve, v katerih se opredeli do navedb iz odgovora obravnavane osebe ter postopek obravnave zadeve zaključi in o tem obvesti obravnavano osebo;
+- sprejme drugačne ugotovitve ali odločitev, kot so bile v osnutku ugotovitev ali odločitve, in ponovno izvede postopek po tem členu, če se dejstva in pravne okoliščine bistveno razlikujejo;
+- obravnavano osebo, ki je poslala odgovor, povabi na sejo komisije z namenom razjasnitve dodatnih okoliščin in izvede morebitne nadaljnje aktivnosti, potrebne za razjasnitev primera.
+(9) Če se obravnavana oseba do navedb v osnutku ne izjasni, to ni ovira za izdajo ugotovitev komisije. Če komisija ugotovitve v konkretnem primeru skladno s šestim odstavkom 11. člena tega zakona javno objavi, objavi tudi odgovor obravnavane osebe.
+(10) Če komisija zazna, da na določenem področju obstajajo sistemska korupcijska tveganja, izda priporočilo za pravilno ravnanje subjektov, ki delujejo na tem področju.
+(11) Komisija na podlagi zahteve državnih organov, organizacij in drugih fizičnih ali pravnih oseb oblikuje odgovore, mnenja in pojasnila o vprašanjih s svojega delovnega področja.
+(12) Komisija ne obravnava zadev, če je od dogodka, na katerega se zadeva nanaša, preteklo več kot pet let.".

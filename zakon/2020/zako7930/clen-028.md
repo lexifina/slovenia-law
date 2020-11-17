@@ -1,0 +1,5 @@
+# 28. člen
+Besedilo 43. člena se spremeni tako, da se glasi:
+"(1) Zavezanec mora komisiji vsako spremembo osebnih podatkov iz prve, pete in sedme alineje prvega odstavka prejšnjega člena sporočiti v roku 30 dni po nastanku spremembe, vsako spremembo v premoženjskem stanju pa najkasneje do 31. januarja v naslednjem letu po nastanku spremembe. Pri enotah premoženja, ki se skladno z drugim odstavkom prejšnjega člena prijavi le, če presega določeno vrednost, je zavezanec kot spremembo dolžan prijaviti povečanje premoženja, s katerim doseže prag za prijavo posamezne vrste premoženja, pri že prijavljenih enotah premoženja pa sporoči spremembo, ko se premoženje poveča ali zmanjša za več kot 10.000 eurov.
+(2) Sporočanje sprememb premoženjskega stanja se izvede prek elektronskega obrazca, dostopnega na spletnih straneh komisije. Obrazec za sporočanje sprememb premoženjskega stanja obsega tudi možnost navedbe razloga za povečanje ali zmanjšanje premoženja.
+(3) Komisija lahko kadarkoli od zavezanca zahteva, da ji predloži celovite podatke iz prvega in drugega odstavka prejšnjega člena. Zavezanec mora komisiji te podatke predložiti v 15 dneh po prejemu zahteve.".
