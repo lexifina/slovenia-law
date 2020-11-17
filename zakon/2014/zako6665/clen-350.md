@@ -1,4 +1,1 @@
-# 350. člen (metodologija za izračun energetske učinkovitosti stavb)
-(1) Minister, pristojen za energijo, predpiše metodologijo za izračunavanje energetske učinkovitosti stavb na nacionalni ravni z upoštevanjem stroškovno optimalne ravni, ki morajo biti določene za minimalne zahteve glede energetske učinkovitosti elementov stavb. Metodologija se upošteva pri določitvi zahtev minimalnih zahtev glede energetske učinkovitosti elementov stavb.
-(2) Minister, pristojen za graditev, predpiše metodologijo za izračunavanje energetske učinkovitosti stavb z upoštevanjem stroškovno optimalne ravni in določi minimalne zahteve glede energetske učinkovitosti stavb in njenih elementov. Metodologija se upošteva pri določitvi zahtev minimalnih zahtev glede energetske učinkovitosti elementov stavb.
-(3) Zahteve glede energetske učinkovitosti stavb se vsakih pet let preverijo in po potrebi spremenijo.
+# 350. člen (prenehal veljati)

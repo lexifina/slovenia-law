@@ -10,8 +10,8 @@
 8. "dolgoročno načrtovanje" pomeni dolgoročno načrtovanje potrebnih naložb v proizvodnjo, prenosne in distribucijske zmogljivosti ter druge objekte, za zadostitev povpraševanja sistema po električni energiji, zemeljskem plinu in drugih energentih, in za zagotovitev zanesljive oskrbe odjemalcev;
 9. "elektrika" pomeni električno energijo;
 10. "elektrooperater" pomeni sistemskega operaterja ali distribucijskega operaterja;
-11. "energetski pregled" pomeni sistematični postopek za namene seznanitve z obstoječo porabo energije stavbe ali skupine stavb, industrijskega ali komercialnega procesa, obrata, zasebne ali javne storitve, s katerim se opredelijo in ocenijo stroškovno učinkovite možnosti za prihranek energije, ter v okviru katerega se poroča o ugotovitvah;
-12. "energija" pomeni vse oblike energentov, kakor so opredeljene v d) točki 2. člena Uredbe (ES) št. 1099/2008 Evropskega parlamenta in Sveta z dne 22. oktobra 2008 o statistiki energetike (UL L 304 z dne 14. 11. 2008, str. 1);
+11. (prenehala veljati)
+12. (prenehala veljati)
 13. "gospodinjski odjemalec" pomeni odjemalca, ki kupuje električno energijo, zemeljski plin, toploto ali drug energetski plin za svojo lastno rabo v gospodinjstvu, kar izključuje rabo za opravljanje trgovskih ali poklicnih dejavnosti;
 14. "končna bruto poraba energije" pomeni energijo ali energent, dobavljen za energetske namene industriji, prometu, gospodinjstvom, storitvenemu sektorju, vključno z javnim sektorjem, kmetijstvu, gozdarstvu in ribištvu, vključno z električno energijo in toploto, ki jo porabi sektor pretvorbe energije za proizvodnjo električne energije in toplote, ter izgubami električne energije in toplote pri distribuciji in prenosu;
 15. "končna poraba energije" pomeni energijo ali energent, dobavljen za energetske namene industriji, prometu, gospodinjstvom, storitvenemu sektorju, vključno z javnim sektorjem, kmetijstvu, gozdarstvu in ribištvu, razen dobave sektorju pretvorbe energije;
@@ -31,13 +31,13 @@ c. od porabnikov energije, da v porabo vključijo določen delež energije iz ob
 26. "operater prenosnega sistema" pomeni pravno ali fizično osebo, ki opravlja dejavnosti prenosa zemeljskega plina in je odgovorna za obratovanje, vzdrževanje in razvoj prenosnega sistema na določenem območju, za medsebojne povezave z drugimi sistemi, kadar je ustrezno, in za zagotavljanje dolgoročne zmogljivosti sistema za zadovoljitev razumnih potreb po transportu plina;
 27. "operater sistema" je operater prenosnega sistema zemeljskega plina ali operater distribucijskega sistema zemeljskega plina;
 28. "podjetje za maloprodajo energije" pomeni pravno ali fizično osebo, ki prodaja energijo končnim odjemalcem;
-29. "pogodbeno zagotavljanje prihranka energije" pomeni pogodbeni dogovor med koristnikom in ponudnikom ukrepa za izboljšanje energetske učinkovitosti, ki se preverja in spremlja v vsem obdobju pogodbe in v okviru katerega se naložbe (delo, dobava ali storitev) v ukrep plačujejo sorazmerno s stopnjo izboljšanja energetske učinkovitosti, dogovorjeno s pogodbo, ali drugim dogovorjenim merilom za energetsko učinkovitost, kot so finančni prihranki;
-30. "ponudnik energetskih storitev" pomeni fizično ali pravno osebo, ki opravlja energetske storitve ali druge ukrepe za izboljšanje energetske učinkovitosti v objektu ali prostorih končnega odjemalca;
-31. "prihranek energije" pomeni količino prihranjene energije, določeno z meritvijo ali oceno porabe pred izvedbo ukrepa za izboljšanje energetske učinkovitosti in po njej, ob zagotovljenih normalnih zunanjih pogojih, ki vplivajo na porabo energije;
+29. (prenehala veljati)
+30. (prenehala veljati)
+31. (prenehala veljati)
 32. "revizor" je revizijska družba ali samostojni revizor, ki ima po zakonu, ki ureja revidiranje, dovoljenje za opravljanje revidiranja;
 33. "sistemski operater" pomeni pravno ali fizično osebo, ki opravlja dejavnost sistemskega operaterja prenosa električne energije in je odgovorna za obratovanje, vzdrževanje in razvoj na določenem območju, za medsebojne povezave z drugimi sistemi, kadar je ustrezno, in za zagotavljanje dolgoročne zmogljivosti sistema za zadovoljitev razumnih potreb po transportu električne energije;
 34. "soproizvodnja" pomeni postopek sočasne proizvodnje toplote in električne ali mehanske energije;
 35. "toplota" pomeni toploto v obliki pare, vroče vode, tople vode ali ohlajenih tekočin;
 36. (črtana);
-37. "učinkovito individualno ogrevanje in hlajenje" pomeni sistem dobave za individualno ogrevanje in hlajenje, ki v primerjavi z učinkovitim daljinskim ogrevanjem in hlajenjem znatno zmanjša vnos primarne energije iz neobnovljivih virov, potrebne za dobavo enote energije znotraj ustrezne sistemske meje, ali zahteva enak vnos primarne energije iz neobnovljivih virov, vendar ob nižjih stroških, pri čemer se upošteva energija, potrebna za pridobivanje, pretvorbo, prevoz in distribucijo energije;
-38. "ukrep politike" pomeni regulativni, finančni, davčni, prostovoljni instrument ali instrument o obveščanju, ki ga država ali lokalna skupnost uvede in izvaja, da ustvari podporni okvir, zahteve ali spodbude, s katerimi zagotovi, da udeleženci na trgu nudijo ali kupujejo energetske storitve ter izvajajo druge ukrepe za izboljšanje energetske učinkovitosti.
+37. (prenehala veljati)
+38. (prenehala veljati)

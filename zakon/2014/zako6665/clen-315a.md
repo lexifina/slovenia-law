@@ -9,7 +9,7 @@
 (6) Pogodba o samooskrbi in ključ delitve proizvedene električne energije se registrirata pri distribucijskem operaterju.
 (7) Ne glede na določbo drugega odstavka 98. člena tega zakona se prispevek za delovanje operaterja trga obračuna na neto prevzeto električno energijo v obračunskem obdobju.
 (8) Ne glede na določbi 133. in 134. člena tega zakona se omrežnina, vezana na prevzeto delovno električno energijo, obračuna na neto prevzeto električno energijo v obračunskem obdobju.
-(9) Ne glede na določbo 317. člena tega zakona se prispevek za učinkovito rabo energije, obračuna na neto prevzeto električno energijo v obračunskem obdobju.
+(9) Ne glede na določbo 8. člena Zakona o učinkoviti rabi energije (Uradni list RS, št. 158/20) se prispevek za učinkovito rabo energije, obračuna na neto prevzeto električno energijo v obračunskem obdobju.
 (10) Naprava za samooskrbo ni upravičena do potrdil o izvoru električne energije.
 (11) Pred priključitvijo naprave za samooskrbo je treba pri distribucijskem operaterju pridobiti soglasje za priključitev v primeru novega merilnega mesta, prek katerega je priključena naprava za samooskrbo, oziroma spremembo soglasja za priključitev v primeru obstoječega merilnega mesta. Izdaja spremembe soglasja za priključitev poteka po skrajšanem ugotovitvenem postopku, ki je hiter in mora biti končan najpozneje v 15 dneh, če je potreben poseben ugotovitveni postopek, pa najkasneje v 30 dneh od dneva prejema popolne vloge. V postopku iz prejšnjega stavka distribucijski operater vlagatelja pozove k dopolnitvi vloge najkasneje pet dni po prejemu vloge.
 (12) Končni odjemalec z individualno ali skupnostno samooskrbo se za namene tega zakona ne šteje za proizvajalca električne energije.

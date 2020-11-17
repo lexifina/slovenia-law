@@ -1,9 +1,1 @@
-# 338. člen (pregled ogrevalnih sistemov)
-(1) Lastnik stavbe ali dela stavbe mora zagotoviti redne preglede dostopnih delov sistemov za ogrevanje, kot so kurilne naprave, nadzorni sistemi in obtočne črpalke, s kotli z nazivno močjo za ogrevanje prostorov nad določeno močjo, ki jo predpiše minister.
-(2) Preglede ogrevalnih sistemov izvajajo neodvisni strokovnjaki, ki pridobijo licenco iz 341. člena tega zakona.
-(3) Pregledi med drugim vključujejo oceno učinkovitosti ogrevalnega sistema in primernosti glede na uporabo stavbe.
-(4) Na podlagi pregleda neodvisni strokovnjak za izdelavo poročila o pregledu ogrevalnega sistema uporabnikom svetuje mogoče izboljšave ali zamenjavo delov sistema za ogrevanje.
-(5) Vsako izdajo poročila o pregledu ogrevalnega sistema mora neodvisni strokovnjak prijaviti za vpis v register poročil o pregledu ogrevalnega sistema. Poročilo o pregledu ogrevalnega sistema se izroči lastniku posamezne stavbe ali posameznega dela stavbe.
-(6) Pri pregledu morajo neodvisni strokovnjaki pooblaščenih pravnih ali fizičnih oseb upoštevati metodologijo, določeno s predpisom, ki predpisuje redne preglede dostopnih delov sistemov za ogrevanje.
-(7) Register poročil pregledov ogrevalnih sistemov vodi ministrstvo, pristojno za energijo. V register se vpišejo podatki o stavbi oziroma delu stavbe, podatki o poročilu o pregledu ogrevalnega sistema, podatki o neodvisnem strokovnjaku, ki je izdelovalec poročila: ime in priimek ter številka in datum izdaje licence. Podatki iz registra poročil pregledov ogrevalnih sistemov so del skupne prostorske podatkovne infrastrukture.
-(8) Podrobnejšo vsebino, obliko in roke za redne preglede dostopnih delov sistemov za ogrevanje, vsebino podatkov, način vodenja registra, način poročanja v register in način usposabljanja ter merila za določitev cene poročila o pregledu ogrevalnega sistema predpiše minister, pristojen za energijo, v soglasju z ministrom, pristojnim za okolje.
+# 338. člen (prenehal veljati)

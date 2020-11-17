@@ -1,4 +1,1 @@
-# 342. člen (pristojni organ)
-(1) Naloge pristojnega organa v skladu s predpisi, ki urejajo postopek priznavanja poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije za opravljanje reguliranih poklicev oziroma dejavnosti v Republiki Sloveniji, izvaja ministrstvo, pristojno za energijo.
-(2) Ministrstvo, pristojno za energijo, ima vse pravice in obveznosti, ki jih določajo predpisi o priznavanju poklicih kvalifikacij. Če s tem zakonom ni določeno drugače, se za izvajanje teh nalog uporabljajo določbe predpisov o priznavanju poklicih kvalifikacij.
-(3) Državljani držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije ali držav, s katero je sklenjen ustrezen mednarodni sporazum (v nadaljnjem besedilu: države pogodbenice), lahko v Republiki Sloveniji opravljajo regulirane poklice po tem zakonu pod enakimi pogoji kot slovenski državljani, razen če s tem zakonom ni določeno drugače. Pri tem morajo uporabljati metodologijo in standarde, ki jih predpisujejo slovenski predpisi.
+# 342. člen (prenehal veljati)

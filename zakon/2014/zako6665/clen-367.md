@@ -8,8 +8,8 @@
 (2) Potrdilo o izvoru električne energije iz soproizvodnje z visokim izkoristkom mora poleg podatkov iz prejšnjega odstavka vsebovati še:
 - toplotno in električno zmogljivost proizvodne naprave, v kateri je bila električna energija proizvedena,
 - spodnjo kurilno vrednost goriva, iz katerega je bila električna energija proizvedena, uporabo toplote, proizvedene skupaj z električno energijo, in natančno navedbo datumov in krajev proizvodnje,
-- podrobno navedbo količine električne energije, proizvedene v soproizvodnji z visokim izkoristkom, skladno s predpisom iz 363. člena tega zakona,
-- podrobno navedbo prihrankov primarne energije, izračunane v skladu predpisom iz 363. člena tega zakona,
+- podrobno navedbo količine električne energije, proizvedene v soproizvodnji z visokim izkoristkom, skladno s predpisom iz 53. člena Zakona o učinkoviti rabi energije (Uradni list RS, št. 158/20),
+- podrobno navedbo prihrankov primarne energije, izračunane v skladu predpisom iz 53. člena Zakona o učinkoviti rabi energije (Uradni list RS, št. 158/20),
 - nazivni električni in toplotni izkoristek naprave za soproizvodnjo.
 (3) Potrdilo o izvoru električne energije, proizvedene iz neobnovljivih virov energije, mora vsebovati najmanj podatke o:
 - energetskem viru, iz katerega je bila električna energija proizvedena, ter datum začetka in konca njene proizvodnje;

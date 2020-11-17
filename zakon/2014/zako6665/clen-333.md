@@ -1,9 +1,1 @@
-# 333. člen (energetska izkaznica)
-(1) Energetska izkaznica stavbe mora vsebovati referenčne vrednosti, ki omogočajo primerjavo in oceno energetske učinkovitosti stavbe. Sestavni del energetske izkaznice so priporočila za stroškovno učinkovite izboljšave energetske učinkovitosti, razen pri novih stavbah in pri najemu.
-(2) Veljavnost energetske izkaznice je deset let. Stranka lahko pridobi novo energetsko izkaznico pred potekom desetih let.
-(3) Posamezna stavba ali posamezni del stavbe ne more imeti dveh ali več veljavnih energetskih izkaznic. Nova energetska izkaznica za posamezno stavbo ali posamezni del stavbe razveljavi prejšnjo.
-(4) Ko lastnik posameznega dela stavbe v večstanovanjski stavbi, za katero se lahko izda energetska izkaznica le za celotno stavbo, naroči izdajo energetske izkaznice, izdana energetska izkaznica velja za celotno stavbo.
-(5) Energetsko izkaznico stavb izdaja pooblaščena pravna ali fizična oseba iz 339. člena tega zakona na zahtevo stranke.
-(6) Vsako izdajo energetske izkaznice mora neodvisni strokovnjak za izdelavo energetske izkaznice sočasno z njeno izdajo prijaviti za vpis v register energetskih izkaznic. Energetska izkaznica se izroči lastniku posamezne stavbe ali posameznega dela stavbe.
-(7) Register energetskih izkaznic vodi ministrstvo, pristojno za energijo. V register se vpišejo podatki o stavbi oziroma delu stavbe, podatki o energetski izkaznici, podatki o neodvisnem strokovnjaku, ki je izdelovalec izkaznice: ime in priimek ter številka in datum izdaje licence. Register energetskih izkaznic je javen. Podatki iz registra energetskih izkaznic so del skupne prostorske podatkovne infrastrukture.
-(8) Podrobnejšo vsebino, obliko in metodologijo za izdajo energetske izkaznice ter vsebino podatkov, način vodenja registra energetskih izkaznic in način prijave izdane energetske izkaznice za vpis v register energetskih izkaznic predpiše minister, pristojen za energijo.
+# 333. člen (prenehal veljati)

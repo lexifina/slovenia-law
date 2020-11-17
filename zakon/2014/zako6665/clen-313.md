@@ -2,66 +2,66 @@
 (1) V tem delu zakona imajo posamezni izrazi naslednji pomen:
 1. "aerotermalna energija" je energija, ki je shranjena v obliki toplote v zraku okolice;
 2. "biomasa" je biološko razgradljiva frakcija proizvodov, ostankov in odpadkov biološkega izvora iz kmetijstva (vključujoč rastlinske in živalske substance), gozdarstva in z njim povezanih proizvodnih dejavnosti, vključno z ribištvom in ribogojstvom, kot tudi biološko razgradljiva frakcija industrijskih in komunalnih odpadkov;
-3. "dati na trg" pomeni prvič ponuditi proizvod, povezan z energijo, na trgu Evropske unije z namenom distribucije ali uporabe v Evropski uniji, za plačilo ali brezplačno, ne glede na vrsto prodaje (prodajno tehniko);
-4. "dati v uporabo" pomeni prvo uporabo proizvoda, povezanega z energijo, za predviden namen s strani končnega uporabnika v Evropski uniji;
+3. (prenehala veljati)
+4. (prenehala veljati)
 5. "dobava" pomeni prodajo, vključno z nadaljnjo prodajo, energije odjemalcem;
 6. "dobavitelj energije" pomeni pravno ali fizično osebo, ki opravlja dejavnost dobave;
-7. "distributer proizvoda, povezanega z energijo" je vsaka pravna oseba, podjetnik ali posameznik, ki samostojno opravlja dejavnost v dobavni verigi, ki ni proizvajalec ali uvoznik in ki omogoči dostopnost proizvoda, povezanega z energijo, na trgu ali v uporabi;
-8. "dobavitelj proizvoda, povezanega z energijo" je proizvajalec s sedežem v Evropski uniji, pooblaščeni zastopnik proizvajalca, ki nima sedeža v Evropski uniji, ali uvoznik, ki da proizvod, povezan z energijo, na trg ali v uporabo v Evropski uniji. Če teh ni, se za dobavitelja šteje druga fizična ali pravna oseba, ki da proizvode, povezane z energijo, na trg, ali v uporabo;
-9. "dostopnost proizvoda na trgu" pomeni vsako dobavo proizvoda, povezanega z energijo, za distribucijo, porabo ali uporabo na trgu Evropske unije v okviru gospodarske dejavnosti, bodisi odplačno ali brezplačno;
-10. "drugi bistveni viri" pomeni vodo, kemikalije ali katero koli drugo snov, ki jo proizvod, povezan z energijo, porabi pri normalnem delovanju;
+7. (prenehala veljati)
+8. (prenehala veljati)
+9. (prenehala veljati)
+10. (prenehala veljati)
 11. "Eko sklad" je Eko sklad, Slovenski okoljski javni sklad, ustanovljen z Zakonom o varstvu okolja (Uradni list RS, št. 39/06 - uradno prečiščeno besedilo, 49/06 - ZMetD, 66/06 - odločba US, 33/07 - ZPNačrt, 57/08 - ZFO-1A, 70/08, 108/09, 108/09 - ZPNačrt-A, 48/12, 57/12 in 92/13);
 12. "električna energija iz obnovljivih virov energije" je električna energija, ki jo proizvedejo proizvodne naprave, ki uporabljajo samo obnovljive vire energije, kot tudi del električne energije, ki jo iz obnovljivih virov energije proizvedejo kombinirane proizvodne naprave, ki uporabljajo tudi neobnovljive vire energije, vendar brez električne energije iz črpalnih hidroelektrarn in drugih sistemov za skladiščenje energije;
-13. "energetska izkaznica stavbe" je javna listina s podatki o energetski učinkovitosti stavbe s priporočili za povečanje energetske učinkovitosti;
-14. "energetska storitev" pomeni fizikalni učinek, korist ali ugodnost, ki izhaja iz kombinacije energije in energetsko učinkovite tehnologije ali ukrepa, ki lahko vključuje potrebno obratovanje, vzdrževanje in nadzor za opravljanje storitve, in se opravi na podlagi pogodbe ter za katero se je izkazalo, da v običajnih okoliščinah preverljivo in merljivo oziroma ocenljivo izboljša energetsko učinkovitost ali prihrani primarno energijo;
-15. "energetska učinkovitost stavbe" pomeni izračunano ali izmerjeno količino energije, potrebno za zadovoljevanje potreb po energiji, povezanih z običajno uporabo stavbe, ki med drugim vključuje energijo za ogrevanje, hlajenje, prezračevanje, toplo vodo in razsvetljavo;
-16. "energetska učinkovitost" je razmerje med doseženim učinkom, storitvijo, blagom ali energijo ter vloženo energijo;
+13. (prenehala veljati)
+14. (prenehala veljati)
+15. (prenehala veljati)
+16. (prenehala veljati)
 17. "distributer energije" pomeni fizično ali pravno osebo, tudi operaterja distribucijskega sistema, ki je odgovorna za prenos energije zaradi dobave končnim odjemalcem ali distribucijskim postajam, ki energijo prodajajo končnim odjemalcem;
 18. "geotermalna energija" je energija, ki je shranjena v obliki toplote pod trdnim zemeljskim površjem;
 19. "hidrotermalna energija" pomeni energijo, ki je shranjena v obliki toplote v površinski vodi;
-19.a "informacijski list proizvoda" je standardni dokument z informacijami o proizvodu, povezanem z energijo, v natisnjeni ali elektronski obliki;
-20. "indeks pozidanosti" pomeni razmerje med tlorisno površino stavb in površino zemljišč na določenem ozemlju;
-21. "izboljšanje energetske učinkovitosti" pomeni povečanje energetske učinkovitosti zaradi tehnoloških, vedenjskih ali gospodarskih sprememb;
-21.a "končni uporabnik" je stranka, ki pomeni fizično ali pravno osebo, ki kupi, najame ali prejme izdelek za lastno uporabo, ne glede na to, ali deluje za namene, ki ne spadajo v njeno trgovsko, poslovno, obrtno ali poklicno dejavnost;
-22. "koristna toplota" je toplota, proizvedena v postopku soproizvodnje za zadovoljitev ekonomsko opravičljivega povpraševanja po toploti oziroma hlajenju. Ekonomsko opravičljivo povpraševanje je povpraševanje, ki ne presega potreb po toploti ali hladu in ki bi ga bilo treba sicer zadovoljiti po pogojih na trgu s postopki za proizvodnjo toplote ali hladu, različnimi od soproizvodnje;
+19.a (prenehala veljati)
+20. (prenehala veljati)
+21. (prenehala veljati)
+21.a (prenehala veljati)
+22. (prenehala veljati)
 23. "mala soproizvodnja" je proizvodna naprava za soproizvodnjo z instalirano močjo, manjšo od 1 MWe;
 24. "mikro soproizvodnja" je proizvodna naprava za soproizvodnjo z maksimalno močjo, manjšo od 50 kWe;
 24.a "naprava za samooskrbo" je proizvodna naprava, ki proizvaja električno energijo z izrabo obnovljivih virov energije, razen proizvodnih naprav, ki so ali so bile vključene v podporno shemo za proizvodnjo električne energije iz obnovljivih virov energije in v soproizvodnji z visokim izkoristkom na podlagi 372. člena tega zakona ali 64.n člena Energetskega zakona (Uradni list RS, št. 27/07 - uradno prečiščeno besedilo, 70/08, 22/10, 10/12 in 94/12 - ZDoh-2L);
 25. "nazivna električna moč" je najvišja trajna električna moč (brez časovnih omejitev) proizvodne naprave, za katero je ta izdelana in je navedena na napisni ploščici na proizvodni napravi oziroma jo je mogoče razbrati iz proizvajalčevih specifikacij ali pa je določena na podlagi prevzemnih meritev;
-26. "nedovoljena raba nalepke" pomeni rabo nalepke, s katero se označuje energijski razred, v katerega se proizvod uvršča, ki je v nasprotju s predpisi;
+26. (prenehala veljati)
 26.a "neto prevzeta električna energija" je razlika med prevzeto električno energijo iz omrežja in oddano električno energijo v omrežje (v kWh), proizvedeno v napravi za samooskrbo, ob zaključku obračunskega obdobja, in se upošteva pri obračunu električne energije ter omrežnine in drugih prispevkov in dajatev, kot je določeno v 315.a členu tega zakona;
 27. "neto proizvedena električna energija" je proizvedena električna energija v proizvodni napravi, zmanjšana za električno energijo, porabljeno za delovanje same naprave;
-28. "nazivna izhodna moč klimatskega sistema" je največja toplotna moč, za katero proizvajalec navede in zagotavlja, da jo je mogoče dosegati ob podani učinkovitosti pri neprekinjenem delovanju;
+28. (prenehala veljati)
 29. "nova proizvodna naprava" pomeni napravo za proizvodnjo električne energije iz obnovljivih virov energije oziroma s soproizvodnjo z visokim izkoristkom, pri kateri od njenega prvega obratovanja do vložitve popolne vloge za dodelitev podpore po tem zakonu še ni preteklo več kot eno leto. Za prvo obratovanje proizvodne naprave se šteje datum izdaje uporabnega dovoljenja za obratovanje proizvodne naprave oziroma datum prvega priklopa na omrežje, če pridobitev uporabnega dovoljenja za proizvodno napravo ni predpisana. Če je proizvodna naprava dejansko obratovala že pred tem datumom, agencija za določitev starosti proizvodne naprave ugotovi datum začetka obratovanja v ugotovitvenem postopku;
-30. "nova stavba" je novozgrajena stavba, kot jo določajo predpisi s področja graditve objektov;
+30. (prenehala veljati)
 30.a "obračunsko obdobje za samooskrbo" je koledarsko leto, razen v primerih, ko se merilno mesto s samooskrbo sredi koledarskega leta vključi v bilančno skupino ali izključi iz bilančne skupine določenega dobavitelja;
-31. "obsežna prenova" pomeni prenovo, katere stroški presegajo 50 % vrednosti naložbe za novo primerljivo proizvodno napravo;
-32. "okoljsko primerna zasnova" pomeni sistematično integracijo okoljskih vidikov v zasnovo proizvoda, da bi se izboljšala okoljska učinkovitost proizvoda v njegovi življenjski dobi;
-33. "osebe javnega sektorja" so državni organi, uprava samoupravnih lokalnih skupnosti, javni zavodi, javni gospodarski zavodi, javni skladi, javne agencije in ustanove, katerih ustanovitelj je država ali občina;
+31. (prenehala veljati)
+32. (prenehala veljati)
+33. (prenehala veljati)
 34. (črtana);
 34.a "pogodba o samooskrbi" je pogodba med dobaviteljem in končnim odjemalcem s samooskrbo o kompenzaciji oddane električne energije (v kWh) s prevzeto električno energijo (v kWh) v obračunskem obdobju ter o predaji presežka električne energije dobavitelju, kadar je v obračunskem obdobju količina oddane električne energije večja od količine prevzete električne energije;
-35. "pooblaščeni zastopnik" pomeni vsako fizično ali pravno osebo s sedežem v Evropski uniji, ki je pridobila pisno pooblastilo proizvajalca za opravljanje vseh ali dela obveznosti in formalnosti v zvezi s proizvodi, povezanimi z energijo, v njegovem imenu;
-36. "posamezni ukrep" pomeni ukrep, ki zagotovi preverljivo in merljivo ali ocenljivo izboljšanje energetske učinkovitosti ter je sprejet kot rezultat ukrepa politike;
+35. (prenehala veljati)
+36. (prenehala veljati)
 37. "potrdilo o izvoru" je javna listina v elektronski obliki, ki dokazuje, da je določena količina električne energije proizvedena v soproizvodnji z visokim izkoristkom ali iz obnovljivih virov energije ali iz neobnovljivih virov energije;
 38. (črtana);
 38.a "promotor" je pravna ali fizična oseba, ki na razpis agencije za vstop v podporno shemo prijavi projekt zasnovan kot posamezni projekt ali skupino projektov, za katere bo naknadno pridobil investitorje, ki bodo pod promotorjevimi pogoji pristopili k izvedbi teh projektov in bodo po postavitvi proizvodnih naprav v primeru izpolnjevanja pogojev iz sklepa agencije o potrditvi promotorjevega projekta upravičeni do dodelitve podpore;
-39. "prihranek primarne energije" je prihranek energije, dovedene z gorivom, ki ga ustvari proizvodna naprava s soproizvodnjo, v primerjavi z ločeno proizvodnjo električne energije in toplote;
+39. (prenehala veljati)
 40. "priključitev na omrežje" je fizična priključitev ali priklop na energetsko omrežje pod pogoji, določenimi s tem zakonom;
-41. "program podpore" pomeni vsak instrument, program ali mehanizem, ki spodbuja energetsko učinkovitost ali uporabo energije iz obnovljivih virov z zmanjševanjem stroškov te energije, povečanjem cene, po kateri se lahko prodaja, ali povečanjem količine nabavljene energije na podlagi obveznosti glede obnovljive energije ali drugače. Sem med drugim spadajo naložbena pomoč, davčne oprostitve ali olajšave, vračilo davkov, programi podpore, ki zavezujejo k uporabi obnovljive energije, vključno s programi, ki uporabljajo zelene certifikate, in neposredni programi zaščite cen, vključno s tarifami za dovajanje toka in plačili premij;
-42. "proizvajalec proizvodov, povezanih z energijo" pomeni vsako fizično ali pravno osebo, ki izdeluje proizvode, povezane z energijo, ali se zanj načrtujejo ali izdelujejo in ki jih trži pod svojim imenom ali blagovno znamko;
-43. "proizvod, povezan z energijo" pomeni izdelek ali sistem, ki med uporabo vpliva na porabo energije in je dan na trg ali v uporabo, vključno z deli, ki med uporabo vplivajo na porabo energije, ki so dani na trg ali v uporabo končnim uporabnikom ter so namenjeni za vgradnjo v proizvode, in za katere se lahko naredi samostojna ocena okoljske učinkovitosti;
+41. "program podpore" pomeni vsak instrument, program ali mehanizem, ki spodbuja uporabo energije iz obnovljivih virov z zmanjševanjem stroškov te energije, povečanjem cene, po kateri se lahko prodaja, ali povečanjem količine nabavljene energije na podlagi obveznosti glede obnovljive energije ali drugače. Sem med drugim spadajo naložbena pomoč, davčne oprostitve ali olajšave, vračilo davkov, programi podpore, ki zavezujejo k uporabi obnovljive energije, vključno s programi, ki uporabljajo zelene certifikate, in neposredni programi zaščite cen, vključno s tarifami za dovajanje toka in plačili premij;
+42. (prenehala veljati)
+43. (prenehala veljati)
 44. "proizvodna naprava" je sklop opreme in instalacij, ki pretvarjajo druge vrste energije v električno energijo in lahko samostojno obratuje;
-45. "sistem upravljanja energije" pomeni sklop medsebojno povezanih ali medsebojno delujočih elementov načrta, ki določa cilj energetske učinkovitosti in strategijo za doseganje tega cilja;
-46. "skoraj nič-energijska stavba" pomeni stavbo z zelo visoko energetsko učinkovitostjo oziroma zelo majhno količino potrebne energije za delovanje, pri čemer je potrebna energija v veliki meri proizvedena iz obnovljivih virov na kraju samem ali v bližini;
+45. (prenehala veljati)
+46. (prenehala veljati)
 46.a "skupnostna samooskrba" je proizvajanje električne energije iz obnovljivih virov energije za celotno ali delno pokrivanje potreb končnih odjemalcev, povezanih v skupnostno samooskrbo, po električni energiji z napravo za samooskrbo;
-47. "stavbe oseb javnega sektorja" so vse stavbe, ki so v lasti oseb javnega sektorja in se uporabljajo za opravljanje njihove dejavnosti, na podlagi zakonitega pravnega naslova;
-48. "stroškovno optimalna raven" raven energetske učinkovitosti, ki vodi v najnižje stroške med ocenjenim ekonomskim življenjskim ciklom, pri čemer se najnižji stroški določijo ob upoštevanju stroškov naložb, povezanih z energijo, stroškov vzdrževanja in operativnih stroškov (vključno s stroški energije, energijskimi prihranki, kategorijo zadevne stavbe in zaslužki od proizvedene energije), kjer je to primerno, in stroškov odstranjevanja, kjer je to primerno. Stroškovno optimalna raven se nahaja v območju ravni učinkovitosti, kjer je analiza stroškov in koristi, izračunana med ocenjenim ekonomskim življenjskim ciklom, pozitivna;
+47. (prenehala veljati)
+48. (prenehala veljati)
 49. "toplotna črpalka" pomeni stroj, napravo ali sistem, ki prenaša toploto iz naravnega okolja (zrak, voda ali zemlja) v stavbo ali za uporabo v industriji, in sicer s preusmeritvijo naravnega toka toplote, tako da ta potuje od nižje temperature k višji. Pri povratnih toplotnih črpalkah je možno tudi prehajanje toplote iz stavbe v naravno okolje;
-50. "trgovec proizvodov, povezanih z energijo" pomeni trgovca na drobno ali drugo osebo, ki proizvode, povezane z energijo, končnemu uporabniku prodaja, oddaja v najem, ponuja na obroke ali razstavlja (daje na ogled);
-50.a "učinkovito ogrevanje in hlajenje" pomeni sistem ogrevanja in hlajenja, ki v primerjavi z izhodiščnim scenarijem za nespremenjeno stanje znatno in glede na oceno iz analize stroškov in koristi stroškovno učinkovito zmanjša vnos potrebne primarne energije za dobavo enote energije znotraj ustrezne sistemske meje, pri čemer se upošteva energija, potrebna za ekstrakcijo, pretvorbo, prevoz in distribucijo;
-51. "uvoznik proizvoda, povezanega z energijo" je pravna oseba ali posameznik, ki samostojno opravlja dejavnost s sedežem v Evropski uniji in proizvode, povezane z energijo, daje na trg Evropske unije iz tretjih držav;
-52. "varčevalni potencial" je delež energije v skupnem obsegu rabe energije pri končnem porabniku, ki ga je možno znižati z ekonomsko utemeljenimi vlaganji;
-53. "večja prenova" je rekonstrukcija ali vzdrževanje stavbe, pri kateri se prenavlja več kot 25 % površine ovoja stavbe;
-54. "zasnova proizvoda" pomeni vrsto postopkov, ki pretvarjajo pravne, tehnične, varnostne, funkcionalne, tržne ali druge zahteve v tehnične lastnosti proizvoda, katerim mora proizvod, povezan z energijo, ustrezati;
-55. "zavezana stran" pomeni distributerja energije ali podjetje za maloprodajo energije, ki ga zavezuje sistem obveznosti energetske učinkovitosti.
+50. (prenehala veljati)
+50.a (prenehala veljati)
+51. (prenehala veljati)
+52. (prenehala veljati)
+53. (prenehala veljati)
+54. (prenehala veljati)
+55. (prenehala veljati)
 (2) Izrazi, ki urejajo področje graditve objektov, in ki niso opredeljeni s tem zakonom, imajo enak pomen, kot ga določajo predpisi, ki urejajo graditev objektov.

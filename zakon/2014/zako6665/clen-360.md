@@ -1,7 +1,3 @@
 ## V. poglavje: ELEKTRIČNA ENERGIJA IZ OBNOVLJIVIH VIROV ENERGIJE IN IZ SOPROIZVODNJE TOPLOTE IN ELEKTRIČNE ENERGIJE Z VISOKIM IZKORISTKOM
 ## 1. oddelek: Soproizvodnja toplote in električne energije z visokim izkoristkom ter učinkovito daljinsko ogrevanje in hlajenje
-# 360. člen (celovita ocena možnosti za uporabo soproizvodnje z visokim izkoristkom ter učinkovito daljinsko ogrevanje in hlajenje ter analiza stroškov in koristi)
-(1) Ministrstvo, pristojno za energijo, vsakih pet let pripravi celovito oceno možnosti za uporabo soproizvodnje z visokim izkoristkom ter učinkovito daljinsko ogrevanje in hlajenje, ki vključuje opis potreb po ogrevanju in hlajenju ter napoved spreminjanja teh potreb v naslednjih desetih letih, opredelitev potreb po ogrevanju in hlajenju, ki jih je mogoče zadovoljiti s soproizvodnjo z visokim izkoristkom, delež soproizvodnje z visokim izkoristkom ter oceno pričakovanega prihranka primarne energije, ukrepe za povečanje energetske učinkovitosti infrastrukture za daljinsko ogrevanje in hlajenje ter povečanje deleža soproizvodnje.
-(2) Celovita ocena iz prejšnjega odstavka mora vključevati analizo stroškov in koristi.
-(3) Analiza stroškov in koristi mora vsebovati določitev izhodiščnega scenarija in izvedljive alternativne scenarije, v katerih se morajo upoštevati samo soproizvodnja z visokim izkoristkom, učinkovito daljinsko ogrevanje in hlajenje ali možnosti za učinkovito individualno ogrevanje in hlajenje ter ekonomsko analizo z vsemi ekonomskimi učinki.
-(4) Minister, pristojen za energijo, s pravilnikom predpiše podrobnejšo vsebino analize stroškov in koristi iz drugega odstavka tega člena.
+# 360. člen (prenehal veljati)

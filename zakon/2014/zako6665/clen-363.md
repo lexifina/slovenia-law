@@ -1,2 +1,1 @@
-# 363. člen (način določanja izkoristka soproizvodnje z visokim izkoristkom)
-Za posamezne vrste tehnologij proizvodnih naprav s soproizvodnjo minister, pristojen za energijo, predpiše način določanja izkoristka soproizvodnje z visokim izkoristkom, način izračunavanja količine električne energije iz soproizvodnje, ki se šteje za električno energijo, proizvedeno v soproizvodnji z visokim izkoristkom, ter način izračunavanja prihranka primarne energije v soproizvodnji z visokim izkoristkom.
+# 363. člen (prenehal veljati)
