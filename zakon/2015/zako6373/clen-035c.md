@@ -1,0 +1,10 @@
+# 35.c člen (plačilo cestnine)
+(1) Cestnina se uporabnikom EETS obračunava na podlagi klasifikacije vozil izvajalca cestninjenja. Če klasifikacija vozil, ki jo uporablja izvajalec cestninjenja za obračun cestnine, odstopa od klasifikacije vozil, ki jo za obračun cestnine uporablja ponudnik EETS, se uporabi klasifikacija vozil izvajalca cestninjenja, razen če se dokaže napaka.
+(2) Izvajalec cestninjenja zahteva od ponudnika EETS plačilo za vsako uporabo cestninske ceste uporabnika EETS, s katerim ima ponudnik EETS sklenjeno pogodbo, ne glede na to, ali je pri uporabi cestninske ceste vzpostavljena komunikacija z napravo v vozilu.
+(3) Ne glede na prejšnji odstavek ponudnik EETS ni odgovoren za plačilo cestnine, ki izhaja iz uporabe naprav v vozilih uporabnikov EETS, katerih delovanje je bilo onemogočeno, če je ponudnik EETS izvajalcu cestninjenja pred tem poslal seznam onemogočenih naprav v vozilih uporabnikov EETS. Izvajalec cestninjenja in ponudnik EETS se dogovorita o številu zapisov na seznamu onemogočenih naprav v vozilih uporabnikov EETS in obliki ter pogostosti posodabljanja seznama.
+(4) Če se za cestninjenje vozil uporablja mikrovalovna tehnologija iz prvega odstavka 32. člena tega zakona, izvajalec cestninjenja sporoči ponudniku EETS podatke o obračunu cestnin, ki so bile obračunane njegovim uporabnikom EETS.
+35.č člen
+(vodenje računovodskih evidenc)
+(1) Ponudnik storitev cestninjenja v računovodskih evidencah zagotavlja jasno razlikovanje med stroški in prihodki, povezanimi z zagotavljanjem storitev cestninjenja, ter stroški in prihodki, povezanimi z drugimi dejavnostmi, ki jih zagotavlja v okviru svojega poslovanja.
+(2) Podatke o stroških in prihodkih, povezanih z zagotavljanjem storitev cestninjenja, ponudnik storitev cestninjenja v primeru spora glede pravilnega obračunavanja cestnine zagotovi spravnemu organu oziroma sodišču.
+(3) Prepovedano je navzkrižno subvencioniranje med storitvami cestninjenja, ki jih zagotavlja ponudnik storitev cestninjenja, in ostalimi storitvami, ki jih zagotavlja za svoje stranke.
