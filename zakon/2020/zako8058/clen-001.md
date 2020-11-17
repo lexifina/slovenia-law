@@ -1,0 +1,3 @@
+# 1. člen
+V Zakonu o varstvu okolja (Uradni list RS, št. 39/06 - uradno prečiščeno besedilo, 49/06 - ZMetD, 66/06 - odl. US, 33/07 - ZPNačrt, 57/08 - ZFO-1A, 70/08, 108/09, 108/09 - ZPNačrt-A, 48/12, 57/12, 92/13, 56/15, 102/15, 30/16, 61/17 - GZ, 21/18 - ZNOrg in 84/18 - ZIURKOE) se v 1. členu v drugem odstavku za 15. točko doda nova 16. točka, ki se glasi:
+"16. Direktiva (EU) 2018/410 Evropskega parlamenta in Sveta z dne 14. marca 2018 o spremembi Direktive 2003/87/ES za krepitev stroškovno učinkovitega zmanjšanja emisij in nizkoogljičnih naložb ter Sklepa (EU) 2015/1814 (UL L št. 76 z dne 19. 3. 2018, str. 3).".

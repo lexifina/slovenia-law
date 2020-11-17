@@ -1,0 +1,8 @@
+# 13. člen
+126. člen se spremeni tako, da se glasi:
+"126. člen
+(dodelitev emisijskih kuponov)
+(1) Upravljavcem naprav za proizvodnjo električne energije in naprav za zajem, prenos ali shranjevanje ogljikovega dioksida se od leta 2013 emisijski kuponi ne dodelijo brezplačno.
+(2) Upravljavcem naprav, ki niso navedeni v prejšnjem odstavku, se od leta 2013 del emisijskih kuponov brezplačno dodeli v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona. Brezplačno se, v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona, od leta 2013 emisijski kuponi dodelijo tudi za daljinsko ogrevanje in za naprave za soproizvodnjo z visokim izkoristkom, ki ustrezajo merilom visoke učinkovitosti v skladu z zakonom, ki ureja energetiko.
+(3) Upravljavci naprav iz prejšnjega odstavka so za leto 2013 upravičeni do 80 odstotkov količine emisijskih kuponov, izračunane v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona in odobrene v skladu z določbami 126.a člena tega zakona. Ta količina se vsako leto zmanjša za enak znesek tako, da v letu 2020 doseže 30 odstotkov količine emisijskih kuponov, izračunane v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona. Brezplačna dodelitev emisijskih kuponov se po letu 2026 zmanjšuje v enakih deležih tako, da leta 2030 ni več brezplačnih dodelitev emisijskih kuponov, razen za daljinsko ogrevanje.
+(4) Ne glede na določbe prejšnjega odstavka so upravljavci naprav iz sektorjev ali delov sektorjev v skladu s predpisom EU, ki določa seznam sektorjev in delov sektorjev, ki veljajo za izpostavljene tveganju premestitve emisij CO2, do leta 2030 upravičeni do brezplačne dodelitve 100 odstotkov količine emisijskih kuponov, izračunane v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona.".

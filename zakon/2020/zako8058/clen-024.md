@@ -1,0 +1,3 @@
+# 24. člen
+V 132. členu se v prvem odstavku besedilo "z Uredbo Komisije (EU) št. 389/2013 z dne 2. maja 2013 o določitvi registra Unije v skladu z Direktivo 2003/87/ES Evropskega parlamenta in Sveta ter odločbama št. 280/2004/ES in št. 406/2009/ES Evropskega parlamenta in Sveta ter o razveljavitvi uredb Komisije (EU) št. 920/2010 in št. 1193/2011 (UL L št. 122 z dne 3. 5. 2013, stran 1; v nadaljnjem besedilu: Uredba 389/2013/EU)" nadomesti z besedilom "s predpisom EU iz prvega odstavka 130. člena tega zakona".
+V drugem odstavku se besedilo "z Uredbo 389/2013/EU" nadomesti z besedilom "s predpisom EU iz prvega odstavka 130. člena tega zakona".

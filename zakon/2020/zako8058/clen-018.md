@@ -1,0 +1,11 @@
+# 18. člen
+126.e člen se spremeni tako, da se glasi:
+"126.e člen
+(dodelitev emisijskih kuponov za nove naprave)
+(1) Upravljavec nove naprave iz drugega odstavka tega člena je upravičen do brezplačne dodelitve emisijskih kuponov v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona, razen za zgorevanje goriva zaradi proizvodnje električne energije.
+(2) Za upravljavca nove naprave v vsakem petletnem obdobju iz prvega odstavka 126.a člena tega zakona se šteje upravljavec naprave, v kateri se opravlja ena ali več dejavnosti, določenih v predpisu iz četrtega odstavka 118. člena tega zakona, upravljavec pa je dovoljenje za izpuščanje toplogrednih plinov prvič pridobil v obdobju, ki se začne tri mesece pred rokom iz prvega odstavka 126.a člena tega zakona in konča tri mesece pred rokom za predložitev seznama naprav Evropski komisiji za naslednje petletno obdobje.
+(3) Ne glede na določbo prejšnjega odstavka se za upravljavca nove naprave ne štejeta upravljavec, ki je s pravnim poslom pridobil obstoječo napravo ali njen del, in upravljavec, ki mu je bilo dovoljenje za izpuščanje toplogrednih plinov spremenjeno v skladu z določbo petega odstavka 120. člena tega zakona.
+(4) Ministrstvo na podlagi vloge za brezplačno dodelitev emisijskih kuponov za nove naprave v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona upravljavcu nove naprave iz drugega odstavka tega člena izračuna dodeljeno količino brezplačnih emisijskih kuponov v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona in jo predloži Evropski komisiji.
+(5) Ministrstvo upošteva zahteve Evropske komisije in upravljavcu nove naprave iz drugega odstavka tega člena izračuna končno brezplačno dodeljeno količino emisijskih kuponov v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona.
+(6) Ministrstvo z odločbo brezplačno dodeli količino emisijskih kuponov iz prejšnjega odstavka upravljavcu nove naprave iz drugega odstavka tega člena. Odločba vsebuje tudi seznam podnaprav z ravnmi dejavnosti v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona. Pritožba zoper odločbo ne zadrži njene izvršitve.
+(7) Ministrstvo pošlje odločbo iz prejšnjega odstavka tudi nacionalnemu administratorju iz tretjega odstavka 132. člena tega zakona.".

@@ -1,0 +1,13 @@
+# 14. člen
+126.a člen se spremeni tako, da se glasi:
+"126.a člen
+(seznam naprav in upravljavcev)
+(1) Ministrstvo na podlagi vloge upravljavca naprave v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona za obdobje petih let, ki se začne leta 2021, in vsako nadaljnje petletno obdobje pripravi seznam naprav in upravljavcev, ki imajo pravnomočno dovoljenje za izpuščanje toplogrednih plinov v skladu s 118. členom ali 126.b členom tega zakona (v nadaljnjem besedilu: seznam naprav), in ga do 30. septembra dve leti pred začetkom tega obdobja predloži Evropski komisiji.
+(2) Ministrstvo skupaj s seznamom naprav predloži Evropski komisiji tudi seznam naprav in upravljavcev, ki se v skladu s 126.c členom tega zakona želijo izključiti iz sistema trgovanja, ter predlog enakovrednih ukrepov, ki jih morajo ti izvajati za zmanjševanje emisij toplogrednih plinov.
+(3) Seznam naprav vsebuje tudi količino emisijskih kuponov, brezplačno dodeljenih upravljavcem naprav za petletno obdobje iz prvega odstavka tega člena, in sorazmerni delež emisijskih kuponov za posamezno koledarsko leto v navedenem obdobju, izračunana v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona.
+(4) Ministrstvo v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona upošteva zahteve Evropske komisije glede vključitve naprav na seznam naprav in izračuna končno brezplačno dodeljeno količino emisijskih kuponov v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona za posamezno obdobje.
+(5) Ministrstvo na spletni strani objavi seznam naprav in končno brezplačno dodeljeno količino emisijskih kuponov iz prejšnjega odstavka.
+(6) Ministrstvo upravljavcu naprave, ki je na seznamu iz prejšnjega odstavka, z odločbo dodeli celotno brezplačno količino emisijskih kuponov, ki mu pripada za določeno obdobje in dodeljene letne brezplačne količine emisijskih kuponov. Odločba vsebuje tudi seznam podnaprav s preteklimi ravnmi dejavnosti v skladu s predpisom EU iz 8.5. točke 3. člena tega zakona. Pritožba zoper odločbo ne zadrži izvršitve.
+(7) Ob spremembi dovoljenja za izpuščanje toplogrednih plinov zaradi spremembe upravljavca v skladu s petim odstavkom 120. člena tega zakona ministrstvo po uradni dolžnosti v tem delu spremeni tudi odločbo iz prejšnjega odstavka.
+(8) Ministrstvo pred začetkom vsakega petletnega obdobja iz prvega odstavka tega člena najpozneje štiri mesece pred rokom iz prvega odstavka tega člena objavi predlog enakovrednih ukrepov iz drugega odstavka tega člena in omogoči javnosti dajanje pripomb v 30 dneh od javne objave.
+(9) Ministrstvo pošlje odločbo iz šestega ali iz sedmega odstavka tega člena tudi nacionalnemu administratorju iz tretjega odstavka 132. člena tega zakona.".
