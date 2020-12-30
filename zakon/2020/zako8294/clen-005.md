@@ -1,0 +1,2 @@
+# 5. člen
+Osebe, ki so sklenile najemne pogodbe na podlagi določb 4. člena Zakona o dopolnitvah Zakona o organiziranosti in delu v policiji (Uradni list RS, št. 77/17), lahko zaprosijo za podaljšanje najemne pogodbe za nedoločen čas pod pogoji iz 109.b člena zakona najkasneje v dveh mesecih od uveljavitve tega zakona. Pristojni organ mora o prošnji iz prejšnjega stavka odločiti v enem mesecu od prejema prošnje. Če pristojni organ o prošnji ne odloči v tem roku, se šteje, da je najemna pogodba podaljšana za nedoločen čas.
