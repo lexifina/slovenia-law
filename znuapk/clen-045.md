@@ -1,0 +1,5 @@
+# 45. člen (določitev in izplačilo nadomestila)
+
+(1) Nadomestilo za ustanovitev služnosti v javno korist se določi za obdobje od poteka 24 mesecev od začetka uporabe zemljišča, ki otežuje redno rabo zemljišča, do poteka obdobja obremenitve zemljišča s služnostjo. Nadomestilo se izplačuje na letni ravni za preteklo leto, in sicer do konca marca tekočega leta. Izplačilo za posamezno leto se izračuna tako, da se višina nadomestila, določena za celotno obdobje, deli s številom let, za katera je zemljišče obremenjeno s služnostjo v javno korist. Če nadomestilo ni določeno v istem koledarskem letu, kot je bila ustanovljena služnost v javno korist, se nadomestilo za obdobje do določitve nadomestila izplača do konca marca leta, ki sledi letu, v katerem je bila določeno nadomestilo. Če služnost v javno korist ne traja vse koledarsko leto, se izplačilo za posamezno leto sorazmerno zmanjša.
+
+(2) Nadomestilo za uporabo zemljišča izplača uprava na transakcijski račun lastnika zemljišča. Sredstva za izplačilo nadomestila se zagotovijo iz proračuna Republike Slovenije.
