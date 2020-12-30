@@ -1,0 +1,3 @@
+# 7. člen (prodaja motornega vozila pred prvo registracijo)
+
+Ne glede na prejšnji člen obveznost za obračun davka na motorno vozilo ne nastane, če proizvajalec motornega vozila pred prvo registracijo proda motorno vozilo neposredno za izvoz ali iznos iz Republike Slovenije. Proizvajalec je dolžan voditi evidenco o takšnih motornih vozilih, datumu prodaje motornega vozila in datumu izvoza ali iznosa iz Republike Slovenije ter jo skupaj z dokazili o izvozu ali iznosu motornega vozila iz Republike Slovenije na zahtevo Finančne uprave Republike Slovenije (v nadaljnjem besedilu: finančna uprava) v osmih dneh predložiti.

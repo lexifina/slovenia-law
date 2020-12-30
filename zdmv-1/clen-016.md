@@ -1,0 +1,7 @@
+# 16. člen (višina davka za rabljena motorna vozila)
+
+(1) Za rabljena motorna vozila iz 9. člena tega zakona se izračunani davek plača v predpisanem odstotku, določenem glede na starost motornega vozila. Določitev odstotka je odvisna od obdobja od prve registracije motornega vozila v drugi državi članici ali tretji državi do nastanka obveznosti za obračun davka na motorno vozilo v Republiki Sloveniji. Če datuma prve registracije ni mogoče nedvoumno ugotoviti ali registracija po predpisih države, iz katere je vozilo vneseno ali uvoženo, ni potrebna, se šteje, da je datum prve registracije motornega vozila datum izdaje potrdila o skladnosti proizvajalca.
+
+obdobje uporabe oziroma registracije motornega vozila v drugi državi članici ali tretji državi odstotek davka na motorna vozila do 1 leta 91 % nad 1 letom 83 % nad 2 letoma 76 % nad 3 leti 70 % nad 4 leti 64 % nad 5 let 58 % nad 6 let 53 % nad 7 let 48 % nad 8 let 43 % nad 9 let 38 % nad 10 leti 33 %
+
+(2) Pri odmeri davka na motorna vozila iz petega odstavka 18. člena, trinajstega odstavka 19. člena, tretjega odstavka 20. člena, tretjega odstavka 21. člena in 22. člena tega zakona ter ob upoštevanju predpisanega odstotka davka, določenega glede na starost motornega vozila iz prejšnjega odstavka, se za obdobje uporabe teh motornih vozil šteje obdobje od datuma prve registracije motornega vozila v Republiki Sloveniji, v drugi državi članici ali tretji državi do nastanka obveznosti za obračun.

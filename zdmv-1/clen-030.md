@@ -1,0 +1,5 @@
+# 30. člen (povezave evidenc in pridobivanje podatkov)
+
+(1) Finančna uprava ima pri izvajanju nalog iz tega zakona pravico do brezplačne povezave svoje evidence motornih vozil z evidenco registriranih vozil ministrstva, pristojnega za promet, ki jo predpisuje zakon, ki ureja motorna vozila.
+
+(2) Organ, pristojen za registracijo, ali za registracijo vozil pooblaščena organizacija za namene izvajanja 23. člena tega zakona in sedmega odstavka 26. člena tega zakona brezplačno pridobiva iz evidence motornih vozil finančne uprave podatke o tem, ali je bil davek za motorno vozilo plačan oziroma ali je bila uveljavljena oprostitev plačila davka, in v primerih, kjer zakon to določa, tudi datum, do katerega ni mogoča odtujitev motornega vozila brez plačila davka. Ministrstvo, pristojno za promet, lahko za namen pridobivanja podatkov iz prejšnjega stavka s povezovalnim znakom identifikacijska številka (VIN številke) svojo evidenco registriranih vozil poveže z evidenco motornih vozil finančne uprave, ki vsebuje podatke, naštete v tem odstavku.
