@@ -1,8 +1,0 @@
-# 8. člen
-8.a člen se spremeni tako, da se glasi:
-"8.a člen
-Davčnemu zavezancu, ki pridobi motorno vozilo iz druge države članice Evropske unije in ni dolžan obračunavati davka v skladu s prejšnjim členom, odmeri davek davčni organ.
-Davčni organ iz prejšnjega odstavka odmeri davek na podlagi napovedi, ki jo davčni zavezanec predloži najpozneje v 15 dneh od dneva pridobitve motornega vozila.
-Davčni zavezanec mora pri pridobitvi motornega vozila napovedi priložiti izvirnik računa o nakupu vozila, iz katerega morata biti razvidna prodajna cena in datum pridobitve, izjavo o emisijski ustreznosti vozila, ki jo zavezanec pridobi pri strokovni organizaciji, pristojni za ugotavljanje skladnosti, iz katere morajo biti razvidni podatki o znamki in tipu vozila, identifikacijski številki (številki šasije), izpustu CO2, moči motorja v kW, načinu delovanja motorja (dvotaktni, električni), izpustu trdnih delcev v g/km, stopnji izpusta Euro, datumu izdaje potrdila o skladnosti, državi dobave, pri vozilu, ki je že bilo predhodno začasno ali trajno registrirano v drugi državi, pa tudi izvirnik ali overjeno kopijo registracijskega dokumenta oziroma prometnega dovoljenja.
-Strokovna organizacija, pristojna za ugotavljanje skladnosti, ne sme izdati potrdila o skladnosti motornega vozila tipa SB, če motorno vozilo ni vpisano v evidenco davčnega organa iz 11.a člena tega zakona.
-Če v skladu s predpisi, ki urejajo tehnične zahteve za proizvode in ugotavljanje skladnosti, izdaja potrdila o skladnosti ni potrebna, organ, pristojen za registracijo, oziroma pooblaščena organizacija pri registraciji vozil ne sme registrirati motornega vozila, če motorno vozilo ni vpisano v evidenco davčnega organa iz 11.a člena tega zakona.".
