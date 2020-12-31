@@ -1,6 +1,6 @@
 ## IV. STROŠKI POSTOPKA PRIZNAVANJA POKLICNE KVALIFIKACIJE
 # 24. člen (stroški postopka)
-(1) Stroški, ki nastanejo v zvezi s postopkom priznavanja poklicne kvalifikacije in katerih višino določi minister, so:
+(1) Stroški, ki nastanejo v zvezi s postopkom priznavanja poklicne kvalifikacije in katerih višino določi ministrstvo, so:
 - stroški komisij iz drugega in tretjega odstavka 10. člena tega zakona in drugega odstavka 18. člena tega zakona;
 - stroški opravljanja dodatnega zaključnega izpita iz prve alinee prvega odstavka 12. člena tega zakona;
 - stroški v prilagoditvenem obdobju iz prve alinee prvega odstavka 20. člena tega zakona;
