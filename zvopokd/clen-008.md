@@ -1,0 +1,5 @@
+# 8. člen (obdelava osebnih podatkov za druge namene)
+
+(1) Obdelava osebnih podatkov s strani istega ali drugega pristojnega organa za druge namene obdelave od tistih, za katere so bili podatki pridobljeni, je dovoljena, če ti nameni obdelave spadajo med namene iz prvega odstavka 1. člena tega zakona in tako določa zakon.
+
+(2) Ne glede na prejšnji odstavek se osebni podatki, ki jih pristojni organi zbirajo za namene iz prvega odstavka 1. člena tega zakona, ne obdelujejo za druge namene, kot so nameni iz prvega odstavka 1. člena tega zakona, razen če to dovoljuje zakon. V tem primeru za obdelavo veljajo določbe Uredbe (EU) 2016/679 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o varstvu posameznikov pri obdelavi osebnih podatkov in o prostem pretoku takih podatkov ter o razveljavitvi Direktive 95/46/ES (Splošna uredba o varstvu podatkov) (UL L št. 119 z dne 4. 5. 2016, str. 1), zadnjič popravljene s Popravkom (UL L št. 127 z dne 23. 5. 2018, str. 2), zakona, ki ureja varstvo osebnih podatkov, in drugih zakonov.

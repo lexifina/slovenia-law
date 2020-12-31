@@ -1,0 +1,11 @@
+## I. POGLAVJE SPLOŠNE DOLOČBE
+
+# 1. člen (vsebina)
+
+(1) Ta zakon ureja varstvo pri obdelavi osebnih podatkov, ki jih policija, državna tožilstva, Uprava Republike Slovenije za probacijo, Uprava Republike Slovenije za izvrševanje kazenskih sankcij in drugi državni organi Republike Slovenije, ki so zakonsko določeni kot pristojni za področja preprečevanja, preiskovanja, odkrivanja ali pregona kaznivih dejanj ali izvrševanja kazenskih sankcij (v nadaljnjem besedilu: pristojni organi), obdelujejo za namene izvrševanja teh pristojnosti.
+
+(2) Ta zakon ureja tudi, kdaj sodišča, ki odločajo v kazenskih zadevah, uporabljajo določbe tega zakona o obdelavi in dostopu do osebnih podatkov v kazenskih zadevah.
+
+(3) Ta zakon ureja tudi pogoje za zakonito in pošteno obdelavo osebnih podatkov, postopke in načine odkrivanja in preprečevanja nezakonitih posegov v pravice posameznice ali posameznika (v nadaljnjem besedilu: posameznik), na katerega se nanašajo osebni podatki, načine uveljavljanja njegovih pravic in prenos osebnih podatkov tretjim državam in mednarodnim organizacijam. Za učinkovito varstvo zakonitosti in poštenosti obdelave osebnih podatkov ureja tudi nadzorna pooblastila in nadzorne ukrepe nadzornega organa ter odgovornost za prekrške glede njihovih kršitev.
+
+(4) S tem zakonom se v pravni red Republike Slovenije prenašata Direktiva (EU) 2016/680 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o varstvu posameznikov pri obdelavi osebnih podatkov, ki jih pristojni organi obdelujejo za namene preprečevanja, preiskovanja, odkrivanja ali pregona kaznivih dejanj ali izvrševanja kazenskih sankcij, in o prostem pretoku takih podatkov ter o razveljavitvi Okvirnega sklepa Sveta 2008/977/PNZ (UL L št. 119 z dne 4. 5. 2016, str. 89), zadnjič popravljena s Popravkom (UL L št. 127 z dne 23. 5. 2018, str. 20), (v nadaljnjem besedilu: Direktiva 2016/680/EU) ter Direktiva (EU) 2016/681 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o uporabi podatkov iz evidence podatkov o potnikih (PNR) za preprečevanje, odkrivanje, preiskovanje in pregon terorističnih in hudih kaznivih dejanj (UL L št. 119 z dne 4. 5. 2016, str. 132) v delu, ki se nanaša na položaj in naloge pooblaščenih oseb za varstvo osebnih podatkov.
