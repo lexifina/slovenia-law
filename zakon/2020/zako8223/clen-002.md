@@ -1,0 +1,3 @@
+## PREHODNA IN KONČNA DOLOČBA
+# 2. člen
+Osebi, ki ji Republika Slovenija plačuje prispevke v skladu s sedmim odstavkom 50. člena Zakona o starševskem varstvu in družinskih prejemkih (Uradni list RS, št. 26/14, 90/15, 75/17 - ZUPJS-G, 14/18 in 81/19) ob uveljavitvi tega zakona, center uskladi obseg in trajanje te pravice v skladu s tem zakonom najpozneje do 30. junija 2021. Kot osnova za plačilo prispevkov se upošteva osnova iz 43. člena in prvega odstavka 46. člena zakona, iz leta 2019, preračunana na polni delovni čas, vendar ne manj od sorazmernega dela minimalne plače, zmanjšane za osnovo, od katere je Republika Slovenija plačevala prispevke zaradi dela s krajšim delovnim časom od polnega do 31. decembra 2019.
