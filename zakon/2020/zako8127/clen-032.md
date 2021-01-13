@@ -1,0 +1,3 @@
+# 32. člen
+V 276. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Če senat ob ugovoru spozna, da so v obtožnici napake ali pomanjkljivosti (269. člen tega zakona), vrne obtožnico, da se opažene pomanjkljivosti odpravijo. Tožilec mora v treh dneh, odkar mu je bila sporočena odločba senata, predložiti popravljeno obtožnico. Iz opravičenih razlogov sme senat na zahtevo tožilca ta rok podaljšati. Če oškodovanec kot tožilec ali zasebni tožilec zamudi omenjeni rok, se šteje, da je odstopil od pregona, postopek pa se ustavi. Če državni tožilec zamudi rok, mora o razlogih obvestiti Vrhovno državno tožilstvo.".

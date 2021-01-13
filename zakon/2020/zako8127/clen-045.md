@@ -1,0 +1,8 @@
+# 45. člen
+454. člen se spremeni tako, da se glasi:
+"454. člen
+(1) Mladoletnik sme imeti zagovornika ves čas postopka proti njemu.
+(2) Poleg drugih primerov, določenih v tem zakonu, mora mladoletnik imeti zagovornika od začetka pripravljalnega postopka, če teče proti njemu postopek zaradi kaznivega dejanja, za katero je predpisana kazen zapora nad tri leta. Za druga kazniva dejanja, za katera je predpisana milejša kazen, pa mora imeti zagovornika, če sodnik za mladoletnike spozna, da mu je potreben, upoštevaje pri tem zlasti duševno razvitost, sposobnost razumevanja in osebne lastnosti mladoletnika, zapletenost zadeve in težo sankcije ali drugih ukrepov, ki jih lahko v konkretnem postopku uporabi proti mladoletniku.
+(3) V primerih iz prejšnjega odstavka mora imeti mladoletnik zagovornika že med izvedbo preiskovalnega dejanja, pri katerem ima mladoletnik pravico biti navzoč, razen če gre za preiskovalno dejanje, ki ga opravi policija brez odredbe sodišča.
+(4) V vsakem primeru mora imeti mladoletnik zagovornika, če mu je odvzeta prostost.
+(5) Če si v primerih iz prejšnjih odstavkov zagovornika ne vzame mladoletnik sam ali mu ga ne vzamejo njegov zakoniti zastopnik ali sorodniki, mu ga po uradni dolžnosti postavi organ, pred katerim teče postopek, s seznama odvetnikov iz tretjega odstavka 452.b člena tega zakona. Če je to za zagotovitev učinkovite obrambe nujno, lahko pristojni organ mladoletniku določi za zagovornika tudi odvetnika, ki ni uvrščen na tak seznam. Mladoletniku, ki že ima postavljenega zagovornika v drugem postopku proti njemu, pristojni organ praviloma postavi istega zagovornika.".

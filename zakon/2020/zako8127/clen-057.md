@@ -1,0 +1,2 @@
+# 57. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati se začne štiri mesece po njegovi uveljavitvi, razen spremenjenih in novih določb a165.a člena, 165.a člena in 170. člena zakona, ki se začnejo uporabljati od dneva začetka delovanja Evropskega javnega tožilstva po Uredbi 2017/1939/EU, ki ga s sklepom določi Evropska komisija, do takrat pa se uporabljajo dosedanji predpisi.
