@@ -1,0 +1,13 @@
+# 17. člen (prejemki iz naslova zaposlitvene rehabilitacije)
+
+(1) Invalid, ki mu je priznana pravica do zaposlitvene rehabilitacije, ima pravico do denarnih prejemkov glede na vrsto, obseg in čas trajanja storitev, in sicer:
+
+- plačila stroškov javnega prevoza za invalida in njegovega spremljevalca oziroma spremljevalko (v nadaljnjem besedilu: spremljevalec) v primeru, da ga potrebuje, če je invalidu priznana pravica do storitev iz prve, druge, tretje, četrte, pete, šeste in desete alinee 15. člena tega zakona,
+
+- plačila stroškov za prehrano v višini nadomestila za prehrano med delom za zaposlene v javnem sektorju, če je invalidu priznana pravica do storitev iz desete alinee 15. člena tega zakona,
+
+- plačila stroškov bivanja v višini največ 20 % minimalne plače mesečno, če se storitve zaposlitvene rehabilitacije izvajajo več dni zaporedoma in če je otežen vsakodnevni prihod invalida k izvajalcu zaposlitvene rehabilitacije,
+
+- denarnega prejemka za čas trajanja zaposlitvene rehabilitacije v višini 54 % minimalne plače mesečno, če se storitve zaposlitvene rehabilitacije izvajajo v obsegu od 60 do vključno 128 ur mesečno oziroma v višini 65 % minimalne plače mesečno, če se storitve zaposlitvene rehabilitacije izvajajo v obsegu najmanj 129 ur mesečno. Do denarnega prejemka za čas trajanja zaposlitvene rehabilitacije je upravičen tudi invalid, ki prejema denarno nadomestilo ali denarno pomoč po predpisih iz naslova pravic brezposelnih oseb ali denarno nadomestilo po predpisih iz naslova invalidskega zavarovanja. Če bi vsota vseh prejemkov iz navedenih naslovov presegla višino odstotka minimalne plače, določene za posamezen obseg storitev zaposlitvene rehabilitacije, je invalid, ki je vključen v zaposlitveno rehabilitacijo upravičen le do ustreznega dela razlike denarnega prejemka iz naslova zaposlitvene rehabilitacije.
+
+(2) O pravicah iz prejšnjega odstavka odloča Zavod.
