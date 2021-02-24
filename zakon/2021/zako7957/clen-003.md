@@ -1,0 +1,6 @@
+# 3. člen
+V 32. členu se na koncu drugega odstavka doda nov stavek, ki se glasi: "Pristaniška infrastruktura je gospodarska javna infrastruktura državnega pomena v skladu s predpisom, ki ureja urejanje prostora, ter se deli na pristaniško infrastrukturo, namenjeno za javni promet, in pristaniško infrastrukturo, ki ni namenjena za javni promet.".
+Za sedmim odstavkom se doda nov osmi odstavek, ki se glasi:
+"Nadzor nad izvajanjem Uredbe (EU) 2017/352 Evropskega Parlamenta in Sveta z dne 15. februarja 2017 o vzpostavitvi okvira za izvajanje pristaniških storitev in skupnih pravil o finančni preglednosti pristanišč (UL L št. 57 z dne 3. 3. 2017, str. 1), zadnjič spremenjene z Uredbo (EU) 2020/697 Evropskega parlamenta in Sveta z dne 25. maja 2020 o spremembi Uredbe (EU) 2017/352, da se upravnemu organu pristanišča ali pristojnemu organu dovoli zagotavljanje prožnosti pri pobiranju pristojbin za pristaniško infrastrukturo v okviru izbruha COVID-19 (UL L št. 165 z dne 27. 5. 2020, str. 7), v nadaljnjem besedilu: Uredba 2017/352/EU) opravlja:
+- Urad Republike Slovenije za nadzor proračuna v zvezi z 11. členom Uredbe 2017/352/EU,
+- ministrstvo, pristojno za pomorstvo, v zvezi z 12. in 13. členom Uredbe 2017/352/EU.".
