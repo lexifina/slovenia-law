@@ -1,0 +1,3 @@
+# 17. člen (uporaba zakona)
+Spremenjeni četrti odstavek 32. člena zakona se začne uporabljati 1. septembra 2021. Do takrat se uporablja četrti odstavek 32. člena Zakona o vrtcih (Uradni list RS, št. 100/05 - uradno prečiščeno besedilo, 25/08, 98/09 - ZIUZGK, 36/10, 62/10 - ZUPJS, 94/10 - ZIU, 40/12 - ZUJF, 14/15 - ZUUJFO in 55/17).
+Staršem, ki imajo na dan začetka uporabe določbe prejšnjega odstavka že izdano odločbo o znižanem plačilu vrtca v skladu z zakonom, ki ureja pravice iz javnih sredstev, se pravica do brezplačnega vrtca za drugega otroka prizna na podlagi zakona in velja do izteka veljavnosti izdane odločbe.
