@@ -1,0 +1,4 @@
+# 4. člen
+V 11. členu se na koncu prvega odstavka doda besedilo, ki se glasi: "Sporočilo družbe lahko poleg imena in priimka fizične osebe vsebuje druge osebne podatke, če zakon določa njihovo objavo.".
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Poslovodstvo mora zagotoviti, da sporazumevanje z delavci v družbi v zvezi z dajanjem navodil za njihovo delo, vodenjem postopkov, v katerih se odloča o njihovih pravicah, in sodelovanjem delavcev pri upravljanju (poslovno komunikacijo) poteka v slovenskem jeziku, na območjih, kjer živi italijanska ali madžarska narodna skupnost, pa lahko tudi v italijanskem ali madžarskem jeziku. V primeru tujih delavcev, ki se ne sporazumevajo v slovenskem, italijanskem ali madžarskem jeziku, lahko poslovodstvo zagotovi prevajanje poslovne komunikacije tudi v njim poznanem jeziku. Poslovodstvo lahko omogoči neposredno sporazumevanje s tujimi delavci v družbi v njim poznanem jeziku le v primeru življenjske ogroženosti.".
