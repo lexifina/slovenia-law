@@ -4,8 +4,8 @@ Glasovnica za glasovanje o kandidatih za poslanca italijanske oziroma madžarske
 
 - oznako volilne enote,
 
-- priimke in imena kandidatov po vrstnem redu iz seznama kandidatov,
+- zaporedne številke ter imena in priimke kandidatov po vrstnem redu kandidatov s seznama kandidatur,
 
 - navodilo o načinu glasovanja.
 
-Volivec glasuje tako, da pred priimki in imeni kandidatov označi prednostni vrstni red kandidatov s številkami od 1 naprej.
+Volivec glasuje samo za enega kandidata, in sicer tako, da obkroži zaporedno številko pred imenom in priimkom kandidata, za katerega glasuje.

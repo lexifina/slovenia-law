@@ -20,7 +20,7 @@ Državna volilna komisija:
 
 9. ugotavlja, katere liste kandidatov so na ravni države prejele štiri ali več odstotkov glasov, oddanih za vse liste,
 
-10. ugotavlja, kateri kandidati so bili izvoljeni za poslance, kateri kandidat iz prvega oziroma drugega odstavka 17. člena tega zakona opravlja funkcijo za preostanek mandatne dobe državnega zbora in kateri kandidat iz drugega odstavka 14. člena Zakona o poslancih (Uradni list RS, št. 112/05 – uradno prečiščeno besedilo, 109/08, 39/11 in 48/12) opravlja funkcijo za čas, ko poslanec opravlja funkcijo predsednika vlade, ministra ali državnega sekretarja,
+10. ugotavlja, kateri kandidati so bili izvoljeni za poslance, kateri kandidat iz prvega odstavka 17. člena tega zakona opravlja funkcijo za preostanek mandatne dobe državnega zbora in kateri kandidat iz drugega odstavka 14. člena Zakona o poslancih (Uradni list RS, št. 112/05 – uradno prečiščeno besedilo, 109/08, 39/11 in 48/12) opravlja funkcijo za čas, ko poslanec opravlja funkcijo predsednika vlade, ministra ali državnega sekretarja,
 
 11. skrbi za izvedbo glasovanja na diplomatsko-konzularnih predstavništvih Republike Slovenije,
 

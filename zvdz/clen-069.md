@@ -1,6 +1,6 @@
 # 69. člen
 
-Volivci, ki so na dan glasovanja odsotni, lahko glasujejo pred tem dnem, vendar pa ne prej kot pet dni pred dnem glasovanja in ne kasneje kot dva dni pred dnem glasovanja. Glasovanje se opravi na posebnem volišču na sedežu okrajne volilne komisije.
+Volivci, ki so na dan glasovanja odsotni, lahko glasujejo pred tem dnem, vendar pa ne prej kot pet dni pred dnem glasovanja in ne kasneje kot dva dni pred dnem glasovanja. Glasovanje se opravi na posebnem volišču na območju okrajne volilne komisije.
 
 Glasovanje vodi volilni odbor, ki ga okrajna volilna komisija imenuje na način, določen v 41. členu tega zakona.
 
