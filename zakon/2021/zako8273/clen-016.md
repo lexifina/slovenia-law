@@ -1,0 +1,8 @@
+# 16. člen
+V 19. členu se v tretjem odstavku drugi stavek spremeni tako, da se glasi: "Osebi, obravnavani po zakonu, ki ureja pogoje in postopke za zaščito prič, žrtvi nasilja v družini ali žrtvi trgovine z ljudmi se lahko zakonsko prebivališče določi tudi na predlog državnega tožilstva, policije ali centra za socialno delo.".
+Za tretjim odstavkom se dodata nova četrti in peti odstavek, ki se glasita:
+"(4) Upravna enota v postopku ugotavljanja stalnega prebivališča določi zakonsko prebivališče otroku, ki je nameščen v rejništvo, če mu po določbah tega zakona stalnega prebivališča ne more prijaviti, in sicer na naslov centra za socialno delo, na območju katerega ima ali je imel nazadnje prijavljeno stalno prebivališče, ali centra za socialno delo, ki je podal predlog oziroma soglasje za prijavo.
+(5) Upravna enota v postopku ugotavljanja začasnega prebivališča določi zakonsko prebivališče tujcu, ki ima dovoljenje za začasno prebivanje, potrdilo o prijavi prebivanja ali vizum za dolgoročno prebivanje in je žrtev nasilja v družini ali žrtev trgovine z ljudmi, če mu po določbah tega zakona stalnega ali začasnega prebivališča ne more prijaviti, in sicer na naslov centra za socialno delo, na območju katerega ima ali je imel nazadnje prijavljeno začasno prebivališče, ali centra za socialno delo, ki je podal predlog oziroma soglasje za prijavo. To zakonsko prebivališče ima naravo začasnega prebivališča.".
+Dosedanji četrti odstavek postane šesti odstavek.
+V dosedanjem petem odstavku, ki postane sedmi odstavek, se besedilo "drugega in tretjega odstavka" nadomesti z besedilom "drugega, tretjega, četrtega in petega odstavka".
+Dosedanji šesti odstavek postane osmi odstavek.

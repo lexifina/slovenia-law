@@ -1,0 +1,4 @@
+# 25. člen
+V 41. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Tujca, ki nima dovoljenja za prebivanje, potrdila o prijavi prebivanja ali vizuma za dolgoročno bivanje in se nastani v Republiki Sloveniji, vendar ne pri stanodajalcu ali gostitelju, ne glede na trajanje nastanitve prijavi pristojni policijski postaji lastnik ali solastnik nepremičnine, v kateri se tujec nastani, najpozneje v treh dneh po prehodu državne meje in v treh dneh po spremembi nastanitve, odjavi pa pred odhodom. Če se tujec na policijski postaji prijavi osebno, ob prijavi predloži soglasje lastnika ali solastnika nepremičnine, v kateri se nastani, in njegove kontaktne podatke, preko katerih policist soglasje preveri.".
+V tretjem odstavku se doda nov drugi stavek, ki se glasi: "Navedeno velja tudi za tujca, ki ima dovoljenje za prebivanje, potrdilo o prijavi prebivanja ali vizum za dolgoročno prebivanje, pa v Republiki Sloveniji nima prijavljenega prebivališča.".

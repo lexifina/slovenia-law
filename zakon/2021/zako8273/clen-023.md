@@ -1,0 +1,2 @@
+# 23. člen
+V 27. členu se za besedo "e-uprava" doda vejica, besedilo "z elektronskim podpisom, ki ustreza lastnoročnemu podpisu, skladno z zakonom, ki ureja elektronski podpis in elektronsko poslovanje" pa se nadomesti z besedilom "do katerega uporabnik dostopa in se identificira z uporabo sredstva elektronske identifikacije, skladno s predpisi, ki urejajo elektronsko identifikacijo in storitve zaupanja".
