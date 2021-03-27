@@ -1,0 +1,3 @@
+# 17.b člen
+
+Sklad izvaja promet s kmetijskimi zemljišči, s katerimi gospodari, v skladu s predpisi, ki urejajo promet s kmetijskimi zemljišči in drugimi nepremičninami in svojimi akti, h katerim mora pridobiti soglasje Vlade Republike Slovenije. Za promet s temi nepremičninami ne veljajo prepovedi oziroma omejitve, določene v zakonu o začasni prepovedi privatizacije pravnih oseb in premoženja v lasti Republike Slovenije (Uradni list RS, št. 20/94 in 37/95).

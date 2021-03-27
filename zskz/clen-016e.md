@@ -1,0 +1,7 @@
+# 16.e člen
+
+Če so kmetijska zemljišča, ki so v gospodarjenju sklada, v državnem prostorskem načrtu določeni kot območja, namenjena omilitvenim ukrepom po predpisih o ohranjanju narave, je sklad dolžan tistim osebam javnega prava ali izvajalcem obveznih ali izbirnih gospodarskih javnih služb oziroma investitorjem – izvajalcem državnega prostorskega načrta, ki ta zemljišča potrebujejo za izvedbo načrtovanih prostorskih ureditev, zagotoviti vzpostavitev takšnih območij in po vzpostavitvi njihovo upravljanje, kar se uredi s pogodbo med skladom in osebo javnega prava ali izvajalcem obveznih ali izbirnih gospodarskih javnih služb ali investitorjem – izvajalcem državnega prostorskega načrta.
+
+V postopku sprejemanja državnega prostorskega načrta, v delu, s katerim se načrtujejo ukrepi iz prejšnjega odstavka, je pripravljalec strokovnih podlag državnega prostorskega načrta dolžan po določitvi strokovnega predloga lokacij, na katerih se lahko izvajajo omilitveni ukrepi, pridobiti mnenje sklada glede možnosti pridobitve ustreznih zemljišč, za vzpostavitev omilitvenih ukrepov in po njihovi vzpostavitvi za upravljanje teh zemljišč na lokacijah zemljišč iz strokovnega predloga. V primeru, da predlagane lokacije niso ustrezne, je sklad dolžan posredovati predloge drugih lokacij, ki bodo ustrezne za izvedbo teh ukrepov.
+
+Zakupniki morajo na zemljiščih iz prvega odstavka tega člena upoštevati predpisane ukrepe pri rabi zemljišč.
