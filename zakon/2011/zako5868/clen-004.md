@@ -19,6 +19,7 @@
 - kultura;
 - izobraževanje;
 - znanost;
+- prostovoljsko delo in nevladne organizacije;
 - kronika in druge vsebine.
 (3) STA v okviru javne službe objavlja tudi
 - besedila radijskih novic, prirejenih za objavo v radijskem mediju;
