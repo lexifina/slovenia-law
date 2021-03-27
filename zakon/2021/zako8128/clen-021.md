@@ -1,0 +1,2 @@
+# 21. člen (Izvzetje sredstev iz davčne izvršbe)
+Do uskladitve Zakona o davčnem postopku (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 32/12, 94/12, 101/13 - ZDavNepr, 111/13, 22/14 - odl. US, 25/14 - ZFU, 40/14 - ZIN-B, 90/14, 91/15, 63/16, 69/17, 13/18 - ZJF-H, 36/19, 66/19, 145/20 - odl. US in 203/20 - ZIUPOPDVE) s tem zakonom so v postopkih davčne izvršbe denarna sredstva, prejeta iz naslova vključenosti osebe v poskusno izvajanje socialnovarstvene dejavnosti po zakonu, ki ureja socialno varstvo, izvzeta iz davčne izvršbe.
