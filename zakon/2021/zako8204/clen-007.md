@@ -1,0 +1,2 @@
+# 7. člen
+Pravila obveznega zdravstvenega zavarovanja (Uradni list RS, št. 79/94, 73/95, 39/96, 70/96, 47/97, 3/98, 3/98, 51/98 - odl. US, 73/98 - odl. US, 90/98, 6/99 - popr., 109/99 - odl. US, 61/00, 64/00 - popr., 91/00 - popr., 59/02, 18/03, 30/03, 35/03 - popr., 78/03, 84/04, 44/05, 86/06, 90/06 - popr., 64/07, 33/08, 7/09, 88/09, 30/11, 49/12, 106/12, 99/13 - ZSVarPre-C, 25/14 - odl. US, 25/14, 85/14, 10/17 - ZČmIS, 64/18 in 4/20) se s tem zakonom uskladijo v enem mesecu od dneva njegove uveljavitve.
