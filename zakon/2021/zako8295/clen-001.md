@@ -1,0 +1,6 @@
+# 1. člen
+V Zakonu o urejanju trga dela (Uradni list RS, št. 80/10, 40/12 - ZUJF, 21/13, 63/13, 100/13, 32/14 - ZPDZC-1, 47/15 - ZZSDT, 55/17, 75/19, 11/20 - odl. US in 189/20 - ZFRO) se v 62. členu doda nov četrti odstavek, ki se glasi:
+"(4) Ne glede na prejšnji odstavek se brezposelni osebi, ki ima stalno prebivališče v Republiki Sloveniji, in se je v drugo državo članico EU, EGP ali Švicarsko konfederacijo dnevno ali najmanj enkrat tedensko vozila na delo, in je pred nastankom brezposelnosti v tej državi članici EU, EGP ali Švicarski konfederaciji pridobila celotno zavarovalno dobo iz prvega odstavka 59. člena tega zakona, prizna denarno nadomestilo največ v višini 1.785 eurov, pri čemer se tako določeni najvišji znesek denarnega nadomestila brezposelni osebi prizna:
+- za prve tri mesece prejemanja denarnega nadomestila;
+- za prvih pet mesecev prejemanja denarnega nadomestila, če je brezposelna oseba pred nastankom brezposelnosti v tej državi članici EU, EGP ali Švicarski konfederaciji pridobila najmanj 12 mesecev zavarovalne dobe v zadnjih 24 mesecih in ima v skladu s prvim odstavkom 60. člena tega zakona pravico do denarnega nadomestila v trajanju šest mesecev ali več.".
+Dosedanji četrti, peti in šesti odstavek postanejo peti, šesti in sedmi odstavek.
