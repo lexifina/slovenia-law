@@ -1,0 +1,3 @@
+# 42. člen (strokovnjaki za zaslišanje otroka v prehodnem obdobju)
+
+Do zagotovitve zadostnega števila strokovnjakov, usposobljenih za izvajanje zaslišanja otroka, vendar ne dlje kot pet let po začetku veljavnosti tega zakona, sme zavod ne glede na drugi odstavek 16. člena tega zakona za izvajanje zaslišanja otroka za strokovnjaka, s pomočjo katerega bo opravljeno zaslišanje, imenovati tudi uradno osebo policije, ki je zaslišanje otrok ali zbiranje obvestil od otrok opravljala najmanj pet let, je uspešno opravila poklicna usposabljanja s tega področja in je v skladu z 38. členom tega zakona uspešno opravila dodatno usposabljanje.
