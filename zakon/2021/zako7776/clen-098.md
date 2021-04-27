@@ -1,0 +1,3 @@
+## PREHODNE IN KONČNE DOLOČBE
+# 98. člen
+Dovoljenja in potrdila se v skladu s spremenjenim prvim in drugim odstavkom 58. člena, spremenjenim 102. členom in spremenjenim 137. členom zakona začnejo izdajati najpozneje šest mesecev po uveljavitvi tega zakona. Minister, pristojen za notranje zadeve, v Uradnem listu Republike Slovenije objavi datum, od katerega se izdajajo dovoljenja oziroma potrdila v skladu z določbami iz prejšnjega stavka. Do datuma iz prejšnjega stavka se dovoljenja oziroma potrdila izdajajo v skladu s prvim in drugim odstavkom 58., 102. oziroma 137. člena Zakona o tujcih (Uradni list RS, št. 1/18 - uradno prečiščeno besedilo, 9/18 - popr. in 62/19 - odl. US).

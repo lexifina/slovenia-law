@@ -1,0 +1,5 @@
+# 65. člen
+V 88. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Če upravna enota v postopku izdaje prvega dovoljenja za začasno prebivanje zahteva zaslišanje tujca, diplomatsko predstavništvo ali konzulat Republike Slovenije v tujini o tem pošlje poziv tujcu v pisni obliki. Poziv za dopolnitev prošnje za izdajo prvega dovoljenja za začasno prebivanje tujcu ali pooblaščencu, če ga je tujec določil, pošlje upravna enota.".
+Četrti odstavek se spremeni tako, da se glasi:
+"(4) Odločbo, razen prvega dovoljenja za začasno prebivanje, sklepe in druge dokumente, izdane v postopku izdaje prvega dovoljenja za začasno prebivanje, upravna enota lahko vroči tujcu neposredno v tujino tako, da tujec potrdi prejem. Če vročitev ni mogoča, ker naslovnik ne prebiva na naslovu, ki ga je navedel v vlogi, obenem pa ni ugotovljeno kje prebiva, ali če dokumenta ni prevzel v roku za prevzem pošiljke, se vročitev opravi z javnim naznanilom na oglasni deski upravne enote in na državnem portalu e Uprava.".

@@ -1,0 +1,3 @@
+## "XIII.A POGLAVJE IZDAJA DOVOLJENJ ZA PREBIVANJE DRŽAVLJANOM ZDRUŽENEGA KRALJESTVA IN NJIHOVIM DRUŽINSKIM ČLANOM NA PODLAGI SPORAZUMA O IZSTOPU ZDRUŽENEGA KRALJESTVA VELIKA BRITANIJA IN SEVERNA IRSKA IZ EVROPSKE UNIJE IN EVROPSKE SKUPNOSTI ZA ATOMSKO ENERGIJO
+# 141.a člen (uporaba)
+Določbe tega poglavja se uporabljajo za državljane Združenega kraljestva in njihove družinske člane, za katere se uporablja Sporazum o izstopu Združenega kraljestva Velika Britanija in Severna Irska iz Evropske unije in Evropske skupnosti za atomsko energijo (UL L št. 29 z dne 31. 1. 2020, str. 7) (v nadaljnjem besedilu: Sporazum o izstopu).

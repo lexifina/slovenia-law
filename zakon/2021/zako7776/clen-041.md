@@ -1,0 +1,2 @@
+# 41. člen
+Naslov V. poglavja se spremeni tako, da se glasi: "NEZAKONITO PREBIVANJE, ODPOVED PREBIVANJA, PROSTOVOLJNI ODHOD IN ODSTRANJEVANJE TUJCEV".

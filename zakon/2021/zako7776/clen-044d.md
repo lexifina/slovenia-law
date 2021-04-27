@@ -1,0 +1,9 @@
+# 44.d člen (enotno dovoljenje zaradi opravljanja pripravništva)
+(1) Tujcu, ki želi prebivati v Republiki Sloveniji zaradi opravljanja pripravništva, se lahko izda enotno dovoljenje za prebivanje zaradi opravljanja pripravništva, če:
+- izpolnjuje pogoje iz tretjega odstavka 33. člena tega zakona;
+- pristojni organ po zakonu, ki ureja zaposlovanje in delo tujcev, poda soglasje k izdaji enotnega dovoljenja;
+- izpolnjuje ostale pogoje po tem zakonu za izdajo dovoljenja za prebivanje.
+(2) Kot dokaz o izpolnjevanju pogoja zadostnih sredstev za preživljanje iz tretjega odstavka 33. člena tega zakona se upoštevajo tudi sredstva, ki jih pravna ali fizična oseba, pri kateri bo tujec opravljal pripravništvo, nameni tujcu, ki bo opravljal pripravništvo.
+(3) Dovoljenje za začasno prebivanje se tujcu iz prvega odstavka tega člena izda za čas opravljanja dela, vendar ne dlje kot za eno leto.
+(4) Prošnjo za izdajo enotnega dovoljenja za prebivanje zaradi opravljanja pripravništva lahko vloži tujec ali njegov delodajalec oziroma naročnik dela. Tujec, ki želi prebivati v Republiki Sloveniji zaradi opravljanja pripravništva, mora prošnjo za izdajo prvega enotnega dovoljenja za prebivanje vložiti pri diplomatskem predstavništvu ali konzulatu Republike Slovenije v tujini. Tujčev delodajalec ali naročnik dela lahko prošnjo vloži pri diplomatskem predstavništvu ali konzulatu Republike Slovenije v tujini ali pri pristojnem organu v Republiki Sloveniji. Pooblastilo tujca delodajalcu ali naročniku dela ni potrebno za vlaganje dopolnitev k prošnji za izdajo ali podaljšanje enotnega dovoljenja. V času veljavnosti enotnega dovoljenja za prebivanje zaradi opravljanja pripravništva se lahko tujec zaposli pri dveh ali več delodajalcih na podlagi soglasja pristojnega organa k pisni odobritvi.
+(5) Enotno dovoljenje za prebivanje zaradi opravljanja pripravništva se izda v obliki iz 58. člena tega zakona, pri čemer se pri vrsti dovoljenja vpiše "pripravnik".".

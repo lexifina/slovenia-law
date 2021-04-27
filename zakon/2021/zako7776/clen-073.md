@@ -1,0 +1,4 @@
+# 73. člen
+V 105. členu se tretji in četrti odstavek spremenita tako, da se glasita:
+"(3) Urad Vlade Republike Slovenije, pristojen za oskrbo in integracijo migrantov, in pristojna ministrstva pri izvajanju nalog vključevanja sodelujejo med seboj ter z domačimi in mednarodnimi strokovnimi organizacijami, organi drugih držav in drugimi izvajalci nalog ter usklajujejo dejavnosti za hitrejše vključevanje tujcev, ki niso državljani EU, v kulturno, gospodarsko in družbeno življenje oziroma izobraževalni sistem Republike Slovenije. Za usklajevanje in koordinacijo nalog vključevanja tujcev je pristojen urad Vlade Republike Slovenije, pristojen za oskrbo in integracijo migrantov.
+(4) Urad Vlade Republike Slovenije, pristojen za oskrbo in integracijo migrantov, zagotavlja informacije, ki so potrebne tujcem za njihovo vključevanje v slovensko družbo, zlasti glede njihovih pravic in dolžnosti.".

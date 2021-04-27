@@ -1,0 +1,3 @@
+# 102. člen
+(1) Postopki, ki so se začeli pred začetkom uporabe tega zakona in o katerih še ni bilo pravnomočno odločeno, se nadaljujejo in zaključijo po določbah Zakona o tujcih (Uradni list RS, št. 1/18 - uradno prečiščeno besedilo, 9/18 - popr. in 62/19 - odl. US), razen če so določbe tega zakona za stranko ugodnejše.
+(2) Postopki za izdajo dovoljenja za prebivanje na podlagi Sporazuma o izstopu Združenega kraljestva Velika Britanija in Severna Irska iz Evropske unije in Evropske skupnosti za atomsko energijo, ki so se začeli pred uveljavitvijo tega zakona in o katerih še ni bilo pravnomočno odločeno, se nadaljujejo in zaključijo po določbah tega zakona.

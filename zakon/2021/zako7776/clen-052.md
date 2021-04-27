@@ -1,0 +1,9 @@
+# 52. člen
+70. člen se spremeni tako, da se glasi:
+"70. člen
+(priznavanje odločitev o izgonu in vrnitvi)
+(1) Policija lahko v skladu s tem zakonom odstrani tudi tujca, ki se nahaja na ozemlju Republike Slovenije in mu je bila s strani druge države članice Evropske unije izdana izvršljiva odločba o vrnitvi ali izrečena pravnomočna odločitev o izgonu.
+(2) Če ima tujec iz prejšnjega odstavka dovoljenje za prebivanje ali drugo dovoljenje, ki mu daje pravico do prebivanja in ki ga je izdala Republika Slovenija ali druga država članica Evropske unije, se mora policija pred odstranitvijo posvetovati s pristojnim organom države, ki je takšno dovoljenje izdal. Če tujcu kljub izdani izvršljivi odločbi o vrnitvi ali izrečeni pravnomočni odločitvi o izgonu, pravica do prebivanja v drugi državi članici Evropske unije ne preneha, se tujca lahko odstrani tudi v to državo. Dokler tujcu ne preneha pravica do prebivanja v Republiki Sloveniji, se ga ne odstranjuje.
+(3) Pred odstranitvijo lahko policija od države članice Evropske unije, ki je izdala izvršljivo odločbo o vrnitvi oziroma izrekla pravnomočno odločitev o izgonu, zahteva posredovanje dokumentacije, ki se nanaša na odločitev za izdajo odločbe o vrnitvi oziroma na odločitev o izgonu. Če zahtevana dokumentacija policiji ni posredovana, tujca ni dolžna odstraniti.
+(4) O odstranitvi tujca ali razlogih, zaradi katerih odstranitev ni bila izvršena, policija obvesti pristojni organ države članice Evropske unije, ki je izdal izvršljivo odločbo o vrnitvi oziroma izrekel pravnomočno odločitev o izgonu.
+(5) Pristojni organ Republike Slovenije, ki je izdal izvršljivo odločbo o vrnitvi ali izrekel pravnomočno odločitev o izgonu tujca, ki zakonito prebiva na območju druge države članice Evropske unije, na zahtevo pristojnega organa druge države članice, ki tujca odstranjuje, posreduje dokumentacijo, ki se nanaša na izdano odločbo o vrnitvi oziroma na odločitev o izgonu.".
