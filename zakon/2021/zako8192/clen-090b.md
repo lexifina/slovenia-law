@@ -1,0 +1,4 @@
+# 90.b člen (pogodba o integracijskih aktivnostih)
+(1) Pogodba o integracijskih aktivnostih, ki se sklepa med uradom in osebo s priznano mednarodno zaščito, vključuje določitev aktivnosti, namenjenih lažjemu in hitrejšemu vključevanju oseb s priznano mednarodno zaščito v okolje, in obveznosti teh oseb ter opredelitev obveznosti urada. Pogodba se pripravi v sodelovanju z osebo s priznano mednarodno zaščito in z upoštevanjem posameznikovih potreb, znanja, zmožnosti in sposobnosti ter v jeziku, ki ga oseba s priznano mednarodno zaščito razume.
+(2) Za čas izvajanja pogodbe se osebi s priznano mednarodno zaščito za namene komunikacije z uradno osebo urada zagotovi tolmačenje v jezik, ki ga razume.
+(3) Podrobneje se priprava, vsebina in izvedba pogodbe o integracijskih aktivnostih določi v predpisu iz sedmega odstavka 90. člena tega zakona.".
