@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o državni upravi (Uradni list RS, št. 113/05 - uradno prečiščeno besedilo, 89/07 - odl. US, 126/07 - ZUP-E, 48/09, 8/10 - ZUP-G, 8/12 - ZVRS-F, 21/12, 47/13, 12/14, 90/14, 51/16 in 36/21) se v 17. členu v prvem odstavku drugi stavek spremeni tako, da se glasi: "V ministrstvu, pristojnem za zdravje, se lahko imenujejo največ trije državni sekretarji, v ministrstvu, pristojnem za finance, pa največ štirje državni sekretarji.".
