@@ -1,0 +1,4 @@
+## PREHODNE IN KONČNE DOLOČBE
+# 4. člen
+Informacijsko rešitev iz prvega odstavka 19.b člena zakona Inštitut za varovanje zdravja Republike Slovenije v sodelovanju z ministrstvom, pristojnim za javno upravo, kot pogodbenim obdelovalcem na portalu eUprava, vzpostavi v petnajstih dneh od uveljavitve tega zakona.
+Do vzpostavitve informacijske rešitve iz prvega odstavka 19.b člena zakona oseba, ki je obveščena o tem, da je bila v visoko tveganem stiku, neposredno od okužene osebe ali prek mobilne aplikacije #OstaniZdrav iz 46. člena Zakona o začasnih ukrepih za omilitev in odpravo posledic COVID-19 (Uradni list RS, št. 152/20 in 175/20 - ZIUOPDVE), lahko pridobi dokazilo za uveljavljanje pravice do nadomestila plače ali drugih pravic iz naslova zdravstvenega in socialnega varstva v skladu s četrtim in šestim odstavkom 30. člena Zakona o interventnih ukrepih za pomoč pri omilitvi posledic drugega vala epidemije COVID-19 (Uradni list RS, št. 203/20 in 15/21 - ZDUOP).
