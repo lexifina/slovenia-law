@@ -1,0 +1,2 @@
+# 6. člen
+V 11.c členu se v desetem odstavku prvi stavek spremeni tako, da se glasi: "Upravljavec in Direkcija Republike Slovenije za infrastrukturo morata prek odbora iz trinajstega odstavka tega člena pred sprejetjem poslovnega načrta upravljavca prosilcem, na prošnjo pa tudi potencialnim prosilcem, omogočiti dostop do ustreznih informacij o njegovi vsebini in možnost, da mu sporočijo svoje mnenje v zvezi s pogoji za dostop do javne železniške infrastrukture, za njeno uporabo in v zvezi z njenimi značilnostmi, zagotavljanjem in razvojem.".

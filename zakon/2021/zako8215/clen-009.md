@@ -1,0 +1,2 @@
+# 9. člen
+V 17. členu se v osmem odstavku za prvim stavkom doda nov stavek, ki se glasi: "Prevozniku, zoper katerega je bil začet postopek prisilne poravnave, agencija odvzame licenco, če je predhodno preverila, da v razumnem času ni realnih možnosti za finančno prestrukturiranje. Za oceno možnosti finančnega prestrukturiranja se agenciji na njeno zahtevo omogoči vpogled v sodni spis, ki se nanaša na postopek prisilne poravnave prevoznika.".
