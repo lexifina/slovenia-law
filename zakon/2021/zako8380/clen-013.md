@@ -1,0 +1,2 @@
+# 13. člen (prenehanje veljavnosti in podaljšanje uporabe)
+Z dnem uveljavitve tega zakona prenehata veljati Pravilnik o varnostni dokumentaciji in varnostnih ukrepih izvajalcev bistvenih storitev (Uradni list RS, št. 32/19) ter Pravilnik o varnostni dokumentaciji in varnostnih ukrepih organov državne uprave (Uradni list RS, št. 68/19), ki pa se uporabljata do izdaje podzakonskih predpisov iz drugega odstavka prejšnjega člena.
