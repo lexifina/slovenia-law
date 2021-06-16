@@ -1,5 +1,5 @@
 # 27. člen (pristojni nacionalni organ)
-(1) Pristojni nacionalni organ je organ v sestavi ministrstva, pristojnega za informacijsko družbo.
+(1) Pristojni nacionalni organ je Urad Vlade Republike Slovenije za informacijsko varnost.
 (2) Pristojni nacionalni organ poleg drugih nalog, določenih s tem zakonom, izvaja še naslednje naloge:
 1. koordinira delovanje sistema informacijske varnosti;
 2. razvija zmogljivosti za izvajanje kibernetske obrambe;
@@ -16,4 +16,6 @@
 13. za namene pregleda Direktive 2016/1148/ES Evropsko komisijo vsaj vsaki dve leti obvešča o ukrepih za določitev storitev izvajalcev bistvenih storitev, njihovem številu ter pomenu, o seznamu bistvenih storitev ter pragih za določitev ustrezne ravni opravljanja storitev izvajalcev bistvenih storitev glede na število uporabnikov ali glede na pomen zadevnega izvajalca bistvenih storitev;
 14. je enotna kontaktna točka za zagotavljanje čezmejnega sodelovanja z ustreznimi organi drugih držav članic EU ter z mrežo skupin CSIRT in s skupino za sodelovanje, v katero prispeva svojega predstavnika;
 15. izpolnjuje druge obveznosti obveščanja Evropske komisije in skupine za sodelovanje, obveznosti obveščanja in notifikacije preostalih mednarodnih organizacij;
-16. izvaja druge naloge mednarodnega sodelovanja.
+16. izvaja druge naloge mednarodnega sodelovanja;
+17. pripravlja predloge predpisov s področja informacijske in kibernetske varnosti;
+18. izvaja naloge nacionalnega certifikacijskega organa za kibernetsko varnost.
