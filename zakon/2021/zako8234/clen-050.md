@@ -1,0 +1,4 @@
+# 50. člen (izdaja in uskladitev izvršilnih predpisov)
+(1) Predpis iz četrtega odstavka novega 148.a člena, četrtega odstavka novega 148.c člena in sedmega odstavka novega 148.d člena zakona se izda v šestih mesecih od uveljavitve tega zakona.
+(2) Uredba o metodologiji za oblikovanje najemnin v neprofitnih stanovanjih ter merilih in postopku za uveljavljanje subvencioniranih najemnin (Uradni list RS, št. 131/03, 142/04, 99/08, 62/10 - ZUPJS, 79/15 in 91/15) se uskladi s spremenjenimi 116., 118. in 121. členom zakona v šestih mesecih od uveljavitve tega zakona.
+(3) Pravilnik o upravljanju večstanovanjskih stavb (Uradni list RS, št. 60/09, 87/11 in 85/13) se uskladi z novima 25.a in 35.a členom in spremenjenimi 25., 29., 30., 33., 34., 35. in 36. členom zakona v šestih mesecih od uveljavitve tega zakona.

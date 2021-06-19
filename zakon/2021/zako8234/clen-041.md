@@ -1,0 +1,5 @@
+# 41. člen (poenoteno upravljanje)
+(1) Etažni lastniki večstanovanjske stavbe, ki imajo na dan uveljavitve tega zakona določenih več upravnikov (po vhodih), v petih letih od uveljavitve tega zakona določijo enega upravnika, ki za večstanovanjsko stavbo vzpostavi en rezervni sklad.
+(2) Če v roku iz prejšnjega odstavka etažni lastniki ne določijo upravnika za večstanovanjsko stavbo, inšpekcijski organ v skladu s 128. členom Stanovanjskega zakona (Uradni list RS, št. 69/03, 18/04 - ZVKSES, 47/06 - ZEN, 45/08 - ZVEtL, 57/08, 62/10 - ZUPJS, 56/11 - odl. US, 87/11, 40/12 - ZUJF, 14/17 - odl. US, 27/17, 59/19 in 189/20 - ZFRO) za začasnega upravnika določi enega izmed obstoječih upravnikov te večstanovanjske stavbe.
+(3) Sredstva, ki jih etažni lastniki do vzpostavitve enotnega rezervnega sklada stavbe zberejo v rezervne sklade po vhodih, se uporabijo za vzdrževanje skupnih delov teh vhodov.
+(4) Do odprtja fiduciarnega računa za sredstva rezervnega sklada za posamezno večstanovanjsko stavbo je izvršbo na sredstva, zbrana po vhodih stavbe, mogoče dovoliti le do višine sredstev, ki so jih zbrali etažni lastniki posameznega vhoda, zoper katere teče izvršba.

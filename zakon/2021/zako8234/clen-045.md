@@ -1,0 +1,5 @@
+# 45. člen (postopna uskladitev subvencije neprofitne najemnine)
+(1) Ob vsakokratni uskladitvi vrednosti točke iz prvega odstavka prejšnjega člena se uskladi tudi subvencija neprofitne najemnine tako, da se višina subvencije neprofitne najemnine preračuna z upoštevanjem usklajene vrednosti točke, pri čemer se upošteva tudi morebitni novi osnovni znesek minimalnega dohodka, ki je določen s predpisi, ki urejajo socialnovarstvene prejemke.
+(2) Pri uskladitvi subvencije neprofitne najemnine v skladu s prejšnjim odstavkom se upoštevata tudi spremenjeni najvišji delež subvencije neprofitne najemnine iz prvega odstavka spremenjenega 121. člena zakona in lokacijski faktor iz spremenjenega devetega odstavka 118. člena zakona.
+(3) Subvencija neprofitne najemnine iz tega člena se uskladi na način iz petega odstavka spremenjenega 121. člena zakona.
+(4) Lastnika stanovanja, upravičenca do subvencije neprofitne najemnine in občino center za socialno delo o novi višini subvencije neprofitne najemnine obvesti na način iz šestega odstavka spremenjenega 121. člena zakona.

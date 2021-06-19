@@ -1,0 +1,11 @@
+# 24. člen
+121. člen se spremeni tako, da se glasi:
+"121. člen
+(subvencija neprofitne najemnine)
+(1) Najemniku stanovanja, ki je upravičen do subvencionirane neprofitne najemnine, se subvencija neprofitne najemnine določi v višini razlike med neprofitno najemnino, določeno v drugem odstavku tega člena, in ugotovljenim dohodkom, zmanjšanim za minimalni dohodek in za 30 % ugotovljenega dohodka, pri čemer se pri posamezniku, ki prebiva v stanovanju sam, upošteva minimalni dohodek za samsko osebo, zvišan za 0,1 osnovnega zneska minimalnega dohodka po predpisu, ki ureja socialnovarstvene prejemke. Ugotovljeni dohodek se ugotavlja na način, kot ga za ugotavljanje upravičenosti do denarne socialne pomoči določajo predpisi, ki urejajo socialnovarstvene prejemke. Subvencija se določi največ v višini 85 % neprofitne najemnine, določene v drugem odstavku tega člena.
+(2) Za določitev subvencionirane neprofitne najemnine se pri izračunavanju višine neprofitne najemnine upošteva dejanska površina stanovanja, ki jo najemnik zaseda, vendar ne večja, kot znaša primerna površina glede na število oseb po pravilniku iz 87. člena tega zakona. Če lastnik stanovanja zaračunava nižjo najemnino, kot bi jo lahko glede na metodologijo iz 117. člena tega zakona, se subvencija izračunava od nižje najemnine.
+(3) Za izračunani znesek subvencije neprofitne najemnine lastnik stanovanja zniža najemnino najemniku, lastniku pa ta znesek povrne pristojni občinski organ.
+(4) Najemniki so do subvencije neprofitne najemnine upravičeni največ za čas enega leta.
+(5) Ob vsakokratni uskladitvi vrednosti točke v skladu s 116. členom tega zakona se subvencija neprofitne najemnine uskladi tako, da se višina subvencije neprofitne najemnine preračuna z novo vrednostjo točke, pri tem pa se upošteva tudi morebitni novi osnovni znesek minimalnega dohodka, ki je določen s predpisi, ki urejajo socialnovarstvene prejemke. Uskladitev se izvede brez izdaje nove odločbe.
+(6) Lastnika stanovanja in upravičenca do subvencije neprofitne najemnine center za socialno delo obvesti o usklajeni višini subvencije najemnine, občina pa se o usklajeni višini subvencije najemnine seznani s pomočjo modula Informacijskega sistema centrov za socialno delo.
+(7) Po preteku časa, za katerega je bila najemniku odobrena subvencionirana neprofitna najemnina, lahko ponovno zaprosi zanjo.".

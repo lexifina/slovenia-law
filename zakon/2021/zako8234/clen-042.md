@@ -1,0 +1,4 @@
+# 42. člen (upravnik, ki je etažni lastnik)
+(1) Etažni lastniki večstanovanjske stavbe, v kateri je ustanovitev rezervnega sklada obvezna in v kateri opravlja posle upravljanja eden izmed etažnih lastnikov, določijo upravnika v enem letu od uveljavitve tega zakona v skladu s spremenjenim 49. členom zakona.
+(2) Če etažni lastniki v roku iz prejšnjega odstavka ne določijo upravnika v skladu s spremenjenim 49. členom zakona, inšpekcijski organ v skladu s 128. členom Stanovanjskega zakona (Uradni list RS, št. 69/03, 18/04 - ZVKSES, 47/06 - ZEN, 45/08 - ZVEtL, 57/08, 62/10 - ZUPJS, 56/11 - odl. US, 87/11, 40/12 - ZUJF, 14/17 - odl. US, 27/17, 59/19 in 189/20 - ZFRO) določi začasnega upravnika.
+(3) Do določitve upravnika v skladu s spremenjenim 49. členom zakona se večstanovanjska stavba iz prvega odstavka tega člena upravlja po dosedanjih predpisih.
