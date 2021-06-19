@@ -1,2 +1,0 @@
-# 17. člen
-Najemnik ima pravico do povračila stroškov za popravila, ki ne gredo v njegovo breme, ter sme tudi pobotati te stroške z najemnino. Te pravice nima, če je izvršil popravilo, ne da bi bil poprej sporočil najemodajalcu, da je popravilo potrebno, in ne da bi mu dal za to primeren rok, razen v primeru, če gre za taka popravila, ki jih je treba izvršiti takoj, da ne bi prišlo do večje škode na poslovni stavbi ali poslovnem prostoru.
