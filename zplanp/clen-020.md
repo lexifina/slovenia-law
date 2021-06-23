@@ -1,0 +1,41 @@
+# 20. člen (financiranje programa usposabljanja in obnovitvenega usposabljanje, preizkusa usposobljenosti za markaciste in opravljanja skrbništva)
+
+(1) Sredstva za izvedbo programa usposabljanja in obnovitvenega usposabljanja ter preizkusa usposobljenosti za markaciste zagotavlja Republika Slovenija. Republika Slovenija pristojni planinski zvezi zagotavlja kritje stroškov izvedbe programa usposabljanja in obnovitvenega usposabljanja ter preizkusa usposobljenosti za markaciste v celoti. Sredstva iz državnega proračuna zagotavlja ministrstvo, pristojno za turizem.
+
+(2) Skrbniki so za vzdrževanje in označevanje planinskih poti v njihovi pristojnosti ter za zagotavljanje njihove nemotene in čim bolj varne uporabe upravičeni do nadomestila za stroške opravljanja skrbništva.
+
+(3) Nadomestilo iz prejšnjega odstavka zagotavlja pristojna planinska zveza, in sicer iz:
+
+1. proračunskih sredstev iz četrtega odstavka tega člena in drugih javnih sredstev, ki jih pridobi za namen svojega delovanja;
+
+2. plačil za storitve, ki jih opravlja;
+
+3. donacij, volil in daril gospodarskih in drugih subjektov oziroma sponzorjev;
+
+4. drugih virov, pridobljenih v skladu z zakonom.
+
+(4) Republika Slovenija za sofinanciranje vzdrževanja in označevanja planinskih poti s pristojno planinsko zvezo sklene neposredno pogodbo za prihodnji dve leti, za kateri je bil sprejet državni proračun. Neposredno pogodbo v imenu Republike Slovenije s pristojno planinsko zvezo sklene ministrstvo, pristojno za turizem. Nadzor nad namensko porabo sredstev iz neposredne pogodbe, ki se zagotavljajo iz državnega proračuna, skladno s predpisi, ki določajo postopke za izvrševanje državnega proračuna, izvaja ministrstvo, pristojno za turizem. Sklenjena neposredna pogodba se objavi na spletni strani pristojne planinske zveze. Vzdrževanje in označevanje planinskih poti ali delov planinskih poti na območju občine lahko sofinancira tudi občina. Občina za sofinanciranje vzdrževanja in označevanja planinskih poti ali delov planinskih poti na območju občine sklene neposredno pogodbo s pristojno planinsko zvezo na način, da ta finančna sredstva nameni za nadomestilo skrbnikom planinskih poti, ki opravljajo skrbništvo za planinske poti ali dele planinskih poti na njenem območju. V neposredni pogodbi občina določi tudi, da mora pristojna planinska zveza predstavniku občine omogočiti nadzor nad porabo sredstev, opredeljenih s to pogodbo. Sklenjena neposredna pogodba se objavi na spletni strani pristojne planinske zveze. Za sofinanciranje posameznih stroškov iz prvega stavka petega odstavka tega člena, ki so predmet sofinanciranja iz državnega proračuna, skrbnik planinskih poti ne sme prejeti sredstev iz občinskega proračuna. Pristojna planinska zveza je dolžna preverjati izpolnjevanje pogojev glede prepovedi dvojnega financiranja. Če ugotovi, da so bila skrbniku planinskih poti razporejena sredstva za iste stroške iz državnega in občinskega proračuna, je skrbnik dolžan občini povrniti vsa prejeta sredstva.
+
+(5) Sredstva iz državnega in občinskega proračuna za sofinanciranje vzdrževanja in označevanja planinskih poti se zagotavljajo za:
+
+- stroške skrbnikov in njihovih članov markacistov za material in orodje za vzdrževanje planinskih poti,
+
+- risanje markacij,
+
+- postavljanje usmerjevalnih tabel, skrinjic in varovalne opreme,
+
+- zavarovanje za odgovornost skrbnikov iz naslova skrbništva planinskih poti,
+
+- zagotavljanje in obnavljanje obrabljene osebne opreme in osebne zaščitne tehnične opreme za markaciste,
+
+- opravljanje tečaja za varno delo z motorno žago za markaciste,
+
+- povračilo stroškov za prehrano markacistov in prevoza materiala, orodja in markacistov do delovišč na planinskih poteh in
+
+- za druge stroške, ki so določeni v neposredni pogodbi.
+
+(6) Ne glede na določbe sedmega odstavka tega člena Republika Slovenija lahko v neposredni pogodbi iz četrtega odstavka tega člena določi tudi dodatne pogoje za sofinanciranje, kot so vzdrževanje in označevanje planinskih poti na ravni določenega turističnega območja ali gorske občine ali gorskega centra glede na strategijo razvoja turizma Republike Slovenije, minimalno število delovnih akcij, ki jih morajo letno opraviti skrbniki oziroma njihovi člani markacisti, prednostne naloge skrbnikov glede na obstoječe stanje planinskih poti, varovalne opreme in oznak na njih (kot so primeroma spremembe v naravi zaradi podnebnih sprememb, poškodbe zaradi naravnih in drugih nesreč in drugo), prednostne naloge skrbnikov glede na število uporabnikov planinskih poti ali druge pogoje.
+
+(7) Pristojna planinska zveza razporeja finančna sredstva, namenjena za nadomestilo iz drugega odstavka tega člena, posameznim skrbnikom sorazmerno, razen če neposredna pogodba iz tega člena določa drugače, pri čemer se upošteva dolžina in kategorija planinskih poti, za katere skrbniki opravljajo skrbništvo, ter obseg potrebnega vzdrževanja in označevanja takšnih planinskih poti in morebitne nove oziroma nadomestne gradnje.
+
+(8) Pristojna planinska zveza vodi finančna sredstva, namenjena za izplačevanje nadomestila za skrbništvo ter za vzdrževanje in označevanje planinskih poti na ločenem računu oziroma na posebnem stroškovnem mestu.
