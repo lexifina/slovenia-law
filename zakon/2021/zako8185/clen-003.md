@@ -1,0 +1,8 @@
+# 3. člen
+V 8. členu se v prvem odstavku v 3. in 4. točki besedilo "in zanj ni bil uveljavljen ali s strani davčnega organa odobren odpust plačila trošarine" črta.
+V 5. točki se vejica in besedilo "za katerega ni bil uveljavljen ali s strani davčnega organa odobren odpust plačila trošarine" črtata.
+V petem odstavku se besedilo "za katerega ni bil uveljavljen ali s strani davčnega organa odobren odpust plačila trošarine v skladu s tretjim odstavkom 18. člena tega zakona," črta.
+V šestem odstavku se besedilo "za katerega ni bil uveljavljen ali s strani davčnega organa odobren odpust plačila trošarine v skladu s tretjim odstavkom 18. člena tega zakona," črta.
+V sedmem odstavku se besedilo "za katerega ni bil uveljavljen ali s strani davčnega organa odobren odpust plačila trošarine v skladu s tretjim odstavkom 18. člena tega zakona," črta.
+Deveti odstavek se spremeni tako, da se glasi:
+"(9) Za drobno rezani tobak in cigarete, ki so na zalogi izven trošarinskega skladišča in za katere se spremeni trošarina ali drobnoprodajna cena, nastane obveznost za obračun razlike trošarine na dan, ko se zviša trošarina ali drobnoprodajna cena. Trgovec, ki ima drobno rezani tobak oziroma cigarete na zalogi izven trošarinskega skladišča, na dan pred zvišanjem trošarine oziroma drobnoprodajne cene evidentira količino drobno rezanega tobaka in cigaret, ki jih ima na zalogi, in davčnemu organu najpozneje 15. dan po zvišanju trošarine oziroma drobnoprodajne cene predloži podatke o zalogi na obračunu razlike trošarine. Trošarina se plača, če je znesek trošarine iz obračuna višji od 10 eurov. Plača se najpozneje 60. dan po opravljenem evidentiranju zalog. Minister, pristojen za finance, podrobneje določi način evidentiranja zalog in predložitve podatkov o zalogah.".

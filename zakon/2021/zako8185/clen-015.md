@@ -1,0 +1,6 @@
+# 15. člen
+V 89. členu se v prvem odstavku 3. točka spremeni tako, da se glasi:
+"3. izdelke iz tarifnih oznak od 2710 12 do 2710 19 67 in od 2710 20 11 do 2710 20 90 (samo za proizvode, katerih manj kot 90 % prostornine (vključno z izgubami) destilira pri 210 °C, 65 % prostornine ali več (vključno z izgubami) pa destilira pri 250 °C po metodi ISO 3405 (enakovredna metodi ASTM D 86)), razen za izdelke iz tarifnih oznak 2710 12 21, 2710 12 25, 2710 19 29 in 2710 20 90 (samo za proizvode, katerih manj kot 90 % prostornine (vključno z izgubami) destilira pri 210 °C, 65 % prostornine ali več (vključno z izgubami) pa destilira pri 250 °C po metodi ISO 3405 (enakovredna metodi ASTM D 86)), za katere velja nadzor samo za obsežna tržna gibanja;".
+9. točka se spremeni tako, da se glasi:
+"9. izdelke iz tarifnih oznak 3824 99 86, 3824 99 92 (razen preparatov zoper rjo, ki vsebujejo amine kot aktivne sestavine, ter anorganskih sestavljenih topil in razredčil za lake in podobne proizvode), 3824 99 93, 3824 99 96 (razen preparatov zoper rjo, ki vsebujejo amine kot aktivne sestavine, ter anorganskih sestavljenih topil in razredčil za lake in podobne proizvode), 3826 00 10 in 3826 00 90, če so namenjeni za uporabo kot gorivo za ogrevanje ali pogonsko gorivo.".
+V drugem odstavku se beseda "izdelke" nadomesti z besedilom "trda goriva".

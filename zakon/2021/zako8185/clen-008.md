@@ -1,0 +1,2 @@
+# 8. člen
+V 43. členu se v petem odstavku besedilo "2015/1754 z dne 6. oktobra 2015 o spremembi Priloge I k Uredbi Sveta (EGS) št. 2658/87 o tarifni in statistični nomenklaturi ter skupni carinski tarifi (UL L št. 285 z dne 30. 10. 2015, str. 1," nadomesti z besedilom "2020/1577 z dne 21. septembra 2020 o spremembi Priloge I k Uredbi Sveta (EGS) št. 2658/87 o tarifni in statistični nomenklaturi ter skupni carinski tarifi (UL L št. 361 z dne 30. 10. 2020, str. 1,".

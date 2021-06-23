@@ -1,0 +1,2 @@
+# 16. člen
+V 90. členu se v šestem odstavku besedilo "imetnika naprave za samooskrbo z električno energijo, ki je določen" nadomesti z besedilom "imetnike naprav za samooskrbo z električno energijo, ki so določeni", besedilo "oddano električno energijo iz naprave za samooskrbo z električno energijo, odčitano na istem merilnem mestu" pa se nadomesti z besedilom "v distribucijsko omrežje oddano električno energijo iz naprave za samooskrbo z električno energijo".

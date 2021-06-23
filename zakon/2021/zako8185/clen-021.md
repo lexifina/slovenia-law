@@ -1,0 +1,2 @@
+# 21. člen (popis polnil za elektronske cigarete)
+Osebe, ki prodajajo elektronske cigarete končnim potrošnikom ter uvozniki in trgovci na debelo, na dan 31. julija 2021 popišejo zaloge elektronskih cigaret oziroma polnil, ki ne vsebujejo nikotina in o tem sestavijo zapisnik po vrstah in količinah, obračunajo trošarino na ugotovljene zaloge in jo plačajo do 10. septembra 2021. Zapisnik o zalogah elektronskih cigaret oziroma polnil, ki vključuje tudi ugotovljen znesek trošarine, predložijo davčnemu organu do 5. avgusta 2021.
