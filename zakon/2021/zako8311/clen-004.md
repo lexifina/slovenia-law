@@ -1,0 +1,2 @@
+# 4. člen
+V 19. členu se v prvem odstavku besedilo "in o tem, da je pristojni organ na njeno željo dolžan o odvzemu prostosti obvestiti njene najbližje" nadomesti z besedilom "da je pristojni organ na njeno željo dolžan o odvzemu prostosti obvestiti njene najbližje ter da ima v državi odreditve pravico izbrati si odvetnika, ki lahko z zagotavljanjem informacij in nasvetov pomaga zagovorniku pri učinkovitem uveljavljanju njenih pravic".
