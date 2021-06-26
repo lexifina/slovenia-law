@@ -1,0 +1,3 @@
+# 5. člen
+V 50. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Vlada Republike Slovenije s koncesijskim aktom določi snope linij, standard dostopnosti, standard kakovosti, delež čistih vozil v cestnem prometu v skladu z Direktivo 2009/33/ES Evropskega parlamenta in Sveta z dne 23. aprila 2009 o spodbujanju čistih in energetsko učinkovitih vozil za cestni prevoz (UL L št. 120 z dne 15. 5. 2009, str. 5), zadnjič spremenjeno z Direktivo (EU) 2019/1161 Evropskega parlamenta in Sveta z dne 20. junija 2019 o spremembi Direktive 2009/33/ES o spodbujanju čistih in energetsko učinkovitih vozil za cestni prevoz (UL L št. 188 z dne 12. 7. 2019, str. 116), tarifo in način financiranja.".

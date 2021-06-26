@@ -1,0 +1,3 @@
+# 10. člen
+V 102. členu se trinajsti odstavek spremeni tako, da se glasi:
+"(13) Določbe enajstega in dvanajstega odstavka tega člena ne veljajo za območja prostih con iz prvega odstavka 243. člena Uredbe (EU) št. 952/2013 Evropskega parlamenta in Sveta z dne 9. oktobra 2013 o carinskem zakoniku Unije (UL L št. 269 z dne 10. 10. 2013, str. 1), zadnjič spremenjene z Uredbo (EU) 2019/632 Evropskega parlamenta in Sveta z dne 17. aprila 2019 o spremembi Uredbe (EU) št. 952/2013 zaradi podaljšanja prehodne uporabe drugih načinov obdelave podatkov poleg tehnik elektronske obdelave podatkov, določenih v carinskem zakoniku Unije (UL L št. 111 z dne 25. 4. 2019, str. 54).".
