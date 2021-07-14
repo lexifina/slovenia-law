@@ -1,0 +1,5 @@
+# 30. člen
+
+V 68. členu se tretji odstavek spremeni tako, da se glasi:
+
+»(3) Do ukrepa so upravičeni tisti delodajalci, ki jim bodo po njihovi oceni prihodki v letu 2020 zaradi epidemije ali posledic epidemije upadli za več kot 20 odstotkov glede na leto 2019. Če niso poslovali v celotnem letu 2019 oziroma 2020, so do ukrepa upravičeni tudi tisti delodajalci, ki se jim bodo povprečni mesečni prihodki v letu 2020 zaradi epidemije ali posledic epidemije znižali za več kot 20 odstotkov glede na povprečne mesečne prihodke v letu 2019. Če v letu 2019 niso poslovali, so do ukrepa upravičeni tudi tisti delodajalci, ki so bili registrirani najpozneje na dan 1. september 2020 in ki se jim bodo povprečni mesečni dohodki v letu 2020 zaradi epidemije ali posledic epidemije znižali za več kot 20 odstotkov glede na povprečne mesečne prihodke v letu 2020 do 31. avgusta 2020. Če pogoji iz tega odstavka ob predložitvi letnih poročil za leto 2020 ne bodo doseženi, upravičenec vrne prejeta sredstva na podlagi ukrepa. Če vlogo vloži delodajalec, registriran po 1. septembru 2020, ZRSZ vlogo s sklepom zavrže. Zoper sklep ni pritožbe.«.

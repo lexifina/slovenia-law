@@ -1,0 +1,17 @@
+# 112. člen (vračilo pomoči v obliki povračila dela nekritih fiksnih stroškov in način ugotavljanja upravičenosti do pomoči)
+
+(1) Šteje se, da upravičenec zaradi posledic epidemije COVID-19 ne more opravljati dejavnosti ali jo opravlja v bistveno zmanjšanem obsegu, če bodo prihodki upravičenca v upravičenem obdobju zaradi posledic epidemije COVID-19 upadli za 30 ali več odstotkov glede na isto obdobje leta 2019. Za leto 2019 se upoštevajo podatki iz poslovnih izkazov, ki so bili oddani do 31. maja 2020. Če je bil upravičenec registriran za opravljanje dejavnosti po 1. oktobru 2019, je do pomoči upravičen tisti upravičenec, ki mu bodo prihodki v upravičenem obdobju zaradi posledic epidemije COVID-19 upadli za 30 ali več odstotkov v primerjavi s povprečnimi mesečnimi prihodki od registracije do 1. septembra 2020, preračunanimi na enako obračunsko obdobje. Če pogoj iz tega odstavka ni dosežen, mora upravičenec vrniti celotno pomoč oziroma sorazmerni delež, če mu prihodki od prodaje padejo za manj kot je ocenil v vlogi, skladno s petim odstavkom 109. člena tega zakona.
+
+(2) Za upravičenca, ki ugotavlja prihodke po pravilih računovodenja, so prihodki iz prejšnjega odstavka čisti prihodki od prodaje, ugotovljeni po pravilih računovodenja.
+
+(3) Upravičena višina pomoči v obliki nekritih fiksnih stroškov se ugotavlja na osnovi podatkov, kot izhajajo iz revidiranih oziroma potrjenih računovodskih izkazov ali drugih dokazil. Če upravičenec na osnovi ocene nekritih fiksnih stroškov prejme višji znesek pomoči, kot je do njega upravičen na osnovi dejansko ugotovljenih podatkov, mora preveč prejeta sredstva vrniti.
+
+(4) Upravičenec, ki je uveljavil pomoč v obliki delnega povračila nekritih fiksnih stroškov in naknadno ugotovi, da ni izpolnjeval pogojev za njeno pridobitev ali je zahteval previsok znesek pomoči, o tem obvesti FURS najpozneje do roka za predložitev obračuna davka od odhodkov pravnih oseb za leto 2020 oziroma za obdobje, ki vključuje podatke za obdobje drugega polletja 2020, oziroma do roka za predložitev obračuna davka od dohodkov iz dejavnosti za leto 2020, in vrne znesek prejete pomoči v 30 dneh od vročitve odločbe.
+
+(5) Ne glede na prejšnji odstavek upravičenec, ki je uveljavil pomoč v obliki delnega povračila nekritih fiksnih stroškov za obdobje od 1. januarja do 30. junija 2021 in naknadno ugotovi, da ni izpolnjeval pogojev za njeno pridobitev ali je zahteval previsok znesek pomoči, o tem obvesti FURS do roka za predložitev obračuna davka od dohodkov pravnih oseb za leto 2021 oziroma za obdobje, ki vključuje podatke za obdobje drugega polletja 2021, oziroma do roka za predložitev obračuna davka od dohodkov iz dejavnosti za leto 2021, oziroma do roka za predložitev končnega obračuna po prenehanju subjekta, in vrne znesek prejete pomoči v 30 dneh od vročitve odločbe.
+
+(6) Po poteku roka za vračilo prejete pomoči, določene v četrtem odstavku tega člena, se plačajo zamudne obresti po Zakonu o predpisani obrestni meri zamudnih obresti (Uradni list RS, št. 11/07 – uradno prečiščeno besedilo).
+
+(7) Če obveznost iz naslova vračila prejete pomoči ni plačana v roku, predpisanem s tem zakonom, se prisilno izterja. Izvršbo opravi FURS po določbah zakona, ki ureja davčni postopek.
+
+(8) Nadzor nad uveljavljanjem pravic iz 109. člena tega zakona in izpolnjevanjem obveznosti iz četrtega odstavka tega člena izvaja FURS, ki za postopek nadzora smiselno uporabi zakon, ki ureja davčni postopek.

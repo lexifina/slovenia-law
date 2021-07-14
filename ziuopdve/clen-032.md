@@ -1,0 +1,17 @@
+# 32. člen
+
+Besedilo 73. člena se spremeni tako, da se glasi:
+
+»(1) Višina delnega povračila izplačanega nadomestila plače iz 71. člena tega zakona s strani Republike Slovenije znaša 80 odstotkov nadomestila plače in je omejena z višino najvišjega zneska denarnega nadomestila za primer brezposelnosti, določenega v zakonu, ki ureja trg dela. V 80 odstotkov nadomestila plače, ki ga krije Republika Slovenija, je vključeno nadomestilo plače in prispevki za vsa socialna zavarovanja (bruto I).
+
+(2) Ne glede na določbo prejšnjega odstavka je višina delnega povračila izplačanega nadomestila plače iz 71. člena tega zakona s strani Republike Slovenije, izplačane za mesec november 2020 do izteka upravičenosti, omejena z višino povprečne mesečne plače v Republiki Sloveniji. Višina delnega povračila izplačanega nadomestila plače iz 71. člena tega zakona s strani Republike Slovenije ne sme presegati 80 odstotkov vrednosti izplačanega nadomestila plače.
+
+(3) Ne glede na določbe prejšnjih odstavkov lahko znaša višina delnega povračila izplačanega nadomestila za plače iz 71. člena tega zakona s strani Republike Slovenije, izplačane za mesec november 2020 do izteka upravičenosti, 100 odstotkov za delodajalce, pri katerih skupni znesek javnih sredstev, prejetih skladno s točko 3.1 Sporočila Komisije Začasni okvir za ukrepe državnih pomoči v podpro gospodarstvu ob izbruhu COVID-19 (UL C št. 91 I z dne 20. 3. 2020, str. 1, sprememba UL C št. 112 I z dne 4. 4. 2020 str. 1, sprememba UL C št. 164 z dne 13. 5. 2020, str. 3, sprememba UL V 2018 z dne 2. 7. 2020, str. 3 in sprememba UL C št. 340 I z dne 13. 10. 2020, str. 1. (v nadaljnjem besedilu tega člena: Sporočilo Komisije Začasni okvir za ukrepe državnih pomoči), ni presegel 800.000 eurov na posamezno podjetje, pri čemer se v maksimalno določen znesek všteva tudi pomoč, ki jo bo prejel do konca upravičenosti po tem zakonu. Vsi navedeni zneski morajo biti izraženi kot bruto zneski pred odbitkom davkov ali drugih dajatev. Višina delnega povračila izplačanega nadomestila plače, izplačane za mesec november 2020 do izteka upravičenosti, je omejena z višino povprečne mesečne plače v Republiki Sloveniji. V 100 odstotkov povračila nadomestila plače, ki ga krije Republika Slovenija, je vključeno nadomestilo plače in prispevki za vsa socialna zavarovanja (bruto I).
+
+(4) Delodajalec vlogi za uveljavitev povračila izplačanega nadomestila plače iz prejšnjega odstavka predloži izjavo, da iz naslova državnih pomoči po interventnih zakonih ni oziroma ne bo presegel 800.000 eurov na posamezno podjetje, za katero kazensko in materialno odgovarja. Delodajalec se pri uveljavitvi pravice odloči, ali bo uveljavljal povračilo izplačanega nadomestila plače v višini 100 odstotkov ali 80 odstotkov, in sicer pri oddaji vloge preko ZRSZ.
+
+(5) Delodajalec upravičenost delnega povračila izplačanega nadomestila za plače iz 71. člena tega zakona s strani Republike Slovenije dokazuje z dokazilom iz tretjega odstavka 74. člena tega zakona in izjavo iz prejšnjega odstavka.
+
+(6) Delodajalec, ki je neposredni ali posredni uporabnik proračuna Republike Slovenije oziroma proračuna občine, katerega delež prihodkov iz javnih virov je bil v letu 2019 nižji od 70 odstotkov, lahko uveljavlja povračilo izplačanega nadomestila plače le v višini deleža, ki je enak deležu njegovih prihodkov iz nejavnih virov.
+
+(7) Ne glede na določbo prvega odstavka 78. člena tega zakona se ukrep iz tretjega odstavka tega člena izvaja v skladu s točko 3.1 Sporočila Komisije Začasni okvir za ukrepe državnih pomoči.«.

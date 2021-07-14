@@ -1,0 +1,5 @@
+# 106. člen (postopek izplačila)
+
+(1) Ne glede na prvi in drugi odstavek 95. člena ZZUOOP za povračilo delno izgubljenega dohodka, upravičenec iz 104. člena tega zakona, preko informacijskega sistema Finančne uprave Republike Slovenije (v nadaljnjem besedilu: FURS), predloži vlogo, v 30 dneh od vročitve odločbe o karanteni ali potrdilo, ki ga izda pristojni organ, oziroma pridobitve drugega ustreznega dokazila, da je nastopila druga zunanja objektivna okoliščina nezmožnosti obiskovanja vrtca ali šole, vendar najpozneje do 31. decembra 2020.
+
+(2) FURS za izvajanje nalog v zvezi z povračilom delno izgubljenega dohodka pridobiva, uporabi in obdeluje podatke iz izdanih odločb o odrejeni karanteni iz zbirk osebnih podatkov ministrstva, pristojnega za zdravje, ali potrdil, ki jih izdajo pristojni organi. V primeru vloge za povračilo delno izgubljenega dohodka zaradi druge zunanje objektivne okoliščine nezmožnosti obiskovanja vrtca ali šole je upravičenec dolžan priložiti vlogi ustrezno dokazilo o nastanku in trajanju druge zunanje objektivne okoliščine.

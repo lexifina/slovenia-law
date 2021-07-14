@@ -1,0 +1,3 @@
+# 41. člen
+
+V 121. členu se prvi stavek spremeni tako, da se glasi: »Nadomestilo za izvajalce občasnega prevoza in izvajalce posebnega linijskega prevoza iz 119. člena tega zakona se odobri v skladu s Sporočilom Komisije Začasni okvir za ukrepe državne pomoči v podporo gospodarstvu ob izbruhu COVID-19 (UL C št. 91 I z dne 20. 3. 2020, str. 1), zadnjič spremenjenim s Četrto spremembo začasnega okvira za ukrepe državne pomoči v podporo gospodarstvu ob izbruhu COVID-19 in spremembo Priloge k Sporočilu Komisije državam članicam o uporabi členov 107 in 108 Pogodbe o delovanju Evropske unije za kratkoročno zavarovanje izvoznih kreditov (UL C št. 340 I z dne 13. 10. 2020, str. 1).«.
