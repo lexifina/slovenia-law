@@ -1,0 +1,5 @@
+# 11. člen
+V 161. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Agencija v register iz 157. člena tega zakona vpiše vse revizorje in revizijske subjekte tretjih držav, ki pripravijo revizorjevo poročilo o posamičnih ali konsolidiranih računovodskih izkazih družbe, ki je registrirana zunaj Evropske unije in katere prenosljivi vrednostni papirji so sprejeti v trgovanje na slovenskem organiziranem trgu, razen kadar je družba izdajatelj izključno nedospelih dolžniških vrednostnih papirjev, za katere velja eno od naslednjega:
+- v trgovanje na slovenskem organiziranem trgu so bili sprejeti do vključno 31. decembra 2010 in njihova nominalna vrednost na enoto je na dan izdaje najmanj 50.000 eurov ali v primeru dolžniških vrednostnih papirjev, nominiranih v drugi valuti, enakovredna najmanj 50.000 eurov,
+- v trgovanje na slovenskem organiziranem trgu so bili sprejeti od vključno 1. januarja 2011 in njihova nominalna vrednost na enoto je na dan izdaje najmanj 100.000 eurov ali v primeru dolžniških vrednostnih papirjev, nominiranih v drugi valuti, enakovredna najmanj 100.000 eurov.".

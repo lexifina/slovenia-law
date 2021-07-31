@@ -1,0 +1,2 @@
+# 1. člen
+V Zakonu o revidiranju (Uradni list RS, št. 65/08, 63/13 - ZS-K in 84/18) se v 3. členu v 44. točki besedilo "zavarovalnica in pokojninska družba, kot ju opredeljuje zakon, ki ureja zavarovalništvo" nadomesti z besedilom "zavarovalnica, kot jo opredeljuje zakon, ki ureja zavarovalništvo, in pokojninska družba, kot jo opredeljuje zakon, ki ureja pokojninske družbe" in v drugem stavku za besedo "reviziji" doda besedilo "po kriterijih zakona, ki ureja gospodarske družbe".
