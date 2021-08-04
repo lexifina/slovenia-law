@@ -1,0 +1,5 @@
+# 6. člen (pogoji za izplačilo dodatka)
+
+(1) Pravico do izplačila dodatka upravičenec uveljavlja z vlogo za izplačilo dodatka pri Zavodu za pokojninsko in invalidsko zavarovanje Slovenije (v nadaljnjem besedilu: Zavod). Vlogi mora priložiti odločbo iz prvega odstavka 5. člena tega zakona, podatke o tem, ali je uživalec pokojnine iz tujine, če je z državo, iz katere prejema pokojnino, sklenjena mednarodna pogodba ali če ta država priznava pravico do izplačevanja pokojnine v tujino državljanom Republike Slovenije ter o višini pokojnine iz tujine.
+
+(2) Pravico do izplačila dodatka pridobi upravičenec, ko pridobi pravico do starostne ali invalidske pokojnine po splošnih predpisih ali ko se mu prične izplačevati pokojnina iz tujine, oziroma od prvega naslednjega dne po vložitvi vloge za priznanje dodatka, če je vloga vložena potem, ko je že pridobil pravico do starostne ali invalidske pokojnine po splošnih predpisih oziroma po pričetku izplačevanja pokojnine iz tujine, če je ob pridobitvi pravice do pokojnine po splošnih predpisih oziroma ob začetku izplačevanja pokojnine iz tujine državljan Republike Slovenije.
