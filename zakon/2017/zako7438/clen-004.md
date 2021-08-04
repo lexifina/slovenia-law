@@ -22,3 +22,4 @@
 - za lasten račun in pod lastnim vodstvom na podlagi sklenjene pogodbe z naročnikom storitve,
 - na podlagi akta o napotitvi v povezano gospodarsko družbo ali
 - v okviru opravljanja dejavnosti zagotavljanja dela delavcev uporabniku.
+(7) Uporabnik lahko čezmejno izvaja storitve tudi z delavci, ki so bili k njemu napoteni na podlagi dogovora z delodajalcem za zagotavljanja dela, pod pogojem, da je med delodajalcem za zagotavljanje dela in delavcem ves čas trajanja napotitve ohranjeno delovno razmerje. Pri tem se šteje, da je delavca na kraj opravljanja dela, kjer storitev izvaja uporabnik, napotil delodajalec za zagotavljanje dela.

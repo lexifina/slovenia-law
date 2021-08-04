@@ -1,2 +1,0 @@
-# 29. člen (Zakon o zaposlovanju, samozaposlovanju in delu tujcev)
-V Zakonu o zaposlovanju, samozaposlovanju in delu tujcev (Uradni list RS, št. 47/15) z dnem uveljavitve tega zakona prenehajo veljati prva alineja 3. člena, 35. člen, besedilo ", delodajalcu iz prvega odstavka 35. člena tega zakona" v napovednem stavku prvega odstavka 42. člena, besedilo ", 56." v prvi alineji prvega odstavka 42. člena, tretji odstavek 45. člena, četrta alineja prvega odstavka 47. člena, četrti odstavek 48. člena, 56., 57. in 64. člen, uporabljajo pa se do začetka uporabe tega zakona.
