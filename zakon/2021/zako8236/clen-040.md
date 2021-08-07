@@ -1,0 +1,6 @@
+# 40. člen (lastništvo in upravljanje naprave za samooskrbo)
+(1) Napravo za samooskrbo ima lahko v lasti ali jo upravlja tudi tretja oseba, ki s končnim odjemalcem s samooskrbo sklene pogodbo, v kateri se uredijo tudi pravice in obveznosti tretje osebe in končnega odjemalca glede upravljanja naprave, kar obsega zlasti namestitev naprave, njeno obratovanje vključno z meritvami in vzdrževanje.
+(2) Tretja oseba se ne šteje za končnega odjemalca s samooskrbo.
+(3) Tretja oseba lahko vstopi v podporno shemo v soglasju s končnim odjemalcem.
+(4) Ne glede na določbo prejšnjega odstavka lahko tretja oseba, ki ima v lasti napravo za skupnostno samooskrbo, izjemoma prodaja proizvedeno električno energijo iz naprave za samooskrbo v delu, ki ni razdeljen med člane skupnostne samooskrbe.
+(5) Upravljavec stavbe v lasti Republike Slovenije ali občine se lahko odloči, da na strehi in drugih potrebnih delih stavbe ustanovi služnost postavitve naprave za proizvodnjo električne energije iz obnovljivih virov v korist tretje osebe, ki napravo zgradi in z njo obratuje. Služnost se ustanovi v skladu z zakonom, ki ureja stvarno premoženje države in samoupravnih lokalnih skupnosti. Določbe tega člena se uporabljajo tudi za upravljavca proizvodne naprave iz tega odstavka.

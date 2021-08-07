@@ -1,0 +1,4 @@
+# 88. člen (prenehanje veljavnosti in podaljšanje uporabe splošnih aktov)
+(1) Z dnem uveljavitve tega zakona preneha veljati Akt o vodenju registra potrdil o izvoru električne energije (Uradni list RS, št. 204/20), ki se še naprej uporablja do uveljavitve splošnega akta iz sedmega odstavka 13. člena tega zakona.
+(2) Z dnem uveljavitve tega zakona preneha veljati Akt o prispevkih za zagotavljanje podpor za proizvodnjo električne energije iz obnovljivih virov energije in v soproizvodnji z visokim izkoristkom (Uradni list RS, št. 56/15), ki se še naprej uporablja do uveljavitve splošnega akta za izvajanje javnih pooblastil iz tretjega odstavka 17. člena tega zakona.
+(3) Z dnem uveljavitve tega zakona preneha veljati Navodilo za vodenje in upravljanje Registra fizičnih oseb, ki opravljajo dejavnost proizvodnje električne energije (Uradni list RS, št. 45/14), ki se še naprej uporablja do uveljavitve splošnega akta iz desetega odstavka 29. člena tega zakona.

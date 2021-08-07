@@ -1,0 +1,18 @@
+## 1. Upravičenost do podpore, sredstva in izvajanje podporne sheme
+# 15. člen (upravičenost do podpore)
+(1) Če stroški proizvodnje električne energije iz obnovljivih virov ali iz soproizvodnje z visokim izkoristkom, plinastih goriv, toplote za ogrevanje in hlajenje ter pogonskih tekočih in plinastih biogoriv iz obnovljivih virov energije, odvečne toplote in vodika, vključno z normalnim tržnim donosom na vložena sredstva, presegajo ceno energije, ki jo je za tovrstno energijo mogoče doseči na trgu, se proizvajalcem za to energijo iz naprav z veljavno deklaracijo lahko dodelijo podpore. Višina podpore se določi po načelu stroškovne učinkovitosti, da se zagotavljata spodbujanje rabe obnovljivih virov energije in učinkovita raba energije. Pri določitvi načinov spodbujanja in višine podpor se lahko upoštevajo tudi drugi vidiki, kot so socialni vidik, varovanje okolja, predvsem zmanjševanje izpustov, ohranjanje kulturne dediščine, ohranjanje narave, uporaba naravnih materialov ter spodbujanje zaposlovanja, tehnološke nevtralnosti in regionalnega razvoja. Pri določitvi načinov spodbujanja in višine podpor je spodbuda za demonstracijske projekte lahko večja.
+(2) Podpore se lahko namenjajo za proizvodne naprave, ki izpolnjujejo naslednje pogoje moči:
+- za proizvodnjo električne energije iz obnovljivih virov energije, ki ne presegajo 10 MW nazivne električne moči, razen za proizvodne naprave za izrabo vetrne energije, ki ne presegajo 50 MW;
+- za proizvodnjo električne energije v soproizvodnji z visokim izkoristkom, ki ne presegajo 10 MW nazivne električne moči.
+(3) Upravičenje za uveljavljanje pravice do podpore iz prejšnjega odstavka se pridobi v okviru konkurenčnega postopka iz 23. člena. Ne glede na določbe prejšnjega stavka se lahko za proizvodne naprave z močjo, manjšo od 500 kW, podpora podeli neposredno.
+(4) Podpore se lahko namenjajo tudi za:
+a) naprave, ki izkoriščajo obnovljive vire energije za proizvodnjo plinastih goriv;
+b) vodikove proizvodne naprave;
+c) naprave, ki za proizvodnjo toplote za distribucijo v sistemu daljinskega ogrevanja in hlajenja izkoriščajo energijo iz obnovljivih virov ali odvečno toploto, vključno z napravami, ki se dodatno namestijo k obstoječemu daljinskemu sistemu z namenom, da sistem postane učinkovit v smislu 45. točke prvega odstavka 3. člena tega zakona;
+č) naprave, ki izkoriščajo energijo iz obnovljivih virov za proizvodnjo dela toplote in hladu ali izkoriščajo odvečno toploto v učinkovitih daljinskih sistemih, ki presega zahteve učinkovitosti v smislu 45. točke prvega odstavka 3. člena tega zakona;
+d) naprave, ki izkoriščajo energijo iz obnovljivih virov za proizvodnjo pogonskih tekočih in plinastih biogoriv;
+e) naprave, ki kombinirajo proizvodnjo električne energije iz obnovljivih virov energije in hranilnike električne energije;
+f) naprave, ki izkoriščajo energijo iz obnovljivih virov za proizvodnjo toplote za ogrevanje in hlajenje v proizvodnem procesu.
+(5) Podpore iz prejšnjega odstavka se upravičencem podeljujejo neposredno.
+(6) Podpora ne sme omogočati prejemniku, da so prihodki v zvezi z obratovanjem naprave za proizvodnjo energije, za katero prejema podporo, večji od stroškov vključno z normalnim tržnim donosom na vložena sredstva iz prvega odstavka tega člena. Če prejemnik podpore prejme tudi drugo državno pomoč, se podpora energiji iz te naprave zmanjša v odvisnosti od zneska prejete pomoči.
+(7) Podpora se lahko neposredno podeli tudi za proizvodne naprave, ki so že bile uvrščene v podporno shemo in jim je pravica do podpore prenehala, vendar še ni poteklo obdobje, v katerem se podpora lahko izvaja.

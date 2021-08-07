@@ -1,0 +1,3 @@
+# 48. člen (ocena možnosti na področju uporabe energije iz obnovljivih virov v sektorju ogrevanja in hlajenja)
+(1) Ministrstvo po preučitvi lokalnih energetskih konceptov in posvetovanju z občinami izdela oceno možnosti na področju energije iz obnovljivih virov ter uporabe odvečne toplote in odvečnega hladu v sektorju ogrevanja in hlajenja, ki po potrebi vključuje prostorsko analizo okoljsko sprejemljivih območij in degradiranih območij ter možnosti za uporabo manjših projektov za gospodinjstva.
+(2) Ocena iz prejšnjega odstavka se vključi v celovito oceno možnosti za uporabo soproizvodnje z visokim izkoristkom ter učinkovito daljinsko ogrevanje in hlajenje ter analizo stroškov in koristi, ki jo pripravi ministrstvo v skladu z zakonom, ki ureja učinkovito rabo energije.

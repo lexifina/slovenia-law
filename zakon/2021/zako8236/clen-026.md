@@ -1,0 +1,5 @@
+# 26. člen (pogodba o zagotavljanju podpore)
+(1) Center za podpore najpozneje v 15 dneh, ko je obveščen o vročitvi odločbe o dodelitvi podpore, upravičencu pošlje pogodbo v podpis. S pogodbo o zagotavljanju podpore se urejajo pravice in obveznosti prejemnika podpore, predvideni obseg proizvedene energije in medsebojno obveščanje. Če pogodba o zagotavljanju podpore ni v skladu z odločbo, se glede neusklajenih vprašanj uporablja odločba. Če se odločba o dodelitvi podpore spremeni, center za podpore pozove prejemnika k sklenitvi nove pogodbe o zagotavljanju podpore.
+(2) Če prejemnik podpore v enem mesecu, ko je pozvan k sklenitvi pogodbe o zagotavljanju podpore, ne sklene pogodbe in tega ne stori niti v dodatnem roku, ki ne sme biti krajši od 15 dni, ni več upravičen do podpore.
+(3) Pogodba o zagotavljanju podpore preneha veljati z dnem, ko preneha veljati odločba o dodelitvi podpore.
+(4) Če agencija prejemniku podpore z odločbo odvzame pravico do nje, mora center za podpore prenehati izplačevati podporo z dnem, ko je obveščen o opravljeni vročitvi odločbe, s katero je bila podpora odvzeta.
