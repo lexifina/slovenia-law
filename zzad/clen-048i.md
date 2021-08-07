@@ -1,0 +1,9 @@
+# 48.i člen
+
+Na podlagi pogodbe o združitvi, pogodbe o delitvi in prevzemu ali delitvenega načrta pridobi vsak član prevzete ali prenosne zadruge najmanj en delež v prevzemni ali novi zadrugi.
+
+Kadar imajo člani v vseh zadrugah, ki so udeležene pri združitvi, po prenehanju članstva zunaj stečaja ali likvidacije pravico do vračila vrednosti deležev brez udeležbe pri prostovoljnih skladih, se sme menjalno razmerje določiti izključno na podlagi nominalne vrednosti deležev brez upoštevanja rezerv in drugih postavk lastnega kapitala.
+
+Menjalno razmerje deležev ob združitvi ali delitvi zadruge ne sme biti določeno tako, da bi bilo s tem zmanjšano premoženje, ki ga po določbah 74. člena tega zakona ni dovoljeno razdeliti med člane.
+
+Ob smiselni uporabi določb zakona, ki ureja gospodarske družbe in se nanašajo na učinke pravnomočnih sodnih odločb in poravnav v zvezi s preizkusom menjalnega razmerja in na obrestovanje dodatnih doplačil, sme prevzemna zadruga ali nova zadruga na podlagi pravnomočne sodne odločbe ali poravnave, namesto dodatnih denarnih doplačil, pripisati znesek teh doplačil skupaj z obrestmi h knjigovodski vrednosti vseh deležev posameznega člana v prevzemni zadrugi ali novi zadrugi, če še niso bili v celoti vplačani.

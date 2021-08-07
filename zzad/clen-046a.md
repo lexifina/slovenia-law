@@ -1,0 +1,29 @@
+## V.A ZADRUGE S POSEBNIM POMENOM
+
+# 46.a člen
+
+Zadrugi se podeli status zadruge s posebnim pomenom na področju na katerem deluje, če delovanje zadruge na določenem področju presega interese njenih ustanoviteljev oziroma njenih članov in ima zadruga na svojem geografskem območju poseben pomen. Geografsko območje je lahko območje občin, regij ali drugih naravno zaokroženih območij. Posebni pomen na svojem geografskem območju zadruga izkazuje na področju razvoja in promocije zadružništva, povezovanja, družbene odgovornosti, zelene ekonomije, inovacij, pametnih tehnologij, samooskrbe, celostne oskrbe, trajnostnih pristopov, verig vrednosti, konkurenčnosti, krožnega gospodarstva, varovanja narave, tradicije ali zagotavljanja družbenih oziroma drugih storitev za oživitev in ohranjanje svojega geografskega območja.
+
+Zadrugi se podeli status zadruge s posebnim pomenom, če:
+
+1. deluje najmanj dve leti pred vložitvijo vloge za podelitev statusa;
+
+2. izkaže pomembnejše dosežke svojega delovanja na področju razvoja in promocije zadružništva, povezovanja, družbene odgovornosti, zelene ekonomije, inovacij, pametnih tehnologij, samooskrbe, celostne oskrbe, trajnostnih pristopov, verig vrednosti, konkurenčnosti, krožnega gospodarstva, varovanja narave, tradicije, ali zagotavljanja družbenih oziroma drugih storitev za oživitev in ohranjanje svojega geografskega območja in sicer v dveh letih pred vložitvijo vloge;
+
+3. izkaže delovanje na določenem geografskem območju;
+
+4. ima izdelan najmanj dveletni program prihodnjega delovanja, ki vsebuje izvajanje dejavnosti, ki imajo poseben pomen na določenem področju iz prejšnjega odstavka;
+
+5. ji ni bila pravnomočna izrečena sankcija globe za hujši davčni prekršek ali prekršek na davčnem področju, katerega narava je posebno huda, in ni bila pravnomočno obsojena zaradi storitve kaznivega dejanja;
+
+6. nad njo ni začet stečajni postopek ali postopek likvidacije.
+
+O podelitvi statusa zadruge s posebnim pomenom na določenem področju odloči ministrstvo, pristojno za področje na katerem zadruga deluje, oziroma na področju, na katerem zadruga pretežno deluje.
+
+Če zadruga s posebnim statusom zaprosi za podelitev statusa zadruge s posebnim pomenom na več področjih, ki so v pristojnosti več ministrstev, o podelitvi statusa odloči ministrstvo, pristojno za področje, na katerem zadruga pretežno deluje, po predhodnem soglasju ministrstev, pristojnih za preostala področja.
+
+Če zadruga, ki že ima status zadruge s posebnim pomenom na določenem področju, zaprosi za podelitev statusa še na drugem področju, ki je v pristojnosti drugega ministrstva, o podelitvi statusa še na drugem področju odloči ministrstvo, ki je zadrugi že podelilo status zadruge s posebnim pomenom, po predhodnem soglasju ministrstva, pristojnega za drugo področje.
+
+O pritožbi zoper odločbo pristojnega ministrstva o podelitvi statusa zadruge s posebnim pomenom odloča Vlada Republike Slovenije.
+
+Ministri, pristojni za področja, na katerih zadruge delujejo, podrobneje določijo geografska območja na katerih zadruga deluje in kriterije za izpolnjevanje pogojev iz drugega odstavka tega člena, če kriteriji niso določeni s tem zakonom.

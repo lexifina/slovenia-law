@@ -1,0 +1,7 @@
+# 60. člen
+
+V podjetjih iz 57. člena tega zakona se po olastninjenju 45% vrednosti družbenega kapitala najprej opravi razdelitev navadnih delnic do 20% celotne vrednosti družbenega kapitala v skladu z zakonom o lastninskem preoblikovanju podjetij. Preostali del družbenega kapitala podjetja pa lahko v celoti ali deloma odkupijo pri podjetju ali zadružnem upravičencu zaposleni, bivši zaposleni oziroma upokojeni delavci, člani zadružnih upravičencev, zadružni upravičenci oziroma kooperanti, če se za tak odkup s programom preoblikovanja odloči organ upravljanja podjetja.
+
+Kupnina iz prejšnjega odstavka oziroma neodkupljene delnice se prenesejo Skladu Republike Slovenije za razvoj (v nadaljnjem besedilu: sklad), ki jih razdeli skladom po zakonu o lastninskem preoblikovanju podjetij.
+
+Če se organ upravljanja podjetja ne odloči za odkup iz prvega odstavka tega člena, se preostali del družbenega kapitala lastnini v skladu z zakonom o lastninskem preoblikovanju podjetij.

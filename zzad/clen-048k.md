@@ -1,0 +1,3 @@
+# 48.k člen
+
+Tožbo za uveljavitev odškodninskih zahtevkov proti članom upravnega in nadzornega odbora ali predsedniku prevzete zadruge zaradi škode, ki jo je pripojitev povzročila prevzeti zadrugi in njenim članom ter upnikom, lahko vloži samo posebni zastopnik, ki te zahtevke uveljavlja za račun vseh članov in vseh upnikov in ga sodišče imenuje na predlog člana prevzete zadruge ali upnika, ki ima pravico zahtevati zavarovanje, pa mu ga prevzemna zadruga ni zagotovila.

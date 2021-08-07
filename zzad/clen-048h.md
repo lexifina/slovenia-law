@@ -1,0 +1,5 @@
+# 48.h člen
+
+Člani zadrug, ki so udeležene pri združitvi ali delitvi, se lahko zapisniško odpovedo uporabi določb o pisnem poročilu upravnega odbora ali reviziji združitve ali delitve na zasedanju občnega zbora ali dajo izjavo o tej odpovedi v obliki notarskega zapisa zunaj občnega zbora, če nobena od udeleženih zadrug nima premoženja, ki ga po določbah 74. člena tega zakona ni dovoljeno razdeliti med člane, kar morajo člani vsake zadruge, ki je udeležena pri združitvi ali delitvi, posebej potrditi v pisni izjavi o odpovedi. Odpoved člana je neveljavna, če se najde tako premoženje.
+
+Ne glede na prvi odstavek tega člena je revizija obvezna, če so sredstva in obveznosti do virov sredstev, ki preidejo zaradi združitve ali delitve na novo ali prevzemno zadrugo, ovrednoteni po stanju na dan obračuna združitve ali delitve.

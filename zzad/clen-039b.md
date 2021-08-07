@@ -1,0 +1,9 @@
+# 39.b člen
+
+Zadružna pravila lahko določijo, da lahko član zadruge s pisnim sporazumom prenese na drugo osebo enega ali več članskih deležev ali zmanjša število članskih deležev, ne da bi uveljavil proti zadrugi pravico do plačila teh deležev, če prenesene deleže pridobi oseba, ki je že članica zadruge ali je sprejeta v članstvo zadruge, preneseni deleži pa skupaj z deleži, ki jih pridobitelj morebiti že ima, ne presegajo največje pridobiteljeve dopustne udeležbe v kapitalu zadruge.
+
+Prenos deležev iz prejšnjega odstavka nima pravnega učinka, če mora član na podlagi zadružnih pravil ali pogodbe imeti več deležev zadruge ali je bila udeležba z več deleži pogoj za storitve zadruge temu članu, prenos deležev pa je v nasprotju s takšno obveznostjo člana.
+
+Za pridobitev deležev na podlagi prenosa iz prejšnjega odstavka mora pridobitelj podpisati izjavo, katere vsebina ustreza pristopni izjavi iz prvega in drugega odstavka 8. člena tega zakona. Izjava je lahko sestavni del pisnega sporazuma iz prvega odstavka tega člena. Glede sprejema izjave se uporabljajo določbe tretjega odstavka 8. člena tega zakona.
+
+Če je v roku za izplačilo deleža iz drugega odstavka 39. člena v članstvo zadruge sprejet dedič umrlega člana oziroma univerzalni pravni naslednik člana, ki je bil pravna oseba in je prenehal kot pravna oseba, lahko na zahtevo, ki jo kot član zadruge poda dedič umrlega člana ali univerzalni pravni naslednik nekdanjega člana, upravni odbor zadruge oziroma predsednik zadruge, če zadruga nima upravnega odbora, podaljša rok za vplačilo deleža do zapadlosti terjatve za izplačilo deleža, vendar ne več kot za znesek, ki pripada temu dediču oziroma univerzalnemu pravnemu nasledniku na podlagi deleža njegovega pravnega prednika.

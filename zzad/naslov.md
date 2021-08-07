@@ -1,0 +1,3 @@
+ZAKON
+
+o zadrugah (ZZad)
