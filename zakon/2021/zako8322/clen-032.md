@@ -1,0 +1,5 @@
+## PREHODNE IN KONČNA DOLOČBA
+# 32. člen (uskladitev predpisov)
+(1) Vlada v šestih mesecih od uveljavitve tega zakona z njim uskladi Uredbo o posebnih denarnih nagradah ob sklenitvi in podaljšanju pogodbe o zaposlitvi v Slovenski vojski (Uradni list RS, št. 73/19), Uredbo o plačah in drugih prejemkih pripadnikov Slovenske vojske pri izvajanju obveznosti, prevzetih v mednarodnih organizacijah oziroma z mednarodnimi pogodbami (Uradni list RS, št. 67/08, 98/10, 41/12, 41/13, 47/13, 96/14, 98/15, 25/17, 12/18 in 20/19) in Pravila službe v Slovenski vojski (Uradni list RS, št. 84/09).
+(2) Minister v šestih mesecih od uveljavitve tega zakona z njim uskladi Pravilnik o štipendiranju v Slovenski vojski (Uradni list RS, št. 50/08, 89/09, 53/17, 30/19 in 93/20).
+(3) Minister v šestih mesecih od uveljavitve tega zakona določi kriterije in postopek ugotavljanja primerljivosti iz spremenjenega šestnajstega odstavka 49. člena in izda predpise iz novega četrtega odstavka 20. člena, spremenjenega sedmega odstavka 76. člena, novega devetega odstavka 80. člena in novega tretjega odstavka 90. člena zakona.

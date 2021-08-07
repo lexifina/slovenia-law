@@ -1,0 +1,6 @@
+# 28. člen
+Za 89. členom se doda nov 89.a člen, ki se glasi:
+"89.a člen
+(pravice nezaposlenega zakonca)
+(1) Nezaposlenega zakonca in zakonca med suspenzom pogodbe o zaposlitvi, se prostovoljno vključi v obvezno pokojninsko in invalidsko zavarovanje za čas pripadnikovega dela v tujini, če z njim biva v tujini in je bil do odhoda v tujino v delovnem razmerju, samozaposlen ali prijavljen na zavodu za zaposlovanje več kot šest mesecev. Prostovoljna vključitev v obvezno pokojninsko in invalidsko zavarovanje se ne glede na določbe zakona, ki ureja pokojninsko in invalidsko zavarovanje, šteje kot pokojninska doba brez dokupa. Sredstva za plačilo in revalorizacijo prispevkov za pokojninsko in invalidsko zavarovanje, zavarovanje za starševsko varstvo in zavarovanje za primer brezposelnosti se zagotovijo v proračunu.
+(2) Zakonec pripadnika iz prejšnjega odstavka, ki s pripadnikom biva v tujini, ima za čas bivanja s pripadnikom v tujini, v skladu z zakonom, ki ureja delovna razmerja, pravico do suspenza pogodbe o zaposlitvi. Med suspenzom pogodbe o zaposlitvi mirujejo pogodbene in druge pravice ter obveznosti iz delovnega razmerja, ki so neposredno povezane z opravljanjem dela. Med suspenzom pogodbe o zaposlitvi delodajalec ne sme odpovedati pogodbe o zaposlitvi, razen če so dani razlogi za izredno odpoved ali če je uveden postopek za prenehanje delodajalca.".
