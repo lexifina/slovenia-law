@@ -1,7 +1,1 @@
-# 377. člen (zagotavljanje sredstev za podpore električni energiji iz obnovljivih virov in soproizvodnje z visokim izkoristkom)
-Sredstva za izvajanje programov podpor se centru za podpore zagotovijo s:
-- prispevkom za zagotavljanje podpor proizvodnji električne energije v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije, ki ga mora plačevati vsak končni odjemalec električne energije, zemeljskega plina in drugih energetskih plinov iz omrežja in daljinske toplote, za posamezno prevzemno-predajno mesto,
-- prispevkom za zagotavljanje podpor proizvodnji električne energije v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije, ki bremeni trda in tekoča fosilna goriva, utekočinjen naftni plin ter utekočinjen zemeljski plin, katerega plačuje vsak končni odjemalec dobavitelju,
-- prodajo električne energije, ki jo center za podpore odkupi po zagotovljeni odkupni ceni,
-- proračunskimi viri, če se za podpiranje električne energije iz soproizvodnje z visokim izkoristkom in iz obnovljivih virov energije oblikujejo posebna namenska proračunska postavka in določijo namenski proračunski prihodki,
-- sredstvi Sklada za podnebne spremembe, ustanovljenega na podlagi Zakona o varstvu okolja (Uradni list RS, št. 39/06 - uradno prečiščeno besedilo, 49/06 - ZMetD, 66/06 - odločba US, 33/07 - ZPNačrt, 57/08 - ZFO-1A, 70/08, 108/09, 108/09 - ZPNačrt-A, 48/12, 57/12 in 92/13).
+# 377. člen (prenehal veljati)

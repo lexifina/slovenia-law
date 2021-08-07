@@ -3,11 +3,11 @@
 - Direktiva 2009/72/ES Evropskega parlamenta in Sveta z dne 13. julija 2009 o skupnih pravilih notranjega trga z električno energijo in o razveljavitvi Direktive 2003/54/ES (UL L št. 211 z dne 14. 8. 2009, str. 55; v nadaljnjem besedilu: Direktiva 2009/72/ES),
 - Direktiva 2009/73/ES Evropskega parlamenta in Sveta z dne 13. julija 2009 o skupnih pravilih notranjega trga z zemeljskim plinom in o razveljavitvi Direktive 2003/55/ES (UL L št. 211 z dne 14. 8. 2009, str. 94; v nadaljnjem besedilu: Direktiva 2009/73/ES),
 - Direktiva Evropskega parlamenta in Sveta 2005/89/ES o ukrepih za zagotavljanje zanesljivosti oskrbe z električno energijo in naložb v infrastrukturo (UL L št. 33 z dne 18. 1. 2006, str. 22; v nadaljnjem besedilu: Direktiva 2005/89/ES),
-- Direktiva 2009/28/ES Evropskega parlamenta in Sveta z dne 23. aprila 2009 o spodbujanju uporabe energije iz obnovljivih virov, spremembi in poznejši razveljavitvi direktiv 2001/77/ES in 2003/30/ES (UL L št. 140 z dne 5. 6. 2009, str. 16; v nadaljnjem besedilu: Direktiva 2009/28/ES),
 - (prenehala veljati)
 - (prenehala veljati)
 - (prenehala veljati)
-- Direktiva 2004/8/ES Evropskega parlamenta in Sveta z dne 11. februarja 2004 o spodbujanju soproizvodnje, ki temelji na rabi koristne toplote, na notranjem trgu z energijo in o spremembi Direktive 92/42/EGS (UL L št. 52 z dne 21. 4. 2004, str. 50; v nadaljnjem besedilu: Direktiva 2004/8/ES),
+- (prenehala veljati)
+- (prenehala veljati)
 - Direktiva 2009/31/ES Evropskega parlamenta in Sveta o geološkem shranjevanju ogljikovega dioksida in spremembi Direktive Sveta 85/337/EGS, Direktiv 2000/60/ES, 2001/80/ES, 2004/35/ES, 2006/12/ES, 2008/1/ES Evropskega parlamenta in Sveta ter Uredbe (ES) št. 1013/2006 (UL L št. 140 z dne 5. 6. 2009, str. 114; v nadaljnjem besedilu: Direktiva 2009/31/ES),
 - Direktiva (EU) 2019/692 Evropskega parlamenta in Sveta z dne 17. aprila 2019 o spremembi Direktive 2009/73/ES o skupnih pravilih notranjega trga z zemeljskim plinom (UL L št. 117 z dne 3. 5. 2019, str. 1; v nadaljnjem besedilu: Direktiva 2019/692/EU).
 (2) Ta zakon določa tudi pristojne organe za izvajanje in sankcije za kršitve naslednjih Uredb Evropske unije:

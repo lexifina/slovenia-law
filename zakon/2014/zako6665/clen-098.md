@@ -2,7 +2,7 @@
 (1) Dejavnost operaterja trga z elektriko se financira iz:
 - prispevka za delovanje operaterja trga;
 - plačil članov bilančne sheme za evidentiranje zaprtih pogodb;
-- dela prispevka za zagotavljanje podpor proizvodnji elektrike v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije, ki se določi na podlagi sedmega odstavka 378. člena tega zakona;
+- dela prispevka za zagotavljanje podpor proizvodnji elektrike v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije, ki se določi na podlagi šestega odstavka 18. člena Zakona o spodbujanju rabe obnovljivih virov energije (Uradni list RS, št. 121/21);
 - iz drugih plačil uporabnikov za uporabo storitev gospodarske javne službe.
 (2) Prispevek za delovanje operaterja trga je namenjen pokrivanju stroškov operaterja trga, ki se nanašajo na opravljanje nalog gospodarske javne službe. Prispevek plačujejo končni odjemalci po posameznem odjemnem mestu glede na prevzeto delovno električno energijo (kWh). Končni odjemalec plačuje prispevek kot posebno postavko na mesečnem računu za omrežnino. Oseba, ki prejme prispevek skupaj s plačilom računa, ga mora nemudoma in brezplačno prenesti v korist operaterja trga.
 (3) K plačilu za evidentiranje zaprtih pogodb iz druge alineje prvega odstavka tega člena so zavezani člani bilančne sheme, ki v zaprtih pogodbah nastopajo na strani dobave, razen izvajalcev gospodarske javne službe iz 54., 78. in 97. člena tega zakona ter energetske borze. Plačila članov bilančne sheme so odvisna od obsega evidentiranih zaprtih pogodb, brez upoštevanja zaprtih pogodb za uvoz elektrike.

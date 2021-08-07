@@ -1,3 +1,1 @@
-# 361. člen (poročilo agencije)
-(1) Agencija na vsaki dve leti objavi poročilo, v katerem analizira uspeh pri doseganju sprejetih nacionalnih okvirnih ciljev za električno energijo, proizvedeno v soproizvodnji z visokim izkoristkom, in iz obnovljivih virov energije. V poročilu se morajo upoštevati tudi podnebni dejavniki, ki lahko vplivajo na doseganje sprejetih ciljev, in mora biti ugotovljeno, v kolikšni meri so sprejeti ukrepi skladni z nacionalnimi zavezami v zvezi s podnebnimi spremembami.
-(2) V poročilu morajo biti zajeti vsi ukrepi, ki so bili sprejeti, da bi se zagotovila zanesljivost sistema jamstev, da so potrdila o izvoru natančna in zanesljiva.
+# 361. člen (prenehal veljati)

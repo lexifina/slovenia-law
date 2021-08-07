@@ -5,7 +5,7 @@
 - upravljanje bilančne sheme trga z elektriko;
 - evidentiranje pogodb o članstvu v bilančni shemi, obratovalnih napovedi in zaprtih pogodb;
 - izvajanje izravnalnega trga z elektriko;
-- izvajanje dejavnosti centra za podpore iz 376. člena tega zakona;
+- izvajanje dejavnosti centra za podpore iz 18. člena Zakona o spodbujanju rabe obnovljivih virov energije (Uradni list RS, št. 121/21);
 - izvajanje bilančnega obračuna;
 - izvajanje obračuna in poravnave poslov, povezanih z nalogami iz prejšnjih alinej;
 - zbiranje, analiza in objava podatkov z namenom zagotavljanja preglednosti delovanja trga z elektriko.

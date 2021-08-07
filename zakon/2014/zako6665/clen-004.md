@@ -1,7 +1,7 @@
 # 4. člen (pomen izrazov)
 Če ni v posameznem delu zakona pomen izraza določen drugače, imajo v zakonu uporabljeni izrazi naslednji pomen:
 1. "ACER" pomeni Agencija za sodelovanje energetskih regulatorjev, ustanovljena z Uredbo (ES) št. 713/2009;
-2. "biogorivo" je tekoče ali plinasto gorivo, namenjeno uporabi v prometu, proizvedeno iz biomase;
+2. (prenehala veljati)
 3. "daljinsko hlajenje" pomeni distribucijo ohlajenih tekočin iz centralnih proizvodnih virov po omrežju do končnih odjemalcev v več zgradbah ali lokacijah;
 4. "daljinsko ogrevanje" pomeni distribucijo pare, vroče ali tople vode iz centralnih proizvodnih virov po omrežju do končnih odjemalcev v več zgradbah ali lokacijah;
 5. "distribucija tekočih goriv" pomeni distribucijo tekočih goriv do končnih uporabnikov, ki se ne izvaja po distribucijskih cevnih omrežjih;
@@ -21,10 +21,7 @@
 19. "napredni merilni sistem" pomeni elektronski sistem, ki lahko meri porabo energije, ob čemer doda več informacij kot običajni števec ter lahko pošilja in prejema podatke z uporabo elektronske komunikacije;
 20. "nizkoogljične tehnologije" pomeni tehnologije, ki med proizvodnjo toplote ali električne energije ne povzročajo emisij ogljikovega dioksida;
 21. "obnovljivi viri energije" so obnovljivi nefosilni viri energije (veter, sonce, aerotermalna, hidrotermalna in geotermalna energija, energija oceanov, vodna energija, biomasa, plin, pridobljen iz odpadkov, plin iz naprav za čiščenje odplak in bioplin);
-22. "obveznost glede obnovljivih virov energije" pomeni program podpore, ki zahteva od:
-a. proizvajalcev energije, da v proizvodnjo vključijo določen delež energije iz obnovljivih virov;
-b. dobaviteljev energije, da v dobavo vključijo določen delež energije iz obnovljivih virov;
-c. od porabnikov energije, da v porabo vključijo določen delež energije iz obnovljivih virov;
+22. (prenehala veljati)
 23. "odjemalec" je pravna ali fizična oseba, ki kupuje energijo ali gorivo za lastno rabo ali za nadaljnjo prodajo;
 24. "operater" pomeni elektrooperater ali operater sistema zemeljskega plina;
 25. "operater distribucijskega sistema" pomeni pravno ali fizično osebo, ki izvaja dejavnosti distribucije zemeljskega plina in je odgovorna za obratovanje, vzdrževanje in razvoj distribucijskega sistema na določenem območju, za medsebojne povezave z drugimi sistemi, kadar je ustrezno, in za zagotavljanje dolgoročne zmogljivosti sistema za zadovoljitev razumnih potreb po distribuciji plina;

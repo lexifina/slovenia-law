@@ -1,7 +1,1 @@
-# 315. člen (namen spodbujanja obnovljivih virov energije)
-(1) Spodbujanje rabe obnovljivih virov energije se izvaja z namenom zmanjšanja porabe energije, povečanja količine in deleža obnovljivih virov energije, povečanja zanesljivosti oskrbe z energijo, zmanjšanja uvozne odvisnosti pri oskrbi z energijo in drugih energetskih razlogov, ki so določeni v EKS.
-(2) Višina spodbud je z energetskega vidika oblikovana stroškovno učinkovito in mora zagotavljati izvedbo ukrepov. Pogoji in merila za dodelitev spodbud in upravičence do spodbud so določeni v predpisu četrtega odstavka 7. člena Zakona o učinkoviti rabi energije (Uradni list RS, št. 158/20).
-(3) Ne glede na prejšnji odstavek, je višina spodbud v primeru celovite energetske sanacije obstoječih objektov, ki vključuje sanacijo ovoja stavbe, sanacijo stavbnih tehničnih sistemov in vgradnjo naprav za rabo obnovljivih virov, relativno višja, tako da investitorje spodbuja k celoviti sanaciji.
-(4) Ne glede na drugi odstavek tega člena, se pri določitvi načinov spodbujanja in višine spodbud lahko upošteva tudi socialni vidik.
-(5) Ne glede na drugi odstavek tega člena, se lahko pri določitvi načinov spodbujanja in višine spodbud upoštevajo tudi drugi vidiki, kot so varovanje okolja, predvsem zmanjševanje emisij, ohranjanje kulturne dediščine, ohranjanje narave, uporaba naravnih materialov, spodbujanje zaposlovanja, spodbujanje tehnologij, spodbujanje regionalnega razvoja.
-(6) Ne glede na drugi odstavek tega člena, je lahko spodbuda za demonstracijske projekte višja.
+# 315. člen (prenehal veljati)
