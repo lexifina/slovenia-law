@@ -1,0 +1,3 @@
+# 4. člen
+V 27. členu se sedmi odstavek spremeni tako, da se glasi:
+"Člani upravnega ali nadzornega odbora lahko sodelujejo na sejah tudi tako, da se prijavijo na sejo s sredstvom elektronske identifikacije in sprejemajo sklepe tudi pisno, elektronsko ali z uporabo drugih tehničnih sredstev, če temu ne nasprotuje noben član upravnega ali nadzornega odbora. V zadružnih pravilih ali poslovniku upravnega ali nadzornega odbora se podrobneje določijo pravila za izvedbo sej in sprejemanje sklepov brez fizične prisotnosti članov. Člani upravnega ali nadzornega odbora lahko zapisnik seje podpišejo s kvalificiranim elektronskim podpisom, ki je enakovreden lastnoročnemu podpisu v fizični obliki.".
