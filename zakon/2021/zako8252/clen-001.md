@@ -1,0 +1,5 @@
+# 1. člen
+V Zakonu o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415, 44/14 - ORZPIZ206, 85/14 - ZUJF-B, 95/14 - ZUJF-C, 90/15 - ZIUPTD, 102/15, 23/17, 40/17, 65/17, 75/17 - ZIUPTD-A, 28/19, 75/19, 139/20, 189/20 - ZFRO in 51/21) se v 403. členu drugi in tretji odstavek spremenita tako, da se glasita:
+"(2) Do uveljavitve novega seznama o vrstah in stopnjah telesnih okvar iz prejšnjega odstavka, se pri pripravi izvedenskih mnenj iz osmega odstavka 181. člena tega zakona uporablja Samoupravni sporazum o seznamu telesnih okvar (Uradni list SFRJ, št. 38/83 in 66/89).
+(3) Do uveljavitve predpisov s področja varstva invalidov, ki bodo uredili postopke ugotavljanja vrste in stopnje telesnih okvar, lahko zavarovanci na podlagi Samoupravnega sporazuma o seznamu telesnih okvar (Uradni list SFRJ, št. 38/83 in 66/89) ali novega seznama o vrstah in stopnjah telesnih okvar iz prvega odstavka tega člena, pridobijo tudi pravico do invalidnine v skladu z določbami 143. do 145., 147. in 149. člena ZPIZ-1.".
+V četrtem odstavku se besedilo "zaradi posledic poškodbe pri delu ali poklicne bolezni" črta.
