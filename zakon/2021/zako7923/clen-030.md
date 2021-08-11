@@ -1,0 +1,3 @@
+# 30. člen
+V 108. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Medpanožne organizacije po tem zakonu sestavljajo predstavniki gospodarskih dejavnosti, povezanih s proizvodnjo in vsaj eno od naslednjih faz dobavne verige: predelavo proizvodov iz enega ali več sektorjev ali trgovino z njimi, vključno z njihovo distribucijo, za katere je medpanožna organizacija priznana v skladu s predpisi Unije, z namenom usklajevanja interesov potrošnikov in članov organizacij. Medpanožne organizacije se same ne ukvarjajo s proizvodnjo, predelavo ali trgovino, razen, če ni s predpisi Unije drugače določeno.".

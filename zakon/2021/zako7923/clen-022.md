@@ -1,0 +1,10 @@
+# 22. člen
+Za 61.h členom se dodajo novi 61.i člen do 61.m člen, ki se glasijo:
+"61.i člen
+(prijave)
+(1) Dobavitelji lahko vložijo prijave nedovoljenih ravnanj v Republiki Sloveniji pri Javni agenciji Republike Slovenije za varstvo konkurence oziroma pri izvršilnemu organu v državi članici, v kateri je ustanovljen dobavitelj ali pri izvršilnemu organu v državi članici, v kateri je ustanovljen kupec, za katerega se sumi, da je izvajal nedovoljena ravnanja. Prijava se vloži pri izvršilnem organu, ki je pristojen za obravnavo nedovoljenih ravnanj iz 61.f člena tega zakona.
+(2) Organizacije proizvajalcev, druge organizacije dobaviteljev in združenja takšnih organizacij lahko vložijo prijavo iz prejšnjega odstavka na zahtevo enega ali več svojih članov ali, na zahtevo enega ali več članov njihovih članic organizacij, kadar ti člani menijo, da so prizadeti zaradi nedovoljenih ravnanj. Druge organizacije, ki predstavljajo dobavitelje, lahko na zahtevo dobavitelja in v njegovem interesu vložijo prijavo, in sicer pod pogojem, da so takšne organizacije neodvisne neprofitne pravne osebe.
+(3) Javna agencija Republike Slovenije za varstvo konkurence sprejme potrebne ukrepe za ustrezno zaščito identitete prijavitelja, članov ali dobaviteljev iz tega člena ter za ustrezno zaščito vseh drugih informacij, v zvezi s katerimi prijavitelj meni, da bi razkritje takih informacij škodovalo interesom prijavitelja, članov ali dobaviteljev. Prijavitelj opredeli morebitne informacije, v zvezi s katerimi zahteva zaupnost.
+(4) Če Javna agencija Republike Slovenije za varstvo konkurence po prejemu prijave iz prvega ali drugega odstavka tega člena meni, da ni zadostne podlage za obravnavo prijave, v roku, ki ni daljši od 30 dni po prejemu prijave, o tem obvesti prijavitelja.
+(5) Če Javna agencija Republike Slovenije za varstvo konkurence meni, da obstajajo zadostni razlogi za obravnavo prijave, zoper kupca uvede postopek in o tem obvesti prijavitelja.
+(6) Če Javna agencija Republike Slovenije za varstvo konkurence ugotovi eno ali več nedovoljenih ravnanj iz 61.f člena tega zakona, od kupca zahteva, da z nedovoljenimi ravnanji preneha.

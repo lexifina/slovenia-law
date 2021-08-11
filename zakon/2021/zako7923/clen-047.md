@@ -1,0 +1,8 @@
+# 47. člen
+153. člen se spremeni tako, da se glasi:
+"153. člen
+(evidenca o ukrepih kmetijske politike)
+(1) Vsebina evidence o ukrepih kmetijske politike so podatki, ki jih subjekti iz 140. člena tega zakona posredujejo ministrstvu za namene iz prvega odstavka 140. člena tega zakona, in podatki, ki jih agencija kot izvajalec ukrepov kmetijske politike pridobi sama iz registrov in drugih evidenc v zvezi z opravljanjem svojih pristojnosti in nalog. Evidenco vodi in upravlja agencija.
+(2) Evidenca o ukrepih kmetijske politike vsebuje poleg podatkov o subjektih iz 140. in 143. člena tega zakona tudi podatke iz zbirnih vlog, iz drugih vlog in zahtevkov za ukrepe kmetijske politike, zlasti vrsto ukrepa, izplačana sredstva in omejitve, ter podatke fizičnih oseb o načinu ugotavljanja davčne osnove za dohodke iz osnovne kmetijske in osnovne gozdarske dejavnosti, druge kmetijske dejavnosti ali dopolnilne dejavnosti na kmetiji (v nadaljnjem besedilu: davčni status), o rezidentskem statusu in transakcijskem računu ter podatke iz drugih evidenc, ki jih agencija vodi na podlagi veljavnih predpisov.
+(3) Evidenca je namenjena spremljanju, izvedbi in kontroli ukrepov kmetijske politike na državni in občinski ravni ter vodenju in upravljanju zbirk podatkov iz tega zakona. Kontaktni podatki iz 6. točke tretjega odstavka 140. člena tega zakona se lahko uporabljajo za preverjanje in posodabljanje kontaktnih podatkov v posameznih zbirkah podatkov.
+(4) Agencija podatke o davčnem in rezidentskem statusu pridobi iz davčnih evidenc, podatke o transakcijskem računu pa iz registra transakcijskih računov.".

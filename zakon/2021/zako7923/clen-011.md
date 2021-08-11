@@ -1,0 +1,7 @@
+# 11. člen
+Za 35. členom se doda nov 35.a člen, ki se glasi:
+"35.a člen
+(pridobivanje podatkov o poravnanih obveznih dajatvah in drugih denarnih nedavčnih obveznostih)
+(1) Kadar mora upravičenec v skladu s predpisi iz 10. člena tega zakona za pridobitev sredstev iz ukrepov kmetijske politike izpolnjevati pogoj poravnanih obveznih dajatev in drugih denarnih nedavčnih obveznosti v skladu z zakonom, ki ureja finančno upravo, ki jih izterjuje davčni organ v skladu s predpisi države, pri čemer vrednost teh neplačanih zapadlih obveznosti ne sme znašati 50 eurov ali več, davčni organ agenciji, na njeno zahtevo, v postopku odločanja, v skladu z zakonom, ki ureja davčni postopek, posreduje podatek o tem, ali ima upravičenec navedene obveznosti poravnane. Šteje se, da vlagatelj ne izpolnjuje obveznosti iz prejšnjega stavka tudi, če nima predloženih vseh obračunov davčnih odtegljajev za dohodke iz delovnega razmerja v obdobju zadnjih petih let.
+(2) Vloga za uveljavljanje sredstev iz ukrepa kmetijske politike vsebuje obvestilo vlagatelju, da agencija v postopku obravnave vloge po uradni dolžnosti pridobi podatek o izpolnjevanju pogoja iz prejšnjega odstavka.
+(3) Če pogoj iz prvega odstavka tega člena ni izpolnjen, agencija vlagatelja pred odločitvijo pozove, da poravna zapadle neporavnane obveznosti iz prvega odstavka tega člena v osmih dneh od vročitve poziva in za to predloži dokaze. Če vlagatelj obveznosti iz prvega odstavka tega člena tudi v roku iz prejšnjega stavka ne izpolni oziroma za to ne predloži dokaza, agencija vlogo za pridobitev sredstev zavrne.".

@@ -1,0 +1,2 @@
+# 69. člen (javna naročila)
+Določba drugega odstavka novega 58.b člena, določbe nove štirinajste alineje prvega odstavka spremenjenega 174. člena, novih četrte in pete alineje prvega odstavka spremenjenega 176. člena in nove prve alineje prvega odstavka spremenjenega 177. člena zakona se začnejo uporabljati za tista javna naročila, ki se nanašajo na živila, ki se oddajo po uveljavitvi tega zakona.

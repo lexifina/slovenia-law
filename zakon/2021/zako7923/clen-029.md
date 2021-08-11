@@ -1,0 +1,3 @@
+# 29. člen
+V 102. členu se prvi odstavek spremeni tako, da se glasi:
+"(1) Kmetijsko opravilo je delovni proces ali vsakršna dejavnost, katere namen je opravljanje kmetijske dejavnosti. Kot kmetijsko opravilo se zlasti štejejo obdelava kmetijskih površin v kmetijske namene, gnojenje, shranjevanje in obdelava organskih gnojil, uporaba fitofarmacevtskih sredstev za kmetijske namene, delo s kmetijsko mehanizacijo in živalmi ter njihovi premiki, obratovanje in vzdrževanje naprav za kmetijske namene, obratovanje in vzdrževanje namakalnih sistemov in njihovih črpalk, reja in oskrba živali, gonjenje, paša živali, postavitev in vzdrževanje pašnih sistemov v primeru nenadzorovane paše živali in podobno.".
