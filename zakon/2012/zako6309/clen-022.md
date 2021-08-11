@@ -1,6 +1,0 @@
-# 22. člen (obseg in usklajenost naložb kritnega premoženja)
-(1) Izdajatelj lahko izda hipotekarne obveznice samo v obsegu, ki zagotavlja, da imajo vse obveznosti iz naslova obveznic v obtoku in izvedenih finančnih instrumentov iz 24. člena tega zakona ves čas kritje v kritnem premoženju, in sicer najmanj v enaki nominalni vrednosti.
-(2) Ne glede na določbo prejšnjega odstavka mora biti skladnost kritnega premoženja in obveznosti na podlagi hipotekarnih obveznic in izvedenih finančnih instrumentov iz 24. člena tega zakona ves čas zagotovljena tudi na podlagi načela sedanje vrednosti, pri čemer mora sedanja vrednost kritnega premoženja za vsaj 2 % presegati sedanjo vrednost obveznosti na podlagi hipotekarnih obveznic.
-(3) Izdajatelj mora pri izdaji hipotekarnih obveznic usklajevati roke in obrestovanje ter valutno izpostavljenost kritnega premoženja z obveznostmi iz naslova izdanih hipotekarnih obveznic in izvedenih finančnih instrumentov iz 24. člena tega zakona, ki jih izdajatelj sklene v zvezi s kritnim premoženjem.
-(4) Izpolnjevanje pogojev iz prvega do tretjega odstavka tega člena, se preverja najmanj v enomesečnih presledkih.
-(5) Podrobnejša navodila za usklajevanje kritja iz drugega in tretjega odstavka tega člena predpiše Banka Slovenije.

@@ -1,4 +1,0 @@
-# 3. člen (kritno premoženje)
-(1) Kritno premoženje je premoženje izdajatelja, ki je vpisano v kritni register in je prednostno namenjeno poplačilu obveznosti iz naslova izdanih hipotekarnih ali komunalnih obveznic in izvedenih finančnih inštrumentov iz 24. člena tega zakona, ki jih izdajatelj sklene v zvezi s kritnim premoženjem.
-(2) Kritno premoženje hipotekarnih obveznic so terjatve iz naslova hipotekarnih kreditov, sredstva nadomestnega kritnega premoženja, določena s tem zakonom in izvedeni finančni instrumenti iz 24. člena tega zakona, ki jih izdajatelj sklene v zvezi s tem kritnim premoženjem.
-(3) Kritno premoženje komunalnih obveznic so terjatve iz naslova kreditov z obveznostjo osebe javnega prava, sredstva nadomestnega kritnega premoženja, določena s tem zakonom in izvedeni finančni instrumenti iz 24. člena tega zakona, ki jih izdajatelj sklene v zvezi s tem kritnim premoženjem.

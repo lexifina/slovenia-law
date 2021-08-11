@@ -1,2 +1,0 @@
-# 33. člen (posebna pravila o zavarovanju z zemljiškim dolgom)
-Če je hipotekarni kredit zavarovan z zemljiškim dolgom, mora biti izdajatelj zakoniti imetnik zemljiškega pisma. Zemljiško pismo lahko za račun izdajatelja hrani tudi druga oseba, če ima izdajatelj ob morebitnem stečaju takšne druge osebe na zemljiškem pismu izločitveno pravico v delu, nanašajočem se na terjatev iz kreditne pogodbe, ki se upošteva v kritnem premoženju.

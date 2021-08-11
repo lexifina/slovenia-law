@@ -1,6 +1,0 @@
-# 49. člen (ločen stečajni postopek)
-(1) Če kritno premoženje ne zadostuje za nadaljevanje nepretrganega poplačila obveznosti iz hipotekarnih obveznic in izvedenih finančnih instrumentov iz 24. člena tega zakona, se na zahtevo Banke Slovenije začne ločeni stečajni postopek nad kritnim premoženjem hipotekarnih obveznic, v skladu z ZBan-1.
-(2) Predlog za začetek ločenega stečajnega postopka iz prejšnjega odstavka lahko Banki Slovenije predlaga tudi skrbnik kritnega registra.
-(3) Če imetniki hipotekarnih obveznic in upniki na podlagi izvedenih finančnih instrumentov iz 24. člena tega zakona v ločenem stečajnem postopku iz prvega odstavka tega člena niso v celoti poplačani, imajo pravico prijaviti preostanek svojih terjatev iz hipotekarnih obveznic in izvedenih finančnih instrumentov v rednem stečajnem postopku nad izdajateljem, v 30 dneh od zaključka ločenega stečajnega postopka iz prvega odstavka tega člena.
-(4) Z dnem začetka ločenega stečajnega postopka ne prenehajo teči obresti od terjatev iz hipotekarnih obveznic in izvedenih finančnih instrumentov iz 24. člena tega zakona proti izdajatelju.
-(5) V primeru ločenega stečajnega postopka, v rednem stečajnem postopku nad izdajateljem, upniki ne smejo biti poplačani pred iztekom roka iz tretjega odstavka tega člena.
