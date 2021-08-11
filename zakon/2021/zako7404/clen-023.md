@@ -1,0 +1,3 @@
+# 23. člen
+V 88. členu se štirinajsti odstavek spremeni tako, da se glasi:
+"(14) Med vožnjo v motornem vozilu z vgrajenim zadrževalnim sistemom mora biti otrok, manjši od 140 cm ali lažji od 36 kg, zavarovan z zadrževalnim sistemom, ki je primeren fizičnim lastnostim otroka. V motornem vozilu, ki ni opremljen z zadrževalnim sistemom, ni dovoljeno prevažati otrok, mlajših od treh let, otroci starejši od treh let in manjši od 140 cm pa se smejo prevažati le na sedežih, ki niso prednji sedeži. Otrok ni dovoljeno prevažati v nazaj obrnjenem zadrževalnem sistemu v sedežu za potnike, zaščitenem s prednjo zračno blazino, razen če je zračna blazina deaktivirana mehanično.".

@@ -1,0 +1,3 @@
+## PREHODNE IN KONČNA DOLOČBA
+# 34. člen (posebna oprostitev plačila stroškov postopka po Zakonu o prekrških v prehodnem obdobju)
+Do drugačne ureditve v Zakonu o prekrških (Uradni list RS, št. 29/11 - uradno prečiščeno besedilo, 21/13, 111/13, 74/14 - odl. US, 92/14 - odl. US, 32/16, 15/17 - odl. US, 73/19 - odl. US, 175/20 - ZIUOPDVE in 5/21 - odl. US) se ne glede na 56. člen ZP-1 ne plačajo stroški postopka, če je storilec prekrška zoper varnost cestnega prometa ugotovljen na podlagi izjave lastnika vozila ali imetnika pravice uporabe vozila iz 8. člena Zakona o pravilih cestnega prometa (Uradni list RS, št. 82/13 - uradno prečiščeno besedilo, 69/17 - popr., 68/16, 54/17, 3/18 - odl. US, 43/19 - ZVoz-1B in 92/20).

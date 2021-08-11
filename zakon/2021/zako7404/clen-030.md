@@ -1,0 +1,5 @@
+# 30. člen
+V 106. členu se v prvem odstavku v prvem stavku za besedo "presnovkov" črtata vejica in besedilo "ki zmanjšujejo njegovo sposobnost za vožnjo", v drugem stavku pa se za besedo "snovi" črtata vejica in besedilo "ki zmanjšujejo njegovo sposobnost za vožnjo".
+V tretjem odstavku se za besedo "vozila" dodata vejica in besedilo "učitelju vožnje in spremljevalcu".
+Peti odstavek se spremeni tako, da se glasi:
+"(5) Če se s toksikološko preiskavo telesnih tekočin ugotovi prisotnost psihoaktivnih zdravil ali njihovih presnovkov v krvi ali slini, se voznika, učitelja vožnje ali spremljevalca napoti na kontrolni zdravstveni pregled v skladu z zakonom, ki ureja voznike. Ne glede na drugi odstavek tega člena se šteje, da voznik, učitelj vožnje ali spremljevalec ni pod vplivom psihoaktivnih zdravil, če se s kontrolnim zdravstvenim pregledom ugotovi, da je voznik, učitelj vožnje ali spremljevalec uporabljal psihoaktivna zdravila v skladu s predpisano terapijo in navodilom lečečega zdravnika.".
