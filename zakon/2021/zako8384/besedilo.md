@@ -1,0 +1,1 @@
+Državni zborRepublike Slovenije Tina Heferlepodpredsednica
