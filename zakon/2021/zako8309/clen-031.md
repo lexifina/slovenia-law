@@ -1,0 +1,6 @@
+# 31. člen
+Besedilo 215. člena se spremeni tako, da se glasi:
+"(1) Investicijsko podjetje tretje države sme v Republiki Sloveniji opravljati investicijske storitve in posle prek podružnice pod pogoji, določenimi v tem zakonu.
+(2) Ne glede na prejšnji odstavek lahko investicijsko podjetje tretje države za stranko s prebivališčem ali sedežem v Republiki Sloveniji opravi posamezno investicijsko storitev ali posel, če je stranka izključno na lastno pobudo zaprosila za to storitev.
+(3) Ne glede na odnose v skupini se v primeru, ko investicijsko podjetje tretje države tudi prek subjekta, ki deluje v njegovem imenu ali je tesno povezan s takšnim podjetjem iz tretje države ali katero koli drugo osebo, ki deluje v imenu takšnega subjekta, poskuša pridobiti stranke ali potencialne stranke s prebivališčem ali sedežem v Republiki Sloveniji, to ne šteje za storitev, ki se opravlja izključno na zaprosilo stranke na lastno pobudo za to storitev.
+(4) Če je stranka izključno na lastno pobudo zaprosila za storitev iz drugega odstavka tega člena, ji investicijsko podjetje tretje države ne sme ponujati ali oglaševati drugih investicijskih storitev oziroma produktov, za katere stranka ni zaprosila na lastno pobudo. Takšno ponujanje ali oglaševanje je dopustno le prek podružnice.".
