@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificira se Sporazum o spremembi Sporazuma o prenosu in vzajemnosti prispevkov v okviru enotnega sklada za reševanje med Kraljevino Belgijo, Republiko Bolgarijo, Češko republiko, Kraljevino Dansko, Zvezno republiko Nemčijo, Republiko Estonijo, Irsko, Helensko republiko, Kraljevino Španijo, Francosko republiko, Republiko Hrvaško, Italijansko republiko, Republiko Ciper, Republiko Latvijo, Republiko Litvo, Velikim vojvodstvom Luksemburgom, Madžarsko, Republiko Malto, Kraljevino Nizozemsko, Republiko Avstrijo, Republiko Poljsko, Portugalsko republiko, Romunijo, Republiko Slovenijo, Slovaško republiko in Republiko Finsko, podpisan v Bruslju 27. januarja 2021 in 8. februarja 2021.
