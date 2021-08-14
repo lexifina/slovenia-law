@@ -1,0 +1,3 @@
+# 30. člen
+V 67. členu se četrti odstavek spremeni tako, da se glasi:
+"Dovoljenja iz prvega odstavka tega člena ne potrebujejo lovci za en kos ali več kosov orožja kategorije C in streliva zanj, uprizoritelji zgodovinskih dogodkov za en kos ali več kosov orožja iz 5. točke kategorije C in streliva zanj, in športni strelci za en kos ali več kosov športnega orožja iz 6.a in 7. točke kategorije A, kategorij B in C ter streliva zanj, če je to orožje registrirano v evropski orožni prepustnici in lahko posameznik dokaže, da je namen njegovega potovanja lovsko ali športno udejstvovanje ali tekmovanje oziroma uprizarjanje zgodovinskih dogodkov.".

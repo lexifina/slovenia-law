@@ -1,0 +1,6 @@
+# 51. člen Postopki, ki so bili začeti pred uveljavitvijo tega zakona in rok za legalizacijo orožja
+Postopki, ki so bili začeti pred uveljavitvijo tega zakona, se zaključijo po določbah spremenjenega in dopolnjenega zakona.
+Imetnik, ki poseduje orožje brez veljavne listine za posest ali nošenje orožja, sme v treh mesecih po uveljavitvi tega zakona pri pristojnem organu podati vlogo za pridobitev ustrezne orožne listine. Pristojni organ izda ustrezno orožno listino po zakonu, razen orožnega lista, pod pogojem, da orožje ne izvira iz kaznivega dejanja, in da imetnik izpolnjuje pogoje iz 1., 2., 3., 5. in 6. točke drugega odstavka 14. člena zakona.
+Ne glede na prejšnji odstavek se orožnih listin ne izda za orožje kategorije A, razen če je bilo imetniku orožja iz prejšnjega odstavka izdano veljavno dovoljenje za zbiranje orožja in je orožje po določbah zakona dovoljeno zbirati.
+Če orožne listine ni mogoče izdati, se z orožjem kategorij B in C ravna, kot da gre za odvzeto orožje, orožje kategorije A pa se pošlje ministrstvu, pristojnemu za notranje zadeve.
+Za izdajo ustrezne orožne listine iz drugega odstavka tega člena se plača upravna taksa za vlogo in odločbo po 1. in 3. tarifni številki Zakona o upravnih taksah (Uradni list RS, št. 106/10 - uradno prečiščeno besedilo, 14/15 - ZUUJFO, 84/15 - ZZeIP-J, 32/16, 30/18 - ZKZaš in 189/20 - ZFRO).

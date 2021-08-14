@@ -1,0 +1,3 @@
+# 48. člen Upravna taksa
+Ob zamenjavi orožnih listin iz 43. in 44. člena tega zakona, prijavi orožja iz tretjega odstavka 43. člena tega zakona in ob uskladitvi poslovanja iz 45. člena tega zakona se upravna taksa ne plača.
+Ob izdaji orožne listine iz 46. člena tega zakona za vso orožje, ki je bilo predelano za streljanje s slepimi naboji, dražljivimi ali drugimi aktivnimi snovmi ali pirotehničnim strelivom ali v rekvizitno ali akustično orožje, pred uveljavitvijo tega zakona se plača upravna taksa za vlogo in odločbo po 1. in 3. tarifni številki Zakona o upravnih taksah (Uradni list RS, št. 106/10 - uradno prečiščeno besedilo, 14/15 - ZUUJFO, 84/15 - ZZeIP-J, 32/16, 30/18 - ZKZaš in 189/20 - ZFRO).

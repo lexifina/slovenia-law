@@ -1,0 +1,9 @@
+## PREHODNE IN KONČNE DOLOČBE
+# 43. člen Rok za razvrstitev orožja kategorij A, B, C in D
+Imetniki veljavnih orožnih listov, dovoljenj za posest orožja, orožnih posestnih listov, pooblastil za nošenje orožja, pooblastil za prenos orožja, dovoljenj za zbiranje orožja, priglasitvenih listov in evropskih orožnih prepustnic, ki so bili izdani za orožje, ki je razvrščeno v kategorije A, B, C ali D na podlagi Zakona o orožju (Uradni list RS, št. 23/05 - uradno prečiščeno besedilo in 85/09), njegova kategorija pa se ne ujema z razvrstitvijo v kategorijo v skladu s spremenjenim 3. členom zakona, morajo pri pristojnem organu vložiti vlogo za razvrstitev orožja v kategorije v skladu s spremenjenim 3. členom zakona v petih letih od uveljavitve tega zakona ter mu predložiti orožno listino, da vanjo in v evidence vpiše spremembo kategorije.
+Ne glede na rok iz prejšnjega odstavka mora biti orožje iz prejšnjega odstavka razvrščeno v skladu s spremenjenim 3. členom zakona pred dajanjem orožja na trg ali pred prenosom v drugo državo članico Evropske unije oziroma v tretjo državo.
+Če imetnik onesposobljenega orožja, ki mu je bil izdano potrdilo o onesposobitvi orožja pred uveljavitvijo tega zakona, to orožje prenaša ali nosi, ga mora pred prenašanjem ali nošenjem prijaviti pri pristojnem organu, ki ga razvrsti v 6. točko kategorije C.
+Z globo od 500 do 1.500 eurov se za prekršek kaznuje posameznik, ki ravna v nasprotju s prvim, drugim ali tretjim odstavkom tega člena.
+Z globo od 3.000 do 15.000 eurov se za prekršek kaznuje pravna oseba, ki ravna v nasprotju s prvim, drugim ali tretjim odstavkom tega člena.
+Z globo od 1.500 do 10.000 eurov se za prekršek kaznuje podjetnik, ki ravna v nasprotju s prvim, drugim ali tretjim odstavkom tega člena.
+Z globo od 500 do 1.500 eurov se za prekršek kaznuje tudi odgovorna oseba pravne osebe in odgovorna oseba podjetnika, ki ravna v nasprotju s prvim, drugim ali tretjim ali četrtim odstavkom tega člena.
