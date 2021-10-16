@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o vojnih invalidih (Uradni list RS, št. 63/95, 2/97 - odl. US, 19/97, 21/97 - popr., 75/97, 11/06 - odl. US, 61/06 - ZDru-1, 114/06 - ZUTPG, 40/12 - ZUJF, 19/14, 21/18 - ZNOrg in 174/20 - ZIPRS2122) se za 121. členom doda nov 121.a člen, ki se glasi:
+"121.a člen
+Ne glede na določbe prejšnjega člena lahko upravičenci, ki v roku iz drugega odstavka 121. člena tega zakona niso mogli vložiti zahteve za priznanje statusa in pravic vojaškega vojnega invalida ali civilnega invalida vojne na podlagi okvare zdravja zaradi bolezni ali poslabšanja bolezni dobljene ob vojaški agresiji na Republiko Slovenijo v letu 1991 ali vložiti zahteve za priznanje pravic družinskim članom osebe, ki je umrla zaradi posledic bolezni dobljenih v teh okoliščinah, zahtevo za pridobitev tega statusa in pravic vložijo do 31. decembra 2022.".
