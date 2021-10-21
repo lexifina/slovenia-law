@@ -1,0 +1,6 @@
+# 12. člen
+V 148. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Če namerava družba za upravljanje spremeniti katero koli dejstvo, navedeno v veljavnem priglasitvenem dokumentu, oziroma spremeniti veljaven nabor razredov enot vzajemnih skladov, ki so predmet trženja v državi članici gostiteljici, najmanj en mesec pred uvedbo teh sprememb o nameravani spremembi obvesti Agencijo in nadzorni organ države gostiteljice.".
+Za drugim odstavkom se dodata nova tretji in četrti odstavek, ki se glasita:
+"(3) Če zaradi sprememb iz prejšnjega odstavka družba za upravljanje ali vzajemni sklad ne bi več izpolnjevala zahtev iz tega zakona, Agencija v 15 delovnih dneh po prejemu vseh informacij iz prejšnjega odstavka obvesti družbo za upravljanje, ki upravlja ta vzajemni sklad, naj te spremembe ne izvede. O tem Agencija obvesti nadzorni organ države članice gostiteljice.
+(4) Če se sprememba iz drugega odstavka tega člena izvede po tem, ko so bile informacije sporočene v skladu s prejšnjim odstavkom, in zaradi te spremembe družba za upravljanje ali vzajemni sklad nista več skladna s tem zakonom, Agencija sprejme ustrezne ukrepe nadzora na podlagi tega zakona, če je potrebno vključno z izrecno prepovedjo trženja enot vzajemnega sklada, in o sprejetih ukrepih nemudoma obvesti nadzorni organ države članice gostiteljice.".
