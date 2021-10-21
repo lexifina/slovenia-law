@@ -1,0 +1,4 @@
+# 1. člen
+V Zakonu o nadzoru državne meje (Uradni list RS, št. 35/10 - uradno prečiščeno besedilo, 15/13 - ZNPPol in 23/15 - popr., 5/17, 68/17, 47/19 in 139/20) se v 8.c členu za prvim odstavkom doda nov drugi odstavek, ki se glasi:
+"(2) Služnost v javno korist iz prejšnjega odstavka se lahko ustanovi tudi na nepremičnini, katere solastnik je služnostni upravičenec. V tem primeru se v razmerju med služnostnim upravičencem in ostalimi solastniki šteje, kot da bi bil s služnostjo v javno korist obremenjen solastninski delež služnostnih zavezancev, ki ustreza obsegu uporabe nepremičnine v korist služnostnega upravičenca. V razmerju do tretjih se šteje, da je nepremičnina obremenjena kot celota. Služnost v javno korist se v zemljiški knjigi vpiše na nepremičnini kot celoti v korist služnostnega upravičenca.".
+Dosedanji drugi, tretji in četrti odstavek postanejo tretji, četrti in peti odstavek.
