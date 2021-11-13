@@ -1,0 +1,3 @@
+# 9. člen
+V 21. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Komisija je izvedenski organ, ki deluje v okviru inštituta. Člani izvedenskega organa so strokovnjaki, ki imajo najmanj štiri leta strokovnega in praktičnega znanja s področja invalidskega, socialnega in zdravstvenega varstva. Vsaj en član komisije mora imeti stalno prebivališče v statistični ali sosednji statistični regiji, v kateri ima stalno ali začasno prebivališče uporabnik osebne asistence. Člane izvedenskega organa imenuje upravni odbor inštituta na predlog direktorja inštituta. Izvedenski organ se financira iz proračuna Republike Slovenije.".

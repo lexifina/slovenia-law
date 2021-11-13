@@ -1,0 +1,2 @@
+# 17. člen (družinski pomočnik)
+Upravičenci, ki so bili upravičeni do družinskega pomočnika, preden so pridobili pravico do osebne asistence v skladu z zakonom, lahko v šestih mesecih od uveljavitve tega zakona na pristojnem centru za socialno delo ponovno uveljavljajo pravico do družinskega pomočnika, če prenehajo uveljavljati pravico do osebne asistence. V tem primeru ni treba ponovno pridobiti mnenja o pravici do družinskega pomočnika invalidske komisije Zavoda za pokojninsko in invalidsko zavarovanje.
