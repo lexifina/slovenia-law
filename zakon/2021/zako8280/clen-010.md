@@ -1,0 +1,9 @@
+# 10. člen
+V 55.b členu se prvi in drugi odstavek spremenita tako, da se glasita:
+"(1) Zavezanec, ki na novo zaposli osebo, mlajšo od 29 let, ali osebo, starejšo od 55 let, ali zaposli osebo v poklicu, za katerega na trgu dela primanjkuje iskalcev zaposlitve, ki v obdobju zadnjih 24 mesecev ni bila zaposlena pri tem zavezancu ali njegovi povezani osebi, lahko uveljavlja znižanje davčne osnove v višini 45 % plače te osebe, vendar največ v višini davčne osnove.
+(2) Zavezanec lahko uveljavlja olajšavo po prvem in četrtem odstavku tega člena za prvih 24 mesecev zaposlitve teh oseb v davčnem letu zaposlitve in v naslednjih davčnih letih do poteka 24 mesecev. Olajšava za zaposlitev osebe v poklicu, za katerega na trgu dela primanjkuje iskalcev zaposlitve, se lahko uveljavlja, če je takšno pomanjkanje opredeljeno na seznamu, ki ga s pravilnikom določi minister, pristojen za delo, v soglasju z ministrom, pristojnim za finance, vsaj vsaki dve leti enkrat, pri tem pa upošteva razpoložljivost kandidatov, poklice, raven usposobljenosti, delovne pogoje in druge strukturne dejavnike.".
+Za tretjim odstavkom se doda nov četrti odstavek, ki se glasi:
+"(4) Zavezanec lahko uveljavlja znižanje davčne osnove po tem členu v višini 55 % plače osebe, če zaposli osebo, mlajšo od 25 let, ki se zaposluje prvič, vendar največ v višini davčne osnove.".
+Dosedanji četrti odstavek postane peti odstavek.
+Dosedanji peti odstavek, ki postane šesti odstavek, se spremeni tako, da se glasi:
+"(6) Olajšava po prvem odstavku tega člena za zaposlovanje mlajših od 29 let in starejših od 55 let se izključuje z olajšavo za zaposlovanje oseb v poklicu, za katerega na trgu dela ni iskalcev zaposlitve. Olajšava po četrtem odstavku tega člena se izključuje z olajšavami po prvem odstavku tega člena. Olajšave po prvem in četrtem odstavku tega člena se izključujejo z olajšavo za zaposlovanje invalidov po tem zakonu.".

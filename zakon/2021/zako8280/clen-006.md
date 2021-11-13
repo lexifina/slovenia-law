@@ -1,0 +1,2 @@
+# 6. člen
+V 25. členu se v tretjem odstavku za besedo "državah" črta vejica, besedilo "v katerih je splošna oziroma povprečna nominalna stopnja obdavčitve dobička družb nižja od 12,5 % in je država objavljena na seznamu v skladu z 8. členom tega zakona, pri tem pa to niso države članice EU" pa se nadomesti z besedilom "ali jurisdikcijah, ki so uvrščene na seznam iz drugega odstavka 8.a člena tega zakona.".
