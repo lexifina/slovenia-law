@@ -1,0 +1,4 @@
+## PREHODNE IN KONČNE DOLOČBE
+# 42. člen (pridobitev položaja)
+(1) Posebni izbirni postopki za položaje vodij organizacijskih enot prve ravni generalne policijske uprave, direktorjev policijskih uprav in načelnikov policijskih postaj iz 49.a člena zakona se začnejo v treh mesecih po uveljavitvi tega zakona.
+(2) Policistom, ki so na dan uveljavitve tega zakona na položaju vodje organizacijske enote prve ravni generalne policijske uprave, direktorja policijske uprave in komandirja policijske postaje, z dnem uveljavitve tega zakona preneha položaj, z delom na položaju pa nadaljujejo do začasne premestitve policistov na te položaje po opravljenem posebnem izbirnem postopku iz 49.a člena zakona. Po prenehanju opravljanja dela na položaju se policista iz prvega stavka tega odstavka premesti na delovno mesto, za katero izpolnjuje pogoje.

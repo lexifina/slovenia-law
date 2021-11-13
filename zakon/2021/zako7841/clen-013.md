@@ -1,0 +1,5 @@
+# 13. člen
+Besedilo 37. člena se spremeni tako, da se glasi:
+"(1) Policija sodeluje z veteranskimi in drugimi stanovskimi organizacijami, katerih dejavnost je pomembna za ohranjanje zgodovinskega spomina delovanja policije, izpopolnjevanje in usposabljanje policistov ter promocijo poklica policista in jim v okviru možnosti omogoča uporabo nepremičnega in v posebnih primerih premičnega premoženja države.
+(2) Možnosti in načine sodelovanja se opredeli v pravilniku, ki ga sprejme minister. Pravilnik mora med drugim določati, kdaj je uporaba nepremičnega ali premičnega premoženja države brezplačna in posebne primere uporabe premičnega premoženja države.
+(3) Konkreten način sodelovanja s posamezno organizacijo iz prvega odstavka tega člena se opredeli s sporazumom, ki ga z vsako posamezno organizacijo skleneta minister in generalni direktor policije. Sporazum ne more omogočati, da bi člani organizacij iz prvega odstavka tega člena, ki so javni uslužbenci, naloge za organizacijo opravljali v okviru delovnega časa.".

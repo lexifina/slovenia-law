@@ -1,0 +1,3 @@
+# 46. člen (začasna ureditev)
+(1) Do ustrezne ureditve v zakonu, ki ureja delovna razmerja, pri kandidatu za pomožnega policista, ki se usposablja na osnovnem usposabljanju kandidatov za pomožne policiste, in pri pomožnem policistu, ki se usposablja za opravljanje nalog v pomožni policiji, ne pride do suspenza pogodbe o zaposlitvi.
+(2) Do ustrezne ureditve v zakonu, ki ureja delovna razmerja, ima oseba, ki je pozvana na osnovno usposabljanje kandidatov za pomožne policiste ali na usposabljanje pomožnih policistov za opravljanje nalog v pomožni policiji ali opravljanje nalog v pomožni policiji, pravico do odsotnosti z dela.

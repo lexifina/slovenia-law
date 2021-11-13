@@ -1,0 +1,4 @@
+# 17. člen
+V 45. členu se za tretjim odstavkom dodata nova četrti in peti odstavek, ki se glasita:
+"(4) Policist, ki mu je prenehalo delovno razmerje v policiji, se v primeru ponovne sklenitve pogodbe o zaposlitvi v policiji na podlagi tretjega odstavka tega člena imenuje v isto stopnjo naziva in uvrsti v isti plačni razred, v katerega je bil imenovan oziroma uvrščen pred prenehanjem delovnega razmerja v policiji. Ne glede na določbo prejšnjega stavka policista ni mogoče uvrstiti v višji plačni razred, kot ga je na delovnem mestu mogoče doseči z napredovanjem.
+(5) Če je policist iz prejšnjega odstavka pred prenehanjem delovnega razmerja v policiji dosegel naziv višje stopnje, kot ga je mogoče doseči na delovnem mestu, za katerega ob ponovni zaposlitvi v policiji sklene pogodbo o zaposlitvi, se imenuje v najvišji naziv, ki ga je mogoče doseči na tem delovnem mestu.".
