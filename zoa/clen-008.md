@@ -1,0 +1,3 @@
+# 8. člen (komunikacijski dodatek)
+
+Ne glede na pogoj iz pete alineje drugega odstavka 6. člena tega zakona, se lahko gluhemu, slepemu ali gluhoslepemu uporabniku, ki potrebuje izmed storitev osebne asistence iz prejšnjega člena samo pomoč pri komunikaciji in spremstvu, tudi če ne izpolnjuje pogoja najvišje starostne meje iz tretje alineje drugega odstavka 6. člena tega zakona, odobri osebna asistenca v obsegu 30 ur na mesec. Uporabnik lahko namesto osebne asistence izbere denarno nadomestilo v višini dodatka za pomoč in postrežbo pri opravljanju večine osnovnih življenjskih potreb, ki je določen v zakonu, ki ureja pokojninsko in invalidsko zavarovanje.
