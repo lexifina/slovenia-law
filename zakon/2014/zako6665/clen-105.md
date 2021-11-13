@@ -1,2 +1,1 @@
-# 105. člen (obvezen izravnalni trg)
-Za potrebe učinkovitega in transparentnega delovanja izravnalnega trga so proizvajalci in odjemalci dolžni sodelovati na izravnalnem trgu glede na tehnične parametre njihovih naprav ter druge relevantne lastnosti in okoliščine. Način sodelovanja proizvodnih in porabniških enot na izravnalnem trgu se podrobneje uredi s pravili za izvajanje izravnalnega trga z elektriko iz četrtega odstavka 97. člena tega zakona.
+# 105. člen (prenehal veljati)

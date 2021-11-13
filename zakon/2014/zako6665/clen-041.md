@@ -1,5 +1,1 @@
-# 41. člen (dostop do podatkov o porabi)
-(1) Dobavitelj mora končne odjemalce brezplačno periodično obveščati o njihovi porabi elektrike, o značilnostih porabe ter o možnostih učinkovite rabe energije, in sicer dovolj pogosto, da lahko odjemalci sami uravnavajo svojo porabo elektrike.
-(2) Elektrooperater mora odjemalcem, ki so uporabniki sistema, na katerem opravlja dejavnost operaterja, omogočiti dostop do podatkov o porabi. Podatke o tem mora zagotoviti v primernem roku, pri čemer se upoštevajo zmogljivost opreme odjemalca za merjenje porabe, zadevni produkt elektrike in stroškovna učinkovitost takšnih ukrepov. Elektrooperater mora dostop do podatkov omogočiti tudi drugi pravni ali fizični osebi, ki zahtevi za dostop do podatkov o porabi odjemalca predloži pooblastilo odjemalca za vsak primer posebej ali za vse bodoče primere do preklica.
-(3) Stroški dostopa iz prejšnjega odstavka morajo ustrezati neposrednim stroškom storitve operaterja. Končnim odjemalcem te storitve ni mogoče dodatno zaračunati.
-(4) Podrobnejši način dostopa do podatkov o porabi uredi elektrooperater v sistemskih obratovalnih navodilih.
+# 41. člen (prenehal veljati)

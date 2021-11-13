@@ -1,6 +1,1 @@
-# 56. člen (podelitev koncesije)
-(1) Glede podelitve koncesije za izvajanje gospodarske javne službe dejavnost sistemskega operaterja se uporabljajo predpisi o gospodarskih javnih službah in o javno-zasebnem partnerstvu, če ni s tem zakonom posamezno vprašanje urejeno drugače.
-(2) Za podelitev koncesije se izvede postopek javnega razpisa ali drugega konkurenčnega postopka, določenega s predpisi o javno-zasebnem partnerstvu, razen če se koncesija podeli gospodarski družbi, ki je v celoti v lasti Republike Slovenije, in če ne opravlja tržnih energetskih dejavnosti. V slednjem primeru se koncesija podeli z neposredno sklenitvijo koncesijske pogodbe.
-(3) Če je za pridobitev koncesije predviden konkurenčni postopek, se v koncesijskem aktu določijo splošni, pregledni, nediskriminatorni in sorazmerni pogoji, ki jih mora izpolnjevati pravna ali fizična oseba za pridobitev koncesije. Lastništvo prenosnega sistema oziroma njegovega dela, certifikat operaterja prenosnega sistema in imenovanje za operaterja prenosnega sistema ni pogoj za pridobitev koncesije.
-(4) Postopek podelitve koncesije na javnem razpisu vodi ministrstvo, pristojno za energijo. Odločbo o izbiri koncesionarja izda vlada.
-(5) Po dokončnosti odločbe o izbiri koncesionarja skleneta koncesionar in koncedent koncesijsko pogodbo.
+# 56. člen (prenehal veljati)

@@ -1,19 +1,3 @@
 ## 6. oddelek: Priključevanje na sistem in možnost odklopa uporabnika sistema
-# 147. člen (priključitev na sistem)
-(1) Za priključitev na prenosni ali distribucijski sistem ali njeno spremembo mora potencialni uporabnik sistema pridobiti soglasje za priključitev, skladno z zakonom, ki ureja graditev objektov, in tem zakonom. Soglasje za priključitev po tem zakonu se šteje za soglasje za priključitev na elektroenergetsko omrežje po zakonu, ki ureja gradnjo objektov. Za pridobitev soglasja pri novogradnji je potrebno elektrooperaterju predložiti idejno zasnovo ali idejni projekt, skladno z zakonom, ki ureja graditev objektov. Elektrooperater v soglasju za priključitev določi priključno mesto in pogoje za priključitev. Podrobnejše pogoje za soglasje za priključitev določajo sistemska obratovalna navodila.
-(2) Dokončno soglasje za priključitev velja dve leti. V tem roku mora imetnik soglasja za priključitev obstoječega objekta izpolniti vse pogoje, predpisane v soglasju za priključitev, in izvesti priključitev.
-(3) Če imetnik soglasja za priključitev gradi nov objekt, mora v roku iz prejšnjega odstavka predložiti dokončno gradbeno dovoljenje, s čimer se izdanemu soglasju za priključitev veljavnost podaljša za obdobje veljavnosti predloženega gradbenega dovoljenja.
-(4) Veljavnost soglasja za priključitev lahko elektrooperater na zahtevo imetnika soglasja za priključitev podaljša največ dvakrat, vendar vsakič največ za eno leto. Zahtevo za podaljšanje mora imetnik soglasja za priključitev podati 30 dni pred iztekom veljavnosti soglasja za priključitev.
-(5) Če je imetnik soglasja za priključitev pred potekom veljavnosti soglasja za priključitev sklenil pogodbo o priključitvi in plačal omrežnino za priključno moč, te za isto merilno mesto ni več dolžan plačati.
-(6) Po izvedbi priključitve veljajo pogoji iz soglasja za priključitev do ukinitve oziroma spremembe na merilnem mestu.
-(7) O izdaji ali zavrnitvi soglasja za priključitev odloča po javnem pooblastilu elektrooperater z odločbo v upravnem postopku.
-(8) Potencialni uporabnik sistema nima pravice do priključitve, če:
-- ne izpolnjuje predpisanih pogojev za priključitev,
-- bi zaradi priključitve prišlo do večjih motenj v oskrbi ali
-- bi priključitev elektrooperaterju povzročila nastanek nesorazmernih stroškov.
-(9) Nesorazmerni stroški iz prejšnjega odstavka pomenijo stroške gradnje priključitvenega voda do točke v sistemu, kjer je priključitev možna, ali stroške, ki so potrebni zaradi ojačitve obstoječega omrežja, ali kombinacijo obojega, pri čemer ni pričakovati, da bi v razumnem času prišlo do povečanja uporabe sistema na novem priključitvenem vodu oziroma obstoječem omrežju v tolikšnem obsegu, ki omogoča normalno amortizacijo naložbe.
-(10) V primeru iz tretje alineje osmega odstavka tega člena ima uporabnik sistema pravico do priključitve v skladu s sistemskimi obratovalnimi navodili, če sam krije stroške, ki so višji od sorazmernih.
-(11) O pritožbi zoper odločbo o izdaji ali zavrnitvi soglasja za priključitev odloča agencija. Zavrnjeni uporabnik sistema ima pravico do vpogleda v vso tehnično dokumentacijo elektrooperaterja v zvezi z zavrnitvijo soglasja za priključitev.
-(12) Po dokončnosti odločbe o soglasju za priključitev skleneta elektrooperater in uporabnik sistema, v korist katerega je bilo izdano soglasje za priključitev (v nadaljnjem besedilu: imetnik soglasja za priključitev), pogodbo o priključitvi, s katero pogodbeni stranki uredita medsebojna razmerja, ki se nanašajo na izvedbo priključka in priključitev, ter medsebojna razmerja v zvezi z vzdrževanjem priključka.
-(13) Uporabnik sistema mora zaprositi za novo soglasje za priključitev, če želi spremeniti obratovalne omejitve, zapisane v soglasju za priključitev.
-(14) Če elektrooperater končnemu odjemalcu zavrne priključitev ali zmanjšanje obratovalne omejitve, ker sistem nima zadostne zmogljivosti ali mu to onemogoča izvajanje obveznosti javne službe iz 37. člena tega zakona, se za zavrnitev uporablja 113. člen tega zakona. Glede višine sredstev, potrebnih za ojačitev sistema, se uporablja deveti odstavek tega člena o nesorazmernih stroških.
+## (prenehal veljati)
+# 147. člen (prenehal veljati)

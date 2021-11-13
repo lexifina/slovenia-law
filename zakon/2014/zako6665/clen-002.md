@@ -1,8 +1,8 @@
 # 2. člen (prenos in izvrševanje predpisov Evropske unije)
 (1) S tem zakonom se v pravni red Republike Slovenije prenašajo naslednje direktive Evropske unije:
-- Direktiva 2009/72/ES Evropskega parlamenta in Sveta z dne 13. julija 2009 o skupnih pravilih notranjega trga z električno energijo in o razveljavitvi Direktive 2003/54/ES (UL L št. 211 z dne 14. 8. 2009, str. 55; v nadaljnjem besedilu: Direktiva 2009/72/ES),
+- (prenehala veljati)
 - Direktiva 2009/73/ES Evropskega parlamenta in Sveta z dne 13. julija 2009 o skupnih pravilih notranjega trga z zemeljskim plinom in o razveljavitvi Direktive 2003/55/ES (UL L št. 211 z dne 14. 8. 2009, str. 94; v nadaljnjem besedilu: Direktiva 2009/73/ES),
-- Direktiva Evropskega parlamenta in Sveta 2005/89/ES o ukrepih za zagotavljanje zanesljivosti oskrbe z električno energijo in naložb v infrastrukturo (UL L št. 33 z dne 18. 1. 2006, str. 22; v nadaljnjem besedilu: Direktiva 2005/89/ES),
+- (prenehala veljati)
 - (prenehala veljati)
 - (prenehala veljati)
 - (prenehala veljati)
@@ -11,7 +11,7 @@
 - Direktiva 2009/31/ES Evropskega parlamenta in Sveta o geološkem shranjevanju ogljikovega dioksida in spremembi Direktive Sveta 85/337/EGS, Direktiv 2000/60/ES, 2001/80/ES, 2004/35/ES, 2006/12/ES, 2008/1/ES Evropskega parlamenta in Sveta ter Uredbe (ES) št. 1013/2006 (UL L št. 140 z dne 5. 6. 2009, str. 114; v nadaljnjem besedilu: Direktiva 2009/31/ES),
 - Direktiva (EU) 2019/692 Evropskega parlamenta in Sveta z dne 17. aprila 2019 o spremembi Direktive 2009/73/ES o skupnih pravilih notranjega trga z zemeljskim plinom (UL L št. 117 z dne 3. 5. 2019, str. 1; v nadaljnjem besedilu: Direktiva 2019/692/EU).
 (2) Ta zakon določa tudi pristojne organe za izvajanje in sankcije za kršitve naslednjih Uredb Evropske unije:
-- Uredbe (ES) št. 714/2009 Evropskega parlamenta in Sveta z dne 13. julija 2009 o pogojih za dostop do omrežja za čezmejne izmenjave električne energije in razveljavitvi Uredbe (ES) št. 1228/2003 (UL L št. 211 z dne 14. 8. 2009, str. 15; v nadaljnjem besedilu: Uredba (ES) št. 714/2009),
+- (prenehala veljati)
 - Uredbe (ES) št. 715/2009 Evropskega parlamenta in Sveta z dne 13. julija 2009 o pogojih za dostop do prenosnih omrežij zemeljskega plina in razveljavitvi Uredbe (ES) št. 1775/2005 (UL L št. 211 z dne 14. 8. 2009, str. 36; v nadaljnjem besedilu: Uredba (ES) št. 715/2009),
 - Uredbe (EU) 2017/1938 Evropskega parlamenta in Sveta z dne 25. oktobra 2017 o ukrepih za zagotavljanje zanesljivosti oskrbe s plinom in o razveljavitvi Uredbe (EU) št. 994/2010 (UL L št. 280 z dne 28. 10. 2017, str. 1; v nadaljnjem besedilu: Uredba 2017/1938/EU),
 - Uredbe (ES) št. 713/2009 Evropskega parlamenta in Sveta z dne 13. julija 2009 o ustanovitvi Agencije za sodelovanje energetskih regulatorjev (UL L 211 z dne 14. 8. 2009, str. 1; v nadaljnjem besedilu: Uredba (ES) št. 713/2009),

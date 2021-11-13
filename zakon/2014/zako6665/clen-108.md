@@ -1,7 +1,3 @@
 ## VI. poglavje: LOČEVANJE IN PREGLEDNOST RAČUNOVODSKIH IZKAZOV
-# 108. člen (revidiranje in objava letnih računovodskih izkazov)
-(1) Elektroenergetska podjetja morajo ne glede na lastništvo ali pravno obliko pripraviti, predložiti v revizijo in objaviti revidirane letne računovodske izkaze v skladu z zakonom, ki ureja gospodarske družbe, če ta zakon ne določa drugače.
-(2) Elektrooperater in najemodajalci in vzdrževalci iz prvega in tretjega odstavka 121. člena tega zakona, morajo ne glede na velikost pripraviti, revidirati in javno objaviti letne računovodske izkaze in letno poročilo na način, ki ga določa zakon, ki ureja gospodarske družbe, za velike družbe.
-(3) Elektrooperater in najemodajalci in vzdrževalci iz prvega in tretjega odstavka 121. člena tega zakona predložijo agenciji nerevidirano letno poročilo v treh mesecih po preteku koledarskega leta, revidirano letno poročilo in revizorjevo poročilo pa v roku osem dni od prejema revizorjevega poročila oziroma najkasneje v šestih mesecih po izteku koledarskega leta.
-(4) Pri reviziji letnih računovodskih izkazov se zlasti preveri upoštevanje zahtev iz 86. člena tega zakona glede izogibanja diskriminaciji in navzkrižnemu subvencioniranju ter zahtev iz četrtega in petega odstavka 120. člena tega zakona glede izkazovanja ugotovljenih odstopanj od regulativnega okvira.
-(5) Elektroenergetska podjetja, ki po zakonu, ki ureja gospodarske družbe, niso zavezana objavljati letnih računovodskih izkazov, morajo njihovo kopijo hraniti na sedežu, tako da je dostopna javnosti.
+## (prenehalo veljati)
+# 108. člen (prenehal veljati)

@@ -1,5 +1,7 @@
 ## Drugi del ELEKTRIČNA ENERGIJA
+## (prenehal veljati)
 ## I. poglavje: SPLOŠNE DOLOČBE
+## (prenehalo veljati)
 ## 1. oddelek: Uvodne določbe
-# 34. člen (uporaba določb tega dela)
-Določbe tega dela zakona se uporabljajo za elektroenergetska podjetja in za končne odjemalce elektrike.
+## (prenehal veljati)
+# 34. člen (prenehal veljati)

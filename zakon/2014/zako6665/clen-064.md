@@ -1,2 +1,1 @@
-# 64. člen (posebna določba v primeru državnega lastništva)
-Če je oseba iz 61. ali 63. člena Republika Slovenija ali druga država članica Evropske unije, lokalna skupnost ali organ teh oseb, se šteje, da so zahteve iz 61. in 63. člena tega zakona izpolnjene, če dva ločena organa teh oseb izvajata nadzor iz 14. točke 36. člena tega zakona nad sistemskim operaterjem ali prenosnim sistemom in nad podjetjem, ki opravlja dejavnost na področju proizvodnje ali dobave.
+# 64. člen (prenehal veljati)

@@ -1,11 +1,1 @@
-# 118. člen (naložbeni načrt elektrooperaterja)
-(1) Zaradi določitve regulativnega okvira pripravi elektrooperater naložbeni načrt in ga predloži agenciji do 31. januarja v letu, v katerem agencija odloča o regulativnem okviru. V naložbenem načrtu elektrooperater finančno ovrednoti naložbe iz veljavnega desetletnega razvojnega načrta, ki jih bo izvedel v naslednjem regulativnem obdobju. V naložbenem načrtu sistemski operater posebej razkrije naložbe, ki jih bo financiral iz namenskih prihodkov za upravljanje prezasedenosti čezmejnih vodov po Uredbi (ES) št. 714/2009.
-(2) V postopku določitve regulativnega okvira agencija preveri in oceni naložbeni načrt. Navedena ocena je podlaga za določitev načrtovanih upravičenih stroškov elektrooperaterja v naslednjem regulativnem obdobju. Pri oceni naložbenih načrtov in določitvi upravičenih stroškov elektrooperaterja agencija ni vezana na vrednosti naložb in dinamiko njihove izvedbe iz EKS, drugih načrtov razvoja na področju energetike ali načrtov razvoja elektrooperaterjev.
-(3) Če agencija pri oceni naložbenih načrtov ugotovi, da ima upoštevanje vseh naložb iz naložbenega načrta v upravičenih stroških elektrooperaterja prevelik vpliv na omrežnino, lahko upošteva le določene naložbe po prioritetnem vrstnem redu, kot so opredeljene v naložbenem načrtu.
-(4) Distribucijski operater mora v naložbenem načrtu posebej razkriti investicije, ki so namenjene za ohranjanje obratovalne sposobnosti obstoječe infrastrukture (rekonstrukcije) in investicije v novo infrastrukturo.
-(5) Če sistemski operater ne realizira načrtovanih naložb v povečanje povezovalnih zmogljivosti, ki naj bi jih skladno z naložbenim načrtom financiral iz namenskih prihodkov za upravljanje prezasedenosti čezmejnih vodov po Uredbi (ES) št. 714/2009, jih obravnava kot še neporabljene prihodke iz upravljanja prezasedenosti, ki se lahko porabijo le za namene iz šestega odstavka 16. člena Uredbe (ES) št. 714/2009 ter njene Priloge 1 oziroma jih agencija uporabi za znižanje omrežnin pri določitvi regulativnega okvira.
-(6) Agencija s splošnim aktom določi metodologijo za pripravo in ocenitev naložbenih načrtov, v katerem določi vsaj:
-- metodološke osnove za ocenjevanje in vrednotenje naložb;
-- vrste in obvezno vsebino naložbenih načrtov;
-- postopke za pripravo in ocenjevanje naložbene dokumentacije ter odločanje o naložbah;
-- minimum meril za ugotavljanje učinkovitosti projektov.
+# 118. člen (prenehal veljati)

@@ -1,2 +1,1 @@
-# 103. člen (vzajemnost)
-Operater trga lahko zavrne ali omeji vključitev v bilančno shemo zaradi vzajemnosti. Operater trga lahko odloči, da se ta pravica ne podeli pravni osebi, ustanovljeni v državi, v kateri nimajo vsi odjemalci pravice do proste izbire dobavitelja. Operater trga lahko takemu dobavitelju prepove dobavo tistim odjemalcem v Republiki Sloveniji, ki ne bi mogli kupovati elektrike od dobavitelja po lastni izbiri v državi, v kateri je dobavitelj ustanovljen.
+# 103. člen (prenehal veljati)
