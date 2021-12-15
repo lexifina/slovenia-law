@@ -1,0 +1,5 @@
+# 33. člen (podatki o značilnostih organa in darovalca pri izmenjavi organa)
+
+(1) Slovenija-transplant pred izmenjavo organa pošlje pristojnemu ali pooblaščenemu organu države članice prejemnice podatke o značilnostih odvzetega organa in darovalca v skladu z 20. členom tega zakona, ki jih je zbral donorski center. Če je Republika Slovenija država članice prejemnica, Slovenija-transplant navedene podatke pridobi od pristojnega ali pooblaščenega organa države članice izvora.
+
+(2) Kadar določeni podatki iz prejšnjega odstavka ob prvem pošiljanju niso na voljo in se pridobijo naknadno, se zagotovi pravočasen prenos teh podatkov, da se lahko upoštevajo pri medicinskih odločitvah, in sicer tako, da jih Slovenija-transplant posreduje pristojnemu ali pooblaščenemu organu države članice prejemnice ali jih, če je Republika Slovenija država članica prejemnica, od tega organa pridobi. Izmenjava podatkov lahko poteka tudi neposredno med donorskim centrom države članice izvora in transplantacijskim centrom države članice prejemnice.
