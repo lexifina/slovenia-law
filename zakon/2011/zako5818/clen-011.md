@@ -1,3 +1,0 @@
-# 11. člen
-Drugi odstavek 33. člena se spremeni tako, da se glasi:
-"Javni raziskovalni zavod in javni infrastrukturni zavod (v nadaljnjem besedilu: javni zavod) upravlja upravni odbor, v katerem so predstavniki ustanoviteljice, predstavniki zaposlenih in predstavniki uporabnikov oziroma zainteresirane javnosti. Upravni odbor ima od pet do devet članov. Število članov mora biti liho, pri čemer nobena od treh strani v upravnem odboru ne sme imeti večine. Število članov upravnega odbora in način njihovega imenovanja oziroma izvolitve se določita z aktom o ustanovitvi, podrobnejši način imenovanja oziroma izvolitve članov upravnega odbora pa se lahko določi s statutom javnega zavoda.".
