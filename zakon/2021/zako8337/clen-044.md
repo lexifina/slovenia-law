@@ -1,0 +1,3 @@
+# 44. člen
+(1) Z dnem uveljavitve tega zakona prenehata veljati 1. točka prvega odstavka in tretji odstavek 46. člena Zakona o pridobivanju in presaditvi delov človeškega telesa zaradi zdravljenja (Uradni list RS, št. 56/15).
+(2) Ne glede na prejšnji odstavek se 1. točka prvega odstavka in tretji odstavek 46. člena Zakona o pridobitvi in presaditvi delov človeškega telesa zaradi zdravljenja (Uradni list RS, št. 56/15) uporabljata za dejanja, storjena pred uveljavitvijo tega zakona, že začeti postopki o prekrških, ki do dneva uveljavitve tega zakona niso pravnomočno končani, pa se dokončajo po dosedanjih predpisih.

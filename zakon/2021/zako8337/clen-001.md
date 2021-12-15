@@ -1,0 +1,3 @@
+# 1. člen
+V Kazenskem zakoniku (Uradni list RS, št. 50/12 - uradno prečiščeno besedilo, 54/15, 6/16 - popr., 38/16, 27/17, 23/20 in 95/21) se za besedilom 61. člena, ki postane prvi odstavek, doda nov drugi odstavek, ki se glasi:
+"(2) Če se je v roku za izpolnitev obveznosti iz tretjega odstavka 57. člena tega zakonika, ki je bil obsojencu določen v sodbi, nad njim začel osebni stečaj, se tek roka za izpolnitev te obveznosti za čas trajanja osebnega stečaja prekine, rok, v katerem lahko sodišče sprejme odločitve iz prejšnjega odstavka, pa se ne glede na prejšnji odstavek za čas takšne prekinitve podaljša tudi čez mejo določene preizkusne dobe.".
