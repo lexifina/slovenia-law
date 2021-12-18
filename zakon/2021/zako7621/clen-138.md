@@ -1,0 +1,2 @@
+# 138. člen (vključitev v obvezno zavarovanje za DO po uradni dolžnosti)
+Z dnem začetka uporabe tega zakona se šteje, da so v obvezno zavarovanje za DO vključene vse osebe, ki so na dan začetka uporabe tega zakona vključene v obvezno zdravstveno zavarovanje in izpolnjujejo pogoje za zavarovanje v DO po 51. členu tega zakona. Njihovo prijavo v obvezno zavarovanje za DO izvede ZZZS po uradni dolžnosti.

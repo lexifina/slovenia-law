@@ -1,0 +1,3 @@
+# 146. člen (sprememba Pravil obveznega zdravstvenega zavarovanja)
+V Pravilih obveznega zdravstvenega zavarovanja (Uradni list RS, št. 30/03 - prečiščeno besedilo, 35/03 - popr., 78/03, 84/04, 44/05, 86/06, 90/06 - popr., 64/07, 33/08, 7/09, 88/09, 30/11, 49/12, 106/12, 99/13 - ZSVarPre-C, 25/14 - odl. US, 85/14, 10/17 - ZČmIS, 64/18, 4/20, 42/21 - odl. US, 61/21, 159/21 - ZZVZZ-P in 183/21) se v 9. členu v prvem odstavku 26. točka spremeni tako, da se glasi:
+"26. oskrbovalci družinskega člana, upravičenci do plačila za izgubljeni dohodek na podlagi zakona, ki ureja dolgotrajno oskrbo - z dnem pridobitve pravice do delnega plačila za izgubljeni dohodek po predpisih, ki urejajo dolgotrajno oskrbo;".

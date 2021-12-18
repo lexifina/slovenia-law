@@ -1,0 +1,2 @@
+# 100. člen (zbirke podatkov, ki jih zbira Zavod za pokojninsko in invalidsko zavarovanje Slovenije)
+Zavod za pokojninsko in invalidsko zavarovanje Slovenije (v nadaljnjem besedilu: ZPIZ) brezplačno zagotavlja ministrstvu, pristojnemu za zdravje, in ZZZS neposreden elektronski dostop do podatkov iz zbirk podatkov o višini, obdobju upravičenosti in datumu izplačila dodatka za pomoč in postrežbo na podlagi predpisov o pokojninskem in invalidskem zavarovanju za potrebe odločanja o pravicah do DO na prvi oziroma drugi stopnji.

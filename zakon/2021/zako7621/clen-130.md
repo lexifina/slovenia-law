@@ -1,0 +1,4 @@
+# 130. člen (financiranje dodatnih stroškov dela)
+(1) Od 1. decembra 2021 do začetka uporabe prve alineje 1. točke prvega odstavka 10. člena in tretjega odstavka 15. člena tega zakona, ki urejata pravico do DO v instituciji iz drugega odstavka 58. člena tega zakona, se izvajalcem socialno varstvene storitve institucionalnega varstva odraslih iz 50., 51., 52. in 54. člena ZSV in izvajalcem pomoči na domu iz tretjega odstavka 15. člena ZSV zagotavljajo sredstva za sofinanciranje dodatnih stroškov dela, ki so posledica aneksa h Kolektivni pogodbi za dejavnost zdravstva in socialnega varstva.
+(2) Zahtevki za izplačilo sredstev se z dokazili vložijo pri ministrstvu, pristojnem za socialne zadeve.
+(3) Podrobnejša merila, pogoje in postopek za dodelitev sredstev za kritje stroškov izplačil določi minister, pristojen za socialne zadeve.

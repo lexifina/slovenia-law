@@ -1,0 +1,4 @@
+# 13. člen (mirovanje pravic upravičenca)
+(1) Upravičencu uresničevanje pravice do DO na domu in uresničevanje pravice do DO v instituciji miruje v času, ko se zdravi v bolnišnici oziroma je obravnavan v drugi obliki institucionalne oskrbe, ki jo krije obvezno zdravstveno zavarovanje. Mirovanje pravic upravičenca nastopi prvi dan zdravljenja v bolnišnici oziroma prvi dan namestitve v drugi obliki institucionalne oskrbe.
+(2) Upravičencu se denarni prejemek iz 18. člena tega zakona ne izplača za čas trajanja bolnišničnega zdravljenja oziroma bivanja v drugi obliki institucionalne oskrbe, ki jo krije obvezno zdravstveno zavarovanje v skladu s predpisi o zdravstvenem varstvu in zdravstvenem zavarovanju, in je daljše od 30 zaporednih dni. Mirovanje nastopi 31. dan.
+(3) ZZZS po uradni dolžnosti preverja pogoje za mirovanje pravic do DO.

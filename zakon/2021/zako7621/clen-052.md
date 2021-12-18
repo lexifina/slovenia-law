@@ -1,0 +1,4 @@
+# 52. člen (posebni zakon glede obveznega zavarovanja za DO)
+(1) Pogoje obveznega zavarovanja za DO, osnovo za plačilo prispevkov in prispevno stopnjo, prihodke in odhodke obveznega zavarovanja za DO, način obračuna in plačevanja prispevkov ter zavezance določi posebni zakon. Posebni zakon določi tudi zbiranje in razporeditev drugih sredstev iz 6. točke 48. člena tega zakona.
+(2) Do začetka financiranja pravic iz DO v skladu s posebnim zakonom iz prejšnjega odstavka, se pravice iz DO financirajo iz prenesenih sredstev iz prvega in drugega odstavka 127. člena tega zakona.
+(3) Poleg financiranja iz prejšnjega odstavka in do začetka financiranja pravic iz DO v skladu z zakonom iz prvega odstavka tega člena, se za financiranje pravic iz DO manjkajoča sredstva zagotavljajo iz virov od 3. do 6. točke 48. člena tega zakona.
