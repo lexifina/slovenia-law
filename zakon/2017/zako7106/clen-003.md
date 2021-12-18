@@ -6,7 +6,7 @@ V tem zakonu uporabljeni pojmi imajo naslednji pomen:
 4. Kriza je stanje, v katerem so zaradi prekinitve delovanja kritične infrastrukture nastale ali lahko nastanejo posledice, ki presegajo mejno vrednost vsaj enega medsektorskega kriterija za ugotavljanje kritične infrastrukture.
 5. Lastniki ali upravljavci kritične infrastrukture (v nadaljnjem besedilu: upravljavci kritične infrastrukture) so gospodarske družbe, zavodi, državni organi in Banka Slovenije, ki imajo v lasti ali upravljajo kritično infrastrukturo.
 6. Načrtovanje zaščite kritične infrastrukture obsega ocenjevanje tveganj za delovanje kritične infrastrukture in oblikovanje ukrepov za zaščito kritične infrastrukture.
-7. Nosilci sektorjev kritične infrastrukture so posamezna ministrstva, ki so odgovorna za delovna področja, na katera spada kritična infrastruktura, in Banka Slovenije.
+7. Nosilci sektorjev kritične infrastrukture so posamezna ministrstva in službe Vlade Republike Slovenije, ki so odgovorni za delovna področja, na katera spada kritična infrastruktura, in Banka Slovenije.
 8. Ocena tveganj za delovanje kritične infrastrukture (v nadaljnjem besedilu: ocena tveganj) je rezultat celovitega postopka identifikacije, analize in ovrednotenja različnih virov tveganj za delovanje kritične infrastrukture, ki se izvede za zagotovitev podlage za oblikovanje ukrepov za zaščito kritične infrastrukture.
 9. Področje kritične infrastrukture obsega dejavnosti, povezane z ugotavljanjem, določanjem in zaščito kritične infrastrukture.
 10. Povečana ogroženost kritične infrastrukture je stanje, ki ga zazna pristojni državni organ in za katerega oceni, da bi lahko povzročilo nastanek izrednega dogodka ali krize.
