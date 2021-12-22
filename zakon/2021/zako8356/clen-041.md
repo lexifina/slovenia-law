@@ -1,0 +1,3 @@
+# 41. člen (začetek veljavnosti)
+(1) Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 13. februarja 2023, razen spremenjenih 48., 72., 77., 79. člena in novega 80.a člena zakona, ki se začnejo uporabljati 1. januarja 2022.
+(2) Do začetka uporabe spremenjenih 1., 2., 6., 13., 17., 20., 21., 24., 25., 28., 29., 30., 31., 32., 33., 34., 35., 36., 37., 39., 40., 41., 42., 48., 58., 59., 63., 64., 72., 77., 79., 103. in 104. člena zakona se uporabljajo 1., 2., 6., 13., 17., 20., 21., 24., 25., 28., 29., 30., 31., 32., 33., 34., 35., 36., 37., 39., 40., 41., 42., 48., 58., 59., 63., 64., 72., 77., 79., 103. in 104. člen Zakona o trošarinah (Uradni list RS, št. 47/16 in 92/21).

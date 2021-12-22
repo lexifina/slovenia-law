@@ -1,0 +1,3 @@
+# 39. člen (prehodna ureditev v zvezi z uporabo trošarinskega dokumenta in poenostavljenega trošarinskega dokumenta)
+(1) Za prejem trošarinskih izdelkov, ki so bili odpremljeni prejemniku in se je gibanje začelo do vključno 12. februarja 2023 se 32. člen Zakona o trošarinah (Uradni list RS, št. 47/16 in 92/21) uporablja do 28. februarja 2023.
+(2) Za prejem trošarinskih izdelkov ali popolnoma denaturiranega alkohola, ki so bili odpremljeni prejemniku v Slovenijo in se je gibanje začelo do vključno 12. februarja 2023 se 33. člen Zakona o trošarinah (Uradni list RS, št. 47/16 in 92/21) uporablja do 31. decembra 2023.

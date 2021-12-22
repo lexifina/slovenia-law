@@ -1,0 +1,3 @@
+# 14. člen
+V 31. členu se za petim odstavkom doda nov šesti odstavek, ki se glasi:
+"(6) Za nepravilnost v skladu s prvim odstavkom tega člena se šteje tudi, če osebe, ki sodelujejo pri gibanju trošarinskih izdelkov, sproščenih v porabo v skladu z 28. členom tega zakona, niso prijavljene kot certificirani prejemnik ali certificirani pošiljatelj ali začasno certificirani prejemnik ali začasno certificirani pošiljatelj v skladu s tem zakonom ali zakonodajo druge države članice ali če pošiljke ne spremlja elektronski poenostavljeni trošarinski dokument ali niso bili izvedeni predpisani postopki v skladu s 30. členom tega zakona.".
