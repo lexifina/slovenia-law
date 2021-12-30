@@ -1,0 +1,3 @@
+# 50. člen (neposredna oddaja uplenjene divjadi)
+
+Lovska družina ali lovišče s posebnim namenom (v nadaljnjem besedilu: lovska organizacija) lahko ne glede na predpis, ki določa majhne količine živil, pogoje za njihovo pridelavo ter nekatera odstopanja za obrate na področju živil živalskega izvora, iz zbiralnice uplenjene divjadi končnemu potrošniku ali obratom za prodajo na drobno, ki neposredno oskrbujejo končnega potrošnika, proda do 50 % planiranega letnega odvzema posamezne vrste divjadi iz narave v skladu z letnimi načrti upravljavskih območij, določenih za posamezno vrsto divjadi v lovski organizaciji.

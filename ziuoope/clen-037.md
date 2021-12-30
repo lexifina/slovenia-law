@@ -1,0 +1,5 @@
+## 3.2. Zagotavljanje likvidnosti podjetij preko javnih skladov
+
+# 37. člen (namensko premoženje javnega sklada za likvidnostna sredstva za podjetja)
+
+V primeru, ko Javni sklad Republike Slovenije za podjetništvo in Javni sklad Republike Slovenije za regionalni razvoj in razvoj podeželja od ustanovitelja prejmeta namensko premoženje za izvajanje finančnih produktov, se lahko namensko premoženje javnega sklada zmanjša, vendar največ do minimuma namenskega premoženja javnega sklada, določenega v zakonu, ki ureja delovanje javnih skladov. Ustanovitelj v pogodbi, s katero se na javni sklad prenašajo namenska sredstva za izvajanje finančnih produktov, določi upravičene namene porabe teh sredstev ter s tem poda soglasje k zmanjšanju namenskega premoženja. Sklep o zmanjšanju namenskega premoženja zaradi pokrivanja presežka odhodkov nad prihodki v rezultatu poslovanja javnega sklada na podlagi tega člena sprejme ustanovitelj ob sprejemu letnega poročila javnega sklada v skladu z zakonom, ki ureja delovanje javnih skladov.

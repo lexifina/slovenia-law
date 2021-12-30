@@ -1,0 +1,5 @@
+# 54. člen (dodatek za nevarnost in posebne obremenitve v času epidemije zasebnim izvajalcem)
+
+(1) Zaposleni pri izvajalcu socialno varstvene storitve institucionalno varstvo in socialno varstvene storitve pomoč družini na domu iz tretjega odstavka 41.b člena ZSV izven mreže javne službe ter izvajalcu nastanitvenih socialno varstvenih programov iz 18.s člena ZSV in tretjega člena Pravilnika o sofinanciranju socialnovarstvenih programov (Uradni list RS, št. 70/16 in 34/19), ki je pri svojem delu nadpovprečno izpostavljen tveganju za svoje zdravje oziroma prekomerno obremenjen zaradi obvladovanja epidemije, je upravičen do dodatka za nevarnost in posebne obremenitve v času epidemije, ki znaša največ v višini 65 % urne postavke osnovne plače zaposlenega. Dodatek izplača izvajalec socialno varstvene storitve.
+
+(2) Sredstva za financiranje dodatka iz prejšnjega odstavka se zagotovijo v proračunu Republike Slovenije. Obseg sredstev za financiranje dodatka iz tega člena, njihovo razdelitev ter kriterije za razdelitev določi Vlada Republike Slovenije.

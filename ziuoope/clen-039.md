@@ -1,0 +1,5 @@
+## 3.4. Ukrepi na področju infrastrukture
+
+# 39. člen (zagotovitev finančnih sredstev SID banki za namen financiranja gospodarskih subjektov na področju cestnih prevozov)
+
+Za ohranitev delovanja gospodarskih subjektov na področju prevozov potnikov ali blaga v cestnem prometu Republika Slovenija in SID banka dogovorita ukrep finančnega inženiringa iz petega odstavka 106.f člena ZJF za namen financiranja gospodarskih subjektov na področju cestnih prevozov. Za izvajanje ukrepa finančnega inženiringa Republika Slovenija v letu 2020 do 31. maja 2021 nameni 10 mio eurov, SID banka pa 25 mio eurov, za financiranje gospodarskih subjektov za namen financiranja naložb in tekočega poslovanja. Prvih 28,57 % primanjkljaja iz naslova upravičenih stroškov instrumentov podpore do ciljnih skupin končnih prejemnikov sredstev se krije v breme sredstev, ki jih zagotavlja Republika Slovenija, skladno s prvim stavkom tega člena, ves nadaljnji primanjkljaj iz naslova upravičenih stroškov instrumentov podpore do ciljnih skupin končnih prejemnikov sredstev pa bremeni SID banko. Izvajanje ukrepa finančnega inženiringa je urejeno z uredbo iz 106.l člena ZJF.
