@@ -1,2 +1,0 @@
-## VII. PLANIRANJE IN ZAGOTAVLJANJE SREDSTEV
-# 29. člen (prenehal veljati)
