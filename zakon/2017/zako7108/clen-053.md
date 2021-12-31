@@ -1,5 +1,0 @@
-# 53. člen (prevlada javne koristi)
-(1) Če pristojni upravni organ za gradbene zadeve skladno s predpisano metodologijo za presojo sprejemljivosti ugotovi, da je gradnja objekta neugodno ocenjena, o tem obvesti investitorja. Ta lahko najpozneje v 90 dneh po vročitvi obvestila predlaga uvedbo postopka prevlade druge javne koristi nad javno koristjo ohranjanja narave (v nadaljnjem besedilu: prevlada javne koristi).
-(2) Predlog za uvedbo postopka prevlade javne koristi mora vsebovati dopolnjeno poročilo o vplivih na okolje, izdelano v skladu s predpisom, ki ureja presojo sprejemljivosti, in dokazila o izpolnjevanju pogojev za prevlado javne koristi.
-(3) Po prejemu predloga iz prejšnjega odstavka pristojni upravni organ za gradbene zadeve prekine integralni postopek do odločitve o predhodnem vprašanju prevlade javne koristi.
-(4) O prevladi javne koristi odloči vlada pod pogoji in po postopku, kot jih za prevlado javne koristi določa predpis, ki ureja ohranjanje narave, razen če ta zakon določa drugače.

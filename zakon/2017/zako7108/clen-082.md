@@ -1,4 +1,0 @@
-# 82. člen (inšpekcijski ukrepi v zvezi z nelegalnim objektom)
-(1) V primeru nelegalnega objekta gradbeni inšpektor, drug pristojni inšpektor ali občinski inšpektor odredi, da se gradnja takoj ustavi in da se zgrajeni objekt ali del objekta v določenem roku odstrani na stroške inšpekcijskega zavezanca, vzpostavi prejšnje stanje ali drugače sanira objekt, del objekta oziroma zemljišče, če vzpostavitev v prejšnje stanje ni mogoča.
-(2) Ne glede na določbe prejšnjega odstavka gradbeni inšpektor ob nelegalni spremembi namembnosti ukrepa s smiselno uporabo 84. člena tega zakona.
-(3) Če je za objekt izdan sklep o dovolitvi obnove postopka in zadržanju izvršitve gradbenega dovoljenja, gradnja pa se nadaljuje, gradbeni inšpektor odredi, da se opravi izvršba s prisilitvijo v skladu z 91. členom tega zakona.

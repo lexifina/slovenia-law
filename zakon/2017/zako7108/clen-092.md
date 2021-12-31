@@ -1,9 +1,0 @@
-## V. poglavje: Druge sankcije
-# 92. člen (nadomestilo za degradacijo in uzurpacijo prostora)
-(1) Investitor oziroma lastnik nedovoljenega objekta mora plačati nadomestilo za degradacijo in uzurpacijo prostora. Če ni mogoče ugotoviti, kdo je investitor oziroma lastnik objekta, mora nadomestilo plačati lastnik zemljišča, na katerem je takšna gradnja.
-(2) Stopnja degradacije in uzurpacije prostora se ugotavlja in vrednoti na podlagi značilnosti območja, kjer je nedovoljen objekt, na podlagi značilnosti objekta in vrste nedovoljenega objekta.
-(3) Oseba iz prvega odstavka tega člena plača nadomestilo za degradacijo in uzurpacijo prostora na podlagi odločbe, ki jo izda pristojni upravni organ za gradbene zadeve po uradni dolžnosti, ko ugotovi, da se zahteva za izdajo dovoljenja po tem zakonu nanaša na nedovoljen objekt ali ko mu gradbeni ali drug pristojni inšpektor pošlje pravnomočno odločbo, s katero je izrečen ukrep zaradi takšne gradnje.
-(4) Oseba iz prvega odstavka tega člena plača nadomestilo za degradacijo in uzurpacijo prostora tudi na podlagi pravnomočne odločbe občinskega inšpektorja, s katero je ugotovljeno, da se gradnja, za katero ni predpisana pridobitev gradbenega dovoljenja, izvaja ali da je objekt že zgrajen v nasprotju s prostorskim izvedbenim aktom ali drugim predpisom občine.
-(5) Sredstva, pridobljena z vplačili nadomestil za degradacijo in uzurpacijo prostora iz tretjega odstavka tega člena, so v višini 50 % prihodek proračuna občine, na katere območju je nedovoljen objekt, v višini 50 % pa prihodek državnega proračuna.
-(6) Sredstva, pridobljena z vplačili nadomestil za degradacijo in uzurpacijo prostora iz četrtega odstavka tega člena, so v celoti prihodek proračuna občine, na katere območju je nedovoljen objekt.
-(7) Podrobnejša merila za izračun višine nadomestila za degradacijo in uzurpacijo, način izračunavanja nadomestila za degradacijo in uzurpacijo ter način njegovega plačila predpiše vlada.

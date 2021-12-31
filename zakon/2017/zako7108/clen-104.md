@@ -1,2 +1,0 @@
-# 104. člen (posebno hudi prekrški)
-Če je narava prekrška iz prve alineje prvega odstavka 98. člena, prve alineje prvega odstavka 101. člena ali devete alineje prvega odstavka 101. člena tega zakona posebno huda zaradi višine povzročene škode ali višine pridobljene protipravne premoženjske koristi ali zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, se kaznuje s trikratnikom predpisane globe.

@@ -1,4 +1,0 @@
-# 95. člen (zastavna pravica)
-(1) Republika Slovenija in občina imata v zavarovanje terjatev iz naslova stroškov, nastalih v inšpekcijskem postopku, in denarnih kazni, odmerjenih na podlagi tega zakona, do celotnega poplačila zastavno pravico na celotnem nepremičnem premoženju inšpekcijskega zavezanca.
-(2) Gradbeni inšpektor, drug inšpektor ali občinski inšpektor o izdaji aktov, ki so podlaga za terjatve iz prejšnjega odstavka, nemudoma obvesti zemljiškoknjižno sodišče in priloži izvršljiv akt. Zemljiškoknjižno sodišče po uradni dolžnosti vpiše zastavno pravico na nepremičninah v zemljiško knjigo.
-(3) Izbris zastavne pravice iz prejšnjega odstavka opravi pristojno sodišče na podlagi predloga organa, ki je izdal izvršljiv akt, na podlagi katerega je bila zastavna pravica vpisana v zemljiško knjigo.

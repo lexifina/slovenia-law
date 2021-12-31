@@ -1,7 +1,0 @@
-# 70. člen (komisija za tehnični pregled)
-(1) Pristojni upravni organ za gradbene zadeve po popolnosti zahteve za izdajo uporabnega dovoljenja s sklepom imenuje komisijo za tehnični pregled (v nadaljnjem besedilu: komisija) in določi datum tehničnega pregleda. Zoper sklep o imenovanju komisije ni dovoljena pritožba.
-(2) Za člane komisije se imenujejo predstavniki pristojnih mnenjedajalcev ter po potrebi tudi izvedence, glede na vrsto objekta. Če so pristojni mnenjedajalci do imenovanja komisije že podali svoje izjave, iz katerih izhaja, da so izpolnjeni pogoji iz četrtega odstavka 71. člena tega zakona z vidika njihove pristojnosti, se jih v komisijo ne imenuje.
-(3) Tehnični pregled in delo komisije vodi uradna oseba pristojnega upravnega organa za gradbene zadeve. Če je zaradi tehnične ali druge specifičnosti objekta potrebno ali če pristojni upravni organ za gradbene zadeve nima potrebnega in zadostnega znanja, se lahko v komisijo imenujejo tudi izvedenci v skladu s predpisom, ki ureja splošni upravni postopek. Za izvedence s področja arhitekturnih in inženirskih storitev se imenujejo pooblaščeni arhitekti in inženirji.
-(4) Sklep o imenovanju komisije se vroči investitorju in članom komisije.
-(5) O datumu tehničnega pregleda pristojni upravni organ za gradbene zadeve obvesti pristojne inšpekcijske službe.
-(6) Investitor o datumu tehničnega pregleda obvesti udeležence pri graditvi in zagotovi njihovo udeležbo pri tehničnem pregledu.

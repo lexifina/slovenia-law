@@ -1,2 +1,0 @@
-# 58. člen (pravno varstvo)
-Nevladne organizacije iz prvega odstavka 54. člena tega zakona imajo ne glede na določbe predpisa, ki ureja upravni spor, pravico vložiti tožbo v upravnem sporu kot zastopnik javnega interesa na področju njihovega delovanja, tudi če niso bili udeleženi v postopku izdaje gradbenega dovoljenja, ki se v upravnem sporu izpodbija. Tožba se v tem primeru lahko vloži v roku 30 dni od objave odločbe na spletnih straneh e-uprave.

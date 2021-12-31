@@ -1,9 +1,0 @@
-# 31. člen (pridobivanje mnenj)
-(1) Investitor pred vložitvijo zahteve za izdajo gradbenega dovoljenja pridobi mnenja pristojnih mnenjedajalcev.
-(2) Mnenje se pridobi, če je nameravana gradnja takšna, da je zanjo v skladu s predpisi treba pridobiti mnenje pristojnega mnenjedajalca ali če se gradnja nahaja v varovalnem pasu komunalne infrastrukture. Če varovalni pas s predpisom ni določen, se šteje, da je širok 3 m, merjeno od osi voda.
-(3) Mnenjedajalec glede skladnosti s prostorskimi izvedbenimi akti in drugimi predpisi občine glede varovalnih pasov občinskih javnih cest in glede minimalne komunalne oskrbe, ki sodi v okvir obvezne občinske gospodarske javne službe, je občina, na katere območju se nahaja nameravana gradnja, razen na območju državnega prostorskega načrta.
-(4) V mnenju se mnenjedajalec opredeli glede skladnosti dokumentacije za pridobitev gradbenega dovoljenja s predpisi iz njegove pristojnosti ali pogoji iz predodločbe ter določi morebitne pogoje za izdelavo dokumentacije za izvedbo gradnje in uporabo objekta.
-(5) Zahteva za izdajo mnenja mora vsebovati podatke, določene v predpisu iz osmega odstavka 29. člena tega zakona.
-(6) Mnenjedajalec mora mnenje izdati v 15 dneh od prejema popolne zahteve za izdajo mnenja, razen če je v posebnem zakonu predpisan daljši rok. Pri nepopolni zahtevi za izdajo mnenja mnenjedajalec zahteva dopolnitev v desetih dneh od prejema zahteve, sicer se šteje, da je zahteva za izdajo mnenja popolna.
-(7) Če mnenjedajalec ugotovi, da dokumentacija za pridobitev gradbenega dovoljenja ni izdelana v skladu s predpisi iz njegove pristojnosti ali s pogoji, določenimi v predodločbi, da mnenje, da se ne strinja z nameravano gradnjo.
-(8) Če ima mnenje določen čas veljavnosti, ne glede na določbe predpisov ta preneha teči, ko investitor vloži zahtevo za izdajo gradbenega dovoljenja. Če je zahteva za izdajo gradbenega dovoljenja zavrnjena, velja čas veljavnosti, naveden v mnenju.

@@ -1,3 +1,0 @@
-# 96. člen (označitev inšpekcijskega ukrepa)
-(1) Inšpektor po vročitvi inšpekcijske odločbe, s katero je prepovedana uporaba ali vgradnja gradbenih proizvodov, odrejena odprava nepravilnosti, odrejena ustavitev izvajanja gradnje ali odstranitev objekta, gradbišče oziroma objekt označi s tablo, ne glede na to, ali je inšpekcijski zavezanec oziroma lastnik navzoč. Na tabli morajo biti podatki o organu, ki je izdal odločbo, o vrsti kršitve, o izrečenem ukrepu ter številka in datum odločbe.
-(2) Ne glede na prejšnji odstavek se označitev ne izvede, kadar za gradnjo ni predpisano gradbeno dovoljenje in pri nezahtevnih objektih.

@@ -1,2 +1,0 @@
-# 75. člen (uporabno dovoljenje po posebnih predpisih)
-Za objekt, za katerega je opravljen tehnični pregled po posebnih predpisih, se pristojnemu upravnemu organu za gradbene zadeve predložijo dokazila o izvedenem tehničnem pregledu in prevzemu v skladu s posebnimi predpisi. Ta nadomestijo izvedbo tehničnega pregleda in posebnega ugotovitvenega postopka v skladu s tem zakonom v celoti ali v delu, na katerega se ta dokazila nanašajo.

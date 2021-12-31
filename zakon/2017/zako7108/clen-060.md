@@ -1,6 +1,0 @@
-## Peti del: IZVAJANJE GRADNJE
-# 60. člen (obveznost zakoličenja objekta)
-(1) Pred začetkom novogradnje zahtevnega ali manj zahtevnega objekta, razen prizidave, je treba izvesti zakoličenje objekta v skladu s pogoji iz gradbenega dovoljenja in dokumentacije za izvedbo gradnje.
-(2) Če so ob zakoličenju med stanjem na terenu in pogoji v gradbenem dovoljenju glede lege nameravane gradnje in objekta gospodarske javne infrastrukture, na katerega naj bi se objekt priključil, razlike, ki onemogočajo izpolnitev pogojev iz gradbenega dovoljenja, se zakoličenje objekta lahko opravi na podlagi spremenjenega ali novega gradbenega dovoljenja, razen če gre za dopustna odstopanja v skladu s 66. členom tega zakona.
-(3) Zakoličenje objekta se izvaja kot geodetska storitev. Izvaja ga pooblaščeni inženir geodetske stroke v skladu s predpisom, ki ureja arhitekturno in inženirsko dejavnost.
-(4) O izvedenem zakoličenju objekta se sestavi zakoličbeni zapisnik, ki ga podpiše pooblaščeni inženir s področja geodezije, in ki vsebuje podatke o zakoličenih koordinatah, oseh, višinah in drugih zakoličenih točkah, podatke o gradbenem dovoljenju, na podlagi katerega je bila zakoličba izvedena, podatke o podjetju in pooblaščenem inženirju, ki je zakoličbo izvedel, in podatke o morebitnih odstopanjih iz drugega odstavka tega člena.

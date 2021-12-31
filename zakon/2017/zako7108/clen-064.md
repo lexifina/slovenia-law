@@ -1,5 +1,0 @@
-# 64. člen (obveznosti vodje nadzora)
-(1) Če vodja nadzora med izvajanjem gradnje ugotovi, da ni pridobljeno predpisano pravnomočno gradbeno dovoljenje, da ni prijavljen začetek gradnje ali da gre za neskladje, ki presega dopustna odstopanja iz 66. člena tega zakona, neskladje z gradbenimi predpisi, ali pa, da vgrajeni gradbeni in drugi proizvodi, inštalacije, tehnološke naprave in oprema ter izvedeni postopki niso dokazani z ustreznimi dokumenti, mora o tem takoj obvestiti investitorja in izvajalca ter ugotovitve in predloge, kako stanje popraviti, vpisati v gradbeni dnevnik.
-(2) Vodja nadzora svoje ugotovitve vpisuje v gradbeni dnevnik. Z lastnoročnim podpisom gradbenega dnevnika potrjuje, da so podatki oziroma vpisi, vneseni v gradbeni dnevnik, resnični.
-(3) Če investitor oziroma izvajalec kljub opozorilu vodje nadzora nepravilnosti ne odpravi, ta gradnjo ustavi oziroma prepreči nastanek škode in nepravilnosti sporoči pristojni inšpekciji.
-(4) Če se med gradnjo zamenja vodja nadzora, se gradnja ustavi, dokler je ne prevzame nov vodja nadzora. Izvajajo se lahko le dela za zaščito objekta ter okolice zaradi zavarovanja zdravja in življenja ljudi.
