@@ -1,0 +1,5 @@
+# 34. člen (uskladitev drugih zakonov)
+(1) V Zakonu o preprečevanju dela in zaposlovanja na črno (Uradni list RS, št. 32/14, 47/15 - ZZSDT in 43/19) se v 27. členu:
+- v prvem odstavku za besedilom "Republiki Sloveniji" črtata vejica in beseda "se", za besedilom "tega zakona" se črtata vejica in besedilo "izloči iz postopkov javnega naročanja in",
+- v šestem odstavku drugi stavek spremeni tako, da se glasi: "V obvestilu navede polno ime in matično številko pravne osebe, tujega pravnega subjekta ali samozaposlene osebe ter datum, od katerega ta oseba izgubi ali se ji omeji pravica do javnih sredstev, vključno s sredstvi Evropske unije, dodeljenimi na podlagi javnega razpisa ali javnega povabila, namenjenega programom zaposlovanja in usposabljanja, ki pomenijo državno pomoč ali pomoč po pravilu "de minimis".".
+(2) V Zakonu o nekaterih koncesijskih pogodbah (Uradni list RS, št. 9/19) se v 45. členu v četrtem odstavku v tretji alineji besedilo "negativnimi referencami" nadomesti z besedilom "izrečenimi stranskimi sankcijami izločitve iz postopkov javnega naročanja".

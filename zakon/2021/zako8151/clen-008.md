@@ -1,0 +1,2 @@
+# 8. člen
+V 46. členu se v devetem odstavku na koncu doda besedilo, ki se glasi: "Ne glede na prvi odstavek 58. člena in deseti odstavek 90. člena tega zakona naročniku v primeru iz č) točke prvega odstavka tega člena ni treba objaviti odločitve na portalu javnih naročil in pred tem poslati obvestila iz 57. člena tega zakona v objavo pred objavo odločitve, temveč lahko odločitev vroči v skladu z zakonom, ki ureja upravni postopek, če isti dan, ko se ponudnikom pošlje odločitev, v objavo pošlje tudi obvestilo iz 57. člena tega zakona.".

@@ -1,0 +1,3 @@
+# 15. člen
+V 67. členu se v prvem odstavku v prvem stavku za besedilom "javnega naročila" dodata vejica in besedilo "razen tistih sestavnih delov dokumentacije, kjer zaradi oblike, velikosti ali zagotavljanja zaščite datotek to ni mogoče,", besedilo "ali prek njega" pa se črta.
+V četrtem odstavku se v tretji alineji za drugim stavkom doda besedilo, ki se glasi: "Ne glede na prejšnji stavek se pogodba za izvedbo javnega naročila gradnje ne razveže, če bi razveza pogodbe naročniku povzročila nesorazmerne stroške ali bistvene težave pri nemoteni izvedbi gradnje ali nesorazmerno časovno zamudo in pod pogojem, da naročnik izvajalca najkasneje v 20. dneh od seznanitve s kršitvijo obvesti, da se pogodba ne razveže.".

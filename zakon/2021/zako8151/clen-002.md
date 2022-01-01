@@ -1,0 +1,4 @@
+# 2. člen
+V 21. členu se v prvem odstavku v točki a) v prvi alineji znesek "20.000 eurov" nadomesti z zneskom "40.000 eurov", v drugi alineji pa se znesek "40.000 eurov" nadomesti z zneskom "80.000 eurov". V tretji alineji se za besedilom "79713000-5" dodata vejica in besedilo "79100000-5, 79110000-8, 79111000-5, 79112000-2, 79112100-3 in 79140000-7".
+V točki b) se v tretji alineji za besedilom "79713000-5" dodata vejica in besedilo "79100000-5, 79110000-8, 79111000-5, 79112000-2, 79112100-3 in 79140000-7".
+V drugem odstavku se v prvem stavku za besedilom "prejšnjega odstavka" doda besedilo "in javna naročila, ki se oddajo kot posamezni izločeni sklopi v skladu s petim odstavkom 73. člena tega zakona, ter javna naročila iz 15., 16., 17. in 18. točke prvega odstavka 27. člena tega zakona". V tretjem stavku se besedilo "na svoji spletni strani ali" črta, besedilo "ocenjena vrednost" pa se nadomesti z besedilom "vrednost brez DDV".
