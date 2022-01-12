@@ -1,0 +1,5 @@
+# 22. člen (vrnitev na delovno mesto ali funkcijo po prenehanju napotitve)
+
+(1) Napoteni javni uslužbenec ali pravosodni funkcionar se mora po prenehanju opravljanja nalog v misiji ali mednarodni organizaciji vrniti na ustrezno delovno mesto ali funkcijo k delodajalcu v Republiki Sloveniji. Ustrezno delovno mesto je delovno mesto, za katero napotena oseba izpolnjuje predpisane pogoje ali se opravlja v isti stopnji naziva, če se delo na delovnem mestu opravlja v več nazivih. Napoteni javni uslužbenec ali pravosodni funkcionar ima pred začetkom in po izteku napotitve pravico do odsotnosti z nadomestilom plače zaradi selitve v drugo stanovanje v skladu z zakonom in podzakonskim predpisom ali kolektivno pogodbo.
+
+(2) Delodajalec ne sme osebe iz prejšnjega odstavka zaradi napotitve postavljati v manj ugoden položaj. Med napotitvijo v misijo ali mednarodno organizacijo javnemu uslužbencu teče napredovalno obdobje. Letno oceno mu poda pristojni organ, pri čemer se za čas opravljanja dela v misiji ali mednarodni organizaciji upošteva ocena mednarodne organizacije ali poročilo o delu.

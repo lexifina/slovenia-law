@@ -1,0 +1,9 @@
+# 18. člen (plača in drugi prejemki napotene osebe)
+
+(1) Plača, povračila stroškov, nadomestila in drugi prejemki napotenega javnega uslužbenca ali pravosodnega funkcionarja se določijo v skladu z zakonom in podzakonskimi predpisi, ki urejajo sistem plač v javnem sektorju in povračila stroškov in drugih prejemkov. Če dnevno nadomestilo mednarodne organizacije, ki ga prejme napoteni javni uslužbenec ali pravosodni funkcionar, presega znesek dnevnega nadomestila, določenega z uredbo, ki ureja plače in druge prejemke javnih uslužbencev za delo v tujini, je javni uslužbenec ali pravosodni funkcionar upravičen do plače, ki bi jo prejemal, če bi delo opravljal v Republiki Sloveniji. Skupni znesek plače, povračil stroškov, nadomestil in drugih prejemkov napotenega javnega uslužbenca ali pravosodnega funkcionarja ne more znašati manj, kot bi znašal skupni znesek plače, povračil stroškov, nadomestil in drugih prejemkov po uredbi, ki ureja plače in druge prejemke javnih uslužbencev za delo v tujini.
+
+(2) Napoteni javni uslužbenec ali pravosodni funkcionar je delodajalca dolžan obvestiti o višini vseh prejemkov, skupaj s povračili stroškov, tudi enkratnih, ki jih prejme od mednarodne organizacije, ter mu predložiti podpisan sporazum z mednarodno organizacijo ali drug dokument, v katerem so navedeni vsi prejemki, ki jih javni uslužbenec ali pravosodni funkcionar prejme od mednarodne organizacije v zvezi z napotitvijo.
+
+(3) Določba drugega stavka prvega odstavka tega člena ne velja za javne uslužbence ali pravosodne funkcionarje, napotene na delo v mednarodne civilne misije na območjih civilnega kriznega upravljanja.
+
+(4) Napotena oseba, ki sklene dogovor o napotitvi, prejema prejemke v zvezi z napotitvijo v skladu z internimi pravili mednarodne organizacije. Republika Slovenija do napotenih oseb iz tega odstavka nima nobenih finančnih obveznosti.

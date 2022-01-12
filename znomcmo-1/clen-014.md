@@ -1,0 +1,9 @@
+# 14. člen (postopek izbire kandidatov brez objave poziva in s potrditvijo kandidature)
+
+(1) Ministrstvo, pristojno za zunanje zadeve, lahko na predlog izbirne komisije potrdi kandidaturo državljana Republike Slovenije, ki se prijavi neposredno na razpis misije ali mednarodne organizacije, če to zahteva misija ali mednarodna organizacija in če je to v interesu Republike Slovenije.
+
+(2) Kandidati iz prejšnjega odstavka morajo pred potrditvijo kandidature ministrstvu, pristojnemu za zunanje zadeve, poslati razpis misije ali mednarodne organizacije, prijavo na razpis, soglasje predstojnika, če je kandidat javni uslužbenec, oziroma mnenje predstojnika, če je kandidat pravosodni funkcionar, življenjepis in dokazila o tem, da izpolnjujejo pogoje za mesto, na katero se prijavljajo. Ministrstvo, pristojno za zunanje zadeve, o prijavi obvesti pristojno izbirno komisijo in ji pošlje dokumentacijo, ki so jo predložili kandidati. Ti praviloma pred potrditvijo kandidature opravijo pogovor z izbirno komisijo. Za odločitev o potrditvi kandidature se smiselno uporabljajo določbe četrtega, petega in šestega odstavka 12. člena tega zakona.
+
+(3) Pristojni organ mora kandidata, ki je javni uslužbenec in ni prejel soglasja predstojnika, ali kandidata, ki ni zaposlen v javnem sektorju, že pred odločitvijo izbirne komisije o potrditvi kandidature obvestiti o bistvenih pogojih, pod katerimi se bo izvajala napotitev v misijo ali mednarodno organizacijo. Kandidat do roka, ki ga določi pristojni organ, poda pisno izjavo, da sprejema pogoje, pod katerimi se bo izvajala napotitev. Pristojni organ posreduje izjavo izbirni komisiji.
+
+(4) Ministrstvo, pristojno za zunanje zadeve, ustavi postopek potrditve kandidature, če od izbirne komisije prejme obvestilo, da kandidat ni podal izjave, da sprejema pogoje, pod katerimi bi se izvajala napotitev.
