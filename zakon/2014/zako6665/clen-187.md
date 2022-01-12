@@ -1,5 +1,1 @@
-# 187. člen (dolžnost ukrepanja za odpravo razlogov, ki predstavljajo kršitve prepovedi)
-(1) Oseba, pri kateri nastane razlog, ki predstavlja kršitev v zvezi z zahtevami iz 182., 183., 185. ali 186. člena tega zakona, mora takoj ukreniti vse potrebno, da se razlog odpravi, ter o nastanku razloga in ukrepih obvestiti agencijo.
-(2) Operater prenosnega sistema mora obvestiti agencijo po prejšnjem odstavku, takoj ko izve za razlog, ki predstavlja kršitev v zvezi z zahtevami iz 182., 183., 185. ali 186. člena tega zakona, in pri tem ukreniti, kar more, da se razlog odpravi.
-(3) Operater prenosnega sistema mora agencijo obvestiti tudi o vsaki načrtovani transakciji, zaradi katere bi lahko bila potrebna ponovna proučitev izpolnjevanja zahtev iz 182., 183., 185. ali 186. člena tega zakona.
-(4) Agencija nadzira izpolnjevanje v zvezi z zahtevami iz 182., 183., 185. in 186. člena tega zakona. Če pri nadzoru ugotovi, da je pri določeni osebi nastal razlog, ki predstavlja kršitev teh zahtev, opozori osebo na razlog in na dolžnost ukrepanja po prvem oziroma drugem odstavku tega člena.
+# 187. člen (prenehal veljati)

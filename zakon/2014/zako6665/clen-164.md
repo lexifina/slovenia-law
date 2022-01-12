@@ -1,2 +1,1 @@
-# 164. člen (zagotavljanje energetske učinkovitosti)
-Podjetja plinskega gospodarstva si morajo prizadevati za zagotavljanje energetske učinkovitosti na način, da skladno s priporočili agencije optimizirajo porabo zemeljskega plina, zlasti z nudenjem energetskih storitev upravljanja energije, razvojem inovativnih formul za oblikovanje cen ali uvajanjem naprednih merilnih sistemov ali naprednih omrežij, kadar je primerno.
+# 164. člen (prenehal veljati)

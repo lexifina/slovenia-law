@@ -1,4 +1,4 @@
 ## VI. poglavje: DRUGE DOLOČBE
-## 1. oddelek: Neposredni plinovodi
-# 266. člen (dopustnost neposrednega plinovoda)
-Podjetja plinskega gospodarstva s sedežem na območju Republike Slovenije oskrbujejo odjemalce na območju Republike Slovenije po neposrednih plinovodih.
+## (prenehalo veljati)
+## 1. oddelek: Neposredni plinovodi (prenehal veljati)
+# 266. člen (prenehal veljati)

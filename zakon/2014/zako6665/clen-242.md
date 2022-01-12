@@ -1,7 +1,1 @@
-# 242. člen (pogodbe o prenosu)
-(1) Uporabniki prenosnega sistema lahko sklenejo ločeno pogodbo o prenosu za eno ali več vstopnih točk oziroma ločeno pogodbo o prenosu za eno ali več izstopnih točk iz prenosnega sistema.
-(2) Posamezne pogodbe, ki jih uporabniki sistema sklenejo za vstopne oziroma izstopne točke, so lahko sklenjene za različne prenosne zmogljivosti in za različna časovna obdobja.
-(3) Pogodba o prenosu se lahko sklene, če to dopuščajo tehnična zmogljivost prenosnega sistema in omejitve tehnične zmogljivosti posamezne vstopne oziroma izstopne točke.
-(4) Pogodbo o prenosu na izstopnih točkah prenosnega sistema v Republiki Sloveniji, na katere so neposredno priključeni končni odjemalci, sklepajo končni odjemalci, priključeni na prenosni sistem, oziroma dobavitelji zemeljskega plina v imenu in za račun končnega odjemalca.
-(5) Pogodbo o prenosu na izstopnih točkah prenosnega sistema v Republiki Sloveniji, na katere je priključen distribucijski sistem, lahko sklene le operater tega distribucijskega sistema. Predmet pogodbe o prenosu je lahko skupna zmogljivost distribucijskega omrežja za več izstopnih točk.
-(6) Operater prenosnega sistema mora predpisati postopke dodeljevanja zmogljivosti prenosnega sistema, upravljanja prezasedenosti sistema in trgovanja z zmogljivostmi na sekundarnem trgu skladno z Uredbo (ES) št. 715/2009 ter nanje pridobiti soglasje agencije. Pri tem mora predvideti ukrepe in aktivnosti za preprečevanje špekulativnih praks uporabnikov sistema.
+# 242. člen (prenehal veljati)

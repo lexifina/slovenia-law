@@ -1,4 +1,1 @@
-# 237. člen (pravica do vpogleda v računovodske izkaze)
-(1) Agencija ima pravico do vpogleda v računovodske izkaze podjetij plinskega gospodarstva in v ostalo dokumentacijo podjetij plinskega gospodarstva, vodene skladno z 234. in 235. členom tega zakona, kolikor je to potrebno za opravljanje njenih nalog.
-(2) Če podjetje plinskega gospodarstva ne omogoči vpogleda v svoje računovodske izkaze, opravi agencija vpogled po določbah tega zakona o nadzoru agencije.
-(3) Agencija je dolžna varovati zaupnost poslovno občutljivih podatkov, ki jih pridobi z vpogledom v dokumentacijo podjetja plinskega gospodarstva. Ta določba ne preprečuje agenciji, da posreduje podatke pristojnemu državnemu organu, organu lokalne skupnosti ali nosilcu javnih pooblastil, če jih ta v skladu s predpisi potrebuje za izvrševanje svojih pristojnosti.
+# 237. člen (prenehal veljati)

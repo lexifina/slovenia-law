@@ -1,5 +1,3 @@
-## 2. oddelek: Ločevanje prenosnih sistemov in operaterjev prenosnih sistemov
-## 1. pododdelek: Lastniška ločitev
-# 182. člen (lastnina prenosnega sistema)
-(1) Pravna ali fizična oseba, ki ima v lasti prenosni sistem, mora v skladu s tem zakonom izvajati dejavnost operaterja prenosnega sistema. Druga oseba, razen operater prenosnega sistema, ne sme imeti deloma ali v celoti v lasti prenosnega sistema, na katerem ta operater prenosnega sistema izvaja dejavnost operaterja prenosnega sistema, razen, če ni v tem delu zakona drugače določeno.
-(2) Zahteva iz prejšnjega odstavka je izpolnjena, če dve ali več pravnih ali fizičnih oseb, ki imajo v lasti prenosni sistem, ustanovijo skupno podjetje, ki deluje kot operater prenosnega sistema v dveh ali več državah članicah Evropske unije. Drugo podjetje ne more biti udeleženo v skupnem podjetju, razen če je bilo certificirano kot neodvisni operater prenosnega sistema. Lastnika ali lastniki prenosnega sistema, ki so ustanovili skupno podjetje, morajo izpolnjevati pogoje iz 183., 185. in 186. člena tega zakona ali pogoje za neodvisnega operaterja prenosnega sistema iz 189. člena tega zakona.
+## 2. oddelek: Ločevanje prenosnih sistemov in operaterjev prenosnih sistemov (prenehal veljati)
+## 1. pododdelek: Lastniška ločitev (prenehal veljati)
+# 182. člen (prenehal veljati)

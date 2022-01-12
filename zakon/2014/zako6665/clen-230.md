@@ -1,3 +1,1 @@
-# 230. člen (izvzem od obveznosti)
-(1) Če s tem soglašajo končni odjemalci zaprtega distribucijskega sistema, ki razpolagajo z več kot 90 % pogodbene prenosne zmogljivosti na izstopni točki prenosnega sistema v zaprti distribucijski sistem, agencija z odločbo izvzame operaterja zaprtega distribucijskega sistema obveznosti po 254. členu tega zakona, o pridobitvi soglasja agencije k omrežnini in k tarifi za njeno obračunavanje. Izvzetje agencije je potrebno pridobiti pred vsako spremembo omrežnine oziroma tarife.
-(2) V primeru iz prejšnjega odstavka lahko končni odjemalec zaprtega distribucijskega sistema, ki ni soglašal z odobritvijo izjeme, zahteva od agencije, naj v postopku nadzora ugotovi, ali je omrežnina oziroma tarifa za njeno obračunavanje določena v skladu s splošnimi akti agencije, ki urejajo metodologijo za določitev in za obračunavanje omrežnine.
+# 230. člen (prenehal veljati)

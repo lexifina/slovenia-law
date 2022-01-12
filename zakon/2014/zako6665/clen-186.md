@@ -1,2 +1,1 @@
-# 186. člen (posebna določba v primeru državnega lastništva)
-Če je oseba iz 183. ali 185. člena tega zakona Republika Slovenija ali druga država članica Evropske unije, lokalna skupnost ali organ teh oseb, se šteje, da so zahteve iz 183. in 185. člena tega zakona izpolnjene, če dva ločena organa teh oseb izvajata nadzor iz 17. točke 159. člena tega zakona nad operaterjem prenosnega sistema ali prenosnim sistemom in nad podjetjem, ki opravlja dejavnost na področju proizvodnje ali dobave.
+# 186. člen (prenehal veljati)

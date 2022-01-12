@@ -1,5 +1,1 @@
-# 163. člen (obveščanje o porabi)
-(1) Operater sistema mora brezplačno periodično obveščati končne odjemalce, ki so uporabniki sistema, na katerem opravlja dejavnost operaterja sistema, o njihovi porabi zemeljskega plina ter o značilnostih te porabe in sicer tako pogosto, da lahko sami uravnavajo svojo porabo zemeljskega plina.
-(2) Na zahtevo končnega odjemalca ali na podlagi soglasja končnega odjemalca drugi pravni ali fizični osebi mora operater sistema obvestiti končnega odjemalca oziroma drugo pravno ali fizično osebo o njegovi porabi plina ter o značilnostih te porabe. Podatke o tem mora zagotoviti v primernem roku, pri čemer se upoštevata zmogljivost opreme končnega odjemalca za merjenje porabe in stroškovna učinkovitost takšnih ukrepov.
-(3) Stroški obvestila iz prejšnjega odstavka morajo ustrezati neposrednim stroškom storitve operaterja. Končnim odjemalcem se stroški obvestila ne smejo zaračunati.
-(4) Podrobnejši način obveščanja končnih odjemalcev o porabi določi operater sistema v sistemskih obratovalnih navodilih.
+# 163. člen (prenehal veljati)

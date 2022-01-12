@@ -1,5 +1,1 @@
-# 227. člen (pogoji za pridobitev statusa zaprtega distribucijskega sistema)
-(1) Sistem za distribucijo zemeljskega plina, ki je s skupnim odjemnim mestom priključen neposredno na prenosni sistem in je namenjen distribuciji zemeljskega plina na geografsko zaokroženem industrijskem ali poslovnem območju ali območju za skupne storitve in ki praviloma ne oskrbuje gospodinjskih odjemalcev, lahko pridobi status zaprtega distribucijskega sistema z dovoljenjem agencije, če:
-- so zaradi posebnih tehničnih ali varnostnih razlogov operacije ali proizvodni procesi končnih odjemalcev tega sistema integrirani ali
-- omrežje distribuira zemeljski plin predvsem lastniku sistema ali njegovim povezanim podjetjem. Ta pogoj je izpolnjen, če vsaj 80 % vsote letno porabljenega zemeljskega plina odpade na lastnika sistema in njegova povezana podjetja.
-(2) Če sistem za distribucijo zemeljskega plina iz prejšnjega odstavka postransko uporablja majhno število gospodinjskih odjemalcev, ki so v zaposlitvenem ali drugačnem razmerju z lastnikom tega omrežja, to ne onemogoča pridobitev statusa zaprtega distribucijskega sistema.
+# 227. člen (prenehal veljati)

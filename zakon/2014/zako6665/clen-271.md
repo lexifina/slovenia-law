@@ -1,3 +1,1 @@
-# 271. člen (prenos soglasja za priključitev)
-(1) Če imetnik soglasja za priključitev umre (fizična oseba) ali preneha obstajati (pravna oseba), če gre za spremembo gradbenega dovoljenja zaradi spremembe investitorja ali zaradi pravnega prometa z objektom, se soglasje za priključitev lahko prenese na pravno ali fizično osebo, ki pridobi te objekte, naprave ali napeljave.
-(2) Pravna ali fizična oseba, ki na podlagi sprememb iz prejšnjega odstavka pridobi objekte, naprave ali napeljave, mora najkasneje v 30 dneh po prejemu sodne oziroma upravne odločbe ali sklenitve pogodbe o nastali spremembi obvestiti operaterja sistema in o tem predložiti dokazila, sicer mora zaprositi za novo soglasje za priključitev.
+# 271. člen (prenehal veljati)

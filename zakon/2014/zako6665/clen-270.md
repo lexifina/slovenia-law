@@ -1,22 +1,2 @@
-## 3. oddelek: Priključevanje na sistem in možnost odklopa uporabnika sistema
-# 270. člen (priključitev na sistem)
-(1) Za priključitev na sistem ali njeno spremembo mora uporabnik sistema pridobiti soglasje za priključitev. Operater sistema v soglasju za priključitev določi priključno mesto na omrežju. Podrobnejše pogoje za soglasje za priključitev določajo sistemska obratovalna navodila.
-(2) Dokončno soglasje za priključitev velja dve leti. V tem času mora imetnik soglasja za priključitev objekta izpolniti vse pogoje, predpisane v soglasju za priključitev, in operaterju naročiti izvedbo priključitve. Veljavnost soglasja za priključitev lahko operater sistema na zahtevo imetnika soglasja za priključitev podaljša največ dvakrat, vendar vsakič največ za eno leto. Zahtevo za podaljšanje mora imetnik soglasja za priključitev podati 30 dni pred iztekom veljavnosti soglasja za priključitev. V primeru zamud na strani operaterja sistema se šteje, da se soglasje avtomatično podaljša, kar je operater dolžan sporočiti imetniku soglasja, ki še ni izvedel priključitve na sistem.
-(3) O izdaji ali zavrnitvi soglasja za priključitev odloča po javnem pooblastilu operater sistema z odločbo v upravnem postopku.
-(4) Uporabnik sistema nima pravice do priključitve, če:
-- ne izpolnjuje predpisanih pogojev za priključitev,
-- bi zaradi priključitve prišlo do večjih motenj v delovanju sistema ali
-- bi priključitev operaterju sistema povzročila nastanek nesorazmernih stroškov.
-(5) V primeru iz tretje alineje prejšnjega odstavka ima uporabnik sistema pravico do priključitve v skladu s sistemskimi obratovalnimi navodili, če sam krije nesorazmerno visoke stroške, ki pomenijo nesorazmerni del stroškov gradnje priključka do točke v sistemu, kjer je priključitev možna, ali nesorazmerni del stroškov, ki so potrebni za povečanje zmogljivosti ali obsega obstoječega omrežja, ali kombinacijo obojega, pri čemer ni pričakovati, da bi v razumnem času prišlo do povečanja uporabe sistema na novem priključku oziroma obstoječem omrežju v tolikšnem obsegu, ki bi omogočal normalno amortizacijo naložbe.
-(6) Pri določitvi nesorazmerno visokih stroškov mora operater sistema upoštevati predvsem:
-- obseg potrebne investicije;
-- predvidene dodatne prihodke operaterja sistema, glede na predvideni obseg uporabe priključka s strani uporabnika sistema;
-- predvidene dodatne stroške operaterja sistema, kot na primer stroške za vzdrževanje in obratovanje novega priključka oziroma povečanja zmogljivosti sistema;
-- predviden reguliran donos na sredstva operaterja sistema.
-(7) Nesorazmerne stroške izračuna operater sistema tako, da so ob predvidenem obsegu uporabe priključka v ekonomski dobi uporabe priključka in ob pokritju nesorazmernih stroškov s strani uporabnika sistema pokriti vsi stroški operaterja sistema, vključno s predvidenim reguliranim donosom na sredstva. Izračun mora temeljiti na metodah, ki se uporabljajo za ocenjevanje investicij, in mora upoštevati časovno vrednost denarja. Če v času amortizacije dela sistema ali priključka, za katerega je uporabnik sistema plačal nesorazmerne stroške, pride do priključitve dodatnih uporabnikov, je operater sistema dolžan povrniti uporabniku ustrezen del nesorazmernih stroškov, ki jih kot nove nesorazmerne stroške zaračuna novim uporabnikom sistema na tem delu sistema ali priključka.
-(8) Podrobnejši način in postopek določitve nesorazmernih stroškov predpiše operater sistema v sistemskih obratovalnih navodilih.
-(9) O pritožbi zoper odločbo o izdaji ali zavrnitvi soglasja za priključitev odloča agencija.
-(10) Po dokončnosti odločbe o soglasju za priključitev skleneta operater sistema in uporabnik sistema, v korist katerega je bilo izdano soglasje za priključitev (v nadaljnjem besedilu: imetnik soglasja za priključitev), pisno pogodbo o priključitvi, s katero pogodbeni stranki uredita medsebojna razmerja, ki se nanašajo na izvedbo priključka in priključitev, ter medsebojna razmerja v zvezi z vzdrževanjem priključka.
-(11) Uporabnik sistema mora zaprositi za novo soglasje za priključitev, če se spremenijo osnovni parametri priključka, za katerega je bilo izdano soglasje.
-(12) Uporabnika omrežja zemeljskega plina, ki se nahaja na območju posebne ali izključne pravice izvajanja gospodarske javne službe distribucije zemeljskega plina lahko priključi operater prenosnega sistema le v primeru, če operater distribucijskega sistema zemeljskega plina zavrne priključitev tega uporabnika zaradi premajhne zmogljivosti distribucijskega sistema.
-(13) Določbe tega člena se smiselno uporabljajo tudi za priključitev na skladiščni sistem, sistem za UZP in pridobivalno plinovodno omrežje.
+## 3. oddelek: Priključevanje na sistem in možnost odklopa uporabnika sistema (prenehal veljati)
+# 270. člen (prenehal veljati)
