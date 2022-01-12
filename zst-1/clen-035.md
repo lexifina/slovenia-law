@@ -1,0 +1,5 @@
+# 35. člen (postopek zaradi izterjave neplačane takse)
+
+(1) Če taksni zavezanec, ki ima stalno prebivališče ali sedež v Republiki Sloveniji, ne plača takse v roku, ki je določen v plačilnem nalogu iz 34. oziroma 34.a člena tega zakona oziroma če v tem roku ne zaprosi za oprostitev, odlog ali obročno plačilo taks ali če ne vloži pravnega sredstva po 34.a členu tega zakona, sodišče potrdi izvršljivost plačilnega naloga in ga pošlje organu, pristojnemu za opravljanje nalog davčne izvršbe denarnih terjatev države iz naslova sodnih taks.
+
+(2) Če taksni zavezanec, ki ima stalno prebivališče ali sedež v tujini, ne plača takse v roku, ki je določen v plačilnem nalogu iz 34. oziroma 34.a člena tega zakona oziroma če v tem roku ne zaprosi za oprostitev, odlog ali obročno plačilo taks ali če ne vloži pravnega sredstva po 34.a členu tega zakona, sodišče potrdi izvršljivost plačilnega naloga in ga pošlje organu, ki je po zakonu pristojen za zastopanje in uveljavljanje premoženjskih pravic in koristi Republike Slovenije v tujini.
