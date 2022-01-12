@@ -1,0 +1,1 @@
+Državni zborRepublike SlovenijeIgor Zorčičpredsednik
