@@ -1,6 +1,0 @@
-## VI. poglavje: Pogodba o zaposlitvi
-# 17. člen (pogodba o zaposlitvi)
-(1) Kandidatu, ki ga izbere mednarodna organizacija, se najpozneje v treh dneh po prejemu obvestila mednarodne organizacije o izbiri ponudi sklenitev pogodbe o zaposlitvi v skladu z zakonom, ki ureja položaj javnih uslužbencev, ali drugim zakonom, ki ureja njihov položaj oziroma službo. Če najpozneje v petih dneh po vročitvi osnutka pogodbe o zaposlitvi izbrani kandidat ne podpiše pogodbe o zaposlitvi, velja, da je prijavo umaknil.
-(2) Izbrani kandidat sklene pogodbo o zaposlitvi s predstojnikom organa, kjer ima sklenjeno delovno razmerje. Podatke, potrebne za sklenitev pogodbe o zaposlitvi, predloži predstojniku organa predsednik izbirne komisije.
-(3) Pogodba o zaposlitvi se sklene za čas trajanja misije ali dela v mednarodni organizaciji, vendar ne dlje kakor za štiri leta. Po tem času je na podlagi pozitivnega mnenja izbirne komisije in strinjanja delodajalca mogoče skleniti novo pogodbo o zaposlitvi, če misija ali delo v mednarodni organizaciji še vedno traja in če obstaja interes mednarodne organizacije za podaljšanje napotitve.
-(4) Če kandidat pred izbiro ni bil zaposlen oziroma ni bil zaposlen v javnem sektorju, sklene pogodbo za določen čas z organom, v katerega delovno področje sodijo delovne naloge misije oziroma mednarodne organizacije.

@@ -1,2 +1,0 @@
-# 11. člen (prijava na javni natečaj)
-Kandidati morajo prijavi priložiti dokazila o izpolnjevanju splošnih in posebnih pogojev ter drugih zahtev za delo v misiji ali mednarodni organizaciji. Če se kandidat prijavi na javni natečaj, ki je objavljen na spletni strani organa, lahko predloži zahtevana dokazila o izpolnjevanju pogojev v treh dneh po prijavi na spletni strani, vendar še pred iztekom razpisnega roka.
