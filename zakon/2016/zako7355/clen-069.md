@@ -1,2 +1,0 @@
-# 69. člen (usklajevanje transferjev posameznikom in gospodinjstvom)
-Transferji posameznikom in gospodinjstvom, ki se usklajujejo na podlagi Zakona o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji (Uradni list RS, št. 114/06, 59/07 - ZŠtip, 10/08 - ZVarDod, 71/08, 98/09 - ZIUZGK, 62/10 - ZUPJS, 85/10, 94/10 - ZIU, 110/11 - ZDIU12, 40/12 - ZUJF in 96/12 - ZPIZ-2; v nadaljnjem besedilu: ZUTPG) se do 31. decembra 2018 ne usklajujejo, razen osnovnega zneska minimalnega dohodka iz prve alineje 5. člena ZUTPG.
