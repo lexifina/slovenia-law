@@ -1,2 +1,0 @@
-## III. USTANOVITEV REPUBLIŠKIH UPRAVNIH ORGANOV
-# 19. člen (prenehal veljati)
