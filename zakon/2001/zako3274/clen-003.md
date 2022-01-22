@@ -1,4 +1,0 @@
-# 3. člen
-V 2. členu se za besedami "realizacijo programov iz" dodata besedi "prvega odstavka", besedilo "s tem, da v posameznem letu znesek praviloma ne bo presegal 8.800 milijonov tolarjev po cenah na dan 30. 11. 1993, ki se bo letno usklajeval z gibanjem tečaja DEM." pa se nadomesti z besedilom "po cenah na dan 30. 11. 1993, ki se bodo letno usklajevala z gibanjem tečaja DEM."
-Doda se nov drugi odstavek, ki se glasi:
-"Republika Slovenija bo za realizacijo programov iz drugega odstavka prejšnjega člena do vključno leta 2007 zagotovila sredstva do skupne višine 65.000 milijonov tolarjev po cenah na dan 31. 12. 2001, s tem, da se bodo letno usklajevala z gibanjem tečaja DEM. V ta znesek se ne vštevajo obresti in stroški za najeta posojila, s katerimi se v skladu s prvim odstavkom 4. člena tega zakona zagotavljajo potrebna sredstva."
