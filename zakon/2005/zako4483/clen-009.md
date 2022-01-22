@@ -1,3 +1,0 @@
-# 9. člen (preračunavanje in zaokroževanje)
-(1) Za izkazovanje in preračunavanje cen po tem zakonu se uporablja menjalni tečaj kot število s šestimi značilnimi mesti. Pri preračunavanju tolarjev v evre se znesek v evrih v obdobju informativnega označevanja cen izračuna tako, da se tolarski znesek deli s centralnim paritetnim tečajem, v obdobju dvojnega označevanja cen se tolarski znesek deli s tečajem zamenjave. Pri preračunavanju je prepovedano uporabljati inverzna menjalna razmerja.
-(2) Denarni zneski, ki jih je potrebno plačati ali vknjižiti potem, ko je bil znesek zaokrožen v enote evra ali tolarja, se zaokrožijo na najbližji cent oziroma stotin. Če je rezultat preračunavanja znesek, ki je točno na sredini, se ta zaokroži navzgor.
