@@ -1,2 +1,0 @@
-# 2. člen
-Določbe tega zakona ne veljajo za Jugoslovansko ljudsko armado in teritorialno obrambo. Določbe o hrambi eksplozivnih snovi ne veljajo za hrambo eksplozivnih snovi v jamskih skladiščih rudarskih organizacij združenega dela, kot tudi ne za primere, ko se ob naravnih nesrečah opravljajo dela za preprečitev splošne nevarnosti ali za odpravo posledic take nevarnosti. Določbe tega zakona o uporabi eksplozivnih snovi pa ne veljajo za uporabo eksplozivnih snovi pri raziskovanju in izkoriščanju rudnin.

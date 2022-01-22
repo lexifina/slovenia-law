@@ -1,4 +1,0 @@
-Zakon o eksplozivih - ZE (Uradni list RS, št. 96/02) vsebuje naslednjo končno določbo:
-"61. člen
-(veljavnost zakona)
-Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne po preteku šestih mesecev od objave.".
