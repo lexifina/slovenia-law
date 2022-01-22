@@ -1,5 +1,0 @@
-# 9. člen (trajanje premostitvenega zavarovanja in članstva v premostitvenem skladu)
-(1) Premostitveno zavarovanje se za zavarovanca iz prvega odstavka 5. člena tega zakona začne z datumom nastopa dela na podlagi pogodbe o zaposlitvi, kot je določena s predpisi, ki urejajo delovna razmerja, ter se zaključi z datumom prenehanja dela na podlagi pogodbe o zaposlitvi, kot je določena s predpisi, ki urejajo delovna razmerja.
-(2) Premostitveno zavarovanje se za zavarovanca iz drugega odstavka 5. člena tega zakona začne z dnem vpisa zavarovanca v register zavarovancev iz 11. člena tega zakona in se zaključi z dnem izpisa zavarovanca iz registra zavarovancev iz 11. člena tega zakona.
-(3) Zavarovanec postane član premostitvenega sklada s prvim dnem meseca, v katerem je bilo plačilo prispevka izvedeno. Članstvo v premostitvenem skladu preneha, ko član premostitvenega sklada uveljavi pravico iz 31. ali 32. člena tega zakona in upravljavec premostitvenega sklada unovči odkupno vrednost enot premoženja.
-(4) Upravljavec premostitvenega sklada izda zavarovancu obvestilo o vključitvi v premostitveni sklad.
