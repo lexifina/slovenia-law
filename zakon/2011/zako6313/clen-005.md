@@ -1,4 +1,0 @@
-## 3. PLAČE JAVNIH USLUŽBENCEV IN FUNKCIONARJEV
-# 5. člen (uskladitev plač in regres za letni dopust)
-(1) Ne glede na 5. člen Zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 108/09 - uradno prečiščeno besedilo, 13/10, 59/10, 85/10, 107/10 in 35/11; v nadaljnjem besedilu: ZSPJS) in na njegovi podlagi sprejetih predpisov oziroma kolektivnih pogodb, in ne glede na razliko med dejansko in napovedano rastjo cen življenjskih potrebščin v obdobju od decembra 2010 do decembra 2011, se vrednost plačnih razredov iz plačne lestvice do 30. junija 2012 ne uskladi.
-(2) Javnim uslužbencem in funkcionarjem se ne glede na določbe zakona, ki ureja delovna razmerja, za leto 2012 izplača regres za letni dopust v višini 692,00 eurov. Ne glede na določbe kolektivnih pogodb, drugih predpisov ter dogovorov se regres za letni dopust javnim uslužbencem in funkcionarjem izplača pri plači za mesec maj.

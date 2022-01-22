@@ -1,4 +1,0 @@
-# 3. člen (usklajevanje pokojnin in drugih nadomestil ter prejemkov)
-(1) Ne glede na 150.a in 150.b člen Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 109/06 - uradno prečiščeno besedilo, 114/06 - ZUTPG, 10/08 - ZVarDod, 98/09 - ZIUZGK, 38/10 - ZUKN in 61/10 - ZSVarPre; v nadaljnjem besedilu: ZPIZ‑1), se do 30. junija 2012, pokojnine in drugi prejemki, priznani na podlagi pravic iz 4. in 431. člena ZPIZ‑1, ter osnove, ki se usklajujejo na podlagi ZPIZ‑1, ne uskladijo.
-(2) Pokojnine in drugi prejemki iz pokojninskega in invalidskega zavarovanja, ki so urejeni s posebnimi predpisi, usklajujejo pa se v višini in v rokih iz 150.a in 150.b člena ZPIZ‑1, se do 30. junija 2012 ne uskladijo.
-(3) Višji znesek letnega dodatka iz 136.b člena ZPIZ‑1 za leto 2012 se izplača v višini 367,95 eurov, nižji pa v višini 223,55 eurov.
