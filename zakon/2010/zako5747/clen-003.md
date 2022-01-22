@@ -1,2 +1,0 @@
-# 3. člen
-Če Slovenska odškodninska družba, d. d. ne bo poravnala posamezne obveznosti iz naslova najetih kreditov oziroma izdanih obveznic, za katere Republika Slovenija daje poroštvo po tem zakonu, bo Republika Slovenija na podlagi pisnega poziva kreditodajalca, agenta ali Slovenske odškodninske družbe, d. d. pri izdaji obveznic poravnala zapadle obveznosti namesto Slovenske odškodninske družbe, d. d.
