@@ -1,2 +1,0 @@
-# 11. člen
-Del dobička, ki ga je po določilih prejšnjega člena, pravna oseba razporedila na delavce sorazmerno njihovim bruto plačam, se šteje kot dohodek dosežen z udeležbo pri dobičku in se od njega plača davek od dohodkov iz premoženja. Tako ugotovljeni del dobička po plačilu davka od dohodkov iz premoženja se prizna v procesu lastninskega preoblikovanja podjetij kot dokapitalizacija pravne osebe nad vrednostjo družbenega kapitala po otvoritveni bilanci.
