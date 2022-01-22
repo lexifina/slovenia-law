@@ -1,2 +1,0 @@
-# 4. člen
-Če za izpolnitev obveznosti iz 2. in 3. člena tega zakona delavci v podjetju ali drugi pravni osebi s področja gospodarstva in delavci zaposleni pri fizični osebi, ki samostojno opravlja dejavnost kot redni poklic, dodatno organizirajo delo preko polnega delavnega časa do 30. junija 1991 oziroma do 31. oktobra 1991 in tako doseženi enodnevni osebni dohodek vplačajo v bruto znesku kot posebni prispevek, iz tega osebnega dohodka ne plačajo davkov in prispevkov.

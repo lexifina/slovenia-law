@@ -1,3 +1,0 @@
-# 9. člen
-Glede postopka, načina in rokov za plačilo posebnega prispevka ter zamudnih obresti za nepravočasno plačilo posebnega prispevka se smiselno uporabljajo določbe zakona o prispevkih za pokojninsko in invalidsko zavarovanje, zdravstveno varstvo in zaposlovanje (Uradni list RS, št. 48/90).
-Za prisilno izterjavo posebnega prispevka, ki so ga po tem zakonu dolžni plačati zasebniki, ki samostojno opravljajo dejavnost kot redni poklic, zase in za delavce, zaposlene pri njih, za fizične osebe, ki so lastniki podjetij v zasebni lastnini in za fizične osebe, ki so zavezanci za davek iz dohodka iz kmetijstva, se upoštevajo določbe zakona o davkih občanov (Uradni list SRS, št. 36/88, 8/89, in Uradni list RS, št. 48/90).

@@ -1,3 +1,0 @@
-# 10. člen
-Glede načina uporabe sredstev solidarnosti, zbranih po tem zakonu, se uporabljajo določbe zakona o oblikovanju sredstev solidarnosti za odpravljanje posledic naravnih nesreč (Uradni list SRS, št. 3/75, 8/78, 33/80 in 16/84) in družbenega dogovora o načinu uporabe in upravljanja s sredstvi solidarnosti za odpravljanje posledic naravnih nesreč v SR Sloveniji (Uradni list SRS, št. 29/89).
-Sredstva solidarnosti, zbrana po tem zakonu, se ne uporabljajo za gospodarsko infrastrukturo republiškega pomena in za dejavnosti, ki so v pristojnosti Republike Slovenije in se financirajo iz republiškega proračuna.
