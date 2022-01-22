@@ -1,2 +1,0 @@
-# 1. člen
-Republika Slovenija daje poroštvo v skladu s splošnimi pogoji za najemanje kreditov Sklada za Socialni razvoj Sveta Evrope (v nadaljevanju: Sklad) za alocirane obveznosti iz kreditnih pogodb, ki ju skleneta Nova Ljubljanska banka, d.d., Ljubljana in Nova Kreditna banka Maribor, d.d.,Maribor s Skladom za obveznosti slovenskih dolžnikov iz kreditov, ki jih je Sklad za financiranje povečanja zaposlovanja v gospodarsko manj razvitih in izrazito emigracijskih področjih SFR Jugoslavije najel pri Skladu dne 30. marca 1988, 30. avgusta 1989 in 30. julija 1990.
