@@ -1,3 +1,0 @@
-# 5. člen
-V zakonu o gospodarskih prestopkih (Uradni list SFRJ, št. 4/77, 14/85, 74/87, 57/89 in 3/90) se zneski denarne kazni v drugem in tretjem odstavku 22. člena, drugem odstavku 27. člena, drugem odstavku 59. člena, 82. členu, prvem odstavku 97. člena, tretjem odstavku 98. člena, 136. členu in v drugem odstavku 147. člena, zvišajo za dvajsetkrat.
-V prvem in tretjem odstavku 18. člena ter v tretjem odstavku 135. člena zakona o gospodarskih prestopkih se najmanjše mere denarnih kazni zvišajo za dvajsetkrat, največje mere pa za dvestoštiridesetkrat.

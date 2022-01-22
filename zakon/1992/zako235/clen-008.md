@@ -1,2 +1,0 @@
-# 8. člen
-V zakonu o kazenskem postopku (Uradni list SFRJ, št. 4/77, 14/85, 74/87, 57/89 in 3/90) se znesek denarne kazni za disciplinsko kršitev v prvem odstavku 78. člena, prvem odstavku 144. člena, prvem odstavku 180. člena, drugem odstavku 211. člena, prvem in drugem odstavku 237. člena, drugem odstavku 243. člena, prvem odstavku 295. člena in tretjem odstavku 303. člena, zviša za petdesetkrat.

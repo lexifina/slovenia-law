@@ -1,2 +1,0 @@
-# 12. člen
-V zakonu o splošnem upravnem postopku (Uradni list SFRJ, št. 47/86 - prečiščeno besedilo) se znesek denarne kazni za disciplinsko kršitev v tretjem odstavku 73. člena, prvem odstavku 111. člena, prvem in drugem odstavku 181. člena, prvem odstavku 192. člena in tretjem odstavku 293. člena, valorizira tako, da znaša predpisana denarna kazen do 25.000 tolarjev, znesek denarne kazni v tretjem odstavku 286. člena pa se valorizira tako, da znaša predpisana denarna kazen do 100.000 tolarjev.
