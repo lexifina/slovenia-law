@@ -1,3 +1,0 @@
-# 8. člen (nakazilo razlike finančne izravnave in povprečnine)
-(1) Razlika med finančno izravnavo od 1. januarja 2017 do 31. maja 2017, ki je izračunana ob upoštevanju povprečnine v višini 533,50 eura in povprečnine v višini 530,00 eurov, se občinam nakaže skupaj z izplačilom finančne izravnave za mesec junij 2017.
-(2) Razlika med prihodki iz 14. člena Zakona o financiranju občin (Uradni list RS, št. 123/06, 57/08, 36/11 in 14/15 - ZUUJFO) od 1. januarja 2017 do 31. maja 2017, ki je izračunana ob upoštevanju povprečnine v višini 533,50 eura in povprečnine v višini 530,00 eurov, se občinam nakaže v zadnjem tednu meseca junija 2017.
