@@ -1,3 +1,0 @@
-# 1. člen
-V zakonu o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij (Uradni list RS, št. 10/98) se v 3. členu doda nov drugi odstavek, ki se glasi:
-"(2) Stranke imajo v postopkih iz prejšnjega odstavka pravico do povračila pravdnih stroškov, ki so jih imele do dneva uveljavitve tega zakona, tudi za tisti del zahtevka, s katerim glede na določbo tega člena ne bodo uspele. Pri določanju vrste in višine stroškov se smiselno uporabljajo določbe 12. poglavja zakona o pravdnem postopku (Uradni list SFRJ, št. 4/77, 36/77 - popravek, 36/80, 69/82, 58/84, 74/87, 14/88 - popravek, 57/89, 20/90 in 27/90)."
