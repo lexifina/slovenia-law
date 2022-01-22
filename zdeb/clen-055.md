@@ -1,0 +1,5 @@
+# 55. člen (končni določbi)
+
+(1) Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+(2) Določbe 16., 20., 21., 22. in 23. člena tega zakona se začnejo uporabljati šest mesecev po objavi v Uradnem listu Republike Slovenije.
