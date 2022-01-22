@@ -1,2 +1,0 @@
-# 1. člen
-Republika Slovenija daje poroštva za kredite, ki jih bodo podjetja s področja elektrogospodarstva najela za restrukturiranje obveznosti iz naslova kreditov, za katere je Republika Slovenija na podlagi zakona o ukrepih za sanacijo finančnega položaja podjetij s področja elektrogospodarstva in rudnikov rjavega premoga v zapiranju (Uradni list RS, št. 59/96) dala poroštvo ter zapadejo v plačilo v letih 1998 in 1999.
