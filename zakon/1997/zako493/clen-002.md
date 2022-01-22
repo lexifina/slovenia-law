@@ -1,3 +1,0 @@
-# 2. člen
-Pravne osebe z družbenim kapitalom so po tem zakonu podjetja v družbeni lastnini ter podjetja v mešani lastnini, ki kot svojo dejavnost prirejajo posebne igre na srečo, ter izkazujejo med viri sredstev v bilanci stanja družbeni kapital (v nadaljnjem besedilu: PPIS).
-Družbeni kapital je razlika med vrednostjo sredstev PPIS (celotne aktive) ter vrednostjo obveznosti PPIS, vključno z obveznostmi do pravnih in fizičnih oseb na podlagi trajnih vlog teh oseb v PPIS, ter obveznostmi do upravičencev iz 9. člena ZLPP. Družbeni kapital so tudi trajne vloge, navadne in prednostne delnice ali deleži, ki ne pripadajo nobeni pravni ali fizični osebi.
