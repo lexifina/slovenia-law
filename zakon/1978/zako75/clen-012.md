@@ -1,2 +1,0 @@
-# 12. člen
-V vsaki publikaciji morajo biti poleg podatkov, ki jih zahtevajo predpisi o javnem obveščanju, natisnjeni naslov publikacije (pri prevodih tudi naslov izvirnika), ime avtorja in soavtorjev, prevajalca, ilustratorja, opremljevalca, urednika antologije, odgovornega predstavnika založbe, kraj in leto natisa oziroma razmnožitve, naklada ter zaporedna številka vsakega ponatisa ali izdaje oziroma podatek o dotisu.

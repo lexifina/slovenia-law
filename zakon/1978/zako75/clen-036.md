@@ -1,2 +1,0 @@
-## VI. USTVARJANJE CELOTNEGA PRIHODKA ZALOŽNIŠKIH ORGANIZACIJ S SVOBODNO MENJAVO DELA (prenehalo veljati)
-# 36. člen (prenehal veljati)
