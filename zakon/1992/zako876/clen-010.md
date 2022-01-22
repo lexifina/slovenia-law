@@ -1,3 +1,0 @@
-# 10. člen
-Glede postopka, načina in rokov za plačevanje posebnega prispevka se smiselno uporabljajo določbe zakona o prispevkih za pokojninsko in invalidsko zavarovanje, zdravstveno varstvo in zaposlovanje (Uradni list RS, št. 48/90).
-Za prisilno izterjavo posebnega prispevka, ki so ga po tem zakonu dolžni plačevati zasebniki zase in za delavce, zaposlene pri njih in za fizične osebe, ki so zavezanci za davek od dohodka iz kmetijstva, se upoštevajo določbe zakona o davkih občanov (Uradni list SRS, št. 36/88, 8/89 in Uradni list RS, št. 48/90).
