@@ -1,4 +1,0 @@
-# 3. člen
-Dolg po tem zakonu iz naslova prispevkov od izplačil v bonih v obdobju 1991-1995, če se izplačila v bonih niso vštevala v plače in iz njih zaposleni ne morejo uveljavljati nobenih pravic iz pokojninskega in invalidskega zavarovanja, izplačila pa niso presegla razlike med višino zajamčenega osebnega dohodka po zakonu o zajamčenih osebnih dohodkih (Uradni list RS, št. 48/90 in 38/94) in 80% izhodiščne plače po veljavnih kolektivnih pogodbah, je revalorizirana vrednost dospelih neplačanih prispevkov na dan 31. december 1999.
-Zamudne obresti od neplačanih obveznih dajatev iz prvega odstavka tega člena se odpišejo.
-Določbi prejšnjih odstavkov veljata za dolžnike, ki izpolnjujejo pogoje po tem zakonu in če so odpravili vsa oškodovanja družbene lastnine, ugotovljena v odločbah pristojnih organov, na podlagi zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 55/92, 7/93, 31/93, 32/94 - odločba US in 1/96).

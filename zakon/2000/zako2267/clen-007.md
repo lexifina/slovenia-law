@@ -1,3 +1,0 @@
-# 7. člen
-Če dolžnik, ki izpolnjuje pogoje iz prejšnjega člena, predlaga takojšnje plačilo celotnega dolga, plača znižani znesek celotnega dolga, ugotovljen z metodo ugotavljanja neto sedanje vrednosti, pri čemer je diskontni faktor določen z višino obrestne mere, ki velja za obveznice Republike Slovenije z ročnostjo petih let, pri čemer se stopnja realne obrestne mere poveča za 50%. Za takojšnje plačilo se šteje, če dolžnik znižani znesek dolga plača v 60 dneh po uveljavitvi tega zakona.
-Odločbo o ugotovitvi plačila znižanega zneska dolga davčni organ izda dolžniku v 15 dneh od dneva plačila.
