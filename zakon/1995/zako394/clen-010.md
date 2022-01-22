@@ -1,2 +1,0 @@
-# 10. člen
-Ugotovljeno višino odpisanih zamudnih obresti za nepravočasno plačane prispevke za pokojninsko in invalidsko zavarovanje in za zdravstveno zavarovanje iz četrte in pete alinee 2. člena tega zakona se poravna Zavodu za pokojninsko in invalidsko zavarovanje Slovenije oziroma Zavodu za zdravstveno zavarovanje Slovenije v roku 30 dni po odločitvi davčnega organa po odpisu zamudnih obresti iz proračuna Republike Slovenije.
