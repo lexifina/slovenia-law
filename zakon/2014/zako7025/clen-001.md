@@ -1,3 +1,0 @@
-# 1. člen
-V Zakonu o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015 (Uradni list RS, št. 101/13, 9/14 - ZRTVS-1A, 25/14 - ZSDH-1 in 38/14) se za prvim odstavkom 13. člena doda nov drugi odstavek, ki se glasi:
-"(2) Ne glede na določbe drugih zakonov in predpisov se tisti prejemki sredstev na podračune 845 in 846 pri Finančni upravi Republike Slovenije, ki so bili vplačani zadnji dan proračunskega leta in razdeljeni po blagajnah javnega financiranja prva dva delovna dneva v letu, ki sledi letu, v katerem so bila sredstva vplačana, v posamezni blagajni javnega financiranja štejejo kot prihodki leta, v katerem so bili dejansko vplačani na podračun 845 in 846.".
