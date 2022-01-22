@@ -1,5 +1,0 @@
-# 1. člen
-V Zakonu o davku na izplačane plače (Uradni list RS, št. 25/05 - uradno prečiščeno besedilo) se prvi odstavek 4. člena spremeni tako, da se glasi:
-"Stopnje davka so od 1. januarja 2006 do 31. decembra 2006: če znaša mesečna bruto plača zaposlenega znaša stopnja davka do 165.000 tolarjev 0% nad 165.000 do 400.000 tolarjev 3,0% nad 400.000 do 750.000 tolarjev 6,3% nad 750.000 tolarjev 11,8%.". Za prvim odstavkom se dodata nova drugi in tretji odstavek, ki se glasita: "Stopnje davka so od 1. januarja 2007 do 31. decembra 2007: če znaša mesečna bruto plača zaposlenega znaša stopnja davka do 165.000 tolarjev 0% nad 165.000 do 400.000 tolarjev 2,3% nad 400.000 do 750.000 tolarjev 4,7% nad 750.000 tolarjev 8,9%. Stopnje davka so od 1. januarja 2008 do 31. decembra 2008: če znaša mesečna bruto plača zaposlenega znaša stopnja davka do 165.000 tolarjev 0% nad 165.000 do 400.000 tolarjev 1,1% nad 400.000 do 750.000 tolarjev 2,3% nad 750.000 tolarjev 4,4%.".
-Za dosedanjim drugim odstavkom, ki postane četrti odstavek, se doda nov peti odstavek, ki se glasi:
-"S 1. januarjem 2009 preneha obveznost plačevanja davka na izplačane plače.".
