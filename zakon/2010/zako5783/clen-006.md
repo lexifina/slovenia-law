@@ -1,4 +1,0 @@
-# 6. člen (status določenih prihodkov proračuna)
-(1) Prilivi namenskih sredstev EU se štejejo kot prihodki proračuna šele, ko se nakažejo na podračun izvrševanja proračuna. Do prenosa se obravnavajo kot sredstva Evropske komisije (v nadaljnjem besedilu: EK) in izkazujejo kot obveznosti do EK.
-(2) Obresti od namenskih sredstev EU so prihodek proračuna. Do prenosa obresti na podračun izvrševanja proračuna, se obresti štejejo kot sredstva EK in izkazujejo kot obveznosti do sredstev EK.
-(3) (črtan)

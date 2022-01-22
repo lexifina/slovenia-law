@@ -1,4 +1,0 @@
-## 8. USKLAJEVANJE POGODBENIH OBVEZNOSTI
-# 45. člen (prepoved valorizacije denarnih obveznosti v pogodbah, ki jih za obdobje do enega leta sklepajo pravne osebe javnega sektorja po ZJF)
-(1) Denarne obveznosti v pogodbah, ki jih za obdobje do vključno enega leta sklepajo neposredni in posredni uporabniki državnega proračuna in občinskih proračunov ter javni gospodarski zavodi in javna podjetja, katerih ustanovitelj je država ali občina, morajo biti izražene v nominalnem znesku brez valorizacijske klavzule.
-(2) Denarne obveznosti v pogodbah, ki jih subjekti iz prejšnjega odstavka sklepajo za daljše obdobje od enega leta, se lahko valorizirajo na način in do višine kakor sta določena s Pravilnikom o načinih valorizacije denarnih obveznosti, ki jih v večletnih pogodbah dogovarjajo pravne osebe javnega sektorja (Uradni list RS, št. 1/04).

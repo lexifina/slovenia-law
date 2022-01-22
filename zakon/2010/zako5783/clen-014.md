@@ -1,4 +1,0 @@
-# 14. člen (prerazporeditve pravic porabe, o katerih odločajo neposredni uporabniki)
-(1) Neposredni uporabnik lahko v svojem finančnem načrtu samostojno in brez omejitev prerazporeja pravice porabe v okviru istega podprograma.
-(2) Neposredni uporabnik lahko v svojem finančnem načrtu prerazporeja pravice porabe med podprogrami v okviru programa, pri čemer skupno povečanje ali zmanjšanje posameznega podprograma ne sme presegati 10 odstotkov podprograma, in med programi, pri čemer skupno povečanje ali zmanjšanje posameznega programa ne sme presegati 5 odstotkov programa v sprejetem proračunu.
-(3) Ne glede na določbi prvega in drugega odstavka tega člena neposredni uporabnik ne sme samostojno odločati o prerazporeditvah pravic porabe s postavk slovenske udeležbe, s postavk namenskih sredstev EU ter s in na plačne konte integralnih postavk, razen med plačnimi konti integralnih postavk v obsegu iz prvega in drugega odstavka tega člena.
