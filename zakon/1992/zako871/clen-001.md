@@ -1,3 +1,0 @@
-# 1. člen
-Republika Slovenija se zavezuje, da bo na poziv Ljubljanske banke d.d., Ljubljana plačala tej banki vsak znesek, ki ga bo banka kot garant za obveznost podjetja Petrol Zemeljski plin d.o.o. Ljubljana plačala tujim upnikom na podlagi pogodb o prenosu zemeljskega plina preko ozemlja Republike Avstrije.
-Obveznost Republike Slovenije iz prejšnjega odstavka je omejena do višine vsakokratnega letnega zneska tolarske protivrednosti stroškov prenosa zemeljskega plina, ki znašajo v novembru 1991 - 206.816.604 ATS in se znižajo v juniju 1994 na 99.830.688 ATS ter se nadalje v času trajanja pogodbe do 31. 3. 2006 spreminjajo v skladu s pogodbeno določeno eskalacijsko klavzulo.
