@@ -1,3 +1,0 @@
-# 1. člen
-V Zakonu o izvrševanju proračunov Republike Slovenije za leti 2011 in 2012 (Uradni list RS, št. 96/10) se za petim odstavkom 36. člena doda nov šesti odstavek, ki se glasi:
-"(6) Ne glede na določbe prvega, drugega in petega odstavka tega člena se lahko država v skladu s tretjim odstavkom 81. člena ZJF dodatno zadolži za izvajanje intervencij na sekundarnem trgu lastnih dolžniških vrednostnih papirjev z dodatno izdajo posameznega lastnega dolžniškega vrednostnega papirja do višine 10% stanja dolga iz naslova posameznega lastnega dolžniškega vrednostnega papirja, izdanega v skladu s prvim odstavkom 81. člena ZJF in s prvim odstavkom 82. člena ZJF, v tekočem in preteklih proračunskih letih, vendar ne več kot za 1.250.000.000 eurov.".
