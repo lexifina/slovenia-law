@@ -1,4 +1,0 @@
-# 2. člen
-V 15. členu se dodata nov peti in šesti odstavek, ki se glasita:
-"Izhodiščne plače po Splošni kolektivni pogodbi za gospodarske dejavnosti in po kolektivnih pogodbah na področju gospodarskih dejavnosti se ob izplačilu plač za mesec avgust 2001 uskladijo za 92,5% rasti cen življenjskih potrebščin, doseženih v prvem polletju 2001. Izhodiščne plače za januar 2002 se uskladijo za 2,7%, to je za 90% predvidene rasti cen življenjskih potrebščin od 1. julija do 31. decembra 2001.
-V primeru, da rast cen življenjskih potrebščin v letu 2001 pred koncem leta preseže 7%, se pri uskladitvi izhodiščnih plač iz prejšnjega odstavka za mesec januar 2002 razlika nad 6,3% upošteva v celoti. Tako se k povečanju plač iz prejšnjega odstavka (2,7%) prišteje 100-odstotna razlika v rasti cen nad 7% in še 10% razlike v rasti cen med 6,3% in 7%. Ob tem skupno povečanje izhodiščnih plač za leto 2001 ne sme preseči 95% rasti cen življenjskih potrebščin v letu 2001."
