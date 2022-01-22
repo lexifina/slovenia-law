@@ -1,2 +1,0 @@
-## III. PROGRAM PRESTRUKTURIRANJA PODJETIJ
-# 20. člen (prenehal veljati)
