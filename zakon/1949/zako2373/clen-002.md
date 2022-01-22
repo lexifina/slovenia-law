@@ -1,2 +1,0 @@
-# 2. člen
-Zakonske zveze, sklenjene na ozemlju Ljudske Republike Slovenije pred 9. majem 1946, ki se jim je po prejšnjih predpisih oporekala veljavnost iz razloga, ker je bil eden izmed zakoncev ali ker sta bila oba zakonca že prej poročena, pa je bila njuna prejšnja zakonska zveza razvezana ali razveljavljena z odločbo cerkvenega sodišča, ki je bila po takratnih predpisih neveljavna, se priznajo za veljavne, če sicer ni bilo zadržkov iz 16., 18., 19. in 20. člena osnovnega zakona o zakonski zvezi.
