@@ -1,2 +1,0 @@
-# 1. člen
-Republika Slovenija najame pri nemški banki Kreditanstalt für Wiederaufbau iz Frankfurta kredit v skupnem znesku 26,095.000 DEM za delno financiranje nabave radarske, procesne, telekomunikacijske, radionavigacijske in energetske opreme za potrebe Republiške uprave za zračno plovbo v skupni vrednosti 30,700.000 DEM, ki jo je kupila pri nemškem podjetju SIEMENS AG iz Münchna po pogodbah št. 408523-0060-0001/A in št. 408523-0060-0001/B, sklenjenih 31. 3. 1992.
