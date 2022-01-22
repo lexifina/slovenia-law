@@ -1,2 +1,0 @@
-# 6. člen
-Če za izpolnitev obveznosti iz 4. in 5. člena tega zakona delavci v podjetju ali drugi pravni osebi s področja gospodarstva in delavci, zaposleni pri zasebniku, dodatno organizirajo delo preko polnega delovnega časa do konca posameznega meseca, iz 4. člena tega zakona, in tako dosežene enodnevne osebne dohodke za posamezni mesec vplačajo v bruto znesku kot sredstva za odpravo posledic vojaške agresije, iz tega osebnega dohodka ne plačajo dohodnine in prispevkov za socialno varnost.
