@@ -1,6 +1,0 @@
-# 7. člen
-Zamenjava obveznic iz drugega odstavka 1. člena tega zakona se opravi tako, da na dan, ki ga kot dan zamenjave določi Vlada Republike Slovenije, preidejo vse terjatve iz sanacijskih obveznic na Republiko Slovenijo, njihovi imetniki pa prejmejo od Republike Slovenije obveznice.
-Ob zamenjavi obveznic prejme vsak imetnik sanacijskih obveznic, obveznice v nominalnem znesku, ki je enak tolarski protivrednosti nominalnega zneska sanacijskih obveznic, ki jih ima, izračunani po srednjem tečaju Banke Slovenije za DEM na dan 1. 1. 1995.
-Vsak imetnik sanacijskih obveznic je upravičen prejeti tolikšen del od skupnega zneska obveznic z enakim rokom dospelosti, ki se razdelijo med imetnike obveznic, kakršnega predstavljajo njegove sanacijske obveznice v skupnem znesku sanacijskih obveznic vseh imetnikov.
-Imetnik sanacijskih obveznic je ob zamenjavi dolžan Republiki Sloveniji plačati znesek obresti od sanacijskih obveznic, ki ga je prejel za obdobje po 1. 1. 1995, Republika Slovenije pa mu je dolžna plačati znesek, ki bi mu pripadal, če bi obresti od obveznic tekle od 1. 1. 1995 dalje.
-Imetnik sanacijskih obveznic ni upravičen prejeti obveznic dokler ne izroči Republiki Sloveniji vseh sanacijskih obveznic, ki jih ima.
