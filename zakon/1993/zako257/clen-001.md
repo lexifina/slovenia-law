@@ -1,3 +1,0 @@
-# 1. člen
-Javno podjetje Slovenske železnice Ljubljana, p.o., poravnava dospele in neporavnane obveznosti do 31. 1. 1993 iz naslova davkov in prispevkov in obveznosti, ki bodo nastale do 30. 6. 1993 do proračuna Republike Slovenije v skupni višini največ do 147.200.000 tolarjev mesečno, do Zavoda za pokojninsko in invalidsko zavarovanje Slovenije v skupni višini največ do 267.800.000 tolarjev mesečno ter do Zavoda za zdravstveno zavarovanje Slovenije v skupni višini največ do 156.100.000 tolarjev mesečno (v nadaljnjem besedilu: obveznosti) na način, ki je določen s tem zakonom.
-Podatke o višini obveznosti na dan 31. 1. 1993 in 30. 6. 1993 ugotovi Služba družbenega knjigovodstva Slovenije.
