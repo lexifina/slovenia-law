@@ -1,5 +1,0 @@
-# 1. člen
-Obsojencem, ki so bili pravnomočno obsojeni na kazen zapora pred sodiščem Republike Slovenije po KZ SR Slovenije ali jim je sodišče Republike Slovenije izreklo enotno kazen zapora po KZ SR Slovenije in KZ SFRJ ali po KZ SR Slovenije in KZ drugih republik in pokrajin, pa do dneva uveljavitve tega zakona kazni zapora še niso prestali, se izrečena kazen zapora zniža za eno četrtino (v nadaljnjem besedilu: amnestija).
-Amnestija ne velja za obsojence, ki so bili obsojeni za kazniva dejanja po členih 46, 52/II, 53/III, 100, 101, 102, 103, 104, 168 in 180 KZ SR Slovenije.
-Obsojencem, ki so starejši od šestdeset let ali mlajši od enaindvajset let, se enotno izrečena kazen zapora zniža za eno četrtino ne glede na kaznivo dejanje, za katerega so bili obsojeni.
-Obsojencem iz prvega odstavka tega člena, ki so bili že obsojeni na kazen zapora za istovrstna kazniva dejanja (specialni povratniki) in so to kazen prestajali v kazenskem zavodu, ta kazen pa še ni bila izbrisana, se izrečena kazen zniža za eno petino.
