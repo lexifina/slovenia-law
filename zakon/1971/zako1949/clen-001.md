@@ -1,5 +1,0 @@
-# 1. člen
-Bivšim zasebnim dimnikarskim obrtnikom, ki so se do 31. 3. 1963. leta z vsemi svojimi delovnimi območji na podlagi posebnih dogovorov vključili v dimnikarske delovne organizacije (v nadaljnjem besedilu: organizacija), se izplačuje preživnina po določbah tega zakona.
-Do preživnine po tem zakonu so upravičeni dimnikarji iz prejšnjega odstavka, ki jim je bilo opravljanje zasebne dimnikarske obrti edini vir za preživljanje, in to:
-1. ki so po vključitvi v organizacijo vstopili z njo v delovno razmerje in so na dan uveljavitve tega zakona še v delovnem razmerju pri organizaciji, če po uveljavitvi tega zakona uveljavijo pravico do starostne pokojnine zaradi tega, ker jim delovno razmerje v organizaciji preneha po 102. členu temeljnega zakona o delovnih razmerjih (Uradni list SFRJ, št. 12-129/70) ali ker po lastni volji zaradi starosti nad 65 let prenehajo z delom v organizaciji oziroma uveljavijo pravico do invalidske pokojnine;
-2. ki so po vključitvi v organizacijo vstopili v delovno razmerje z njo, pa jim je to delovno razmerje še pred uveljavitvijo tega zakona prenehalo iz razlogov, naštetih v 1. točki tega odstavka.
