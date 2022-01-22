@@ -1,3 +1,0 @@
-# 1. člen
-Do spremembe zakonov, drugih predpisov in kolektivnih pogodb, v katerih je kot osnova za določanje plač in drugih prejemkov iz delovnega razmerja določena povprečna mesečna plača na zaposlenega, povprečna plača ali povprečna plača v preteklem trimesečju v gospodarstvu Republike Slovenije, se s tem zakonom začasno določi nova osnova za izračunavanje teh prejemkov.
-Za določanje plač in drugih prejemkov iz delovnega razmerja po aktih iz prejšnjega odstavka, se kot nova osnova uporablja podatek Statističnega urada Republike Slovenije o povprečni plači v gospodarstvu v Republiki Sloveniji za obdobje oktober-december 1996, ki znaša 127.746 tolarjev.
