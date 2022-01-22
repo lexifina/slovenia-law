@@ -1,2 +1,0 @@
-# 1. člen
-Ta zakon ureja podaljšanje mandata sodnikom porotnikom in sodnicam porotnicam (v nadaljnjem besedilu: sodniki porotniki) na delovnih in socialnem sodišču prve stopnje, ki so bili izvoljeni po določbah Zakona o delovnih in socialnih sodiščih (Uradni list RS, št. 19/94, 20/98 - ZST-G, 42/02 - ZDR in 63/03 - odl. US) 15. decembra 1999 ali 23. februarja 2000, in rok za razpis prvih volitev sodnikov porotnikov po določbah Zakona o delovnih in socialnih sodiščih (Uradni list RS, št. 2/04 in 10/04 - popr.).
