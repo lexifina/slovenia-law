@@ -1,5 +1,0 @@
-# 1. člen (vsebina zakona)
-(1) Ta zakon ureja davčno obravnavo dohodkov in transakcij pri posameznih davkih pri odpisu dolgov na podlagi sporazuma o izvedbi odpusta dolgov, ki izvirajo iz naslova rednih gospodinjskih stroškov, iz naslova dopolnilnega zdravstvenega zavarovanja in iz naslova bančnih storitev. Ta zakon določa tudi vrste dolgov in načine, na podlagi katerih država ter vrtci in osnovne šole odpišejo svoje terjatve.
-(2) Za redne gospodinjske stroške iz prejšnjega odstavka se štejejo stroški, ki izhajajo iz kontinuirane dobave blaga in storitev v dejavnostih oskrbe z električno energijo, plinom in paro, oskrbe z vodo, ravnanja z odplakami in odpadki ter upravljanja nepremičnin za plačilo.
-(3) Za dolgove iz naslova bančnih storitev iz prvega odstavka tega člena se štejejo zlasti stroški povezani s transakcijskimi računi ter plačilnimi in kreditnimi karticami.
-(4) Ta zakon ne velja za obvezne prispevke za socialno varnost, akontacije davka, davčni odtegljaj, uvozne dajatve in za obveznosti, na katere v skladu z zakonom, ki ureja finančno poslovanje, postopke zaradi insolventnosti in prisilno prenehanje, učinkuje postopek zaradi insolventnosti.
