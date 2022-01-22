@@ -1,2 +1,0 @@
-# 12. člen (možnost dokazovanja s strani upravičencev)
-Če postopkov v skladu z določbami Uredbe 987/2009/ES zaradi nesodelovanja pristojnih organov Združenega kraljestva ni mogoče izvajati, lahko upravičenec sam priskrbi potrebna dokazila za namen uveljavljanja pravic, izdana s strani pristojnih institucij Združenega kraljestva. Pristojne institucije Republike Slovenije dokazila upoštevajo, kot bi bila prejeta v skladu z Uredbo 987/2009/ES.

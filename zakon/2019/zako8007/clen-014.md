@@ -1,3 +1,0 @@
-# 14. člen (dostop do trga dela)
-(1) Državljani Združenega kraljestva in njihovi družinski člani imajo v obdobju od izstopa do 31. decembra 2020 na trgu dela v Republiki Sloveniji pravico do prostega dostopa na trg dela po zakonu, ki ureja zaposlovanje, samozaposlovanje in delo tujcev. Za njihov vstop in prebivanje v Republiki Sloveniji se uporabljajo določbe tega zakona in zakona, ki ureja tujce.
-(2) Ne glede na prejšnji odstavek imajo državljani Združenega kraljestva in njihovi družinski člani pravico do prostega dostopa na trg dela v Republiki Sloveniji do izteka veljavnosti potrdil in dovoljenj, ki jih pridobijo v skladu s 3. ali 4. členom tega zakona, vendar ne manj kot do 31. decembra 2020.
