@@ -1,4 +1,0 @@
-# 15. člen (namenski prejemki proračuna)
-Namenski prejemki v računu finančnih terjatev in naložb so skladno s 1. točko drugega odstavka 74. člena ZJF:
-1. glavnice vrnjenih posojil, danih za sanacijo podjetij in gospodarstva na podlagi 7. člena Zakona o uporabi sredstev pridobljenih iz naslova kupnine na podlagi Zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 45/95, 34/96, 60/99 - ZSRR, 22/00 - ZJS, 67/01 in 47/02; v nadaljnjem besedilu: ZUKLPP). Ti prejemki se v letih 2013 in 2014, do višine pravic porabe, predvidenih v finančnem načrtu ministrstva, pristojnega za gospodarstvo, v sprejetem proračunu uporabijo za izdatke za enak namen kot prvotno;
-2. kupnine od prodaje kapitalskih naložb, ki se v proračun za leto 2013 in za leto 2014 vplačajo na podlagi ZUKLPP, in se uporabijo za namene, določene v navedenem zakonu.

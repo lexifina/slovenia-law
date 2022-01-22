@@ -1,2 +1,0 @@
-# 63.a člen (posebna ureditev glede na 245. člen ZPIZ-2)
-Ne glede na 245. člen Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12 in 39/13) je lahko v letih 2013 in 2014 znesek vplačil kolektivnega zavarovanja po Zakonu o kolektivnem dodatnem pokojninskem zavarovanju za javne uslužbence (Uradni list RS, št. 126/03), ki ga za posameznega javnega uslužbenca vplača delodajalec v posameznem koledarskem letu, nižji od 240 eurov.

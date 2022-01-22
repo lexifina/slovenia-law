@@ -1,3 +1,0 @@
-# 19. člen (prerazporeditve pravic porabe, o katerih odloča organ upravljanja)
-(1) O prerazporeditvah med postavkami slovenske udeležbe in med postavkami namenskih sredstev EU na področju kohezijske politike odloča organ upravljanja na predlog predlagatelja finančnega načrta brez omejitev.
-(2) Če neposredni uporabnik ne porablja sredstev za izvajanje kohezijske politike skladno z načrtovano dinamiko oziroma pri izvajanju ne dosega zastavljenih in dogovorjenih ciljev, lahko organ upravljanja predlaga vladi, da odloči o prerazporeditvah pravic porabe namenskih sredstev EU in pripadajočih pravic porabe slovenske udeležbe.

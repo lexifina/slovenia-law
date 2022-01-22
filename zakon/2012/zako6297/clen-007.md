@@ -1,3 +1,0 @@
-# 7. člen (status presežnih pravic porabe)
-(1) Presežne pravice porabe se zagotavljajo v finančnem načrtu neposrednega uporabnika z namenom zagotovitve učinkovitejšega črpanja evropskih sredstev na področju kohezijske politike v okviru finančne perspektive 2007-2013 na način, da se pripravi dodatne projekte, ki bodo nadomestili tiste projekte, za katere so bile že prevzete obveznosti in se ugotavlja, da projekta ne bo mogoče zaključiti do roka določenega za dokončanje projekta.
-(2) V breme presežnih pravic porabe ni dopustno prevzemanje obveznosti brez odložnega pogoja, s katerim se prevzem obveznosti odloži do sprostitve pravic porabe zagotovljenih na področju kohezijske politike v okviru finančne perspektive 2007-2013.
