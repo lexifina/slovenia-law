@@ -1,2 +1,0 @@
-# 2. člen
-Sredstva za obnovo uničenih in poškodovanih odsekov magistralnih, regionalnih in lokalnih cest se zagotovijo v višini najmanj 2.956,800.000 tolarjev od sredstev za gradnjo avtocest (2. člen zakona o zagotovitvi namenskih sredstev za gradnjo avtocestnega omrežja v Republiki Sloveniji - Uradni list RS, št. 46/93), v skladu z določili 78. člena zakona o izvrševanju proračuna Republike Slovenije (Uradni list RS, št. 5/96).

@@ -1,2 +1,0 @@
-# 4. člen
-Uničene in poškodovane odseke magistralnih, regionalnih in lokalnih cest ter predračunsko vrednost del na teh odsekih, ki jih mora Direkcija Republike Slovenije za ceste obnoviti s sredstvi iz prejšnjega člena, določi Vlada Republike Slovenije. Sredstva, ki se namenijo za odpravo posledic zime na lokalnih cestah ter njihovo porazdelitev po prizadetih občinah, določi Vlada Republike Slovenije.
