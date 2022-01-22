@@ -1,3 +1,0 @@
-# 6. člen
-(1) Zavod opravlja nadzor nad dodelitvijo in izplačevanjem subvencije ter izvajanjem pogodbe.
-(2) Za potrebe dodeljevanja subvencij in izvajanje nadzora ima zavod pravico brezplačno pridobivati podatke o delavcih, za katere delodajalec prejme subvencijo, in sicer osebno ime, enotno matično številko občana, zavarovalno podlago, dejanski in polni delovni čas ter izplačane plače in plačane prispevke za socialno varnost, iz obstoječih zbirk osebnih podatkov od Zavoda za zdravstveno zavarovanje Slovenije, Zavoda za pokojninsko in invalidsko zavarovanje Slovenije in Davčne uprave Republike Slovenije.
