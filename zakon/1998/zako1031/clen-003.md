@@ -1,4 +1,0 @@
-# 3. člen
-Republika Slovenija bo za uresničevanje nerealiziranih programov iz prejšnjega člena z vsakokratnimi letnimi proračuni v obdobju od leta 2009 do leta 2013 zagotavljala sredstva v skupni višini 80.758.833 eurov. Sredstva so izračunana po cenah na dan 29. 4. 2002.
-Sredstva iz prejšnjih odstavkov se oblikujejo v proračunu ministrstva, pristojnega za kulturo.
-Posamezni projekti v okviru programov iz prejšnjega člena se v celoti financirajo iz državnega proračuna v primerih, ko gre za lastništvo oziroma ustanoviteljstvo države. Ostali projekti pa se iz državnega proračuna sofinancirajo v višini 50% vrednosti, razen če ni pri posameznem programu oziroma projektu določeno drugače. V primeru spremembe namembnosti ali odtujitve objekta, ki je bil sofinanciran iz državnega proračuna, se vložek države v realni vrednosti vrne v državni proračun, kar se posebej uredi s pogodbo.
