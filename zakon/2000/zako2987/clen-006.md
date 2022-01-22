@@ -1,3 +1,0 @@
-# 6. člen
-Sklad kmetijskih zemljišč in gozdov Republike Slovenije na predlog prizadetih občin oprosti oziroma zniža znesek zakupnine za zakupljena zemljišča na prizadetih območjih občin v sorazmerju z ugotovljeno škodo v letu 2000.
-Ne glede na določbe zakona, ki ureja davčni postopek in postopek za odmero dohodnine, pristojni organ odpiše sorazmerni del davka kmetom, ki imajo v lasti ali zakupu kmetijska zemljišča na območjih občin prizadetih s sušo v letu 2000 in jim je iz teh razlogov nastala škoda ter so zavezanci za plačilo davkov od dohodka iz kmetijstva. Davek se odpiše oškodovancem za leto 2000 in po seznamu, ki ga davčnemu organu predložijo prizadete občine.
