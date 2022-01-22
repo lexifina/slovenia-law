@@ -1,4 +1,0 @@
-# 6. člen (osnova za davek)
-(1) Osnova za davek je bilančna vsota (vrednost sredstev v izkazu finančnega položaja) zavezanca, izračunana kot povprečje vrednosti stanj na vsak zadnji dan meseca v koledarskem letu.
-(2) Ne glede na prvi odstavek tega člena je osnova za davek banke države članice in banke tretje države, ki je upravičena na območju Republike Slovenije opravljati bančne in druge vzajemno priznane finančne storitve preko podružnice, bilančna vsota podružnice, izračunana na način iz prvega odstavka tega člena.
-(3) Ne glede na prvi odstavek tega člena je osnova za davek banke države članice, ki je upravičena na območju Republike Slovenije opravljati bančne in druge vzajemno priznane finančne storitve neposredno, sorazmerni del bilančne vsote upoštevaje obseg poslovanja v Republiki Sloveniji.
