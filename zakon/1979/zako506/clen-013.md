@@ -1,2 +1,0 @@
-# 13. člen
-S sredstvi samoupravnega sklada iz 5. člena tega zakona upravljajo podpisniki samoupravnega sporazuma o temeljih srednjeročnega plana razvoja kmetijstva in živilstva SR Slovenije, druge temeljne organizacije združenega dela in delovne skupnosti, ki so združile sredstva v skladu in samoupravno organizirani porabniki hrane, v skladu s programom sklada in predpisi o uvedbi posameznih intervencij.
