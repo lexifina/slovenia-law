@@ -1,3 +1,0 @@
-# 4. člen
-Če Republika Slovenija plača obveznosti iz pogodbe o prevzemu obveznosti slovenskih dolžnikov iz naslova refinanciranih kreditov Exim banke namesto Nove Ljubljanske banke d.d., Ljubljana, pridobi pravico do povračila za izplačane zneske in stroške, ki so v zvezi s tem nastali.
-Pravica Republike Slovenije do regresa iz prejšnjega odstavka se zavaruje na način in v skladu z zakonom o načinu in pogojih izpolnjevanja obveznosti iz dvostranskih sporazumov za prevzem slovenskega dolga, ki izvira iz dvostranskih sporazumov za konsolidacijo dolga bivše SFRJ, sklenjenih med SFRJ in državami članicami Pariškega kluba.
