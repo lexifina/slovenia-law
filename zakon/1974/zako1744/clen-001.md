@@ -1,4 +1,0 @@
-# 1. člen
-Zaradi krepitve materialne podlage za razvoj z družbenim planom razvoja SR Slovenije v letih 1971 do 1975 predvidene proizvodnje kravjega mleka v organizacijah združenega dela in pri kmetih kooperantih se iz sredstev proračuna SR Slovenije izplačujejo premije in dodatne premije za kravje mleko.
-Zaradi hitrejše modernizacije proizvodnje mleka v organizacijah združenega dela se iz sredstev proračuna SR Slovenije izplačuje tudi namenski prispevek za modernizacijo mlečne proizvodnje v organizacijah združenega dela.
-Do premij iz prvega odstavka tega člena so upravičene organizacije združenega dela in kmetje kooperanti, ki proizvajajo in prodajajo kravje mleko, do namenskega prispevka iz drugega odstavka pa so upravičene organizacije združenega dela, ki same proizvajajo in prodajajo mleko.
