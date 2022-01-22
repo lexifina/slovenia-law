@@ -1,4 +1,0 @@
-# 4. člen
-O uporabi sredstev za intervencije odloča Izvršni svet Skupščine Republike Slovenije. O uporabi dvakrat letno obvešča Skupščino Republike Slovenije.
-Predloge za intervencije izvršnega sveta po tem zakonu pripravlja medresorska skupina predstavnikov Republiškega sekretariata za finance, Republiškega sekretariata za družbeno planiranje, Republiškega sekretariata za industrijo in gradbeništvo, Republiškega sekretariata za drobno gospodarstvo, Republiškega sekretariata za turizem in gostinstvo, Republiškega sekretariata za raziskovalno dejavnost in tehnologijo, Republiškega sekretariata za delo, Republiškega sekretariata za kmetijstvo, gozdarstvo in prehrano in Republiškega sekretariata za tržišče in splošne gospodarske zadeve.
-Kreditne in druge pogodbe za uporabo sredstev po tem zakonu sklepa Republiški sekretariat za finance.
