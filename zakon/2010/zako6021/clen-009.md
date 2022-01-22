@@ -1,6 +1,0 @@
-# 9. člen (plače funkcionarjev)
-(1) Ne glede na določbe ZSPJS in drugih predpisov se funkcionarjem izvede odprava zadnje tretjine oziroma četrtine nesorazmerij v osnovnih plačah s 1. oktobrom v drugem letu, ki sledi letu, v katerem realna rast bruto družbenega proizvoda preseže 2,5%.
-(2) Ne glede na določbe drugih členov ZSPJS se sodnikom ustavnega sodišča, generalnemu sekretarju ustavnega sodišča, sodnikom, državnim tožilcem in državnim pravobranilcem tudi v obdobju od 1. 12. 2010 do 31. 12. 2011 plače obračunavajo in izplačujejo v skladu s 17. do 24. členom Zakona o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 91/09 - ZSPJS‑L).
-(3) Za omejitev učinkov finančne krize se začasno, od 1. 1. 2011 do 31. 12. 2011, določi znižanje plač funkcionarjev za znesek v višini 4% osnovne plače posameznega funkcionarja.
-(4) Ne glede na določbe predpisov, ki določajo višino nadomestila funkcionarju po prenehanju funkcije, se plača funkcionarja, določena v skladu s prejšnjim odstavkom, upošteva kot osnova za določitev višine nadomestila plače funkcionarju po prenehanju funkcije.
-(5) Na način iz tretjega odstavka tega člena se določijo tudi plače osebam, ki status funkcionarja pridobijo po uveljavitvi tega zakona.
