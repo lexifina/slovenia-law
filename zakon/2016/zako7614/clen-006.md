@@ -1,3 +1,0 @@
-# 6. člen (nadomestilo plače funkcionarjem in javnim uslužbencem za čas odsotnosti z dela zaradi bolezni ali poškodbe, ki ni povezana z delom)
-(1) V letih 2017 in 2018 pripada funkcionarjem za čas odsotnosti z dela zaradi bolezni ali poškodbe, ki ni povezana z delom, nadomestilo, ki bremeni delodajalca, v višini 80 odstotkov osnove. Osnova za izračun nadomestila je plača v preteklem mesecu za polni delovni čas.
-(2) Nadomestilo plače v višini iz prejšnjega odstavka pripada v letih 2017 in 2018 tudi javnim uslužbencem, za katere je višina nadomestila plače za čas odsotnosti z dela zaradi bolezni ali poškodbe, ki ni povezana z delom, s kolektivno pogodbo ali s splošnim aktom, veljavnim na dan začetka uporabe tega zakona, določena drugače ali višina nadomestila ni določena.
