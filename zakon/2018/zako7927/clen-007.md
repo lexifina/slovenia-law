@@ -1,7 +1,0 @@
-# 7. člen
-V četrtem odstavku 60. člena se prvi stavek spremeni tako, da se glasi: "Ne glede na prvo alinejo prejšnjega odstavka lahko vlada ob predhodnem soglasju ministrstva in Ministrstva za javno upravo v izjemnih primerih odloči, da se dovoljeno število zaposlenih v skupnem kadrovskem načrtu državnih organov v letih 2018 in 2019 poveča za največ 0,8 odstotka in za največ dodatnih deset zaposlitev za izvajanje ukrepov Sklada za podnebne spremembe, na ministrstvu, pristojnem za okolje, ter za največ dodatnih deset zaposlitev na Inšpektoratu za delo Republike Slovenije.".
-V petem odstavku se besedilo "v letu 2018" nadomesti z besedilom "v letih 2018 in 2019".
-Za sedmim odstavkom se dodata nova osmi in deveti odstavek, ki se glasita:
-"(8) Ne glede na prvo alinejo tretjega odstavka tega člena lahko vlada odloči, da se dovoljeno število zaposlenih v organih državne uprave poveča za obseg zaposlitev iz posebnega kadrovskega načrta za namen predsedovanja EU, ki ga sprejme vlada.
-(9) Ne glede na tretji odstavek tega člena se dovoljeno število zaposlenih v letu 2019 lahko poveča tudi v kadrovskem načrtu neposrednega ali posrednega uporabnika proračuna, če gre za zaposlitev oseb, ki opravljajo delo pri zunanjem izvajalcu dejavnosti, ki je prevzel dejavnost oziroma storitev, ki je trajne narave, od neposrednega oziroma posrednega uporabnika proračuna in je pogodba o prevzemu dejavnosti še veljavna.".
-Dosedanji osmi in deveti odstavek postaneta deseti in enajsti odstavek.
