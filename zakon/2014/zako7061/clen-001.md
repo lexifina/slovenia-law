@@ -1,3 +1,0 @@
-# 1. člen
-V Zakonu o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015 (Uradni list RS, št. 101/13, 9/14 - ZRTVS-1A, 25/14 - ZSDH-1, 38/14 in 84/14) se drugi odstavek 11. člena spremeni tako, da se glasi:
-"(2) Ne glede na prejšnji odstavek in ne glede na 44. člen ZJF in 14. člen tega zakona, se za izvedbo ukrepov proporcionalnega zmanjšanja pravic porabe, za pokrivanje vseh izdatkov proračuna, lahko porabijo namenska sredstva iz 3. do 6. točke in 8. do 11. točke ter iz 13. točke prvega odstavka 14. člena tega zakona, za katera vlada ocenjuje, da v tekočem letu ne bodo porabljena za načrtovane namene.".

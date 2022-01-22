@@ -1,6 +1,0 @@
-# 8. člen
-V 51. členu se v drugem odstavku za besedo "države" dodata besedi "ali občine". Za besedilom "1 %" se doda besedilo "in v obdobju januar 2015-januar 2016 še za 1 %. Znižanje števila zaposlenih v obdobju januar 2015-januar 2016 ni potrebno pri tistih proračunskih uporabnikih, ki strošek poslovanja v letu 2015 znižajo na način, da porabo sredstev za financiranje funkcij in nalog, ki so v njihovi pristojnosti in so bila v preteklem letu oddana zunanjim izvajalcem, zmanjšajo vsaj za vrednost stroškov dela 1 % zaposlenih.".
-V sedmem odstavku se besedilo "in tisti posredni uporabniki občinskih proračunov, ki se v pretežnem delu financirajo iz proračuna države," črta.
-Za dvanajstim odstavkom se dodata nova trinajsti in štirinajsti odstavek, ki se glasita:
-"(13) Kadar je bilo v skladu z zakonom treba skleniti pogodbo o zaposlitvi z osebo, ki je v javnem sektorju opravljala delo na podlagi civilnopravnega razmerja, ki ima elemente delovnega razmerja, se takšna zaposlitev v letu 2015 ne všteva v izračun skupnega števila zaposlenih.
-(14) Neposredni uporabniki države znižujejo število zaposlenih v obdobju januar 2015-januar 2016 v obsegu, kot je v drugem odstavku tega člena določen za posredne uporabnike skladno z izjemami in ureditvami, ki so za posredne uporabnike proračuna določene v drugem, tretjem, četrtem, petem in desetem odstavku tega člena.".

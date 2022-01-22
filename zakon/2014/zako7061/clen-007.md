@@ -1,7 +1,0 @@
-# 7. člen
-V drugem odstavku 49. člena se besedilo "ter posredovana posrednim uporabnikom proračuna v 15 dneh po objavi tega zakona v Uradnem listu Republike Slovenije" črta.
-V šestem odstavku se besedilo "in tisti posredni uporabniki občinskih proračunov, ki se v pretežnem delu financirajo iz proračuna države," črta.
-V osmem odstavku se za besedo "uporabniki" vejica črta, besedilo "ki se pretežno financirajo iz proračunov občin," pa se nadomesti z besedilom "občinskih proračunov".
-Za dvanajstim odstavkom se dodata nova trinajsti in štirinajsti odstavek, ki se glasita:
-"(13) Predstojniki neposrednih uporabnikov državnega in občinskih proračunov posrednim uporabnikom proračuna iz svoje pristojnosti posredujejo izhodišča za pripravo finančnih načrtov posrednih uporabnikov za leto 2015 v 15 dneh po sprejemu rebalansa proračuna države za leto 2015 oziroma po sprejemu proračuna občine za leto 2015. Do sprejema finančnega načrta in programa dela posrednih uporabnikov proračuna se financiranje nalog in drugih s predpisi določenih namenov začasno nadaljuje na način, kot ga za neposredne uporabnike določa 32. člen ZJF.
-(14) Če posredni uporabniki, ki se financirajo v skladu s prejšnjim odstavkom, ne posredujejo finančnega načrta in programa dela v soglasje organu, pristojnemu za izdajo soglasja k njegovemu finančnemu načrtu in programu dela, v 60 dneh po prejemu izhodišč iz prejšnjega odstavka, se posrednemu uporabniku proračuna zagotavlja največ 80 % realiziranih izdatkov, ki so bili financirani iz proračuna preteklega leta.".
