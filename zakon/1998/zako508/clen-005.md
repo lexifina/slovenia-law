@@ -1,3 +1,0 @@
-# 5. člen
-Notranji upravičenci lahko pridobijo na podlagi zamenjave lastniških certifikatov in potrdil iz naslova premalo izplačanih plač za delnice SŽ d.d., katerih imetnica je Republika Slovenija, največ do 20% osnovnega kapitala SŽ d.d.
-V primeru prodaje posamezne odvisne družbe v okviru poslovnega sistema SŽ lahko zaposleni, bivši zaposleni in upokojeni delavci vložijo zahtevo za zamenjavo delnic SŽ d.d. z deleži v posamezni družbi, ki ne smejo presegati 20% osnovnega kapitala družbe. Interese zaposlenih, bivših zaposlenih in upokojenih delavcev v tem primeru zastopa družba pooblaščenka iz 6. člena tega zakona.
