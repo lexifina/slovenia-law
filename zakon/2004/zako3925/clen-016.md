@@ -1,3 +1,0 @@
-# 16. člen
-(1) Pristojna strokovna in interesna združenja morajo do 15. maja 2004 organu, pristojnemu za carinski nadzor, posredovati izpis iz evidenc, ki vsebujejo podatke o članih združenja, ki se ukvarjajo s kmetijsko, industrijsko predelovalno ali trgovsko dejavnostjo in pri tem nabavljajo, skladiščijo ali predelujejo proizvode iz drugega odstavka 1. člena oziroma iz 2. člena tega zakona.
-(2) Pri izvajanju nalog iz tega zakona sme pooblaščena uradna oseba organu, pristojnemu za carinski nadzor, pregledovati podatke iz evidenc strokovnih in interesnih združenj iz prejšnjega odstavka ter zahtevati izpis iz evidenc državnih organov.

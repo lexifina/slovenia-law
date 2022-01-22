@@ -1,3 +1,0 @@
-# 12. člen
-(1) Če Evropska komisija v skladu z Uredbo 60/2004 ugotovi v Sloveniji presežne zaloge sladkorja in zavezanec iz 10. člena tega zakona do 30. aprila 2005 ne umakne svojih presežnih zalog s trga na način določen z Uredbo 60/2004, mora plačati dajatev na presežne zaloge sladkorja, ki jo odmeri organ, pristojen za carinski nadzor.
-(2) Dajatev iz prejšnjega odstavka se odmeri zavezancu iz 10. člena tega zakona glede na količine njegovih presežnih zalog v skupnih presežnih zalogah vsake vrste sladkorja posebej in sicer v višini najvišjih uvoznih dajatev, ki za ta proizvod velja v obdobju od 1. maja 2004 do 30. aprila 2005, povišani za znesek tolarske protivrednosti 1,21 eura za 100 kilogramov belega sladkorja ali ekvivalenta suhe snovi.
