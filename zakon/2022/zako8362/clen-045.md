@@ -1,0 +1,9 @@
+# 45. člen
+V 141. členu se v prvem odstavku 2. točka spremeni tako, da se glasi:
+"2. ne predloži davčnemu organu obračuna DDV ali posebnega obračuna DDV ali teh obračunov DDV ne predloži v predpisanem roku ali na predpisan način ali v teh predloženih obračunih DDV navede nepopolne, nepravilne ali neresnične podatke (63. do 70. člen, 87. člen, 88. člen, 88.a člen, drugi odstavek 122.d člena, 137.e člen ter 63.b člen Izvedbene Uredbe Sveta (EU) št. 282/2011 z dne 15. marca 2011 o določitvi izvedbenih ukrepov za Direktivo 2006/112/ES o skupnem sistemu davka na dodano vrednost (UL L št. 77 z dne 23. 3. 2011), zadnjič spremenjene z Izvedbeno uredbo Sveta (EU) 2019/2026 z dne 21. novembra 2019 o spremembi Izvedbene uredbe (EU) št. 282/2011 v zvezi z dobavo blaga ali opravljanjem storitev, ki jih omogočajo elektronski vmesniki, in s posebnimi ureditvami za davčne zavezance, ki opravljajo storitve za osebe, ki niso davčni zavezanci, ter prodajajo blago na daljavo in opravljajo nekatere domače dobave blaga (UL L št. 313 z dne 4. 12. 2019, str. 14), (v nadaljnjem besedilu: Izvedbena uredba (EU) št. 282/2011);".
+Za 2. točko se doda nova 2.a točka, ki se glasi:
+"2.a ne predloži davčnemu organu mesečnega poročila ali ga ne predloži v predpisanem roku ali na predpisan način ali v njem navede nepopolne, nepravilne ali neresnične podatke oziroma davčnemu organu ne posreduje spremembe prijavljenih podatkov za posamezno pošiljko (130.t člen);".
+3. točka se spremeni tako, da se glasi:
+"3. ne plača DDV ali ne plača DDV v predpisanem roku ali ne plača DDV na predpisan način (77. člen, 63.b člen Izvedbene uredbe (EU) št. 282/2011);".
+7. točka se spremeni tako, da se glasi:
+"7. ne vodi predpisane evidence ali je vodena evidenca nepopolna ali ne zagotovi hrambe dokumentacije v predpisanem roku (drugi odstavek 85., 85.a, 122., 130, 130.h, 130.r, 130.u in 137.g člen);".

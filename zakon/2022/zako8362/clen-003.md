@@ -1,0 +1,8 @@
+# 3. člen
+V 6. členu se za tretjim odstavkom dodata nova četrti in peti odstavek, ki se glasita:
+"(4) "Prodaja blaga na daljavo znotraj Unije" pomeni dobavo blaga, pri kateri dobavitelj ali druga oseba za njegov račun to blago odpošlje ali odpelje iz države članice, ki ni država članica, v kateri se odpošiljanje ali prevoz tega blaga kupcu konča, tudi kadar dobavitelj posredno sodeluje pri tem prevozu ali odpošiljanju, če sta izpolnjena naslednja pogoja:
+a) dobava blaga je opravljena davčnemu zavezancu ali pravni osebi, ki ni davčni zavezanec, katere pridobitve blaga znotraj Unije niso predmet DDV v skladu s prvim odstavkom 3. člena Direktive Sveta 2006/112/ES, ali kateri koli drugi osebi, ki ni davčni zavezanec, in
+b) dobavljeno blago niso niti nova prevozna sredstva niti blago, ki ga dobavi dobavitelj ali druga oseba za njegov račun, potem ko je bilo montirano ali instalirano, s poskusnim zagonom ali brez njega.
+(5) "Prodaja na daljavo s tretjih ozemelj ali iz tretjih držav uvoženega blaga" pomeni dobavo blaga, pri kateri dobavitelj ali druga oseba za njegov račun to blago odpošlje ali prevaža s tretjega ozemlja ali iz tretje države kupcu v državi članici, tudi kadar dobavitelj posredno sodeluje pri prevozu ali odpošiljanju tega blaga, če sta izpolnjena naslednja pogoja:
+a) dobava blaga je opravljena davčnemu zavezancu ali pravni osebi, ki ni davčni zavezanec, katere pridobitve blaga znotraj Unije niso predmet DDV v skladu s prvim odstavkom 3. člena Direktive Sveta 2006/112/ES, ali kateri koli drugi osebi, ki ni davčni zavezanec, in
+b) dobavljeno blago niso niti nova prevozna sredstva niti blago, ki ga dobavi dobavitelj ali druga oseba za njegov račun, potem ko je bilo montirano ali instalirano, s poskusnim zagonom ali brez njega.".

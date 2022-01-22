@@ -1,0 +1,4 @@
+# 47. člen
+(1) Nova 6.b točka prvega odstavka, spremenjena 7. točka prvega odstavka in nov tretji odstavek 50. člena, ter spremenjeni naslov, nova ab) točka prvega odstavka in nov drugi odstavek 54. člena zakona se uporabljajo od 1. januarja 2021.
+(2) Spremenjeni 13. člen, nova 8.a točka prvega odstavka, nov četrti odstavek 50. člena, novi d) in f) točka prvega odstavka in nov tretji odstavek 54. člena ter spremenjeni drugi odstavek in novi deseti odstavek 94. člena zakona se začnejo uporabljati 1. julija 2022.
+(3) Do začetka uporabe določb iz prejšnjega odstavka se uporabljajo določbe 13. člena, prvega in tretjega odstavka 50. člena, 54. člena in drugega odstavka 94. člena Zakona o davku na dodano vrednost (Uradni list RS, št. 13/11 - uradno prečiščeno besedilo, 18/11, 78/11, 38/12, 83/12, 46/13, 86/14, 90/15, 77/18, 59/19, 72/19 in 196/21 - ZDOsk).

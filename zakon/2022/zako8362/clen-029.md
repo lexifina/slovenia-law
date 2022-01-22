@@ -1,0 +1,5 @@
+# 29. člen
+V 94. členu se drugi odstavek spremeni tako, da se glasi:
+"(2) Obračunavanja DDV je oproščena tudi dobava blaga in storitev v okviru osnovne kmetijske in osnovne gozdarske dejavnosti, kot jo določajo predpisi o dohodnini, če se zanjo dohodek ne ugotavlja na podlagi dejanskih prihodkov in odhodkov ali dejanskih prihodkov in normiranih odhodkov. Za osnovno kmetijsko in osnovno gozdarsko dejavnost se za davčnega zavezanca za namene tega zakona šteje eden od članov kmečkega gospodinjstva, zavezancev za dohodnino od dohodka iz osnovne kmetijske in osnovne gozdarske dejavnosti, ki ga člani kmečkega gospodinjstva, zavezanci za dohodnino iz te dejavnosti, določijo za predstavnika.".
+Za devetim odstavkom se doda nov deseti odstavek, ki se glasi:
+"(10) Za osnovno kmetijsko in osnovno gozdarsko dejavnost, za katero se dohodek ugotavlja na podlagi dejanskih prihodkov in odhodkov ali dejanskih prihodkov in normiranih odhodkov, velja določba prvega odstavka tega člena, za davčnega zavezanca pa se za tako dejavnost šteje nosilec, kot je določen po predpisih o dohodnini.".

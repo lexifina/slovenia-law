@@ -1,0 +1,6 @@
+# 44. člen
+V 140. členu se v prvem odstavku 1. in 2. točka spremenita tako, da se glasita:
+"1. ne poroča davčnemu organu o dobavah blaga ali ne poroča o dobavah blaga v predpisanem roku ali ne poroča o dobavah blaga na predpisan način oziroma o dobavah blaga na daljavo poroča nepopolne, nepravilne ali neresnične podatke (sedmi odstavek 20. člena);
+2. ne predloži davčnemu organu poročila in izjave s podatki iz drugega odstavka 30.f člena tega zakona ali ne predloži poročila in izjave v predpisanem roku ali ne predloži poročila in izjave na predpisan način oziroma v predloženem poročilu oziroma izjavi izkaže nepopolne, nepravilne ali neresnične podatke (30.f člen);".
+11. točka se spremeni tako, da se glasi:
+"11. davčnemu organu ne prijavi, kdaj se njegova dejavnost iz 6.a oziroma 6.b oziroma 6.c podpoglavja XI. poglavja tega zakona, ki jo opravlja kot davčni zavezanec, začne, spremeni ali preneha, ali ne predloži izjave s podatki iz drugega odstavka 125. člena tega zakona, ali te prijave oziroma podatkov ne prijavi na predpisan način ali pa navede nepopolne, nepravilne ali neresnične podatke oziroma ne sporoči sprememb posredovanih podatkov (prvi, drugi in četrti odstavek 125. člena, prvi in tretji odstavek 130.c člena in prvi do peti odstavek 130.l člena);".
