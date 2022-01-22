@@ -1,2 +1,0 @@
-# 28. člen
-Podjetje mora sprejeti program lastninskega preoblikovanja in ga predložiti v odobritev Agenciji Republike Slovenije za prestrukturiranje in privatizacijo najpozneje v roku 90 dni po uveljavitvi tega zakona. Če podjetje ne izvede lastninskega preoblikovanja v skladu s sprejetim programom preoblikovanja in vloži prijave za vpis v sodni register najkasneje v roku dvanajstih mesecev po uveljavitvi tega zakona preide celotni družbeni kapital podjetja v last in upravljanje Sklada.
