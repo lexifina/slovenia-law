@@ -1,2 +1,0 @@
-# 5. člen
-Izplačilo zneska uskladitve plač se lahko izjemoma opravi tudi na drugačen način in z drugačno dinamiko, kot izhaja iz osnovnih določb Dogovora oziroma z njim usklajene kolektivne pogodbe dejavnosti, vendar le na podlagi sklenjenega pisnega sporazuma med delodajalcem in zaposlenimi v družbi ali podjetju. Tak sporazum mora biti sklenjen na način določen v 7. členu Dogovora oziroma z njim usklajeno kolektivno pogodbo dejavnosti.
