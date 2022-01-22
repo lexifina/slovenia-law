@@ -1,3 +1,0 @@
-# 74. člen
-Delavci v temeljnih in drugih organizacijah združenega dela ter v delovnih skupnostih in delovni ljudje, ki z osebnim delom s sredstvi v lasti občanov opravljajo gospodarsko ali negospodarsko dejavnost, plačujejo prispevek občinski skupnosti za varstvo pred požarom za financiranje njene dejavnosti v skladu s programom. Osnova in višina prispevka se določi v skladu z resolucijo o druženoekonomski politiki s samoupravnim sporazumom.
-Če niso zagotovljena sredstva za financiranje temeljnih ali nujnih nalog programa varstva pred požarom, lahko občinska skupščina na predlog občinske skupnosti za varstvo pred požarom določi obvezni prispevek za zavezance iz prejšnjega odstavka tega člena, ki niso sklenili samoupravnega sporazuma oziroma za vse zavezance.

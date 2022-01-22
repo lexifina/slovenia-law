@@ -1,3 +1,0 @@
-# 9.a člen
-Pri izdelavi prostorskega izvedbenega akta, pri projektiranju, gradnji rekonstrukcij in vzdrževanju objektov je potrebno zagotavljati požarno varnost ljudi in premoženja tako, da se v čim večji meri omeji možnost nastanka in razširitve požara, zagotovi reševanje ljudi in premoženja in omogoči dostop gasilcev.
-Požarnovarnostne zahteve iz prejšnjega odstavka morajo biti upoštevane v prostorskem izvedbenem aktu, lokacijski dokumentaciji, tehnični dokumentaciji za zgraditev objekta oziroma dokumentaciji o spremembi tehnološkega procesa. Iz dokumentacije mora biti tudi razvidno, kateri predpisi oziroma tehnični normativi s področja požarne varnosti so bili upoštevani.

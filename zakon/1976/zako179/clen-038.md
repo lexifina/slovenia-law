@@ -1,3 +1,0 @@
-# 38. člen
-Samoupravne interesne skupnosti za varstvo pred požarom (v nadaljnjem besedilu: skupnosti za varstvo pred požarom) ugotavljajo in usklajujejo interese in potrebe, oblikujejo politiko razvoja skrbijo za skladen razvoj požarnega varstva na območju, za katerega so ustanovljene, usklajujejo in sprejemajo samoupravne sporazume o temeljih plana, sprejemajo programe varstva pred požarom, skrbijo za njihovo uresničitev, združujejo sredstva, in opravljajo druge zadeve s področja varstva pred požarom.
-V programih varstva pred požarom se v skladu z ugotovljeno požarno nevarnostjo določajo naselja, ki morajo imeti gasilsko enoto ter preventivni organizacijski in operativni ukrepi za varstvo pred požarom.

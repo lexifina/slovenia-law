@@ -1,3 +1,0 @@
-# 39. člen
-S samoupravnim sporazumom o ustanovitvi skupnosti za varstvo pred požarom in z njenim statutom se podrobneje ureja delovno področje in organizacija skupnosti, način delegiranja delegatov, sestava, pooblastila in odgovornost skupščine samoupravne interesne skupnosti in njenih organov, način odločanja, združevanja sredstev in nadzorovanja dela organov upravljanja in strokovnih služb ter druga razmerja, določena s tem zakonom in druge zadeve skupnega pomena za člane skupnosti.
-Izvršni svet pristojen skupščine družbenopolitične skupnosti daje soglasje k samoupravnemu sporazumu o ustanovitvi skupnosti in k njenemu statutu.
