@@ -1,3 +1,0 @@
-# 1. člen
-Zaradi zagotovitve dela sredstev za izvedbo Projekta investiranja v šolski prostor in opremo v Republiki Sloveniji v obdobju 1997-1999 s pomočjo posojila Sklada Sveta Evrope za socialni razvoj (v nadaljnjem besedilu: Projekt), ki ga je sprejela Vlada Republike Slovenije na 217. seji dne 18. oktobra 1996 s sklepom številka 430-03/93-13/3-8, lahko Republika Slovenija najame pri Skladu Sveta Evrope za socialni razvoj (v nadaljnjem besedilu: Sklad) posojilo v skupnem znesku 9.203,490.200 tolarjev.
-Vlada Republike Slovenije sme kot dopolnitev predloženega Projekta s Skladom skleniti dodatek k pogodbi o posojilu, oziroma predložiti nov program, vendar znesek dodatnega posojila ne sme presegati 2.000,000.000 tolarjev po cenah na dan uveljavitve tega zakona.
