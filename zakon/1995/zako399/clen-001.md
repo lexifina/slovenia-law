@@ -1,2 +1,0 @@
-# 1. člen
-S tem zakonom se ureja način poravnavanja obveznosti iz naslova deviznih vlog, vloženih v banke na območju Republike Slovenije, ki so jih banke deponirale pri Narodni banki Jugoslavije in izplačale vlagateljem do 31. decembra 1992 (v nadaljnjem besedilu: izplačane devizne vloge), in sicer pri tistih bankah, v katerih do dneva uveljavitve tega zakona ni bil uveden sanacijski postopek v skladu z zakonom o predsanaciji, sanaciji, stečaju in likvidaciji bank in hranilnic (Uradni list RS, št. 1/91 in 46/93).
