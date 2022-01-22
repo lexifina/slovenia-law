@@ -1,3 +1,0 @@
-# 2. člen
-Republika Slovenija bo za realizacijo programov iz prvega odstavka prejšnjega člena v proračunu Republike Slovenije v obdobju od leta 1994 do vključno leta 2003 zagotovila sredstva do skupne višine največ 76.600 milijonov tolarjev, po cenah na dan 30. 11. 1993, ki se bodo letno usklajevala z gibanjem tečaja DEM.
-Republika Slovenija bo za realizacijo programov iz drugega odstavka prejšnjega člena do vključno leta 2007 zagotovila sredstva do skupne višine 65.000 milijonov tolarjev po cenah na dan 31. 12. 2001, s tem, da se bodo letno usklajevala z gibanjem tečaja DEM. V ta znesek se ne vštevajo obresti in stroški za najeta posojila, s katerimi se v skladu s prvim odstavkom 4. člena tega zakona zagotavljajo potrebna sredstva.
