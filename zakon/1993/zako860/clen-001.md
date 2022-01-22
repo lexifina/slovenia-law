@@ -1,4 +1,0 @@
-# 1. člen
-V zakonu o načinu obračunavanja in izplačevanja plač (Uradni list RS, št. 13/93) se besedilo prve in druge alinee 1. člena spremeni in dopolni tako, da se glasita:
-"- nadzor nad izvajanjem splošne kolektivne pogodbe za gospodarstvo (Uradni list RS, št. 31/90) in aneksa k splošni kolektivni pogodbi za gospodarstvo, sklenjenega dne 22. 2. 1993 (Uradni list RS, št. 11/93) (v nadaljnjem besedilu: aneks), ter način obračunavanja in izplačevanja regresa za letni dopust, jubilejnih nagrad in nadomestil stroškov v pravnih osebah s področja gospodarstva (področja dejavnosti 01 do 11 Enotne klasifikacije dejavnosti);
-- način obračunavanja in izplačevanja plač, regresa za letni dopust, jubilejnih nagrad in nadomestil stroškov v pravnih osebah s področja negospodarstva ter v državnih organih (področja dejavnosti 12 do 14 Enotne klasifikacije dejavnosti)."
