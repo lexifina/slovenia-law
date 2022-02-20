@@ -1,0 +1,3 @@
+# 2. člen
+V 24. členu se za trinajstim odstavkom doda nov štirinajsti odstavek, ki se glasi:
+"(14) Za javna naročila medicinskih pripomočkov in medicinske opreme s predmetom po Uredbi (ES) št. 2195/2002 Evropskega parlamenta in Sveta z dne 5. novembra 2002 o enotnem besednjaku javnih naročil (CPV) (UL L 340, 16. 12. 2002, str. 1) se ocenjena vrednost javnega naročila izračuna tako, da se upošteva cene medicinskih pripomočkov in medicinske opreme v državah članicah Evropske unije, ki so primerljive s slovenskim tržiščem, kot izhajajo iz centralne cenovne evidence in jih odraža referenčna cena iz 27.a točke prvega odstavka 2. člena tega zakona. Metodologijo izračuna cene za posamezne kategorije nabave določi vlada z uredbo.".
