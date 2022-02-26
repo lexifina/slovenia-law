@@ -1,0 +1,11 @@
+# 17. člen
+
+Delodajalec po tem zakonu je pravna ali fizična oseba s sedežem v Republiki Sloveniji ali v drugi državi članici Evropske unije ali Evropskega gospodarskega prostora, ki svojo dejavnost opravlja v Republiki Sloveniji in ima z delavcem, ki opravlja delo ali ga običajno opravlja v Republiki Sloveniji, sklenjeno pogodbo o zaposlitvi, v skladu z veljavno zakonodajo Republike Slovenije.
+
+Delodajalec je insolventen po tem zakonu:
+
+- če je nad njim začet stečajni postopek;
+
+- če je sklep o potrditvi prisilne poravnave z načrtom finančne reorganizacije nad njim postal pravnomočen;
+
+- če je v eni od drugih držav članic Evropske unije ali Evropskega gospodarskega prostora, v kateri ima delodajalec sedež, uveden postopek insolventnosti v skladu z Uredbo Sveta (ES) št. 1346/2000 z dne 29. junija 2000 o postopkih v primeru insolventnosti (UL L št. 160 z dne 30. junija 2000, str. 1) in Uredbo Sveta (ES) št. 603/2005 z dne 12. aprila 2005 o spremembi seznamov postopkov v primeru insolventnosti, likvidacijskih postopkov in upraviteljev v prilogah A, B in C k Uredbi (ES) št. 1346/2000 o postopkih v primeru insolventnosti (UL L št. 100 z dne 20. aprila 2005, str. 1).
