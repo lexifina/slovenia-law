@@ -1,0 +1,4 @@
+# 3. člen
+V 4. členu se za drugim odstavkom dodata nova tretji in četrti odstavek, ki se glasita:
+"(3) Ne glede na prvi odstavek tega člena je sistem jamstva za vloge po tem zakonu tudi sistem jamstva za vloge, ki nastane z združitvijo sistema jamstva za vloge iz prvega odstavka tega člena s sistemi jamstva za vloge, ki so ustanovljeni v drugih državah članicah in izpolnjujejo pogoje iz Direktive 2014/49/EU, ali z ustanovitvijo čezmejnega sistema jamstva za vloge.
+(4) Določbe tega zakona, ki se nanašajo na aktivnosti Banke Slovenije kot upravljavca sistema jamstva za vloge v Republiki Sloveniji, se smiselno uporabljajo tudi za upravljanje združenih ali čezmejnih sistemov jamstva za vloge, če se ti ustanovijo v skladu s prejšnjim odstavkom in 6. točko drugega odstavka 21. člena tega zakona.".
