@@ -1,0 +1,3 @@
+# 15. člen (določitev nove zavarovalne osnove)
+
+Ne glede na šesti odstavek 145. člena Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 99/13 – ZSVarPre-C, 101/13 – ZIPRS1415, 44/14 – ORZPIZ206, 85/14 – ZUJF-B, 95/14 – ZUJF-C, 90/15 – ZIUPTD, 102/15, 23/17, 40/17, 65/17, 28/19, 75/19, 139/20, 189/20 – ZFRO, 51/21, 121/21, 162/21, 196/21 – ZDOsk in 10/22) in ne glede na drugi odstavek 10. člena Pravilnika o določanju zavarovalne osnove (Uradni list RS, št. 89/13, 11/15, 83/16 in 72/17) se zavarovalna osnova v letu 2022 na novo določi na podlagi zadnjega obračuna akontacije dohodnine oziroma dohodnine od dohodka iz dejavnosti za mesec po mesecu, v katerem je bil obračun davka predložen davčnemu organu, vendar najpozneje za mesec maj.
