@@ -1,0 +1,6 @@
+# 13. člen
+V 109. členu se na koncu prvega odstavka doda besedilo, ki se glasi: "V letno davčno osnovo iz prejšnjega stavka se všteva tudi vsota davčnih osnov od vseh vrst dohodkov iz 1. in 3. točke 131.a člena tega zakona, če se zavezanec rezident tako odloči in s tem seznani davčni organ, na način, določen s tem zakonom.".
+Sedmi odstavek se spremeni tako, da se glasi:
+"(7) Ne glede na prvi odstavek tega člena se v letno davčno osnovo od plačila za poslovno uspešnost všteva vsota tega dohodka, ki:
+- presega 100 % povprečne letne plače zaposlenih v Sloveniji, preračunane na mesec, za leto, za katero se dohodnina odmerja, po podatkih Statističnega urada Republike Slovenije, zmanjšana za sorazmerni del prispevkov za socialno varnost, ki jih mora na podlagi posebnih predpisov plačevati delavec, glede na delež teh dohodkov, ki se vštevajo v davčno osnovo, ali
+- presega 100 % povprečne mesečne plače delavca, vključno z nadomestili plače, za leto, za katero se dohodnina odmerja, izplačane v letu in v mesecu januarju po letu, za katero se dohodnina odmerja, zmanjšana za sorazmerni del prispevkov za socialno varnost, ki jih mora na podlagi posebnih predpisov plačevati delavec, glede na delež teh dohodkov, ki se vštevajo v davčno osnovo.

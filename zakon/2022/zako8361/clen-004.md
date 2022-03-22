@@ -1,0 +1,5 @@
+# 4. člen
+V 44. členu se v prvem odstavku v 9. točki besedilo "Zakon o delovnih razmerjih" nadomesti z besedo "zakon", za besedo "nesposobnosti" se doda besedilo "oziroma iz razlogov, primerljivih poslovnemu razlogu oziroma razlogu nesposobnosti", besedilo "Zakona o delovnih razmerjih (Uradni list RS, št. 21/13)" pa se nadomesti z besedo "zakona".
+V 11. točki se besedilo "Zakon o delovnih razmerjih" nadomesti z besedo "zakon", besedilo "Zakona o delovnih razmerjih" pa se nadomesti z besedo "zakona".
+12. točka se spremeni tako, da se glasi:
+"12. plačilo za poslovno uspešnost, izplačano v zvezi z delovnim razmerjem v denarju ali naravi vsem upravičenim delavcem, če je pravica do izplačila za poslovno uspešnost določena v splošnem aktu delodajalca ali kolektivni pogodbi, in sicer do višine 100 % povprečne mesečne plače zaposlenih v Sloveniji oziroma do višine 100 % povprečne mesečne plače delavca, vključno z nadomestili plače, izplačanih za zadnjih 12 mesecev pri delodajalcu, če je to za zavezanca ugodneje;".
