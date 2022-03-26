@@ -1,0 +1,3 @@
+# 29. člen
+V 74. členu se na koncu prvega odstavka doda besedilo "Za vodenje predpisane izpitne dokumentacije se lahko pri opravljanju praktičnega dela vozniškega izpita uporabljajo tudi tehnična sredstva, ki omogočajo samodejno pridobivanje in zapisovanje podatkov o njegovem poteku, kot so podatki o relaciji praktičnega dela vozniškega izpita, času začetka in konca vozniškega izpita ter kraju in času dogodkov, ki jih na vozniškem izpitu beleži ocenjevalec na vozniškem izpitu.".
+V tretjem odstavku se v prvem stavku za besedilom "opravljanja vozniškega izpita" doda besedilo "pri javni agenciji zahteva vpogled v izpitno dokumentacijo in" ter na koncu odstavka doda besedilo "Kandidat za voznika do dokončne odločitve o ugovoru ne sme ponovno opravljati vozniškega izpita.".

@@ -1,0 +1,13 @@
+# 10. člen
+V 39. členu se četrti odstavek spremeni tako, da se glasi:
+"(4) Splošni del teoretičnega dela usposabljanja se izvede pred dodatnim delom. Za veljaven splošni del teoretičnega dela usposabljanja se šteje, če ima oseba veljavno vozniško dovoljenje ali če je zaključila splošni del teoretičnega dela usposabljanja v šoli vožnje. Za veljaven splošni del teoretičnega dela usposabljanja za kategorijo AM se šteje, če se je oseba sama usposobila za splošni del teoretičnega dela usposabljanja za kategorijo AM.".
+Šesti odstavek se spremeni tako, da se glasi:
+"(6) Za veljaven dodatni del teoretičnega dela usposabljanja znotraj posamezne alineje iz prejšnjega odstavka se šteje, če ima oseba veljavno vozniško dovoljenje ali če je zaključila dodatni del teoretičnega dela usposabljanja v šoli vožnje za kategorijo, navedeno znotraj posamezne alineje. Za veljaven dodatni del teoretičnega dela usposabljanja za kategorijo AM se šteje, če se je oseba sama usposobila za dodatni del teoretičnega dela usposabljanja za kategorijo AM.".
+Osmi odstavek se spremeni tako, da se glasi:
+"(8) Kandidat za voznika mora biti pri splošnem delu teoretičnega dela usposabljanja v učilnici šole vožnje ali na daljavo prisoten najmanj 12 pedagoških ur, pri dodatnem delu teoretičnega dela usposabljanja pa vse pedagoške ure.".
+V desetem odstavku se prvi stavek spremeni tako, da se glasi: "Ne glede na prejšnji odstavek se praktični del usposabljanja kandidata za voznika kategorije AM izvede v trajanju najmanj pet učnih ur, praktični del usposabljanja kandidata za voznika kategorij BE, C1E, CE, D1E, DE in F pa najmanj 16 učnih ur.".
+V dvanajstem odstavku se prvi stavek spremeni tako, da se glasi: "Šola vožnje mora prek spletnega mesta javne agencije najmanj dva dni pred začetkom usposabljanja obvestiti javno agencijo o kraju in času izvajanja posameznega dela splošnega in dodatnega dela teoretičnega usposabljanja kandidatov za voznike.".
+Za dvanajstim odstavkom se doda nov trinajsti odstavek, ki se glasi:
+"(13) Z globo 800 eurov se za prekršek kaznuje pravna oseba ali samostojni podjetnik posameznik, ki v predpisanem roku ne obvesti javne agencije o kraju in času izvajanja posameznega dela splošnega in dodatnega dela teoretičnega usposabljanja kandidatov za voznike, njuna odgovorna oseba pa z globo 200 eurov.".
+Za dosedanjim trinajstim odstavkom, ki postane štirinajsti odstavek, se doda nov petnajsti odstavek, ki se glasi:
+"(15) Z globo 4.000 eurov se za prekršek kaznuje pravna oseba ali samostojni podjetnik posameznik, ki izvaja program usposabljanja kandidatov za voznike in ni vpisana v register šol vožnje, njuna odgovorna oseba pa z globo 800 eurov.".

@@ -1,0 +1,2 @@
+# 35. člen (rok za vzpostavitev informacijske povezave za elektronski dostop do podatkov o številu kazenskih točk iz skupne evidence kazenskih točk v cestnem prometu)
+Vzpostavitev informacijskega povezovanja za elektronski dostop evidence o vozniških dovoljenjih do skupne evidence kazenskih točk v cestnem prometu iz novega petega odstavka 70. člena zakona se zagotovi v šestih mesecih od uveljavitve tega zakona.
