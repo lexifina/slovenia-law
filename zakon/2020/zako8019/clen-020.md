@@ -1,3 +1,0 @@
-# 20. člen
-V 46. členu se prvi odstavek spremeni tako, da se glasi:
-"(1) Podatki o osebnem imenu, mesecu in letu rojstva, državi stalnega in začasnega prebivališča, državljanstvu, višini lastniškega deleža ali obliki nadzora dejanskih lastnikov, datumu vpisa in izbrisa dejanskega lastnika iz registra ter o oznaki o samodejnem vpisu dejanskega lastnika in ugotovljeni neskladnosti podatkov o dejanskem lastniku so javni in brezplačno dostopni na spletni strani upravljavca registra. Namen javnosti podatkov je zagotavljanje višje ravni pravne varnosti pri sklepanju poslovnih razmerij, varnosti pravnega prometa, integritete poslovnega okolja ter preglednosti poslovnih razmerij posameznikov s poslovnimi subjekti, ki delujejo v poslovnem okolju in pravnem prometu.".
