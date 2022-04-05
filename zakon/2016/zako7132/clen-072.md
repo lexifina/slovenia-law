@@ -1,3 +1,0 @@
-# 72. člen (obveznost izvajanja ukrepov v državah članicah)
-(1) Zavezanec, ki neposredno opravlja svojo poslovno dejavnost v drugi državi članici ali jo opravlja prek podružnice ali zastopnikov, zagotovi, da podružnice in zastopniki upoštevajo zakonodajo te države članice, ki ureja področje odkrivanja in preprečevanja pranja denarja in financiranja terorizma.
-(2) Nadzor nad izvajanjem prejšnjega člena izvajajo pristojni nadzorni organi države članice, v kateri zavezanec opravlja svojo poslovno dejavnost prek podružnice, zastopnikov ali neposredno, v sodelovanju s pristojnimi nadzornimi organi iz 139. člena tega zakona.

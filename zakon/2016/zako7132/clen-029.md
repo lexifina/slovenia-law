@@ -1,9 +1,0 @@
-# 29. člen (ugotavljanje in preverjanje istovetnosti drugih oseb civilnega prava)
-(1) Če je stranka oseba civilnega prava iz 5. točke 3. člena tega zakona, ki ni fizična ali pravna oseba, zavezanec:
-1. ugotovi in preveri istovetnost osebe, pooblaščene za zastopanje (v nadaljnjem besedilu: zastopnik);
-2. pridobi overjeno pisno pooblastilo za zastopanje;
-3. pridobi podatke iz 2. in 15. točke prvega odstavka 137. člena tega zakona.
-(2) Zavezanec ugotovi in preveri istovetnost zastopnika iz prejšnjega odstavka in pridobi podatke iz 2. točke prvega odstavka 137. člena tega zakona z vpogledom v uradni osebni dokument zastopnika ob njegovi osebni navzočnosti. Če iz tega dokumenta ni mogoče dobiti vseh predpisanih podatkov, se manjkajoči podatki pridobijo iz druge veljavne javne listine, ki jo predloži zastopnik, oziroma neposredno od njega.
-(3) Zavezanec podatke iz 15. točke prvega odstavka 137. člena tega zakona o vsaki fizični osebi, ki je član osebe civilnega prava iz prvega odstavka tega člena, pridobi iz overjenega pisnega pooblastila za zastopanje, ki ga zavezancu predloži zastopnik. Če iz tega pooblastila ni mogoče dobiti vseh podatkov iz 15. točke prvega odstavka 137. člena tega zakona, se manjkajoči podatki pridobijo neposredno od zastopnika.
-(4) Ne glede na 2. točko prvega odstavka in tretji odstavek tega člena lahko zavezanec v primeru, da je njegova stranka skupnost dijakov, učencev ali otrok v vrtcu, ki je del vzgojno-izobraževalnega sistema v Republiki Sloveniji ali prostovoljna skupnost zaposlenih, ki kot blagajna vzajemne pomoči deluje v okviru sindikata posameznega delodajalca, pridobi zgolj pisno pooblastilo za zastopanje.
-(5) Če zavezanec pri ugotavljanju in preverjanju istovetnosti osebe iz prvega odstavka tega člena podvomi o resničnosti prejetih podatkov ali verodostojnosti listin, iz katerih so bili podatki zajeti, lahko pred sklenitvijo poslovnega razmerja ali izvedbo transakcije zahteva tudi pisno izjavo zastopnika.

@@ -1,2 +1,0 @@
-# 147. člen (oviranje nadzora)
-Če zavezanec ne dovoli vstopa v prostore ali ga ovira ali ne dovoli dostopa do poslovnih knjig ali druge dokumentacije ali ga ovira ali kako drugače ovira opravljanje inšpekcijskega nadzora ali če se to utemeljeno pričakuje, lahko inšpektor vstopi v prostore ali dostopa do poslovnih knjig ali druge dokumentacije proti volji zavezanca ob pomoči policije, razen če je zavezanec odvetnik ali odvetniška družba. Stroške vstopa ali dostopa in morebitno škodo krije zavezanec.

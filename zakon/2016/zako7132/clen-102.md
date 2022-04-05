@@ -1,2 +1,0 @@
-# 102. člen (informacija o drugih kaznivih dejanjih)
-Ne glede na prvi odstavek prejšnjega člena urad pošlje pisno informacijo s potrebno dokumentacijo pristojnim organom, tudi če na podlagi podatkov, informacij in dokumentacije, pridobljenih po tem zakonu, presodi, da so v zvezi z neko transakcijo, osebo, premoženjem ali sredstvi podani razlogi za sum storitve kaznivih dejanj, določenih v kazenskem zakoniku, ki se preganjajo po uradni dolžnosti in za katera je predpisana kazen zapora.

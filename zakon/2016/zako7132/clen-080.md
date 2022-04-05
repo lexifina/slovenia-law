@@ -1,6 +1,0 @@
-## 3.6.2 Strokovno usposabljanje
-# 80. člen (obveznost rednega usposabljanja in izobraževanja)
-(1) Zavezanec sprejme ukrepe, s katerimi zagotovi, da so zaposleni, ki opravljajo naloge preprečevanja in odkrivanja pranja denarja in financiranja terorizma po tem zakonu, seznanjeni z določbami tega zakona, vključno z ustreznimi zahtevami glede varstva podatkov. Sprejeti ukrepi morajo biti sorazmerni glede na vrsto in velikost zavezanca ter tveganje za pranje denarja in financiranje terorizma.
-(2) Zavezanec mora skrbeti za redno strokovno usposabljanje vseh zaposlenih, ki opravljajo naloge preprečevanja in odkrivanja pranja denarja in financiranja terorizma po tem zakonu.
-(3) Strokovno usposabljanje in izobraževanja iz prejšnjega odstavka se nanašajo na seznanjanje z določili zakona ter na njegovi podlagi izdanih pravilnikov in notranjih aktov, s strokovno literaturo glede preprečevanja in odkrivanja pranja denarja in financiranja terorizma, s seznami indikatorjev za prepoznavanje strank in transakcij, v zvezi s katerimi obstajajo razlogi za sum pranja denarja ali financiranja terorizma.
-(4) Zavezanec mora pripraviti program letnega strokovnega usposabljanja za preprečevanje in odkrivanje pranja denarja in financiranja terorizma najpozneje do konca marca za tekoče leto.

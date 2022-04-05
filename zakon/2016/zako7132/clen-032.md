@@ -1,2 +1,0 @@
-# 32. člen (hramba kopij uradnih osebnih dokumentov v elektronski obliki)
-Ne glede na določbe drugih zakonov lahko zavezanci, ki so kreditne in finančne institucije, kopije uradnih osebnih dokumentov, ki so jih pridobili v okviru izvajanja ukrepov ugotavljanja in preverjanja istovetnosti stranke po določbah tega zakona, hranijo v elektronski obliki, če je zagotovljeno njihovo varovanje z organizacijskimi, tehničnimi in logično-tehničnimi postopki in ukrepi skladno z zakonom, ki ureja varstvo osebnih podatkov.

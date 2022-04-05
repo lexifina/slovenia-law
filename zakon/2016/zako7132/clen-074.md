@@ -1,3 +1,0 @@
-# 74. člen (nadzor nad zastopniki)
-(1) Če Banka Slovenije pri poslovanju zastopnikov iz prejšnjega člena ugotovi hujše pomanjkljivosti pri izvajanju ukrepov preprečevanja pranja denarja ali financiranja terorizma, lahko v okviru svojih pristojnosti sprejme ustrezne in sorazmerne ukrepe za odpravo pomanjkljivosti. Ukrepi so začasni in prenehajo, ko so pomanjkljivosti odpravljene.
-(2) Pri sprejemanju ukrepov in odpravljanju pomanjkljivosti iz prejšnjega odstavka Banka Slovenije sodeluje s pristojnimi nadzornimi organi države članice, v kateri ima družba za izdajo elektronskega denarja ali ponudnik plačilnih storitev sedež.

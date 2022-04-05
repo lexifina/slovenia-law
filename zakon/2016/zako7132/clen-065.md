@@ -1,2 +1,0 @@
-# 65. člen (prepoved sklepanja poslovnega razmerja)
-Zavezanec ne sme skleniti poslovnega razmerja ali opraviti transakcij iz 17. in 18. člena tega zakona, če stranka izkazuje lastništvo pravne osebe ali podobnega subjekta tujega prava na podlagi delnic na prinosnika, katerih sledljivost ni omogočena prek centralne klirinško-depotne družbe ali podobnega registra ali trgovalnih računov in se ga ne da ugotoviti na podlagi druge poslovne dokumentacije.
