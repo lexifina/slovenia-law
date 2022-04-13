@@ -1,3 +1,1 @@
-# 295. člen (nediskriminatorno obravnavanje odjemalcev)
-(1) Distributer ne sme diskriminirati odjemalcev sistema glede pogojev uporabe sistema. Razlike v pogojih uporabe sistema morajo temeljiti na objektivnih in preglednih merilih ter biti opredeljene v sistemskih obratovalnih navodilih oziroma splošnih pogodbenih pogojih izvajalcev tržne distribucije.
-(2) Odjemalec, ki s količino odjema ali prilagajanjem svojega odjema prispeva k ugodnejši obremenitvi distribucijskega sistema, je upravičen do ugodnejših pogojev oskrbe, če so razlogi in kriteriji za ugodnejšo obravnavo določeni v sistemskih obratovalnih navodilih oziroma splošnih pogodbenih pogojih izvajalcev tržne distribucije.
+# 295. člen (prenehal veljati)

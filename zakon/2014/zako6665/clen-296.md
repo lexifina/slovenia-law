@@ -1,4 +1,1 @@
-# 296. člen (nujna oskrba gospodinjskega odjemalca)
-(1) Do nujne oskrbe je upravičen gospodinjski odjemalec, ki si zaradi svojih premoženjskih razmer, dohodkov in drugih socialnih okoliščin ter bivalnih razmer ne more zagotoviti drugega vira energije za ogrevanje, ki bi mu povzročil enake ali manjše stroške za ogrevanje stanovanjskih prostorov.
-(2) Distributer ne sme odjemalca iz prejšnjega odstavka odklopiti oziroma mu omejiti odjem toplote ali drugega energetskega plina pod količino, ki je glede na okoliščine (letni čas, temperaturne razmere, kraj prebivanja, zdravstveno stanje in druge podobne okoliščine) nujno potrebna, da ne pride do ogrožanja življenja in zdravja odjemalca in oseb, ki z njim prebivajo.
-(3) Stroške odjema toplote odjemalcev iz prvega odstavka tega člena nosi distributer do takrat, ko jih plača odjemalec. Stroški, ki jih distributer, ki izvaja gospodarsko javno službo distribucijo toplote, ne more izterjati od odjemalca iz prvega odstavka tega člena, so upravičeni stroški tega distributerja in se upoštevajo pri regulaciji cene.
+# 296. člen (prenehal veljati)
