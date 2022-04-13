@@ -1,0 +1,2 @@
+# 6. člen
+V 3.ea členu se v četrtem odstavku v točki a) besedilo "obvezno pokojninsko in invalidsko zavarovan na podlagi 17. člena Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 99/13 - ZSVarPre-C, 101/13 - ZIPRS1415, 44/14 - ORZPIZ206, 85/14 - ZUJF-B, 95/14 - ZUJF-C, 90/15 - ZIUPTD in 102/15)" nadomesti z besedilom "obvezno ali prostovoljno pokojninsko in invalidsko zavarovan kot kmet v skladu z zakonom, ki ureja pokojninsko in invalidsko zavarovanje".
