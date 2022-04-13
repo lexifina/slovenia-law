@@ -1,0 +1,5 @@
+# 14. člen
+
+Zakonec, zapustnikovi starši, zapustnikovi otroci in posvojenci ter njihovi potomci, ki ne dedujejo zaščitene kmetije, dedujejo denarno vrednost nujnega deleža po splošnih predpisih o dedovanju. Tem dedičem se ne glede na zapustnikovo voljo všteje v nujni delež vse, kar se sicer vračuna v dedni delež po splošnih predpisih o dedovanju, ki urejajo vračunanje daril in volil v dedni delež.
+
+Nujni delež lahko sodišče na zahtevo dediča iz prejšnjega odstavka poveča, če ta nima potrebnih sredstev za življenje. Sodišče lahko nujni delež na zahtevo dediča, ki je dedoval zaščiteno kmetijo, tudi zmanjša, če bi nujni deleži in obveznosti iz 16. in 17. člena tega zakona prekoračile vrednost vseh nujnih deležev po prejšnjem odstavku ali pa bi bila znatno ogrožena gospodarska zmožnost zaščitene kmetije. Pri odločanju o povečanju ali zmanjšanju nujnih deležev upošteva sodišče vse okoliščine primera, zlasti premoženjske razmere in pridobitno sposobnost dedičev ter gospodarsko zmožnost zaščitene kmetije.
