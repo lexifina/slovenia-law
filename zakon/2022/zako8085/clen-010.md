@@ -1,0 +1,8 @@
+# 10. člen
+16. člen se spremeni tako, da se glasi:
+"16. člen
+(evidence in aplikacije)
+(1) V javnem delu rudarske knjige se kot evidenca lahko vodi javni del imenika pooblaščenih oseb v rudarstvu iz četrtega odstavka 112. člena tega zakona. Vnos v evidenco izvaja ministrstvo, pristojno za rudarstvo, ali na njegovo zahtevo Geološki zavod Slovenije.
+(2) V javnem delu rudarske knjige se kot evidence lahko vodijo tudi evidenca izvajalcev rudarskih del, evidenca rudarskih projektantov, evidenca rudarskih revidentov in druge evidence, ki jih je mogoče izdelati na podlagi tega zakona. Vnos v te evidence izvaja ministrstvo, pristojno za rudarstvo, ali na njegovo zahtevo Geološki zavod Slovenije, na podlagi pisnega predloga pravne ali fizične osebe, ki izpolnjuje pogoje za vpis v evidenco, ki navede tudi kontaktne podatke, ki se lahko javno objavijo.
+(3) Podatki iz prvega in drugega odstavka tega člena se objavljajo z namenom informiranja javnosti o pravnih in fizičnih osebah, ki lahko opravljajo storitve s področja rudarstva.
+(4) Javni del rudarske knjige lahko vsebuje tudi aplikacije za pripravo in oddajo vlog, ki jih predvideva ta zakon, obrazcev za priglasitev osnov za odmero rudarske koncesnine in sredstev za sanacijo ter obrazcev za poročanje o zalogah in virih mineralnih surovin, informacije o stanju vlog v upravnih in drugih postopkih (npr. pri sklepanju koncesijskih pogodb) in podobno. Za vstop v takšne aplikacije se je treba predhodno registrirati pri upravljavcu zbirke rudarskih podatkov, dovoli pa se lahko samo tistim vlagateljem vlog, imetnikom rudarskih pravic ter njihovim zakonitim zastopnikom in pooblaščencem, na katere se konkretna vloga, priglasitev ali poročilo nanaša. Dostopi do aplikacij se beležijo.".

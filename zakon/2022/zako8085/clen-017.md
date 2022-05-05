@@ -1,0 +1,6 @@
+# 17. člen
+V 46. členu se v drugem odstavku beseda "Kandidat" nadomesti z besedilom "Ne glede na prejšnji odstavek kandidat", za besedo "območja" se dodata vejica in besedilo "rudarska dela pa se bodo izvajala globlje od 30 metrov", beseda "samo" pa se črta.
+V tretjem odstavku se na koncu 3. točke pika nadomesti z vejico in dodata beseda "ali" ter nova 4. točka, ki se glasi:
+"4. pogodba o prenosu kmetijskih zemljišč in gozdov na Sklad kmetijskih zemljišč in gozdov Republike Slovenije (v nadaljnjem besedilu: Sklad), sklenjena med pravno osebo in Skladom na podlagi 5. člena Zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 55/92, 7/93, 31/93, 32/94 - odl. US, 1/96 in 30/98 - ZZLPPO), če iz nje tako izhaja.".
+Za tretjim odstavkom se doda nov četrti odstavek, ki se glasi:
+"(4) Kadar je lastnik zemljišča iz prvega odstavka tega člena Republika Slovenija, upravljavec takega zemljišča s kandidatom za nosilca rudarske pravice iz prvega odstavka tega člena sklene pravni posel za pridobitev pravice izvajati rudarska dela na zemljišču brez javnega razpisa. Na zaprosilo kandidata za nosilca rudarske pravice upravljavec zemljišč sestavi pogodbo v skladu s pravili njegovega poslovanja in ob upoštevanju morebitne pogodbe iz 4. točke prejšnjega odstavka, ter jo predloži v podpis kandidatu za nosilca rudarske pravice v dveh mesecih od zaprosila.".

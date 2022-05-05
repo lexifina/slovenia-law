@@ -1,0 +1,5 @@
+# 72. člen (dokončanje upravnih postopkov)
+(1) Če je rudarska pravica ugasnila na podlagi 60. člena Zakona o rudarstvu (Uradni list RS, št. 14/14 - uradno prečiščeno besedilo in 61/17), se postopki za izbor novega nosilca rudarske pravice za izkoriščanje, ki so se začeli pred uveljavitvijo tega zakona, dokončajo po dosedanjih predpisih.
+(2) Ne glede na spremenjeni 92. člen zakona se za odločbe za melioracijo, ki so bile izdane pred uveljavitvijo tega zakona, še naprej uporablja 92. člen Zakona o rudarstvu (Uradni list RS, št. 14/14 - uradno prečiščeno besedilo in 61/17 - GZ).
+(3) Postopki za izdajo dovoljenja za opustitev rudarskih del iz 95., 96. in 97. člena Zakona o rudarstvu (Uradni list RS, št. 14/14 - uradno prečiščeno besedilo in 61/17), začeti pred uveljavitvijo tega zakona, se dokončajo po dosedanjih predpisih.
+(4) Zapiralna dela ter postopki za izdajo odločbe o prenehanju pravic in obveznosti v zvezi z rudarsko pravico za izkoriščanje iz 98., 99. in 100. člena Zakona o rudarstvu (Uradni list RS, št. 14/14 - uradno prečiščeno besedilo in 61/17), začeti pred uveljavitvijo tega zakona, se dokončajo po dosedanjih predpisih.
