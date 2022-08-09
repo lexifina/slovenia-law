@@ -1,4 +1,0 @@
-# 3. člen (podeljevanje in uporaba strokovnih in znanstvenih naslovov ter nazivov strokovne izobrazbe)
-(1) Strokovni in znanstveni naslovi ter nazivi strokovne izobrazbe po tem zakonu se podeljujejo na vseh študijskih področjih. Pri opredelitvi študijskih področij se uporablja mednarodna klasifikacija Isced.
-(2) V tehniška, biotehniška in tehnološka področja po tem zakonu se uvrščajo študijska področja (48) računalništvo, (52) tehniške vede, (54) proizvodne tehnologije, (58) arhitektura in gradbeništvo, (62) kmetijstvo, gozdarstvo in ribištvo, lahko pa tudi (725) zdravstvene tehnike, (84) transportne storitve, (853) javne sanitarne dejavnosti, (861) varovanje oseb in premoženja, (862) varnost in zdravje pri delu.
-(3) Strokovni in znanstveni naslovi ter nazivi strokovne izobrazbe po tem zakonu se ne prevajajo v tuje jezike.
