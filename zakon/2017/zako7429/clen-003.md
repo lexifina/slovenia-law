@@ -1,6 +1,0 @@
-# 3. člen
-Besedilo 20. člena se spremeni tako, da se glasi:
-"(1) Z globo 2.000 eurov se za prekršek kaznuje pravna oseba, ki podeljuje strokovne ali znanstvene naslove ali naslove strokovne izobrazbe v nasprotju z določbami 2. člena, tretjega odstavka 3. člena, 16. in 17. člena tega zakona.
-(2) Z globo 100 eurov se za prekršek iz prejšnjega odstavka kaznuje odgovorna oseba pravne osebe.
-(3) Z globo 500 eurov se za prekršek kaznuje posameznik, če uporabi strokovni oziroma znanstveni naslov ali naziv strokovne izobrazbe, ki ga ni pridobil skladno z 2. členom tega zakona.
-(4) Z globo 40 eurov se za prekršek kaznuje posameznik, ki v nasprotju s pozivom organa, pristojnega za nadzor, iz prvega odstavka 21. člena tega zakona, oziroma opozorilom organa, pristojnega za nadzor, iz drugega odstavka 21. člena tega zakona, uporabi strokovni oziroma znanstveni naslov ali naziv strokovne izobrazbe, ki ga ni pridobil v skladu z 2. členom tega zakona, in ima v tujini na akreditirani instituciji pridobljeno enako ali višjo raven izobrazbe, kot je zahtevana za strokovni oziroma znanstveni naslov ali naziv strokovne izobrazbe, ki ga uporablja.".
