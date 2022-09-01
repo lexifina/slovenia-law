@@ -1,0 +1,3 @@
+# 1. člen
+
+S tem zakonom se za omilitev dviga cen energentov v pravni red Republike Slovenije delno prenaša Direktiva Sveta (EU) 2022/542 z dne 5. aprila 2022 o spremembi direktiv 2006/112/ES in (EU) 2020/285 glede stopenj davka na dodano vrednost (UL L št. 107 z dne 6. 4. 2022, str. 1) in določa začasen ukrep na področju davka na dodano vrednost (v nadaljnjem besedilu: DDV) z odstopom od določb Zakona o davku na dodano vrednost (Uradni list RS, št. 13/11 – uradno prečiščeno besedilo, 18/11, 78/11, 38/12, 83/12, 86/14, 90/15, 77/18, 59/19, 72/19, 196/21 – ZDOsk, 3/22 in 29/22 – ZUOPDCE; v nadaljnjem besedilu: ZDDV-1).
