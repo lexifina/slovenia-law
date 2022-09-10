@@ -1,0 +1,19 @@
+# 14.c člen (drugi posebni pogoji dela)
+
+(1) Dežurstvo opravlja poklicni gasilec na delovnem mestu ali na drugem vnaprej določenem kraju.
+
+(2) Pripravljenost za delo na domu se ne všteva v število ur tedenske oziroma mesečne delovne obveznosti. Če mora poklicni gasilec v času pripravljenosti za delo dejansko delati, se te ure vštevajo v število ur tedenske oziroma mesečne delovne obveznosti oziroma kot delo, opravljeno preko polnega delovnega časa.
+
+(3) Poklicni gasilec mora nadaljevati na podlagi odločitve predstojnika gasilske enote oziroma vodje intervencije z delom, če je med rednim delovnim časom prišlo do požara ali druge nesreče, pa do izteka rednega delovnega časa izvajanje nalog zaščite, reševanja in pomoči ni končano. Tako opravljene ure se štejejo kot ure, opravljene preko polnega delovnega časa.
+
+(4) Letni dopust poklicni gasilec izrabi praviloma v skladu s potrebami gasilske službe in letnim načrtom izrabe letnega dopusta. Izraba letnega dopusta se lahko prekine v primerih, določenih v petem odstavku 14.a člena tega zakona.
+
+(5) Poklicni gasilec, ki ni mogel izrabiti letnega dopusta v tekočem koledarskem letu zaradi potreb gasilske službe iz prejšnjega odstavka, ga lahko izrabi do 30. junija v naslednjem koledarskem letu.
+
+14.č člen
+
+(dodatek za stalnost)
+
+(1) Poklicnim gasilcem, ki v skladu s sistemizacijo delovnih mest opravljajo operativne naloge gasilstva, pripada za vsako začeto leto dela na taki dolžnosti nad pet let dodatek za stalnost v višini, določeni z zakonom, ki ureja sistem plač v javnem sektorju.
+
+(2) Javnemu uslužbencu, ki je premeščen na delo v poklicno gasilsko enoto, se za določitev dodatka za stalnost šteje tudi delovna doba v organu, iz katerega je premeščen, če je bil po predpisih in pod pogoji, ki veljajo za organ, iz katerega je premeščen, upravičen do dodatka za stalnost.
