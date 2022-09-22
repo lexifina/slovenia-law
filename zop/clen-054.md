@@ -1,0 +1,9 @@
+# 54. člen (naloge operaterja skladiščnega sistema in sistema za UZP)
+
+(1) Operater skladiščnega sistema ali sistema za UZP mora obratovati z varnimi, zanesljivimi in učinkovitimi napravami za prenos in skladiščenje ali z obrati za UZP, vzdrževati in razvijati naprave glede na gospodarske razmere in upoštevanje varovanja okolja ter zagotoviti ustrezne načine za izpolnitev obveznosti storitev.
+
+(2) Operater skladiščnega sistema ali sistema za UZP ne sme diskriminirati uporabnikov sistema ali vrst uporabnikov sistema, zlasti ne v korist svojih povezanih podjetij.
+
+(3) Operater skladiščnega sistema ali sistema za UZP predloži operaterju prenosnega sistema, drugemu operaterju skladiščnega sistema, drugemu operaterju sistema za UZP ali operaterju distribucijskega sistema informacije za zagotovitev prenosa in skladiščenja plina, ki bosta združljiva z varnim in učinkovitim obratovanjem povezanega sistema.
+
+(4) Operater skladiščnega sistema ali sistema za UZP uporabnikom sistema zagotovi informacije, ki jih potrebujejo za učinkovit dostop do sistema.

@@ -1,0 +1,11 @@
+# 2. člen (prenos in izvrševanje predpisov Evropske unije)
+
+(1) S tem zakonom se v pravni red Republike Slovenije prenaša Direktiva 2009/73/ES Evropskega parlamenta in Sveta z dne 13. julija 2009 o skupnih pravilih notranjega trga z zemeljskim plinom in o razveljavitvi Direktive 2003/55/ES, zadnjič spremenjena z Direktivo (EU) 2019/692 Evropskega parlamenta in Sveta z dne 17. aprila 2019 o spremembi Direktive 2009/73/ES o skupnih pravilih notranjega trga z zemeljskim plinom (UL L št. 117 z dne 3. 5. 2019, str. 1), (v nadaljnjem besedilu: Direktiva 2009/73/ES).
+
+(2) Ta zakon določa pristojne organe za izvajanje in sankcije za kršitev:
+
+- Uredbe (ES) št. 715/2009 Evropskega parlamenta in Sveta z dne 13. julija 2009 o pogojih za dostop do prenosnih omrežij zemeljskega plina in razveljavitvi Uredbe (ES) št. 1775/2005, zadnjič spremenjene z Uredbo (EU) 2018/1999 Evropskega parlamenta in Sveta z dne 11. decembra 2018 o upravljanju energetske unije in podnebnih ukrepov, spremembi uredb (ES) št. 663/2009 in (ES) št. 715/2009 Evropskega parlamenta in Sveta, direktiv 94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EU, 2012/27/EU in 2013/30/EU Evropskega parlamenta in Sveta, direktiv Sveta 2009/119/ES in (EU) 2015/652 ter razveljavitvi Uredbe (EU) št. 525/2013 Evropskega parlamenta in Sveta (UL L št. 328 z dne 21. 12. 2018, str. 1), (v nadaljnjem besedilu: Uredba 715/2009/ES);
+
+- Uredbe (EU) 2017/1938 Evropskega parlamenta in Sveta z dne 25. oktobra 2017 o ukrepih za zagotavljanje zanesljivosti oskrbe s plinom in o razveljavitvi Uredbe (EU) št. 994/2010 (UL L št. 280 z dne 28. 10. 2017, str. 1), (v nadaljnjem besedilu: Uredba 2017/1938/EU);
+
+- Uredbe (EU) 2018/1999 Evropskega parlamenta in sveta z dne 11. decembra 2018 o upravljanju energetske unije in podnebnih ukrepov, spremembi uredb (ES) št. 663/2009 in (ES) št. 715/2009 Evropskega parlamenta in Sveta, direktiv 94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EU, 2012/27/EU in 2013/30/EU Evropskega parlamenta in Sveta, direktiv Sveta 2009/119/ES in (EU) 2015/652 ter razveljavitvi Uredbe (EU) št. 525/2013 Evropskega parlamenta in Sveta (UL L št. 328 z dne 21. 12. 2018 str. 1), (v nadaljnjem besedilu: Uredba 2018/1999/EU).

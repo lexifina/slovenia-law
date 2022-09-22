@@ -1,0 +1,5 @@
+# 24. člen (lastništvo prenosnega sistema)
+
+(1) Pravna ali fizična oseba, ki ima v lasti prenosni sistem, mora v skladu s tem zakonom izvajati dejavnost operaterja prenosnega sistema. Druga oseba, razen operater prenosnega sistema, ne sme imeti deloma ali v celoti v lasti prenosnega sistema, na katerem ta operater prenosnega sistema izvaja dejavnost operaterja prenosnega sistema, razen če ni v tem delu zakona drugače določeno.
+
+(2) Zahteva iz prejšnjega odstavka je izpolnjena, če dve pravni ali fizični osebi ali več pravnih ali fizičnih oseb, ki imata ali imajo v lasti prenosni sistem, ustanovita ali ustanovijo skupno podjetje, ki deluje kot operater prenosnega sistema v dveh ali več državah članicah EU. Drugo podjetje ne more biti udeleženo v skupnem podjetju, razen če je bilo certificirano kot neodvisni operater prenosnega sistema. Lastnika ali lastniki prenosnega sistema, ki sta ustanovila ali so ustanovili skupno podjetje, morata ali morajo izpolnjevati pogoje iz 25., 27. in 28. člena tega zakona ali pogoje za neodvisnega operaterja prenosnega sistema iz 31. člena tega zakona.

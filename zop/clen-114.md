@@ -1,0 +1,11 @@
+# 114. člen (zajamčeni standardi kakovosti storitev)
+
+(1) Minimalni standardi kakovosti storitev operaterja sistema plina v obliki zajamčenih standardov, ki jih mora zagotavljati operater sistema, so določeni z minimalnimi vrednostmi parametrov kakovosti storitev, ki jih mora operater sistema zagotavljati za vsako odjemno mesto.
+
+(2) Če operater sistema posameznemu uporabniku sistema krši zajamčeni standard kakovosti, in je kršitev nastala iz razlogov na njegovi strani, mora uporabniku sistema na njegovo pisno zahtevo plačati nadomestilo.
+
+(3) Višino nadomestila ter način in roke plačila nadomestila za posamezno vrsto kršitve določi agencija s splošnim aktom tako, da odvrača operaterje sistema od ponavljanja kršitev.
+
+(4) Če uporabniku sistema operater ne plača nadomestila v predpisanem roku po vložitvi pisne zahteve, odloči o pravici do nadomestila na zahtevo uporabnika sistema agencija. Postopka določitve nadomestila agencija ne more uvesti po uradni dolžnosti.
+
+(5) Ne glede na plačilo nadomestila lahko uporabnik sistema od operaterja sistema po splošnih predpisih o odškodninski odgovornosti zahteva povrnitev škode zaradi kršitve zajamčenega standarda kakovosti, če škoda presega plačano nadomestilo.
