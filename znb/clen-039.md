@@ -1,0 +1,39 @@
+# 39. člen
+
+(1) Kadar drugi ukrepi, določeni s tem zakonom, ne zadoščajo ali ne bodo zadoščali za zagotavljanje zadostnega varstva pred širjenjem oziroma za preprečevanje širjenja in obvladovanja nalezljive bolezni ter varovanje zdravja in življenja ljudi, lahko Vlada Republike Slovenije na predlog pristojnega ministra, z uredbo predpiše tudi ukrepe, določene v tem členu, če so takšni ukrepi nujni, primerni in sorazmerni za preprečevanje širjenja in obvladovanja nalezljivih bolezni ter varovanje zdravja in življenja ljudi. Vlada Republike Slovenije pri sprejemu uredbe izhaja iz strokovne ocene iz 39.a člena tega zakona ter v primeru, ko ne sledi strokovni oceni, to v predlogu uredbe tudi obrazloži. Ukrepi, določeni v tem členu, se lahko odredijo zgolj v primeru, ko minister, pristojen za zdravje, ali Vlada Republike Slovenije na podlagi četrtega odstavka 7. člena tega zakona razglasita epidemijo nalezljive bolezni, ali v primeru, ko na predlog Nacionalnega inštituta za javno zdravje odločita, da obstaja nevarnost hitrega širjenja nalezljive bolezni.
+
+(2) Obrazložitev predloga uredbe vsebuje najmanj: pravno podlago za ukrepe, strokovno podlago za ukrepe, ki jo vsebinsko predstavlja strokovna ocena iz 39.a člena tega zakona, rok trajanja ukrepov, človekove pravice in temeljne svoboščine, ki jih ukrepi omejujejo, ter razloge za odločitev o omejitvah teh človekovih pravic in temeljnih svoboščin.
+
+(3) Vlada Republike Slovenije lahko v skladu s prejšnjima odstavkoma v uredbi odredi, da se gibanje in zbiranje oseb ter promet blaga, izvajanje storitev ali izvajanje delovnih procesov, ki predstavljajo znatno tveganje za širjenje nalezljive bolezni, pogojuje:
+
+- z upoštevanjem higiensko varnostnih in drugih zaščitnih ukrepov glede na način prenosa nalezljive bolezni, kot so zagotavljanje osebne higiene, uporaba zaščitnih sredstev, vzdrževanje medosebne razdalje, razen določitve največjega števila oseb, ki se lahko gibajo, zbirajo ali dostopajo do blaga in storitev;
+
+- s posredovanjem osebnih podatkov odgovorni osebi javnega ali zasebnega prava, ki organizira zbiranje oseb oziroma opravlja promet blaga, izvaja storitve ali izvaja delovne procese;
+
+- s predložitvijo ustreznih dokazil o imunosti ali neokuženosti ali drugih ustreznih dokazil odgovorni osebi iz prejšnje alineje;
+
+- vse z namenom omejevanja širjenja in obvladovanja nalezljivih bolezni ter varovanja zdravja in življenja ljudi.
+
+(4) Če Vlada Republike Slovenije z upoštevanjem sorazmernosti ostalih sprejetih ukrepov iz tega odstavka po preučitvi strokovne ocene iz 39.a člena tega zakona oceni, da ukrepi, določeni v prejšnjem odstavku, ne zadoščajo ali ne bodo zadoščali za preprečevanje širjenja in obvladovanja nalezljivih bolezni ter varovanje zdravja in življenja ljudi, lahko z uredbo odredi tudi naslednje ukrepe:
+
+1. omeji prihod iz držav, v katerih obstaja možnost okužbe z nalezljivo boleznijo, in sicer tako, da se kot pogoj za prihod v državo zahteva predložitev ustreznih dokazil o imunosti ali neokuženosti ali drugih ustreznih dokazil ali se od osebe, ki vstopa v državo, zahteva posredovanje osebnih podatkov v skladu s sedmim odstavkom tega člena, pri čemer se državljanu Republike Slovenije ali tujcu z dovoljenjem za prebivanje v Republiki Slovenji, razen v primerih iz naslednje točke, ne sme prepovedati ali preprečiti prihoda v Republiko Slovenijo;
+
+2. prepove prihod iz držav iz prejšnje točke tujcem, ki nimajo pravnega naslova za bivanje v Republiki Sloveniji in ne vstopajo na ozemlje Republike Slovenije, da bi uresničevali pravico do družinskega življenja z družinskimi člani tujca, kot jih opredeljuje zakon, ki ureja vstop, bivanje in zapustitev tujcev;
+
+3. omeji gibanje na določeno območje ali prepove dostop na določeno mesto, pri čemer upošteva značilnosti območja, zlasti gostoto poselitve, ter dostop do storitev javnega prevoza, poštnih storitev, bančnih storitev, zdravstvenih storitev in tem podobnih storitev ter dostop do prehranskih, živilskih in higienskih dobrin. Če se omejitev gibanja predpiše za območje celotne države, okuženega ali ogroženega območja ali njegovega dela, Vlada Republike Slovenije posebej utemelji nujnost takšne omejitve ter razloge, zaradi katerih omejitev gibanja znotraj dela območja države ne bi ustrezno zajezila prenosa nalezljive bolezni;
+
+4. omeji ali prepove zbiranje oseb na območju celotne države, okuženega ali ogroženega območja ali njegovega dela v kinodvoranah, gledališčih, muzejih, knjižnicah, drugih ustanovah za izvajanje kulturne dejavnosti, gostinskih in nastanitvenih obratih, verskih objektih, v športnih objektih, na javnih prireditvah in drugih javnih krajih, razen javnih shodov in zbiranja zaradi kolektivnega uresničevanja verske svobode;
+
+5. omeji in hkrati določi pogoje ter način izvajanja omejenega prometa z blagom, izvajanja storitev ali izvajanja delovnih procesov ali prepove promet z blagom, izvajanje storitev ali izvajanje delovnih procesov na območju celotne države, okuženega ali ogroženega območja ali njegovega dela;
+
+6. prilagodi, omeji ali prepove pouk oziroma izvajanje vzgojno-izobraževalnega oziroma izobraževalnega programa na območju celotne države, okuženega ali ogroženega območja ali njegovega dela oziroma posameznih prostorih zavodov s področja vzgoje in izobraževanja, univerzah in samostojnih visokošolskih zavodih ali odredi način izvajanja pouka oziroma izvajanja vzgojno-izobraževalnega oziroma izobraževalnega programa v prostorih zavodov s področja vzgoje in izobraževanja, univerzah in samostojnih visokošolskih zavodih na daljavo, pri čemer se zasleduje načelo največje otrokove koristi oziroma koristi udeležencev vzgojno-izobraževalnih programov in uresničevanje pravice do izobraževanja, na način, da se izobraževanje na daljavo odredi le, če so uvedeni tudi drugi ukrepi, s katerimi se preprečuje množični stik med ljudmi, in ki primerljivo ali celo manj intenzivno posegajo v človekove pravice in temeljne svoboščine, iz tega odstavka.
+
+(5) Če ukrepi iz četrtega odstavka tega člena ne zadoščajo ali ne bodo zadoščali za preprečevanje širjenja in obvladovanja nalezljivih bolezni ter varovanja zdravja in življenja ljudi, se lahko v času in za čas razglašene epidemije omeji javne shode zaradi izražanja mnenj in stališč o vprašanjih javnega ali skupnega pomena ter zbiranja zaradi kolektivnega uresničevanja verske svobode.
+
+(6) Z uredbo Vlada Republike Slovenije odredi tudi izjeme, ki veljajo za posamezni ukrep, vse z namenom uresničevanja načela sorazmernosti med zasledovanimi cilji posameznih ukrepov ter omejevanjem človekovih pravic in temeljnih svoboščin, v katere se s posameznimi ukrepi posega.
+
+(7) Osebni podatki iz druge in tretje alineje tretjega odstavka tega člena obsegajo osebno ime, stalno oziroma začasno prebivališče, kontaktne podatke (telefonsko številko oziroma elektronski naslov) in podatke o imunosti ali neokuženosti ali druga ustrezna dokazila. Osebni podatki iz 1. točke četrtega odstavka tega člena obsegajo osebno ime, stalno oziroma začasno prebivališče, kontaktne podatke (telefonsko številko oziroma elektronski naslov), kraj in čas vstopa in izstopa v in iz Republike Slovenije, identifikacijsko številko prevoznega sredstva in podatke o imunosti ali neokuženosti ali druga ustrezna dokazila. Osebni podatki se obdelujejo v skladu z zakonom, ki ureja varstvo osebnih podatkov, in se hranijo 30 dni ter se po poteku tega roka uničijo. Do teh podatkov lahko dostopa Nacionalni inštitut za varovanje zdravja.
+
+(8) Uredbe, s katerimi se predpišejo ukrepi iz tretjega, četrtega in petega odstavka tega člena, vsebujejo določbo o dolžini veljavnosti uredbe, pri čemer ta ne sme presegati petnajst dni. Uredba, ki ne opredeljuje dolžine veljavnosti, velja sedem dni od uveljavitve.
+
+(9) Vlada Republike Slovenije lahko v uredbi iz tega člena določi tudi prekrške in sankcije zanje za primer kršitve določb uredbe.
