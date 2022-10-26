@@ -1,7 +1,0 @@
-# 57.f člen
-(1) Potrošnik lahko v vsakem trenutku popolnoma ali delno odstopi od pogodbe.
-(2) Če se potrošnik ne more udeležiti potovanja, lahko prenese svojo rezervacijo na drugega potrošnika, ki izpolnjuje zahteve, predvidene za določeno potovanje. Potrošnik mora o tem obvestiti organizatorja potovanja ali prodajalca najpozneje v osmih dneh pred začetkom potovanja. Potrošnik mora organizatorju potovanja ali prodajalcu povrniti stroške, ki so neposredno povezani s prenosom rezervacije.
-(3) Če potrošnik odstopi od pogodbe pred začetkom potovanja v primernem roku, ki je odvisen od vrste aranžmaja (pravočasen odstop), ima organizator potovanja ali prodajalec pravico le do povračila administrativnih stroškov.
-(4) Pri nepravočasnem odstopu od pogodbe lahko organizator potovanja zahteva od potrošnika kot povračilo določen odstotek dogovorjene cene, ki mora biti sorazmeren s preostalim časom do začetka potovanja in ekonomsko upravičen.
-(5) Organizator potovanja ima pravico le do povračila svojih stroškov, če je potrošnik odstopil od pogodbe zaradi okoliščin, ki se jim ni mogel izogniti ali jih odvrniti in bi bile ob sklenitvi pogodbe utemeljen razlog, da pogodbe ne bi sklenil, če bi takrat že obstajale, ter če je potrošnik preskrbel ustrezno zamenjavo ali je zamenjavo našel sam organizator.
-(6) Če potrošnik odstopi od pogodbe, potem ko se je potovanje že začelo, vzrok za to pa niso okoliščine iz prejšnjega odstavka, ima organizator pravico do celotnega zneska dogovorjene cene potovanja.
