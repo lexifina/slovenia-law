@@ -1,0 +1,13 @@
+# 50.b člen
+
+(1) Za osirotelo delo iz prvega odstavka prejšnjega člena se šteje delo, katerega avtorjev tudi po skrbnem iskanju ni bilo mogoče najti ali opredeliti in ki je varovano s tem zakonom ter je bilo v državi članici Evropske unije prvič izdano, oziroma če ni bilo izdano, prvič priobčeno javnosti, ali delo, ki v državi članici Evropske unije ni bilo nikoli izdano ali priobčeno javnosti, če ga je pravna oseba iz prvega odstavka prejšnjega člena s soglasjem avtorja objavila in je mogoče upravičeno domnevati, da avtor ne nasprotuje njegovi uporabi po prvem odstavku prejšnjega člena.
+
+(2) Za osirotelo delo po prejšnjem odstavku je mogoče šteti le:
+
+- knjigo, revijo, časopis ali drugo besedilo, avdiovizualno delo in fonogram ter drugo avtorsko delo, ki je njihov sestavni del ali je vanje vključeno, iz zbirk javno dostopnih arhivov, knjižnic, muzejev, izobraževalnih ustanov ali ustanov filmske ali avdio dediščine in
+
+- avdiovizualno delo in fonogram ter drugo avtorsko delo, ki je njihov sestavni del ali je vanje vključeno, ki ga je ustvarila javna RTV-organizacija do vključno 31. decembra 2002 ali je bilo do tega datuma ustvarjeno po njenem naročilu za izključno uporabo te ali druge javne RTV-organizacije v koprodukciji in se nahaja v njenih arhivih.
+
+(3) Če ima delo iz prejšnjega odstavka več kot enega avtorja, je njegova uporaba v skladu s prvim odstavkom prejšnjega člena mogoča tudi takrat, ko niti po skrbnem iskanju ni bilo mogoče opredeliti ali najti vseh avtorjev, vendar so opredeljeni in najdeni avtorji uporabo dovolili.
+
+Skrbno iskanje

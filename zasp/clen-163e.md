@@ -1,0 +1,9 @@
+# 163.e člen
+
+(1) Ukrepi, ki jih sprejme ponudnik storitev deljenja vsebin na spletu v sodelovanju z avtorjem, ne smejo preprečiti razpoložljivosti avtorskega dela, ki ga na strežnik naloži uporabnik, ki zakonito uporabi to delo. Ponudnik storitev deljenja vsebin na spletu ne sme preprečiti uporabnikom njegovih storitev, da na strežnik naložijo in priobčijo javnosti vsebine, ki jih ustvarijo za namene citiranja, kritike, ocene, karikature, parodije ali pastiša.
+
+(2) Ponudnik storitev deljenja vsebin na spletu obvesti uporabnike njegovih storitev, da lahko uporabljajo avtorsko delo v skladu z vsebinskimi omejitvami avtorske pravice iz prejšnjega odstavka, v splošnih pogojih, ki jih objavi na svojem spletnem mestu.
+
+(3) Obveznosti ponudnika storitev deljenja vsebin na spletu iz tretjega odstavka 163.c člena in tretjega oziroma četrtega odstavka 163.d člena tega zakona ne pomenijo obveznosti splošnega spremljanja vsebin, ki jih uporabniki naložijo na strežnik.
+
+Pravica avtorja do obveščenosti

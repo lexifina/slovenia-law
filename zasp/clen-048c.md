@@ -1,0 +1,25 @@
+# 48.c člen
+
+(1) Pooblaščeni subjekt s sedežem v Republiki Sloveniji lahko pod pogoji iz 48.a člena tega zakona za upravičeno osebo ali za pooblaščeni subjekt s sedežem v državi članici Evropske unije naredi iz dela za upravičeno osebo izvod v dostopnem formatu in ga priobči javnosti, distribuira ali posodi upravičeni osebi ali drugim pooblaščenim subjektom za izključno uporabo upravičene osebe.
+
+(2) Upravičena oseba ali pooblaščeni subjekt s sedežem v Republiki Sloveniji lahko od pooblaščenega subjekta s sedežem v državi članici Evropske unije pridobi izvod v dostopnem formatu, narejen iz dela za upravičeno osebo, ali ima dostop do njega za izključno uporabo upravičene osebe.
+
+(3) Za pooblaščeni subjekt iz prvega odstavka tega člena se šteje subjekt, ki nepridobitno zagotavlja izobraževanje, usposabljanje, prilagojeno branje ali dostop do informacij upravičenim osebam.
+
+(4) Pooblaščeni subjekt iz prvega odstavka tega člena sprejme in izvaja ukrepe, s katerimi zagotovi, da:
+
+1. priobči javnosti, distribuira ali da na voljo izvode v dostopnem formatu le upravičenim osebam ali drugim pooblaščenim subjektom;
+
+2. odvrača nedovoljeno reproduciranje, distribuiranje ali priobčitev javnosti izvodov v dostopnem formatu, npr. z obvestili na svoji spletni strani in obvestilom upravičenim osebam o dovoljenih in nedovoljenih načinih uporabe izvoda v dostopnem formatu;
+
+3. izkazuje ustrezno skrbnost pri ravnanju z deli za upravičene osebe ter njihovimi izvodi v dostopnem formatu in tako ravnanje beleži;
+
+4. na svoji spletni strani ali na drug način objavlja in posodablja informacije o tem, kako izpolnjuje obveznosti iz 1. do 3. točke tega odstavka;
+
+5. v primerih izmenjave izvodov v dostopnem formatu s pooblaščenim subjektom s sedežem v drugi državi članici Evropske unije na zahtevo zagotovi upravičenim osebam, drugim pooblaščenim subjektom ali imetnikom pravic na dostopen način seznam del, za katere ima izvode v dostopnem formatu, razpoložljive formate in imena ter kontaktne podatke pooblaščenih subjektov, s katerimi si je izmenjal izvode v dostopnem formatu.
+
+(5) Ministrstvo, pristojno za kulturo, na svoji spletni strani objavi seznam s kontakti pooblaščenih subjektov s sedežem v Republiki Sloveniji, ki izvajajo izmenjavo izvodov v dostopnem formatu s pooblaščenim subjektom s sedežem v drugi državi članici Evropske unije. Ta seznam se objavi na podlagi podatkov, ki jih ministrstvu, pristojnemu za kulturo, prostovoljno pošljejo pooblaščeni subjekti iz prvega odstavka tega člena.
+
+(6) Pogodbena določila, ki nasprotujejo določbam prvega ali drugega odstavka tega člena, so nična.
+
+Neposredno poučevanje
