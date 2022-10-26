@@ -1,2 +1,0 @@
-# 11. člen
-V napovednem stavku prvega odstavka 76. člena se besedilo "pri sporazumih ali usklajenih ravnanjih med dvema ali več konkurenti, katerih cilj je preprečevati, ovirati ali izkrivljati konkurenco na ozemlju Republike Slovenije z ravnanji, kot so zlasti določanje nakupnih ali prodajnih cen ali drugih poslovnih pogojev, omejitev proizvodnje ali prodaje, razdelitev trga (v nadaljnjem besedilu: kartel)" nadomesti z besedilom "v kartelu".

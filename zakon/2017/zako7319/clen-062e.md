@@ -1,3 +1,0 @@
-# 62.e člen (posledice neizpolnitve odločbe o razkritju dokazov oziroma podatkov)
-(1) Če stranka, ki ji je naloženo razkritje dokazov oziroma podatkov, ne izvrši ali zavrne izpolnitev odločbe o razkritju dokazov oziroma podatkov, ter če stranka uniči ali skrije relevantne dokaze oziroma podatke, sodišče v odškodninskem postopku odloči o stroških postopka po prostem preudarku.
-(2) Če tretja oseba ne izvrši ali zavrne izvršitev pravnomočnega sklepa za razkritje dokazov oziroma podatkov, izvrši sodišče sklep za razkritje dokazov oziroma podatkov po uradni dolžnosti po pravilih izvršilnega postopka.

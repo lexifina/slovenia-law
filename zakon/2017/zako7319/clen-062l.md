@@ -1,6 +1,0 @@
-# 62.l člen (razlika v ceni v dobavni verigi)
-(1) Razlika med dejansko plačano ceno in ceno, ki bi veljala, če ne bi bilo kršitve konkurenčnega prava (v nadaljnjem besedilu: razlika v ceni), predstavlja navadno škodo, pri čemer višina odškodnine za navadno škodo na kateri koli stopnji dobavne verige ne sme presegati višine razlike v ceni, ki je bila prenesena na to stopnjo dobavne verige. Pri izračunu višine navadne škode se ne upošteva zmanjšanje škode, ki jo doseže oškodovanec z ukrepi zmanjšanja stroškov.
-(2) Ne glede na celoten ali delni prenos razlike v ceni na naslednjo stopnjo dobavne verige ima oškodovanec pravico do odškodnine za izgubljeni dobiček, ko celotni ali delni prenos razlike v ceni na naslednjo stopnjo dobavne verige povzroči oškodovancu manjšo prodajo oziroma manjše nakupe.
-(3) Toženec lahko ugovarja, da je tožnik v celoti ali delno prenesel razliko v ceni na naslednjo stopnjo dobavne verige. Dokazno breme nosi toženec.
-(4) Za dokazovanje utemeljenosti ugovora iz prejšnjega odstavka lahko toženec predlaga oziroma zahteva, da sodišče naloži tožniku ali tretji osebi razkritje dokazov oziroma podatkov.
-(5) Določbe tega in 62.m člena tega zakona se smiselno uporabljajo tudi, kadar je kršitev konkurenčnega prava povezana z neposredno ali posredno dobavo kršitelju.

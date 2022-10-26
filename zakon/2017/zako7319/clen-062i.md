@@ -1,7 +1,0 @@
-# 62.i člen (posebna pravila glede solidarne odgovornosti za kršitelja, ki mu je odpuščena globa)
-(1) Kršitelj, ki mu je odpuščena globa, je solidarno odgovoren le:
-a) svojim neposrednim ali posrednim kupcem ali dobaviteljem, in
-b) drugim oškodovancem, če ti od drugih podjetij, ki so odgovorna za isto kršitev konkurenčnega prava, ne morejo pridobiti popolne odškodnine.
-(2) Zastaranje odškodninske terjatve zaradi kršitev konkurenčnega prava, ki jo je povzročilo več oseb skupaj, ne teče med kršiteljem, ki mu je odpuščena globa, in oškodovancem, ki ni njegov neposreden ali posreden kupec ali dobavitelj, v času od dneva, ko je oškodovanec vložil odškodninski zahtevek zoper druge kršitelje, in se nadaljuje naslednji dan, odkar oškodovanec ni mogel pridobiti popolne odškodnine od drugih solidarnih dolžnikov. Čas, ki je pretekel pred zadržanjem, se všteje v zastaralni rok.
-(3) Ne glede na pravico solidarnega dolžnika, da zahteva od drugega solidarnega dolžnika, da mu povrne tisto, kar je plačal zanj, znesek plačila solidarnega dolžnika, ki mu je odpuščena globa, ne sme preseči višine škode, ki jo je ta povzročil svojim neposrednim ali posrednim kupcem ali dobaviteljem.
-(4) Solidarni dolžnik, ki mu je odpuščena globa, povrne drugim solidarnim dolžnikom, ki so plačali škodo, povzročeno s kršitvijo konkurenčnega prava in je nastala oškodovancem, ki niso neposredni ali posredni kupci ali dobavitelji kršiteljev, regresni zahtevek, ki se odmeri glede na njegov delež odgovornosti za to škodo.
