@@ -1,2 +1,0 @@
-# 43.f člen
-Če se v zvezi s pogodbo sklenjeno na daljavo, zlorabi potrošnikova plačilna ali kreditna kartica, ima potrošnik, v primeru da transakcija še ni bila opravljena, pravico do preklica plačila pri podjetju, registriranem in pristojnem za opravljanje transakcije. V primeru, da je transakcija že opravljena ima potrošnik pravico zahtevati vračilo zneska od podjetja, kateremu je bil znesek nakazan."

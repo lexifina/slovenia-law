@@ -1,6 +1,0 @@
-# 46.c člen
-Pri pogodbah, sklenjenih zunaj poslovnih prostorov, ima potrošnik pravico, da v petnajstih dneh podjetju pisno sporoči, da odstopa od pogodbe, ne da bi mu bilo treba navesti razlog za svojo odločitev. Šteje se, da je sporočilo pravočasno, če je poštna pošiljka oddana v roku.
-Če je podjetje v celoti izpolnilo obveznost iz 46.b člena tega zakona, teče rok za uveljavljanje pravice iz prvega odstavka tega člena pri dobavi blaga od dneva, ko je potrošnik sprejel blago, pri opravljanju storitev pa z dnem sklenitve pogodbe ali z dnem, ko je podjetje izpolnilo to obveznost, če je bila ta obveznost izpolnjena po sklenitvi pogodbe.
-Če podjetje izpolni svojo obveznost iz 46.b člena po dobavi blaga, začne teči petnajstdnevni rok za odstop od pogodbe naslednji dan po dnevu izpolnitve te obveznosti, če še ni pretekel rok treh mesecev iz naslednjega odstavka.
-Če podjetje ni v celoti izpolnilo obveznost iz 43.c člena tega zakona, traja rok za odstop od pogodbe tri mesece. Ta rok začne teči pri dobavi blaga od dneva, ko je potrošnik sprejel blago, pri opravljanju storitev pa z dnem sklenitve pogodbe. S potekom tega roka ugasne pravica potrošnika, da od pogodbe odstopi.
-Za način izvršitve in omejitve pravice do odstopa ter vračilo prejetega blaga in že plačane kupnine se smiselno uporabljajo določbe 43.č in 43.d člena tega zakona."

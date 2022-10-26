@@ -1,3 +1,0 @@
-# 12.d člen
-Glede na okoliščine konkretnega primera in upoštevajoč upravičen interes oglaševalca, potrošnika in drugih strank v postopku lahko sodišče ali organ pred katerim teče postopek v postopku, ki se nanaša na oglaševanje, od oglaševalca zahteva, naj predloži dokaze o resničnosti oglaševalskih trditev, v katerih navaja domnevana dejstva, pri primerjalnem oglaševanju pa, da mora predložiti dokaze v roku, ki ne sme biti daljši od osmih dni.
-Če oglaševalec dokazov iz prejšnjega odstavka ne predloži ali če predloži pomanjkljive dokaze, se šteje, da trditve, v katerih so navedena domnevana dejstva, niso točne."

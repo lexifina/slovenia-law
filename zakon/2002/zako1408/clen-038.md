@@ -1,5 +1,0 @@
-# 38. člen
-Pred 48. členom se doda podnaslov, ki se glasi: "d) Pogodbe o dobavi energije in vode".
-48. člen se spremeni tako, da se glasi:
-"Pri izpolnjevanju pogodb o dobavi energije in vode potrošnikom je treba potrošniku ceno obračunati po dejanski dobavi izkazani na njegovem merilnem mestu. Če dejanske tehnične možnosti v obstoječih stavbah z več stanovanji oziroma poslovnimi prostori ne omogočajo merjenja dobavljene energije in vode pri posameznem potrošniku in pri odjemu za skupne prostore, se obračun dobavljene količine lahko izvede na osnovi med lastniki dogovorjenih razmerij ali drugega s predpisi opredeljenega razmerja. Potrošnik pa ima pravico, da se mu na njegove stroške omogoči vgraditev ustreznega merilnika, če tehnične možnosti to omogočajo. Pri obračunu dobavljene količine posameznemu potrošniku, je upravnik stavbe z več stanovanji oziroma poslovnimi prostori na zahtevo potrošnika dolžan predložiti račune dobaviteljev.
-Način merjenja za dobavljeno energijo in vodo se določi v posebnem področnem predpisu."
