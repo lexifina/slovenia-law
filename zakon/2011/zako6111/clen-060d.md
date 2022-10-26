@@ -1,4 +1,0 @@
-# 60.d člen
-Če potrošnik uveljavi svojo pravico do odstopa od pogodbe o časovnem zakupu ali pogodbe o dolgoročnem počitniškem proizvodu, prenehajo veljati vse pogodbe o zamenjavi ali druge pomožne pogodbe brez kakršnih koli stroškov za potrošnika.
-Če se cena iz pogodbe o časovnem zakupu, pogodbe o dolgoročnem počitniškem proizvodu, pogodbe o nadaljnji prodaji ali pogodbe o zamenjavi, ki jo plača potrošnik, v celoti ali delno financira s kreditom, ki ga odobri podjetje, z uveljavitvijo pravice odstopa od pogodbe o časovnem zakupu, pogodbe o dolgoročnem počitniškem proizvodu, pogodbe o nadaljnji prodaji ali pogodbe o zamenjavi preneha veljati tudi kreditna pogodba brez kakršnih koli stroškov za potrošnika.
-Prejšnji odstavek tega člena se uporablja tudi v primerih, ko je dajalec kredita tretja oseba, pa je podjetje posredovalo pri sklenitvi kreditne pogodbe oziroma je potrošnika napotilo na dajalca kredita.
