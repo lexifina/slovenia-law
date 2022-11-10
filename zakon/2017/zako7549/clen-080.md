@@ -1,2 +1,0 @@
-# 80. člen (izkazan tržni interes)
-Za operaterje, ki so tržni interes izkazali do uveljavitve tega zakona na podlagi četrtega odstavka 11. člena Zakona o elektronskih komunikacijah (Uradni list RS, št. 109/12, 110/13, 40/14 - ZIN-B, 54/14 - odl. US in 81/15, v nadaljnjem besedilu: Zakon o elektronskih komunikacijah), se za namen uresničitve izkazanega tržnega interesa še naprej uporablja Zakon o elektronskih komunikacijah.
