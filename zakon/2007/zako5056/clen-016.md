@@ -1,3 +1,0 @@
-# 16. člen (sklep o uvedbi javnega razpisa)
-(1) Sklep o uvedbi javnega razpisa za podelitev radijskih frekvenc za multipleks mora poleg obveznih sestavin, predvidenih z zakonom, ki ureja elektronske komunikacije, vsebovati vse bistvene značilnosti multipleksa, za katerega je razpisana radijska frekvenca, kot so frekvenca, območje pokrivanja, zmogljivost kanala, obseg rezerviranih zmogljivosti in druge sestavine v skladu s tem zakonom.
-(2) Za sklep o uvedbi javnega razpisa za podelitev radijskih frekvenc za multipleks se ne uporabljajo določbe drugega in tretjega odstavka 40. člena Zakona o elektronskih komunikacijah (Uradni list RS, št. 13/07 - uradno prečiščeno besedilo).

@@ -1,3 +1,0 @@
-# 27. člen (vključitev komplementarnih storitev)
-(1) Agencija lahko v javnem razpisu za podelitev radijskih frekvenc za multipleks določi, da se določen delež zmogljivosti multipleksa rezervira za komplementarne storitve.
-(2) Če ravna agencija v skladu s prejšnjim odstavkom, mora v sklepu o uvedbi javnega razpisa določiti delež zmogljivosti, ki ga mora operater multipleksa rezervirati za komplementarne storitve, in opredeliti, katere komplementarne storitve imajo prednost pred drugimi. Pri tem mora upoštevati znane tehnične možnosti in potrebe uporabnikov oziroma uporabnic (v nadaljnjem besedilu: uporabnik).

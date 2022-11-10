@@ -1,4 +1,0 @@
-# 26. člen (omejitve v zvezi s podelitvijo pravice razširjanja programa v digitalni radiodifuzni tehniki)
-(1) Agencija ne more podeliti pravice razširjanja programa v digitalni radiodifuzni tehniki v skladu z zakonom, ki ureja medije, če za to ni rezerviranih zmogljivosti na delujočih ali razpisanih multipleksih.
-(2) Agencija po uradni dolžnosti začne postopek za razveljavitev odločbe o podelitvi pravice razširjanja televizijskega ali radijskega programa na določenem območju, če imetnik v treh mesecih od začetka delovanja multipleksa ne začne z razširjanjem in oddajanjem televizijskega ali radijskega programa, za katerega je to pravico pridobil, v katerem od delujočih multipleksov na tem območju, če so za to izpolnjeni vsi tehnični in pravni pogoji.
-(3) Določbe tega člena se ne uporabljajo pri javnem razpisu za podelitev radijskih frekvenc za multipleks za inovativne storitve in za multipleks za mobilno televizijo.
