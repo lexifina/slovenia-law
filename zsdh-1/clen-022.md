@@ -1,0 +1,5 @@
+# 22. člen (plačila članov organov nadzora družb, ki jih upravlja SDH)
+
+(1) SDH mora glasovati za sistem plačil, ki bo v nadzorne svete pridobil vrhunske in neodvisne strokovnjake, motivirane za odgovorno in dejavno delo, hkrati pa ne sme glasovati za sprejemanje skupščinskih sklepov, ki bi omogočali neutemeljeno visoka plačila članom nadzornih svetov glede na potrebe in finančno stanje družbe.
+
+(2) SDH ne sme glasovati za sklepe o plačilih članov organov nadzora, ki bi lahko povzročili konflikt interesov ali oddaljevali interese članov organov nadzora od interesa družb. Zato SDH glasuje le za sklepe o plačilih članov organov nadzora, ki določajo, da so ta plačila sestavljena izključno iz plačila za opravljanje funkcije in sejnine. Plačilo za opravljanje funkcije je sestavljeno iz osnovnega plačila za opravljanje funkcije in doplačila za posebne naloge ali funkcije člana, kot je opravljanje funkcije predsednika, namestnika predsednika ali člana v komisijah organa nadzora. Plačila za opravljanje funkcije članov organov nadzora in sejnine se določijo ob upoštevanju velikosti družbe in njenega finančnega stanja.

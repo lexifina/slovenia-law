@@ -1,0 +1,5 @@
+# 7. člen (načelo neodvisnosti)
+
+(1) SDH in njegovi organi niso vezani na navodila državnih organov ali tretjih oseb, pri izpolnjevanju nalog skladno s tem zakonom pa morajo delovati neodvisno in samostojno. Izjema so določbe tega zakona o obveznem upoštevanju ciljev, določenih v strategiji in drugih aktih upravljanja, določbe tega zakona o razpolaganju z naložbami, dokler strategija ni sprejeta, in morebitne določbe posebne zakonodaje, ki velja za posamezne naložbe.
+
+(2) Prejšnji odstavek ne prepoveduje komuniciranja med SDH, državnimi organi in drugimi osebami javnega prava. Morebitno komuniciranje med SDH ter državnimi organi in drugimi osebami javnega prava mora biti sledljivo. Način zagotavljanja sledljivosti se določi z notranjimi akti SDH. Komuniciranje z državnim organom ali drugo osebo javnega prava nima narave obveznega navodila in ne zavezuje organov SDH, ki so kljub morebitnim izraženim stališčem državnih organov in drugih oseb javnega prava polno odgovorni za svoje odločitve po zakonu, ki ureja gospodarske družbe, in tem zakonu.
