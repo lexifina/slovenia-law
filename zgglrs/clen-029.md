@@ -1,0 +1,7 @@
+# 29. člen (omilitveni in izravnalni ukrepi)
+
+(1) Če so državni gozdovi, ki jih upravlja družba, v državnem prostorskem načrtu določeni kot območja, namenjena omilitvenim in izravnalnim ukrepom po predpisih o ohranjanju narave, mora družba osebam javnega prava ali izvajalcem obveznih ali izbirnih gospodarskih javnih služb oziroma investitorjem – izvajalcem državnega prostorskega načrta, ki ta zemljišča potrebujejo za izvedbo načrtovanih prostorskih ureditev, zagotoviti vzpostavitev takih območij in po vzpostavitvi njihovo upravljanje, kar se uredi s pogodbo med družbo in osebo javnega prava, izvajalcem obveznih ali izbirnih gospodarskih javnih služb ali investitorjem – izvajalcem državnega prostorskega načrta.
+
+(2) V postopku sprejemanja državnega prostorskega načrta mora v delu, s katerim se načrtujejo ukrepi iz prejšnjega odstavka, pripravljavec strokovnih podlag državnega prostorskega načrta po določitvi strokovnega predloga lokacij, na katerih se lahko izvajajo omilitveni in izravnalni ukrepi, pridobiti mnenje družbe o možnosti pridobitve ustreznih zemljišč za vzpostavitev omilitvenih in izravnalnih ukrepov ter po njihovi vzpostavitvi za upravljanje teh zemljišč na lokacijah zemljišč iz strokovnega predloga. Če predlagane lokacije niso ustrezne, družba predlaga druge, ki bodo za izvedbo teh ukrepov ustrezne.
+
+(3) Pri upravljanju državnih gozdov iz prvega odstavka tega člena je treba upoštevati predpisane ukrepe v zvezi s tem členom.

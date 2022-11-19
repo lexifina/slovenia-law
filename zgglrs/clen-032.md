@@ -1,0 +1,3 @@
+# 32. člen (nadzor Računskega sodišča Republike Slovenije)
+
+Računsko sodišče Republike Slovenije (v nadaljnjem besedilu: računsko sodišče) je pristojno za opravljanje revizij pravilnosti in smotrnosti poslovanja družbe v skladu s pristojnostmi, kot jih določa zakon, ki ureja računsko sodišče. Računsko sodišče je pristojno tudi za opravljanje revizij pravilnosti in smotrnosti poslovanja v gospodarskih družbah, v katerih ima družba neposredno ali posredno prevladujoč delež glasovalnih pravic. Glede postopkovnih vprašanj revizije in dolžnosti revidiranca se uporabljajo določbe zakona, ki ureja računsko sodišče.
