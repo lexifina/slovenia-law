@@ -1,0 +1,4 @@
+## PREHODNE IN KONČNE DOLOČBE
+# 8. člen (prehodno obdobje glede naborov podatkov velike vrednosti)
+(1) Po uveljavitvi predpisa vlade iz drugega odstavka 10. člena tega zakona lahko organ na podlagi 34.a člena Zakona o dostopu do informacij javnega značaja (Uradni list RS, št. 51/06 - uradno prečiščeno besedilo, 117/06 - ZDavP-2, 23/14, 50/14, 19/15 - odl. US, 102/15 in 7/18; v nadaljnjem besedilu: ZDIJZ) poda zahtevo, da za ponovno uporabo podatkovnih zbirk, ki sodijo med nabore podatkov velike vrednosti, za obdobje 20 mesecev od uveljavitve predpisa vlade iz drugega odstavka 10. člena tega zakona, zaračunava ceno.
+(2) Odločba, izdana organu na podlagi šestega odstavka 34.a člena ZDIJZ, ki se nanaša na podatkovne zbirke, ki sodijo med nabore podatkov velike vrednosti, ostane v veljavi do izteka roka, ki je naveden v odločbi.

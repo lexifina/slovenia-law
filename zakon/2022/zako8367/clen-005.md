@@ -1,0 +1,2 @@
+# 5. člen
+V 11. členu se doda nov drugi stavek, ki se glasi: "Vlada določi tudi podatkovne zbirke, ki sodijo med nabore podatkov velike vrednosti (deseti odstavek 3.a člena tega zakona), podatkovne zbirke, za katere organi omogočijo ponovno uporabo na način masovnega prenosa k uporabniku (prvi odstavek 10.c in prvi odstavek 10.č člena tega zakona) in izvajalce javnih služb, ki lahko za podatkovne zbirke, ki jih hranijo in ki sodijo med posebne nabore podatkov velike vrednosti, zaračunavajo ceno za ponovno uporabo (četrti odstavek 10.c člena tega zakona).".
