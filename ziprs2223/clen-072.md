@@ -1,0 +1,3 @@
+# 72. člen (uporaba sredstev splošne proračunske rezervacije za predsedovanje Svetu EU)
+
+Ne glede na prvi stavek drugega odstavka 42. člena ZJF se sredstva splošne proračunske rezervacije na podprogramu 030104 – Predsedovanje Svetu EU uporabljajo za vse namene predsedovanja Svetu EU, za katere se med letom izkaže, da niso načrtovani oziroma niso načrtovani v zadostnem obsegu.
