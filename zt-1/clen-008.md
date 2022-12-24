@@ -1,0 +1,17 @@
+# 8. člen (obratovalni čas)
+
+(1) Trgovec določi obratovalni čas prodajalne v skladu s svojo poslovno odločitvijo in ob upoštevanju potreb potrošnikov. Prodajalna mora obratovati skladno z objavljenim urnikom obratovalnega časa prodajalne.
+
+(2) Trgovec mora pri določitvi obratovalnega časa upoštevati število zaposlenih delavcev v prodajalni in njihove pravice, obveznosti in odgovornosti iz delovnega razmerja, določene z zakonom, ki ureja delovna razmerja, in kolektivno pogodbo s področja dejavnosti trgovine Slovenije, zlasti določbe, ki se nanašajo na ureditev delovnega časa, odmorov, počitkov in dodatkov, ki izhajajo iz razporeditve za delavce manj ugodnega delovnega časa.
+
+(3) Trgovec ne sme določiti obratovalnega časa prodajaln ob nedeljah in z zakonom določenih dela prostih dnevih.
+
+(4) Ne glede na prejšnji odstavek se lahko obratovalni čas prodajalne s površino prodajnega prostora do 200 kvadratnih metrov na bencinskih servisih, mejnih prehodih, pristaniščih, namenjenih za javni promet, železniških in avtobusnih postajah in v bolnišnicah, določi brez omejitev.
+
+(5) Ne glede na tretji odstavek tega člena se lahko obratovalni čas prodajalne na mednarodnih letališčih, turistično informacijskih centrih in muzejih določi brez omejitev.
+
+(6) Ne glede na tretji odstavek tega člena se lahko obratovalni čas prodajalne s površino prodajnega prostora do 200 kvadratnih metrov določi brez omejitev, če delo ob nedeljah in z zakonom določenih dela prostih dnevih v svojih prodajalnah opravlja izključno oseba, ki je kot samostojni podjetnik posameznik nosilec trgovinske dejavnosti oziroma njegov prokurist ali zakoniti zastopnik oziroma prokurist pravne osebe, ki opravlja trgovinsko dejavnost. Ne glede na prejšnji stavek lahko delo ob nedeljah in z zakonom določenih dela prostih dnevih skupaj s samostojnim podjetnikom posameznikom nosilcem trgovinske dejavnosti oziroma njegovim prokuristom ali zakonitim zastopnikom oziroma prokuristom pravne osebe, ki opravlja trgovinsko dejavnost, opravlja tudi oseba, ki lahko opravlja začasno ali občasno delo dijaka in študenta v skladu z zakonom, ki ureja zaposlovanje in zavarovanje za primer brezposelnosti, ter oseba, ki lahko opravlja začasno ali občasno delo v skladu z zakonom, ki ureja trg dela.
+
+(7) Prodajalne na bencinskih servisih, pristaniščih, namenjenih za javni promet, mednarodnih letališčih, železniških in avtobusnih postajah, v bolnišnicah, turistično informacijskih centrih ter muzejih so prodajalne, ki delujejo v okviru zaključenih območij bencinskih servisov, pristanišč, namenjenih za javni promet, mednarodnih letališč, železniških in avtobusnih postaj ter bolnišnic, turistično informacijskih centrov in muzejev oziroma njihovih zaključenih kompleksov. Prodajalne na mejnih prehodih so prodajalne, ki na območju mejnih prehodov za cestni promet prodajajo blago potnikom.
+
+(8) Za prodajni prostor iz četrtega odstavka tega člena se šteje del prodajalne, ki je namenjen trgovinski dejavnosti in v katerem se blago neposredno prodaja. Če je v sklopu prodajalne tudi ustrezno urejen prostor ali odprt prodajni prostor, kjer se blago neposredno prodaja, se tudi ta prostor šteje za prodajni prostor. Vozne površine in površine na območju delovanja točilnih naprav in naprav za polnjenje rezervoarjev na bencinskih servisih se ne štejejo kot prodajni prostor, ki se upošteva pri določanju površine iz četrtega odstavka tega člena.

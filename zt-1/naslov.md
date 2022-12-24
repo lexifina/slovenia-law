@@ -1,0 +1,3 @@
+ZAKON
+
+O TRGOVINI (ZT-1)
