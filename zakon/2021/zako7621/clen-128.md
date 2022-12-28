@@ -1,2 +1,0 @@
-# 128. člen (oprostitev plačila stroška nastanitve in prehrane pri izvajalcu DO do uveljavitve posebnega zakona glede obveznega zavarovanja za DO)
-Do sprejema zakona iz 52. člena tega zakona se za oprostitev plačila stroška nastanitve in prehrane pri izvajalcu DO v instituciji iz drugega odstavka 58. člena tega zakona uporabljajo predpisi s področja socialnega varstva, ki urejajo oprostitev plačila socialnovarstvenih storitev v institucionalnem varstvu.

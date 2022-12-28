@@ -1,5 +1,0 @@
-# 143. člen (podzakonski akti)
-(1) Minister, pristojen za zdravje, najpozneje v treh mesecih od uveljavitve tega zakona izda podzakonske akte iz drugega odstavka 9. člena in tretjega odstavka 12. člena tega zakona.
-(2) Minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za socialno varstvo, najpozneje v treh mesecih od uveljavitve tega zakona izda podzakonske akte iz tretjega odstavka 7. člena, tretjega odstavka 10. člena, petega odstavka 12. člena, osmega in dvanajstega odstavka 14. člena, petega odstavka 30. člena, sedmega in desetega odstavka 58. člena, tretjega in sedmega odstavka 59. člena, tretjega odstavka 61. člena, tretjega odstavka 64. člena, tretjega odstavka 88. člena ter tretjega in petega odstavka 106. člena tega zakona.
-(3) Zbornica iz 118. člena tega zakona najpozneje v enem mesecu od prejema javnega pooblastila v skladu s tem zakonom izda podzakonske akte iz prvega odstavka 118. člena tega zakona.
-(4) ZZZS sprejme splošne akte iz šestega odstavka 35. člena, desetega odstavka 42. člena, petega odstavka 45. člena in drugega odstavka 46. člena tega zakona do 30. junija 2022.

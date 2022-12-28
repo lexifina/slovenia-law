@@ -1,2 +1,0 @@
-# 131. člen (pridobitev koncesije dosedanjih izvajalcev)
-Koncesije, ki so bile izvajalcem iz prvega odstavka prejšnjega člena podeljene za izvajanje celodnevnega institucionalnega varstva odraslih in postanejo izvajalci DO iz drugega odstavka 58. člena tega zakona, ostanejo v veljavi do izteka obdobja, za katerega so bile podeljene, z možnostjo podaljšanja za enako obdobje, kot so bile podeljene, in se lahko ne glede na določbo devetega odstavka 75. člena tega zakona prenesejo na drugega izvajalca DO s soglasjem koncedenta.
