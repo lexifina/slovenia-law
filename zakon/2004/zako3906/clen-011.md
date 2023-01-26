@@ -1,6 +1,0 @@
-# 11. člen
-(1) Upravljavec osebnih podatkov lahko posamezna opravila v zvezi z obdelavo osebnih podatkov s pogodbo zaupa pogodbenemu obdelovalcu, ki je registriran za opravljanje takšne dejavnosti in zagotavlja ustrezne postopke in ukrepe iz 24. člena tega zakona.
-(2) Pogodbeni obdelovalec sme opravljati posamezna opravila v zvezi z obdelavo osebnih podatkov v okviru naročnikovih pooblastil in osebnih podatkov ne sme obdelovati za noben drug namen. Medsebojne pravice in obveznosti se uredijo s pogodbo, ki mora biti sklenjena v pisni obliki in mora vsebovati tudi dogovor o postopkih in ukrepih iz 24. člena tega zakona. Upravljavec osebnih podatkov nadzoruje izvajanje postopkov in ukrepov iz 24. člena tega zakona.
-(3) V primeru spora med upravljavcem osebnih podatkov in pogodbenim obdelovalcem je dolžan pogodbeni obdelovalec na podlagi zahteve upravljavca osebne podatke, ki jih je pogodbeno obdeloval, nemudoma vrniti upravljavcu. Morebitne kopije teh podatkov mora takoj uničiti ali jih posredovati državnemu organu, ki je v skladu z zakonom pristojen za odkrivanje ali pregon kaznivih dejanj, sodišču ali drugemu državnemu organu, če tako določa zakon.
-(4) V primeru prenehanja pogodbenega obdelovalca se osebni podatki brez nepotrebnega odlašanja vrnejo upravljavcu osebnih podatkov.
-Varovanje življenjskih interesov posameznika

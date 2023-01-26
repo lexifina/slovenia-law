@@ -1,7 +1,0 @@
-# 80. člen
-(1) Zasebni sektor lahko izvaja biometrijske ukrepe le, če so nujno potrebni za opravljanje dejavnosti, za varnost ljudi ali premoženja ali za varovanje tajnih podatkov ali poslovne skrivnosti. Biometrijske ukrepe lahko izvaja le nad svojimi zaposlenimi, če so bili predhodno o tem pisno obveščeni.
-(2) Če izvajanje določenih biometrijskih ukrepov v zasebnem sektorju ni urejeno z zakonom, je upravljavec osebnih podatkov, ki namerava izvajati biometrijske ukrepe, dolžan pred uvedbo ukrepov posredovati državnemu nadzornemu organu opis nameravanih ukrepov in razloge za njihovo uvedbo.
-(3) Državni nadzorni organ je po prejemu posredovanih informacij iz prejšnjega odstavka dolžan v dveh mesecih odločiti, ali je nameravana uvedba biometrijskih ukrepov v skladu s tem zakonom, predvsem s pogoji iz prvega stavka prvega odstavka tega člena. Rok se lahko podaljša za največ en mesec, če bi uvajanje teh ukrepov prizadelo več kot 20 zaposlenih v osebi zasebnega sektorja, ali če reprezentativni sindikat pri delodajalcu zahteva sodelovanje v upravnem postopku.
-(4) Upravljavec osebnih podatkov sme izvajati biometrijske ukrepe po prejemu odločbe iz prejšnjega odstavka, s katero je izvajanje biometrijskih ukrepov dovoljeno.
-(5) Zoper odločbo državnega nadzornega organa iz tretjega odstavka tega člena ni pritožbe, dovoljen pa je upravni spor.
-Biometrijski ukrepi v zvezi z zaposlenimi v javnem sektorju

@@ -1,5 +1,0 @@
-# 15. člen
-Avtomatizirana obdelava osebnih podatkov, pri kateri se o posamezniku lahko sprejme odločitev, ki ima za posledico pravne učinke v zvezi z njim ali na njega znatno vpliva in ki temelji zgolj na avtomatizirani obdelavi podatkov, ki je namenjena ovrednotenju nekaterih osebnih vidikov v zvezi z njim, kakršni so zlasti njegova uspešnost pri delu, kreditna sposobnost, zanesljivost, ravnanje ali izpolnjevanje zahtevanih pogojev, je dovoljena le, če je odločitev:
-1. sprejeta med sklepanjem ali izvajanjem pogodbe, pod pogojem, da je pobuda za sklenitev ali izvajanje pogodbe, ki jo je vložil posameznik, na katerega se osebni podatki nanašajo, izpolnjena ali da obstajajo primerni ukrepi za varstvo njegovih zakonitih interesov, kakršni so zlasti dogovori, ki mu omogočajo ugovarjati takšni odločitvi ali izraziti njegovo stališče;
-2. določena z zakonom, ki določa tudi ukrepe za varstvo zakonitih interesov posameznika, na katerega se nanašajo osebni podatki, zlasti možnost pravnega sredstva zoper takšno odločitev.
-Namen zbiranja in nadaljnja obdelava

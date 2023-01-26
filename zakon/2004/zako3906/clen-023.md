@@ -1,5 +1,0 @@
-# 23. člen
-(1) Upravljavec osebnih podatkov lahko podatke o umrlem posamezniku posreduje samo tistim uporabnikom osebnih podatkov, ki so za obdelavo osebnih podatkov pooblaščeni z zakonom.
-(2) Ne glede na prejšnji odstavek upravljavec osebnih podatkov podatke o umrlem posamezniku posreduje osebi, ki je po zakonu, ki ureja dedovanje, njegov zakoniti dedič prvega ali drugega dednega reda, če za uporabo osebnih podatkov izkaže pravni interes, umrli posameznik pa ni pisno prepovedal posredovanja teh osebnih podatkov.
-(3) Če zakon ne določa drugače, lahko upravljavec osebnih podatkov podatke iz prejšnjega odstavka posreduje tudi katerikoli drugi osebi, ki namerava te podatke uporabljati za zgodovinsko, statistično ali znanstveno-raziskovalne namene, če umrli posameznik ni pisno prepovedal posredovanja teh osebnih podatkov.
-(4) Če umrli posameznik ni podal prepovedi iz prejšnjega odstavka, lahko osebe, ki so po zakonu, ki ureja dedovanje, njegovi zakoniti dediči prvega ali drugega dednega reda, pisno prepovejo posredovanje njegovih podatkov, če zakon ne določa drugače.

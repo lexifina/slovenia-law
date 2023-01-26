@@ -1,6 +1,0 @@
-# 9. člen
-(1) Osebni podatki v javnem sektorju se lahko obdelujejo, če obdelavo osebnih podatkov in osebne podatke, ki se obdelujejo, določa zakon. Z zakonom se lahko določi, da se določeni osebni podatki obdelujejo le na podlagi osebne privolitve posameznika.
-(2) Nosilci javnih pooblastil lahko obdelujejo osebne podatke tudi na podlagi osebne privolitve posameznika brez podlage v zakonu, kadar ne gre za izvrševanje njihovih nalog kot nosilcev javnih pooblastil. Zbirke osebnih podatkov, ki nastanejo na tej podlagi, morajo biti ločene od zbirk osebnih podatkov, ki nastanejo na podlagi izvrševanja nalog nosilca javnih pooblastil.
-(3) Ne glede na prvi odstavek tega člena se lahko v javnem sektorju obdelujejo osebni podatki posameznikov, ki so z javnim sektorjem sklenili pogodbo ali pa so na podlagi pobude posameznika z njim v fazi pogajanj za sklenitev pogodbe, če je obdelava osebnih podatkov potrebna in primerna za izvedbo pogajanj za sklenitev pogodbe ali za izpolnjevanje pogodbe.
-(4) Ne glede na prvi odstavek tega člena se lahko v javnemu sektorju izjemoma obdelujejo tisti osebni podatki, ki so nujni za izvrševanje zakonitih pristojnosti, nalog ali obveznosti javnega sektorja, če se s to obdelavo ne poseže v upravičen interes posameznika, na katerega se osebni podatki nanašajo.
-Pravne podlage v zasebnem sektorju
