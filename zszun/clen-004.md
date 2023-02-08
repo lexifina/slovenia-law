@@ -1,0 +1,7 @@
+# 4. člen (način tvorjenja strokovnih naslovov po študijskih programih prve stopnje)
+
+(1) Strokovni naslov po visokošolskem strokovnem študijskem programu prve stopnje se tvori tako, da se za besedo diplomirani oziroma diplomirana dodata poimenovanje, izvedeno iz študijskega programa, in kratica (VS).
+
+(2) Strokovni naslov po univerzitetnem študijskem programu prve stopnje se tvori tako, da se za besedo diplomirani oziroma diplomirana dodata poimenovanje, izvedeno iz študijskega programa, in kratica (UN).
+
+(3) Če strokovnega naslova po visokošolskem strokovnem študijskem programu prve stopnje ali univerzitetnem študijskem programu prve stopnje ni mogoče smiselno tvoriti v skladu s prvim in drugim odstavkom tega člena, se strokovni naslov po visokošolskem strokovnem oziroma univerzitetnem študijskem programu tvori tako, da se uporabi beseda diplomant oziroma diplomantka študijske usmeritve in kratica (VS) ali (UN).

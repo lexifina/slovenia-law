@@ -1,0 +1,5 @@
+# 18.a člen (izjema pri poimenovanju strokovnih naslovov v angleškem jeziku)
+
+(1) Strokovni naslovi po študijskih programih iz 16. člena tega zakona se ne glede na določbe prvega, drugega, tretjega in četrtega odstavka 16. člena tega zakona lahko v angleškem jeziku poimenujejo tudi drugače, če visokošolski zavod v postopku akreditacije študijskega programa izkaže, da je tako poimenovanje potrebno zaradi zagotovitve mednarodne primerljivosti v okviru Evropskega visokošolskega prostora.
+
+(2) Izjemo iz prejšnjega odstavka mora visokošolski zavod utemeljiti z navedbo vsaj treh primerljivih tujih javno veljavnih študijskih programov glede na stopnjo in študijsko področje (ISCED) in disciplino (Frascati) iz vsaj treh različnih držav članic Evropskega visokošolskega prostora. Pri tem morajo primeri tujih javno veljavnih študijskih programov izhajati iz primerljivega časovnega obdobja veljavnosti slovenskega študijskega programa, za katerega se predlaga drugačno poimenovanje, kot ga določa 16. člen tega zakona.
