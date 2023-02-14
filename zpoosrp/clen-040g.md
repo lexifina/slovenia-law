@@ -1,0 +1,17 @@
+# 40.g člen
+
+Državna tehnična pisarna mora pred začetkom del, ki so v zvezi z nujnimi gradnjami:
+
+1. pridobiti lokacijsko informacijo, iz katere izhaja, da tovrstno gradnjo na določenem zemljišču, kjer se naj bi takšna gradnja izvedla, izvedbeni prostorski akt omogoča oziroma da je takšna gradnja neposredno dostopna z javne ceste in ki vsebuje poleg predpisanih sestavin tudi kopijo kartografskega dela izvedbenega prostorskega akta z vrisano lokacijo predvidene nadomestne gradnje oziroma vrisano lokacijo objekta, ki se naj bi rekonstruiral;
+
+2. za zemljišče, na katerem se naj bi izvedla nadomestna gradnja oziroma rekonstrukcija v potresu poškodovanega objekta in na katerega se nanaša lokacijska informacija, pridobiti geološke podatke o ustreznosti nosilnih tal;
+
+3. v primeru rekonstrukcije objekta, ki je varovan v skladu s predpisi o varstvu kulturne dediščine oziroma v primeru nadomestne gradnje objekta, ki je bil porušen in je bil pred porušitvijo varovan v skladu s takšnimi predpisi, pridobiti kulturnovarstvene pogoje in zagotoviti, da bo pri sami izvedbi del sodeloval predstavnik pristojne službe za varstvo kulturne dediščine;
+
+4. na podlagi geoloških podatkov o ustreznosti nosilnih tal in v primeru iz prejšnje točke tudi na podlagi podatkov iz kulturnovarstvenih pogojev pridobiti idejno zasnovo nameravane nadomestne gradnje oziroma rekonstrukcije;
+
+5. preveriti, ali je nosilnost temeljnih tal ustrezna in ali so v primeru rekonstrukcije gradbeni proizvodi, ki naj bi se ohranili, uporabni in da je objekt primeren za rekonstrukcijo;
+
+6. vzpostaviti gradbeni dnevnik in knjigo obračunskih izmer;
+
+7. v sodelovanju z izvajalcem nadomestne gradnje oziroma rekonstrukcije imenovati odgovornega vodjo del ter poskrbeti, da bo gradbeni nadzor opravljala oseba, ki izpolnjuje z zakonom, ki ureja graditev objektov, predpisane pogoje za odgovornega nadzornika in da bo ta oseba v primeru nadomestne gradnje, ki ne bi bila zgrajena na povsem isti lokaciji, kot je pred potresom stal porušeni objekt, poskrbela, da bo ob zakoličbi takšnega objekta prisoten tudi pooblaščeni predstavnik občine.
