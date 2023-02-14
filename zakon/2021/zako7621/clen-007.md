@@ -4,4 +4,4 @@
 - skupno število prebivalcev in število prebivalcev nad 65 let in nad 80 let;
 - značaj naselij in gostota poselitve;
 - dostopnost do različnih načinov opravljanja DO.
-(3) Način spremljanja meril iz prejšnjega odstavka določi minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za socialno varstvo.
+(3) Način spremljanja meril iz prejšnjega odstavka določi minister, pristojen za dolgotrajno oskrbo.

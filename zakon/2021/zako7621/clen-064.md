@@ -1,4 +1,4 @@
 # 64. člen (obveznosti izvajalca DO)
 (1) Izvajalci DO iz prvega odstavka 57. člena tega zakona ZZZS sporočajo vse spremembe, ki jih zaznajo pri upravičencu DO, ki trajajo več kot 30 zaporednih dni in bi lahko vplivale na njegovo pridobljeno pravico.
 (2) Izvajalci DO v instituciji ZZZS najpozneje v 24 urah sporočijo podatke o spremembi zasedenosti posteljnih zmogljivosti, številu kandidatov za sprejem in njihovi kategoriji DO ter spremembah v številu in strukturi kadra pri izvajalcu DO.
-(3) Izvajalci DO v instituciji vodijo seznam prostih posteljnih zmogljivosti. Način vodenja seznama prostih zmogljivosti in način poročanja iz prejšnjega odstavka določi minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za socialno varstvo.
+(3) Izvajalci DO v instituciji vodijo seznam prostih posteljnih zmogljivosti. Način vodenja seznama prostih zmogljivosti in način poročanja iz prejšnjega odstavka določi minister, pristojen za dolgotrajno oskrbo, za opravljanje DO v instituciji v obliki negovalnih domov iz tretje alineje drugega odstavka 58. člena tega zakona pa v soglasju z ministrom, pristojnim za zdravje.

@@ -1,5 +1,5 @@
 # 93. člen (način dostopa do podatkov)
-(1) Ministrstvo, pristojno za zdravje, in ministrstvo, pristojno za socialno varstvo, dostopata do zbirk podatkov s sredstvom elektronske identifikacije s srednjo ravnjo zanesljivosti skladno z zakonom, ki ureja elektronsko identifikacijo in storitve zaupanja.
+(1) Ministrstvo, pristojno za zdravje, in ministrstvo, pristojno za dolgotrajno oskrbo, dostopata do zbirk podatkov s sredstvom elektronske identifikacije s srednjo ravnjo zanesljivosti skladno z zakonom, ki ureja elektronsko identifikacijo in storitve zaupanja.
 (2) ZZZS dostopa do zbirk podatkov s sredstvom elektronske identifikacije s srednjo ravnjo zanesljivosti skladno z zakonom, ki ureja elektronsko identifikacijo in storitve zaupanja, lahko pa jih pridobiva tudi s povezovanjem svojega informacijskega sistema z zbirkami podatkov z uporabo profesionalne kartice.
 (3) Zavarovana oseba lahko vpogleda v svoje podatke iz zbirk podatkov z veljavnim sredstvom elektronske identifikacije z nizko ravnjo zanesljivosti skladno z zakonom, ki ureja elektronsko identifikacijo in storitve zaupanja.
 (4) ZZZS z namenom izvedbe postopka ocene upravičenosti do DO dostopa do zdravstvene dokumentacije, ki se v zvezi z zavarovano osebo vodi v Centralnem registru podatkov o pacientih (v nadaljnjem besedilu: CRPP).

@@ -29,11 +29,11 @@
 - storitve postdiagnostične podpore osebam s težavami v telesnem ali duševnem zdravju in podpore njihovim svojcem.
 (6) Storitve e-oskrbe iz pete alineje prvega odstavka tega člena obsegajo zlasti pripomočke in storitve informacijsko komunikacijske tehnologije ter storitve na daljavo za zagotavljanje samostojnosti in varnosti upravičenca v domačem okolju.
 (7) Storitve podpornih dnevnih opravil iz druge alineje prvega odstavka tega člena v izvedbenem načrtu iz 42. člena tega zakona predstavljajo največ 30 odstotkov vrednosti pravice v pripadajoči kategoriji DO iz Priloge "Podlaga za izračun nedenarne pravice do DO iz 17. člena tega zakona v javni mreži DO v koledarskem mesecu", ki je sestavni del tega zakona.
-(8) Podrobnejši nabor storitev DO iz prvega odstavka tega člena in način njihovega izvajanja določi minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za socialno varstvo.
+(8) Podrobnejši nabor storitev DO iz prvega odstavka tega člena in način njihovega izvajanja določi minister, pristojen za dolgotrajno oskrbo.
 (9) Izhodišča za oblikovanje cen urne postavke storitev iz prve, druge in tretje alineje prvega odstavka tega člena in ceno urne postavke storitev iz četrte alineje prvega odstavka tega člena oblikuje ZZZS enkrat letno, v mesecu januarju tekočega leta.
 (10) Pri izračunu cen urnih postavk storitev iz prejšnjega odstavka se upoštevajo naslednji elementi:
 - plače in drugi prejemki zaposlenih po kolektivni pogodbi,
 - materialni stroški,
 - amortizacija.
 (11) Izvajalci DO iz prvega odstavka 57. člena tega zakona za potrebe izračuna cene urnih postavk storitev DO iz devetega odstavka tega člena, posredujejo na ZZZS podatke iz prejšnjega odstavka.
-(12) Ceno urne postavke storitve DO na podlagi predloga ZZZS iz devetega odstavka tega člena sprejme minister, pristojen za zdravje ob soglasju ministra, pristojnega za socialno varstvo.
+(12) Ceno urne postavke storitve DO na podlagi predloga ZZZS iz devetega odstavka tega člena sprejme minister, pristojen za dolgotrajno oskrbo.

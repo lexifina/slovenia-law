@@ -8,6 +8,6 @@
 (2) Ne glede na prejšnji odstavek lahko, izključno v skladu s postopkom iz četrtega odstavka 36. člena tega zakona, zavarovana oseba pridobi pravico do DO brez ocene upravičenosti do DO, če iz izvida izhaja, da:
 - je bil na preizkusu spoznavnih sposobnosti, ki ga je opravil klinični psiholog ali zdravnik s specializacijo s področja psihiatrije oziroma nevrologije, ugotovljen hud kognitivni upad, ali
 - je zdravnik s specializacijo s področja nevrologije ali fiziatrije ugotovil, da oseba ne more uporabljati obeh rok in nog.
-(3) Vsebino preizkusa iz prve alineje prejšnjega odstavka ter metodologijo vrednotenja in ocene rezultatov določi minister, pristojen za zdravje.
+(3) Vsebino preizkusa iz prve alineje prejšnjega odstavka ter metodologijo vrednotenja in ocene rezultatov določi minister, pristojen za dolgotrajno oskrbo.
 (4) Upravičenci do DO iz drugega odstavka tega člena se uvrstijo v 5. kategorijo DO.
-(5) Ocenjevalno lestvico za oceno upravičenosti do DO z vrednostjo točk po področju ocenjevanja iz drugega odstavka 36. člena tega zakona določi minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za socialno varstvo.
+(5) Ocenjevalno lestvico za oceno upravičenosti do DO z vrednostjo točk po področju ocenjevanja iz drugega odstavka 36. člena tega zakona določi minister, pristojen za dolgotrajno oskrbo.

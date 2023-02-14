@@ -10,4 +10,4 @@
 - denarnega prejemka iz drugega odstavka 18. člena tega zakona.
 (2) Pravice iz prejšnjega odstavka se med seboj izključujejo.
 (3) Strošek nastanitve in prehrane pri izvajalcu DO ni predmet pravic, ki se urejajo s tem zakonom, zato jih zavarovana oseba krije sama.
-(4) Ceno standardne nastanitve in prehrane pri izvajalcu DO v javni mreži DO določi minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za socialno varstvo.
+(4) Ceno standardne nastanitve in prehrane pri izvajalcu DO v javni mreži DO določi minister, pristojen za dolgotrajno oskrbo.

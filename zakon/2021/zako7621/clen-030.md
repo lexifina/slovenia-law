@@ -11,5 +11,5 @@
 8. zaščite lastnega zdravja, zdravja drugih in varstva okolja;
 9. priprave poročil in vodenja dnevnika opravljanja DO.
 (3) Oskrbovalec družinskega člana se obnovitvenega usposabljanja iz prvega odstavka tega člena udeleži najmanj na pet let.
-(4) Usposabljanje iz prvega odstavka tega člena zagotavlja ministrstvo, pristojno za zdravje.
-(5) Podrobnejši program usposabljanja iz prvega odstavka tega člena, način usposabljanja oskrbovalca družinskega člana in vsebino vodenja dnevnika opravljanja DO, določi minister, pristojen za zdravje, v soglasju z ministrom, pristojnim za socialno varstvo.
+(4) Usposabljanje iz prvega odstavka tega člena zagotavlja ministrstvo, pristojno za dolgotrajno oskrbo.
+(5) Podrobnejši program usposabljanja iz prvega odstavka tega člena, način usposabljanja oskrbovalca družinskega člana in vsebino vodenja dnevnika opravljanja DO, določi minister, pristojen za dolgotrajno oskrbo.
