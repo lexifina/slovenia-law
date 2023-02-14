@@ -1,0 +1,25 @@
+## V. POGOJI SOUPORABE PODATKOV IN STORITEV
+
+# 17. člen (souporaba podatkov in storitev)
+
+(1) Upravljavci morajo osebam javnega prava zagotoviti dostop do zbirk prostorskih podatkov in storitev v zvezi s prostorskimi podatki ter izmenjavo in uporabo teh zbirk in storitev (v nadaljnjem besedilu: souporaba podatkov in storitev) za opravljanje nalog, ki sodijo v delovno področje osebe javnega prava, oziroma nalog, za katere je bila oseba javnega prava ustanovljena (v nadaljnjem besedilu: naloge javnega značaja), ki lahko vplivajo na okolje. Souporaba podatkov in storitev je za osebe javnega prava za opravljanje nalog javnega značaja brezplačna. Zagotavljanje souporabe podatkov in storitev za opravljanje nalog javnega značaja je med osebami javnega prava brez omejitev.
+
+(2) Upravljavci lahko omejijo souporabo podatkov in storitev za naslednje podatke, glede katerih je na podlagi zakona, ki ureja dostop do informacij javnega značaja, mogoče zavrniti zahtevo za dostop do informacij javnega značaja:
+
+- podatek, ki je na podlagi zakona, ki ureja tajne podatke, opredeljen kot tajen ali
+
+- podatek, ki je bil pridobljen ali sestavljen zaradi pravdnega, nepravdnega ali drugega sodnega postopka, in bi njegovo razkritje škodovalo njegovi izvedbi.
+
+(3) Podatki iz zbirk prostorskih podatkov in storitve v zvezi s prostorskimi podatki, ki jih osebe javnega prava posredujejo institucijam in organom Evropske skupnosti za izpolnitev obveznosti poročanja na podlagi predpisov Evropske skupnosti, povezanih z okoljem, se ne zaračunavajo.
+
+(4) Upravljavci lahko javnim organom drugih držav iz 9. točke 3. člena direktive INSPIRE (v nadaljnjem besedilu: javni organi drugih držav) ter institucijam in organom Evropske skupnosti souporabo podatkov in storitev zaračunajo. Pri zaračunavanju souporabe podatkov in storitev morajo biti pristojbine ohranjene na minimumu, potrebnem za zagotovitev ustrezne kakovosti in zagotavljanja zbirk prostorskih podatkov in storitev v zvezi s prostorskimi podatki skupaj z razumno donosnostjo naložbe. Pristojbine morajo ustrezati splošnemu cilju olajševanja skupne uporabe zbirk prostorskih podatkov in storitev v zvezi s prostorskimi podatki med javnimi organi. Pristojbino za souporabo podatkov in storitev določijo upravljavci v stroškovniku.
+
+(5) Vlada predpiše podrobnejša merila in pogoje za določanje pristojbine iz prejšnjega odstavka.
+
+(6) Ne glede na določbo četrtega odstavka tega člena upravljavci omogočijo javnim organom drugih držav ter institucijam in organom Evropske skupnosti souporabo podatkov in storitev za namene opravljanja nalog javnega značaja, ki lahko vplivajo na okolje, na podlagi dogovora o souporabi podatkov in storitev. Pogoje za sklepanje dogovorov in besedila dogovorov morajo upravljavci objaviti na geoportalu za prostorske informacije.
+
+(7) Organizacijam, ustanovljenim z mednarodnimi sporazumi, katerih pogodbenice so Evropska skupnost in države članice, se za izvajanje nalog, ki lahko vplivajo na okolje, omogoči souporaba podatkov in storitev na podlagi dogovora o souporabi podatkov in storitev, ob upoštevanju načela vzajemnosti in enakosti.
+
+(8) Upravljavci omogočijo tretjim osebam souporabo podatkov in storitev za namene opravljanja nalog javnega značaja, ki lahko vplivajo na okolje, na podlagi dogovora o souporabi podatkov in storitev.
+
+(9) Če upravljavec zaračunava souporabo podatkov in storitev, mora objaviti stroškovnik iz četrtega odstavka tega člena v svojem katalogu informacij javnega značaja in na geoportalu za prostorske informacije ter ga dati na vpogled vsakemu prosilcu, in zagotoviti pogoje iz šestega odstavka prejšnjega člena.
