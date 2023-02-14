@@ -1,0 +1,7 @@
+# 9. člen (usposabljanje in ozaveščanje)
+
+(1) Ministrstvo, pristojno za javno upravo, za zaposlene pri zavezancih oziroma za druge pripravljavce spletišč in mobilnih aplikacij, organizira programe usposabljanja za ustvarjanje, upravljanje in posodabljanje vsebine spletišč in mobilnih aplikacij v skladu s tem zakonom. Pri pripravi in izvedbi programov usposabljanja sodeluje z reprezentativnimi invalidskimi organizacijami, kot so opredeljene v zakonu, ki ureja invalidske organizacije.
+
+(2) Ministrstvo, pristojno za informacijsko družbo (v nadaljnjem besedilu: ministrstvo), v sodelovanju z reprezentativnimi invalidskimi organizacijami iz prejšnjega odstavka z objavami v medijih in na svojih spletnih straneh, izdajo publikacij in predstavitvami na konferencah ter drugih prireditvah spodbuja večjo ozaveščenost zavezancev in uporabnikov spletišč in mobilnih aplikacij o zagotavljanju dostopnosti iz 5. člena tega zakona in o zagotavljanju povratnih informacij iz prejšnjega člena.
+
+(3) Ministrstvo spodbuja lastnike spletišč in mobilnih aplikacij, ki niso zavezanci po tem zakonu, ponujajo pa zmogljivosti in storitve, ki so na voljo javnosti ali se zanjo opravljajo, da v čim večjem obsegu upoštevajo zahteve glede dostopnosti iz 5. člena tega zakona. V ta namen se lahko oblikuje koordinacija z udeleženci iz gospodarstva, raziskovalno-razvojnega sektorja, reprezentativnih invalidskih organizacij iz prvega odstavka tega člena, civilne družbe in javnega sektorja.
