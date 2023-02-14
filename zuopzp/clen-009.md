@@ -1,0 +1,3 @@
+# 9. člen
+
+Če upravičenec do sredstev za obnovo ali nadomestno gradnjo objekta nima dovolj lastnih sredstev, oziroma zaradi nizkih mesečnih dohodkov lastnika in njegovih družinskih članov, ki prebivajo v tem objektu, ne more pridobiti stanovanjskih posojil po tem zakonu ali na kak drug način, se lahko občini dodelijo nepovratna sredstva v višini, ki je enaka razliki med sredstvi potrebnimi za obnovo ali nadomestno gradnjo objekta ter sredstvi, ki so bila upravičencu dodeljena po določbah tega zakona. Občini se dodelijo nepovratna sredstva, če v to lastnik objekta privoli in dovoli občini za čas 20 let vpis hipotekarne pravice na objektu v sorazmernem deležu sredstev, ki so bila za ta objekt dodeljena občini.
