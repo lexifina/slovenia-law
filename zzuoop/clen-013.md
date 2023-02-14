@@ -1,0 +1,3 @@
+# 13. člen (predlog NIJZ oziroma Policije kot dokaz v postopku uveljavljanja pravic po zakonu, ki ureja interventne ukrepe za pripravo na drugi val COVID-19)
+
+Predlogi NIJZ oziroma Policije za napotitev v karanteno, glede katerih ministrstvo, pristojno za zdravje, na dan uveljavitve tega zakona še ni odločilo, od izdaje predloga pa je minilo več kot sedem dni, služijo kot dokaz v postopku uveljavljanja pravice do nadomestila plače ali drugih pravic iz naslova zdravstvenega in socialnega varstva v skladu z zakonom, ki ureja interventne ukrepe za pripravo na drugi val COVID-19. V teh primerih ministrstvo, pristojno za zdravje, odločb o odreditvi karantene ne izda.

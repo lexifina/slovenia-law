@@ -1,0 +1,15 @@
+# 91. člen (vračilo izredne pomoči v obliki mesečnega temeljnega dohodka)
+
+(1) Izjava upravičenca, da zaradi posledic epidemije COVID-19 ne more opravljati dejavnosti ali jo opravlja v bistveno zmanjšanem obsegu, je informacija javnega značaja.
+
+(2) Šteje se, da upravičenec zaradi posledic epidemije COVID-19 ne more opravljati dejavnosti ali jo opravlja v bistveno zmanjšanem obsegu, če bodo prihodki upravičenca v letu 2020 zaradi posledic epidemije COVID-19 upadli za več kot 20 odstotkov glede na leto 2019. Če ni posloval v celotnem letu 2019 oziroma 2020, je do pomoči upravičen tudi tisti upravičenec, ki se mu bodo povprečni mesečni prihodki leta 2020 zaradi posledic epidemije COVID-19 znižali za več kot 20 odstotkov glede na povprečne mesečne prihodke v letu 2019. Če v letu 2019 ni posloval, je do pomoči upravičeni tudi tisti upravičenec, ki se mu bodo povprečni mesečni prihodki v letu 2020 zaradi posledic epidemije COVID-19 znižali za več kot 20 odstotkov glede na povprečne mesečne prihodke v letu 2020 do 31. avgusta 2020. Če pogoj iz tega odstavka ni dosežen, mora upravičenec vrniti celotno pomoč.
+
+(3) Za upravičenca, ki ugotavlja prihodke po pravilih o računovodenju, so prihodki iz prejšnjega odstavka čisti prihodki od prodaje, ugotovljeni po pravilih o računovodenju, ter nadomestila iz zavarovanja za starševsko varstvo.
+
+(4) Subjekt, ki je uveljavil izredno pomoč v obliki mesečnega temeljnega dohodka, mora v primeru, da je od uveljavitve tega zakona prišlo do izplačila dobička, nakupov lastnih delnic ali lastnih poslovnih deležev, izplačil nagrad poslovodstvu oziroma dela plač za poslovno uspešnost poslovodstvu, izplačanih v letu 2020 oziroma za leto 2020, o tem seznaniti FURS. Prejeta sredstva mora vrniti po vročitvi odločbe, skupaj z zakonsko določenimi zamudnimi obrestmi, ki tečejo od dneva uveljavitve pravic iz tega zakona do dneva vračila.
+
+(5) Subjekt, ki je uveljavil izredno pomoč v obliki mesečnega temeljnega dohodka in naknadno ugotovi, da ni izpolnjeval pogojev za njegovo pridobitev, o tem obvesti FURS najpozneje do roka za predložitev obračuna od dohodkov pravnih oseb za leto 2020 oziroma za obdobje, ki vključuje podatke za obdobje drugega polletja 2020, oziroma do roka za predložitev obračuna davka od dohodkov iz dejavnosti za leto 2020, in vrniti znesek prejete pomoči v 30 dneh od vročitve odločbe. Po poteku roka za plačilo se mu obračunavajo zakonske zamudne obresti po Zakonu o predpisani obrestni meri zamudnih obresti (Uradni list RS, št. 11/07 – uradno prečiščeno besedilo).
+
+(6) Nadzor nad uveljavljanjem pravic iz drugega odstavka 88. člena tega zakona izvaja FURS v skladu z zakonom, ki ureja davčni postopek.
+
+(7) Če upravičenec vrne izredno pomoč v obliki mesečnega temeljnega dohodka na podlagi tega člena in je za isto obdobje, za katerega je prejel izredno pomoč v obliki mesečnega temeljnega dohodka, izpolnjeval pogoje za delno povrnjeni izgubljeni dohodek iz 93. člena tega zakona, lahko v 30 dneh od vračila izredne pomoči v obliki mesečnega temeljnega dohodka vloži vlogo preko informacijskega sistema FURS. FURS izplača delno povrnjeni izgubljeni dohodek v 15 dneh od prejema vloge.

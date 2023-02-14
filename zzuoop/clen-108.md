@@ -1,0 +1,5 @@
+# 108. člen (vpis na visokošolskih zavodih za študijsko leto 2021/2022 in 2022/2023)
+
+(1) Ne glede na določbe predpisov, ki urejajo izvedbo prijavno-sprejemnih postopkov za vpis, se v prijavno-sprejemnih postopkih za vpis za študijsko leto 2021/2022 in 2022/2023 na visokošolskih zavodih v Republiki Sloveniji prijave za vpis in vsa k prijavi zahtevana dokazila vlagajo po elektronski poti preko informacijskega sistema eVŠ, če je identiteto vložnika mogoče ugotoviti. Pristojni organ visokošolskega zavoda je dolžan pridobiti in preveriti dokazila, potrebna za prijavo za vpis in priznavanje izobraževanja za namen nadaljevanja izobraževanja, kot je določeno s predpisi, ki urejajo dokazila o izpolnjevanju vpisnih pogojev in dokumentacijo, ki mora biti priložena vlogi za priznavanje izobraževanja.
+
+(2) V postopkih uveljavljanja pravic ali obveznosti kandidatov iz prejšnjega odstavka komunikacija poteka pisno ali prek informacijskega sistema eVŠ. Šteje se, da je dokument kandidatu vročen drugi delovni dan po dnevu objave dokumenta v informacijskem sistemu eVŠ oziroma peti delovni dan v primeru odpreme po pošti.

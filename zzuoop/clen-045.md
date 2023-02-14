@@ -1,0 +1,3 @@
+# 45. člen (davčna obravnava kritih stroškov namestitve in prevoza zaradi ukrepa osamitve oziroma karantene)
+
+Dohodek v obliki kritja stroškov namestitve oziroma prevoza, ki ga fizična oseba prejme zaradi zagotovitve nastanitvenih kapacitet oziroma prevoza ob ukrepu osamitve (izolacije) oziroma karantene, kadar tej osebi iz utemeljenega razloga ni mogoče določiti osamitve (izolacije) oziroma karantene na naslovu njenega stalnega ali začasnega prebivališča, v zdravstvenem, socialno varstvenem ali vzgojno izobraževalnem zavodu oziroma drugem primernem prostoru, in kadar ta oseba v skladu s predpisi ni dolžna kriti sama teh stroškov, se ne šteje za dohodek po zakonu, ki ureja dohodnino.
