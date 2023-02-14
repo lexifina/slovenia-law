@@ -1,0 +1,3 @@
+# 146. člen (predpisi v zvezi s fizičnim varovanjem)
+
+Minister, pristojen za notranje zadeve, v soglasju z ministrom, pristojnim za naravne vire, in ministrom, pristojnim za zdravje, predpiše razvrstitev jedrskih objektov ter jedrskih in radioaktivnih snovi in njihove uporabe glede na mogoče učinke in posledice ob zlorabah, glede na to razvrstitev pa tudi obseg fizičnega varovanja, pogoje za osebe, ki izvajajo fizično varovanje, pogoje za osebe, ki imajo dostop do jedrskih in radioaktivnih snovi, vsebino ocene ogroženosti in načrtov fizičnega varovanja, način in obseg poročanja, usposabljanje varnostnega osebja in oseb, ki imajo dostop do jedrskih ali radioaktivnih snovi, in druge pogoje za izvajanje ukrepov fizičnega varovanja.

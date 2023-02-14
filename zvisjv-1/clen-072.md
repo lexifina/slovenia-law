@@ -1,0 +1,5 @@
+# 72. člen (zbirka podatkov o meritvah radona)
+
+(1) Organ, pristojen za varstvo pred sevanji, vodi zbirko podatkov o meritvah radona. Vanjo so vključeni podatki o vseh izvedenih meritvah iz 66. in 67. člena ter sedmega odstavka 68. člena tega zakona. Zbirka podatkov obsega naslov objekta, katastrsko občino, številko stavbe in številko dela stavbe, koordinate GPS ali drugo ustrezno identifikacijo mesta, na katerem so bile izvedene meritve, izmerjene koncentracije radona, ocenjene doze zaradi izpostavljenosti radonu in podatke o morebitnih izvedenih ukrepih varstva pred sevanji. Podatke iz prejšnjega stavka v zbirko podatkov sporočajo pooblaščeni izvajalci meritev radona.
+
+(2) Podatki se v zbirki podatkov iz tega člena zbirajo, vodijo in obdelujejo zaradi zagotavljanja nadzora nad izpostavljenostjo delavcev in prebivalcev, zaradi ocene prejetih doz, za načrtovanja in optimizacije ukrepov varstva pred sevanji zaradi radona in zaradi izvajanja drugih nalog iz tega zakona. Podatki iz zbirke podatkov iz tega člena se lahko zbirajo, vodijo in obdelujejo tudi za izdelavo statističnih in zbirnih poročil ter v znanstvenoraziskovalne namene.

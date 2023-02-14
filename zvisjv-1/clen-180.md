@@ -1,0 +1,3 @@
+# 180. člen (posebno hudi prekrški)
+
+Če je narava prekrška iz prejšnjega člena posebno huda zaradi višine povzročene škode ali višine pridobljene protipravne premoženjske koristi ali zaradi storilčevega naklepa ali njegovega namena koristoljubnosti, se pravno osebo kaznuje z globo od 15.000 do 750.000 evrov, oziroma, če se ta po zakonu, ki ureja gospodarske družbe, šteje za srednjo veliko ali veliko gospodarsko družbo, z globo od 30.000 do 1.500.000 eurov, samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, z globo od 15.000 do 450.000 evrov, odgovorno osebo pravne osebe, odgovorno osebo samostojnega podjetnika posameznika ali odgovorno osebo posameznika, ki samostojno opravlja dejavnost, pa z globo od 3.000 do 30.000 eurov.
