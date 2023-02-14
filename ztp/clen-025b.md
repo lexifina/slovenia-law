@@ -1,0 +1,11 @@
+# 25.b člen
+
+Če je pri osebi, ki ima veljavno dovoljenje za dostop do tajnih podatkov katerekoli stopnje tajnosti, podan sum obstoja varnostnega zadržka iz 27. člena tega zakona, se opravi vmesno varnostno preverjanje.
+
+Vmesno varnostno preverjanje se opravi na predlog predstojnika organa ali organizacije, v kateri oseba opravlja funkcijo ali izvaja naloge. Postopek vmesnega varnostnega preverjanja se lahko začne tudi po uradni dolžnosti, če pristojni organ ugotovi, da je treba glede na obstoječe dejansko stanje zaradi javne koristi začeti postopek.
+
+Nacionalni varnostni organ lahko da pristojnemu organu predlog za vmesno varnostno preverjanje osebe, če pri nadzoru iz sedme alineje tretjega odstavka 43.b člena tega zakona ugotovi sum varnostnega zadržka iz 27. člena tega zakona. O tem mora obvestiti predstojnika organa ali organizacije, kjer je oseba, za katero predlaga vmesno varnostno preverjanje, zaposlena.
+
+Postopek vmesnega varnostnega preverjanja je enak postopku, kot ga ta zakon določa za izdajo dovoljenja za dostop do tajnih podatkov posamezne stopnje tajnosti, pri čemer pa pristojni organ še posebej preveri dejstva in okoliščine, ki so povezane s posameznim varnostnim zadržkom.
+
+Če pristojni organ pri vmesnem varnostnem preverjanju ugotovi varnostni zadržek, mora osebi preklicati vsa veljavna dovoljenja za dostop do tajnih podatkov. Odločba o preklicu dovoljenja za dostop do tajnih podatkov se vroči osebi, ki ji je bilo dovoljenje za dostop do tajnih podatkov preklicano, organu ali organizaciji, v kateri oseba opravlja funkcijo ali izvaja naloge, in predlagatelju postopka ter se o tem obvesti nacionalni varnostni organ.

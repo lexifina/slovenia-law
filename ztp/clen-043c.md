@@ -1,0 +1,13 @@
+# 43.c člen
+
+Oseba lahko dostopa do tujih tajnih podatkov stopnje tajnosti INTERNO v skladu z 31.a členom tega zakona oziroma šestim odstavkom 35.b člena tega zakona in po podpisu izjave o seznanitvi s predpisi s področja varovanja tujih tajnih podatkov.
+
+Nacionalni varnostni organ izda dovoljenje iz prve alineje tretjega odstavka prejšnjega člena na predlog predlagateljev iz 22.f člena tega zakona, če ima oseba veljavno dovoljenje iz 22. člena tega zakona in opravlja funkcijo ali izvaja naloge na delovnem mestu, na katerem potrebuje dovoljenje za dostop do tujih tajnih podatkov. Dovoljenje se izda z veljavnostjo za čas, ko oseba potrebuje dostop do tujih tajnih podatkov, vendar ne za dlje, kot velja dovoljenje iz 22. člena tega zakona.
+
+Pisni predlog mora vsebovati: osebno ime, datum in kraj rojstva osebe, za katero se predlaga izdaja dovoljenja za dostop do tujih tajnih podatkov, navedbo tuje države ali mednarodne organizacije, do tajnih podatkov katere naj bi imela oseba dostop, stopnjo tajnosti podatkov ter navedbo delovnega mesta.
+
+Če oseba, ki ji je bilo izdano dovoljenje za dostop do tujih tajnih podatkov, ne izvaja več nalog, pri katerih potrebuje dostop do tujih tajnih podatkov, je predstojnik organa ali organizacije dolžan o tem takoj obvestiti nacionalni varnostni organ.
+
+Nacionalni varnostni organ dovoljenje za dostop do tujih tajnih podatkov prekliče, ko prenehajo obstajati pogoji za njegovo izdajo iz drugega odstavka tega člena.
+
+Organ ali organizacija, pri kateri je oseba v pogodbenem razmerju, hrani dovoljenje za dostop do tujih tajnih podatkov ali izjavo iz prvega odstavka tega člena v kadrovski evidenci te osebe.

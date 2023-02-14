@@ -1,0 +1,15 @@
+# 21.a člen
+
+Če predstojnik organa v skladu z zakonom, ki ureja dostop do informacij javnega značaja, oceni, da je treba v zvezi z zahtevo za dostop do informacije javnega značaja, ki se nanaša na podatek, ki je določen kot tajen, presoditi o upravičenosti prevladujočega javnega interesa za razkritje, posreduje predlog vladi.
+
+O upravičenosti dostopa do podatka iz prejšnjega odstavka odloča vlada na podlagi predhodnega mnenja komisije. Komisijo sestavljajo predstavniki ministrstva, pristojnega za obrambo, ministrstva, pristojnega za notranje zadeve, ministrstva, pristojnega za zunanje zadeve, Slovenske obveščevalno-varnostne agencije in nacionalnega varnostnega organa. V komisiji ne more sodelovati predstavnik organa, ki je določil tajnost podatku. Komisija uredi način svojega dela s poslovnikom, h kateremu da soglasje vlada.
+
+Komisija iz prejšnjega odstavka pozove organ, ki je določil podatek za tajnega, da ji posreduje oceno škodljivih posledic, na podlagi katere je bila podatku določena tajnost, ter vse prejemnike tajnega podatka, da dajo mnenje o upravičenosti razkritja podatka oziroma razlogih za ohranitev tajnosti.
+
+Komisija iz drugega odstavka tega člena je dolžna v 30 dneh od vložitve zahteve za dostop do informacij javnega značaja pripraviti mnenje o upravičenosti zahteve in ga predložiti vladi.
+
+Če vlada odloči, da je javni interes glede razkritja močnejši od javnega interesa za omejitev dostopa do podatka zaradi njegove tajnosti, odredi organu, ki je določil stopnjo tajnosti, da tajnost podatku prekliče. Organ mora preklic tajnosti opraviti najkasneje v 15 dneh od dneva, ko je prejel odločitev vlade iz tega odstavka, ter z informacijo seznaniti prosilca.
+
+Komisija iz tega člena lahko na predlog predstojnika organa da tudi mnenje o upravičenosti zahteve za preklic tajnosti podatka iz 15. člena tega zakona ali predloga za preklic ali spremembo tajnosti podatka iz prejšnjega člena.
+
+Če je zahteva za dostop do informacij javnega značaja naslovljena na državni organ, ki za svoje delo ni neposredno odgovoren vladi, odloči o upravičenosti dostopa do podatka, ki je določen kot tajen, predstojnik državnega organa po istem postopku, kot je določen za odločanje vlade.

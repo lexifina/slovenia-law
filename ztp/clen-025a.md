@@ -1,0 +1,9 @@
+# 25.a člen
+
+Če se z varnostnim preverjanjem ugotovi sum odvisnosti od alkohola, drog ali drugih zasvojenosti iz 14. točke tretjega odstavka prejšnjega člena oziroma sum bolezni ali duševnih stanj iz 15. točke tretjega odstavka prejšnjega člena, pristojni organ ta sum preveri tako, da napoti preverjano osebo na zdravniški pregled v zdravstveno organizacijo oziroma k zasebnemu zdravniku, ki ju je za opravljanje teh pregledov pooblastil minister, pristojen za zdravje.
+
+Preverjanje iz prejšnjega odstavka se opravi na podlagi sklepa o napotitvi. Če se preverjana oseba pregleda iz neupravičenih razlogov ne udeleži v roku, ki ji ga določi zdravstvena organizacija ali zasebni zdravnik, se ji izdaja dovoljenja zavrne.
+
+Slovenska obveščevalno-varnostna agencija in Obveščevalno varnostna služba Ministrstva za obrambo nista dolžni posredovati podatkov, ki se nanašajo na 16. in 17. točko tretjega odstavka 25. člena tega zakona, če bi to ogrozilo vire ugotavljanja oziroma preverjanja posredovanih podatkov.
+
+Če pristojni organ pri varnostnem preverjanju zbira osebne in druge podatke o preverjani osebi iz že obstoječih zbirk podatkov, so mu organi, organizacije in drugi subjekti, ki na podlagi zakona vodijo zbirke podatkov, dolžni na podlagi pisne ali s pisno obliko izenačene zahteve, kjer je navedena ustrezna pravna podlaga za posredovanje podatkov ter ustrezna številka ali druga oznaka zahteve, brezplačno posredovati zahtevane osebne in druge podatke.
