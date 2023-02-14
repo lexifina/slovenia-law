@@ -1,0 +1,5 @@
+# 7. člen (stvarne pravice in pridobivanje zemljišč)
+
+(1) Zemljišča v območju koncesije in zemljišča v vplivnem območju koncesije, ki so v skladu z državnim prostorskim načrtom potrebna za gradnjo objektov iz 1., 2., 4., 5., 6. in 7. točke 2. člena tega zakona, pridobi koncedent, katerega pri sklepanju pravnih poslov in v postopkih pridobivanja zemljišč zastopa izvajalec gospodarske javne službe iz 12. člena tega zakona. Za pridobivanje zemljišč, ki so potrebna v skladu s tem zakonom in sprejetimi prostorskimi akti, se uporabljajo določbe zakona, ki urejajo posege v prostor na področju energetike.
+
+(2) Republika Slovenija mora na zemljiščih, ki so v njeni lasti in so potrebna za gradnjo objektov in naprav za izvajanje koncesije, ustanoviti stavbno in služnostno pravico za čas trajanja koncesije. V primeru, da se čas trajanja koncesije v skladu s 3. členom tega zakona podaljša, se temu primerno podaljša tudi trajanje stavbne in služnostne pravice. Ob prenehanju stavbne pravice, ki je neodplačna, koncedent kot lastnik zemljišča imetniku stavbne pravice ne plača nadomestila.
