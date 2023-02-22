@@ -1,0 +1,29 @@
+# 75.b člen (objava podatkov o denarnih tokovih subjektov javnega sektorja)
+
+(1) Komisija zaradi zagotavljanja transparentnosti porabe javnih sredstev in finančnih sredstev poslovnih subjektov javnega sektorja zaradi krepitve integritete in omejevanja korupcijskih tveganj, ter nadzora javnosti nad smotrnostjo porabe javnih sredstev, na spletni strani objavi podatke iz prejšnjega člena, pod pogoji, določenimi v tem členu.
+
+(2) V celoti se objavijo podatki iz četrtega, šestega, osmega, devetega in dvanajstega odstavka prejšnjega člena.
+
+(3) Ne objavijo se podatki iz drugega odstavka prejšnjega člena o transakcijskem računu, naslovu prejemnika in davčni številki prejemnika, ki je fizična oseba. Prav tako se ne objavijo podatki o osebnem imenu prejemnika ter podatki o namenu transakcije, razen kadar je iz kode namena razvidno, da se izplačilo nanaša na donatorske, sponzorske, svetovalne pogodbe in druge avtorske ali druge intelektualne storitve ter na transakcije, ki presegajo mesečno bruto plačo predsednika republike.
+
+(4) Ne objavijo se podatki iz tretjega odstavka prejšnjega člena o besedilnem opisu poslovnega dogodka, razen kadar je iz kode namena transakcije, na katero se knjižba nanaša, razvidno, da se poslovni dogodek nanaša na donatorske, sponzorske, svetovalne pogodbe in druge avtorske ali druge intelektualne storitve ter na transakcije, ki presegajo mesečno bruto plačo predsednika republike.
+
+(5) Objavijo se le podatki iz petega odstavka prejšnjega člena, ki jih Ajpes objavlja na podlagi zakona in na način oziroma z omejitvami, ki jih določa zakon.
+
+(6) Ne objavijo se podatki iz sedmega odstavka prejšnjega člena o davčni številki fizičnih oseb, prav tako pa se ne objavijo podatki o osebnem imenu tistih fizičnih oseb, katerih delež imetništva vrednostnih papirjev posameznega subjekta ne presega pet odstotkov.
+
+(7) Za spletno objavo in omogočanje spletnega iskanja po osebnih podatkih posameznega družbenika, ustanovitelja, zastopnika, nadzornika, imetnika ali dejanskega lastnika veljajo omejitve, kot so določene v zakonu, ki ureja sodni register, zakonu, ki ureja poslovni register, in zakonu o preprečevanju pranja denarja in financiranja terorizma.
+
+(8) Ne objavijo se osebni podatki iz desetega odstavka prejšnjega člena o fizičnih osebah.
+
+(9) Ne objavijo se osebni podatki iz enajstega odstavka prejšnjega člena o fizičnih osebah.
+
+(10) Objavijo se podatki iz evidence premoženjskega stanja iz drugega odstavka 46. člena tega zakona, evidence zapisov o stikih z lobisti iz drugega odstavka 68. člena tega zakona in evidenco poslovnih subjektov iz 35. člena tega zakona.
+
+(11) Komisija podatke, ki jih objavlja po tem členu, redno posodablja in objavlja. V primeru ugotovljene napake v objavljenih podatkih, ki jih vodi komisija, se skupaj s popravljenim podatkom objavi uradni zaznamek o popravku.
+
+(12) Oseba z upravičenim pravnim interesom lahko zahteva odpravo napake v objavljenih podatkih, ki jih vodi komisija. Komisija o odpravi napake odloči z odločbo, skladno z zakonom, ki ureja splošni upravni postopek. Če komisija zahtevku v celoti ugodi, o tem napravi uradni zaznamek. Če komisija zahtevek zavrne, lahko ta oseba zahteva, da se ob objavljenih spornih podatkih, na primeren način objavi njeno pojasnilo o spornih podatkih, odločbo komisije in druge relevantne dokumente. Zoper odločbo komisije ni dovoljena pritožba.
+
+(13) Komisija hrani in zagotavlja dostopnost podatkov deset let od njihove objave. Podatke iz evidence transakcij, ki so starejši od deset let, komisija preda Arhivu Republike Slovenije in odstrani s svoje spletne strani. Podatki, ki jih objavlja komisija, morajo biti dostopni tudi v strojno berljivi obliki, skupaj z meta podatki, ki definirajo njihovo strukturo in omogočajo enostavno ponovno uporabo. Podatki, ki se objavljajo na spletnih straneh, razen podatkov iz petega, šestega in devetega odstavka tega člena, se objavijo tudi v Nacionalnem portalu odprtih podatkov.
+
+(14) Ne glede na določbe zakona, ki ureja dostop do informacij javnega značaja, so podatki iz prejšnjega člena na podlagi zahteve za ponovno uporabo prosilcem dostopni samo pri upravljavcu evidence iz prvega odstavka prejšnjega člena.

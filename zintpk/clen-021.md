@@ -1,0 +1,7 @@
+# 21. člen (pristojnosti državnega zbora pri nadzoru)
+
+(1) Državni zbor s smiselno uporabo določb tega zakona nadzira premoženjsko stanje, sprejemanje daril, omejitev poslovanja, nasprotje interesov in nezdružljivost funkcije s pridobitno dejavnostjo predsednika komisije za preprečevanje korupcije in obeh namestnikov predsednika komisije.
+
+(2) Predsednik komisije in namestnika predsednika komisije podatke o svojih obveznostih, povezanih s položajem funkcionarja po tem zakonu, vpišejo v uradne evidence komisije o podatkih o premoženjskem stanju, omejitvah poslovanja, prejetih darilih, nasprotju interesov in nezdružljivosti funkcije s pridobitno dejavnostjo. Predsednik komisije in oba namestnika predsednika komisije posredujejo podatke državnemu zboru na obrazcih, ki so predpisani s tem zakonom. O izpolnitvi navedenih obveznosti funkcionarji komisije obvestijo državni zbor v roku treh dni. Komisija obvestilo iz prejšnjega stavka objavi na svojih spletnih straneh.
+
+(3) Ostale podatke, ki jih državni zbor potrebuje za izvedbo nadzora in za vodenje katerih ni pristojna komisija, državni zbor pridobi sam.

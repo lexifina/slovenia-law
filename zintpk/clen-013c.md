@@ -1,0 +1,3 @@
+# 13.c člen (pristojnost predlagati revizijo)
+
+Če so podana dejstva in okoliščine, ki izkazujejo sum korupcije ali nasprotja interesov s strani funkcionarjev, uradnikov na položaju, poslovodnih oseb in članov organov upravljanja, vodenja in nadzora v subjektih javnega sektorja in komisija oceni, da je za zaščito porabe javnih sredstev potrebna revizija poslovanja uporabnikov javnih sredstev, lahko komisija med ali po zaključku postopka sprejme obrazložen sklep, s katerim računskemu sodišču predlaga uvedbo revizije posameznega posla ali poslov, sklenjenih s strani subjekta javnega sektorja.

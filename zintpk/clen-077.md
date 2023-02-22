@@ -1,0 +1,83 @@
+## X. KAZENSKE DOLOČBE
+
+# 77. člen (prekrški fizičnih oseb)
+
+(1) Z globo od 400 do 1.200 eurov se kaznuje za prekršek posameznik, ki:
+
+- se v nasprotju z določbo šestega odstavka 15.a člena tega zakona brez opravičljivih razlogov ne odzove na razgovor na seji komisije ali v nasprotju z določbo druge alineje tretjega odstavka 15.b člena tega zakona ne odgovarja na vprašanja komisije iz njene pristojnosti, razen v primerih iz tretje alineje tretjega odstavka 15.b člena tega zakona,
+
+- v nasprotju z določbo drugega odstavka 16.a člena tega zakona brez predhodnega pisnega dovoljenja komisije razkrije, objavi ali nepooblaščenim tretjim osebam posreduje podatke ali informacije, ki jih je pridobil oziroma se je z njimi seznanil v okviru ali v povezavi z opravljanjem svojega dela za komisijo,
+
+- (črtana)
+
+- v nasprotju z določbo drugega odstavka 26. člena tega zakona komisije ne obvesti o opravljanju poklicne ali druge dejavnosti,
+
+- v nasprotju z določbo tretjega odstavka 26. člena tega zakona ne spoštuje odločbe o prepovedi opravljanja dodatne dejavnosti ali pogojev in omejitev, ki mu jih je z odločbo postavila komisija,
+
+- v nasprotju z določbami 30. člena tega zakona sprejme darilo v zvezi z opravljanjem svoje funkcije ali javne službe ali v zvezi s svojim položajem,
+
+- v nasprotju z določbo šestega odstavka 35. člena tega zakona organu ali organizaciji javnega sektorja, v katerem opravlja funkcijo, pisno ne sporoči podatkov,
+
+- v nasprotju z določbo prvega odstavka 36. člena tega zakona v roku dveh let po prenehanju funkcije v razmerju do organa ali organizacije javnega sektorja, v katerem je opravljal svojo funkcijo, nastopi kot predstavnik pravne osebe, ki s tem organom ima ali vzpostavlja poslovne stike,
+
+- se v nasprotju z določbo prvega odstavka 38. člena tega zakona ne izloči iz postopka obravnave in odločanja v zadevi, in pisno ne obvesti nadrejenega oziroma predstojnika, ali v nasprotju z določbo petega odstavka 38. člena tega zakona ne obvesti komisije,
+
+- v nasprotju z določbo drugega ali tretjega odstavka 41. člena tega zakona komisiji ne sporoči podatkov o premoženjskem stanju,
+
+- v prijavo o premoženjskem stanju iz 42. in 43. člena tega zakona ali v njene dopolnitve ne vpiše potrebnih podatkov ali vpiše lažne podatke,
+
+- v nasprotju z določbo prvega odstavka 43. člena tega zakona komisiji ne sporoči sprememb podatkov,
+
+- v nasprotju z določbo tretjega odstavka 56. člena tega zakona opravlja dejanja lobiranja še pred potekom dveh let, odkar mu je prenehala funkcija,
+
+- opravlja dejanja lobiranja, čeprav ni vpisan v register lobistov skladno s prvim odstavkom 58. člena in ni izvzet iz obveznosti registracije na podlagi četrtega odstavka 58. člena tega zakona,
+
+- kot lobiranec v skladu z določbo drugega odstavka 68. člena tega zakona ne posreduje komisiji zapisa o lobiranju,
+
+- v nasprotju z določbo petega odstavka 68. člena tega zakona v osmih dneh ne dopolni zapisa lobiranja,
+
+- kot lobiranec v nasprotju z določbo 69. člena tega zakona ne odkloni stika z lobistom, ki ni vpisan v register lobistov ali stika, pri katerem bi nastalo nasprotje interesov,
+
+- v nasprotju z določbo tretjega odstavka 70. člena tega zakona pri lobiranju ravna proti predpisom, ki določajo prepoved sprejemanja daril v zvezi z opravljanjem funkcije ali javnimi nalogami lobirancev,
+
+- kot lobiranec v roku iz prvega odstavka 71. člena tega zakona ne prijavi komisiji lobista, ki ravna v nasprotju s 70. členom tega zakona ali ni vpisan v register lobistov v skladu z 58. členom tega zakona.
+
+(2) Z globo od 1.000 do 2.000 eurov se kaznuje za prekršek posameznik, ki:
+
+- (črtana)
+
+- v nasprotju z določbo petega odstavka 26. člena tega zakona po pravnomočnosti odločbe o preklicu dovoljenja ne preneha z opravljanjem poklicne ali druge dejavnosti,
+
+- v nasprotju z določbo prvega odstavka 29. člena tega zakona ne preneha opravljati nezdružljive funkcije, članstva ali dejavnosti v roku, ki ga določi komisija,
+
+- lobira v nasprotju s 70. členom tega zakona.
+
+(3) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba organa ali organizacije javnega sektorja, če:
+
+- v nasprotju z določbo drugega in petega odstavka 14. člena tega zakona v pogodbo, ki jo sklene organ ali organizacija javnega sektorja, ne vključi vsebine iz prvega odstavka 14. člena tega zakona,
+
+- po obvestilu komisije ali drugih organov o domnevnem obstoju dejanskega stanja iz prvega odstavka 14. člena v nasprotju s tretjim odstavkom 14. člena tega zakona ne prične s postopkom ugotavljanja ničnosti pogodbe ali z drugimi ustreznimi ukrepi v skladu s predpisi Republike Slovenije,
+
+- komisiji v nasprotju z določbo četrtega odstavka 14. člena tega zakona ne posreduje zahtevanih pogodb in dokumentov,
+
+- v nasprotju z določbo šestega odstavka 14. člena tega zakona ne pridobi izjave oziroma podatkov o udeležbi fizičnih in pravnih oseb v lastništvu ponudnika, vključno z udeležbo tihih družbenikov, ter o gospodarskih subjektih, za katere se glede na določbe zakona, ki ureja gospodarske družbe, šteje, da so povezane družbe s ponudnikom, ali če te izjave v nasprotju z določbo šestega odstavka 14. člena tega zakona na njeno zahtevo ne predloži komisiji.
+
+(4) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba državnega organa, lokalne skupnosti, nosilca javnih pooblastil in pravne osebe javnega ali zasebnega prava ter samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, če komisiji v nasprotju z določbo prvega odstavka 16. člena tega zakona brezplačno ne posreduje vseh podatkov, tudi osebnih, in dokumentov, ki so potrebni za opravljanje zakonskih nalog komisije.
+
+(5) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba subjekta javnega sektorja, če komisiji v nasprotju z določbo tretjega odstavka 16. člena tega zakona ne omogoči vpogleda v podatke in dokumente, s katerimi razpolaga ta subjekt, ali ne izroči njihovega izpisa ali kopije.
+
+(6) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba subjekta javnega sektorja, ki v nasprotju šestim odstavkom 30. člena tega zakona komisiji ne posreduje seznama prejetih daril.
+
+(7) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba organa ali organizacije javnega sektorja ali ožjega dela občine, če ravna v nasprotju s prvim, drugim ali četrtim odstavkom 35. člena tega zakona.
+
+(8) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba organa ali organizacije javnega sektorja, v katerem je bivši funkcionar opravljal svojo funkcijo, če v nasprotju z določbo drugega odstavka 36. člena tega zakona posluje z bivšim funkcionarjem kot fizično osebo ali njegovim poslovnim subjektom.
+
+(9) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba organa ali organizacije javnega sektorja, pri katerem je funkcionar opravljal svojo funkcijo, če v nasprotju z določbo tretjega odstavka 36. člena tega zakona komisije ne obvesti o ravnanju funkcionarja iz prvega odstavka 36. člena tega zakona.
+
+(10) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba organa ali organizacije javnega sektorja, če v nasprotju z drugim odstavkom 38. člena tega zakona uradne osebe ne izloči iz postopka obravnave in odločanja v zadevi ali komisiji v skladu s četrtim odstavkom 38. člena tega zakona ne posreduje sprejete odločitve, iz katere izhaja, da lahko uradna oseba nadaljuje z delom v zadevi.
+
+(11) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba organa ali organizacije javnega sektorja ali naročnika, ki komisiji v nasprotju s četrtim odstavkom 41. člena tega zakona ne posreduje seznama zavezancev.
+
+(12) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba zavezanca za izdelavo načrtov integritete, ki ravna v nasprotju s prvim ali z drugim odstavkom 47. člena tega zakona, ali če po ugotovitvah komisije po drugem odstavku 48. člena tega zakona ne uresničuje načrta integritete.
+
+(13) Z globo od 400 do 4.000 eurov se kaznuje za prekršek odgovorna oseba državnega organa, lokalne skupnosti ali nosilca javnih pooblastil kot nosilca izvajanja ukrepov iz akcijskega načrta za uresničevanje resolucije, ki v nasprotju s prvim odstavkom 53. člena tega zakona komisiji ne poroča o dejavnostih za uresničitev teh ukrepov.

@@ -1,0 +1,7 @@
+# 45. člen (ukrepi v primeru nesorazmernega povečanja premoženja)
+
+(1) Če na podlagi obvestila pristojnega organa zavezanec v postopku iz 44.a člena tega zakona ne pojasni načina povečanja premoženja, virov premoženja ali razlike med dejanskim in prijavljenim premoženjem ali tega ne stori na prepričljiv, verodostojen in razumljiv način, komisija zadevo z vsemi zbranimi podatki nemudoma odstopi državnemu tožilstvu zaradi preverbe možnosti ukrepanja po zakonu, ki ureja odvzem premoženja nezakonitega izvora, ali pristojnemu organu s področja davkov zaradi preverbe možnosti ukrepanja po davčnih predpisih. Komisija lahko, če na podlagi obvestila pristojnega organa ugotovi, da s tem ne bi ogrozila interesov postopkov drugih pristojnih organov, o tem obvesti tudi organ ali organizacijo javnega sektorja, pri katerem zavezanec opravlja funkcijo ali delo, oziroma organ, pristojen za izvolitev ali imenovanje zavezanca.
+
+(2) Organ ali organizacija javnega sektorja, pri katerem zavezanec opravlja funkcijo, na katero je bil imenovan, ali delo, oziroma organ, pristojen za izvolitev ali imenovanje zavezanca, mora na podlagi obvestila komisije iz prejšnjega odstavka, v skladu z ustavo in zakonom začeti postopek za prenehanje mandata, za razrešitev ali za uveljavljanje druge oblike odgovornosti zavezanca in v roku treh mesecev od prejema obvestila o tem obvesti komisijo.
+
+(3) Državno tožilstvo, ki prejme zadevo iz prvega odstavka tega člena, obvesti komisijo o odločitvah in ukrepih po zaključku postopka.
