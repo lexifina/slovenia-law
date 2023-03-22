@@ -1,0 +1,3 @@
+# 2. člen (izvajanje predpisov Evropske unije)
+
+S tem zakonom se za izvajanje Uredbe (EU) 2021/821 Evropskega parlamenta in Sveta z dne 20. maja 2021 o vzpostavitvi režima Unije za nadzor izvoza, posredovanja, tehnične pomoči, tranzita in prenosa blaga z dvojno rabo (prenovitev) (UL L št. 206 z dne 11. 6. 2021, str. 1), zadnjič spremenjene z Delegirano uredbo Komisije (EU) 2023/66 z dne 21. oktobra 2022 o spremembi Uredbe (EU) 2021/821 Evropskega parlamenta in Sveta glede seznama blaga z dvojno rabo (UL L št. 9 z dne 11. 1. 2023, str. 1–252), (v nadaljnjem besedilu: Uredba 2021/821/EU) določajo pristojni organ za izdajo dovoljenj in prepovedi, pristojni organ za izvrševanje nadzora, sodelovanje drugih državnih organov ter kazenske določbe.
