@@ -1,0 +1,9 @@
+# 82.b člen (ukrepi ob kršitvah pravil bivanja)
+
+(1) Za lažje kršitve pravil bivanja pooblaščena uradna oseba urada prosilcu izreče ustno opozorilo, ki se evidentira v obliki uradnega zaznamka.
+
+(2) Za težje kršitve iz tretje, devete in dvanajste alineje tretjega odstavka prejšnjega člena se lahko osebo za največ tri dni nastani v posebni, ločeni sobi, ki se nahaja v sprejemnih prostorih azilnega doma. Pri tem se upošteva individualne okoliščine ter sorazmernost kršitve in ukrepa. Ukrep lahko preneha tudi prej, če se med trajanjem ukrepa ugotovi, da je dosegel svoj namen.
+
+(3) Za težje kršitve iz prve, druge, četrte, pete, šeste, sedme, desete in enajste alineje tretjega odstavka prejšnjega člena se izreče ukrep preselitve na drugo nastanitveno lokacijo.
+
+(4) Ukrep iz drugega in tretjega odstavka ustno odredi pooblaščena oseba urada, v 24 urah od ustne odločitve pa se osebi izda pisna odločba. Zoper odločbo je mogoč ugovor v treh dneh od njene vročitve. O ugovoru odloči predstojnik urada. Ugovor zoper odločbo ne zadrži njene izvršitve.
