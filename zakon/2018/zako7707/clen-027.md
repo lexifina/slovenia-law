@@ -18,4 +18,6 @@
 15. izpolnjuje druge obveznosti obveščanja Evropske komisije in skupine za sodelovanje, obveznosti obveščanja in notifikacije preostalih mednarodnih organizacij;
 16. izvaja druge naloge mednarodnega sodelovanja;
 17. pripravlja predloge predpisov s področja informacijske in kibernetske varnosti;
-18. izvaja naloge nacionalnega certifikacijskega organa za kibernetsko varnost.
+18. izvaja naloge nacionalnega certifikacijskega organa za kibernetsko varnost;
+19. določi enotno informacijsko varnostno politiko, razen za informacijsko-komunikacijske sisteme, namenjene področju obrambe, varstva pred naravnimi in drugimi nesrečami, policije, internega informacijskega sistema notranjih zadev, obveščevalno-varnostne dejavnosti, zunanjih zadev, preprečevanja in odkrivanja pranja denarja in financiranja terorizma ter opravljanja plačilnega prometa za proračunske uporabnike.
+(3) Pristojni nacionalni organ je pristojen za načrtovanje in upravljanje proračunskih virov na področju informacijske varnosti v državni upravi, razen za izvajanje tehničnih nalog informacijske varnosti oziroma kibernetske obrambe pri upravljanju centralnega informacijsko-komunikacijskega sistema oziroma upravljanju informacijsko-komunikacijskih sistemov, namenjenih področju obrambe, varstva pred naravnimi in drugimi nesrečami, policije, internega informacijskega sistema notranjih zadev, obveščevalno-varnostne dejavnosti, zunanjih zadev, preprečevanja in odkrivanja pranja denarja in financiranja terorizma ter opravljanja plačilnega prometa za proračunske uporabnike.
