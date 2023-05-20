@@ -1,0 +1,5 @@
+# 19.b člen (predlog za uvedbo elektronskega načina vodenja evidence)
+(1) Sindikat pri delodajalcu, če ta ni organiziran, pa svet delavcev oziroma delavski zaupnik, lahko poda pisni predlog delodajalcu za uvedbo elektronskega načina vodenja evidence o izrabi delovnega časa. Delodajalec mora predlog obravnavati in se do njega opredeliti v 30 dneh od prejema.
+(2) Če delodajalec zavrne predlog iz prejšnjega odstavka, mora svojo odločitev pisno utemeljiti, o zavrnitvi predloga pa hkrati pisno obvestiti tudi inšpektorat, pristojen za delo. Predlog iz prejšnjega odstavka se lahko znova poda po preteku enega leta od pisne utemeljitve zavrnitve predloga.
+(3) Delodajalec, ki ugodi predlogu za uvedbo elektronskega načina vodenja evidence o izrabi delovnega časa iz prvega odstavka tega člena, mora začeti voditi evidenco o izrabi delovnega časa elektronsko v treh mesecih od poteka roka iz prvega odstavka tega člena.
+(4) Naknadna sprememba podatka elektronske evidence iz 18. člena tega zakona mora vsebovati tudi razlog spremembe in čas vpisa spremembe, ki ga zagotavlja delodajalec.

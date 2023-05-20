@@ -1,0 +1,4 @@
+# 4. člen
+V 19. členu se za tretjim odstavkom dodata nova četrti in peti odstavek, ki se glasita:
+"(4) Delodajalec delavcu zagotavlja vpogled v podatke iz evidence o izrabi delovnega časa, ki se nanašajo nanj. Delodajalec delavca pisno obvesti o podatkih iz evidence o izrabi delovnega časa za pretekli mesec do konca plačilnega dne. Pisno obvestilo se lahko pošlje tudi po elektronski poti na elektronski naslov delavca, ki ga zagotavlja in uporabo nalaga delodajalec. Delavec lahko od delodajalca enkrat tedensko zahteva, da ga pisno seznani s podatki iz evidence o izrabi delovnega časa. Za obveznost seznanitve iz prejšnjega stavka se šteje tudi neposreden elektronski dostop delavca do evidence o izrabi delovnega časa, ki ga zagotavlja delodajalec.
+(5) Delodajalec evidenco o izrabi delovnega časa in dokumentacijo, na podlagi katere se v evidenco o izrabi delovnega časa vpisujejo podatki, hrani na sedežu oziroma na kraju opravljanja dela delavca.".
