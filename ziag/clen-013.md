@@ -1,0 +1,7 @@
+# 13. člen (potrditev načrta primernih lokacij polnilnih parkov izhodne moči vsaj 3 MW)
+
+(1) Izvajalec k predlogu državnega načrta primernih lokacij polnilnih parkov izhodne moči vsaj 3 MW pridobi soglasje pristojnega elektrooperaterja, ki upravlja sistem, na katerega bodo neposredno priključeni polnilni parki, ter odobritev ministrov iz sedmega odstavka 8. člena tega zakona. Če je potrebna razlastitev zemljišč na ureditvenem območju polnilnega parka ali umestitev v državni prostorski načrt, mora načrt v tem delu potrditi tudi vlada.
+
+(2) Predlog državnega načrta primernih lokacij polnilnih parkov izhodne moči vsaj 3 MW poleg informacij iz sedmega odstavka 8. člena tega zakona vsebuje tudi informacije o velikosti ureditvenega območja polnilnega parka in zemljiščih na območju polnilnega parka.
+
+(3) Izvajalec predlog državnega načrta primernih lokacij polnih parkov izhodne moči vsaj 3 MW, preden ga pošlje ministrstvu oziroma vladi, javno objavi ter zainteresiranim vlagateljem omogoči podajo mnenj glede zmogljivosti polnilnega parka ter načrtovanih spremljajočih aktivnosti na teh lokacijah ali drugih, za razvoj polnilnega parka pomembnih elementov. Predlog državnega načrta mora biti javno dostopen na spletni strani izvajalca za podajo komentarjev vsaj 30 dni. Izvajalec z javno razgrnitvijo predloga državnega načrta pisno seznani lastnike zemljišč na ureditvenem območju polnilnega parka in lastnike zemljišč, na katerih je predvidena izgradnja podporne infrastrukture, ki je potrebna za delovanje polnilnega parka.
