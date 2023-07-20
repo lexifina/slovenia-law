@@ -1,0 +1,7 @@
+# 7. člen
+
+Do varstva po tem zakonu je upravičen državljan Republike Slovenije, družinski član osebe, ki je izgubila življenje, umrla ali je bila pogrešana v okoliščinah za priznanje statusa žrtve vojnega nasilja po tem zakonu. Varstvo se zagotavlja istemu krogu družinskih članov in ob enakih pogojih kot po predpisih o vojnih invalidih.
+
+Ne glede na določbo drugega stavka prejšnjega odstavka se v primerih, ko oseba iz prejšnjega odstavka ni mogla preživljati družinskega člana zadnje leto pred svojo smrtjo, ker se je tedaj nad njo izvajalo nasilno dejanje ali prisilni ukrep, šteje, da je pogoj preživljanja izpolnjen, če je oseba iz prejšnjega odstavka preživljala družinskega člana vsaj zadnje leto pred nastopom nasilnega dejanja ali prisilnega ukrepa.
+
+Družinskim članom iz prvega odstavka tega člena se zagotavljajo enake pravice in v enakem obsegu kot družinskim članom oseb, ki so izgubile življenje, umrle ali so bile pogrešane v okoliščinah za priznanje statusa civilnega invalida vojne po predpisih o vojnih invalidih. Družinska invalidnina pa ne more presegati zneska doživljenjske mesečne rente, ki bi pripadala osebi, po kateri družinski člani uveljavljajo to pravico, pri čemer se v primeru padlega mobiliziranca šteje, da bi mu pripadala doživljenjska mesečna renta po 200 tolarjev za vsak mesec nasilja, v primeru, da je nasilje trajalo manj kot tri mesece, pa se upošteva znesek doživljenjske mesečne rente za tri mesece nasilja.
