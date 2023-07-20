@@ -1,0 +1,5 @@
+# 39. člen (vajenec s pravico do denarnega nadomestila za primer brezposelnosti)
+
+(1) Ne glede na določbe zakona, ki ureja trg dela, se vajencu iz 37. člena tega zakona, ki je ob prenehanju vodenja v evidenci brezposelnih oseb upravičen do denarnega nadomestila za primer brezposelnosti (v nadaljnjem besedilu: pravica do denarnega nadomestila), v enkratnem znesku izplača celoten preostali del neizkoriščene pravice do denarnega nadomestila s pripadajočimi obveznimi prispevki delojemalca in delodajalca za socialno varnost.
+
+(2) Če po izplačilu iz prejšnjega odstavka pride do prenehanja pogodbe o vajeništvu na podlagi odpovedi vajenca v skladu z določbo prvega odstavka 28. člena tega zakona ali na podlagi odpovedi delodajalca v skladu s 1., 2., 6. in 7. točko tretjega odstavka 28. člena tega zakona, je vajenec dolžan vrniti celoten prejeti znesek iz prejšnjega odstavka. Odločbo o vračilu izda Zavod Republike Slovenije za zaposlovanje, vajenec pa mora vračilo izvesti v roku 30 dni od dokončnosti odločbe, po poteku tega roka pa z zakonitimi zamudnimi obrestmi.
