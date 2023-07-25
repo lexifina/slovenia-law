@@ -1,0 +1,7 @@
+# 8. člen (postopki po elektronski poti)
+
+(1) Vsi postopki v zvezi z začetkom opravljanja in opravljanjem storitev se lahko opravijo po elektronski poti preko enotne kontaktne točke in pri pristojnih državnih organih, pri čemer se uporabljajo določbe zakona, ki ureja splošni upravni postopek o vlaganju vlog in vročanju po elektronski poti.
+
+(2) Določbe prejšnjega odstavka se ne uporabljajo za pregled prostorov, v katerih se opravljajo storitve, ali opreme, ki jo uporablja ponudnik storitev, ali za pregled sposobnosti ponudnika storitev ali njegovih zaposlenih.
+
+(3) Obdelava podatkov v postopkih iz prvega odstavka tega člena obsega naslednje podatke o ponudnikih storitev, ki predložijo vloge za izdajo dovoljenj: ime in priimek, spol, datum in kraj rojstva, enotna matična številka občana (EMŠO), strokovni naslov, znanstveni naslov, podatki o izobrazbi, podatki o zaposlitvi, funkcija v gospodarski družbi, podatki o dejavnosti, država vpisa v poslovni register, matična številka iz poslovnega registra, telefonska številka, številka faksa, e-naslov, naslov (država, kraj, poštna številka, ulica in hišna številka), dodatni naslov, podatki o vpisih v registre, podatki o zavarovanju ali finančnem jamstvu, podatki o zastopnikih, podatki o dobrem imenu (informacije o disciplinskih in drugih ukrepih ali sankcijah in odločitvah v zvezi s plačilno nesposobnostjo ali stečajem) in podatki o dokaznih listinah.
