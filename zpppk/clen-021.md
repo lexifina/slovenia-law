@@ -1,0 +1,5 @@
+# 21. člen (enako obravnavanje kvalifikacij)
+
+(1) Kot dokazilo o pridobljenih ravneh iz prejšnjega člena se upošteva vse listine, ki jih izda pristojni organ v drugi državi pogodbenici in potrjujejo uspešno opravljeno usposabljanje v drugi državi pogodbenici, redno ali s krajšim delovnim časom, v okviru ali zunaj formalnih programov, ter jih država pogodbenica prizna na enakovredni ravni in imetniku podeljujejo enake pravice dostopa do ali opravljanja poklica oziroma poklicne dejavnosti ali pomenijo pripravo za opravljanje poklica oziroma poklicne dejavnosti, vključno z zadevno ravnjo.
+
+(2) Poklicna kvalifikacija, ki strokovnjaku da pravice na podlagi zakona oziroma drugih predpisov, čeprav ne izpolnjuje zahtev, določenih z zakonom in drugimi predpisi, ki veljajo v državi pogodbenici izvora za dostop do poklica oziroma poklicne dejavnosti in njegovega opravljanja, zlasti ob spremembi zahtevane ravni, se šteje za ustrezno dokazilo o formalnih kvalifikacijah pod enakimi pogoji, kot so določeni v prejšnjem odstavku.

@@ -1,0 +1,3 @@
+# 34. člen (članstvo v strokovnih združenjih ali zbornicah)
+
+Pristojni organ od ponudnika storitev s sedežem v drugi državi pogodbenici ne sme zahtevati včlanitve v strokovno združenje ali zbornico v Republiki Sloveniji, čeprav je tak pogoj predpisan za državljane Republike Slovenije, lahko pa zahteva začasno registracijo, če ponudniku storitev to ne povzroča dodatnih stroškov. Pristojni organ avtomatično začasno registrira strokovnjaka na podlagi prijave in potrebnih dokumentov ali pošlje prijavo strokovnemu združenju ali zbornici. Začasna registracija velja za čas veljavnosti prijave ponudnika.
