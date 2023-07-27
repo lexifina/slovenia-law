@@ -1,0 +1,11 @@
+# 200.c člen
+
+Opredelitev pomorskih nesreč, obveznost in načrt preiskovanja, obveznost in način obveščanja, pogoje za preiskovalce pomorskih nesreč (v nadaljnjem besedilu: preiskovalec), način dela in financiranja preiskovalcev, vsebino poročila o nesreči, sodelovanje z drugimi organi v Republiki Sloveniji in organi drugih držav članic Evropske unije predpiše vlada v skladu s predpisi Evropske unije.
+
+200.č člen
+
+Za preiskovanje pomorskih nesreč, v skladu s tem zakonom in na njegovi podlagi izdanimi predpisi, je pristojen preiskovalec, ki je pri svojem delu in odločanju neodvisen, samostojen in ima zagotovljena finančna sredstva. Preiskovalec deluje v okviru samostojne organizacijske enote v ministrstvu, pristojnem za pomorstvo, ali drugem organu, katerega interesi niso v nasprotju z nalogami in pooblastili preiskovalca. Enega ali več preiskovalcev imenuje vlada. Preiskovalec je lahko oseba z najmanj deset let delovnih izkušenj na področju varnosti prometa.
+
+Preiskovalec odloči o uvedbi preiskave, vodi preiskavo in pripravi podrobno poročilo o pomorski nesreči.
+
+Preiskovalec lahko izvedbo preiskave in pripravo poročila o pomorski nesreči prepusti preiskovalcem iz 200.h člena tega zakona. V tem primeru mora potrditi poročilo o pomorski nesreči.

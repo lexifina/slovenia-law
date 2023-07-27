@@ -1,0 +1,7 @@
+# 100. člen
+
+Klasifikacijski zavod lahko ladjo, za katero veljajo določbe Mednarodne konvencije o varstvu človekovega življenja na morju ali Mednarodne konvencije o tovornih črtah ali Mednarodne konvencije o preprečevanju onesnaževanja morja z ladij, čeprav ne izpolnjuje posameznih pogojev za mednarodna potovanja, v primerih in pod pogoji, ki so določeni v navedenih konvencijah, oprosti izpolnjevanja tistih njihovih določb, katerih je po določbah konvencij lahko oproščena, če se s pregledom ugotovi, da je ladja sposobna za mednarodna potovanja oziroma za določena mednarodna potovanja.
+
+Klasifikacijski zavod lahko ladjo, ki sicer ne opravlja mednarodnih potovanj in bi zanjo, če bi jih redno opravljala, veljala Mednarodna konvencija o varstvu človekovega življenja na morju, Mednarodna konvencija o tovornih črtah ali Mednarodne konvencije o preprečevanju onesnaževanja morja z ladij, ki pa mora zaradi izjemnih okoliščin na eno samo mednarodno potovanje, v skladu z določbami navedenih konvencij oprosti izpolnjevanja katerekoli njihove določbe, če se s pregledom ugotovi, da je ladja sposobna za to potovanje.
+
+Klasifikacijski zavod lahko ladji, za katero velja Mednarodna konvencija o varstvu človekovega življenja na morju, Mednarodna konvencija o tovornih črtah ali Mednarodna konvencija o preprečevanju onesnaževanja morja z ladij, ki pa pomeni nov tip ladje, dovoli za preizkušnjo mednarodna potovanja oziroma določena mednarodna potovanja, ne da bi izvajal določbe omenjenih konvencij, če s pregledom ugotovi, da je ladja zanje sposobna.

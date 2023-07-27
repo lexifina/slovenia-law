@@ -1,0 +1,13 @@
+# 63.b člen
+
+Pristaniški nadzornik sme zaradi ugotovitve, ali ima oseba, ki upravlja čoln, v organizmu alkohol ali več alkohola, kot je dovoljeno, izvesti preizkus s sredstvi ali napravami za ugotavljanje alkohola. Neposrednemu udeležencu pomorske nesreče pristaniški nadzornik odredi preizkus s sredstvi ali napravami za ugotavljanje alkohola.
+
+Če pristaniški nadzornik s sredstvom za hitro ugotavljanje prisotnosti alkohola v izdihanem zraku (v nadaljnjem besedilu: indikator alkohola v izdihanem zraku) ugotovi, da ima oseba, ki upravlja čoln, v organizmu več alkohola, kot dovoljuje ta zakon, izpolni zapisnik o preizkusu, ki ga podpiše tudi preizkušena oseba. Če ta oporeka rezultatu preizkusa z indikatorjem alkohola v izdihanem zraku, iz katerega je razvidno, da ima v organizmu več alkohola, kot dovoljuje ta zakon, ji pristaniški nadzornik odredi strokovni pregled. Če oseba, ki upravlja čoln, odkloni strokovni pregled, se vzrok odklonitve vpiše v zapisnik, poleg tega se šteje, da se strinja z rezultatom preizkusa z indikatorjem alkohola v izdihanem zraku.
+
+Oseba, ki ji je bil odrejen preizkus s sredstvi ali napravami za ugotavljanje alkohola, mora ravnati po odredbi pristaniškega nadzornika. Če preizkus odkloni, pristaniški nadzornik prepove nadaljnje upravljanje čolna in začasno odvzame listino o usposobljenosti za upravljanje čolna. Če zaradi zdravstvenega stanja ali zaradi drugega s tem povezanega objektivnega vzroka oseba, ki upravlja čoln, ne more opraviti preizkusa, ji pristaniški nadzornik odredi strokovni pregled. Če zdravnik, ki opravi strokovni pregled, ugotovi, da je oseba, ki upravlja čoln, pod vplivom alkohola, ji pristaniški nadzornik prepove nadaljnjo plovbo in začasno odvzame listino o usposobljenosti za upravljanje čolna. Pristaniški nadzornik odredi strokovni pregled tudi v primeru, če oseba ne opravi odrejenega preizkusa po navodilih proizvajalca.
+
+Za odklonitev preizkusa ali strokovnega pregleda se poleg neposredne odklonitve šteje tudi ravnanje osebe, ki upravlja čoln, s katerim ovira ali onemogoči izvedbo preizkusa oziroma strokovnega pregleda ali poškoduje oziroma uniči vzorec za analizo.
+
+Pristaniški nadzornik izpolni zapisnik o preizkusu alkoholiziranosti tudi v primeru, če oseba, ki upravlja čoln, odkloni neposredno odrejeni preizkus z indikatorjem alkohola v izdihanem zraku ali strokovni pregled.
+
+Osebi, ki upravlja čoln, ki kaže znake motenj v vedenju, katerih posledica je lahko nezanesljivo ravnanje v pomorskem prometu, rezultat preizkusa s sredstvi ali napravami za ugotavljanje alkohola pa kaže na prisotnost alkohola v dovoljenih mejah, odredi pristaniški nadzornik strokovni pregled. Za strokovni pregled se uporablja predpis, ki ureja pravila cestnega prometa.

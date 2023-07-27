@@ -1,0 +1,11 @@
+# 57.b člen
+
+Za zagotavljanje stalnega nadzora iz prvega odstavka 57. člena tega zakona, iskanja in reševanja ter spremljanja in upravljanja pomorskega prometa lahko Uprava Republike Slovenije za pomorstvo izvaja videonadzor dela morja, kjer je to potrebno za zagotavljanje varnosti plovbe, snema komunikacijo z udeleženci pomorskega prometa ter ugotavlja položaj in hitrost plovbe plovil ter druge podatke o poteku pomorskega prometa z videonadzornimi, radijskimi in radarskimi napravami, ki se uporabljajo v pomorskem prometu.
+
+Videonadzor za zagotavljanje stalnega nadzora se izvaja na način, da pri tem ni možna obdelava osebnih podatkov. Kadar je to nujno potrebno za iskanje in reševanje ali zagotavljanje varnosti plovbe, se videonadzor izvaja na način, pri katerem je možna določitev posameznika ali snemanje obale, vendar največ toliko časa, kolikor je to nujno potrebno za opravljanje te naloge.
+
+Osebni podatki iz prvega odstavka tega člena so: video posnetek plovila oziroma plavajoče naprave, udeleženca pomorskega prometa, kraj, datum in čas posnetka, posnetek komunikacije, podatek o komunikacijskem kanalu posnetka in čas posnetka ter identifikacijska označba plovila, položaj in čas plovila v določenem časovnem obdobju, če se nanašajo na določljivega posameznika. Osebni podatki se hranijo največ 30 dni od njihove pridobitve, razen če so ti podatki potrebni v postopku preiskovanja pomorske nesreče, kazenskem postopku ali postopku o prekršku, nato se podatki samodejno brišejo. Pri pregledovanju in izvozu videoposnetkov je treba vse osebne podatke anonimizirati, razen če obstaja zakonska podlaga za obdelavo teh osebnih podatkov.
+
+Prepovedana je uporaba osebnih podatkov za druge namene, razen če tako določa zakon. Videonadzorni sistem ne omogoča sprotnega ali naknadnega sledenja plovilom, razen za namene iz prvega odstavka tega člena.
+
+Dostopi do osebnih podatkov morajo biti urejeni z nivojem uporabniških pravic na podlagi gesel, za vsak vpogled pa je treba navesti podlago in razlog. Zagotovljena mora biti revizijska sled v skladu s predpisi, ki urejajo varstvo osebnih podatkov. Podrobni sistem dodeljevanja pravic, uporabniških imen in gesel določi Uprava Republike Slovenije za pomorstvo z internim aktom.

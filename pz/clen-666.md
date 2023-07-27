@@ -1,0 +1,9 @@
+# 666. člen
+
+Pomorski agent ima pravico do povračila stroškov in do nagrade za posredovanje oziroma sklenitev pogodb.
+
+Pomorski agent ima pravico zahtevati predujem za kritje stroškov.
+
+Pomorski agent ima lahko za ladjarja, za katerega opravlja pomorske agencijske posle, poseben transakcijski račun za plačevanje stroškov ladjarja in sprejemanje plačil za storitve ladjarja. Če te posle opravlja za več ladjarjev hkrati, ima lahko za vsakega od njih poseben transakcijski račun. Če nima za vsakega ladjarja posebnega transakcijskega računa, mora za vsakega ladjarja ločeno voditi knjigovodsko evidenco. Na denarna sredstva s posebnega transakcijskega računa je dovoljena izvršba samo za plačilo obveznosti iz pravnih poslov, sklenjenih za račun ladjarja. Če je transakcijski račun skupen, je mogoče voditi izvršbo le do višine sredstev, ki pripadajo ladjarju, zoper katerega teče izvršba, kar je razvidno iz knjigovodske evidence.
+
+V primeru stečaja oziroma smrti pomorskega agenta denarna sredstva na posebnem transakcijskem računu iz prejšnjega odstavka ne spadajo v stečajno maso oziroma zapuščino pomorskega agenta.
