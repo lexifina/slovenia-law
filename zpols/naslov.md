@@ -1,0 +1,3 @@
+ZAKON
+
+o političnih strankah

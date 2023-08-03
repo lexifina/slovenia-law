@@ -1,0 +1,15 @@
+# 24.b člen
+
+Revizije pravilnosti poslovanja strank opravlja računsko sodišče. Računsko sodišče v obdobju štirih let, ki sledijo letu, v katerem so bile izvedene volitve poslank in poslancev v državni zbor in članic in članov v predstavniških in individualno voljenih organih lokalnih skupnosti, opravi revizijo pri vseh strankah, ki so letno prejele ali bile upravičene do prejema sredstev iz državnega proračuna ali proračuna lokalne skupnosti, pri čemer je dolžno opraviti revizijo, če je stranka prejela sredstva v višini najmanj 100.000 eurov, revizijo poslovanja ostalih strank pa lahko opravi, če je izvedbo revizije predlagal organ, pristojen za preprečevanje korupcije, če so bile pri poslovanju ugotovljene nepravilnosti ali če računsko sodišče na podlagi lastnih zaznav oceni tveganja za morebitne nepravilnosti. Pri opravljanju revizij pravilnosti poslovanja političnih strank računsko sodišče ravna skladno s pooblastili in po postopku, ki ga določata ta zakon in zakon, ki ureja pristojnosti računskega sodišča.
+
+Stranka, pri kateri se opravlja revizija, državni organi, organi lokalnih skupnosti, AJPES, izvajalci plačilnega prometa, pri katerih imajo stranke odprte transakcijske račune ali pri katerih so odprti transakcijski računi, iz katerih so bili dani prispevki za stranko ali plačana članarina stranki, izvajalci storitev in prodajalci blaga, ki so opravili storitve oziroma dobavili blago stranki, so dolžni računskemu sodišču na zahtevo brezplačno predložiti listine, potrebne za izvedbo revizije, dati pojasnila ter omogočiti vpogled v svoje poslovne knjige in evidence. V primeru, da računsko sodišče ugotovi obstoj tveganj, da v letnem poročilu stranke niso prikazani oziroma niso pravilno prikazani vsi podatki, lahko zahteva pojasnila, podatke ali listine, ki so potrebne za izvedbo revizije, tudi od drugih oseb.
+
+Računsko sodišče za potrebe izvedbe revizije zbira osebne podatke, ki omogočajo identifikacijo (osebno ime, EMŠO ali davčna številka, državljanstvo in naslov fizične osebe ali posameznika, ki samostojno opravlja dejavnost), neposredno od oseb iz prejšnjega odstavka, iz registra transakcijskih računov, ki ga upravlja AJPES, iz davčnega registra, ki ga vodi in upravlja Davčna uprava Republike Slovenije, in iz zbirk osebnih podatkov ministrstva, pristojnega za notranje zadeve.
+
+Ko je revizijsko poročilo računskega sodišča dokončno, se objavi na spletnih straneh računskega sodišča.
+
+Računsko sodišče dokončno revizijsko poročilo pošlje državnemu zboru.
+
+Če računsko sodišče v revizijskem poročilu ugotovi, da je stranka pridobila prispevke fizične osebe v nasprotju s tem zakonom in jih ni nakazala v humanitarne namene ali invalidskim organizacijam v skladu z desetim odstavkom 22. člena tega zakona, stranki hkrati določi dodatni 30 dnevni rok, da to stori.
+
+Če računsko sodišče v revizijskem poročilu ugotovi, da je stranka pridobila sredstva iz državnega proračuna ali proračunov lokalnih skupnosti v nasprotju z določbami tega zakona, stranki določi, da jih v 30 dneh nakaže v državni proračun ali proračun lokalnih skupnosti.
