@@ -1,3 +1,0 @@
-# 85. člen (organizacijska in statusna vprašanja)
-(1) Za organizacijska in statusna vprašanja, poslovanje, pooblastila v pravnem prometu, premoženje ZZZS in druga vprašanja, ki jih ne ureja ta zakon drugače, se za izvajanje obveznega zavarovanja za DO uporabljajo določbe predpisov, ki urejajo obvezno zdravstveno zavarovanje, in zakona, ki ureja javne finance.
-(2) Organe ZZZS, njihovo sestavo, postopek imenovanja, naloge in pristojnosti ter način delovanja za izvajanje obveznega zavarovanja za DO določajo predpisi in splošni akti ZZZS, ki urejajo obvezno zdravstveno zavarovanje, in splošni akti ZZZS, ki urejajo organizacijo ZZZS, razen v delu, ki ga ureja ta zakon.

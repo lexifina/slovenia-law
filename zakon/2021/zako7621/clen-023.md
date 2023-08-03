@@ -1,7 +1,0 @@
-# 23. člen (delno plačilo za izgubljeni dohodek)
-(1) Oskrbovalec družinskega člana ima pravico do delnega plačila za izgubljeni dohodek v višini 1,2 kratnika minimalne plače v Republiki Sloveniji, ki mu ga izplačuje ZZZS.
-(2) Oskrbovalcu družinskega člana pripada pravica iz prejšnjega odstavka od dneva izvršljivosti odločbe, s katero je odločeno o pravici do oskrbovalca družinskega člana. Če je izbrani oskrbovalec družinskega člana zapustil trg dela ali se je odjavil iz evidence brezposelnih oseb ali evidence iskalcev zaposlitve pozneje, mu pravica iz prejšnjega odstavka pripada prvi naslednji dan po dnevu, ko je zapustil trg dela oziroma se je odjavil iz evidence brezposelnih oseb ali evidence iskalcev zaposlitve.
-(3) Oskrbovalec družinskega člana ima pravico do polovičnega plačila za izgubljeni dohodek iz prvega odstavka tega člena v primeru dela s polovičnim delovnim časom.
-(4) Če oskrbovalec družinskega člana sočasno zagotavlja DO več kot enemu upravičencu, se mu pravica iz prvega odstavka tega člena zviša za 50 odstotkov.
-(5) Oskrbovalcu družinskega člana pravica do delnega plačila za izgubljeni dohodek iz tega člena miruje, če se upravičenec zdravi v bolnišnici oziroma v drugi obliki institucionalne oskrbe, ki jo krije zdravstveno zavarovanje v trajanju več kot 60 zaporednih dni. Mirovanje nastopi 61. dan.
-(6) Oskrbovalec družinskega člana ima v času nadomestne oskrbe upravičenca pravico do plačila za izgubljeni dohodek v nespremenjeni višini.
