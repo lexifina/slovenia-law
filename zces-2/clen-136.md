@@ -1,0 +1,3 @@
+# 136. člen (inšpekcijski nadzor predora)
+
+Inšpekcijski nadzor predora iz 90. člena tega zakona pristojni inšpektor za ceste opravi najmanj vsakih pet let. O ugotovitvah tega pregleda in izrečenih ukrepih obvesti ministrstvo, pristojno za promet, policijo, upravljavca predora in uradnika za varnost. Če ministrstvo, pristojno za promet, ugotovi, da predor ne izpolnjuje minimalnih varnostnih zahtev, ki jih določa ta zakon in predpis iz 91. člena tega zakona, določi pogoje za nadaljnje obratovanje predora ali odloči o prepovedi oziroma omejitvi prometa v predoru. Če so za sanacijo predora potrebne pomembne spremembe konstrukcije, opreme oziroma obratovanja predora, se po izvedbi teh sprememb izda novo dovoljenje za obratovanje predora.

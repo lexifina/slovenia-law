@@ -1,0 +1,39 @@
+# 43. člen (strokovno usposabljanje spremljevalca izrednih prevozov in vodenje evidenc)
+
+(1) Spremljevalec izrednih prevozov se za izvajanje spremstva izrednih prevozov usposobi po predpisanem programu strokovnega usposabljanja. Strokovno usposabljanje spremljevalcev izrednih prevozov je sestavljeno iz osnovnega in obnovitvenega strokovnega usposabljanja.
+
+(2) Na osnovno strokovno usposabljanje se lahko prijavi kandidat, ki:
+
+- ima vozniško dovoljenje najmanj kategorije B;
+
+- ni voznik začetnik;
+
+- ni pravnomočno obsojen na nepogojno kazen zapora za kazniva dejanja zoper varnost javnega prometa.
+
+(3) Prijava na strokovno usposabljanje vsebuje podatke o kandidatu (osebno ime, rojstni podatki, naslov stalnega ali začasnega prebivališča, podpis) in izjavo kandidata, da izpolnjuje pogoje iz prejšnjega odstavka.
+
+(4) Osnovno strokovno usposabljanje je sestavljeno iz teoretičnega in praktičnega usposabljanja, ki se zaključi s preizkusom znanja, ki obsega teoretični in praktični preizkus.
+
+(5) Kandidat, ki uspešno opravi preizkus znanja iz prejšnjega odstavka, prejme potrdilo o usposobljenosti za spremljevalca izrednih prevozov, ki ga najpozneje v desetih delovnih dneh po opravljenem preizkusu izda pooblaščena organizacija. Potrdilo o usposobljenosti za spremljevalca izrednih prevozov se izda z veljavnostjo petih let od datuma, ko je kandidat za spremljevalca izrednih prevozov opravil osnovno strokovno usposabljanje.
+
+(6) Spremljevalec izrednih prevozov, ki izpolnjuje pogoje iz drugega odstavka tega člena, se vsakih pet let po pridobitvi statusa spremljevalca izrednih prevozov udeleži obnovitvenega strokovnega usposabljanja. Na obnovitveno strokovno usposabljanje se lahko prijavi največ 18 mesecev pred potekom veljavnosti potrdila o usposobljenosti za spremljevalca izrednih prevozov. Po zaključenem obnovitvenem strokovnem usposabljanju opravi teoretični preizkus znanja. Podatek o uspešno opravljenem preizkusu znanja po zaključenem obnovitvenem strokovnem usposabljanju se zaznamuje v evidenci o izdanih potrdilih iz enajstega odstavka tega člena. Pooblaščena organizacija izda novo potrdilo o usposobljenosti za spremljevalca izrednih prevozov z veljavnostjo petih let, z začetkom veljavnosti od datuma poteka veljavnosti predhodnega potrdila.
+
+(7) Če se spremljevalec izrednih prevozov obnovitvenega strokovnega usposabljanja ne udeleži ali preizkusa znanja po zaključenem obnovitvenem strokovnem usposabljanju ne opravi uspešno do poteka veljavnosti njegovega potrdila o usposobljenosti za spremljevalca izrednih prevozov, izgubi status spremljevalca izrednih prevozov z dnem poteka veljavnosti potrdila o usposobljenosti za spremljevalca izrednih prevozov.
+
+(8) Spremljevalec izrednih prevozov ima pri spremljanju izrednega prevoza pri sebi potrdilo o usposobljenosti za spremljevalca izrednega prevoza in ga na zahtevo policista ali občinskega redarja izroči na vpogled.
+
+(9) Preizkus znanja iz tega člena se opravlja pred komisijo, ki jo imenuje minister, pristojen za promet. Komisijo sestavljajo predsednik, trije namestniki in najmanj pet članov. Med imenovanimi člani komisije so najmanj štirje predstavniki ministrstva, pristojnega za promet, ki izkažejo delovne izkušnje s področja predpisov o cestah oziroma cestnega prometa za najmanj zadnja tri leta, in en predstavnik policije. Stroške dela komisije določi minister, pristojen za promet.
+
+(10) Stroške osnovnega in obnovitvenega strokovnega usposabljanja, preizkusa znanja in izdaje potrdila o usposobljenosti za spremljevalca izrednih prevozov plača kandidat. Višino stroškov določi pooblaščena organizacija.
+
+(11) Evidenco o izdanih potrdilih za namen spremljanja usposobljenosti spremljevalcev izrednih prevozov in izvajanja učinkovitega nadzora nad spremljevalci izrednih prevozov vzpostavi in vodi ministrstvo, pristojno za promet, ki omogoči brezplačen dostop do evidence policiji in občinskemu redarstvu.
+
+(12) Evidenca iz prejšnjega odstavka vsebuje evidenčno številko potrdila o usposobljenosti za spremljevalca izrednih prevozov, osebno ime in rojstne podatke spremljevalca izrednih prevozov ter datum veljavnosti potrdila. Podatke iz prejšnjega stavka vnašajo v evidenco pooblaščene organizacije.
+
+(13) Podatki iz prejšnjega odstavka se v evidenci o izdanih potrdilih hranijo najdlje 30 dni od dneva poteka veljavnosti potrdila o usposobljenosti posameznega spremljevalca izrednih prevozov. Po poteku roka iz prejšnjega stavka se podatki iz evidence izbrišejo.
+
+(14) Minister, pristojen za promet, podrobneje predpiše program strokovnega usposabljanja, način in postopek opravljanja preizkusa znanja, obliko in vsebino potrdila o usposobljenosti za spremljevalca izrednih prevozov ter način pridobitve novega potrdila o usposobljenosti za spremljevalca izrednih prevozov v primeru izgube, kraje ali uničenja.
+
+(15) Z globo 600 eurov se kaznuje za prekršek spremljevalec izrednih prevozov, ki za spremljanje izrednih prevozov ni usposobljen po predpisanem programu.
+
+(16) Z globo 40 eurov se kaznuje za prekršek spremljevalec izrednih prevozov, ki ravna v nasprotju z osmim odstavkom tega člena.
