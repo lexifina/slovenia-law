@@ -1,0 +1,9 @@
+# 30. člen
+
+(1) Če registrsko sodišče ugotovi, da niso izpolnjene procesne predpostavke za odločanje o predlogu za vpis v sodni register, in gre za pomanjkljivost, ki jo je mogoče odpraviti, da predlagatelju rok za odpravo pomanjkljivosti, ki ne sme biti daljši od 15 dni. Če predlagatelj v določenem roku predloga ne popravi, sodišče predlog zavrže.
+
+(2) Če registrsko sodišče ugotovi, da je predlagana firma oziroma ime subjekta vpisa v nasprotju z zakonom, pozove predlagatelja, naj v roku iz prejšnjega odstavka spremeni firmo oziroma ime ter vloži spremenjen predlog z ustreznimi listinami. Če predlagatelj ne ravna po odredbi sodišča, sodišče zavrne predlog za vpis v sodni register.
+
+(3) Če registrsko sodišče v zvezi s posameznim predlogom iz 2. točke drugega odstavka 27.a člena tega zakona ugotovi, da obstajajo razlogi za sum ponaredbe ali zlorabe identitete ali da se z ustanovitvijo družbe kršijo predpisi o preprečevanju pranja denarja in financiranju terorizma ali pa je to potrebno zaradi ugotovitve ali razjasnitev okoliščin glede poslovne sposobnosti ali pooblastil za zastopanje, predlagatelja pozove, naj se zaradi razjasnitve navedenih okoliščin, odprave pomanjkljivosti in dopolnitve predloga za vpis osebno zglasi pri katerem od notarjev. Notar na stroške predlagatelja izdela notarsko potrdilo, v katerem odpravi pomanjkljivosti oziroma razjasni okoliščine, dopolni predlog in ga posreduje sodišču. Če predlagatelj ne ravna po odredbi sodišča in sodišče v roku iz prvega odstavka tega člena ne prejme dopolnitve predloga, sodišče predlog za vpis v sodni register zavrne.
+
+(4) Če registrsko sodišče v zvezi z elektronskim prepisom izvirnika pisne listine iz šestega odstavka 28.a člena tega zakona ugotovi, da obstojijo razlogi za sum poneverbe, predlagatelja pozove, naj sodišču v roku iz prvega odstavka tega člena predloži izvirnik listine. Če predlagatelj ne ravna po odredbi sodišča, sodišče predlog za vpis v sodni register zavrne.
