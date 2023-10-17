@@ -1,0 +1,5 @@
+# 15.b člen (izjema glede znanja madžarskega jezika kot učnega jezika)
+
+Dvojezični vrtec ali šola lahko za določen čas največ treh let sklene pogodbo o zaposlitvi tudi s kandidatom, ki ne izpolnjuje pogoja znanja madžarskega jezika kot učnega jezika v skladu s prejšnjim členom, če nihče od prijavljenih kandidatov ne izpolnjuje tega pogoja in je taka zaposlitev nujna za nemoteno izvajanje vzgojno-izobraževalnega dela. Če se po preteku tega obdobja okoliščine iz prejšnjega stavka ne spremenijo, mora vrtec oziroma šola za sklenitev nove pogodbe o zaposlitvi pridobiti soglasje ministra, pristojnega za šolstvo.
+
+Šteje se, da je zaposlitev za nemoteno izvajanje vzgojno-izobraževalnega dela nujna, če sicer z organizacijo dela v skladu z normativi in standardi ni mogoče izvesti vzgojno-izobraževalnega programa ali dela programa, o čemer vrtec oziroma šola obvesti ministrstvo, pristojno za šolstvo.
