@@ -1,0 +1,15 @@
+# 5.a člen
+
+Za namene opravljanja notarskih storitev mora notar sam pridobiti podatke oziroma dokazila o podatkih iz uradnih evidenc, registrov in javnih knjig, ki jih vodijo državni organi, organi samoupravnih lokalnih skupnosti ali nosilci javnih pooblastil, in teh podatkov oziroma dokazil ne sme zahtevati od strank. Organi in nosilci javnih pooblastil morajo zahtevane podatke notarjem posredovati brezplačno, razen podatkov, ki jih organi samoupravnih lokalnih skupnosti posredujejo v skladu z zakonom, ki ureja urejanje prostora.
+
+Za namene opravljanja notarskih storitev ima notar pravico do elektronskega dostopa do podatkov oziroma dokazil o podatkih iz uradnih evidenc, registrov in javnih knjig, ki jih vodijo državni organi, če uradne evidence, registri oziroma javne knjige omogočajo tak dostop.
+
+Upravljavci uradnih evidenc, registrov in javnih knjig morajo notarju zahtevane podatke posredovati oziroma elektronski dostop omogočiti brez nepotrebnega odlašanja, vendar najpozneje v osmih dneh od prejema popolne zahteve, razen če obstajajo upravičeni razlogi za podaljšanje tega roka.
+
+Notar do podatkov in dokazil o podatkih iz zbirk iz drugega odstavka tega člena dostopa z navedbo osebnega imena in enotne matične številke občana (v nadaljnjem besedilu: EMŠO) osebe, katere podatke pridobiva, če ta oseba nima EMŠO oziroma ta ni znana, pa z navedbo osebnega imena ter datuma rojstva, davčne številke, serijske številke javne listine ali drugega povezovalnega znaka, ki ga omogoča uradna evidenca, register ali javna knjiga. Za pravne osebe, podružnice tujih in domačih podjetij ter samostojnih podjetnikov posameznikov in vseh drugih fizičnih oseb, ki opravljajo dejavnost, se do podatkov dostopa z navedbo davčne ali matične številke oziroma firme. V zahtevi za dostop mora notar navesti, katere podatke zahteva, pravno podlago za pridobitev podatkov, razloge in namen, za katerega se zahtevajo podatki. Notar lahko pri tem zahteva dostop le do tistih podatkov, ki so potrebni za opravljanje posamične notarske storitve za določeno stranko ali za določene stranke, vključene v to storitev.
+
+Za pridobitev osebnih podatkov in podatkov, ki predstavljajo davčno tajnost, mora notar pridobiti pisno privolitev stranke, na katero se podatki nanašajo. Notar mora na možnost, da podatke pridobi sam, stranko posebej opozoriti in ji ponuditi v podpis privolitev iz tega odstavka. Pisno privolitev mora notar hraniti, dokler se hrani notarska listina oziroma druga dokumentacija o notarski storitvi.
+
+Notar lahko na podlagi tega člena pridobljene podatke uporablja samo za opravljanje posamične notarske storitve za določeno stranko ali za določene stranke, vključene v to storitev. Po pridobitvi podatkov se tisti podatki, ki so z zakonom predpisani kot vsebina notarske listine, vključijo v notarsko listino, preostali podatki pa se po opravi posamične notarske storitve izbrišejo oziroma uničijo.
+
+Za namene elektronskega dostopa do podatkov oziroma dokazil o podatkih iz uradnih evidenc, registrov in javnih knjig, ki jih vodijo državni organi, Notarska zbornica Slovenije sklene dogovore o tehničnih podrobnostih z upravljavci zbirk teh podatkov.
