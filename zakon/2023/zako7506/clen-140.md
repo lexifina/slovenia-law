@@ -1,0 +1,5 @@
+# 140. člen (začetek uporabe posameznih določb)
+(1) Spremenjena in dopolnjena 5. točka drugega odstavka 108. člena, spremenjena 2. točka drugega odstavka 229. člena ter novi 221.aa, 221.ab, 221.ac in 221.ad člen zakona se začnejo uporabljati 1. januarja 2025.
+(2) Novi tretji odstavek 121. člena, spremenjeni in dopolnjeni 326. člen, novi 326.a člen, spremenjeni in dopolnjeni 329., 331. in 332. člen se začnejo uporabljati, ko so zagotovljeni tehnični pogoji za njihovo izvajanje.
+(3) Minister, pristojen za pravosodje, ob tehnični izpolnitvi pogojev izda sklep, v katerem določi datum, od katerega se uporabljajo določbe iz drugega odstavka tega člena. Sklep se objavi v Uradnem listu Republike Slovenije.
+(4) Do začetka uporabe določb iz prvega in drugega odstavka tega člena se uporabljajo določbe Zakona o finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju (Uradni list RS, št. 176/21 - uradno prečiščeno besedilo, 178/21 - popr., 196/21 - odl. US, 157/22 - odl. US in 35/23 - odl. US).

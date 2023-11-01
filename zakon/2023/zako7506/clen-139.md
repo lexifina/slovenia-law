@@ -1,0 +1,2 @@
+# 139. člen (uskladitev podzakonskega predpisa)
+Minister, pristojen za pravosodje, uskladi Pravilnik o tarifi za odmero nagrade upravitelja v postopkih zaradi insolventnosti in prisilne likvidacije ter stroških, do povrnitve katerih je upravitelj v teh postopkih upravičen (Uradni list RS, št. 91/08, 119/08, 53/09, 92/14, 66/22 in 103/22) z določbami tega zakona v šestih mesecih po njegovi uveljavitvi.

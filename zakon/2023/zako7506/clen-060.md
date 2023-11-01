@@ -1,0 +1,3 @@
+# 60. člen
+V 177. členu se za petim odstavkom doda nov šesti odstavek, ki se glasi:
+"(6) Če je za presojo razlogov za ugovor proti vodenju postopka prisilne poravnave iz 172. člena tega zakona potreben dokaz z izvedencem, sodišče imenuje izvedenca ustrezne stroke, razen za presojo ugovornih razlogov iz 3. in 4. točke 172. člena tega zakona, glede katerih mora sodišče imenovati pooblaščenega ocenjevalca vrednosti podjetja iz prvega odstavka 25. člena tega zakona. Če ugovor vloži upravitelj, sodišče pozove upnike, da v določenem roku založijo predujem za izvedenca. Če predujem ni založen, sodišče ugovor zavrne.".

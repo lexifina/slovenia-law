@@ -1,0 +1,2 @@
+# 8. člen
+V 15. členu se napovedni stavek spremeni tako, da se glasi: "Finančno prestrukturiranje je celota finančnih in poslovnih ukrepov, ki se izvedejo, da bi dolžnik odpravil grozečo insolventnost ali postal kratkoročno in dolgoročno plačilno sposoben (v nadaljnjem besedilu: finančno prestrukturiranje), in lahko vključujejo:", v 3. točki pa se za besedo "vzrokov" doda besedilo "dolžnikove grozeče insolventnosti ali".

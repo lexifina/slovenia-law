@@ -1,0 +1,7 @@
+# 78. člen
+V 233. členu se v sedmem odstavku beseda "proračuna" nadomesti z besedo "podračuna".
+V osmem odstavku se beseda "proračuna" nadomesti z besedo "podračuna".
+Za osmim odstavkom se dodajo novi deveti, deseti in enajsti odstavek, ki se glasijo:
+"(9) Če v primeru iz drugega in sedmega odstavka tega člena vrednost unovčene stečajne mase ne zadošča za vrnitev založenega zneska predujma ali plačil iz sedmega odstavka tega člena, morajo te stroške plačati osebe, ki so bile člani poslovodstva v zadnjih dveh letih pred začetkom stečajnega postopka. Posamezni član poslovodstva se odgovornosti iz prejšnjega stavka lahko razbremeni, če izkaže, da na nastanek teh okoliščin ni mogel vplivati.
+(10) Sodišče naloži plačilo stroškov osebam iz devetega odstavka tega člena s sklepom, ki se tem osebam vroči. Zoper sklep lahko vsak član poslovodstva v osmih dneh vloži ugovor.
+(11) Sklep, s katerim sodišče naloži plačilo osebam iz devetega odstavka tega člena, je izvršilni naslov, na podlagi katerega upravitelj izterja povračilo v korist stečajne mase. Če le zaradi izterjave navedenega povračila stečajni upravitelj ne more zaključiti postopka, sme terjatev prenesti na osebo, ki je v skladu z drugim odstavkom tega člena predujem založila ali v skladu s sedmim odstavkom tega člena opravila plačila, če ta v ta prenos privoli, v nasprotnem primeru pa terjatev preneha. Oseba iz prejšnjega stavka mora upravitelju sporočiti privolitev v prenos terjatve v enem mesecu po prejemu upraviteljevega poziva k privolitvi, sicer se šteje, da je prenos odklonila.".
