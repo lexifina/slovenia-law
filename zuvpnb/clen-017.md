@@ -1,0 +1,9 @@
+# 17. člen (tuji storilci prekrškov)
+
+(1) Storilcu prekrška iz 2. člena tega zakona, ki je tujec in v Republiki Sloveniji nima naslova za vročanje, se informativni izračun brez navedbe plačilnega računa pošlje s priporočeno poštno pošiljko s povratnico na naslov iz odločbe o prekršku, razen če iz podatkov izhaja, da je treba informativni izračun vročiti na drug naslov. Informativnemu izračunu se priloži pojasnilo o vsebini pošiljke v jeziku države, katere državljan je.
+
+(2) Storilec prekrška iz prejšnjega odstavka v 30 dneh od vročitve informativnega izračuna pristojnemu prekrškovnemu organu pošlje številko svojega plačilnega računa in naziv banke, pri kateri je ta odprt, ali druge svoje podatke, ki omogočajo nakazilo v skladu s tem zakonom, ali vloži ugovor. Če vloži ugovor, lahko številko svojega plačilnega računa in naziv banke, pri kateri je ta odprt, ali druge svoje podatke, ki omogočajo nakazilo v skladu s tem zakonom, navaja v ugovoru.
+
+(3) Če storilec prekrška iz prvega odstavka tega člena v roku iz prejšnjega odstavka ne pošlje številke svojega plačilnega računa in naziva banke, pri kateri je ta odprt, oziroma drugih svojih podatkov, ki omogočajo nakazilo po tem zakonu, se šteje, da se je odpovedal izplačilu v skladu s tem zakonom.
+
+(4) Prejšnji odstavek se uporablja tudi, če storilec prekrška iz prvega odstavka tega člena vloži samo ugovor, pa v njem ne navede številke svojega plačilnega računa in naziva banke, pri kateri je ta odprt, oziroma drugih svojih podatkov, ki omogočajo nakazilo po tem zakonu. V tem primeru pristojni prekrškovni organ ugovor zavrže, če v roku iz drugega odstavka tega člena storilec prekrška iz 2. člena tega zakona ne pošlje tudi številke svojega plačilnega računa in naziva banke, pri kateri je ta odprt, ali drugih svojih podatkov, ki omogočajo nakazilo.
