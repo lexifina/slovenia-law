@@ -1,0 +1,3 @@
+# 75.a člen (rebalans zaradi naravnih nesreč)
+
+V letu 2023 se za namen odprave posledic naravnih nesreč, povzročenih od 1. januarja 2023, pripravi rebalans državnega proračuna, s katerim se omogoči financiranje stroškov intervencij, interventnih ukrepov in odprave posledic teh nesreč, zgolj na način, da ta izkazuje nov podprogram 230403 – Sredstva za pomoč ob naravnih nesrečah v bilanci Prihodkov in odhodkov, na katerem se bodo zagotovile dodatne pravice porabe, v bilanci Računa finančnih terjatev in naložb pa se iz podprograma 140603 – Upravljanje s finančnim premoženjem prenesejo pravice porabe na podprogram 230403 – Sredstva za pomoč ob naravnih nesrečah.
