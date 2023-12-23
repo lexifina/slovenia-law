@@ -1,0 +1,3 @@
+# 14. člen (zmanjšanje povrhnjega davka pri pravilu o vključitvi dohodkov)
+
+Če ima matični subjekt, ki se nahaja v Sloveniji, lastniški delež v nizko obdavčenem subjektu v sestavi posredno prek vmesnega matičnega subjekta ali matičnega subjekta v delni lasti, za katerega velja kvalificirano pravilo o vključitvi dohodkov za določeno poslovno leto, se povrhnji davek, ki ga je treba plačati na podlagi 9. do 12. člena tega zakona, zmanjša za znesek, ki je enak delu dodeljivega deleža prvega navedenega matičnega subjekta pri povrhnjem davku, ki ga mora plačati vmesni matični subjekt ali matični subjekt v delni lasti.

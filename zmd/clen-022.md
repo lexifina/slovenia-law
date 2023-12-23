@@ -1,0 +1,3 @@
+# 22. člen (obravnava dohodkov dodatnega temeljnega kapitala za banke)
+
+Znesek v zvezi z instrumentom dodatnega temeljnega kapitala, ki ga subjekt v sestavi pripozna kot povečanje ali zmanjšanje lastniškega kapitala, se upošteva tako, da se obravnava kot odhodek ali se vključi v izračun pri izračunu njegovega kvalificiranega dohodka ali izgube. Instrument dodatnega temeljnega kapitala (AT1) je instrument, ki ga izda subjekt v skladu z bančnimi regulatornimi zahtevami in se lahko pretvori v lastniški kapital ali odpiše, če pride do vnaprej določenega dogodka, ter ima druge lastnosti, da se olajša pokrivanje izgub v primeru finančne krize.

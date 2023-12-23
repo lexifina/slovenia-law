@@ -1,0 +1,7 @@
+## 4. Ravnanje pri odlogu pravil v državi članici EU, ki ni Slovenija
+
+# 18. člen (uporaba pravila o prenizko obdavčenih dobičkih)
+
+(1) Če se krovni matični subjekt mednarodne skupine podjetij nahaja v državi članici EU, ki ni Slovenija, ki je izbrala opcijo odloga uporabe pravil in je o tem obvestila Evropsko komisijo, so subjekti v sestavi te mednarodne skupine podjetij v Sloveniji zavezani za znesek povrhnjega davka na podlagi pravila o prenizko obdavčenih dobičkih, ki je bil v skladu s 16. členom tega zakona dodeljen Sloveniji.
+
+(2) Pri tem mora krovni matični subjekt iz prejšnjega odstavka imenovati imenovan vložniški subjekt v državi članici, ki ni država članica, v kateri se nahaja krovni matični subjekt, ali če mednarodna skupina podjetij nima subjekta v sestavi v drugi državi članici, v jurisdikciji tretje države, ki ima za poslovno leto poročanja z državo članico, v kateri se nahaja krovni matični subjekt, sklenjen veljaven kvalificirani sporazum med pristojnimi organi. V tem primeru imenovani vložniški subjekt vloži informativni obrazec za obračun povrhnjega davka v skladu z zahtevami o vložitvi iz tega zakona, medtem ko subjekti v sestavi, ki se nahajajo v državi članici, ki je izkoristila opcijo odloga iz prvega odstavka tega člena, imenovanemu vložniškemu subjektu predložijo informacije, potrebne za skladnost s tem zakonom, in so izvzeti iz zahteve po vložitvi iz prvega odstavka 65. člena tega zakona.

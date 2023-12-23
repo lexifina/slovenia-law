@@ -1,0 +1,3 @@
+# 28. člen (dodatno povečanje davka v primeru neobstoja neto kvalificiranega dohodka)
+
+Če za poslovno leto v jurisdikciji ne obstaja neto kvalificirani dohodek in je znesek prilagojenih zajetih davkov za to jurisdikcijo negativen in manjši od zneska, ki je enak neto kvalificirani izgubi, pomnoženi z minimalno davčno stopnjo (v nadaljnjem besedilu: pričakovani prilagojeni zajeti davki), se znesek, ki je enak razliki med zneskom prilagojenih zajetih davkov in zneskom pričakovanih prilagojenih zajetih davkov, obravnava kot dodatni povrhnji davek za to poslovno leto. Znesek dodatnega povrhnjega davka se dodeli vsakemu subjektu v sestavi v jurisdikciji v skladu s tretjim odstavkom 40. člena tega zakona.
