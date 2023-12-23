@@ -1,2 +1,0 @@
-# 1. člen (vsebina zakona)
-Ta zakon ureja kriterije, pogoje in postopek morebitnega statusnega preoblikovanja ter pravice ustanovitelja in zavarovancev Vzajemne zdravstvene zavarovalnice d.v.z., ki je bila ustanovljena z Zakonom o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 29/98; v nadaljnjem besedilu: ZZVZZ-C) (v nadaljnjem besedilu: Vzajemna) v primeru takšnega preoblikovanja.
