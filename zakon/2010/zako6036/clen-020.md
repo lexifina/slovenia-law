@@ -1,6 +1,6 @@
 # 20. člen (sklep o določitvi dopolnilnih pogojev)
 (1) Na podlagi mnenja iz drugega in tretjega odstavka prejšnjega člena ministrstvo izda sklep, s katerim vlagatelju določi:
-- do 12 mesečno prilagoditveno obdobje, ki ni podaljšljivo, oziroma
+- do osem mesečno prilagoditveno obdobje, ki se lahko na predlog mentorja podaljša za do štiri mesece, pri čemer skupno prilagoditveno obdobje ne sme presegati 12 mesecev, oziroma
 - opravljanje preizkusa strokovne usposobljenosti.
 (2) Kadar se vlagatelju določi prilagoditveno obdobje, se v sklepu navede:
 - seznam strokovnih področij,
