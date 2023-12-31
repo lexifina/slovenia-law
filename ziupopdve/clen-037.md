@@ -1,0 +1,3 @@
+# 37. člen
+
+Ne glede na 76. člen ZZUOOP delodajalec, ki prejema ali je prejemal sredstva iz naslova ukrepa delnega povračila nadomestila plače delavcem na začasnem čakanju na delo, sredstva vrne v celoti, če je pri oddaji vloge za uveljavitev pravice predložil lažno izjavo, da ima plačane vse zapadle obveznosti iz naslova obveznih dajatev in drugih denarnih nedavčnih obveznosti v skladu z zakonom, ki ureja finančno upravo, lažno izjavo, da ima izpolnjene obveznostih iz naslova predložitve vseh obračunov davčnih odtegljajev za dohodke iz delovnega razmerja za obdobje zadnjih petih let, ali lažno izjavo, da je zaposlenim na dan vložitve vloge poravnal nadomestila plače.

@@ -1,0 +1,5 @@
+# 119. člen (izvzetje prejemkov iz izvršbe in stečajne mase)
+
+(1) Vsi prejemki, izplačani dolžniku na podlagi zakonov, ki urejajo interventne ukrepe zaradi epidemije, razen prejemkov, ki predstavljajo nadomestilo plače ali plačilo za opravljene storitve, so izvzeti iz izvršbe po Zakonu o izvršbi in zavarovanju (Uradni list RS, št. 3/07 – uradno prečiščeno besedilo, 93/07, 37/08 – ZST-1, 45/08 – ZArbit, 28/09, 51/10, 26/11, 17/13 – odl. US, 45/14 – odl. US, 53/14, 58/14 – odl. US, 54/15, 76/15 – odl. US, 11/18, 53/19 – odl. US, 66/19 – ZDavP-2M in 23/20 – SPZ-B; v nadaljnjem besedilu: ZIZ) in iz davčne izvršbe po Zakonu o davčnem postopku (Uradni list RS, št. 13/11 – uradno prečiščeno besedilo, 32/12, 94/12, 101/13 – ZDavNepr, 111/13, 22/14 – odl. US, 25/14 – ZFU, 40/14 – ZIN-B, 90/14, 91/15, 63/16, 69/17, 13/18 – ZJF-H, 36/19, 66/19 in 145/20 – odl. US; v nadaljnjem besedilu: ZDavP-2).
+
+(2) Prejemki iz prejšnjega odstavka so izvzeti tudi iz stečajne mase v postopku osebnega stečaja po ZFPPIPP.

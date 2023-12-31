@@ -1,0 +1,3 @@
+# 3. člen
+
+V 39. členu se v drugem stavku za besedilom »v letu 2020« doda besedilo »do 31. maja 2021«, za njim pa se doda nov tretji stavek, ki se glasi: »Prvih 28,57 % primanjkljaja iz naslova upravičenih stroškov instrumentov podpore do ciljnih skupin končnih prejemnikov sredstev se krije v breme sredstev, ki jih zagotavlja Republika Slovenija, skladno s prvim stavkom tega člena, ves nadaljnji primanjkljaj iz naslova upravičenih stroškov instrumentov podpore do ciljnih skupin končnih prejemnikov sredstev pa bremeni SID banko. Izvajanje ukrepa finančnega inženiringa je urejeno z uredbo iz 106.l člena ZJF.«.

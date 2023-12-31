@@ -1,0 +1,3 @@
+# 36. člen
+
+Ne glede na tretji odstavek 74. člena ZZUOOP delodajalec vlogi za uveljavitev pravice do povračila izplačanih nadomestil plače delavcem na začasnem čakanju na delo priloži tudi izjavo, za katero kazensko in materialno odgovarja, da ima na dan vložitve vloge plačane vse zapadle obveznosti iz naslova obveznih dajatev in drugih denarnih nedavčnih obveznosti v skladu z zakonom, ki ureja finančno upravo, izjavo, da ima izpolnjene obveznostih iz naslova predložitve vseh obračunov davčnih odtegljajev za dohodke iz delovnega razmerja za obdobje zadnjih petih let, in izjavo, da je zaposlenim na dan vložitve vloge poravnal vsa nadomestila plače.

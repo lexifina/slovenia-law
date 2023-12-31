@@ -1,0 +1,9 @@
+# 130. člen (uporaba 9. člena)
+
+(1) Določba zadnjega stavka petega odstavka 109. člena ZIUOPDVE se uporablja za izjave, vložene do uveljavitve tega zakona, če je za upravičenca ugodnejša.
+
+(2) Vlagatelj, ki ugotavlja pogoj iz prejšnjega odstavka na podlagi spremenjenega petega odstavka 109. člena ZIUOPDVE glede povprečnega števila zaposlenih, in je do uveljavitve tega zakona že vložil izjavo na podlagi ZIUOPDVE, vloži dopolnitev izjave oziroma novo izjavo v 15 dneh od uveljavitve tega zakona. Razlika do polne vrednosti povračila se upravičencu izplača do 31. januarja 2021.
+
+(3) Vlagatelj, ki ugotavlja upad prihodkov na podlagi novega šestega odstavka 109. člena ZIUOPDVE in je do uveljavitve tega zakona že vložil izjavo na podlagi ZIUOPDVE, vloži dopolnitev izjave oziroma novo izjavo v 15 dneh od uveljavitve tega zakona. Razlika do polne vrednosti povračila se upravičencu izplača do 31. januarja 2021.
+
+(4) Za vlagatelje, ki so vložili vlogo na podlagi ZIUOPDVE,se določbi prve in druge alineje spremenjenega petega odstavka 109. člena ZIUOPDVE upoštevata po uradni dolžnosti. Razlika do polne vrednosti povračila se upravičencu izplača do 31. januarja 2021.
