@@ -1,0 +1,9 @@
+## V. DEL PREHODNE IN KONČNE DOLOČBE
+
+# 39. člen (oprostitev davka na dodano vrednost za blago v korist žrtev elementarnih nesreč)
+
+(1) Do ustrezne ureditve v zakonu, ki ureja davek na dodano vrednost, se v skladu z Direktivo Sveta (EU) 2022/542 z dne 5. aprila 2022 o spremembi direktiv 2006/112/ES in (EU) 2020/285 glede stopenj davka na dodano vrednost (UL L št. 107 z dne 6. 4. 2022, str. 1), v delu, ki se nanaša na izredne primere, kadar je za blago, uvoženo v korist žrtev elementarnih nesreč, s sklepom Evropske komisije odobrena Republiki Sloveniji oprostitev davka na dodano vrednost (v nadaljnjem besedilu: DDV) v skladu z 11. točko prvega odstavka 51. člena Zakona o davku na dodano vrednost (Uradni list RS, št. 13/11 – uradno prečiščeno besedilo, 18/11, 78/11, 38/12, 83/12, 86/14, 90/15, 77/18, 59/19, 72/19, 196/21 – ZDOsk, 3/22 in 29/22 – ZUOPDCE; v nadaljnjem besedilu: ZDDV-1), pod enakimi pogoji oprosti tudi pridobitev tega blaga znotraj EU oziroma dobava tega blaga na ozemlju Slovenije s pravico do odbitka DDV, plačanega v predhodni fazi. Oproščeno plačila DDV je tudi opravljanje storitev, povezanih s takim blagom, vključno s storitvami dajanja v najem.
+
+(2) Kadar se blago ali storitve, ki jih pridobijo organizacije, za katere veljajo oprostitve iz prejšnjega odstavka, uporabljajo za namene, ki niso navedeni v 11. točki prvega odstavka 51. člena ZDDV-1, je uporaba takega blaga ali storitev predmet DDV pod pogoji, ki veljajo v trenutku, ko pogoji za oprostitev niso več izpolnjeni.
+
+(3) Davčni zavezanec, ki je pred izdajo sklepa Evropske komisije iz prvega odstavka tega člena obračunal DDV za tako blago in storitve, lahko za davčna obdobja od začetka uporabe sklepa Evropske komisije znižanje obračunanega DDV po izdanem računu iz teh davčnih obdobij vključi v obračun DDV za davčno obdobje, v katerem je popravil tak račun.

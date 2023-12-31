@@ -1,0 +1,9 @@
+# 27. člen (izvajanje mikrobioloških preiskav sekvenciranja in spremljanja virusa SARS-CoV-2 v odpadnih vodah ter natančna karakterizacija variantnih virusov)
+
+(1) Sredstva za izvajanje mikrobiološke preiskave sekvenciranja genoma SARS-CoV-2 (v nadaljnjem besedilu: sekvenciranje) in spremljanje virusa SARS-CoV-2 v odpadnih vodah ter natančne karakterizacije variantnih virusov (v nadaljnjem besedilu: storitvi) se zagotavljajo v proračunu Republike Slovenije.
+
+(2) Javne zavode za izvajanje sekvenciranja in storitev iz prejšnjega odstavka izmed javnih zavodov, ki imajo dovoljenje ministrstva, pristojnega za zdravje, za delo na področju medicinske genetike oziroma klinične mikrobiologije, ali imajo uradno akreditacijo za področje genetike oziroma mikrobiologije, na podlagi javnega poziva izbere minister, pristojen za zdravje, ki določi tudi najvišjo višino povračila stroškov za sekvenciranje in storitvi iz prejšnjega odstavka. Obseg sekvenciranja in storitev iz prejšnjega odstavka na podlagi epidemiološke situacije določi NIJZ. Javni zavod o obsegu izvajanja sekvenciranja in storitev iz prejšnjega odstavka poroča NIJZ in ministrstvu, pristojnemu za zdravje, ter slednjemu posreduje tudi zahtevke za povračilo stroškov.
+
+(3) Ukrep iz tega člena velja od 1. julija 2022 do 31. decembra 2023. Vlada lahko ukrep iz tega člena na podlagi strokovnega mnenja NIJZ, ki sledi razvoju virusa SARS-CoV-2, s sklepom največ dvakrat podaljša, vsakokrat za največ šest mesecev. Sklep o podaljšanju ukrepa se objavi v Uradnem listu Republike Slovenije.
+
+(4) Ne glede na drugi odstavek tega člena se sredstva za sekvenciranje in storitvi iz prvega odstavka tega člena zagotavljajo v proračunu Republike Slovenije za vse izvajalce, ki sekvenciranje in storitvi iz prvega odstavka tega člena izvajajo od 1. julija 2022 do 30. novembra 2022.
