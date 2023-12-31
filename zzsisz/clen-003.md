@@ -1,0 +1,5 @@
+# 3. člen (letni načrt)
+
+(1) Investicije iz 1. člena tega zakona se v posameznem letu določijo z letnim načrtom, ki ga sprejme Vlada Republike Slovenije (v nadaljnjem besedilu: Vlada) na podlagi ReNPZV16–25 in načrtom razvojnih programov za področje zdravstvenega varstva in izobraževalnih zavodov s področja zdravstva. V letni načrt iz prejšnjega stavka se vključijo projekti, s katerimi se zagotavljajo operativne zmogljivosti zdravstvene dejavnosti (na primarni, sekundarni in terciarni ravni) ter izobraževalnih zavodov s področja zdravstva zaradi povečanja števila vpisnih mest v programe medicinske, farmacevtske in zdravstvene smeri. Pri določitvi teh projektov se poleg investicij v obnovo sedanjih in zgraditev novih prostorov in objektov ter nakup potrebne medicinske opreme upoštevajo tudi kadrovske, logistične, infrastrukturne in druge potrebe.
+
+(2) Letni načrt investicij iz prejšnjega odstavka mora biti usklajen z načrtom razvojnih programov za področje zdravstvenega varstva in izobraževalnih zavodov s področja zdravstva, kot ga določa zakon, ki ureja javne finance.
