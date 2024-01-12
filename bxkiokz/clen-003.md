@@ -1,0 +1,7 @@
+# 3. člen
+
+(1) Pri uporabi te pogodbe se pristojni organi pogodbenic sporazumevajo pisno s strani Republike Slovenije prek Ministrstva za pravosodje Republike Slovenije, s strani Republike Kosovo pa prek Ministrstva za pravosodje Republike Kosovo.
+
+(2) Diplomatska pot sporazumevanja s tem ni izključena, če so za to utemeljeni razlogi.
+
+(3) V nujnih primerih lahko pristojni organi pogodbenic pošljejo zaprosila in obvestila iz te pogodbe prek Mednarodne organizacije kriminalistične policije (INTERPOL).
