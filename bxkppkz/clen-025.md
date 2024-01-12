@@ -1,0 +1,11 @@
+# 25. člen
+
+(1) Ta pogodba začne veljati prvi dan naslednjega meseca po datumu prejema zadnjega pisnega uradnega obvestila, s katerim se pogodbenici po diplomatski poti obvestita, da so končani notranjepravni postopki, potrebni za začetek njene veljavnosti.
+
+(2) Pogodba se sklene za nedoločen čas. Vsaka pogodbenica lahko pogodbo pisno odpove po diplomatski poti. Pogodba preneha veljati šest mesecev po prejemu pisnega obvestila o odpovedi.
+
+(3) Pogodba se lahko kadar koli spremeni s pisnim sporazumom med pogodbenicama. Ta sprememba začne veljati skladno s postopkom iz prvega odstavka tega člena.
+
+Sklenjeno v Ljubljani, dne 28. oktobra 2016 v dveh izvirnikih, v slovenskem, albanskem, srbskem in angleškem jeziku, pri čemer so vsa besedila enako verodostojna. Pri različni razlagi prevlada angleško besedilo.
+
+ZA REPUBLIKO SLOVENIJO ZA REPUBLIKO KOSOVO mag. Goran Klemenčič, l.r. Dhurata Hoxha, l.r.
