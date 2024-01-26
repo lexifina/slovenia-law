@@ -1,0 +1,9 @@
+# 4.a člen (upravičena oseba za kolektivno varstvo interesov potrošnikov, vpisana na seznam v drugi državi članici po Direktivi 2020/1828/EU)
+
+(1) Upravičena oseba za vložitev kolektivne tožbe ali predloga za potrditev kolektivne poravnave s področja varstva potrošnikov je poleg oseb iz prejšnjega člena tudi oseba, ki zastopa interese potrošnikov v drugi državi članici Evropske unije (v nadaljnjem besedilu: druga država članica) in je vpisana na seznam upravičenih oseb za vložitev potrošniških kolektivnih tožb v drugi državi članici, če njen ustanovni namen v posameznem primeru upravičuje vložitev kolektivne tožbe ali predloga za potrditev kolektivne poravnave.
+
+(2) Če tožena stranka izkaže upravičen dvom, da upravičena oseba iz prejšnjega odstavka v drugi državi članici izpolnjuje pogoje za vložitev potrošniške kolektivne tožbe v drugi državi članici po Direktivi 2020/1828/EU, sodišče preveri, ali je upravičena oseba za vložitev potrošniških kolektivnih tožb v drugi državi članici vpisana na seznam upravičenih oseb za vložitev potrošniških kolektivnih tožb v tej državi članici, ali prek nacionalne kontaktne točke iz 57.c člena tega zakona od nacionalne kontaktne točke v drugi državi članici zahteva, da preveri, ali upravičena oseba izpolnjuje pogoje za vložitev potrošniške kolektivne tožbe v drugi državi članici po Direktivi 2020/1828/EU.
+
+(3) Nacionalna kontaktna točka iz 57.c člena tega zakona mora v osmih dneh od prejema zahteve sodišča iz prejšnjega odstavka to zahtevo poslati nacionalni kontaktni točki države članice, pri kateri je upravičena osebe za vložitev potrošniških kolektivnih tožb v drugi državi članici vpisana na ta seznam.
+
+(4) Ko nacionalna kontaktna točka iz 57.c člena tega zakona prejme odgovor nacionalne kontaktne točke druge države članice, ga nemudoma, najpozneje pa v treh delovnih dneh, pošlje sodišču.

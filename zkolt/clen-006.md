@@ -1,0 +1,7 @@
+# 6. člen (pristojnost in sestava senata)
+
+(1) Za odločanje o kolektivni tožbi in predlogu za potrditev kolektivne poravnave so pristojna okrožna sodišča na sedežu višjih sodišč. V primerih kolektivnih postopkov, kjer na prvi stopnji odloča sodnik posameznik, lahko sodnik posameznik izjemoma predlaga predsedniku višjega sodišča, da se zadeva odstopi v odločitev senatu treh sodnikov, če gre za zapleteno zadevo glede pravnih ali dejanskih vprašanj. O predlogu sodnika posameznika odloči predsednik višjega sodišča s sklepom, zoper katerega ni pritožbe. Preostala člana senata se izbereta na podlagi pravil sodnega reda o dodelitvi zadev na dan, ko sodišče prve stopnje prejme odločitev predsednika višjega sodišča, da je predlogu ugodil.
+
+(2) Ne glede na določbo prejšnjega odstavka je za odločanje o kolektivni tožbi in predlogu za potrditev kolektivne poravnave v zadevi, v kateri bi bilo za samostojno tožbo pristojno sodišče v individualnem delovnem sporu, pristojno delovno sodišče na sedežu sodišča. O kolektivni tožbi in predlogu za potrditev kolektivne poravnave odloča sodišče prve stopnje v senatu, ki je sestavljen v skladu z določbami zakona, ki ureja delovna in socialna sodišča.
+
+(3) Določbe tega zakona ne posegajo v določbe predpisov, ki določajo pristojnost sodišč Republike Slovenije v sporih z mednarodnim elementom, in določanje prava, ki ga je treba uporabiti v sporih z mednarodnim elementom.
