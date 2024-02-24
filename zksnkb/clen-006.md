@@ -1,0 +1,9 @@
+## II. KUPEC KREDITOV
+
+# 6. člen (pravica potencialnega kupca kreditov do prejema informacij s strani kreditne institucije)
+
+(1) Potencialni kupec kreditov ima pravico, da mu kreditna institucija, ki je izrazila namero za prenos nedonosnega kredita, na podlagi 35. člena tega zakona zagotovi potrebne informacije v zvezi z nedonosnim kreditom in informacije o morebitnem zavarovanju s premoženjem, preden sklene pogodbo o odkupu nedonosnega kredita, da potencialni kupec kreditov sam oceni vrednost nedonosnega kredita in verjetnost poplačila.
+
+(2) Potencialni kupec kreditov zagotavlja varstvo vseh informacij, ki jih prejme od kreditne institucije, zaupnost poslovnih informacij in varstvo osebnih podatkov v skladu z Uredbo (EU) št. 2016/679 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o varstvu posameznikov pri obdelavi osebnih podatkov in o prostem pretoku takih podatkov ter o razveljavitvi Direktive 95/46/ES (UL L št. 119 z dne 4. 5. 2016, št. 1; v nadaljnjem besedilu: Uredba (EU) št. 2016/679) in z Uredbo (EU) št. 2018/1725 Evropskega parlamenta in Sveta z dne 23. oktobra 2018 o varstvu posameznikov pri obdelavi osebnih podatkov v institucijah, organih, uradih in agencijah Unije in o prostem pretoku takih podatkov ter o razveljavitvi Uredbe (ES) št. 45/2001 in Sklepa št. 1247/2002/ES (UL L 295 z dne 21. 11. 2018, str. 39; v nadaljnjem besedilu: Uredba (EU) št. 2018/1725) ter z zakonom, ki ureja varstvo osebnih podatkov.
+
+(3) Zaupne poslovne informacije iz prejšnjega odstavka so vsi podatki, dejstva in okoliščine o posameznem kreditojemalcu ter osebni podatki fizičnih oseb, s katerimi potencialni kupec kreditov, upravljavec ali obdelovalec oziroma upravljavka ali obdelovalka osebnih podatkov (v nadaljnjem besedilu: upravljavec osebnih podatkov) neposredno ali posredno razpolaga.
