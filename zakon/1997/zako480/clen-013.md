@@ -1,2 +1,0 @@
-# 13. člen
-Če inšpektor pri opravljanju inšpekcijskega nadzorstva ugotovi, da je kršen zakon ali drug predpis, katerega izvajanje nadzoruje, mora z odločbo odrediti odpravo nepravilnosti in pomanjkljivosti. Inšpektor mora izdati odločbo najkasneje v osmih dneh od dneva vročitve zapisnika zavezancu. V odločbi inšpektor lahko določi rok, v katerem je treba odpraviti ugotovljene nepravilnosti in pomanjkljivosti.
