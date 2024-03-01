@@ -1,0 +1,3 @@
+# 48. člen (financiranje nacionalno pomembnih nalog v izobraževanju odraslih)
+
+Izvajanje dejavnosti usklajevanja in izvajanja nacionalno pomembnih nalog v izobraževanju odraslih, aktivnosti pri razvoju in pospeševanju izobraževanja odraslih, mednarodne dejavnosti, publicistične dejavnosti in druge naloge iz 3. točke prvega odstavka 24. člena tega zakona se lahko na podlagi javnega razpisa oziroma poziva financira skupnosti javnih organizacij, združenju pravnih oseb zasebnega prava, organizacijam, ki so v javnem interesu na področju izobraževanja odraslih, oziroma zvezam teh organizacij, če je njihov glavni namen strokovno delo na področju izobraževanja odraslih na nacionalni ravni.
