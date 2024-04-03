@@ -1,2 +1,0 @@
-# 12. člen
-Zavod neposredno opravlja dejavnost oblikovanja in uporabe blagovnih rezerv. Pri tem v skladu s predpisanimi standardi in normativi iz šeste alinee 5. člena tega zakona ter s sprejetim programom blagovnih rezerv določi letni program dela zavoda, s katerim opredeli aktivnosti, potrebne za delovanje in ohranjanje blagovnih rezerv, ter v tem okviru zlasti vzdrževanje objektov in opreme ter obnavljanje blaga.

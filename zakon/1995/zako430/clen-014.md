@@ -1,4 +1,0 @@
-# 14. člen
-Zavod ločeno vodi računovodsko evidenco poslovanja zavoda in računovodsko evidenco poslovanja blagovnih rezerv. Pri računovodski evidenci poslovanja blagovnih rezerv zavod ločeno vodi računovodsko evidenco poslovanja obveznih rezerv nafte in njenih derivatov in računovodsko evidenco poslovanja ostalih blagovnih rezerv. Vse računovodske evidence iz tega odstavka se vodijo kot ločena poslovnoizidna mesta.
-Zavod sredstev blagovnih rezerv in sredstev obveznih rezerv nafte in njenih derivatov medsebojno ne sme prenašati ali uporabiti za nenamensko financiranje drugih dejavnosti.
-O razpolaganju presežka prihodkov nad odhodki, ki nastanejo pri opravljanju nalog, in o pokrivanju presežka odhodkov nad prihodki zavoda odloča ustanovitelj ločeno za izvajanje gospodarske javne službe oblikovanja in uporabe blagovnih rezerv in za izvajanje gospodarske javne službe oblikovanja obveznih rezerv nafte in njenih derivatov.

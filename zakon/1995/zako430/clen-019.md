@@ -1,3 +1,0 @@
-# 19. člen
-Nepremičnine in oprema, ki so neprimerne za potrebe blagovnih rezerv oziroma so zanje nepotrebne, sme zavod uporabljati za skladiščenje tujega blaga, jih dati v zakup ali prodati. Izbira najugodnejšega ponudnika se izvede na podlagi javnega razpisa ali z zbiranjem ponudb. Pri tem se uporabljajo določbe predpisov, ki urejajo stvarno premoženje države in samoupravnih lokalnih skupnosti.
-Pred oddajo v dolgoročni zakup in prodajo nepremičnin mora zavod pridobiti soglasje Vlade Republike Slovenije. V drugih primerih zakupa in prodaje in v primeru skladiščenja tujega blaga pridobi zavod poprejšnje soglasje ministra, pristojnega za preskrbo.

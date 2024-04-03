@@ -1,4 +1,0 @@
-# 17. člen
-Zavod praviloma skladišči blago, ki ni zajeto s koncesijami, kot povečano komercialno zalogo pri predelovalcih oziroma proizvajalcih tega blaga v Republiki Sloveniji ali pri večjih trgovcih na debelo po posameznih območjih države na podlagi pogodb o nakupu, skladiščenju in sprotnem obnavljanju blaga. Če ni mogoče skladiščenja blaga organizirati na tak način, zavod sam skladišči blago v lastnih oziroma najetih skladiščih.
-K izbiri proizvajalcev oziroma predelovalcev in trgovcev in k pogodbam z njimi mora zavod pridobiti soglasje ministra, pristojnega za preskrbo.
-Pravna oseba, ki ji je blago iz blagovnih rezerv zaupano po pogodbi o skladiščenju ali s koncesijo, ne sme brez dovoljenja zavoda tega blaga odtujiti ali uporabljati in ne spremeniti njegovega namena ali pogodbeno določenega skladišča, ga nadomestiti z blagom druge vrste ali druge kakovosti ali v nasprotju s pogodbo, koncesijo in predpisi kako drugače z njim razpolagati.

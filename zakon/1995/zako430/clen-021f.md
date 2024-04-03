@@ -1,6 +1,0 @@
-# 21.f člen
-Zavod lahko s soglasjem Vlade Republike Slovenije prenese naloge v zvezi z upravljanjem obveznih ter posebnih rezerv nafte in naftnih derivatov na državo članico Evropske unije, na ozemlju katere se rezerve nafte in naftnih derivatov nahajajo, na osrednji organ za vzdrževanje rezerv, ki ga je ta država vzpostavila, ali na gospodarske subjekte, ki imajo registrirano ali priglašeno dejavnost skladiščenja nafte in naftnih derivatov.
-Zavod lahko na ozemlju Republike Slovenje s soglasjem Vlade Republike Slovenije opravlja naloge v zvezi z upravljanjem obveznih in posebnih rezerv nafte in naftnih derivatov za drugo državo članico Evropske unije.
-Ne glede na določbo prvega odstavka tega člena prenos nalog v zvezi z upravljanjem rezerv nafte in naftnih derivatov ni mogoč za prodajo in pridobivanje posebnih rezerv nafte in naftnih derivatov.
-Preden zavod posreduje predlog za prenos, spremembo ali podaljšanje izvajanja nalog iz prvega in drugega odstavka tega člena v soglasje Vladi Republike Slovenije, mora pridobiti soglasje države članice Evropske unije, na ozemlju katere se nahajajo rezerve nafte in naftnih derivatov.
-Prenesenih nalog v zvezi z upravljanjem obveznih in posebnih rezerv se ne sme prenesti naprej.

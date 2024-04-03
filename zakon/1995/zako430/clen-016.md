@@ -1,2 +1,0 @@
-# 16. člen
-Plačila storitev zavoda za kritje plač in prispevkov delodajalca se na podlagi sistemizacije zavoda in zasedbe delovnih mest ter v skladu z zakonom in kolektivno pogodbo in na način in po merilih, ki veljajo za plače delavcev in funkcionarjev v državnih organih, zagotavljajo v državnem proračunu na posebni postavki za plačilo storitev zavoda v okviru postavk za opravljanje nalog ministrstva, pristojnega za preskrbo. Na tej postavki se zagotavljajo tudi sredstva za kritje zavodovih stroškov materiala in storitev.
