@@ -1,0 +1,3 @@
+# 31.b člen (poziv k dodatnim pojasnilom ali obrazložitvi)
+
+Komisija za priglasitve iz prvega odstavka 31.c člena tega zakona in strokovna skupina iz prvega odstavka 31.d člena tega zakona lahko v primeru nejasnosti v okviru izvajanja Uredbe 2019/452/EU tujega vlagatelja ali ciljno družbo ali prevzeto družbo ali novoustanovljeno družbo v Republiki Sloveniji v zvezi z neposredno tujo naložbo na področju dejavnosti iz petega odstavka 31.č člena tega zakona pozoveta, naj pisno ali ustno poda pojasnila ali dodatno obrazložitev ter za to predloži ustrezne dokaze v roku, ki ga določi komisija za priglasitve iz prvega odstavka 31.c člena tega zakona oziroma strokovna skupina iz prvega odstavka 31.d člena tega zakona.
