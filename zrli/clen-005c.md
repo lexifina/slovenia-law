@@ -1,0 +1,13 @@
+# 5.c člen
+
+Če se zahteva za razpis referenduma nanaša na ustavni zakon o spremembi ustave v celoti, se referendumsko vprašanje glasi: "Ali ste za to, da se uveljavi sprememba ustave, vsebovana v ustavnem zakonu, ki ga je sprejel državni zbor na seji dne …?".
+
+Če se zahteva za referendum nanaša samo na posamezen vsebinsko zaokrožen del ustavnega zakona o spremembi ustave, se referendumsko vprašanje glasi: "Ali ste za to, da se uveljavi sprememba ustave, vsebovana v … (navesti alineo, odstavek, člen ali člene ustavnega zakona, ki vsebujejo posamezen vsebinsko zaokrožen del ustavnega zakona), ki ga je sprejel državni zbor na seji dne …?".
+
+Če se zahteva za razpis referenduma nanaša na več posameznih, vsebinsko zaokroženih delov ustavnega zakona o spremembi ustave, se referendumsko vprašanje oblikuje za vsak tak del posebej v skladu s prejšnjim odstavkom in se glasuje o vsakem referendumskem vprašanju posebej.
+
+5.č člen
+
+Če v zahtevi predmet referenduma ni opredeljen v skladu s 5.a členom tega zakona ali če referendumsko vprašanje ni oblikovano v skladu z opredelitvijo predmeta referenduma in 5.c členom tega zakona, predsednik državnega zbora pred sejo ali državni zbor na seji pozove predlagatelje, naj zahtevo v določenem roku, ki ne sme biti krajši od treh dni, ustrezno dopolnijo oziroma popravijo. Če tega ne storijo, državni zbor odloči, da referenduma ne razpiše.
+
+V primeru iz prejšnjega odstavka lahko predlagatelji zahteve v osmih dneh po odločitvi državnega zbora, da referenduma ne razpiše, zahtevajo, naj to odločitev preizkusi ustavno sodišče. Predstavnik predlagateljev o tem obvesti državni zbor. O taki zahtevi odloči ustavno sodišče v tridesetih dneh po prejemu zahteve. Če ustavno sodišče ugotovi, da je odločitev državnega zbora neutemeljena, jo razveljavi.
