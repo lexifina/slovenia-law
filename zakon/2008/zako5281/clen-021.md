@@ -1,2 +1,0 @@
-# 21. člen (oblike soodločanja delavcev)
-V primeru ustanovitve družbe s čezmejno združitvijo kapitalskih družb imajo delavci te družbe, njenih odvisnih družb in podružnic pravico, da izvolijo ali imenujejo, priporočijo ali nasprotujejo imenovanju dela članov organov vodenja ali nadzora te družbe, pri čemer je delež teh članov enak najvišjemu deležu v udeleženih družbah pred registracijo te družbe.

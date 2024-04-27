@@ -1,3 +1,0 @@
-# 25. člen (naknadne nacionalne združitve)
-(1) V primeru naknadne združitve družbe, ki je nastala s čezmejno združitvijo kapitalskih družb, z drugo družbo s sedežem v Republiki Sloveniji veljajo nacionalne določbe o soodločanju delavcev.
-(2) Če nacionalno pravo ne zagotavlja vsaj takšnega obsega pravic soodločanja delavcev, kakor je zagotovljen v družbi, ki je nastala s čezmejno združitvijo kapitalskih družb, se v družbi, ki nastane z naknadno nacionalno združitvijo, v obdobju treh let od dneva registracije družbe, ki je nastala s čezmejno združitvijo kapitalskih družb, še naprej uporablja ureditev o soodločanju delavcev, ki je veljala v tej družbi.
