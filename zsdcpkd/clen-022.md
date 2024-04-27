@@ -1,0 +1,3 @@
+# 22. člen (določitev predstavnikov delavcev v organih vodenja ali nadzora družbe, ki nastane s čezmejno združitvijo, čezmejno delitvijo ali čezmejnim preoblikovanjem kapitalskih družb, s sedežem v Republiki Sloveniji)
+
+Predstavnike delavcev v organih vodenja ali nadzora družbe, ki nastane s čezmejno združitvijo, čezmejno delitvijo ali čezmejnim preoblikovanjem kapitalskih družb, s sedežem v Republiki Sloveniji, izvoli ali predlaga svet delavcev te družbe v skladu z zakonom, ki ureja sodelovanje delavcev pri upravljanju v delu, ki ureja sodelovanje delavcev v organih vodenja ali nadzora družbe, in zakonom, ki ureja gospodarske družbe, v delu, ki ureja sistem upravljanja družb.

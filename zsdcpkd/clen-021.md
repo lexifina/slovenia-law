@@ -1,0 +1,7 @@
+# 21. člen (razdelitev sedežev)
+
+(1) Posebno pogajalsko telo odloči o razdelitvi sedežev v organih vodenja ali nadzora družbe, ki nastane s čezmejno združitvijo, čezmejno delitvijo ali čezmejnim preoblikovanjem kapitalskih družb, med predstavnike delavcev iz posameznih držav članic v skladu z deležem delavcev, zaposlenih v posamezni državi članici v družbi, njenih odvisnih družbah in podružnicah.
+
+(2) Če na ta način posamezni državi članici pripade več sedežev, hkrati pa bi delavci iz ene ali več drugih držav članic ostali brez sedeža, mora posebno pogajalsko telo družbe, ki nastane s čezmejno združitvijo, čezmejno delitvijo ali čezmejnim preoblikovanjem kapitalskih družb, izvesti vnovično razdelitev sedežev tako, da en sedež dobijo predstavniki te ali teh držav članic. Pri tem je treba zagotoviti, da je sedež dodeljen delavcem iz države članice, v kateri bo imela ta družba svoj sedež. Če tej državi po prejšnjem odstavku že pripada sedež, se sedež dodeli državi članici, ki je brez sedeža in v kateri je zaposlen največji delež delavcev.
+
+(3) Če se število članov v organih vodenja ali nadzora družbe, nastale s čezmejno združitvijo, čezmejno delitvijo ali čezmejnim preoblikovanjem kapitalskih družb, spremeni, mora posebno pogajalsko telo te družbe na novo odločiti o številu delavcev ob upoštevanju določb prejšnjih dveh odstavkov tega člena, pri čemer odpokliče odvečne predstavnike oziroma dodeli dodatne sedeže predstavnikom delavcev iz posameznih držav članic.
