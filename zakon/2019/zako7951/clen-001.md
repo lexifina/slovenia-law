@@ -1,7 +1,0 @@
-# 1. člen
-V Energetskem zakonu (Uradni list RS, št. 17/14 in 81/15) se v 2. členu v prvem odstavku črta šesta alineja. Dosedanje sedma do deseta alineja postanejo šesta do deveta alineja.
-V drugem odstavku se tretja alineja spremeni tako, da se glasi:
-"- Uredbe (EU) 2017/1938 Evropskega parlamenta in Sveta z dne 25. oktobra 2017 o ukrepih za zagotavljanje zanesljivosti oskrbe s plinom in o razveljavitvi Uredbe (EU) št. 994/2010 (UL L št. 280 z dne 28. 10. 2017, str. 1; v nadaljnjem besedilu: Uredba 2017/1938/EU),".
-V peti alineji se pika nadomesti z vejico ter dodata novi šesta in sedma alineja, ki se glasita:
-"- Uredbe (EU) 2018/1999 Evropskega parlamenta in sveta z dne 11. decembra 2018 o upravljanju energetske unije in podnebnih ukrepov, spremembi uredb (ES) št. 663/2009 in (ES) št. 715/2009 Evropskega parlamenta in Sveta, direktiv 94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EU, 2012/27/EU in 2013/30/EU Evropskega parlamenta in Sveta, direktiv Sveta 2009/119/ES in (EU) 2015/652 ter razveljavitvi Uredbe (EU) št. 525/2013 Evropskega parlamenta in Sveta (UL L št. 328 z dne 21. 12. 2018 str. 1; v nadaljnjem besedilu: Uredba 2018/1999/EU),
-- Uredbe (EU) 2017/1369 Evropskega parlamenta in Sveta z dne 4. julija 2017 o vzpostavitvi okvira za označevanje z energijskimi nalepkami in razveljavitvi Direktive 2010/30/EU (UL L št. 198 z dne 28. 7. 2017, str. 1; v nadaljnjem besedilu: Uredba 2017/1369/EU).".
