@@ -1,5 +1,0 @@
-# 3. člen
-V šestem odstavku 490. člena se osma alineja spremeni tako, da se glasi:
-"- ne zagotovi sam ali skupaj z drugimi dobavitelji v okviru združenja postopka izvensodnega reševanja sporov s potrošniki v zvezi z dobavo elektrike gospodinjskim odjemalcem po tem zakonu pred neodvisnim izvajalcem izvensodnega reševanja sporov, skladno z drugim, tretjim in četrtim odstavkom 50. člena tega zakona;".
-Deveta, deseta in enajsta alineja se črtajo.
-Dosedanje dvanajsta do dvajseta alineja postanejo deveta do sedemnajsta alineja.
