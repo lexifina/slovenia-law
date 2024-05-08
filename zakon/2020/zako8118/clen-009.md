@@ -1,3 +1,0 @@
-# 9. člen
-V 386. členu se doda nov osmi odstavek, ki se glasi:
-"(8) Agencija pri čezmejnih zadevah sodeluje z regulativnim organom ali organi zadevnih držav članic Evropske unije in ACER. Glede plinske infrastrukture, ki poteka v tretjo državo ali iz nje se lahko agencija posvetuje in sodeluje s pristojnimi organi tretje države v zvezi z delovanjem infrastrukture. Kadar je v Republiki Sloveniji prva povezovalna točka plinske infrastrukture v tretjo državo ali iz nje, se agencija pred sodelovanjem s pristojnimi organi tretje države posvetuje z regulativnimi organi drugih držav članic, ki jih ta infrastruktura zadeva.".

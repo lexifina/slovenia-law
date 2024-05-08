@@ -1,3 +1,0 @@
-# 4. člen
-V 246. členu se drugi odstavek spremeni tako, da se glasi:
-"(2) V čezmejnih sporih se uporabljajo postopki za reševanje sporov države članice Evropske unije, ki je pristojna za pridobivalno plinovodno omrežje, in zavrne dostop. Če je več držav članic Evropske unije pristojnih za pridobivalno plinovodno omrežje, se zadevne države članice med seboj posvetujejo. Če pridobivalno plinovodno omrežje izvira iz tretje države in je na ozemlju ali v teritorialnem morju Republike Slovenije prva vstopna točka v omrežje držav članic Evropske unije, se na podlagi posvetovanja med zadevnimi državami članicami, Republika Slovenija posvetuje z zadevno tretjo državo.".
