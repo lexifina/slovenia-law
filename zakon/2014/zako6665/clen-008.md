@@ -1,2 +1,0 @@
-# 8. člen (načelo stroškovne učinkovitosti)
-Državni organi in organi lokalnih skupnosti si morajo pri sprejemanju politik, strategij, programov, načrtov, splošnih in konkretnih pravnih aktov ter pri izvedbi ukrepov na podlagi tega zakona, prizadevati doseči čim nižje neposredne stroške ukrepov za pravne in fizične osebe in čim nižje zunanje stroške glede na dosežene rezultate, ob upoštevanju načela stroškov v celotni življenjski dobi.

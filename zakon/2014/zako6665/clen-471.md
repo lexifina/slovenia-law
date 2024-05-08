@@ -1,2 +1,0 @@
-## II. poglavje: RAZLASTITEV IN USTANOVITEV SLUŽNOSTI V JAVNO KORIST
-# 471. člen (črtan)

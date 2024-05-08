@@ -1,4 +1,0 @@
-# 33. člen (izmenjava podatkov)
-(1) Državni organi, agencija in drugi nosilci javnih pooblastil, ki na podlagi tega zakona zbirajo podatke od izvajalcev energetskih dejavnosti in drugih zavezancev za poročanje, so dolžni zagotoviti učinkovito medsebojno sodelovanje pri izmenjavi podatkov.
-(2) Pri medsebojni izmenjavi podatkov se lahko organom in osebam iz prejšnjega odstavka posredujejo samo tisti podatki, ki jih ta organ ali oseba potrebuje za opravljanje svojih nalog po tem zakonu ali drugih nalog s področja energetike. Podatki se posredujejo na način, ki ne obsega posredovanja ali razkritja osebnih podatkov, razen če je to nujno za izvrševanje zakonskih pristojnosti uporabnika podatkov ali če zakon izrecno določa posredovanje osebnih podatkov drugim osebam iz prejšnjega odstavka.
-(3) Ministrstvo, pristojno za energijo, usklajuje in skrbi za poenotenje postopkov izmenjave podatkov med organi in osebami iz prvega odstavka tega člena.

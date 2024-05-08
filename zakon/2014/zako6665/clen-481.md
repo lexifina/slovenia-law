@@ -1,5 +1,0 @@
-# 481. člen (predkupna pravica v stečaju)
-(1) Če je stečajni dolžnik pravna ali fizična oseba, ki ne opravlja gospodarske javne službe, ima izvajalec gospodarske javne službe predkupno pravico pri prodaji premoženja kot poslovne celote v stečajnem postopku ter pri prodaji v stečaju energetska infrastrukture in premoženjske pravice, ki sestavlja infrastrukturo po tem zakonu.
-(2) Predkupna pravica izvajalca gospodarske javne službe se nanaša tudi na zemljišča, ki so del stečajne mase in na njih stojijo objekti, naprave ali napeljave izvajalca gospodarske javne službe.
-(3) Kadar je stečajni dolžnik izvajalec gospodarske javne službe po tem zakonu na temelju koncesije gradnje ali koncesije storitev, način prodaje premoženja iz prejšnjega člena in predkupna pravica po tem členu ne posegata v izločitveno pravico koncedenta po zakonu, ki ureja javno-zasebno partnerstvo.
-(4) Predkupna pravica izvajalca gospodarske javne službe iz prvega in drugega odstavka tega člena se uveljavi v skladu s predpisi, ki urejajo uveljavljanje zakonitih predkupnih pravic v stečajnem postopku.

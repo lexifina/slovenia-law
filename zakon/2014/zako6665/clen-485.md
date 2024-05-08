@@ -1,2 +1,0 @@
-# 485. člen (omejitev stavke pri dobaviteljih sistemskih storitev)
-Delavci pri delodajalcu, ki operaterju dobavlja sistemske storitve, so dolžni med stavko zagotavljati stalno pripravljenost ter opravljati dela in naloge, ki so nujno potrebne za to, da je v okviru prevzetih pogodbenih obveznosti delodajalca zagotovljena zanesljiva in pravočasna izvedba ustreznih sistemskih storitev, ki jih za vodenje sistema potrebuje operater.

@@ -1,4 +1,0 @@
-# 463. člen (gradnja in vzdrževanje)
-(1) Infrastruktura mora biti načrtovana in grajena tako, da ustreza zadnjemu stanju tehnike in je ekonomsko učinkovita, vzdrževana pa mora biti tako, da zagotavlja optimalno tehnično delovanje in je ekonomsko učinkovita.
-(2) Lastnik objekta, naprave ali omrežja, ki sestavlja infrastrukturo, je dolžan stvari, ki sestavljajo to infrastrukturo, tekoče in investicijsko vzdrževati in ustrezno škodno zavarovati.
-(3) Z namenom zagotavljanja gospodarskih javnih služb na področju energetike vlada z uredbo določi vrste vzdrževalnih del v javno korist na objektih, napravah in omrežjih, ki so potrebni za prenos in distribucijo električne energije, zemeljskega plina, distribucijo toplote in oskrbo z drugimi energetskimi plini, ter način njihovega izvajanja, skladno z zakonom, ki ureja področje graditve objektov.

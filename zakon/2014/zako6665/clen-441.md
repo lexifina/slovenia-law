@@ -1,4 +1,0 @@
-## 5. oddelek: Posebne določbe o zagotavljanju učinkovite konkurence na veleprodajnem trgu električne energije in zemeljskega plina
-# 441. člen (zagotavljanje konkurenčnosti veleprodajnega trga elektrike in zemeljskega plina)
-(1) Kadar agencija z raziskavo posameznega trga ugotovi, da na veleprodajnem trgu elektrike ali zemeljskega plina obstajajo resne in trajne ovire za dostop do proizvodnih virov elektrike ali zemeljskega plina, zaradi česar trg na maloprodajni ravni ni dovolj konkurenčen in ima to škodljive učinke za končne odjemalce, lahko z odločbo naloži proizvajalcu elektrike oziroma dobavitelju zemeljskega plina, naj sprosti določene količine elektrike ali zemeljskega plina oziroma naj pogodbene pravice do uvoza zemeljskega plina pregledno in nediskriminatorno ponudi zainteresiranim kupcem.
-(2) Po posvetovanju z organom, pristojnim za varstvo konkurence, agencija začne postopek za izrek ukrepa po 442. ali 443. členu tega zakona.
