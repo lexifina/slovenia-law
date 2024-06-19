@@ -1,0 +1,5 @@
+# 6. člen
+
+Določbe zavarovalnih pogojev za zavarovanja, ki so obvezna po tem zakonu in Uredbi 785/2004/ES, s katerimi se zmanjšujejo pravice oškodovancev in potnikov v javnem prometu, določene s tem zakonom ali Uredbo 785/2004/ES, so brez pravnega učinka.
+
+Zavarovalnica mora Agencijo za zavarovalni nadzor (v nadaljnjem besedilu: Agencija) obvestiti o novih ali spremenjenih zavarovalnih pogojih, preden jih začne uporabljati. Če Agencija ugotovi, da zavarovalni pogoji niso skladni z zakonom ali Uredbo 785/2004/ES, izreče ukrep nadzora v skladu z določbo 3. točke prvega odstavka 181. člena Zakona o zavarovalništvu (Uradni list RS, št. 109/06 – uradno prečiščeno besedilo; v nadaljnjem besedilu: ZZavar), pri čemer se lahko prepoved sklepanja novih zavarovalnih pogodb nanaša samo na vrste obveznih zavarovanj, navedene v 1. členu tega zakona ali v Uredbi 785/2004/ES. Ukrep prepovedi sklepanja novih zavarovalnih pogodb se lahko nanaša le na tisto vrsto obveznega zavarovanja po tem zakonu ali po Uredbi 785/2004/ES, na katero se nanašajo zavarovalni pogoji, za katere je Agencija ugotovila, da niso skladni z zakonom ali Uredbo 785/2004/ES.

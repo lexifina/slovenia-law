@@ -1,0 +1,3 @@
+# 35. člen
+
+V škodni sklad, namenjen za plačilo obveznosti iz prejšnjega člena, plačujejo prispevek vse zavarovalnice, ki so registrirane za sklepanje zavarovanj, obveznih po tem zakonu. Višino najnižjih začetnih sredstev sklada določi minister, pristojen za finance, nato pa sklad dopolnjuje sredstva glede na tekoče potrebe, ki jih Združenje sporoča zavarovalnicam. Prispevek posamezne zavarovalnice je sorazmeren njenemu deležu v prejšnjem letu sklenjenih zavarovanj avtomobilske in letalske odgovornosti, odgovornosti lastnikov čolnov ter zavarovanj potnikov v javnem prometu proti posledicam nesreče v Republiki Sloveniji. Zavarovalnice so dolžne prispevke nakazati v 15 dneh po prejemu sporočila Združenja.
