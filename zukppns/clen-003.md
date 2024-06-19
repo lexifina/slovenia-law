@@ -1,0 +1,5 @@
+# 3. člen (kulturne pravice pripadnikov narodov nekdanje SFRJ v RS)
+
+(1) Kulturne pravice pripadnikov narodov nekdanje SFRJ v RS obsegajo pravico do ohranjanja in razvoja identitete, pravico do gojenja kulture, pravico do ohranjanja kulturne dediščine na ozemlju Republike Slovenije, pravico do ohranjanja lastne kulturne in družbene zgodovine, pravico do uporabe maternega jezika in pisave, pravico do ustvarjanja in razširjanja medijskih programskih vsebin, pravico do lastnega založništva in druge kulturne pravice ter se uresničujejo s projekti pripadnikov narodov nekdanje SFRJ v RS.
+
+(2) Kulturne pravice iz prejšnjega odstavka se zagotavljajo z namenom ohranjanja in razvoja narodnostne identitete pripadnikov narodov nekdanje SFRJ v RS ter utrjevanja zavesti vseh drugih prebivalcev Republike Slovenije o njihovi prisotnosti in delovanju v družbi, zagotavljanja njihove enakopravne vključenosti v družbi, spodbujanja medkulturnega dialoga, ohranjanja strpnosti ter razvijanja sožitja vseh prebivalcev Republike Slovenije.
