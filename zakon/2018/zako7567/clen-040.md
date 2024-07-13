@@ -1,4 +1,0 @@
-# 40. člen (strokovni svet)
-(1) Družba Kobilarna Lipica d.o.o. ima polega organov, ki jih določa zakon, ki ureja gospodarske družbe, še strokovni svet, ki je posvetovalni organ poslovodstva.
-(2) Strokovni svet sestavljajo trije člani, ki so strokovnjaki s področja nalog javne službe iz prvega odstavka 43. člena tega zakona. Člane strokovnega sveta za obdobje štirih let imenuje organ nadzora družbe Kobilarna Lipica d.o.o. in sicer dva člana na predlog ministra, pristojnega za živinorejo, za področji živinoreje in veterine ter enega člana na predlog ministra, pristojnega za kulturo, za področje varovanja kulturne dediščine.
-(3) Strokovni svet obravnava strokovna vprašanja in daje mnenja k strokovnim podlagam za izvajanje nalog javne službe, ki jih izvaja družba Kobilarna Lipica d.o.o., ter daje predloge za izboljšave. Strokovni svet o svojem delu poroča poslovodstvu.
