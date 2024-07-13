@@ -1,0 +1,5 @@
+# 45. člen (letno poročilo o stanju črede lipicanskih konj)
+
+(1) Družba pripravi letno poročilo o stanju črede lipicanskih konj v Kobilarni Lipica najpozneje do 31. marca tekočega leta za preteklo leto, ki ga sprejme nadzorni svet in s katerim seznani ministrstvo in ministrstvo, pristojno za kmetijstvo.
+
+(2) Letno poročilo o stanju črede lipicanskih konj v Kobilarni Lipica mora vsebovati najmanj podatke o stanju črede lipicanskih konj s podatkom o zastopanosti linij in rodov, o klasifikaciji črede lipicanskih konj, o naraščaju po posameznih letnikih, številu konj v treningu, v pogodbeni reji, številu prodanih konj, prihodki iz naslova prodaje konj, o izvedbi rejskega in selekcijskega programa in prevedbah ter izločitvah konj, številu pripustov, rezultate preizkusov delovne sposobnosti konj, o izvajanju programa zdravstvenega varstva konj, oceno zdravstvenega stanja konj, število poginulih ali usmrčenih konj, oceno reje, oskrbe in nege konj v Kobilarni Lipica in pri pogodbenih rejcih, oceno stanja hlevskih zmogljivosti in oceno stanja pašnih površin.
