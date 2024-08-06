@@ -1,0 +1,5 @@
+# 23. člen Reševanje sporov
+
+1. Spori v zvezi z razlago ali izvajanjem sporazuma, vključno z razlago in izvajanjem pravic in obveznosti članic WB3C, se rešujejo sporazumno s posvetovanji in pogajanji.
+
+2. Spor, ki ga ni mogoče rešiti s pogajanji ali drugim dogovorjenim načinom reševanja sporov, se predloži v reševanje arbitražnemu razsodišču treh razsodnikov, katerega odločitev je za stranki dokončna in zavezujoča. Vsaka od strank v sporu imenuje po enega razsodnika, tako imenovana razsodnika pa sporazumno določita tretjega razsodnika, ki je predsednik razsodišča. Predsednik arbitražnega razsodišča ne sme biti državljan nobene od strank v sporu, imeti običajnega prebivališča na ozemlju nobene od teh strank ali biti zaposlen pri nobeni od njiju, prav tako pa se z obravnavanim primerom ni smel ukvarjati v nobeni drugi vlogi. V sporih med več kot dvema strankama stranke z istim interesom skupaj sporazumno imenujejo enega razsodnika. Prosto mesto se zapolni na način, kot velja za prvo imenovanje. Če se stranke ne dogovorijo o predmetu spora pred imenovanjem predsednika arbitražnega razsodišča, predmet spora določi arbitražno razsodišče.
