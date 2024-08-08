@@ -1,0 +1,3 @@
+# 5. člen (pravice iz socialnih zavarovanj in socialne varnosti)
+
+Za namen uveljavljanja in ohranitve pravic iz pokojninskega in invalidskega zavarovanja, zavarovanja za primer brezposelnosti in zavarovanja za starševsko varstvo, invalidskega varstva, socialne varnosti ter zdravstvenega varstva in zdravstvenega zavarovanja se za državljanke oziroma državljane Republike Slovenije (v nadaljnjem besedilu: državljani Republike Slovenije), ki so imeli 28. junija 2017 prijavljeno stalno prebivališče ali so dejansko prebivali na ozemlju, ki na podlagi razsodbe ni del ozemlja Republike Slovenije, šteje, da izpolnjujejo pogoj prijavljenega stalnega prebivališča oziroma dejanskega prebivanja v Republiki Sloveniji.

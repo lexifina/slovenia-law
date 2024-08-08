@@ -1,0 +1,7 @@
+# 14. člen (nadomestilo za materialno škodo na ribolovnem orodju oziroma plovilu)
+
+(1) Če imetnik dovoljenja za gospodarski ribolov pri ribolovu v morju, ki je pod suverenostjo Republike Slovenije, utrpi materialno škodo na ribolovnem orodju oziroma ribiškem plovilu, ki jo je povzročilo tuje plovilo, je upravičen do nadomestila v višini nastale škode, povzročene v šestih letih od začetka uporabe tega zakona. Če je bil del škode že povrnjen iz drugega pravnega naslova, se izplačilo nadomestila za ta del zmanjša.
+
+(2) Vlogo za dodelitev nadomestila vloži imetnik iz prejšnjega odstavka pri krajevno pristojni upravni enoti glede na naslov stalnega prebivališča oziroma sedež. Vlogi imetnik priloži izjavo o tem, da je nastalo škodo naznanil policiji, ribiškemu inšpektorju ali upravi, pristojni za pomorstvo, ter izjavo o višini povrnjene škode, če je imetnik dobil škodo povrnjeno iz drugega pravnega naslova. O vlogi odloča ministrstvo, pristojno za ribištvo.
+
+(3) Nadomestilo se dodeli v skladu z Uredbo Komisije (EU) št. 717/2014 z dne 27. junija 2014 o uporabi členov 107 in 108 Pogodbe o delovanju Evropske unije pri pomoči de minimis v sektorju ribištva in akvakulture (UL L št. 190 z dne 28. 6. 2007, str. 45), zadnjič spremenjeno z Izvedbeno uredbo Komisije (EU) 2020/2008 z dne 8. decembra 2020 o spremembi uredb (EU) št. 702/2014, (EU) št. 717/2014 in (EU) št. 1388/2014 v zvezi z obdobjem njihove uporabe in drugimi ustreznimi prilagoditvami (UL L št. 414 z dne 9. 12. 2020, str. 15), (v nadaljnjem besedilu: Uredba 717/2014/EU).
