@@ -1,0 +1,17 @@
+## 3. PRIMERJAVA MED PLAČO JAVNEGA USLUŽBENCA IN FUNKCIONARJA PRED IN PO ZAČETKU UPORABE TEGA ZAKONA
+
+# 49.f člen
+
+(1) V skladu z 49. členom tega zakona se izvede primerjava med plačo, določeno na podlagi predpisov in kolektivnih pogodb, ki se uporabljajo do začetka izplačila plač po tem zakonu in plačo, izplačano po tem zakonu.
+
+(2) Primerljivi znesek plače, določen po predpisih in kolektivnih pogodbah, ki se uporabljajo do začetka izplačila plač po tem zakonu, je plača javnega uslužbenca za mesec pred prvim izplačilom plač po tem zakonu, izračunana za polni delovni čas (174 delovnih ur oziroma manj, če tako določa posebni zakon za določeno delovno mesto). Pri izračunu se upošteva nominalni znesek osnovne plače, določen v skladu s tretjim odstavkom 49.a člena tega zakona, dodatek za vodenje, dodatek za delovno dobo, dodatek za stalnost, dodatek za specializacijo, magisterij ali doktorat in dodatek za dvojezičnost.
+
+(3) Primerljivi znesek plače, določen po tem zakonu, je plača javnega uslužbenca, obračunana za polni delovni čas (174 delovnih ur oziroma manj, če tako določa posebni zakon za določeno delovno mesto). Pri izračunu se upošteva osnovna plača, korigirana za morebitno odpravo nesorazmerja v osnovni plači, položajni dodatek, dodatek za delovno dobo, dodatek za stalnost, dodatek za specializacijo, magisterij ali doktorat in dodatek za dvojezičnost.
+
+(4) V kolikor je primerljivi znesek plače, izračunan v skladu z drugim odstavkom tega člena, višji od primerljivega zneska plače, obračunanega v skladu s prejšnjim odstavkom, se znesku plače iz prejšnjega odstavka doda razlika do zneska plače iz drugega odstavka tega člena.
+
+(5) Primerljivi znesek plače, določen po predpisih, ki se uporabljajo do začetka obračuna plač funkcionarjev po tem zakonu, je plača za mesec pred prvim izplačilom plač po tem zakonu, izračunana za polni delovni čas (174 delovnih ur). Pri izračunu se upošteva koeficient za določitev plače funkcionarja, funkcijski dodatek oziroma dodatek za nezdružljivost oziroma delovna uspešnost za državne sekretarje in člane državne revizijske komisije, dodatek za vodenje, dodatek za vodenje na sedežu, dodatek za delovno dobo in dodatek za dvojezičnost.
+
+(6) Primerljivi znesek plače, določen po tem zakonu, je plača funkcionarja, obračunana za polni delovni čas (174 delovnih ur). Pri izračunu se upošteva osnovna plača, korigirana za morebitno odpravo nesorazmerja v osnovni plači, položajni dodatek, dodatek za delovno dobo, dodatek za specializacijo, magisterij in doktorat in dodatek za dvojezičnost.
+
+(7) V kolikor je primerljivi znesek plače ustavnega sodnika, sodnika, državnega tožilca ali državnega pravobranilca, izračunan v skladu s petim odstavkom tega člena, višji od primerljivega zneska plače, obračunanega v skladu s šestim odstavkom tega člena, se znesku plače iz šestega odstavka tega člena doda razlika do zneska plače iz petega odstavka tega člena. V kolikor je primerljivi znesek plače drugega funkcionarja, izračunan v skladu s petim odstavkom tega člena, zmanjšan za 5%, višji od primerljivega zneska plače, obračunanega v skladu s prejšnjim odstavkom, se znesku plače iz prejšnjega odstavka doda razlika do zneska plače iz petega odstavka tega člena, zmanjšanega za 5%.

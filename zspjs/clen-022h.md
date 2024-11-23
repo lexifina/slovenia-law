@@ -1,0 +1,1 @@
+# 22.h člen (črtan) 22.i člen(prenehal veljati) 22.j člen(prenehal veljati) 22.k člen(prenehal veljati) 23. člen(prenehal veljati) 24. člen(prenehal veljati) 25. člen(prenehal veljati) 26. člen(prenehal veljati) 27. člen(prenehal veljati) 28. člen(prenehal veljati) 29. člen(prenehal veljati) 30. člen(prenehal veljati)
