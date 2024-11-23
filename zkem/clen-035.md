@@ -1,0 +1,7 @@
+# 35. člen (sporočanje podatkov o kemikalijah in nevarnih proizvodih)
+
+Pravne in fizične osebe, ki proizvajajo nevarno kemikalijo v Republiki Sloveniji ali vnašajo nevarno kemikalijo v Republiko Slovenijo, morajo za vsako nevarno kemikalijo in za vsak nevarni proizvod iz 4. člena tega zakona predložiti organu, pristojnemu za kemikalije, podatke iz varnostnega lista, kemijsko sestavo nevarne kemikalije ali nevarnega proizvoda, in podatke o področjih uporabe. Podatke iz varnostnega lista morajo predložiti organu, pristojnemu za kemikalije, najkasneje ob prvi prepustitvi nevarne kemikalije tretjemu ali ob prvem vnosu nevarne kemikalije v Republiko Slovenijo, kemijsko sestavo nevarne kemikalije in podatke o področjih uporabe pa najkasneje do 31. marca v naslednjem letu po prvi prepustitvi tretjemu ali prvem vnosu nevarne kemikalije v Republiko Slovenijo. Način predložitve in obnavljanja podatkov ter izjeme iz sporočanja predpiše minister.
+
+Pravne in fizične osebe iz prejšnjega odstavka morajo enkrat letno najkasneje do 31. marca organu, pristojnemu za kemikalije, pisno sporočiti imena in količine nevarnih kemikalij ter nevarnih proizvodov iz 4. člena tega zakona, ki so jih v preteklem koledarskem letu proizvedle ali vnesle v Republiko Slovenijo.
+
+Organ, pristojen za kemikalije, vodi podatke iz prvega in drugega odstavka tega člena v posebni bazi podatkov, ki je na razpolago le pooblaščenim osebam, organom in ustanovam. Podatki se lahko uporabljajo le za potrebe varovanja zdravja ljudi in okolja.
