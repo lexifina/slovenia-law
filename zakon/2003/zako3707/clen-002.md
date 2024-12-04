@@ -1,4 +1,0 @@
-# 2. člen (razmerje do drugih predpisov)
-(1) Ta zakon se uporablja za proizvode, za katere ni posebnih predpisov, harmoniziranih s pravom Evropskih skupnosti, katerih cilj bi bil zagotoviti varnost proizvodov.
-(2) Za proizvode, za katere obstajajo predpisi iz prejšnjega odstavka, se ta zakon v celoti uporablja v zvezi z vidiki oziroma vrstami nevarnosti, ki niso urejene s temi predpisi. V zvezi z vidiki oziroma vrstami nevarnosti, ki so urejene s temi predpisi, se določbe druge in tretje točke 4. člena in 5. člena do vključno 8. člena tega zakona ne uporabljajo. Druge določbe tega zakona se uporabljajo, če ti predpisi nimajo enakovrstnih določb.
-(3) Izpolnjevanje zahtev tega zakona ne vpliva na odgovornost proizvajalcev oziroma distributerjev za proizvode z napako v skladu s predpisi o odgovornosti za proizvod oziroma s splošnimi predpisi o obligacijskih razmerjih.

@@ -1,5 +1,0 @@
-## IV. POSREDOVANJE INFORMACIJ EVROPSKI UNIJI
-# 14. člen (obveščanje komisije)
-(1) Kadar pristojna inšpekcija omeji dajanje proizvodov na trg ali zahteva njihov umik ali odpoklic v skladu s 17. členom tega zakona, mora po predhodnem obvestilu ministrstva, pristojnega za gospodarstvo (v nadaljnjem besedilu: ministrstvo), o izvedenih ukrepih obvestiti komisijo in pri tem navesti razloge za sprejete odločitve. komisijo mora obvestiti tudi o vsaki spremembi ali odpravi teh ukrepov.
-(2) Če pristojna inšpekcija meni, da učinki ugotovljene nevarnosti ne segajo ali ne morejo seči prek ozemlja Republike Slovenije, obvesti komisijo o izvedenih ukrepih, če so ti zanimivi za druge države članice, še posebej če so bili ukrepi sprejeti kot odgovor na novo nevarnost, ki še ni bila zajeta v drugih obvestilih.
-(3) Obveščanje v skladu s prvim in drugim odstavkom tega člena se izvede, če se ne izvede priglasitev v skladu s 15. členom tega zakona oziroma v skladu z drugimi predpisi o varnostnih zahtevah za proizvode.
