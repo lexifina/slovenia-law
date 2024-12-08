@@ -1,3 +1,0 @@
-# 2. člen (pojem detektivske dejavnosti)
-(1) Detektivska dejavnost je zbiranje, obdelava, posredovanje podatkov in informacij ter svetovanje na področju preprečevanja kaznivih ravnanj, ki ga za naročnikove potrebe opravlja po tem zakonu detektiv, ki ima izdano licenco in izpolnjuje pogoje v skladu s tem zakonom.
-(2) Detektivska dejavnost je regulirana gospodarska dejavnost, namenjena naročnikom detektivskih storitev, ki jo Republika Slovenija regulira zaradi varovanja javnega reda, javne varnosti, osebne varnosti in dostojanstva naročnikov, tretjih oseb in detektiva, ki neposredno opravlja dejavnost.
