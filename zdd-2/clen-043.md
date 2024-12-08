@@ -1,0 +1,13 @@
+## VIII. OPRAVLJANJE DETEKTIVSKE DEJAVNOSTI TUJIH DETEKTIVOV
+
+# 43. člen (pogoji za opravljanje detektivske dejavnosti tujih detektivov)
+
+(1) Fizična ali pravna oseba, ki je državljan države članice Evropske unije, Evropskega gospodarskega prostora, Švicarske konfederacije ali ima sedež v njih ali v državi, s katero je sklenjen mednarodni sporazum (v nadaljnjem besedilu: tuji detektiv), lahko opravlja detektivsko dejavnost v Republiki Sloveniji, če izpolnjuje pogoje za zakonito opravljanje detektivske dejavnosti v svoji matični državi. Matična država je tista država, v kateri je tuji detektiv pridobil pravico do opravljanja detektivske dejavnosti po predpisih te države.
+
+(2) Pod enakimi pogoji, kot veljajo za tujega detektiva, se presoja tudi pridobitev pravice do opravljanja detektivske dejavnosti v Republiki Sloveniji slovenskega državljana, ki je opravljal ali še opravlja detektivsko dejavnost in je pridobil pravico do opravljanja detektivske dejavnosti v tujini.
+
+(3) Fizična ali pravna oseba, ki ni državljan katere od držav iz prejšnjega odstavka ali nima sedeža v kateri od njih (v nadaljnjem besedilu: tuji detektiv tretje države), lahko v Republiki Sloveniji opravlja detektivsko dejavnost pod pogoji iz 44. člena tega zakona in ob izpolnjevanju dodatnega pogoja materialne vzajemnosti. Pogoj materialne vzajemnosti je izpolnjen, če fizična ali pravna oseba, ki je državljan Republike Slovenije ali ima sedež v njej, v tretji državi lahko opravlja detektivsko dejavnost pod enakimi ali podobnimi pogoji, pod katerimi to dejavnost opravlja v Republiki Sloveniji tuji detektiv tretje države in izpolnjevanje katerih za fizično ali pravno osebo, ki je državljan Republike Slovenije ali ima sedež v njej, ni bistveno težje, kot je v pravnem redu Republike Slovenije predpisano za tujega detektiva tretje države. Če je tuji detektiv tretje države državljan več tretjih državah ali ima sedež v njih, se pri ugotavljanju materialne vzajemnosti upošteva pravni red tiste države, ki je strožji.
+
+(4) Ne glede na določbe prejšnjih odstavkov mora imeti tuji detektiv in tuji detektiv tretje države sklenjeno zavarovanje odgovornosti za škodo v skladu z 8. členom tega zakona. Za sklenjeno zavarovanje odgovornosti za škodo se šteje dokazilo o zavarovanju odgovornosti, sklenjeno v Republiki Sloveniji ali v drugi državi, če to zavarovanje ustrezno krije škodo, povzročeno v Republiki Sloveniji.
+
+(5) Tuji detektiv lahko opravlja detektivsko dejavnost v Republiki Sloveniji pod enakimi pogoji, kot so s tem zakonom določeni za detektiva, ki je državljan Republike Slovenije, in detektivsko družbo s sedežem v Republiki Sloveniji, razen če ni s tem zakonom določeno drugače.
