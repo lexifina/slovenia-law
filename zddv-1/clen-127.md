@@ -1,0 +1,9 @@
+# 127. člen (predložitev posebnega obračuna DDV)
+
+(1) Davčni zavezanec, ki nima sedeža znotraj Unije, mora davčnemu organu predložiti posebni obračun DDV za vsako koledarsko trimesečje ne glede na to, ali so bile storitve, zajete v tej posebni ureditvi, opravljene ali ne. Posebni obračun DDV mora predložiti do konca meseca po poteku obračunskega obdobja, na katero se obračun nanaša. Posebni obračun DDV mora predložiti v elektronski obliki.
+
+(2) V posebnem obračunu DDV iz prejšnjega odstavka mora davčni zavezanec, ki nima sedeža znotraj Unije, navesti slovensko individualno identifikacijsko številko DDV za uporabo te posebne ureditve ter za vsako državo članico potrošnje, v kateri je nastala obveznost za plačilo DDV, skupno vrednost opravljenih storitev, zajetih v tej posebni ureditvi, v obračunskem obdobju brez DDV in skupni znesek pripadajočega DDV te države članice, razdeljenega po davčnih stopnjah. V posebnem obračunu DDV mora davčni zavezanec, ki nima sedeža znotraj Unije, navesti tudi uporabljene davčne stopnje in skupni znesek dolgovanega DDV.
+
+(3) V posebnem obračunu DDV mora davčni zavezanec, ki nima sedeža znotraj Unije, izkazovati zneske v eurih. Če so bile opravljene storitve zaračunane v drugih valutah, mora davčni zavezanec, ki uporablja to posebno ureditev, v obračunu DDV uporabiti menjalni tečaj Evropske centralne banke zadnjega dne obračunskega obdobja, ki ga na ta dan, ali če na ta dan ni objave, na prvi naslednji dan, objavi Banka Slovenije.
+
+(4) Davčni zavezanec lahko v obdobju treh let od poteka roka za predložitev posebnega obračuna DDV iz prvega odstavka tega člena predloži spremembe tega obračuna, če pozneje ugotovi nepravilnosti. Spremembe se vključijo v enega od naslednjih posebnih obračunov DDV, v katerem se opredelijo država članica potrošnje, obračunsko obdobje in znesek DDV, za katerega se zahtevajo kakršne koli spremembe.

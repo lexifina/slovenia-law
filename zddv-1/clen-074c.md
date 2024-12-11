@@ -1,0 +1,5 @@
+# 74.c člen (popravek prvotnega odbitnega deleža)
+
+(1) Vložnik mora popraviti znesek DDV, ki je predmet zahtevka ali ki je že povrnjen, če je po predložitvi zahtevka za vračilo popravil prvotni odbitni delež DDV. Popravek se vključi v zahtevek za vračilo v koledarskem letu, ki sledi koledarskemu letu, v katerem je bil DDV zaračunan, oziroma v poseben zahtevek, poslan prek elektronskega portala v državi članici, v kateri ima vložnik sedež, če vložnik v tem koledarskem letu ne vloži nobenega zahtevka za vračilo.
+
+(2) Davčni organ upošteva popravek predhodnega zahtevka za vračilo iz prejšnjega odstavka s povišanjem ali znižanjem vrnjenega zneska oziroma s samostojnim plačilom ali povračilom, če je bil vložen poseben zahtevek.

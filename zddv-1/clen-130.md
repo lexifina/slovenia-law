@@ -1,0 +1,3 @@
+# 130. člen (vodenje evidenc)
+
+Davčni zavezanec, ki nima sedeža znotraj Unije, mora voditi dovolj natančne evidence o transakcijah v okviru te posebne ureditve, tako da z njimi zagotovi vse podatke, na podlagi katerih lahko davčni organ države članice potrošnje izvaja davčni nadzor glede pravilnosti davčnega obračuna v skladu z zakonom. Na zahtevo morajo biti evidence v elektronski obliki na voljo tako davčnemu organu v Sloveniji kot davčnemu organu v državi članici potrošnje. Davčni zavezanec, ki nima sedeža znotraj Unije, mora evidence hraniti deset let po koncu leta, ko je bila transakcija opravljena.

@@ -1,0 +1,13 @@
+# 41.a člen (oprostitev davka na dodano vrednost za blago v korist žrtev elementarnih nesreč)
+
+(1) Kadar je za blago, uvoženo v korist žrtev elementarnih nesreč, s sklepom Evropske komisije odobrena Sloveniji oprostitev plačila DDV v skladu z 11. točko prvega odstavka 51. člena tega zakona, je pod enakimi pogoji oproščena plačila DDV tudi pridobitev tega blaga znotraj Unije oziroma dobava tega blaga na ozemlju Slovenije s pravico do odbitka DDV, plačanega v predhodni fazi. Plačila DDV je oproščeno tudi opravljanje storitev, povezanih s takim blagom, vključno s storitvami dajanja v najem.
+
+(2) Kadar se blago ali storitve, za katere je bila uveljavljena oprostitev plačila DDV iz prejšnjega odstavka, uporabljajo za namene, ki niso navedeni v 11. točki prvega odstavka 51. člena tega zakona, je uporaba takega blaga ali storitev predmet DDV pod pogoji, ki veljajo v trenutku, ko pogoji za oprostitev niso več izpolnjeni.
+
+(3) Davčni zavezanec, ki uveljavlja oprostitev plačila DDV po tem členu, mora davčnemu organu predložiti poročilo o opravljenih pridobitvah oziroma dobavah blaga in storitev iz prvega odstavka tega člena, ki vsebuje vsaj naslednje podatke: identifikacijsko številko za DDV, naziv in naslov davčnega zavezanca, ki uveljavlja oprostitev plačila DDV po tem členu, davčno številko ali identifikacijsko številko za DDV državnega organa ali organizacije, ki je upravičena do oprostitve plačila DDV, tarifno oznako kombinirane nomenklature carinske tarife blaga, vrsto in količino blaga, vrsto in količino opravljenih storitev ter davčno osnovo in znesek DDV, ki ni bil zaračunan na podlagi uveljavljene oprostitve.
+
+(4) Davčni zavezanec poročilo iz prejšnjega odstavka sestavi za koledarski mesec in ga predloži davčnemu organu v elektronski obliki po elektronski poti, najpozneje do zadnjega delovnega dne v mesecu za pretekli koledarski mesec.
+
+(5) Davčni zavezanec, ki je obračunal DDV za blago in storitve, zajete s sklepom Evropske komisije iz prvega odstavka tega člena, lahko za dobave takšnega blaga in storitev, opravljene po začetku uporabe sklepa Evropske komisije, znižanje obračunanega DDV po izdanem računu vključi v obračun DDV ne prej kot v davčnem obdobju, v katerem je popravil tak račun. Davčni zavezanec, ki je obračunal DDV od pridobitev blaga, zajetega s sklepom Evropske komisije iz prvega odstavka tega člena, lahko za pridobitve takšnega blaga, opravljene po začetku uporabe sklepa Evropske komisije, znižanje obračunanega DDV vključi v obračun DDV.
+
+(6) Davčni zavezanec iz prejšnjega odstavka podatke o pridobitvah oziroma dobavah blaga in opravljenih storitvah, za katere je uveljavljal znižanje obračunanega DDV, vključi v poročilo iz tretjega odstavka tega člena.

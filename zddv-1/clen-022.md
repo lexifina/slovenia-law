@@ -1,0 +1,9 @@
+# 22. člen (dobava plina po sistemu za zemeljski plin, dobava električne energije in energije za ogrevanje ali hlajenje po omrežjih daljinskega ogrevanja in hlajenja)
+
+(1) Pri dobavi plina, po sistemu za zemeljski plin, vzpostavljenem na ozemlju Unije ali po kateremkoli omrežju, povezanim s takim sistemom, dobavi električne energije ali energije za ogrevanje ali hlajenje po omrežjih daljinskega ogrevanja ali hlajenja, davčnemu zavezancu preprodajalcu se za kraj dobave šteje kraj, kjer ima davčni zavezanec preprodajalec sedež ali stalno poslovno enoto, za katero je blago dobavljeno, ali če takega kraja ni, kraj, kjer ima stalno prebivališče ali običajno prebiva.
+
+(2) Za namene prejšnjega odstavka »davčni zavezanec preprodajalec« pomeni davčnega zavezanca, čigar osnovna dejavnost v zvezi z nabavo plina, električne energije, energije za ogrevanje ali hlajenje je preprodaja takega blaga in čigar lastna poraba tega blaga je neznatna.
+
+(3) Pri dobavi plina po sistemu za zemeljski plin, vzpostavljenem na ozemlju Unije ali po kateremkoli omrežju, povezanim s takim sistemom, dobavi električne energije ali energije za ogrevanje ali hlajenje po omrežjih daljinskega ogrevanja ali hlajenja, ki ni zajeta v prvem odstavku tega člena, se za kraj dobave šteje kraj, kjer naročnik dejansko rabi in porabi plin, električno energijo ali energijo za ogrevanje ali hlajenje.
+
+(4) Kadar naročnik iz prejšnjega odstavka ne porabi vsega ali dela plina, električne energije ali energije za ogrevanje ali hlajenje, se šteje, da je bilo neporabljeno blago rabljeno in porabljeno v kraju, kjer ima naročnik sedež svoje dejavnosti ali stalno poslovno enoto, za katero je blago dobavljeno. Če takega kraja ni, se šteje, da je naročnik blago rabil in porabil v kraju, kjer ima stalno prebivališče ali običajno prebiva.

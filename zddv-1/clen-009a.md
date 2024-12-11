@@ -1,0 +1,43 @@
+# 9.a člen (posebna ureditev skladiščenja na odpoklic)
+
+(1) Ne glede na prejšnji člen se za dobavo blaga, opravljeno za plačilo, ne šteje prenos blaga, ki je del poslovnih sredstev davčnega zavezanca, iz Slovenije v drugo državo članico, če se prenos opravi v okviru ureditve skladiščenja na odpoklic v skladu s tem členom.
+
+(2) Šteje se, da je prenos v drugo državo članico opravljen v okviru ureditve skladiščenja na odpoklic, kadar so izpolnjeni naslednji pogoji:
+
+a) davčni zavezanec ali druga oseba za njegov račun odpošlje ali odpelje blago iz Slovenije v drugo državo članico z namenom, da to blago tam pozneje dobavi drugemu davčnemu zavezancu, na katerega v skladu s pogodbo med davčnima zavezancema preide pravica do razpolaganja z blagom kot lastnika,
+
+b) davčni zavezanec, ki odpošilja ali prevaža blago oziroma za račun katerega se odpošilja ali prevaža blago (v nadaljnjem besedilu: davčni zavezanec – dobavitelj blaga), nima niti sedeža svoje dejavnosti niti stalne poslovne enote v državi članici, v katero je blago odposlano ali odpeljano,
+
+c) davčni zavezanec, kateremu je namenjena dobava blaga (v nadaljnjem besedilu: davčni zavezanec – prejemnik blaga), je identificiran za DDV v državi članici, v katero je blago odposlano ali odpeljano, njegova identiteta in identifikacijska številka za DDV, ki mu jo je dodelila ta država članica, pa sta v trenutku, ko se začne odpošiljanje ali prevoz blaga, znani davčnemu zavezancu – dobavitelju blaga, in
+
+d) davčni zavezanec – dobavitelj blaga prenos blaga iz Slovenije v drugo državo članico evidentira v evidenci iz četrtega odstavka 85. člena tega zakona, identiteto davčnega zavezanca – prejemnika blaga in njegovo identifikacijsko številko za DDV, ki mu jo je dodelila država članica, v katero se blago odpošilja ali prevaža, pa navede v rekapitulacijskem poročilu v skladu s četrtim odstavkom 90. člena tega zakona.
+
+(3) Če so izpolnjeni pogoji iz prejšnjega odstavka in se pravica do razpolaganja z blagom kot lastnik prenese na davčnega zavezanca – prejemnika blaga v roku iz četrtega odstavka tega člena, se šteje, da je v trenutku prenosa pravice do razpolaganja z blagom kot lastnik na davčnega zavezanca – prejemnika blaga:
+
+a) davčni zavezanec – dobavitelj blaga v Sloveniji opravil oproščeno dobavo blaga v skladu s 1. točko 46. člena tega zakona;
+
+b) davčni zavezanec – prejemnik blaga opravil pridobitev blaga znotraj Unije v državi članici, v katero je bilo blago odposlano ali odpeljano.
+
+(4) Če v 12 mesecih po prihodu blaga v drugo državo članico v smislu prvega odstavka tega člena blago ni dobavljeno davčnemu zavezancu – prejemniku blaga iz c) točke drugega odstavka tega člena ali osebi iz šestega odstavka tega člena in če ne nastopi nobena od okoliščin iz sedmega do desetega odstavka tega člena, se šteje, da je bil na dan po izteku obdobja 12 mesecev opravljen prenos blaga v skladu z 9. členom tega zakona.
+
+(5) Ne glede na prejšnji odstavek se šteje, da prenos v skladu z 9. členom tega zakona ni bil opravljen, če:
+
+a) pravica do razpolaganja z blagom kot lastnik ni bila prenesena in je bilo zato blago v roku iz prejšnjega odstavka vrnjeno v državo članico, iz katere je bilo odposlano ali odpeljano, in
+
+b) davčni zavezanec – dobavitelj blaga vračilo blaga iz prejšnje točke evidentira v evidenci iz četrtega odstavka 85. člena tega zakona.
+
+(6) Če davčnega zavezanca – prejemnika blaga iz c) točke drugega odstavka tega člena v roku iz četrtega odstavka tega člena kot prejemnik blaga nadomesti drug davčni zavezanec, se šteje, da prenos v skladu z 9. členom tega zakona v trenutku zamenjave prejemnika blaga ni bil opravljen, če:
+
+a) so izpolnjeni vsi drugi pogoji iz drugega odstavka tega člena in
+
+b) je davčni zavezanec – dobavitelj blaga iz b) točke drugega odstavka tega člena zamenjavo evidentiral v evidenci iz četrtega odstavka 85. člena tega zakona.
+
+(7) Če v roku iz četrtega odstavka tega člena kateri koli od pogojev iz drugega oziroma šestega odstavka tega člena ni več izpolnjen, se šteje, da je bil prenos blaga v skladu z 9. členom tega zakona opravljen v trenutku, ko ta pogoj ni bil več izpolnjen.
+
+(8) Če se v roku iz četrtega odstavka tega člena blago dobavi kateri koli drugi osebi, razen davčnemu zavezancu – prejemniku blaga iz c) točke drugega odstavka tega člena ali davčnemu zavezancu iz šestega odstavka tega člena, se šteje, da pogoji iz drugega oziroma šestega odstavka tega člena tik pred to dobavo niso več izpolnjeni.
+
+(9) Če se blago v roku iz četrtega odstavka tega člena ne vrne v Slovenijo, ampak odpošlje ali odpelje v drugo državo, se šteje, da pogoji iz drugega oziroma šestega odstavka tega člena, tik preden se tako odpošiljanje ali prevoz začne, niso več izpolnjeni.
+
+(10) V primeru uničenja, izgube ali tatvine blaga se šteje, da pogoji iz drugega oziroma šestega odstavka tega člena niso več izpolnjeni na dan, ko je bilo blago dejansko uničeno, izgubljeno ali ukradeno, če tega dneva ni mogoče določiti, pa na dan, ko je bilo ugotovljeno, da je blago uničeno, izgubljeno ali ukradeno.
+
+(11) Ta člen se smiselno uporablja tudi v primeru, če se ureditev skladiščenja na odpoklic izvaja v Sloveniji in je davčni zavezanec – dobavitelj blaga oseba s sedežem v drugi državi članici, davčni zavezanec – prejemnik blaga pa davčni zavezanec s sedežem v Sloveniji.

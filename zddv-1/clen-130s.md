@@ -1,0 +1,9 @@
+## 6.d Posebna ureditev za prijavo in plačilo DDV ob uvozu
+
+# 130.s člen (uporaba posebne ureditve)
+
+(1) Kadar davčni zavezanec za uvoz blaga, razen trošarinskih izdelkov, v pošiljki z realno vrednostjo največ 150 eurov, kot je določeno v 48. točki 1. člena Delegirane Uredbe Komisije (EU) 2015/2446 z dne 28. julija 2015 o dopolnitvi Uredbe (EU) št. 952/2013 Evropskega parlamenta in Sveta o podrobnih pravilih v zvezi z nekaterimi določbami carinskega zakonika Unije (UL L št. 343 z dne 29. 12. 2015, str. 1), zadnjič spremenjene z Delegirano uredbo Komisije (EU) 2020/877 z dne 3. aprila 2020 o spremembi in popravku Delegirane uredbe (EU) 2015/2446 o dopolnitvi Uredbe (EU) št. 952/2013 ter spremembi Delegirane uredbe (EU) 2016/341 o dopolnitvi Uredbe (EU) št. 952/2013 o carinskem zakoniku Unije (UL L št. 203 z dne 26. 6. 2020, str. 1), ne uporabi posebne ureditve iz prejšnjega podpoglavja, lahko oseba, ki ob uvozu predloži blago davčnemu organu za račun osebe, ki ji je blago namenjeno, uporabi posebno ureditev za prijavo in plačilo DDV ob uvozu v zvezi z blagom, za katero se odpošiljanje ali prevoz konča v Sloveniji. Ta oseba mora razpolagati z dovoljenjem za odloženo plačilo uvoznih dajatev v skladu s carinskimi predpisi.
+
+(2) Za namene posebne ureditve iz tega podpoglavja se šteje, da je pogoj, da je blago predloženo davčnemu organu za račun osebe, ki ji je blago namenjeno, izpolnjen, če oseba, ki predloži blago davčnemu organu, prijavi s carinsko deklaracijo, da namerava uporabiti to posebno ureditev in izterjati DDV od osebe, ki ji je blago namenjeno.
+
+(3) Če je vrednost blaga določena v nacionalni valuti, ki ni euro, se za preračun vrednosti v eure za namene iz prvega odstavka tega člena uporabi referenčni tečaj Evropske centralne banke, ki ga objavlja Banka Slovenije. Tečaj, ki se pridobi prvi delovni dan v oktobru, se uporablja naslednje koledarsko leto. Preračunan znesek v eurih se zaokroži na dve decimalki.

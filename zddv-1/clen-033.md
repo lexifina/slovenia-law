@@ -1,0 +1,21 @@
+# 33. člen (dobave blaga ali storitev)
+
+(1) Obdavčljivi dogodek in s tem obveznost obračuna DDV nastane, ko je blago dobavljeno ali so storitve opravljene.
+
+(2) Če se za dobave blaga, razen iz točke b) drugega odstavka 6. člena tega zakona, in opravljanje storitev izdajajo zaporedni računi ali se izvršijo zaporedna plačila, se šteje, da so opravljene v trenutku, ko poteče obdobje, na katero se taki računi ali plačila nanašajo, vendar to obdobje ne sme biti daljše od enega leta.
+
+(3) Za storitve, za katere je DDV dolžan plačati prejemnik storitev v skladu s 3. točko prvega odstavka 76. člena tega zakona in ki se neprekinjeno opravljajo v obdobju, daljšem od enega leta, ter za katere se v tem obdobju ne izdajajo računi in ne vršijo plačila, se šteje, da so končane ob izteku vsakega koledarskega leta, dokler storitve niso dokončane.
+
+(4) Zaporedne dobave blaga v obdobju daljšem od enega koledarskega meseca, ki so odposlane ali odpeljane iz Slovenije v drugo državo članico in v katero jih davčni zavezanec za namene svojega podjetja dobavi ali prenese z oprostitvijo DDV, se v skladu s pogoji iz 46. člena tega zakona štejejo za zaključene zadnji dan vsakega koledarskega meseca, dokler dobava ni končana.
+
+(5) Če je plačilo izvršeno preden je blago dobavljeno ali preden so storitve opravljene, nastane obveznost obračuna DDV na dan prejema plačila in od prejetega zneska plačila.
+
+(6) Če račun ni izdan, blago pa je bilo dobavljeno oziroma storitev opravljena, se DDV obračuna najpozneje zadnji dan davčnega obdobja, v katerem je nastal obdavčljivi dogodek. Prejšnji stavek se ne nanaša na storitve, za katere je DDV dolžan plačati prejemnik storitev v skladu s 3. točko prvega odstavka 76. člena tega zakona, ali na dobave blaga ali prenose blaga iz osmega odstavka tega člena.
+
+(7) Pri dobavi blaga oziroma storitev po 7., 8. in 15. členu tega zakona nastane obveznost obračuna DDV v davčnem obdobju, v katerem je nastal obdavčljivi dogodek.
+
+(8) Za dobave blaga, opravljene v drugo državo članico pod pogoji iz 46. člena tega zakona in za prenos blaga, ki ga opravi davčni zavezanec za namene svojega podjetja v drugo državo članico z oprostitvijo DDV, nastane obveznost obračuna DDV na dan izdaje računa, ali če račun ni bil izdan, 15. dan v mesecu, ki sledi mesecu, v katerem nastane obdavčljivi dogodek.
+
+(9) Drugi in peti odstavek tega člena se ne uporabljata za dobave blaga, opravljene v drugo državo članico pod pogoji iz 46. člena tega zakona in za prenose blaga, ki jih opravi davčni zavezanec za namene svojega podjetja v drugo državo članico z oprostitvijo DDV.
+
+(10) Ne glede na prvi do peti odstavek tega člena nastaneta obdavčljivi dogodek in obveznost obračuna DDV pri dobavi blaga, ki jo opravi davčni zavezanec, za katerega se šteje, da je prejel in dobavil blago v skladu s 6.a členom tega zakona, ob prejemu plačila.
