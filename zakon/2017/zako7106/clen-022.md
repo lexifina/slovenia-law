@@ -1,5 +1,0 @@
-# 22. člen (Banka Slovenije)
-(1) Ta zakon se ne uporablja za kritično infrastrukturo, ki jo upravlja Evropski sistem centralnih bank.
-(2) Ta zakon se ne uporablja za kritično infrastrukturo v upravljanju Banke Slovenije, ki jo nadzira Evropski sistem centralnih bank.
-(3) Ta zakon ne posega v nadzor kritične infrastrukture s področja pristojnosti Banke Slovenije ali Evropskega sistema centralnih bank, ki ga urejajo predpisi Evropske unije in na njihovi podlagi sprejeti predpisi Republike Slovenije.
-(4) Za kritično infrastrukturo Banke Slovenije, ki ni infrastruktura iz prvega in drugega odstavka tega člena in jo Banka Slovenije uporablja za izvajanje svojih nalog po Zakonu o Banki Slovenije (Uradni list RS, št. 72/06 - uradno prečiščeno besedilo, 59/11 in 55/17; v nadaljnjem besedilu: ZBS-1), Statutu Evropskega sistema centralnih bank in Evropske centralne banke (UL C št. 326 z dne 26. 10. 2012, str. 230; v nadaljnjem besedilu: Statut) in predpisih Evropske unije, lahko pristojni organi in organizacije sprejemajo odločitve o delovanju te infrastrukture le s soglasjem Banke Slovenije.
