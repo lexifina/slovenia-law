@@ -1,10 +1,10 @@
-# 50. člen (dovoljenja za proizvodne naprave)
-(1) Postopki izdaje dovoljenj in soglasij za postavitev, priključitev in obratovanje proizvodne naprave za proizvodnjo energije iz obnovljivih virov smejo od vložitve popolne zahteve do izdaje dokončne odločbe o tej zahtevi skupaj trajati največ dve leti.
-(2) Postopki izdaje dovoljenj in soglasij za postavitev, priključitev in obratovanje proizvodne naprave za proizvodnjo električne energije iz obnovljivih virov, katerih inštalirana zmogljivost je manjša od 150 kW, smejo od vložitve popolne zahteve do izdaje dokončne odločbe o tej zahtevi skupaj trajati največ eno leto.
-(3) Stranki mora biti pred potekom roka iz prvega in prejšnjega odstavka tega člena vročen obrazložen sklep, s katerim se v izjemnih okoliščinah, ki so obrazložene v sklepu, postopek izdaje dovoljenj in soglasij skupaj podaljša največ za eno leto.
-(4) Če je za obnovo proizvodne naprave treba pridobiti dovoljenja in soglasja, smejo postopki za postavitev, priključitev in obratovanje take naprave od vložitve popolne zahteve do izdaje dokončne odločbe o tej zahtevi skupaj trajati največ eno leto.
-(5) Stranki mora biti pred potekom roka iz prejšnjega odstavka vročen obrazložen sklep, s katerim se postopek izdaje dovoljenj in soglasij skupaj podaljša največ za eno leto, kadar je to utemeljeno v izjemnih okoliščinah, zlasti zaradi nujnih varnostnih razlogov v primeru, ko projekt v zvezi z obnovo proizvodne naprave bistveno vpliva na omrežje ali osnovno zmogljivost, velikost ali delovanje proizvodne naprave.
-(6) Roki iz tega člena se uporabljajo brez poseganja v obveznosti, ki izhajajo iz zakona, ki ureja varstvo okolja, zakona, ki ureja upravni spor, in drugih morebitnih sodnih postopkov ter morebitnih postopkov alternativnega reševanja sporov.
-(7) Za postavitev manjših naprav za proizvodnjo električne energije iz obnovljivih virov energije ali s soproizvodnjo z visokim izkoristkom, ki se namestijo na, v ali ob obstoječi stavbi ali gradbenem inženirskem objektu, zgrajenem v skladu s predpisi, ki urejajo graditev objektov, ni potrebno gradbeno dovoljenje.
-(8) Za projekte v zvezi z obnovo proizvodne naprave, katerih priključna moč ne presega 50 kW za priključitev na omrežje, se uporabi postopek enostavnega priključevanja iz 42. člena tega zakona. Če distribucijski operater ugotovi, da so z obnovo proizvodne naprave predvideni znatni negativni okoljski ali družbeni vplivi, mora o tem vlagatelja obvestiti najpozneje v šestih mesecih po prejemu vloge.
-(9) Vlada z uredbo določi vrste, velikost ter pogoje za montažo in priključitev manjših naprav za proizvodnjo električne energije iz obnovljivih virov energije ali s soproizvodnjo z visokim izkoristkom iz sedmega odstavka tega člena, za katere ni potrebno gradbeno dovoljenje.
+## 2. Trajanje postopka izdaje dovoljenj
+# 50. člen (splošna pravila glede trajanja postopka izdaje dovoljenj)
+(1) Postopek izdaje dovoljenj, ki ga ureja ta oddelek, vključuje izdajo vseh dovoljenj, soglasij ali mnenj in drugih posamičnih upravnih aktov, potrebnih za postavitev, rekonstrukcijo, obnovo, priključitev na omrežje, obratovanje ter vključitev energije iz obnovljivih virov v omrežja za ogrevanje in hlajenje, za:
+- proizvodne naprave, vključno s tistimi, ki združujejo različne obnovljive vire energije,
+- toplotne črpalke,
+- objekte za shranjevanje električne energije ali toplote na isti lokaciji.
+(2) Postopek izdaje dovoljenj iz prejšnjega odstavka zajema vse faze od popolnosti vloge za izdajo dovoljenja do izdaje odločbe.
+(3) Razen če ne sovpada z drugimi fazami upravnega postopka, trajanje postopka izdaje dovoljenj iz tega oddelka ne vključuje:
+- časa, v katerem se proizvodne naprave, njihovi priključki na omrežje in povezana omrežna infrastruktura, potrebna za zagotovitev stabilnosti, zanesljivosti in varnosti omrežja, gradijo ali obnavljajo in
+- časa za upravne postopke, potrebne za velike nadgradnje omrežja zaradi zagotavljanja stabilnosti, zanesljivosti in varnosti omrežja.

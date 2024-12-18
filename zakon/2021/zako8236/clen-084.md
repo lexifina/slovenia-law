@@ -1,0 +1,9 @@
+# 84. člen (prenehanje veljavnosti in podaljšanje uporabe podzakonskih predpisov)
+Z dnem uveljavitve tega zakona prenehajo veljati:
+- Uredba o podporah elektriki, proizvedeni iz obnovljivih virov energije in v soproizvodnji toplote in elektrike z visokim izkoristkom (Uradni list RS, št. 74/16 in 74/20), ki se še naprej uporablja do uveljavitve predpisa, izdanega na podlagi osmega odstavka 20. člena, šestega odstavka 23. člena in osmega odstavka 24. člena tega zakona;
+- Uredba o načinu določanja in obračunavanja prispevkov za zagotavljanje podpor proizvodnji električne energije v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije (Uradni list RS, št. 46/15 in 76/17), ki se še naprej uporablja do uveljavitve predpisa, izdanega na podlagi tega zakona prvega odstavka 17. člena tega zakona;
+- Uredba o obnovljivih virih energije v prometu (Uradni list RS, št. 64/16 in 31/21), ki se še naprej uporablja do uveljavitve predpisa, izdanega na podlagi devetega odstavka 59. člena tega zakona;
+- Uredba o pravilih za pripravo napovedi položaja proizvodnih naprav na obnovljive vire energije in s soproizvodnjo toplote in električne energije z visokim izkoristkom na trgu z električno energijo (Uradni list RS, št. 46/19), ki se še naprej uporablja do uveljavitve predpisa, izdanega na podlagi dvanajstega odstavka 20. člena tega zakona;
+- Uredba o vzpostavitvi infrastrukture za alternativna goriva v prometu (Uradni list RS, št. 41/17), ki se še naprej uporablja do uveljavitve predpisa, ki ureja infrastrukturo za alternativna goriva;
+- Uredba o samooskrbi z električno energijo iz obnovljivih virov energije (Uradni list RS, št. 17/19 in 197/20);
+- Pravilnik o tehničnih zahtevah naprav za samooskrbo z električno energijo iz obnovljivih virov energije (Uradni list RS, št. 1/16, 46/18), ki se še naprej uporablja do uveljavitve predpisa, ki ureja nizkonapetostne inštalacije v stavbah.

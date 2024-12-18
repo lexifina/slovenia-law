@@ -1,3 +1,4 @@
+## 3. Kontaktna točka
 # 51. člen (kontaktna točka)
 (1) Kontaktna točka na zahtevo vlagatelja usmerja vloge za pridobitev dovoljenj in drugih aktov iz tretjega odstavka tega člena in vlagatelju pomaga pri celotnem postopku od vložitve zahteve do izdaje dokončne odločbe o tej zahtevi.
 (2) Naloge kontaktne točke so del dejavnosti centra za podpore. Center za podpore lahko za izvajanje nalog iz tega člena sodeluje z lokalnimi energetskimi organizacijami.
@@ -19,10 +20,11 @@ k) vsako drugo dovoljenje, ki se nanaša na proizvodno napravo in je potrebno za
 a) vzpostavi in vodi javno dostopne uradne evidence prejetih vlog in popolnih zahtev ter faz v postopku vključno z zamudami ter realiziranih proizvodnih naprav;
 b) sodeluje s pristojnimi organi, ki odločajo v postopkih za izdajo dovoljenj in drugih aktov iz tretjega odstavka tega člena, da se omogoči čim hitrejši in učinkovitejši postopek pri izmenjavi vlog in drugih dokumentov, pomaga pristojnim organom z informacijami o nameravani proizvodni napravi in drugem objektu, opozarja na tek rokov in podobno.
 (6) Poleg nalog iz prejšnjega odstavka kontaktna točka opravlja tudi naslednja opravila:
-a) pripravi in javno objavi priročnik o postopkih za investitorje na področju proizvodnje energije iz obnovljivih virov, ki posebej obravnava tudi majhne projekte in projekte končnih odjemalcev s samooskrbo;
+a) pripravi in javno objavi priročnik o postopkih za investitorje na področju proizvodnje energije iz obnovljivih virov, ki posebej obravnava tudi majhne projekte in projekte končnih odjemalcev s samooskrbo, vključno s projekti skupnostne samooskrbe;
 b) obvešča glede spodbujanja rabe obnovljivih virov energije, vključevanja v sistem samooskrbe in oblikovanja skupnostne samooskrbe;
 c) opravlja druga administrativna opravila za potrebe postopkov;
-č) sodeluje z občinami in vlagatelji, če je za izvedbo investicijske namere treba sprejeti prostorski izvedbeni akt.
+č) sodeluje z občinami in vlagatelji, če je za izvedbo investicijske namere treba sprejeti prostorski izvedbeni akt;
+d) ministrstvu, pristojnemu za energijo, poroča o svojih ugotovitvah glede spoštovanja rokov za izdajo dovoljenj po tem zakonu.
 (7) Kontaktna točka mora zagotoviti elektronsko poslovanje z vlogami. V ta namen vzpostavi informacijski sistem, s katerim zagotavlja ustrezno informacijsko podporo za integrirano izvajanje poslovnih in upravnih procesov.
 (8) Druge osebe in organi, ki sodelujejo v postopkih, opredeljenih v tem členu, so dolžni kontaktni točki v najkrajšem možnem roku neodplačno predati podatke oziroma informacije, ki jih kontaktna točka potrebuje, tudi za postopke, za katere ni bila vložena zahteva vlagatelja v skladu s prvim odstavkom tega člena, pri čemer se ne predajo osebni podatki vlagateljev.
 (9) Delovanje kontaktne točke se financira iz sredstev za podpore iz 16. člena tega zakona.

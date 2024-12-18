@@ -1,0 +1,3 @@
+# 92. člen (prehodna določba v zvezi z opravljanjem dejavnosti centra za podpore in začetek delovanja kontaktne točke)
+(1) Gospodarska družba, ki na dan uveljavitve tega zakona opravlja dejavnost operaterja trga z elektriko, nadaljuje opravljanje dejavnosti centra za podpore kot gospodarske javne službe v skladu s Koncesijsko pogodbo št. 3 za opravljanje gospodarske javne službe dejavnost operaterja trga z elektriko št. 2430-16-388005 z dne 28. julija 2016 in s tem zakonom do podelitve koncesije iz petega odstavka 18. člena tega zakona.
+(2) Kontaktna točka iz 51. člena tega zakona začne delovati najpozneje v enem letu od uveljavitve tega zakona.
