@@ -1,0 +1,5 @@
+# 28. člen (poročanje)
+
+(1) Nosilci sektorjev na podlagi letnih poročil kritičnih subjektov o zagotavljanju neprekinjenega delovanja kritične infrastrukture in opravljanju bistvene storitve za preteklo leto, ki jih ti pripravijo do konca januarja, pripravijo letno poročilo o zagotavljanju neprekinjenega delovanja kritične infrastrukture za sektor kritične infrastrukture iz svoje pristojnosti in ga do konca februarja pošljejo ministrstvu. Ta pripravi skupno letno poročilo o zagotavljanju neprekinjenega delovanja kritične infrastrukture in ga do konca marca za preteklo leto predloži vladi.
+
+(2) V poročilih iz prejšnjega odstavka se navedejo izredni dogodki, ki so povzročili prekinitev zagotavljanja bistvene storitve z negativnimi materialnimi in drugimi posledicami za delovanje sektorja, glede tega izvedeni ukrepi in rešitve ter sprejeti ali predlagani ukrepi za izboljšanje odpornosti kritičnega subjekta in zaščite kritične infrastrukture. Predlogi ukrepov za izboljšanje stanja na področju kritične infrastrukture morajo biti finančno, materialno in kadrovsko utemeljeni.
