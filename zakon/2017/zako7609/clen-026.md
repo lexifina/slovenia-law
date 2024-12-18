@@ -1,4 +1,0 @@
-## PREHODNE IN KONČNA DOLOČBA
-# 26. člen
-(1) Vlada uskladi Uredbo o cestninskih cestah in cestnini (Uradni list RS, št. 77/16) s četrtim odstavkom 3. člena, z osmim odstavkom 6. člena in s sedmim odstavkom 37. člena zakona v štirih mesecih od uveljavitve tega zakona.
-(2) Upravljavec cestninskih cest uskladi splošni akt o cestninjenju iz 21. člena zakona s petim in šestim odstavkom 9. člena, s tretjim in četrtim odstavkom 27. člena, s prvim in tretjim odstavkom 31. člena in z osmim odstavkom 37. člena zakona v štirih mesecih od uveljavitve tega zakona.

@@ -1,6 +1,0 @@
-# 12. člen
-V prvem odstavku 30. člena se črta besedilo "v Republiki Sloveniji".
-V tretjem odstavku se na koncu doda besedilo, ki se glasi: "Listine za dokazovanje emisijskega razreda EURO lahko cestninski zavezanec predloži tudi pozneje, vendar se do potrditve njihove ustreznosti šteje, da spada vozilo v emisijski razred EURO 0. Cestninski zavezanec v tem primeru ni upravičen do vračila cestnine za nazaj. Upravljavec cestninskih cest potrdi ustreznost naknadno dostavljenih listin za dokazovanje emisijskega razreda EURO najpozneje v 30 dneh od dneva prejema.".
-V šestem odstavku se besedilo "20 dni od izstavitve obračuna cestnine" nadomesti z besedilom "90 dni od izstavitve potrdila o prehodih, ki ga upravljavec cestninskih cest posreduje uporabniku elektronskega cestninjenja najkasneje do 15. dne v mesecu za pretekli mesec", v zadnjem stavku pa črtata vejica ter besedilo "razen če cestninski zavezanec soglaša z daljšim hranjenjem podatkov".
-Za šestim odstavkom se doda nov sedmi odstavek, ki se glasi:
-"(7) Cestninski zavezanec se lahko upravljavcu cestninskih cest pritoži glede obračunanega zneska dolgovane cestnine najpozneje pet delovnih dni pred potekom roka hrambe podatkov o lokaciji in gibanju vozila, določenega v prejšnjem odstavku.".
