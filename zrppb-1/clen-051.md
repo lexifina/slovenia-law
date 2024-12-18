@@ -1,0 +1,7 @@
+# 51. člen (prodaja podrejenih kvalificiranih obveznosti neprofesionalnim strankam)
+
+(1) Izdajatelj kvalificiranih obveznosti mora zagotoviti, da skupni nominalni znesek posamezne kvalificirane obveznosti, ki izpolnjuje vse pogoje iz 72.a člena, razen pogojev iz točke (b) prvega odstavka 72.a člena, vključno s pogoji iz 72.b člena, razen tretjega, četrtega in petega odstavka 72.b člena Uredbe 575/2013/EU in je namenjena za prodajo investitorjem, ki imajo v skladu z zakonom, ki ureja trg finančnih instrumentov, položaj neprofesionalne stranke, znaša najmanj 50.000 eurov.
+
+(2) Oseba, ki opravlja investicijske storitve na območju Republike Slovenije kot investicijsko podjetje, kreditna institucija, upravljavec kolektivnega naložbenega podjema za vlaganja v prenosljive vrednostne papirje ali upravljavec alternativnega investicijskega sklada, lahko proda kvalificirane obveznosti, ki izpolnjujejo vse pogoje iz 72.a člena, razen pogojev iz točke (b) prvega odstavka 72.a člena, vključno s pogoji iz 72.b člena, razen tretjega, četrtega in petega odstavka 72.b člena Uredbe 575/2013/EU, investitorju, ki ima v skladu z zakonom, ki ureja trg finančnih instrumentov, položaj neprofesionalne stranke, če skupni nominalni znesek posamezne kvalificirane obveznosti znaša najmanj 50.000 eurov.
+
+(3) Ne glede na prejšnji odstavek se glede pojasnilne obveznosti in obveznosti poročanja stranki v zvezi z investicijskim svetovanjem in storitvami gospodarjenja uporabljajo določbe zakona, ki ureja trg finančnih instrumentov.

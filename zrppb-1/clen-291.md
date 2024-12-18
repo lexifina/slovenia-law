@@ -1,0 +1,3 @@
+# 291. člen (razvrstitev v nov razred)
+
+V stečajnem postopku se za namen poplačila terjatev upnikov v prednostni razred iz 9. točke drugega odstavka 230. člena tega zakona lahko razvrstijo le terjatve iz naslova dolžniških instrumentov, ki izpolnjujejo pogoje po tem zakonu in so izdani po uveljavitvi tega zakona ter dolžniški instrumenti, ki so bili izdani pred uveljavitvijo tega zakona, če bi se v skladu z Zakonom o reševanju in prisilnem prenehanju bank (Uradni list RS, št. 44/16, 71/16 – odl. US, 9/19 in 72/19 – ZPSVIKOB; v nadaljnjem besedilu: ZRPPB) v primeru stečaja te terjatve lahko uvrstile v prednostni razred iz 9. točke drugega odstavka 207. člena ZRPPB.

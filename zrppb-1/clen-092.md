@@ -1,0 +1,7 @@
+# 92. člen (izvajanje pooblastil v zvezi z ukrepi za reševanje)
+
+(1) Banka Slovenije izvaja pooblastila in pristojnosti za reševanje v skladu s tem zakonom z uporabo posameznih ukrepov za reševanje, ki vključujejo uporabo instrumentov za reševanje ter uporabo drugih pooblastil, da se tako dosežejo cilji reševanja v skladu s 27. členom tega zakona.
+
+(2) Banka Slovenije izvaja posamezna pooblastila in pristojnosti v zvezi z ukrepi za reševanje samostojno ali ob sodelovanju drugih pristojnih organov na način, ki zagotavlja učinkovito uporabo ukrepov in instrumentov za reševanje za doseganje ciljev reševanja. Banka Slovenije pri uporabi ukrepov za reševanje upošteva cilje reševanja iz 27. člena tega zakona ter pri tem uporabi tiste instrumente in pooblastila za reševanje, ki so najprimernejši za uresničevanje teh ciljev glede na konkretne okoliščine v posameznem primeru.
+
+(3) Če se v zvezi s subjektom reševanja uporabi instrument prodaje poslovanja, instrument ustanovitve premostitvene banke ali instrument izločitve sredstev, se za uveljavljanje pravic delavcev v zvezi s tem prenosom uporabljajo pravila o pravicah delavcev v primeru stečaja gospodarskih družb na podlagi zakona, ki ureja finančno poslovanje, postopke zaradi insolventnosti in prisilno prenehanje. Banka Slovenije predstavnike zaposlenih pri subjektu reševanja obvesti o uporabi instrumentov za reševanje in se po potrebi z njimi o tem posvetuje.
