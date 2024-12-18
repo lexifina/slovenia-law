@@ -1,4 +1,0 @@
-# 19.d člen (odločba o vplačilu prispevka)
-(1) Banka Slovenije naloži instituciji vplačilo prispevka iz 19.b ali 19.c člena tega zakona z odločbo o vplačilu prispevka. Za postopek izdaje odločbe o vplačilu prispevka se uporabljajo določbe zakona, ki ureja bančništvo, o postopku odločanja Banke Slovenije v posamičnih zadevah, če ni v tem zakonu določeno drugače.
-(2) Banka Slovenije v odločbi o vplačilu prispevka opredeli račun iz tretjega odstavka 19.a člena tega zakona, na katerega institucije plačajo posamezne prispevke. Institucija mora prispevek vplačati v 8 dneh od vročitve odločbe.
-(3) V postopku sodnega varstva zoper odločbo o vplačilu prispevka ni mogoče uveljavljati razlogov, ki so povezani z izračunom posameznega prispevka, ki ga je v okviru svojih pristojnosti na podlagi Uredbe (EU) št. 806/2014 izdelal enotni odbor za reševanje, ampak lahko institucija te razloge uveljavlja v postopku sodnega varstva v skladu s 85. in 86. členom Uredbe (EU) št. 806/2014.
