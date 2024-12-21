@@ -1,0 +1,11 @@
+# 32. člen (prijave, ki jih vlagajo delodajalci)
+
+(1) Delodajalci vlagajo prijavo v zavarovanje, odjavo iz zavarovanja in prijavo sprememb med zavarovanjem za vsakega delavca v delovnem razmerju.
+
+(2) Delodajalci, ki so plačniki davka v skladu z zakonom, ki ureja davčni postopek, za delavce v delovnem razmerju ter za osebe, ki v okviru drugega pravnega razmerja opravljajo delo in izpolnjujejo pogoje za obvezno zavarovanje po predpisih o pokojninskem in invalidskem zavarovanju, v obračunu davčnega odtegljaja, ki ga v skladu z zakonom, ki ureja davčni postopek, predpiše minister, pristojen za finance (v nadaljnjem besedilu: obračun davčnega odtegljaja), sporočijo tudi podatke, ki so potrebni za oblikovanje prijave podatkov o osnovah, ter spremembe teh podatkov, in sicer na način in v rokih, predpisanih z zakonom, ki ureja davčni postopek, za predložitev obračuna davčnega odtegljaja.
+
+(3) Ne glede na drugi odstavek tega člena so podatke, ki so potrebni za oblikovanje prijave podatkov o osnovah, dolžni sporočiti tudi delodajalci in izplačevalci nadomestil plače, ki niso plačniki davka v skladu z zakonom, ki ureja davčni postopek, in niso fizične osebe, ki opravljajo dejavnost, v obračunu prispevkov za socialno varnost, in sicer za delavce v delovnem razmerju, ki izpolnjujejo pogoje za obvezno pokojninsko in invalidsko zavarovanje po predpisih o pokojninskem in invalidskem zavarovanju, in delavcu med trajanjem delovnega razmerja neposredno izplačujejo plačo oziroma nadomestilo plače ter so dolžni predložiti obračun prispevkov za socialno varnost za te delavce.
+
+(4) Ne glede na drugi odstavek tega člena so za osebe iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti, dolžni sporočiti podatke iz drugega odstavka tega člena organizacije oziroma delodajalci, ki posredujejo začasna in občasna dela tem osebam.
+
+(5) Podatke iz drugega in tretjega odstavka tega člena vlagajo delodajalci tudi za zavarovance, ki so prejemniki plačil iz pravnih razmerij, na podlagi katerih zavarovanec ni več vključen v zavarovanje, oziroma ki presegajo polni delovni oziroma zavarovalni čas.

@@ -1,0 +1,3 @@
+# 87.c člen (koordinacija predpisov o obveznih socialnih zavarovanjih za isto pravno razmerje)
+
+Kadar so z obstojem pravnega razmerja v določenem obdobju izpolnjeni pogoji za vključitev v obvezno socialno zavarovanje po enem od predpisov iz prvega odstavka 87.a člena tega zakona in bi pridobitev lastnosti zavarovanca v skladu s tem predpisom pomenila, da v obveznem socialnem zavarovanju po drugem od predpisov iz prvega odstavka 87.a člena tega zakona za isto obdobje nastane sprememba zavarovalne podlage, oseba pridobi lastnost zavarovanca v vseh obveznih socialnih zavarovanjih, za katera so z istim dejanskim stanjem izpolnjeni pogoji, z dnem, ko so izpolnjeni pogoji za zavarovanje po predpisu, po katerem v določenem obdobju ni bila zavarovana.
