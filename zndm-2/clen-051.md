@@ -1,0 +1,5 @@
+# 51. člen (uporaba zakona na notranjih mejah)
+
+(1) Do uveljavitve Sklepa Sveta EU, sprejetega na podlagi drugega odstavka 3. člena Akta o pogojih pristopa Češke republike, Republike Estonije, Republike Cipra, Republike Latvije, Republike Litve, Republike Madžarske, Republike Malte, Republike Poljske, Republike Slovenije in Slovaške republike in prilagoditvi pogodb, na katerih temelji Evropska unija (Uradni list RS - MP, št. 3/04), v Republiki Sloveniji, se na notranjih mejah uporabljajo določbe tega zakona in določbe Zakonika o schengenskih mejah, ki veljajo za zunanje meje.
+
+(2) Z dnem uveljavitve Sklepa Sveta EU, sprejetega na podlagi drugega odstavka 3. člena Akta o pogojih pristopa Češke republike, Republike Estonije, Republike Cipra, Republike Latvije, Republike Litve, Republike Madžarske, Republike Malte, Republike Poljske, Republike Slovenije in Slovaške republike in prilagoditvi pogodb, na katerih temelji Evropska unija (Uradni list RS - MP, št. 3/04), v Republiki Sloveniji, se na notranjih mejah prenehajo uporabljati določbe IV. in V. poglavja tega zakona, razen ob začasni ponovni uvedbi nadzora na notranjih mejah v skladu s 36. členom tega zakona.

@@ -1,0 +1,21 @@
+# 8. člen (omogočanje nadzora državne meje)
+
+(1) Za opravljanje nadzora državne meje in preprečevanje nedovoljenega prehajanja državne meje sme policija postaviti table z opozorilnimi napisi in drugo signalizacijo, namestiti in uporabljati tehnična sredstva za fotografiranje, video in avdio snemanje, tehnična sredstva za prepoznavo oseb in predmetov ter tehnična sredstva za ugotovitev ali preverjanje identifikacije oseb ob primerjavi podatkov, zajetih v potovalnem dokumentu, in identifikacijo vozil ter postaviti, namestiti in uporabljati druga tehnična in druga sredstva kot so varovalna ograja ali druga tehnična ovira ali druga sredstva za preprečevanje nedovoljenega prehajanja državne meje. Za vzdrževanje tabel in druge signalizacije ter tehničnih sredstev in drugih sredstev po tem členu je pristojna policija.
+
+(2) Če je potrebno za uspešno izvedbo nalog po tem zakonu in nalog, predpisanih s pravnim redom Evropske unije, policisti lahko uporabljajo zemljišča in vodne površine ne glede na lastništvo.
+
+(3) Lastniki in posestniki zemljišč in vodnih površin morajo pustiti prost dostop in gibanje za nemoteno opravljanje nalog nadzora državne meje.
+
+(4) Lastniki in posestniki zemljišč so dolžni dopustiti postavitev, namestitev, uporabo, vzdrževanje in shranjevanje tehničnih in drugih sredstev iz prvega odstavka tega člena, če opravljanja nadzora državne meje in preprečevanja nedovoljenega prehajanja državne meje ni mogoče zagotoviti z obstoječimi kadrovskimi viri in organizacijskimi ukrepi ali so bila ta neuspešna in so podane nepredvidene ali nujne razmere, ki ogrožajo življenje, osebno varnost in premoženje ljudi, vsakdo pa se je dolžan vzdržati vseh ravnanj, ki bi ovirala postavitev, namestitev, uporabo, vzdrževanje ali shranjevanje teh sredstev. Policija lastnike obvesti o razlogih za poseg na zemljiščih, tehnična in druga sredstva pa se odstranijo takoj, ko niso več potrebna za opravljanje nalog iz tega člena.
+
+(5) Za postavitev, namestitev, uporabo, vzdrževanje in shranjevanje tehničnih in drugih sredstev ob državni meji iz prvega odstavka tega člena in izpolnjenih pogojih iz prejšnjega odstavka se ne uporabljajo predpisi, ki urejajo graditev objektov, in prostorski akti ter predpisi, ki urejajo varstvo okolja, ohranjanje narave, sladkovodno ribištvo, divjad in lovstvo, ter predpisi, ki urejajo gozdove in vode.
+
+(6) Ne glede na prejšnji odstavek policija v sodelovanju z ministrstvom, pristojnim za okolje, pripravi načrt namestitve teh sredstev in pridobi oceno njihovih vplivov na naravo, pri tem pa smiselno uporabi metodologijo iz predpisa, ki ureja presojo sprejemljivosti vplivov na varovana območja, s predlogi omilitvenih ukrepov, če postavitev, namestitev, uporaba, vzdrževanje ali shranjevanje tehničnih in drugih sredstev iz prvega odstavka tega člena ob državni meji traja dlje kot šest mesecev in je verjeten pomemben negativni vpliv na varovana območja. Do ocene vplivov in omilitvenih ukrepov se opredeli z mnenjem strokovna organizacija, pristojna za varstvo narave, in se za način izvedbe omilitvenih ukrepov za postavitev, namestitev, uporabo, vzdrževanje in shranjevanje tehničnih in drugih sredstev iz prvega odstavka tega člena dogovori s policijo.
+
+(7) Policija se pri postavitvi, namestitvi, uporabi, vzdrževanju in shranjevanju tehničnih in drugih sredstev iz prvega odstavka tega člena zaradi izvajanja gospodarske javne službe urejanja voda in državnega monitoringa redno usklajuje z ministrstvom, pristojnim za vode, in koncesionarjem, ki ob državni meji izvaja gospodarsko javno službo urejanja voda.
+
+(8) Uporaba tehničnih sredstev iz prvega odstavka tega člena je dopustna samo pri opravljanju nadzora državne meje, ki ga policija izvaja skladno z Zakonikom o schengenskih mejah.
+
+(9) S tehničnimi sredstvi iz prvega odstavka tega člena sme policija pridobivati in obdelovati osebne podatke pod pogoji, ki jih določata zakon, ki ureja naloge in pooblastila policije in zakon, s katerim se določajo pogoji in načini vstopa, zapustitve in bivanja tujcev v Republiki Sloveniji. Pri tem sme policija uporabljati nacionalne, EU in mednarodne baze podatkov do katerih dostopa.
+
+(10) Način uporabe tehničnih sredstev iz prvega odstavka tega člena, v obsegu, ki ga določa Zakonik o schengenskih mejah, podrobneje predpiše minister, pristojen za notranje zadeve.
