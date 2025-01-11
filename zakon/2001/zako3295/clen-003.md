@@ -1,3 +1,0 @@
-# 3. člen (investitor)
-(1) Investitor graditve mejnega prehoda je Republika Slovenija. Naloge investitorja za Republiko Slovenijo opravlja ministrstvo, pristojno za upravo (v nadaljevanju besedila: pooblaščeni investitor).
-(2) Pooblaščeni investitor opravlja naloge v zvezi z prostorskim planiranjem in urbanističnim načrtovanjem, finančnim inženiringom, pridobivanjem nepremičnin ter pripravlja, organizira in vodi graditev mejnega prehoda. Pooblaščeni investitor tudi vlaga zahteve za uvedbo postopka ureditve meje oboda in parcelacijo obodnih parcel ureditvenega območja mejnega prehoda.
