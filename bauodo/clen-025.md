@@ -1,0 +1,17 @@
+# 25. člen IZMENJAVA INFORMACIJ
+
+1. Pristojna organa držav pogodbenic si izmenjavata informacije, ki so predvidoma pomembne za izvajanje določb te konvencije ali za izvajanje ali uveljavljanje domače zakonodaje glede davkov vseh vrst in opisov, ki se uvedejo v imenu držav pogodbenic ali njunih političnih enot ali lokalnih oblasti, če obdavčevanje na njeni podlagi ni v nasprotju s konvencijo. Izmenjava informacij ni omejena s 1. in 2. členom.
+
+2. Vse informacije, ki jih država pogodbenica prejme na podlagi prvega odstavka, se obravnavajo kot tajnost enako kakor informacije, pridobljene po domači zakonodaji te države, in se razkrijejo samo osebam ali organom (vključno s sodišči in upravnimi organi), udeleženim pri odmeri ali pobiranju davkov iz prvega odstavka, pri njihovi izterjavi ali pri pregonu ali odločanju o pritožbah v zvezi z njimi ali pri nadzoru nad navedenim. Te osebe ali organi uporabljajo informacije samo za te namene. Informacije lahko razkrijejo v javnih sodnih postopkih ali sodnih odločbah. Ne glede na to se informacije, ki jih pridobi država pogodbenica, lahko uporabljajo za druge namene, kadar se za take druge namene lahko uporabljajo po zakonodaji obeh držav in če pristojni organ države, ki informacije da, tako uporabo dovoli.
+
+3. Določbe prvega in drugega odstavka se v nobenem primeru ne razlagajo tako, da nalagajo državi pogodbenici obveznost, da:
+
+(a) izvaja upravne ukrepe, ki niso v skladu z zakonodajo in upravno prakso te ali druge države pogodbenice;
+
+(b) predloži informacije, ki jih ni mogoče dobiti na podlagi zakonodaje ali po običajni upravni poti te ali druge države pogodbenice;
+
+(c) predloži informacije, ki bi razkrile kakršno koli trgovinsko, poslovno, industrijsko, komercialno ali poklicno skrivnost ali trgovinski postopek, ali informacije, katerih razkritje bi bilo v nasprotju z javnim redom.
+
+4. Če država pogodbenica zahteva informacije v skladu s tem členom, druga država pogodbenica sprejme ukrepe za pridobitev zahtevanih informacij, tudi če jih ta druga država morda ne potrebuje za svoje davčne namene. Za obveznost iz prejšnjega stavka veljajo omejitve iz tretjega odstavka, toda v nobenem primeru se take omejitve ne razlagajo tako, da država pogodbenica lahko zavrne predložitev informacij samo zato, ker sama zanje nima interesa.
+
+5. V nobenem primeru se določbe tretjega odstavka ne razlagajo tako, da država pogodbenica lahko zavrne predložitev informacij samo zato, ker jih hrani banka, druga finančna institucija, pooblaščenec ali oseba, ki deluje kot zastopnik ali fiduciar, ali zato, ker so povezane z lastniškimi deleži v neki osebi.
