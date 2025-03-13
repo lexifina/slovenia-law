@@ -1,0 +1,9 @@
+# 17. člen (podpora izobraževalnim in promocijskim kampanjam ali njihova izvedba)
+
+(1) Pristojni organ lahko v skladu s predpisi o javnih financah podeli subvencije za izvedbo izobraževalnih in promocijskih kampanj, katerih namen je promocija pridobivanja in uporabe digitalnih kompetenc, spodbujanje zaupanja v digitalne tehnologije in njihove varne ter odgovorne rabe, promocija izobraževalnih programov in poklicev s področja digitalnih tehnologij s poudarkom na zmanjševanju razlik med spoloma na tem področju ter promocija kompetenc podjetnosti v povezavi z digitalnimi tehnologijami.
+
+(2) Za subvencije iz tega člena lahko kandidirajo osebe, ki izpolnjujejo pogoje iz drugega in tretjega odstavka 15. člena tega zakona, in imajo strokovno usposobljen kader za izvajanje kampanj. Osnovni merili za dodelitev subvencij iz tega člena sta pretekle reference na področju izvajanja kampanj ter vsebinska in izvedbena zasnova kampanje. Podrobnejši pogoji in merila za dodelitev subvencij se določijo v javnem razpisu.
+
+(3) Pristojni organ lahko v skladu s predpisi o javnih financah in zakonom, ki ureja nevladne organizacije, podeli subvencije za izvedbo projektov vsebinskih mrež nevladnih organizacij za dejavnosti informiranja, svetovanja, izobraževanja, raziskovanja, zagovorništva mreženja, promocije in podpore v korist vseh nevladnih organizacij na področju uporabe in razvoja digitalnih tehnologij in digitalnih kompetenc. Osnovni pogoj za dodelitev subvencije je status nevladne organizacije v javnem interesu, osnovno merilo pa pretekle reference na področju izvajanja izobraževalnih in promocijskih kampanj. Podrobnejši pogoji in merila za dodelitev subvencij se določijo v javnem razpisu.
+
+(4) Pristojni organ lahko v skladu s predpisi o javnem naročanju naroči izvedbo izobraževalnih ali promocijskih kampanj na področjih iz prvega odstavka tega člena.
