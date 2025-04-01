@@ -1,0 +1,15 @@
+# 40. člen (oskrbovalni standardi)
+
+(1) Občina za izvajanje javne službe odvajanja in čiščenja odpadnih voda zagotavlja na svojem območju izgradnjo javnega kanalizacijskega omrežja in komunalne čistilne naprave s predpisanim čiščenjem oziroma dodatno obdelavo odpadne vode. Javno kanalizacijsko omrežje in komunalna čistilna naprava morata imeti upravljavca, ki je pravna oseba in jo občina določi ali izbere za izvajalca javne službe odvajanja oziroma čiščenja odpadnih voda.
+
+(2) Na območju, ki je opremljeno z javno kanalizacijo, mora lastnik objekta ali dela objekta, v katerem nastaja komunalna odpadna voda, zagotoviti kanalizacijski priključek, če je to tehnično izvedljivo in ne povzroča nesorazmernih stroškov glede na koristi za okolje ali zdravje ljudi, izvajalec javne službe odvajanja in čiščenja pa zagotoviti priklop na javno kanalizacijo.
+
+(3) Lastnik objekta ali dela objekta, v katerem nastaja komunalna odpadna voda, na območju, ki ni opremljeno z javno kanalizacijo, ali priključitev tehnično ni izvedljiva ali bi povzročila nesorazmerne stroške glede na koristi za okolje ali zdravje ljudi, mora zagotoviti odvajanje in čiščenje komunalne odpadne vode v mali komunalni čistilni napravi ali njeno zbiranje v nepretočni greznici, in izvajalca javne službe odvajanja in čiščenja odpadnih voda pred predvidenim začetkom uporabe male komunalne čistilne naprave ali nepretočne greznice pisno obvestiti o začetku obratovanja ali uporabe.
+
+(4) Stavbna zemljišča, načrtovana s prostorskim aktom, ki še niso pozidana in so v območju aglomeracij za odvajanje in čiščenje odpadnih voda ali v njihovi neposredni bližini, morajo biti pred začetkom uporabe objektov, v katerih nastaja komunalna odpadna voda, opremljena z javno kanalizacijo oziroma drugim predpisanim načinom odvajanja in čiščenja odpadnih voda.
+
+(5) Občina, na območju katere leži objekt, je soglasodajalec za izdajanje projektnih pogojev in soglasij glede odvajanja ter čiščenja odpadnih voda in priključevanja na javno kanalizacijo oziroma načina ureditve odvajanja ter čiščenja odpadnih voda in za gradnjo v varovalnem pasu javne kanalizacije iz tretjega odstavka 7. člena tega zakona. Soglasje za gradnjo, za katero je predpisano gradbeno dovoljenje, se izdaja kot mnenje v skladu s predpisi, ki urejajo graditev.
+
+(6) Ne glede na prejšnji odstavek lahko občina izda javno pooblastilo izvajalcu javne službe za izdajanje projektnih pogojev in mnenj v skladu s predpisi, ki urejajo graditev, glede odvajanja in čiščenja odpadnih voda ter priključevanja na javno kanalizacijo oziroma načina ureditve odvajanja in čiščenja odpadnih voda iz objekta.
+
+(7) Vlada podrobneje določi merila za določitev aglomeracij, zahteve glede opremljanja z javnim kanalizacijskim omrežjem in komunalno čistilno napravo iz prvega odstavka tega člena in merila za ugotavljanje opremljenosti, pogoje priključitve na javno kanalizacijo ob upoštevanju tehnične izvedljivosti in sorazmernosti stroškov glede na koristi za okolje ali zdravje ljudi ter podrobneje določi obveznosti lastnika iz drugega in tretjega odstavka tega člena.
