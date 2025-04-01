@@ -1,0 +1,5 @@
+# 40.a člen (mednarodna izmenjava podatkov o kvalifikacijah)
+
+(1) Za izvrševanje določb tega zakona upravljavec evidence voznikov iz druge alineje prvega odstavka 15. člena tega zakona na podlagi neposredne elektronske izmenjave podatkov ali na drug način, ki ga določi Komisija Evropske unije (v nadaljnjem besedilu: Komisija EU), s pristojnimi organi drugih držav članic izmenjuje podatke o izdanih in preklicanih spričevalih o pridobitvi temeljne kvalifikacije voznika in o rednih usposabljanjih voznikov.
+
+(2) Izmenjava in obdelava osebnih podatkov, pridobljenih v skladu s prejšnjim odstavkom, se izvaja samo za namene preverjanja voznikove kvalifikacije in usposabljanja v skladu s tem zakonom in Uredbo (EU) 2016/679 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o varstvu posameznikov pri obdelavi osebnih podatkov in o prostem pretoku takih podatkov ter o razveljavitvi Direktive 95/46/ES (UL L št. 119 z dne 4. 5. 2016, str. 1). Dostop do teh podatkov je dovoljen samo organom oziroma nosilcem javnih pooblastil, pristojnim za izvrševanje in nadzor tega zakona.

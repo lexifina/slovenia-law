@@ -1,0 +1,3 @@
+# 106. člen (prepoved vožnje tujemu prevozniku)
+
+Inšpektorat, pristojen za področje prometa lahko začasno prepove tujemu prevozniku vožnjo po cestah v Republiki Sloveniji, če prevaža blago v nasprotju z zakonom ali mednarodno pogodbo in se ugotovi, da je to storil dvakrat ali večkrat. Prepoved se izreče za čas od treh do dvanajst mesecev. Ko se prepoved izreče prvič, se lahko izreče največ za šest mesecev. Nadzorni organi morajo obvestiti inšpektorat, pristojen za področje prometa, če ugotovijo, da je tuji prevoznik dvakrat ali večkrat prevažal blago v nasprotju z zakonom ali mednarodno pogodbo.

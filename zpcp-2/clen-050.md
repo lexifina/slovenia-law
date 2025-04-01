@@ -1,0 +1,17 @@
+# 50. člen (gospodarska javna služba)
+
+(1) Država zagotavlja javni linijski prevoz potnikov, razen javnega linijskega prevoza v mestnem prometu in posebnega linijskega prevoza, kot javno dobrino z gospodarsko javno službo in na podlagi javnega razpisa podeli koncesije najugodnejšim ponudnikom prevoza oziroma sklene prevozne pogodbe. Za posamezne linije ali več linij se lahko v skladu z Uredbo 1370/2007/ES koncesija podeli neposredno s sklenitvijo pogodbe na podlagi izvedenega postopka za izbiro najugodnejšega ponudnika. Javna služba se izvaja na ozemlju Republike Slovenije, zaradi lokalnih in regionalnih potreb po prevozu pa tudi na čezmejni ravni, s soglasjem pristojnih organov držav članic, na ozemlju katerih se opravljajo takšni prevozi. Organ JPP določi prestopne točke, do katerih se v čezmejnem javnem linijskem potniškem prometu izvaja javna služba.
+
+(2) Vlada Republike Slovenije s koncesijskim aktom določi snope linij, standard dostopnosti, standard kakovosti, delež čistih vozil v cestnem prometu v skladu z Direktivo 2009/33/ES Evropskega parlamenta in Sveta z dne 23. aprila 2009 o spodbujanju čistih in energetsko učinkovitih vozil za cestni prevoz (UL L št. 120 z dne 15. 5. 2009, str. 5), zadnjič spremenjeno z Direktivo (EU) 2019/1161 Evropskega parlamenta in Sveta z dne 20. junija 2019 o spremembi Direktive 2009/33/ES o spodbujanju čistih in energetsko učinkovitih vozil za cestni prevoz (UL L št. 188 z dne 12. 7. 2019, str. 116), tarifo in način financiranja.
+
+(3) Organ JPP pred podelitvijo koncesij oziroma sklenitvijo pogodb o prevozih določi potrebe po prevozih. V času trajanja pogodb organ JPP usklajuje daljinar in vozne rede z dejanskimi potrebami po prevozih.
+
+(4) Za zagotavljanje javnega linijskega prevoza potnikov se uvede sistem enotne vozovnice. Prevozniki, ki opravljajo javne linijske prevoze potnikov, se vključijo v izvajanje sistema enotne vozovnice.
+
+(5) Uvedbo in izvajanje sistema enotne vozovnice uredi Vlada Republike Slovenije.
+
+(6) V primeru, ko veljavnost koncesije poteče pred podelitvijo nove koncesije na podlagi javnega razpisa ali v primeru odvzema koncesije, se ne glede na določbe prvega in drugega odstavka tega člena izjemoma začasno podeli koncesija za opravljanje gospodarske javne službe javnega linijskega prevoza potnikov brez javnega razpisa, vendar največ za dve leti. V tem času se mora izvesti javni razpis za podelitev koncesije.
+
+(7) V primeru, ko veljavnost koncesije poteče pred podelitvijo nove koncesije na podlagi javnega razpisa, se sklene nova pogodba s prevoznikom, ki je do tedaj izvajal gospodarsko javno službo. Če ta prevoznik ne sklene nove pogodbe, se lahko koncesija podeli drugemu prevozniku, ki že izvaja gospodarsko javno službo linijskega prevoza potnikov. V primeru, da se koncesija pred potekom koncesijske pogodbe odvzame, se sklene pogodba z drugim prevoznikom, ki že izvaja gospodarsko javno službo linijskega prevoza potnikov. V navedenih primerih se pogodba sklene za izvajanje storitev pod enakimi pogoji, kot so bili določeni v prejšnji koncesijski pogodbi.
+
+(8) Če v primerih iz prejšnjega odstavka ne pride do sklenitve nove koncesijske pogodbe, se z odločbo naloži prevozniku, ki je do tedaj izvajal prevoze na podlagi koncesijske pogodbe, da te prevoze izvaja še naprej pod istimi pogoji. Ukrep se sme naložiti le za nujno potrebni čas do podelitve koncesije na podlagi javnega razpisa, vendar največ za dve leti.
