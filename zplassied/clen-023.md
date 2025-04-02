@@ -1,0 +1,11 @@
+# 23. člen (obveznost obveščanja ponudnikov storitev iz 11. in 12. točke prvega odstavka 3. člena)
+
+(1) Ponudniki storitev, ki opravljajo eno ali obe dejavnosti iz prve in druge alineje 11. točke prvega odstavka 3. člena tega zakona in za katere skupna vrednost plačilnih transakcij, ki so bile izvršene v preteklih 12 mesecih, presega en milijon eurov, Banki Slovenije v dveh mesecih po koncu tega obdobja pošljejo obvestilo, ki vsebuje opis ponujenih storitev in v katerem je navedeno, po katerem izvzetju iz prve in druge alineje 11. točke prvega odstavka 3. člena tega zakona se šteje, da opravljajo dejavnost.
+
+(2) Če na podlagi obvestila iz prejšnjega odstavka in ob upoštevanju meril iz 11. točke prvega odstavka 3. člena tega zakona Banka Slovenije ugotovi, da dejavnosti ni mogoče obravnavati kot omejeno mrežo, ponudniku storitev odredi poseben ukrep, da v 30 dneh zagotovi izpolnjevanje pogojev za omejeno mrežo ali da v tem roku vloži zahtevo za izdajo dovoljenja Banke Slovenije za opravljanje plačilnih storitev kot plačilna institucija v skladu s tem zakonom. Za postopek po tem odstavku se smiselno uporabljajo določbe četrtega odstavka 257. člena tega zakona.
+
+(3) Ponudniki storitev, ki opravljajo dejavnosti iz 12. točke prvega odstavka 3. člena tega zakona, Banki Slovenije pošljejo obvestilo, ki vsebuje opis ponujenih storitev in v katerem je navedeno, po katerem izvzetju iz 12. točke prvega odstavka 3. člena tega zakona se šteje, da opravljajo dejavnost, in ji v dveh mesecih po zaključku poslovnega leta zagotovijo letno revizijsko mnenje, ki potrjuje, da je dejavnost v skladu z omejitvami iz 12. točke prvega odstavka 3. člena tega zakona.
+
+(4) Banka Slovenije Evropski bančni organ obvesti o storitvah, priglašenih v skladu s prvim in tretjim odstavkom tega člena, ter navede, v skladu s katerim izvzetjem iz 11. oziroma 12. točke prvega odstavka 3. člena tega zakona se dejavnost opravlja. Obvestilo mora vsebovati podatke o firmi in sedežu ponudnika storitev, opis storitev, ki jih ponudnik storitev opravlja, vrednost in obseg teh storitev ter morebitne dodatne informacije v zvezi s kriteriji za izvzetje.
+
+(5) Firma in sedež ponudnika storitev ter opis storitev, priglašenih v skladu s prvim in tretjim odstavkom tega člena, se objavijo v registru iz 79. in 84. člena tega zakona.

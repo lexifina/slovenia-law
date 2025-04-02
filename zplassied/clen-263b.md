@@ -1,0 +1,5 @@
+# 263.b člen (odredba o začasnem prenehanju opravljanja storitev pretvorbe valut)
+
+(1) Če ponudnik storitev pretvorbe valut ne ravna v skladu z odredbo o odpravi kršitev iz drugega odstavka prejšnjega člena, mu Banka Slovenije izda odredbo, s katero mu naloži, da do odprave kršitev ugotovljenih z odredbo o odpravi kršitev, preneha opravljati storitve pretvorbe valut na bankomatu ali na prodajnem mestu (v nadaljnjem besedilu: odredba o prenehanju opravljanja storitev pretvorbe valut).
+
+(2) V odredbi o prenehanju opravljanja storitev pretvorbe valut Banka Slovenije ponudniku storitev pretvorbe valut naloži, da v roku, ki ne sme biti krajši od osem in ne daljši od 15 dni, predloži poročilo, v katerem opiše ukrepe, ki jih je izvedel v zvezi s prenehanjem opravljanja storitev pretvorbe valut, in v katerem se lahko izjavi o utemeljenosti razlogov za izdajo odredbe o prenehanju opravljanja storitev pretvorbe valut. Ponudnik storitev pretvorbe valut poročilu priloži dokaze, iz katerih izhaja, da je izvedel ukrepe v zvezi s prenehanjem opravljanja storitev pretvorbe valut.

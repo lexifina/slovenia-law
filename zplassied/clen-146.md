@@ -1,0 +1,5 @@
+# 146. člen (druge obveznosti ponudnika plačilnih storitev v primeru neizvršene oziroma nepravilno izvršene plačilne transakcije)
+
+(1) V primeru neizvršene ali nepravilno izvršene plačilne transakcije mora ponudnik plačilnih storitev ne glede na svojo odgovornost za pravilno izvršitev plačilne transakcije na zahtevo svojega uporabnika nemudoma ukrepati, da bi izsledil plačilno transakcijo, in uporabniku posredovati informacije v zvezi z neizvršeno ali nepravilno izvršeno plačilno transakcijo, s katerimi razpolaga, da bi uporabniku omogočil uveljavljanje povračil v zvezi z nepravilno izvršeno plačilno transakcijo. To mora biti za uporabnika brezplačno.
+
+(2) Ponudnik plačilnih storitev in uporabnik, ki ni potrošnik, se lahko dogovorita, da se ta člen deloma ali v celoti ne uporablja.

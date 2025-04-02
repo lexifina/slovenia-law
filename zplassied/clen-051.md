@@ -1,0 +1,3 @@
+# 51. člen (poročanje plačilnih institucij, ki imajo na ozemlju Republike Slovenije zastopnike ali podružnice)
+
+Banka Slovenije lahko zahteva, da ji plačilne institucije, ki imajo na ozemlju Republike Slovenije zastopnike ali podružnice, redno poročajo o dejavnostih, ki se opravljajo na ozemlju Republike Slovenije. Takšna poročila Banka Slovenije zahteva za informativne ali statistične namene, če pa zastopniki in podružnice opravljajo dejavnosti plačilnih storitev na podlagi uresničevanja pravice do ustanavljanja, zaradi spremljanja skladnosti z določbami 5., 13. in 16. poglavja tega zakona. Za take zastopnike in podružnice veljajo zahteve glede varovanja poklicne skrivnosti, ki so najmanj enakovredne zahtevam iz 269. do 273. člena tega zakona.

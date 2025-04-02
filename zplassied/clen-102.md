@@ -1,0 +1,11 @@
+# 102. člen (informacije o posamezni plačilni transakciji v zvezi s plačilnimi instrumenti za plačila majhnih vrednosti)
+
+(1) Okvirna pogodba o plačilnem instrumentu za plačila majhnih vrednosti lahko določa, da ponudnik plačilnih storitev po izvršitvi posamezne plačilne transakcije uporabniku posreduje ali da na voljo informacije o posamezni plačilni transakciji, in sicer le podatke:
+
+1. ki uporabniku omogočajo identifikacijo plačilne transakcije,
+
+2. znesek posamezne plačilne transakcije, ali kadar se več plačilnih transakcij iste vrste izvrši istemu prejemniku, le skupni znesek vseh plačilnih transakcij, izvršenih istemu prejemniku, in
+
+3. vseh nadomestilih, ki jih ponudnik plačilnih storitev zaračuna za posamezne plačilne transakcije, ali kadar se več plačilnih transakcij iste vrste izvrši istemu prejemniku, le skupni znesek nadomestil, ki se zaračunajo za vse plačilne transakcije, izvršene istemu prejemniku.
+
+(2) Okvirna pogodba o plačilnem instrumentu za plačila majhnih vrednosti lahko določa, da ponudniku plačilnih storitev ni treba obveščati uporabnika o posameznih plačilnih transakcijah, če se plačilni instrument za plačila majhnih vrednosti uporablja anonimno ali če ponudnik plačilnih storitev tehnično ne more zagotoviti informacij o posameznih plačilnih transakcijah. Ponudnik plačilnih storitev plačniku v tem primeru omogoči, da preveri znesek denarnih sredstev, ki so shranjena na plačilnem instrumentu.

@@ -1,0 +1,7 @@
+# 99. člen (odpoved okvirne pogodbe s strani ponudnika plačilnih storitev)
+
+(1) Ponudnik plačilnih storitev lahko odpove okvirno pogodbo, ki je sklenjena za nedoločen čas, z odpovednim rokom najmanj dva meseca, okvirna pogodba pa lahko določi daljši odpovedni rok in dodatne pogoje za odpoved okvirne pogodbe s strani ponudnika plačilnih storitev. Obvestilo o odpovedi okvirne pogodbe ponudnik plačilnih storitev posreduje uporabniku na način, opredeljen v prvem in drugem odstavku 91. člena tega zakona.
+
+(2) Če ponudnik plačilnih storitev odpove okvirno pogodbo, plača uporabnik morebitna nadomestila, ki jih zaračunava ponudnik plačilnih storitev za plačilne storitve za določeno časovno obdobje le v sorazmernem deležu do prenehanja okvirne pogodbe. Če se taka nadomestila plačujejo vnaprej, ponudnik plačilnih storitev uporabniku povrne sorazmerni delež plačanega nadomestila.
+
+(3) Določbe tega člena ne posegajo v pravice ponudnika plačilnih storitev do odpovedi okvirne pogodbe pod pogoji, ki jih glede odstopa od pogodbe določa drug zakon.

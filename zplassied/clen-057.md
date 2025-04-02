@@ -1,0 +1,19 @@
+# 57. člen (metoda obsega plačil)
+
+(1) Kapitalska zahteva plačilne institucije po metodi obsega plačil je znesek, ki ga predstavlja produkt med izhodiščnim zneskom iz drugega odstavka tega člena in faktorjem za uravnoteženje iz 60. člena tega zakona.
+
+(2) Izhodiščni znesek se izračuna z upoštevanjem višine povprečnega mesečnega zneska plačilnih transakcij preteklega poslovnega leta na podlagi naslednje lestvice:
+
+Če znaša povprečni mesečni znesek plačilnih transakcij preteklega leta znaša izhodiščni znesek do 5.000.000 EUR 4,0 % povprečnega mesečnega zneska plačilnih transakcij preteklega leta nad 5.000.000 EUR do 10.000.000 EUR 200.000 EUR + 2,5 % povprečnega mesečnega zneska plačilnih transakcij preteklega leta nad 5.000.000 EUR nad 10.000.000 EUR do 100.000.000 EUR 325.000 EUR + 1 % povprečnega mesečnega zneska plačilnih transakcij preteklega leta nad 10.000.000 EUR nad 100.000.000 EUR do 250.000.000 EUR 1.225.000 EUR + 0,5 % povprečnega mesečnega zneska plačilnih transakcij preteklega leta nad 100.000.000 EUR nad 250.000.000 EUR 1.975.000 EUR + 0,25 % povprečnega mesečnega zneska plačilnih transakcij preteklega leta nad 250.000.000 EUR
+
+(3) Povprečni mesečni znesek plačilnih transakcij preteklega leta iz prejšnjega odstavka je enak eni dvanajstini skupnega zneska plačilnih transakcij, ki jih je v preteklem poslovnem letu izvedla plačilna institucija.
+
+(4) V prvem letu poslovanja kot plačilna institucija se za izračun kapitalske zahteve po metodi obsega plačil namesto povprečnih mesečnih zneskov plačilnih transakcij preteklega leta upošteva predvidena višina povprečnih mesečnih zneskov plačilnih transakcij za prvo leto poslovanja, ki jo je plačilna institucija navedla v poslovnem načrtu v postopku pridobitve dovoljenja Banke Slovenije za opravljanje plačilnih storitev kot plačilna institucija.
+
+(5) Banka Slovenije lahko z odločbo zahteva prilagoditev višine povprečnih mesečnih zneskov plačilnih transakcij, ki jih plačilna institucija upošteva pri izračunu izhodiščnega zneska iz drugega odstavka tega člena:
+
+1. v prvem letu poslovanja kot plačilna institucija, če višina povprečnih mesečnih zneskov plačilnih transakcij bistveno odstopa od višine, kot je bila predvidena v poslovnem načrtu,
+
+2. v tekočem poslovnem letu, če višina povprečnih mesečnih zneskov plačilnih transakcij bistveno odstopa od višine povprečnih mesečnih zneskov plačilnih transakcij v preteklem letu.
+
+(6) Plačilna institucija Banko Slovenije nemudoma obvesti o vsakem pomembnem odstopanju višine povprečnih mesečnih zneskov plačilnih transakcij od višine povprečnih mesečnih zneskov plačilnih transakcij v preteklem poslovnem letu ali od višine povprečnih mesečnih zneskov plačilnih transakcij, kot je bila predvidena v poslovnem načrtu, če plačilne storitve opravlja manj kakor leto dni.

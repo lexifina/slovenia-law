@@ -1,0 +1,5 @@
+# 145. člen (odgovornost za ravnanje posrednikov in drugih oseb)
+
+(1) Ponudnik plačilnih storitev je odgovoren uporabniku za neodobreno plačilno transakcijo v skladu s 136. členom tega zakona in za neizvršitev, nepravilno izvršitev ali pozno izvršitev plačilne transakcije v skladu s 140., 141. oziroma 142. členom tega zakona tudi v primeru, če je za neizvršitev ali nepravilno izvršitev odgovoren posrednik ali druga oseba, ki sodeluje pri izvrševanju plačilne transakcije.
+
+(2) Ponudnik plačilnih storitev lahko uveljavlja povrnitev zneskov, ki jih je izplačal uporabniku v skladu s 136., 140., 141. oziroma 142. členom tega zakona, vključno z nadomestili, kadar kateri izmed ponudnikov plačilnih storitev ne uporablja močne avtentikacije strank, in druge škode, ki mu je nastala zaradi neizvršitve ali nepravilne izvršitve plačilne transakcije, od posrednika ali druge osebe, ki je odgovoren oziroma odgovarja za nepravilno izvršitev plačilne transakcije v skladu s splošnimi pravili obligacijskega prava.

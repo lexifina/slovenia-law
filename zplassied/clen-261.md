@@ -1,0 +1,7 @@
+# 261. člen (nadzor nad družbami za izdajo elektronskega denarja z opustitvijo)
+
+(1) Za nadzor nad družbami za izdajo elektronskega denarja z opustitvijo se smiselno uporabljajo določbe tega zakona o nadzoru nad družbo za izdajo elektronskega denarja, če ni v tem členu določeno drugače.
+
+(2) Če Banka Slovenije ugotovi, da družba za izdajo elektronskega denarja z opustitvijo ne izpolnjuje več pogojev iz prvega odstavka 167. člena tega zakona, ji odredi poseben ukrep, da v roku 30 dni zagotovi izpolnjevanje teh pogojev ali da v tem roku v skladu s 161. členom tega zakona zaprosi za izdajo dovoljenja Banke Slovenije za izdajanje elektronskega denarja kot družba za izdajo elektronskega denarja v skladu s tem zakonom.
+
+(3) Banka Slovenije družbi za izdajo elektronskega denarja z opustitvijo odvzame dovoljenje za izdajanje elektronskega denarja kot družba za izdajo elektronskega denarja z opustitvijo, če družba za izdajo elektronskega denarja z opustitvijo ne ravna v skladu z odredbo za izvedbo posebnega ukrepa iz prejšnjega odstavka.

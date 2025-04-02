@@ -1,0 +1,11 @@
+# 276. člen (sodelovanje pri opravljanju nadzora nad podružnico in zastopnikom plačilne institucije v državi gostiteljici ter v primeru neposrednega opravljanja plačilnih storitevv državi gostiteljici)
+
+(1) Banka Slovenije pri opravljanju nadzora nad podružnicami, zastopniki in plačilnimi institucijami v državi gostiteljici sodeluje s pristojnim nadzornim organom države gostiteljice.
+
+(2) Banka Slovenije predhodno obvesti pristojni nadzorni organ države gostiteljice, kadar namerava opraviti pregled poslovanja podružnice ali zastopnika plačilne institucije na območju te države članice.
+
+(3) Banka Slovenije posreduje nadzornemu organu države gostiteljice, na njegovo zahtevo, vse potrebne informacije o dejstvih in okoliščinah, ki jih ugotovi pri opravljanju nadzora nad podružnico zastopnikom, ali neposrednim opravljanjem plačilnih storitev plačilne institucije v državi gostiteljici, zlasti o ugotovljenih oziroma domnevnih kršitvah. Banka Slovenije posreduje pristojnemu nadzornemu organu države članice na lastno pobudo vse bistvene informacije, tudi ali plačilna institucija izpolnjuje pogoje iz prvega oziroma drugega odstavka 24. člena tega zakona.
+
+(4) Banka Slovenije lahko zaprosi pristojni nadzorni organ države gostiteljice, da opravi pregled poslovanja podružnice ali zastopnika plačilne institucije v tej državi gostiteljici, če se s tem postopek nadzora pospeši oziroma poenostavi oziroma če je to v skladu z interesi učinkovitosti, enostavnosti, hitrosti oziroma manjših stroškov postopka. Pod enakimi pogoji se lahko pooblaščene osebe Banke Slovenije udeležijo nadzora, ki ga izvaja pristojni nadzorni organ države gostiteljice.
+
+(5) Če Banka Slovenije prejme obvestilo pristojnega organa države gostiteljice, da plačilna institucija s sedežem v Republiki Sloveniji, ki ima zastopnike ali podružnice na ozemlju te države gostiteljice, ne izpolnjuje določb nacionalnega prava, ki prenašajo določbe naslovov II, III in IV Direktive 2015/2366/EU, oceni prejete informacije in brez nepotrebnega odlašanja sprejme vse ustrezne ukrepe, da plačilna institucija odpravi te nepravilnosti. Banka Slovenije te ukrepe brez odlašanja sporoči pristojnemu organu države gostiteljice in pristojnim organom vsake druge zadevne države članice.

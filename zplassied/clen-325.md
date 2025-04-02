@@ -1,0 +1,9 @@
+# 325. člen (uskladitev z zahtevo glede novega dovoljenja za opravljanje plačilnih storitev kot plačilna institucija z opustitvijo)
+
+(1) Plačilne institucije z opustitvijo, ki so do 13. januarja 2018 pridobile dovoljenje za opravljanje plačilnih storitev kot plačilna institucija z opustitvijo in začele opravljati dejavnosti v skladu z ZPlaSS, lahko do 13. januarja 2019 opravljajo navedene dejavnosti v skladu z zahtevami iz ZPlaSS, ne da bi morale zaprositi za dovoljenje v skladu s 76. členom tega zakona ali spoštovati druge določbe 3. poglavja tega zakona ali določbe, na katere se sklicujejo določbe 3. poglavja.
+
+(2) Plačilne institucije z opustitvijo iz prejšnjega odstavka, ki nameravajo plačilne storitve opravljati tudi po 13. januarju 2019, do 1. oktobra 2018 vložijo zahtevo za opravljanje plačilnih storitev kot plačilna institucija z opustitvijo v skladu s 76. členom tega zakona.
+
+(3) Če plačilna institucija z opustitvijo iz prvega odstavka tega člena, ki je do 1. oktobra 2018 vložila zahtevo za opravljanje plačilnih storitev kot plačilna institucija z opustitvijo v skladu s 76. členom tega zakona do 13. januarja 2019 ne pridobi dovoljenja za opravljanje plačilnih storitev v skladu s tem zakonom, Banka Slovenije začne postopek odvzema dovoljenja za opravljanje plačilnih storitev, ki ga je plačilna institucija z opustitvijo pridobila v skladu z zahtevami ZPlaSS, in ji prepove opravljati plačilne storitve.
+
+(4) Plačilnim institucijam z opustitvijo iz prvega odstavka tega člena, ki do 1. oktobra 2018 ne vložijo zahteve za izdajo dovoljenja za opravljanje plačilnih storitev kot plačilna institucija z opustitvijo v skladu s 76. členom tega zakona, dovoljenje za opravljanje plačilnih storitev kot plačilna institucija z opustitvijo, ki so ga pridobile v skladu z zahtevami ZPlaSS, preneha s 13. januarjem 2019.
