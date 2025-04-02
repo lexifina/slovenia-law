@@ -1,5 +1,0 @@
-# 12. člen
-V prvem odstavku 26. člena se 3. točka spremeni tako, da se glasi:
-"3. če je bila državljanu najmanj dvakrat izrečena kazen zapora za kazniva dejanja neupravičene proizvodnje in prometa s prepovedanimi drogami, nedovoljenimi snovmi v športu in predhodnimi sestavinami za izdelavo prepovedanih drog, ponarejanja denarja, tihotapstva, ponarejanja listin, nedovoljene proizvodnje in prometa orožja ali eksplozivov, prepovedanega prehajanja meje ali ozemlja države, trgovine z ljudmi, terorizma, financiranja terorizma, ščuvanja in javnega poveličevanja terorističnih dejanj, novačenja in usposabljanja za terorizem, novačenja vojaških najemnikov in oseb, mlajših od osemnajst let, za kazniva dejanja zoper spolno nedotakljivost ali za kazniva dejanja, povezana s tujino, za katera je v zakonu predpisana kazen osem ali več let zapora, če to zahteva policija.".
-V drugem odstavku se črta besedilo "o pravnomočnem sklepu o preiskavi oziroma o pravnomočni obtožnici, vloženi brez preiskave, za kazniva dejanja iz 3. točke prejšnjega odstavka in".
-V tretjem odstavku se beseda "prejšnjega" nadomesti z besedilom "prvega odstavka tega člena".
