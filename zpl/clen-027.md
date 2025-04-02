@@ -1,0 +1,3 @@
+# 27. člen (upravičeni razlogi za izdajo potne listine državljanu, ki mu je bila izdaja zavrnjena oziroma za začasno vrnitev začasno razveljavljene potne listine imetniku)
+
+Na vlogo državljana, ki mu je bila zavrnjena izdaja potne listine oziroma ki mu je bila potna listina začasno razveljavljena, sme sodišče ali organ, ki je zahteval prepoved izdaje oziroma začasno razveljavitev, v posebno upravičenih razlogih (smrt družinskega člana, zdravljenje v tujini, nujni službeni opravki in podobno) dovoliti izdajo potne listine oziroma njeno začasno vrnitev imetniku. Potno listino mora državljan najpozneje v 60 dneh izročiti organu, ki je potno listino izdal, oziroma organu iz četrtega odstavka 25. člena tega zakona.

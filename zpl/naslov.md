@@ -1,0 +1,3 @@
+Z A K O N
+
+O POTNIH LISTINAH (ZPL)
