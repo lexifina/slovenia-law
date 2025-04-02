@@ -1,5 +1,0 @@
-## VI. NADZOR
-# 32. člen
-Nadzor nad izvrševanjem določb tega zakona izvajata ministrstvo, pristojno za notranje zadeve, in ministrstvo, pristojno za zunanje zadeve, vsako s svojega delovnega področja. Nadzor nad izvrševanjem določb 2. in 4. člena, prvega odstavka 20. člena, drugega odstavka 21. člena, drugega odstavka 23. člena, prvega, drugega in tretjega odstavka 24. člena tega zakona izvaja Inšpektorat Republike Slovenije, pristojen za notranje zadeve. Nadzor nad izvrševanjem določb iz 4. člena tega zakona izvaja tudi policija.
-Inšpektorat Republike Slovenije, pristojen za notranje zadeve, in policija izvršujeta pristojnost iz prejšnjega odstavka kot prekrškovna organa.
-Podjetje ali organizacija iz 12. člena tega zakona mora osebam, določenim s pogodbo iz drugega in tretjega odstavka 12. člena tega zakona, omogočiti nadzor prostorov, v katerih poteka izdelava, personalizacija in skladiščenje obrazcev iz 12. člena tega zakona, ter jim dati na vpogled vso potrebno dokumentacijo, ki se nanaša na postopke in izpolnjevanje pogojev za osebe, ki opravljajo naloge izdelave, personalizacije in skladiščenja teh obrazcev.

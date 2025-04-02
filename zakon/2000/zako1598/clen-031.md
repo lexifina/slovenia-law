@@ -1,6 +1,0 @@
-# 31. člen
-Podatke iz evidence lahko uporabljajo delavci pristojnega organa, ministrstva, pristojnega za notranje zadeve, in ministrstva, pristojnega za zunanje zadeve, za opravljanje nalog s svojega delovnega področja, uporabljajo pa jih lahko tudi policisti, če gre za izvrševanje z zakonom določenih nalog, v primerih iz 26. člena tega zakona pa tudi pristojna sodišča in ministrstvo, pristojno za obrambo.
-Osebne podatke na elektronskem mediju iz prvega odstavka prejšnjega člena lahko uporabljajo le pooblaščeni uslužbenci diplomatskega predstavništva ali konzulata Republike Slovenije.
-Podoba obraza imetnika potne listine, shranjena kot biometrični podatek, in prstni odtisi oziroma prstni odtis, shranjen kot biometrični podatek na pomnilniškem mediju, se lahko uporabljajo le za preverjanje verodostojnosti potne listine in istovetnosti imetnika potne listine pri prehajanju državne meje.
-Osebne podatke iz 23. člena tega zakona sme uporabljati pooblaščeno podjetje ali organizacija iz tretjega odstavka 12. člena tega zakona za potrebe vpisa podatkov na obrazec potne listine in jih mora v roku 30 dni po uporabi uničiti.
-Podatek o registrski številki potne listine sme uporabljati podjetje ali organizacija iz 12.a člena tega zakona za potrebe potrditve prevzema poštnih pošiljk iz 12.a člena tega zakona in ga mora v roku 30 dni po uporabi uničiti.
