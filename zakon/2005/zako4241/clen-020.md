@@ -1,6 +1,0 @@
-# 20. člen
-V prvem odstavku 26. člena se 3. točka spremeni tako, da se glasi:
-"3. če je bila državljanu najmanj dvakrat izrečena kazen zapora za kazniva dejanja neupravičene proizvodnje in prometa z mamili, ponarejanja denarja, tihotapstva, ponarejanja listin, nedovoljene proizvodnje in prometa orožja ali eksplozivov, prepovedanega prehajanja meje ali ozemlja države, trgovine z ljudmi, mednarodnega terorizma, financiranja terorističnih dejanj in za ostala kazniva dejanja, povezana s tujino, za katera je v zakonu predpisana kazen osem ali več let zapora - če to zahteva policija.".
-Za prvim odstavkom se doda nov drugi odstavek, ki se glasi:
-"Sodišče mora o pravnomočnem sklepu o preiskavi oziroma o pravnomočni obtožnici, vloženi brez preiskave, za kazniva dejanja iz 3. točke prejšnjega odstavka in o pravnomočni sodbi za kazniva dejanja iz 3. točke prejšnjega odstavka obvestiti pristojno policijsko enoto, na območju katere ima državljan prijavljeno stalno prebivališče, oziroma policijsko enoto, na območju katere je sedež sodišča, če državljan nima stalnega prebivališča na območju Republike Slovenije, ki vloži zahtevo iz 3. točke prejšnjega odstavka.".
-Dosedanji drugi in tretji odstavek postaneta tretji in četrti odstavek.

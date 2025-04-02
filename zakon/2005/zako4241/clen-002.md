@@ -1,2 +1,0 @@
-# 2. člen
-V prvem in drugem odstavku 12. člena, v 13. členu, v prvem odstavku 22., 23. in 25. člena, v prvem in drugem odstavku 26. in 27. člena, v 28. in 29. členu, v prvem, drugem in tretjem odstavku 30. člena ter v naslovu II., III. in IV. poglavja zakona se črtajo besede "vizum", "in vizum" in "in vizumi" v ustreznem sklonu ter besede "ali vizuma", "oziroma vizuma", "ali razveljavitvi vizuma", "ali vizum razveljavljen" in "vizum pa razveljavi".
