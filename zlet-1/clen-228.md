@@ -1,0 +1,19 @@
+# 228. člen (preverjanje prisotnosti alkohola, prepovedanih drog, psihoaktivnih zdravil in drugih psihoaktivnih snovi)
+
+(1) Uradna oseba agencije lahko zaradi ugotovitve, ali oseba izvaja privilegije iz licence, dovoljenja, ratinga, pooblastila, potrdila, spričevala oziroma druge ustrezne listine pod vplivom alkohola, izvede preizkus s sredstvi ali napravami za ugotavljanje prisotnosti alkohola ali indikatorji alkohola v izdihanem zraku.
+
+(2) Uradna oseba agencije lahko odredi preizkus z merilnikom alkohola v izdihanem zraku (etilometrom) ali strokovni pregled, če oseba oporeka rezultatu preizkusa z indikatorjem alkohola v izdihanem zraku, iz katerega je razvidno, da ima v organizmu alkohol. Uradna oseba agencije lahko odredi strokovni pregled tudi, če oseba ne opravi odrejenega preizkusa po navodilih proizvajalca. Če oseba odkloni preizkus z etilometrom ali strokovni pregled, se šteje, da se strinja z rezultatom preizkusa z indikatorjem alkohola v izdihanem zraku.
+
+(3) Če oseba odkloni preizkus alkoholiziranosti ali če se s preizkusom ugotovi, da ima oseba v organizmu alkohol, ali če oseba odkloni strokovni pregled, ji uradna oseba agencije za največ 12 ur in ne manj kot šest ur omeji ali prepove nadaljnje opravljanje nalog, ki jih dovoljuje licenca, dovoljenje, rating, pooblastilo, potrdilo, spričevalo oziroma druga ustrezna listina.
+
+(4) Če obstaja sum, da je oseba pod vplivom prepovedanih drog, psihoaktivnih zdravil ali drugih psihoaktivnih snovi, lahko uradna oseba agencije zaradi ugotovitve, ali oseba izvaja privilegije iz licence, dovoljenja, ratinga, pooblastila, potrdila, spričevala oziroma druge ustrezne listine pod vplivom teh snovi, ki zmanjšujejo njeno sposobnost za opravljanje nalog, izvede preizkus z napravo ali sredstvom za hitro ugotavljanje prisotnosti teh snovi v organizmu.
+
+(5) Če uradna oseba agencije na podlagi preizkusa ali postopka iz prejšnjega odstavka prepozna znak oziroma simptom, ki je posledica takšne snovi v organizmu, ali če oseba odkloni sodelovanje pri preizkusu ali postopku ali če preizkusa ali postopka ni mogoče opraviti zaradi drugega razloga, odredi osebi strokovni pregled.
+
+(6) Analizo krvi, urina, drugih telesnih tekočin in tkiva opravljajo pooblaščeni laboratoriji, ki imajo ustrezno usposobljene delavce in opremo. O strokovnem pregledu mora zdravnik takoj izdelati pisno mnenje, kri, urin, drugo telesno tekočino oziroma tkivo mora strokovno usposobljena oseba takoj poslati v najbližjo pooblaščeno strokovno ustanovo oziroma laboratorij, kjer se opravi analiza. Ustanova oziroma laboratorij mora opraviti analizo najpozneje v petnajstih dneh in o rezultatih takoj obvestiti uradno osebo agencije, ki je odredila strokovni pregled.
+
+(7) Če oseba odkloni sodelovanje pri preizkusu ugotavljanja prisotnosti prepovedanih drog, psihoaktivnih zdravil ali drugih psihoaktivnih snovi ali če odkloni strokovni pregled v zvezi s tem, ji uradna oseba agencija za največ 12 ur in ne manj kot šest ur omeji ali prepove nadaljnje opravljanje nalog, ki jih dovoljuje licenca, dovoljenje, rating, pooblastilo, potrdilo, spričevalo oziroma druga ustrezna listina.
+
+(8) Osebi, ki ji je bil odrejen strokovni pregled ugotavljanja prisotnosti alkohola, prepovedanih drog, psihoaktivnih zdravil ali drugih psihoaktivnih snovi, uradna oseba za največ 12 ur in ne manj kot šest ur prepove nadaljnje opravljanje nalog, ki jih dovoljuje licenca, dovoljenje, rating, pooblastilo, potrdilo, spričevalo oziroma druga ustrezna listina. Če se s strokovnim pregledom ugotovi, da je oseba v takšnem psihofizičnem stanju, da pri svojem delu ne ogroža varnosti letenja, uradna oseba prekliče omejitev oziroma prepoved opravljanja nalog.
+
+(9) Za odklonitev preizkusa ali strokovnega pregleda šteje poleg neposredne odklonitve tudi ravnanje osebe, s katerim ovira ali onemogoči izvedbo preizkusa oziroma strokovnega pregleda ali poškoduje oziroma uniči vzorec za analizo.

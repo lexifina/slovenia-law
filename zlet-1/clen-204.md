@@ -1,0 +1,3 @@
+# 204. člen (posledice neizpolnitve pogojev glede usposobljenosti uradne osebe)
+
+Kandidatu iz agencije, ki v predpisanem roku iz prvega odstavka 201. člena tega zakona iz razlogov, ki so na njegovi strani, ne izpolni pogojev glede usposobljenosti uradne osebe iz 202. člena tega zakona, preneha delovno razmerje. Med razloge, ki so na strani kandidata iz agencije, se ne šteje opravičena odsotnost z dela zaradi bolezni oziroma druga odsotnost, daljša od enega meseca, v času, v katerem kandidat prejema nadomestilo plače. Delovno razmerje kandidatu iz agencije ne preneha, če ne izpolni pogojev glede usposobljenosti iz razlogov na strani agencije.

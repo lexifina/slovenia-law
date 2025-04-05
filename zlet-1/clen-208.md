@@ -1,0 +1,5 @@
+# 208. člen (jezik ustnega sporazumevanja v postopku s stranko, ki ne razume slovenskega jezika)
+
+(1) Če so v postopku v upravnih zadevah in postopkih letalskega nadzora iz pristojnosti agencije udeležene tudi stranke, ki ne obvladajo slovenskega jezika in so se odpovedale pravici do spremljanja postopka po tolmaču, teče ustno sporazumevanje s stranko v slovenskem in angleškem jeziku, če se stranka s tem strinja. Osebo, ki ne obvlada slovenskega jezika in tudi nima pooblaščenca, ki obvlada slovenski jezik, mora agencija v angleškem jeziku ustno seznaniti z ugotovitvami oziroma gradivom in svojim delom v postopku.
+
+(2) Če se v zvezi s procesnim dejanjem iz prejšnjega odstavka vodi zapisnik, se ta sestavi v slovenskem jeziku, v katerem se navede, da je sporazumevanje s stranko potekalo tudi v angleškem jeziku. Če stranka to zahteva, ji pristojni organ izroči en izvod zapisnika. Stranka lahko v osmih dneh od vročitve zapisnika poda pripombe na njegovo vsebino, o čemer jo je organ dolžan poučiti, sicer se šteje, da ni bilo pripomb.

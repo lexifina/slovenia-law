@@ -1,0 +1,3 @@
+# 263. člen (vojaška letališča, vojaška vzletišča in vojaški heliporti)
+
+Minister, pristojen za obrambo, določi razvrščanje vojaških letališč, vojaških vzletišč, vojaških heliportov in vojaška pristajalna mesta, posebne tehnično-tehnološke zahteve za vojaška letališča, vojaška vzletišča in vojaške heliporte, pogoje za izdajo, podaljšanje, odvzem, omejitev ali preklic obratovalnega dovoljenja, vpisnik vojaških letališč, vpisnik vojaških vzletišč in vpisnik vojaških heliportov, vojaške letališke službe in vojaško letališko osebje ter pogoje uporabe vojaških letališč, vzletišč in heliportov za tuje državne zrakoplove.

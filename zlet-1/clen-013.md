@@ -1,0 +1,7 @@
+# 13. člen (urejanje drugih državnih aktivnosti)
+
+(1) Vlada na predlog ministrstva, pristojnega za izvajanje nalog, kot so določene z zakonom, ki ureja organizacijo državne uprave, določi izvajanje državnih aktivnosti v letalstvu z zrakoplovi, kadar se zaradi svojih specifik ne morejo izvajati v skladu s tem zakonom, predpisi Evropske unije ter drugimi predpisi in pravnimi akti, ki veljajo v Republiki Sloveniji na področju civilnega letalstva, ter izvajalca teh državnih aktivnosti.
+
+(2) Vlada določi zahteve glede zrakoplovov, osebja, organizacije izvajalca, izvajanja letalskih operacij, pravil letenja, preiskave v zvezi z varnostjo, upravnih in nadzornih nalog ter postopkov in ukrepov v zvezi s tem, načina sodelovanja z drugimi pristojnimi organi po tem zakonu in druge posebnosti, da se zagotovi varnost zračnega prometa, ob upoštevanju predpisov Evropske unije in tega zakona ter drugih predpisov in pravnih aktov, ki veljajo v Republiki Sloveniji na področju civilnega letalstva.
+
+(3) Ne glede na prejšnji odstavek in ne glede na vrsto državne aktivnosti je za aktivnosti, ki se izvajajo s slovenskimi vojaškimi zrakoplovi določena pristojnost vojaškega letalskega organa glede strokovnih in regulativnih nalog ter letalskega nadzora in pristojnost preiskovalnega organa ministrstva, pristojnega za obrambo, glede preiskave letalskih nesreč in resnih incidentov vojaških zrakoplovov, kot so določene v tretjem delu tega zakona.

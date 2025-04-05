@@ -1,0 +1,3 @@
+# 274. člen (preventivni ukrepi)
+
+Glavni preiskovalec lahko pred koncem preiskave letalske nesreče ali resnega incidenta vojaškega zrakoplova začasno omeji ali prepove uporabo določenega tipa vojaškega zrakoplova, njegovih delov, opreme, navigacijskih naprav, oborožitve, postopkov, letenje in opravljanje dela vojaškega letalskega in drugega strokovnega osebja vojaškega letalstva do odprave morebitnih vzrokov za nastanek letalske nesreče ali resnega incidenta, če obstaja upravičena domneva, da bo s tem preprečena nova letalska nesreča ali resni incident vojaškega zrakoplova ali zmanjšano tveganje zanju.
