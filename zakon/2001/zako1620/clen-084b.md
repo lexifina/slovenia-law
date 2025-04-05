@@ -1,8 +1,0 @@
-# 84.b člen (obdelava podatkov)
-(1) Obdelava podatkov iz prvega odstavka prejšnjega člena se izvaja na naslednji način:
-- podatki se sporočijo organom, pristojnim za izvajanje kontrole oseb na zunanjih mejah, preko katerih bo potnik vstopil na ozemlje držav članic;
-- podatke smejo zbirati le prevozniki v letalstvu in jih elektronsko ali v primeru okvare kako drugače ustrezno sporočiti organom, pristojnim za izvajanje mejnih kontrol na določenem mejnem prehodu, preko katerega bo potnik vstopil na ozemlje države članice. Organi, pristojni za izvajanje mejne kontrole oseb na zunanjih mejah, podatke shranijo v začasno datoteko;
-- po vstopu potnikov organi iz prve alinee tega odstavka izbrišejo podatke v 24 urah po njihovem prejemu, razen kadar so podatki pozneje potrebni za izvajanje zakonskih pooblastil organov, pristojnih za izvajanje kontrol oseb na zunanjih mejah, skladno s predpisi Republike Slovenije in ob upoštevanju predpisov o varstvu osebnih podatkov;
-- prevozniki v letalstvu morajo v 24 urah po prihodu prevoznega sredstva skladno s prvim odstavkom prejšnjega člena izbrisati osebne podatke, ki so jih zbrali in sporočili mejnim organom v zvezi z izvajanjem določb 84.a in tega člena.
-(2) Osebne podatke iz 84.a člena tega zakona lahko pristojni organi Republike Slovenije uporabljajo za izvajanje mejne kontrole oseb na zunanjih mejah, za izvajanje določb tega člena in za izvajanje določb 189.a člena tega zakona, v skladu s predpisi o varstvu osebnih podatkov.
-(3) Prevozniki v letalstvu morajo obveščati potnike o obdelavi podatkov iz 84.a člena tega zakona v skladu z določbami Zakona o varstvu osebnih podatkov (Uradni list RS, št. 86/04 in 113/05 - ZInfP), vključno z informacijami iz drugega in četrtega odstavka 19. člena navedenega zakona.

@@ -1,3 +1,0 @@
-# 6. člen (nacionalni program razvoja civilnega letalstva)
-(1) Usmeritve za trajnostni razvoj civilnega letalstva in zagotavljanje varnosti zračnega prometa se določijo z nacionalnim programom razvoja civilnega letalstva Republike Slovenije, ki ga na predlog Vlade Republike Slovenije (v nadaljnjem besedilu: vlada) sprejme Državni zbor Republike Slovenije.
-(2) Kot izvedbene programe se za posamezna letališča izdelajo usklajeni programi razvoja letališč, tako da se zagotovi sistem letališč v skladu z namenom iz 86. člena tega zakona in ob upoštevanju javnega interesa kot tudi razvojnih potreb obratovalcev in uporabnikov letališč ter navigacijskih služb zračnega prometa.

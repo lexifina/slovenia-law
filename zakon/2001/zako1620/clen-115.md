@@ -1,4 +1,0 @@
-## 5.9. Varovanje okolja
-# 115. člen (okoljevarstvene zahteve glede emisij zrakoplovov v območju letališč)
-(1) Minister, pristojen za promet, v soglasju z ministrom, pristojnim za varovanje okolja, izda predpise o dovoljenem skupnem hrupu in emisiji motorjev zrakoplovov na letališču in v letališki coni ter določi višino pristojbine za odpravo škodljivih posledic na okolje, če hrup in emisije presegajo dovoljene meje.
-(2) Pristojbine iz prejšnjega odstavka pobira upravljalec letališča in so prihodek državnega proračuna. Sredstva pristojbin se uporabljajo za zmanjšanje vpliva in odpravo posledic hrupa motorjev na prizadetem območju v skladu z opredeljenimi ukrepi iz programov razvoja letališč. Najmanj ena četrtina sredstev pristojbin zbranih v posameznem letu se nameni kot nadomestilo za poslabšanje pogojev bivanja prebivalcem s stalnim bivališčem na prizadetih območjih. Prizadeta območja določi na osnovi opravljenih meritev vlada z uredbo.

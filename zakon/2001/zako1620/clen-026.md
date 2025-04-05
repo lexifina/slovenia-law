@@ -1,3 +1,0 @@
-# 26. člen (začasni vpis)
-(1) Na pisno vlogo lastnika se sme zrakoplov začasno vpisati v dodatek k registru zrakoplovov, če se zrakoplov nahaja v drugi državi in je bilo njegovo lastništvo preneseno na slovenskega državljana, pri čemer pa niso izpolnjeni vsi predpisani pogoji za registracijo. Za vpis v dodatek k registru zrakoplovov morajo biti izpolnjeni pogoji iz 1., 3. in 4. točke prvega odstavka 23. člena tega zakona.
-(2) Zrakoplov v izdelavi, se vpiše v dodatek k registru zrakoplovov pod pogoji, ki jih predpiše minister, pristojen za promet. Pri tem se smiselno upoštevajo določbe o vpisu v register zrakoplovov.

@@ -1,4 +1,0 @@
-# 86. člen (sistem letališč)
-(1) V skladu z zasnovo omrežja letališč iz prostorskega plana Republike Slovenije, vlada na predlog ministra, pristojnega za promet, opredeli sistem javnih letališč, ki so namenjena za javni zračni promet ob zagotavljanju enakomernega regionalnega razvoja in povezavi z drugimi prometnimi sistemi. Letališča, ki so vključena v sistem javnih letališč, so infrastrukturni objekti državnega oziroma lokalnega pomena.
-(2) Za določitev lokacije in gradnjo letališč, ki so vključena v sistem javnih letališč in z njimi povezanih infrastrukturnih objektov, naprav in sistemov navigacijskih služb zračnega prometa, se določbe o predhodnih soglasjih iz 97. člena oziroma 119. člena tega zakona ne uporabljajo v primeru, ko Republika Slovenija nastopa kot investitor.
-(3) Pred določitvijo lokacije in/ali izdajo enotnega dovoljenja za gradnjo mora biti opravljena ustrezna revizija projektne dokumentacije, ki jo opravi agencija.

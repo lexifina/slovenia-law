@@ -1,2 +1,0 @@
-# 46. člen (pooblastila za preizkus preverjanja sposobnosti)
-Agencija lahko v primerih iz prejšnjega člena in v primeru dvoma, da upravičenec iz licence ne izpolnjuje več pogojev za uveljavljanje privilegijev iz licence, od upravičenca iz licence zahteva, da opravi predpisane teoretične in praktične preizkuse za preverjanje njegove strokovne sposobnosti, kakor tudi druge predpisane preglede za ugotovitev psihofizičnega stanja zaradi ugotovitve sposobnosti za opravljanje nalog.

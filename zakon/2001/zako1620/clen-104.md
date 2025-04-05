@@ -1,4 +1,0 @@
-# 104. člen (preklic veljavnosti obratovalnega dovoljenja letališča)
-(1) Če agencija ali letalski nadzornik ugotovi, da letališče ne izpolnjuje več predpisanih pogojev iz 103. člena tega zakona, mu lahko agencija obratovalno dovoljenje takoj začasno odvzame ali v celoti ali delno prekliče njegovo veljavnost.
-(2) Ne glede na določbo prejšnjega odstavka lahko ministrstvo, pristojno za promet izjemoma predpiše dodatne omejitve in pogoje, če ugotovi, da bo s takimi ukrepi zagotovljena varnost zračnega prometa.
-(3) Investitor, lastnik oziroma obratovalec letališča mora ugotovljene pomanjkljivosti oziroma nepravilnosti odpraviti takoj, najkasneje pa v roku 48 ur. Izjemoma lahko minister, pristojen za promet, ta rok podaljša na sedem dni. Morebitna pritožba ne zadrži izvršitve odločbe iz prvega odstavka tega člena.

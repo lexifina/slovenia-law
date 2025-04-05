@@ -1,3 +1,0 @@
-# 142. člen (prepoved odstranitve delov zrakoplova in stvari)
-(1) Najdeni zrakoplov in stvari, ki se v zrakoplovu prevažajo, ali karkoli, kar spada k temu zrakoplovu ali stvarem, za katere obstaja sum, da bi lahko bile vzrok letalske nesreče, se ne smejo odstraniti ali premestiti brez dovoljenja glavnega preiskovalca, razen, če je to potrebno za rešitev človeškega življenja ali iz drugih izjemnih razlogov.
-(2) Kdor najde stvari, omenjene v prejšnjem odstavku, mora o tem takoj obvestiti policijo, preiskovalni organ, komisijo ali preiskovalca, ki ima pravico te stvari odvzeti v korist preiskave.
