@@ -1,7 +1,0 @@
-# 168.b člen (usposobljenost uradnih oseb)
-(1) Usposobljenost se glede na pooblastila uradne osebe agencije zahteva za naslednja področja:
-1. upravni postopek in upravni spor (uradna oseba agencije, pristojna za odločanje v upravnih zadevah, in uradna oseba agencije, pristojna za stalni nadzor),
-2. postopek vodenja in odločanja o prekrških (uradna oseba agencije, pristojna za stalni nadzor, in uradna oseba agencije, pristojna za prekrškovne postopke) ter
-3. odločanje v upravnih zadevah, postopki stalnega nadzora in nadzor nad izvajanjem posameznih letalskih predpisov (uradna oseba agencije, pristojna za upravne zadeve, uradna oseba agencije, pristojna za stalni nadzor, in uradna oseba agencije, pristojna za prekrškovne postopke; v nadaljnjem besedilu: strokovno področje).
-(2) Izpiti s področij iz 1. in 2. točke prejšnjega odstavka se opravljajo v skladu s predpisi o upravnih postopkih in inšpekcijskem nadzoru, ki jih je določil minister, pristojen za upravo.
-(3) Podrobnejši program strokovnega usposabljanja za posamezno strokovno področje iz 3. točke prvega odstavka tega člena (v nadaljnjem besedilu: strokovno usposabljanje), postopek preverjanja strokovne usposobljenosti in priznavanja opravljenih usposabljanj, opravljenih pri drugih organih in organizacijah, vzdrževanje strokovne usposobljenosti, veljavnost dokazil o usposabljanjih in druga vprašanja, povezana s strokovnim usposabljanjem, na predlog agencije določi minister, pristojen za promet.

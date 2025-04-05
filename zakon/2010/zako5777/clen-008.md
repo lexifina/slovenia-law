@@ -1,3 +1,0 @@
-# 8. člen
-Drugi odstavek 33. člena se spremeni tako, da se glasi:
-"(2) Šteje se, da je spričevalo o plovnosti neveljavno, če se slovenski zrakoplov ali njegova oprema ne vzdržuje v skladu s predpisanimi zahtevami, če se na zrakoplovu ali njegovi opremi naredijo spremembe, ki so pomembne za plovnost in ki jih agencija ni predhodno potrdila, ali če niso narejene obvezne spremembe na zrakoplovu ali njegovi opremi ali če se ne opravijo preverjanja po zahtevah agencije oziroma če se ne opravi redni ali izredni pregled. Spričevalo o plovnosti je v zgoraj navedenih primerih neveljavno, vse dokler agencija na vlogo lastnika ali uporabnika ponovno ne ugotovi plovnosti zrakoplova.".

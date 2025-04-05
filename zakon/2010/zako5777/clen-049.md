@@ -1,5 +1,0 @@
-# 49. člen (zagotovitev pogojev za začetek dela in poslovanja agencije)
-(1) Vlada sprejme ustanovitveni akt agencije najpozneje v treh mesecih od uveljavitve tega zakona.
-(2) Ustanovitelj zagotovi agenciji finančne pogoje in osnovna materialna sredstva za začetek dela in poslovanja z zagotovitvijo prostorov in opreme iz ministrstva, pristojnega za promet.
-(3) Vlada in minister, pristojen za promet, izdata predpise iz tretjega odstavka 5. člena, četrtega odstavka 68. člena, prvega odstavka 155. člena, četrtega odstavka 166.a člena, petega odstavka 168. člena, tretjega odstavka 168.b člena in šestega odstavka 179.a člena zakona najkasneje v petih mesecih po njegovi uveljavitvi, predpis iz petega odstavka 164. člena zakona pa najkasneje v roku enega leta po njegovi uveljavitvi. Do uveljavitve teh predpisov se uporabljajo predpisi, ki so veljali na dan uveljavitve tega zakona. Če do izdaje predpisov po tem odstavku agencija ne bi mogla začeti z izvajanjem določenih nalog, jih do uveljavitve novih predpisov izvaja ministrstvo, pristojno za promet.
-(4) Ne glede na določbe tega zakona se določbe 207. in 216. člena zakona uporabljajo do izdaje novih predpisov.
