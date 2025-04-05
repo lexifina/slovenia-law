@@ -1,5 +1,0 @@
-# 2. člen
-Besedilo 5. člena se spremeni tako, da se glasi:
-"(1) Ministrstvo, pristojno za promet, ureja in nadzoruje letalstvo v skladu s tem zakonom in na njegovi podlagi izdanimi predpisi ter drugimi predpisi in pravnimi akti, ki veljajo oziroma se uporabljajo v Republiki Sloveniji na področju letalstva.
-(2) Ministrstvo, pristojno za promet, opravlja upravno-strokovne naloge, vključno z inšpekcijskimi, ter druge naloge na letalskem področju, razen nalog, za katere so pristojni organi Evropske unije.
-(3) Za posamezne naloge iz prejšnjega odstavka, razen inšpekcijskih, lahko minister, pristojen za promet, v skladu s predpisi, ki veljajo v Republiki Sloveniji, pooblasti za to usposobljene organizacije ali posameznike, če izpolnijo predpisane pogoje in če je zagotovljen ustrezen strokovni nadzor nad delom teh organizacij oziroma posameznikov.".
