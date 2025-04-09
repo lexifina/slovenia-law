@@ -1,0 +1,25 @@
+# 9. člen (izbirni postopek članov Fiskalnega sveta)
+
+(1) Predsednik Fiskalnega sveta pol leta pred iztekom funkcije članov Fiskalnega sveta obvesti vlado.
+
+(2) Po prejemu obvestila o izteku funkcije ali po prejemu obvestila, da predlagani kandidat za člana Fiskalnega sveta ni dobil potrebne večine ali je bil predčasno razrešen, vlada brez odlašanja objavi v Uradnem listu Republike Slovenije poziv za prijavo kandidatov.
+
+(3) Prijavo kandidata se pošlje vladi v roku, ki ne sme biti krajši od 30 dni po objavi poziva, v primeru predčasne razrešitve člana Fiskalnega sveta in v primeru iz sedmega odstavka tega člena pa ne krajši od 15 dni po objavi poziva. Prijava mora biti obrazložena. Priložena ji mora biti pisna izjava prijavljenega kandidata, da je pripravljen sprejeti kandidaturo.
+
+(4) Izmed prijavljenih kandidatov vlada predlaga državnemu zboru kandidate za predsednika in člana Fiskalnega sveta.
+
+(5) Vlada predlaga kandidate v 30 dneh po izteku roka iz tretjega odstavka tega člena. Predlog kandidature mora obrazložiti ter predložiti pisni izjavi kandidata o sprejemu kandidature in o dnevu nastopa funkcije.
+
+(6) Državni zbor glasuje o predlaganih kandidatih za člane Fiskalnega sveta v 30 dneh po predložitvi predloga vlade. Predlagani kandidat je imenovan, če zanj glasuje dvotretjinska večina vseh poslancev. Osebno ime izbranega kandidata se objavi v Uradnem listu Republike Slovenije.
+
+(7) Če predlagani kandidat za člana Fiskalnega sveta ne dobi potrebne večine poslanskih glasov, predsednik državnega zbora o tem takoj obvesti vlado.
+
+(8) Če do dneva, ko se članu ali predsedniku Fiskalnega sveta izteče funkcija, še ni imenovan nov član ali predsednik Fiskalnega sveta ali če novoimenovani član ali predsednik Fiskalnega sveta ne more nastopiti funkcije dan po dnevu, ko se dosedanjemu članu ali predsedniku Fiskalnega sveta funkcija izteče, dosedanji član ali predsednik Fiskalnega sveta opravlja funkcijo, dokler novoimenovani član ali predsednik Fiskalnega sveta ne nastopi funkcije.
+
+(9) Če vlada predlaga državnemu zboru hkrati kandidata za obe prosti mesti članov Fiskalnega sveta, ki se jima funkcija izteče na isti dan, pa državni zbor ne imenuje kandidatov za obe prosti mesti temveč samo enega, se v primeru, ko imenovanje novega člana Fiskalnega sveta pred iztekom funkcije prejšnjega člana ni več mogoče, z žrebom določi, kateri od članov Fiskalnega sveta, ki se jima funkcija izteka, bo po izteku funkcije opravljal funkcijo člana do imenovanja novega člana. Z žrebom se določi, kateri od članov Fiskalnega sveta, ki se jima funkcija izteka, bo po izteku funkcije opravljal funkcijo člana tudi v primeru, ko eden od novoimenovanih članov Fiskalnega sveta ne more nastopiti funkcije pravočasno, če je to razvidno iz predloga kandidature iz petega odstavka tega člena.
+
+(10) Žreb iz prejšnjega odstavka se izvede na seji Fiskalnega sveta na način, določen s poslovnikom Fiskalnega sveta, ob navzočnosti predsednika državnega zbora.
+
+(11) Žreb se opravi najpozneje deset dni pred iztekom funkcije članov Fiskalnega sveta, če to ni mogoče, pa najpozneje dan po dnevu, ko je znan izid imenovanja v državnem zboru.
+
+(12) Po opravljenem postopku žreba iz devetega in desetega odstavka tega člena Fiskalni svet v Uradnem listu Republike Slovenije objavi osebno ime člana Fiskalnega sveta, ki še naprej opravlja funkcijo.
