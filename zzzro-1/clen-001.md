@@ -1,0 +1,3 @@
+# 1. člen (vsebina)
+
+Ta zakon ureja uvedbo, trajanje in prenehanje začasne zaščite razseljenih oseb (v nadaljnjem besedilu: začasna zaščita), pogoje in postopke za priznanje in prenehanje statusa začasne zaščite ter pravice in obveznosti prosilk oziroma prosilcev za začasno zaščito (v nadaljnjem besedilu: prosilci) ter oseb s statusom začasne zaščite v skladu z Direktivo Sveta 2001/55/ES z dne 20. julija 2001 o najnižjih standardih za dodelitev začasne zaščite v primeru množičnega prihoda razseljenih oseb in o ukrepih za uravnoteženje prizadevanj in posledic za države članice pri sprejemanju takšnih oseb (UL L št. 212 z dne 7. 8. 2001, str. 12; v nadaljnjem besedilu: Direktiva 2001/55/ES).

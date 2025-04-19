@@ -1,0 +1,13 @@
+# 69. člen (zbiranje, obdelava in posredovanje osebnih podatkov)
+
+(1) Pristojni organ, urad in ministrstvo zbirajo osebne podatke za vpis v evidence iz prvega odstavka 63. člena tega zakona neposredno od policije s povezovanjem evidenc v skladu s prvim odstavkom 64. člena tega zakona, od prosilca in osebe z začasno zaščito oziroma njenega zakonitega zastopnika, prič, iz uradnih in drugih zbirk osebnih podatkov iz 71. člena tega zakona ter na podlagi izvedenih aktivnosti zagotavljanja pravic in vključevanja v družbo za osebe z začasno zaščito. Kadar tako določa ta zakon, pristojni organ po uradni dolžnosti sam generira podatke. Prosilec in oseba z začasno zaščito oziroma njun zakoniti zastopnik morajo organom, pristojnim za izvajanje tega zakona, dati vse podatke, o katerih pooblaščeni organi in organizacije ne vodijo zbirk podatkov.
+
+(2) Upravljavci zbirk osebnih podatkov, ki razpolagajo s podatki, ki so potrebni za ugotovitev dejstev v zvezi z vodenjem in odločanjem v postopkih v skladu s tem zakonom, na podlagi obrazložene pisne zahteve pristojnega organa, urada ali ministrstva brezplačno v 15 dneh posredujejo zahtevane podatke. Zahteva vsebuje navedbo zahtevanih podatkov, pravno podlago za posredovanje, namen njihove uporabe in številko zadeve.
+
+(3) Pristojni organ, ministrstvo in urad lahko osebne podatke iz evidenc iz prvega odstavka 63. člena tega zakona posredujejo le na obrazloženo pisno zahtevo uporabnika, ki izkaže pravno podlago za pridobitev osebnih podatkov, določeno v zakonu, ali na podlagi izrecne pisne privolitve posameznika, na katerega se osebni podatki nanašajo.
+
+(4) Podatki, ki jih od prosilcev in oseb z začasno zaščito zberejo organi, pristojni za izvajanje tega zakona, se lahko izvorni državi posredujejo le s pisnim soglasjem prosilca oziroma osebe z začasno zaščito.
+
+(5) Za odstranitev osebe, katere vloga za priznanje statusa začasne zaščite je bila zavrnjena ali zavržena ali je bil postopek za priznanje njenega statusa začasne zaščite ustavljen in je bila odrejena njena prisilna odstranitev v izvorno državo, se tujim organom lahko posreduje le osebno ime, datum in kraj rojstva, spol, državljanstvo, podatke o dokumentih, ki jih je izdala izvorna država, ter zadnji naslov v izvorni državi.
+
+(6) Podatke iz četrtega in petega odstavka tega člena lahko ministrstvo ob pogoju vzajemnosti in z namenom nadzora nad pravilnostjo in zakonitostjo postopka odstranitve posreduje državam, ki niso države članice Evropske unije ali Evropskega gospodarskega prostora, če so izpolnjeni pogoji, ki jih za posredovanje osebnih podatkov v države, ki niso države članice Evropske unije ali Evropskega gospodarskega prostora, določajo predpisi, ki urejajo varstvo osebnih podatkov.
