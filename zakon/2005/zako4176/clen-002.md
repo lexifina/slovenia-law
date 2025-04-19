@@ -1,3 +1,0 @@
-# 2. člen (pravica do začasne zaščite)
-(1) V primeru množičnega prihoda razseljenih oseb iz tretjih držav, zlasti če obstaja nevarnost, da azilni sistem ne bo zmogel ustrezno obravnavati povečanega števila prošenj za azil, Republika Slovenija nudi začasno zaščito v skladu s pogoji in postopki, določenimi s tem zakonom.
-(2) Začasna zaščita se lahko dodeli razseljenim osebam, ki se ne morejo varno in trajno vrniti v državo ali regijo izvora zaradi vojne in njej podobnih razmer, oboroženih spopadov, okupacije ali množičnih kršitev človekovih pravic, zaradi česar je ogroženo njihovo življenje ali telo ali so žrtve sistematičnega ali splošnega kršenja človekovih pravic in temeljnih svoboščin.

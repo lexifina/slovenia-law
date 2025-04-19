@@ -1,8 +1,0 @@
-# 29. člen (pravica do izobraževanja)
-(1) Osebe z začasno zaščito, ki so stare manj kot 18 let, imajo pod enakimi pogoji kot državljani Republike Slovenije pravico do:
-- vključitve in zaključka osnovnošolskega izobraževanja in
-- vključitve in zaključka nižjega in srednjega poklicnega ter srednjega strokovnega in splošnega izobraževanja za pridobitev javno veljavne izobrazbe v javnih in zasebnih šolah, ki se financirajo iz javnih sredstev, če so ob vključitvi v izobraževanje stare manj kot 18 let in izpolnjujejo vpisne pogoje.
-(2) Osebe z začasno zaščito, ki so starejše od 18 let, se lahko vključijo v izobraževanje iz prvega odstavka tega člena pod enakimi pogoji, ki veljajo za udeležence izobraževanja odraslih, v izobraževanje na višjih in visokih strokovnih šolah ter na univerzitetni stopnji pa v skladu s predpisi, ki urejajo tovrstno izobraževanje.
-(3) Stroške izobraževanja oseb iz prvega odstavka tega člena krije ministrstvo, pristojno za šolstvo, v enakem obsegu in pod enakimi pogoji, kot to velja za državljane Republike Slovenije.
-(4) Individualne stroške v zvezi z izobraževanjem za posamezno osebo iz prvega odstavka tega člena, ki ne spadajo v okvir sistemskega financiranja iz prejšnjega odstavka, zagotavlja urad v okviru sredstev denarne pomoči oziroma žepnine v skladu s tem zakonom, razen dela stroškov prevoza in prehrane ter za učbenike, ki jih zagotavlja ministrstvo, pristojno za šolstvo, s subvencijami oziroma iz učbeniškega sklada.
-(5) Vključevanje oseb z začasno zaščito v izobraževanje zagotovi urad v sodelovanju z ministrstvom, pristojnim za šolstvo, in šolami.
