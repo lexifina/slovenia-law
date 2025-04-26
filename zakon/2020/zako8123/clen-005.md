@@ -1,5 +1,5 @@
 # 5. člen
-V 74. členu se v tretjem odstavku besedilo "ima visoko izobrazbo biotehnične ali biološke smeri" nadomesti z besedilom "ima doseženo izobrazbo, ki ustreza ravni izobrazbe, pridobljene po podiplomskih študijskih programih za pridobitev izobrazbe prve stopnje".
+V 74. členu se v tretjem odstavku besedilo "ima visoko izobrazbo biotehnične ali biološke smeri" nadomesti z besedilom "ima doseženo izobrazbo, ki ustreza ravni izobrazbe, pridobljene po dodiplomskih študijskih programih za pridobitev izobrazbe prve stopnje".
 V četrtem odstavku se peta alineja spremeni tako, da se glasi:
 "- začasno ustaviti ali odrediti odstrel posamezne vrste divjadi iz razlogov, določenih v prvi ali drugi alineji prvega odstavka 42. člena tega zakona, ki ga izvrši upravljavec lovišča;".
 Na koncu štirinajste alineje se pika nadomesti s podpičjem in doda nova, petnajsta alineja, ki se glasi:
