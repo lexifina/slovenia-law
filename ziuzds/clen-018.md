@@ -1,0 +1,13 @@
+# 18. člen
+
+Besedilo 35. člena se spremeni tako, da se glasi:
+
+»(1) Dodatek za izbiro specializacije iz družinske medicine pripada zdravniku, ki mu je na podlagi nacionalnega razpisa ali razpisa za izvajalca iz a18.a člena ZZdrS prvič odobrena specializacija iz družinske medicine v letu 2023 ali v letu 2024, in sicer v višini 1000 eurov bruto mesečno. Dodatek se zagotavlja iz proračuna Republike Slovenije in se ne všteva v osnovo za nadomestilo plače, izplačuje pa se celotno obdobje trajanja specializacije. V primeru podaljšanja specializacije se dodatek iz tega člena izplačuje največ za obdobje tega podaljšanja. Specializant, ki je pri delodajalcu zaposlen le del meseca ali je v času opravljanja specializacije odsoten več kot 20 zaporednih delovnih dni, je upravičen do sorazmernega dela dodatka za izbiro specializacije oziroma v primeru celomesečne odsotnosti do dodatka ni upravičen.
+
+(2) Če zdravnik med opravljanjem specializacije iz družinske medicine od nje odstopi oziroma mu je bila v skladu z zakonom, ki ureja zdravniško službo, izdana odločba o prenehanju ali prekinitvi ali če se po opravljeni specializaciji v skladu z zakonom, ki ureja zdravniško službo, ne zaposli v mreži javne zdravstvene službe za najmanj dvakratno obdobje, kot je prejemal dodatek iz tega člena, mora vrniti vrednost celotnega dodatka iz prejšnjega odstavka. Izvajalec zdravstvene dejavnosti, pri katerem je zaposlen zdravnik iz prvega odstavka tega člena, je dolžan o izpolnitvi obveznosti po zaposlitvi v mreži javne zdravstvene službe poročati ministrstvu, pristojnemu za zdravje.
+
+(3) Zahtevek za izplačilo dodatka za izbiro specializacije iz družinske medicine pri ministrstvu, pristojnem za zdravje, vloži izvajalec zdravstvene dejavnosti, pri katerem je zaposlen zdravnik iz prvega odstavka tega člena. Podrobnejši način vlaganja zahtevkov, obvezna dokazila in roke za predložitev zahtevkov, obveznost poročanja delodajalcev glede izpolnitve obveznosti po zaposlitvi v mreži javne zdravstvene službe in način povrnitve stroškov v proračun Republike Slovenije določi minister, pristojen za zdravje.
+
+(4) Nadzor nad izvajanjem določb tega člena v javnem sektorju opravljajo inšpektorji, pristojni za plače v javnem sektorju, v skladu z zakonom, ki ureja sistem plač v javnem sektorju. Če se v nadzoru ugotovi, da so bila sredstva iz naslova tega dodatka pridobljena neupravičeno, specializant v celoti ali delno vrne prejeta sredstva. V primeru ugotovljenih nepravilnosti pri izplačilu tega dodatka inšpektor iz prvega stavka tega odstavka izreče ukrep za odpravo nepravilnosti.«.
+
+(5) Ukrep iz tega člena velja do 31. decembra 2031.«.

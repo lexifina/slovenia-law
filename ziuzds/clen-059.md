@@ -1,0 +1,11 @@
+# 59. člen (domneva glede odločb)
+
+(1) Odločba o pravici do kritja razlike do polne vrednosti zdravstvenih storitev se od 1. januarja 2024 šteje za odločbo o pravici do plačila obveznega zdravstvenega prispevka.
+
+(2) Ne glede na prejšnji odstavek se odločba, s katero se prizna pravica do plačila obveznega zdravstvenega prispevka za obdobje pred 1. januarjem 2024, šteje za odločbo o pravici do kritja razlike do polne vrednosti zdravstvenih storitev. Ministrstvo, pristojno za socialne zadeve, obvesti o številki, datumu in obdobju veljavnosti izdane odločbe za posameznega upravičenca Zavod, ki te podatke vodi v evidenci zavarovanih oseb.
+
+(3) Upravičenec do varstvenega dodatka na podlagi zakona, ki ureja socialno varstvene prejemke, je od začetka uporabe tega zakona upravičen do pravice do plačila prispevka za obvezno zdravstveno zavarovanje in do plačila obveznega zdravstvenega prispevka v skladu s tem zakonom za obdobje veljavnosti odločbe o upravičenosti do varstvenega dodatka. Pravici iz prejšnjega stavka ima tudi oseba, ki je po upravičencu do varstvenega dodatka zavarovana kot ožji družinski član-zakonec na podlagi zakona, ki ureja zdravstveno zavarovanje, če ima stalno prebivališče v Republiki Sloveniji, ne glede na to, ali je upravičenec do varstvenega dodatka zavarovan iz drugega naslova na podlagi zakona, ki ureja zdravstveno zavarovanje. Do pravic iz tega odstavka je oseba upravičena na podlagi zakona in se o tem ne izda posebne odločbe.
+
+(4) Upravičenec do plačila prispevka za obvezno zdravstveno zavarovanje na podlagi zakona, ki ureja uveljavljanje pravic iz javnih sredstev, ki ni upravičen do pravice do kritja razlike do polne vrednosti zdravstvenih storitev zaradi krivdnega razloga pri denarni socialni pomoči, je z začetkom uporabe tega zakona upravičen do pravice do plačila obveznega zdravstvenega prispevka v skladu s tem zakonom, za obdobje veljavnosti odločbe o upravičenosti do pravice do plačila prispevka za obvezno zdravstveno zavarovanje. Do pravice iz tega odstavka je oseba upravičena na podlagi zakona in se o tem ne izda posebne odločbe.
+
+(5) Ministrstvo, pristojno za socialne zadeve, upravičence do pravic iz javnih sredstev iz tega člena o pravicah, ki jim pripadajo od 1. januarja 2024, obvesti pisno.
