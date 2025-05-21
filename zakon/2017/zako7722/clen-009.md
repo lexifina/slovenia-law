@@ -1,2 +1,0 @@
-# 9. člen (plačilni roki)
-Ne glede na predpise, ki urejajo preprečevanje zamud pri plačilih in predpise, ki urejajo izvrševanje proračuna, plačilni rok, kadar je dolžnik javni zdravstveni zavod, ne sme biti daljši od 60 dni po prejemu listine, ki je podlaga za izplačilo. Izjemoma je dogovorjeni rok za plačilo lahko daljši od 60 dni, če je dolžina roka dogovorjena pisno in tak rok ne pomeni očitno nepravičnega dogovora v skladu z 9. členom Zakona o preprečevanju zamud pri plačilih (Uradni list RS, št. 57/12).

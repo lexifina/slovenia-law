@@ -1,3 +1,0 @@
-# 6. člen (odpis neplačanih terjatev iz naslova združevanja amortizacije)
-(1) Ne glede na določbe zakona, ki ureja javne finance, in zakona, ki ureja računovodstvo, Republika Slovenija odpiše neplačane terjatve javnim zdravstvenim zavodom iz naslova združevanja amortizacije, ki so nastale pred sprejetjem Zakona o investicijah v javne zdravstvene zavode, katerih ustanovitelj je Republika Slovenija (Uradni list RS, št. 90/15).
-(2) Odpis terjatev iz prejšnjega odstavka se evidentira le na kontih bilance stanja državnega proračuna, v poslovnih izkazih javnega zdravstvenega zavoda se prevzeta obveznost izkaže kot prevrednotovalni prihodek.
