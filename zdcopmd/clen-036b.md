@@ -1,0 +1,5 @@
+# 36.b člen (prekrški)
+
+(1) Z globo 50 eurov se za vsako začeto 24-urno obdobje kršitve, vendar najmanj v višini 200 eurov in največ v višini 5.000 eurov, kaznuje za prekršek pravna oseba ali samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, če ne upošteva najnižje starosti mobilnih delavcev, v nasprotju s prvim odstavkom 5. člena Uredbe 561/2006/ES ali 5. členom AETR, če se ta uporablja na podlagi tretjega odstavka 2. člena Uredbe 561/2006/ES ali 3. členom Oddelka 2 Dela B Priloge 31 Sporazuma o trgovini in sodelovanju.
+
+(2) Z globo 40 eurov se za vsako začeto 24-urno obdobje kršitve, vendar največ v višini 2.500 eurov, kaznuje za prekršek odgovorna oseba pravne osebe, samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, če ne upošteva najnižje starosti mobilnih delavcev, v nasprotju s prvim odstavkom 5. člena Uredbe 561/2006/ES ali 5. členom AETR, če se ta uporablja na podlagi tretjega odstavka 2. člena Uredbe 561/2006/ES ali 3. členom Oddelka 2 Dela B Priloge 31 Sporazuma o trgovini in sodelovanju.
