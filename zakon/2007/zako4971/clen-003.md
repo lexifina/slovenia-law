@@ -1,6 +1,0 @@
-# 3. člen
-V prvem odstavku 87. člena se namesto pike postavi podpičje in doda besedilo "predpisana izobrazba za nazive prvega kariernega razreda je tudi izobrazba, pridobljena po študijskem programu druge stopnje v skladu z zakonom, ki ureja visoko šolstvo.".
-V drugem odstavku se namesto pike postavi podpičje in doda besedilo "predpisana izobrazba za nazive drugega in tretjega kariernega razreda je tudi najmanj izobrazba, pridobljena po študijskem programu prve stopnje v skladu z zakonom, ki ureja visoko šolstvo.".
-Za četrtim odstavkom se dodata peti in šesti odstavek, ki se glasita:
-"(5) Ne glede na določbo prejšnjega odstavka je predpisana izobrazba za nazive petega kariernega razreda tudi izobrazba, določena v področnem zakonu, pri čemer pa uradnika z nazivom, pridobljenim po tem odstavku, ni možno premestiti na delovno mesto, na katerem se delovne naloge opravljajo v nazivu, pridobljenem po prejšnjem odstavku.
-(6) Ne glede na določbe drugega odstavka tega člena se lahko za nazive tretjega kariernega razreda določi kot pogoj najmanj višja izobrazba, pridobljena v okviru sistema visokošolskega izobraževanja po višješolskih programih, sprejetih pred 1. januarjem 1994, in ustrezno število let delovnih izkušenj, za kar natančnejše kriterije za organe državne uprave, pravosodne organe in za uprave lokalnih skupnosti določi vlada z uredbo.".
