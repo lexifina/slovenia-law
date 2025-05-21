@@ -1,0 +1,3 @@
+# 36.d člen (pogoji dodelitve državne pomoči)
+
+Ukrep iz tega poglavja se izvaja v skladu s točko 3.1 Sporočila Komisije Začasni okvir za ukrepe državne pomoči v podporo gospodarstvu ob izbruhu COVID-19 (UL C št. 91 I z dne 20. 3. 2020, str. 1), zadnjič spremenjenim s Sporočilom Komisije Šesta sprememba začasnega okvira za ukrepe državne pomoči v podporo gospodarstvu ob izbruhu COVID-19 in sprememba Priloge k Sporočilu Komisije državam članicam o uporabi členov 107 in 108 Pogodbe o delovanju Evropske unije za kratkoročno zavarovanje izvoznih kreditov (C (2021) 8442 final z dne 18. 11. 2021 in se lahko začne izvajati po njegovi odobritvi s strani Evropske komisije.

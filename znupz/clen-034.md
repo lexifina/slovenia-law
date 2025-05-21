@@ -1,0 +1,21 @@
+# 34. člen (izvajanje nadzora nad dodelitvijo in izplačevanjem nadomestil plače ter izvajanjem pogodbe)
+
+(1) Delodajalec, ki uveljavi povračilo nadomestil plače, mora ZRSZ omogočiti administrativni in finančni nadzor nad izpolnjevanjem pogodbenih obveznosti. V primeru nadzora na kraju samem mora ZRSZ omogočiti vpogled v računalniške programe, listine in postopke v zvezi z izvajanjem tega zakona.
+
+(2) Za potrebe izplačevanja povračil nadomestil plače in izvajanja nadzora, ima ZRSZ pravico brezplačno pridobivati podatke o delavcih, ki so v karanteni na domu ali ne morejo opravljati dela zaradi višje sile zaradi obveznosti varstva, višje sile zaradi ustavitve javnega prevoza ali višje sile zaradi zaprtja mej, iz zbirk podatkov od Zavoda za zdravstveno zavarovanje Slovenije, Zavoda za pokojninsko in invalidsko zavarovanje Slovenije, upravljavca Centralnega registra prebivalstva in Finančne uprave Republike Slovenije, in sicer:
+
+- osebno ime,
+
+- EMŠO,
+
+- zavarovalno podlago ter
+
+- podatke o izplačanih plačah in plačanih prispevkih.
+
+(3) Za namen izvajanja nadzora nad izpolnjevanjem pogodbenih obveznosti delodajalca ima ZRSZ pravico tudi neposredno od delodajalca pridobivati dokazila in listine, iz katerih je razviden način uveljavljanja pravic na podlagi tega zakona, na katerih mora delodajalec prekriti oziroma iz katerih mora izločiti tiste dele listin, ki niso nujni za ugotovitev razloga prenehanja zaposlitve in za vročitev takšne listine.
+
+(4) Podatki, ki jih pridobi ZRSZ na podlagi tega zakona, se ne smejo pošiljati tretjim osebam, hranijo pa se deset let po pridobitvi, razen v anonimizirani obliki za raziskovalne namene.
+
+(5) Po preteku roka hrambe iz prejšnjega odstavka se podatki blokirajo in nadalje obravnavajo v skladu s predpisi, ki urejajo poslovanje organov javne uprave s stalno zbirko dokumentarnega gradiva oziroma ravnanje z javnim arhivskim gradivom.
+
+(6) Po blokiranju v skladu s prejšnjim odstavkom se podatki iz četrtega odstavka tega člena hranijo 30 let.
