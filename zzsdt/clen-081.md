@@ -1,0 +1,3 @@
+# 81. člen (prenehanje veljavnosti Zakona o zaposlovanju in delu tujcev)
+
+Z dnem uveljavitve tega zakona preneha veljati Zakon o zaposlovanju in delu tujcev (Uradni list RS, št. 26/11, 21/13 – ZUTD-A in 100/13 – ZUTD-C), uporablja pa se do začetka uporabe tega zakona, razen določb prvega, drugega in tretjega odstavka 57. člena in prvega, drugega in tretjega odstavka 58. člena, ki se za ugotavljanje razlogov za prenehanje veljavnosti in razveljavitev delovnih dovoljenj, izdanih po Zakonu o zaposlovanju in delu tujcev (Uradni list RS, št. 26/11, 21/13 – ZUTD-A in 100/13 – ZUTD-C), uporabljajo do poteka veljavnosti delovnih dovoljenj, izdanih po navedenem zakonu.

@@ -1,0 +1,15 @@
+# 7. člen (zaposlitev, samozaposlitev in delo ter zagotavljanje dela delavcev uporabniku)
+
+(1) Tujec je zaposlen v Republiki Sloveniji, kadar je na podlagi sklenjene pogodbe o zaposlitvi v delovnem razmerju pri delodajalcu v Republiki Sloveniji. Pogodba o zaposlitvi mora biti v skladu z zakonom, ki ureja delovna razmerja, in s kolektivnimi pogodbami, ki zavezujejo delodajalca.
+
+(2) Tujec je samozaposlen v Republiki Sloveniji, če samostojno opravlja pridobitno ali drugo dovoljeno dejavnost.
+
+(3) Tujec opravlja delo v Republiki Sloveniji, kadar opravlja delo kot napoteni delavec ali opravlja delo na podlagi sklenjene pogodbe civilnega prava, ki se časovno omejeno izvaja na ozemlju Republike Slovenije.
+
+(4) Prepovedano je opravljanje ali omogočanje opravljanja drugega dela kot tistega, za katerega je bilo v postopku izdaje ali podaljšanja enotnega dovoljenja oziroma modre karte EU podano soglasje, ali podano soglasje za zamenjavo, ali za katerega je bilo izdano dovoljenje za sezonsko delo. Tujec z enotnim dovoljenjem, ki mu je bilo izdano ali podaljšano na podlagi soglasja za zaposlitev, samozaposlitev ali delo, ali tujec, ki mu je bilo v času veljavnosti enotnega dovoljenja pri zamenjavi delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitvi pri dveh ali več delodajalcih podano soglasje za zaposlitev, samozaposlitev ali delo, ali tujec z enotnim dovoljenjem zaradi opravljanja dela kot samozaposlena oseba in tujec, ki ima v skladu z določbami tega zakona prost dostop na trg dela, lahko opravlja vsa dela v okviru registriranih dejavnosti delodajalca ali poslovnega subjekta ter druge posle, potrebne za obstoj in opravljanje dejavnosti, ki pa ne pomenijo neposrednega opravljanja dejavnosti.
+
+(5) Delodajalec, ki lahko v skladu z zakonom, ki ureja trg dela, opravlja dejavnost zagotavljanja dela delavcev uporabniku, lahko v okviru opravljanja te dejavnosti sklepa pogodbe o zaposlitvi samo s tujci, ki v Republiki Sloveniji prebivajo na podlagi modre karte EU, s tujci, za katere je bilo v postopku izdaje ali podaljšanja enotnega dovoljenja ali v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih podano soglasje za zaposlitev, samozaposlitev ali delo, ter s tujci, ki imajo v skladu s tem zakonom prost dostop na trg dela.
+
+(6) Posameznik s prebivališčem v Republiki Sloveniji, ki ni registriran za opravljanje dejavnosti, ali ni vpisan v register kmetijskih gospodarstev, sme skleniti pogodbo o zaposlitvi ali pogodbo civilnega prava le s tujcem, ki ima prost dostop na slovenski trg dela, in s tujcem, za katerega je bilo v postopku izdaje ali podaljšanja enotnega dovoljenja ali v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih podano soglasje za zaposlitev, samozaposlitev ali delo.
+
+(7) Tujci, ki so v Republiki Sloveniji zaposleni, samozaposleni ali opravljajo delo, morajo imeti urejeno prebivanje v skladu s predpisi, ki urejajo prebivanje tujcev v Republiki Sloveniji.

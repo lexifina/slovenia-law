@@ -1,0 +1,3 @@
+# 53. člen
+
+Z globo od 500 do 5.000 eurov se kaznuje za prekršek posameznik s prebivališčem v Republiki Sloveniji, ki ni registriran za opravljanje dejavnosti ali ni vpisan v register kmetijskih gospodarstev, ki sklene pogodbo o zaposlitvi ali pogodbo civilnega prava s tujcem, ki nima prostega dostopa na trg dela oziroma za katerega v postopku izdaje ali podaljšanja enotnega dovoljenja ali mu v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih ni bilo podano soglasje za zaposlitev, samozaposlitev ali delo (šesti odstavek 7. člena).
