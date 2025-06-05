@@ -1,0 +1,7 @@
+# 42. člen (vplačilo v obliki delnic ZSPVZZ)
+
+(1) Ne glede na četrti in peti odstavek 5. člena tega zakona lahko imetnik INR vplačilo na INR opravi v obliki delnic, ki jih je pridobil kot upravičenec do deleža pri preoblikovanju Vzajemne d.v.z. v delniško družbo po Zakonu o statusnem preoblikovanju Vzajemne zdravstvene zavarovalnice d.v.z. (Uradni list RS, št. 131/23; v nadaljnjem besedilu: ZSPVZZ). Vplačilo se mora opraviti v roku za prevzem delnic, ki jih fiduciarno hrani Centralna klirinško depotna družba. Za te delnice se ne uporablja drugi odstavek 23. člena ZSPVZZ.
+
+(2) Znesek vplačila na INR, opravljenega v obliki delnic, ki jih je zavezanec pridobil na INR kot upravičenec do deleža pri preoblikovanju Vzajemne d.v.z. v delniško družbo po ZSPVZZ, je enak nominalni vrednosti delnic, če v času vplačila na INR delnice niso sprejete v trgovanje na borznem trgu. Če so v času vplačila na INR delnice sprejete v trgovanje na borznem trgu, se znesek vplačila na INR določi upoštevaje zaključno ceno delnice prejšnjega trgovalnega dne.
+
+(3) Primerljiva tržna cena delnice, ki jo je zavezanec pridobil na INR kot upravičenec do deleža pri preoblikovanju Vzajemne d.v.z. v delniško družbo po ZSPVZZ, če delnica v času določanja primerljive tržne cene delnice ni sprejeta v trgovanje na borznem trgu, enaka nominalni vrednosti delnice. Če je delnica v času določanja primerljive tržne cene delnica sprejeta v trgovanje na borznem trgu, se primerljiva tržna cena delnice določi v skladu s prvim odstavkom novega 104.č člena Zakona o dohodnini.
