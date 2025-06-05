@@ -1,0 +1,5 @@
+# 118. člen (uskladitev olajšav)
+
+(1) Z zakonom, ki ureja izvrševanje proračuna, se ob upoštevanju ciljev ekonomske politike vlade in po prehodnem posvetu vlade s socialnimi partnerji določi koeficient, s katerim se uskladijo zneski olajšav, določeni v 111. členu, prvem in osmem odstavku 112. člena, tretjem in šestem odstavku 113. člena, prvem in drugem odstavku 114. člena ter v prvem odstavku 117. člena tega zakona. Koeficient se določi najmanj v višini 50 % rasti povprečnih mesečnih plač zaposlenih v Sloveniji za mesec junij tekočega leta v primerjavi z mesecem junijem prejšnjega leta, po podatkih Statističnega urada Republike Slovenije, če je ta pozitivna.
+
+(2) Usklajene zneske olajšav, ob upoštevanju koeficienta, določenega v skladu s prvim odstavkom tega člena, in enačbo za določitev olajšave iz tretjega odstavka 111. člena tega zakona določi minister, pristojen za finance, najpozneje v decembru tekočega leta za naslednje leto, če je z zakonom, ki ureja izvrševanje proračuna, za naslednje leto določena uskladitev.

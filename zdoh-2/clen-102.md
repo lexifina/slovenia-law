@@ -1,0 +1,3 @@
+# 102. člen (čas odsvojitve kapitala)
+
+Za čas odsvojitve kapitala se šteje datum sklenitve pogodbe ali drugega pravnega posla oziroma datum pravnomočnosti sodne odločbe ali dokončnosti odločbe upravnega organa, na podlagi katerih je fizična oseba odsvojila kapital. V primeru prenehanja gospodarske družbe, zadruge ali druge oblike organiziranja ter pri zmanjšanju osnovnega kapitala, se za čas odsvojitve kapitala šteje datum sklepa organa o prenehanju oziroma sklepa organa o zmanjšanju osnovnega kapitala. V primeru izstopa ali izključitve se za čas odsvojitve šteje datum vpisa učinka izstopa ali izključitve v register. V drugih primerih odsvojitve se za čas odsvojitve kapitala šteje datum, ki je razviden iz drugih dokazil.

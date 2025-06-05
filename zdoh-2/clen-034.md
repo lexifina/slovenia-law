@@ -1,0 +1,3 @@
+# 34. člen (dohodki rezidentov – uslužbencev v institucijah Evropskih skupnosti, Evropski centralni banki ali Evropski investicijski banki)
+
+Ne glede na prvi odstavek 5. člena tega zakona, se dohodnine ne plačuje od dohodka iz zaposlitve, ki ga prejme rezident kot uslužbenec v institucijah Evropskih skupnosti, Evropski centralni banki, Evropski investicijski banki ali Evropskem investicijskem skladu, pod pogojem, da se od tega dohodka plačuje dohodnina v institucijah Evropske skupnosti, Evropski centralni banki, Evropskem monetarnem institutu oziroma Evropski investicijski banki. Ta dohodek se ne upošteva pri izračunu višine dohodnine od preostalega obdavčljivega dohodka takega rezidenta.

@@ -1,0 +1,3 @@
+# 84. člen (davčna osnova v primeru dolgoročno vezanih denarnih sredstev in dolgoročnega varčevanja pri bankah in hranilnicah)
+
+Ne glede na 83. člen tega zakona, je davčna osnova od obresti, doseženih v primeru vezanih denarnih sredstev in varčevanja na računu pri bankah in hranilnicah, ustanovljenih v skladu s predpisi v Sloveniji, in pri bankah drugih držav članic EU, z ročnostjo daljšo od enega leta, pri katerem zavezanec ne more razpolagati s privarčevanimi sredstvi pred potekom datuma vezave oziroma poteka varčevanja brez bistvenega zmanjšanja obresti, enaka obrestim, obračunanim za obdobje davčnega leta, če se zavezanec rezident tako odloči in o tem v roku in na predpisan način obvesti banko ali hranilnico in davčni organ.

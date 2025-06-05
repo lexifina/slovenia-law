@@ -1,0 +1,3 @@
+# 94. člen (odsvojitev kapitala)
+
+Za odsvojitev kapitala po tem poglavju se šteje vsaka odsvojitev kapitala ali dela kapitala, kot je zlasti prodaja kapitala, dajanje kapitala v dar, zamenjava kapitala, unovčitev investicijskega kupona, izplačilo sorazmernega dela likvidacijske mase v primeru likvidacije investicijskega sklada, izplačilo lastniškega deleža v primeru prenehanja gospodarske družbe, zadruge ali druge oblike organiziranja, izplačilo lastniškega deleža v primeru zmanjšanja lastniškega kapitala gospodarske družbe, zadruge ali druge oblike organiziranja, izstopa ali izključitve ter drugi primeri izplačila lastniškega deleža, izplačanega v denarju ali v naravi, če ni s tem zakonom drugače določeno.

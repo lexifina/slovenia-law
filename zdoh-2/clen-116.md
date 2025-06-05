@@ -1,0 +1,3 @@
+# 116. člen (olajšave za rezidente držav članic EU oziroma EGP)
+
+Fizična oseba, ki je rezident države članice EU oziroma EGP, ki ni Slovenija, in v Sloveniji dosega dohodke iz zaposlitve, dohodke iz dejavnosti, razen dohodkov iz dejavnosti, če se davčna osnova od teh dohodkov ugotavlja na podlagi dejanskih prihodkov in normiranih odhodkov, dohodke iz osnovne kmetijske in osnovne gozdarske dejavnosti in prenosa premoženjske pravice ter druge dohodke, lahko uveljavlja olajšave, določene v 111., 112., 113., 114. in 117. členu tega zakona, če z dokazili dokaže, da znašajo navedeni dohodki, doseženi v Sloveniji, najmanj 90% njenega celotnega obdavčljivega dohodka v davčnem letu.

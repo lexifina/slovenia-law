@@ -1,0 +1,13 @@
+# 159. člen (začetek veljavnosti in uporabe)
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije, uporablja pa se od 1. januarja 2007 dalje, razen:
+
+1. 45. člena in četrtega odstavka 97. člena, ki se uporabljata že pri odmeri dohodnine za leto 2006;
+
+2. 100. člena tega zakona v delu, ki se nanaša na odlog ugotavljanja davčne obveznosti v primeru zamenjave investicijskih kuponov podsklada za investicijske kupone drugih podskladov v okviru prehajanja med podskladi pri istem krovnem vzajemnem skladu, ki se pričnejo uporabljati eno leto po uveljavitvi zakona o investicijskih skladih in družbah za upravljanje, ki dopušča ustanovitev krovnih vzajemnih skladov;
+
+3. prvega odstavka 61. člena tega zakona, v delu, ki določa regijsko olajšavo, ki začne veljati in se uporabljati z dnem, ko Evropska komisija odobri shemo te olajšave; minister, pristojen za finance, v Uradnem listu Republike Slovenije objavi dan uveljavitve in začetka uporabe te olajšave;
+
+4. 5. točke drugega odstavka 96. člena tega zakona, ki začne veljati in se uporabljati z dnem, ko Evropska komisija odobri shemo tveganega kapitala; minister, pristojen za finance, v Uradnem listu Republike Slovenije objavi dan uveljavitve in začetka uporabe 5. točke drugega odstavka 96. člena tega zakona;
+
+5. 145. člena, ki se uporablja od dneva uveljavitve tega zakona.
