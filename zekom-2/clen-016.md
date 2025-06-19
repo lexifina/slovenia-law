@@ -1,0 +1,17 @@
+# 16. člen (dostop operaterja omrežja do podatkov o obstoječi fizični infrastrukturi)
+
+(1) Če podatki iz prvega in tretjega odstavka prejšnjega člena v primeru elektronskih komunikacijskih omrežij ali podatki o lokaciji in trasi, vrsti in trenutni uporabi fizične infrastrukture ter kontaktni točki v primeru drugih infrastrukturnih operaterjev, ki se vpisujejo v evidenco infrastrukturnih omrežij in objektov v skladu s predpisom, ki ureja vpis v to evidenco, niso dostopni, lahko operater omrežja zaprosi infrastrukturnega operaterja za dostop do teh podatkov. Operater omrežja v prošnji opredeli območje, na katero se nanaša postavitev elementov elektronskih komunikacijskih omrežij.
+
+(2) Infrastrukturni operater mora dostop do podatkov pod sorazmernimi, nediskriminacijskimi in preglednimi pogoji odobriti v dveh mesecih od prejema pisne prošnje iz prejšnjega odstavka. Podatke mora zagotoviti v obliki, kot je zahtevana za vpis v evidenco infrastrukturnih omrežij ter objektov v skladu s predpisom, ki ureja vpis v to evidenco.
+
+(3) Ne glede na prejšnji odstavek lahko infrastrukturni operater zavrne dostop do podatkov, če je to potrebno zaradi varnosti omrežij, nacionalne varnosti, javnega zdravja ali varnosti.
+
+(4) Operater omrežja lahko v pisni prošnji, v kateri so opredeljeni elementi omrežja, na katere se nanaša postavitev elektronskih komunikacijskih omrežij, infrastrukturnega operaterja zaprosi za pregled določenih elementov fizične infrastrukture na kraju samem ob navzočnosti in strokovnem nadzoru pooblaščene osebe infrastrukturnega operaterja. Infrastrukturni operater pod sorazmernimi, nediskriminacijskimi in preglednimi pogoji odobri razumno prošnjo za pregled v 30 dneh od prejema pisne prošnje, razen če to ni primerno iz razlogov v prejšnjem odstavku.
+
+(5) Operater omrežja mora s podatki, ki jih pridobi na podlagi tega člena, ravnati v skladu s predpisi s področja tajnih podatkov, predpisi, ki urejajo varovanje poslovnih skrivnosti, in predpisi, ki urejajo varstvo osebnih podatkov, ter sprejeti ustrezne tehnične in organizacijske ukrepe za varovanje zaupnosti, tajnosti ter operativnih in poslovnih skrivnosti.
+
+(6) Če se infrastrukturni operaterji sami ne dogovorijo o dostopu do podatkov na podlagi tega člena, o zadevi na zahtevo ene od strank odloča agencija po postopku iz 286. člena tega zakona.
+
+(7) Določbe tega člena se smiselno uporabljajo tudi za podatke o neuporabljenih optičnih vlaknih iz 140. člena tega zakona.
+
+(8) Pristojni organ javnega sektorja, ki pri svojem delu razpolaga s podatki iz prvega odstavka tega člena, te podatke na njegovo zahtevo posreduje operaterju omrežja.

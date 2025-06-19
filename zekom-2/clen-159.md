@@ -1,0 +1,7 @@
+# 159. člen (prostovoljna ločitev vertikalno integriranega operaterja)
+
+(1) Operater, ki je bil določen kot operater s pomembno tržno močjo na enem ali več upoštevnih trgih, mora agencijo najmanj tri mesece vnaprej obvestiti o načrtovanem prostovoljnem prenosu vseh ali znatnega dela sredstev svojega krajevnega dostopovnega omrežja na drugo pravno osebo z drugim lastnikom ali ustanovitvi druge poslovne enote, ki bi vsem maloprodajnim ponudnikom, tudi operaterjevim lastnim maloprodajnim enotam, zagotavljala popolnoma enakovredne oblike operaterskega dostopa pod enakimi pogoji. Operaterji prav tako obvestijo agencijo o spremembi te namere in končnem izidu postopka prostovoljne ločitve.
+
+(2) Agencija oceni učinek načrtovanega prenosa in morebitnih ponujenih zavez na obstoječe obveznosti, ki jih je naložila operaterju v skladu s 148. členom tega zakona. V ta namen agencija v skladu s 147. členom tega zakona brez odlašanja izvede usklajeno analizo upoštevnih trgov, povezanih z dostopovnim omrežjem. Agencija na podlagi svoje ocene naloži, ohrani, spremeni ali umakne obveznosti na teh upoštevnih trgih ob upoštevanju osmega odstavka 148. člena tega zakona, pri čemer po potrebi uporabi 161. člen tega zakona.
+
+(3) Pravno ali operativno ločenemu operaterju lahko agencija za kateri koli upoštevni trg iz 147. člena tega zakona, na katerem ga je v skladu s 148. členom tega zakona določila kot operaterja s pomembno tržno močjo, naloži katero koli obveznost iz 149. do vključno 154. člena ali drugo obveznost iz četrtega odstavka 148. člena tega zakona.

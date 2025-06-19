@@ -1,0 +1,9 @@
+# 43. člen (usklajeno dodeljevanje radijskih frekvenc v zvezi s skupnimi izbirnimi postopki)
+
+(1) Če je bila uporaba določenih radijskih frekvenc usklajena, pogoji in postopki dostopa dogovorjeni, fizične ali pravne osebe, ki se jim dodelijo radijske frekvence, pa izbrane v skladu z mednarodnimi sporazumi in predpisi EU, te osebe pridobijo pravico do uporabe teh radijskih frekvenc v Republiki Sloveniji na podlagi odločbe, izdane na podlagi tega zakona.
+
+(2) Kadar je s splošnim aktom iz 35. člena tega zakona predpisana uporaba radijskih frekvenc na podlagi odločbe o dodelitvi radijskih frekvenc, agencija izda odločbo na podlagi določb zakona, ki ureja splošni upravni postopek, in brez predhodnega postopka javnega razpisa. Če so bili v postopku izbire iz prejšnjega odstavka izpolnjeni vsi pogoji, predpisani za dodelitev teh radijskih frekvenc s tem zakonom, jim agencija ne sme naložiti še dodatnih pogojev, meril ali postopkov, ki bi lahko omejili, spremenili ali upočasnili izdajo odločbe o dodelitvi radijskih frekvenc.
+
+(3) Fizične ali pravne osebe, ki v Republiki Sloveniji pridobijo pravico uporabe radijskih frekvenc iz prvega odstavka tega člena brez odločbe agencije, smejo te frekvence uporabljati le v skladu z izbirno odločbo institucij EU (v nadaljnjem besedilu: izbirna odločba) in predpisom EU, na podlagi katerega je bila izdana, ter morajo pri tem izpolnjevati tudi vse pogoje, ki iz njiju izhajajo. Agencija mora te osebe ustrezno obvestiti o njihovih pravicah in načinu njihovega uresničevanja v Republiki Sloveniji. Pri tem agencija upošteva izbirno odločbo in predpis EU, na podlagi katerega je bila izdana.
+
+(4) Agencija spremlja in nadzira uporabo radijskih frekvenc iz prvega odstavka tega člena ter pri tem upošteva predpise EU, vključno s poročanjem Evropski komisiji, kjer je to določeno.

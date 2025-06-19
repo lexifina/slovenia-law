@@ -1,0 +1,3 @@
+# 132. člen (dostop do aplikacijskih programskih vmesnikov in elektronskih programskih vodnikov)
+
+Agencija lahko z odločbo po postopku iz četrtega odstavka 130. člena ali po postopku iz šestega odstavka 130. člena tega zakona naloži operaterju, ki zagotavlja elektronska komunikacijska omrežja, ki so namenjena za distribucijo digitalnih televizijskih storitev, da zagotovi dostop do aplikacijskih programskih vmesnikov in elektronskih programskih vodnikov pod poštenimi, upravičenimi in nediskriminacijskimi pogoji. Agencija obveznosti naloži v obsegu, ki je potreben, da se končnim uporabnikom zagotovi dostopnost storitev razširjanja digitalnih radijskih in televizijskih programov in povezanih dopolnilnih storitev.

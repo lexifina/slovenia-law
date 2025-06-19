@@ -1,0 +1,5 @@
+# 8. člen (operaterji s posebnimi ali izključnimi pravicami)
+
+(1) Operaterji, ki imajo posebne ali izključne pravice za izvajanje druge gospodarske dejavnosti in imajo letni prihodek na področju elektronskih komunikacijskih omrežij ali storitev večji od 10 milijonov eurov, morajo ali zagotavljati elektronska komunikacijska omrežja ali storitve v pravno samostojni družbi ali pa voditi ločene računovodske evidence za dejavnosti, povezane z izvajanjem oziroma zagotavljanjem elektronskih komunikacijskih storitev ali omrežij tako, kakor da bi te dejavnosti opravljali v pravno samostojni družbi.
+
+(2) Ločene računovodske evidence iz prejšnjega odstavka se vodijo tako, da se opredelijo vsi elementi odhodkov in prihodkov v zvezi z dejavnostmi, povezanimi z izvajanjem oziroma zagotavljanjem elektronskih komunikacijskih storitev ali omrežij, skupaj z osnovo za njihov izračun in uporabljenimi podrobnimi postopki razporeditve, vključno z razčlenitvijo osnovnih sredstev in strukturnih stroškov po postavkah.

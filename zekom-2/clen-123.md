@@ -1,0 +1,7 @@
+# 123. člen (revizija varnosti)
+
+(1) Operaterji morajo na zahtevo agencije omogočiti izvedbo revizije varnosti njihovih omrežij in storitev, vključno s pripadajočimi informacijskimi sistemi (v nadaljnjem besedilu: revizija informacijskih sistemov), ki jo na stroške operaterja izvede preizkušeni revizor informacijskih sistemov, ki rezultate te revizije informacijskih sistemov, ki ohrani stopnjo zaupnosti iz drugega odstavka 115. člena tega zakona, posreduje agenciji in revidirancu. Revizija varnosti po tem zakonu ne vključuje primerov iz prvega odstavka 115. člena tega zakona, ki potekajo v skladu z zakonom, ki ureja informacijsko varnost. Agencija lahko pri zahtevi za revizijo in pregledu rezultatov revizije, ki jih zahteva, zaprosi za pomoč pristojni nacionalni organ iz zakona, ki ureja informacijsko varnost.
+
+(2) Operater za izvedbo revizije iz prejšnjega odstavka izbere preizkušenega revizorja informacijskih sistemov, ki je registriran pri Slovenskem inštitutu za revizijo. Operater o svoji izbiri in o začetku postopka revizije informacijskih sistemov obvesti agencijo v roku 30 dni od zahteve agencije iz prejšnjega odstavka.
+
+(3) Če operater ne ravna v skladu s prejšnjim odstavkom, agencija za izvedbo revizije iz prvega odstavka tega člena določi preizkušenega revizorja informacijskih sistemov, ki je registriran pri Slovenskem inštitutu za revizijo. Stroške revizije poravna revidiranec.

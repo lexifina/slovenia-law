@@ -1,0 +1,17 @@
+# 154. člen (obveznost cenovnega nadzora in stroškovnega računovodstva)
+
+(1) Agencija lahko z odločbo iz prvega odstavka 148. člena tega zakona naloži določenemu operaterju omrežja s pomembno tržno močjo obveznosti v zvezi s pokrivanjem stroškov in kontrolo cen, vključno z obveznostmi glede stroškovne naravnanosti cen in obveznostmi glede sistemov stroškovnega računovodstva, v povezavi z zagotavljanjem določene vrste medomrežnega povezovanja oziroma operaterskega dostopa.
+
+(2) Agencija naloži obveznosti iz prejšnjega odstavka, če na podlagi tržne analize iz 147. člena tega zakona oceni, da bi lahko operater omrežja iz prejšnjega odstavka zaradi pomanjkanja učinkovite konkurence obdržal ali previsoke cene ali prenizko razliko med maloprodajnimi in veleprodajnimi cenami in bi to bilo v škodo končnih uporabnikov.
+
+(3) Agencija mora pri naložitvi obveznosti iz prvega odstavka tega člena zaradi spodbujanja naložb operaterjev omrežij, vključno v omrežja naslednje generacije, zlasti zelo visokozmogljiva omrežja, upoštevati naložbe operaterja omrežja iz prvega odstavka tega člena in mu zagotoviti primerno stopnjo donosnosti naložbe glede na vložena sredstva, pri čemer upošteva tveganja, povezana s posamičnim projektom novih naložb v omrežje.
+
+(4) Agencija ne naloži obveznosti iz prvega odstavka tega člena, če pri operaterju obstaja omejitev maloprodajnih cen, obveznosti iz 149. do 153. člena tega zakona, vključno z ekonomsko ponovljivostjo iz drugega odstavka 150. člena tega zakona, pa zagotavljajo učinkovit in nediskriminacijski dostop.
+
+(5) Če agencija operaterju iz prvega odstavka tega člena naloži obveznost cenovnega nadzora nad dostopom do obstoječih omrežnih elementov, upošteva koristi predvidljivih in stabilnih veleprodajnih cen pri zagotavljanju učinkovitega vstopa na trg in zadostne spodbude za postavitev novih in nadgradnjo obstoječih omrežij.
+
+(6) Vsak mehanizem pokrivanja stroškov ali metodologija določanja cen, ki ga predpiše agencija, mora biti namenjen spodbujanju postavitve novih in nadgradnjo obstoječih omrežij ter pospeševanju učinkovitosti in trajnostne konkurence ter povečanju koristi potrošnikov. Pri tem lahko agencija upošteva tudi cene, ki so na voljo na primerljivih konkurenčnih trgih in pri operaterjih omrežij.
+
+(7) Če agencija operaterju omrežja iz prvega odstavka tega člena naloži obveznosti glede stroškovne naravnanosti cen, mora operater omrežja dokazati, da so cene izračunane na podlagi stroškov, vključno s primerno stopnjo donosnosti naložbe. Pri preverjanju te obveznosti lahko agencija uporabi metode stroškovnega računovodstva, ki so neodvisne od tistih, ki jih uporablja operater omrežja. Agencija lahko od operaterja omrežja z odločbo v postopku nadzora tudi zahteva, da utemelji svoje cene, lahko pa zahteva tudi prilagoditev cen. Pri tem je dokazno breme na strani operaterja omrežja, ki je zavezan za izpolnjevanje te zahteve.
+
+(8) Če agencija operaterju omrežja iz prvega odstavka tega člena naloži obvezno uporabo sistema stroškovnega računovodstva za podporo cenovnega nadzora, ga hkrati zaveže, da mora javno objaviti tudi opis sistema stroškovnega računovodstva, ki prikazuje vsaj glavne kategorije, po katerih so stroški razvrščeni v skupine, in pravila, ki se uporabljajo za razporeditev stroškov. Skladnost s sistemom stroškovnega računovodstva preverja agencija ali pooblaščeni revizor, ki ga na stroške operaterja izbere agencija v skladu z določili zakona, ki ureja javno naročanje. Izjava o skladnosti se objavi vsako leto.

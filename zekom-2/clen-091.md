@@ -1,0 +1,3 @@
+# 91. člen (razveljavitev odločbe o dodelitvi pravice razširjanja televizijskega ali radijskega programa)
+
+Ne glede na določbe zakona, ki ureja medije, agencija po uradni dolžnosti začne postopek za razveljavitev odločbe o dodelitvi pravice razširjanja televizijskega ali radijskega programa na določenem območju, če njen imetnik v treh mesecih od začetka delovanja multipleksa oziroma v treh mesecih od podelitve pravice razširjanja programa, če multipleks že deluje, ne začne z razširjanjem in oddajanjem televizijskega ali radijskega programa, za katerega je to pravico pridobil, v katerem od delujočih multipleksov na tem območju, če so za to izpolnjeni vsi tehnični in pravni pogoji.

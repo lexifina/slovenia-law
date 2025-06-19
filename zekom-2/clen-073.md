@@ -1,0 +1,21 @@
+# 73. člen (plačila za uporabo radijskih frekvenc)
+
+(1) Imetniki odločbe o dodelitvi radijskih frekvenc so zavezanci za letno plačilo agenciji za uporabo dodeljenih radijskih frekvenc. Plačila krijejo stroške, ki jih ima agencija z upravljanjem in nadzorom radiofrekvenčnega spektra.
+
+(2) Agencija s splošnim aktom predpiše način izračuna plačil agenciji na podlagi tega člena. Ta je odvisen od pokrivanja ali gostote prebivalstva na območju pokrivanja ali radijske frekvence ali širine radiofrekvenčnega pasu ali vrste radiokomunikacij ali kombinacije naštetega, ne sme pa omejevati konkurence ali ovirati vstopa na trg.
+
+(3) Imetniki radioamaterskih dovoljenj iz 40. člena tega zakona niso zavezanci za letno plačilo iz prvega odstavka tega člena. Agencija s splošnim aktom iz prejšnjega odstavka določi višino enkratnega plačila, ki ga imetniki radioamaterskega dovoljenja plačajo ob izdaji dovoljenja, in krije stroške, ki jih ima agencija z upravljanjem in nadzorom dela radiofrekvenčnega spektra, ki je predviden za radioamatersko in radioamatersko satelitsko storitev.
+
+(4) Višino plačil na podlagi prvega in drugega odstavka tega člena določi agencija s tarifo z upoštevanjem potrebnega pokrivanja stroškov iz prvega odstavka tega člena in smiselno uporabo četrtega, petega in šestega odstavka 6. člena tega zakona. Pri določitvi višine plačila agencija upošteva splošni akt iz drugega odstavka tega člena, ki je veljal na dan izdaje soglasja vlade k tarifi za prihodnje koledarsko leto.
+
+(5) Za odmero in plačevanje plačil za uporabo radijskih frekvenc se uporablja 7. člen tega zakona.
+
+(6) Ne glede na določbo drugega odstavka 7. člena tega zakona se za uporabo radijskih frekvenc za namene iz četrtega do šestega odstavka 66. člena tega zakona odmeri enkratno plačilo, ki ustreza toliko dvanajstinam letnega plačila, kolikor celih mesecev je odločba o dodelitvi radijskih frekvenc veljavna, vendar ne manj od ene dvanajstine letnega plačila.
+
+(7) Ne glede na določbo četrtega odstavka 7. člena tega zakona mora zavezanec, ki mu je pravica do uporabe radijskih frekvenc prenehala zaradi poteka roka, za katerega je bila podeljena, ali zaradi razlogov, ki niso na njegovi strani, plačati le toliko dvanajstin letnega plačila, kolikor celih mesecev je bila ta pravica veljavna, vendar ne manj kot eno dvanajstino letnega plačila.
+
+(8) Ne glede na določbo prvega odstavka tega člena državni organi, ki so imetniki odločbe o dodelitvi radijskih frekvenc za namene iz četrtega odstavka 66. člena tega zakona, oziroma državni organi, ki so imetniki odločbe o dodelitvi radijskih frekvenc, ki so s splošnim aktom iz 35. člena tega zakona predvidene za potrebe varnosti in obrambe države ter varstva pred naravnimi in drugimi nesrečami, niso zavezanci za letno plačilo iz prvega odstavka tega člena.
+
+(9) Za vse radijske frekvence, ki se dodelijo na podlagi javnega razpisa, razen za radijske frekvence za analogno radiodifuzijo, se plača tudi določen znesek za učinkovito rabo omejene naravne dobrine, s katerim se zagotovi optimalna uporaba dodeljenih radijskih frekvenc. Ta je prihodek državnega proračuna. Najmanjša višina tega zneska in način njegovega plačila se določita v sklepu o uvedbi postopka javnega razpisa, pri čemer se lahko določi tudi možnost obročnega plačila glede na predvideni začetek uporabe dodeljenih radijskih frekvenc. Pri določitvi višine oziroma najmanjše višine tega zneska in določitvi načina plačila je treba upoštevati gospodarske in tehnične razmere trga, na katerega se nanašajo razpisane frekvence, višino tovrstnih plačil v drugih državah EU, konkurenčne razmere na trgu, vključno z možnostjo alternativne uporabe razpisanih radijskih frekvenc, ter morebitne stroške, ki jih ima izbrani ponudnik z izpolnjevanjem pogojev iz javnega razpisa.
+
+(10) Znesek za učinkovito rabo omejene naravne dobrine iz prejšnjega odstavka se plača tudi za radijske frekvence za zagotavljanje prizemnih brezžičnih širokopasovnih elektronskih komunikacijskih storitev in ostalih javnih komunikacijskih storitev končnim uporabnikom za lokalno pokrivanje, ki jih agencija pod pogoji iz tretjega odstavka 47. člena tega zakona podeli na vlogo. Agencija mora glede najnižjega zneska za učinkovito rabo omejene naravne dobrine in načina njegovega plačila predhodno pridobiti soglasje vlade.

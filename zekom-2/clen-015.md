@@ -1,0 +1,15 @@
+# 15. člen (vpis v evidenco)
+
+(1) Investitor ali upravljavec komunikacijskega omrežja in pripadajoče infrastrukture iz drugega odstavka 10. člena tega zakona mora sporočiti podatke o lokaciji in trasi, vrsti in trenutni uporabi komunikacijskega omrežja ter pripadajoče infrastrukture, vključno s številom posameznih pripadajočih vodov (optično vlakno, bakrena parica, koaksialni vod in drugo) neposredno organu, ki je pristojen za geodetske zadeve, ki glede teh podatkov izvaja naloge enotne informacijske točke, za vpis v evidenco infrastrukturnih omrežij ter objektov v skladu s predpisom, ki ureja vpis v to evidenco. Vsaka sprememba teh podatkov se sporoči pristojnemu organu v treh mesecih po njenem nastanku.
+
+(2) Ne glede na določbo prejšnjega odstavka obveznost sporočanja podatkov ne velja za investitorja ali upravljavca komunikacijskega omrežja in pripadajoče infrastrukture za potrebe varnosti, policije, obrambe in zaščite, reševanja in pomoči.
+
+(3) Agencija zaradi zagotavljanja preglednosti in skupne uporabe fizične infrastrukture od investitorjev ali upravljavcev komunikacijskega omrežja in pripadajoče infrastrukture, ki so v skladu s prvim odstavkom tega člena sporočili podatke organu, pristojnemu za geodetske zadeve, pridobi podatke o njihovih kontaktnih točkah in jih objavi na svojih spletnih straneh.
+
+(4) Investitor ali upravljavec javnega komunikacijskega omrežja in pripadajoče infrastrukture mora poleg podatkov iz prvega odstavka tega člena neposredno organu, pristojnemu za geodetske zadeve, za vpis v evidenco iz prvega odstavka tega člena sporočiti tudi podatke o obstoječem stanju in zmogljivosti omrežne priključne točke na fiksni lokaciji v skladu s predpisom iz prvega odstavka tega člena. Vsaka sprememba teh podatkov se v treh mesecih po njenem nastanku sporoči pristojnemu organu. Podatki iz evidence o obstoječem stanju in zmogljivosti omrežne priključne točke so javni.
+
+(5) Minister v soglasju z ministrom, pristojnim za infrastrukturo, in ministrom, pristojnim za prostor, za izvajanje določbe prvega, četrtega in sedmega odstavka tega člena izda pravilnik.
+
+(6) Agencija lahko za potrebe izvajanja tega zakona ob smiselni uporabi 265. in 266. člena tega zakona od zavezancev iz prvega odstavka tega člena zahteva podatke o razpoložljivosti omrežij in objektov iz prvega odstavka tega člena in o tem vodi svojo evidenco in zainteresiranim strankam v zvezi s postopki, ki jih vodi, omogoči vpogled v te podatke. Pri tem agencija ne sme zahtevati podatkov, ki so jih zavezanci že poslali organu, pristojnemu za geodetske zadeve, v skladu s prvim odstavkom tega člena.
+
+(7) Infrastrukturni operater mora podatke iz prvega odstavka tega člena sporočiti tudi za elektronska komunikacijska omrežja, ki niso zajeta v drugem odstavku 10. člena tega zakona. Podatke mora sporočiti neposredno organu, pristojnemu za geodetske zadeve, za vpis v evidenco infrastrukturnih omrežij in objektov v skladu s predpisom, ki ureja vpis v to evidenco. Vsaka sprememba podatkov se sporoči pristojnemu organu v treh mesecih po njenem nastanku.

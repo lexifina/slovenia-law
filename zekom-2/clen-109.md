@@ -1,0 +1,7 @@
+# 109. člen (varstvo končnih uporabnikov v primeru razveljavitve odločbe o dodelitvi elementov oštevilčenja)
+
+(1) Agencija najmanj 60 dni pred nameravano razveljavitvijo odločbe o dodelitvi elementov oštevilčenja iz razlogov iz 1. in 2. točke prvega odstavka prejšnjega člena in razlogov iz drugega odstavka prejšnjega člena na svojih spletnih straneh in v sredstvih javnega obveščanja obvesti zainteresirano javnost o nameravani razveljavitvi odločbe o dodelitvi elementov oštevilčenja in možnosti končnih uporabnikov, da številke prenesejo k drugemu operaterju v skladu s 195. členom tega zakona. O tem mora svoje naročnike na svojih spletnih straneh, v sredstvih javnega obveščanja in na izdanih računih obvestiti tudi imetnik odločbe o dodelitvi elementov oštevilčenja.
+
+(2) Agencija pred razveljavitvijo odločbe o dodelitvi elementov oštevilčenja iz prejšnjega odstavka od njenega imetnika pridobi podatke o številkah iz odločbe o dodelitvi elementov oštevilčenja, ki so bile prenesene k drugim operaterjem v skladu s 195. členom tega zakona.
+
+(3) Agencija na podlagi podatkov iz prejšnjega odstavka vsaj 60 dni pred nameravano razveljavitvijo odločbe o dodelitvi elementov oštevilčenja iz prvega odstavka tega člena po uradni dolžnosti po določbah zakona, ki ureja splošni upravni postopek, izda odločbo o dodelitvi elementov oštevilčenja, s katero bloke številk, dodeljenih z odločbo o dodelitvi elementov oštevilčenja, ki se razveljavlja, dodeli operaterju, h kateremu je bilo v skladu s 195. členom tega zakona prenesenih največ številk.

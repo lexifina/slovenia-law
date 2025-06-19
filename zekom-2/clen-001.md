@@ -1,0 +1,5 @@
+## I. SPLOŠNE DOLOČBE
+
+# 1. člen (vsebina zakona)
+
+Ta zakon ureja pogoje za zagotavljanje elektronskih komunikacijskih omrežij in izvajanje elektronskih komunikacijskih storitev, ureja zagotavljanje univerzalne storitve, zagotavljanje konkurence, upravljanje radiofrekvenčnega spektra in elementov oštevilčenja, ureja učinkovitejšo gradnjo in postavitev elektronskih komunikacijskih omrežij ter souporabo obstoječe fizične infrastrukture, določa pogoje za omejitev lastninske pravice, določa pravice uporabnikov, ureja varnost omrežij in storitev, vključno v luči tveganj, ki jih prinašajo nove tehnologije in delovanje v stanjih ogroženosti, zagotavlja uresničevanje in ureja varovanje pravice do komunikacijske zasebnosti uporabnikov javnih komunikacijskih storitev, ureja reševanje sporov na področju tega zakona, ureja pristojnosti, organizacijo in delovanje Agencije za komunikacijska omrežja in storitve Republike Slovenije (v nadaljnjem besedilu: agencija) kot neodvisnega regulativnega organa ter pristojnosti drugih organov, ki opravljajo naloge po tem zakonu, ter druga vprašanja, povezana z elektronskimi komunikacijami.

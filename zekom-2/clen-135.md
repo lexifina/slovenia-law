@@ -1,0 +1,3 @@
+# 135. člen (razvrstitev programov)
+
+Agencija operaterjem, ki zagotavljajo javna komunikacijska omrežja, ki so namenjena za distribucijo digitalnih televizijskih storitev, s splošnim aktom izda navodila za razvrstitev programov, ki jim je izdala dovoljenje po zakonu, ki ureja medije. Pri tem upošteva javni interes, ki ga zasleduje zakonodaja s področja medijev, in interese končnih uporabnikov. Operater, ki namerava spremeniti programsko mesto v okviru možnosti splošnega akta iz prvega stavka, mora izdajatelja tega programa opozoriti in obvestiti o novem programskem mestu najmanj 30 dni pred nameravano spremembo. Razvrstitev programov po splošnem aktu iz prvega stavka ne vpliva na pravico končnega uporabnika, da svobodno določi vrstni red programov za svojo uporabo.

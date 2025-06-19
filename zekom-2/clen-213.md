@@ -1,0 +1,5 @@
+# 213. člen (dolžnost obveščanja naročnikov pri posebnem tveganju za varnost omrežja)
+
+(1) Pri posebnem tveganju za varnost omrežja mora izvajalec javnih komunikacijskih storitev takoj, ko za to tveganje izve, z objavo na svojih spletnih straneh in na drugi primeren način obvestiti naročnike o takem tveganju. Če tveganje presega obseg ukrepov, ki jih izvajalec storitve lahko sprejme, mora hkrati obvestiti naročnike o vseh možnih sredstvih za odpravo tveganja, vključno z navedbo verjetnih stroškov, ter jim omogočiti hiter in učinkovit dostop do zaščitnih ukrepov.
+
+(2) Pri zlorabah, ki jih storijo tretje osebe in ki niso nastale po krivdi naročnikov ali uporabnikov, izvajalci javnih komunikacijskih storitev prevzamejo stroške zagotavljanja javnih komunikacijskih storitev, ki jim nastanejo kot posledica teh zlorab. Šteje se, da zloraba ni nastala po krivdi naročnika ali uporabnika, kadar je ta uporabil vse razumne ukrepe za zaščito in spoštoval navodila, o katerih ga je obvestil izvajalec javnih komunikacijskih storitev v skladu s prejšnjim odstavkom.
