@@ -1,0 +1,3 @@
+# 27. člen (licenca)
+
+Kandidat, ki mu je bila izdana odločba o priznanju poklicne kvalifikacije zdravnik, doktor dentalne medicine, diplomirana medicinska sestra, diplomirana babica oziroma magister farmacije iz prvega odstavka 14. člena tega zakona, in vlagatelj, ki mu je bila izdana odločba o priznanju poklicne kvalifikacije zdravnik specialist, doktor dentalne medicine specialist, specialist medicinske biokemije iz prvega odstavka 22. člena tega zakona, pri pristojnem organu zaprosita za vpis v register in podelitev licence, na podlagi katere lahko samostojno opravljata regulirani poklic na področju zdravstvene dejavnosti.

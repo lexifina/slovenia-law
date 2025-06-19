@@ -1,0 +1,11 @@
+# 31. člen (financiranje tečajev slovenskega jezika in opravljanja preverjanja znanja)
+
+(1) Stroški tečaja slovenskega jezika in stroški preverjanja znanja slovenskega jezika, ki z izpolnjevanjem pogoja znanja slovenskega jezika iz prejšnjega člena nastanejo kandidatu oziroma vlagatelju, bremenijo javni zdravstveni zavod, ki je hkrati tudi ponudnik zaposlitve.
+
+(2) Javni zdravstveni zavod iz prejšnjega odstavka lahko zahteva povračilo stroškov iz prejšnjega odstavka iz proračuna Republike Slovenije, vendar največ do višine 300 eurov za posameznega kandidata oziroma vlagatelja.
+
+(3) Kandidat oziroma vlagatelj, čigar ponudnik zaposlitve je upravičen do financiranja stroškov iz prvega odstavka tega člena, je upravičen do enkratne brezplačne udeležbe na tečaju slovenskega jezika in enkratnega brezplačnega preverjanja znanja iz slovenskega jezika. Če se kandidat oziroma vlagatelj po svoji krivdi v 12 mesecih po prijavi k tečaju slovenskega jezika in uspešno opravljenem preverjanju znanja slovenskega jezika ne zaposli pri javnem zdravstvenem zavodu iz prvega odstavka tega člena, stroške tečaja in stroške preverjanja znanja, ki so na tej podlagi nastali javnemu zdravstvenemu zavodu, povrne javnemu zdravstvenemu zavodu. Vlagatelj, ki po končanem postopku iz razlogov, ki so na njegovi strani, ostane zaposlen pri ponudniku zaposlitve manj kot za enkratno obdobje trajanja prilagoditvenega obdobja oziroma trajanja usposabljanja, mora povrniti sorazmerni del stroškov tečaja slovenskega jezika in stroškov preverjanja znanja slovenskega jezika javnemu zdravstvenemu zavodu.
+
+(4) Zahtevek za povračilo stroškov iz drugega odstavka tega člena se vloži pri ministrstvu. Podrobnejši način vlaganja zahtevkov, obvezna dokazila, roke za predložitev zahtevkov ter višino in način povrnitve stroškov javnemu zdravstvenemu zavodu iz prvega odstavka tega člena oziroma v proračun Republike Slovenije določi minister.
+
+(5) Stroški iz prvega odstavka tega člena bremenijo kandidata oziroma vlagatelja, če k zahtevi ni priložil ponudbe za delo. Stroški lahko bremenijo tudi ponudnika zaposlitve, ki ni javni zdravstveni zavod, pri čemer ponudnik zaposlitve ni upravičen do povračila stroškov iz drugega odstavka tega člena.

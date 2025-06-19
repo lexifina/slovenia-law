@@ -1,0 +1,13 @@
+# 9. člen (mnenje izvedenca)
+
+(1) Ne glede na to, da je kandidat končal izobraževalni program, ki izpolnjuje pogoje izobraževalnega programa v Republiki Sloveniji, in je opravil pripravništvo, ki je v skladu s pripravništvom, ki se zahteva v Republiki Sloveniji, ali je opravil pripravništvo in strokovni izpit, ki sta v skladu s pripravništvom in strokovnim izpitom, ki se zahtevata v Republiki Sloveniji, izvedenec predlaga opravljanje strokovnega izpita (delno ali v celoti s predlogom posameznih vsebin).
+
+(2) Če je kandidat končal izobraževalni program, ki izpolnjuje pogoje izobraževalnega programa v Republiki Sloveniji, vendar pripravništva ni opravil v celoti oziroma pripravništvo, ki ga je opravil, ni v skladu s pripravništvom, ki se zahteva v Republiki Sloveniji, lahko izvedenec v mnenju predlaga opravljanje pripravništva (delno ali v celoti s predlogom posameznih vsebin in trajanja) in opravljanje strokovnega izpita (delno ali v celoti s predlogom posameznih vsebin).
+
+(3) Če je kandidat končal izobraževalni program, ki ne izpolnjuje pogojev izobraževalnega programa v Republiki Sloveniji, lahko izvedenec v mnenju predlaga opravljanje enega ali več dopolnilnih izpitov na posameznem strokovnem področju, a ne več kot pet, opravljanje pripravništva (delno ali v celoti s predlogom posameznih vsebin in trajanja) in opravljanje strokovnega izpita (delno ali v celoti s predlogom posameznih vsebin).
+
+(4) Če je kandidat končal izobraževalni program, ki po vsebini in poteku ni v skladu s pogoji izobraževalnega programa v Republiki Sloveniji, niti se primerljivosti ne da doseči z opravljanjem dopolnilnih pogojev, izvedenec da negativno mnenje.
+
+(5) Ne glede na določbe tega člena lahko izvedenec v postopku priznanja poklicne kvalifikacije zdravstvenim delavcem in zdravstvenim sodelavcem, ki smejo na podlagi zakona, ki ureja zdravstveno dejavnost, samostojno opravljati delo v zdravstveni dejavnosti brez pripravništva ali strokovnega izpita, predlaga le opravljanje enega ali več dopolnilnih izpitov na posameznem strokovnem področju, ne more pa predlagati opravljanja pripravništva ali strokovnega izpita.
+
+(6) Ne glede na določbe tega člena lahko izvedenec v postopku priznanja poklicne kvalifikacije zdravstvenim delavcem in zdravstvenim sodelavcem, ki smejo na podlagi zakona, ki ureja zdravstveno dejavnost, samostojno opravljati delo v zdravstveni dejavnosti brez pripravništva, predlaga opravljanje enega ali več dopolnilnih izpitov na posameznem strokovnem področju in opravljanje strokovnega izpita (delno ali v celoti s predlogom posameznih vsebin), ne more pa predlagati opravljanja pripravništva.
