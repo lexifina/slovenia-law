@@ -1,5 +1,0 @@
-# 26. člen (zaščitna klavzula)
-(1) Če organ, pristojen za medicinske pripomočke, ugotovi, da medicinski pripomočki ob pravilni namestitvi, vzdrževanju in uporabi za predvideni namen škodljivo vplivajo na zdravje ali varnost bolnikov, uporabnikov ali tretjih oseb ali varnost premoženja nemudoma sprejme začasni ukrep, s katerim določi umik, prepoved ali omejitev njihovega dajanja na trg oziroma v uporabo.
-(2) O ukrepih iz prejšnjega odstavka organ, pristojen za medicinske pripomočke, nemudoma obvesti Evropsko komisijo z navedbo razlogov za tako odločitev. Pri tem posebej navede, ali je razlog v neizpolnjevanju bistvenih zahtev iz tega zakona, v nepravilni uporabi standardov iz 21. člena tega zakona ali v pomanjkljivosti standardov samih.
-(3) Organ, pristojen za medicinske pripomočke, sprejme ukrepe proti vsakomur, ki pritrdi oznako CE na medicinski pripomoček, ki ni v skladu s tem zakonom. O izvedenih ukrepih obvesti Evropsko komisijo in organe drugih držav članic Evropske unije, pristojne za medicinske pripomočke.
-(4) O ukrepih iz prvega odstavka tega člena organ, pristojen za medicinske pripomočke, seznani javnost z objavo v medijih.

@@ -1,7 +1,0 @@
-# 47. člen (predstavnik proizvajalca)
-(1) Predstavnik proizvajalca s sedežem v Republiki Sloveniji se mora pri organu, pristojnemu za medicinske pripomočke, najpozneje v 15 dneh od dajanja medicinskega pripomočka, za katerega je pooblaščen, na trg, priglasiti za vpis v register proizvajalcev medicinskih pripomočkov.
-(2) Predstavnik proizvajalca mora ob priglasitvi navesti svoje ime ali firmo in naslov ali sedež, ime ali firmo in naslov ali sedež proizvajalca medicinskih pripomočkov, ki ga predstavlja, pisno pooblastilo proizvajalca medicinskih pripomočkov in seznam medicinskih pripomočkov, ki jih je dal na trg in za katere ga je proizvajalec medicinskih pripomočkov pooblastil.
-(3) Predstavnik proizvajalca mora organu, pristojnemu za medicinske pripomočke, sporočiti spremembe podatkov iz prejšnjega odstavka najpozneje v 15 dneh od nastanka spremembe.
-(4) Organ, pristojen za medicinske pripomočke, izbriše predstavnika proizvajalca iz registra proizvajalcev medicinskih pripomočkov po uradni dolžnosti, če ta ni več predstavnik proizvajalca ali če preneha delovati, ali na podlagi pisne zahteve predstavnika proizvajalca medicinskih pripomočkov.
-(5) O podatkih iz drugega odstavka tega člena organ, pristojen za medicinske pripomočke, na njihovo zahtevo obvesti Evropsko komisijo in pristojne organe držav članic Evropske unije.
-(6) Podatke iz drugega odstavka tega člena natančneje določi minister.

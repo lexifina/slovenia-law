@@ -1,4 +1,0 @@
-# 58. člen (pogoji oglaševanja medicinskih pripomočkov)
-(1) Prepovedano je oglaševanje medicinskih pripomočkov, ki ne izpolnjujejo zahtev iz tega zakona.
-(2) Ne glede na prejšnji odstavek lahko poslovni subjekti na sejmih, razstavah, predstavitvah in podobnih dogodkih predstavljajo medicinske pripomočke, ki niso skladni s tem zakonom, če je na vidnem mestu označeno, da se ne prodajajo ali dajejo v uporabo, dokler ne bodo usklajeni s tem zakonom in na njegovi podlagi izdanimi podzakonskimi predpisi.
-(3) Medicinski pripomočki, ki se uporabljajo le pri opravljanju zdravstvene dejavnosti, se lahko oglašujejo v strokovni javnosti. Strokovna javnost so zdravstveni delavci ali zdravstvene delavke (v nadaljnjem besedilu: zdravstveni delavci), kakor jih opredeljuje zakon, ki ureja zdravstveno dejavnost.

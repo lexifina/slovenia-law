@@ -1,4 +1,0 @@
-# 27. člen (posebni ukrepi za spremljanje zdravstvenega stanja)
-(1) Če organ, pristojen za medicinske pripomočke, v zvezi z obravnavanim medicinskim pripomočkom ali skupino medicinskih pripomočkov meni, da bi jih bilo treba za zagotovitev varovanja zdravja in varnosti ali za zagotovitev spoštovanja zahtev javnega zdravja umakniti s trga ali jih ne dati na trg, ali njihovo dajanje v uporabo prepovedati ali omejiti, ali zanje sprejeti posebne zahteve, lahko sprejme vse potrebne in upravičene začasne ukrepe.
-(2) Organ, pristojen za medicinske pripomočke, o izvedenih ukrepih iz prejšnjega odstavka obvesti Evropsko komisijo in druge države članice Evropske unije ter navede razloge za svojo odločitev.
-(3) O ukrepih iz prvega odstavka tega člena organ, pristojen za medicinske pripomočke, seznani javnost z objavo v medijih.

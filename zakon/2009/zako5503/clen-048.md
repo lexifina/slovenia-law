@@ -1,3 +1,0 @@
-# 48. člen (obveznosti poslovnih subjektov, ki dajejo medicinske pripomočke na trg pod svojim imenom)
-(1) Poslovni subjekti, ki sestavljajo, pakirajo, obdelujejo, v celoti prenavljajo ali označujejo enega ali več gotovih izdelkov ali jim določijo predvideni namen delovanja ali uporabe kot medicinskemu pripomočku, ali jih sterilizirajo, vse zaradi dajanja na trg pod svojim imenom, morajo izpolnjevati obveznosti, ki po tem zakonu veljajo za proizvajalce medicinskih pripomočkov.
-(2) Določbe prejšnjega odstavka ne veljajo za poslovne subjekte, ki sestavljajo ali prilagajajo medicinske pripomočke, ki so že na trgu, za njihov predvideni namen za posameznega uporabnika.
