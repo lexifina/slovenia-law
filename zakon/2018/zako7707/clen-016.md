@@ -1,5 +1,0 @@
-## V. Informacijska varnost organov državne uprave
-# 16. člen (varnostne zahteve)
-(1) Organi državne uprave morajo izvesti analizo, oceno in vrednotenje tveganj ter na tej podlagi pripraviti in izvesti ukrepe, potrebne za obvladovanje tveganj glede varnosti za informacijske sisteme in dele omrežja, s katerimi upravljajo (v nadaljnjem besedilu: omrežja in informacijski sistemi organov državne uprave), oziroma za informacijske storitve, ki jih izvajajo in so nujne za nemoteno delovanje države ali za zagotavljanje nacionalne varnosti (v nadaljnjem besedilu: storitve organov državne uprave).
-(2) Organi državne uprave sprejmejo potrebne ukrepe za preprečitev in zmanjšanje vpliva incidentov, ki vplivajo na varnost omrežij in informacijskih sistemov državnih organov, da bi zagotovili neprekinjeno izvajanje storitev organov državne uprave.
-(3) Če organi državne uprave za opravljanje svoje dejavnosti črpajo vhodne podatke in informacije iz ključnih delov nacionalno varnostnega sistema, vzpostavijo vse potrebne varnostne zahteve ob soglasju pristojnega ministrstva za posamezni ključni del nacionalno varnostnega sistema.

@@ -1,4 +1,0 @@
-# 34.b člen (nadzor nad upravljavcem centralnega informacijsko-komunikacijskega sistema)
-(1) Inšpektor nadzira, ali upravljavec centralnega informacijsko-komunikacijskega sistema izpolnjuje svoje obveznosti iz tretjega odstavka 29. člena tega zakona in ali izvaja ukrepe, odrejene na podlagi četrtega odstavka 29. člena tega zakona.
-(2) Inšpektor lahko od upravljavca centralnega informacijsko-komunikacijskega sistema zahteva, da predloži potrebne informacije za izvedbo nadzora iz prejšnjega odstavka. Kadar inšpektor zahteva take informacije ali dokaze, navede namen te zahteve in opredeli, katere dodatne informacije so potrebne.
-(3) Inšpektor lahko na podlagi ocene izpolnjevanja obveznosti in izvajanja ukrepov iz prvega odstavka tega člena izreka ukrepe za odpravo ugotovljenih pomanjkljivosti.

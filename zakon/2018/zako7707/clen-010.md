@@ -1,6 +1,0 @@
-# 10. člen (določitev kontaktne osebe zavezancev)
-(1) Izvajalec bistvene storitve v 15 dneh od odločitve iz drugega odstavka 6. člena tega zakona določi kontaktno osebo za informacijsko varnost in njenega namestnika ter pristojnemu nacionalnemu organu posreduje njune kontaktne podatke.
-(2) Organ državne uprave lahko določi kontaktno osebo za informacijsko varnost in njenega namestnika ter pristojnemu nacionalnemu organu posreduje njune kontaktne podatke.
-(3) Ponudnik digitalnih storitev, ki ima skladno s prvim odstavkom 15. člena tega zakona glavni sedež v Republiki Sloveniji, lahko določi in pooblasti kontaktno osebo za informacijsko varnost in njenega namestnika ter te kontaktne podatke posredujejo pristojnemu nacionalnemu organu.
-(4) Če ponudnik digitalnih storitev nima sedeža v EU, vendar določi sedež svojega predstavnika za EU v Republiki Sloveniji skladno z drugim odstavkom 15. člena tega zakona, ta predstavnik velja za njegovo kontaktno osebo. Kontaktne podatke predstavnika lahko ponudniki digitalnih storitev posredujejo pristojnemu nacionalnemu organu.
-(5) Zavezanci iz prvega odstavka tega člena o spremembi kontaktnih podatkov obvestijo pristojni nacionalni organ v roku 15 delovnih dni po nastali spremembi.

@@ -1,5 +1,0 @@
-# 6. člen (določitev izvajalcev bistvenih storitev)
-(1) Za namen določitve izvajalcev bistvenih storitev Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) določi seznam bistvenih storitev iz predpisa, ki ureja standardno klasifikacijo dejavnosti.
-(2) Posameznega izvajalca bistvenih storitev na podlagi meril iz 7. člena tega zakona določi vlada.
-(3) Ne glede na določbo prejšnjega odstavka vlada kot izvajalce bistvenih storitev določi tudi tiste upravljavce kritične infrastrukture, ki so določeni v skladu s predpisi, ki urejajo področje kritične infrastrukture, in nosilce obrambnega načrtovanja, ki so določeni v skladu s predpisi, ki urejajo področje obrambe, katerih zagotavljanje storitev je odvisno od omrežij in informacijskih sistemov.
-(4) Če izvajalec zagotavlja bistveno storitev v Republiki Sloveniji in še kateri drugi državi članici EU, se pristojni nacionalni organ pred določitvijo izvajalcev bistvenih storitev iz drugega odstavka ali prejšnjega odstavka tega člena v skladu z Direktivo 2016/1148/ES posvetuje s pristojnim nacionalnim organom države članice EU, kjer izvajalec takšne storitve zagotavlja.
