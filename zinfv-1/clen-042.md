@@ -1,0 +1,7 @@
+# 42. člen (pomoč pri kibernetski obrambi v Evropski uniji)
+
+(1) Republika Slovenija lahko za pomoč pri izvajanju kibernetske obrambe zaprosi druge države članice Evropske unije oziroma ustrezne institucije, organe, urade in agencije Evropske unije. Poleg tega lahko navedenim subjektom nudi pomoč pri izvajanju kibernetske obrambe.
+
+(2) Če pristojni nacionalni organ za obvladovanje stanja ali dogodkov iz prvega odstavka prejšnjega člena presodi, da zavezanci iz tega zakona ali pristojna skupina CSIRT potrebuje pomoč druge države ali držav članic Evropske unije pri kibernetski obrambi Republike Slovenije, o tem nemudoma obvesti SNAV, ki o predlogu zaprosila oblikuje stališče in ga pošlje vladi v odločanje. Medsebojni dogovor o pomoči določi tudi kritje morebitnih stroškov obeh strani, pri čemer morebitne stroške Republike Slovenije krije prejemnik pomoči.
+
+(3) O prejemu zaprosila pristojnih institucij ali organov druge države ali držav članic Evropske unije za nudenje pomoči pri kibernetski obrambi pristojni nacionalni organ obvesti SNAV, ki o predlogu odziva na takšno zaprosilo oblikuje stališče in ga pošlje v odločanje vladi. Pri odzivu na zaprosilo se upoštevata razpoložljivost zmogljivosti za kibernetsko obrambo in aktualna ocena kibernetske varnosti v državi. Medsebojni dogovor o pomoči določi tudi kritje stroškov obeh strani, pri čemer stroške Republike Slovenije zagotovi organ, iz katerega izhaja napotena oseba.

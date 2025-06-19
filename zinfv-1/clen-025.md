@@ -1,0 +1,11 @@
+# 25. člen (ocena in samoocena skladnosti)
+
+(1) Bistveni subjekti morajo oceno skladnosti izvajati najmanj enkrat na dve leti ali v primeru pojava pomembnega incidenta. Ocena skladnosti se izvaja kot revizija skladnosti s predpisi s področja informacijske varnosti ali v okviru notranje revizije, ki se izvaja na podlagi drugih predpisov in vključuje področje informacijske varnosti iz tega zakona in na podlagi tega zakona izdanih podzakonskih predpisov ali izvedbenih aktov Evropske komisije. Oceno skladnosti lahko v okviru notranje revizije poleg revizorjev informacijskih sistemov izvajajo tudi notranji revizorji v sodelovanju z veščakom za informacijsko tehnologijo, ki je posameznik oziroma posameznica ali organizacija, ki ima izkazano poglobljeno strokovno znanje na področju informacijsko-komunikacijskih tehnologij, katerega ali katere delo revizor uporabi kot strokovno pomoč pri pridobivanju zadostnih in ustreznih revizijskih dokazov. Revizor informacijskih sistemov ali notranji revizor pripravi poročilo o izvedeni oceni skladnosti.
+
+(2) Če poročilo o izvedeni oceni skladnosti iz prejšnjega odstavka vsebuje ugotovitve neskladnosti in priporočila revizorja informacijskih sistemov za njihovo odpravo, bistveni subjekt pripravi načrt za odpravo ugotovljenih neskladnosti, določi način njihove odprave in roke za izvedbo.
+
+(3) Pomembni subjekti izvedejo samooceno skladnosti najmanj enkrat na dve leti ali v primeru pojava pomembnega incidenta. Samoocena skladnosti se izvede na način, da se dokumentirano preverita skladnost pomembnega subjekta z njegovo varnostno dokumentacijo in izvajanje ukrepov za obvladovanje tveganj za kibernetsko varnost. Samoocena skladnosti se lahko izvede tudi v okviru notranje revizije.
+
+(4) Če je iz rezultatov opravljene samoocene skladnosti razvidno, da pomembni subjekt izpolnjuje zahteve, predpisane s tem zakonom, ta sestavi izjavo o skladnosti, pri čemer ta vsebuje potrebne elemente samoocenjevanja skladnosti, ki omogočajo izvedbo ponovljivosti opravljene ocene.
+
+(5) Če je iz rezultatov opravljene samoocene skladnosti razvidno, da pomembni subjekt ne izpolnjuje predpisanih zahtev, ta sestavi izjavo o ugotavljanju neskladnosti, v kateri navede ugotovljene neskladnosti in način njihove odprave z roki za izvedbo.

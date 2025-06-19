@@ -1,0 +1,7 @@
+# 62. člen (sprejetje ukrepov za obvladovanje tveganj)
+
+(1) Bistveni in pomembni subjekti sprejmejo ukrepe za obvladovanje tveganj za informacijsko in kibernetsko varnost iz 21. in 22. člena tega zakona v osemnajstih mesecih od uveljavitve tega zakona.
+
+(2) Ne glede na prejšnji odstavek bistveni subjekti, ki so bili določeni kot izvajalci bistvenih storitev na podlagi 6. člena ZInfV in organi državne uprave, ki so bili določeni na podlagi 9. člena ZInfV, sprejmejo ukrepe za obvladovanje tveganj za informacijsko in kibernetsko varnost iz 21. in 22. člena tega zakona v enem letu od uveljavitve tega zakona. Do izteka tega roka se zanje uporabljajo varnostne zahteve, varnostna dokumentacija, varnostni ukrepi in pripadajoče določbe o nadzoru ter kazenske določbe iz ZInfV in predpisa iz druge ali tretje alineje drugega odstavka 69. člena tega zakona.
+
+(3) Ne glede na prvi odstavek tega člena bistveni in pomembni subjekti, ki so operaterji po Zakonu o elektronskih komunikacijah (Uradni list RS, št. 130/22 in 18/23 – ZDU-1O), sprejmejo ukrepe za obvladovanje tveganj za informacijsko in kibernetsko varnost iz 21. in 22. člena tega zakona v enem letu od uveljavitve tega zakona. Do izteka tega roka se zanje uporabljajo varnostni ukrepi iz VII. poglavja Zakona o elektronskih komunikacijah (Uradni list RS, št. 130/22 in 18/23 – ZDU-1O) in splošni akt iz druge alineje tretjega odstavka 69. člena tega zakona.
