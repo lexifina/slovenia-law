@@ -1,0 +1,7 @@
+# 64. člen (določitev plače raziskovalcem za delo na projektih za določen čas)
+
+(1) Za določitev plač raziskovalcev, zaposlenih v javnih raziskovalnih organizacijah oziroma pri drugih javnih zavodih iz 81. člena tega zakona, ki se zaposlijo za določen čas na podlagi posebnih projektov nacionalnega značaja ali posebne pogodbe med javno raziskovalno organizacijo oziroma drugim javnim zavodom iz 81. člena tega zakona in Evropsko komisijo ali drugim organom EU, mednarodno organizacijo ali tujo ustanovo ali drugim tujim financerjem ali gospodarskim subjektom (v nadaljnjem besedilu: sopogodbenik), se ne uporabljajo določila zakona, ki določa plače v javnem sektorju tudi, če v pogodbi niso določeni plača in drugi prejemki, ki jih raziskovalec prejema v času tovrstne zaposlitve. V tem primeru višina plače raziskovalca, skupaj z vsemi dodatki in delom plače za delovno uspešnost, ne sme presegati dvakratnika osnovne plače v najvišjem plačnem razredu delovnega mesta, na katero je raziskovalec razporejen, kot jo določajo predpisi, ki urejajo plače v javnem sektorju.
+
+(2) Posebne projekte nacionalnega značaja ter sistemski okvir iz prejšnjega odstavka s pravilnikom določi minister, pristojen za znanost, natančnejši postopek določitve plač raziskovalcev iz prejšnjega odstavka pa opredelijo javne raziskovalne organizacije in drugi javni zavodi iz 81. člena tega zakona v internih aktih.
+
+(3) Plače raziskovalcev, napotenih na delo v tujino, se za čas dela v tujini določijo v skladu z uredbo vlade, ki ureja plače in druge prejemke javnih uslužbencev za delo v tujini.

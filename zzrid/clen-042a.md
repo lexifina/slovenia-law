@@ -1,0 +1,15 @@
+# 42.a člen (posebna ureditev v zvezi z obdelavo osebnih podatkov v znanstvenoraziskovalne namene)
+
+(1) Osebne podatke, vključno s posebnimi vrstami osebnih podatkov, smejo raziskovalne organizacije, ki so prejemniki stabilnega financiranja znanstvenoraziskovalne dejavnosti v skladu s tem zakonom, pridobivati in obdelovati za namene znanstvenega raziskovanja (v nadaljnjem besedilu: znanstvenoraziskovalni nameni), če izvedbe raziskave oziroma njenega namena ni mogoče doseči z obdelavo anonimiziranih podatkov ali bi bilo to povezano z nesorazmernim naporom ali stroški. Osebni podatki, vključno s posebnimi vrstami osebnih podatkov, se na podlagi tega člena lahko obdelujejo le za namen izvedbe raziskav, ki se izvajajo v okviru javne službe na področju znanstvenoraziskovalne dejavnosti oziroma so sofinancirane z javnimi sredstvi.
+
+(2) Za pridobivanje in obdelavo osebnih podatkov, vključno s posebnimi vrstami osebnih podatkov, mora raziskovalna organizacija iz prejšnjega odstavka, v skladu z zakonom, ki ureja varstvo osebnih podatkov, izdelati opis raziskave in oceno učinka. V primeru, da raziskovalna organizacija pridobiva osebne podatke od drugega upravljavca, mu, preden pridobi osebne podatke, predloži opis raziskave in oceno učinka. Upravljavec osebnih podatkov o posredovanju osebnih podatkov nato odloča v skladu z zakonom, ki ureja varstvo osebnih podatkov. V primeru, ko je raziskovalna organizacija iz prejšnjega odstavka že upravljavec osebnih podatkov, se ne uporabljajo določbe zakona, ki ureja varstvo osebnih podatkov, o zavrnitvi posredovanja osebnih podatkov.
+
+(3) Osebni podatki, zbrani za namene znanstvenega raziskovanja oziroma pridobljeni za znanstvenoraziskovalne namene iz prvega odstavka tega člena, se hranijo največ tri leta po zaključku raziskave, nato se nepovratno anonimizirajo oziroma po potrebi vrnejo upravljalcu osebnih podatkov ali uničijo, razen če drug zakon določa drugače, če je posameznik privolil v nadaljnjo hrambo ali je nadaljnja hramba pomembna za izvršitev namena raziskave.
+
+(4) Osebnih podatkov iz prvega odstavka tega člena se ne sme uporabiti za druge namene ali jih razkriti osebam, ki ne izvajajo raziskave. To dolžnost raziskovalec potrdi v pisni obliki pred začetkom obdelave osebnih podatkov.
+
+(5) Pri obdelavi v znanstvenoraziskovalne namene iz tega člena je dovoljeno povezovanje zbirk osebnih podatkov, vključno s povezovanjem podatkov iz različnih zbirk javnega sektorja v skladu z zakonom, ki ureja varstvo osebnih podatkov. Po izvedenem povezovanju osebnih podatkov iz zbirk osebnih podatkov se pridobljeni oziroma obdelani osebni podatki nemudoma anonimizirajo do največje možne mere, ki še dovoljuje izvršitev namena raziskave.
+
+(6) Za obdelavo osebnih podatkov v znanstvenoraziskovalne namene iz tega člena se, kolikor ta zakon ne določa drugače, uporabljajo predpisi, ki urejajo varstvo osebnih podatkov.
+
+(7) Ta zakon se ne uporablja za obdelavo osebnih podatkov, kadar so upravljavci osebnih podatkov organi, ki izvajajo naloge ali pooblastila v skladu z zakoni, ki urejajo izvajanje obveščevalno-varnostnih in protiobveščevalnih dejavnosti države.

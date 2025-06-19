@@ -1,0 +1,3 @@
+# 102. člen (začetek izvajanja evalvacij)
+
+V prvem pogodbenem obdobju iz 28. člena tega zakona se evalvacije v skladu s 30. členom tega zakona izvedejo le na nekaterih področjih panelov, kot so opredeljena v Delovnem programu Evropskega raziskovalnega sveta, ki ga sprejme Znanstveni svet Evropskega raziskovalnega sveta in potrdi Evropska komisija, na drugih področjih pa še naprej poteka ocenjevanje v skladu s splošnimi akti ARRS, veljavnimi pred dnem uveljavitve tega zakona. Seznam področij za evalvacije v skladu s 30. členom tega zakona in leto evalvacije določi s sklepom direktor ARRS na predlog Znanstvenega sveta ARRS v šestih mesecih od dneva začetka uporabe tega zakona.

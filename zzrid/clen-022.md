@@ -1,0 +1,5 @@
+# 22. člen (določanje sredstev za RSF)
+
+(1) Sredstva za RSF so vsota letnih sredstev razvojnih stebrov posameznih prejemnikov stabilnega financiranja (v nadaljnjem besedilu: RSF-O) in se določijo v skladu z državnimi strateškimi razvojnimi prioritetami in so največ 10 % vsote sredstev ISF in PSF, določene v skladu s prvim in drugim odstavkom 21. člena tega zakona. Delež sredstev za RSF za prvo leto pogodbenega obdobja iz 28. člena tega zakona s sklepom določi minister, pristojen za znanost, upoštevaje razpoložljiva proračunska sredstva.
+
+(2) Sredstva za RSF so na letni ravni za celotno pogodbeno obdobje enaka sredstvom RSF prvega leta pogodbenega obdobja, razen če se v prvem letu pogodbenega obdobja v primerjavi s preteklim letom zmanjšajo sredstva za državno financiranje znanstvenoraziskovalne dejavnosti. V tem primeru se sredstva za RSF lahko povečajo v prvem letu, ko se sredstva za državno financiranje znanstvenoraziskovalne dejavnosti povečajo, in ostanejo enaka za celotno preostalo pogodbeno obdobje.
