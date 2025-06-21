@@ -1,0 +1,5 @@
+# 19. člen
+
+(1) Center rejnika po pregledu vloge in dokazil ugotovi, ali rejnik izpolnjuje pogoje za izvajanje rejniške dejavnosti kot poklic in o tem izda odločbo. Če rejnik izpolnjuje pogoje za izvajanje rejniške dejavnosti kot poklic, center rejnika z odločbo odloči tudi o dnevu vključitve v obvezna socialna zavarovanja, določena v skladu z zakonom, ki ureja pokojninsko in invalidsko zavarovanje, zdravstveno zavarovanje, starševsko varstvo in družinske prejemke, trg dela ter zavarovanje za dolgotrajno oskrbo (v nadaljnjem besedilu: obvezna socialna zavarovanja). Vključitev v obvezna socialna zavarovanja je mogoča z naslednjim dnem po prenehanju vključitve v obvezna socialna zavarovanja iz drugega naslova, vendar ne pred dnem vložitve vloge za izvajanje rejniške dejavnosti kot poklic. O pritožbi zoper odločbo odloča ministrstvo. Pritožba zoper odločbo ne zadrži njene izvršitve.
+
+(2) Rejnika, ki izpolnjuje pogoje za izvajanje rejniške dejavnosti kot poklic, center rejnika vpiše v register izvajanja rejniške dejavnosti kot poklic (v nadaljnjem besedilu: register) in ga prijavi v obvezna socialna zavarovanja.
