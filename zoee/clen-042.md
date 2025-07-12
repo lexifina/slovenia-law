@@ -1,0 +1,7 @@
+# 42. člen (pogodba o zagotavljanju plačila za zmogljivosti)
+
+(1) Center za podpore je dolžan najpozneje v 30 dneh po zaključenem postopku izbranim ponudnikom posredovati v podpis pogodbo, s katero se uredijo izvajanje plačila za zagotavljanje zmogljivosti in druga vprašanja medsebojnih razmerij v zvezi s tem (v nadaljnjem besedilu: pogodba o zagotavljanju plačila za zagotavljanje proizvodnih zmogljivosti). S pogodbo o zagotavljanju plačila za zagotavljanje proizvodnih zmogljivost se urejajo tudi postopki obračunavanja pogodbene kazni v primeru, da ponudnik ne zagotovi pogodbenih proizvodnih zmogljivosti. Pogodbena kazen se določi v višini stroška sistemskega operaterja zaradi neizpolnitve obveznosti ponudnika v obravnavanem obdobju.
+
+(2) Če ponudnik proizvodnih zmogljivosti v enem mesecu, ko je pozvan k sklenitvi pogodbe o zagotavljanju plačila za zagotavljanje proizvodnih zmogljivost, ne sklene pogodbe in tega ne stori niti v dodatnem roku, ki ne sme biti krajši od 15 dni, ni upravičen do sklenitve pogodbe. Za količino proizvodnih zmogljivosti, ki s tem izpade, se pripravi predlog pogodbe o zagotavljanju plačila za zagotavljanje proizvodnih zmogljivosti za prvega naslednjega ponudnika od ponudnikov, ki so izpadli iz izbora v prvem krogu, po vrstnem redu, kot ga je določila komisija centra za podpore.
+
+(3) Center za podpore vodi register ponudnikov proizvodnih zmogljivosti. Center za podpore podatke o višini in prejemnikih plačil za zagotavljanje proizvodnih zmogljivosti objavi na svoji spletni strani.

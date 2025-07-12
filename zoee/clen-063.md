@@ -1,0 +1,7 @@
+# 63. člen (imenovanje sistemskega operaterja)
+
+(1) Če so po dokončnosti odločbe o izdaji certifikata ali po vzpostavitvi domneve iz tretjega odstavka 59. člena tega zakona pri določeni pravni ali fizični osebi izpolnjeni pogoji iz prve alineje petega odstavka 47. člena tega zakona, jo imenuje vlada na predlog agencije za sistemskega operaterja s sklepom.
+
+(2) Vlada na predlog agencije na podlagi dokončne odločbe o ugotovitvi neizpolnjevanja pogojev razveljavi sklep o imenovanju sistemskega operaterja, če sistemski operater ne izpolnjuje katerega od pogojev za izvajanje dejavnosti sistemskega operaterja iz petega odstavka 47. člena tega zakona, hkrati pa ni mogoče pričakovati, da bo ta pogoj v razumnem času izpolnjen.
+
+(3) Sklep o imenovanju oziroma sklep o razveljavitvi imenovanja se objavi v Uradnem listu Evropske unije in Uradnem listu Republike Slovenije ter posreduje Evropski komisiji.

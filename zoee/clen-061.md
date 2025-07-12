@@ -1,0 +1,27 @@
+# 61. člen (certificiranje v zvezi s tretjimi državami)
+
+(1) Če certificiranje zahteva lastnik prenosnega sistema ali sistemski operater, ki ga nadzoruje oseba ali osebe iz države ali držav, ki niso članice Evropske unije (v nadaljnjem besedilu: tretja država), ali ki je sam iz tretje države oziroma držav, se za postopek certificiranja in preizkus pogojev za certifikat uporabljajo 50., 51., 52. in 54. člen tega zakona, če ni drugače določeno. Za tretjo državo šteje tudi država članica Evropske unije, za katero velja odstopanje iz 66. člena Direktive 2019/944/EU, razen izpolnjevanja pogojev iz 50., 52., 54. in 55. člena tega zakona.
+
+(2) Agencija o prejemu vloge in okoliščinah, zaradi katerih bi oseba ali osebe iz tretje države ali tretjih držav lahko pridobile nadzor iz 37. točke 4. člena tega zakona nad prenosnim sistemom ali sistemskim operaterjem, nemudoma obvesti Evropsko komisijo.
+
+(3) Sistemski operater je dolžan nemudoma obvestiti agencijo o okoliščinah, zaradi katerih bi oseba ali osebe iz tretje države ali tretjih držav lahko pridobile nadzor iz 37. točke 4. člena tega zakona nad prenosnim sistemom ali sistemskim operaterjem.
+
+(4) V postopku certificiranja po tem členu se ne uporablja domneva izdaje certifikata iz tretjega odstavka 59. člena tega zakona.
+
+(5) Vlagatelj zahteve za izdajo certifikata iz prvega odstavka tega člena mora v postopku certificiranja agenciji dokazati, da izpolnjuje pogoje iz 50., 52., 54. in 55. člena tega zakona ter da izdaja certifikata ne bo ogrozila zanesljivosti oskrbe Republike Slovenije, druge države članice Evropske unije in Evropske unije z energijo. Pri tem agencija upošteva:
+
+- pravice in obveznosti Evropske unije v zvezi s to tretjo državo, ki izhajajo iz mednarodnega prava in iz sporazumov, sklenjenih z eno ali več tretjimi državami, katerih podpisnica je Evropska unija, ter ki obravnavajo zanesljivost oskrbe z energijo;
+
+- pravice in obveznosti držav članic do te tretje države, ki izhajajo iz sporazumov, sklenjenih z njo, če so v skladu s pravom Evropske unije, in
+
+- druge posebne lastnosti primera in zadevne tretje države.
+
+(6) Agencija mora sprejeti osnutek odločitve v štirih mesecih po prejemu vloge ter nemudoma seznaniti Evropsko komisijo z njim in z vsemi informacijami v zvezi z njim.
+
+(7) Agencija mora pred sprejetjem odločitve o certificiranju Evropsko komisijo zaprositi za mnenje o tem, ali stranka izpolnjuje prepovedi iz 50., 52., 54. in 55. člena tega zakona in ali lahko odobritev certificiranja ogrozi zanesljivost oskrbe Evropske unije z energijo.
+
+(8) Agencija izda odločbo v postopku certificiranja po tem členu v dveh mesecih po izteku roka za izdajo mnenja Evropske komisije skladno s šestim odstavkom 53. člena Direktive 2019/944/EU, pri čemer v čim večji meri upošteva mnenje Evropske komisije. Agencija Evropsko komisijo nemudoma seznani z odločitvijo in vsemi informacijami v zvezi z njo.
+
+(9) Agencija lahko zavrne izdajo certifikata, če bi njegova izdaja ogrozila zanesljivost oskrbe Republike Slovenije ali druge države članice Evropske unije z energijo.
+
+(10) Dokončna odločba agencije in mnenje Evropske komisije se objavita skupaj v Uradnem listu Republike Slovenije. Če se dokončna odločba razlikuje od mnenja Evropske komisije, se objavi tudi obrazložitev odločbe agencije.

@@ -1,0 +1,19 @@
+# 81. člen (zahteve glede ločitve dejavnosti)
+
+(1) Dejavnost distribucijskega operaterja mora distribucijski operater izvajati v ločeni pravni osebi, ki ne opravlja druge dejavnosti.
+
+(2) Če je distribucijski operater sestavni del vertikalno integriranega podjetja, mora biti poleg zahteve iz prejšnjega odstavka neodvisen od drugih dejavnosti, ki niso povezane z distribucijo, tudi glede organizacije in sprejemanja odločitev. V ta namen mora zagotoviti izvajanje najmanj naslednjih ukrepov:
+
+a) osebe, ki so odgovorne za upravljanje distribucijskega operaterja, ne smejo sodelovati v organih integriranega elektroenergetskega podjetja, ki so posredno ali neposredno odgovorni za tekoče operacije proizvodnje, prenosa in dobave električne energije;
+
+b) poklicni interesi oseb, pristojnih za upravljanje distribucijskega operaterja, se upoštevajo na način, ki zagotavlja njihovo sposobnost za neodvisno delovanje;
+
+c) distribucijski operater mora imeti, neodvisno od integriranega elektroenergetskega podjetja, dejanske pravice sprejemanja odločitev glede sredstev, potrebnih za obratovanje, vzdrževanje in razvoj omrežja.
+
+(3) Za izpolnjevanje nalog iz točke c) prejšnjega odstavka mora imeti distribucijski operater iz prejšnjega odstavka na voljo tudi potrebne človeške, tehnične, finančne in fizične vire. Matično podjetje potrjuje letni finančni načrt ali drug enakovreden instrument distribucijskega operaterja, določa omejitve zadolževanja distribucijskega operaterja kot hčerinskega podjetja ter ohranja pravice do ekonomskega nadzora in nadzora upravljanja v zvezi z donosom sredstev v hčerinskem podjetju. Matično podjetje ne sme dajati navodil v zvezi z vsakodnevnim poslovanjem ali s posameznimi odločitvami o gradnji ali nadgradnji distribucijskih vodov, ki ne presegajo omejitev v potrjenem finančnem načrtu ali v drugem enakovrednem instrumentu.
+
+(4) Distribucijski operater iz drugega odstavka tega člena mora oblikovati program za doseganje skladnosti, ki določa ukrepe za preprečevanje diskriminatornega ravnanja in zagotavlja ustrezen nadzor nad izvajanjem programa. Program za doseganje skladnosti določa posebne obveznosti, ki jih morajo zaposleni izpolniti za uresničitev tega cilja. Program za doseganje skladnosti mora vsebovati tudi posebne ukrepe za preprečitev diskriminatornega dostopa do podatkov naprednega merjenja iz 28. člena tega zakona. K programu za doseganje skladnosti mora distribucijski operater pred začetkom njegove veljavnosti pridobiti soglasje agencije.
+
+(5) Distribucijski operater iz drugega odstavka tega člena mora imeti nadzornika za skladnost, ki mora biti popolnoma neodvisen od distribucijskega operaterja ter mora imeti dostop do vseh informacij distribucijskega operaterja in morebitnih povezanih podjetij, ki jih potrebuje za izpolnjevanje svojih nalog. Ukrepi za zagotovitev neodvisnosti nadzornika za skladnost in učinkovitosti njegovega nadzora morajo biti določeni v programu za doseganje skladnosti.
+
+(6) Oseba ali organ, odgovoren za nadzor nad programom za doseganje skladnosti, pošlje agenciji letno poročilo o sprejetih ukrepih, ki se objavi.

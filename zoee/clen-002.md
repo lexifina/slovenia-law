@@ -1,0 +1,13 @@
+# 2. člen (prenos in izvrševanje predpisov Evropske unije)
+
+(1) S tem zakonom se v pravni red Republike Slovenije prenaša Direktiva (EU) 2019/944 Evropskega parlamenta in Sveta z dne 5. junija 2019 o skupnih pravilih notranjega trga električne energije in spremembi Direktive 2012/27/EU (UL L št. 158 z dne 14. 6. 2019, str. 125), zadnjič spremenjena z Direktivo (EU) 2024/1711 Evropskega parlamenta in Sveta z dne 13. junija 2024 o spremembi direktiv (EU) 2018/2001 in (EU) 2019/944 glede izboljšanja zasnove trga električne energije v Uniji (UL L št. 2024/1711 z dne 26. 6. 2024), (v nadaljnjem besedilu: Direktiva 2019/944/EU).
+
+(2) S tem zakonom se v pravni red Republike Slovenije prenašata tudi osmi odstavek 27. člena in Priloga XIV Direktive (EU) 2023/1791 Evropskega parlamenta in Sveta z dne 13. septembra 2023 o energetski učinkovitosti in spremembi Uredbe (EU) 2023/955 (prenovitev) (UL L št. 231 z dne 20. 9. 2023, str. 1), zadnjič spremenjena z Direktivo (EU) 2024/1788 Evropskega parlamenta in Sveta z dne 13. junija 2024 o skupnih pravilih notranjega trga plina iz obnovljivih virov, zemeljskega plina in vodika, spremembi Direktive (EU) 2023/1791 in razveljavitvi Direktive 2009/73/ES (prenovitev) (UL L št. 2024/1788 z dne 15. 7. 2024), (v nadaljnjem besedilu: Direktiva 2023/1791/EU).
+
+(3) Ta zakon ureja način izvajanja:
+
+- Uredbe (EU) 2019/941 Evropskega parlamenta in Sveta z dne 5. junija 2019 o pripravljenosti na tveganja v sektorju električne energije in razveljavitvi Direktive 2005/89/ES (UL L št. 158 z dne 14. 6. 2019, str. 1; v nadaljnjem besedilu: Uredba 2019/941/EU);
+
+- Uredbe (EU) 2019/943 Evropskega parlamenta in Sveta z dne 5. junija 2019 o notranjem trgu električne energije (prenovitev) (UL L št. 158 z dne 14. 6. 2019, str. 54), zadnjič spremenjene z Uredbo (EU) 2024/1747 Evropskega parlamenta in Sveta z dne 13. junija 2024 o spremembi uredb (EU) 2019/942 in (EU) 2019/943 glede izboljšanja zasnove trga električne energije v Uniji (UL L št. 2024/1747 z dne 26. 6. 2024), (v nadaljnjem besedilu: Uredba 2019/943/EU);
+
+- Uredbe (EU) 2018/1999 Evropskega parlamenta in Sveta z dne 11. decembra 2018 o upravljanju energetske unije in podnebnih ukrepov, spremembi uredb (ES) št. 663/2009 in (ES) št. 715/2009 Evropskega parlamenta in Sveta, direktiv 94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EU, 2012/27/EU in 2013/30/EU Evropskega parlamenta in Sveta, direktiv Sveta 2009/119/ES in (EU) 2015/652 ter razveljavitvi Uredbe (EU) št. 525/2013 Evropskega parlamenta in Sveta (UL L št. 328 z dne 21. 12. 2018, str. 1; v nadaljnjem besedilu: Uredba 2018/1999/EU).

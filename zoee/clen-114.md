@@ -1,0 +1,17 @@
+## 2. oddelek: Posebne določbe o določitvi regulativnega okvira, če distribucijski operater ni lastnik pomembnega dela distribucijskega sistema ali če bistvene naloge distribucijskega operaterja izvaja druga oseba
+
+# 114. člen (določitev regulativnega okvira na distribucijskem sistemu, ki ga operater nima v lasti)
+
+(1) Če distribucijski operater ni lastnik vsega ali pomembnega dela distribucijskega sistema, na katerem opravlja dejavnost, in najame pomemben del ali celoto distribucijskega sistema od lastnika ali druge pravne ali fizične osebe, ki ga upravlja ali z njim razpolaga (v nadaljnjem besedilu: najemodajalec), oziroma ga uporablja na drugi pravni podlagi, ki ni lastninska pravica, se za določitev regulativnega okvira na takem distribucijskem sistemu za ugotavljanje odstopanj od regulativnega okvira in za obračunavanje omrežnine poleg 109. do 113. in 119. do 122. člena tega zakona uporablja tudi 114. do 118. člen tega zakona.
+
+(2) Pomemben del distribucijskega sistema iz prejšnjega odstavka je del sistema, ki izpolnjuje naslednja pogoja:
+
+- da je bilo nanj v koledarskem letu pred letom, v katerem se določi omrežnina za naslednje regulativno obdobje, v katerem koli dnevu priključenih najmanj 1000 končnih odjemalcev in
+
+- da je letno prenesena električna energija po tem omrežju obsegala v koledarskem letu pred letom, v katerem se določi omrežnina za naslednje regulativno obdobje, najmanj 5 % vse prenesene električne energije po distribucijskem sistemu v Republiki Sloveniji.
+
+(3) Prvi odstavek tega člena velja tudi za primer, ko naloge distribucijskega operaterja, vključno s strokovnimi nalogami za izvrševanje javnih pooblastil, izvaja druga pravna ali fizična oseba, na katero je distribucijski operater prenesel opravljanje nalog ali te naloge opravlja na drugi pravni podlagi (v nadaljnjem besedilu: vzdrževalec).
+
+(4) Distribucijski operater mora razmerje z najemodajalcem in vzdrževalcem iz prvega in tretjega odstavka tega člena urediti za celotno naslednje regulativno obdobje najpozneje do začetka postopka za določitev regulativnega okvira. Agencija vroči sklep iz petega odstavka 110. člena tega zakona tudi najemodajalcem in vzdrževalcem iz prvega in tretjega odstavka tega člena ter jim z njim določi obveznost posredovanja podatkov.
+
+(5) Distribucijski operater razmerij z najemodajalcem in vzdrževalcem iz prvega in tretjega odstavka tega člena med regulativnim obdobjem ne sme spreminjati. Če je zaradi razlogov, ki so nastali po začetku regulativnega obdobja, na katere distribucijski operater ni mogel vplivati, treba med regulativnim obdobjem spremeniti razmerja z najemodajalcem in vzdrževalcem iz prvega in tretjega odstavka tega člena, pa to bistveno vpliva na veljavni regulativni okvir, izda agencija novo odločbo o regulativnem okviru s smiselno uporabo sedmega odstavka 113. člena tega zakona.

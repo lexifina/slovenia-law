@@ -1,0 +1,17 @@
+# 18. člen (menjava dobavitelja ali agregatorja oziroma sklenitev dodatne pogodbe)
+
+(1) Uporabnik sistema, ki želi zamenjati dobavitelja ali agregatorja, predloži zahtevo za zamenjavo elektrooperaterju sistema, na katerega je priključen. V imenu in za račun uporabnika sistema lahko na podlagi pooblastila zahtevo predloži tudi novi dobavitelj ali agregator.
+
+(2) Gospodinjski odjemalci lahko sodelujejo v skupnih zahtevah za zamenjavo, če želijo zamenjati dobavitelja ali agregatorja z novim dobaviteljem ali agregatorjem (v nadaljnjem besedilu: kolektivna zamenjava). Kolektivno zamenjavo lahko ponudi gospodinjskim odjemalcem tudi vsak dobavitelj ali agregator, ki mora po pridobitvi njihovega soglasja vložiti zahtevo za kolektivno zamenjavo. Glede postopka, stroškov in rokov izvedbe kolektivne zamenjave veljajo določbe tega člena, ki se nanašajo na posamično zamenjavo dobavitelja ali agregatorja. Novi dobavitelj ali agregator je dolžan nemudoma priglasiti vsako kolektivno zamenjavo agenciji, ki v okviru svojih nadzornih pooblastil zagotavlja, da pri kolektivni zamenjavi ni prišlo do zlorab.
+
+(3) Elektrooperater, ki je prejel zahtevo, mora izvesti vse potrebno, da lahko uporabnik sistema začne izvrševati pogodbo o dobavi električne energije z novim dobaviteljem najpozneje v 24 urah od vložitve popolne zahteve, kar mora biti izvedljivo na kateri koli delovni dan.
+
+(4) Elektrooperater ali drugo elektroenergetsko podjetje uporabnikom sistema menjave dobavitelja ali registracije pogodbe z agregatorjem ne sme zaračunati.
+
+(5) Ne glede na prejšnji odstavek lahko dobavitelj ali agregator zaračuna odstopnino končnim odjemalcem, če odjemalci po lastni volji odpovedo pogodbo o dobavi s fiksno ceno električne energije, sklenjeno za določeno obdobje, pred njenim potekom, če je odstopnina del pogodbe, ki jo je odjemalec sklenil po lastni volji, in če je končni odjemalec o odstopnini jasno obveščen pred sklenitvijo pogodbe. Šteje se, da je izpolnjen pogoj glede trajanja pogodbe za določen čas tudi, kadar je pogodba z dobaviteljem ali agregatorjem sklenjena za nedoločen čas, vendar v okviru take pogodbe dobavitelj ali agregator v določenem časovno omejenem obdobju zagotavlja končnemu odjemalcu fiksno ceno. Take odstopnine morajo biti sorazmerne in ne smejo presegati neposredne gospodarske škode, ki jo zaradi odjemalčeve odpovedi pogodbe utrpi dobavitelj ali agregator, vključno s stroški paketnih naložb ali storitev, ki so bile za odjemalca že opravljene kot del pogodbe. Dokazno breme neposredne gospodarske škode nosi dobavitelj ali agregator. Dopustnost odstopnine nadzoruje agencija. Določbe tega odstavka se ne uporabljajo za gospodinjske in male poslovne odjemalce, kadar v skladu s prvim odstavkom 16. člena tega zakona njihova odpoved pogodbe začne učinkovati najmanj eno leto po začetku izvajanja pogodbe.
+
+(6) Elektrooperater zavrne menjavo dobavitelja ali registracijo pogodbe z agregatorjem, če novi dobavitelj ali agregator ne izpolnjujeta zahtev, določenih s tem zakonom, ter na njegovi podlagi izdanih predpisov in splošnih aktov za izvrševanje javnih pooblastil.
+
+(7) Končni odjemalec mora prejeti zaključni račun po vsaki menjavi dobavitelja najpozneje šest tednov po začetku dobave električne energije s strani novega dobavitelja.
+
+(8) Podrobnejši način menjave dobavitelja ali registracijo pogodbe z agregatorjem določi elektrooperater v sistemskih obratovalnih navodilih, pri čemer morajo biti pravila določena nediskriminatorno glede stroškov, vloženega truda in časa.

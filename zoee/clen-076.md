@@ -1,0 +1,11 @@
+# 76. člen (razvojni načrt distribucijskega sistema)
+
+(1) Distribucijski operater najmanj vsaki dve leti objavi in predloži agenciji pregleden razvojni načrt distribucijskega sistema za naslednjih deset let, skladno z metodologijo iz petega odstavka tega člena. Razvojni načrt mora biti usklajen z NEPN. V primeru spremembe NEPN mora distribucijski operater v devetih mesecih preizkusiti skladnost razvojnega načrta z NEPN in ga po potrebi po postopku iz tega člena spremeniti ali dopolniti.
+
+(2) Razvojni načrt distribucijskega sistema zagotavlja preglednost glede potrebnih srednje- in dolgoročnih storitev prožnosti ter vključuje načrtovane naložbe v naslednjih desetih letih s posebnim poudarkom na glavni distribucijski infrastrukturi, potrebni za priključitev novih proizvodnih zmogljivosti in novih odjemalcev, vključno s polnilnimi mesti za električna vozila. Razvojni načrt sistema vključuje tudi uporabo prilagajanja odjema, energetsko učinkovitost, objekte za shranjevanje energije ali druge vire, ki jih distribucijski operater uporablja kot alternativo širitvi sistema, ter oceno prostih zmogljivosti za priključevanje dodatne razpršene proizvodnje in hranilnikov energije, ki temelji na analizi zmogljivosti v celotnem distribucijskem omrežju. Pri načrtovanju razvoja imajo prednost ukrepi za povečanje energetske učinkovitosti obstoječe električne infrastrukture z uravnavanjem obremenitev, prilagajanjem odjema in nakupom sistemskih storitev vedno, ko lahko zmanjšajo potrebo po novih investicijah v razširitve omrežja oziroma ko predstavljajo stroškovno bolj ali enako učinkovito alternativo širitvi sistema.
+
+(3) Distribucijski operater se o razvojnem načrtu distribucijskega sistema posvetuje z vsemi zadevnimi uporabniki sistema in sistemskim operaterjem. Distribucijski operater objavi rezultate posvetovalnega postopka skupaj z razvojnim načrtom distribucijskega sistema ter rezultate posvetovalnega postopka in razvojni načrt predloži agenciji.
+
+(4) Agencija mora dati soglasje k razvojnemu načrtu distribucijskega sistema in lahko pred odločitvijo o izdaji soglasja zahteva njegove spremembe. O soglasju k razvojnemu načrtu mora agencija odločiti v roku treh mesecev od prejema vloge.
+
+(5) Agencija v splošnem aktu iz petega odstavka 49. člena tega zakona predpiše metodologijo za izdelavo razvojnih načrtov distribucijskega sistema.
