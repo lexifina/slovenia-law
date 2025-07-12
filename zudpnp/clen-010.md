@@ -1,0 +1,3 @@
+# 10. člen (izjema glede razporeditve delovnega časa)
+
+Delavcem, katerim zaradi narave delovnega mesta oziroma vrste dela ni mogoče odrediti dela s skrajšanim delovnim časom v enakomernem tedenskem obsegu zagotavljanja dela, lahko delodajalec ne glede na določbo 2. člena tega zakona tedenski obseg delovnega časa izravna v obdobju meseca, za katerega delodajalec uveljavlja delno povračilo nadomestila plač, pri čemer mora v odredbi iz tretjega odstavka 4. člena tega zakona določiti razporeditev delovnega časa na način, da je za referenčno obdobje enega meseca vnaprej razvidno, katere dneve ima delavec delovno obveznost in v kakšnem obsegu.
