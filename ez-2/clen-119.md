@@ -1,0 +1,31 @@
+# 119. člen (lastninska pravica ali služnost v javno korist po samem zakonu)
+
+(1) Z dnem uveljavitve prostorskega akta v skladu s predpisi, ki urejajo urejanje prostora, je na nepremičninah, katerih lastnik je Republika Slovenija ali lokalna skupnost in na katerih je predvidena omejitev lastninske pravice s služnostjo v javno korist za namene iz prvega odstavka 116. člena tega zakona, vzpostavljena brezplačna služnost v javno korist za namen iz prostorskega akta, razen za služnost na vodnih in priobalnih zemljiščih v upravljanju ministrstva, pristojnega za vode, katere plačilo se določi v skladu z zakonom, ki ureja vode, in na njegovi podlagi izdanimi predpisi.
+
+(2) Če pridobi lastninsko pravico na nepremičnini iz prejšnjega odstavka Republika Slovenija ali lokalna skupnost po uveljavitvi prostorskega akta iz prejšnjega odstavka, je služnost iz prejšnjega odstavka vzpostavljena z dnem pridobitve lastninske pravice.
+
+(3) Služnost iz prvega odstavka tega člena je vzpostavljena za vode električne energije največ v širini varovalnega pasu za določeno vrsto voda električne energije, kot je določeno s 112. členom tega zakona, oziroma največ v obsegu območja sprejetega prostorskega akta. Za sisteme plina in distribucijske vode toplote ali drugega energetskega plina je služnost iz prvega odstavka tega člena vzpostavljena največ v naslednjem obsegu:
+
+– za prenosni vod plina 5 m od osi voda na vsako stran,
+
+– za distribucijski vod plina 2,5 m od osi voda na vsako stran,
+
+– za distribucijski vod toplote ali drugega energetskega plina 1,5 m od osi voda na vsako stran.
+
+(4) V času gradnje vodov iz prejšnjega odstavka je služnost iz prvega odstavka tega člena vzpostavljena v naslednjem obsegu:
+
+– za vode električne energije največ v širini varovalnega pasu za določeno vrsto voda električne energije ter obligacijska pravica za gradnjo oziroma izvajanje del na takšni nepremičnini v širini delovnega pasu,
+
+– za prenosni vod plina 12 m od osi voda na vsako stran,
+
+– za distribucijski vod plina 6 m od osi voda na vsako stran,
+
+– za distribucijski vod toplote ali drugega energetskega plina 5 m od osi voda na vsako stran.
+
+(5) Upravljavec nepremičnine v lasti Republike Slovenije ali lokalne skupnosti in upravičenec služnosti v javno korist iz prvega odstavka tega člena sta dolžna skleniti pogodbo, s katero ugotovita obseg služnosti iz prvega odstavka tega člena na določeni nepremičnini oziroma nepremičninah, na vodnih in priobalnih zemljiščih pa tudi plačilo za služnost, najpozneje do poteka šestih mesecev od pravnomočnosti gradbenega dovoljenja za objekt infrastrukture, za katerega je služnost v javno korist vzpostavljena. Če v tem roku pogodba ni sklenjena, lahko upravljavec nepremičnine ali upravičenec služnosti zahteva, da sodišče s sodbo nadomesti pogodbo.
+
+(6) Investitor je dolžan vložiti predlog za vpis služnosti iz prvega odstavka tega člena v zemljiško knjigo najpozneje v 24 mesecih od uveljavitve prostorskega akta iz prvega odstavka tega člena ali od pridobitve lastninske pravice v smislu drugega odstavka tega člena. Vpis v zemljiško knjigo nima oblikovalnega učinka.
+
+(7) Ne glede na peti odstavek tega člena se pogodba, s katero se ugotovi obseg služnosti ter določi znesek nadomestila za služnost na vodnih in priobalnih zemljiščih v upravljanju ministrstva, pristojnega za vode, sklene neposredno po dokončnosti vodnega soglasja po zakonu, ki ureja vode.
+
+(8) Ne glede na šesti odstavek tega člena in četrti odstavek 120. člena tega zakona je investitor predlog za vpis služnosti na vodnih in priobalnih zemljiščih v upravljanju ministrstva, pristojnega za vode, dolžan vložiti po sklenitvi pogodbe iz prejšnjega odstavka. Pravica graditi na vodnih in priobalnih zemljiščih v upravljanju ministrstva, pristojnega za vode, je izkazana z vknjiženo služnostjo v javno korist v zemljiški knjigi oziroma s predložitvijo sklenjene in notarsko overjene pogodbe o služnosti ter kopije predloga za vpis pogodbe v zemljiško knjigo, s podatkom o zemljiškoknjižni plombi, pod katero se vodi predlog.

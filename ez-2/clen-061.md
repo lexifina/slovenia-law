@@ -1,0 +1,7 @@
+# 61. člen (odprava ali razveljavitev splošnega akta)
+
+(1) Če Evropska komisija odloči, da mora agencija delno ali v celoti spremeniti, razveljaviti ali odpraviti splošni akt za izvrševanje javnih pooblastil, ker ni skladen s smernicami iz Direktive 2019/944/EU, Direktive 2009/73/ES ali z uredbo Evropske unije, je agencija dolžna v dveh mesecih po prejemu odločitve Evropske komisije izdati splošni akt, s katerim spremeni, deloma ali v celoti razveljavi ali odpravi neskladni splošni akt, in o tem nemudoma obvestiti Evropsko komisijo.
+
+(2) Odprava splošnega akta učinkuje od dneva uveljavitve odpravljenega splošnega akta agencije.
+
+(3) Agencija najpozneje v enem mesecu od uveljavitve splošnega akta, s katerim je neskladen splošni akt odpravljen, po uradni dolžnosti začne obnovo postopka odločanja o posamičnih aktih, ki jih je izdala na podlagi odpravljenega splošnega akta.

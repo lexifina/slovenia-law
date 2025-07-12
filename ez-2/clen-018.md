@@ -1,0 +1,3 @@
+# 18. člen (načelo okoljske trajnosti)
+
+Državni organi in organi lokalnih skupnosti si morajo pri sprejemanju politik, strategij, programov, načrtov, splošnih in konkretnih pravnih aktov ter pri izvedbi ukrepov na podlagi tega zakona in na podlagi zakonov s področja energetike prizadevati doseči čim manjše negativne učinke na okolje, pri čemer se upoštevajo okoljska bremena v celotnem življenjskem ciklu. V primeru politik, strategij, programov, načrtov, splošnih in konkretnih pravnih aktov, ki imajo dolgoročne učinke na okolje, si je treba prizadevati za zmanjšanje okoljskega bremena za prihodnje generacije.

@@ -1,0 +1,27 @@
+# 90. člen (monitoring delovanja trga)
+
+(1) Agencija po tem zakonu izvaja monitoring delovanja trgov na področju reguliranih in tržnih energetskih dejavnosti s področja električne energije in plina.
+
+(2) Izvajanje monitoringa iz prejšnjega odstavka obsega spremljanje dejavnikov, ki vplivajo na učinkovito konkurenco na trgu električno energijo in plina, zlasti pa na:
+
+1. zagotavljanje nediskriminatornega dostopa do omrežij, zagotavljanje predpisane razpoložljivosti in zanesljivosti omrežja, zagotavljanje učinkovitega izvajanja ključnih procesov za delovanje trga (priključevanje uporabnikov sistema, merjenje, obračunavanje, menjava dobavitelja, zagotavljanje univerzalnih storitev in podobno);
+
+2. raven preglednosti upoštevnega trga, vključno z veleprodajnimi cenami in cenami za končne odjemalce;
+
+3. spremljanje ravni in učinkovitosti odprtosti trga in konkurence pri veleprodaji in maloprodaji, vključno z borzami električne energije, cenami za gospodinjske odjemalce, ki zajemajo tudi predplačilne sisteme, učinkom pogodb z dinamičnimi cenami električne energije in uporabe sistemov naprednega merjenja, deležem odjemalcev, ki zamenjajo dobavitelja, deležem odklopov, plačila za vzdrževalne storitve, izvedbo vzdrževalnih storitev, razmerjem med cenami za gospodinjstva in veleprodajnimi cenami, spreminjanjem tarif in pristojbin omrežja in pritožbami gospodinjskih odjemalcev, ter morebitnega izkrivljanja ali omejevanja konkurence, pri čemer organom, pristojnim za konkurenco, zagotavljajo potrebne informacije in jim pošiljajo zadevne primere;
+
+4. zadovoljstvo in dobrobit odjemalcev z vidika učinkov delovanja trga (zahteve, pritožbe, razpoložljivost in zadostnost informacij in podobno);
+
+5. pojav omejevalnih pogodbenih praks, zlasti določb o ekskluzivnosti dobave, ki lahko odjemalcem preprečijo sklenitev pogodb z več kot enim dobaviteljem hkrati ali jih pri tem omejujejo;
+
+6. spremljanje trgovanja z veleprodajnimi energetskimi proizvodi s skladu z Uredbo (EU) št. 1227/2011 z namenom odkrivanja in preprečevanja trgovanja na podlagi notranjih informacij in tržnih manipulacij;
+
+7. pojav drugih omejevalnih ravnanj udeležencev na trgu, ki preprečujejo, omejujejo ali izkrivljajo konkurenco na trgu, vključno z vidika ravnanja podjetij s prevladujočim položajem in vidika koncentracij;
+
+8. spremljanje zanesljivosti oskrbe, od katere so odvisni ravnotežje med ponudbo in povpraševanjem na nacionalnem trgu, raven predvidenega prihodnjega povpraševanja in predvidene dodatne zmogljivosti, ki se načrtujejo ali gradijo;
+
+9. izdelavo in vzdrževanje primerjalnika cen za gospodinjske in male poslovne odjemalce;
+
+10. preprečevanje navzkrižnega subvencioniranja med dejavnostmi prenosa, distribucije in proizvodnje.
+
+(3) Agencija o izvajanju monitoringa sestavi poročilo, ki obsega oceno o stopnji preglednosti in konkurenčnosti na trgu električne energije in plina. Vsebina poročila je sestavni del letnega poročila o stanju na področju energetike iz 53. člena tega zakona.

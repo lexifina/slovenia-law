@@ -1,0 +1,3 @@
+# 85. člen (obvestilo o ugotovljeni kršitvi)
+
+Če agencija pri nadzoru ugotovi kršitve pri izvajanju določb zakona ali uredbe Evropske unije ter na njihovi podlagi izdanih predpisov in drugih splošnih aktov, zavezanca za nadzor obvesti o ugotovljenih kršitvah z možnostjo pojasnitve in ga pozove k odpravi kršitve oziroma njenih posledic v roku, ki ga določi agencija in ki je lahko krajši od 30 dni, če gre za ponavljajoče se kršitve ali če se zavezanec za nadzor s tem strinja, razen če ni z zakonom ali uredbo Evropske unije drugače določeno. Agencija lahko zavezancu za nadzor naloži tudi takojšnje prenehanje ugotovljenih kršitev.

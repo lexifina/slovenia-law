@@ -1,0 +1,7 @@
+# 65. člen (postopek odločanja v sporu)
+
+(1) Kadar stranka zahteva, da agencija odloči o sporu z drugo stranko, je vložitev zahteve dopustna le, če prva stranka izkaže, da je od stranke, zoper katero vlaga zahtevo (v nadaljnjem besedilu: nasprotna stranka), pisno zahtevala, naj ugodi njeni zahtevi, ki je predmet spora, in ji dala primeren rok, ki teče od prejema te zahteve, da na zahtevo odgovori. Ta rok ne sme biti krajši od 15 dni.
+
+(2) Zahtevo, da agencija odloči o sporu z nasprotno stranko, sme stranka vložiti v 15 dneh od vročitve pisnega odgovora nasprotne stranke, s katerim je ta v celoti ali deloma zavrnila pisno zahtevo stranke, oziroma v 15 dneh od poteka roka za odgovor, če nasprotna stranka na pisno zahtevo ni odgovorila.
+
+(3) Nasprotna stranka lahko v 15 dneh po vročitvi zahteve stranke za odločitev agencije v sporu vloži nasprotni zahtevek, če je ta zahtevek v zvezi z zahtevkom stranke ali če se zahtevek prve stranke in nasprotni zahtevek lahko pobotata.

@@ -1,0 +1,3 @@
+# 124. člen (pogoji za energetskega inšpektorja)
+
+Za energetskega inšpektorja ali inšpektorico (v nadaljnjem besedilu: energetski inšpektor) je lahko imenovana oseba, ki ima najmanj izobrazbo, pridobljeno po študijskih programih za pridobitev izobrazbe druge stopnje s področja strojništva in obdelave kovin ali področja elektrotehnike in energetike, ali fizike ali raven izobrazbe, pridobljeno po študijskih programih, ki v skladu z zakonom, ki ureja visoko šolstvo, ustrezajo izobrazbi druge stopnje s področja strojništva in obdelave kovin ali področja elektrotehnike in energetike ali fizike, pet let delovnih izkušenj in opravljen strokovni izpit za inšpektorja ter izpolnjuje druge splošne pogoje za delo v državni upravi.

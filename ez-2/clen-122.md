@@ -1,0 +1,5 @@
+# 122. člen (skrbnik za posebni primer)
+
+(1) Če investitorju v energetsko infrastrukturo ne uspe skleniti pogodbe o pridobitvi lastninske ali pogodbe o ustanovitvi služnosti v javno korist ali stavbne pravice v javno korist, ker mu ne uspe pridobiti podatkov iz javnih evidenc, ker ti podatki ne obstajajo oziroma organi, ki vodijo javne evidence, podatkov nimajo ali ker je lastnik zemljišča umrl, če ni imel zadnjega prijavljenega prebivališča v Republiki Sloveniji, ali v primerih, ki jih za postavitev skrbnika za posebni primer določa zakon, ki določa urejanje prostora, centru za socialno delo pošlje predlog za postavitev skrbnika za posebni primer.
+
+(2) Center za socialno delo v 60 dneh imenuje skrbnika za posebni primer, ki z investitorjem v energetsko infrastrukturo sklene ustrezno pogodbo o pridobitvi lastninske ali pogodbo o ustanovitvi služnosti v javno korist ali stavbne pravice v javno korist. Odločbo o imenovanju skrbnika za posebni primer center za socialno delo vroči tudi predlagatelju za postavitev skrbnika za posebni primer iz prejšnjega odstavka.

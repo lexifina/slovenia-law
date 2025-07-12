@@ -1,0 +1,3 @@
+# 128. člen (obvestilo o nastopu okoliščin)
+
+Odgovorna oseba pravne ali fizične osebe in posameznik, ki upravlja energetske objekte, naprave, postroje ali napeljave, za katere je predpisan inšpekcijski nadzor po tem zakonu, morata takoj obvestiti energetsko inšpekcijo o poškodbah in okvarah, ki imajo za posledico prekinitev oziroma omejitev dobave energije ali če obstaja nevarnost za življenje in zdravje ljudi ali nevarnost, da utegne nastati večja materialna škoda.

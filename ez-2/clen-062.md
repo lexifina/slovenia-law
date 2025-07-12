@@ -1,0 +1,5 @@
+# 62. člen (pooblastilo agencije za urejanje vprašanj namesto operaterja)
+
+(1) Če operater oziroma druga oseba, ki izvaja energetsko dejavnost, nima s področnim zakonom in splošnimi akti agencije usklajenega splošnega akta, h kateremu daje po tem zakonu soglasje agencija, lahko agencija s svojim splošnim aktom za izvrševanje javnih pooblastil uredi vprašanja, ki jih operater ali druga oseba ni uredila v skladu s področnim zakonom in splošnimi akti agencije. V delu, v katerem je agencija drugače uredila vprašanja, ki jih ureja splošni akt operaterja ali druge osebe, se ta splošni akt operaterja oziroma druge osebe ne uporablja. Agencija lahko objavi splošni akt operaterja ali druge osebe, h kateremu je dala soglasje, pa ga ta oseba ni objavila.
+
+(2) Agencija z odločbo naloži osebi iz prejšnjega odstavka plačilo stroškov objave splošnega akta.
