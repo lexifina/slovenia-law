@@ -1,0 +1,5 @@
+# 145. člen (ravnatelji)
+
+Ravnatelji oziroma pomočniki ravnateljev vrtcev in šol, ki imajo na dan uveljavitve tega zakona srednjo izobrazbo, petindvajset let delovne dobe in so opravljali funkcijo ravnatelja oziroma pomočnika ravnatelja dva mandata, in ravnatelji oziroma pomočniki ravnateljev vrtcev, ki imajo srednjo izobrazbo in so opravljali funkcijo ravnatelja oziroma pomočnika ravnatelja vsaj tri mandate, so lahko imenovani za ravnatelja oziroma pomočnika ravnatelja ne glede na določbo prvega in drugega odstavka 53. člena in prvega odstavka 56. člena tega zakona tudi po uveljavitvi tega zakona.
+
+Ravnatelji oziroma pomočniki ravnateljev vrtcev in šol, ki ne izpolnjujejo s tem zakonom določenih pogojev o izobrazbi, imajo na dan uveljavitve tega zakona manj kot 10 let do pridobitve pravice do starostne pokojnine in so opravljali najmanj tri mandate funkcijo ravnatelja oziroma pomočnika ravnatelja, so lahko imenovani za ravnatelja oziroma pomočnika ravnatelja ne glede na določbe prvega in drugega odstavka 53. člena in prvega odstavka 56. člena tega zakona tudi po uveljavitvi tega zakona.

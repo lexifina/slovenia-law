@@ -1,0 +1,55 @@
+# 135.c člen (uporaba podatkov iz centralne evidence)
+
+Vzgojno-izobraževalni zavod obdeluje podatke iz centralne evidence iz drugega odstavka 135.a člena tega zakona za svoje udeležence vzgoje in izobraževanja.
+
+Podatki iz centralne evidence se lahko posredujejo uporabnikom, ki so za njihovo pridobitev pooblaščeni z zakonom.
+
+Ministrstvo, pristojno za šolstvo, uporablja podatke iz centralne evidence tako, da se prikrijejo podatki o imenu in priimku, EMŠO, spolu, kraju in državi rojstva, državljanstvu ter stalnem oziroma začasnem prebivališču.
+
+Za namen ugotavljanja upravičenosti za opravljanje začasnih in občasnih del dijakov, študentov in udeležencev izobraževanja odraslih so organizacije oziroma delodajalci, ki posredujejo začasna in občasna dela osebam iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti (Uradni list RS, št. 107/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 59/07 – ZŠtip, 51/10 – odl. US, 80/10 – ZUTD in 95/14 – ZUJF-C), upravičene do naslednjih podatkov iz centralne evidence:
+
+- ime in naslov vzgojno-izobraževalnega zavoda ter matične številke poslovnega subjekta (šifra PRS),
+
+- vzgojno-izobraževalni ali študijski program ter evidenčna številka iz uradnega registra programov,
+
+- način izobraževanja, če je način izobraževanja izredni,
+
+- letnik,
+
+- status udeleženca,
+
+- datum začetka izobraževanja v vzgojno-izobraževalnem ali študijskem programu,
+
+- datum izpisa iz šole.
+
+Organizacije oziroma delodajalci, ki posredujejo začasna in občasna dela osebam iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti, lahko na podlagi podatka o EMŠO dijaka, študenta in udeleženca izobraževanja odraslih, ki nameravajo opravljati začasna in občasna dela kot dijaki, študenti in udeleženci izobraževanja odraslih, pridobijo podatke iz četrtega odstavka tega člena iz centralne evidence s posredovanjem podatkov ali povezovanjem zbirk osebnih podatkov. Evidence o dijakih, študentih in udeležencih izobraževanja odraslih, posamezne organizacije oziroma delodajalca, ki posreduje začasna in občasna dela osebam iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti, se na podlagi podatka o EMŠO dijaka, študenta in udeleženca izobraževanja odraslih, ki nameravajo opravljati začasna in občasna dela kot dijaki, študenti in udeleženci izobraževanja odraslih, povežejo s centralno evidenco.
+
+Za zagotavljanje točnosti in ažurnosti se s povezovanjem zbirk iz centralne evidence v evidenco prijavljenih in vpisanih v srednje šole in evidenco prijavljenih in vpisanih v dijaške domove na podlagi podatka o EMŠO prijavljenega kandidata posredujejo identifikacijski podatki o imenu, priimku, spolu, kraju in državi rojstva, stalnem oziroma začasnem prebivališču in o državljanstvu, ime in naslov vzgojno-izobraževalnega zavoda, kjer je kandidat končal zadnji razred oziroma letnik, ter vzgojno-izobraževalni program.
+
+Za pripravo in izvedbo mature in zaključnih izpitov se s povezovanjem zbirk iz centralne evidence Državnemu izpitnemu centru na podlagi EMŠO kandidata posredujejo podatki, ki jih za svoje udeležence v centralno evidenco vnašajo vzgojno-izobraževalni zavodi in jih morajo posredovati tudi Državnemu izpitnemu centru v skladu z določbami zakona, ki ureja maturo, in sicer podatki o imenu, priimku, spolu, kraju in državi rojstva, prebivališču, imenu vzgojno-izobraževalnega zavoda, vzgojno-izobraževalnem programu in letniku.
+
+Za pripravo in izvedbo nacionalnega preverjanja znanja se s povezovanjem zbirk iz centralne evidence Državnemu izpitnemu centru na podlagi EMŠO številke posredujejo podatki o imenu in priimku učenca, spolu, datumu, kraju in državi rojstva, imenu osnovne šole oziroma podružnice, na kateri učenec opravlja nacionalno preverjanje znanja, izobraževalni program, razred, oddelek in šolsko leto, v katerem učenec opravlja nacionalno preverjanje znanja.
+
+Za zagotavljanje sredstev iz državnega proračuna za namen sofinanciranja plačil staršev za vrtec se s povezovanjem zbirk iz centralne evidence v evidenco upravičencev do sofinanciranja plačil staršev za vrtec, ki jo vodi ministrstvo, pristojno za šolstvo, na podlaga zakona, ki ureja vrtce, na podlagi EMŠO udeleženca, posredujejo vsi tisti podatki, ki jih vsebuje tudi evidenca upravičencev do sofinanciranja plačil staršev za vrtec.
+
+Za zagotavljanje sredstev iz državnega proračuna za namen financiranja prevozov se s povezovanjem zbirk iz centralne evidence v evidenco osebnih podatkov za financiranje prevozov iz prvega odstavka 135.da člena tega zakona, ki jo vodi ministrstvo, pristojno za šolstvo, na podlagi EMŠO upravičenca, posredujejo podatki o osebnem imenu upravičenca, občini stalnega oziroma začasnega prebivališča in podatki o vrtcu, šoli ali zavodu, kamor je otrok ali mladostnik vključen v javno veljavni program ter razred, letnik in oddelek.
+
+Za ugotavljanje pravice do vpisa v srednje šole in dijaške domove se s povezovanjem zbirk iz centralne evidence v evidenco prijavljenih in vpisanih v srednje šole in v dijaške domove, ki jo vodi ministrstvo, pristojno za šolstvo, na podlagi EMŠO prijavljenega kandidata, posredujejo podatki o izobraževanju v srednješolskih izobraževalnih programih.
+
+Za ugotavljanje pravice do vpisa v višje šole se s povezovanjem zbirk iz centralne evidence v evidenco prijavljenih in vpisanih v višje šole, ki jo vodi pristojna služba za potrebe ministrstva, pristojnega za šolstvo, na podlagi podatka o EMŠO prijavljenega kandidata posredujejo podatki o izobraževanju v višješolskih izobraževalnih programih.
+
+Pri znanstveno-raziskovalnem in razvojnem delu ter pri izdelavi statističnih analiz se osebni podatki obdelujejo v anonimizirani obliki.
+
+Način in pogoje dostopa do podatkov iz centralne evidence podrobneje določi minister, pristojen za šolstvo.
+
+135.č člen
+
+(shranjevanje podatkov v centralni evidenci)
+
+Podatki se v centralni evidenci hranijo še eno leto po tem, ko udeleženec vzgoje in izobraževanja zaključi vzgojno-izobraževalni ali študijski program po posameznem statusu, potem se arhivirajo. Arhivirani podatki centralne evidence se lahko v anonimizirani obliki uporabljajo za statistične in analitične raziskave, v neanonimizirani obliki pa jih je dopustno posredovati le državnim organom, ki imajo za njihovo pridobitev in nadaljnjo obdelavo podlago v zakonu.
+
+Ne glede na prejšnji odstavek se lahko podatki za statistične in znanstveno-raziskovalne namene o prehodnosti dijakov v višje strokovne šole in visoko šolstvo ter za analiziranje zaposljivosti dijakov in udeležencev izobraževanja odraslih, ki so zaključili izobraževalni program, ter diplomantov višjih strokovnih šol pridobijo in povežejo v neanonimizirani obliki, vsa nadaljnja obdelava pa poteka z anonimiziranimi podatki.
+
+Ne glede na prvi odstavek tega člena se lahko podatki o osebnem imenu in stalnem oziroma začasnem prebivališču, uporabijo za namen kontaktiranja posameznikov za namen izvedbe analiz iz šestega odstavka 135.b člena tega zakona.
+
+Evidence matična knjiga osnovne šole, matični list učenca, matična knjiga srednje šole, osebni list dijaka, o preverjanju in ocenjevanju znanja dijaka, o izdanih spričevalih in drugih listinah učenca in izdanih dokumentov o končanem izobraževanju dijaka iz drugega odstavka 135.aa člena tega zakona, se hranijo trajno. Evidenci dnevnik v osnovni šoli in redovalnica v osnovni šoli iz drugega odstavka 135.aa člena tega zakona se hranita eno leto po zaključku šolanja učencev.
