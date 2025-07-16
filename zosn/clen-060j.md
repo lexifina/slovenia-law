@@ -1,0 +1,7 @@
+# 60.j člen (druge oblike vzgojno-izobraževalnega dela)
+
+Učencu, ki s svojim ravnanjem ovira izvajanje pouka in dejavnosti v okviru obveznega in razširjenega programa ali drugih dejavnosti, ki so opredeljene z letnim delovnim načrtom, tako, da dela pri pouku in navedenih dejavnostih ni možno izvajati, lahko osnovna šola občasno zagotovi doseganje ciljev vzgoje in izobraževanja tudi z drugimi oblikami organiziranega dela z učencem zunaj oddelka ali skupine, če je to potrebno, da se zagotovi nemoteno nadaljevanje vzgojno-izobraževalnega dela. O tem odloči strokovni delavec, ki izvaja pouk oziroma posamezno dejavnost, in s tem seznani ravnatelja.
+
+Učencu, ki s svojim ravnanjem ogroža zdravje in varnost sebe ali drugih udeležencev pri pouku in dejavnostih v okviru obveznega ali razširjenega programa ter pri drugih dejavnostih, ki so opredeljene z letnim delovnim načrtom, lahko osnovna šola občasno zagotovi doseganje ciljev vzgoje in izobraževanja tudi z drugimi oblikami organiziranega dela z učencem zunaj oddelka ali skupine, če je to potrebno, da se učencem in udeležencem vzgojno-izobraževalnega procesa zagotovita varnost in nemoteno nadaljevanje vzgojno-izobraževalnega dela. O tem odloči ravnatelj, ki mora pisno opredeliti vsebine, oblike, čas in trajanje drugih oblik organiziranega dela z učencem ter način ponovnega vključevanja učenca v oddelek.
+
+Druge oblike organiziranega dela iz tega člena se zagotavljajo tako, da se pouk prilagodi časovno in prostorsko znotraj osnovne šole.
