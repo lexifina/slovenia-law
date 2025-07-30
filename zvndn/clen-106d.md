@@ -1,0 +1,5 @@
+# 106.d člen (dodatni dopust in dodatek na stalnost)
+
+(1) Javnim uslužbencem na področju zaščite in reševanja, ki opravljajo operativno delo potapljačev ali varstva pred neeksplodiranimi ubojnimi sredstvi, pripada za ohranjanje telesne psihofizične pripravljenosti poleg rednega letnega tudi dodaten dopust 15 dni. Pogoje in način izrabe dodatnega dopusta določi minister. Dodaten dopust v skladu s tem členom pripada tudi potapljačem in pirotehnikom, ki delajo kot poklicni gasilci.
+
+(2) Javnim uslužbencem na področju zaščite in reševanja, ki opravljajo v skladu s sistemizacijo delovnih mest operativne naloge zaščite, reševanja in pomoči ali so razporejeni na opravljanje takih nalog v Civilni zaščiti več kot pet let, pripada za vsako nadaljnje začeto leto dela dodatek za stalnost v višini, določen v skladu z zakonom, ki ureja skupne temelje sistema plač v javnem sektorju. V delovno dobo za določitev dodatka za stalnost se všteva tudi delovna doba v organu, iz katerega je javni uslužbenec premeščen, če je bil v skladu s predpisi in pod pogoji, ki veljajo za organ, iz katerega je premeščen, upravičen do dodatka za stalnost.
