@@ -1,6 +1,0 @@
-# 16. člen
-Ne glede na določbe 15. člena tega zakona diplomanti dosedanjih študijskih programov nadaljujejo študij po študijskih programih iz 33. člena zakona pod pogoji, ki se ob smiselni uporabi 38.a člena zakona in v skladu z merili za prehode določijo s študijskim programom. Pri določanju pogojev za prehod iz dosedanjih študijskih programov v nove študijske programe so visokošolski zavodi samostojni. Pri tem se
-- določbe prvega, drugega in tretjega odstavka 38.a člena zakona uporabljajo tudi za tiste, ki so končali študijski program za pridobitev visoke strokovne izobrazbe, sprejet od 1. 1. 1994 do 11. 6. 2004;
-- diplomantom dosedanjih študijskih programov za pridobitev specializacije, ki so pred tem končali visokošolski strokovni program, za vpis v študijske programe tretje stopnje določijo študijske obveznosti v obsegu od 30 do 60 kreditnih točk;
-- diplomantom dosedanjih študijskih programov za pridobitev magisterija znanosti oziroma specializacije po končanem študijskem programu za pridobitev univerzitetne izobrazbe v doktorskem študijskem programu tretje stopnje priznajo študijske obveznosti v obsegu najmanj 60 kreditnih točk.
-Ne glede na četrti odstavek 38.a člena zakona se v doktorski študijski program lahko vpiše, kdor je končal dosedanji študijski program za pridobitev univerzitetne izobrazbe.

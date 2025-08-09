@@ -1,8 +1,0 @@
-# 15. člen
-V Republiki Sloveniji:
-- raven izobrazbe, pridobljena po študijskih programih za pridobitev višje izobrazbe, sprejetih pred 1. 1. 1994, in raven izobrazbe, pridobljena po študijskih programih za pridobitev visoke strokovne izobrazbe, sprejetih pred 11. 6. 2004 (v nadaljnjem besedilu: dosedanji študijski programi), ustreza ravni izobrazbe, pridobljeni po visokošolskih strokovnih študijskih programih prve stopnje iz 33. člena zakona;
-- raven izobrazbe, pridobljena po dosedanjih študijskih programih za pridobitev univerzitetne izobrazbe ustreza ravni izobrazbe, pridobljeni po študijskih programih druge stopnje iz 33. člena zakona;
-- raven izobrazbe, pridobljena po dosedanjih študijskih programih za pridobitev visoke strokovne izobrazbe, skupaj s končanim študijskim programom za pridobitev specializacije, ustreza ravni izobrazbe, pridobljeni po študijskih programih druge stopnje iz 33. člena zakona;
-- raven izobrazbe, pridobljena po dosedanjih študijskih programih za pridobitev magisterija znanosti in raven izobrazbe, pridobljena po dosedanjih študijskih programih za pridobitev univerzitetne izobrazbe, skupaj s končanim študijskim programom za pridobitev specializacije ustreza ravni izobrazbe, pridobljeni po študijskih programih tretje stopnje iz 33. člena zakona;
-- raven izobrazbe, pridobljena po dosedanjih študijskih programih za pridobitev doktorata znanosti ustreza ravni izobrazbe, pridobljeni po doktorskih študijskih programih tretje stopnje iz 33. člena zakona.
-Podrobnejše določbe o razvrstitvi ravni izobrazbe sprejme Vlada Republike Slovenije v predpisu o uvedbi in uporabi klasifikacije izobraževanja in usposabljanja v Republiki Sloveniji.
