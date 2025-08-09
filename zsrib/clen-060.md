@@ -1,0 +1,5 @@
+## XVI. RIBIŠKOČUVAJSKA SLUŽBA
+
+# 60. člen (ribiškočuvajska služba)
+
+(1) Ribiškočuvajska služba se izvaja na podlagi javnega pooblastila, ki se podeli izvajalcem ribiškega upravljanja. (2) Izvajalec ribiškega upravljanja mora organizirati ribiškočuvajsko službo, tako da so vse vode nadzorovane. (3) Ribiškočuvajsko službo opravljajo ribiški čuvaji, ki imajo lahko pooblastila prekrškovnega organa, če izpolnjujejo pogoje po zakonu, ki ureja prekrške. (4) Ribiški čuvaj je lahko vsak polnoleten državljan Republike Slovenije, ki ima že tri leta izpit za ribiča in ima opravljen izpit za ribiškega čuvaja iz 56. člena tega zakona. (5) Med opravljanjem zakonsko določenih nalog je ribiški čuvaj uradna oseba ter ima značko in službeno izkaznico. (6) Ribiškega čuvaja na predlog izvajalca ribiškega upravljanja imenuje in razrešuje minister. (7) Ribiški čuvaj je imenovan za obdobje šestih let. Po preteku šestih let je lahko ribiški čuvaj ponovno imenovan. (8) Obliko ter vsebino značke in službene izkaznice predpiše minister.

@@ -1,0 +1,3 @@
+# 3. člen (upravljanje rib)
+
+Upravljanje rib obsega: načrtovanje na področju upravljanja rib, določitev prostorskih enot, določanje pravil za trajnostno rabo rib, naloge v zvezi z ohranjanjem ugodnega stanja rib in doseganja dobrega ekološkega stanja, podeljevanje koncesij za ribiško upravljanje v ribiških okoliših, ribolov v komercialnih ribnikih, gojitev rib, evidence v sladkovodnem ribištvu in poročanje, strokovno usposabljanje delavcev izvajalcev ribiškega upravljanja, škode in odškodnine zaradi pogina rib, ribiškočuvajsko službo, javne službe ter druga, s sladkovodnim ribištvom (v nadaljnjem besedilu: ribištvo) povezana vprašanja.
