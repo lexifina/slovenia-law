@@ -1,2 +1,0 @@
-# 50.c člen (financiranje Sveta Republike Slovenije za visoko šolstvo, njegovih senatov in delovnih teles ter sekretariata)
-Sredstva za delo Sveta Republike Slovenije za visoko šolstvo, njegovih senatov in delovnih teles ter zunanjih izvajalcev in za delovanje sekretariata Sveta se zagotavljajo v proračunu Republike Slovenije, kot neposrednemu proračunskemu uporabniku Svetu Republike Slovenije za visoko šolstvo.".
