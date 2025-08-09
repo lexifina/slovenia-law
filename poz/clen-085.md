@@ -1,0 +1,3 @@
+# 85. člen (obveščanje glede spremembe podatkov)
+
+Če vlagatelj ali njegov zakoniti zastopnik ali pooblaščenec, ki ga je postavil vlagatelj, med postopkom spremeni svoje stalno ali začasno prebivališče, sedež oziroma naslov ali elektronski naslov za vročanje, ki ga je navedel v vlogi ali pooblastilu, mora o tem takoj obvestiti Eko sklad. Če vlagatelj ali njegov zakoniti zastopnik ali pooblaščenec, ki ga je postavil vlagatelj, takšno obvestitev brez opravičenih razlogov opusti, se šteje, da je bila vročitev dokumenta, ki je bila opravljena na naslov stalnega ali začasnega prebivališča, sedeža oziroma naslova ali elektronskega naslova za vročanje, ki je naveden v vlogi ali pooblastilu, pravilno opravljena.

@@ -1,0 +1,3 @@
+# 142. člen (dražbeni sistem)
+
+Z dnem uveljavitve tega zakona Republika Slovenija nadaljuje prodajo emisijskih kuponov na dražbenem sistemu European Energy Exchange AG iz Leipziga na podlagi Sporazuma o skupni oddaji naročil za pridobitev skupnega dražbenega sistema, sprejetega na podlagi Uredbe Komisije (EU) št. 1031/2010 z dne 12. novembra 2010 o časovnem načrtu, upravljanju in drugih vidikih dražbe pravic do emisije toplogrednih plinov na podlagi Direktive 2003/87/ES Evropskega parlamenta in Sveta o vzpostavitvi sistema za trgovanje s pravicami do emisije toplogrednih plinov v Skupnosti (UL L št. 302/1 z dne 18. 11. 2010), uveljavljenega 9. novembra 2011.

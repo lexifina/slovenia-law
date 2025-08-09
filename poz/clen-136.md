@@ -1,0 +1,5 @@
+# 136. člen (začetek predaje emisijskih kuponov in odlog sistema trgovanja za regulirane subjekte do leta 2028)
+
+(1) Regulirani subjekt v registru Unije prvič preda emisijske kupone v skladu s prvim odstavkom 57. člena tega zakona najpozneje do 31. maja 2028 v količini, ki ustreza celotni količini emisije toplogrednih plinov v letu 2027, ugotovljeni na način iz četrtega odstavka 55. člena in preverjeni v skladu s prvim odstavkom 56. člena tega zakona.
+
+(2) Ne glede na prejšnji odstavek, se sistem trgovanja za regulirane subjekte odloži, tako da se začetek prodaje pravic na dražbi za namene sistema trgovanja za regulirane subjekte preloži na leto 2028, rok za začetek predaje emisijskih kuponov v skladu s prvim odstavkom 57. člena tega zakona pa na 31. maj 2029 za celotno količino emisije toplogrednih plinov v letu 2028, ugotovljeno na način iz četrtega odstavka 55. člena in preverjeno v skladu s prvim odstavkom 56. člena tega zakona, če Komisija do 15. julija 2026 v Uradnem listu EU objavi obvestilo o izjemno visokih cenah energije v skladu s 30.k členom Direktive 2003/87/ES.
