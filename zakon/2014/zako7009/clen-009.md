@@ -1,2 +1,0 @@
-# 9. člen
-Visokošolski zavod mora za študijski program, ki mu bo akreditacija potekla 30. septembra 2015 ali 30. septembra 2016 in zanj ne bo vložil vloge za podaljšanje akreditacije, sprejeti odločitev v skladu z novim četrtim odstavkom 32. člena zakona, pisno obvestiti Nacionalno agencijo Republike Slovenije za kakovost v visokem šolstvu in ministrstvo, pristojno za visoko šolstvo, ter odločitev javno objaviti na svoji spletni strani najpozneje do 31. decembra 2014.
