@@ -1,0 +1,3 @@
+# 10. člen (primerno stanovanje)
+
+Primerno stanovanje po tem zakonu je tisto stanovanje, ki je v takšni eno ali večstanovanjski stavbi, ki je zgrajena v skladu z minimalnimi tehničnimi pogoji za graditev stanovanjskih stavb in stanovanj in je zanjo v skladu s predpisi o graditvi objektov izdano uporabno dovoljenje. Stanovanje mora imeti ločen spalni in bivalni del (razen v primeru garsonjere) ter mora zadoščati stanovanjskim potrebam lastnika oziroma najemnika in njunih ožjih družinskih članov, ki živijo v gospodinjstvu skupaj z lastnikom oziroma najemnikom, ter ustrezati površinskim normativom v skladu s 87.b členom tega zakona.

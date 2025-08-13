@@ -1,0 +1,5 @@
+# 192. člen (uporabno dovoljenje po tem zakonu)
+
+(1) Ne glede na določbo 10. člena tega zakona, ki se nanaša na izpolnjevanje minimalnih tehničnih pogojev za graditev stanovanjskih stavb in stanovanj ter na uporabno dovoljenje, se šteje, da izpolnjujejo pogoje vse tiste večstanovanjske stavbe, ki so bile zgrajene pred 31. decembrom 1967, če se jim namembnost po navedenem datumu ni spremenila in so njihove gradbene parcele z dnem uveljavitve tega zakona na predpisan način evidentirane v zemljiškem katastru, ter vse druge stanovanjske stavbe, za katere je bilo izdano gradbeno dovoljenje po 31. decembru 1967, a pred uveljavitvijo zakona o spremembah in dopolnitvah zakona o graditvi objektov (Uradni list RS, št. 59/96), če so njihove gradbene parcele na predpisan način evidentirane v zemljiškem katastru.
+
+(2) Če za stavbe iz prejšnjega odstavka gradbene parcele z dnem uveljavitve tega zakona še niso na predpisan način evidentirane v zemljiškem katastru, se šteje, da pridobijo takšne stavbe uporabno dovoljenje, ko se jim v skladu s predpisi o zemljiškem katastru določi stavbišče ter vpiše v zemljiški kataster.

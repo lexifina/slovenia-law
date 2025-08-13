@@ -1,0 +1,3 @@
+# 88. člen (dodeljevanje bivalnih enot)
+
+Kadar dodeljuje bivalne enote za začasno reševanje stanovanjskih potreb socialno ogroženih oseb občina, država, javni stanovanjski sklad ali neprofitna stanovanjska organizacija, odda tako bivalno enoto v najem na podlagi seznama upravičencev do dodelitve take bivalne enote. Ko je zagotovljena bivalna enota, se jo po ponovni preveritvi upravičenosti do dodelitve odda v najem tistemu, katerega socialna problematika je najtežja in je površina primerna glede na število družinskih članov, s sklenitvijo najemne pogodbe za določen čas. Postopek se lahko začne na zahtevo stranke ali po uradni dolžnosti.

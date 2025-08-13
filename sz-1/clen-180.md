@@ -1,0 +1,3 @@
+# 180. člen (ožji družinski član prejšnjega imetnika stanovanjske pravice)
+
+Kadar gre za najemno pogodbo, sklenjeno s prejšnjim imetnikom stanovanjske pravice, se za ožjega družinskega člana šteje tudi tisti sorodnik do vključno drugega dednega reda, ki je na dan uveljavitve stanovanjskega zakona (Uradni list RS, št. 18/91, 19/91, 13/93 – odločba US, 9/94, 21/94, 22/94 – odločba US, 29/95 – ZPDF, 23/96, 24/96 – odločba US, 44/96 – odločba US, 23/96, 1/2000, 22/2000 – ZJS, 87/2002 – SPZ in 29/2003 – odločba US) več kot dve leti živel v ekonomski skupnosti s prejšnjim imetnikom stanovanjske pravice.
