@@ -1,3 +1,0 @@
-# 17. člen (ponovni nadzor in izpolnjevanje ukrepov)
-Če inšpektor ob ponovnem nadzoru ugotovi, da delavec, ravnatelj oziroma direktor, vodja enote ali podružnice ali druga odgovorna oseba ni izvršila odločbe, lahko za izvršitev odločbe določi nov rok, če so podani upravičeni razlogi, da odločba v določenem roku ni bila izvršena. O tem obvesti ustanovitelja.
-Če v novem roku kršitve niso bile odpravljene oziroma, če glede na okoliščine ni mogoče pričakovati odprave ugotovljenih kršitev, inšpektor predlaga uvedbo disciplinskega postopka zoper delavca oziroma razrešitev ravnatelja oziroma direktorja, pomočnika, vodje enote ali podružnice ali druge odgovorne osebe.
