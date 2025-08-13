@@ -1,3 +1,0 @@
-# 15.b člen
-V času, ko funkcionar zaradi pripora, uklonilnega zapora ali prestajanja zaporne kazni ne more opravljati funkcije, nima pravice do plače, do povračila stroškov v zvezi z opravljanjem funkcije in do drugih prejemkov ter ostalih pogojev za opravljanje funkcije.
-Če funkcionar, ki mu je prenehala funkcija, v obdobju, ko je upravičen do prejemanja nadomestila plače v skladu s tem ali drugim zakonom, prestaja pripor, uklonilni zapor ali zaporno kazen, v času prestajanja ni upravičen do nadomestila plače. Če se prestajanje pripora, uklonilnega zapora ali zaporne kazni izteče pred potekom časa, ki je s tem zakonom določen za prejemanje nadomestila, ima pravico do nadomestila za preostalo obdobje.
