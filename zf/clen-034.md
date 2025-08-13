@@ -1,0 +1,3 @@
+# 34. člen (pravice v času prejemanja nadomestila plače po prenehanju funkcije)
+
+V času prejemanja nadomestila plače po prenehanju funkcije je funkcionar, ki mu je prenehala funkcija, socialno zavarovan po predpisih o socialnih zavarovanjih, ki veljajo za osebe v delovnem razmerju, in sicer v enakem obsegu kot zaposleni za polni delovni čas. Čas prejemanja nadomestila plače se funkcionarju, ki mu je prenehala funkcija, šteje v pokojninsko dobo. Če se v času ali naslednji dan po zaključku prejemanja nadomestila plače po prenehanju funkcije tega zakona upokoji, mu pripada odpravnina ob upokojitvi, kot to velja za javne uslužbence v državi upravi.

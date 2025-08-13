@@ -1,0 +1,3 @@
+# 31. člen (prenehanje pravice do nadomestila plače po prenehanju funkcije)
+
+Če funkcionar, ki mu je prenehala funkcija, ravna v nasprotju s četrtim ali petim odstavkom prejšnjega člena, mu pravica do nadomestila plače po prenehanju funkcije preneha. Funkcionar mora v 30 dneh od prenehanja pravice do nadomestila plače po prenehanju funkcije vrniti zneske ali dele zneskov nadomestila plače po prenehanju funkcije, ki so bili prejeti v nasprotju z zakonom. Če funkcionar, ki mu je prenehala funkcija, ne vrne zneske nadomestila plače po prenehanju funkcije, mora organ oziroma samoupravna lokalna skupnost, ki je izplačevala nadomestilo plače po prenehanju funkcije, vračilo zneskov nadomestila plače zahtevati s tožbo pred sodiščem, pristojnim za delovne spore.
