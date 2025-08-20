@@ -1,0 +1,13 @@
+# 20.b člen
+
+Osebe, ki v odobrenih organizacijah opravljajo naloge oskrbe ali usmrtitve živali, izvajajo postopke na živalih, načrtujejo postopke in vodijo projekte, ter osebe, ki skrbijo za dobrobit živali, morajo biti ustrezno izobražene in usposobljene.
+
+Usposabljanje oseb iz prejšnjega odstavka obsega teoretični in praktični del ter pisno preverjanje znanja. Upravni organ, pristojen za veterinarstvo, vodi evidenco o opravljenem pisnem preverjanju znanja z naslednjimi podatki o udeležencih usposabljanja: osebno ime, naslov prebivališča, datum rojstva, stopnja izobrazbe, vrsta in vsebina usposabljanja ter datum usposabljanja in zaporedna številka potrdila.
+
+Usposabljanje iz tega člena izvajajo pravne ali fizične osebe, ki so registrirane za dejavnost izobraževanja in izpolnjujejo pogoje glede strokovne usposobljenosti predavateljev, glede prostorov in opreme ter predložijo program usposabljanja, ki ga odobri upravni organ, pristojen za veterinarstvo. O izvedenih usposabljanjih vodijo evidenco, ki vsebuje naslednje podatke o udeležencih usposabljanj: osebno ime, naslov prebivališča, datum rojstva, stopnjo izobrazbe, vrsto in vsebino usposabljanja ter datum usposabljanja in zaporedno številko potrdila o opravljenem usposabljanju.
+
+Strokovnjak za dobrobit živali v organizaciji vodi evidenco o vseh usposobljenih osebah, ki delajo z živalmi v postopkih, z naslednjimi podatki: osebno ime, stopnja izobrazbe, datum usposabljanja in zaporedna številka izdanega potrdila o opravljenem usposabljanju.
+
+Podrobnejše pogoje glede usposabljanj, predavateljev, vsebine programa usposabljanja ter vodenja evidenc o udeležencih usposabljanj in usposobljenih osebah, evidenc o izvedenih usposabljanjih in opravljenih izpitih predpiše minister.
+
+Osebni podatki iz drugega, tretjega in četrtega odstavka tega člena se obdelujejo za vodenje in vzdrževanje evidence o izvedenih usposabljanjih, usposobljenih osebah ter za odločanje v skladu s tem zakonom in se hranijo pet let po izvedenem usposabljanju.

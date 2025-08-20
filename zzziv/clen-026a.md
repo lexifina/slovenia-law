@@ -1,0 +1,13 @@
+## 7. Ugrizi psov in šolanje psov
+
+# 26.a člen
+
+Zdravnik, ki obravnava poškodbo človeka zaradi ugriza psa, mora osebo napotiti v antirabično ambulanto skladno s predpisi, ki urejajo nalezljive bolezni, pri čemer mora v primeru smrti človeka ali posebno hude telesne poškodbe pisno obvestiti območni urad upravnega organa, pristojnega za veterinarstvo, v roku sedmih dni od obravnave smrti oziroma posebno hude telesne poškodbe in mu posredovati osebno ime ter naslov poškodovane oziroma umrle osebe zaradi izvedbe postopkov iz prvega in tretjega odstavka 26.b člena tega zakona.
+
+Antirabična ambulanta mora vnesti podatke o ugrizu psa v centralni register hišnih živali, pozvati skrbnika psa, da se s psom zglasi v pristojni veterinarski organizaciji zaradi preveritve suma na steklino in o ugrizu psa obvestiti pristojni območni urad upravnega organa, pristojnega za veterinarstvo.
+
+Pristojna veterinarska organizacija mora podatke o opravljenih pregledih na steklino iz prejšnjega odstavka vnesti v centralni register hišnih živali in o rezultatih teh pregledov obvestiti antirabično ambulanto. Če antirabična ambulanta ne prejme podatka o opravljenih pregledih na steklino v roku petnajstih dni od ugriza psa, mora o tem obvestiti območni urad upravnega organa, pristojnega za veterinarstvo.
+
+Pristojna veterinarska organizacija, ki obravnava poškodbo živali zaradi ugriza psa, mora podatke o ugrizih psov v roku treh delovnih dni vnesti v centralni register hišnih živali.
+
+O ugrizih psov morajo policija in druge osebe iz 42. člena tega zakona, ki dogodek obravnavajo, v roku 24 ur obvestiti območni urad upravnega organa, pristojnega za veterinarstvo, ki podatke o ugrizih psov vnese v centralni register hišnih živali.

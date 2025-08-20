@@ -1,0 +1,11 @@
+# 26.c člen
+
+Šolanje psov po tem zakonu je obvezno:
+
+- če nevaren pes z ugrizom povzroči poškodbo, pa ne gre za posebno hudo telesno poškodbo. Šolanje psa je treba izvesti najpozneje do dopolnjenega drugega leta starosti psa, če je pes že star dve leti pa v roku šestih mesecev od ugriza psa;
+
+- za psa, ki živi ali bo živel v istem okolju kot lastnik, katerega pes je bil usmrčen v skladu s tretjim odstavkom prejšnjega člena. Šolanje psa je treba izvesti najpozneje do dopolnjenega drugega leta starosti psa, če je pes že star dve leti pa v roku šestih mesecev od usmrtitve prejšnjega psa oziroma nabave novega psa.
+
+Šolanje iz prejšnjega odstavka mora biti opravljeno ob udeležbi lastnika psa po programu, ki ga potrdi upravni organ, pristojen za veterinarstvo, na podlagi mnenja strokovne komisije. Program mora vsebovati navedbo izvajalca oziroma izvajalcev šolanja in dokazila o njihovih izkušnjah s področja poznavanja vedenja, vzreje oziroma šolanja psov. Strokovno komisijo imenuje generalni direktor upravnega organa, pristojnega za veterinarstvo, in jo sestavljajo strokovnjak s področja poznavanja vedenja, vzreje oziroma šolanja psov, uradni veterinar in veterinar pristojne veterinarske organizacije.
+
+Uspešnost opravljenega šolanja psa preveri komisija, ki jo imenuje nosilec programa šolanja iz prejšnjega odstavka in mora biti sestavljena iz strokovnjakov s področja poznavanja vedenja, vzreje oziroma šolanja psov, njena sestava pa mora biti navedena v programu šolanja. Lastnik psa je dolžan dokazilo o uspešno opravljenem šolanju predložiti pristojni veterinarski organizaciji, ki ta podatek vnese v centralni register hišnih živali.

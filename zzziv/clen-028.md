@@ -1,0 +1,31 @@
+# 28. člen
+
+Imetnik zavetišča opravlja naslednje naloge:
+
+- sprejema prijave o zapuščenih živalih;
+
+- zagotavlja potrebno veterinarsko pomoč zapuščenim živalim;
+
+- zagotavlja ulov, prevoz, namestitev in oskrbo zapuščenih živali v zavetišču;
+
+- skrbi za iskanje skrbnikov teh živali oziroma prodajo ali oddajo živali novim skrbnikom;
+
+- zagotavlja označevanje in registracijo zapuščenih živali v skladu s predpisi.
+
+Imetnik zavetišča se šteje za skrbnika zapuščenih živali, dokler so te v zavetišču.
+
+Imetnik zavetišča pri opravljanju svojih nalog sodeluje s pristojno veterinarsko službo in občinskimi redarji zlasti za namen ugotavljanja lastništva zapuščenih živali.
+
+Imetnik zavetišča najmanj dvakrat letno poroča o opravljenih nalogah iz prvega odstavka tega člena lokalni skupnosti, za katero izvaja javno službo iz prejšnjega člena, ter enkrat letno upravnemu organu, pristojnemu za veterinarstvo.
+
+Zaposleni v zavetišču imajo dostop do centralnega registra hišnih živali. Osebni podatki, do katerih lahko dostopajo, so osebno ime, naslov in telefonska številka lastnika psa. Podatke iz prejšnjega stavka lahko obdelujejo izključno za namen ugotavljanja lastnika zapuščene živali in za vnašanje podatkov iz četrtega odstavka 6. člena tega zakona.
+
+Zaposleni v zavetišču za potrebe vodenja evidenc obdelujejo naslednje osebne podatke:
+
+- v evidenci o pogrešanih živalih: osebno ime, naslov stalnega ali začasnega bivališča in telefonsko številko oziroma naslov elektronske pošte lastnika. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen obveščanja lastnika o najdbi pogrešane živali. Podatke se hrani pet let po prejemu obvestila o pogrešani živali;
+
+- v evidenci o prejetih prijavah zapuščenih živali: osebno ime, naslov stalnega ali začasnega bivališča, telefonsko številko prijavitelja. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen preprečevanja zlorab in lažnih prijav. Podatke se hrani pet let po prejemu prijave;
+
+- v evidenci o sprejemu živali: osebno ime, naslov stalnega ali začasnega bivališča, telefonsko številko ali naslov elektronske pošte najditelja oziroma lastnika, ki žival predaja zavetišču, ter izjavo o prenosu lastninske pravice živali. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen omejevanja zdravstvenih tveganj zaradi prenosa morebitnih zoonoz in drugih obolenj zaradi stika z okuženo živaljo in preprečevanja zlorab. Podatke se hrani pet let po vrnitvi, oddaji, poginu ali evtanaziji živali;
+
+- v evidenci o vrnitvi živali njihovim skrbnikom, oddaji živali novim skrbnikom oziroma vrnitvi v okolje: osebno ime, naslov stalnega ali začasnega bivališča, telefonsko številko ali naslov elektronske pošte skrbnika ali novega skrbnika. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen omejevanja zdravstvenih tveganj zaradi prenosa morebitnih zoonoz in drugih obolenj zaradi stika z okuženo živaljo. Podatke se hrani pet let po vrnitvi, oddaji, poginu ali evtanaziji živali.

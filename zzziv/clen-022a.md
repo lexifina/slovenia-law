@@ -1,0 +1,19 @@
+# 22.a člen
+
+Znanstvenoraziskovalno ali izobraževalno delo na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali lahko opravljajo izvajalci del na živalskih tkivih, če so odobreni pri upravnem organu, pristojnem za veterinarstvo.
+
+Izvajalci del na živalskih tkivih se odobrijo, če izpolnjujejo predpisane pogoje glede prostorov, opreme in tehničnih pripomočkov, izobrazbe in usposobljenosti kadrov ter odstranjevanja živalskih stranskih proizvodov. Upravni organ, pristojen za veterinarstvo, vodi evidenco odobrenih izvajalcev del na živalskih tkivih z naslednjimi podatki: ime in naslov izvajalca del na živalskih tkivih, osebno ime strokovnjaka za dobrobit živali, vrste živali, številka in datum odločbe o odobritvi. Ta evidenca je sestavni del evidence iz drugega odstavka 20.a člena tega zakona.
+
+Za izvajanje del iz tega člena je dovoljena le uporaba laboratorijskih glodavcev. Upravni organ, pristojen za veterinarstvo, lahko na vlogo izvajalca del na živalskih tkivih na podlagi znanstvene utemeljitve in v skladu z mnenjem etične komisije iz 23. člena tega zakona dovoli uporabo drugih živalskih vrst.
+
+Ne glede na prejšnji odstavek je v izobraževalne namene uporaba živali zaščitenih in ogroženih živalskih vrst, odvzetih iz narave, za delo na izoliranih tkivih, organih in truplih v ta namen usmrčenih živali prepovedana.
+
+Če se pri izvajanju nadzorstva ugotovi, da izvajalec del na živalskih tkivih ne izpolnjuje več pogojev iz drugega odstavka tega člena, če pri nastanitvi, oskrbi ali usmrtitvi živali ne ravna na predpisan način ali če izvaja dela v nasprotju s priglasitvijo iz šestega odstavka tega člena, mu uradni veterinar odredi ukrepe in rok za odpravo nepravilnosti. Če ugotovljene nepravilnosti ogrožajo dobrobit živali, uradni veterinar izvajalcu del na živalskih tkivih prepove opravljanje del na izoliranih organih, tkivih in truplih do odprave nepravilnosti. Če izvajalec ne izvede odrejenih ukrepov ali če krši četrti odstavek, se odobritev odvzame. Izvajalec lahko ponovno vloži vlogo za odobritev po treh mesecih od izvršljivosti odločbe o odvzemu odobritve.
+
+Za izvajanje znanstvenoraziskovalnega ali izobraževalnega dela na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali mora odobreni izvajalec predhodno priglasiti upravnemu organu, pristojnemu za veterinarstvo, predvideno vrsto in število živali, njihov izvor ter namen uporabe.
+
+Ne glede na prvi odstavek tega člena lahko upravni organ, pristojen za veterinarstvo, dovoli delo na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali tudi izvajalcu, ki ni odobren, če gre za enkratno znanstvenoraziskovalno ali izobraževalno delo in če izvajalec del na živalskih tkivih zagotovi predpisan način usmrtitve ter odstranjevanja živalskih stranskih proizvodov. Upravni organ, pristojen za veterinarstvo, izda dovoljenje na podlagi vloge izvajalca.
+
+Za organizacije, odobrene v skladu z drugim odstavkom 20.a člena tega zakona, se šteje, da so odobrene tudi kot izvajalci del na živalskih tkivih.
+
+Podrobnejše pogoje za izvajanje tega člena predpiše minister v soglasju z ministri, pristojnimi za znanost, visoko šolstvo in okolje.
