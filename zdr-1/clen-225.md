@@ -1,0 +1,3 @@
+# 225. člen (prenehanje veljavnosti podzakonskih aktov)
+
+Z dnem uveljavitve tega zakona prenehajo veljati Pravilnik o varovanju zdravja pri delu nosečih delavk, delavk, ki so pred kratkim rodile, ter doječih delavk (Uradni list RS, št. 82/03), Pravilnik o varovanju zdravja otrok, mladostnikov in mladih oseb (Uradni list RS, št. 83/08), Pravilnik o izdaji dovoljenj za delo otrok, mlajših od 15 let (Uradni list RS, št. 60/04) ter Uredba o ukrepih za varovanje dostojanstva zaposlenih v organih državne uprave (Uradni list RS, št. 32/09), uporabljajo pa se do izdaje podzakonskih aktov na podlagi tega zakona.

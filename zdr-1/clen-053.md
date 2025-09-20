@@ -1,0 +1,13 @@
+## 9. Suspenz pogodbe
+
+# 53. člen (suspenz pogodbe o zaposlitvi)
+
+(1) V primerih, ko delavec zaradi prestajanja zaporne kazni, izrečenega vzgojnega, varnostnega, varstvenega ukrepa ali sankcije za prekršek, zaradi katerih ne more opravljati dela šest mesecev ali manj, obveznega ali prostovoljnega služenja vojaškega roka, opravljanja nadomestne civilne službe oziroma usposabljanja za opravljanje nalog v rezervni sestavi policije, vpoklica pogodbenega pripadnika rezervne sestave Slovenske vojske k opravljanju vojaške službe v miru ter poziva ali napotitve na opravljanje nalog zaščite, reševanja in pomoči pogodbenega pripadnika Civilne zaščite, pripora in v drugih primerih, ki jih določajo zakon, kolektivna pogodba ali pogodba o zaposlitvi, začasno preneha opravljati delo, pogodba o zaposlitvi ne preneha veljati in je delodajalec ne sme odpovedati, razen če so podani razlogi za izredno odpoved ali če je uveden postopek za prenehanje delodajalca (suspenz pogodbe o zaposlitvi).
+
+(2) Med suspenzom pogodbe o zaposlitvi mirujejo pogodbene in druge pravice ter obveznosti iz delovnega razmerja, ki so neposredno vezane na opravljanje dela.
+
+(3) Delavec se ima pravico in dolžnost vrniti na delo najkasneje v roku petih delovnih dni po prenehanju razlogov za suspenz pogodbe. S tem dnem preneha suspenz pogodbe. Če se delavec v predpisanem roku neupravičeno ne vrne na delo in mu je izrečena izredna odpoved v skladu s sedmo alinejo prvega odstavka 110. člena tega zakona, traja suspenz pogodbe do začetka učinkovanja izredne odpovedi.
+
+## 10. Posebnosti pogodb o zaposlitvi
+
+1. Pogodba o zaposlitvi za določen čas

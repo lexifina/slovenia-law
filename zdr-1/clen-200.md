@@ -1,0 +1,13 @@
+## V. UVELJAVLJANJE IN VARSTVO PRAVIC, OBVEZNOSTI IN ODGOVORNOSTI IZ DELOVNEGA RAZMERJA
+
+# 200. člen (uveljavljanje pravic pri delodajalcu in sodno varstvo)
+
+(1) Če delavec meni, da delodajalec ne izpolnjuje obveznosti iz delovnega razmerja ali krši katero od njegovih pravic iz delovnega razmerja, ima pravico pisno zahtevati, da delodajalec kršitev odpravi oziroma da svoje obveznosti izpolni.
+
+(2) Če delodajalec v roku osmih delovnih dni po vročeni pisni zahtevi delavca ne izpolni svoje obveznosti iz delovnega razmerja oziroma ne odpravi kršitve, lahko delavec v roku 30 dni od poteka roka za izpolnitev obveznosti oziroma odpravo kršitev s strani delodajalca, zahteva sodno varstvo pred pristojnim delovnim sodiščem.
+
+(3) Ugotovitev nezakonitosti odpovedi pogodbe o zaposlitvi, drugih načinov prenehanja veljavnosti pogodbe o zaposlitvi ali odločitev o disciplinski odgovornosti delavca lahko delavec zahteva v roku 30 dni od dneva vročitve oziroma od dneva, ko je zvedel za kršitev pravice, pred pristojnim delovnim sodiščem.
+
+(4) Ne glede na rok iz drugega odstavka tega člena, lahko delavec denarne terjatve iz delovnega razmerja uveljavlja neposredno pred pristojnim delovnim sodiščem.
+
+(5) Neizbrani kandidat, ki meni, da je bila pri izbiri kršena zakonska prepoved diskriminacije, lahko v roku 30 dni po prejemu obvestila delodajalca zahteva sodno varstvo pred pristojnim delovnim sodiščem.

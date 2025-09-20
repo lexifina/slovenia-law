@@ -1,0 +1,33 @@
+# 210. člen (položaj napotenih delavcev)
+
+(1) Delavec, ki ga tuji delodajalec napoti na začasno delo v Republiko Slovenijo na podlagi pogodbe o zaposlitvi po tujem pravu, opravlja začasno delo v Republiki Sloveniji pod pogoji, določenimi s predpisi, ki urejajo delo in zaposlovanje tujih državljanov ter čezmejno izvajanje storitev.
+
+(2) Delavcu iz prejšnjega odstavka, če je to za delavca ugodneje, mora delodajalec zagotoviti pravice po predpisih Republike Slovenije in po določbah kolektivne pogodbe na ravni dejavnosti, ki urejajo:
+
+- delovni čas,
+
+- odmore in počitke,
+
+- nočno delo,
+
+- minimalni letni dopust,
+
+- plačilo za delo,
+
+- pogodbo o zaposlitvi med delavcem in delodajalcem, ki opravlja dejavnost zagotavljanja dela delavcev drugemu uporabniku,
+
+- varnost in zdravje pri delu,
+
+- posebno varstvo delavcev in
+
+- zagotavljanje enakopravnosti.
+
+(3) V primeru začasnih začetnih del, ki so sestavni del pogodbe o dobavi blaga, ki ne trajajo več kot osem delovnih dni in jih opravljajo strokovni delavci dobavitelja, se ne uporablja določba prejšnjega odstavka v delu, ki se nanaša na minimalni letni dopust in plačilo za delo.
+
+(4) Določba drugega odstavka tega člena se ne uporablja v delu, ki se nanaša na plačilo za delo, če opravljanje začasnega dela napotenih delavcev ni daljše od enega meseca v posameznem koledarskem letu.
+
+(5) Določbi tretjega in četrtega odstavka tega člena se ne uporabljata za dejavnosti, ki so registrirane v okviru gradbeništva.
+
+(6) Kadar dejansko trajanje napotitve presega 12 mesecev oziroma 18 mesecev v primeru podaljšanja trajanja v skladu s predpisi, ki urejajo čezmejno izvajanje storitev, mora delodajalec delavcu iz prvega odstavka tega člena ob pravicah iz drugega odstavka tega člena zagotoviti vse pravice po predpisih Republike Slovenije, ki urejajo delovna razmerja, in po določbah kolektivne pogodbe na ravni dejavnosti, če je to za delavca ugodneje.
+
+(7) Prejšnji odstavek se ne uporablja glede določb, ki se nanašajo na sklenitev in prenehanje pogodbe o zaposlitvi, konkurenčno klavzulo in glede pokojninskih načrtov dodatnega poklicnega zavarovanja.
