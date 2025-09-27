@@ -1,0 +1,3 @@
+Z A K O N
+
+O MEDIJIH (ZMed-1)

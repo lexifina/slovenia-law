@@ -1,0 +1,3 @@
+# 98. člen (metodologija nadzorstva)
+
+AKOS s splošnim aktom določi metodologijo nadzorstva, s katero podrobneje določi način ugotavljanja izpolnjevanja programskih zahtev in omejitev, ki po tem zakonu veljajo za radijske in televizijske programe, obveznost hrambe ter pošiljanje posnetkov programa in podatkov o programu ter klasifikacijo programskih in drugih vsebin, ki izhajajo iz tega zakona. AKOS s splošnim aktom določi tudi tehnične značilnosti in opremo posnetkov, podrobneje pa lahko uredi tudi druga vprašanja, ki nastanejo pri izvrševanju posameznih določb tega zakona iz njegove pristojnosti.
