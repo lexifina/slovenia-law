@@ -1,6 +1,0 @@
-# 26. člen
-(1) Postopki inšpekcijskega nadzora in postopki o prekrških, začeti na podlagi Zakona o medijih (Uradni list RS, št. 110/06 - uradno prečiščeno besedilo, 36/08 - ZPOmK-1, 77/10 - ZSFCJA, 87/11 - ZAvMS, 47/12 in 47/15 - ZZSDT), ki so se začeli pred uveljavitvijo tega zakona in do njegove uveljavitve niso bili končani, se končajo po predpisih, ki so veljali do uveljavitve tega zakona.
-(2) Postopki strokovnega nadzorstva po Zakonu o medijih (Uradni list RS, št. 110/06 - uradno prečiščeno besedilo, 36/08 - ZPOmK-1, 77/10 - ZSFCJA, 87/11 - ZAvMS, 47/12 in 47/15 - ZZSDT), ki so se začeli pred uveljavitvijo tega zakona in do njegove uveljavitve niso bili končani, se končajo po predpisih, ki so veljali do uveljavitve tega zakona.
-(3) Izdajatelji, ki v okviru medija dovoljujejo komentiranje javnosti, morajo oblikovati pravila za komentiranje in jih javno objaviti na primernem mestu v mediju v šestih mesecih od uveljavitve tega zakona.
-(4) Ministrstvo, pristojno za kulturo, vzpostavi in javno objavi evidenco iz četrtega odstavka 86.a člena zakona v šestih mesecih od uveljavitve tega zakona.
-(5) Agencija uskladi Metodologijo nadzorstva avdiovizualnih medijskih storitev in radijskih programov (Uradni list RS, št. 31/12) z določbami tega zakona v šestih mesecih od uveljavitve tega zakona.
