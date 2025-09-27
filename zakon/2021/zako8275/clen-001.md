@@ -1,4 +1,0 @@
-# 1. člen
-V Zakonu o medijih (Uradni list RS, št. 110/06 - uradno prečiščeno besedilo, 36/08 - ZPOmK-1, 77/10 - ZSFCJA, 90/10 - odl. US, 87/11 - ZAvMS, 47/12, 47/15 - ZZSDT, 22/16, 39/16, 45/19 - odl. US in 67/19 - odl. US) se v 77. členu prvi in drugi odstavek spremenita tako, da se glasita:
-"(1) Lokalni radijski program je program, ki je namenjen prebivalcem ene ali več lokalnih skupnosti na območju, na katerem živi največ deset odstotkov prebivalstva Republike Slovenije, in ima v oddajnem času med 6. in 20. uro dnevno najmanj 20 odstotkov lokalnih vsebin lastne produkcije.
-(2) Lokalni televizijski program je program, ki je namenjen prebivalcem ene ali več lokalnih skupnosti na območju, na katerem živi največ deset odstotkov prebivalstva Republike Slovenije in ima v oddajnem času med 8. in 24. uro dnevno najmanj 20 odstotkov lokalnih vsebin lastne produkcije.".
