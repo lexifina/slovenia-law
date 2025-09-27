@@ -1,4 +1,0 @@
-# 142. člen
-(1) Z globo od 1.500.000 do 25.000.000 tolarjev se kaznuje za prekršek oglaševalska organizacija ali druga pravna oseba ali samostojni podjetnik posameznik, ki ima v premoženju oglaševalske organizacije več kot desetodstotni lastniški delež ali več kot deset odstotkov upravljavskih oziroma glasovalnih pravic, tudi če je izdajatelj ali soustanovitelj izdajatelja radijskega ali televizijskega programa, ali če ima več kot dvajsetodstotni lastniški delež ali več kot dvajsetodstotni delež upravljavskih oziroma glasovalnih pravic v premoženju izdajatelja radijskega ali televizijskega programa (prvi odstavek 60. člena).
-(2) Z globo 150.000 tolarjev se kaznuje za prekršek odgovorna oseba oglaševalske organizacije ali druge pravne osebe ali samostojnega podjetnika posameznika, ki stori prekršek iz prejšnjega odstavka.
-(3) Z globo 80.000 tolarjev se kaznuje za prekršek fizična oseba, ki stori prekršek iz prvega odstavka tega člena.

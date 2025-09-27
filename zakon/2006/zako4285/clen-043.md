@@ -1,2 +1,0 @@
-# 43. člen
-Organi iz 13. člena tega zakona najpozneje v šestih mesecih od uveljavitve tega zakona pristojnemu ministrstvu sporočijo podatke iz 13. člena tega zakona oziroma ustrezno dopolnijo podatke, ki so jih že poslali pristojnemu ministrstvu v skladu s 153. členom Zakona o medijih (Uradni list RS, št. 35/01, 62/03, 113/03 - odločba US, 16/04 - odločba US, 123/04 - odločba US in 96/05 - ZRTVS-1).
