@@ -1,0 +1,5 @@
+# 89. člen (pogoji za gradbenega inšpektorja)
+
+(1) Za gradbenega inšpektorja je lahko imenovana oseba, ki izpolnjuje pogoje, določene s predpisi, ki urejajo pogoje za javne uslužbence, in s predpisi, ki urejajo inšpekcijski nadzor, ter ima izobrazbo s področja arhitekture, gradbeništva in drugih podobnih tehničnih področij ali s področja prava, pridobljeno po študijskih programih za pridobitev izobrazbe najmanj ravni druge stopnje v skladu z zakonom, ki ureja visoko šolstvo, in delovne izkušnje s področja graditve objektov.
+
+(2) Za gradbenega inšpektorja je lahko imenovana tudi oseba, ki izpolnjuje pogoje, določene s predpisi, ki urejajo pogoje za javne uslužbence, in s predpisi, ki urejajo inšpekcijski nadzor, ter ima izobrazbo s področja arhitekture, gradbeništva in drugih podobnih tehničnih področij ali s področja prava, pridobljeno po študijskih programih za pridobitev izobrazbe najmanj ravni prve stopnje v skladu z zakonom, ki ureja visoko šolstvo, in najmanj štiri leta delovnih izkušenj s področja graditve objektov.

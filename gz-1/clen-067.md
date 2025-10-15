@@ -1,0 +1,5 @@
+# 67. člen (stranski udeleženci v postopku izdaje integralnega gradbenega dovoljenja)
+
+(1) Stranski udeleženec v integralnem postopku je lahko poleg osebe iz drugega odstavka 48. člena tega zakona tudi nevladna organizacija v javnem interesu, ki delujejo na področju varstva okolja in ohranjanja narave ter civilna iniciativa iz druge alineje 47. točke prvega odstavka 3. člena tega zakona, če sta vložili zahtevo za vstop v postopek v 30 dneh od dneva objave iz prvega odstavka 68. člena tega zakona, pri čemer mora biti sestavni del zahteve za vstop v postopek tudi podatek o varnem elektronskem predalu, na katerega jima bo upravni organ vročal dokumente. Če je zahteva za vstop v postopek za izdajo integralnega gradbenega dovoljenja iz prvega odstavka 70. člena tega zakona vložena zunaj roka iz prejšnjega stavka, se s sklepom zavrže.
+
+(2) V primeru iz prejšnjega odstavka se šteje, da je bila vročitev dokumentov opravljena v treh delovnih dneh po oddaji dokumentov v varni elektronski predal iz prejšnjega odstavka.
