@@ -1,0 +1,3 @@
+# 41. člen (sestava)
+
+Strokovni svet sestavljajo posamezniki, ki lahko s svojimi strokovnimi oziroma poslovnimi izkušnjami in javnim ugledom prispevajo k boljšemu delovanju javnega zavoda. Eno tretjino članov strokovnega sveta izvolijo zaposleni, pri čemer je najmanj eden izvoljen izmed vseh zaposlenih, drugi pa, če je predstavnikov delavcev več kot eden, izmed tistih, ki opravljajo dejavnost, zaradi katere je javni zavod ustanovljen. Preostale člane strokovnega sveta predlagajo stanovska društva oziroma druge nevladne organizacije s področja dela javnega zavoda izmed strokovnjakov ali uporabnikov prek javnega vabila, ki ga predhodno objavi javni zavod. V aktu o ustanovitvi javnega zavoda se določi, katera so društva oziroma nevladne organizacije iz prejšnjega stavka.
