@@ -1,0 +1,3 @@
+# 44. člen (veljavna soglasja solastnikov dvostanovanjskih oziroma tri- in večstanovanjskih stavb)
+
+Soglasja solastnikov dvostanovanjske ali tri- in večstanovanjske stavbe za opravljanje oddajanja stanovanja v kratkotrajni najem, pridobljena v skladu s Stanovanjskim zakonom (Uradni list RS, št. 69/03, 18/04 – ZVKSES, 47/06 – ZEN, 45/08 – ZVEtL, 57/08, 62/10 – ZUPJS, 56/11 – odl. US, 87/11, 40/12 – ZUJF, 14/17 – odl. US, 27/17, 59/19, 189/20 – ZFRO, 90/21, 18/23 – ZDU-1O, 77/23 – odl. US in 61/24), ki so veljavna ob začetku uporabe tega zakona, veljajo do 31. decembra 2026 oziroma do treh let od pridobitve soglasja, če je slednje pozneje.
