@@ -1,0 +1,9 @@
+# 3. člen (pojem kmetijstva in gozdarstva)
+
+Po tem zakonu pojem kmetijstva in gozdarstva obsega vse dejavnosti, ki po standardni klasifikaciji dejavnosti spadajo v kmetijstvo, razen storitev za rastlinsko pridelavo in živinorejo ter lovstva; gozdarstvo razen storitev za gozdarstvo; ribištvo in ribogojstvo razen storitev, povezanih z ribištvom, in storitev, povezanih z ribogojstvom.
+
+Kmetijski, ribiški oziroma gozdarski obrat (v nadaljnjem besedilu: kmetijski oziroma gozdarski obrat) je gospodarska celota, ki jo sestavljajo gospodarski objekti z opremo, v katerih se opravlja katera od dejavnosti, navedenih v prvem odstavku tega člena, skupaj s stanovanjskim objektom in pripadajočimi kmetijskimi zemljišči ali gozdovi, ne glede na organizacijsko obliko. Posamezno kmetijsko ali gozdarsko gospodarstvo lahko sestavlja več kmetijskih oziroma gozdarskih obratov, če so povezani z enotnim vodenjem.
+
+Med kmetijske oziroma gozdarske obrate se po tem zakonu štejejo tudi gospodarski obrati, to so gospodarske celote objektov z opremo, ki so potrebni za opravljanje določene gospodarske dejavnosti, ki predelujejo pretežno lastni pridelek oziroma lastne proizvode glavnega kmetijskega ali gozdarskega obrata (v nadaljnjem besedilu: stranski obrati), in gospodarski obrati, ki izdelujejo oziroma vzdržujejo opremo pretežno za potrebe glavnega kmetijskega ali gozdarskega obrata (v nadaljnjem besedilu: pomožni obrati).
+
+Za pridelovanje vrtnin kot kmetijsko dejavnost se po tem zakonu ne štejejo urejanje in vzdrževanje vrtov ter parkov, izdelovanje vencev, šopkov in podobnih izdelkov, trgovanje s temi izdelki oziroma storitvami, razen če se te dejavnosti opravljajo v stranskem kmetijskem obratu, ki pretežno uporablja lastne pridelke glavnega obrata in ima v razmerju do tega obrata tudi manjši obseg poslovanja.
