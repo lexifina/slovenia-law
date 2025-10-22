@@ -1,0 +1,29 @@
+# 528.c člen (nasprotja interesov)
+
+(1) Zavarovalnica, zavarovalni zastopnik, zavarovalni posrednik, zavarovalno zastopniška družba, zavarovalno posredniška družba in banka sprejmejo ustrezne ukrepe za ugotavljanje medsebojnih nasprotij interesov, vključno med njihovimi vodilnimi in zaposlenimi ali katero koli osebo, ki je posredno ali neposredno povezana z njimi prek nadzora, in njihovimi strankami, ali med strankami, ki nastanejo med distribucijo zavarovalnih naložbenih produktov.
+
+(2) Kadar organizacijski ali administrativni ukrepi, ki jih v skladu s prejšnjim členom sprejme zavarovalnica, zavarovalni zastopnik, zavarovalni posrednik, zavarovalno zastopniška družba, zavarovalno posredniška družba ali banka za obvladovanje nasprotja interesov, ne zadoščajo za razumno zagotovitev, da bo tveganje za škodovanje interesom potencialnih zavarovalcev preprečeno, zavarovalni zastopnik, zavarovalni posrednik, zavarovalno zastopniška družba, zavarovalno posredniška družba ali zavarovalnica potencialnemu zavarovalcu pred sklenitvijo zavarovalne pogodbe nedvoumno in pravočasno razkrije splošne značilnosti ali vire nasprotja interesov.
+
+(3) Ne glede na štirinajsti odstavek 545. člena tega zakona je razkritje iz prejšnjega odstavka podano na trajnem nosilcu podatkov in vsebuje dovolj podrobnosti, pri čemer so upoštevane značilnosti zavarovalnice in potencialnega zavarovalca, da lahko slednji sprejme informirano odločitev glede distribucije zavarovalnih naložbenih produktov, v okviru katere je prišlo do nasprotja interesov.
+
+528.č člen
+
+(informacije, ki se zagotovijo zavarovalcem ali potencialnim zavarovalcem)
+
+(1) Brez poseganja v 545. in 551. člen tega zakona se ustrezne informacije zavarovalcu ali potencialnemu zavarovalcu zagotovijo pravočasno pred sklenitvijo pogodbe, ob upoštevanju distribucije zavarovalnih naložbenih produktov in vseh stroškov ter povezanih dajatev. Te informacije vključujejo najmanj naslednje:
+
+1. ob svetovanju: ali bo zavarovalnica, zavarovalni zastopnik, zavarovalni posrednik, zavarovalno zastopniška družba, zavarovalno posredniška družba ali banka zavarovalcu redno zagotavljala oceno primernosti zavarovalnih naložbenih produktov, ki se priporočijo temu zavarovalcu, iz 528.d člena tega zakona;
+
+2. glede informacij o zavarovalnih naložbenih produktih in predlaganih investicijskih strategijah: ustrezne smernice in opozorila v zvezi z naložbenimi življenjskimi zavarovanji, glede tveganj, povezanih z zavarovalnimi naložbenimi produkti ali v zvezi s posameznimi predlaganimi naložbenimi strategijami, ki se podajo v skladu z Uredbo (EU) št. 1286/2014 Evropskega parlamenta in Sveta z dne 26. novembra 2014 o dokumentih s ključnimi informacijami o paketnih naložbenih produktih za male vlagatelje in o zavarovalnih naložbenih produktih (PRIIP) in v skladu z drugimi zavezujočimi predpisi;
+
+3. glede informacij o vseh stroških in povezanih dajatvah, ki jih je treba razkriti: informacije o stroških in povezanih dajatvah, ki se podajo v skladu z Uredbo (EU) št. 1286/2014 Evropskega parlamenta in Sveta z dne 26. novembra 2014 o dokumentih s ključnimi informacijami o paketnih naložbenih produktih za male vlagatelje in o zavarovalnih naložbenih produktih (PRIIP) in v skladu z Delegirano uredbo Komisije (EU) 2017/653 z dne 8. marca 2017 o dopolnitvi Uredbe (EU) št. 1286/2014 Evropskega parlamenta in Sveta o dokumentih s ključnimi informacijami o paketnih naložbenih produktih za male vlagatelje in o zavarovalnih naložbenih produktih (PRIIP) z določitvijo regulativnih tehničnih standardov glede prikaza, vsebine, pregleda in revizije dokumentov s ključnimi informacijami ter pogojev za izpolnitev zahteve za zagotavljanje takih dokumentov, ter informacije o tem, kako zavarovalec plača za naložbeno življenjsko zavarovanje, in o morebitnih plačilih tretjih oseb.
+
+(2) Informacije iz 3. točke prejšnjega odstavka se, kadar je to potrebno, zavarovalcu zagotovijo redno vsaj vsako leto v času trajanja naložbenega življenjskega zavarovanja.
+
+(3) Informacije iz prvega odstavka tega člena se zagotovijo v razumljivi obliki na način, ki zavarovalcem ali potencialnim zavarovalcem omogoča, da razumejo značilnosti in tveganja ponujenega zavarovalnega naložbenega produkta ter da se posledično odločajo o naložbi na podlagi informacij. Te informacije se lahko zagotovijo v standardizirani obliki.
+
+(4) Brez poseganja v 8. in 9. točko drugega odstavka in deveti odstavek 545. člena tega zakona zavarovalnica, zavarovalni zastopnik, zavarovalni posrednik, zavarovalno zastopniška družba, zavarovalno posredniška družba ali banka izpolnjuje obveznosti iz 521. do 528.c člena tega zakona, kadar katerikoli osebi, razen zavarovalcu ali osebi, ki deluje v njegovem imenu, plača ali od nje prejme honorar ali provizijo ali ji zagotovi ali od nje prejme nedenarno korist v zvezi z zagotavljanjem zavarovalnega naložbenega produkta ali izvajanjem pomožne storitve, razen kadar plačilo ali zagotovitev koristi:
+
+1. nima škodljivega vpliva na kakovost zadevne storitve za zavarovalca in
+
+2. ne vpliva na izpolnjevanje dolžnosti zavarovalnice, zavarovalnega zastopnika, zavarovalnega posrednika, zavarovalno zastopniške družbe, zavarovalno posredniške družbe ali banke, da deluje pošteno, pravično in strokovno v skladu z najboljšimi interesi zavarovalca.

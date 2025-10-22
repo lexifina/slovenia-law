@@ -1,0 +1,7 @@
+# 386. člen (vmesni zavarovalni holding in mešani finančni holding)
+
+(1) Pri izračunavanju solventnosti skupine zavarovalnice, ki je prek zavarovalnega holdinga oziroma mešanega finančnega holdinga (v nadaljnjem besedilu: vmesni zavarovalni holding oziroma mešani finančni holding) udeležena v povezani zavarovalnici države članice ali tretje države, se vmesni zavarovalni holding oziroma mešani finančni holding obravnava kot zavarovalnica. Za namen tega izračuna za vmesni zavarovalni holding oziroma mešani finančni holding veljajo pravila tega zakona glede primernih lastnih virov sredstev in zahtevanega solventnostnega kapitala.
+
+(2) Če tvori primerne lastne vire sredstev vmesnega zavarovalnega holdinga oziroma mešanega finančnega holdinga podrejeni dolg ali drugi primerni lastni viri sredstev, ki so v skladu s 199. členom tega zakona predmet omejitev, so ti primerni lastni viri sredstev za kritje zahtevanega solventnostnega kapitala na ravni skupine omejeni tako, da se smiselno uporabijo omejitve iz 199. člena tega zakona. Smiselna uporaba pomeni primerjavo celotnih primernih lastnih virov sredstev na ravni skupine z zahtevanim solventnostnim kapitalom na ravni skupine.
+
+(3) Primerni lastni viri sredstev vmesnega zavarovalnega holdinga oziroma mešanega finančnega holdinga, ki so v lasti zavarovalnice s sedežem v državi članici in za katere se zahteva predhodna odobritev v skladu s 194. členom tega zakona, se v izračun solventnosti skupine vključijo le, če jih je odobrila Agencija za zavarovalni nadzor.

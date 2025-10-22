@@ -1,0 +1,3 @@
+# 222. člen (vrnitev na izračun zahtevanega solventnostnega kapitala z uporabo standardne formule)
+
+Po pridobitvi dovoljenja za uporabo delnega ali popolnega notranjega modela za izračun zahtevanega solventnostnega kapitala zavarovalnice ne smejo kapitalskih zahtev za del, za katerega so pridobile dovoljenje za uporabo notranjega modela, računati z uporabo standardne formule. Standardno formulo za del ali celotni zahtevani solventnostni kapital, ki je predmet dovoljenja, lahko uporabijo le v izjemnih okoliščinah, ki so ustrezno utemeljene in pod pogojem, da je Agencija za zavarovalni nadzor to odobrila.

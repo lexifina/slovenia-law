@@ -1,0 +1,15 @@
+# 42. člen (odločba o prepovedi uresničevanja pravic iz delnic)
+
+(1) Če neupravičeni imetnik delnic ne odsvoji v roku, določenem z odredbo o odsvojitvi delnic, ali če Agencija za zavarovalni nadzor v postopku po tretjem odstavku prejšnjega člena ugotovi, da ima pridobitelj delnice, ki so bile odsvojene po odredbi o odsvojitvi delnic, v svojem imenu in za račun neupravičenega imetnika (v nadaljnjem besedilu: neupravičeni pridobitelj) izda odločbo, s katero neupravičenemu imetniku in morebitnim neupravičenim pridobiteljem prepove uresničevanje vseh pravic iz delnic zavarovalnice, ki jih ima v nasprotju s tem zakonom, in prepove zavarovalnici, da bi navedenim osebam na kakršenkoli način omogočila uresničevanje pravic iz teh delnic (v nadaljnjem besedilu: odločba o prepovedi uresničevanja pravic iz delnic).
+
+(2) Po izdaji odločbe o prepovedi uresničevanja pravic iz delnic lahko neupravičeni imetnik in morebitni neupravičeni pridobitelji uresničujejo samo še pravice iz števila delnic, ki se izračuna tako, da se od števila delnic, s katerimi je imetnik dosegel kvalificirani delež, odšteje ena delnica.
+
+(3) Izrek odločbe o prepovedi uresničevanja pravic iz delnic vključuje:
+
+1. podatke o neupravičenem imetniku, če je imetnik delnice odsvojil neupravičenemu pridobitelju, tudi podatke o neupravičenem pridobitelju;
+
+2. število delnic, iz katerih lahko neupravičeni imetnik in morebitni neupravičeni pridobitelji skupno uresničujejo pravice iz delnic.
+
+(4) Odločba o prepovedi uresničevanja pravic iz delnic zavarovalnice se vroči tudi zavarovalnici. Zavarovalnica od vročitve odločbe neupravičenemu imetniku in neupravičenim pridobiteljem iz delnic, na katere se odločba nanaša, ne sme omogočiti uresničevanja nobenih pravic iz teh delnic.
+
+(5) Če je zavarovalnica v obdobju od vročitve odločbe o prepovedi uresničevanja pravic iz delnic do dneva, ko je delnice, na katere se je nanašala ta odločba, pridobil nov imetnik v skladu s tem zakonom, izplačala dividendo, zavarovalnica dividendo, ki pripade navedenim delnicam, izplača novemu imetniku v osmih dneh po tistem, ko jo novi imetnik obvesti o pridobitvi delnic.

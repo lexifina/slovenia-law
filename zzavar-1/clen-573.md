@@ -1,0 +1,11 @@
+# 573. člen (zavarovalno zastopniške in zavarovalno posredniške družbe ter zastopniki dopolnilnih zavarovanj države članice)
+
+(1) Zavarovalno zastopniška ali zavarovalno posredniška družba ali zastopnik dopolnilnih zavarovanj, ki je v državi članici upravičen opravljati dejavnost zavarovalnega zastopanja ali zavarovalnega posredovanja oziroma dejavnost distribucije zavarovalnih produktov, lahko na območju Republike Slovenije opravlja to dejavnost neposredno, potem ko Agencija za zavarovalni nadzor pristojnemu organu matične države članice zavarovalno zastopniške družbe, zavarovalno posredniške družbe oziroma zastopnika dopolnilnih zavarovanj potrdi prejem obvestila iz drugega ali sedmega odstavka prejšnjega člena. Agencija za zavarovalni nadzor potrdi prejem obvestila takoj po prejemu.
+
+(2) Zavarovalno zastopniška ali zavarovalno posredniška družba ali zastopnik dopolnilnih zavarovanj, ki je v državi članici upravičen opravljati dejavnost zavarovalnega zastopanja ali zavarovalnega posredovanja oziroma dejavnost distribucije zavarovalnih produktov, lahko na območju Republike Slovenije opravlja to dejavnost prek podružnice potem, ko prejme obvestilo pristojnega organa matične države članice o predpisih o zaščiti javnih koristi iz prvega odstavka 575.b člena tega zakona in obvestilo, da lahko začne poslovati v Republiki Sloveniji pod pogojem, da upošteva te predpise. Agencija za zavarovalni nadzor v mesecu dni od prejetja obvestila iz sedmega odstavka prejšnjega člena od pristojnega organa matične države članice temu organu sporoči predpise o zaščiti javnih koristi iz prvega odstavka 575.b člena tega zakona.
+
+(3) Za osebe iz prvega in drugega odstavka tega člena veljajo 521., 522., 524. do 527., 527.a, 528.a do 528.d., 543. do 558. člen, drugi odstavek 565. člena ter 571. in 571.a člen tega zakona glede poslov, ki jih oseba opravlja na območju Republike Slovenije.
+
+(4) Določbe tega člena se smiselno uporabljajo za opravljanje poslov zavarovalnega zastopnika ali zavarovalnega posrednika države članice v Republiki Sloveniji.
+
+(5) Določbe tega in 575. člena tega zakona se smiselno uporabljajo za banke držav članic.

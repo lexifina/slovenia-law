@@ -1,0 +1,17 @@
+# 40. člen (glasovalne pravice iz delnic zavarovalnice, pridobljenih v nasprotju z zakonom)
+
+(1) Imetnik iz delnic zavarovalnice, ki jih je pridobil ali jih ima v nasprotju s tem zakonom (v nadaljnjem besedilu: neupravičeni imetnik), nima glasovalnih pravic.
+
+(2) Število delnic, iz katerih neupravičeni imetnik lahko uresničuje glasovalne pravice, se izračuna:
+
+1. če imetnik na podlagi delnic dosega ali presega 10% delež glasovalnih pravic ali delež v kapitalu zavarovalnice, ne da bi imel dovoljenje za pridobitev kvalificiranega deleža, ali če je bilo imetniku dovoljenje za pridobitev kvalificiranega deleža odvzeto tako, da se od števila delnic, ki je 10% delež glasovalnih pravic ali delež v kapitalu zavarovalnice, odšteje ena delnica;
+
+2. če imetnik na podlagi delnic presega razpon, za katerega velja dovoljenje za pridobitev kvalificiranega deleža tako, da je število enako številu delnic, ki je zgornja meja razpona, za katerega ima imetnik veljavno dovoljenje.
+
+(3) Glasovalne pravice, ki jih neupravičeni imetnik ni upravičen uresničevati, se prištejejo glasovalnim pravicam drugih delničarjev v sorazmerju z njihovo udeležbo v vseh glasovalnih pravicah iz delnic zavarovalnice.
+
+(4) Če neupravičeni imetnik v enem mesecu od pridobitve delnic vloži zahtevo za izdajo dovoljenja za pridobitev kvalificiranega deleža in če Agencija za zavarovalni nadzor to dovoljenje izda, z dnem dokončnosti odločbe o dovoljenju za pridobitev kvalificiranega deleža imetnik pridobi glasovalne pravice iz delnic do števila delnic, ki pomenijo delež, za katerega je izdano to dovoljenje.
+
+(5) Zavarovalnica pred zasedanjem skupščine preveri, ali je imetnik pridobil dovoljenje za kvalificirani delež, in o tem obvesti predsednika skupščine.
+
+(6) V primeru iz prvega odstavka tega člena se uporabljajo ta člen ter 41. in 42. člen tega zakona. Prvi do peti odstavek tega člena ter 41. in 42. člen tega zakona se smiselno uporabljajo tudi, če se delež kvalificiranega imetnika poveča zaradi zmanjšanja osnovnega kapitala ali drugih korporacijskih dejanj zavarovalnice. Pri smiselni uporabi določb iz prejšnjega stavka enomesečni rok za vložitev zahteve za izdajo dovoljenja za pridobitev kvalificiranega deleža teče od dneva, ko kvalificirani imetnik izve ali bi lahko izvedel, da se je njegov delež povečal zaradi korporacijskega dejanja zavarovalnice.

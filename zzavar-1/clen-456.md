@@ -1,0 +1,9 @@
+# 456. člen (posredovanje podatkov Agenciji za zavarovalni nadzor)
+
+(1) Za izvajanje nalog po tem zakonu državni organi, organi lokalnih skupnosti, nosilci javnih pooblastil ter druge pravne osebe in organizacije, ki razpolagajo s podatki, potrebnimi za odločitev, Agenciji za zavarovalni nadzor na njeno zahtevo posredujejo zahtevane podatke in dokumente, potrebne za izvedbo postopka nadzora, vključno s podatki, ki so v skladu z določbami zakona, ki ureja gospodarske družbe, določeni kot poslovna skrivnost, in podatki, ki so v skladu z določbami zakona, ki ureja tajne podatke, določeni kot tajni.
+
+(2) Za izvajanje nalog po tem zakonu policija, državno tožilstvo in sodišča Agenciji za zavarovalni nadzor na njeno zahtevo posredujejo vse podatke, vključno z osebnimi podatki, povezanimi s predkazenskimi in kazenskimi postopki, ki so se začeli zaradi domnevnih kršitev določb tega zakona zoper osebe, nad katerimi Agencija za zavarovalni nadzor opravlja nadzor.
+
+(3) Osebe iz prvega ali drugega odstavka tega člena podatke iz prvega ali drugega odstavka tega člena posredujejo ne glede na pravila o dopustnosti posredovanja teh podatkov, pri čemer upoštevajo pravila, ki določajo varnostne ukrepe ob posredovanju podatkov. Agencija za zavarovalni nadzor zagotovi varstvo njej posredovanih podatkov.
+
+(4) Za izvajanje nalog po tem zakonu pridobiva Agencija za zavarovalni nadzor iz centralnega registra prebivalstva te osebne podatke, potrebne za izvedbo postopka nadzora: ime in priimek, datum rojstva, EMŠO, državljanstvo, davčno številko, stalno ali začasno prebivališče, naslov v tujini, naslov za vročanje, elektronski naslov za vročanje in podatek o datumu smrti. Do teh podatkov iz centralnega registra prebivalstva dostopa Agencija za zavarovalni nadzor brezplačno po neposredni elektronski povezavi.

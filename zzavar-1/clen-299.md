@@ -1,0 +1,5 @@
+# 299. člen (pogoji za opravljanje pregleda poslovanja)
+
+(1) Zavarovalnica pooblaščenim osebam Agencije za zavarovalni nadzor zagotovi ustrezne prostore, v katerih lahko nemoteno in brez prisotnosti drugih oseb opravijo pregled poslovanja.
+
+(2) Zavarovalnica zagotovi, da so v času, v katerem pooblaščene osebe Agencije za zavarovalni nadzor opravljajo pregled poslovanja v prostorih iz prvega odstavka 297. člena tega zakona, v teh prostorih prisotni zakoniti zastopniki oziroma zastopnice zavarovalnice, zaposleni pri zavarovalnici ali druge pooblaščene osebe zavarovalnice, ki lahko na zahtevo pooblaščenih oseb Agencije za zavarovalni nadzor dajo ustrezna pojasnila v zvezi s poslovnimi knjigami, poslovno dokumentacijo, poslovnimi dogodki ter administrativnimi oziroma poslovnimi evidencami, ki so predmet pregleda. Zakoniti zastopniki oziroma zastopnice zavarovalnice, zaposleni pri zavarovalnici ali druge pooblaščene osebe zavarovalnice pooblaščenim osebam Agencije za zavarovalni nadzor omogočijo neposreden dostop in vpogled v originalno poslovno dokumentacijo, poslovne knjige in administrativne oziroma poslovne evidence, ki so predmet pregleda poslovanja.

@@ -1,0 +1,17 @@
+# 184. člen (prilagoditev za nestanovitnost krivulje netvegane obrestne mere)
+
+(1) Zavarovalnice pridobijo dovoljenje Agencije za zavarovalni nadzor za uporabo prilagoditve za nestanovitnost krivulje netvegane obrestne mere, ki se uporablja pri izračunu najboljše ocene iz 179. člena tega zakona.
+
+(2) Prilagoditev za nestanovitnost krivulje netvegane obrestne mere za vsako valuto posebej temelji na razponu med obrestno mero, ki bi jo bilo mogoče dobiti iz sredstev, vključenih v referenčni portfelj sredstev zadevne valute, in vrednostmi iz krivulje netvegane obrestne mere za to valuto.
+
+(3) Referenčni portfelj valute je reprezentativen za sredstva v tej valuti, v katera so zavarovalnice in pozavarovalnice vložile sredstva za kritje najboljše ocene obveznosti v tej valuti.
+
+(4) Znesek prilagoditve za nestanovitnost krivulje netvegane obrestne mere ustreza 65% valutnega razpona, popravljenega za tveganje. Valutni razpon s popravkom za tveganje se izračuna kot razlika med razponom iz drugega odstavka tega člena in delom tega razpona, ki se lahko pripiše realistični oceni pričakovanih izgub ali nepričakovanega kreditnega tveganja ali drugega tveganja pri sredstvih. Prilagoditev za nestanovitnost se uporabi samo za tisti del krivulje netvegane obrestne mere, ki se ne izračuna z ekstrapolacijo v skladu s 181. členom tega zakona. Ekstrapolacija ekstrapoliranega dela krivulje temelji na uporabi obrestnih mer, ki upoštevajo prilagoditve za nestanovitnost.
+
+(5) Za vsako zadevno državo se pred uporabo 65 % faktorja prilagodljivosti za nestanovitnost krivulje netvegane obrestne mere iz prejšnjega odstavka za valuto te države poveča za razliko med razponom države, popravljenim za tveganje, in dvakratnim valutnim razponom, popravljanim za tveganje, vedno kadar je ta razlika pozitivna in je razpon države, popravljen za tveganje, večji od 85 baznih točk. Povečana prilagoditev za nestanovitnost se uporabi za izračun najboljše ocene za zavarovalne in pozavarovalne obveznosti produktov, ki so v prodaji na zavarovalniškem trgu te države. Razpon države, popravljen za tveganje, se izračuna enako kot valutni razpon, popravljen za tveganje, le da temelji na referenčnem portfelju, ki je reprezentativen za sredstva, v katera so zavarovalnice in pozavarovalnice vložile za kritje najboljše ocene za zavarovalne in pozavarovalne obveznosti produktov, ki so v prodaji na zavarovalniškem trgu te države in izraženi v njeni valuti.
+
+(6) Prilagoditev za nestanovitnost se ne uporablja pri obveznostih, kadar krivulja netvegane obrestne mere za izračun najboljše ocene portfelja teh obveznosti vključuje uskladitveno prilagoditev krivulje netvegane obrestne mere iz 182. člena tega zakona.
+
+(7) Ne glede na 202. člen tega zakona zahtevani solventnostni kapital ne krije tveganja izgube osnovnih lastnih sredstev, ki je posledica sprememb prilagoditve za nestanovitnost.
+
+(8) Glede prilagoditve za nestanovitnost krivulje netvegane obrestne mere iz tega člena se prilagoditev za nestanovitnost ne uporablja pri obveznostih, kadar krivulja netvegane obrestne mere za izračun najboljše ocene portfelja teh obveznosti vključuje uskladitveno prilagoditev krivulje netvegane obrestne mere iz 182. člena tega zakona. Prilagoditev za nestanovitnost krivulje netvegane obrestne mere se ne uporablja za valute in nacionalne trge, za katere prilagoditev za nestanovitnost krivulje netvegane obrestne mere ni določena v izvedbenih tehničnih standardih Evropske komisije.
