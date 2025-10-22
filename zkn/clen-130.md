@@ -1,0 +1,9 @@
+# 130. člen (javnost zbirk listin in zgodovinskih podatkov)
+
+(1) Vsakdo, ki izkaže pravni interes, ima pravico zahtevati, da pri geodetski upravi vpogleda v listino ali pridobi prepis listine iz zbirke listin katastra nepremičnin, registra prostorskih enot in evidence državne meje. Pravni interes je izkazan, če podatek iz listine vpliva na pravice ali obveznosti osebe, ki zahteva vpogled v listino ali prepis listine. O zahtevi odloča geodetska uprava na podlagi obrazložene pisne zahteve. V listino se vpogleda ali prepis listine se izda v skladu z omejitvami iz 126., 127. in 128. člena tega zakona. Če listina vsebuje osebne podatke o fizičnih osebah, se na listini ali prepisu listine prekrijejo podatki o EMŠO fizične osebe in podatki o državljanstvu.
+
+(2) Vsakdo ima v skladu z omejitvami iz 126., 127. in 128. člena tega zakona pravico vpogledati v podatke ali pridobiti prepis podatkov katastra nepremičnin, registra prostorskih enot, evidence državne meje in registra naslovov, ki so bili vpisani v teh evidencah na določen dan pred zadnjimi vpisanimi podatki (zgodovinski podatki).
+
+(3) Pravico zahtevati vpogled v listino ali prepis listine iz zbirke listin katastra nepremičnin, registra prostorskih enot in evidence državne meje ter pravico zahtevati vpogled v zgodovinske podatke ali prepis zgodovinskih podatkov katastra nepremičnin, registra prostorskih enot, evidence državne meje in registra naslovov imajo pooblaščeni geodeti, geodeti z geodetsko izkaznico, pooblaščeni projektanti ter osebe iz četrtega odstavka 39. člena tega zakona za izvajanje katastrskih postopkov in državni organi za izvrševanje uradnih nalog iz njihove pristojnosti. Osebe iz prejšnjega stavka lahko vpogledajo v listino ali pridobijo prepis listine iz zbirke listin v izvirni obliki.
+
+Osmi del NADZOR IN KAZENSKE DOLOČBE

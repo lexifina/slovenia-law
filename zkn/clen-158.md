@@ -1,0 +1,5 @@
+# 158. člen (vpis stavbe, zgrajene pred uveljavitvijo Zakona o graditvi objektov)
+
+(1) Pred vložitvijo zahteve za vpis stavbe, ki je bila zgrajena pred uveljavitvijo Zakona o graditvi objektov (Uradni list RS, št. 102/04 – uradno prečiščeno besedilo, 14/05 – popr., 92/05 – ZJC-B, 93/05 – ZVMS, 111/05 – odl. US, 126/07, 108/09, 61/10 – ZRud-1, 20/11 – odl. US, 57/12, 101/13 – ZDavNepr, 110/13, 22/14 – odl. US, 19/15, 61/17 – GZ in 66/17 – odl. US), v kataster nepremičnin mora geodetsko podjetje z vsebino elaborata za vpis stavbe v kataster nepremičnin seznaniti vlagatelja zahteve, lastnika zemljišča, na katerem stavba stoji, lastnika stavbe ali lastnike delov stavb ali imetnika stavbne pravice. To stori tako, da elaborat za vpis stavbe v kataster nepremičnin objavi na oglasni deski v stavbi ali razgrne v prostorih upravnika stavbe. Seznanitev mora trajati najmanj 15 dni in mora vsebovati napotilo o načinu zbiranja in obravnave pripomb.
+
+(2) Elaborat za vpis stavbe v kataster nepremičnin mora vsebovati izjavo geodetskega podjetja, da je poskrbelo za seznanitev iz prejšnjega odstavka, ter vsa dokazila o obravnavi pripomb.

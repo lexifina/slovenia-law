@@ -1,0 +1,5 @@
+# 88. člen (vpis spremembe bonitete zemljišč)
+
+(1) Geodetska uprava na podlagi elaborata spremembe bonitete zemljišč v sloj bonitete zemljišč vpiše spremenjeno območje bonitete zemljišč oziroma spremenjeno število bonitetnih točk za to območje bonitete zemljišč. O vpisu teh podatkov geodetska uprava obvesti vse lastnike parcel na območju spremenjene bonitete zemljišč.
+
+(2) V primeru spreminjanja bonitete zemljišč v skladu s tretjim odstavkom prejšnjega člena geodetska uprava s pisnim obvestilom obvesti lastnike parcel na spremenjenem območju bonitete zemljišč, da se je spremenilo območje bonitete zemljišč, na katerem ležijo zemljišča v njihovi lasti, in da je omogočen vpogled v objavljene podatke območij bonitete zemljišč na spletnem portalu Prostor ali pri geodetski upravi. Pred pošiljanjem pisnih obvestil geodetska uprava objavi spremembe števila bonitetnih točk za spremenjeno območje bonitete zemljišč na spletnem portalu Prostor. Spremembe so objavljene najmanj eno leto po datumu pisnega obvestila poslanega lastnikom parcel na spremenjenem območju bonitete zemljišč.

@@ -1,0 +1,1 @@
+Prvi del SPLOŠNE DOLOČBE

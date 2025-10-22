@@ -1,0 +1,7 @@
+# 94. člen (nevpisane stavbe)
+
+(1) Če geodetska uprava ugotovi, da stavba ni vpisana v katastru nepremičnin in da je izpolnjen eden od pogojev iz prvega odstavka prejšnjega člena, pozove osebo iz drugega odstavka prejšnjega člena, da v treh mesecih po prejemu poziva vloži zahtevo za vpis stavbe v kataster nepremičnin. Če tega v predpisanem roku ne stori, geodetska uprava sama izdela elaborat za vpis podatkov o stavbi in delih stavb in stavbo z enim delom stavbe vpiše v kataster nepremičnin po uradni dolžnosti.
+
+(2) Elaborat iz prejšnjega odstavka se izdela tako, da se določi tloris stavbe, podatki o stavbi in delu stavbe pa se določijo z ogledom stavbe v naravi. Za tloris stavbe se v teh primerih lahko določi tloris nadzemnega dela stavbe. Poligoni etaž in poligoni delov stavb se izdelajo v enaki obliki, kot je določen tloris nadzemnega dela stavbe, za toliko etaž, kot je ugotovljeno z ogledom stavbe v naravi. Neto tlorisna površina dela stavbe se določi tako, da se površina tlorisa nadzemnega dela stavbe pomnoži s številom etaž, tako določena površina pa se zmanjša za 10 %. V primeru izdelave elaborata v skladu s tem členom se ne uporabljajo določbe prejšnjega člena o izvedbi obravnave elaborata.
+
+(3) Kadar geodetska uprava po uradni dolžnosti izvede postopek za vpis stavbe v kataster nepremičnin, izdela elaborat za vpis podatkov o stavbi in delih stavb za stavbo z enim delom stavbe na način iz prejšnjega odstavka.
