@@ -1,0 +1,11 @@
+# 9. člen (zmožnost za delo)
+
+(1) Za delazmožno po tem zakonu se šteje brezposelna oseba od dopolnjenih 15 do 67 let starosti, pri kateri ni prišlo do popolne nezmožnosti za delo po predpisih o pokojninskem in invalidskem zavarovanju ali nezaposljivosti po predpisih o zaposlitveni rehabilitaciji in zaposlovanju invalidov.
+
+(2) Ne glede na prejšnji odstavek se za delazmožno šteje tudi oseba, ki je kljub ugotovljeni nezaposljivosti po predpisih o zaposlitveni rehabilitaciji in zaposlovanju invalidov opravljala delo na podlagi delovnega ali drugega razmerja, ki je podlaga za vključitev v zavarovanje za primer brezposelnosti po tem zakonu in je tako dosegla gostoto zavarovalnega razmerja, določeno v 59. členu tega zakona. Za delazmožno se takšna oseba šteje ves čas prejemanja denarnega nadomestila in do pravnomočnosti odločbe, izdane v novem postopku ocene zaposlitvenih možnosti, če je z njo ponovno ugotovljena nezaposljivost te osebe. Uvedbo tega postopka, ne glede na določbe zakona, ki ureja zaposlitveno rehabilitacijo in zaposlovanje invalidov, predlaga zavod, če tega ne stori oseba sama najkasneje v roku 15 dni po prijavi na zavodu.
+
+(3) Ne glede na določbo prvega odstavka 8. člena tega zakona se za brezposelno osebo šteje iskalec zaposlitve, ki je začasno nezmožen za delo iz zdravstvenih razlogov skladno s predpisi o zdravstvenem varstvu in zdravstvenem zavarovanju v trajanju največ 60 dni. Takšni brezposelni osebi obveznosti, določene s tem zakonom, mirujejo, dokler traja začasna nezmožnost za delo.
+
+(4) Če začasna nezmožnost za delo iz prejšnjega odstavka traja več kot 60 dni, se brezposelna oseba šteje za začasno nezaposljivo in jo zavod obravnava v skladu z devetim odstavkom 117. člena tega zakona.
+
+(5) Brezposelna oseba, ki zaradi težav z odvisnostjo, težav v duševnem zdravju, večjih socialnih težav in drugih podobnih težav ni zmožna za delo, se šteje za začasno nezaposljivo. Začasna nezaposljivost iz navedenih razlogov ter pravice in obveznosti te osebe se opredelijo v zaposlitvenem načrtu brezposelne osebe na podlagi mnenja o obstoju razlogov za začasno nezaposljivost in predloga možnih ukrepov, ki ga pripravijo posebne medinstitucionalne komisije po določbah 117. člena tega zakona.

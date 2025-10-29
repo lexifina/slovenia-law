@@ -1,0 +1,5 @@
+# 191. člen (prenehanje uporabe drugih predpisov)
+
+(1) Z dnem uveljavitve tega zakona se preneha uporabljati določba prvega odstavka 51. člena Zakona o zunanjih zadevah (Uradni list RS, št. 113/03 – uradno prečiščeno besedilo, 20/06 – ZNOMCMO, 76/08 in 108/09), ki določa, da se zakoncu diplomata, ki je na delu v tujini, čas bivanja všteva v zavarovalno dobo, če je bil do odhoda prijavljen na zavodu, v delu, ki se nanaša na zakonce diplomatov, ki so bili pred odhodom v tujino na zavodu prijavljeni manj kot šest mesecev.
+
+(2) Z dnem uveljavitve tega zakona se preneha uporabljati določba tretjega odstavka 24. člena Uredbe o plačah in drugih prejemkih javnih uslužbencev na delu v tujini (Uradni list RS, št. 14/09, 16/09 – popr., 23/09, 51/10 in 67/10) v delu, v katerem se nanaša na zakonce diplomatov, ki so bili pred odhodom v tujino prijavljeni na zavodu manj kot šest mesecev ter četrti odstavek 24. člena v delu, ki določa osnovo za plačilo prispevkov prostovoljnega zavarovanje za primer brezposelnosti.

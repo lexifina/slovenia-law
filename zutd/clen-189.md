@@ -1,0 +1,7 @@
+# 189. člen (uslužbenci zavoda)
+
+(1) Javni uslužbenci zavoda, ki so na dan začetka uporabe tega zakona izpolnjevali pogoje za izvajanje storitev vseživljenjske karierne orientacije in posredovanje zaposlitve (v nadaljnjem besedilu: storitve) in imajo VI/2 raven izobrazbe, morajo najkasneje v roku pet let po začetku uporabe tega zakona pridobiti VII. raven izobrazbe, določeno v 81. členu tega zakona. Do pridobitve zahtevane VII. ravni izobrazbe lahko še naprej izvajajo storitve na delovnem mestu, ki se uvrsti v VII/1 tarifni razred po zakonu, ki ureja sistem plač v javnem sektorju.
+
+(2) Javni uslužbenci iz prejšnjega odstavka, ki imajo na dan začetka uporabe tega zakona VI/1 raven izobrazbe, morajo zahtevano izobrazbo iz 81. člena tega zakona pridobiti najkasneje v roku pet let po začetku uporabe tega zakona. Do pridobitve zahtevane VII. ravni izobrazbe lahko ti javni uslužbenci še naprej izvajajo storitve na delovnem mestu, ki se uvrsti v VII/1 tarifni razred po zakonu, ki ureja sistem plač v javnem sektorju. Če imajo ti javni uslužbenci več kot 15 let delovne dobe, lahko storitve izvajajo tudi, če najkasneje v roku pet let po začetku uporabe tega zakona pridobijo VI/2 raven izobrazbe v tarifnem razredu VII/1 po zakonu, ki ureja sistem plač v javnem sektorju.
+
+(3) Javnim uslužbencem iz prvega in drugega odstavka tega člena, ki so na dan začetka uporabe tega zakona starejši od 50 let in z več kot 25 leti delovne dobe, za nadaljevanje izvajanja storitev ni treba pridobiti višje stopnje izobrazbe.
