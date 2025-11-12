@@ -1,0 +1,3 @@
+# 38. člen (nomenklature)
+
+Pri oddaji javnih naročil se vsa nomenklatura navaja z uporabo enotnega besednjaka javnih naročil (v besedilu tega zakona: CPV), ki ga določa Uredba (ES) št. 2195/2002 Evropskega parlamenta in Sveta z dne 5. novembra 2002 o enotnem besednjaku javnih naročil (UL L št. 340 z dne 16. 12. 2002, str. 1), nazadnje spremenjena z Uredbo (ES) št. 596/2009 Evropskega parlamenta in Sveta z dne 18. junija 2009 o prilagoditvi nekaterih aktov, za katere se uporabljata postopek iz člena 251 Pogodbe, Sklepu Sveta 1999/468/ES glede regulativnega postopka s pregledom – Prilagoditev regulativnemu postopku s pregledom – Četrti del (UL L št. 188 z dne 18. 7. 2009, str. 14).

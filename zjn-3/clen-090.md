@@ -1,0 +1,37 @@
+# 90. člen (sprejem odločitve o oddaji javnega naročila, obveščanje kandidatov in ponudnikov)
+
+(1) Naročnik lahko do roka za oddajo ponudb kadar koli ustavi postopek oddaje javnega naročila. Kadar izvaja naročnik postopek javnega naročanja, v katerem objavi povabilo k sodelovanju, mora navedeno odločitev objaviti na portalu javnih naročil, in, če je to glede na vrednost ali predhodne objave primerno, v Uradnem listu Evropske unije. Če se elektronska komunikacijska sredstva iz razlogov iz drugega ali četrtega odstavka 37. člena tega zakona ne uporabljajo, naročnik že predložene ponudbe neodprte vrne pošiljateljem.
+
+(2) Naročnik v roku pet dni po končanem preverjanju in ocenjevanju v skladu s prejšnjim členom obvesti vsakega kandidata in ponudnika o sprejeti odločitvi v zvezi s sklenitvijo okvirnega sporazuma, oddajo javnega naročila, vključitvijo v dinamični nabavni sistem ali kvalifikacijski sistem in oddajo posameznega naročila iz 49. člena tega zakona.
+
+(3) Odločitev iz prejšnjega odstavka naročnik sprejme najpozneje v roku 90 dni od roka za oddajo ponudb in mora vsebovati:
+
+- razloge za zavrnitev ponudbe vsakega neuspešnega ponudnika, ki ni bil izbran, in v primeru iz sedmega, osmega in devetega odstavka 68. člena tega zakona tudi razloge za odločitev o neenakovrednosti oziroma da gradnje, blago ali storitve ne izpolnjujejo zahtev v zvezi z delovanjem ali funkcionalnostjo;
+
+- značilnosti in prednosti izbrane ponudbe ter ime uspešnega ponudnika ali podpisnikov okvirnega sporazuma;
+
+- razloge za zavrnitev prijave vsakega neuspešnega kandidata k sodelovanju;
+
+- v primeru izvedbe pogajanj ali dialoga, kratek opis poteka pogajanj in dialoga s ponudniki.
+
+(4) Naročnik se lahko odloči, da nekaterih informacij o oddaji naročila iz drugega in tretjega odstavka tega člena ne objavi, če bi njihovo razkritje oviralo izvajanje zakona ali bi bilo sicer v nasprotju z javnim interesom, če bi škodilo upravičenim poslovnim interesom posameznega javnega ali zasebnega gospodarskega subjekta ali če bi lahko vplivalo na pošteno konkurenco med gospodarskimi subjekti. Naročnik pa ne sme zavrniti zahteve Državne revizijske komisije glede izročitve vseh podatkov o postopku javnega naročanja.
+
+(5) Naročnik lahko na vseh stopnjah postopka po izteku roka za odpiranje ponudb zavrne vse ponudbe. Če je naročnik zavrnil vse ponudbe, mora o razlogih za takšno odločitev in ali bo začel nov postopek obvestiti ponudnike ali kandidate. Kadar izvaja naročnik postopek javnega naročanja, v katerem objavi povabilo k sodelovanju, mora navedeno odločitev objaviti na portalu javnih naročil, in, če je to glede na vrednost ali predhodne objave primerno, v Uradnem listu Evropske unije. Kadar naročnik zavrne vse ponudbe, lahko izvede za isti predmet nov postopek javnega naročanja le, če so se bistveno spremenile okoliščine, zaradi katerih je zavrnil vse ponudbe.
+
+(6) Naročnik lahko do pravnomočnosti odločitve o oddaji javnega naročila z namenom odprave nezakonitosti po predhodni ugotovitvi utemeljenosti svojo odločitev na lastno pobudo spremeni in sprejme novo odločitev, s katero nadomesti prejšnjo. Naročnik sprejme novo odločitev upoštevaje določbe tega člena. Naročnik lahko spremeni odločitev o oddaji naročila po prejemu zahtevka za pravno varstvo le, če je pred spremembo te odločitve odločil o zahtevku za revizijo. V tem primeru mora biti nova odločitev o oddaji naročila skladna z odločitvijo o zahtevku za revizijo. Kadar naročnik v skladu s tem odstavkom sprejme novo odločitev o oddaji javnega naročila, teče rok za uveljavitev pravnega varstva od dneva vročitve nove odločitve.
+
+(7) Naročnik, ki na infrastrukturnem področju vzpostavi in vodi kvalifikacijski sistem, obvesti prijavitelje o svoji odločitvi glede usposobljenosti v obdobju šestih mesecev. Če odločanje traja več kakor štiri mesece od predložitve prijave, naročnik v roku dveh mesecev od prejema prijave prijavitelja obvesti o razlogih, ki upravičujejo daljše obdobje odločanja, in o datumu, do katerega bo njegova prijava sprejeta ali zavrnjena. Prijavitelji, katerih prijava je zavrnjena, so o tej odločitvi in o razlogih za odločitev obveščeni čim prej ter v nobenem primeru ne pozneje kot 15 dni po datumu odločitve o zavrnitvi. Naročnik, ki vzpostavi in uporablja kvalifikacijski sistem, lahko usposobljenost gospodarskega subjekta prekliče izključno iz razlogov, ki temeljijo na pogojih za ugotavljanje usposobljenosti. Vsaka namera o preklicu usposobljenosti se mora gospodarskemu subjektu pisno sporočiti vsaj 15 dni pred predvidenim preklicem usposobljenosti skupaj z razlogom ali razlogi, ki upravičujejo predlagan ukrep.
+
+(8) Po oddaji javnega naročila naročnik z izbranim ponudnikom sklene pogodbo o izvedbi javnega naročila ali okvirni sporazum najpozneje v 48 dneh od pravnomočnosti odločitve, razen če ta ali drug zakon ne določa drugače. Po pravnomočnosti odločitve o oddaji javnega naročila lahko naročnik do sklenitve pogodbe o izvedbi javnega naročila odstopi od izvedbe javnega naročila iz utemeljenih razlogov, da predmeta javnega naročila ne potrebuje več ali da zanj nima zagotovljenih sredstev ali da se pri naročniku pojavi utemeljen sum, da je bila ali bi lahko bila vsebina pogodbe posledica storjenega kaznivega dejanja ali da so nastale druge izredne okoliščine, na katere naročnik ni mogel vplivati in jih predvideti ter zaradi katerih je postala izvedba javnega naročila nemogoča. Če naročnik odstopi od izvedbe javnega naročila, z izbranim ponudnikom ne sklene pogodbe o izvedbi javnega naročila ali okvirnega sporazuma, o svoji odločitvi in o razlogih, zaradi katerih odstopa od izvedbe javnega naročila, pa pisno obvesti ponudnike ali kandidate.
+
+(9) Odločitev o oddaji javnega naročila postane pravnomočna z dnem, ko zoper njo ni mogoče zahtevati pravnega varstva v predrevizijskem ali revizijskem postopku v skladu z zakonom, ki ureja pravno varstvo v postopkih javnega naročanja.
+
+(10) Naročnik o vseh odločitvah v skladu s tem členom obvesti ponudnike in kandidate na način, da podpisano odločitev iz tega člena objavi na portalu javnih naročil. Naročnik svojo odločitev obrazloži v skladu z določbami tega člena. Odločitev se šteje za vročeno z dnem objave na portalu javnih naročil. Če naročnik izvaja postopek, v katerem ni bilo objavljeno povabilo k sodelovanju, naročnik na portalu javnih naročil, če je to glede na vrednost primerno, pa tudi v Uradnem listu Evropske unije, najprej objavi prostovoljno obvestilo za predhodno transparentnost, nato pa odločitev o oddaji naročila.
+
+(11) Naročnik v odločitvah iz tega člena opozori ponudnike in kandidate o možnem pravnem varstvu ter navede:
+
+- kje in v kakšnem roku se vloži zahteva za uveljavitev pravnega varstva v postopku javnega naročanja, in
+
+- višino takse za postopek pravnega varstva v postopku javnega naročanja, transakcijski račun, na katerega se ta vplača, sklic, ki se pri tem navede, ter opozorilo, da je potrebno zahtevku za revizijo priložiti potrdilo o plačilu takse.
+
+(12) Ta člen se smiselno uporablja tudi za posamezna naročila iz 48. člena tega zakona, razen glede načina obveščanja o sprejeti odločitvi, kjer lahko naročnik, kadar je vrednost posameznega naročila nižja od vrednosti, od katere dalje je treba javno naročilo poslati v objavo Uradu za publikacije Evropske unije, v dokumentaciji v zvezi z oddajo javnega naročila določi drugačen način obveščanja o odločitvi o oddaji posameznega javnega naročila.

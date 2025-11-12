@@ -1,0 +1,11 @@
+# 73. člen (razdelitev javnega naročila na sklope)
+
+(1) Če predmet javnega naročila dopušča in če to prispeva k večji gospodarnosti in učinkovitosti izvedbe javnega naročila, mora naročnik javno naročilo oddati po ločenih sklopih ter določiti velikost in predmet takšnih sklopov. Pri tem mora zagotoviti nediskriminatorno obravnavo in s tem večjo dostopnost javnega naročila gospodarskim subjektom.
+
+(2) Naročnik v obvestilu o javnem naročilu ali povabilu k potrditvi interesa, če se kot sredstvo za objavo povabila k sodelovanju uporabi periodično informativno obvestilo, v tem obvestilu, če se kot sredstvo za objavo povabila k sodelovanju uporabi obvestilo o vzpostavitvi kvalifikacijskega sistema, pa v povabilu k predložitvi ponudb ali k pogajanjem, navede, ali se lahko ponudbe predložijo za en sklop, za več sklopov ali za vse sklope.
+
+(3) Tudi če se lahko ponudbe oddajo za več sklopov ali vse sklope, lahko naročnik omeji število sklopov, ki se lahko oddajo enemu ponudniku, če v obvestilu, ki ga uporabi za objavo povabila k sodelovanju, povabilu k potrditvi interesa ali povabilu k predložitvi ponudb ali k pogajanjem navede največje možno število sklopov na ponudnika. V tem primeru mora v dokumentaciji v zvezi z oddajo javnega naročila navesti objektivna in nediskriminatorna merila ali pravila, ki jih namerava uporabiti pri odločanju, katere sklope bo oddal, če bi se ob uporabi meril za oddajo javnega naročila enemu ponudniku oddalo več sklopov, kot je največje možno število.
+
+(4) Kadar se lahko enemu ponudniku odda več kot en sklop, lahko naročnik odda javno naročilo z združevanjem več ali vseh sklopov, če v obvestilu, ki se uporabi kot sredstvo za objavo povabila k sodelovanju, povabilu k potrditvi interesa ali povabilu k predložitvi ponudb ali k pogajanjem navede, da si pridržuje to možnost in določi sklope ali skupine sklopov, ki se lahko združijo.
+
+(5) Ne glede na 21. člen tega zakona lahko naročnik odda javna naročila za posamezne izločene sklope brez uporabe postopkov iz tega zakona, če je ocenjena vrednost izločenih sklopov brez DDV nižja od 80.000 eurov za blago ali storitve, vendar skupna vrednost sklopov, oddanih brez uporabe tega zakona, ne sme presegati 20 odstotkov skupne vrednosti vseh sklopov, na katere je bila razdeljena predlagana pridobitev podobnega blaga ali predlagana izvedba storitev.
