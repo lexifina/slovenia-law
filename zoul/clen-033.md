@@ -1,0 +1,3 @@
+# 33. člen (dostopnost izdaj uradnega lista)
+
+Gospodarska družba iz prvega odstavka prejšnjega člena zagotavlja dostopnost izdaj uradnega lista, izdanih do 28. februarja 2026, na spletni strani uradnega lista iz prve alineje 13. člena Zakona o Uradnem listu Republike Slovenije (Uradni list RS, št. 112/05 – uradno prečiščeno besedilo, 102/07, 109/09, 38/10 – ZUKN, 60/17 – ZPVPJN-B in 3/22 – ZDeb) do uskladitve poslovanja iz drugega odstavka prejšnjega člena, pri čemer se na spletni strani navede, da gre za arhivsko spletno stran in da so izdaje uradnega lista, izdane po 28. februarju 2026, dostopne v PISRS.

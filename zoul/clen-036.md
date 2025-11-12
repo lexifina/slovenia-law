@@ -1,0 +1,5 @@
+# 36. člen (dogovor o prevzemu zaposlenih)
+
+(1) Ministrstvo, pristojno za javno upravo, se lahko v treh mesecih po uveljavitvi tega zakona z Javnim podjetjem Uradni list Republike Slovenije, d. o. o., dogovori o prevzemu zaposlenih, ki izpolnjujejo predpisane pogoje za zasedbo delovnega mesta in do 31. decembra 2025 opravljajo naloge iz tretje alineje 13. člena Zakona o Uradnem listu Republike Slovenije (Uradni list RS, št. 112/05 – uradno prečiščeno besedilo, 102/07, 109/09, 38/10 – ZUKN, 60/17 – ZPVPJN-B in 3/22 – ZDeb), ki se opravljajo na način gospodarske javne službe, iz Javnega podjetja Uradni list Republike Slovenije, d. o. o., na ministrstvo, pristojno za javno upravo.
+
+(2) V primeru sklenjenega dogovora iz prejšnjega odstavka zaposlenim, ki jih prevzame ministrstvo, pristojno za javno upravo, preneha delovno razmerje v Javnem podjetju Uradni list Republike Slovenije, d. o. o., 31. decembra 2025, naslednji dan po prenehanju delovnega razmerja pa zaposleni sklenejo delovno razmerje v ministrstvu, pristojnem za javno upravo.
