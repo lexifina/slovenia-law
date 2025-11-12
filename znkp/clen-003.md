@@ -1,0 +1,5 @@
+# 3. člen (načela, na katerih temeljijo koncesijske pogodbe)
+
+(1) Koncesijske pogodbe po tem zakonu in njihovo izvajanje morajo temeljiti na načelu prostega pretoka blaga, načelu svobode ustanavljanja, načelu prostega pretoka storitev, ki izhajajo iz Pogodbe o delovanju Evropske unije (prečiščena različica Pogodbe o delovanju Evropske unije, UL C št. 202 z dne 7. 6. 2016, str. 47; v nadaljnjem besedilu: PDEU), ter na načelih gospodarnosti, učinkovitosti in uspešnosti, zagotavljanja konkurence med ponudniki, transparentnosti, enakopravne obravnave ponudnikov in sorazmernosti.
+
+(2) Pri izvajanju koncesijskih pogodb morajo gospodarski subjekti izpolnjevati veljavne obveznosti na področju okoljskega, socialnega in delovnega prava, ki so določene v pravu Evropske unije, predpisih, ki veljajo v Republiki Sloveniji, kolektivnih pogodbah ali aktih mednarodnega okoljskega, socialnega in delovnega prava. Seznam mednarodnih socialnih in okoljskih konvencij je naveden v Prilogi X Direktive 2014/23/EU.

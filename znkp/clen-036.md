@@ -1,0 +1,3 @@
+# 36. člen (obvestilo za predhodno transparentnost)
+
+V primeru iz drugega odstavka 38. člena tega zakona koncedent pošlje v objavo na portalu javnih naročil in v Uradnem listu Evropske unije obvestilo za predhodno transparentnost isti dan, ko na portalu javnih naročil objavi odločitev o izbiri koncesionarja. Če se v objavi odločitve o izbiri koncesionarja na portalu javnih naročil ni mogoče sklicevati na objavljeno predhodno informativno obvestilo ali obvestilo o koncesiji, koncedent obvestilo za predhodno transparentnost pošlje v objavo isti dan, ko ponudnikom pošlje odločitev o izbiri koncesionarja.

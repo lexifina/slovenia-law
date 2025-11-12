@@ -1,0 +1,3 @@
+# 33. člen (objava obvestil)
+
+Obvestila iz prvega odstavka prejšnjega člena morajo biti objavljena na portalu javnih naročil in v Uradnem listu Evropske unije. Koncedent obvestilo pripravi in pošlje v objavo na portalu javnih naročil. Objava obvestila v Uradnem listu Evropske unije se zagotovi z elektronskimi sredstvi prek portala javnih naročil tako, da koncedent v obvestilu označi, da je treba obvestilo objaviti tudi v Uradnem listu Evropske unije. Potrdili o prejemu obvestila, poslanega v objavo, in o njegovi objavi z navedbo datuma objave, ki ju izdata portal javnih naročil in Urad za publikacije Evropske unije, se štejeta kot dokazilo, zato ju mora koncedent hraniti in po potrebi predložiti kot dokaz.

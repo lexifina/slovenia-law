@@ -1,0 +1,3 @@
+# 6. člen (načelo enakopravne obravnave gospodarskih subjektov)
+
+Koncedent, ki podeli koncesijo v konkurenčnem postopku, mora zagotoviti, da med gospodarskimi subjekti na vseh stopnjah postopka izbire koncesionarja in glede vseh elementov podelitve koncesije ni razlikovanja. Zagotoviti mora tudi, da ne ustvarja okoliščin, ki pomenijo krajevno, stvarno ali osebno diskriminacijo gospodarskih subjektov, diskriminacijo, ki izhaja iz klasifikacije dejavnosti, ki jo opravlja gospodarski subjekt, ali drugo diskriminacijo. Med postopkom izbire koncesionarja mora koncedent informacije zagotavljati na način, da nekateri kandidati ali ponudniki ne bi imeli prednosti pred drugimi.

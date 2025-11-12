@@ -1,0 +1,5 @@
+# 34. člen (pravilo zaporednosti in enakosti objav)
+
+(1) Obvestili o koncesiji in o podelitvi koncesije se objavita najpozneje pet dni po tem, ko ju je koncedent poslal v objavo. Obvestilo, ki ga je treba objaviti v tudi Uradnem listu Evropske unije, mora biti najprej objavljeno v Uradnem listu Evropske unije. Če koncedent v 48 urah po potrditvi prejema obvestila iz prejšnjega člena ne prejme potrdila o objavi v Uradnem listu Evropske unije, se obvestilo lahko objavi na portalu javnih naročil, preden se objavi v Uradnem listu Evropske unije. Pred objavo v Uradnem listu Evropske unije se na portalu javnih naročil lahko objavi tudi predhodno informativno obvestilo, vendar po tem, ko je bilo poslano v objavo Uradu za publikacije Evropske unije.
+
+(2) Vsebina obvestila, objavljenega na portalu javnih naročil, mora biti enaka vsebini obvestila, objavljenega v Uradnem listu Evropske unije. V obvestilu mora biti naveden datum, ko je bilo obvestilo poslano v objavo Uradu za publikacije Evropske unije.
