@@ -1,4 +1,0 @@
-# 2. člen
-10. člen se spremeni tako, da se glasi:
-"10. člen
-Če predstojnik službe meni, da predpis ministra, predstojnika organa v sestavi ministrstva ali nosilca javnega pooblastila ni v skladu z ustavo, zakonom ali drugim predpisom državnega zbora ali predpisom vlade, opozori na to ministra, predstojnika organa v sestavi ministrstva ali nosilca javnega pooblastila. Če minister, predstojnik organa v sestavi ministrstva ali nosilec javnega pooblastila vztraja pri objavi, predstojnik službe obvesti o tem predsednika vlade in predlaga zadržanje objave predpisa.".
