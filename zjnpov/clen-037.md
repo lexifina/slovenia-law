@@ -1,0 +1,3 @@
+# 37. člen (standardi za okoljsko upravljanje)
+
+Če naročnik v primerih iz 6. točke drugega odstavka 35. člena tega zakona zahteva spričevala neodvisnih organov, ki so pooblaščeni za ugotavljanje in potrjevanje usklajenosti gospodarskega subjekta z veljavnimi standardi za varstvo okolja, se mora sklicevati na Sistem Evropske unije za okoljsko upravljanje in presojanje (EMAS) ali na standarde za varstvo okolja, ki temeljijo na evropskih ali mednarodnih standardih, ki so jih potrdili organi, ki jih priznava Evropska unija. Naročnik mora sprejeti enakovredna dokazila, ki jih izdajo organi s sedežem v drugih državah članicah, in druga dokazila o enakovrednih ukrepih za varstvo okolja.

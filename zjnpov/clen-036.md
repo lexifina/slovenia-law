@@ -1,0 +1,3 @@
+# 36. člen (standardi za zagotovitev kakovosti)
+
+Če naročnik zahteva predložitev spričeval neodvisnih pooblaščenih organov, ki potrjujejo usklajenost gospodarskega subjekta z veljavnimi standardi za zagotovitev kakovosti, se mora sklicevati na sisteme zagotavljanja kakovosti, ki temeljijo na ustrezni seriji evropskih standardov, ki jih potrjujejo neodvisni pooblaščeni organi. Ti organi morajo biti usklajeni s serijo evropskih standardov v zvezi z izdajanjem akreditacij in potrdil. Naročnik mora sprejeti enakovredna potrdila, ki jih izdajo neodvisni pooblaščeni organi s sedežem v drugih državah članicah. Naročnik mora od gospodarskih subjektov sprejeti tudi druga dokazila o enakovrednih ukrepih za zagotavljanje kakovosti.

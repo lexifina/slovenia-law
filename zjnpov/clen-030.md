@@ -1,0 +1,5 @@
+# 30. člen (obveznosti v zvezi z davki, varstvom okolja, zagotavljanjem zaposlovanja in pogoji za delo)
+
+(1) Naročnik lahko v razpisni dokumentaciji navede organ ali organe, od katerih lahko kandidat ali ponudnik pridobi ustrezne informacije o obveznostih v zvezi z davki in varovanjem okolja, določbah za zagotavljanje zaposlovanja in pogojih za delo, ki veljajo v Republiki Sloveniji, regiji, kraju ali državi članici ali tretji državi, kjer je treba izvesti gradnje ali opraviti storitve, ter veljajo za gradnje, ki se izvajajo na kraju samem, ali za storitve, ki se opravljajo med izvedbo naročila.
+
+(2) Če naročnik navede informacije iz prejšnjega odstavka, mora od ponudnikov ali kandidatov zahtevati, da navedejo, da so pri pripravi svoje ponudbe upoštevali obveznosti v zvezi z določbami za zagotavljanje zaposlovanja in pogoje za delo, ki veljajo v kraju, kjer je treba izvesti gradnje ali opraviti storitve. Navedena zahteva ni v povezavi z določbo, ki ureja obravnavanje neobičajno nizkih ponudb.

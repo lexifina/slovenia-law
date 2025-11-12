@@ -1,0 +1,3 @@
+# 90. člen (prehodno obdobje za naročila, ki se izvajajo na podlagi 346. členu PDEU, ter naročila za izvajanje obveščevalne in protiobveščevalne dejavnosti)
+
+Medresorska komisija imenovana na podlagi 5. člena Uredbe o obrambnih in zaupnih naročilih (Uradni list RS, št. 80/07) odloča o utemeljenosti oddaje naročil iz 11. člena tega zakona v skladu s prvim odstavkom 12. člena tega zakona do imenovanja medresorske komisije iz 12. člena tega zakona. Z dnem imenovanja medresorske komisije iz 12. člena tega zakona medresorska komisija imenovana na podlagi 5. člena Uredbe o obrambnih in zaupnih naročilih (Uradni list RS, št. 80/07) preneha delovati.

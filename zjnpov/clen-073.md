@@ -1,0 +1,3 @@
+# 73. člen (evidenca gospodarskih subjektov z izrečenimi stranskimi sankcijami izločitve iz postopkov javnega naročanja)
+
+Organ, ki odloči o prekršku iz 2. točke prvega odstavka 87. člena tega zakona, v treh delovnih dneh po pravnomočnosti odločitve o tem obvesti ministrstvo, pristojno za javna naročila, ki vodi evidenco gospodarskih subjektov z izrečenimi stranskimi sankcijami izločitve iz postopkov javnega naročanja na podlagi 110. člena ZJN-3. V obvestilu navede polno ime in matično številko gospodarskega subjekta ter datum, do katerega je gospodarski subjekt izločen iz postopkov naročanja.
