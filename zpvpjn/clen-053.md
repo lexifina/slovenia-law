@@ -1,0 +1,7 @@
+# 53. člen (odstop dokumentacije)
+
+(1) Naročnik mora v treh delovnih dneh od prejema pritožbe pritožbo in vso dokumentacijo o postopku javnega naročanja skupaj z dokumentacijo iz predrevizijskega postopka odstopiti Državni revizijski komisiji. Dokumentacija mora biti odstopljena v celoti in opremljena s popisom dokumentov.
+
+(2) Če dokumentacija iz prejšnjega odstavka ni odstopljena celoti in ni opremljena s popisom dokumentov, lahko Državna revizijska komisija v treh delovnih dneh od prejema pritožbe in dokumentacije od naročnika zahteva njeno dopolnitev.
+
+(3) Če se v skladu z zakonom, ki ureja javno naročanje, za del dokumentacije v kateri koli fazi postopka javnega naročanja niso uporabljala elektronska sredstva in tega dela dokumentacije ni mogoče pretvoriti v elektronsko obliko, mora naročnik ne glede na prvi odstavek 13.a člena tega zakona izvirnik tega dela dokumentacije Državni revizijski komisiji poslati po pošti priporočeno s povratnico. Če se v skladu s sedmim odstavkom 13.a člena tega zakona za izmenjavo informacij in dokumentov v predrevizijskem, revizijskem in pritožbenem postopku ne uporablja portal eRevizija, pošlje naročnik Državni revizijski komisiji na takšen način celotno dokumentacijo iz prvega ali drugega odstavka tega člena. Državna revizijska komisija mu mora dokumentacijo vrniti po pošti priporočeno s povratnico v treh delovnih dneh od sprejema odločitve o pritožbi.

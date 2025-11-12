@@ -1,0 +1,9 @@
+# 65.a člen (občna seja Državne revizijske komisije)
+
+(1) Občna seja Državne revizijske komisije se skliče za obravnavo vprašanj, ki so pomembna za enotno uporabo zakonov in prakso Državne revizijske komisije.
+
+(2) Predsednik Državne revizijske komisije skliče občno sejo najpozneje deseti delovni dan od prejema obrazložene pisne zahteve najmanj dveh članov Državne revizijske komisije. Kadar predsednik Državne revizijske komisije oceni, da ne gre za vprašanje, ki je pomembno za enotno uporabo zakonov in prakso Državne revizijske komisije, seje ne skliče, temveč svoje stališče v treh delovnih dneh od prejema zahteve pisno obrazloži vsem članom Državne revizijske komisije. Na podlagi tako podane obrazložitve predsednika Državne revizijske komisije lahko v treh delovnih dneh od prejema stališča večina članov Državne revizijske komisije ponovno zahteva sklic občne seje. V tem primeru mora predsednik Državne revizijske komisije občno sejo sklicati najpozneje deseti delovni dan od prejema zahteve večine članov Državne revizijske komisije.
+
+(3) Predsednik Državne revizijske komisije skliče občno sejo s pisnim obvestilom, ki ga članom Državne revizijske komisije pošlje najmanj tri delovne dni pred občno sejo. Sklicu morajo biti priložena vsa gradiva, ki so predmet obravnave.
+
+(4) Občne seje Državne revizijske komisije se udeležijo predsednik in člani Državne revizijske komisije, vodi pa jo predsednik. Na seji predsednik in člani sprejmejo načelno pravno mnenje o vprašanju, ki je pomembno za enotno uporabo zakonov in prakso Državne revizijske komisije. Predsednik in člani Državne revizijske komisije imajo vsak po en glas. Njihovi glasovi so enakovredni, glasovanje pa je javno. Predlog je sprejet, če prejme večino glasov. Mnenje se objavi na spletni strani Državne revizijske komisije in ga je treba upoštevati pri delu Državne revizijske komisije. Spremeni se lahko na novi občni seji.

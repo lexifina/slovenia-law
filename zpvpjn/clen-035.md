@@ -1,0 +1,11 @@
+# 35. člen (ustna obravnava)
+
+(1) Državna revizijska komisija lahko na pobudo vlagatelja ali naročnika ali na lastno pobudo izvede ustno obravnavo z namenom pridobitve natančnejših pojasnil o dejanskih okoliščinah, od katerih je odvisna odločitev v revizijskem postopku. Če Državna revizijska komisija presodi, da je dejansko stanje mogoče pravilno in popolno ugotoviti na podlagi dokumentacije iz postopka javnega naročanja, predrevizijskega postopka ali revizijskega postopka, pobudo vlagatelja ali naročnika zavrne, razen kadar sta ustno obravnavo predlagala vlagatelj in naročnik. V tem primeru je ustna obravnava obvezna.
+
+(2) Na ustno obravnavo so povabljeni naročnik, vlagatelj in izbrani ponudnik, lahko pa tudi neodvisni strokovnjaki in izvedenci. Povabljenim na ustno obravnavo je treba zagotoviti dovolj časa, da se lahko pripravijo na obravnavo in se je pravočasno ter brez izrednih stroškov udeležijo, zaradi česar se ustna obravnava praviloma skliče najmanj tri delovne dni po vročitvi vabila. Če je za obravnavanje na ustni obravnavi potrebno, da povabljeni poznajo dokumente, skice ali druge predmete, jim jih je treba dati na vpogled hkrati s sklicem obravnave ali v vabilu na obravnavo navesti, kdaj in kje si jih lahko ogledajo. Udeleženci ustne obravnave se lahko izrečejo o dejanskem stanju in dokazih. Naročnik in vlagatelj na ustni obravnavi ne smeta navajati novih dejstev in dokazov, razen če dokažeta, da jih objektivno ni bilo mogoče ugotoviti pred obravnavo.
+
+(3) Ustna obravnava se opravi na sedežu Državne revizijske komisije in ni javna. O njej se vodi zapisnik.
+
+(4) Predsednik senata, ki vodi revizijski postopek, mora na začetku ustne obravnave ugotoviti, kdo od povabljenih je navzoč, glede odsotnih pa se prepričati, ali so jim bila vabila pravilno vročena. Če brez opravičenega razloga na ustno obravnavo ne pride kateri od povabljenih, čeprav je bil ustrezno povabljen, opravi senat obravnavo brez njega.
+
+(5) Predsednik senata, ki vodi revizijski postopek, mora ukreniti vse potrebno, da se ustna obravnava opravi brez zavlačevanja in, če je mogoče, brez prekinitve in preložitve. Če predmeta ni mogoče obravnavati na enem naroku, jo predsednik senata prekine. Za nadaljevanje ukrene vse, kar je predpisano za sklic ustne obravnave, navzočim pa ustno sporoči ukrepe ter kdaj in kje se bo obravnava nadaljevala.
