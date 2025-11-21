@@ -1,0 +1,3 @@
+# 45. člen (udeleženci izobraževanja odraslih, vključenih v javnoveljavne izobraževalne programe in kategorizirani športniki invalidi uporabniki znakovnega jezika)
+
+Ne glede na določbo prvega odstavka 13. člena Zakona o uporabi slovenskega znakovnega jezika (Uradni list RS, št. 96/92) lahko udeleženec izobraževanja odraslih, vključenih v javnoveljavne izobraževalne programe in kategorizirani športniki invalidi, ki so uporabniki znakovnega jezika, uveljavljajo pravico do tolmača za znakovni jezik iz drugega odstavka 10. člena Zakona o uporabi slovenskega znakovnega jezika v obsegu 100 ur letno.
