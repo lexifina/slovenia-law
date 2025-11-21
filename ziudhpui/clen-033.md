@@ -1,0 +1,29 @@
+# 33. člen (prekrški ponudnikov in uvajalcev sistemov UI glede preglednosti na podlagi 50. člena Uredbe 2024/1689/EU)
+
+(1) Z globo od 25.000 do 250.000 eurov se za prekršek kaznuje pravna oseba, z globo od 100.000 do 450.000 eurov pa pravna oseba, ki se po zakonu, ki ureja gospodarske družbe, šteje za veliko gospodarsko družbo, ki v zvezi z opravljanjem dejavnosti kot ponudnik ali uvajalec nekaterih sistemov UI:
+
+1. ne zagotovi, da so sistemi UI, namenjeni neposredni interakciji s fizičnimi osebami, zasnovani in razviti tako, da so zadevne fizične osebe obveščene, da so v interakciji s sistemom UI, razen če je to očitno z vidika razmeroma dobro obveščene, pozorne in preudarne fizične osebe ob upoštevanju okoliščin in konteksta uporabe oziroma gre za sisteme UI, ki so z zakonom odobreni za odkrivanje, preprečevanje, preiskovanje ali pregon kaznivih dejanj, razen če so ti sistemi na voljo javnosti za prijavo kaznivega dejanja (prvi odstavek 50. člena Uredbe 2024/1689/EU);
+
+2. ne zagotovi, da so izhodni podatki sistemov UI, vključno s sistemi UI za splošne namene, ki ustvarjajo sintetično zvočno, slikovno, video ali besedilno vsebino, označeni v strojno berljivi obliki oziroma jih je mogoče prepoznati kot umetno ustvarjene ali prirejene (prvi stavek drugega odstavka 50. člena Uredbe 2024/1689/EU);
+
+3. na zagotovi, da so njene tehnične rešitve učinkovite, interoperabilne, robustne oziroma zanesljive, kolikor je to tehnično izvedljivo, pri čemer ne upošteva posebnosti ali omejitev različnih vrst vsebin, stroškov izvajanja ali splošno priznanih najsodobnejših tehnoloških dosežkov, kar se lahko odraža v ustreznih tehničnih standardih (drugi stavek drugega odstavka 50. člena Uredbe 2024/1689/EU);
+
+4. o delovanju sistema UI za prepoznavanje čustev ali sistema za biometrično kategorizacijo ne obvesti fizičnih oseb, ki so mu izpostavljene, ali ne obdeluje osebnih podatkov v skladu z Uredbo (EU) 2016/679 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o varstvu posameznikov pri obdelavi osebnih podatkov in o prostem pretoku takih podatkov ter o razveljavitvi Direktive 95/46/ES (Splošna uredba o varstvu podatkov) (UL L št. 119 z dne 4. 5. 2016, str. 1), Uredbo (EU) 2018/1725 Evropskega parlamenta in Sveta z dne 23. oktobra 2018 o varstvu posameznikov pri obdelavi osebnih podatkov v institucijah, organih, uradih in agencijah Unije in o prostem pretoku takih podatkov ter razveljavitvi Uredbe (ES) št. 45/2001 in Sklepa št. 1247/2002/ES (UL L št. 295 z dne 21. 11. 2018, str. 39) in Direktivo (EU) 2016/680 Evropskega parlamenta in Sveta z dne 27. aprila 2016 o varstvu posameznikov pri obdelavi osebnih podatkov, ki jih pristojni organi obdelujejo za namene preprečevanja, preiskovanja, odkrivanja ali pregona kaznivih dejanj ali izvrševanja kazenskih sankcij, in o prostem pretoku takih podatkov ter o razveljavitvi Okvirnega sklepa Sveta 2008/977/PNZ (UL L št. 119 z dne 4. 5. 2016, str. 89), kot je to ustrezno (tretji odstavek 50. člena Uredbe 2024/1689/EU);
+
+5. v primeru sistema UI, ki ustvarja ali prireja slikovno, zvočno ali video vsebino, ki je globoki ponaredek, ne razkrije, da je bila vsebina umetno ustvarjena ali prirejena (četrti odstavek 50. člena Uredbe 2024/1689/EU);
+
+6. v primeru sistema UI, ki ustvarja ali prireja besedilo, ki se objavi z namenom obveščanja javnosti o zadevah javnega interesa, ne razkrije, da je bilo besedilo umetno ustvarjeno ali prirejeno, razen če je bila uporaba zakonsko dovoljena za odkrivanje, preprečevanje, preiskovanje ali pregon kaznivih dejanj ali kadar je bila vsebina, ustvarjena z UI, predmet človeške preverbe ali uredniškega pregleda ali kadar ima uredniško odgovornost za objavo vsebine (drugi pododstavek četrtega odstavka 50. člena Uredbe 2024/1689/EU).
+
+(2) Z globo od 15.000 do 100.000 eurov se za prekršek iz prejšnjega odstavka kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost.
+
+(3) Z globo od 2.500 do 10.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje odgovorna oseba pravne osebe, odgovorna oseba v državnem organu ali samoupravni lokalni skupnosti ali odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost.
+
+(4) Z globo 2.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje posameznik.
+
+(5) Kadar je prekršek iz prvega odstavka tega člena posebno hud zaradi višine povzročene škode oziroma višine pridobljene protipravne premoženjske koristi ali zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, se ponudnik ali uvajalec nekaterih sistemov UI, za katere velja obveznost preglednosti iz 50. člena Uredbe 2024/1689/EU, ki je pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, kaznuje z globo v višini do 15.000.000 eurov ali do treh odstotkov skupnega svetovnega letnega prometa tega ponudnika ali uvajalca za preteklo poslovno leto, odvisno od tega, kateri znesek je višji.
+
+(6) Z globo v višini do 15.000.000 eurov ali do treh odstotkov skupnega svetovnega letnega prometa za preteklo poslovno leto, odvisno od tega, kateri znesek je nižji, se za prekršek iz prvega ali petega odstavka tega člena kaznuje pravna oseba, ki se po zakonu, ki ureja gospodarske družbe, šteje za mikro, majhno in srednjo družbo, ter samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost. Globa za prekršek po tem odstavku se izreče le v primeru, da je ta nižja od globe, določene v prvem, drugem ali petem odstavku tega člena.
+
+(7) Z globo od 5.000 do 30.000 eurov se za prekršek iz petega odstavka tega člena kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba v državnem organu ali samoupravni lokalni skupnosti, odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost.
+
+(8) Z globo od 3.000 do 15.000 eurov se za prekršek iz petega odstavka tega člena kaznuje posameznik.
