@@ -1,2 +1,0 @@
-# 1.b člen (delna veljavnost zakona za naročnike, ki nimajo statusa proračunskega uporabnika)
-Ta zakon velja tudi za naročnike, ki nimajo statusa proračunskega uporabnika, in sicer v delu, ki se nanaša na obveznost prejemanja in obdelave elektronskih računov (v nadaljnjem besedilu: e-računi), izdanih v skladu z evropskim standardom za izdajanje e-računov, na način in pod pogoji, določenimi v 28.a členu tega zakona.".
