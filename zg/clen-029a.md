@@ -1,0 +1,9 @@
+# 29.a člen
+
+(1) V primeru upravne izvršbe po drugi osebi, ki se izvaja na podlagi izvršljive odločbe o sanitarnih sečnjah, spravilu in odvozu okuženega ali z žuželkami napadenega, močno poškodovanega ali podrtega drevja iz gozda, in pri izvajanju varstvenih del po drugi osebi se sanitarna sečnja in varstvena dela opravijo, gozdni lesni sortimenti spravijo in odpeljejo ter prodajo v imenu in za račun zavezanca. Prodajo izvede izvršitelj upravne izvršbe. Kupnino od prodanih gozdno lesnih sortimentov se deponira na poseben podračun, ki ga Zavod za ta namen odpre. Zavod v roku sedmih dni od prejema kupnine na podračun nakaže zavezancu kupnino, zmanjšano za stroške izvršbe (posek, spravilo, izvedba preventivnih varstvenih del), prevoza, vseh del, povezanih s skladiščenjem in stroške skladiščenja ter prodaje. O vseh stroških iz prejšnjega stavka in vrednosti prodanih gozdno lesnih sortimentih izda Zavod poseben sklep. Poseben sklep o stroških izda Zavod v roku, ki je krajši od roka za nakazilo kupnine. Pritožba zoper sklep o stroških ne zadrži njegove izvršitve.
+
+(2) Če kupnina ne pokrije vseh ugotovljenih stroškov iz prejšnjega odstavka, plačilo razlike krije Zavod, ki jo izterja od zavezanca.
+
+(3) Gozdne lesne sortimente iz prvega odstavka tega člena se proda centrom, ki jih izbere Zavod. Izbrani centri so gozdne lesne sortimente iz prvega odstavka tega člena dolžni odkupiti vsaj po minimalni ceni.
+
+(4) Vlada določi postopek in natančnejše pogoje za izbiro centrov iz prejšnjega odstavka, minimalne cene in podrobnejši postopek prodaje gozdnih lesnih sortimentov.

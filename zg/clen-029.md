@@ -1,0 +1,7 @@
+# 29. člen
+
+(1) Zavod lastniku gozda in lastniku posamičnega gozdnega drevja zunaj naselij po uradni dolžnosti z odločbo v upravnem postopku določi sanitarne sečnje ter spravilo in odvoz drevja iz teh sečenj na lokacijo, kjer ni nevarnosti za nadaljnje širjenje škodljivih organizmov, druga varstvena dela ter rok, do kdaj jih mora opraviti. V odločbi se zavezanec opozori, da bo, če z odločbo določenih del ne opravi v določenem roku, odrejena izvršba odločbe v skladu z zakonom, ki ureja upravni postopek. Zavod postopek iz tega člena vodi tako, da zavezancu ne nastajajo čezmerni in nepotrebni stroški. Pritožba zoper to odločbo ne zadrži njene izvršitve. Če ima posamično drevo status naravne vrednote, mora Zavod pred izdajo odločbe pridobiti mnenje organizacije, pristojne za varstvo narave. Lastnik o izvedenih ukrepih obvesti Zavod v treh dneh od zaključka del.
+
+(2) Lastnik gozda lahko začne izvajati sanitarno sečnjo in druga varstvena dela že pred izdajo odločbe, mora pa o tem predhodno obvestiti Zavod ter v obvestilu navesti kraj, število in strukturo dreves za posek ter ocenjeno količino drevja v bruto m3. Zavod z odločbo v upravnem postopku določi število in strukturo dreves za največji možni posek ter ocenjeno količino drevja v bruto m3.
+
+(3) Minister, pristojen za gozdarstvo, podrobneje predpiše ukrepe za preprečitev širjenja in zatiranje rastlinskih bolezni in prenamnoženih populacij žuželk ter sanacijo poškodovanega gozda, načine izvajanja del v gozdovih in pogoje za drugo rabo gozdov.
