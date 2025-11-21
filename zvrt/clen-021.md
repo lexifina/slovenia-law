@@ -1,0 +1,7 @@
+# 21. člen (letni delovni načrt)
+
+Organizacijo in podrobno vsebino življenja in dela vrtca določi vrtec z letnim delovnim načrtom, ki ga sprejme svet vrtca.
+
+Z letnim delovnim načrtom se določi organizacija in poslovni čas vrtca, programi vrtca, vzgoja in varstvo otrok v vzgojnovarstvenih družinah, razporeditev otrok v oddelke, delo strokovnih in drugih delavcev v vrtcu, sodelovanje s starši, sodelovanje z vzgojnoizobraževalnimi, zdravstvenimi in drugimi organizacijami, mentorstvo pripravnikom, aktivnosti za vključevanje vrtca v okolje, sodelovanje s šolami, ki izobražujejo delavce za potrebe vzgoje predšolskih otrok, program strokovnega izpopolnjevanja delavcev vrtca, program dela strokovnih organov vrtca ter kadrovske, materialne in druge pogoje, potrebne za uresničitev vzgojnega procesa. Z letnim delovnim načrtom se določijo tudi sprememba organizacije dela oddelkov in enot med šolskimi počitnicami, morebitno zaprtje posameznih enot in določitev dežurnih enot, izvajanje obogatitvenih in dodatnih dejavnosti, izvajanje dejavnosti za otroke, ki niso vključeni v vrtec, ter načrt, ukrepi in usposabljanje zaposlenih za zagotavljanje varnega in spodbudnega vzgojnega okolja.
+
+Predlog letnega delovnega načrta vrtca mora biti pred sprejetjem v vseh delih, ki imajo finančne učinke na proračun občine ustanoviteljice, predvsem pa glede vrste in števila oddelkov, števila otrok v oddelku, števila strokovnih delavcev ter poslovnega časa, usklajen s pristojno službo občine ustanoviteljice.
