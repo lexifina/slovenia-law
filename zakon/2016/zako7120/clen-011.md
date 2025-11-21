@@ -1,2 +1,0 @@
-# 11. člen (primarni register)
-Za neposredne uporabnike državnega in občinskih proračunov, proračune in upravljavce sredstev sistema EZR ter za proračunske uporabnike, ki pridobijo pravno sposobnost neposredno na podlagi zakona ali drugega ustanovitvenega akta, objavljenega v Uradnem listu Republike Slovenije, in se ne registrirajo pri nobenem drugem registrskem organu, je register proračunskih uporabnikov primarni register oziroma UJP registrski organ.
