@@ -1,0 +1,9 @@
+# 32. člen (pristojnosti)
+
+(1) Minister, pristojen za vode in prostor, v soglasju z ministrom, pristojnim za zdravje, predpiše prostorske, gradbene in tehnične ukrepe za varno obratovanje kopališč ter zahteve za naprave, opremo in sredstva za varno obratovanje kopališč različnih vrst.
+
+(2) Minister, pristojen za varstvo pred naravnimi in drugimi nesrečami, predpiše plavalne sposobnosti, ki jih mora izpolnjevati kandidat za reševalca iz vode oziroma reševalec iz vode, programe usposabljanja za reševalce iz vode, obseg in način izvajanja preizkusov usposobljenosti za reševanje iz vode, pogoje za izdajo pooblastil za izvajanje programov usposabljanja za reševanje iz vode in pogoje za imenovanje komisije za preverjanje usposobljenosti, obvezno osebno zaščitno in osebno reševalno opremo reševalcev iz divjih voda, potrebno število reševalcev iz vode na kopališčih, oblačila z oznakami reševalcev iz vode, opremo za reševanje iz vode, organizacijo in red na kopališčih ter dovoljeno število obiskovalcev na kopališču. Programe usposabljanja za reševanje iz vode predpiše v soglasju z ministrom, pristojnim za šport. V soglasju z ministrom, pristojnim za zdravje, in ministrom, pristojnim za šport, pa predpiše vrste kopališč in kopališke znake.
+
+(3) Minister, pristojen za zdravje, predpiše minimalne higienske zahteve, ki jih morajo izpolnjevati kopališča, kopalna voda v bazenskih kopališčih, način ugotavljanja in spremljanja higienskih zahtev, pogoje za zagotavljanje higienskih zahtev za kopalne vode v bazenih, opremo in sredstva za dajanje prve pomoči, program usposabljanja za dajanje prve pomoči, obseg preizkusa usposobljenosti za dajanje prve pomoči in zdravniškega pregleda za reševalce iz vode ter pogoje za izvajanje programa in zdravniškega pregleda.
+
+(4) Vlada predpiše minimalne higienske zahteve in standarde kakovosti kopalne vode na kopalnih območjih in v naravnih kopališčih.

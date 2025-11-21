@@ -1,0 +1,7 @@
+# 13. člen (usposabljanje pripadnikov in oseb za reševanje iz vode)
+
+(1) Člani in pripadniki gasilskih, potapljaških in drugih reševalnih služb ter enot Civilne zaščite, ki so namenjene zaščiti in reševanju ob poplavah in drugih nesrečah na vodi, morajo biti usposobljeni za reševanje iz vode. Obseg in število pripadnikov, usposobljenih za reševanje iz vode, se določi z merili za organiziranje in opremljanje enot, služb in drugih operativnih sestav za zaščito, reševanje in pomoč. Člani in pripadniki služb in enot, ki so usposobljeni za reševanje iz vode, lahko opravljajo tudi naloge oseb, usposobljenih za reševanje iz vode v skladu s tem zakonom.
+
+(2) Za reševanje iz vode in dajanje prve pomoči pri reševanju iz vode se lahko usposobijo polnoletne osebe z ustreznimi psihofizičnimi sposobnostmi in opravljenim preizkusom plavalnih sposobnosti. Člani in pripadniki služb in enot iz prejšnjega odstavka ter osebe, usposobljene za reševanje iz vode, morajo vsakih pet let opraviti preizkus usposobljenosti za reševanje in dajanje prve pomoči pri reševanju iz vode.
+
+(3) Minister, pristojen za varstvo pred naravnimi in drugimi nesrečami, predpiše programe usposabljanja članov in pripadnikov služb in enot iz prvega odstavka tega člena ter programe usposabljanja oseb za reševanje iz vode, pogoje, ki jih morajo izpolnjevati ter programe preizkusa usposobljenosti. Programi usposabljanja in preizkusi usposobljenosti se izvajajo na način in pod pogoji določenimi s predpisi o varstvu pred naravnimi in drugimi nesrečami.
