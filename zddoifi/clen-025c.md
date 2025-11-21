@@ -1,0 +1,19 @@
+# 25.c člen (davčni prekrški v zvezi z opravljanjem dejavnosti)
+
+(1) Z globo od 800 do 10.000 eurov se kaznuje za prekršek samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, z globo od 1.200 do 15.000 eurov se kaznuje za prekršek pravna oseba, če se pravna oseba po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, pa se za prekršek kaznuje z globo od 3.200 do 30.000 eurov, če davčnemu organu ali davčnemu zavezancu ne dostavi podatkov, potrebnih za pobiranje davka, ali ne dostavi teh podatkov v predpisanih rokih ali na predpisani način ali v dostavljenih podatkih navede neresnične, nepravilne ali nepopolne podatke (prvi in tretji odstavek 23. člena).
+
+(2) Z globo v višini od 400 do 4.000 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+
+(3) Z globo od 600 do 4.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje tudi odgovorna oseba pravne osebe, če pa se pravna oseba po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, pa se odgovorna oseba pravne osebe za prekršek iz prvega odstavka tega člena kaznuje z globo od 800 do 4.000 eurov.
+
+25.č člen
+
+(globe v primerih prekrškov, katerih narava je posebno huda)
+
+(1) V primerih, ko je narava prekrška iz 25.b in 25.c člena tega zakona posebno huda zaradi višine povzročene škode oziroma višine pridobljene protipravne premoženjske koristi ali zaradi storilčevega naklepa oziroma njegovega namena koristoljubnosti, se z globo od 2.500 do 15.000 eurov za prekršek kaznuje posameznik, z globo od 3.500 do 75.000 eurov se za prekršek kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, z globo od 4.500 do 100.000 eurov se za prekršek kaznuje pravna oseba, če pa se pravna oseba po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, pa se za prekršek kaznuje z globo od 10.500 do 150.000 eurov.
+
+(2) Z globo v višini od 1.000 do 20.000 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba samostojnega podjetnika posameznika oziroma odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+
+(3) Z globo od 1.200 do 20.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje tudi odgovorna oseba pravne osebe, če se pravna oseba po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, pa se odgovorna oseba pravne osebe za prekršek iz prvega odstavka tega člena kaznuje z globo od 1.400 do 20.000 eurov.
+
+(4) Za potrebe tega člena se šteje, da je narava prekrška posebno huda zaradi višine pridobljene protipravne premoženjske koristi, če se s prekrškom iz 25.b in 25.c člena tega zakona povzroči ali bi se lahko povzročilo neplačilo davka, ki v primeru storitve prekrška s strani posameznika presega 5.000 eurov, v primeru storitve prekrška s strani samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, presega 8.000 eurov, v primeru storitve prekrška s strani pravne osebe presega 10.000 eurov in v primeru storitve prekrška s strani pravne osebe, ki se po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, presega 25.000 eurov.
