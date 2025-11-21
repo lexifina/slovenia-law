@@ -1,0 +1,3 @@
+# 15. člen (davčna osnova pri prevrednotenjih na višje vrednosti)
+
+Pri ugotavljanju davčne osnove oziroma priznavanju prihodkov in odhodkov zavezanca se znesek presežka iz prevrednotenja, ki je posledica prevrednotenja gospodarskih kategorij na višje poštene vrednosti in ki ga zavezanec prenese v preneseni čisti poslovni izid ali druge kapitalske postavke, vključi v davčno osnovo v letu takšnega prenosa. Presežek iz prevrednotenja se prenaša v preneseni poslovni izid in v davčno osnovo pri sredstvih, ki se amortizirajo, sorazmerno z obračunano amortizacijo po 33. členu tega zakona od prevrednotenega dela teh sredstev.

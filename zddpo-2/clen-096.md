@@ -1,0 +1,3 @@
+# 96. člen (uporaba 17. člena Zakona o davku od dohodkov pravnih oseb)
+
+Za odhodke prevrednotenja iz 17. člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo), ki niso bili priznani v obdobjih pred dnem začetka uporabe tega zakona v skladu s prvim in drugim odstavkom 17. člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo), se tudi po dnevu začetka uporabe tega zakona uporabljajo določbe drugega in tretjega odstavka 17. člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo) glede odprave oslabitev in priznavanja teh odhodkov.

@@ -1,0 +1,3 @@
+# 42. člen (posebna ureditev v primeru poslovne enote)
+
+Če je prenosna družba rezident Slovenije in je prevzemna družba rezident države članice EU, ki ni Slovenija, se za prenos enega ali več obratov, ki predstavljajo eno ali več poslovnih enot, ki se nahajajo v državi članici EU, ki ni Slovenija, prvi odstavek 40. člena tega zakona ne uporablja, prenosna družba pa ima pravico do odbitka davka, ki je posledica prenosa, ki bi ga ta država članica EU zaračunala kot posledico tega prenosa, če ne bi bila uveljavljena ureditev enotnega sistema obdavčenja, ki velja za združitve, delitve, delne delitve, prenose sredstev in zamenjave kapitalskih deležev družb iz različnih držav članic EU ter za prenos statutarnega sedeža SE ali SCE med državami članicami.

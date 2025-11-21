@@ -1,0 +1,17 @@
+# 25. člen (izvzem dobičkov iz odsvojitve lastniških deležev)
+
+(1) Pri določanju davčne osnove zavezanca rezidenta in nerezidenta, ki opravlja dejavnost oziroma posle v poslovni enoti ali preko poslovne enote v Sloveniji, ki ustvari dobiček iz odsvojitve lastniških deležev v gospodarskih družbah, zadrugah in drugih oblikah organiziranja, se 50% tega dobička izvzame iz davčne osnove zavezanca, če je bil zavezanec, ki ustvari dobiček, udeležen v kapitalu oziroma pri upravljanju druge osebe tako, da je imetnik poslovnega deleža, delnic ali glasovalnih pravic v višini najmanj 8% in znaša čas trajanja te udeležbe v kapitalu oziroma upravljanju gospodarske družbe, zadruge ali druge oblike organiziranja najmanj 6 mesecev in je v tem obdobju nepretrgoma za poln delovni čas zaposloval vsaj eno osebo.
+
+(2) Izguba iz odsvojitve lastniških deležev iz prvega odstavka tega člena se ne prizna v višini 50%.
+
+(3) Določbe prvega odstavka tega člena se ne uporabljajo za dobičke iz naložb v lastniške deleže v gospodarske družbe, zadruge in druge oblike organiziranja, ki imajo sedež ali kraj dejanskega delovanja poslovodstva v državah ali jurisdikcijah, ki so uvrščene na seznam iz drugega odstavka 8.a člena tega zakona.
+
+(4) V primeru likvidacije oziroma prenehanja zavezanca ali poslovne enote nerezidenta v Sloveniji v obdobju 10 let po ustanovitvi, se v davčnem obračunu ob prenehanju davčna osnova poveča za izvzeti del dobička po prvem odstavku tega člena za zadnjih pet davčnih obdobij.
+
+(5) Kot likvidacija oziroma prenehanje zavezanca in poslovne enote nerezidenta v Sloveniji se ne šteje transakcija po določbah VII. poglavja tega zakona.
+
+(6) Ne glede na določbo prvega odstavka tega člena se pri določanju davčne osnove zavezanca rezidenta in nerezidenta, ki opravlja dejavnost oziroma posle v poslovni enoti ali preko poslovne enote v Sloveniji, ki ustvari dobiček iz odsvojitve lastniških deležev, pridobljenih na podlagi naložb tveganega kapitala (naložb v obliki povečanja osnovnega kapitala družbe z vložki zavezanca ali ustanovitve gospodarske družbe) v družbi tveganega kapitala, ki je ustanovljena v skladu z zakonom, ki ureja družbe tveganega kapitala, celoten takšen dobiček izvzame iz davčne osnove zavezanca, če je imela ta družba tveganega kapitala status družbe tveganega kapitala celotno davčno obdobje in če je imela ta družba status družbe tveganega kapitala skozi celotno obdobje imetništva takega deleža zavezanca. Izguba iz odsvojitve lastniških deležev iz tega odstavka se ne prizna. Ta odstavek se do dne ustrezne odobritve nove sheme državne pomoči za tvegan kapital uporablja za zavezanca, ki je vstopil v shemo državne pomoči za tvegan kapital, do prenehanja te sheme za tega zavezanca oziroma do prenehanja zavezanca ali družbe tveganega kapitala.
+
+(7) Pri določanju davčne osnove zavezanca rezidenta in nerezidenta, ki opravlja dejavnost oziroma posle v poslovni enoti ali preko poslovne enote v Sloveniji, ki ustvari dobiček z odsvojitvijo lastniških deležev oziroma delnic v bankah, v zameno za izdajo ali prenos lastnih lastniških deležev ali delnic druge družbe (v nadaljnjem besedilu: zamenjava), se dobiček ali izguba iz te zamenjave izvzame iz davčne osnove zavezanca. Če zavezanec prejme plačilo v denarju, se sorazmerni del dobička ali izgube, ki ustreza plačilu v denarju vključi v davčno osnovo.
+
+(8) Zavezanec iz prejšnjega odstavka je dolžan ovrednotiti v zameno prejete lastniške deleže ali delnice po davčni vrednosti, ki so jo imeli v zamenjavi odsvojeni lastniški deleži ali delnice v času zamenjave.

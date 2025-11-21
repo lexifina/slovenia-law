@@ -1,0 +1,35 @@
+# 67.l člen (hibridna neskladja)
+
+(1) Hibridno neskladje nastane v situacijah, ki vključujejo zavezanca ali osebe iz petega odstavka 67.m člena tega zakona, pri katerih pride do dvojnega odbitka ali odbitka brez vključitve.
+
+(2) Hibridna oseba pomeni zavezanca, drugo osebo ali ureditev, ki se obravnava kot obdavčljiva oseba v skladu z zakonodajo Slovenije in katere dohodek ali odhodek se obravnava kot dohodek ali odhodek ene ali več drugih oseb ali posameznikov v skladu z zakonodajo druge države, ali osebo ali ureditev, ki se obravnava kot obdavčljiva oseba v skladu z zakonodajo druge države in katere dohodek ali odhodek se obravnava kot dohodek ali odhodek ene ali več drugih oseb ali posameznikov v skladu z zakonodajo Slovenije.
+
+(3) Odbitek zavezanca pomeni znesek, ki je davčno priznan odhodek in zmanjšuje davčno osnovo po tem zakonu.
+
+(4) Dvojni odbitek iz prvega odstavka tega člena pomeni odbitek istega plačila, odhodkov ali izgub od obdavčljivega dohodka v državi vira plačila, nastanka stroškov ali izgub (državi plačnika) in v drugi državi (državi vlagatelja). Pri plačilu hibridne osebe ali plačilu poslovne enote je država plačnika tista, v kateri ima hibridna oseba ali poslovna enota sedež, kraj dejanskega delovanja poslovodstva oziroma se v njej nahaja.
+
+(5) Odbitek brez vključitve iz prvega odstavka tega člena:
+
+1. pomeni odbitek od obdavčljivega dohodka zaradi plačila ali domnevnega plačila med sedežem ali krajem dejanskega delovanja poslovodstva in poslovno enoto ali med dvema ali več poslovnimi enotami v katerikoli državi, v kateri se to plačilo ali domnevno plačilo obravnava kot izvedeno (država plačnika) brez ustrezne vključitve tega plačila ali domnevnega plačila v obdavčljivi dohodek za davčne namene v državi prejemnika plačila. Država prejemnika plačila je katerakoli država, v kateri se to plačilo ali domnevno plačilo prejme ali se obravnava kot prejeto v skladu z zakonodajo katerekoli druge države. Plačilo na podlagi finančnega instrumenta se ne obravnava kot vključeno, če to plačilo izpolnjuje pogoje za kakršnokoli davčno ugodnost zgolj zaradi opredelitve tega plačila v skladu z zakonodajo države prejemnika plačila;
+
+in
+
+2. nastane zaradi:
+
+- plačila na podlagi finančnega instrumenta, ki ni vključeno v dohodek v razumnem času in je neskladje mogoče pripisati različnim opredelitvam instrumenta ali plačila, izvedenega v skladu z njim. Plačilo na podlagi finančnega instrumenta se šteje kot vključeno v dohodek v razumnem času, kadar država prejemnika plačila to plačilo vključi v obdavčitev v davčnem obdobju, ki se začne v 12 mesecih po koncu davčnega obdobja plačnika, ali kadar je razumno pričakovati, da bo država prejemnika plačila to plačilo vključila v obdavčitev v prihodnjem davčnem obdobju, pri čemer so pogoji plačila takšni, kot bi se pričakovalo, da bi se o njih dogovorile nepovezane osebe;
+
+- plačila hibridni osebi in je to neskladje posledica različne razporeditve plačil, izplačanih hibridni osebi v skladu z zakonodajo države, kjer ima hibridna oseba sedež ali kraj dejanskega delovanja poslovodstva ali je registrirana, in države posameznika, udeleženega v tej hibridni osebi;
+
+- plačila osebi z eno ali več poslovnimi enotami in je to neskladje posledica različne razporeditve plačil med sedežem ali krajem dejanskega delovanja poslovodstva in poslovno enoto ali med dvema ali več poslovnimi enotami iste osebe v skladu z zakonodajo držav, kjer oseba deluje;
+
+- plačila neupoštevani poslovni enoti, ki v državi, kjer ima poslovna enota sedež oziroma se v njej nahaja, nima statusa poslovne enote, v državi sedeža ali kraja dejanskega delovanja poslovodstva pa ima status poslovne enote;
+
+- plačila hibridne osebe, kadar se to plačilo ne upošteva v skladu z zakonodajo države prejemnika plačila, ali
+
+- domnevnega plačila med sedežem ali krajem dejanskega delovanja poslovodstva in poslovno enoto ali med dvema ali več poslovnimi enotami, kadar se to domnevno plačilo ne upošteva v skladu z zakonodajo države prejemnika plačila.
+
+(6) Plačilo, ki ustreza osnovnemu donosu prenesenega finančnega instrumenta, ne povzroči hibridnega neskladja iz prve alineje 2. točke petega odstavka tega člena, kadar posameznik ali oseba, ki se ukvarja z rednim nakupovanjem in prodajo finančnih instrumentov na svoje stroške z namenom ustvarjanja dobička (v nadaljnjem besedilu: finančni trgovec), izvede plačilo na podlagi tržnega hibridnega prenosa, če država plačnika od finančnega trgovca zahteva, da vključi v prihodke vse prejete zneske v zvezi s prenesenim finančnim instrumentom. Hibridni prenos pomeni katerokoli ureditev za prenos finančnega instrumenta, katerega osnovni donos se za davčne namene obravnava, kot da je pridobljen pri več udeležencih v tej ureditvi hkrati, tržni hibridni prenos pa pomeni vsak hibridni prenos, ki ga finančni trgovec sklene med rednim poslovanjem in ne v okviru strukturirane ureditve. Strukturirana ureditev pomeni ureditev, ki vključuje hibridno neskladje, katerega cena je vključena v pogoje ureditve, ali ureditev, ki je bila zasnovana tako, da privede do hibridnega neskladja, razen če za zavezanca ali povezano osebo ni bilo mogoče razumno pričakovati, da je seznanjena s hibridnim neskladjem, in ni pridobila davčne ugodnosti zaradi hibridnega neskladja.
+
+(7) Hibridno neskladje iz četrtega odstavka ter pete in šeste alineje 2. točke petega odstavka tega člena nastane le, če je v državi plačnika odbitek mogoče pobotati z zneskom, ki ni vključen v davčno osnovo tudi v državi prejemnika plačila.
+
+(8) Neskladje se obravnava kot hibridno neskladje le, če se pojavi med povezanimi osebami, med zavezancem in povezano osebo, med sedežem ali krajem dejanskega delovanja poslovodstva in poslovno enoto, med dvema ali več poslovnimi enotami iste osebe, v strukturirani ureditvi ali med udeleženci pri hibridnem prenosu finančnega instrumenta, ki povzroči večkratno uveljavljanje davka, plačanega na viru.

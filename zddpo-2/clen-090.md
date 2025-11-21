@@ -1,0 +1,3 @@
+# 90. člen (uporaba 18. člena)
+
+Zavezanec, ki je pred dnem začetka uporabe tega zakona, izvzel dividende oziroma druge deleže iz dobička iz davčne osnove in ravnal po tretjem odstavku 18. člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo), se glede časa trajanja udeležbe iz 2. točke prvega odstavka 18. člena in bančne garancije iz tretjega odstavka istega člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo) obravnava po tretjem odstavku 18. člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo).

@@ -1,0 +1,3 @@
+# 89. člen (obdavčevanje v skupini do poteka dobe)
+
+Zavezanci, ki ugotavljajo davek na podlagi obdavčenja v skupini v skladu s točko a) ali točko b) 81. člena Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo), lahko nadaljujejo s tem načinom do poteka dobe, za katero je bilo dano dovoljenje za obdavčenje v skupini, v skladu z 81. členom Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo) po 200. členu Zakona o davčnem postopku (Uradni list RS, št. 18/96, 78/96, 87/97, 35/98, 76/98, 82/98, 91/98, 1/99, 108/99, 37/01, 97/01, 52/02 in 33/03) ali po 63. do 67. členu Zakona o davku od dohodkov pravnih oseb (Uradni list RS, št. 33/06 – uradno prečiščeno besedilo).

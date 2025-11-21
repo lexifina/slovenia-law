@@ -1,0 +1,5 @@
+# 56. člen (olajšava za zaposlovanje invalidov)
+
+(1) Zavezanec, ki zaposluje invalida, po zakonu, ki ureja zaposlitveno rehabilitacijo in zaposlovanje invalidov, lahko uveljavlja zmanjšanje davčne osnove v višini 50% plač te osebe, vendar največ v višini davčne osnove, zavezanec, ki zaposluje invalidno osebo s 100% telesno okvaro in gluho osebo, pa v višini 70% plač te osebe, vendar največ v višini davčne osnove.
+
+(2) Zavezanec, ki zaposluje invalide iz prvega odstavka tega člena nad predpisano kvoto in katerih invalidnost ni posledica poškodbe pri delu ali poklicne bolezni pri istem delodajalcu po zakonu, ki ureja zaposlitveno rehabilitacijo in zaposlovanje invalidov, lahko uveljavlja zmanjšanje davčne osnove v višini 70% plač za te osebe, vendar največ v višini davčne osnove. Za namene tega odstavka se osebe iz tega odstavka vštevajo v kvoto po datumu sklenitve pogodbe o zaposlitvi, in sicer se najprej vštevajo tiste osebe s starejšim datumom sklenitve pogodbe o zaposlitvi. Olajšava po tem odstavku se izključuje z olajšavo po prvem odstavku tega člena.

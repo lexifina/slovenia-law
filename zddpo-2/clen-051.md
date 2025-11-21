@@ -1,0 +1,3 @@
+# 51. člen (posebne določbe)
+
+Če je prenosna družba rezident Slovenije in je prevzemna družba rezident države članice EU, ki ni Slovenija, in združitev ali delitev vključuje prenos obrata ali obratov, ki predstavlja poslovno enoto v državi članici EU, ki ni Slovenija, se ne uporablja 1. točka prvega odstavka 49. člena tega zakona, prenosna družba pa je upravičena do odbitka davka, ki izvira iz združitve ali delitve, ki bi ga država članica EU zaračunala zaradi združitve ali delitve, če ne bi bila uveljavljena ureditev enotnega sistema obdavčenja, ki velja za združitve, delitve, prenose sredstev in zamenjave kapitalskih deležev družb iz različnih držav članic EU.
