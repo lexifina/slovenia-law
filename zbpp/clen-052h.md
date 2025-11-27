@@ -1,0 +1,13 @@
+# 52.h člen
+
+Upravičenec iz 52.f člena tega zakona vloži prošnjo za dodelitev brezplačne pravne pomoči pri okrožnem sodišču, na območju katerega ima stalno ali začasno prebivališče. Prošnja se vloži pisno na obrazcu, ki ga določi Komisija Evropskih skupnosti in se objavi v Uradnem listu Evropske unije, ali na obrazcu, ki je določen s predpisi države članice Evropske unije, v kateri ima sedež sodišče, pristojno za odločanje v zadevi, oziroma organ, pristojen za izvršbo.
+
+Sodišče iz prejšnjega odstavka pošlje prošnjo skupaj s priloženimi listinami ministrstvu, pristojnemu za pravosodje (v nadaljnjem besedilu: organ pošiljatelj), razen če niso izpolnjeni pogoji iz 52.f člena tega zakona ali če je zadeva očitno nerazumna.
+
+Šteje se, da je zadeva očitno nerazumna, če obstajajo okoliščine in dejstva iz tretjega odstavka 24. člena tega zakona.
+
+Zoper odločitev, da se prošnja za dodelitev brezplačne pravne pomoči ne pošlje organu pošiljatelju, ni pritožbe, dovoljen pa je upravni spor. Ta zadeva se v upravnem sporu obravnava kot nujna.
+
+Nagrada in dejanski stroški odvetnika za sestavo tožbe in za zastopanje v upravnem sporu se krijejo iz sredstev po 44. členu tega zakona, če upravno sodišče tožbenemu zahtevku ugodi. Če upravno sodišče tožbo zavrže oziroma tožbeni zahtevek zavrne kot neutemeljen, plača vse stroške tožnik sam.
+
+Ne glede na prvi odstavek tega člena lahko upravičenec iz 52.f člena tega zakona prošnjo za dodelitev brezplačne pravne pomoči pošlje neposredno organu, ki je pristojen za sprejemanje prošenj v državi članici Evropske unije, v kateri ima sedež sodišče, pristojno za odločanje v zadevi, oziroma organ, pristojen za izvršbo (v nadaljnjem besedilu: organ prejemnik).

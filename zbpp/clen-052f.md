@@ -1,0 +1,3 @@
+# 52.f člen
+
+Če je za odločanje oziroma za izvršbo v civilni zadevi, v kateri je udeleženec ali stranka oseba, ki v času vložitve prošnje za dodelitev brezplačne pravne pomoči prebiva v Republiki Sloveniji, pristojno sodišče oziroma organ druge države članice Evropske unije (v nadaljnjem besedilu: tuji čezmejni spor), je ta oseba ne glede na državljanstvo upravičena do pravne pomoči v zvezi s pošiljanjem prošnje za dodelitev brezplačne pravne pomoči, ki je določena v 52.g do 52.l členu tega zakona.

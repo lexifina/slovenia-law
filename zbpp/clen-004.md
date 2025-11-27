@@ -1,0 +1,3 @@
+# 4. člen
+
+Država skrbi za uresničevanje načela enake dostopnosti do sodnega varstva tako, da v proračunu zagotavlja sredstva za plačilo storitev osebam, ki so po tem zakonu pooblaščene za izvajanje pravne pomoči, da oprosti upravičence plačila stroškov postopka, da, če tako določa zakon, nudi davčne ali druge olajšave osebam, ki so po tem zakonu pooblaščene za izvajanje pravne pomoči, če se odpovedo plačilu za opravljene storitve, ter da zagotavlja sredstva in pogoje za organizacijo in delovanje služb in organov, pristojnih za vodenje postopkov in za odločanje o pravici do brezplačne pravne pomoči.

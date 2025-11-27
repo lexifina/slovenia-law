@@ -1,0 +1,21 @@
+# 22. člen
+
+Brezplačna pravna pomoč se lahko, ne glede na določbe tega zakona o materialnem položaju prosilca in njegove družine, dodeli tudi, če prosilec izpolnjuje pogoje iz 24. člena tega zakona in če lastni dohodek prosilca oziroma lastni dohodek družine ne presega višine štirih osnovnih zneskov minimalnega dohodka, določenega z zakonom, ki ureja socialnovarstvene prejemke, premoženje prosilca in njegove družine pa ne presega višine 60 osnovnih zneskov minimalnega dohodka (izjemna brezplačna pravna pomoč).
+
+Izjemna brezplačna pravna pomoč se pod pogoji iz prejšnjega odstavka dodeli v naslednjih primerih:
+
+- zaradi družinskih razmer prosilca, če so stroški za preživljanje družine obremenjeni z izrednimi stroški za potrebno zdravljenje družinskega člana, s stroški za vzdrževanje družinskega člana z motnjami v telesnem ali duševnem razvoju, s stroški za vzgojo in izobraževanje otrok s prilagojenimi potrebami oziroma drugimi stroški, ki so nastali zaradi višje sile ali zaradi razlogov, ki niso na strani prosilca ali družinskih članov;
+
+- zaradi zdravstvenih razlogov prosilca, če so stroški, ki so povezani z njegovim zdravljenjem, obremenjeni z opravičenimi stroški, ki jih ne krije obvezno zdravstveno zavarovanje, so pa potrebni zaradi njegove stopnje invalidnosti ali druge oblike telesne okvare ali duševne motnje;
+
+- zaradi izrednih finančnih obveznosti, če je prosilcu in njegovi družini nastala izredna finančna obveznost, za katero prosilec ni vedel oziroma z njo ni mogel računati, ker je nastala kot posledica višje sile (npr. potres, poplave,);
+
+- če je pretežni del lastnega dohodka prosilca ali katerega od družinskih članov namenjen plačilu oskrbnine za institucionalno varstvo (npr. plačilo oskrbnine v domu starejših občanov);
+
+- če gre za prosilca, ki želi kot preživninski upravičenec izterjati sodno določeno preživnino ali preživnino, o kateri sta preživninski zavezanec in upravičenec po določbah zakona, ki ureja zakonsko zvezo in družinska razmerja, sklenila sporazum v obliki izvršljivega notarskega zapisa oziroma dogovora, sklenjenega pri pristojnem centru za socialno delo;
+
+- če gre za prosilca, ki mu je bil za zastopanje v sodnem postopku dodeljen skrbnik za posebni primer, ali za prosilca, ki mu je bila odvzeta poslovna sposobnost, razen če je bila prosilcu poslovna sposobnost omejena ali odvzeta zaradi pogostega vlaganja očitno nerazumnih vlog v sodnih postopkih;
+
+- v drugih primerih iz razlogov, na katere prosilec in njegovi družinski člani niso mogli oziroma ne morejo vplivati in zaradi katerih so se znašli v položaju materialne ogroženosti.
+
+Mnenje o dejstvih iz prejšnjega odstavka mora na zahtevo pristojnega organa za BPP podati tudi pristojni center za socialno delo, če ima podatke o prosilcu in njegovi družini.
