@@ -1,0 +1,17 @@
+# 17. člen (uporaba tehničnih sredstev na varnostno tveganih območjih)
+
+(1) Policisti smejo poleg primerov iz zakona, ki ureja naloge in pooblastila policije, uporabiti tehnična sredstva za fotografiranje in video ter avdio snemanje tudi, če je na varnostno tveganem območju ogroženo življenje ljudi ali premoženje ali je podana verjetnost, da bo do take ogroženosti prišlo, zato da se zagotovi javni red, prepreči, odkrije ali dokaže kaznivo dejanje ali prekršek ali odkrije storilce.
+
+(2) Varnostno tvegano območje po tem zakonu je geografsko določeno območje, ki ga na podlagi predhodne varnostne ocene, pripravljene pri pristojni policijski upravi, določi direktor policijske uprave ali generalni direktor policije, če gre za območje dveh ali več policijskih uprav. Območje se opredeli na podlagi objektivnih in preverljivih kazalnikov, kot so stopnja kriminalitete, statistični podatki o kaznivih dejanjih in prekrških, podatki o varnostnih intervencijah ter druge strokovne ocene tveganj, pripravljene na podlagi operativnih in drugih informacij. Tako opredeljeno območje izkazuje, da se na njem pojavlja ali je na njem podana verjetnost pojavljanja množičnega izvrševanja kaznivih dejanj ali prekrškov ali ogrožanja življenja ali osebne varnosti ljudi ali premoženja.
+
+(3) Tehnična sredstva za fotografiranje in video ter avdio snemanje po tem členu se lahko uporabljajo neposredno iz vozila, plovila, zrakoplova (tudi brezpilotnega), zgradb ali drugih objektov.
+
+(4) Posnetki, ki se pridobijo na podlagi ukrepa iz tega člena in ki ne bodo uporabljeni za dokazovanje prekrškov ali kaznivih dejanj ter identificiranje storilcev, se brišejo takoj, ko je to mogoče, najpozneje pa v 30 dneh od njihovega nastanka.
+
+(5) Ukrep uporabe tehničnih sredstev iz prvega odstavka tega člena s pisno odredbo odredi direktor policijske uprave, ki z uporabo ukrepa seznani generalnega direktorja policije. Če se ukrep uporablja na območju dveh ali več policijskih uprav, ga pisno odredi generalni direktor policije. V pisni odredbi mora biti opredeljeno varnostno tvegano območje iz drugega odstavka tega člena, obrazloženi razlogi, ki na podlagi objektivnih in preverljivih kazalnikov, določenih v drugem odstavku tega člena, utemeljujejo določitev območja za varnostno tvegano območje in obdobje, v katerem se bodo tehnična sredstva uporabljala.
+
+(6) Policija odredbo iz prejšnjega odstavka v 24 urah od podpisa pošlje v presojo preiskovalnemu sodniku okrožnega sodišča. Preiskovalni sodnik lahko odredbo potrdi ali v primerih, ko iz okoliščin primera izhaja, da niso podani pogoji za izdajo odredbe, razveljavi. Preiskovalni sodnik odloči o ukrepu nemudoma oziroma v roku, ki ne sme biti daljši od 24 ur.
+
+(7) Izvajanje ukrepa lahko traja največ tri mesece, njegovo trajanje se lahko z odredbo preiskovalnega sodnika okrožnega sodišča podaljša še za tri mesece, na pisni predlog organa, ki je odredil ukrep iz prvega odstavka tega člena. Pisni predlog za podaljšanje ukrepa mora vsebovati razloge, obrazložene na podlagi objektivnih in preverljivih kazalnikov, določenih v drugem odstavku tega člena. Predlog za podaljšanje mora biti preiskovalnemu sodniku posredovan najpozneje 96 ur pred potekom obdobja, za katerega je bil odrejen. O predlogu preiskovalni sodnik odloči nemudoma oziroma v roku, ki ne sme biti daljši od 24 ur.
+
+(8) Policija mora območja nadzora s tehničnimi sredstvi za fotografiranje in video ter avdio snemanje označiti in o tem obvestiti javnost na teh območjih.
