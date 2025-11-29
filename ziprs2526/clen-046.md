@@ -1,0 +1,7 @@
+## 4. POSEBNOSTI UPRAVLJANJA IN PRODAJE FINANČNEGA PREMOŽENJA DRŽAVE
+
+# 46. člen (odpis dolgov do Republike Slovenije)
+
+(1) Če so izpolnjeni pogoji iz tretjega odstavka 77. člena ZJF ali če so izpolnjeni pogoji za odpis dolga, ki so določeni v drugih zakonih, pri tem pa ti zakoni kot enega od pogojev določajo soglasje ministrstva, je dovoljeno odpisati dolgove, ki jih imajo dolžniki do Republike Slovenije, in sicer največ do skupne višine 3.000.000 eurov v posameznem letu.
+
+(2) V obseg sredstev iz prejšnjega odstavka se štejejo vsi dolgovi, ki jih imajo dolžniki do Republike Slovenije in se kot taki vodijo v poslovnih knjigah pri neposrednih ali posrednih proračunskih uporabnikih.
