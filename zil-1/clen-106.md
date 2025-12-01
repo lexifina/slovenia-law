@@ -1,0 +1,15 @@
+# 106. člen (vsebina registrov)
+
+(1) V register patentov se vpišejo predvsem naslednji podatki: registrska številka, datum vložitve in številka prijave, zahtevana prednostna pravica, datum objave, datum vpisa v register, številka in datum izdaje ugotovitvene odločbe po 93. členu tega zakona, podatki o imetniku (priimek, ime in naslov oziroma firma in sedež), vrsta patenta, podatki o izumitelju (priimek, ime in naslov), naziv izuma, podatki o vzdrževanju patenta, datum prenehanja patenta.
+
+(2) V register dodatnih varstvenih certifikatov se vpišejo predvsem naslednji podatki: registrska številka, datum vložitve in številka prijave, datum objave prijave in dodatnega varstvenega certifikata, datum vpisa v register, podatki o prijavitelju in imetniku dodatnega varstvenega certifikata (priimek, ime in naslov oziroma firma in sedež), naziv proizvoda oziroma sredstva, registrska številka patenta, na podlagi katerega je podeljen dodatni varstveni certifikat, številka in datum prve odobritve, da se da proizvod oziroma sredstvo na trg kot zdravilo oziroma fitofarmacevtsko sredstvo v Republiki Sloveniji oziroma Evropski uniji ali Evropskem gospodarskem prostoru, navedba države, če odobritve ni izdal pristojni organ Evropske unije po centraliziranem postopku, datum, do katerega velja certifikat, podatki o vzdrževanju certifikata, datum prenehanja dodatnega varstvenega certifikata.
+
+(3) V register modelov se vpišejo predvsem naslednji podatki: registrska številka, datum vložitve prijave, zahtevana prednostna pravica, datum objave, datum vpisa v register, podatki o imetniku (priimek, ime in naslov oziroma firma in sedež), podatki o oblikovalcu (priimek, ime in naslov), če oblikovalec to želi, navedba izdelka, število izdelkov, razvrstitev po Locarnski klasifikaciji, podatki o obnovitvi modela, datum prenehanja modela.
+
+(4) V register znamk se vpišejo predvsem naslednji podatki: registrska številka, datum vložitve prijave, zahtevana prednostna pravica, podatki o pravilniku iz 46. člena tega zakona in njegovi spremembi, datum objave prijave in registracije znamke, podatki o nasprotujočem mnenju tretjih, podatki o ugovoru in vložniku ugovora, datum vpisa v register, podatki o imetniku oziroma nosilcu (priimek, ime in naslov oziroma firma in sedež), videz znamke, seznam blaga oziroma storitev in razvrstitev blaga oziroma storitev po Nicejski klasifikaciji, podatki o delitvi znamke, podatki o mednarodni registraciji, podatki o obnovitvi znamke, podatki o razveljavitvi znamke, podatki o ugotovitvi ničnosti znamke, datum prenehanja znamke.
+
+(5) V register geografskih označb se vpišejo predvsem naslednji podatki: registrska številka, datum vložitve zahteve, datum objave, datum vpisa v register, geografska označba, vrsta blaga in kraj, na katerega se oznaka nanaša.
+
+(6) Po uradni dolžnosti se v registre iz prvega odstavka 105. člena tega zakona vpišejo podatki o sodnih sporih, o katerih je Urad obveščen, in pravnomočnih sodbah.
+
+(7) Določbe tega člena se smiselno uporabljajo za registre prijav.

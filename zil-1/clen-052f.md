@@ -1,0 +1,3 @@
+# 52.f člen (naknadno ugotavljanje ničnosti ali razveljavitve znamke)
+
+Če se za znamko EU zahteva prednost starejše znamke, registrirane na podlagi nacionalne prijave ali mednarodnih pogodb, ki obvezujejo Republiko Slovenijo, ki se ji je imetnik odpovedal ali dopustil, da njena veljavnost poteče, se lahko ničnost ali razveljavitev znamke, ki je podlaga zahteve za prednost starejše znamke, ugotovi tudi po njenem prenehanju, če bi se njena ničnost ali razveljavitev lahko ugotovila takrat, ko se ji je imetnik znamke odpovedal ali dopustil, da njena registracija poteče. V tem primeru prednost starejše znamke preneha učinkovati.
