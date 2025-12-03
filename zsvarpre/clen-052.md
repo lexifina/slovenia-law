@@ -1,0 +1,3 @@
+# 52. člen (smiselna uporaba določb, ki veljajo za ugotavljanje upravičenosti do denarne socialne pomoči)
+
+Pri presoji upravičenosti do varstvenega dodatka se v zvezi z ugotavljanjem družine oziroma družinskih članov, lastnega dohodka, upoštevanjem premoženja, dodeljevanjem, zmanjševanjem, izplačevanjem in povečanjem varstvenega dodatka za dodatek za pomoč in postrežbo, uskladitvijo višine dodeljenega varstvenega dodatka, zaznambo prepovedi odtujitve in obremenitve nepremičnine, katere lastnik je upravičenec do varstvenega dodatka, v korist Republike Slovenije, pristojnostjo organa, ugotavljanjem razlogov za nedodelitev oziroma neupravičenost, smiselno uporabljajo določbe, ki veljajo za ugotavljanje upravičenosti do denarne socialne pomoči po tem zakonu.

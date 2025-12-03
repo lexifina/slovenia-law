@@ -1,0 +1,25 @@
+# 34.b člen (posebna oblika izredne denarne socialne pomoči kot pomoč pri kritju stroškov pogreba)
+
+(1) Ne glede na določbe tega poglavja se družinskemu članu umrlega, ki je poskrbel za pogreb v Republiki Sloveniji, kot posebna oblika izredne denarne socialne pomoči dodeli izredna denarna socialna pomoč kot pomoč pri kritju stroškov pogreba v višini dvakratnika osnovnega zneska minimalnega dohodka iz 8. člena tega zakona, vendar ne več kot znašajo stroški pogreba.
+
+(2) Do pravice iz prejšnjega odstavka je upravičen družinski član umrlega, če je bil na dan smrti umrlega upravičen do socialno varstvenih pravic po tem zakonu ali katerega lastni dohodek oziroma skupni lastni dohodek družine, pri izračunu katerega se ne upoštevajo denarna socialna pomoč in varstveni dodatek po tem zakonu, otroški dodatek po zakonu, ki ureja družinske prejemke in državna štipendija po zakonu, ki ureja štipendiranje, ni presegal višine 606 eurov za samsko osebo oziroma 909 eurov za družino.
+
+(3) Kot družinski člani umrlega iz tega člena se štejejo naslednje osebe:
+
+1. zakonec oziroma oseba, s katero je umrli živel v življenjski skupnosti, ki je po zakonu, ki ureja zakonsko zvezo in družinska razmerja v pravnih posledicah izenačena z zakonsko zvezo oziroma oseba, s katero je umrli živel v registrirani istospolni partnerski skupnosti;
+
+2. otroci in pastorki,
+
+3. starši oziroma oseba, s katero eden izmed staršev živi v zakonski zvezi ali v življenjski skupnosti, ki je po zakonu, ki ureja zakonsko zvezo in družinska razmerja v pravnih posledicah izenačena z zakonsko zvezo ali v registrirani istospolni partnerski skupnosti,
+
+4. bratje ali sestre, nečaki ali nečakinje ter vnuki ali vnukinje.
+
+(4) Družinski član umrlega, ki je poskrbel za pogreb, vlogo za izredno denarno socialno pomoč iz prvega odstavka tega člena vloži pri pristojnem centru za socialno delo v roku enega leta od datuma smrti umrlega, če zneska te pomoči pri računu za opravljene pogrebne storitve ni odštelo že pogrebno podjetje na podlagi podatka o upravičenosti družinskega člana do socialno varstvenih pravic po tem zakonu. Vlogi je treba priložiti originalni račun za opravljeni pogreb ali predračun stroškov pogreba in dokazilo o smrti, če podatek ni vpisan v matični register o smrti.
+
+(5) Če je pogrebno podjetje pri računu za opravljene pogrebne storitve odštelo znesek izredne denarne socialne pomoči iz prvega odstavka tega člena, pogrebnemu podjetju ta znesek povrne izplačevalec pravice iz prvega odstavka tega člena.
+
+(6) Izredna denarna socialna pomoč iz prvega odstavka tega člena se izplača v denarju družinskemu članu, ki je poskrbel za pogreb, oziroma z nakazilom pogrebnemu podjetju.
+
+(7) Zneska iz drugega odstavka tega člena minister, pristojen za socialno varstvo, na novo določi s sklepom po letu, ki sledi letu, v katerem gospodarska rast preseže 2 odstotka bruto domačega proizvoda, na podlagi zadnjih znanih končnih podatkov Statističnega urada Republike Slovenije o pragu tveganja revščine.
+
+1.12 Dogovor o aktivnem reševanju socialne problematike
