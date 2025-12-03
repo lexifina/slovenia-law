@@ -1,0 +1,41 @@
+# 278. člen (posli z osebami povezanimi z upravljavcem pokojninskega sklada in posli s skrbnikom)
+
+(1) Upravljavec pokojninskega sklada ne sme, če ta zakon ne določa drugače, skleniti pravnega posla, katerega predmet je ali bi postal naložba pokojninskega sklada, ki ga upravlja:
+
+1. z osebo, ki je povezana z upravljavcem pokojninskega sklada;
+
+2. s skrbnikom, ki za pokojninski sklad opravlja skrbniške storitve.
+
+(2) Prepoved iz prejšnjega odstavka ne velja za:
+
+- posle, sklenjene z Republiko Slovenijo, katerih predmet so vrednostni papirji oziroma instrumenti denarnega trga, če je njihov izdajatelj Republika Slovenija oziroma Banka Slovenije;
+
+- posle, katerih predmet so naložbe pokojninskega sklada, sklenjene na organiziranem trgu vrednostnih papirjev pod pogojem, da stranki posla druga drugi nista bili oziroma ne moreta biti znani vnaprej;
+
+- sprejem prevzemne ponudbe po zakonu, ki ureja prevzeme, katerih predmet so delnice, katerih imetnik je pokojninski sklad;
+
+- posle, katerih predmet so vrednostni papirji oziroma instrumenti denarnega trga, če je njihov izdajatelj Republika Slovenija oziroma Banka Slovenije, ki jih upravljavec pokojninskega sklada za račun pokojninskega sklada sklene z osebo iz prejšnjega odstavka, ki v poslu nastopa v vlogi primarnega vpisnika oziroma vzdrževalca trga s temi finančnimi instrumenti, ti posli pa se izvedejo pod splošnimi tržnimi pogoji ali pod pogoji, ki so ugodnejši za pokojninski sklad, upoštevaje stroške in provizije v zvezi s tem ter druge naložbene možnosti.
+
+(3) Ne glede na 1. točko prvega odstavka tega člena lahko upravljavec pokojninskega sklada z osebo, ki je z njo povezana na način, da upravljavec pokojninskega sklada in ta oseba sicer ne bi bili povezani osebi, če ne bi bila z njima povezana Republika Slovenija, sklepa:
+
+- denarne depozite,
+
+- posle, katerih predmet so vrednostni papirji oziroma instrumenti denarnega trga v postopku njihove prve ali nadaljnje prodaje, kot jo opredeljuje zakon o trgu finančnih instrumentov,
+
+če se ti depoziti ali posli izvedejo pod splošnimi tržnimi pogoji ali pod pogoji, ki so ugodnejši za pokojninski sklad, upoštevaje stroške in provizije v zvezi s tem ter druge naložbene možnosti.
+
+(4) Ne glede na 2. točko prvega odstavka tega člena lahko upravljavec pokojninskega sklada sklepa s skrbnikom denarne depozite, posle, katerih predmet so vrednostni papirji oziroma instrumenti denarnega trga v postopku njihove prve prodaje, kot jo opredeljuje zakon o trgu finančnih instrumentov, če je njihov izdajatelj skrbnik, pod pogojem, da:
+
+1. skrbnik pokojninskega sklada nima kvalificiranega deleža v upravljavcu, ki upravlja ta pokojninski sklad;
+
+2. skrbnik in upravljavec sprejmeta pravila, s katerimi opredelita možne oblike nasprotja interesov v primeru takšnih naložb pokojninskega sklada ter načine omejitve teh nasprotij interesov;
+
+3. se ti depoziti ali posli izvedejo pod splošnimi tržnimi pogoji ali pod pogoji, ki so ugodnejši za pokojninski sklad, upoštevaje stroške in provizije v zvezi s tem ter druge naložbene možnosti.
+
+(5) Upravljavec pokojninskega sklada ob sklenitvi pogodbe o opravljanju skrbniških storitev obvesti skrbnika o osebah, ki so povezane z njim in ga tekoče obvešča o spremembah teh povezav.
+
+(6) V letnem poročilu pokojninskega sklada mora biti razkrit odstotek sredstev pokojninskega sklada, vloženih skupaj v depozite in finančne instrumente, katerih izdajatelj je skrbnik tega pokojninskega sklada ali oseba, povezana z upravljavcem tega pokojninskega sklada.
+
+(7) O naložbah oziroma poslih iz tega člena skrbnik pokojninskega sklada poroča Agenciji za trg vrednostnih papirjev v primeru, da je pokojninski sklad oblikovan kot vzajemni pokojninski sklad ali krovni pokojninski sklad, ali Agenciji za zavarovalni nadzor v primeru, da je pokojninski sklad oblikovan kot kritni sklad ali kot skupina kritnih skladov, na podlagi katerih se izvaja naložbena politika življenjskega cikla.
+
+(8) Posli iz tega člena so predmet rednega letnega revizijskega pregleda poslovanja pokojninskega sklada. Revizor v svojem poročilu napiše mnenji o izpolnjenosti pogojev iz tega člena in o tem, ali sta skrbnik investicijskega sklada in upravljavec pri takšni naložbi ravnala v najboljšem interesu članov.

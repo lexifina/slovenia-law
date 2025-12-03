@@ -1,0 +1,15 @@
+# 209.c člen (zajamčena vrednost sredstev in rezervacije za nedoseganje zajamčene vrednosti sredstev)
+
+(1) Upravljavec sklada izračuna vrednost sredstev zavarovanca-člana in zajamčeno vrednost sredstev zavarovanca- člana na način, določen v drugem ali tretjem odstavku tega člena.
+
+(2) Vrednost sredstev zavarovanca-člana Sklada obveznega dodatnega pokojninskega zavarovanja je enaka zmnožku vrednosti enote premoženja in številu enot premoženja na osebnem računu zavarovanca-člana Sklada obveznega dodatnega pokojninskega zavarovanja, po stanju na obračunski dan.
+
+(3) Zajamčena vrednost sredstev zavarovanca-člana je enaka vsoti njegovih čistih vplačil, povečanih za zajamčeno donosnost iz drugega odstavka 312. člena tega zakona, in izplačil, od obračunskega dneva posameznega čistega vplačila ali izplačila do dneva, na katerega se izračunava zajamčena vrednost sredstev člana.
+
+(4) Če je vrednost sredstev zavarovanca-člana Sklada obveznega dodatnega pokojninskega zavarovanja na obračunski dan nižja od zajamčene vrednosti njegovih sredstev, upravljavec sklada oblikuje rezervacije oziroma vzpostavi obveznosti v višini nedoseganja zajamčene vrednosti sredstev Sklada obveznega dodatnega pokojninskega zavarovanja.
+
+(5) Rezervacije iz prejšnjega odstavka so enake vsoti vseh primanjkljajev vrednosti sredstev zavarovanca-člana in zajamčene vrednosti sredstev zavarovanca-člana na posamezni obračunski dan.
+
+(6) V primeru izplačila odkupne vrednosti premoženja, katerega odkupna vrednost je nižja od zajamčene vrednosti sredstev zavarovanca-člana Sklada obveznega dodatnega pokojninskega zavarovanja, upravljavec sklada razliko med obema izplača v breme oblikovanih rezervacij iz prejšnjega odstavka.
+
+(7) Rezervacije iz petega odstavka tega člena so predmet pregleda pooblaščenega revizorja, ki revidira računovodske izkaze Sklada obveznega dodatnega pokojninskega zavarovanja. Revizor pregleda te rezervacije po stanju na dan 31. decembra preteklega leta ter po stanju na dva naključna datuma v poslovnem letu.

@@ -1,0 +1,11 @@
+# 324. člen (naložbena politika življenjskega cikla člana)
+
+(1) V primeru, da upravljavec pokojninskega sklada izvaja naložbeno politiko življenjskega cikla člana, v ta namen oblikuje skupino treh kritnih skladov dodatnega zavarovanja.
+
+(2) Kritni skladi iz prejšnjega odstavka se med seboj razlikujejo po naložbeni politiki, ki upošteva namen dodatnega zavarovanja in načela tega zakona.
+
+(3) Če član izbere naložbeno politiko življenjskega cikla, bo upravljavec pokojninskega sklada v skladu s pravili upravljanja in glede na starost člana vplačana sredstva v dodatno zavarovanje razporedil v sklad, ki je namenjen starostni skupini, v katero se član uvršča.
+
+(4) Upravljavec naložbeno politiko življenjskega cikla člana iz prvega odstavka tega člena izvaja tako, da vplačila v dobro člana razporeja na denarni račun kritnega sklada iz prvega odstavka tega člena, ki je namenjen starostni skupini, v katero se član uvršča. Upravljavec prenese odkupno vrednost premoženja na osebnem računu člana v kritni sklad, namenjen ustrezni višji starostni skupini članov, najkasneje v roku treh let od prvega naslednjega obračunskega dne po dnevu, ko član dopolni mejno starost starostne skupine kritnega sklada. Upravljavec sredstva prenese v enkratnem znesku in brez stroškov za člana, pri čemer pri odločitvi za prenos zasleduje cilj največje ekonomske koristi za člana. Upravljavec vsa nova vplačila v dobro člana, prejeta od dneva, ko član dopolni mejno starost starostne skupine kritnega sklada, razporeja na denarni račun kritnega sklada, ki je namenjen ustrezni višji starostni skupini članov, v katero se član po novem uvršča.
+
+(5) Ne glede na prejšnji odstavek ima član posameznega kritnega sklada iz prvega odstavka tega člena pravico, da enkrat letno izbere drugačno razporeditev sredstev, pri čemer pa ta ne sme biti bolj tvegana od razporeditve v skladu s politiko življenjskega cikla. Član posameznega kritnega sklada lahko po svetovalnem pogovoru z upravljavcem glede tveganj takšne odločitve izbere kritni sklad skupine treh kritnih skladov dodatnega zavarovanja, ki je namenjen mlajši starostni skupini članov od starostne skupine, ki ji član pripada, kar pa ne velja za člane v najstarejši starostni skupini.

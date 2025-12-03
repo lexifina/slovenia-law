@@ -1,0 +1,9 @@
+# 51. člen (odmera invalidske pokojnine pri kombiniranih vzrokih invalidnosti)
+
+(1) Invalidska pokojnina, ki pripada zavarovancu po prejšnjem členu, se odmeri tako, da se posebej odmeri invalidska pokojnina, kot če bi bila skupna invalidnost posledica poškodbe pri delu ali poklicne bolezni, in posebej invalidska pokojnina, kot če bi bila skupna invalidnost posledica bolezni ali poškodbe zunaj dela.
+
+(2) Od vsakega izračunanega zneska po prejšnjem odstavku se odmeri odstotek, ki ustreza vplivu posameznega vzroka invalidnosti na skupno invalidnost. Seštevek ne more biti nižji od zneska najnižje pokojnine iz 39. člena tega zakona in ne more presegati zneska pokojnine, odmerjene za 40 let pokojninske dobe, kot ga določa 37. člen tega zakona.
+
+(3) Ne glede na prejšnji odstavek se zavarovancu, katerega dopolnjena pokojninska doba brez prištete dobe presega 40 let oziroma je odmerni odstotek za dopolnjeno pokojninsko dobo višji od odmernega odstotka za 40 let pokojninske dobe, določenega v 37. členu tega zakona, seštevek dobljenega zneska določi v skladu s 37. členom tega zakona glede na dopolnjeno pokojninsko dobo.
+
+(4) Če je invalidnost, na podlagi katere pridobi zavarovanec pravico do invalidske pokojnine, deloma posledica poškodbe pri delu ali poklicne bolezni, deloma pa posledica bolezni ali poškodbe zunaj dela, pri čemer zavarovanec ne izpolnjuje pogojev minimalne pokojninske dobe za priznanje pravice do invalidske pokojnine, ki je posledica bolezni ali poškodbe zunaj dela, se zavarovancu odmeri invalidska pokojnina le za poškodbo pri delu oziroma poklicno bolezen. Invalidska pokojnina se izračuna, kot če bi bila skupna invalidnost posledica poškodbe pri delu oziroma poklicne bolezni, odmeri in prizna pa se le za znesek, ki ustreza odstotku vpliva poškodbe pri delu oziroma poklicne bolezni na nastanek invalidnosti.

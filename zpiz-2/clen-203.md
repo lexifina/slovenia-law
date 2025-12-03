@@ -1,0 +1,9 @@
+# 203. člen (obdobje prejemanja poklicne pokojnine)
+
+(1) Poklicna pokojnina se izplačuje uživalcu poklicne pokojnine v mesečnih zneskih od uveljavitve pravice do poklicne pokojnine do izpolnitve pogojev za pridobitev starostne pokojnine v obveznem zavarovanju. Obdobje prejemanja poklicne pokojnine traja največ toliko časa, kolikor je zavarovanec dopolnil dodane dobe v skladu z drugim in tretjim odstavkom 202. člena tega zakona. Izplačevanje poklicne pokojnine se začne pod pogojem, da uživalec poklicne pokojnine ni vključen v obvezno pokojninsko in invalidsko zavarovanje in da po poteku obdobja prejemanja poklicne pokojnine izpolni pogoj za starostno pokojnino v obveznem zavarovanju ali za priznanje pokojnine v skladu z drugim odstavkom 204. člena tega zakona.
+
+(2) Če za uživalca poklicne pokojnine iz prejšnjega odstavka nastopi obveznost zavarovanja na podlagi 14., 15., 16. in 17. člena ali četrtega, petega ali šestega odstavka 19. člena tega zakona, se za čas obveznega zavarovanja poklicna pokojnina ne izplačuje.
+
+(3) Zadržana sredstva v skladu s prejšnjim odstavkom, ki se niso izplačevala iz solidarnostnih rezerv, ostanejo na osebnem računu uživalca poklicne pokojnine in se lahko uporabijo za uveljavitev pravice v skladu s prvim odstavkom 205.a člena ali 206. členom tega zakona.
+
+(4) V primeru smrti uživalca poklicne pokojnine pred potekom obdobja prejemanja poklicne pokojnine iz prvega odstavka tega člena ali iz drugega odstavka 204. člena se preostanek sredstev na njegovem osebnem računu prenese v solidarnostne rezerve, razen dela, ki se ni uporabil za izračun poklicne pokojnine ter je predmet dedovanja.

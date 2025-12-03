@@ -1,0 +1,3 @@
+# 130.a člen (čas zaposlitve pri mednarodni organizaciji)
+
+Ne glede na določbe 129. in 130. člena tega zakona se zavarovancu k zavarovalni dobi po tem zakonu upošteva obdobje zaposlitve pri mednarodni organizaciji s sedežem v drugi državi članici EU, EGP in Švicarski konfederaciji, če mednarodna pogodba ne določa drugače, ali obdobje opravljanja funkcije poslanca v Evropskem parlamentu. To obdobje se upošteva za izpolnitev pogojev za pridobitev pravice iz obveznega pokojninskega in invalidskega zavarovanja, višina pravice pa se odmeri v skladu s predpisi EU o koordinaciji sistemov socialne varnosti.

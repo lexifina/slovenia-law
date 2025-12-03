@@ -1,0 +1,9 @@
+# 239. člen (posledice pri pravnem prenosu podjetja)
+
+(1) Če pride zaradi pravnega prenosa podjetja ali dela podjetja, izvedenega na podlagi zakona, drugega predpisa, pravnega posla ali pravnomočne sodne odločbe ali zaradi združitve ali delitve do spremembe delodajalca, preidejo pogodbene in druge pravice in obveznosti iz pogodbe o oblikovanju pokojninskega načrta ali kolektivne pogodbe, v delu, kjer je urejeno kolektivno dodatno zavarovanje, ki so jih imeli delavci na dan prenosa pri delodajalcu prenosniku, na delodajalca prevzemnika, če ob prenosu ni dogovorjeno drugače.
+
+(2) Pravice in obveznosti iz pogodbe o oblikovanju pokojninskega načrta, ki je zavezovala delodajalca prenosnika, delodajalec prevzemnik v primeru iz prejšnjega odstavka zagotavlja delavcem najmanj eno leto, razen če pogodba o oblikovanju pokojninskega načrta ali kolektivna pogodba preneha veljati pred potekom enega leta ali če je pred potekom enega leta sklenjena nova pogodba o oblikovanju pokojninskega načrta ali kolektivna pogodba, pri kateri sodelujejo vsi delavci pri delodajalcu prevzemniku.
+
+(3) Če ima delodajalec prevzemnik za svoje delavce že oblikovan pokojninski načrt, se prevzeti delavci po poteku roka iz prejšnjega odstavka vključijo v kolektivno zavarovanje po pokojninskem načrtu, ki ga je delodajalec prevzemnik oblikoval za svoje zaposlene. Prevzeti delavci, ki ob vključitvi v kolektivno zavarovanje iz prejšnjega stavka ne izkoristijo pravice iz 248. člena tega zakona in ne prenesejo sredstev k že oblikovanemu pokojninskemu načrtu delodajalca prevzemnika v roku enega leta od dneva prenosa podjetja, v okviru pokojninskega načrta delodajalca prenosnika zadržijo pravice.
+
+(4) Delodajalec prenosnik odškodninsko odgovarja za terjatve delavcev iz naslova zapadlih in neizvedenih vplačil v kolektivno zavarovanje, nastale do datuma prenosa.

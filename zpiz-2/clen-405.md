@@ -1,0 +1,3 @@
+# 405. člen (usklajevanje dodatka upravičencem do pokojnin iz republik nekdanje SFRJ in preživnine po predpisih o preživninskem varstvu kmetov)
+
+Dodatek po Zakonu o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (Uradni list RS, št. 16/07 – uradno prečiščeno besedilo, 10/08 – ZvarDod, 61/10 in 40/11 – ZSVarPre) in preživnina po Zakonu o preživninskem varstvu kmetov (Uradni list SRS, št. 1/79, 1/86, 114/06 – ZUTPg, 10/08 – ZvarDod, 61/10 – ZSVarPre in 40/11 – ZSVarPre-A) pridobljena do 31. decembra 2011, se od uveljavitve tega zakona usklajujeta tako kot pokojnine po določbah tega zakona.

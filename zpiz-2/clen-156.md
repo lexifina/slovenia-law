@@ -1,0 +1,3 @@
+# 156. člen (delna oprostitev plačila prispevkov delodajalcev za starejše delavce)
+
+Zavezanci za plačilo prispevkov delodajalcev iz prve alineje prvega odstavka 153. člena tega zakona so oproščeni plačila prispevkov delodajalcev v višini 30 % za zavarovance iz prvega, drugega, tretjega in četrtega odstavka 14. člena tega zakona, ki so dopolnili 60 let starosti, in v višini 50 % za zavarovance iz prvega, drugega, tretjega in četrtega odstavka 14. člena tega zakona, ki izpolnjujejo starostni pogoj za pridobitev pravice do predčasne pokojnine po drugem odstavku 29. člena tega zakona. Oproščeni del prispevka delodajalca za navedene delavce plačuje Republika Slovenija v skladu s 161. členom tega zakona.

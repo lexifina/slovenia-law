@@ -1,0 +1,5 @@
+# 239.a člen (obveznost kolektivnega dogovarjanja za delodajalce)
+
+(1) Delodajalci, ki imajo 1. januarja 2026 zaposlenih več kot deset delavcev in za svoje zaposlene nimajo vzpostavljenega kolektivnega dodatnega zavarovanja, najkasneje do 1. januarja 2028 opravijo kolektivno dogovarjanje glede vzpostavitve kolektivnega dodatnega zavarovanja. Če v okviru kolektivnega dogovarjanja ne pride do sklenitve pogodbe o oblikovanju pokojninskega načrta kolektivnega dodatnega zavarovanja, delodajalec in predstavniki zaposlenih pri delodajalcu, ki v skladu z 235. členom tega zakona odločajo o sklenitvi pogodbe o oblikovanju pokojninskega načrta, podpišejo izjavo, da ni prišlo do dogovora o sklenitvi pogodbe o oblikovanju pokojninskega načrta, ki jo delodajalec posreduje Inšpektoratu Republike Slovenije za delo.
+
+(2) Delodajalci, ki izpolnijo pogoj števila zaposlenih delavcev iz prejšnjega odstavka po 1. januarju 2026, obveznost kolektivnega dogovarjanja izpolnijo v roku dveh let od dneva izpolnitve pogoja števila zaposlenih delavcev.
