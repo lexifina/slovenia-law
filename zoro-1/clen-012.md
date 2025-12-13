@@ -1,0 +1,3 @@
+## III. POSTOPEK ZA IZDAJO OROŽNIH LISTIN
+
+# 12. člen (črtan)
