@@ -1,0 +1,3 @@
+# 111.a člen (posebni delovni pogoji)
+
+Zaradi stalnega zagotavljanja izdaje odločbe iz tretjega odstavka 14.a člena tega zakona in izvajanja nadzora v zvezi z zgodnjim odkritjem invazivne vrste iz 154.b člena tega zakona se javnemu uslužbencu določi pripravljenost na domu. Pripravljenost na domu se ne všteva v tedensko ali mesečno delovno obveznost. Če mora javni uslužbenec v času pripravljenosti na domu dejansko delati, se te ure vštevajo v število ur tedenske ali mesečne delovne obveznosti ali kot delo, opravljeno preko polnega delovnega časa. Javni uslužbenec je za stalno pripravljenost na domu upravičen do dodatka.

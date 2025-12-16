@@ -1,0 +1,11 @@
+# 161.c člen (zaseg in odvzem v prekrškovnem postopku)
+
+(1) Predmete, ki so bili uporabljeni za prekršek, namenjeni za prekršek ali so nastali s prekrškom (v nadaljnjem besedilu: predmeti prekrškov) iz 3., 4., 9., 23., 24., 25., 26., 27., 28. točke prvega odstavka 160.a in 15. točke prvega odstavka 161. člena tega zakona, lahko prekrškovni organ zaseže pred izdajo sodbe o prekršku.
+
+(2) Za prekršek iz 10. točke prvega odstavka 160.a člena tega zakona, če je bil voznik vozila na motorni pogon v naravnem okolju v zadnjih dveh letih že pravnomočno kaznovan za ta prekršek, se lahko izreče stranska sankcija odvzema vozila na motorni pogon. V primerih iz prejšnjega stavka nadzorni organ lahko zaseže predmete prekrškov. Hrambo zaseženih vozil lahko poleg sodišča zagotovi upravljavec zavarovanega območja ali policija. Po odvzemu vozila na motorni pogon se lahko vozilo proda.
+
+(3) Za prekrške iz 35. do 41. točke prvega odstavka 160.a člena tega zakona se poleg predpisane globe izreče stranska sankcija odvzema osebkov invazivnih vrst. V primerih iz prejšnjega stavka nadzorni organ zaseže osebke invazivnih vrst. Po odvzemu osebkov invazivne vrste se odredi usmrtitev oziroma uničenje osebkov invazivnih vrst. Izjemoma lahko pristojni inšpektor namesto usmrtitve odredi predajo osebkov invazivnih vrst živali drugemu poslovnemu subjektu, ki ima dovoljenje iz 24.č in 24.d člena tega zakona, ali izpolnjuje pogoje za živalski vrt po predpisih, ki urejajo ohranjanje narave, če jih je ta do konca njihovega življenja pripravljena sprejeti na svoje stroške ali na podlagi sklenjenega dogovora na stroške zavezanca in jih zadrževati v zaprtem sistemu, kjer so uvedeni vsi primerni ukrepi za zagotovitev, da razmnoževanje in pobeg nista mogoča.
+
+(4) Za prekrške iz 6. in 7. točke prvega odstavka 161. člena tega zakona se poleg predpisane globe izreče stranska sankcija odvzema za predmete prekrškov. V primerih iz prejšnjega stavka nadzorni organ zaseže predmete prekrškov.
+
+(5) Ravnanje po zasegu in odvzemu v primeru prekrška iz 6. in 7. točke prvega odstavka 161. člena tega zakona predpiše vlada. Za ravnanje po zasegu in odvzemu drugih rastlin in živali, razen invazivnih vrst, ter mineralov in fosilov, se smiselno uporablja predpis iz prejšnjega stavka.

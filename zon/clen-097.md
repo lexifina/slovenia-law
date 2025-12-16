@@ -1,0 +1,19 @@
+# 97. člen (naravovarstvene smernice)
+
+(1) Državni in lokalni organi ter druge osebe javnega prava, ki so pristojne za pripravo prostorskih aktov in drugih aktov rabe naravnih dobrin, si morajo v postopku priprave teh aktov pridobiti naravovarstvene smernice. Naravovarstvene smernice je treba pridobiti tudi v postopku sprejemanja aktov razglasitve nepremičnega kulturnega spomenika, ki se nanašajo na območja, ki so na podlagi predpisov s področja ohranjanja narave določena za zavarovana območja, ekološko pomembna območja in posebna varstvena območja ter naravne vrednote, razen območij kulturne krajine in spomenikov oblikovane narave.
+
+(2) Naravovarstvene smernice so strokovno gradivo, s katerim se za območje, ki ima na podlagi predpisov s področja ohranjanja narave poseben status, opredelijo usmeritve, izhodišča in pogoji za varstvo naravnih vrednot in zavarovanih območij ter ohranjanje biotske raznovrstnosti. V naravovarstvenih smernicah se k načrtom rabe in upravljanja naravnih dobrin navedejo tudi usmeritve, izhodišča oziroma pogoji za trajnostno rabo sestavin biotske raznovrstnosti. V naravovarstvenih smernicah se upošteva zagotavljanje pretočne sposobnosti vodotokov ter odstranjevanje prodnega materiala v vodotokih in na hudourniških območjih tako, da se škodljivo delovanje voda zmanjšuje. Pretočne sposobnosti iz prejšnjega stavka določi minister, pristojen za vode.
+
+(3) Če se ob pripravi naravovarstvenih smernic k predlogom aktov iz prvega odstavka tega člena ugotovi, da bodo v te akte poleg območij s posebnim statusom iz prejšnjega odstavka vključena tudi območja, na katera se nanašajo sprejeti programi s področja ohranjanja narave, oziroma območja, za katera je predpis za pridobitev posebnega statusa že v postopku sprejemanja, se lahko strokovno gradivo izdela tudi za takšna območja, pri čemer pa se po tem, ko so naravovarstvene smernice izdelane, takšno strokovno gradivo šteje samo kot neobvezno strokovno priporočilo pripravljavcem takšnih aktov.
+
+(4) Naravovarstvene smernice izdela organizacija, pristojna za ohranjanje narave, ko od osebe iz prvega odstavka tega člena oziroma osebe, ki je pooblaščena za pripravo akta iz prvega odstavka tega člena, prejme zahtevo za njihovo pripravo. Naravovarstvene smernice se pripravijo v roku 30 dni, razen če strokovna priprava zaradi obsežnosti preverjanja, ki so potrebna za izdelavo naravovarstvenih smernic, ni možna v predpisanem roku, vendar najkasneje v roku 60 dni, o čemer obvesti osebe iz prvega odstavka tega člena.
+
+(5) Če pripravljavec naravovarstvenih smernic ugotovi, da izdelava naravovarstvenih smernic ni potrebna, o tem najkasneje v 15 dneh obvesti osebo iz prejšnjega odstavka.
+
+(6) V postopku sprejemanja aktov iz prvega odstavka tega člena je treba pridobiti mnenje o sprejemljivosti prostorske ureditve z vidika varstva narave (v nadaljnjem besedilu: naravovarstveno mnenje). Brez naravovarstvenega mnenja ali obvestila iz prejšnjega odstavka ni mogoče sprejeti akta iz prvega odstavka tega člena.
+
+(7) Naravovarstveno mnenje izda organizacija, pristojna za ohranjanje narave, ko prejme zahtevo osebe iz prvega odstavka tega člena oziroma osebe, ki je pooblaščena za pripravo akta iz prvega odstavka tega člena. Tej zahtevi je treba priložiti predlog tega akta ter ustrezno obrazložitev, kako je pripravljavec ob pripravi akta upošteval naravovarstvene smernice.
+
+(8) Organizacija, pristojna za ohranjanje narave, mora izdati naravovarstveno mnenje najpozneje v 30 dneh po prejemu zahteve iz prejšnjega odstavka. V primeru molka te organizacije se šteje, da na predvideno prostorsko ureditev nima pripomb.
+
+(9) Določbe šestega, sedmega in osmega odstavka tega člena se ne uporabljajo v postopku sprejema aktov razglasitve nepremičnih kulturnih spomenikov in v postopku sprejema načrtov rabe naravnih dobrin, če je soglasje ali mnenje ministrstva v tem postopku že določeno z drugimi predpisi.

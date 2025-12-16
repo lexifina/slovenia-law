@@ -1,0 +1,3 @@
+# 173. člen
+
+Do izdelave naravovarstvenih smernic se za določitev vsebine naravovarstvenih smernic uporabljajo strokovne podlage za varstvo območij naravne in kulturne dediščine v delu, ki se nanaša na naravno dediščino, in varstveni režimi, določeni v aktih o razglasitvah, izdanih na podlagi zakonov iz 163. člena tega zakona, in zakonu o Triglavskem narodnem parku (Uradni list SRS, št. 17/81, 18/81 in 42/86), zakonu o Spominskem parku Trebče (Uradni list SRS, št. 1/81 in 42/86), zakonu o regijskem parku Škocjanske jame (Uradni list RS, št. 57/96) in zakonu o Naravnem rezervatu Škocjanski zatok (Uradni list RS, št. 20/98).
