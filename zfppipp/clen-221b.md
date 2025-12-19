@@ -1,0 +1,5 @@
+# 221.b člen (posebna pravila v postopku prisilne poravnave za malo gospodarstvo)
+
+(1) Predlogu za začetek postopka prisilne poravnave za malo gospodarstvo ni treba predložiti poročila revizorja iz 2. točke drugega odstavka 141. člena tega zakona in poročila pooblaščenega ocenjevalca vrednosti podjetja iz 4. točke drugega odstavka 141. člena tega zakona, za ocenjeno vrednost premoženja iz četrte alineje 5. točke prvega odstavka 142. člena tega zakona pa ni potrebno, da jo izdela pooblaščeni ocenjevalec vrednosti premoženja iz 1. točke drugega odstavka 25. člena tega zakona. Dolžnik mora predlogu priložiti izjavo, da poročilo o finančnem položaju in poslovanju resnično in pošteno prikazuje njegov finančni položaj in poslovanje.
+
+(2) V postopku prisilne poravnave za malo gospodarstvo se ne uporabljajo osmi odstavek 144. člena, 181. člen, 2. točka tretjega odstavka 182. člena, 2. točka tretjega odstavka 185.a člena, 199.a člen, 199.b člen, 199.d člen, šesti do enajsti odstavek 221.h člena in 221.i do 221.l člen tega zakona.

@@ -1,0 +1,29 @@
+# 221.m člen (predlog prisilne poravnave, omejen na prestrukturiranje navadnih finančnih terjatev)
+
+(1) Predlog prisilne poravnave, ki ga vključuje načrt finančnega prestrukturiranja, lahko namesto ponudbe za zmanjšanje vseh navadnih terjatev oziroma odložitev rokov za njihovo plačilo iz prvega odstavka 143. člena tega zakona vsebuje ponudbo samo za zmanjšanje navadnih finančnih terjatev oziroma odložitev rokov za njihovo plačilo.
+
+(2) Dolžnik lahko predlaga prisilno poravnavo z vsebino iz prvega odstavka tega člena samo, če s tem soglašajo upniki, ki so skupno imetniki več kot 50 odstotkov vsote vseh finančnih terjatev do dolžnika.
+
+(3) Če dolžnik predlaga prisilno poravnavo z vsebino iz prvega odstavka tega člena, mora predlogu za začetek postopka prisilne poravnave oziroma predlogu za spremembo načrta finančnega prestrukturiranja oziroma naknadnemu predlogu za prisilno poravnavo priložiti tudi notarsko overjene izjave upnikov, ki so skupno imetniki več kot 50 odstotkov vsote vseh finančnih terjatev do dolžnika, da soglašajo s takim predlogom prisilne poravnave.
+
+(4) Če je predlog prisilne poravnave omejen samo na zmanjšanje navadnih finančnih terjatev oziroma odložitev rokov za njihovo plačilo, se pravila o navadnih terjatvah, določena v oddelku 4.3 ter pododdelkih 4.4.4 in 4.4.5, uporabljajo samo za navadne finančne terjatve.
+
+(5) Če je predlog prisilne poravnave omejen samo na zmanjšanje navadnih finančnih terjatev oziroma odložitev rokov za njihovo plačilo, sodišče dovoli začetek postopkov izvršbe ali zavarovanja za uveljavitev poslovnih terjatev do dolžnika in nadaljevanje postopkov izvršbe in zavarovanja za uveljavitev poslovnih terjatev, ki so bili prekinjeni po prvem odstavku 132. člena tega zakona.
+
+(6) O dovolitvi oziroma nadaljevanju postopkov izvršbe ali zavarovanja iz petega odstavka tega člena sodišče odloči:
+
+1. če je predlog prisilne poravnave z vsebino iz prvega odstavka tega člena vključen v načrt finančnega prestrukturiranja, priložen dolžnikovemu predlogu za začetek postopka prisilne poravnave: s sklepom o začetku postopka prisilne poravnave,
+
+2. če načrt finančnega prestrukturiranja, priložen dolžnikovemu predlogu za začetek postopka prisilne poravnave, ni vseboval predloga prisilne poravnave z vsebino iz prvega odstavka tega člena in je tak predlog vključen v načrt finančnega prestrukturiranja, priložen zahtevi za spremembo načrta finančnega prestrukturiranja: s sklepom, s katerim dovoli spremembo načrta finančnega prestrukturiranja,
+
+3. če je predlog prisilne poravnave z vsebino iz prvega odstavka tega člena, vključen v načrt finančnega prestrukturiranja, priložen naknadnemu predlogu prisilne poravnave: s sklepom, s katerim ugotovi, da so izpolnjeni pogoji za glasovanje o tem naknadnem predlogu prisilne poravnave.
+
+(7) Z objavo sklepa iz šestega odstavka tega člena prenehajo pravne posledice začetka postopka prisilne poravnave iz 131. in 132. člena tega zakona za navadne poslovne terjatve in izvršilno sodišče nadaljuje prekinjene postopke izvršbe in zavarovanja za uveljavitev teh terjatev.
+
+(8) Če je predlog prisilne poravnave z vsebino iz prvega odstavka tega člena vključen v načrt finančnega prestrukturiranja, priložen dolžnikovemu predlogu za začetek postopka prisilne poravnave, in če upniški odbor predlaga spremembo načrta finančnega prestrukturiranja tako, da je predmet predloga prisilne poravnave zmanjšanje vseh navadnih terjatev oziroma odložitev rokov za njihovo plačilo iz prvega odstavka 143. člena tega zakona, sodišče s sklepom, s katerim odloči o dovolitvi te spremembe načrta finančnega prestrukturiranja, odloči tudi, da za navadne poslovne terjatve nastanejo pravne posledice iz 131. in 132. člena tega zakona.
+
+(9) Z objavo sklepa iz osmega odstavka tega člena se prekine postopek izvršbe ali zavarovanja, ki je bil začet proti dolžniku za uveljavitev navadne poslovne terjatve do objave tega sklepa. Za nadaljevanje tega postopka se uporablja 216. člen tega zakona.
+
+(10) Sodišče mora hkrati z objavo sklepa iz osmega odstavka tega člena objaviti oklic upnikom, ki so imetniki navadnih poslovnih terjatev, da svoje terjatve prijavijo v postopku prisilne poravnave. Za ta oklic se smiselno uporabljajo 4. in 5. točka drugega odstavka 155. člena in 1. točka tretjega odstavka 221.p člena tega zakona.
+
+(11) V primeru iz osmega odstavka tega člena teče enomesečni rok za prijavo navadnih poslovnih terjatev iz prvega odstavka 59. člena tega zakona od objave oklica iz desetega odstavka tega člena.

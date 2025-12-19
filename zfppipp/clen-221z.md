@@ -1,0 +1,67 @@
+# 221.z člen (črtan) 221.aa člen (namen postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti)
+
+## Oddelek 4.9: Postopek sodnega prestrukturiranja zaradi odprave grozeče insolventnosti
+
+(1) Postopek sodnega prestrukturiranja zaradi odprave grozeče insolventnosti se vodi z namenom, da se na podlagi sklenjene prisilne poravnave omogoči izvedba finančnega prestrukturiranja, ki je potrebno, da se odpravijo vzroki, zaradi katerih bi dolžnik lahko postal insolventen.
+
+(2) Postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti ni dovoljeno voditi:
+
+- če dolžnik ni izpolnil svojih obveznosti predložitve letnega poročila agenciji zaradi objave po prvem ali drugem odstavku 58. člena ZGD 1 ali podatkov iz letnega poročila za namene iz prvega odstavka 59. člena ZGD 1 ali
+
+- če dolžnik nima predloženih vseh obračunov davčnih odtegljajev za plače in nadomestila plač in obračunov DDV za obdobje zadnjih 24 mesecev do dne oddaje vloge ali če je davčni organ dolžniku v zadnjih petih letih od vložitve predloga dodatno ali naknadno odmeril davek ali naložil plačilo prispevkov v znesku najmanj 50.000 eurov ali
+
+- če je bil dolžnik pravnomočno obsojen za kaznivo dejanje s področij delovnih razmerij, premoženja, gospodarstva ali pravnega prometa in obsodba še ni bila izbrisana iz kazenske evidence.
+
+221.ab člen
+
+(temeljna pravila postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti)
+
+(1) Za postopek sodnega prestrukturiranja zaradi odprave grozeče insolventnosti se smiselno uporabljajo pravila, ki urejajo postopek prisilne poravnave, če ni v tem oddelku določeno drugače.
+
+(2) Predlog za začetek postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti ne vsebuje podrejenega zahtevka, da sodišče začne stečajni postopek, če bo predlog za začetek postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti zavrglo ali zavrnilo oziroma postopek ustavilo.
+
+(3) Poročilo o finančnem položaju in poslovanju dolžnika iz 142. člena tega zakona mora namesto likvidacijske vrednosti sredstev vsebovati vrednost sredstev, ocenjeno v skladu z mednarodnimi standardi ocenjevanja vrednosti ob predpostavki poštene prodaje, ali oceno tržne vrednosti podjetja kot delujočega podjema.
+
+(4) Potrjena prisilna poravnava v sodnem postopku zaradi odprave grozeče insolventnosti ne učinkuje na terjatve delavcev iz naslova delovnega razmerja.
+
+(5) Glede razlogov za ugovor, da ni pogojev za vodenje postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti, se smiselno uporablja 172. člen tega zakona, ugovor pa se lahko vloži tudi iz razloga, da je dolžnik insolventen ali da dolžniku insolventnost ne grozi.
+
+(6) Pri izračunu deleža glasovalnih pravic upnika pri glasovanju o sprejetju prisilne poravnave se upošteva znesek vsake priznane ali verjetno izkazane terjatve upnika iz 73. člena tega zakona.
+
+(7) Sodišče ne glede na 3. točko drugega odstavka 221.n člena tega zakona potrdi prisilno poravnavo zaradi odprave grozeče insolventnosti, čeprav ni bila sprejeta v razredu nezavarovanih upnikov, bila pa je sprejeta v razredu ločitvenih upnikov v skladu z 221.n členom tega zakona in so družbeniki dolžnika v okviru načrta finančnega prestrukturiranja obravnavani manj ugodno kot nezavarovani upniki.
+
+(8) Za postopek sodnega prestrukturiranja zaradi odprave grozeče insolventnosti se ne uporabljajo osmi odstavek 144. člena, 152. člen, 156. člen, 166. člen, 192. člen, 199.a člen, 199.b člen, 199.d člen, 208. člen in 221.i do 221.l člen tega zakona.
+
+(9) Ne glede na 271. člen tega zakona v morebitnem poznejšem stečajnem postopku nad dolžnikom ni mogoče izpodbijati pravnih dejanj, ki jih je opravil dolžnik zaradi plačila terjatev upnikov ali izpolnitve drugih obveznosti v skladu s potrjeno prisilno poravnavo v sodnem postopku zaradi odprave grozeče insolventnosti.
+
+(10) Če sodišče v postopku sodnega prestrukturiranja zaradi odprave grozeče insolventnosti izda sklep o začetku stečajnega postopka, se za terjatve, ki so nastale od začetka postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti do začetka stečajnega postopka, smiselno uporablja drugi odstavek 289. člena tega zakona.
+
+(11) Niti začetek postopka sodnega prestrukturiranja za odpravo grozeče insolventnosti niti sklep o potrditvi prisilne poravnave v postopku sodnega prestrukturiranja za odpravo grozeče insolventnosti ne učinkujeta za finančno zavarovanje po zakonu, ki ureja finančna zavarovanja, in terjatev, zavarovano s takim zavarovanjem.
+
+221.ac člen
+
+(vpliv začetka postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti na izvršilne postopke in postopke zavarovanja ter zunajsodno uveljavitev ločitvenih pravic)
+
+(1) Pravila, določena v oddelku 3.8 tega zakona, ki se nanašajo na postopek prisilne poravnave, se uporabljajo tudi v postopku sodnega prestrukturiranja zaradi odprave grozeče insolventnosti, pri čemer nedovoljenost izvršbe ali zavarovanja ali prekinitev postopka izvršbe ali zavarovanja traja štiri mesece. Po poteku tega roka se postopki izvršbe ali zavarovanja lahko začnejo ali nadaljujejo, razen če sodišče, ki vodi postopek sodnega prestrukturiranja zaradi odprave grozeče insolventnosti, na predlog dolžnika odloči, da se nedovoljenost izvršbe ali zavarovanja ali prekinitev postopka izvršbe ali zavarovanja podaljša, ali odobri novo prekinitev postopka izvršbe ali zavarovanja.
+
+(2) Sodišče odobri podaljšanje nedovoljenosti izvršbe ali zavarovanja ali prekinitve postopka izvršbe ali zavarovanja ali novo prekinitev postopka po prvem odstavku tega člena, če je bil pri pogajanjih o načrtu finančnega prestrukturiranja dosežen napredek ali če podaljšanje nedovoljenosti izvršbe ali zavarovanja ali prekinitve postopka izvršbe ali zavarovanja ali nova prekinitev postopka bistveno ne škoduje pravicam ali interesom upnikov. Domneva se, da je glede pogajanj storjen napredek, če dolžnik sodišču predloži soglasja upnikov, ki nimajo položaja ožje povezane osebe in so imetniki terjatev dolžnika, ki skupaj dosegajo 30 odstotkov vsote vseh terjatev do dolžnika. Sodišče lahko za mnenje o predlogu pozove upravitelja. Upravitelj mora mnenje o predlogu podati v osmih dneh od prejema poziva sodišča.
+
+(3) Sodišče lahko na predlog upnika, dolžnika ali upravitelja tudi pred potekom rokov iz prejšnjih odstavkov dovoli začetek ali nadaljevanje postopkov izvršbe ali zavarovanja:
+
+- če prekinitev ne izpolnjuje več cilja zagotavljanja podpore pri pogajanjih o načrtu finančnega prestrukturiranja, pri čemer se domneva, da je pogoj izpolnjen, če načrtu finančnega prestrukturiranja nasprotujejo upniki terjatev do dolžnika, ki skupaj dosegajo znesek terjatev, ki je potreben za sprejetje prisilne poravnave zaradi odprave grozeče insolventnosti, ali
+
+- kadar prekinitev privede do insolventnosti upnika.
+
+(4) Celotno trajanje nedovoljenosti izvršbe ali zavarovanja ali prekinitve posameznega postopka izvršbe ali zavarovanja, vključno s podaljšanji in novimi prekinitvami po drugem odstavku tega člena, ne sme presegati 12 mesecev.
+
+(5) V času nedovoljenosti izvršbe ali zavarovanja ali prekinitve postopkov izvršbe ali zavarovanja mora upnik za zunajsodno uveljavitev ločitvene pravice pridobiti soglasje sodišča. Sodišče izda soglasje, če so izpolnjeni pogoji iz tretjega odstavka tega člena.
+
+(6) Prejšnji odstavki se ne uporabljajo za postopke izvršbe in zavarovanja iz naslova plačila prejemkov iz delovnega razmerja.
+
+221.ad člen
+
+(ustavitev postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti)
+
+(1) Če sodišče predlog za začetek postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti zavrne, ker ugodi ugovoru zoper vodenje postopka iz razloga, da je dolžnik insolventen, ali iz razloga iz 6. točke 172. člena tega zakona, ustavi postopek sodnega prestrukturiranja zaradi odprave grozeče insolventnosti in po uradni dolžnosti izda sklep o začetku stečajnega postopka. V primeru iz prejšnjega stavka se uporabljajo posebna pravila iz pododdelka 5.3.7. tega zakona.
+
+(2) Če sodišče zavrne ali zavrže dolžnikov predlog iz drugih razlogov in ustavi postopek sodnega prestrukturiranja zaradi odprave grozeče insolventnosti, dolžnik dve leti ne sme predlagati novega postopka sodnega prestrukturiranja zaradi odprave grozeče insolventnosti.

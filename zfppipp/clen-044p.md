@@ -1,0 +1,11 @@
+# 44.p člen (sklenitev sporazuma o finančnem prestrukturiranju in notarska hramba)
+
+(1) Dolžnik in upniki izrečejo soglasje za sklenitev sporazuma o finančnem prestrukturiranju tako, da podpišejo isti izvod listine z zapisom besedila tega sporazuma. Ta listina je edini izvirnik sporazuma.
+
+(2) Podpisi zastopnikov podpisnikov sporazuma o finančnem prestrukturiranju morajo biti notarsko overjeni.
+
+(3) Ko sporazum o finančnem prestrukturiranju podpišejo vsi, ki z njim soglašajo, mora dolžnik izvirnik tega sporazuma izročiti v hrambo notarju (v nadaljnjem besedilu: notarska hramba izvirnika sporazuma o finančnem prestrukturiranju). Za to hrambo se uporabljajo pravila zakona, ki ureja notarsko hrambo listin, če ni v četrtem in petem odstavku tega člena določeno drugače.
+
+(4) Zapisnik o notarski hrambi izvirnika sporazuma o finančnem prestrukturiranju mora poleg podatkov, ki jih mora vsebovati vsak zapisnik o notarski hrambi listine, vsebovati tudi opravilno številko zadeve, pod katero teče postopek preventivnega prestrukturiranja, v katerem je bil sklenjen ta sporazum.
+
+(5) Notar trajno hrani izvirnik sporazuma o finančnem prestrukturiranju. Notar mora izročiti notarsko overjeni prepis tega sporazuma vsakemu podpisniku in vsakemu upniku, katerega terjatev je vključena v osnovni seznam finančnih terjatev, tudi če ni podpisnik tega sporazuma.

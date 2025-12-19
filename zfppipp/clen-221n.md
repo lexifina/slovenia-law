@@ -1,0 +1,71 @@
+# 221.n člen (predlog prisilne poravnave s prestrukturiranjem zavarovanih terjatev)
+
+(1) Če je treba za zagotovitev dolgoročne plačilne sposobnosti dolžnika poleg prestrukturiranja navadnih finančnih terjatev po prvem odstavku 221.m člena tega zakona ali vseh navadnih terjatev po prvem odstavku 143. člena tega zakona prestrukturirati tudi zavarovane terjatve, lahko predlog prisilne poravnave, ki ga vključuje načrt finančnega prestrukturiranja, vsebuje tudi ponudbo upnikom, ki so imetniki zavarovanih terjatev, za prestrukturiranje zavarovanih terjatev. Za predlog prisilne poravnave, ki vsebuje ponudbo za prestrukturiranje zavarovanih terjatev, veljajo ta pravila:
+
+1. s predlogom je dovoljeno ponuditi prestrukturiranje zavarovanih terjatev z odložitvijo dospelosti teh terjatev oziroma znižanjem obrestnih mer, po katerih se od začetka postopka prisilne poravnave obrestuje glavnica zavarovane terjatve;
+
+2. predmet predloga je lahko poleg prestrukturiranja iz 1. točke tega odstavka tudi preoblikovanje ločitvenih pravic, s katerimi so zavarovane te terjatve, v skupne ločitvene pravice v korist vseh imetnikov zavarovanih terjatev kot skupnosti.
+
+(2) V primeru iz prvega odstavka tega člena se o sprejetju prisilne poravnave glasuje v dveh razredih:
+
+1. v razredu nezavarovanih upnikov glasujejo upniki glede nezavarovanih terjatev, za katere učinkuje prisilna poravnava, in je v tem razredu prisilna poravnava sprejeta, če je dosežena večina iz 205. člena tega zakona;
+
+2. v razredu ločitvenih upnikov glasujejo upniki glede zavarovanih terjatev po naslednjih pravilih:
+
+- za glasovanje v razredu ločitvenih upnikov se smiselno uporablja prvi odstavek, druga alineja 1. točke ter 4. in 5. točka drugega odstavka ter tretji odstavek 201. člena tega zakona;
+
+- kot zavarovana terjatev se pri glasovanju upošteva priznani ali verjetno izkazani znesek te terjatve iz 73. člena tega zakona, vendar največ do višine vrednosti zavarovanja iz četrte alineje 5. točke prvega odstavka 142. člena tega zakona;
+
+- v tem razredu je prisilna poravnava sprejeta, če zanjo glasujejo upniki, katerih skupni ponderirani zneski terjatev so najmanj 3/4 osnove iz tretjega odstavka 201. člena tega zakona;
+
+3. prisilna poravnava je sprejeta, če je sprejeta v obeh razredih;
+
+4. če je predmet prisilne poravnave tudi prestrukturiranje iz 2. točke prvega odstavka tega člena, veljajo ta posebna pravila:
+
+- prisilna poravnava s prestrukturiranjem iz 2. točke prvega odstavka tega člena je sprejeta v razredu ločitvenih upnikov, če zanjo glasujejo upniki, katerih skupni ponderirani zneski terjatev so najmanj 85/100 osnove iz tretjega odstavka 201. člena tega zakona;
+
+- če ni dosežena večina iz prve alineje te točke in je dosežena večina iz 1. točke in tretje alineje 2. točke tega odstavka, velja, da je sprejeta prisilna poravnava glede preostalih načinov prestrukturiranja, razen prestrukturiranja iz 2. točke prvega odstavka tega člena.
+
+(3) V primeru iz prvega odstavka tega člena se poleg upniškega odbora iz 76. člena tega zakona (v nadaljnjem besedilu tega odstavka: upniški odbor nezavarovanih upnikov) oblikuje upniški odbor ločitvenih upnikov, za katerega veljajo naslednja pravila:
+
+1. za upniški odbor ločitvenih upnikov se smiselno uporabljajo pravila tega zakona o upniškem odboru nezavarovanih upnikov, če ni v 2. do 6. točki tega odstavka drugače določeno;
+
+2. člani upniškega odbora ločitvenih upnikov so vsi ločitveni upniki, razen tistih, ki imajo v razmerju do dolžnika položaj povezane družbe po 527. členu ZGD-1 ali položaj ožje povezane osebe;
+
+3. če mora sodišče po pravilih, določenih v tem zakonu, o posamezni zadevi odločiti na podlagi mnenja ali soglasja upniškega odbora nezavarovanih upnikov, mora pridobiti tudi mnenje ali soglasje upniškega odbora ločitvenih upnikov;
+
+4. če oba upniška odbora vložita zahtevo za spremembo načrta finančnega prestrukturiranja in so glede obeh zahtev izpolnjeni pogoji za dovolitev spremembe načrta finančnega prestrukturiranja iz drugega odstavka 184. člena tega zakona:
+
+- sodišče dovoli spremembo načrta finančnega prestrukturiranja, ki jo zahteva upniški odbor ločitvenih upnikov, in
+
+- zavrne zahtevo za spremembo načrta finančnega prestrukturiranja upniškega odbora nezavarovanih upnikov;
+
+5. če oba upniška odbora sprejmeta sklep o spremembi osnovnega kapitala iz 199.a člena ali 199.b člena tega zakona, se postopek spremembe osnovnega kapitala izvede na podlagi sklepa, ki ga je sprejel upniški odbor ločitvenih upnikov;
+
+6. če je sprejeta prisilna poravnava, katere predmet je prestrukturiranje z izčlenitvijo iz prvega odstavka 221.o člena tega zakona, o imenovanjih iz šestega odstavka 221.u člena tega zakona odloča samo upniški odbor ločitvenih upnikov.
+
+(4) V primeru iz prvega odstavka tega člena veljajo tudi naslednja posebna pravila:
+
+1. predlog prisilne poravnave mora glede zavarovanih terjatev:
+
+- namesto podatkov iz 2. točke tretjega odstavka 143. člena tega zakona vsebovati skupni znesek teh terjatev in odložene roke njihovega plačila oziroma znižano obrestno mero, po kateri se obrestujejo od začetka postopka prisilne poravnave do poteka odloženega roka za njihovo plačilo, in
+
+- v primeru iz 2. točke prvega odstavka tega člena tudi opis preoblikovanja ločitvenih pravic v skupne ločitvene pravice;
+
+2. če je predlog prisilne poravnave z vsebino iz prvega odstavka tega člena, vključen v načrt finančnega prestrukturiranja, priložen dolžnikovemu predlogu za začetek postopka prisilne poravnave, mora oklic o začetku postopka prisilne poravnave poleg podatkov iz drugega odstavka 155. člena in 1. točke tretjega odstavka 221.p člena tega zakona vsebovati opozorilo, da bo prisilna poravnava, če bo potrjena, učinkovala tudi na zavarovane terjatve, in poziv upnikom, ki so imetniki zavarovanih terjatev, da prijavijo svoje terjatve v postopku prisilne poravnave;
+
+3. drugi odstavek 145. člena, peti odstavek 146. člena in 185.a člen tega zakona se uporabljajo samo, če je za uspešno finančno prestrukturiranje dolžnika treba prestrukturirati zavarovane finančne terjatve v obsegu, ki je večji od obsega, v katerem za zavarovane finančne terjatve učinkuje potrjena prisilna poravnava po 221.t členu tega zakona;
+
+4. ne uporabljajo se peti do deveti odstavek 199.b člena tega zakona;
+
+5. po začetku postopka prisilne poravnave mora ločitveni upnik za zunajsodno uveljavitev ločitvene pravice pridobiti soglasje sodišča. Sodišče zavrne soglasje, če je premoženje, ki je predmet ločitvene pravice, nujno za opravljanje podjema dolžnika. Sodišče odloči o tem soglasju na podlagi mnenja upravitelja in mnenja upniškega odbora ločitvenih upnikov ter upniškega odbora nezavarovanih upnikov.
+
+(5) Sodišče mora objaviti poseben oklic zavarovanim upnikom:
+
+1. če načrt finančnega prestrukturiranja, priložen dolžnikovemu predlogu za začetek postopka prisilne poravnave, ni vseboval predloga prisilne poravnave z vsebino iz prvega odstavka tega člena in je tak predlog vključen v načrt finančnega prestrukturiranja, priložen zahtevi za spremembo načrta finančnega prestrukturiranja: z objavo sklepa, s katerim dovoli spremembo načrta finančnega prestrukturiranja,
+
+2. če je predlog prisilne poravnave z vsebino iz prvega odstavka tega člena vključen v načrt finančnega prestrukturiranja, priložen naknadnemu predlogu prisilne poravnave: z objavo sklepa, s katerim ugotovi, da so izpolnjeni pogoji za glasovanje o tem naknadnem predlogu prisilne poravnave.
+
+(6) Za poseben oklic zavarovanim upnikom se smiselno uporabljajo 4. in 5. točka drugega odstavka 155. člena in 1. točka tretjega odstavka 221.p člena tega zakona.
+
+(7) V primeru iz petega odstavka tega člena teče rok za prijavo zavarovanih terjatev iz prvega odstavka 59. člena tega zakona od objave posebnega oklica zavarovanim upnikom.
