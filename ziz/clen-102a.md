@@ -1,0 +1,3 @@
+# 102.a člen (Nadomestilo izvrševalca sklepa o izvršbi)
+
+Če izvrševalec sklepa o izvršbi dolžniku zaračunava posebno nadomestilo za izvajanje dejanj na podlagi sklepa o izvršbi ali zavarovanju, tega nadomestila ne sme poravnati iz prejemkov, ki so po 101. členu tega zakona iz izvršbe izvzeti, v primeru izvršbe na prejemke, na katere je po 102. členu tega zakona izvršba omejena, pa ne iz zneska, ki ne presega višine 76 % minimalne plače, če dolžnik preživlja družinskega člana ali drugo osebo, ki jo mora preživljati po zakonu, pa tudi zneska v višini prejemka, določenega za osebo, ki jo preživlja dolžnik, po merilih, ki jih določa zakon, ki ureja socialno varstvene prejemke, za dodelitev denarne socialne pomoči.
