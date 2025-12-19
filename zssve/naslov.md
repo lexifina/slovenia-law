@@ -1,0 +1,5 @@
+ZAKON
+
+O SODNEM SVETU
+
+(ZSSve)

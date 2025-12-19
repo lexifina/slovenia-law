@@ -1,0 +1,3 @@
+# 24. člen (oblikovanje mnenja na zahtevo ministra ali predsednika vrhovnega sodišča)
+
+Minister in predsednik vrhovnega sodišča lahko od sodnega sveta zahtevata oblikovanje mnenja do določenih vprašanj, če to potrebujeta za obveščanje javnosti, za odgovore na vprašanja Državnega zbora Republike Slovenije, Državnega sveta Republike Slovenije, Vlade Republike Slovenije, Računskega sodišča Republike Slovenije, Ustavnega sodišča Republike Slovenije, varuha človekovih pravic in predsednika Republike Slovenije ali za izvajanje svojih pristojnosti po zakonu, ki ureja sodišča, ali zakonu, ki ureja sodniško službo.
