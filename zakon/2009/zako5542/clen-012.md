@@ -1,6 +1,0 @@
-# 12. člen
-Za 61. členom se dodajo novi 61.a, 61.b in 61.c člen, ki se glasijo:
-"61.a člen
-Za izvrševanje zadev sodne uprave imajo lahko okrožna sodišča, višja sodišča in Upravno sodišče Republike Slovenije ali posamezno višje sodišče za nižja sodišča na njegovem območju ter Okrajno sodišče v Ljubljani, direktorja sodišča. Posamezno okrožno sodišče ima lahko direktorja sodišča, če na višjem sodišču ni direktorja sodišča za nižja sodišča na območju tega višjega sodišča. Direktor sodišča samostojno opravlja naloge sodne uprave za celotno območje Okrajnega sodišča v Ljubljani, okrožnega ali višjega sodišča oziroma za zunanje oddelke tega sodišča, ki se nanašajo na materialno, tehnično in finančno poslovanje sodišča, vodenje postopkov javnih naročil, odločanje o kadrovskih zadevah sodnega osebja, zagotavljanje varnosti na sodišču, spremljanje, analiziranje in pripravo prenove poslovnih procesov ter opravlja druge naloge sodne uprave na podlagi pooblastila predsednika pristojnega sodišča razen nalog, ki se nanašajo na opravljanje sodniške službe.
-Vrhovno sodišče Republike Slovenije ima generalnega sekretarja, ki je funkcionar in opravlja naloge iz prejšnjega odstavka.
-Če posamezno sodišče v skladu s prvim odstavkom tega člena nima direktorja, naloge iz njegove pristojnosti opravlja predsednik sodišča.

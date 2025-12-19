@@ -1,3 +1,0 @@
-# 19. člen
-Na koncu prvega odstavka 71. člena se doda nov stavek, ki se glasi: "Ne glede na prejšnji stavek določi letni razpored sodnikov za okrajna sodišča, ki so organizacijske enote posameznega okrožnega sodišča, predsednik okrožnega sodišča po predhodnih mnenjih predsednikov okrajnih sodišč.".
-V drugem odstavku se prvi stavek spremeni tako, da se glasi: "Zoper razporeditev na delo na določeno pravno področje lahko razporejeni sodnik v treh dneh po objavi letnega razporeda na oglasni deski sodišča napove pritožbo predsedniku sodišča, ki določi letni razpored, ta pa mora v nadaljnjih treh dneh svojo odločitev obrazložiti.".

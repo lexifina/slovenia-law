@@ -1,7 +1,0 @@
-# 23. člen
-Drugi odstavek 75. člena se spremeni tako, da se glasi:
-"Obseg finančnih sredstev za plače sodnikov in sodnega osebja ter za stroške poslovanja sodišč se v okviru državnega proračuna Republike Slovenije na podlagi finančnih načrtov posameznih sodišč zagotavlja pri proračunskem uporabniku Vrhovnem sodišču Republike Slovenije.".
-Za drugim odstavkom se dodata nov tretji in četrti odstavek, ki se glasita:
-"Za usklajevanje predlogov finančnih načrtov sodišč in kadrovskih načrtov sodišč, v skladu z zakonom, ki ureja javne finance oziroma javne uslužbence, se pri Vrhovnem sodišču Republike Slovenije oblikuje proračunski odbor sodstva, ki ga vodi generalni sekretar Vrhovnega sodišča Republike Slovenije. Proračunski odbor sodstva sestavljajo predstavniki Vrhovnega sodišča Republike Slovenije, višjih, okrožnih sodišč in Okrajnega sodišča v Ljubljani, ter predstavniki sodnega sveta in ministrstva, pristojnega za pravosodje. Predsednik Vrhovnega sodišča Republike Slovenije v soglasju z ministrom, pristojnim za pravosodje, sprejme poslovnik o organizaciji in delovanju proračunskega odbora sodstva.
-Odredbodajalci za sredstva posameznih sodišč so lahko v skladu z zakonom, ki ureja javne finance, tudi generalni sekretar Vrhovnega sodišča Republike Slovenije in direktorji sodišč. V primeru prenosa pristojnosti pooblaščena oseba odgovarja za zakonitost, namenskost, učinkovitost in gospodarnost razpolaganja s proračunskimi sredstvi.".
-Dosedanji tretji odstavek postane peti odstavek.
