@@ -1,2 +1,0 @@
-# 6. člen
-V postopkih imenovanja predsednikov sodišč, ki so se začeli pred uveljavitvijo tega zakona in je sodni svet do uveljavitve tega zakona ministru, pristojnemu za pravosodje, že poslal predlog po sedmem odstavku 62. člena Zakona o sodiščih (Uradni list RS, št. 23/05 - uradno prečiščeno besedilo), ministrstvo, pristojno za pravosodje, predlog vrne sodnemu svetu, da izpelje postopek v skladu s sedmim odstavkom 62. člena zakona.
