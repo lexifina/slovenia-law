@@ -1,0 +1,3 @@
+# 96. člen (spremembe zakona, ki ureja sistem plač v javnem sektorju)
+
+V Zakonu o sistemu plač v javnem sektorju (Uradni list RS, št. 108/09 – uradno prečiščeno besedilo, 13/10, 59/10, 85/10, 107/10, 35/11 – ORZSPJS49a, 40/12 – ZUJF, 46/13, 25/14 – ZFU, 50/14, 95/14 – ZUPPJS15 in 82/15) se v Prilogi 3 pri plačnih razredih funkcij v drugih državnih organih – A4 funkcija »generalni državni pravobranilec« nadomesti s funkcijo »generalni državni odvetnik«, funkcija »namestnik generalnega državnega pravobranilca« se nadomesti s funkcijo »namestnik generalnega državnega odvetnika«, 32. in 35. vrstica pa se črtata.

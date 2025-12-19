@@ -1,0 +1,3 @@
+# 97. člen (Uredba o notranji organizaciji, sistemizaciji, delovnih mestih in nazivih v organih javne uprave in v pravosodnih organih)
+
+Uredba o notranji organizaciji, sistemizaciji, delovnih mestih in nazivih v organih javne uprave in v pravosodnih organih (Uradni list RS, št. 58/03, 81/03, 109/03, 43/04, 58/04 – popr., 138/04, 35/05, 60/05, 72/05, 112/05, 49/06, 140/06, 9/07, 33/08, 66/08, 88/08, 8/09, 63/09, 73/09, 11/10, 42/10, 82/10, 17/11, 14/12, 17/12, 23/12, 98/12, 16/13, 18/13, 36/13, 51/13, 59/13, 14/14, 28/14, 43/14, 76/14, 91/14, 36/15, 57/15, 4/16, 44/16, 58/16, 84/16 in 8/17) se z določbami tega zakona uskladi v šestih mesecih od njegove uveljavitve.
