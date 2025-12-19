@@ -1,0 +1,9 @@
+# 65. člen
+
+Komasacijski udeleženci dobijo iz komasacijskega sklada zemljišče približno enake skupne vrednosti. Razlika med skupno vrednostjo vloženih in dobljenih zemljišč praviloma ne sme presegati 5% vrednosti in 15% površine, pri tem pa ni všteto zmanjšanje površine po 67. členu tega zakona.
+
+Na območjih, ki so predvidena za trajne nasade, osuševalne, namakalne in druge naprave, se dodelijo zemljišča tudi v skladu s tehničnimi pogoji za tako ureditev zemljišč.
+
+Če dobi komasacijski udeleženec iz komasacijskega sklada zemljišče, ki je večje skupne vrednosti kot zemljišče, ki ga je vložil, mora v denarju vplačati razliko na podračun upravne enote. Če dobi komasacijski udeleženec zemljišče manjše skupne vrednosti, kot je vrednost zemljišča, ki ga je vložil, mu upravna enota v denarju izplača razliko v skladu z vrednostjo, kot je navedena v elaboratu vrednotenja zemljišč. Razliko je treba plačati v osmih dneh po prejemu odločbe o novi razdelitvi zemljišča. Če se v pritožbenem postopku ugotovi še nadaljnja razlika, se le-ta poravna praviloma v denarju po pravnomočnosti odločbe o novi razdelitvi kmetijskih zemljišč. V tem primeru se vrednost kmetijskega zemljišča, navedena v elaboratu vrednotenja zemljišč, valorizira glede na splošno gibanje cen. Za znesek vplačil iz prvega stavka tega odstavka se zniža obremenitev finančnega načrta upravne enote, vendar največ do višine izplačanih sredstev za ta namen. Če vplačila iz prvega stavka tega odstavka presegajo izplačila, se razlika nakaže na podračun javnofinančnih prihodkov, kot prihodek državnega proračuna. Če izplačila iz drugega stavka tega odstavka presegajo vplačila, razlika bremeni finančni načrt upravne enote.
+
+Vodna zemljišča se iz komasacijskega sklada dodelijo lastnikom, določenim v predpisih o varstvu okolja oziroma o vodah.

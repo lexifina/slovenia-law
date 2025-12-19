@@ -1,0 +1,5 @@
+# 119. člen
+
+Do dokončne zakonske ureditve statusa, organizacije, nalog, financiranja in drugih pogojev za delo kmetijske svetovalne službe se glede načina zagotavljanja in porabe sredstev za plače delavcev te službe in za izvajanje njenih programov smiselno uporabljajo predpisi, ki urejajo ta vprašanja za javne zavode, katerih ustanoviteljica je Republika Slovenija. Sredstva za izvajanje nalog kmetijske svetovalne službe, ki so poleg nalog po tem zakonu še naslednje: svetovanje, izobraževanje in usposabljanje kmetov ter prenos znanja do kmetov na tehnološkem, gospodarskem, okoljevarstvenem področju, načrtovanje in izvajanje programov celostnega razvoja podeželja in obnovo vasi in na drugih področjih, pomembnih za razvoj kmetijstva, živilstva na podeželju, se zagotavljajo v proračunu Republike Slovenije.
+
+Organizacijo in sistemizacijo delovnih mest kmetijske svetovalne službe določi minister, pristojen za kmetijstvo, v enem mesecu po uveljavitvi tega zakona in jo predloži v soglasje vladi.

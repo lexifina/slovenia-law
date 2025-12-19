@@ -1,0 +1,13 @@
+# 98.e člen
+
+Ministrstvo, pristojno za kmetijstvo, javno razgrne elaborat delitve solastnine in elaborat vrednotenja zemljiške parcele ali več zemljiških parcel. Elaborata morata biti javno razgrnjena najmanj petnajst dni. Javna razgrnitev poteka v prostorih ministrstva, pristojnega za kmetijstvo.
+
+Ministrstvo, pristojno za kmetijstvo, vse solastnike zemljiške parcele ali več zemljiških parcel, ki so predmet delitve solastnine, pisno povabi na javno razgrnitev elaboratov iz prejšnjega odstavka. Solastniki zemljiške parcele ali več zemljiških parcel, ki so predmet delitve solastnine, lahko v času javne razgrnitve dajo pripombe k elaboratoma iz prejšnjega odstavka.
+
+Ministrstvo, pristojno za kmetijstvo, preuči zbrane pripombe iz javne razgrnitev elaboratov iz prvega odstavka tega člena. Upravičene pripombe posreduje vlagatelju in ga pozove, naj v roku 60 dni posreduje dopolnjena elaborat delitve solastnine in elaborat vrednotenja zemljiške parcele ali več zemljiških parcel.
+
+Po ustrezni dopolnitvi ministrstvo, pristojno za kmetijstvo, potrdi elaborata iz prejšnjega odstavka. Organizacija iz drugega odstavka 63. člena tega zakona po potrditvi elaboratov v roku 60 dni seznani solastnike z na novo dodeljenimi zemljiškimi parcelami v naravi. Na dodelitev zemljiških parcel v naravi vabi vse solastnike zemljiške parcele ali več zemljiških parcel, ki so predmet delitve solastnine. Podatke o morebitnih začasnih zastopnikih ali skrbnikih za posebne primere posreduje ministrstvo, pristojno za kmetijstvo.
+
+O končani seznanitvi solastnikov z na novo dodeljenimi zemljiškimi parcelami v naravi vlagatelj obvesti ministrstvo, pristojno za kmetijstvo. Obvestilu morata biti priložena elaborat delitve solastnine in izjava pooblaščenega inženirja s področja geodezije, da je bila izvedena seznanitev solastnikov z na novo dodeljenimi zemljiškimi parcelami v naravi.
+
+Na podlagi obvestila iz prejšnjega odstavka ministrstvo, pristojno za kmetijstvo, odloči o delitvi solastnine. Sestavni del odločbe je tudi elaborat delitve zemljiške parcele ali več zemljiških parcel.
