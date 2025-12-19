@@ -1,2 +1,0 @@
-# 47. člen
-Ne glede na določbe Zakona o javnih uslužbencih (Uradni list RS, št. 63/07 - uradno prečiščeno besedilo, 65/08, 69/08 - ZTFI-A, 69/08 - ZZavar-E in 40/12 - ZUJF) do začetka uporabe sprememb zakona, ki ureja javne uslužbence, ki se nanašajo na pristojnost za vodenje kadrovskih evidenc, centralno kadrovsko evidenco za sodnike in javne uslužbence sodišč upravlja Vrhovno sodišče Republike Slovenije.

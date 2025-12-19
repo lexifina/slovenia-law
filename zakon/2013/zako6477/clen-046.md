@@ -1,2 +1,0 @@
-# 46. člen
-Ne glede na 78. in 79. člen zakona se do ustrezne spremembe 58. člena Zakona o državnem pravobranilstvu (Uradni list RS, št. 94/07 − uradno prečiščeno besedilo, 77/09 in 46/13) za državne pravobranilce, pomočnike državnih pravobranilcev in druge zaposlene v državnem pravobranilstvu še naprej smiselno uporabljata 78. in 79. člen Zakona o sodiščih (Uradni list RS, št. 94/07 - uradno prečiščeno besedilo, 45/08, 96/09, 86/10 - ZJNepS, 33/11 in 75/12 - ZSPDSLS-A).
