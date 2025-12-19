@@ -1,0 +1,11 @@
+# 24. člen (varovanje zaupnih in osebnih podatkov)
+
+(1) Člani sistema in vključeni dajalci kreditov, ki na podlagi tega zakona dostopajo do individualiziranih podatkov v sistemu izmenjave informacij, te podatke varujejo kot zaupne in jih ne smejo razkriti drugi osebi ali državnemu organu, razen če je razkritje podatkov potrebno zaradi naznanitve suma kaznivega dejanja pristojnim organom. Člani sistema in vključeni dajalci kreditov varujejo osebne podatke v skladu z zakonom, ki ureja varstvo osebnih podatkov.
+
+(2) Prepoved iz prejšnjega odstavka ne velja:
+
+1. če kreditojemalec ali dajalec zavarovanja, na katerega se nanašajo podatki, izrecno pisno soglaša, da se sporočijo zaupni podatki;
+
+2. v drugih primerih, kadar zakon izrecno določa, da lahko določene osebe pridobijo določene zaupne ali osebne podatke, ki se vodijo v sistemu izmenjave informacij, določa pa tudi namen njihove uporabe ter zagotavlja ustrezno varstvo zaupnih podatkov.
+
+(3) Zaposleni pri članu sistema ali vključenem dajalcu kreditov ter druge osebe, ki delajo ali so delali po njegovem pooblastilu, vse podatke iz sistema izmenjave informacij, ki so jih pridobili pri opravljanju nalog za člana sistema ali vključenega dajalca kreditov, varujejo kot zaupne ali osebne in jih ne smejo razkriti nobeni drugi osebi ali državnemu organu. Dolžnost varovanja zaupnih in osebnih podatkov velja tudi po prenehanju delovnega razmerja ali drugega pogodbenega razmerja s članom sistema ali vključenim dajalcem kreditov.
