@@ -1,0 +1,11 @@
+# 126. člen
+
+(1) Sistem e-ZK dodeljuje zadeve iz prvega odstavka 127. člena tega zakona v odločanje zemljiškoknjižnim sodniškim pomočnikom pri vseh zemljiškoknjižnih sodiščih po vrstnem redu prejema zadev ne glede na to, na območju katerega zemljiškoknjižnega sodišča leži nepremičnina, na katero se vpis nanaša, in ob upoštevanju števila nerešenih zadev posameznega zemljiškoknjižnega sodniškega pomočnika.
+
+(2) Za odločanje o ugovorih iz 2. točke drugega odstavka 127. člena tega zakona proti sklepu zemljiškoknjižnega sodniškega pomočnika pri posameznem zemljiškoknjižnem sodišču je pristojen sodnik posameznik (v nadaljnjem besedilu: zemljiškoknjižni sodnik) istega zemljiškoknjižnega sodišča.
+
+(3) Za odločanje v posebnih zemljiškoknjižnih postopkih nastavitve ali dopolnitve zemljiške knjige je pristojno zemljiškoknjižno sodišče na območju katerega zemljiškoknjižnega sodišča ležijo nepremičnine, ki so predmet nastavitve ali dopolnitve zemljiške knjige.
+
+(4) Za odločanje o vseh pritožbah v zemljiškoknjižnih postopkih je izključno pristojno sodišče, določeno z zakonom, ki ureja sodišča (v nadaljnjem besedilu: sodišče druge stopnje).
+
+Sestava zemljiškoknjižnega sodišča

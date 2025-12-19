@@ -1,0 +1,11 @@
+# 37. člen
+
+(1) Če se z zemljiškoknjižnim dovolilom dovoljuje vpis pridobitve lastninske pravice in je oseba, ki izstavlja zemljiškoknjižno dovolilo, v zvezi s pravnim poslom, iz katerega izhaja obveznost prenosa lastninske pravice, zavezana za plačilo davka na promet nepremičnin oziroma drugega davka, razen davka na dodano vrednost, mora biti zemljiškoknjižnemu dovolilu priloženo potrdilo finančne uprave o plačilu tega davka oziroma davkov.
+
+(2) Na zahtevo stranke mora potrdilo iz prejšnjega odstavka pridobiti notar. Finančna uprava notarju omogoči prevzem v elektronski obliki prek informacijskega sistema Finančne uprave Republike Slovenije.
+
+(3) Notar na zahtevo stranke listino o pravnem poslu pretvori v elektronsko obliko in jo po varni elektronski poti pošlje finančni upravi.
+
+(4) Če se z zemljiškoknjižnim dovolilom dovoljuje vpis pridobitve lastninske pravice na nepremičnini, ki je obdavčena z davkom na dodano vrednost, mora biti zemljiškoknjižnemu dovolilu priložen račun s podatki, ki so kot obvezni določeni z zakonom, ki ureja davek na dodano vrednost, če te sestavine niso vsebovane že v listini o pravnem poslu iz prvega odstavka 36. člena tega zakona.
+
+Listine o izpolnitvi pogojev po posebnih predpisih
