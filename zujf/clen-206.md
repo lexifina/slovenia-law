@@ -1,0 +1,9 @@
+## 3. Zakon o Družbi za avtoceste v Republiki Sloveniji
+
+# 206. člen
+
+Z dnem uveljavitve tega zakona Družba za avtoceste v Republiki Sloveniji, d.d. (v nadaljnjem besedilu: DARS) opravlja naloge iz 4. in 5. člena Zakona o Družbi za avtoceste v Republiki Slovenije (Uradni list RS, št. 97/10) na odsekih avtocest, za katere so se postopki prostorskega umeščanja pričeli pred uveljavitvijo tega zakona in na odsekih iz Resolucije o nacionalnem programu izgradnje avtocest v Republiki Sloveniji (Uradni list RS, št. 50/04 in 109/10 – ZCes‑1).
+
+Do uskladitve koncesijske pogodbe za gradnjo, upravljanje in vzdrževanje avtocest s tem zakonom, izvaja DARS vse naloge gradnje, upravljanja in vzdrževanja avtocest v skladu s Pogodbo o izvajanju naročila za opravljanje nalog v zvezi z izgradnjo in obnavljanjem avtocest ter finančnim inženiringom in drugih povezanih nalog po Nacionalnem programu izgradnje avtocest v Republiki Sloveniji z dne 29. aprila 2004 ter Koncesijsko pogodbo za upravljanje avtocest v Republiki Sloveniji z dne 29. aprila 2004, kolikor niso v nasprotju s tem zakonom. Koncesijsko pogodbo je treba uskladiti s tem zakonom najpozneje do 31. decembra 2012, sicer koncesijsko razmerje med Republiko Slovenijo in DARS preneha.
+
+Nadomestilo za ustanovitev stavbne pravice, ustanovljene na podlagi 15. člena Zakona o Družbi za avtoceste v Republiki Sloveniji (Uradni list RS, št. 97/10), zapade v plačilo 30. dan po uveljavitvi tega zakona v enkratnem znesku, razen če se Republika Slovenija in DARS do roka zapadlosti s pogodbo dogovorita o obročnem odplačevanju nadomestila, pri čemer obdobje odplačevanja ne sme presegati obdobja, za katerega je stavbna pravica ustanovljena. Višina nadomestila se določi v višini, izračunani ob upoštevanju določb predpisov, ki urejajo stvarno premoženje države.

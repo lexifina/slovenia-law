@@ -1,0 +1,3 @@
+# 149. člen (pravica do dodatka za veliko družino)
+
+Ne glede na prvi odstavek 77. člena ZSDP ima od uveljavitve tega zakona pravico do dodatka za veliko družino eden od staršev, če imajo eden od staršev in otroci skupno stalno prebivališče v Republiki Sloveniji in povprečni mesečni dohodek na osebo ne presega 64 % neto povprečne plače skladno z določili ZUPJS, ki se uporabljajo za odločanje o pravici do otroškega dodatka. Za potrebe tega člena centri za socialno delo iz centralne zbirke podatkov iz 49. člena ZUPJS obdelujejo osebne podatke, ki jih potrebujejo pri odločanju o pravici po tem členu.

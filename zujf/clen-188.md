@@ -1,0 +1,27 @@
+# 188. člen (prenehanje pogodbe o zaposlitvi)
+
+(1) Pogodba o zaposlitvi preneha veljati javnemu uslužbencu (moški in ženska), ki izpolni pogoje za pridobitev pravice do starostne pokojnine za moške na podlagi četrtega, v prehodnem obdobju pa na podlagi petega odstavka 27. člena, v povezavi s prvim in drugim odstavkom 398. člena Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 96/12, 39/13, 46/13 – ZIPRS1314-A, 63/13 – ZIUPTDSV, 99/13 – ZSVarPre-C, 101/13 – ZIPRS1415, 107/13 – odl. US, 111/13 – ZMEPIZ-1 in 44/14 – ORZPIZ206).
+
+(2) Pogodba o zaposlitvi javnemu uslužbencu iz prejšnjega odstavka preneha veljati na podlagi dokončnega sklepa, ki ga izda predstojnik prvi delovni dan po izteku dveh mesecev od izpolnitve pogojev iz prejšnjega odstavka. Javni uslužbenec ima pravico do odpravnine v višini dveh povprečnih mesečnih plač zaposlenega v Republiki Sloveniji za pretekle tri mesece oziroma dveh zadnjih mesečnih plač zaposlenega, če je to zanj ugodneje.
+
+(3) Ne glede na prvi odstavek tega člena javnemu uslužbencu pogodba o zaposlitvi ne preneha veljati, če se delodajalec in javni uslužbenec za zagotovitev nemotenega delovnega procesa v roku dveh mesecev od izpolnitve pogojev iz prvega odstavka tega člena dogovorita za nadaljevanje delovnega razmerja. V dogovoru o nadaljevanju delovnega razmerja se določi tudi trajanje delovnega razmerja, javnemu uslužbencu pa po prenehanju delovnega razmerja pripada pravica do odpravnine v višini treh povprečnih mesečnih plač zaposlenega v Republiki Sloveniji za pretekle tri mesece oziroma treh zadnjih mesečnih plač zaposlenega, če je to zanj ugodneje.
+
+(4) Delodajalec lahko z namenom ugotavljanja izpolnjevanja pogojev iz prvega odstavka tega člena pridobi podatke iz zbirk Zavoda za pokojninsko in invalidsko zavarovanje Slovenije.
+
+## 9. NA PODROČJU OBDAVČITVE NEPREMIČNEGA PREMOŽENJA VEČJE VREDNOSTI
+
+189. člen(prenehal veljati)
+
+190. člen(prenehal veljati)
+
+191. člen(prenehal veljati)
+
+192. člen(prenehal veljati)
+
+193. člen(prenehal veljati)
+
+194. člen(prenehal veljati)
+
+195. člen(prenehal veljati)
+
+196. člen(prenehal veljati)

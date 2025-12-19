@@ -1,0 +1,11 @@
+## 18. Zakon o vojnih veteranih
+
+# 231. člen
+
+Upravičencem, ki so na dan uveljavitve tega zakona upravičeni do pravice do plačila zdravstvenih storitev v višini razlike do polne vrednosti storitev, zagotovljenih v okviru obveznega zavarovanja po zakonu, se ta pravica zagotavlja do 1. januarja 2013.
+
+Upravne enote odločijo v postopku, uvedenem po uradni dolžnosti, ali upravičenci do plačila zdravstvenih storitev v višini razlike do polne vrednosti storitev, zagotovljenih v okviru obveznega zavarovanja, od 1. januarja 2013 dalje izpolnjujejo pogoje za pridobitev te pravice po tem zakonu. Z odločbo, izdano v tem postopku, upravna enota razveljavi odločbo o tej pravici, priznani na podlagi zakona, če ugotovi, da vojnemu veteranu po tem zakonu ta pravica od 1. januarja 2013 ne pripada.
+
+Postopki, začeti pred uveljavitvijo tega zakona, se končajo po dosedanjih predpisih.
+
+Ne glede na določbo prejšnjega odstavka se postopki odločanja o pravici do plačila zdravstvenih storitev v višini razlike do polne vrednosti storitev, zagotovljenih v okviru obveznega zavarovanja, ki so se začeli po dosedanjih predpisih, dokončajo po tem zakonu.

@@ -1,0 +1,7 @@
+# 228. člen
+
+(1) Ne glede na določbo prve alineje 1.a točke 11. Člena Zakona o prispevkih za socialno varnost (Uradni list RS, št. 5/96, 18/96 – ZDavP, 34/96, 87/97, 3/98, 7/98 – odločba US, 106/99 – ZPIZ‑1, 81/00, 97/01 – ZSDP, 97/01 in 62/10 – odločba US; v nadaljnjem besedilu: Zakon o prispevkih za socialno varnost) zavarovanci iz 9. točke prvega odstavka 15. člena Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 72/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 91/07, 76/08, 62/10 – ZUPJS in 87/11) plačujejo prispevek za zavarovanje za primer bolezni in poškodbe izven dela v višini 5,96 odstotkov.
+
+(2) Ne glede na določbo druge alineje 1.a točke 11. člena Zakona o prispevkih za socialno varnost Zavod Republike Slovenije za zaposlovanje plača prispevek za zavarovanje za primer bolezni in poškodbe izven dela za zavarovance iz prejšnjega odstavka v višini 5,96 odstotkov.
+
+(3) Ne glede na prejšnja odstavka se za brezposelne osebe, ki so do uveljavitve tega zakona prejemniki nadomestila med začasno zadržanostjo z dela na podlagi predpisov, ki urejajo zdravstveno zavarovanje, ali so do uveljavitve tega zakona že vložile zahtevek za uveljavitev te pravice, o katerem še ni bilo dokončno odločeno, določbi prve in druge alineje 1.a točke 11. člena Zakona o prispevkih za socialno varnost uporabljata do izteka pravice do denarnega nadomestila za primer brezposelnosti oziroma do njenega predčasnega prenehanja.
