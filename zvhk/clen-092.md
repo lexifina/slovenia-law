@@ -1,0 +1,5 @@
+# 92. člen (dokument na podlagi vloge stranke zaradi izvoza živil in krme neživalskega izvora ter materialov in izdelkov, namenjenih za stik z živili, iz EU)
+
+(1) Nosilec živilske dejavnosti, dejavnosti poslovanja s krmo ali dejavnosti materialov in izdelkov, namenjenih za stik z živili, ki živilo neživalskega izvora, krmo neživalskega izvora ali material in izdelek, namenjen za stik z živili, izvaža ali ponovno izvaža iz EU in je v Republiki Sloveniji registriran ali odobren kot proizvajalec živil neživalskega izvora, krme neživalskega izvora ali materialov in izdelkov, namenjenih za stik z živili, lahko vloži vlogo za izdajo dokumenta za izvoz živila neživalskega izvora, krme neživalskega izvora ter materialov in izdelkov, namenjenih za stik z živili, iz EU, pri Upravi, ZIRS oziroma IRSKGLR, v okviru njihovih pristojnosti, in plača pristojbino, ta organ pa izda dokument, če so izpolnjeni pogoji iz tega zakona, predpisov, izdanih na njegovi podlagi, in pravnih aktov EU, ki urejajo varnost hrane, krme ter materialov in izdelkov, namenjenih za stik z živili.
+
+(2) Višino in način plačila pristojbine iz tega člena z določi vlada.

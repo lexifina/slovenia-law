@@ -1,0 +1,13 @@
+# 26. člen (izjeme od obveznosti registracije ali odobritve obratov v primeru majhnih količin živil ter prilagoditve)
+
+(1) Za izvajanje tretjega odstavka 1. člena Uredbe 852/2004/ES minister predpiše zahteve glede higiene in varnosti primarnih proizvodov rastlinskega izvora in največji dovoljeni obseg njihove pridelave, ki se šteje za majhne količine, ki jih sme proizvajalec neposredno dobavljati končnemu potrošniku ali lokalnim maloprodajnim obratom, ki jih neposredno dobavljajo končnemu potrošniku. Lokalni maloprodajni obrati iz tega odstavka so maloprodajni obrati na območju Republike Slovenije.
+
+(2) Za neposredno dobavo živil iz prejšnjega odstavka se šteje prodaja na mestu pridelave, prodaja na tržnicah, prodaja na premičnih prodajnih objektih, kot so premična stojnica, potujoča prodajalna, prodajni avtomat, prodaja od vrat do vrat ter prodaja na sejmih in prireditvah in ne vključuje prodaje na daljavo.
+
+(3) Za izvajanje četrtega odstavka 1. člena Uredbe 853/2004/ES minister predpiše zahteve glede higiene in varnosti živil živalskega izvora in največji dovoljeni obseg njihove pridelave oziroma predelave, ki se šteje za majhne količine, ki jih sme proizvajalec ali lovska družina ali lovišče s posebnim namenom neposredno dobavljati končnemu potrošniku ali lokalnim maloprodajnim obratom, ki neposredno dobavljajo končnemu potrošniku. Dobava majhnih količin iz tega odstavka je dovoljena le neposredno na mestu pridelave oziroma neposredno iz zbiralnice uplenjene divjadi iz drugega odstavka 55. člena tega zakona. Lokalni maloprodajni obrati iz tega odstavka so maloprodajni obrati na območju Republike Slovenije.
+
+(4) Majhnih količin iz prvega in tretjega odstavka tega člena ni dovoljeno oddajati oziroma dobavljati institucionalnim obratom javne prehrane (npr. šole, vrtci, bolnišnice, domovi za ostarele). Majhne količine primarnih proizvodov rastlinskega ali živalskega izvora, ki jih pridela oziroma proizvede institucionalni obrat javne prehrane (npr. sadje in zelenjava na šolskih vrtovih in v sadovnjakih, jajca, surovo mleko), se lahko v tem obratu uporabi za lastno uporabo.
+
+(5) Za izvajanje petega odstavka 1. člena Uredbe 853/2004/ES minister predpiše zahteve glede obsega dobave živil živalskega izvora med registriranimi lokalnimi maloprodajnimi obrati. Lokalni maloprodajni obrati iz tega odstavka so prodajalne na drobno in gostinski obrati na območju Republike Slovenije.
+
+(6) Za izvajanje tretjega odstavka 13. člena Uredbe 852/2004/ES ter tretjega in osmega odstavka 10. člena Uredbe 853/2004/ES minister predpiše prilagoditve pogojev iz Priloge II Uredbe 852/2004/ES in Priloge III Uredbe 853/2004/ES.
