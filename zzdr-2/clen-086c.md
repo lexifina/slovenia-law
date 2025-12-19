@@ -1,0 +1,31 @@
+# 86.c člen (postopek za izdajo dovoljenja za uporabo nerutinsko pripravljenega zdravila za napredno zdravljenje in vpis v register zdravnikov, ki pri zdravljenju uporabljajo nerutinsko pripravljena zdravila za napredno zdravljenje za uporabo v humani medicini)
+
+(1) JAZMP v 30 dneh od ugotovljene popolnosti vloge iz drugega odstavka 86.a člena tega zakona odloči o izdaji dovoljenja za uporabo in vpis v register zdravnikov.
+
+(2) JAZMP lahko med postopkom za pridobitev dovoljenja iz prejšnjega odstavka od izvajalca zdravstvene dejavnosti iz prvega odstavka 86.a člena zahteva na vpogled izvirnike posameznih dokumentov, ki se zahtevajo v vlogi iz prejšnjega člena.
+
+(3) JAZMP z odločbo odobri ali zavrne izdajo dovoljenja iz prvega odstavka tega člena. Za pridobitev dovoljenja iz prvega odstavka tega člena mora imeti izvajalec zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona zaposlenega vsaj enega zdravnika, ki izpolnjuje pogoje za vpis v register zdravnikov.
+
+(4) JAZMP na svoji spletni strani objavlja in posodablja podatke o izvajalcih zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona, ki so imetniki dovoljenja iz prvega odstavka tega člena, ki lahko uporabljajo nerutinsko pripravljena zdravila za napredno zdravljenje iz 83. člena tega zakona, in register zdravnikov. Objavljeni podatki vsebujejo osnovne podatke izvajalca zdravstvene dejavnosti iz prvega odstavka tega člena, njegove organizacijske enote, v katerih se nerutinsko pripravljena zdravila za napredno zdravljenje predpisujejo in uporabljajo, navedbo osebnega imena in naziva zdravnika, ki je vpisan v register zdravnikov, z navedbo posamezne vrste znotraj določene skupine nerutinsko pripravljenega zdravila za napredno zdravljenje, za katero je izvajalec zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona pridobil dovoljenje za uporabo in za vpis v register zdravnikov.
+
+(5) JAZMP izvede prvi nadzor nad izpolnjevanjem pogojev dovoljenja iz tretjega odstavka tega člena najpozneje v šestih mesecih po pridobitvi dovoljenja, v nadaljevanju pa je pogostost nadzora, ki ne sme biti daljša od treh let, odvisna od ugotovitev na predhodnih nadzorih in sporočenih sprememb imetnika dovoljenja za uporabo nerutinsko pripravljenih zdravil za napredno zdravljenje.
+
+(6) Podrobnejši postopek, s katerim JAZMP ugotavlja popolnost vloge in izpolnjevanja pogojev za izdajo dovoljenja za uporabo in za vpis v register zdravnikov, vsebino in pogostost objav podatkov, ki jih JAZMP objavlja na svoji spletni strani o izvajalcih zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona, ki so imetniki tega dovoljenja, in o zdravnikih, ki so vpisani v register zdravnikov, ki pri zdravljenju uporabljajo nerutinsko pripravljena zdravila za napredno zdravljenje za uporabo v humani medicini, določi minister.
+
+86.č člen
+
+(obveznost sporočanja sprememb dovoljenja za uporabo nerutinsko pripravljenih zdravil za napredno zdravljenje in za vpis zdravnikov in vpis v register zdravnikov, ki pri zdravljenju uporabljajo nerutinsko pripravljena zdravila za napredno zdravljenje za uporabo v humani medicini)
+
+(1) Po pridobitvi dovoljenja iz tretjega odstavka prejšnjega člena izvajalec zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona sporoči vsako spremembo podatkov JAZMP najpozneje v 30 dneh pred predvideno spremembo podatkov in dokumentov, ki so bili podlaga za pridobitev dovoljenja, oziroma najpozneje v sedmih dneh po spremembi podatkov. Spremembe podatkov in dokumentov, ki jih mora redno posodabljati in dopolnjevati do zaključka postopka, predloži z vlogo na JAZMP.
+
+(2) JAZMP obravnava spremembe dovoljenja, njegovih pogojev in vpisa v register zdravnikov iz prejšnjega odstavka po prejemu vloge imetnika dovoljenja, ki vsebuje podatke in dokumentacijo o spremembi, ter odloči o potrebnih postopkih. JAZMP izda oziroma zavrne izdajo dovoljenja oziroma izda ali zavrne spremembo pogojev za uporabo nerutinsko pripravljenih zdravil za napredno zdravljenje v 30 dneh od dneva prejema popolne dokumentacije. Če JAZMP oceni, da je to sprememba, ki se bo pregledala v sklopu nadzora iz petega odstavka prejšnjega člena, predlagatelja o tem obvesti s sklepom v 30 dneh od prejema popolne dokumentacije.
+
+(3) Če farmacevtski inšpektor ugotovi, da izvajalec zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona, ki mu je bilo izdano dovoljenje za uporabo in za vpis v register zdravnikov, ne izpolnjuje pogojev iz tega zakona in predpisov, sprejetih na njegovi podlagi, mu prepove opravljanje dejavnosti predpisovanja in uporabe ter zdravljenja z nerutinsko pripravljenim zdravilom za napredno zdravljenje. Na podlagi pravnomočne odločbe farmacevtskega inšpektorja JAZMP po uradni dolžnosti z odločbo odvzame dovoljenje za uporabo in za vpis v register zdravnikov ter izbriše zdravnike iz registra zdravnikov in izvajalca zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona s seznama izvajalcev, ki imajo dovoljenje za uporabo in vpis v register zdravnikov.
+
+(4) Če JAZMP po vpogledu v Poslovni register Slovenije ugotovi, da je bil izvajalec zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona, ki je imetnik dovoljenja JAZMP iz tretjega odstavka prejšnjega člena, izbrisan iz tega registra, JAZMP po uradni dolžnosti ugotovi, da je dovoljenje iz prvega odstavka tega člena prenehalo veljati, po uradni dolžnosti izda odločbo in zdravnike izbriše iz registra zdravnikov.
+
+(5) Dovoljenje za uporabo in za vpis v register zdravnikov se izvajalcem zdravstvene dejavnosti iz prvega odstavka 86.a člena tega zakona lahko odvzame tudi na predlog imetnika tega dovoljenja. JAZMP z odločbo odvzame dovoljenje za uporabo ter hkrati izbriše zdravnike iz registra zdravnikov.
+
+(6) Po ugotovitvi JAZMP, da zapisi v registru zdravnikov niso več veljavni v skladu s tem zakonom, JAZMP po uradni dolžnosti o tem izda odločbo in zdravnike izbriše iz registra.
+
+(7) Podrobnejšo ureditev obveznosti sporočanja sprememb dovoljenja za uporabo nerutinsko pripravljenih zdravil za napredno zdravljenje in za vpis zdravnikov v register zdravnikov, ki pri zdravljenju uporabljajo nerutinsko pripravljena zdravila za napredno zdravljenje za uporabo v humani medicini, določi minister.

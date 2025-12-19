@@ -1,0 +1,3 @@
+# 209. člen (začetek veljavnosti določb glede zaščitnega elementa in sporočila Evropski komisiji)
+
+Določbe 88. člena tega zakona, ki se nanašajo na namestitev, prekritje in odstranitev zaščitnega elementa, začnejo veljati tri leta od dneva objave delegiranih aktov Evropske komisije, ki na podlagi Direktive 2011/62/ES o spremembi Direktive 2001/83/ES o zakoniku skupnosti o zdravilih za uporabo v humani medicini glede preprečevanja vstopa ponarejenih zdravil v zakoniti dobavno verigo (UL L št. 174 z dne 1. 7. 2011, str. 74) določajo značilnosti in tehnične specifikacije za zaščitne elemente in sezname zdravil ali kategorij zdravil, ki morajo ali jim ni treba nositi zaščitnega elementa.

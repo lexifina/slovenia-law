@@ -1,0 +1,5 @@
+# 169. člen (preverjanje izpolnjevanja pogojev dobrih praks v tujini)
+
+(1) Na podlagi sodelovanja med državami članicami Evropske unije, zahteve pristojnega organa države članice Evropske unije, Evropske agencije za zdravila ali Evropske komisije, zaprosila pristojnega organa ali poslovnega subjekta iz Evropske unije ali tretje države, farmacevtski inšpektorji v skladu z Uredbo 726/2004/ES, Direktivo 2001/83/ES, Direktivo 2001/82/ES, Direktivo 2001/20/ES, Direktivo 2005/28/ES in v skladu z Zbirko postopkov Evropske unije, opravljajo strokovne naloge v zvezi s preverjanjem izpolnjevanja dobrih proizvodnih praks in dobrih distribucijskih praks za zdravila, učinkovine in nekatere pomožne snovi ter dobre klinične in farmakovigilančne prakse pri poslovnem subjektu s sedežem v katerikoli državi članici Evropske unije ali v tretji državi.
+
+(2) O rezultatih preverjanja iz prejšnjega odstavka farmacevtski inšpektor izda potrdilo o dobri proizvodni oziroma distribucijski praksi, če poslovni subjekt izvaja načela in smernice dobre proizvodne prakse ali dobre distribucijske prakse.

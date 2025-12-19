@@ -1,0 +1,3 @@
+# 50. člen (uporaba dokumentacije s soglasjem)
+
+Imetnik dovoljenja za promet z zdravilom, ki je veljavno v Republiki Sloveniji, lahko dovoli uporabo podatkov iz farmacevtsko-kemičnega, biološkega, nekliničnega farmakološko-toksikološkega in kliničnega dela dokumentacije, pri zdravilih za uporabo v veterinarski medicini pa tudi podatkov iz dokumentacije o preskusih varnosti in ostankih, ki je sestavni del vloge, na podlagi katere je pridobil dovoljenje za promet, za pripravo oziroma obravnavo poznejših vlog za druga zdravila, ki imajo enako kakovostno in količinsko sestavo zdravilnih učinkovin ter enako farmacevtsko obliko.

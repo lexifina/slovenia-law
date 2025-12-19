@@ -1,0 +1,3 @@
+# 47. člen (dobro uveljavljena uporaba za zdravila za uporabo v humani medicini)
+
+Ne glede na določbe 44. člena tega zakona predlagatelju v vlogi ni treba predložiti lastnih podatkov o nekliničnih farmakološko-toksikoloških ali kliničnih preskušanjih, če dokaže, da imajo učinkovine zdravila za zadevno indikacijo že dobro uveljavljeno medicinsko uporabo z znano učinkovitostjo in sprejemljivo ravnjo varnosti, je v uporabi v primernem obsegu že najmanj deset let na območju Evropske unije in če javno dostopna strokovna literatura o lastnostih in uporabi zdravil z zadevno učinkovino zagotavlja potrebne podatke za oceno varnosti in učinkovitosti zdravila. V vlogi namesto lastnih podatkov predloži ustrezne podatke iz literature.

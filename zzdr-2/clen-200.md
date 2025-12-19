@@ -1,0 +1,5 @@
+# 200. člen (prehodno obdobje za strokovne sodelavce za oglaševanje zdravil)
+
+(1) Strokovni sodelavci za oglaševanje zdravil, ki na dan uveljavitve tega zakona izpolnjujejo pogoje iz 88. člena Zakona o zdravilih (Uradni list RS, št. 31/08 in 45/08) in katerih podatke imetniki dovoljenja za promet z zdravilom sporočijo JAZMP na podlagi določb Pravilnika o oglaševanju zdravil (Uradni list RS, št. 105/08, 98/09 – ZMedPri in 105/10) ter z uveljavitvijo tega zakona ne izpolnjujejo pogojev glede izobrazbe, imajo pa vsaj dveletne izkušnje na področju oglaševanja zdravil, ki vključujejo dokumentiran program usposabljanja s področja znanj o delovanju človeškega ali živalskega organizma, lahko opravljajo svojo dejavnost tudi naprej.
+
+(2) Vlogo za vpis v register strokovnih sodelavcev za oglaševanje zdravil morajo imetniki dovoljenja za promet z zdravilom za strokovne sodelavce za oglaševanje zdravil iz prejšnjega odstavka, vložiti najpozneje v 30 dneh od dneva uveljavitve predpisa, izdanega na podlagi tega zakona, ki ureja vpis v register strokovnih sodelavcev za oglaševanje zdravil.

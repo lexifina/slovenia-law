@@ -1,0 +1,7 @@
+# 67. člen (odprodaja zdravila po spremembi ali poteku veljavnosti dovoljenja za promet z zdravilom)
+
+(1) Zdravilo, katerega dovoljenje za promet je bilo spremenjeno, in ki je bilo proizvedeno, vneseno ali uvoženo pred priglasitvijo oziroma odobritvijo spremembe dovoljenja za promet z zdravilom, je lahko v prometu do izteka roka uporabnosti zdravila, razen kadar JAZMP na podlagi ocene razmerja med koristjo in tveganjem v interesu varovanja javnega zdravja ne odloči drugače ali prepove promet s tem zdravilom.
+
+(2) Zdravilo, katerega dovoljenje za promet je poteklo ali je prenehalo veljati na predlog imetnika dovoljenja za promet z zdravilom, in ki je bilo proizvedeno, vneseno ali uvoženo do izteka veljavnosti dovoljenja za promet z zdravilom, je lahko na predlog imetnika dovoljenja za promet z zdravilom, ki ga je JAZMP prejela najmanj dva meseca pred iztekom veljavnosti dovoljenja za promet, v prometu do izteka roka uporabnosti zdravila, vendar največ 18 mesecev po izteku veljavnosti dovoljenja za promet z zdravilom, razen če JAZMP v 30 dneh od dneva prejema predloga temu nasprotuje. Imetnik dovoljenja za promet z zdravilom, se v svojem predlogu zaveže, da bo zagotovil izvajanje nalog farmakovigilance.
+
+(3) JAZMP lahko nasprotuje predlogu iz prejšnjega odstavka oziroma prepove promet z zdravilom kadarkoli v obdobju trajanja 18 mesečnega obdobja na podlagi ocene razmerja med koristjo in tveganjem v interesu varovanja javnega zdravja.
