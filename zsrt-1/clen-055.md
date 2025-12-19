@@ -1,0 +1,7 @@
+# 55. člen (podaljšanje uporabe)
+
+(1) Do uveljavitve zakona, ki ureja varstvo potrošnikov, in podzakonskega akta, izdanega na njegovi podlagi, s katerima se bo v domači pravni red prenesla Direktiva (EU) 2015/2302 Evropskega parlamenta in Sveta z dne 25. novembra 2015 o paketnih potovanjih in povezanih potovalnih aranžmajih, spremembi Uredbe (ES) št. 2006/2004 in Direktive 2011/83/EU Evropskega parlamenta in Sveta ter razveljavitvi Direktive Sveta 90/314/EGS (UL L št. 326 z dne 11. 12. 2015, str. 1), se glede izpolnjevanja pogoja o odgovornosti organizatorja potovanja v primeru likvidnostnih težav iz druge alineje prvega odstavka 32. člena tega zakona uporablja šesta alineja prvega odstavka 36. člena ZSRT.
+
+(2) Pravilnik o načinu in postopku pridobitve licence za opravljanje dejavnosti organiziranja in prodaje turističnih aranžmajev ter o vsebini in načinu vodenja registra izdanih licenc (Uradni list RS, št. 55/04) preneha veljati z dnem uveljavitve tega zakona, uporablja pa se še do uveljavitve podzakonskega predpisa iz četrtega odstavka 29. člena tega zakona, kolikor ni v nasprotju s tem zakonom.
+
+(3) Dokler minister, pristojen za turizem, ne določi programa iz prvega odstavka 35. člena tega zakona, se za preizkus znanja za opravljanje dejavnosti turističnega vodenja uporablja program strokovne izobrazbe in usposobljenosti, ki ga je dne 3. februarja 1999 sprejela Gospodarska zbornica Slovenije v soglasju z ministrom, pristojnim za delo, in ministrom, pristojnim za turizem.

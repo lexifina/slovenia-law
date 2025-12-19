@@ -1,0 +1,5 @@
+# 49. člen (veljavnost aktov, izdanih po dosedanjih predpisih)
+
+(1) Z dnem uveljavitve tega zakona pogodba št. 322-28/2015, sklenjena na podlagi odločbe o podelitvi javnega pooblastila Turistično gostinski zbornici Slovenije za podeljevanje licenc za opravljanje dejavnosti organiziranja in prodaje turističnih aranžmajev in vodenje registra teh licenc ter za izvajanje preizkusov znanja za osebe, ki pridobivajo naziv turistični vodnik in turistični spremljevalec, in druge s tem postopkom povezane upravne naloge ter objavljena v Uradnem listu RS, št. 41/16, velja še naprej, a najdlje do poteka časa, za katerega je bila sklenjena.
+
+(2) Z dnem uveljavitve tega zakona odločbe o podelitvi statusa pravne osebe, ki deluje v javnem interesu na področju spodbujanja razvoja turizma, izdane na podlagi 15. člena Zakona o spodbujanju razvoja turizma (Uradni list RS, št. 2/04, 57/12, 17/15, 52/16 – ZPPreb-1 in 29/17 – ZŠpo-1, v nadaljnjem besedilu: ZSRT), ostanejo v veljavi do poteka roka, ki je v njih naveden. Postopki, ki v času uveljavitve tega zakona še niso zaključeni, se končajo po predpisih, ki so veljali v času vložitve vloge.
