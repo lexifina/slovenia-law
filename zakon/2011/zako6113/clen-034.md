@@ -1,3 +1,0 @@
-# 34. člen
-V skladu s tretjim odstavkom 40.a člena zakona minister, pristojen za pravosodje, poda sodnemu svetu predlog za določitev števila mest za razporejene in dodeljene sodnike za posamezen specializiran oddelek v enem mesecu po uveljavitvi tega zakona, sodni svet pa določi število sodniških mest v enem mesecu po prejemu tega predloga.
-Predsednik okrožnega sodišča na sedežu višjega sodišča določi letni razpored sodnikov v specializirani oddelek v tridesetih dneh po določitvi števila sodniških mest za razporejene sodnike. Posamezni specializirani oddelek začne z delom z dnem objave sprememb letnega razporeda.

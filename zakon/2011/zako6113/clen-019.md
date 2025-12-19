@@ -1,5 +1,0 @@
-# 19. člen
-V drugem odstavku 87. člena se prvi stavek spremeni tako, da se glasi: "Oseba, ki želi biti imenovana za izvedenca, mora ministrstvu, pristojnemu za pravosodje, poleg dokazil o izpolnjevanju pogojev iz prejšnjega odstavka posredovati še naslednje podatke: osebno ime, enotno matično številko občana (EMŠO), če nima EMŠO, pa datum in kraj rojstva, poštni naslov, na katerem je dosegljiva, kontaktno telefonsko številko, naslov elektronske pošte, podatke o zaposlitvi ali drugem statusu ter navedbo strokovnega področja in podpodročja, za katero želi biti imenovana.".
-V tretjem odstavku se besedilo "3. ali 4." nadomesti z besedilom "3., 4. ali 5.".
-V šestem odstavku se v prvem stavku besede "in sodni cenilci" črtajo, besedi "ter aktivno" pa se nadomestita z besedo "oziroma". V drugem stavku se beseda "področjih" nadomesti z besedami "področij in podpodročij", za besedo "znanja" se postavi pika, ostalo besedilo tega stavka pa črta.
-V sedmem odstavku se za besedo "opravljanja" doda beseda "posebnega".
