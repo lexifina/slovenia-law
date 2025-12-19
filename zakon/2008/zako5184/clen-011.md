@@ -1,8 +1,0 @@
-# 11. člen
-Za 73.b členom se doda 73.c člen, ki se glasi:
-"73.c člen
-Predsednik sodišča lahko za redno izvajanje sodne oblasti in na podlagi ocene ogroženosti ter potrebe po dodatnih varnostnih ukrepih za zagotovitev varnosti sodnikov, sodnega osebja, strank v postopkih in drugih oseb na sodišču ter varnosti premoženja in podatkov, uvede ukrepe varovanja s snemanjem in shranjevanjem elektronskih komunikacij, videonadzora ter vzpostavitev dodatnih pristopnih kontrol na sodišče, ki bodo zagotavljali dodatno varnost.
-Pri uvedbi ukrepa varovanja s snemanjem in shranjevanjem elektronskih komunikacij se smiselno uporabljajo določbe zakona, ki ureja elektronske komunikacije. Ukrep se sme nanašati le na zunanje elektronske komunikacije (telefonski klici, elektronska pošta, faksimilna sporočila, glasovna pošta, storitev SMS), ki se posredujejo na službena sredstva elektronskih komunikacij sodišča. V primerih zunanjih elektronskih komunikacij mora biti oseba, ki hoče komunicirati s sodiščem v primeru telefonskih klicev predhodno zvočno obveščena, da bo pogovor sneman, v primeru drugih komunikacij pa mora biti o tem predhodno obveščena na drug primeren način (objave na spletni strani sodišča, opozorila v sistemu elektronske pošte in podobno).
-Pri uvedbi ukrepa varovanja z videonadzorom se smiselno uporabljajo določbe zakona, ki ureja varstvo osebnih podatkov, o izvajanju videonadzora.
-Pri uvedbi ukrepa varovanja z vzpostavitvijo dodatnih pristopnih kontrol na sodišče se smiselno uporabljajo določbe zakona, ki ureja varstvo osebnih podatkov, o evidenci vstopov in izstopov.
-Predsednik sodišča pisno obvesti funkcionarje in sodno osebje, zaposleno na sodišču, o uvedbi ukrepov varovanja iz drugega, tretjega in četrtega odstavka tega člena.".
