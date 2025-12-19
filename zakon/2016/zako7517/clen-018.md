@@ -1,4 +1,0 @@
-# 18. člen (hramba podatkov v sistemu izmenjave)
-(1) Podatki o posameznem kreditnem poslu se v sistemu izmenjave informacij hranijo in so dostopni za izmenjavo štiri leta po prenehanju obveznosti, ki izhaja iz kreditnega posla. Podatki o posameznih poslih zavarovanja, ki so sklenjeni v zvezi z obveznostjo kreditojemalca, se v sistemu izmenjave informacij hranijo štiri leta po prenehanju obveznosti dajalca zavarovanja.
-(2) Podatki iz 5. točke prvega odstavka in 6. točke drugega odstavka 7. člena tega zakona se hranijo in so dostopni v sistemu izmenjave informacij do poteka štirih let po končanju postopka zaradi osebnega stečaja oziroma postopka davčne, upravne ali sodne izvršbe.
-(3) Po poteku rokov iz prvega in drugega odstavka tega člena se podatki o kreditnih poslih zbrišejo tako, da v sistemu izmenjave informacij niso več dostopni.

@@ -1,6 +1,0 @@
-# 21. člen (uporaba podatkov)
-(1) Član sistema ali vključeni dajalec kreditov lahko dostopa do podatkov v sistemu izmenjave informacij in uporablja te podatke izključno za namene:
-1. ocenjevanja kreditne sposobnosti kreditojemalca ter kreditnega tveganja, ki bi s sklenitvijo posameznega kreditnega posla nastalo za tega člana ali vključenega dajalca kreditov ali je nastalo v zvezi z izvajanjem kreditnega posla, in
-2. reklamacije, izterjave, revizije in posodabljanja podatkov, ki se vključujejo v sistem izmenjave informacij.
-(2) Pred sklenitvijo kreditnega posla član sistema ali vključeni dajalec kreditov na podlagi vpogleda v zbirko podatkov sistema izmenjave informacij in na podlagi drugih podatkov in informacij o kreditojemalcu, s katerimi razpolaga, oceni kreditojemalčevo sposobnost izpolnjevanja obveznosti iz kreditnega posla. Izpis podatkov iz sistema izmenjave informacij je sestavni del kreditne dokumentacije, ki jo vodi član sistema ali vključeni dajalec kreditov.
-(3) Član sistema in vključeni dajalec kreditov ne smeta uporabiti podatkov o zadolženosti fizične osebe, ki se obdelujejo v sistemu izmenjave informacij, za neposredno ali ciljno trženje ali pri odločanju, ali naj fizični osebi odpreta transakcijski račun.
