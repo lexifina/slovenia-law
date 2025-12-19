@@ -1,0 +1,3 @@
+# 11. člen (zahteva za začasno omejitev dostopa)
+
+O zahtevi nadzornega organa za začasno omejitev dostopa v skladu s tretjim odstavkom 51. člena Uredbe 2022/2065/EU s sklepom odloča sodnik posameznik pristojnega okrožnega sodišča po zakonu, ki ureja kazenski postopek, s smiselno uporabo prvega stavka tretjega odstavka 83. člena Zakona o kazenskem postopku (Uradni list RS, št. 176/21 – uradno prečiščeno besedilo, 96/22 – odl. US, 2/23 – odl. US in 89/23 – odl. US; v nadaljnjem besedilu: ZKP). Zoper sklep je dovoljena pritožba na višje sodišče v treh dneh po prejetju sklepa, o kateri odloči višje sodišče s smiselno uporabo petega odstavka 83. člena ZKP. Pritožba ne zadrži izvršitve sklepa.
