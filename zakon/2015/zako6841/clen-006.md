@@ -1,2 +1,0 @@
-# 6. člen
-V četrtem odstavku 82. člena se besedilo "minister, pristojen za pravosodje" nadomesti z besedilom "predsednik Vrhovnega sodišča Republike Slovenije". Doda se nov drugi stavek, ki se glasi: "Akt, s katerim se določi podrobnejša oblika in vsebina posameznih sodnih vpisnikov, imenikov, pomožnih knjig in tipiziranih obrazcev za poslovanje sodišč in učinkovito vodenje postopkov ter statistično poročanje, se objavi na spletnih straneh sodišč.".

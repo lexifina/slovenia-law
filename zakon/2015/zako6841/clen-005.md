@@ -1,7 +1,0 @@
-# 5. člen
-V tretjem odstavku 71. člena se zadnji stavek črta.
-Četrti odstavek se spremeni tako, da se glasi:
-"Predsednik okrožnega sodišča lahko sodnika, ki opravlja sodniško službo na okrajnem sodišču, ki je organizacijska enota tega okrožnega sodišča, z letnim razporedom razporedi tudi na okrožno sodišče, za sojenje v zadevah iz pristojnosti tega sodišča. Predsednik Okrožnega sodišča v Ljubljani lahko sodnika, ki opravlja sodniško službo na Okrajnem sodišču v Ljubljani z letnim razporedom in soglasjem predsednika Okrajnega sodišča v Ljubljani razporedi na Okrožno sodišče v Ljubljani, za sojenje v zadevah iz pristojnosti tega sodišča. Če se soglasje s predsednikom Okrajnega sodišča v Ljubljani ne doseže, o razporeditvi odloči predsednik neposredno višjega sodišča.".
-Za četrtim odstavkom se doda nov peti odstavek, ki se glasi:
-"Okrajne sodnike se lahko razporedi na okrožno sodišče le, če imajo najmanj tri leta delovnih izkušenj kot okrajni sodniki in je z zadnjo oceno sodniške službe ugotovljeno, da izpolnjujejo pogoje za napredovanje. Tako razporejeni sodniki so z vidika stvarne pristojnosti in izvrševanja sodniške funkcije izenačeni z okrožnimi sodniki in imajo pravico do osnovne plače, ki ustreza plačnemu razredu za sodniški naziv okrožni sodnik, če je njihova plača nižja od tega plačnega razreda. Čas razporeditve skupno ne sme trajati več kot tri leta.".
-Dosedanji peti, šesti, sedmi in osmi odstavek postanejo šesti, sedmi, osmi in deveti odstavek.
