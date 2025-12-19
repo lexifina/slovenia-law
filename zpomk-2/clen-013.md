@@ -1,0 +1,11 @@
+# 13. člen (neodvisnost)
+
+(1) Agencija je pri izvajanju svojih nalog in pristojnosti neodvisna in samostojna ter opravlja svoje naloge in izvaja pooblastila nepristransko ter v interesu učinkovite in enotne uporabe določb tega zakona ali 101. ali 102. člena Pogodbe o delovanju Evropske unije. Agencija pri vodenju postopkov in odločanju o posamičnih zadevah skladno s pristojnostmi iz tega ali drugega zakona ni vezana na usmeritve in navodila državnih ali drugih organov ali tretjih oseb. Vlada lahko sprejme politiko za izvajanje pravil varstva konkurence, ki je splošne narave, ne posega v vodenje postopkov oziroma odločanje o posamičnih zadevah in ni povezana s sektorskimi raziskavami.
+
+(2) Člani organov agencije in javni uslužbenci, zaposleni v agenciji, morajo svoje delo opravljati strokovno, nepristransko, objektivno ter neodvisno od političnih in drugih zunanjih vplivov ter ne smejo zahtevati ali sprejemati navodil od vlade ali katerega drugega javnega ali zasebnega subjekta.
+
+(3) Člani organov agencije in javni uslužbenci, zaposleni v agenciji, ki odločajo v postopkih o posamičnih zadevah, za katere je pristojna agencija po tem zakonu, se vzdržijo vsakršnega ravnanja, ki je nezdružljivo z opravljanjem njihovih nalog ali izvajanjem njihovih pooblastil za uporabo določb tega zakona ali 101. ali 102. člena Pogodbe o delovanju Evropske unije ter ne smejo odločati v postopku, v katerem je stranka postopka podjetje, v katerem so bili razumen čas pred nastopom mandata oziroma zaposlitve zaposleni ali so z njim kako drugače sodelovali, niti opravljati posameznih dejanj v takem postopku.
+
+(4) Člani organov agencije in javni uslužbenci, zaposleni v agenciji, ki so v času zaposlitve v agenciji odločali v postopkih o posamičnih zadevah po tem zakonu, ne smejo razumen čas po prenehanju mandata ali zaposlitve sodelovati v postopkih, v katerih so bili vključeni v času trajanja mandata ali zaposlitve v agenciji.
+
+(5) Agencija sprejme in na svoji spletni strani objavi kodeks, v skladu s poslovnikom, v katerem podrobneje opredeli pravila glede strokovnosti, nepristranskosti, objektivnosti in neodvisnosti delovanja agencije na področju varstva konkurence ter glede nasprotja interesov med trajanjem in po prenehanju mandata ali zaposlitve članov organa vodenja in javnih uslužbencev, zaposlenih v agenciji.
