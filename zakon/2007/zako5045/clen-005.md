@@ -1,7 +1,0 @@
-# 5. člen
-Za 74.a členom se doda 74.b člen, ki se glasi:
-"74.b člen
-V Republiki Sloveniji se za dan pravosodja določi 4. november.
-Minister, pristojen za pravosodje, lahko javnim uslužbencem sodišč, državnih tožilstev, državnega pravobranilstva in ministrstva, pristojnega za pravosodje, predsednik Vrhovnega sodišča pa sodnikom in drugim funkcionarjem sodišč, praviloma na dan pravosodja podeljuje priznanja za posebne delovne uspehe ali prizadevanja ter za uspešno končane zahtevne projekte iz njihove pristojnosti oziroma opravljanje nalog ali pooblastil.
-Za potrebe izvajanja nalog iz prejšnjega odstavka ministrstvo, pristojno za pravosodje, oziroma Vrhovno sodišče obdeluje naslednje osebne podatke: osebno ime, strokovni naslov, znanstveni naslov, datum in kraj rojstva, naslov prebivališča, funkcijo, naziv ali delovno mesto, razlog podelitve in vrsta priznanja. Zaradi zagotavljanja obveščanja javnosti, izrekanja javnih priznanj funkcionarjem ali javnim uslužbencem oziroma sodnikom, preglednega delovanja in spoštovanja ugleda sodne oblasti, državnega tožilstva, državnega pravobranilstva in ministrstva, pristojnega za pravosodje, so osebno ime, strokovni naslov, znanstveni naslov, funkcija, naziv ali delovno mesto, razlog podelitve in vrsta priznanja javni.
-Vrste priznanj, pogoji in postopek podeljevanja priznanj ter oblika podelitve priznanja se uredijo v pravilniku, ki ga izda minister, pristojen za pravosodje.".
