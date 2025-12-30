@@ -1,0 +1,5 @@
+## 5. oddelek: Posebnosti presoje sprejemljivosti vplivov na naravo
+
+# 28.a člen (omilitveni ukrepi, katerih uporaba še ni bila dovolj preizkušena)
+
+Če pobudnik priprave prostorskega akta ali investitor (v nadaljnjem besedilu: investitor) v postopku umeščanja naprav za proizvodnjo električne energije iz OVE, v katerem se izvede presoja sprejemljivosti vplivov na naravo v skladu s predpisi, ki urejajo ohranjanje narave, predlaga omilitveni ukrep za preprečitev ubijanja in vznemirjanja zavarovanih vrst, katerega uporaba še ni bila dovolj preizkušena in zato obstaja dvom o njegovi učinkovitosti, lahko pristojni organ za izvedbo presoje sprejemljivosti vplivov na naravo dovoli njegovo uporabo za omejeno časovno obdobje, pod pogojem, da mora investitor učinkovitost takega omilitvenega ukrepa spremljati ter da v primeru njegove dokazane neučinkovitosti nemudoma sprejme ustrezne ukrepe, vključno s prepovedjo obratovanja objekta in naprave, kar mora pristojni organ izrecno določiti v planu ali izreku odločbe, s katero se dovoli ta poseg.

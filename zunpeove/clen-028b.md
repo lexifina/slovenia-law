@@ -1,0 +1,7 @@
+# 28.b člen (presoja sprejemljivosti vplivov na naravo na območjih za pospešeno uvajanje OVE)
+
+(1) Ne glede na določbe zakona, ki ureja ohranjanje narave, se presoja sprejemljivosti vplivov na območje Natura 2000 ne izvaja za posege iz drugega odstavka a28.a člena tega zakona, za katere pristojni organ za izdajo celovitega dovoljenja ali gradbenega dovoljenja ugotovi, da so skladni s pravili in ukrepi na območju za pospešeno uvajanje OVE in da zanje ne obstaja velika verjetnost znatnih nepredvidenih škodljivih vplivov, ki ob določitvi območij za pospešeno uvajanje OVE ter določitvi pravil in ukrepov na območjih za pospešeno uvajanje OVE niso bili ugotovljeni.
+
+(2) Če pristojni organ za izdajo celovitega dovoljenja ali gradbenega dovoljenja na podlagi preveritve na območjih za pospešeno uvajanje OVE iz 28.c člena tega zakona ugotovi, da posegi iz drugega odstavka a28.a člena tega zakona niso skladni s pravili in ukrepi na območju za pospešeno uvajanje OVE, upravni organ, pristojen za izdajo celovitega dovoljenja ali gradbenega dovoljenja, zavrne izdajo dovoljenja, to odločitev pa objavi na osrednjem spletnem mestu državne uprave.
+
+(3) Pristojni organ za izdajo celovitega dovoljenja ali gradbenega dovoljenja lahko na podlagi preveritve na območjih za pospešeno uvajanje OVE ugotovi, da za posege iz drugega odstavka a28.a člena tega zakona obstaja velika verjetnost znatnih nepredvidenih škodljivih vplivov, ki v postopku celovite presoje vplivov na okolje niso bili obravnavani.

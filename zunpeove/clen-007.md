@@ -1,0 +1,9 @@
+# 7. člen (občinsko prostorsko izvedbeno načrtovanje na potencialnih prednostnih območjih OVE)
+
+(1) Občina na potencialnih prednostnih območjih OVE, določenih v akcijskem programu iz 5. člena tega zakona, fotonapetostne in vetrne proizvodne naprave ter druge prostorske ureditve, ki so prostorske ureditve lokalnega pomena, načrtuje z občinskim prostorskim načrtom (v nadaljnjem besedilu: OPN) in občinskim podrobnim prostorskim načrtom (v nadaljnjem besedilu: OPPN) v obsegu in na način, da s tem niso onemogočeni načrtovanje, izvedba in uporaba fotonapetostnih naprav in vetrnih proizvodnih naprav, ki so prostorske ureditve državnega pomena. Za načrtovanje na območjih iz prejšnjega stavka mora občina pridobiti soglasje vlade.
+
+(2) Umestitev fotonapetostne naprave ali vetrne proizvodne naprave z OPPN, s katerim se spremeni namenska raba prostora, je na potencialnih prednostnih območjih OVE iz prvega odstavka 5. člena tega zakona dopustna tudi, če v lokalnem energetskem konceptu ni predvidena, občina pa mora lokalni energetski koncept uskladiti ob njegovi prvi prenovi.
+
+(3) V postopku priprave OPN ali OPPN, katerih vsebina se nanaša le na umeščanje fotonapetostnih ali vetrnih proizvodnih naprav na potencialnih prednostnih območjih OVE, se ne izvede celovita presoja vplivov na okolje, javnosti pa se omogoči dajanje pripomb v roku, ki ni krajši od 15 dni.
+
+(4) Šteje se, da sta umestitev fotonapetostne naprave, ki se načrtuje na potencialnem prednostnem območju OVE iz prvega odstavka 5. člena tega zakona ali na predpisanem prednostnem območju za fotonapetostne naprave iz 8. člena tega zakona, ter umestitev vetrne proizvodne naprave, ki se načrtuje na potencialnem prednostnem območju OVE iz prvega odstavka 5. člena tega zakona, skladni s cilji prostorskega razvoja občine, regionalnim prostorskim planom in občinskim prostorskim planom.

@@ -1,0 +1,19 @@
+## IX. POGLAVJE: UREDITEV IN OBLIKOVANJE PRAVNIH RAZMERIJ V ZVEZI S POSTAVITVIJO FOTONAPETOSTNIH NAPRAV NA NEPREMIČNINE V SOLASTNINI IN ETAŽNI LASTNINI TER USTANOVITEV BREZPLAČNE SLUŽNOSTI ALI STAVBNE PRAVICE NA OBJEKTIH V JAVNI LASTI
+
+# 72. člen (postavitev fotonapetostne naprave na nepremičnini v solastnini ali etažni lastnini)
+
+(1) Ne glede na peti odstavek 67. člena in prvi in drugi odstavek 117. člena Stvarnopravnega zakonika (Uradni list RS, št. 87/02, 91/13 in 23/20, v nadaljnjem besedilu: SPZ), ter drugi odstavek 29. člena Stanovanjskega zakona (Uradni list RS, št. 69/03, 18/04 – ZVKSES, 47/06 – ZEN, 45/08 – ZVEtL, 57/08, 62/10 – ZUPJS, 56/11 – odl. US, 87/11, 40/12 – ZUJF, 14/17 – odl. US, 27/17, 59/19, 189/20 – ZFRO, 90/21 in 18/23 – ZDU-1O) v delu, ki se nanaša na spreminjanje rabe skupnih delov, zadošča za odločitev o postavitvi, obratovanju in vzdrževanju fotonapetostne naprave (v nadaljnjem besedilu: izvedba fotonapetostne naprave) na nepremičnini v solastnini ali na skupnih delih stavbe v etažni lastnini (v nadaljnjem besedilu: stavba), soglasje solastnikov, ki imajo več kakor tri četrtine idealnih deležev, ali etažnih lastnikov, ki imajo več kakor tri četrtine solastniških deležev na skupnih delih stavbe.
+
+(2) Kadar je treba za izvedbo fotonapetostne naprave skleniti ali spremeniti pogodbo o medsebojnih razmerjih, je ta sklenjena ali spremenjena, ko jo podpišejo etažni lastniki, ki imajo skupaj več kakor tri četrtine solastniških deležev na skupnih delih stavbe.
+
+(3) Kadar je treba za izvedbo fotonapetostne naprave ustanoviti služnost ali stavbno pravico, ne glede na določbe SPZ zadošča, da sklenejo takšen pravni posel in podpišejo zemljiškoknjižno dovolilo solastniki, ki imajo skupaj več kakor tri četrtine idealnih deležev, ali etažni lastniki, ki imajo skupaj več kakor tri četrtine solastniških deležev na skupnih delih stavbe.
+
+(4) Solastniki ali etažni lastniki, ki so sprejeli sklep iz prvega odstavka tega člena, z njim nemudoma seznanijo ostale solastnike ali etažne lastnike na običajen način, v večstanovanjski ali stanovanjsko poslovni stavbi pa sklep objavijo tudi na oglasni deski stavbe. Solastnik ali etažni lastnik, ki se s sklepom ne strinja, lahko v 30 dneh od seznanitve s sklepom, če etažni lastnik večstanovanjske ali stanovanjsko-poslovne stavbe za sklep ni vedel, pa najpozneje v treh mesecih po njegovi objavi na oglasni deski stavbe, predlaga, da sodišče v nepravdnem postopku ta sklep razveljavi. O zadevi sodišče odloča prednostno. Sodišče pri odločanju upošteva zlasti vrsto posla ter porazdelitev bremen in koristi za solastnike ali etažne lastnike, ki se z odločitvijo niso strinjali, ter ali bi se s posegom poslabšal posamezni del etažnega lastnika, ki izpodbija odločitev.
+
+(5) Do poteka roka, v katerem solastnik ali etažni lastnik lahko predlaga razveljavitev sklepa iz prvega odstavka tega člena, oziroma do pravnomočne odločitve sodišča, če je bil vložen predlog za razveljavitev sklepa v skladu s prejšnjim odstavkom, nista dovoljena sklenitev pravnega posla in izstavitev zemljiškoknjižnega dovolila iz tretjega odstavka tega člena.
+
+(6) Če se fotonapetostna naprava postavi na nepremičnino v solastnini, so sredstva, pridobljena iz naslova plačila za rabo te nepremičnine, služnost ali stavbno pravico, premoženje solastnikov skladno z njihovimi solastniškimi deleži.
+
+(7) Če se fotonapetostna naprava postavi na skupne dele stavbe se sredstva iz prejšnjega odstavka vplačujejo v rezervni sklad. Če rezervni sklad ni ustanovljen, se za ta sredstva smiselno uporablja 119. člen SPZ. Ta odstavek se uporablja, če se vsi etažni lastniki ne dogovorijo drugače.
+
+(8) Stroške izvedbe in odstranitve fotonapetostne naprave ter odgovornost za morebitno škodo, ki bi zaradi tega nastala, nosijo lastnik te naprave oziroma solastniki ali etažni lastniki, ki jo koristijo.

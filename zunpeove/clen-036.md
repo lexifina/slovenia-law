@@ -1,0 +1,5 @@
+# 36. člen (uporaba drugih predpisov)
+
+(1) Če je za proizvodnjo električne energije iz geotermalne energije treba pridobiti vodno pravico, se šteje, da je s sklenitvijo pogodbe iz prejšnjega člena, v kateri se uredijo tudi pravice in obveznosti, povezane z rabo, varovanjem in monitoringom podzemne vode, pridobljena tudi vodna pravica za rabo podzemne vode, za pravice in obveznosti, povezane z vodno pravico, njenim odvzemom in inšpekcijskim nadzorom nad njenim izvajanjem pa se smiselno uporabljajo določbe zakona, ki ureja upravljanje z vodami, ki se nanašajo na vodno dovoljenje.
+
+(2) Glede izdelave in revidiranja rudarskega projekta za raziskovanje in rudarskega projekta za izkoriščanje geotermalne energije za proizvodnjo električne energije, izvajanja del, povezanih z raziskavo in izkoriščanjem geotermalnega potenciala ter opustitev raziskave ali izkoriščanja, glede določitve, načina plačevanja, namenske rabe rezerviranih sredstev za sanacijo, izvedbe sanacije in zagotavljanja varnosti in zdravja ljudi pri izvajanju teh del, se smiselno uporabljajo predpisi, ki urejajo rudarstvo.
