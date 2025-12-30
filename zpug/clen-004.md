@@ -1,0 +1,5 @@
+# 4. člen (prepovedi vsebin in oglaševanja za zagotavljanje javnega interesa)
+
+(1) Učna gradiva ne smejo vsebovati besedilnih in vizualnih vsebin, ki bi lahko spodbujale diskriminacijo, stereotipe ali predsodke na podlagi rase, narodnosti, etnične pripadnosti, jezika, vere, spola, spolne usmerjenosti, invalidnosti, starosti, družbenega ali ekonomskega položaja.
+
+(2) Učna gradiva ne smejo vsebovati reklamnih sporočil in oglasov. Izjemoma lahko pristojni strokovni svet dovoli objavo reklamnih sporočil in oglasov le v učnih gradivih za strokovne module v poklicnem in strokovnem izobraževanju, kadar fizične ali pravne osebe, ki nastopajo v pravnem prometu in ki so vsebinsko povezane s strokovnim področjem, na katerem nastaja neko učno gradivo, prispevajo sredstva za nastanek posameznih učnih gradiv. Te fizične ali pravne osebe smejo biti navedene v kolofonu, v tiskanem učnem gradivu je lahko logotip ter kratka predstavitev podjetja le na zadnjih dveh notranjih straneh, v digitalni obliki pa ločeno od izobraževalnih vsebin.
