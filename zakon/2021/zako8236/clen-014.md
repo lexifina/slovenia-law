@@ -1,5 +1,0 @@
-## III. poglavje: PODPORE PROIZVODNJI ELEKTRIČNE ENERGIJE, PLINASTIH GORIV, TOPLOTE ZA OGREVANJE IN HLAJENJE, IZ OBNOVLJIVIH VIROV ENERGIJE, ODVEČNE TOPLOTE IN VODIKA, POGONSKIH TEKOČIH IN PLINASTIH BIOGORIV TER ENERGIJE V SOPROIZVODNJI Z VISOKIM IZKORISTKOM
-# 14. člen (splošno)
-(1) Rabo obnovljivih virov energije spodbuja država s programi izobraževanja, obveščanja in ozaveščanja javnosti, pripravo predpisov, finančnimi spodbudami in drugimi programi podpore.
-(2) Raba obnovljivih virov energije se spodbuja z namenom povečanja količine in deleža obnovljivih virov energije, povečanja zanesljivosti oskrbe z energijo, zmanjšanja uvozne odvisnosti pri oskrbi z energijo in drugih energetskih razlogov, ki so določeni v strateških dokumentih in akcijskih načrtih.
-(3) Ukrepi in mehanizmi za spodbujanje večje uporabe obnovljivih virov energije so podrobno določeni v dolgoročnem časovnem načrtu sredstev za podpore iz 19. člena tega zakona in dokumentih dolgoročnega načrtovanja energetske politike, akcijskih načrtih, strategijah in programih.
