@@ -1,0 +1,7 @@
+# 35. člen (sodelovanje projektov s kombinacijo prodaje na podlagi dolgoročne pogodbe o nakupu električne energije)
+
+(1) Če proizvajalec v okviru projekta del proizvedene električne energije prodaja na podlagi dolgoročnih pogodb o nakupu električne energije iz obnovljivih virov, lahko za preostali del proizvodnje sklene dvosmerno pogodbo na razliko (CfD) in je upravičen do pomoči le za ta del, pod pogojem, da sodelovanje ne vpliva negativno na konkurenco na trgu, zlasti kadar obe stranki, vključeni v pogodbo o nakupu električne energije, nadzoruje isti subjekt.
+
+(2) Merila za izbor projektov iz prejšnjega odstavka upoštevajo dostop do trga pogodb o nakupu električne energije iz obnovljivih virov za akterje, ki se soočajo z vstopnimi ovirami, kot so mala in srednje velika podjetja, tako da dajejo prednost ponudnikom, ki predložijo podpisano pogodbo o nakupu električne energije iz obnovljivih virov, ali zavezo, da bodo podpisali tovrstno pogodbo za del proizvodnje v okviru projekta od enega ali več potencialnih kupcev, ki imajo težave pri dostopu do trga takih pogodb.
+
+(3) Vlada v uredbi iz šestega odstavka 25. člena tega zakona predpiše tudi zahteve za sodelovanje projektov s kombinacijo prodaje na podlagi dolgoročne pogodbe o nakupu električne energije in način določanja pogojev in razmejitev med obema mehanizmoma, ki se podrobneje opredelijo v konkurenčnem postopku zbiranja vlog.

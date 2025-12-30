@@ -1,0 +1,7 @@
+# 106. člen (prekršek v zvezi z doseganjem deleža, ki je manjši od 10 % za posamezno leto)
+
+(1) Z globo do 2 % letnega prometa od prodaje goriv končnim odjemalcem v Republiki Sloveniji, namenjenih uporabi v prometnem sektorju, v predhodnem poslovnem letu se za prekršek kaznuje pravna oseba, če dosega manj kot 10 % deleža energije iz obnovljivih virov v prometnem sektorju v skladu z drugim odstavkom 89. člena tega zakona.
+
+(2) Z globo do 2 % letnega prometa od prodaje goriv končnim odjemalcem v Republiki Sloveniji, namenjenih uporabi v prometnem sektorju, v predhodnem poslovnem letu se za prekršek kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 2.000 do 10.000 eurov se za prekršek kaznuje odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz prvega odstavka tega člena.

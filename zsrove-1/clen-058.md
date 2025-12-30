@@ -1,0 +1,29 @@
+## VI. POGLAVJE: SAMOOSKRBA Z ELEKTRIČNO ENERGIJO IZ OBNOVLJIVIH VIROV IN PRIKLJUČEVANJE NAPRAV ZA SAMOOSKRBO TER SKUPNOSTI NA PODROČJU ENERGIJE IZ OBNOVLJIVIH VIROV
+
+## 1. ODDELEK: SAMOOSKRBA Z ELEKTRIČNO ENERGIJO IZ OBNOVLJIVIH VIROV
+
+# 58. člen (pravica do samooskrbe)
+
+(1) Končni odjemalci, priključeni na distribucijsko omrežje, imajo pravico postati končni odjemalci s samooskrbo z električno energijo iz obnovljivih virov.
+
+(2) Pravico do samooskrbe uveljavljajo končni odjemalci posamično, v skupnostni samooskrbi ali z agregiranjem.
+
+(3) Skupnostna samooskrba se omogoči vsem končnim odjemalcem, ki električno energijo odjemajo prek prevzemno-predajnih mest:
+
+– iste večstanovanjske, poslovno-stanovanjske, stanovanjsko-poslovne ali poslovne stavbe s poslovnimi prostori, ki imajo lastna prevzemno-predajna mesta, ali druge stavbe z več prevzemno-predajnimi mesti, priključenimi na skupno notranjo nizkonapetostno inštalacijo te stavbe (samooskrba večstanovanjske stavbe), ali
+
+– ki so priključena na distribucijsko omrežje v Republiki Sloveniji (samooskrba skupnosti za oskrbo z energijo iz obnovljivih virov).
+
+(4) Končni odjemalci se v skupnostno samooskrbo povežejo na podlagi pogodbe po pravilih obligacijskega prava ali tako, da ustanovijo pravno osebo v skladu s 64. členom tega zakona.
+
+(5) Končni odjemalci, ki so udeleženi v skupnostni samooskrbi, se lahko dogovorijo, da si delijo proizvedeno energijo iz obnovljivih virov.
+
+(6) Končni odjemalec s samooskrbo z dobaviteljem sklene pogodbo o samooskrbi. Ta je vrsta pogodbe o dobavi električne energije in mora poleg obveznih sestavin, določenih v zakonu, ki ureja oskrbo z električno energijo, vsebovati tudi določbe o odkupu električne energije, proizvedene v napravi za samooskrbo, ki je bila oddana v omrežje. Končni odjemalec s samooskrbo lahko za proizvedeno električno energijo sklene tudi pogodbo o nakupu električne energije iz obnovljivih virov.
+
+(7) Pogodba o samooskrbi lahko vsebuje tudi določbe o določanju obračunskih količin za potrebe obračuna dobavljene električne energije.
+
+(8) Distribucijski operater mora za izvajanje pogodbe o samooskrbi in pogodbe o nakupu električne energije iz obnovljivih virov končnemu odjemalcu s samooskrbo, dobavitelju, s katerim ima končni odjemalec sklenjeno pogodbo o samooskrbi, ali tretji osebi, ki ima pooblastilo končnega odjemalca, brezplačno zagotavljati vse potrebne obračunske podatke.
+
+(9) Vlada z uredbo določi podrobnejše pogoje za posamezne vrste samooskrbe, način obračuna električne energije in način obračuna dajatev za končne odjemalce s samooskrbo, podrobnejše pogoje za dodelitev naložbene pomoči iz drugega odstavka 59. člena tega zakona in oprostitev plačila prispevkov in omrežnine iz drugega, tretjega in četrtega odstavka 60. člena tega zakona, pogoje za priključitev naprave za samooskrbo, vsebino ukrepa in poročanje o njem ter spremljanje njegovega izvajanja.
+
+(10) Določbe tega zakona, ki se nanašajo na napravo za samooskrbo ali končnega odjemalca s samooskrbo, se nanašajo tudi na napravo za skupnostno samooskrbo ali končnega odjemalca, ki je povezan v skupnostno samooskrbo, če ni izrecno določeno drugače.

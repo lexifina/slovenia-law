@@ -1,0 +1,7 @@
+# 46. člen (jamstvena shema)
+
+(1) Jamstvena shema je finančni instrument, v okviru katerega center za podpore zagotavlja delno, pogojno in neodplačno finančno jamstvo za plačilne obveznosti odjemalcev iz pogodb PPA v primeru njihovega neizpolnjevanja ali insolventnosti.
+
+(2) Upravičenci do vključitve v jamstveno shemo so proizvajalci električne energije iz obnovljivih virov, ki imajo sklenjene pogodbe PPA z odjemalci, pri čemer morajo biti odjemalci ob sklenitvi pogodbe plačilno sposobni in ne smejo izpolnjevati pogojev finančnih težav v skladu z Uredbo (EU) 2019/943. Šteje se, da je odjemalec v finančnih težavah, kadar izkazuje znake insolventnosti, dolgoročne plačilne nesposobnosti, ko je nad njim uveden postopek zaradi insolventnosti ali ko obstajajo objektivni finančni kazalniki, ki kažejo, da ga tak postopek lahko doleti, vključno s pomembnim poslabšanjem likvidnostnega položaja, povečano zadolženostjo ali izgubo več kot polovice kapitala.
+
+(3) Jamstvena shema je zasnovana na način, da ne izkrivlja trga pogodb PPA, temveč prispeva k njegovemu razvoju. Namenjena je zmanjšanju finančnih tveganj proizvajalcev električne energije iz obnovljivih virov energije, povezanih z neizpolnjevanjem dolgoročnih plačilnih obveznosti s strani odjemalcev, in spodbujanju trajnostnega razvoja z vzpostavitvijo dinamičnega trga z dolgoročnimi pogodbami ter krepitvi tržne integracije obnovljivih virov energije.

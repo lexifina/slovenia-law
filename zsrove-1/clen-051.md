@@ -1,0 +1,15 @@
+## V. POGLAVJE: MEHANIZMI MEDNARODNEGA SODELOVANJA ZA DOSEGANJE DELEŽA ENERGIJE IZ OBNOVLJIVIH VIROV
+
+# 51. člen (statistični prenosi)
+
+(1) Republika Slovenija lahko z eno ali več državami članicami Evropske unije (v nadaljnjem besedilu: države članice) sklene pogodbe o statističnih prenosih za določene količine energije iz obnovljivih virov energije za obdobje enega ali več let.
+
+(2) Statistično prenesena količina energije iz obnovljivih virov se doda količini energije iz obnovljivih virov, proizvedeni v Republiki Sloveniji, ali odšteje od nje, tudi če se ne uvozi ali izvozi iz Republike Slovenije.
+
+(3) Vlada lahko odloči, da Republika Slovenija statistične prenose izvaja v okviru platforme Unije za razvoj energije iz obnovljivih virov (v nadaljnjem besedilu: URDP). V tem primeru vlada sporoči URDP letne podatke o nacionalnih prispevkih k cilju Evropske unije ali kateremu koli merilu, določenemu za spremljanje napredka pri izvajanju Uredbe 2018/1999/EU, vključno s količino energije, za katero Republika Slovenija po pričakovanjih ne bo dosegla svojega prispevka ali za katero ga bo po pričakovanjih presegla, ter navede ceno, pri kateri bi sprejela prenos morebitnega presežka pri proizvodnji energije iz obnovljivih virov v drugo državo članico ali iz nje. Dejanska cena teh prenosov se določi v vsakem primeru posebej na podlagi mehanizma URDP za usklajevanje povpraševanja in ponudbe, o čemer Republika Slovenija in ta država članica ali države članice sklenejo pogodbo za eno ali več let.
+
+(4) Pogodbe iz prvega odstavka tega člena se Evropski komisiji priglasijo v okviru URDP najpozneje v 12 mesecih po koncu vsakega leta, v katerem učinkujejo. Informacije, poslane Evropski komisiji, vključujejo količino in ceno te energije. Za prenose, dokončane v okviru URDP, se vključene strani in informacije o posameznih prenosih razkrijejo javnosti.
+
+(5) Prenosi začnejo učinkovati, potem ko vse države članice, vključene v prenos, tega priglasijo Evropski komisiji oziroma ko so v okviru URDP izpolnjeni vsi pogoji za izravnavo.
+
+(6) Sredstva za statistične prenose se zagotovijo iz sredstev za podpore iz 16. člena tega zakona; sredstva, pridobljena s statističnimi prenosi, pa se lahko uporabijo za namene iz četrtega odstavka 16. člena tega zakona.
