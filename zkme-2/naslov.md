@@ -1,0 +1,3 @@
+ZAKON
+
+O KMETIJSTVU (ZKme-2)

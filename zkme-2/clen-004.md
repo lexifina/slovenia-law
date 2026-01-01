@@ -1,0 +1,7 @@
+# 4. člen (trajnostno kmetijstvo)
+
+(1) Trajnostno kmetijstvo je oblika kmetovanja, ki zagotavlja stabilno, varno in dostojno delovno okolje za nosilce kmetijskih gospodarstev, člane ali članice družinskih kmetij (v nadaljnjem besedilu: član družinske kmetije) in zaposlene v kmetijstvu ter spodbudne pogoje za rast in razvoj ter generacijsko prenovo kmetijskega sektorja. Obenem si prizadeva za gospodarski, podnebno-okoljski in družbeni vidik trajnosti, s čimer prispeva k blaginji sedanjih in prihodnjih generacij ter odpornosti ekosistemov, v katerih se izvaja kmetijska dejavnost.
+
+(2) S trajnostnim kmetijstvom se poleg stabilne in konkurenčne pridelave in predelave varne, zdrave ter kakovostne hrane, krme in kmetijskih surovin spodbujajo širši družbeno-ekonomski razvoj podeželskih območij, trajnostno upravljanje prostora, zagotavljanje ekosistemskih storitev kmetijstva v povezavi z varovanjem naravnih virov, zlasti obsega kmetijskih zemljišč, zdravja kmetijskih tal, biotske raznovrstnosti, vključno z genskimi viri, kakovosti voda in zraka, ter ohranjanjem kmetijske krajine, blaženje in pospešeno prilagajanje kmetijstva podnebnim spremembam ter zagotavljanje zdravja in dobrobiti živali.
+
+(3) Ministrstvo, pristojno za kmetijstvo, gozdarstvo in prehrano (v nadaljnjem besedilu: ministrstvo), z ukrepi kmetijske politike spodbuja večnamensko vlogo trajnostnega kmetijstva iz tega člena ter s tem prehod v trajnostni, bolj odporni, vključujoči in pravičnejši kmetijsko-prehranski sistem.

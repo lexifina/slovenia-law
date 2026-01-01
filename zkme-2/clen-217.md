@@ -1,0 +1,3 @@
+# 217. člen (dodatni terenski ogledi in pregledi na kraju samem)
+
+Dodatni terenski ogledi iz 76. člena tega zakona in pregledi na kraju samem iz 78. člena tega zakona se do podelitve novega javnega pooblastila na podlagi tega zakona izvajajo na podlagi 36. in a36.b člena Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12, 90/12 – ZdZPVHVVR, 26/14, 32/15, 27/17, 22/18, 86/21 – odl. US, 123/21, 44/22, 130/22 – ZPOmK-2, 18/23 in 78/23). Šteje se, da lahko naloge za izvajalca javnega pooblastila še naprej izvajajo vsi strokovni delavci, ki so izpolnjevali zahtevane pogoje za izvajanje nalog na dan uveljavitve tega zakona.
