@@ -1,2 +1,0 @@
-# 61.j člen (alternativno reševanje sporov)
-Varuh iz 61.e člena tega zakona lahko ne glede na pravico dobaviteljev do vložitve prijav nedovoljenih ravnanj iz 61.i člena spodbuja prostovoljno uporabo učinkovitih in neodvisnih mehanizmov alternativnega reševanja sporov, kakršna je mediacija, ki jo lahko sprožijo dobavitelji ali kupci z namenom rešitve sporov med dobavitelji in kupci v zvezi z uporabo nedovoljenih ravnanj s strani kupca.

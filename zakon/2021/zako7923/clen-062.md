@@ -1,4 +1,0 @@
-# 62. člen (veriga preskrbe s hrano)
-(1) Določbe spremenjenih 61.b, 61.c in 61.f členov ter spremenjeni drugi in novi četrti odstavek 61.g člena ter novi 61.i do 61.m členi zakona se začnejo uporabljati 1. novembra 2021. Do takrat se uporabljajo določbe 61.b, 61.c, 61.f in 61.g člena Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12, 90/12 - ZdZPVHVVR, 26/14, 26/14, 32/15, 27/17, 22/18 in 86/21 - odl. US).
-(2) Postopki nadzora glede nedovoljenih ravnanj iz 61.f in 61.g člena Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12, 90/12 - ZdZPVHVVR, 26/14, 26/14, 32/15, 27/17, 22/18 in 86/21 - odl. US), začeti pred začetkom uporabe določb iz prejšnjega odstavka, se dokončajo po dosedanjih predpisih.
-(3) Pogodbe v verigi preskrbe s hrano, ki so bile sklenjene pred uveljavitvijo tega zakona in še veljajo, morajo biti usklajene z določbami tega zakona najpozneje do 1. novembra 2021.

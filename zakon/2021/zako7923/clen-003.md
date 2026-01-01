@@ -1,6 +1,0 @@
-# 3. člen
-V 3. členu se za 7. točko dodajo nove 8. do 11. točka, ki se glasijo:
-"8. kmetijski in živilski proizvodi v skladu z Direktivo 2019/633/EU so proizvodi, našteti v Prilogi I k Pogodbi o delovanju Evropske unije (Prečiščena različica Pogodbe o delovanju Evropske unije, UL C št. 202 z dne 7. 6. 2016, str. 47), in proizvodi, ki niso našteti v navedeni prilogi, vendar so predelani za uporabo v prehranske namene z uporabo proizvodov, naštetih v navedeni prilogi;
-9. kupec je v skladu z Direktivo 2019/633/EU vsaka fizična ali pravna oseba, ne glede na kraj njene ustanovitve, ali vsak javni organ v Uniji, ki kupuje kmetijske in živilske proizvode; izraz kupec lahko vključuje skupino takšnih fizičnih in pravnih oseb;
-10. javni organ v skladu z Direktivo 2019/633/EU pomeni nacionalne, regionalne ali lokalne organe, osebe javnega prava ali združenja enega ali več takšnih organov oziroma ene ali več takšnih oseb javnega prava;
-11. dobavitelj v skladu z Direktivo 2019/633/EU pomeni vsakega kmetijskega proizvajalca ali vsako fizično ali pravno osebo, ki prodaja kmetijske in živilske proizvode, ne glede na njegov oziroma njen kraj ustanovitve; izraz dobavitelj lahko vključuje skupino takšnih kmetijskih proizvajalcev ali skupino takšnih fizičnih in pravnih oseb, kot so organizacije proizvajalcev, organizacije dobaviteljev in združenja takšnih organizacij.".
