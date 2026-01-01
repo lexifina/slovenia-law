@@ -1,0 +1,3 @@
+# 104. člen (pristojnost Javne agencije Republike Slovenije za varstvo konkurence za nadzor)
+
+Javna agencija Republike Slovenije za varstvo konkurence je pristojna za nadzor nad izvajanjem in za administrativno sankcioniranje kršitev 70. in 72. člena tega zakona, odloča pa tudi kot prekrškovni organ o prekrških odgovornih oseb zaradi kršitev 70. člena tega zakona. Postopek nadzora in administrativnega sankcioniranja iz 70. in 72. člena tega zakona ter prekrškovni postopek se vodita v skladu z zakonom, ki ureja preprečevanje omejevanja konkurence. Ministrstvo in Javna agencija Republike Slovenije za varstvo konkurence skleneta pogodbo o financiranju nadzora iz tega člena. V pogodbi se natančneje določijo medsebojne pravice, obveznosti, roki in način plačila.
