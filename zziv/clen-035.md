@@ -1,0 +1,3 @@
+# 35. člen (posebni ukrepi)
+
+Zaradi gospodarskega in nacionalnega pomena, ki ga ima živinoreja v Republiki Sloveniji, povečevanja konkurenčnosti s pomočjo izboljševanja genetskih vrednosti populacij domačih živali, zagotavljanja biotske raznovrstnosti v živinoreji in zagotavljanja primerljive kakovosti plemenskih živali in drugega plemenskega materiala mora ministrstvo zagotoviti nadzor nad izvajanjem rejskih programov. V primeru, da so kljub izvajanju tega zakona ogroženi njegovi nameni in cilji ali da so ti nameni in cilji ogroženi zaradi izrednih in nepredvidenih dogodkov, mora ministrstvo sprejeti oziroma predlagati posebne ukrepe za uresničevanje ciljev in namenov iz tega zakona.
