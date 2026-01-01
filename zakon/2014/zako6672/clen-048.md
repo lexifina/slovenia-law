@@ -1,9 +1,0 @@
-# 48. člen
-V prvem odstavku 166. člena se besedilo "Za vodenje in upravljanje zbirk podatkov lahko ministrstvo pridobiva, uporablja in obdeluje" nadomesti z besedilom "Za izvajanje ukrepov kmetijske politike in za zagotavljanje varnosti, kakovosti in pravilnosti označevanja živil ter za vodenje in upravljanje zbirk podatkov lahko ministrstvo in organi v sestavi pridobivajo, uporabljajo in obdelujejo".
-Tretja alineja se spremeni tako, da se glasi:
-"- centralnega registra prebivalstva (EMŠO ali davčno številko, spol, datum rojstva, datum smrti, priimek, ime, stalno prebivališče v Sloveniji, začasno prebivališče v Sloveniji, prebivališče v tujini, naslov za vročanje, državljanstvo, oče, mati, zakonec, generalni status, status prebivališča, indikator začasnega bivanja v tujini in stari EMŠO v primeru zamenjave). Za povezovanje evidence se uporablja EMŠO ali davčna številka ali ime in priimek ali stalni ali začasni naslov ali sorodstvene vezi (EMŠO očeta, matere, zakonca);".
-V sedemnajsti alineji se besedilo "o pokojnini in zavarovanju zavarovanca: ime in priimek ter naslov s hišno številko" nadomesti z besedilom "o pokojnini, zavarovanju zavarovanca in podlagi za zavarovanje: ime in priimek, naslov in EMŠO ali davčna številka".
-Dvaindvajseta alineja se spremeni tako, da se glasi:
-"- zbirk podatkov Zavoda za zdravstveno zavarovanje Slovenije (o zdravstvenem zavarovanju zavarovanca: ime in priimek, EMŠO ali davčna številka in naslov)."
-Za petim odstavkom se doda nov šesti odstavek, ki se glasi:
-"(6) Za vodenje in upravljanje zbirk podatkov lahko ministrstvo v evidence z delovnega področja ministrstva prevzame podatke iz evidenc iz tega člena za osebe, ki se v evidence vpisujejo po lastni volji ali so se dolžne vanje vpisati v skladu z zakonom ali pa so v evidence vpisane po uradni dolžnosti.".
