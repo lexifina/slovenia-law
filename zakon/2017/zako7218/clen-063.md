@@ -1,2 +1,0 @@
-# 63. člen (uporaba določb glede neizpolnitev ali kršitev obveznost)
-Ne glede na 18. člen tega zakona se 57. člen Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12, 90/12 - ZdZPVHVVR, 26/14 in 32/15) in podzakonski predpisi, izdani na njegovi podlagi, še naprej uporabljajo za postopke glede neizpolnitev ali kršitev obveznosti iz teh podzakonskih predpisov, ki so začeli veljati pred uveljavitvijo tega zakona.
