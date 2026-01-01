@@ -1,0 +1,5 @@
+# 90. člen (opravljanje nalog med stavko)
+
+(1) Zaradi posebnega pomena nemotenega finančnega poslovanja Republike Slovenije, zagotavljanja blagovnega prometa in izpolnjevanja mednarodnih obveznosti mora finančna uprava tudi med stavko zagotoviti opravljanje nujnih del in nalog iz svoje pristojnosti. Zaradi tega je pravica do stavke uslužbencev finančne uprave omejena z opravljanjem nujnih del in nalog finančne uprave ter z njimi povezanih podpornih nalog, če bi njihovo neopravljanje lahko ogrozilo finančno stabilnost, blagovni promet ali izpolnjevanje mednarodnih obveznosti Republike Slovenije.
+
+(2) O podrobnem obsegu delovnih nalog in načinu njihovega opravljanja med stavko se pred nastopom stavke dogovorita predstojnik in stavkovni odbor s pisnim sporazumom. Če dogovora ni, predstojnik z upoštevanjem pravico delavcev do stavke s splošnim aktom določi, katere nujne naloge in dela mora finančna uprava opravljati med stavko, da se ne ogrozijo finančna stabilnost, blagovni promet in izpolnjevanje mednarodnih obveznosti Republike Slovenije.
