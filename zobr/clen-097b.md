@@ -1,0 +1,11 @@
+# 97.b člen (neenakomerna razporeditev dela)
+
+(1) Zaradi narave ali organizacije dela je lahko delovni čas neenakomerno razporejen. Pri neenakomerni razporeditvi ter začasni prerazporeditvi polnega delovnega časa, delovni čas ne sme trajati več kot 56 ur na teden in ne manj kot štiri ure na dan.
+
+(2) Pri neenakomerni razporeditvi ter začasni prerazporeditvi delovnega časa se upošteva polni delovni čas kot povprečna delovna obveznost v obdobju, ki ne sme biti daljše kot šest mesecev.
+
+(3) Delo v neenakomernem delovnem času oziroma v izmenah vključuje opravljanje delovne obveznosti v deljenem delovnem času, ob sobotah, nedeljah, praznikih in drugih dela prostih dnevih ter delo v popoldanskem in nočnem času, s prerazporeditvijo v okviru določene redne mesečne oziroma letne delovne obveznosti.
+
+(4) Za delo v izmenah se šteje delo, ki se izmenoma opravlja v dopoldanskem, popoldanskem ali nočnem času. Za delo v izmenah se šteje tudi delo v turnusu, ko se delo opravlja po razporedu 12 ur, sledi pa mu 24 ali 48 ur počitka, in delo po posebnem razporedu, ko se delo opravlja dopoldne, popoldne in v nočnem času, vendar ne v enakomernem zaporedju.
+
+(5) Če se delo opravlja v izmenah ali v turnusu, mora ministrstvo zagotoviti njihovo periodično izmenjavo.

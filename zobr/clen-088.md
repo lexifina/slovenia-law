@@ -1,0 +1,37 @@
+## VIII. POKLICNO DELO NA OBRAMBNEM PODROČJU
+
+## 1. Sklenitev in odpoved pogodbe o zaposlitvi
+
+# 88. člen (posebni pogoji)
+
+(1) Za delavce na obrambnem področju veljajo predpisi o javnih uslužbencih, če s tem zakonom ni določeno drugače.
+
+(2) Kdor želi poklicno opravljati delo na obrambnem področju, mora biti državljan Republike Slovenije. Osebe z dvojnim državljanstvom ne morejo poklicno opravljati dela na obrambnem področju.
+
+(3) Kdor želi poklicno opravljati vojaško službo, mora poleg pogoja, določenega v prejšnjem odstavku, izpolnjevati še naslednje pogoje:
+
+- da je telesno in duševno sposoben za poklicno opravljanje vojaške službe in je odslužil vojaški rok;
+
+- da ima ustrezno izobrazbo;
+
+- da izjavi, da z dnem nastopa vojaške službe ne bo član nobene politične stranke;
+
+- da je varnostno preverjen in da ne obstaja varnostni zadržek v skladu s tem zakonom;
+
+- da ni bil pravnomočno obsojen zaradi kaznivega dejanja, ki se preganja po uradni dolžnosti, in da ni bil obsojen na nepogojno zaporno kazen za kakšno drugo kaznivo dejanje v trajanju več kot treh mesecev;
+
+- da praviloma ni starejši od 25 let, če se želi zaposliti kot vojak ali podčastnik, oziroma 30 let, če se želi zaposliti kot častnik.
+
+(4) Za ženske služenje vojaškega roka ni pogoj za sklenitev delovnega razmerja. Pogoje iz druge, tretje, četrte in pete alinee prejšnjega odstavka mora izpolnjevati tudi tisti, ki želi kot civilna oseba poklicno opravljati delo v vojski.
+
+(5) Ustrezna stopnja izobrazbe iz tretjega odstavka tega člena je za vojaka praviloma končana srednja poklicna šola, za podčastnika srednja ali višja šola in za častnika najmanj visoka strokovna šola.
+
+(6) Delavcu, za katerega se ugotovi, da ne izpolnjuje splošnih ali posebnih pogojev, določenih s tem zakonom za poklicno delo na obrambnem področju, preneha delovno razmerje v ministrstvu z dnem dokončnosti akta o prenehanju delovnega razmerja. Če delavec preneha izpolnjevati pogoje za poklicno delo na obrambnem področju zaradi zdravstvenih razlogov, ima pravice po tem zakonu in splošnih predpisih.
+
+(7) Če je bil delavec, ki poklicno opravlja vojaško službo oziroma kot civilna oseba dela v vojski, obsojen zaradi kaznivega dejanja oziroma na kazen iz pete alinee tretjega odstavka tega člena, mora sodišče pravnomočno sodbo poslati ministrstvu. Delavcu v tem primeru preneha delovno razmerje z dnem vročitve ugotovitvenega sklepa o prenehanju delovnega razmerja na podlagi pravnomočne sodbe.
+
+(8) Ministrstvo vodi skupno kadrovsko evidenco za delavce na obrambnem področju v skladu s splošnimi predpisi in tem zakonom.
+
+(9) Minister določi kriterije za ugotavljanje sposobnosti iz prve alinee tretjega odstavka tega člena.
+
+(10) Kdor nima odsluženega vojaškega roka iz tretjega odstavka tega člena, mora opraviti predhodno temeljno vojaško strokovno usposabljanje v trajanju najmanj treh mesecev, v skladu s pogodbo o zaposlitvi, če ta zakon ne določa drugače. Kdor ne opravi uspešno temeljnega vojaško strokovnega usposabljanja, se mu pogodba o zaposlitvi prekine.

@@ -1,0 +1,15 @@
+# 48.a člen (vojaška služba izven države)
+
+(1) Vojaške in civilne osebe v vojski, vojaške in civilne osebe po pogodbi za določen čas in osebe, ki opravljajo vojaško ali drugo službo v ministrstvu, lahko opravljajo vojaško službo oziroma službo izven države v vojaško diplomatskih predstavništvih, organih mednarodnih organizacij, pri drugih organih ali v skupnih poveljstvih in enotah, zaradi izvrševanja obveznosti, prevzetih v mednarodnih organizacijah oziroma z mednarodnimi pogodbami.
+
+(2) Vojaško službo izven države lahko opravljajo tudi pripadniki enot stalne sestave, ki so napotene na opravljanje nalog izven države.
+
+(3) Vojaško službo oziroma službo izven države iz prvega odstavka tega člena lahko opravljajo v miru tudi pripadniki vojne ali rezervne sestave oziroma civilne osebe, ki sklenejo z ministrstvom pogodbo za določen čas za delo v vojski. V času dela v vojski njihove statusne, delovnopravne in druge zatečene pravice mirujejo in po prenehanju opravljanja vojaške službe oziroma službe se najkasneje v 30 dneh lahko vrnejo na prejšnje delo in delodajalci so jih dolžni sprejeti. Delodajalci ne smejo zaradi opravljanja vojaške službe oziroma službe v vojski takih oseb postavljati v manj ugoden položaj.
+
+(4) V miru so lahko na usposabljanje izven države napoteni tudi vojaški obvezniki med služenjem vojaškega roka in služenjem v rezervni sestavi, če so razporejeni v enote vojne sestave. Usposabljanje vojaških obveznikov izven države je glede časa, obsega in pravic praviloma izenačeno z uposabljanjem v državi.
+
+(5) Pripadniki enot Slovenske vojske, ki opravljajo vojaško službo izven države v skladu s tem zakonom, so podrejeni nadrejenim poveljnikom, vojaško službo pa opravljajo v skladu s pravili službe v Slovenski vojski, če z mednarodno pogodbo ali drugim aktom, na podlagi katerega se opravlja vojaška služba izven države, ni določeno drugače.
+
+(6) Pripadnik Slovenske vojske, zoper katerega se uveljavlja disciplinsko, kazensko ali odškodninsko odgovornost za dejanje, ki je bilo storjeno pri opravljanju nalog vojaške službe izven države ali v zvezi z njo, je disciplinsko, kazensko in odškodninsko odgovoren po tem zakonu in v skladu s pravnim redom Republike Slovenije.
+
+(7) Določbi petega in šestega odstavka tega člena se smiselno uporabljata tudi za civilne osebe, pripadnike Slovenske vojske, med opravljanjem službe izven države.

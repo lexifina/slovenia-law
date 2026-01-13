@@ -1,0 +1,7 @@
+# 97.h člen (izraba dopusta)
+
+(1) Letni dopust lahko delavec na obrambnem področju izrabi praviloma v tekočem letu glede na službene potrebe in opravljanje nalog iz pristojnosti ministrstva ter z upoštevanjem njegove želje. En dan letnega dopusta lahko delavec praviloma izrabi na tisti dan, ki ga sam določi.
+
+(2) Zaradi narave ali organizacije dela se lahko izraba dopusta določi v določenem časovnem obdobju, praviloma v skladu z letnim načrtom. Zaradi boljše organizacije dela in smotrnejše razporeditve delavcev glede na njihove delovne obremenitve lahko minister odredi kolektivni dopust, praviloma z letnim načrtom. Kolektivni dopust v vojski odredi načelnik generalštaba, praviloma z letnim načrtom dela.
+
+(3) Delavci, ki niso izrabili letnega dopusta do konca koledarskega leta, ga lahko izrabijo do 30. junija naslednjega leta. Letni dopust, ki ni bil izrabljen v tekočem letu zaradi sodelovanja pri izvajanju mednarodnih obveznosti ali vojaške službe izven države oziroma drugih razlogov na strani delodajalca, se lahko izrabi v naslednjem koledarskem letu.

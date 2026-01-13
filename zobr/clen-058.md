@@ -1,0 +1,25 @@
+# 58. člen (disciplinski ukrepi)
+
+(1) Za lažjo kršitev vojaške discipline se lahko vojaškemu obvezniku na služenju vojaškega roka izrečeta opomin ali javni opomin pred enoto, za težjo kršitev pa prepoved izhoda iz vojaške enote ali zavoda v prostem času, podaljšano opravljanje dolžnosti v notranji službi ali premestitev v drugo enoto.
+
+(2) Ukrepi iz prejšnjega odstavka, razen podaljšanega opravljanja dolžnosti v notranji službi, se lahko izrečejo tudi pripadniku rezervne sestave, kadar je v vojaški službi.
+
+(3) V miru se lahko pripadnika rezervne sestave zaradi kršitve vojaške discipline, kadar je v vojaški službi, predčasno odpusti iz enote.
+
+(4) Vojaški osebi se kot disciplinski ukrep za težje kršitve vojaške discipline lahko odvzame čin oziroma razred za eno stopnjo ali se jo razporedi na drugo ali nižjo dolžnost največ do enega leta.
+
+(5) Vojaški osebi, pripadniku stalne sestave, se za lažje kršitve vojaške discipline lahko izreče opomin, javni opomin pred enoto ali denarna kazen, za težje kršitve vojaške discipline pa se lahko izreče tudi ukrep prenehanja delovnega razmerja. Vojaški osebi, pripadniku stalne sestave, se lahko poleg ukrepov po tem odstavku izrečejo tudi ukrepi iz prejšnjega odstavka. Razporeditev na drugo ali nižjo dolžnost zaradi kršitve vojaške discipline lahko obsega tudi zadržanje povišanja v višji čin oziroma napredovanja v višji razred.
+
+(6) Denarna kazen za lažje kršitve vojaške discipline se lahko izreče v višini največ do 15 odstotkov plače za polni delovni čas, izplačane za mesec, v katerem je bila storjena kršitev, za težje kršitve vojaške discipline pa do 33 odstotkov plače za polni delovni čas, izplačane za mesec, v katerem je bila storjena kršitev. Denarna kazen po tej določbi se lahko izreče zaradi kršitve delovne dolžnosti tudi civilni osebi, ki dela v vojski.
+
+(7) Izvršitev disciplinskih ukrepov denarne kazni in prenehanje delovnega razmerja se lahko pogojno odloži največ za dobo enega leta. Pogojno odložena izvršitev disciplinskega ukrepa se lahko prekliče, če pripadnik stalne sestave v roku, za katerega je izvršitev odložena, ponovno krši vojaško disciplino.
+
+(8) Če je s kršitvijo vojaške discipline nastala škoda, se lahko v disciplinskem postopku odloči tudi o odškodninski odgovornosti. Če bi bila z ugotavljanjem odškodninske odgovornosti v disciplinskem postopku onemogočena hitra in učinkovita izvedba disciplinskega postopka, se o odškodninski odgovornosti odloči v posebnem postopku v skladu s predpisi, ki veljajo za javne uslužbence, če s pravili službe v Slovenski vojski ni določeno drugače.
+
+(9) O izrečenih disciplinskih ukrepih se vodi evidenca.
+
+(10) Izrečenega disciplinskega ukrepa ni mogoče izvršiti, če je minilo 60 dni od dneva pravnomočnosti odločbe, s katero je bil disciplinski ukrep izrečen.
+
+(11) Če vojaška oseba v dveh letih od dneva pravnomočnosti odločbe, s katero sta ji bila izrečena javni opomin pred enoto in denarna kazen, ne stori kršitve vojaške discipline, se izrečeni ukrep izbriše iz evidence.
+
+(12) V vojnem stanju se izrekajo le tisti disciplinski ukrepi, ki so smotrni in izvršljivi. Kot poseben disciplinski ukrep se lahko v vojnem stanju izreče zapor do 30 dni.
