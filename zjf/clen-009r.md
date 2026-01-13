@@ -1,0 +1,9 @@
+# 9.r člen (Napoved makroekonomskih agregatov)
+
+(1) Urad, pristojen za makroekonomske analize in razvoj, najpozneje v desetih dneh po objavi statističnih podatkov o rasti bruto domačega proizvoda v zadnjem četrtletju preteklega leta, ministrstvu, pristojnemu za finance, predloži pomladansko napoved makroekonomskih agregatov za tekoče in najmanj naslednja štiri leta (v nadaljnjem besedilu: pomladanska napoved), kjer poleg osrednje, najbolj verjetne napovedi, ki je skladna s fiskalno prilagoditvijo za doseganje fiskalnih ciljev, pripravi tudi scenarij ključnih makroekonomskih kategorij brez finančno ovrednotenih učinkov ukrepov za doseganje fiskalnih ciljev, ter primerjavo med osrednjo napovedjo in zadnjo napovedjo Evropske komisije (v nadaljnjem besedilu: EK) z obrazložitvijo znatnih odstopanj.
+
+(2) V letu, ko se pripravlja Srednjeročni fiskalno-strukturni načrt ali njegova revizija, urad, pristojen za makroekonomske analize in razvoj, ministrstvu, pristojnemu za finance, predloži pomladansko napoved za tekoče in najmanj naslednja štiri leta ter napoved ključnih makroekonomskih kategorij za nadaljnjih trinajst let.
+
+(3) Urad, pristojen za makroekonomske analize in razvoj, najpozneje v desetih dneh po objavi statističnih podatkov o rasti bruto domačega proizvoda v drugem četrtletju tekočega leta in prve letne ocene gospodarske rasti v preteklem letu ministrstvu, pristojnemu za finance, predloži jesensko napoved makroekonomskih agregatov za tekoče leto in najmanj naslednja štiri leta (v nadaljnjem besedilu: jesenska napoved) ter primerjavo med to napovedjo in zadnjo napovedjo EK z obrazložitvijo znatnih odstopanj.
+
+(4) Urad, pristojen za makroekonomske analize in razvoj, napovedi iz prvega in tretjega odstavka tega člena predloži v seznanitev vladi in jih javno objavi na svojih spletnih straneh.
