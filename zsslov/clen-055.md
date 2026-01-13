@@ -1,0 +1,5 @@
+# 55. člen (dosegljivost)
+
+(1) Dosegljivost je čas, ko je pripadnik dosegljiv preko javnih ali službenih komunikacijskih sredstev in se mora v odrejenem času javiti v enoti ali zavodu ali na drugem določenem mestu. Čas dosegljivosti se ne všteva v število ur tedenske oziroma mesečne delovne obveznosti. Pripadnikom, za katere je odrejena dosegljivost, pripada dodatek k plači, katerega višino določi vlada. Formacijske dolžnosti, pri katerih morajo pripadniki zagotoviti dosegljivost, in čase, v katerih se morajo javiti na določenem kraju, določi načelnik generalštaba.
+
+(2) Pripadniki na določenih formacijskih dolžnostih, pripadniki določenih skupin ali enot, ki jih določi načelnik generalštaba ali poveljnik, ki ga pooblasti, morajo nositi pri sebi tehnične naprave, preko katerih lahko prejemajo obvestila ali ukaze. Nošenje tehničnih naprav je obvezno, razen med letnim dopustom in kadar se pripadnik mudi izven države ter se ne šteje za poseben pogoj dela. Tehnične naprave po tej določbi zagotovi pristojno poveljstvo, enota ali zavod.

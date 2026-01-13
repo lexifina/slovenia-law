@@ -1,0 +1,11 @@
+# 78. člen (organizacija zdravstvene oskrbe)
+
+(1) Brezplačno nujno zdravstveno pomoč iz prejšnjega člena zagotavljajo enote same, vojaška zdravstvena služba oziroma po dogovoru vojaška zdravstvena služba druge vojaške organizacije ali organizacija javne zdravstvene službe, s katero ima ministrstvo sklenjeno ustrezno pogodbo.
+
+(2) Za zagotovitev prednostne zdravstvene obravnave pri poškodbah ali bolezni pri delu med opravljanjem vojaške službe sklene ministrstvo ustrezne pogodbe z organizacijami javne zdravstvene službe, če prednostne zdravstvene obravnave ni mogoče zagotoviti z vojaško zdravstveno službo ali na podlagi posebnih oblik zdravstvenega zavarovanja.
+
+(3) Zdravstvena oskrba in prednostna zdravstvena obravnava med izvajanjem vojaške službe pri opravljanju obveznosti, sprejetih v mednarodnih organizacijah ali z mednarodnimi pogodbami, se zagotavlja pripadnikom Slovenske vojske tako, kakor se zagotavlja pri izvajanju bojnih in drugih nalog vojaške obrambe. V skladu s to določbo se prednostna zdravstvena obravnava lahko zagotavlja pri opravljanju vojaške službe izven države v dogovoru z vojaškimi zdravstvenimi službami enot drugih vojaških organizacij.
+
+(4) Zdravstveno sposobnost pripadnikov za opravljanje vojaške službe med izvajanjem vojaške obrambe oziroma za opravljanje obveznosti, sprejetih v mednarodnih organizacijah ali z mednarodnimi pogodbami, pripadnikov enot, ki so dane na razpolago za uporabo v skladu z načrti za kolektivno obrambo v okviru zavezništva oziroma v skladu z drugimi mednarodnimi pogodbami in med povišano pripravljenostjo, ugotavljajo zdravniki vojaške zdravstvene službe ali po dogovoru zdravniki druge vojaške zdravstvene službe oziroma pooblaščeni zdravniki organizacije javne zdravstvene službe, s katero ima ministrstvo sklenjeno ustrezno pogodbo. Zdravniki vojaške zdravstvene službe oziroma pooblaščeni zdravniki se za pripadnike v tem primeru štejejo kot izbrani zdravniki po splošnih predpisih.
+
+(5) Zdravstveno sposobnost pripadnikov za opravljanje vojaške službe na način in pod pogoji iz prejšnjega odstavka ugotavljajo pooblaščeni zdravniki tudi za pripadnike enot, ki so namenjene z načrti za kolektivno obrambo v okviru zavezništva, v obdobju 12 mesecev oziroma daljšem obdobju, določenem z načrti usposabljanja, ko se enota intenzivno usposablja za opravljanje bojnih in drugih nalog.

@@ -1,0 +1,13 @@
+# 57. člen (napotitev na izobraževanje ali usposabljanje)
+
+(1) Vojaška oseba je lahko z ukazom napotena na izobraževanje ali usposabljanje, ki je lahko tudi daljše od enega leta.
+
+(2) Pravice in obveznosti vojaške osebe med izobraževanjem ali usposabljanjem se uredijo s pogodbo, če traja usposabljanje dalj kot 30 dni oziroma če so stroški usposabljanja višji od povprečne zadnje mesečne plače v Republiki Sloveniji, ugotovljeni po uradnih statističnih podatkih.
+
+(3) Vojaška oseba, ki ima sklenjeno pogodbo iz prejšnjega odstavka, mora po končanem izobraževanju ali usposabljanju ostati v delovnem razmerju najmanj dvakrat toliko časa, kolikor je trajalo izobraževanje ali usposabljanje, če je bilo to daljše od enega leta in najmanj dve leti, če je bilo krajše od enega leta in daljše od 30 dni oziroma so bili stroški usposabljanja višji od povprečne mesečne plače v Republiki Sloveniji, ugotovljene po uradnih statističnih podatkih. Ob predčasni odpovedi pogodbe o zaposlitvi zaradi razlogov na strani vojaške osebe in tudi ob sporazumnem prenehanju delovnega razmerja ali kadar vojaška oseba ne izpolni obveznosti iz pogodbe o izobraževanju, mora povrniti sorazmerni del stroškov izobraževanja ali usposabljanja, pri čemer se za stroške vojaškega izobraževanja ali usposabljanja vojaške osebe štejejo neposredni stroški izvedbe izobraževanja ali usposabljanja, vendar največ v višini štirikratnika povprečne zadnje mesečne bruto plače v Republiki Sloveniji, ugotovljene po uradnih statističnih podatkih ob sklenitvi pogodbe iz prejšnjega odstavka.
+
+(4) Če vojaška oseba enostransko odpove pogodbo o zaposlitvi pred potekom roka, ko bi v skladu s pogodbo iz drugega odstavka tega člena še morala ostati v delovnem razmerju, lahko prenese obveznosti iz te pogodbe s sklenitvijo pogodbe o opravljanju vojaške službe v Slovenski vojski oziroma v rezervni sestavi Slovenske vojske za najmanj dvakratno obdobje časa, ko bi po pogodbi iz drugega odstavka tega člena še morala ostati v delovnem razmerju, oziroma najmanj za obdobje, ko je pogodbo o opravljanju vojaške službe v Slovenski vojski oziroma v rezervni sestavi Slovenske vojske še mogoče skleniti zaradi omejitve starosti, vendar ne manj kot za tri leta.
+
+(5) Ne glede na drugi odstavek tega člena se pogodbe ne sklepa za tiste oblike usposabljanja ali preverjanja zmogljivosti, ki so predpisane kot pogoj za opravljanje določene formacijske dolžnosti, kot so usposabljanje na trenažerjih ali simulatorjih oborožitvenih sistemov, radarskih in drugih sistemov, plovil, orožij in drugih naprav.
+
+(6) Izvajanje pravic in obveznosti vojaških oseb med izobraževanjem ali usposabljanjem podrobneje uredi minister.

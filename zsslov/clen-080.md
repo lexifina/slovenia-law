@@ -1,0 +1,19 @@
+# 80. člen (socialno varstvena oskrba)
+
+(1) Socialno varstvo pripadnikov in njihovih družinskih članov obsega socialno pomoč pri prepoznavanju in opredelitvi socialne stiske in težave, oceno mogočih rešitev in seznanitev z mogočimi oblikami socialnovarstvenih storitev v skladu z zakonom, ki ureja socialno varstvo.
+
+(2) Socialna pomoč se izvaja v obliki svetovanja in pomoči pripadnikom pri reševanju težav, ki jih imajo glede dela v delovnem okolju in glede prenehanja delovnega razmerja, pomoči pri uveljavljanju pravic iz zdravstvenega, pokojninskega in invalidskega zavarovanja ter otroškega in družinskega varstva.
+
+(3) Pravice iz prvega odstavka tega člena pripadajo pripadnikom stalne sestave, drugim pripadnikom pa le, če so napoteni na opravljanje vojaške službe izven države ali po razglasitvi izrednega ali vojnega stanja.
+
+(4) Pripadnik ima pravico do pomoči pri selitvi s prevoznimi sredstvi in moštvom. O tem odloča poveljnik bataljona, njemu enake ali višje enote.
+
+(5) Pripadnik lahko kandidira na razpisu za najem službenega stanovanja in ima pravico do znižane neprofitne najemnine za službeno stanovanje oziroma do subvencioniranja dela najemnine v višini, ki jo določi vlada na predlog ministra, če se preseli v stanovanje, ki ni oddaljeno več kot 20 kilometrov od kraja opravljanja vojaške službe. Pripadnik ima pravico do subvencioniranja dela najemnine še eno leto, če je zaradi službenih potreb razporejen na opravljanje vojaške službe v drug kraj in če se ne preseli v drugo stanovanje, za katero bi lahko uveljavljal subvencioniranje najemnine.
+
+(6) Pripadnik, ki je v Slovenski vojski zaposlen več kot deset let in je več kot tri leta najemnik službenega stanovanja, ki je v upravljanju stanovanjskega sklada ministrstva, lahko zaprosi za odkup tega stanovanja, če najemniku in družinskim članom najemnika, ki živijo z njim, pomeni edino stanovanje. Ministrstvo soglaša z odkupom tega stanovanja ob upoštevanju ekonomske upravičenosti prodaje stanovanja in pripadnikovega rednega plačevanja najemnine ter obratovalnih stroškov.
+
+(7) Pripadnik, ki je do upokojitve delal na ministrstvu, lahko zaprosi za podaljšanje najemne pogodbe za službeno stanovanje, ki je v upravljanju stanovanjskega sklada ministrstva, za nedoločen čas oziroma odkup takega stanovanja, če njemu in njegovim družinskim članom, ki živijo z njim, pomeni edino stanovanje.
+
+(8) Ne glede na predpise, ki urejajo stvarno premoženje države, se prodaja stanovanj iz šestega in sedmega odstavka tega člena ter tretjega odstavka 87. člena tega zakona, ki so v upravljanju stanovanjskega sklada ministrstva, izvede s sklenitvijo neposredne pogodbe z upravičencem za odkup brez objave namere o sklenitvi neposredne pogodbe ter brez posredovanja napovedi sklenitve pravnega posla ministrstvu, pristojnemu za stvarno premoženje.
+
+(9) Minister natančneje določi pogoje in način izvajanja pravic iz petega do osmega odstavka tega člena ter 87. člena tega zakona.

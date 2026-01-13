@@ -1,0 +1,5 @@
+# 95. člen (sklenitev pogodb o zaposlitvi)
+
+(1) Pripadnikom, ki so se zaposlili v stalni sestavi pred 14. januarjem 1995, in do uveljavitve tega zakona niso sklenili pogodb o zaposlitvi za opravljanje vojaške službe oziroma za službo v vojski po Zakonu o obrambi, niti po Zakonu o javnih uslužbencih, se ob prvi razporeditvi na drugo formacijsko dolžnost ponudi sklenitev pogodbe o zaposlitvi. Če ne pride do sklenitve pogodbe o zaposlitvi, minister oziroma oseba, ki jo pooblasti, izda sklep, ki nadomešča pogodbo o zaposlitvi. Pogodba o zaposlitvi se lahko sklene tudi pred razporeditvijo na drugo formacijsko dolžnost.
+
+(2) Pogodbe o zaposlitvi iz prejšnjega odstavka se sklenejo za nedoločen čas ter s pravicami in obveznostmi, določenimi z Zakonom o obrambi, tem zakonom in Zakonom o javnih uslužbencih. Pogodbe o zaposlitvi morajo skleniti vsi pripadniki najpozneje v roku dveh let po uveljavitvi tega zakona. Vojaškim osebam iz tega člena v skladu z Zakonom o obrambi delovno razmerje na obrambnem področju preneha najkasneje do konca koledarskega leta, v katerem izpolnijo pogoje za pridobitev pravice do starostne pokojnine po splošnih predpisih.
