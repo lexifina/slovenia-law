@@ -1,0 +1,9 @@
+# 22.b člen (sredstva za prilagoditev vozila)
+
+(1) Sredstva za prilagoditev vozila se zagotovijo v višini 85 odstotkov vrednosti posamezne prilagoditve, določene s predpisom iz 17. člena tega zakona. Za invalida, ki je prejemnik denarne socialne pomoči po predpisih, ki urejajo področje socialnega varstva, ter za invalida, ki mu je priznan status po predpisih, ki urejajo družbeno varstvo duševno in telesno prizadetih oseb, se zagotovi plačilo stroškov prilagoditve vozila v celotni vrednosti stroškov posamezne prilagoditve vozila.
+
+(2) Sredstva za sofinanciranje nakupa novega prilagojenega vozila se invalidu zagotovijo v višini 85 odstotkov vrednosti razlike med ceno enakega tipa novega neprilagojenega vozila in novega prilagojenega vozila, vendar največ do višine odobrenega plačila stroškov iste vrste prilagoditve vozila, določenega v skladu s predpisom iz drugega odstavka 17. člena tega zakona.
+
+(3) Sredstva za prilagoditev vozila invalida, ki ni zaposlen, se zagotavljajo v proračunu Republike Slovenije, za zaposlenega ali samozaposlenega invalida pa sredstva zagotavlja javni finančni sklad za vzpodbujanje razvoja zaposlovanja invalidov (v nadaljnjem besedilu: sklad).
+
+(4) Izvajalec prilagoditve vozila invalidu izda račun za izvedene prilagoditve vozila. Kopijo računa prilagoditve vozila posreduje upravni enoti, ki je vrednotnico izdala. Kopiji računa je dolžan priložiti originalne vrednotnice za plačilo stroškov prilagoditev vozila, iz katerih je razvidno, ali je plačnik ministrstvo, pristojno za invalidsko varstvo (za brezposelne invalide) ali sklad (za zaposlene ali samozaposlene invalide), na podlagi katerih je invalidu izvedel prilagoditve vozila in potrdilo izvedenca o ustreznosti in pravilnosti izvedene prilagoditve. Enako velja tudi pri nakupu novega prilagojenega vozila.
