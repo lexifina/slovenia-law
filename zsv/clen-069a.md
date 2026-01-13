@@ -1,0 +1,9 @@
+# 69.a člen
+
+Kandidata, ki je prijavljen na javnem razpisu za zasedbo delovnega mesta na področju socialnega varstva, za katerega se zahteva opravljen strokovni izpit za strokovne delavce na področju socialnega varstva, se lahko zaposli za nedoločen čas brez opravljenega strokovnega izpita za strokovne delavce na področju socialnega varstva, če izpolnjuje vse ostale pogoje iz prejšnjega člena in če na javnem razpisu ni prijavljenega kandidata, ki izpolnjuje vse pogoje za zasedbo delovnega mesta. Ta kandidat mora v roku enega leta od nastopa dela opraviti strokovni izpit za strokovne delavce na področju socialnega varstva.
+
+V primeru, ko delavec zaradi bolezni, poškodbe, porodniškega dopusta, dopusta za nego in varstvo otroka oziroma zaradi drugih osebnih ali objektivnih okoliščin, strokovnega izpita za strokovnega delavca ne more opraviti v roku, kot je določen v prejšnjem odstavku, se rok za opravo strokovnega izpita za strokovnega delavca podaljša za čas trajanja prej navedenih okoliščin.
+
+Če kandidat v roku iz prvega ali drugega odstavka tega člena strokovnega izpita za strokovne delavce na področju socialnega varstva ne opravi, delodajalec po poteku tega roka začne postopek odpovedi pogodbe o zaposlitvi iz razloga nesposobnosti, na način, kot to določa zakon, ki ureja delovna razmerja.
+
+Ne glede na prvi, drugi in tretji odstavek tega člena se lahko kandidata, ki je prijavljen na javnem razpisu za zasedbo delovnega mesta na področju socialnega varstva, za katerega se zahteva opravljen strokovni izpit za strokovne delavce na področju socialnega varstva, zaposli za določen čas brez opravljenega strokovnega izpita za strokovne delavce na področju socialnega varstva, če izpolnjuje vse ostale pogoje iz prejšnjega člena, če na javnem razpisu ni prijavljenega kandidata, ki izpolnjuje vse pogoje za zasedbo delovnega mesta, in če se za razpisano delovno mesto sklepa pogodba o zaposlitvi za določen čas.

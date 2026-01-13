@@ -1,0 +1,3 @@
+# 118.c člen
+
+Strokovnim delavcem in strokovnim sodelavcem po tem zakonu, ki imajo višješolsko izobrazbo in so bili ob prehodu v novi plačni sistem v javnem sektorju v letu 2008 razporejeni na delovna mesta v tarifnem razredu VII/1. in VII/2. ter napredujejo v naziv v skladu s pravilnikom, ki ureja napredovanje strokovnih delavcev in strokovnih sodelavcev na področju socialnega varstva v nazive, se pridobljeni naziv upošteva tako, da se strokovni delavci in strokovni sodelavci s pridobljenim nazivom »svetnik« razporedijo v naziv »višji svetnik«. Osnovna plača se strokovnim delavcem in strokovnim sodelavcem iz prejšnjega stavka določi ob upoštevanju določb zakona, ki ureja skupne temelje sistema plač v javnem sektorju.

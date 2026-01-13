@@ -1,0 +1,13 @@
+# 47.m člen
+
+Če je koncesija prenehala zaradi odvzema ali iz drugih razlogov, ki ne dopuščajo, da bi koncesionar še naprej opravljal dejavnost, ki je predmet koncesije, pa je to dejavnost treba še naprej opravljati, mora koncedent zagotoviti, da dejavnost še naprej izvaja javni zavod ali drug koncesionar v objektih oziroma prostorih, v katerih se je izvajala do prenehanja koncesije, po potrebi pa tudi z zaposlenimi, ki so pri dotedanjem koncesionarju opravljali to dejavnost.
+
+V ta namen je prejšnji koncesionar ali katerikoli lastnik teh prostorov dolžan oddati te prostore in njihovo pripadajočo opremo, potrebno za izvajanje javne službe, v najem novemu izvajalcu te javne službe, in sicer najdalj za 3 leta od prenehanja koncesije.
+
+O obveznosti oddaje v najem odloči organ, pristojen za podelitev koncesije, z odločbo, ki jo izda po uradni dolžnosti in s katero določi najemnika, obseg prostorov, na katere se nanaša obveznost oddaje v najem, trajanje najema, višino najemnine in druge pogoje najema. Zoper odločbo o obveznosti oddaje v najem ni pritožbe, možen pa je upravni spor.
+
+Najemnina se določi v višini stroškov prostorov, ki so bili prejšnjemu koncesionarju priznani v ceni storitve v skladu z veljavno metodologijo za oblikovanje cen socialnovarstvenih storitev.
+
+Koncedent mora nemudoma začeti z zagotavljanjem možnosti, da dejavnost, ki je predmet koncesije trajno prevzame javni zavod ali da v skladu z zakonom prenese koncesijo na novega koncesionarja, ali nemudoma začeti s postopkom nove podelitve koncesije.
+
+Po preteku treh let od prenehanja koncesije se glede najema uporabljajo določbe tretjega, četrtega, petega in šestega odstavka 47.k člena tega zakona.

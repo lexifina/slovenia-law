@@ -1,0 +1,3 @@
+# 92. člen
+
+Vlogo za namestitev, premestitev in odpust upravičencev pri uveljavljanju pravice do institucionalnega varstva ter vključitev v storitev vodenja in varstva ter zaposlitve pod posebnimi pogoji pri izvajalcu socialno varstvene storitve institucionalnega varstva ter storitve vodenja in varstva ter zaposlitve pod posebnimi pogoji (v nadaljnjem besedilu: izvajalec socialno varstvene storitve), obravnava komisija, pristojna za namestitev, premestitev in odpust, ki jo imenuje izvajalec socialno varstvene storitve, in jo sestavljajo strokovni vodja, vodja socialno varstvenega programa ali službe oziroma socialni delavec in vodja zdravstveno negovalnega programa ali službe, lahko pa tudi drugi strokovni delavci in sodelavci.

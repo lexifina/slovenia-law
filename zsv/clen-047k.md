@@ -1,0 +1,15 @@
+# 47.k člen
+
+V primeru prenehanja koncesije, razen v primerih iz 47.m in 47.n člena tega zakona, mora koncesionar še naprej izvajati dejavnost, ki je predmet koncesije, pod pogoji iz koncesijske pogodbe do takrat, ko koncedent zagotovi izvajanje te dejavnosti v okviru javnega zavoda ali ko to dejavnost začne izvajati novi koncesionar, vendar največ 3 leta.
+
+Koncedent mora nemudoma začeti z zagotavljanjem možnosti, da dejavnost, ki je predmet koncesije, prevzame javni zavod ali da v skladu s tem zakonom prenese koncesijo na novega koncesionarja, ali nemudoma začeti s postopkom nove podelitve koncesije.
+
+Če je zaradi koristi uporabnikov, zlasti v primeru javne službe institucionalnega varstva, nujno, da javni zavod ali novi koncesionar še naprej izvaja dejavnost v istih prostorih, v katerih je dejavnost opravljal prejšnji koncesionar, je prejšnji koncesionar ali katerikoli lastnik teh prostorov dolžan oddati te prostore v najem novemu izvajalcu te javne službe, in sicer najdalj za preostanek trajanja prvotne koncesije.
+
+O obveznosti oddaje v najem odloči organ, pristojen za podelitev koncesije, z odločbo, ki jo izda po uradni dolžnosti in s katero določi najemnika, obseg prostorov, na katere se nanaša obveznost oddaje v najem, trajanje najema, višino najemnine in druge pogoje najema.
+
+Najemnina ne sme biti manjša od višine stroškov prostorov, ki so bili prejšnjemu koncesionarju priznani v ceni storitve v skladu z veljavno metodolgijo za oblikovanje cen socialnovarstvenih storitev.
+
+Organ, pristojen za podelitev koncesije, lahko na zahtevo najemodajalca ali najemnika odločbo o najemu spremeni, če se je bistveno spremenilo dejansko stanje, na katerem je odločba bila izdana. Če najem ni več nujen zaradi koristi uporabnikov, organ odločbo razveljavi.
+
+Zoper odločbo o najemu ni pritožbe, možen pa je upravni spor.
