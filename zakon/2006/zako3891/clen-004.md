@@ -1,3 +1,0 @@
-# 4. člen (izobešanje tuje zastave)
-(1) Zastave tujih držav se lahko izobesijo tako, da so javno vidne ob uradnih ali delovnih obiskih šefov držav, uradnih delegacij ali uradnih predstavnikov zakonodajnih, sodnih ali izvršilnih organov tujih držav, ob mednarodnih srečanjih in mednarodnih športnih ali drugih javnih prireditvah ali javnih shodih z mednarodno udeležbo ter pred hoteli in drugimi objekti, kjer se z izobešanjem označuje njihova namembnost.
-(2) Zastave tujih držav se lahko izobesijo samo, če se s tem ne krni ugleda Republike Slovenije ali tuje države, smiselno na krajih in na način, kot ga določa predpis, ki ureja izobešanje zastave Republike Slovenije.

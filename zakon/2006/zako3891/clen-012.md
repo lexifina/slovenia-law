@@ -1,4 +1,0 @@
-# 12. člen (poškodovanje uradnega napisa, oznake ali odločbe)
-(1) Kdor namerno poškoduje napis ali oznako državnega organa, organa samoupravne lokalne skupnosti ali nosilca javnih pooblastil ali kdor namerno raztrga, zamaže ali na drug način poškoduje ali odstrani uradno objavljeno odločbo (odločbe, sklepi) teh organov v času, ko takšna odločba učinkuje, se kaznuje z globo od 25.000 tolarjev do 50.000 tolarjev.
-(2) Pravna oseba ali samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki stori prekršek iz prejšnjega odstavka, se kaznuje z globo od 100.000 tolarjev do 600.000 tolarjev.
-(3) Odgovorna oseba pravne osebe ali podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost se za prekršek iz prvega odstavka tega člena, se kaznuje z globo od 50.000 tolarjev do 100.000 tolarjev.
