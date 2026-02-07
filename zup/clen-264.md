@@ -1,0 +1,3 @@
+# 264. člen
+
+Preden izda sklep o obnovi upravnega postopka zaradi razlogov, navedenih v 2. točki 260. člena tega zakona, mora uradna oseba zahtevati od organa, pristojnega za kazenski pregon, obvestilo o tem, ali je kazenski postopek ustavljen oziroma ali so okoliščine, zaradi katerih postopka ni mogoče začeti. Uradni osebi takšnega obvestila ni treba zahtevati, če je kazenski pregon zastaral ali če je oseba, na katere kazensko odgovornost meri zahteva za obnovo upravnega postopka, umrla oziroma če lahko okoliščine, zaradi katerih postopka ni mogoče začeti, sama uradna oseba zanesljivo ugotovi.

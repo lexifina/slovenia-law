@@ -1,0 +1,3 @@
+# 79. člen
+
+O ustni obravnavi, ki se snema, se sestavi zapisnik. V zapisniku se navede organ, kraj, datum in ura naroka, zadeva, v kateri se narok opravlja, osebno ime uradne osebe, ki vodi postopek, zapisnikarja, strank, zastopnikov, pooblaščencev in drugih udeležencev v postopku. Prav tako se navede, da je bila ustna obravnava posneta z napravo za zvočno ali zvočno-slikovno snemanje, da so bili udeleženci obveščeni o snemanju ter podatki o morebitni prekinitvi snemanja in kraju hrambe posnetka. Posnetek je priloga zapisnika. Stranke in drugi udeleženci v postopku imajo pred sklenitvijo zapisnika pravico seznaniti se z zapisnikom tako, da ga preberejo ali zahtevajo, da se jim prebere, ter dati pripombe na vsebino zapisnika.
