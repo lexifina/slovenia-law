@@ -1,0 +1,5 @@
+# 18. člen (pošiljanje podatkov ATVP in upravljavcu podatkovne sobe)
+
+(1) KDD – Centralna klirinško depotna družba, d. d. (v nadaljnjem besedilu: KDD), pošlje ATVP in upravljavcu podatkovne sobe sezname oseb, ki so bile na dan izreka izrednega ukrepa imetnice nematerializiranih vrednostnih papirjev z naslednjimi ISIN kodami: SI0021103526, SI0022103111, SI0021104052, SI0022103046, SI0021109598, SI0021200405, SI0022102964, SI0022103103, SI0022102766, SI0021107329, SI0022102683, SI0022102956, SI0022102261, SI0022103277, SI0022103319, SI0021108608, SI0021107634, SI9921107750, SI0022102782, SI0022102709, SI0022102998 in SI0022103285.
+
+(2) Seznami iz prejšnjega odstavka vsebujejo za vsak vrednostni papir iz prejšnjega odstavka naslednje podatke o vsakem imetniku in njegovem računu: osebno ime oziroma firmo, naslov oziroma sedež, davčno številko, enotno matično številko občana, matično številko pravne osebe, morebitno oznako, ki jo je imetniku dodelila KDD, ISIN kodo, LEI kodo, oznako vrednostnega papirja, količino vrednostnih papirjev, oznako tipa računa, oznako člana, ki vodi posamezen račun, in številko posameznega računa.
