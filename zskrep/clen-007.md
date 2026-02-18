@@ -1,0 +1,17 @@
+# 7. člen (sprememba okoliščin in vrnitev neupravičene spodbude)
+
+(1) Upravičenec, ki mu je bila z odločbo dodeljena spodbuda (v nadaljnjem besedilu: prejemnik spodbude), sporoči operaterju trga vsa dejstva, ki nastanejo po izdaji odločbe o dodelitvi spodbude in vplivajo na upravičenost do spodbude, njeno višino ali čas prejemanja, v osmih dneh od dneva, ko je zanje izvedel.
+
+(2) Operater trga po uradni dolžnosti ali na pobudo prejemnika spodbude izda odločbo, s katero:
+
+– odpravi ali razveljavi odločbo o dodelitvi spodbude, če zaradi spremenjenih okoliščin prejemnik spodbude ni upravičen do spodbude;
+
+– spremeni odločbo o dodelitvi spodbude, če je prejemnik zaradi spremenjenih okoliščin upravičen do drugačne višine ali trajanja ali če po izdaji odločbe nastanejo okoliščine, ki vplivajo na pogoje in podatke, določene v odločbi o dodelitvi spodbude.
+
+(3) Če je bila odločba o dodelitvi spodbude izdana na podlagi neresničnih navedb in podatkov prejemnika spodbude ali na podlagi ponarejene listine ali kot posledica kakšnega drugega kaznivega dejanja, operater trga odpravi odločbo o dodelitvi spodbude ter prejemniku spodbude naloži vračilo neupravičeno izplačane spodbude skupaj z zakonskimi zamudnimi obrestmi, ki tečejo od dneva prejema spodbude do vračila. Operater trga ta sredstva nakaže v proračun Republike Slovenije.
+
+(4) Če operater trga ugotovi, da prejemnik spodbude ni izpolnjeval pogojev, se mu neupravičeno dodeljeni del spodbude ali celotna spodbuda z odločbo odvzame, prejemnik spodbude pa mora vrniti neupravičeno prejeta sredstva skupaj z zamudnimi obrestmi, določenimi v skladu z zakonom, ki ureja obrestno mero zamudnih obresti, na način, določen v odločbi operaterja trga. Neupravičeno prejeta sredstva mora vrniti v 30 dneh po vročitvi odločbe skupaj z zakonskimi zamudnimi obrestmi po zakonu, ki ureja predpisano obrestno mero zamudnih obresti, ki tečejo od dneva poteka roka za vračilo neupravičeno prejetih sredstev do dneva vračila. Operater trga ta sredstva nakaže v proračun Republike Slovenije.
+
+(5) Za spremenjene okoliščine iz prve alineje drugega odstavka tega člena, zaradi katerih operater trga odpravi odločbo o dodelitvi spodbude podjetju v težavah, prejemnik spodbude pa mora vrniti vsa prejeta sredstva, šteje tudi sklenitev pravnega posla prejemnika spodbude v obdobju petih let od dodelitve spodbude o prenosu več kot 50 odstotkov v osnovnem kapitalu prejemnika spodbude, in sicer bodisi v obliki prodaje poslovnega deleža, delnic ali dokapitalizacije bodisi v obliki prenosa glasovalnih ali drugih pravic, na podlagi katerih je podana udeležba pri upravljanju prejemnika spodbude, na novega imetnika ali če dosedanji imetnik doseže omenjeni prag.
+
+(6) Če je pri prejemniku spodbude, ki je bil v času dodelitve spodbude podjetje v težavah, ali njegovi odvisni družbi v letih ali za leta, v katerih je bila dodeljena spodbuda, prišlo do izplačila nagrad poslovodstvu oziroma dela plač za poslovno uspešnost poslovodstvu, se mu dodeljena spodbuda z odločbo odvzame, prejemnik spodbude pa mora vrniti neupravičeno prejeta sredstva skupaj z zamudnimi obrestmi, določenimi v skladu z zakonom, ki ureja obrestno mero zamudnih obresti, na način, določen v odločbi operaterja trga. Neupravičeno prejeta sredstva mora vrniti v 30 dneh po vročitvi odločbe skupaj z zakonskimi zamudnimi obrestmi po zakonu, ki ureja predpisano obrestno mero zamudnih obresti, ki tečejo od dneva poteka roka za vračilo neupravičeno prejetih sredstev do dneva vračila. Operater trga ta sredstva nakaže v proračun Republike Slovenije.
