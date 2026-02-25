@@ -1,0 +1,11 @@
+# 34.d člen
+
+Odvetnik iz druge države, ki je država članica Evropske unije, Evropskega gospodarskega prostora ali Švicarska konfederacija, ki ni vpisan v imenik tujih odvetnikov na podlagi 34.a, 34.b ali 34.č člena tega zakona, sme opravljati posamezne storitve, ki sodijo v okvir opravljanja odvetniškega poklica, v skladu z določbami prvega in drugega odstavka 34.c člena tega zakona.
+
+Odvetnik, ki namerava opravljati storitve na podlagi prejšnjega odstavka, mora o tem pisno obvestiti Odvetniško zbornico Slovenije s predložitvijo dokazila o usposobljenosti za opravljanje odvetniškega poklica in dokazila o zavarovanju poklicne odgovornosti v matični državi, pri čemer se smiselno uporablja določba tretjega odstavka 34.b člena tega zakona. V obvestilu mora navesti naslov ali določiti pooblaščenca za vročitve v Republiki Sloveniji.
+
+Na podlagi obvestila in dokazil iz prejšnjega odstavka izda Odvetniška zbornica Slovenije odvetniku potrdilo o priglasitvi opravljanja storitev.
+
+Na zahtevo pristojnih organov mora odvetnik iz prvega odstavka tega člena predložiti potrdilo iz prejšnjega odstavka.
+
+Odvetnik iz druge države, ki je država članica Evropske unije, Evropskega gospodarskega prostora ali Švicarska konfederacija, ki mu je bil v Republiki Sloveniji zavrnjen vpis v imenik odvetnikov zaradi neizpolnjevanja pogoja iz 7. točke prvega odstavka 25. člena tega zakona, v Republiki Sloveniji ne more opravljati odvetniških storitev.
