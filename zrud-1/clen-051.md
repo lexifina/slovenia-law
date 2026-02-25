@@ -1,0 +1,53 @@
+# 51. člen (pogoji za prenos rudarske pravice za izkoriščanje)
+
+(1) Rudarska pravica za izkoriščanje se lahko iz obstoječega nosilca rudarske pravice (v nadaljnjem besedilu: prenosnika rudarske pravice) prenese na drugo pravno ali fizično osebo (v nadaljnjem besedilu: prevzemnika rudarske pravice) z odločbo o prenosu rudarske pravice za izkoriščanje, ki jo izda ministrstvo, pristojno za rudarstvo, pod pogoji, da:
+
+1. zoper prenosnika rudarske pravice ne poteka predhodni postopek zaradi insolventnosti,
+
+2. prevzemnik rudarske pravice izpolnjuje pogoje za nosilca rudarske pravice za izkoriščanje iz 6. člena tega zakona,
+
+3. ima prevzemnik rudarske pravice pravico izvajati rudarska dela na zemljišču,
+
+4. prevzemnik rudarske pravice izpolnjuje tudi morebitne druge pogoje, ki jih je rudarski koncesijski akt, na podlagi katerega je bila podeljena rudarska pravica za izkoriščanje, opredelil kot pogoj za pridobitev rudarske pravice za izkoriščanje na posameznem pridobivalnem prostoru, ki je predmet prenosa.
+
+(2) Vlogo za prenos rudarske pravice za izkoriščanje prevzemnik rudarske pravice vloži na ministrstvo, pristojno za rudarstvo, priloži pa ji:
+
+1. podatke o vlagatelju vloge skladno s 1. in 2. točko petega odstavka 35. člena tega zakona,
+
+2. overjeno izjavo prenosnika rudarske pravice, da se strinja s prenosom rudarske pravice, razen v primeru prenosa rudarske pravice zaradi prenehanja obstoja nosilca rudarske pravice ali smrti nosilca rudarske pravice, ki je fizična oseba,
+
+3. izjavo, da se strinja s prenosom rudarske pravice ter prevzema vse pravice in obveznosti, ki iz nje izhajajo,
+
+4. dokazilo o pravici izvajati rudarska dela na zemljišču,
+
+5. potrjen rudarski projekt, na podlagi katerega je prenosnik rudarske pravice pridobil rudarsko pravico za izkoriščanje.
+
+(3) Če je nad prenosnikom rudarske pravice začet stečajni postopek, če prenosnik rudarske pravice, ki je pravna oseba ali samostojni podjetnik posameznik, preneha obstajati, ali v primeru smrti prenosnika rudarske pravice, ki je fizična oseba, se lahko rudarska pravica prenese na prevzemnika v treh letih od začetka stečajnega postopka oziroma dveh letih od prenehanja prenosnika rudarske pravice ali pravnomočnosti sklepa o dedovanju. Če bi rok iz prejšnjega stavka potekel po izteku koncesijske pogodbe, se za skrajni rok za prenos rudarske pravice šteje datum, do katerega je sklenjena koncesijska pogodba.
+
+(4) Ne glede na prvi odstavek tega člena je v primeru, ko ministrstvo, pristojno za rudarstvo, na podlagi razpoložljivih podatkov v zbirki rudarskih podatkov iz 14. člena tega zakona ne more ugotoviti mej pridobivalnega prostora, ki je predmet prenosa rudarske pravice za izkoriščanje, ali zbirka ne vsebuje vseh dokumentov, ki jih določa ta zakon, prenos rudarske pravice za izkoriščanje mogoč šele po ugotovitvi mej pridobivalnega prostora in dopolnitvi zbirke z manjkajočimi dokumenti. Prenosnik, če ta ne obstaja več pa prevzemnik rudarske pravice, mora v zvezi s tem ministrstvu, pristojnemu za rudarstvo, predložiti vse podatke in dokumente, s katerimi razpolaga. Ministrstvo, pristojno za rudarstvo, si za potrebe ugotovitve mej pridobivalnega prostora lahko pridobi podatke tudi iz arhivov lokalnih skupnosti, upravnih enot, ministrstev ter zgodovinskih, pokrajinskih in drugih arhivov.
+
+(5) Ministrstvo, pristojno za rudarstvo, pripravi koncesijsko pogodbo v ustreznem številu izvodov, ki jih v imenu Republike Slovenije podpiše minister, pristojen za rudarstvo, ter jo v 15 dneh od pravnomočnosti odločbe o prenosu rudarske pravice za izkoriščanje pošlje z osebno vročitvijo v podpis prevzemniku rudarske pravice. Za sklenitev koncesijske pogodbe se smiselno uporablja 47. člen tega zakona.
+
+(6) V primeru odprave odločbe o prenosu rudarske pravice za izkoriščanje na podlagi drugega odstavka 47. člena tega zakona se šteje, da rudarska pravica ni bila prenesena, prenosnik rudarske pravice pa ostane nosilec rudarske pravice ter zavezanec za izvedbo sanacijskih rudarskih del, ki jih je treba izvesti, da se odpravijo posledice, ki so nastale pri izvajanju rudarskih del, in dokončne sanacije okolja. Če po izdaji odločbe o prenosu rudarske pravice prenosnik rudarske pravice preneha obstajati, rudarska pravica ugasne, zavezanec za dokončno sanacijo okolja pa postane pravna ali fizična oseba, ki je bila zadnji nosilec rudarske pravice.
+
+(7) Prenosnik rudarske pravice mora prevzemniku predati dokumentacijo iz prvega odstavka 100. člena tega zakona, zapisnik o predaji in prevzemu pa poslati v vednost ministrstvu, pristojnemu za rudarstvo.
+
+(8) Ne glede na prvi in drugi odstavek tega člena lahko skladno z zakonom, ki ureja postopke zaradi insolventnosti, sodišče pri prodaji premoženja stečajnega dolžnika, ki je poslovna celota, kupcu dovoli vstop v pravne položaje stečajnega dolžnika tudi za rudarsko pravico, koncesijo za izkoriščanje mineralne surovine in z njo povezana dovoljenja, pravice najema ali zakupa premoženja in drugih pravic, ki so potrebne za izvajanje rudarske pravice, vendar samo, če so izpolnjeni naslednji pogoji:
+
+1. pred tem rudarska pravica ni ugasnila na podlagi prvega odstavka 60. člena tega zakona,
+
+2. kupec izpolnjuje vse pogoje za pridobitev rudarske pravice za izkoriščanje iz prvega, tretjega, četrtega in sedmega odstavka tega člena ter
+
+3. ima kupec pravico izvajati rudarska dela na zemljišču tudi za vsa preostala zemljišča ali dele zemljišč, ki ležijo znotraj rudniškega prostora in niso predmet prodaje premoženja stečajnega dolžnika, za celotno obdobje veljavnosti koncesije.
+
+(9) Sodišče v obrazložitvi sklepa, s katerim ugotovi, da kupec vstopa v pravne položaje stečajnega dolžnika kot univerzalni pravni naslednik, navede, na podlagi katerih dokazil ugotavlja, da kupec izpolnjuje tudi pogoje, predpisane po tem zakonu. Sklep sodišče vroči tudi ministrstvu, pristojnemu za rudarstvo.
+
+(10) Sodišče dokazila o izpolnjevanju pogojev iz osmega odstavka tega člena pridobi po uradni dolžnosti. Od ministrstva, pristojnega za rudarstvo, sodišče pridobi:
+
+- podatek iz 1. točke osmega odstavka tega člena o obstoju rudarske pravice,
+
+- podatek o poravnanih dospelih obveznostih iz 2. točke tretjega odstavka 6. člena tega zakona in
+
+- podatek iz četrtega odstavka tega člena o ugotovitvi mej pridobivalnega prostora.
+
+(11) Pravni posli, sklenjeni v nasprotju s tem členom, so nični.

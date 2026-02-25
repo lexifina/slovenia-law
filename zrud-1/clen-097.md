@@ -1,0 +1,23 @@
+# 97. člen (potrjevanje rudarskega projekta za opustitev izvajanja rudarskih del)
+
+(1) Po izvedbi tehničnega pregleda iz prejšnjega člena nosilec rudarske pravice pri ministrstvu, pristojnem za rudarstvo, vloži predlog za potrditev rudarskega projekta za opustitev izvajanja rudarskih del. Predlogu mora priložiti:
+
+- izjavo o tem, na kakšen način so upoštevani pogoji in zahteve komisije iz zapisnika iz desetega odstavka 96. člena tega zakona,
+
+- dva izvoda revidiranega rudarskega projekta za opustitev izvajanja rudarskih del,
+
+- potrjen rudarski projekt za pridobitev koncesije za izkoriščanje, na podlagi katerega se je izvajalo izkoriščanje in je bil sestavni del koncesijske pogodbe,
+
+- dokazilo o pravici izvajati rudarska dela na zemljiščih, na katerih se bodo izvajala sanacijska rudarska dela.
+
+(2) Po prejemu predloga iz prejšnjega odstavka ministrstvo, pristojno za rudarstvo, pridobi potrdilo o skladnosti revidiranega rudarskega projekta za opustitev izvajanja rudarskih del z dokumenti urejanja prostora smiselno na način, kot določa 36. člen tega zakona.
+
+(3) Ministrstvo, pristojno za rudarstvo, potrdi revidirani rudarski projekt za opustitev izvajanja rudarskih del iz prvega odstavka tega člena smiselno na način, kot določata prvi in drugi odstavek 45. člena tega zakona.
+
+(4) Ko ministrstvo, pristojno za rudarstvo, ugotovi, da je rudarski projekt za opustitev izvajanja rudarskih del izdelan v skladu z zahtevami tega zakona, da so v njem upoštevani pogoji in zahteve komisije iz zapisnika iz desetega odstavka prejšnjega člena in da ne presega okvirov potrjenega rudarskega projekta za pridobitev koncesije za izkoriščanje iz tretje alineje prvega odstavka tega člena ter da izbrani nosilec rudarske pravice za izkoriščanje razpolaga z dokazilom o pravici izvajati rudarska dela na zemljiščih, v katera bo posegal, pripravi predlog dodatka h koncesijski pogodbi v ustreznem številu izvodov. Predlog dodatka h koncesijski pogodbi v imenu Republike Slovenije podpiše minister, pristojen za rudarstvo, ministrstvo, pristojno za rudarstvo, pa nato vse izvode pošlje z osebno vročitvijo v podpis nosilcu rudarske pravice.
+
+(5) Nosilec rudarske pravice za izkoriščanje mora ministrstvu, pristojnemu za rudarstvo, vrniti vse izvode podpisanega dodatka h koncesijski pogodbi v enem mesecu od vročitve, sicer dodatek ne stopi v veljavo, kar se evidentira v zbirki rudarskih podatkov.
+
+(6) Ministrstvo, pristojno za rudarstvo, pošlje nosilcu rudarske pravice en izvod veljavnega dodatka h koncesijski pogodbi, skupaj s potrjenim rudarskim projektom za opustitev izvajanja rudarskih del, ter po en izvod dodatka h koncesijski pogodbi v vednost pristojni rudarski inšpekciji in samoupravnim lokalnim skupnostim, na območju katerih je pridobivalni prostor.
+
+(7) Nosilec rudarske pravice lahko začne z deli po potrjenem rudarskem projektu za opustitev izvajanja rudarskih del šele po vročitvi dodatka h koncesijski pogodbi in potrjenega rudarskega projekta iz prejšnjega odstavka.
