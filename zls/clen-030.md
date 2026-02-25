@@ -1,0 +1,7 @@
+# 30. člen
+
+Občinski svet ima komisijo za mandatna vprašanja, volitve in imenovanja, ki jo imenuje izmed članov občinskega sveta.
+
+Občinski svet lahko ustanovi tudi druge komisije in odbore kot svoja delovna telesa. Člane komisij in odborov imenuje izmed članov občinskega sveta, lahko pa tudi izmed drugih občanov, vendar največ polovico članov. Delovno telo občinskega sveta vodi član občinskega sveta. Članstvo v komisiji ali odboru občinskega sveta ni združljivo s članstvom v nadzornem odboru občine ali z delom v občinski upravi.
+
+Občinski svet lahko kot svoja posvetovalna telesa z odlokom ustanovi tudi krajevne, vaške ali četrtne odbore. Člane teh odborov imenuje in razrešuje občinski svet. Imenuje jih izmed prebivalcev posameznih ožjih delov občine, če v občini niso ustanovljeni ožji deli, pa izmed prebivalcev posameznih območij občine, določenih z odlokom. S statutom občine ali odlokom se lahko določi, da člane teh odborov imenujejo in razrešujejo na svojih zborih prebivalci ožjih delov oziroma z odlokom določenih območij občine. S statutom občine ali odlokom se lahko določi, da ima krajevni, vaški ali četrtni odbor pravico občinskemu svetu predlagati odločitve, ki se nanašajo na ožji del občine. Če tako določa statut občine ali odlok, mora občinski svet pred vsako odločitvijo, ki se nanaša na ožji del občine, obvezno pridobiti mnenje krajevnega, vaškega oziroma četrtnega odbora.

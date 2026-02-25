@@ -1,0 +1,11 @@
+# 35. člen
+
+Občinski svet sprejema odločitve na svoji seji z večino opredeljenih glasov navzočih članov. Svet lahko veljavno sklepa, če je na seji navzoča večina članov občinskega sveta.
+
+Seje občinskega sveta sklicuje in vodi župan. Župan lahko za vodenje seje občinskega sveta pooblasti podžupana ali drugega člana občinskega sveta. Če nastopijo razlogi, da župan ne more voditi že sklicane seje občinskega sveta, jo vodi podžupan, če pa tudi ta ne more voditi seje, jo vodi najstarejši član občinskega sveta.
+
+Župan sklicuje seje občinskega sveta v skladu z določbami statuta občine in poslovnika občinskega sveta, mora pa jih sklicati najmanj štirikrat letno. Župan mora sklicati sejo občinskega sveta, če to zahteva najmanj četrtina članov občinskega sveta, seja pa mora biti v petnajstih dneh potem, ko je bila podana pisna zahteva za sklic seje. Če župan seje občinskega sveta ne skliče v roku sedmih dni po prejemu pisne zahteve, jo lahko skličejo člani občinskega sveta, ki so zahtevo podali. Zahtevi za sklic seje občinskega sveta mora biti priložen dnevni red. Župan mora dati na dnevni red predlagane točke, predlagan dnevni red pa lahko dopolni še z novimi točkami.
+
+V primeru naravne ali druge hujše nesreče, epidemije ali drugih izrednih okoliščin, če predstavlja izvedba seje z osebno navzočimi člani občinskega sveta tveganje za zdravje in varnost članov občinskega sveta, in je to nujno zaradi sprejetja odločitev, s katerimi ni mogoče odlašati, lahko župan skliče sejo na daljavo s pomočjo informacijsko-komunikacijske tehnologije. Seja poteka v skladu z določbami tega zakona in poslovnika občinskega sveta, razen določb, ki se nanašajo na način glasovanja, na zagotavljanje javnosti seje, na seje delovnih teles občinskega sveta in na sodelovanje javnosti. Člani občinskega sveta so v prostoru, v katerem v času seje uporabljajo za medsebojno komuniciranje informacijsko-komunikacijsko tehnologijo, sami. Seja se zvočno in slikovno snema, ne pa tudi javno predvaja. Člani občinskega sveta glasujejo z osebnim izrekanjem. Določba prejšnjega odstavka, ki ureja sklic seje na pobudo najmanj četrtine članov občinskega sveta, se pri seji na daljavo ne uporablja.
+
+Strokovno in administrativno delo za potrebe občinskega sveta opravlja občinska uprava.

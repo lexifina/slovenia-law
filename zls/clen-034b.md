@@ -1,0 +1,9 @@
+# 34.b člen
+
+Župan, ki je opravljal funkcijo poklicno in je bil do izvolitve v delovnem razmerju, ima pravico, da se v treh mesecih po prenehanju funkcije vrne na delo, ki ga je opravljal, ali na drugo delo, ki ustreza vrsti in stopnji njegove strokovne izobrazbe.
+
+Župan, ki je opravljal funkcijo poklicno in mu je ta prenehala ter iz objektivnih razlogov ne more nadaljevati prejšnjega dela ali dobiti druge ustrezne zaposlitve in ne izpolnjuje pogojev za pridobitev pravice do starostne pokojnine v skladu s predpisi, ki urejajo obvezno pokojninsko in invalidsko zavarovanje, oziroma s posebnimi predpisi, v katerih je urejena pravica do starostne pokojnine, ima od naslednjega dne po prenehanju funkcije, dokler se ne zaposli ali začne opravljati pridobitne dejavnosti oziroma dokler ne izpolni navedenih pogojev za upokojitev, pravico do nadomestila v višini 80 % zadnje plače, ki jo je prejemal, ko je opravljal funkcijo, vendar najdlje šest mesecev od prenehanja funkcije. Župan, ki je poklicno opravljal funkcijo in mu je funkcija predčasno prenehala zaradi pravnomočne obsodbe za kaznivo dejanje, nima pravice do nadomestila plače iz prejšnjega stavka. Prav tako te pravice nima župan, ki je poklicno opravljal funkcijo in mu je funkcija prenehala pred potekom šestih mesecev od izvolitve. Pravica do nadomestila se lahko podaljša do izpolnitve pogojev za upokojitev, vendar najdlje še za šest mesecev.
+
+Župan, ki je funkcijo župana poklicno opravljal neposredno že pred funkcijo, ki mu je prenehala, ima za vsak prejšnji zaporedni mandat pravico do dodatnega trimesečnega nadomestila plače, vendar ne več kot šest mesecev skupaj.
+
+Čas prejemanja nadomestila se županu, ki mu je prenehala funkcija, šteje v delovno dobo. V tem času je socialno zavarovan po predpisih, ki urejajo socialno zavarovanje oseb v delovnem razmerju. Če se v času ali naslednji dan po zaključku prejemanja nadomestila upokoji, pa mu pripada odpravnina ob upokojitvi.

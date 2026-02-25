@@ -1,0 +1,29 @@
+# 51.c člen
+
+Če občine ne razdelijo premoženja v skladu s prejšnjim členom sporazumno, se z dnem ustanovitve novih oziroma nove občine ali priključitve izločenega dela občine k sosednji občini, razdeli premoženje tako, da:
+
+- nepremično premoženje, grajeno javno dobro in javna infrastruktura pripadejo občini, na območju katere ležijo, razen če v celoti služijo izvrševanju obveznih gospodarskih javnih služb druge občine – v tem primeru pripadejo tej občini;
+
+- nepremično premoženje, ki je po predpisih o lastninjenju družbene lastnine postalo premoženje krajevnih skupnosti ali njihovih pravnih naslednikov, postane premoženje občine, na območju katere leži oziroma njihovih ožjih delov v skladu s statutom občine;
+
+- premično premoženje, ki je namenjeno uporabi nepremičnine ali izvajanju dejavnosti, ki ji nepremičnina služi, postane premoženje občine, na območju katere leži nepremičnina.
+
+Posamezno občino bremenijo tudi vsa bremena premoženja, ki ji je pripadlo.
+
+Občinski svet sprejme akt, s katerim na podlagi premoženjske bilance in popisa ugotovi premoženje občine. Akt občinskega sveta je podlaga za vpis lastninske pravice v zemljiško knjigo.
+
+Druge premoženjske pravice, denarna sredstva in vrednostni papirji ter bremena, ki niso nastala zaradi financiranja izgradnje ali pridobitve premoženja iz prvega odstavka tega člena, se razdelijo v sorazmerju s številom prebivalcev na območju posamezne nove občine oziroma izločenega dela območja občine in številom prebivalcev prejšnje občine. Župani sprejmejo in izvršijo sklep o razdelitvi.
+
+Ustanoviteljske pravice in obveznosti ter kapitalske pravice do javnih zavodov, javnih podjetij, skladov in agencij ter pravice in obveznosti iz koncesijskih in drugih pogodbenih razmerij se uredijo tako, da:
+
+- vsaka občina postane ustanoviteljica javnih zavodov in prevzame pravice in obveznosti do javnih zavodov ter izvajalcev, ki po koncesijski ali drugi pogodbi, v skladu z mrežo javnih služb, opravljajo dejavnosti, ki jih mora občina zagotavljati, samo na njenem območju in za njene prebivalce;
+
+- občine postanejo soustanoviteljice javnih zavodov ter skupaj prevzamejo pravice in obveznosti do javnih zavodov ter izvajalcev, ki po koncesijski ali drugi pogodbi, v skladu z mrežo javnih služb, opravljajo dejavnosti, ki jih mora občina zagotavljati, na celotnem območju in za vse prebivalce prejšnje občine. Vsaka ustanoviteljica ima pravico in dolžnost po skupnem javnem zavodu, koncesijski pogodbi ali drugi pogodbi zagotavljati izvajanje dejavnosti na svojem območju ter sodelovati v upravljanju in obveznostih do javnega zavoda, koncesionarja ali pogodbenika, v sorazmerju s številom svojih prebivalcev oziroma prebivalcev območja, ki se je k njej priključilo v celotnem številu prebivalcev prejšnje občine, za katere območje je bil javni zavod ustanovljen, oziroma je bila sklenjena koncesijska ali druga pogodba;
+
+- vsaka občina postane ustanoviteljica in lastnica javnega kapitala v javnih podjetjih, javnih skladih in agencijah, ki je bil v lasti prejšnje občine, oziroma vstopi kot edina pogodbena stranka v koncesijsko ali drugo pogodbo, če javno podjetje, javni sklad, agencija, koncesionar ali drug pogodbenik izvaja javno službo in druge naloge v skladu z zakonom ali predpisom prejšnje občine samo za njene prebivalce oziroma samo na njenem območju;
+
+- občine postanejo soustanoviteljice javnih podjetij, javnih skladov in agencij ustanovljenih za izvajanje javnih služb in drugih nalog v skladu z zakonom ali predpisom prejšnje občine za območje prejšnje občine, oziroma vstopijo kot pogodbene stranke v koncesijska in druga pogodbena razmerja ter skupaj prevzamejo pravice in obveznosti do javnih podjetij, javnih skladov in agencij, koncesionarjev in drugih pogodbenikov. Vsaka ustanoviteljica ima pravico in dolžnost po skupnem javnem podjetju, javnem skladu, agenciji, koncesijski pogodbi ali drugi pogodbi zagotavljati izvajanje dejavnosti na svojem območju ter sodelovati v upravljanju in obveznostih do javnega podjetja, javnega sklada, agencije, koncesionarja ali pogodbenika, v sorazmerju s številom svojih prebivalcev oziroma prebivalcev območja, ki se je k njej priključilo v celotnem številu prebivalcev prejšnje občine, za katere območje je bilo javno podjetje, javni sklad ali agencija ustanovljena, oziroma je bila sklenjena koncesijska ali druga pogodba. V istem razmerju postanejo občine tudi lastnice idealnih deležev javnega kapitala javnega podjetja, javnega sklada ali agencije, ki je bil v lasti prejšnje občine.
+
+Za izvrševanje ustanoviteljskih pravic občin v skupnih javnih zavodih, javnih podjetjih, javnih skladih in agencijah iz prejšnjega odstavka ter za usklajevanje odločitev občin v zvezi z zagotavljanjem javnih služb ustanovijo občinski sveti udeleženih občin skupni organ, ki ga sestavljajo župani v skladu z določbama četrtega in petega odstavka 61. člena tega zakona.
+
+Nepremičnih in premičnih stvari, ki so namenjene izvajanju dejavnosti in z njimi upravlja javni zavod ali javno podjetje, ni mogoče fizično deliti.

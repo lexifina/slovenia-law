@@ -1,0 +1,21 @@
+# 86.a člen
+
+Dve ali več občin lahko zaradi predstavljanja in uveljavljanja lokalne samouprave ter usklajevanja in skupnega zagotavljanja svojih interesov ustanovi združenje. Z aktom o ustanovitvi združenja določijo ustanoviteljice ime in sedež združenja, cilje in naloge združenja, pravice, obveznosti in odgovornosti združenja v pravnem prometu, zastopanje združenja, pravice in obveznosti članic, način včlanjevanja oziroma prenehanja članstva, organe združenja, financiranje združenja, nadzor nad poslovanjem in prenehanje.
+
+Združenje lahko v imenu združenja uporabi ime “Slovenija”, izpeljanko ali kratico imena Republike Slovenije, če za to pridobi dovoljenje vlade.
+
+Akt o ustanovitvi združenja predložijo ustanoviteljice v hrambo ministrstvu, pristojnemu za lokalno samoupravo. Zahtevi za hrambo priloži pooblaščena oseba združenja sklepe občinskih svetov o članstvu v združenju in statut združenja. Ministrstvo izda odločbo o hrambi. Akt o ustanovitvi združenja, statut združenja in izrek odločbe o hrambi objavi združenje v Uradnem listu Republike Slovenije.
+
+Združenje občin je pravna oseba javnega prava s pravicami, obveznostmi in odgovornostmi, ki jih določata zakon in akt o ustanovitvi. Združenje pridobi status pravne osebe javnega prava z dnem objave iz prejšnjega odstavka.
+
+Združenje predstavlja interese svojih članic pred državnimi organi, kadar ti oblikujejo ali sprejemajo zakone, ali druge predpise, s katerimi se določajo naloge, pravice, obveznosti in odgovornosti občin, ali se s predpisi kako drugače posega v njihove koristi.
+
+(6) Če ni v aktih združenj določeno drugače, združenje zastopa eden od županov občin članic, člani organov upravljanja in nadzora pa so lahko poleg županov tudi drugi funkcionarji občin članic.
+
+Združenje lahko ustanovi strokovne službe za opravljanje strokovnih nalog za združenje, opravljanje informacijskih in izobraževalnih nalog in zagotavljanje strokovne pomoči občinam in zvezam občin. Združenje lahko ustanovi skupne strokovne službe, ki po pooblastilu izvajajo naloge za članice združenj.
+
+Združenje lahko pridobi lastnost reprezentativnosti. Reprezentativno je združenje, v katerega je včlanjenih najmanj 30 odstotkov občin, v primeru združenja mestnih občin pa najmanj polovica mestnih občin. Reprezentativnost združenja se ugotovi v odločbi iz tretjega odstavka tega člena.
+
+Vlada določi merila in postopek za sestavo stalnega predstavništva reprezentativnih združenj občin za sodelovanje z državnimi organi, ter njihovih delegacij v mednarodnih organizacijah občin in v drugih mednarodnih organizacijah. Pri tem upošteva načelo, da se število članov posameznih delegacij določi po proporcionalnem načelu glede velikosti združenja in zagotovi, da ima vsako reprezentativno združenje v delegaciji vsaj enega predstavnika, kadar število članov delegacije to dopušča.
+
+Sredstva za delegacije reprezentativnih združenj v organih Sveta Evrope in Evropske unije, ki bremenijo države, se zagotovijo v državnem proračunu.

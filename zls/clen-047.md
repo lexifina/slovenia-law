@@ -1,0 +1,13 @@
+# 47. člen
+
+Pobudo volivcem za vložitev zahteve za razpis referenduma lahko da vsak volivec, politična stranka v občini ali svet ožjega dela občine. Pobuda mora vsebovati zahtevo za razpis referenduma, ki mora vsebovati jasno izraženo vprašanje, ki naj bo predmet referenduma, in obrazložitev. Statut občine lahko določi, da mora biti pobuda podprta s podpisi določenega števila volivcev na seznamu, ki vsebuje osebne podatke podpisnikov: ime in priimek, datum rojstva in naslov stalnega prebivališča.
+
+Pobudnik o pobudi volivcem za vložitev zahteve za razpis referenduma pisno seznani občinski svet in pobudo predloži županu. Če župan meni, da pobuda z zahtevo ni oblikovana v skladu s prejšnjim odstavkom ali je v nasprotju z zakonom in s statutom občine, o tem v osmih dneh po prejemu pobude obvesti pobudnika in ga pozove, da ugotovljeno neskladnost odpravi v osmih dneh. Če pobudnik tega ne stori, se šteje, da pobuda ni bila vložena. Župan o tem nemudoma obvesti pobudnika in občinski svet.
+
+Pobudnik lahko v osmih dneh po prejemu obvestila iz prejšnjega odstavka zahteva, naj odločitev župana preizkusi upravno sodišče. Če upravno sodišče ugotovi, da je odločitev neutemeljena, jo razveljavi. Sodišče odloči v tridesetih dneh.
+
+Volivci dajejo podporo zahtevi za razpis referenduma s podpisovanjem na seznamu ali z osebnim podpisovanjem. O načinu dajanja podpore odloči župan z aktom, s katerim določi obrazec seznama ali obrazec za podporo z osebnim podpisovanjem in rok za zbiranje podpisov. Obrazca morata vsebovati jasno izraženo zahtevo za razpis referenduma. Osebno podpisovanje se izvaja na upravni enoti, na območju katere je občina, v kateri se zbirajo podpisi v podporo zahtevi za razpis referenduma. Upravna enota preveri in potrdi tudi pravilnost navedbe osebnih podatkov volivca na seznamu in njegovo volilno pravico. Glede postopka dajanja podpore zahtevi za razpis referenduma z osebnim podpisovanjem se smiselno uporabljajo določbe zakona, ki ureja referendum in ljudsko iniciativo.
+
+Volivci lahko dajo svojo podporo zahtevi za razpis referenduma tudi preko enotnega državnega portala eUprava s kvalificiranim elektronskim podpisom. Za oddajo podpore zahtevi preko enotnega državnega portala eUprava se uporabljajo določbe zakona, ki ureja referendum in ljudsko iniciativo.
+
+Šteje se, da je zahteva za razpis referenduma vložena, če jo je v določenem roku podprlo s svojim podpisom zadostno število volivcev.
