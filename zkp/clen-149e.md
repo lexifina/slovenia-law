@@ -1,0 +1,21 @@
+# 149.e člen
+
+(1) Če so podani razlogi za sum, da je bilo izvršeno, da se izvršuje ali da se pripravlja oziroma organizira kaznivo dejanje, ki se preganja po uradni dolžnosti, in je za odkritje, preprečitev ali dokazovanje tega kaznivega dejanja ali za odkritje storilca potrebno pridobiti podatke, ki se hranijo v elektronski obliki, in za pridobitev katerih je v skladu s tem ali drugim zakonom potrebna odredba sodišča, pa je verjetno, da bi lahko bili ti podatki do izročitve odredbe že izbrisani ali spremenjeni, lahko državni tožilec oziroma policija od imetnika, uporabnika, operaterja oziroma ponudnika storitev informacijske družbe ali tretje osebe, ki v okviru svojega poslovanja zakonito razpolaga s podatki, zahteva, da brez nepotrebnega odlašanja ohrani podatke do prejema odredbe sodišča, vendar ne dlje kot trideset dni od izročitve zahteve dalje. Državni tožilec oziroma policija lahko rok z dodatno zahtevo podaljšata še za največ trideset dni. Če imetniku, uporabniku, operaterju oziroma ponudniku storitev informacijske družbe ali tretji osebi, ki v okviru svojega poslovanja zakonito razpolaga s podatki, v roku za ohranitev ni vročena sodna odredba, se ohranitev podatkov odpravi.
+
+(2) Ohranitev podatkov o prometu oziroma podatkov o vsebini komunikacij pri operaterju oziroma ponudniku storitev informacijske družbe, ali tretji osebi, ki v okviru svojega poslovanja zakonito razpolaga s podatki, je mogoče zahtevati le zaradi odkritja, preprečitve ali dokazovanja kaznivega dejanja iz četrtega odstavka 149.a člena ali iz drugega odstavka 150. člena tega zakona oziroma zaradi odkritja storilca takšnega kaznivega dejanja.
+
+(3) Zahteva iz prvega odstavka mora biti pisna in mora vsebovati:
+
+1) podatke, ki omogočajo identifikacijo podatkov, za katere se zahteva ohranitev: navedba uporabnika ali komunikacijskega sredstva za elektronski komunikacijski promet, na katerega se podatki v elektronski obliki nanašajo. Identifikacija mora biti dovolj natančna, da zahtevo omejuje na vnaprej omejen in določljiv seznam oseb;
+
+2) kategorije podatkov, za katere se zahteva ohranitev, ter časovno obdobje, na katerega se podatki nanašajo;
+
+3) navedbo kaznivega dejanja, zaradi katerega se zahteva ohranitev;
+
+4) ustrezen rok za izvršitev.
+
+(4) Izjemoma, če pisne zahteve ni mogoče pravočasno izdati in obstaja nevarnost, da bi že v času do njene izdaje podatki lahko bili uničeni, lahko državni tožilec oziroma policija ohranitev odredi z ustno zahtevo. O podaji ustne zahteve napravi uradni zaznamek. Pisna zahteva mora biti izdana najkasneje v 12 urah po vročitvi ustne zahteve. Če pisna zahteva ni pravočasno izdana, se ohranitev podatkov odpravi.
+
+(5) Kopija zahteve se priloži predlogu preiskovalnemu sodniku za izdajo odredbe za pridobitev ohranjenih podatkov v skladu z določbami tega zakona.
+
+(6) imetnik, uporabnik, operater oziroma ponudnik storitev informacijske družbe ali tretja oseba, ki v okviru svojega poslovanja zakonito razpolaga s podatki, posamezniku oziroma drugi osebi, na katerega se nanašajo podatki, katerih ohranitev se je zahtevalo, ne sme razkriti, da je v skladu s tem členom prejel zahtevo za ohranitev oziroma da je izvedel ohranitev njegovih podatkov. Tega ne sme razkriti 12 mesecev od prejema zahteve za ohranitev. V primeru, da imetnik, uporabnik, operater oziroma ponudnik storitev informacijske družbe ali tretja oseba, ki v okviru svojega poslovanja zakonito razpolaga s podatki, v tem roku prejme sodno odredbo, ki se sklicuje na podatke, katerih ohranitev se je zahtevalo, se rok prepovedi razkritja te zahteve oziroma ohranitve podatkov podaljša do izteka morebitnega roka iz prejete odredbe.

@@ -1,0 +1,5 @@
+# 150.b člen
+
+(1) Ukrep iz 2. točke prvega odstavka prejšnjega člena se lahko odredi tudi takrat, ko je odkrivanje lokacije komunikacijskega sredstva, za katerega je verjetno, da ga uporablja obdolženec, nujno potrebno za izvedbo privedbe, hišnega pripora, pripora ali tiralice v postopku zaradi kaznivih dejanj iz drugega odstavka 150. člena tega zakona ali kaznivega dejanja protipravnega odvzema prostosti po 133. členu Kazenskega zakonika in je mogoče utemeljeno sklepati, da lokacije obdolženca ne bo mogoče odkriti z drugimi ukrepi.
+
+(2) Pri izvedbi ukrepa iz prejšnjega odstavka se smiselno uporabljajo četrti do sedmi odstavek prejšnjega člena.

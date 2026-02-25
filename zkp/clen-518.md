@@ -1,0 +1,3 @@
+# 518. člen
+
+Kadar gre za kazniva dejanja ponarejanja denarja, neupravičene proizvodnje in prometa s prepovedanimi drogami, nedovoljenimi snovmi v športu in predhodnimi sestavinami za izdelavo prepovedanih drog, omogočanje uživanja prepovedanih drog ali nedovoljenih snovi v športu, spravljanja v suženjsko razmerje, trgovine z ljudmi, pridobivanja oseb, mlajših od petnajst let, za spolne namene, prikazovanja, izdelave, posesti in posredovanja pornografskega gradiva ali za kakšno drugo kaznivo dejanje, glede katerega je po mednarodnih pogodbah dogovorjena centralizacija podatkov, mora organ, pred katerim teče kazenski postopek, brez odlašanja poslati policiji podatke o kaznivem dejanju in storilcu, sodišče prve stopnje pa tudi pravnomočno sodbo.

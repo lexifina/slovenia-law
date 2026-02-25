@@ -1,0 +1,7 @@
+# 40. člen
+
+(1) Brž ko sodnik ali sodnik porotnik ugotovi kakšen razlog za svojo izločitev iz 1. do 5. točke prvega odstavka ter 1. ali 3. točke drugega odstavka prejšnjega člena, ali če misli, da je podan razlog za njegovo izločitev iz 6. točke prvega odstavka ali iz 2. točke drugega odstavka prejšnjega člena, mora prenehati z vsakim delom v tej zadevi in to sporočiti predsedniku sodišča, ki odloči o izločitvi in, če sodnika izloči, odredi, da se zadeva po pravilih sodnega reda dodeli drugemu sodniku. Če gre za izločitev predsednika sodišča, v tej zadevi kot predsednik odloča podpredsednik sodišča, če pa mora biti izločen tudi ta, si predsednik sodišča določi namestnika izmed sodnikov tega sodišča, če to ni mogoče, pa zahteva od predsednika neposredno višjega sodišča, naj mu določi namestnika.
+
+(2) Zoper sklep iz prejšnjega odstavka, s katerim se ugodi zahtevi za izločitev, ni pritožbe. Zoper sklep, s katerim se zavrne zahteva za izločitev, se sme sodnik ali sodnik porotnik pritožiti. O pritožbi zoper sklep predsednika okrajnega in okrožnega sodišča odloči senat (šesti odstavek 25. člena), o pritožbi zoper sklep predsednika višjega in vrhovnega sodišča pa senat treh sodnikov višjega oziroma vrhovnega sodišča.
+
+(3) Če je treba v zadevi opraviti dejanja, ki bi jih bilo nevarno odlašati, predsednik sodišča odredi, da jih do odločitve o zahtevi za izločitev sodnika opravi po pravilih sodnega reda o dodeljevanju zadev drugi sodnik.

@@ -1,0 +1,11 @@
+# 158.a člen
+
+(1) Če so podani razlogi za sum, da je kaznivo dejanje, ki se preganja po uradni dolžnosti, storila uradna oseba zaposlena v policiji, v z zakonom določenem pristojnem organu v ministrstvu, pristojnem za obrambo, ki ima pooblastila policije v predkazenskem postopku, ali uradna oseba, ki ima pooblastila policije v predkazenskem postopku in je napotena na misijo v tujini, ali uradna oseba Slovenske obveščevalno-varnostne agencije ali Obveščevalno varnostne službe ministrstva, pristojnega za obrambo, imajo policisti v Oddelku za preiskovanje in pregon uradnih oseb s posebnimi pooblastili (v nadaljnjem besedilu: Posebni oddelek) pooblastila policije v predkazenskem postopku, ki jih določa ta zakon in vsa pooblastila, ki jih lahko izvršujejo uradne osebe iz prvega odstavka 158. člena tega zakona. Policisti Posebnega oddelka izvršujejo ta pooblastila tudi glede oseb, ki so imele v času storitve kaznivega dejanja status uradne osebe, pa jim je ta status kasneje prenehal.
+
+(2) Policisti Posebnega oddelka in policija o razlogih za sum, da je bilo storjeno kaznivo dejanje iz prejšnjega odstavka tega člena, nemudoma obvestijo pristojnega državnega tožilca iz Posebnega oddelka in mu redno poročajo o načrtovanju in poteku predkazenskega postopka.
+
+(3) Državni tožilec iz prejšnjega odstavka usmerja in nadzoruje predkazenski postopek iz prejšnjih odstavkov ter odloča o njegovem poteku in končanju. Pravico ima vpogledati spise, sodelovati pri zbiranju dokazov in neposredno opravljati posamezna dejanja v postopku. Policisti Posebnega oddelka in policije delujejo po usmeritvah državnega tožilca.
+
+(4) Posebni oddelek je v skladu z zakonom, ki ureja državno tožilstvo, pristojen tudi za obravnavo zadev, ki jih obravnava drugo okrožno državno tožilstvo, če so te zadeve vsebinsko povezane z zadevo, ki jo po določbah prvega odstavka tega člena obravnava Posebni oddelek.
+
+(5) Posebni oddelek obvesti predstojnika organa, v katerem je zaposlena uradna oseba iz prvega odstavka tega člena, o zaključenem predkazenskem postopku. Če je treba uradni osebi iz prvega odstavka tega člena odvzeti pooblastila, pa predstojnika organa obvesti tudi že pred zaključkom predkazenskega postopka, kolikor to ne vpliva na uspešno izvedbo predkazenskega ali kazenskega postopka.

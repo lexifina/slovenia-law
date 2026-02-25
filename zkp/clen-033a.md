@@ -1,0 +1,7 @@
+## 3.a Prenos stvarne pristojnosti
+
+# 33.a člen
+
+(1) Specializirani oddelek okrožnega sodišča, ki opravlja preiskavo in sodi v zahtevnejših zadevah organiziranega in gospodarskega kriminala, terorizma, korupcijskih in drugih podobnih kaznivih dejanj, v katerih obtožni akt vloži državno tožilstvo, pristojno za pregon storilcev navedenih kaznivih dejanj (v nadaljnjem besedilu: specializirani oddelek), lahko predlaga vrhovnemu sodišču, da se posamezna zadeva prenese v obravnavo okrožnemu sodišču, če je to primerno ob upoštevanju stopnje zahtevnosti, zapletenosti in pomena zadeve, smotrnosti obravnavanja ter drugih podobnih tehtnih razlogov. Vrhovno sodišče lahko zadevo prenese v obravnavo kateremu koli izmed okrožnih sodišč. Določbe tega odstavka se smiselno uporabljajo tudi v primeru, če se posamezna zadeva prenese v obravnavno drugemu specializiranemu oddelku.
+
+(2) Zoper sklep iz prejšnjega odstavka ni pritožbe.

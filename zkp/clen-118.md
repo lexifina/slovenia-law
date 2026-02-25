@@ -1,0 +1,5 @@
+# 118. člen
+
+(1) Pisanje, za katero je v tem zakonu določeno, da ga je treba osebno vročiti, se izroči neposredno naslovniku. Če tistega, kateremu mora biti pisanje osebno vročeno, ni tam, kjer naj se vročitev opravi, poizve vročevalec, kdaj in kje bi ga mogel najti, ter mu pusti pri katerih od oseb, omenjenih v 119. členu tega zakona ali v hišnem predalčniku, pismeno sporočilo, naj bo določenega dne ob določeni uri v svojem stanovanju ali na svojem delovnem mestu, da sprejme pisanje. Če vročevalec tudi potem ne najde tistega, ki bi mu moral vročiti pisanje, ravna po prvem odstavku 119. člena tega zakona; s tem se šteje, da je vročitev opravljena.
+
+(2) Za osebno vročitev se šteje tudi vročitev po varni elektronski poti v skladu z določbami 117. in 117.a člena tega zakona.

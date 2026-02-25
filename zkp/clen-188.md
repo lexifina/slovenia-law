@@ -1,0 +1,3 @@
+# 188. člen
+
+Če to terjajo koristi kazenskega postopka, ohranitev tajnosti, koristi javnega reda ali razlogi morale, varstva osebnega ali družinskega življenja obdolženca, oškodovanca ali priče, naloži uradna oseba, ki opravlja preiskovalno dejanje, tistim, ki jih zaslišuje ali so navzoči pri preiskovalnih dejanjih ali pa pregledujejo preiskovalne spise, da morajo ohraniti v tajnosti posamezna dejstva ali podatke, ki jih pri tem zvedo, in jih opozori, da pomeni izdaja tajnosti kaznivo dejanje. Taka odredba se zapiše v zapisnik o preiskovalnem dejanju oziroma zaznamuje na pregledanih spisih, opozorjena oseba pa jo podpiše.

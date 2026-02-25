@@ -1,0 +1,7 @@
+# 533.a člen
+
+(1) O prošnji tujega pravosodnega organa za soglasje, da osebo, ki jo je izročila Republika Slovenija, lahko preganja ali zoper njo izvrši kazen ali izroči tretji državi zaradi drugega kaznivega dejanja, ki ga je storila pred izročitvijo, odloča minister za pravosodje na podlagi odločbe senata iz šestega odstavka 25. člena tega zakona sodišča, ki je odločalo o izpolnjevanju pogojev za izročitev.
+
+(2) Senat iz šestega odstavka 25. člena, na podlagi dokumentacije, ki jo je posredovala tuja država, preuči ali so izpolnjeni pogoji iz 522. člena tega zakona. Če senat ugotovi, da niso izpolnjeni zakonski pogoji za izročitev, izda sklep, da se prošnja za soglasje za kazenski pregon, izvršitev kazni ali izročitev tretji državi zavrne. Ta sklep pošlje sodišče po uradni dolžnosti sodišču druge stopnje, ki po zaslišanju državnega tožilca sklep potrdi, razveljavi ali spremeni. Če pa senat iz šestega odstavka 25. člena spozna, da so izpolnjeni zakonski pogoji za soglasje za kazenski pregon, izvršitev kazni ali izročitev ali predajo tretji državi, ugotovi to s sklepom. Zoper ta sklep ima tujec pravico pritožbe na sodišče druge stopnje. Pravnomočni sklep se pošlje ministru za pravosodje, ki skladno z določbo drugega odstavka 530. člena tega zakona odloči o prošnji oziroma obvesti drugo državo, da niso izpolnjeni pogoji za soglasje.
+
+(3) Odločitev se posreduje na način, določen v prvem odstavku 532. člena tega zakona.

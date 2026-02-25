@@ -1,0 +1,15 @@
+## XII. poglavje VROČANJE PISANJ IN PREGLEDOVANJE SPISOV
+
+# 117. člen
+
+(1) Pisanja se vročajo praviloma po pošti, po varni elektronski poti ali po detektivu in izvršitelju. Vročajo se lahko tudi po sodnem osebju po pooblastilu predsednika sodišča ali po uradni osebi organa, ki je odredil vročanje, neposredno pri tem organu.
+
+(2) Obdolženec, priča, zasebni tožilec, oškodovanec kot tožilec in oškodovanec lahko sodišču sporoči, da želi vročitev pisanj po varni elektronski poti v varen elektronski predal ali na naslov za vročanje po varni elektronski poti, registriran v informacijskem sistemu e-sodstvo, katerega naslov navede v vlogi ali na naroku in je enakovreden naslovu prebivališča. Če navedene osebe pošljejo vlogo v elektronski obliki po varni elektronski poti, se šteje, da želijo vročanje po varni elektronski poti, dokler ne sporočijo drugače. Če sodišče ugotovi, da vročitev v varen elektronski predal ni mogoča, vroči pisanje na drug način v skladu s prejšnjim odstavkom in navede razlog za tako vročitev.
+
+(3) Državnemu tožilcu in drugim državnim organom, odvetnikom, sodnim izvedencem, sodnim cenilcem, sodnim tolmačem in drugim osebam oziroma organom, pri katerih se zaradi njihove narave dela lahko domneva večja zanesljivost, se pisanja vročajo po elektronski poti v varen elektronski predal, če je tako vročanje mogoče in če drug način vročanja iz prvega odstavka tega člena ni primernejši. V prejšnjem stavku navedeni organi in osebe morajo v informacijskem sistemu e-sodstva registrirati svoj varni elektronski predal ali naslov za vročanje po varni elektronski poti.
+
+(4) Minister, pristojen za pravosodje, določi pravila postopanja detektivov in izvršiteljev, kadar opravljajo vročanje v kazenskem postopku, njihovo nagrado ter vsebino sporočil pri vročanju in vročilnic.
+
+(5) Minister, pristojen za pravosodje, določi, kaj je varna elektronska pot, način identifikacije, pogoje, obliko in način vročanja po varni elektronski poti ter določi nadomestilo za posredovanje pri vročanju pisanj v varni elektronski predal.
+
+(6) Vabilo na glavno obravnavo in druga vabila sodišče ustno naznani osebi, kadar je ta pred njim, in jo pri tem pouči o posledicah, če ne bi prišla. Na ta način opravljeno vabilo se zaznamuje v zapisniku, ki ga povabljeni podpiše, razen če je to že zapisano v zapisniku o glavni obravnavi. Šteje se, da je vabilo s tem veljavno vročeno.

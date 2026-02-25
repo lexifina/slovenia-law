@@ -1,0 +1,13 @@
+## 3. Združitev in izločitev postopka
+
+# 31.a člen
+
+(1) Določbe od prvega do četrtega odstavka 32. člena tega zakona se smiselno uporabljajo tudi v predkazenskem postopku za osumljenca kaznivih dejanj, za katera se storilec preganja po uradni dolžnosti in obtožni akt še ni bil vložen na pristojno sodišče ali ni bila zahtevana uvedba sodne preiskave.
+
+(2) Če so v primeru iz prvega odstavka tega člena za usmerjanje predkazenskega postopka in pregon osumljenca pristojna različna okrožna državna tožilstva, je praviloma pristojno okrožno državno tožilstvo, ki je prvo prejelo kazensko ovadbo. Če so za usmerjanje predkazenskega postopka in pregon osumljenca pristojni različni državni tožilci istega okrožnega državnega tožilstva, je praviloma pristojen državni tožilec, ki je prvi prejel kazensko ovadbo. Nadaljnje kazenske ovadbe, za katere je smotrno izvesti enoten predkazenski postopek in vložiti enoten obtožni akt, se posredujejo pristojnemu državnemu tožilcu, ki z njimi ravna po tretjem odstavku tega člena.
+
+(3) V primerih iz prvega odstavka tega člena se izvede enoten predkazenski postopek in vloži enoten obtožni akt, razen če bi bilo to nesmotrno oziroma bi oteževalo uspešno izvedbo predkazenskega in kazenskega postopka.
+
+(4) Določbe tega člena se ne uporabljajo za zadeve iz pristojnosti Specializiranega državnega tožilstva Republike Slovenije.
+
+(5) Podrobnejša pravila o načinu združevanja določa Državnotožilski red.
