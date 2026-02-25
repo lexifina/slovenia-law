@@ -1,0 +1,3 @@
+# 1. člen (vsebina)
+
+S tem zakonom se za izvajanje Uredbe (EU) 2023/2631 Evropskega parlamenta in Sveta z dne 22. novembra 2023 o evropskih zelenih obveznicah in neobveznih razkritjih za obveznice, ki se tržijo kot okoljsko trajnostne obveznice, in za obveznice, povezane s trajnostnostjo (UL L št. 2023/2631 z dne 30. 11. 2023), zadnjič spremenjene z Uredbo (EU) 2023/2869 Evropskega parlamenta in Sveta z dne 13. decembra 2023 o spremembi nekaterih uredb glede vzpostavitve in delovanja evropske enotne točke dostopa (UL L št. 2023/2869 z dne 20. 12. 2023), (v nadaljnjem besedilu: Uredba 2023/2631/EU), določajo pristojni organi, ureja način opravljanja nadzora ter prekrški in globe v zvezi z izvajanjem Uredbe 2023/2631/EU.
