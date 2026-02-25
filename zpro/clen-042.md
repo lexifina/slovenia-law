@@ -1,0 +1,27 @@
+# 42. člen (viri za pridobivanje podatkov)
+
+(1) Uprava brezplačno pridobiva podatke o osebi, ki so nujno potrebni za izvrševanje probacijskih nalog po tem zakonu, iz zbirk podatkov teh upravljavcev:
+
+1. ministrstva, pristojnega za notranje zadeve, podatke iz centralnega registra prebivalstva (osebno ime, spol, EMŠO, državljanstvo, davčna številka, stalno in začasno prebivališče, naslov v tujini, družinski člani (EMŠO očeta, matere, zakonca in otrok, ime in priimek družinskih članov, stalno prebivališče), naslov za vročanje, elektronski naslov za vročanje, zakonski stan, sprememba osebnega imena, podaljšanje in odvzem roditeljske pravice ter dan prenehanja tega ukrepa, odvzem in vrnitev poslovne sposobnosti, podaljšanje in odvzem starševske skrbi ter dan prenehanja tega ukrepa, skrbništvo ter dan prenehanja tega ukrepa, podatke o izdanem dovoljenju za prebivanje tujca (vrsta dovoljenja, razlog in namen izdaje, dan izdaje in obdobje veljavnosti, podatek o tem, ali je dovoljenje za prebivanje veljavno ali je prenehalo veljati), podatek o osebah, prijavljenih na istem naslovu (osebno ime in EMŠO oseb), s povezovanjem zbirk na podlagi povezovalnega znaka;
+
+2. Policije podatek o iskani osebi: osebno ime in EMŠO, vrsta ter veljavnost ukrepa odredbodajalca iz evidence iskanih oseb in iz evidence iskanih oseb v SIS; podatke o odvzemu prostosti: kraj, čas in razlog odvzema iz evidence oseb, ki jim je odvzeta prostost; podatke o izdanih odredbah o prepovedi približevanja: podatek o osebi, ki ji je izdana odredba, povzetek vsebine odredbe, dan izdaje odredbe, podatek iz odločbe sodišča z rokom trajanja ukrepa, podatki centrov za socialno delo in organizacij, ki sodelujejo pri razreševanju družinskega nasilja, iz evidence izdanih odredb za prepoved približevanja; podatke o pogrešanih osebah: podatek o pogrešani osebi, čas in okoliščine pogrešanja iz evidence pogrešanih oseb in iz evidence pogrešanih oseb v SIS;
+
+3. ministrstva, pristojnega za visoko šolstvo: osebno ime, EMŠO, podatek o predhodno pridobljeni izobrazbi, potrebni za vpis v študijski program (KLASIUS, leto, država), ime univerze ali samostojnega visokošolskega zavoda, ime študijskega programa in letnik študija iz evidence študentov in diplomantov eVŠ;
+
+4. ministrstva, pristojnega za vzgojo in izobraževanje: podatek o vključenosti oseb v vzgojni ali vzgojno-izobraževalni oziroma višješolski zavod, ali od organizacije za izobraževanje odraslih (ime osnovne ali srednje šole ali višje strokovne šole ali organizacije za izobraževanje odraslih ter obdobje vključenosti), podatek o letniku izobraževanja oziroma študija, podatek o imenu izobraževalnega oziroma študijskega programa in smeri vzgojno-izobraževalnega ali študijskega programa na podlagi podatka o EMŠO iz centralne evidence udeležencev vzgoje in izobraževanja;
+
+5. ministrstva, pristojnega za socialne zadeve, podatek o denarni socialni pomoči ali varstvenem dodatku, preživnini (zavezanec za preživnino) iz informacijskega sistema centrov za socialno delo;
+
+6. Zavoda za zdravstveno zavarovanje Slovenije podatke o zavarovancih, vključenih v obvezno zdravstveno zavarovanje (podlaga za zavarovanje osebe, dan prijave in odjave v obvezno zdravstveno zavarovanje osebe), podatke o zavarovanju za poškodbe pri delu in poklicne bolezni po predpisih o zdravstvenem zavarovanju za osebe, ki opravljajo splošno koristna dela (podlaga za zavarovanje osebe, dan prijave in odjave za poškodbe pri delu in poklicne bolezni), iz evidence zavarovanih oseb;
+
+7. Zavoda Republike Slovenije za zaposlovanje: podatek o brezposelnih osebah (dan prijave in odjave v evidenco ter o razlogih prenehanja vodenja v evidenci), podatek o obdobju upravičenosti do denarnega nadomestila in dodatka za aktivnost), podatek o začasni nezaposljivosti (dan obravnave na komisiji, podatek o mnenju in predlogih ukrepov komisije ter predvideno trajanje začasne nezaposljivosti), podatek o osebah, vključenih v zaposlitveno rehabilitacijo iz evidence brezposelnih oseb; podatek o iskalcih zaposlitve (dan prijave in odjave) iz evidence iskalcev zaposlitve; podatek o zaposljivosti (zaščitna, podporna zaposljivost ali nezaposljivost) iz evidenc izdanih odločb o zaposljivosti;
+
+8. ministrstva, pristojnega za pravosodje, podatke o neizbrisanih obsodbah iz kazenske evidence, o neizbrisanih vzgojnih ukrepih iz evidence vzgojnih ukrepov, podatke o plačilnih nalogih in sodbah, ki so podlaga za vpis podatkov v evidenco, o kazenskih točkah v cestnem prometu in podatke o pravnomočnih sodbah ali sklepih o prekrških;
+
+9. Uprave za izvrševanje kazenskih sankcij podatek o dnevu nastopa kazni, izteku kazni oziroma predvidenem odpustu iz zapora iz zbirke podatkov o obsojencih; podatek o dnevu sprejema in izpustitve iz pripora iz zbirke osebnih podatkov pripornikov;
+
+10. sodišča podatek o odprtih kazenskih postopkih.
+
+(2) Če uprava zaradi izvajanja pristojnosti in nalog iz tega zakona ter varstva in učinkovitega uresničevanja interesov pravne države zbira osebne in druge podatke o osebah za namen vključitve v zbirko podatkov o osebah iz obstoječih zbirk podatkov, ji morajo državni organi in pravne osebe, ki na podlagi zakona in v okviru svoje dejavnosti ali v zvezi z njo vodijo zbirke podatkov, na podlagi pisne ali podobne izkazljive zahteve brezplačno zagotoviti zahtevane osebne in druge podatke, kar se lahko omogoči tudi na podlagi elektronskega dostopa.
+
+(3) Uprava lahko obdeluje tudi druge osebne podatke osebe, ki je podala privolitev za obdelavo osebnih podatkov za potrebe izvrševanja probacijske naloge.

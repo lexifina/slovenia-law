@@ -1,0 +1,7 @@
+# 12. člen (poziv osebi)
+
+(1) Po prejemu pravnega akta iz prejšnjega člena probacijska enota začne izvajati potrebne aktivnosti in najpozneje v osmih dneh od prejema pravnega akta, v primeru hišnega zapora pa od prejema obvestila zavoda za prestajanje kazni zapora, pozove osebo, da se zglasi na probacijski enoti z namenom priprave osebnega načrta. V pozivu na zglasitev mora biti oseba opozorjena na svoje obveznosti in o možnih posledicah, če se pozivu ne odzove, ali če ne sodeluje pri izvajanju probacijske naloge. Ob zglasitvi na probacijski enoti se preveri istovetnost osebe.
+
+(2) Če se oseba v osmih dneh od dneva, ko je bila pozvana na probacijsko enoto, ne zglasi ali ne sporoči upravičenih razlogov za svoj izostanek, ali če ji poziva na zglasitev ni bilo mogoče vročiti na naslovu, ki ga je dala organu, ki zahteva izvrševanje probacijske naloge, probacijska enota o tem obvesti organ, ki zahteva izvrševanje probacijske naloge in je izrekel sankcijo.
+
+(3) Če organ, ki zahteva izvrševanje probacijske naloge, po prejemu obvestila o izostanku iz prejšnjega odstavka ugotovi, da se oseba na probacijski enoti ni zglasila iz razlogov, ki bi opravičili njen izostanek, ali da kljub danemu soglasju ni pripravljena sodelovati pri izvajanju probacijske naloge in da zaradi tega niso več podani pogoji za njeno izvajanje, ravna v skladu z zakonom, po katerem ji je bila sankcija izrečena, in o svoji odločitvi v roku osmih dni od prejema obvestila obvesti probacijsko enoto.

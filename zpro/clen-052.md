@@ -1,0 +1,9 @@
+# 52. člen (prevzem javnih uslužbencev centrov za socialno delo)
+
+(1) Javnim uslužbencem, ki na centrih za socialno delo opravljajo naloge izvrševanja pogojne obsodbe z varstvenim nadzorstvom, pogojnega odpusta z varstvenim nadzorstvom, izvrševanja dela v splošno korist kot način izvršitve kazni zapora ali denarne kazni, izvrševanja dela v splošno korist namesto plačila globe in stroškov postopka ali nadomestnega zapora po zakonu, ki ureja prekrške, in izvrševanje dela v splošno korist v postopku poravnavanja ali pri odloženem kazenskem pregonu po zakonu, ki ureja kazenski postopek, ter skrbijo za vzpostavitev in vzdrževanje mreže izvajalskih organizacij, delovno razmerje preneha en dan pred začetkom uporabe tega zakona, z dnem začetka uporabe tega zakona pa se prevzamejo in brez objave ali javnega natečaja sklenejo delovna razmerja z upravo na delovna mesta, ki so določena v aktu o sistematizaciji, za katera izpolnjujejo pogoje. Javni uslužbenci, ki bodo sklenili pogodbo o zaposlitvi za uradniško delovno mesto, se z dnem sklenitve pogodbe o zaposlitvi imenujejo na najnižji naziv, v katerem se opravlja delo na delovnem mestu.
+
+(2) Ministrstvo, uprava in centri za socialno delo najpozneje do 31. oktobra 2017 sklenejo sporazum o tem, koliko in katere javne uslužbence prevzame uprava v skladu s prejšnjim odstavkom.
+
+(3) Z dnem začetka uporabe tega zakona se sredstva za stroške dela in pripadajoče materialne stroške za javne uslužbence, ki jih v skladu s tem zakonom prevzame uprava, iz Ministrstva pristojnega za delo, družino, socialne zadeve in enake možnosti prerazporedijo na upravo.
+
+(4) Z dnem začetka uporabe tega zakona se sredstva za kritje stroškov, povezanih z izvrševanjem dela v splošno korist, iz Ministrstva za delo, družino, socialne zadeve in enake možnosti prerazporedijo na upravo.

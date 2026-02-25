@@ -1,0 +1,5 @@
+# 7.b člen (identifikacija ter seznanitev osebe s pravicami in obveznostmi)
+
+(1) Svetovalec ob prvem srečanju preveri identiteto osebe, ji pojasni razlog identifikacije in zahteva vpogled v uradni identifikacijski dokument s fotografijo. Če je oseba zakrita ali zamaskirana, sme svetovalec zahtevati, da se odkrije, da lahko nedvomno ugotovi njeno identiteto. Če svetovalec dvomi o pristnosti javne listine, ali če je oseba nima, ali identitete ni mogoče z gotovostjo ugotoviti, sme svetovalec ugotavljati identiteto z razgovorom, v katerem preverja podatke o identiteti z uporabo drugih listin, ob pomoči drugih oseb ali na drugem kraju ali na način, ki ga predlaga identificirana oseba, ki je varen in glede na okoliščine najprimernejši. Če svetovalec ne more ugotoviti identitete osebe, zahteva ugotovitev identitete od policije.
+
+(2) Svetovalec po opravljenem preverjanju identitete pojasni osebi potek probacijske naloge ter jo seznani z njenimi pravicami in obveznostmi ter posledicami nesodelovanja. Oseba s podpisom potrdi, da je seznanjena z obveznostmi, pravicami in posledicami nesodelovanja pri izvrševanju probacijske naloge.
