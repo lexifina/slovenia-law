@@ -1,0 +1,17 @@
+# 43. člen (obvezne revizije konsolidiranih računovodskih izkazov in dajanja zagotovil o konsolidiranih poročilih o trajnostnosti)
+
+(1) Pri obvezni reviziji konsolidiranih računovodskih izkazov nosi ključni revizijski partner skupine celotno odgovornost za revizorjevo poročilo o konsolidiranih računovodskih izkazih ter za dodatno poročilo k revizijskemu poročilu iz 11. člena Uredbe 537/2014/EU.
+
+(2) Ključni revizijski partner skupine izvaja pregled in hrani dokumentacijo svojega pregleda revizijskega dela, ki ga je opravil revizor iz tretjih držav, zakoniti revizor, revizijski subjekt tretje države ali revizijsko podjetje za namen revizije skupine. Dokumentacija, ki jo hrani ključni revizijski partner, je takšna, da lahko Agencija pregleda delo ključnega revizijskega partnerja.
+
+(3) Kadar revizor ali revizijski subjekt iz tretje države, revidira sestavni del skupine podjetij, je ključni revizijski partner odgovoren, da Agenciji zagotovi vso dokumentacijo o revizijskem delu, ki ga je opravil revizor ali revizijski subjekt iz tretje države, vključno z delovnimi papirji, povezanimi z revizijo konsolidiranih računovodskih izkazov. Da bi to lahko zagotovil, ohrani ključni revizijski partner kopijo takšne dokumentacije ali se dogovori z revizorjem ali revizijskim subjektom o primernem in neomejenem dostopu do dokumentacije na zahtevo ali ukrepa kako drugače.
+
+(4) Če je prenos delovnih papirjev iz tretje države revizorju skupine preprečen zaradi pravnih ali drugih ovir, vključuje dokumentacija, ki jo hrani revizor skupine, dokazila, da je izvedel ustrezne postopke za pridobitev dostopa do revizijske dokumentacije, ter pri ovirah, ki niso pravne in izvirajo iz državne zakonodaje, dokazila o takšnih ovirah.
+
+(5) Pri dajanju zagotovil o konsolidiranih poročilih o trajnostnosti skupine podjetij nosi ključni trajnostni partner skupine celotno odgovornost za poročilo o dajanju zagotovil o trajnostnosti.
+
+(6) Ključni trajnostni partner skupine pregleda in dokumentira dajanje zagotovil, ki so ga za namen dajanja zagotovil o zanesljivosti konsolidiranega poročanja o trajnostnosti izvedli neodvisni ponudniki storitev dajanja zagotovil, revizorji iz tretjih držav, zakoniti revizorji iz tretjih držav, revizijski subjekti iz tretjih držav ali revizijska podjetja. Dokumentacija, ki jo hrani ključni trajnostni partner, je takšna, da lahko Agencija pregleda njegovo delo.
+
+(7) Kadar so neodvisni ponudniki storitev dajanja zagotovil, revizor ali revizijski subjekt iz tretje države in opravljajo dajanje zagotovil o trajnostnosti sestavnega dela skupine podjetij, je ključni trajnostni partner odgovoren, da Agenciji zagotovi vso dokumentacijo o dajanju zagotovil, ki ga je opravil neodvisni ponudnik storitev dajanja zagotovil, revizor ali revizijski subjekt iz tretje države, vključno z delovnimi papirji, povezanimi z dajanjem zagotovil o konsolidiranih poročilih o trajnostnosti. Za ta namen ohrani ključni trajnostni partner kopijo takšne dokumentacije ali se dogovori z neodvisnim ponudnikom storitev dajanja zagotovil, revizorjem ali revizijskim subjektom o primernem in neomejenem dostopu do dokumentacije na zahtevo.
+
+(8) Če je prenos delovnih papirjev iz tretje države ključnemu trajnostnemu partnerju skupine preprečen zaradi pravnih ali drugih ovir, vključuje dokumentacija, ki jo hrani, dokazila, da je izvedel ustrezne postopke za pridobitev dostopa do dokumentacije o dajanju zagotovil, ter pri ovirah, ki niso pravne in izvirajo iz državne zakonodaje, dokazila o takšnih ovirah.

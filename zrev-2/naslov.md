@@ -1,0 +1,3 @@
+ZAKON
+
+O REVIDIRANJU (ZRev-2)

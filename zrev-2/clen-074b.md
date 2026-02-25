@@ -1,0 +1,3 @@
+# 74.b člen (poročilo o upoštevanju priporočil iz poročila o nadzoru nad zakonitostjo in kakovostjo dela pooblaščenih revizorjev in revizijskih družb)
+
+Subjekt nadzora, na katerega se nanaša priporočilo iz poročila o nadzoru, posreduje Agenciji v roku, ki ga določi Agencija, poročilo o upoštevanju priporočil iz poročila o nadzoru. Agencija pri določitvi roka za posredovanje poročila o upoštevanju priporočil upošteva obseg sprememb, ki jih mora naslovnik izvesti zaradi uresničitve priporočil. Rok za izpolnitev priporočil, ki se nanašajo na sistem notranjega obvladovanja in zagotavljanja kakovosti, ne sme biti daljši od 12 mesecev.
