@@ -1,0 +1,3 @@
+# 17. člen (uskladitev za fizične osebe, ki imajo dovoljenje agencije za opravljanje poslov zavarovalnega zastopanja ali zavarovalnega posredovanja)
+
+Za osebo, ki ima na dan uveljavitve tega zakona že izdano dovoljenje za opravljanje poslov zavarovalnega zastopanja ali zavarovalnega posredovanja po zakonu, ki ureja zavarovalništvo, se šteje, da ima dovoljenje za distribucijo PEPP po tem zakonu, če opravi izobraževanje s področja Uredbe 1238/2019 in tega zakona ter preizkus strokovnega znanja pri Slovenskem zavarovalnem združenju v okviru izobraževanj na podlagi tretjega odstavka 9. člena tega zakona.
