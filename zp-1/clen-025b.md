@@ -1,0 +1,11 @@
+# 25.b člen
+
+(1) Za prekrške s področja političnih strank ter volilne in referendumske kampanje sme sodišče storilcu prekrška, ki je upravičenec do sredstev iz proračuna Republike Slovenije oziroma proračunov samoupravnih lokalnih skupnosti, izreči sankcijo izgube ali omejitve pravice do sredstev iz proračuna Republike Slovenije in proračunov samoupravnih lokalnih skupnosti.
+
+(2) Omejitev pravice do sredstev iz proračuna Republike Slovenije in proračunov samoupravnih lokalnih skupnosti se lahko predpiše v deležu sredstev, do katerih je storilec prekrška upravičen.
+
+(3) Izguba ali omejitev pravice do sredstev iz proračuna Republike Slovenije in proračunov samoupravnih lokalnih skupnosti se izreče v višini in trajanju, ki ju določa zakon, vendar največ do dveh let.
+
+(4) Izguba ali omejitev pravice do sredstev iz proračuna Republike Slovenije in proračunov samoupravnih lokalnih skupnosti nastopi v mesecu, ki sledi mesecu, v katerem je postala pravnomočna odločba o prekršku, s katero je izguba ali omejitev izrečena. Izgubijo ali omejijo se lahko le sredstva, ki ob nastopu izgube ali omejitve še niso izplačana.
+
+Splošna pravila za odmero sankcije

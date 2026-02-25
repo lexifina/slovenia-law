@@ -1,0 +1,7 @@
+# 200.a člen
+
+(1) Organ, ki je odločal o prekršku na prvi stopnji, ob pošiljanju odločbe, s katero se izrečejo globa, opomin, redovna globa ali naložijo sodna taksa, stroški postopka, odvzem premoženjske koristi ali plačilo odškodnine, priloži univerzalni plačilni nalog ali poziv za plačilo, ki mora vsebovati osebno ime in naslov zavezanca, za pravno osebo pa naziv in sedež, vrsto in višino plačila, številko podračuna za posamezno vrsto plačila in referenco, razen če so v odločbi, ki jo je izdal organ, ki je odločal na prvi stopnji, že navedene številke podračunov in referenca za njihovo plačilo.
+
+(2) Če je bila odločba iz prejšnjega odstavka v postopku s pravnim sredstvom spremenjena na način, ki vpliva na odmero globe ali stroškov postopka, organ, ki je odločal na prvi stopnji, izda nov univerzalni plačilni nalog ali poziv za plačilo z ustrezno spremenjenimi vsebinami.
+
+Način plačila

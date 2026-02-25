@@ -1,0 +1,11 @@
+# 11.a člen
+
+(1) Zoper storilca, ki je bil v kazenskem postopku pravnomočno spoznan za krivega kaznivega dejanja, ki ima tudi znake prekrška, ali je bila zaradi takega dejanja kazenska ovadba zoper njega zavržena na podlagi postopka poravnavanja ali odloženega pregona, se ne vodi postopek o prekršku in se mu tudi ne izrekajo sankcije za prekrške.
+
+(2) Če je bil kazenski postopek za kaznivo dejanje, ki ima tudi znake prekrška, pravnomočno ustavljen, ali je bila izdana pravnomočna oprostilna sodba, ali je bil obtožni akt pravnomočno zavrnjen ali zavržen, ali je bila kazenska ovadba zavržena, se postopek za prekršek zoper storilca vodi le, če ga razlogi za navedeno odločitev ne izključujejo.
+
+(3) Če je bila zoper storilca vložena kazenska ovadba zaradi kaznivega dejanja, ki ima tudi znake prekrška, ali zaradi takega dejanja zoper njega teče kazenski postopek, se postopek o prekršku ne more začeti, če se je začel, pa se prekine in se ne sme nadaljevati, dokler ni postopek v zvezi s kaznivim dejanjem pravnomočno končan. V tem času zastaranje pregona zaradi prekrška ne teče in se nadaljuje po pravnomočnosti odločitve iz prejšnjega odstavka.
+
+(4) Državni tožilec mora o svoji odločitvi iz prejšnjih odstavkov tega člena, ki vpliva na vodenje postopka o prekršku, če je bil začet kazenski postopek, pa tudi o pravnomočni odločitvi sodišča, brez odlašanja obvestiti za obravnavanje prekrška pristojni prekrškovni organ oziroma sodišče.
+
+Imuniteta

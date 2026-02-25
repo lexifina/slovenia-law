@@ -1,0 +1,13 @@
+# 20.a člen
+
+(1) Če znesek posamične globe ali seštevek dveh ali več glob, izrečenih storilcu, znaša najmanj 1.000 eurov, globe ali glob pa ni mogoče izterjati po pravilih upravne izvršbe, sodišče sankcijo izvrši tako, da za vsakih začetih 100 eurov globe določi en dan zapora, pri čemer zapor ne sme biti daljši od 90 dni. V seštevek glob se vštejejo le globe, izrečene s posamičnim plačilnim nalogom, odločbo ali sodbo v višini najmanj 300 eurov.
+
+(2) Če je storilcu izrečenih deset ali več glob v znesku manj kot 300 eurov na posamični plačilni nalog, odločbo ali sodbo, pa seštevek teh glob znaša najmanj 1.000 eurov, glob pa ni mogoče izterjati po pravilih upravne izvršbe, sodišče sankcijo izvrši tako, da za vsakih začetih 100 eurov globe določi en dan zapora, pri čemer zapor ne sme biti daljši od 30 dni.
+
+(3) Če sodišče ob upoštevanju storilčeve zmožnosti za prestajanje zapora, njegovih osebnih razmer ali drugih okoliščin v času odločanja oceni, da za to obstajajo utemeljeni in upravičeni razlogi, lahko število dni nadomestnega zapora, določeno na podlagi prvega in drugega odstavka tega člena, zniža za največ eno tretjino, vendar ne na manj kot 8 dni.
+
+(4) Ko storilec prestane nadomestni zapor, terjatev iz naslova neplačane globe, ki je zajeta s sklepom o nadomestnem zaporu, ugasne.
+
+(5) Nadomestni zapor se lahko izvrši do zastaranja izvršitve globe.
+
+Opomin
