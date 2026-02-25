@@ -1,0 +1,21 @@
+# 36. člen (pogoji za člane uprave oziroma upravnega odbora oziroma poslovodstva v mešanih finančnih holdingih)
+
+(1) Za člana oziroma članico (v nadaljnjem besedilu: član) uprave oziroma upravnega odbora oziroma poslovodstva mešanega finančnega holdinga, ki je nadrejena oseba v finančnem konglomeratu, je lahko imenovana samo oseba z velikim ugledom in zadostnimi izkušnjami. Šteje se, da je pogoju iz prejšnjega stavka zadoščeno, če kandidat oziroma kandidatka (v nadaljnjem besedilu: kandidat) izpolnjuje naslednje pogoje:
+
+1. da je neomejeno poslovno sposobna oseba, ki ima ustrezne osebnostne lastnosti in najmanj triletne delovne izkušnje, potrebne za vodenje poslov nadzorovane osebe, ki jih je pridobila na podlagi zaposlitve oziroma drugega pravnega razmerja z nadzorovano osebo, ali druge pravne osebe primerljive velikosti in dejavnosti kakor nadzorovana oseba, ali ki je strokovnjak na teh področjih;
+
+2. da ni bil pravnomočno obsojen na kazen zapora več kakor tri mesece zaradi:
+
+a) naklepno storjenih kaznivih dejanj zoper gospodarstvo ali
+
+b) zaradi naslednjih kaznivih dejanj, storjenih iz malomarnosti: ogrožanje varnosti pri delu, prikrivanje, izdaja in neupravičena pridobitev poslovne tajnosti, pranje denarja, izdaja uradne tajnosti, povzročitev splošne nevarnosti ali izdaja državne tajnosti, ki še niso bila izbrisana iz kazenske evidence.
+
+(2) Organ, pristojen za imenovanje kandidatov na mesto člana uprave oziroma upravnega odbora oziroma poslovodstva mešanega finančnega holdinga, mora določiti podrobnejšo vsebino dokumentacije, s katero kandidat dokazuje izpolnjevanje pogojev iz prejšnjega odstavka.
+
+(3) Organ, pristojen za imenovanje kandidatov na mesto člana uprave oziroma upravnega odbora oziroma poslovodstva mešanega finančnega holdinga, lahko imenuje za člana uprave oziroma upravnega odbora oziroma poslovodstva samo tistega kandidata, ki na podlagi listin in dokumentacije dokaže izpolnjevanje pogojev iz prvega odstavka tega člena. Organ iz prejšnjega stavka mora o svoji odločitvi v treh delovnih dneh od dneva imenovanja obvestiti koordinatorja.
+
+(4) Če organ, pristojen za imenovanje kandidatov na mesto člana uprave oziroma upravnega odbora oziroma poslovodstva mešanega finančnega holdinga, ugotovi, da član uprave oziroma upravnega odbora oziroma poslovodstva ne izpolnjuje več pogojev iz prvega odstavka tega člena, je to razlog za odpoklic. Organ mora o ugotovljenem neizpolnjevanju pogojev iz prvega odstavka tega člena v treh delovnih dneh od dneva ugotovitve o neizpolnjevanju pogojev obvestiti koordinatorja.
+
+(5) Če kandidat oziroma član uprave oziroma upravnega odbora oziroma poslovodstva mešanega finančnega holdinga, ki je na vrhu skupine, ne izpolnjuje pogojev iz prvega odstavka tega člena, pa organ, pristojen za imenovanje članov uprave oziroma upravnega odbora oziroma poslovodstva mešanega finančnega holdinga, tega kandidata kljub temu imenuje za člana uprave oziroma upravnega odbora oziroma poslovodstva oziroma člana uprave oziroma upravnega odbora oziroma poslovodstva ne odpokliče v skladu z določbami prejšnjega odstavka, lahko koordinator predlaga sodišču, pristojnemu za sodno varstvo po sektorskih pravilih koordinatorja, naj mešanemu finančnemu holdingu do imenovanja člana uprave oziroma upravnega odbora oziroma poslovodstva, ki izpolnjuje pogoje iz prvega odstavka tega člena, začasno prepove uresničevanje glasovalnih pravic, ki jih ima mešani finančni holding v njemu podrejenih osebah. Sodišče odloča po postopku, določenem v sektorskih pravilih koordinatorja.
+
+(6) Če pristojno sodišče v skladu s prejšnjim odstavkom mešanemu finančnemu holdingu začasno prepove uresničevanje glasovalnih pravic, istočasno na predlog koordinatorja določi tudi pooblaščeno osebo, ki izpolnjuje pogoje iz prvega odstavka tega člena in na katero do imenovanja člana uprave oziroma upravnega odbora oziroma poslovodstva, ki izpolnjuje pogoje iz prvega odstavka tega člena, prenese uresničevanje teh glasovalnih pravic. Ta pooblaščena oseba ima pravico do povrnitve stroškov in do nagrade za svoje delo, o čemer odloči navedeno sodišče in za kar solidarno jamčita mešani finančni holding in podrejena oseba, v kateri pooblaščena oseba uresničuje navedene glasovalne pravice.

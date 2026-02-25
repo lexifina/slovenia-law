@@ -1,0 +1,7 @@
+# 28. člen (izvajanje dopolnilnega nadzora koncentracije tveganj)
+
+(1) Nadzorovana oseba iz drugega odstavka 22. člena tega zakona, ki je na vrhu finančnega konglomerata ali mešani finančni holding (če na vrhu konglomerata ni nadzorovane osebe) ali druga nadzorovana oseba v finančnem konglomeratu, ki jo po posvetovanju z drugimi pristojnimi nadzornimi organi in s finančnim konglomeratom z odločbo določi koordinator, mora najmanj enkrat v šestih mesecih poročati koordinatorju o pomembnejših koncentracijah tveganj na ravni finančnega konglomerata in mu predložiti ustrezne podatke. Minister, pristojen za finance, v sodelovanju z Banko Slovenije, Agencijo za trg vrednostnih papirjev in Agencijo za zavarovalni nadzor, izda predpis o pomembnejših koncentracijah tveganj nadzorovanih oseb v finančnem konglomeratu v skladu s tem zakonom in Prilogo II k Direktivi 2002/87/ES.
+
+(2) Pri nadzoru spoštovanja določb o koncentraciji tveganj koordinator spremlja predvsem tveganja iz drugega odstavka 5. člena tega zakona, z namenom ugotavljanja tveganj škodljivih vplivov na nadzorovane osebe v finančnem konglomeratu, tvaganj konflikta interesov in tveganj nespoštovanja oziroma izogibanja določbam sektorskih pravil ter stopnjo ali obseg navedenih tveganj.
+
+(3) Nadzorni organi lahko na ravni finančnega konglomerata uporabljajo določbe sektorskih pravil o koncentraciji tveganj predvsem, da bi preprečili izogibanje določbam sektorskih pravil.
