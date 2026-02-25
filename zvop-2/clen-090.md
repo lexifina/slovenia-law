@@ -1,0 +1,5 @@
+# 90. člen (obveščanje posameznika in pridobivanje podatkov)
+
+(1) Izvajalec strokovnega nadzora lahko pri opravljanju strokovnega nadzora, če je to potrebno za uspešen nadzor in tega z drugimi ukrepi ni mogoče doseči, pisno obvesti posameznika, na katerega se nanašajo osebni podatki, da izvaja strokovni nadzor. Obvesti ga, da lahko pisno ali ustno poda svoja stališča in dodatne informacije, pomembne za nadzor, s katerimi razpolaga. Izvajalec strokovnega nadzora lahko s posameznikom, na katerega se nanašajo osebni podatki, opravi razgovor.
+
+(2) Posameznik iz prejšnjega odstavka lahko izvajalcu strokovnega nadzora za namene izvajanja strokovnega nadzora posreduje kontaktne osebne podatke drugega posameznika (osebno ime, zaposlitev, številke ali naslove službenih komunikacijskih sredstev in navedbo povezave z zadevo nadzora), ki bi lahko o zadevi, v kateri se izvaja strokovni nadzor, dal pomembne informacije, s katerimi razpolaga. Če izvajalec strokovnega nadzora ugotovi, da je to potrebno, opravi razgovor tudi z drugim posameznikom.

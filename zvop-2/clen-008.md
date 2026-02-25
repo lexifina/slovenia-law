@@ -1,0 +1,5 @@
+# 8. člen (privolitev otroka za uporabo storitev informacijske družbe)
+
+(1) Privolitev otroka za uporabo storitev informacijske družbe, ki se ponujajo neposredno otrokom oziroma za katere se lahko verjetno domneva, da jih bodo uporabljali otroci, je veljavna, če je otrok star 15 let ali več. Če je otrok mlajši od 15 let, je privolitev veljavna le, če jo da ali odobri eden od staršev otroka, njegov skrbnik ali oseba, ki ji je podeljena starševska skrb. Kadar se storitev informacijske družbe ponuja neodplačno, lahko privolitev odobri tudi rejnik ali predstavnik zavoda, v katerega je nameščen otrok. V primerih, ko pogoji poslovanja izvajalca storitev informacijske družbe predpisujejo višjo starost otroka za uporabo teh storitev, se upošteva starost iz navedenih pogojev poslovanja izvajalca storitev.
+
+(2) Privolitev otroka iz prejšnjega odstavka ne sme biti pogojena s pretiranimi pogoji s strani upravljavca, tako da bi otrok moral posredovati več osebnih podatkov, kot je potrebno za namen opravljanja takšne dejavnosti.

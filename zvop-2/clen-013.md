@@ -1,0 +1,5 @@
+# 13. člen (postopkovne določbe za državne organe in samoupravne lokalne skupnosti)
+
+(1) Upravljavci, ki so državni organi ali samoupravne lokalne skupnosti, o zahtevi posameznika iz 15. do 22. člena Splošne uredbe in drugih zahtevkih posameznika s področja varstva osebnih podatkov, dostopa do osebnih podatkov, njihovega pridobivanja in obdelave po tem ali drugem zakonu odločajo na podlagi zakona, ki ureja splošni upravni postopek, če drug zakon ne določa drugače, v roku, določenem s Splošno uredbo. Kadar upravljavec ugodi zahtevi posameznika, ne izda posebne odločbe, temveč o tem napravi uradni zaznamek in posameznika seznani z odločitvijo. Kadar upravljavec zahtevi posameznika ne ugodi, izda odločbo, ki poleg sestavin, določenih z zakonom, ki ureja splošni upravni postopek, vsebuje tudi sestavine, ki jih določa ta zakon.
+
+(2) Kadar zahtevi posameznika ni ugodeno, mora biti v odločbi v pravnem pouku navedena pravica do pritožbe pri nadzornem organu v roku 15 dni od vročitve odločbe v zadevi, po določbah točke f) prvega odstavka 15. člena Splošne uredbe.
