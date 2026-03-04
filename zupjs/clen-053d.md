@@ -1,0 +1,9 @@
+# 53.d člen
+
+(1) Do sprejema nove zakonodaje, ki bo uredila področje predplačniških kartic s področja socialnega varstva, se kot transakcijski račun za potrebe tega zakona šteje tudi predplačniška kartica, izdana s strani ponudnika predplačniških kartic na podlagi pogodbe sklenjene z ministrstvom.
+
+(2) Do sprejema nove zakonodaje, ki bo uredila način pridobivanja podatkov o predplačniških karticah iz prejšnjega odstavka, je ponudnik iz prejšnjega odstavka dolžan ministrstvu in centrom za socialno delo v informatizirani obliki posredovati podatke o številki predplačniške kartice in o višini sredstev na teh karticah za osebe po tem zakonu.
+
+(3) Ministrstvo na zahtevo ponudnika iz prvega odstavka tega člena v informatizirani obliki posreduje podatke o upravičenosti osebe do denarne socialne pomoči ali varstvenega dodatka, ponudnik pa lahko te podatke obdeluje v smislu Zakona o varstvu osebnih podatkov (Uradni list RS, št. 94/07 – uradno prečiščeno besedilo) le za namen izdaje predplačniške kartice iz prvega odstavka tega člena in za obdobje trajanja pogodbe iz prvega odstavka tega člena.
+
+(4) Za obdelavo osebnih podatkov v smislu Zakona o varstvu osebnih podatkov (Uradni list RS, št. 94/07 – uradno prečiščeno besedilo) iz prejšnjega odstavka se smiselno uporabljajo določila poglavja »X. Zbirka podatkov« tega zakona.

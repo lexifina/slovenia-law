@@ -1,0 +1,3 @@
+# 59. člen
+
+Zbirke podatkov, ki se na dan začetka uporabe tega zakona vodijo po predpisih, ki urejajo starševsko varstvo in družinske prejemke, socialne prejemke, štipendiranje, plačilo programov vrtcev, subvencioniranje najemnin, centralno evidenco upravičencev do subvencionirane šolske prehrane, razen podatkov o upravičencih do splošne subvencije ter podatkov o številu in datumu prevzetih in odjavljenih subvencioniranih malic oziroma subvencioniranih kosil, dijaški in študentski prevoz ter zdravstveno varstvo in zdravstveno zavarovanje, se do začetka uporabe tega zakona združijo v centralno zbirko podatkov iz 49. člena tega zakona.

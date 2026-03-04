@@ -1,0 +1,23 @@
+## 6. Način upoštevanja dohodka
+
+# 15. člen
+
+(1) Pri ugotavljanju upravičenosti do denarne socialne pomoči, varstvenega dodatka, oprostitve plačila socialnovarstvenih storitev, prispevka k plačilu družinskega pomočnika, subvencije najemnine, pravice do kritja razlike do polne vrednosti zdravstvenih storitev in do pravice do plačila prispevka za obvezno zdravstveno zavarovanje se dohodek upošteva na način in glede na obdobje, določeno skladno z zakonom, ki ureja socialnovarstvene prejemke.
+
+(2) Pri ugotavljanju upravičenosti do otroškega dodatka, znižanega plačila vrtca in državne štipendije se upošteva dohodek v preteklem koledarskem letu pred vložitvijo vloge, razen dohodkov iz 4., 8., 9., 10. in 11. točke prvega odstavka 12. člena tega zakona, ki se vedno upoštevajo kot tekoči dohodki.
+
+(3) Pri ugotavljanju dohodka se upoštevajo podatki iz odločb o odmeri dohodnine in podatki iz davčnega obračuna akontacije dohodnine ali dohodnine od dohodka iz dejavnosti, podatki, ki jih davčnemu organu posredujejo osebe, zavezane za dajanje podatkov, in podatki, potrebni za izračun akontacije dohodnine. Pri ugotavljanju upravičenosti do pravice iz javnih sredstev se primarno uporabijo podatki iz odločb o odmeri dohodnine in podatki iz davčnega obračuna akontacije dohodnine ali dohodnine od dohodka iz dejavnosti za preteklo leto.
+
+(4) Pri ugotavljanju dohodka se upoštevajo tudi podatki iz uradnih evidenc centrov za socialno delo in drugih upravljavcev zbirk podatkov, ki vodijo uradne evidence o izplačanih dohodkih oziroma pravicah iz javnih sredstev, in druga dokazila skladno z zakonom, ki ureja splošni upravni postopek.
+
+(5) Kadar v času odločanja o pravicah iz drugega odstavka tega člena podatki za preteklo leto še niso na voljo, se upoštevajo podatki iz odločb o odmeri dohodnine in podatki iz davčnega obračuna akontacije dohodnine ali dohodnine od dohodka iz dejavnosti za predpreteklo leto, preračunani na raven preteklega koledarskega leta, tako da se povečajo za rast neto povprečne plače na zaposlenega v obdobju januar–december preteklega leta v primerjavi z istim obdobjem predpreteklega leta.
+
+(6) Če oseba v preteklem koledarskem letu pred vložitvijo vloge ni imela dohodkov, ima pa jih v tekočem koledarskem letu, se pri določitvi mesečnega dohodka upoštevajo njeni tekoči dohodki. Tekoči dohodki se upoštevajo tako, da se pomnožijo s količnikom, ki se izračuna iz razmerja med neto povprečno plačo na zaposlenega v obdobju januar–december preteklega leta in zadnjo neto povprečno plačo na zaposlenega v mesecu izplačila tekočega dohodka. Tekoči dohodki se ugotavljajo na podlagi podatkov iz obračunov davčnega odtegljaja ali drugih dokazil izplačevalcev dohodka. Če podatki iz obračunov davčnega odtegljaja ali drugih dokazil izplačevalcev dohodka niso na voljo, se upoštevajo podatki iz dokazil, ki jih predloži oseba.
+
+(7) Kadar je iz ugotovljenega dejanskega stanja razvidno, da je prišlo do spremembe vrste periodičnega dohodka, ker oseba določenega periodičnega dohodka ne prejema več ali prejema drugo vrsto periodičnega dohodka, se periodični dohodek, ki ga ne prejema več, ne upošteva, upošteva pa se morebitni novi periodični dohodek na način kot velja za upoštevanje tekočih dohodkov.
+
+(8) Ne glede na drugi odstavek tega člena se pri upravičencih do denarne socialne pomoči upoštevajo le njihovi tekoči dohodki, ne glede na to, ali so v preteklem letu imeli periodične dohodke iz 8. točke 3. člena tega zakona.
+
+(9) Tekoči dohodki so periodični dohodki iz 8. točke 3. člena tega zakona, ki jih oseba v preteklem letu ni imela, ima pa jih izplačane v mesecu pred mesecem vložitve vloge, razen če je iz ugotovljenega dejanskega stanja razvidno, da jih je začela prejemati v mesecu vložitve vloge, preračunani na letno raven, in dohodki iz 4., 8., 9., 10. in 11. točke prvega odstavka 12. člena tega zakona, ki se upoštevajo v višini, kakršna velja ali bo veljala z začetkom priznanja pravice.
+
+(10) Podrobnejši način upoštevanja dohodkov pri ugotavljanju upravičenosti do pravic iz drugega odstavka tega člena določi minister, pristojen za socialne zadeve.

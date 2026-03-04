@@ -1,0 +1,9 @@
+# 43. člen
+
+(1) Center za socialno delo lahko v treh letih po prenehanju pravice iz javnih sredstev po uradni dolžnosti začne postopek ugotavljanja upravičenosti do pravice iz javnih sredstev, kadar ugotovi, da so nastopile okoliščine, zaradi katerih bi bilo treba izdati drugačno odločbo o upravičenosti do pravice iz javnih sredstev, ker oseba do pravice iz javnih sredstev ni bila upravičena ali je bila upravičena v nižjem znesku ali za krajše obdobje, ker je podatke prikazovala lažno ali jih je zamolčala ali ni pravočasno sporočila podatkov in ravnala po 42. členu tega zakona ali je sporočila neresnične podatke. V tem postopku izda odločbo, s katero razveljavi odločbo, s katero je bila osebi priznana pravica iz javnih sredstev, in ugotovi prenehanje upravičenosti ali določi drugo višino ali določi drugo obdobje prejemanja pravice iz javnih sredstev.
+
+(2) O spremembah iz prejšnjega odstavka center za socialno delo odloči s prvim dnem naslednjega meseca po nastopu okoliščin.
+
+(3) Če center za socialno delo ugotovi, da je oseba podatke prikazovala lažno ali jih je zamolčala ali je sporočila neresnične podatke že pred izdajo oziroma ob izdaji odločbe, s katero je bila osebi priznana pravica iz javnih sredstev, ali je bila odločba izdana na podlagi drugega nedovoljenega ravnanja osebe, oseba pa do pravice iz javnih sredstev ni bila upravičena ali je bila upravičena v nižjem znesku ali za krajše obdobje, odločbo odpravi. V tem primeru oseba ne more uveljavljati te pravice iz javnih sredstev tri mesece od dokončnosti odločbe, s katero ji je bila odpravljena odločba o priznanju pravice.
+
+(4) Ne glede na določbo prvega odstavka se lahko postopek ugotavljanja upravičenosti do trajne denarne socialne pomoči začne kadarkoli po dokončnosti odločbe o upravičenosti do trajne denarne socialne pomoči.
