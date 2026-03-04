@@ -1,0 +1,3 @@
+# 2. člen (opredelitev otrok s posebnimi potrebami)
+
+Otroci s posebnimi potrebami so otroci z motnjami v duševnem razvoju, slepi in slabovidni otroci oziroma otroci z okvaro vidne funkcije, gluhi in naglušni otroci, otroci z gluhoslepoto, otroci z govorno-jezikovnimi motnjami, gibalno ovirani otroci, dolgotrajno bolni otroci, otroci s primanjkljaji na posameznih področjih učenja, otroci z avtističnimi motnjami ter otroci s čustvenimi in vedenjskimi motnjami, ki potrebujejo prilagojeno izvajanje programov vzgoje in izobraževanja z dodatno strokovno pomočjo ali prilagojene programe vzgoje in izobraževanja oziroma posebne programe vzgoje in izobraževanja.
