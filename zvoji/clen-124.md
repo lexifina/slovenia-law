@@ -1,0 +1,5 @@
+# 124. člen
+
+O pravici in višini invalidskega dodatka vojaških invalidov oziroma civilnih invalidov vojne, ki so uveljavili pravico do invalidskega dodatka do uveljavitve tega zakona in o pravici in višini družinskega dodatka družinskih članov, ki so uveljavili pravico do invalidskega dodatka ali družinskega dodatka do uveljavitve tega zakona, odločijo upravne enote po določbah tega zakona ne glede na določbo prvega odstavka 41. člena tega zakona v šestih mesecih po njegovi uveljavitvi.
+
+Družinskim članom, ki jim je bil po drugem odstavku 16. člena zakona o civilnih invalidih vojne (Uradni list RS, št. 56/92) odmerjen invalidski dodatek ali družinski dodatek, čeprav niso uveljavili pravice do družinske invalidnine, se odloči o pravici do družinskega dodatka in o njegovi višini po prejšnjem odstavku samo v primeru, da je družinski član do uveljavitve tega zakona uveljavil pravico do družinske invalidnine, v nasprotnem primeru pa jim pravica do invalidskega dodatka ali družinskega dodatka preneha z dnem uveljavitve tega zakona.

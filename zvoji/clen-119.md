@@ -1,0 +1,5 @@
+# 119. člen
+
+Državljan Republike Slovenije, ki je po predpisih o vojaških invalidih, o civilnih invalidih vojne oziroma o varstvu žrtev vojaške agresije na Republiko Slovenijo v letu 1991 (v nadaljnjem besedilu: predpisi o vojaških invalidih in o civilnih invalidih vojne v ustreznem sklonu) do uveljavitve tega zakona uveljavil status in pravice vojaškega invalida ali civilnega invalida vojne na podlagi odločbe, ki jo je izdal pristojni upravni organ Republike Slovenije ali na podlagi odločbe, ki jo je izdal pristojni upravni organ katere od drugih republik nekdanje SFRJ, ki se je v Republiki Sloveniji izvrševala na dan 25. 6. 1991, obdrži status vojaškega invalida oziroma civilnega invalida vojne, pravice vojnega invalida pa ob pogojih in v obsegu, predpisanimi s tem zakonom.
+
+Družinski član, ki mu je bila priznana pravica do družinske invalidnine po predpisih o vojaških invalidih ali o civilnih invalidih vojne do uveljavitve tega zakona, uživa tudi po uveljavitvi tega zakona pravice, ki jih ima uživalec družinske invalidnine, ob pogojih in v obsegu, predpisanimi s tem zakonom.

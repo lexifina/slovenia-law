@@ -1,0 +1,5 @@
+# 128. člen
+
+Vojaškemu invalidu oziroma civilnemu invalidu vojne, ki je uveljavil pravico do osebnega motornega vozila ali pravico do denarnega povračila ob nakupu osebnega motornega vozila po zakonu o temeljnih pravicah vojaških invalidov in družin padlih borcev (Uradni list SFRJ, št. 68/81, 41/83, 75/85, 44/89, 87/89, 20/90 in 42/90) oziroma po zakonu o civilnih invalidih vojne (Uradni list RS, št. 56/92), upravna enota lahko dodeli doplačilo k stroškom nabave osebnega motornega vozila po 40. členu tega zakona po sedmih letih od dneva prevzema prej prejetega oziroma kupljenega vozila.
+
+Vojaškemu invalidu oziroma civilnemu invalidu vojne, ki je po predpisih o vojaških invalidih oziroma po predpisih o civilnih invalidih vojne uveljavil pravico do posebnega pripomočka za slepe vojaške invalide oziroma civilne invalide vojne, upravna enota lahko dodeli doplačilo k stroškom istovrstnega tehničnega pripomočka po preteku dobe trajanja, določene s podzakonskim aktom, veljavnim do uveljavitve tega zakona za dodelitev pripomočka ali denarnega povračila za kupljeni pripomoček.
