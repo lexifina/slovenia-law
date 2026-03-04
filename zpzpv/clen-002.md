@@ -1,0 +1,11 @@
+# 2. člen
+
+(1) Pridobivanje premoga se zaključi najpozneje do 31. decembra 2033. Družba Premogovnik Velenje izdeluje poslovne načrte za pridobivanje premoga, ki se prilagodijo predvidenemu nakupu premoga s strani Termoelektrarne Šoštanj, pri čemer je treba upoštevati potreben časovni okvir za pripravo proizvodnje pridobivanja premoga. Od 31. decembra 2033 do 30. junija 2045 mora družba Premogovnik Velenje dokončati popolno in trajno opustitev rudarskih del.
+
+(2) Ne glede na roke, ki so določeni za predčasno popolno in trajno opustitev izvajanja rudarskih del in potrjevanje rudarskega projekta za opustitev izvajanja rudarskih del po zakonu, ki ureja rudarstvo, mora družba Premogovnik Velenje najpozneje eno leto pred prenehanjem pridobivanja premoga, to je najpozneje do 31. decembra 2032, rudarski inšpekciji prijaviti predčasno popolno in trajno opustitev izvajanja rudarskih del, ki se bodo izvajala po prenehanju pridobivanja premoga najkasneje do 31. decembra 2033. Družba Premogovnik Velenje mora pri ministrstvu, pristojnem za rudarstvo, vložiti vlogo za tehnični pregled izpolnjevanja pogojev za predčasno opustitev rudarskih del ter najpozneje do dneva prenehanja pridobivanja premoga, to je najkasneje do 31. decembra 2033, pridobiti potrjen rudarski projekt za opustitev izvajanja preostalih rudarskih del v pridobivalnem prostoru Velenje v rokih, določenih z zakonom, ki ureja rudarstvo.
+
+(3) Družba Premogovnik Velenje mora najpozneje do 30. junija 2043 vložiti popolno vlogo za izdajo odločbe o prenehanju pravic in obveznosti za celoten pridobivalni prostor Velenje ali za vse dele pridobivalnega prostora Velenje.
+
+(4) Družba Premogovnik Velenje mora najpozneje do 30. junija 2045 pridobiti odločbo o prenehanju pravic in obveznosti za celotni pridobivalni prostor Velenje ter nato do 31. decembra 2045 izvesti in zaključiti likvidacijski postopek v skladu z določbami zakona, ki ureja gospodarske družbe.
+
+(5) Za izvajanje monitoringa ter vzdrževanja in upravljanja trajnih jamskih in površinskih objektov po izdaji odločbe o prenehanju pravic in obveznosti za pridobivalni prostor Velenje, Vlada Republike Slovenije določi novega zavezanca, v skladu z zakonom, ki ureja rudarstvo.
