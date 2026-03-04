@@ -1,0 +1,25 @@
+# 62. člen (diplomatske, konzularne, službene in posebne statusne izkaznice)
+
+Ministrstvo za zunanje zadeve izdaja diplomatske izkaznice akreditiranim članom diplomatskega osebja diplomatskih predstavništev s sedežem v Republiki Sloveniji oziroma pristojnih za Republiko Slovenijo, članom diplomatskega osebja posebnih misij s sedežem v Republiki Sloveniji, članom diplomatskega osebja mednarodnih organizacij, predstavništev mednarodnih organizacij ter agencij in organov Evropske unije v Republiki Sloveniji v skladu z mednarodnimi pogodbami, ki veljajo za Republiko Slovenijo.
+
+Ministrstvo za zunanje zadeve izdaja konzularne izkaznice konzularnim funkcionarjem ter častnim konzularnim funkcionarjem. Uslužbencem v konzulatu, ki ga vodi častni konzularni funkcionar, se izkaznice ne izdajajo.
+
+Ministrstvo za zunanje zadeve izdaja službene izkaznice članom administrativnega in tehničnega ter pomožnega osebja diplomatskih predstavništev in konzulatov s sedežem v Republiki Sloveniji, članom administrativnega in tehničnega ter pomožnega osebja posebnih misij s sedežem v Republiki Sloveniji, članom administrativnega in tehničnega ter pomožnega osebja mednarodnih organizacij, predstavništev mednarodnih organizacij ter agencij in organov Evropske unije v Republiki Sloveniji v skladu z mednarodnimi pogodbami, ki veljajo za Republiko Slovenijo.
+
+Ministrstvo za zunanje zadeve izdaja posebne statusne izkaznice zasebnemu pomožnemu osebju oseb iz prvega in drugega odstavka tega člena in lokalnemu osebju, zaposlenemu na podlagi zakonodaje Republike Slovenije.
+
+Izkaznice se izdajajo tudi družinskim članom oseb iz prvega, drugega ali tretjega odstavka tega člena, če ima diplomatsko predstavništvo ali konzulat ali posebna misija oziroma mednarodna organizacija, agencija ali organ Evropske unije sedež ali predstavništvo v Republiki Sloveniji, razen družinskim članom častnega konzularnega funkcionarja, družinskim članom uslužbencev v konzulatu, ki ga vodi častni konzularni funkcionar, ter družinskim članom zasebnega pomožnega osebja in lokalnega osebja, katerim se izkaznice ne izdajajo. Družinskemu članu se izda ista vrsta izkaznice, kot je izdana osebam iz prvega, drugega ali tretjega odstavka tega člena.
+
+Za družinske člane se po tem zakonu štejejo zakonec in otrok do dopolnjenega 18. leta starosti oziroma otrok do dopolnjenega 26. leta starosti ob predložitvi dokazila o rednem šolanju v Republiki Sloveniji oziroma otrok, starejši od 18 let, za katerega je bila roditeljska pravica podaljšana, če zakonec oziroma otrok živi v Republiki Sloveniji z osebo iz prvega, drugega ali tretjega odstavka tega člena. Oseba, ki živi v Republiki Sloveniji z osebo iz prvega, drugega ali tretjega odstavka tega člena v zunajzakonski skupnosti, se šteje za družinskega člana samo, če takšno skupnost priznava tudi država pošiljateljica.
+
+Izkaznice se lahko ob izpolnjenem pogoju vzajemnosti izdajo tudi drugim vzdrževanim družinskim članom oseb iz prvega, drugega ali tretjega odstavka tega člena ali njihovih zakoncev oziroma zunajzakonskih partnerjev, če obstajajo posebne kulturne, zdravstvene ali socialne okoliščine. Za druge vzdrževane družinske člane se po tem zakonu štejejo starši, stari starši ter neporočeni otroci, ki ne izpolnjujejo pogojev za akreditacijo po šestem odstavku tega člena.
+
+Izkaznica je javna listina, ki izkazuje istovetnost in poseben status imetnika. Izkaznica se izda z veljavnostjo do štirih let, vendar ne dlje od veljavnosti potnega lista imetnika.
+
+Izdane izkaznice dovoljujejo začasno prebivanje tujca v Republiki Sloveniji, če ima diplomatsko predstavništvo ali konzulat ali posebna misija sedež v Republiki Sloveniji ali če ima sedež ali predstavništvo v Republiki Sloveniji mednarodna organizacija, agencija ali organ Evropske unije. Imetniki izkaznic, razen lokalnega osebja in zasebnega pomožnega osebja, ki niso državljani Republike Slovenije ali v njej nimajo dovoljenja za začasno prebivanje, dovoljenja za stalno prebivanje, potrdila o prijavi prebivanja za državljana Evropske unije ali potrdila o prijavi stalnega prebivanja za državljana Evropske unije, so za čas akreditacije v Republiki Sloveniji izvzeti iz postopkov pridobivanja dovoljenj za prebivanje in potrdil o prijavi prebivanja v skladu z zakonom, ki ureja vstop in prebivanje tujcev.
+
+Izkaznica vsebuje naslednje podatke: vrsto izkaznice, ime in priimek, datum in kraj rojstva, spol, državljanstvo, status, naziv predstavništva, fotografijo, datum izdaje izkaznice, datum veljavnosti izkaznice, identifikacijsko številko imetnika, serijsko številko izkaznice, trivrstični strojno berljiv zapis osebnih podatkov ter navedbo obsega privilegijev in imunitet.
+
+Imetniki izkaznice, ki so člani diplomatskega osebja nerezidenčnega diplomatskega predstavništva, ne potrebujejo vizumov za vstop in bivanje v Republiki Sloveniji.
+
+Minister za zunanje zadeve podrobneje določi pogoje za izdajo izkaznic, vrste izkaznic, obrazce izkaznic in vlog za izdajo izkaznic ter obrazec obvestila o odhodu, postopek in način izdelave, postopek in način izdaje izkaznic.
