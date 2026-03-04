@@ -1,0 +1,3 @@
+# 116. člen (uporaba določb zakona, ki ureja uravnoteženje javnih financ)
+
+Ne glede na 46., 47., 63., 68. in 77. člen tega zakona se za najvišje izplačilo nadomestila, višino nadomestila, višino starševskega dodatka, pravico do pomoči ob rojstvu otroka in pravico do dodatka za veliko družino uporabljajo določbe od 145. do 149. člena in 151. člena Zakona za uravnoteženje javnih financ (Uradni list RS, št. 40/12, 96/12 – ZPIZ-2, 104/12 – ZIPRS1314, 105/12, 25/13 – odločba US, 46/13 –ZIPRS1314-A, 47/13, 56/13 – ZŠtip-1, 63/13 – ZOsn-I in 63/13 – ZJAKRS-A) in določba 3. člena Zakona o interventnih ukrepih na področju trga dela in starševskega varstva (Uradni list RS, št. 63/13 – ZIUPTDSV).

@@ -1,0 +1,5 @@
+# 95. člen (rok za uveljavljanje dodatka za veliko družino)
+
+(1) Pravico do dodatka za veliko družino določi center enkrat letno po uradni dolžnosti za vse prejemnike otroškega dodatka ali državne štipendije. Če je bila upravičencu v tekočem letu že priznana pravica do dodatka za veliko družino v višini za družino s tremi otroki in se mu število otrok pozneje v tem letu poveča, je upravičen do izplačila razlike do dodatka za družine s štirimi ali več otroki. Center o tem odloči pri obravnavi vloge ob povečanju števila otrok.
+
+(2) Kdor ni prejemnik otroškega dodatka ali državne štipendije, mora ob prvem uveljavljanju v tekočem letu vložiti vlogo za uveljavitev pravice do dodatka za veliko družino za tekoče leto. Če je bila upravičencu v tekočem letu že priznana pravica do dodatka za veliko družino v višini za družino s tremi otroki in se mu število otrok kasneje v tem letu poveča, mora vlogo vložiti najpozneje do konca tekočega leta, v katerem se je število otrok povečalo. Po prvem uveljavljanju center enkrat letno po uradni dolžnosti določi pravico do dodatka za veliko družino za tega upravičenca.

@@ -1,0 +1,7 @@
+# 2. člen (prenos direktive)
+
+(1) S tem zakonom se v slovenski pravni red prenašata Direktiva Sveta 2010/18/EU z dne 8. marca 2010 o izvajanju revidiranega okvirnega sporazuma o starševskem dopustu, sklenjenega med BUSINESSEUROPE, UEAPME, CEEP in ETUC ter o razveljavitvi Direktive 96/34/ES (UL L št. 68 z dne 18. 3. 2010, str. 13) in Direktiva Sveta 92/85/EGS z dne 19. oktobra 1992 o uvedbi ukrepov za spodbujanje izboljšav na področju varnosti in zdravja pri delu nosečih delavk in delavk, ki so pred kratkim rodile ali dojijo (deseta posebna direktiva v smislu člena 16(1) Direktive 89/391/EGS (UL L št. 348 z dne 28. 11. 1992, str. 1).
+
+(2) S tem zakonom se v slovenski pravni red prenaša Direktiva 2011/98/EU Evropskega parlamenta in Sveta z dne 13. decembra 2011 o enotnem postopku obravnavanja vloge za enotno dovoljenje za državljane tretjih držav za prebivanje in delo na ozemlju države članice ter o skupnem nizu pravic za delavce iz tretjih držav, ki zakonito prebivajo v državi članici (UL L št. 343 z dne 23. 12. 2011, str. 1), v delu, ki se nanaša na pravico do enakega obravnavanja glede področij socialne varnosti.
+
+(3) S tem zakonom se v slovenski pravni red prenaša Direktiva (EU) 2019/1158 Evropskega parlamenta in Sveta z dne 20. junija 2019 o usklajevanju poklicnega in zasebnega življenja staršev in oskrbovalcev ter razveljavitvi Direktive Sveta 2010/18/EU (UL L št. 188 z dne 12. 7. 2019, str. 79) v delu, ki se nanaša na očetovski in starševski dopust, plačilo in nadomestilo ter prožne ureditve dela.

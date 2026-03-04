@@ -1,0 +1,7 @@
+# 114. člen (pridobljene pravice)
+
+(1) Oseba, ki je uveljavila pravico po določbah Zakona o starševskem varstvu in družinskih prejemkih (Uradni list RS, št. 110/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 10/08, 62/10 – ZUPJS, 40/12 – ZUJF in 63/13 – ZIUPTDSV), zadrži pravico v obsegu in trajanju, kot je bila priznana z odločbo centra. V primeru, da sta obseg in trajanje te pravice po Zakonu o starševskem varstvu in družinskih prejemkih (Uradni list RS, št. 26/14) za osebo iz prejšnjega stavka ugodnejša, center na njeno zahtevo uskladi obseg in trajanje te pravice.
+
+(2) Oseba, ki je v skladu s 117. členom Zakona o starševskem varstvu in družinskih prejemkih (Uradni list RS, št. 110/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 10/08, 62/10 – ZUPJS, 40/12 – ZUJF in 63/13 – ZIUPTDSV) zadržala pravico v obsegu in trajanju, kot je veljalo po predpisu, ki je veljal do uveljavitve Zakona o starševskem varstvu in družinskih prejemkih (Uradni list RS, št. 110/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 10/08, 62/10 – ZUPJS, 40/12 – ZUJF in 63/13 – ZIUPTDSV) zadrži pravico v tem obsegu in trajanju. Center na zahtevo stranke odloči o pravici v skladu s tem zakonom.
+
+(3) Oseba, ki je v skladu s 46. členom Zakona o starševskem varstvu in družinskih prejemkih (Uradni list RS, št. 97/01) pridobila pravico do dobroimetja, zadrži to pravico v obsegu in trajanju, kot jo je pridobila.

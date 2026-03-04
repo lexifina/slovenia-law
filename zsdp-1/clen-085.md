@@ -1,0 +1,7 @@
+# 85. člen (primeri, ko pravica ne pripada)
+
+(1) Pravice do delnega plačila za izgubljeni dohodek nima eden od staršev ali druga oseba, če je otrok zaradi usposabljanja, vzgoje ali šolanja v zavodu oziroma zdravstveni ustanovi, v katerem ima celodnevno brezplačno oskrbo, razen če je to obdobje krajše od 30 dni v letu.
+
+(2) Pravice do delnega plačila za izgubljeni dohodek nima eden od staršev, če je otrok v rejništvu.
+
+(3) Ne glede na prvi in drugi odstavek tega člena se enemu od staršev, ki bi bil na podlagi mnenja zdravniške komisije upravičen do delnega plačila za izgubljeni dohodek, pravica prizna za deset ur za obdobje enega leta, če je otrok vsaj 90 dni bival doma, oziroma za 20 ur za obdobje enega leta, če je otrok vsaj 180 dni bival doma, oziroma za 30 ur za obdobje enega leta, če je otrok vsaj 270 dni bival doma in so starši v teh primerih dejansko skrbeli zanj v zadnjem letu pred vložitvijo vloge. Upravičenci, ki jim je priznana pravica za deset ur za obdobje enega leta, so zavarovani skladno z osmim in devetim odstavkom 83. člena tega zakona za deset ur tedensko. Upravičenci, ki jim je priznana pravica za 20 ur za obdobje enega leta, so zavarovani skladno z osmim in devetim odstavkom 83. člena tega zakona za 20 ur tedensko. Upravičenci, ki jim je priznana pravica za 30 ur za obdobje enega leta, so zavarovani skladno z osmim in devetim odstavkom 83. člena tega zakona za 30 ur tedensko.

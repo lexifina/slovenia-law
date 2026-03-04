@@ -1,0 +1,5 @@
+# 45. člen (plačevanje prispevkov za socialno varnost v času prejemanja nadomestila)
+
+(1) Upravičenci ali upravičenke (v nadaljnjem besedilu: upravičenec) do nadomestila ki jim je prenehalo delovno razmerje v času trajanja dopusta, so obvezno pokojninsko in invalidsko zavarovani, obvezno zdravstveno zavarovani, zavarovani za primer brezposelnosti in za starševsko varstvo. Prispevek zavarovanca plačuje upravičenec, prispevek delodajalca pa plačuje Republika Slovenija v skladu z zakonom, ki ureja posamezno področje.
+
+(2) V času prejemanja nadomestila so upravičenci do nadomestila po drugem odstavku 41. člena tega zakona obvezno pokojninsko in invalidsko zavarovani, zavarovani za primer brezposelnosti in za starševsko varstvo. Prispevek zavarovanca plačuje upravičenec, prispevek delodajalca pa plačuje Republika Slovenija v skladu z zakonom, ki ureja posamezno področje. Navedeni upravičenci so zdravstveno zavarovani za primer bolezni in poškodbe izven dela, in sicer za plačilo zdravstvenih storitev in za povračilo potnih stroškov. Prispevek plačuje upravičenec.
