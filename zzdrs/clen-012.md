@@ -1,0 +1,13 @@
+# 12. člen
+
+Zdravnik pridobi kvalifikacijo za samostojno opravljanje dela, če je zaključil izobraževanje na medicinski fakulteti v Republiki Sloveniji ali pridobil potrdilo o nostrifikaciji diplome tuje univerze ali mu je bila izdana odločba o enakovrednosti tujega naslova s slovenskim strokovnim naslovom doktor medicine, pridobljena v postopku priznavanja po zakonu, ki ureja priznavanje in vrednotenje izobraževanja in je v Republiki Sloveniji opravil strokovni izpit ter specializacijo, ali mu je bil v Republiki Sloveniji priznan specialistični naslov, pridobljen v tujini.
+
+Doktor dentalne medicine pridobi kvalifikacijo za samostojno opravljanje dela, če je zaključil izobraževanje na medicinski fakulteti v Republiki Sloveniji ali pridobil potrdilo o nostrifikaciji diplome tuje univerze, ali mu je bila izdana odločba o enakovrednosti tujega naslova s slovenskim strokovnim naslovom doktor dentalne medicine, pridobljena v postopku priznavanja po zakonu, ki ureja priznavanje in vrednotenje izobraževanja in je opravil:
+
+- doktor dentalne medicine: pripravništvo in strokovni izpit,
+
+- doktor dentalne medicine specialist: specializacijo ali mu je bil v Republiki Sloveniji priznan specialistični naslov, pridobljen v tujini.
+
+Potrdila o pridobljenih kvalifikacijah iz prvega in drugega odstavka tega člena izdaja ministrstvo, pristojno za zdravje (v nadaljnjem besedilu: ministrstvo). Vrsto in postopek izdajanja potrdil podrobneje določi minister.
+
+Ne glede na prvi in drugi odstavek tega člena se zdravniku oziroma doktorju dentalne medicine v skladu z zakonom, ki ureja postopek priznavanja kvalifikacij za opravljanje reguliranih poklicev, prizna kvalifikacija, če jo je pridobil v drugi državi članici Evropske unije, državi Evropskega gospodarskega prostora ali Švicarski konfederaciji v skladu z njenimi predpisi.

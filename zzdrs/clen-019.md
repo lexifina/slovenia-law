@@ -1,0 +1,3 @@
+# 19. člen
+
+Veljavnost v tujini opravljene specializacije, ki po vsebini in trajanju ustreza zahtevam iz 17. člena tega zakona, se prizna po postopku in na način, ki ga določi minister na predlog zbornice. Minister lahko pozove zbornico, da v določenem roku, ki ne sme biti krajši od 30 dni, pripravi predlog za ureditev vsebine iz prejšnjega stavka. Če minister na poziv iz prejšnjega stavka v postavljenem roku ne prejme predloga zbornice ali presodi, da slednji ni ustrezen, lahko sam določi vsebino iz prvega stavka po predhodno pridobljenem mnenju zbornice. Zbornica mnenje poda v roku, ki ga določi minister, pri čemer ta rok ne sme biti krajši od 15 dni.

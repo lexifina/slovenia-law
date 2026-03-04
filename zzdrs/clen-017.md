@@ -1,0 +1,7 @@
+# 17. člen
+
+Vsebine specializacij določi minister na predlog zbornice. Predlog iz prejšnjega stavka zbornica pripravi v sodelovanju s Slovenskim zdravniškim društvom. Minister lahko pozove zbornico, da v določenem roku, ki ne sme biti krajši od 30 dni, pripravi predlog za ureditev vsebine iz prvega stavka. Če minister na poziv iz prejšnjega stavka v postavljenem roku ne prejme predloga zbornice ali presodi, da slednji ni ustrezen, lahko sam določi vsebino iz prvega stavka po predhodno pridobljenem mnenju zbornice. Zbornica mnenje poda v roku, ki ga določi minister, pri čemer ta rok ne sme biti krajši od 15 dni.
+
+Vrste in trajanje specializacij ter postopek opravljanja specialističnega izpita, vključno s postopkom imenovanja izpitne komisije, določi minister na predlog zbornice. Minister lahko pozove zbornico, da v določenem roku, ki ne sme biti krajši od 30 dni, pripravi predlog za ureditev vsebine iz prejšnjega stavka. Če minister na poziv iz prejšnjega stavka v postavljenem roku ne prejme predloga zbornice ali presodi, da slednji ni ustrezen, lahko sam določi vsebino iz prvega stavka po predhodno pridobljenem mnenju zbornice. Zbornica mnenje poda v roku, ki ga določi minister, pri čemer ta rok ne sme biti krajši od 15 dni.
+
+Programi specializacij morajo biti po vsebini primerljivi s programi drugih držav članic Evropske unije, če ti obstajajo, in smejo biti največ eno leto daljši od obdobja, ki je določeno kot minimalno v skladu z Direktivo 2005/36/ES.
