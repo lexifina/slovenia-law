@@ -1,0 +1,5 @@
+# 4. člen
+
+V 30. členu se za devetim odstavkom doda nov deseti odstavek, ki se glasi:
+
+»(10) Kadar se agenciji, ministrstvu, pristojnemu za zdravje, izvajalcem zdravstvene dejavnosti, agenciji, pristojni za zdravila in medicinske pripomočke, ali Zavodu za zdravstveno zavarovanje Slovenije dostop do podatkov, do katerih so upravičeni v skladu s področnimi predpisi, omogoča prek informacijskih rešitev na infrastrukturi Nacionalnega inštituta za javno zdravje oziroma javnega podjetja, kot ga določa zakon, ki ureja digitalizacijo zdravstva, se identifikacija in avtentikacija pooblaščenih uporabnikov za dostop do podatkov ali druga z zakonom določena opravila lahko izvajajo na podlagi podatkov, kot jih je za uporabnike eZdravja določal Zakon o zbirkah podatkov na področju zdravstvenega varstva (Uradni list RS, št. 65/00, 47/15, 31/18, 152/20 – ZZUOOP, 175/20 – ZIUOPDVE, 203/20 – ZIUPOPDVE, 112/21 – ZNUPZ, 196/21 – ZDOsk, 206/21 – ZDUPŠOP, 141/22 – ZNUNBZ, 18/23 – ZDU-1O, 84/23 – ZDOsk-1 in 112/24 – ZDIUZDZ).«.
