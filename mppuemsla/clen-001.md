@@ -1,0 +1,3 @@
+# 1. člen
+
+Ratificira se prilagoditev Pogodbe o ustanovitvi Evropskega mehanizma za stabilnost med Kraljevino Belgijo, Zvezno republiko Nemčijo, Republiko Estonijo, Irsko, Helensko republiko, Kraljevino Španijo, Francosko republiko, Republiko Hrvaško, Italijansko republiko, Republiko Ciper, Republiko Latvijo, Republiko Litvo, Velikim vojvodstvom Luksemburg, Malto, Kraljevino Nizozemsko, Republiko Avstrijo, Portugalsko republiko, Republiko Slovenijo, Slovaško Republiko in Republiko Finsko ter spremembe Priloge I in Priloge II, zaradi prenehanja začasno prilagojenega kapitalskega ključa za Republiko Latvijo, ki ga je sprejel Svet guvernerjev Evropskega mehanizma za stabilnost v Bruslju 11. decembra 2025.
