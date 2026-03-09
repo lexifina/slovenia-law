@@ -1,0 +1,3 @@
+# 73. člen (osnova za plačilo prispevkov od dohodkov napotenih oseb po tem zakonu)
+
+Do ureditve v zakonu, ki ureja pokojninsko in invalidsko zavarovanje, se ne glede na prvi odstavek 144. člena Zakona o pokojninskem in invalidskem zavarovanju (Uradni list RS, št. 48/22 – uradno prečiščeno besedilo, 40/23 – ZČmIS-1, 78/23 – ZORR, 84/23 – ZDOsk-1, 125/23 – odl. US in 133/23 in 90/25; v nadaljnjem besedilu: ZPIZ-2) za zavarovance, ki so napotene osebe po tem zakonu, v osnovo za plačilo prispevkov ne vštevajo odmene iz 19. člena, tretjega odstavka 47. člena in drugega odstavka 55. člena tega zakona ter dnevne odmene iz 42., 44. in 45. člena tega zakona.

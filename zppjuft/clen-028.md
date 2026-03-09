@@ -1,0 +1,5 @@
+# 28. člen (odmena za stroške zdravstvenih zavarovanj in storitev)
+
+(1) Napotenim osebam in njihovim ožjim družinskim članom se zagotavlja zdravstveno varstvo z obsegom zdravstvenih storitev in deležem plačila zanje, ki je primerljiv z obsegom in deležem plačila, ki se krije iz obveznega zdravstvenega zavarovanja v Republiki Sloveniji.
+
+(2) Zdravstveno varstvo napotene osebe in njenih ožjih družinskih članov se zagotavlja z zavarovanjem v okviru Zavoda za zdravstveno zavarovanje Slovenije oziroma se jim omogoči koriščenje storitev iz javnega oziroma državnega zdravstvenega sistema v državi sprejemnici, če to urejajo veljavni predpisi ali mednarodne pogodbe. Kadar na ta način ni mogoče zagotoviti primerljivega zdravstvenega varstva, kakor izhaja iz obveznega zdravstvenega zavarovanja v Republiki Sloveniji, delodajalec krije stroške posebnega zdravstvenega zavarovanja v tujini oziroma razliko stroškov med dejanskimi stroški in priznanimi stroški, ki jih največ do višine (ustreznega deleža) povprečne cene takšnih zdravstvenih storitev v Sloveniji obračuna nosilec obveznega zdravstvenega zavarovanja v Republiki Sloveniji.

@@ -1,0 +1,3 @@
+# 71. člen (Zakon o dohodnini)
+
+Do ureditve v zakonu, ki ureja dohodnino, se ne glede na prvi odstavek 115. člen Zakona o dohodnini (Uradni list RS, št. 13/11 – uradno prečiščeno besedilo, 9/11 – ZUKD-1, 9/12 – odl. US, 24/12, 30/12, 40/12 – ZUJF, 75/12, 94/12, 96/13, 29/14 – odl. US, 50/14, 23/15, 55/15, 63/16, 69/17, 21/19, 28/19, 66/19, 39/22, 132/22 – odl. US, 158/22, 131/23 – ZORZFS, 104/24, 22/25 – ZZZRO-1 in 40/25 – ZINR; v nadaljnjem besedilu: ZDoh-2) za vzdrževanega družinskega člana ne šteje zakonec ali zunajzakonski partner zavezanca, če je zavezanec v skladu s tem zakonom upravičen do odmene za nezaposlenega zakonca ali zunajzakonskega partnerja.

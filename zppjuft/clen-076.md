@@ -1,0 +1,5 @@
+# 76. člen (podzakonski predpisi)
+
+(1) Vlada izda predpise iz drugega odstavka 5. člena, drugega odstavka 13. člena, tretjega odstavka 14. člena, drugega odstavka 15. člena, sedmega odstavka 19. člena, petega odstavka 20. člena, drugega odstavka 21. člena, drugega odstavka 22. člena, drugega odstavka 23. člena, prvega, tretjega in četrtega odstavka 24. člena, drugega in tretjega odstavka 25. člena, prvega, tretjega in šestega odstavka 29. člena, drugega in četrtega odstavka 33. člena, četrtega odstavka 36. člena, drugega odstavka 37. člena, drugega odstavka 42. člena, drugega odstavka 44. člena, tretjega odstavka 48. člena, tretjega odstavka 49. člena in tretjega odstavka 51. člena tega zakona v 30 dneh po uveljavitvi tega zakona.
+
+(2) Uredba o enotni metodologiji in obrazcih za obračun in izplačilo plač v javnem sektorju (Uradni list RS, št. 109/24 in 6/26), metodologija iz drugega odstavka 59. člena tega zakona in šifrant iz prvega odstavka 60. člena tega zakona se uskladijo s tem zakonom v 30 dneh po uveljavitvi tega zakona.
