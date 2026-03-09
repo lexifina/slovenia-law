@@ -1,0 +1,9 @@
+# 61. člen (napredovanje funkcionarjev)
+
+(1) Funkcionarji ne napredujejo v višji plačni razred, razen sodnikov in državnih tožilcev, za katere napredovanje ureja zakon. Funkcionarjem, ki ne napredujejo, se ne glede na prejšnji stavek ob prenehanju opravljanja funkcije pri določitvi plače na novem delovnem mestu upoštevajo plačni razredi napredovanj, ki bi jih dosegli, če bi v času opravljanja funkcije napredovali v časovnih obdobjih za napredovanje iz tega zakona. Funkcionarjem, ki napredujejo, se ob prenehanju opravljanja funkcije pri določitvi plače na novem delovnem mestu upošteva število napredovanj, ki so jih dosegli v času opravljanja funkcije ali plačni razredi napredovanj, ki bi jih dosegli, če bi v času opravljanja funkcije napredovali v časovnih obdobjih za napredovanje iz tega zakona, če je to zanje ugodneje.
+
+(2) Časovno obdobje za napredovanje se funkcionarjem ob začetku opravljanja funkcije in ob prenehanju opravljanja funkcije ne prekine.
+
+(3) Funkcionarju se na delovnem mestu, ki ga zasedejo po prenehanju funkcije, upoštevajo tudi že dosežena napredovanja na delovnem mestu, ki so ga zasedali pred začetkom opravljanja funkcije, če je delovno mesto pred začetkom opravljanja funkcije v istem ali višjem tarifnem razredu od delovnega mesta, ki ga zasedejo po prenehanju opravljanja funkcije. Če je novo delovno mesto v višjem tarifnem razredu od delovnega mesta pred začetkom opravljanja funkcije in bi bil na podlagi prvega odstavka tega člena uvrščen v isti ali nižji plačni razred, kot ga je dosegel pred nastopom funkcije se mu plačni razred na novem delovnem mestu oziroma v nazivu določi tako, da se plačni razred, v katerega je bil uvrščen pred nastopom funkcije poveča za en plačni razred.
+
+(4) Ne glede na določbe tega člena javnega uslužbenca ni mogoče uvrstiti v višji plačni razred, kot znaša končni plačni razred delovnega mesta oziroma naziva.

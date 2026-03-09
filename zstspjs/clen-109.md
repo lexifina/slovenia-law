@@ -1,0 +1,5 @@
+# 109. člen (plačilo povečane in zmanjšane učne ter dodatne pedagoške obveznosti)
+
+(1) Do ureditve plačila povečane in zmanjšane učne ter dodatne pedagoške obveznosti v Kolektivni pogodbi za vzgojo in izobraževanje v Republiki Sloveniji, ki se uveljavi najpozneje z začetkom uporabe tega zakona, se povečana in zmanjšana učna ter dodatna pedagoška obveznost javnim uslužbencem izplačujejo v skladu s petim odstavkom 14. člena, drugim in četrtim odstavkom 22.e člena ZSPJS ter Uredbo o enotni metodologiji in obrazcih za obračun in izplačilo plač v javnem sektorju (Uradni list RS, št. 14/09, 23/09, 48/09, 113/09, 25/10, 67/10, 105/10, 45/12, 24/13, 51/13, 12/14, 24/14, 52/14, 59/14, 24/15, 3/16, 70/16, 14/17, 68/17, 6/19, 51/19, 59/19, 78/19, 157/20, 191/20, 13/21, 101/21, 122/21, 145/21, 194/21, 15/22, 99/22, 117/22, 151/22, 127/23, 22/24 in 44/24).
+
+(2) Do 1. januarja 2026 se za plačila, za katera bodo s posebnim zakonom na področju vzgoje in izobraževanja določena dodatna sredstva, uporablja 22.e člen ZSPJS.

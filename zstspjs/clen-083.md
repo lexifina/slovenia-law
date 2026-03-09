@@ -1,0 +1,13 @@
+# 83. člen (sklepanje kolektivne pogodbe za javni sektor)
+
+(1) Kolektivno pogodbo za javni sektor ali njene spremembe in dopolnitve (v nadaljnjem besedilu: KPJS) sklepajo vlada in reprezentativni sindikati dejavnosti ali poklicev v javnem sektorju.
+
+(2) Ne glede na določbo prejšnjega odstavka lahko izjemoma sklepa KPJS konfederacija ali zveza, če najpozneje sedem dni pred napovedanim podpisom KPJS predloži izjavo, da bo sama sklenila KPJS v imenu vseh reprezentativnih sindikatov, ki so njeni člani. V primeru iz prejšnjega stavka se konfederacija ali zveza šteje kot en podpisnik. Izjava velja do preklica. Preklic izjave je možen najpozneje sedem dni pred napovedanim podpisom KPJS. Do preklica te izjave reprezentativni sindikati samostojno ne podpisujejo KPJS.
+
+(3) V Prilogi 3, ki je sestavni del tega zakona, se določi, katera dejavnost ali poklic po uredbah, ki določata standardno klasifikacijo dejavnosti oziroma poklica (SKD-25, SKP-08 ali starejše v skladu s pretvornikom) ustreza dejavnostim v plačnih skupinah od C do K in plačnim podskupinam v teh plačnih skupinah. Šteje se, da reprezentativni sindikat predstavlja zaposlene v celotni plačni skupini ali celotni plačni podskupini, če mu je odločba o reprezentativnosti izdana za dejavnost ali poklic, ki ustreza celotni plačni skupini ali podskupini.
+
+(4) Skladno s Prilogo 3 tega zakona ministrstvo, pristojno za sistem plač v javnem sektorju, izda ugotovitvene sklepe, za katere reprezentativne sindikate se glede na izdano odločbo o reprezentativnosti šteje, da predstavljajo zaposlene v celotnih plačnih skupinah ali celotnih plačnih podskupinah.
+
+(5) Ne glede na določbo prejšnjega odstavka lahko reprezentativni sindikat pri ministrstvu, pristojnem za sistem plač v javnem sektorju, vloži zahtevo za ugotovitev, da predstavlja zaposlene v celotni plačni skupini ali celotni plačni podskupini na podlagi tega zakona. Predstavljanje zaposlenih v celotnih plačnih skupinah ali plačnih podskupinah se mu prizna, če izkaže, da je v predpreteklem mesecu pred predložitvijo zahteve v reprezentativni sindikat včlanjenih več kot 10 odstotkov povprečnega števila zaposlenih v plačni skupini ali podskupini v preteklem koledarskem letu. O zahtevi odloči minister, pristojen za sistem plač v javnem sektorju, s sklepom.
+
+(6) Število zaposlenih v plačni skupini ali plačni podskupini iz prejšnjega odstavka se ugotovi na podlagi podatkov iz Informacijskega sistema za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (v nadaljnjem besedilu: ISPAP). Število včlanjenih v sindikat se dokazuje na enak način, kot je določen v desetem in enajstem odstavku 84. člena tega zakona.

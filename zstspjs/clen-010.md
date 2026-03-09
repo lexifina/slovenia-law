@@ -1,0 +1,9 @@
+# 10. člen (spregled izobrazbe)
+
+(1) Ne glede na zakon, ki ureja javne uslužbence, lahko delodajalec v javnem sektorju, v primeru, ko zahtevana izobrazba za zasedbo delovnega mesta ni določena z zakonom oziroma ne gre za reguliran poklic kot ga določa zakon, ki ureja postopek priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev (v nadaljnjem besedilu: reguliran poklic), noben od prijavljenih kandidatov za prosto delovno mesto za nedoločen čas pa ne izpolnjuje pogoja zahtevane izobrazbe za opravljanje dela, z enim od prijavljenih kandidatov, ki ima izobrazbo, ki ustreza za eno raven nižjemu tarifnemu razredu in izpolnjuje druge pogoje za zasedbo delovnega mesta, sklene pogodbo o zaposlitvi za določen čas enega leta na delovnem mestu do vključno VI. tarifnega razreda, če je taka zaposlitev nujna zaradi nemotenega opravljanja dela.
+
+(2) Če v postopku ponovne objave prostega delovnega mesta iz prejšnjega odstavka ni bil prijavljen noben kandidat, ki izpolnjuje vse pogoje, ali če noben kandidat, ki izpolnjuje vse pogoje, ne sklene ponujene pogodbe o zaposlitvi, lahko delodajalec z javnim uslužbencem iz prejšnjega odstavka sklene pogodbo o zaposlitvi za nedoločen čas.
+
+(3) Določbo prvega odstavka tega člena je možno uporabiti tudi v primeru javne objave za delovno mesto za določen čas, ne glede na čas trajanja takšne zaposlitve.
+
+(4) Ne glede na določbo prejšnjih odstavkov lahko delodajalec sklene pogodbo o zaposlitvi z javnim uslužbencem, ki ne izpolnjuje pogoja zahtevane izobrazbe, če gre za delovno mesto do vključno VII/2. tarifnega razreda na področju zagotavljanja upravljanja in varnosti informacijsko-komunikacijskih sistemov, javni uslužbenec pa ima najmanj izobrazbo, ki ustreza V. tarifnemu razredu pod pogojem, da bo v obdobju poskusnega dela v trajanju šest mesecev izkazal znanja in kompetence, potrebne za uspešno opravljanje del in nalog za delovno mesto v višjem tarifnem razredu.
