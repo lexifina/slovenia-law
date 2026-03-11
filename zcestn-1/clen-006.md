@@ -1,0 +1,19 @@
+# 6. člen (obveznost plačila cestnine)
+
+(1) Za vsako uporabo cestninske ceste oziroma cestninskega odseka in cestninskega cestnega objekta se plača cestnina.
+
+(2) Od plačane cestnine se obračuna davek na dodano vrednost v skladu s predpisi, ki urejajo davek na dodano vrednost.
+
+(3) Obveznost plačila cestnine pri cestninjenju z ustavljanjem nastane, ko vozilo nad 3.500 kg NDM prevozi cestninsko postajo.
+
+(4) Obveznost plačila cestnine pri cestninjenju v prostem prometnem toku nastane, ko vozilo nad 3.500 kg NDM prevozi točko cestninjenja, ne glede na to, ali je vzpostavljena povezava med napravo za cestninjenje in OBU napravo.
+
+(5) Ne glede na prejšnji odstavek lahko cestninski zavezanec, ki vstopi v Republiko Slovenijo po cestninski cesti z vozilom, ki še ni opremljeno z OBU napravo, za pridobitev slednje pelje do prve cestninske uporabniške točke na cestninski cesti. Cestninski zavezanec na cestninski uporabniški točki navede mesto vstopa na cestninsko cesto in plača cestnino za prevoženo razdaljo od tega vstopa do cestninske uporabniške točke. Cestninski zavezanec hrani račun oziroma potrdilo o plačilu cestnine do izstopa s cestninske ceste in ga na zahtevo cestninskega nadzornika oziroma nadzornice (v nadaljnjem besedilu: cestninski nadzornik) izroči na vpogled.
+
+(6) Ne glede na četrti odstavek tega člena lahko cestninski zavezanec, ki namerava zapustiti cestninsko cesto z vozilom, opremljenim z OBU napravo, pelje do cestninske uporabniške točke na cestninski cesti z namenom vračila OBU naprave ter plača cestnino za prevoženo razdaljo od cestninske uporabniške točke do izstopa s cestninske ceste, ki ga navede ob vračilu OBU naprave. V primeru iz prejšnjega stavka cestninski zavezanec hrani račun oziroma potrdilo o plačilu cestnine do izstopa s cestninske ceste in ga na zahtevo cestninskega nadzornika izroči na vpogled.
+
+(7) Obveznost plačila cestnine pri cestninjenju glede na določen čas uporabe cestninskih cest nastane z vstopom vozila do 3.500 kg NDM na cestninsko cesto.
+
+(8) Ne glede na prejšnji odstavek obveznost plačila cestnine pri cestninjenju glede na določen čas uporabe cestninskih cest ne nastane z vstopom vozila do 3.500 kg NDM na cestninsko cesto, če je vstop na cestninsko cesto posledica preusmeritve prometa z necestninske na cestninsko cesto, s katero soglaša upravljavec cestninskih cest. Vlada podrobneje določi razloge in pogoje uporabe cestninske ceste brez plačila cestnine glede na določen čas uporabe cestninske ceste v primeru preusmeritve prometa z necestninske na cestninsko cesto.
+
+(9) Obveznost plačila cestnine se določi brez razlikovanja glede na državljanstvo ali sedež cestninskega zavezanca, na pogostost uporabe cestninske ceste, na mesto registracije vozila ali izhodišče oziroma namembno mesto prevoza.

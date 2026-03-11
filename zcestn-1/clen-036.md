@@ -1,0 +1,7 @@
+# 36. člen (zaščitni postopek zaradi neizpolnjevanja zahtev glede interoperabilnosti)
+
+(1) Če izvajalec cestninjenja domneva, da komponente interoperabilnosti z oznako CE, ki so bile dane na trg, ne izpolnjujejo zahtev iz Priloge II Delegirane uredbe 2020/203/EU, o tem takoj obvesti ministrstvo. Ministrstvo stori vse potrebno za omejitev področja njihove uporabe, prepoved njihove uporabe ali umik s trga. O sprejetih ukrepih obvesti Komisijo in svojo odločitev obrazloži. V obrazložitvi navede zlasti, ali neskladnost izhaja iz nepravilne uporabe tehničnih specifikacij ali neprimernosti tehničnih specifikacij.
+
+(2) Če komponente interoperabilnosti z oznako CE ne izpolnjujejo zahtev glede interoperabilnosti, izvajalec cestninjenja od proizvajalca ali njegovega pooblaščenega zastopnika s sedežem v Evropski uniji zahteva, da pod pogoji, ki jih določi izvajalec cestninjenja, ponovno vzpostavi skladnost komponente interoperabilnosti s specifikacijami oziroma njeno primernost za uporabo. Izvajalec cestninjenja o tem obvesti Komisijo in druge države članice Evropske unije.
+
+(3) Vsaka odločitev v zvezi z ugotavljanjem skladnosti s specifikacijami ali primernosti za uporabo komponent interoperabilnosti iz prejšnjega in tega člena mora biti podrobno obrazložena. O odločitvi se čim prej obvestita proizvajalec in ponudnik EETS ali njuni pooblaščeni zastopniki, skupaj z navedbo pravnih sredstev, ki jih imajo na voljo, in rokih za njihovo uveljavitev.

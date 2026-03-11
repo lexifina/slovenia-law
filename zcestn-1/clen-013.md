@@ -1,0 +1,19 @@
+## II. CESTNINJENJE GLEDE NA PREVOŽENO RAZDALJO
+
+## 1. Skupne določbe o cestninjenju glede na prevoženo razdaljo
+
+# 13. člen (način cestninjenja)
+
+(1) Cestnina glede na prevoženo razdaljo se plačuje za uporabo cestninske ceste za vozilo nad 3.500 kg NDM in zajema infrastrukturno pristojbino ter pristojbino za zunanje stroške.
+
+(2) Pri vleki vozila po cestninski cesti se plačuje cestnina za vlečno in vlečeno vozilo. Če se vozilo nad 3.500 kg NDM pokvari po vstopu v sistem cestninjenja, mora plačati cestnino do izstopa s cestninske ceste, čeprav je zaradi okvare oprto na drugo vozilo.
+
+(3) Cestninjenje poteka tako, da čim manj ovira prosti pretok prometa in brez obveznih kontrol ali pregledov na mejah Republike Slovenije z drugimi državami članicami Evropske unije.
+
+(4) Upravljavec cestninskih cest zagotovi elektronske naprave za cestninjenje in omogoči plačevanje cestnine 24 ur na dan z običajnimi plačilnimi sredstvi. Upravljavec cestninskih cest izda o plačilu cestnine ali polnjenju predplačniškega uporabniškega računa uporabniku račun ali potrdilo o plačilu. Pri zaračunavanju cestnine se na računu ali potrdilu o plačilu izkažejo ločeno celoten znesek cestnine, znesek infrastrukturne pristojbine, znesek pribitka in znesek pristojbine za zunanje stroške. Upravljavec cestninskih cest izda potrdilo ali račun o plačilu v fizični ali elektronski obliki.
+
+(5) Cestninski zavezanci ravnajo tako, da glede na način cestninjenja omogočajo pravilno in učinkovito cestninjenje ter pri tem ravnajo v skladu s tem zakonom, na njegovi podlagi izdanimi predpisi in splošnimi akti za izvajanje javnih pooblastil ter odredbami cestninskih nadzornikov in upravljavca cestninskih cest.
+
+(6) Ne glede na lastništvo elektronske naprave za cestninjenje cestninski zavezanec take naprave ne sme predrugačiti, ali s posegom v njeno konstrukcijo ali v programsko opremo spremeniti njenega delovanja, ali kakor koli drugače povzročiti, da ta naprava pri cestninjenju ne deluje ali ne deluje pravilno.
+
+(7) Cestninskemu zavezancu, ki deluje v nasprotju s prejšnjim odstavkom, upravljavec cestninskih cest onemogoči delovanje naprave oziroma prepreči plačevanje cestnine s to napravo.

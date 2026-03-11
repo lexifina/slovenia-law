@@ -1,0 +1,7 @@
+# 58. člen (prekrškovni organi)
+
+(1) Policija in Finančna uprava Republike Slovenije sta prekrškovna organa za prekrške iz 71. in 72. člena tega zakona.
+
+(2) Cestninski nadzorniki so prekrškovni organ za prekrške iz 69., 70., 71. in 72. člena tega zakona.
+
+(3) Inšpektorat, pristojen za državne ceste, je prekrškovni organ za prekrške iz 68. člena tega zakona.

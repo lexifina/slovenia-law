@@ -1,0 +1,5 @@
+# 25. člen (način plačila cestnine)
+
+(1) Upravljavec cestninskih cest omogoči plačilo cestnine z gotovino, elektronskimi mediji upravljavca cestninskih cest in plačilnimi karticami.
+
+(2) Na posameznih manj pogosto uporabljenih cestninskih postajah lahko upravljavec cestninskih cest vzpostavi samo plačevanje cestnine, ki ne zahteva navzočnosti osebja upravljavca cestninske ceste (samodejne cestninske postaje). Cestninske postaje iz tega odstavka in način plačevanja cestnine na njih določi vlada v predpisu iz četrtega odstavka 3. člena tega zakona, na priključkih nanje pa morajo biti tudi jasno označene.

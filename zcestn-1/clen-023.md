@@ -1,0 +1,7 @@
+# 23. člen (splošni akt o cestninjenju)
+
+(1) V splošnem aktu o cestninjenju se uredijo vprašanja v zvezi s cestninjenjem glede na prevoženo razdaljo (npr. postopek registracije stranke in vozila, določanje emisijskega razreda vozila EURO in emisijskega razreda CO2, pridobitev in uporaba OBU naprave, plačilo infrastrukturne pristojbine v predplačniškem in poplačniškem načinu plačevanja, veljavnost dobroimetja, zagotavljanje podatkov o cestninskih transakcijah in zaračunani cestnini, možnost poznejšega obračuna cestnine, pridobitev in pravilna uporaba naprave EETS, plačilo cestnine z napravo EETS) in druga vprašanja, ki jih določa ta zakon (npr. postopek izdaje elektronske vinjete, uveljavljanje vračila kupnine v primeru odstopa od prodajne pogodbe ali odjave vozila iz prometa, postopek v primeru kraje, uničenja ali izgube registrske tablice, na katero je vezana elektronska vinjeta, časovna omejitev možnosti vnaprejšnjega nakupa posamezne vrste elektronske vinjete, uveljavljanje morebitnih popravkov že izdane elektronske vinjete).
+
+(2) Splošni akt iz prejšnjega odstavka sprejme na podlagi javnega pooblastila upravljavec cestninskih cest. Za cestninske ceste, glede katerih naloge upravljavca cestninskih cest opravlja državni organ, sprejme splošni akt minister.
+
+(3) K splošnemu aktu iz prejšnjega odstavka pridobi upravljavec cestninskih cest, ki ni državni organ, soglasje vlade pred njegovo objavo. Splošni akt iz prejšnjega odstavka se pred uveljavitvijo objavi v Uradnem listu Republike Slovenije.
