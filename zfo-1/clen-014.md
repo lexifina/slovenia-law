@@ -1,0 +1,13 @@
+# 14. člen (prihodki občine za financiranje primerne porabe)
+
+(1) Za financiranje primerne porabe pripada občini 70% prihodkov iz tretjega odstavka 6. člena tega zakona, ki se ugotovijo na podlagi vsote odmerjene dohodnine iz odločb o odmeri dohodnine od dohodkov, ki se vštevajo v letno davčno osnovo (v nadaljnjem besedilu: odmernih odločb), izdanih zavezancem, ki imajo na dan 31. decembra leta, na katero se nanašajo odmerne odločbe, stalno prebivališče v občini – v vsoti odmerjene dohodnine teh zavezancev za isto obdobje. Pri tem izračunu se upoštevajo odmerne odločbe za leto pred letom, v katerem je dohodnina vplačana, in sicer po stanju na dan 30. junija leta pred letom, za katerega se izračuna primerna poraba občin v skladu s tem zakonom.
+
+(2) Prihodki od 30% občinskih prihodkov iz tretjega odstavka 6. člena tega zakona in del prihodkov posamezne občine iz prejšnjega odstavka, ki presega njen primeren obseg sredstev, so sredstva za solidarnostno izravnavo prihodkov občin iz dohodnine (v nadaljnjem besedilu: solidarnostna izravnava).
+
+(3) Solidarnostna izravnava iz prejšnjega odstavka pripada občinam, katerih prihodki iz prvega odstavka tega člena so nižji od njihovega primernega obsega sredstev, in sicer v višini razlike med prihodki iz prvega odstavka tega člena in primernim obsegom sredstev. Če sredstva za solidarnostno izravnavo iz prejšnjega odstavka ne zadostujejo za pokrivanje primernega obsega sredstev, se solidarnostna izravnava za posamezno občino ugotovi v odstotku, izračunanem ob upoštevanju razlike med prihodki iz prvega odstavka tega člena in primernim obsegom sredstev, v vsoti vseh razlik občin, upravičenih do solidarnostne izravnave.
+
+(4) Razlika med prihodki iz tretjega odstavka 6. člena tega zakona in skupnimi prihodki občin iz prvega in tretjega odstavka tega člena so sredstva za dodatno solidarnostno izravnavo občin iz dohodnine (v nadaljnjem besedilu: dodatna solidarnostna izravnava).
+
+(5) Dodatna solidarnostna izravnava za posamezno občino pripada občinam, katerih primeren obseg sredstev je nižji od primerne porabe, in sicer največ do višine primerne porabe. Dodatna solidarnostna izravnava se za posamezno občino ugotovi v odstotku izračunanem ob upoštevanju razlike med primerno porabo občine in prihodki iz prvega in tretjega odstavka tega člena, v vsoti vseh razlik občin, upravičenih do dodatne solidarnostne izravnave.
+
+(6) Podatke o pripadajočih prihodkih iz prvega, tretjega in petega odstavka tega člena za naslednje proračunsko leto in leto, ki temu sledi, sporoči občinam ministrstvo, pristojno za finance, kot predhodne podatke zaradi priprave občinskih proračunov najpozneje do 15. oktobra tekočega leta, končne podatke pa po sprejetju državnega proračuna.
