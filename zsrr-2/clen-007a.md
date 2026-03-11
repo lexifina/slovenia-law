@@ -1,0 +1,15 @@
+# 7.a člen (akcijski program za skladen regionalni razvoj Slovenije)
+
+(1) Z akcijskim programom za skladen regionalni razvoj Slovenije (v nadaljnjem besedilu: akcijski program) se skupaj z dogovori za razvoj regij uresničujejo strategija in regionalni razvojni programi.
+
+(2) Vlada na predlog ministrstva, pristojnega za regionalni razvoj, in na podlagi izvedenega teritorialnega razvojnega dialoga sprejme akcijski program za obdobje večletnega finančnega okvirja, ob upoštevanju proračunskih možnosti in srednjeročnega strukturno-fiskalnega načrta.
+
+(3) Akcijski program na podlagi strategije in regionalnih razvojnih programov določa ključna področja za razvoj regij, sektorske projekte in sektorske ukrepe, obseg sredstev, vire financiranja, izhodiščne vrednosti kazalcev razvoja s pričakovano vrednostjo ob izteku akcijskega programa in ministrstva, odgovorna za izvajanje. Akcijski program mora jasno opredeliti svoj prispevek k razvojni preobrazbi regij, ustvarjanju novih oziroma ohranjanju obstoječih kakovostnih delovnih mest in k dostopnosti do storitev splošnega pomena. V akcijskem programu se opredelijo tudi sektorski ukrepi in projekti, ki so namenjeni zagotavljanju dostopnosti prebivalcev posameznih regij do storitev splošnega pomena.
+
+(4) Pri pripravi akcijskega programa se upošteva načelo skladnega razvoja vseh regij in ključna področja za razvoj regij, usmeritve ter javnofinančne in časovne okvire za pripravo proračuna države ter že sprejete proračune države, ob upoštevanju srednjeročnega strukturno-fiskalnega načrta. Pri zagotavljanju skupnega obsega sredstev za posamezno regijo, se upoštevajo število prebivalstva, stopnja razvitosti regije ter območja s posebnimi razvojnimi izzivi.
+
+(5) Postopek priprave akcijskega programa se začne, ko je sprejeta strategija in večina regionalnih razvojnih programov. Ministrstvo, pristojno za regionalni razvoj, organizira in vodi usklajevanje med pristojnimi ministrstvi in regijami ter pripravi osnutek akcijskega programa. Ministrstvo z osnutkom akcijskega programa seznani razvojne svete regij in ministrstva, ki se do osnutka opredelijo v okviru teritorialnega razvojnega dialoga. Regije lahko v okviru teritorialnega razvojnega dialoga predlagajo dodatne sektorske projekte in sektorske ukrepe, ki pomembno vplivajo na uresničevanje razvojnih prioritet v regiji. Sektorski projekti in sektorski ukrepi se razvrščajo po prioriteti in se izvajajo v skladu z razpoložljivimi proračunskimi sredstvi.
+
+(6) Sredstva za sektorske projekte se lahko dodelijo brez javnega razpisa z neposredno sklenitvijo pogodbe s pravno osebo javnega prava.
+
+(7) Akcijski program se sprejme najpozneje decembra leta, v katerem se konča veljavni večletni finančni okvir. Ministrstvo, pristojno za regionalni razvoj, v sodelovanju z Uradom Republike Slovenije za makroekonomske analize in razvoj in drugimi resornimi ministrstvi, vsako leto poroča vladi o doseganju pričakovanih vrednosti kazalcev razvoja. V času veljavnosti akcijskega programa lahko ministrstvo, pristojno za regionalni razvoj, vladi poda predlog njegovih sprememb ali dopolnitev.

@@ -1,0 +1,13 @@
+# 15. člen (dogovor za razvoj regije)
+
+(1) Regionalni razvojni program se uresničuje z dogovorom za razvoj regije, ki ga skleneta ministrstvo in svet in velja do izteka obdobja trajanja vključenih projektov ali nadomestitve z novim dogovorom za razvoj regije. Dogovor za razvoj regije podpišeta predsednik sveta in minister.
+
+(2) Pri pripravi dogovora za razvoj regije se upošteva načelo skladnega razvoja vseh območij v regiji.
+
+(3) Dogovor za razvoj regije vključuje regijske projekte in regijske ukrepe na ključnih področjih za razvoj regije.
+
+(4) Dogovor za razvoj regije mora upoštevati usmeritve ter javnofinančne in časovne okvire za pripravo programskega proračuna države ter že sprejete proračune države in občin.
+
+(5) Postopek priprave dogovora za razvoj regije se začne po sprejetju akcijskega programa. Ministrstvo za vsako regijo posebej, po predhodnem teritorialnem razvojnem dialogu, pripravi povabilo svetu za pripravo in podpis dogovora za razvoj regije (v nadaljnjem besedilu: povabilo). Povabilo določa pogoje in merila za pripravo dogovora, upoštevajoč ključna področja za razvoj regije iz akcijskega programa in območja s posebnimi razvojnimi izzivi. Pri oblikovanju meril za regijske projekte in ukrepe v povabilu svetu se upošteva tudi učinek na razvojno preobrazbo, ustvarjanju novih oziroma ohranjanju obstoječih kakovostnih delovnih mest, učinek na dvig kakovosti življenja in razvoj človeškega potenciala oziroma ugoden vpliv na okolje in prostorski razvoj. RRA predlog regijskega projekta in ukrepa za uvrstitev v dogovor za razvoj regije preveri z vidika izpolnjevanja pogojev in točkuje po merilih, ki so določena v povabilu, pripravi osnutek dogovora za razvoj regije, ki vključuje regijske projekte in regijske ukrepe, in ga pošlje ministrstvu. Ministrstvo z osnutkom dogovora za razvoj regij seznani pristojna ministrstva ter organizira in vodi usklajevanje med regijo in pristojnimi ministrstvi, ki se opredelijo do regijskih projektov in regijskih ukrepov v okviru teritorialnega razvojnega dialoga. Regijski projekti in regijski ukrepi se uvrščajo v dogovor za razvoj regije s soglasjem sveta, pristojnega ministra in ministra. Regijski projekti in regijski ukrepi, uvrščeni v dogovor za razvoj regij, se razvrščajo po prioriteti in izvajajo v skladu z razpoložljivimi proračunskimi sredstvi, načrtovanimi v akcijskem programu. Po izvedenem postopku se sredstva za regijske projekte lahko dodelijo brez javnega razpisa z neposredno sklenitvijo pogodbe s pravno osebo javnega prava.
+
+(6) Dogovor za razvoj regije se sklene najpozneje decembra leta, v katerem se začne novi večletni finančni okvir. Ob tem se upoštevajo načrtovana sredstva za prihodnji dve leti.

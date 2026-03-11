@@ -1,0 +1,7 @@
+# 6. člen (razvojna regija)
+
+(1) Temeljna funkcionalna teritorialna enota za načrtovanje regionalne politike in izvajanje nalog regionalnega razvoja je razvojna regija (v nadaljnjem besedilu: regija), ki jo v enovito zaključeno prostorsko celoto združujejo poselitveni, gospodarski, infrastrukturni in naravni sistemi ter na kateri je mogoče zagotoviti interesno sodelovanje razvojnih partnerjev.
+
+(2) Regija obsega občine, ki so vključene v teritorialno enoto NUTS 3 v okviru statistične teritorialne členitve Republike Slovenije, določene z Uredbo Komisije (EU) št. 1319/2013 z dne 9. decembra 2013 o spremembi prilog k Uredbi (ES) št. 1059/2003 Evropskega parlamenta in Sveta o oblikovanju skupne klasifikacije statističnih teritorialnih enot (NUTS) (UL L št. 342 z dne 18. decembra 2013, str. 1; v nadaljnjem besedilu: Uredba 1319/2013/EU).
+
+(3) Ne glede na prejšnji odstavek lahko najmanj eno leto pred začetkom novega programskega obdobja mejna občina v regiji prestopi v sosednjo regijo, če s tem soglaša večina občin z večino prebivalstva regije, v katero občina prestopa. Za prestop mejne občine čez mejo kohezijske regije, ki se lahko opravi najmanj štiri leta pred začetkom programskega obdobja, je poleg soglasja večine občin z večino prebivalstva sosednje regije, v katero občina prestopa, potrebno tudi soglasje ministra, pristojnega za regionalni razvoj (v nadaljnjem besedilu: minister).
