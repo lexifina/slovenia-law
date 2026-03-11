@@ -1,8 +1,0 @@
-# 14. člen (delniška shema)
-(1) Delniška shema je shema udeležbe pri dobičku, ki daje delavcem pravico do izplačila pripadajočega zneska dobička v obliki delnic.
-(2) Delnice so navadne imenske delnice, ki so v celoti vplačane in katerih izdajatelj je družba ali njej nadrejena družba, kot je opredeljena v zakonu, ki ureja gospodarske družbe (v nadaljnjem besedilu: delnice).
-(3) Družba pripadajoči znesek dobička izplača v obliki delnic, za morebitni preostali del, ki ne zadostuje za izplačilo v obliki delnice, pa se uporabljajo določbe tega zakona, ki veljajo za denarno shemo.
-(4) Če družba zagotovi delnice s povečanjem osnovnega kapitala v skladu z zakonom, ki ureja gospodarske družbe, delničar nima prednostne pravice do vpisa novih delnic za namen delniške sheme iz tega zakona.
-(5) Za delnice, izdane za izvedbo delniške sheme, se ne uporablja zakon, ki ureja trg finančnih instrumentov o javni ponudbi vrednostnih papirjev.
-(6) Delnice morajo biti vpisane na ime delavca v KDD najpozneje v treh mesecih od dne pridobitve pravice do pripadajočega zneska dobička.
-(7) Če drug zakon določa, da sme družba povečati osnovni kapital ali pridobiti določen delež lastnih delnic, ko pristojni državni organ ali organizacija z javnimi pooblastili izda odločbo, s katero ugotovi, da družba izpolnjuje pogoje za povečanje osnovnega kapitala oziroma pridobitev določenega deleža delnic, lahko družba poveča osnovni kapital oziroma pridobi določen delež delnic in sklene pogodbo iz 7. člena tega zakona šele, ko pristojni organ izda tako odločbo. Enako velja, ko za posameznega delničarja ali z njim povezane osebe po drugih zakonih velja, da morajo pridobiti ustrezno odločbo pristojnega organa.
