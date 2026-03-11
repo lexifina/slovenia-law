@@ -1,0 +1,25 @@
+# 37.c člen (postopek za ravnanje pri skladnih eksplozivih in pirotehničnih izdelkih, ki predstavljajo tveganje)
+
+(1) Kadar inšpektor po izvedbi preskusa iz 37.a člena tega zakona ugotovi, da eksploziv ali pirotehnični izdelek, čeprav je skladen z določbami tega zakona in na njegovi podlagi izdanimi predpisi, predstavlja tveganje za življenje, zdravje ali varnost ljudi, za premoženje ali okolje ali ogroža druge vidike zaščite javnega interesa, pravni osebi ali podjetniku odredi ustrezne ukrepe iz drugega odstavka 38. člena tega zakona, s katerimi se zagotovi, da sporni eksploziv ali pirotehnični izdelek takrat, ko bo dan v promet ali mu bo omogočena dostopnost na slovenskem trgu, ne bo več predstavljal navedenega tveganja, ali pa eksploziv ali pirotehnični izdelek umakne s trga ali ga odpokliče v roku, določenem glede na naravo tveganja in druge okoliščine, od katerih je odvisno v kolikšnem času lahko pravna oseba ali podjetnik, ob dolžni skrbnosti, odpravi nepravilnosti oziroma izvede ukrep.
+
+(2) V primeru iz prejšnjega odstavka inšpektorat nemudoma pripravi obvestilo za ministrstvo, Komisijo in druge države članice Evropske unije o vrsti tveganja ter vrsti in trajanju sprejetih ukrepov ter ga posreduje ministrstvu.
+
+(3) Pravna oseba in podjetnik morata izvesti odrejene ukrepe iz prvega odstavka tega člena za skladne eksplozive ali pirotehnične izdelke, ki predstavljajo tveganje in katerih dostopnost sta omogočila na trgu Evropske unije.
+
+37.č člen
+
+(postopek za ravnanje pri ugotovitvi formalne neskladnosti)
+
+(1) Kadar inšpektor ugotovi, da:
+
+- oznaka CE ni nameščena v skladu s pravili in pogoji za namestitev oznake CE ali oznaka CE ni bila nameščena;
+
+- identifikacijska številka priglašenega organa, kadar je bil udeležen v fazi nadzora proizvodnje, ni bila nameščena v skladu s pravili in pogoji namestitve identifikacijske številke priglašenega organa ali ni bila nameščena;
+
+- tehnična dokumentacija ni na voljo ali ni popolna;
+
+- manjkajo potrebne informacije o uvozniku ali so te napačne ali nepopolne ali proizvajalec ni zagotovil, da ima eksploziv edinstveno identifikacijsko številko, oziroma ni zagotovil, da imajo eksplozivi, ki niso vključeni v sistem edinstvene identifikacijske številke, navedene vse ustrezne podatke za identifikacijo,
+
+pravni osebi ali podjetniku odredi, da neskladnost odpravi v roku, določenem glede na okoliščine, od katerih je odvisno v kolikšnem času lahko pravna oseba ali podjetnik ob dolžni skrbnosti odpravi neskladnosti.
+
+(2) Kadar neskladnosti iz prejšnjega odstavka v določenem roku niso bile odpravljene, inšpektor odredi ustrezne ukrepe v skladu z deveto alinejo drugega odstavka 38. člena tega zakona.

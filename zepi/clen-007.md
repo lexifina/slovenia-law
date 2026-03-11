@@ -1,0 +1,5 @@
+# 7. člen (pristojnost)
+
+(1) Za izdajo dovoljenj za proizvodnjo eksplozivov ali pirotehničnih izdelkov, promet z eksplozivi, trgovino s pirotehničnimi izdelki na debelo, dejavnost izvajanja ognjemetov, prenos eksplozivov, pirotehničnih izdelkov in streliva v Evropski uniji, uvoz, izvoz in tranzit eksplozivov, pirotehničnih izdelkov in streliva je pristojno ministrstvo, pristojno za notranje zadeve (v nadaljnjem besedilu: ministrstvo).
+
+(2) Za izdajo dovoljenj za nakup in prenos eksplozivov ali pirotehničnih izdelkov na ozemlju Republike Slovenije in uporabo pirotehničnih izdelkov na prikazih za trženje je pristojna upravna enota, na območju katere ima kupec oziroma izvajalec prikaza sedež ali poslovalnico, za izdajo dovoljenj za nakladališče in razkladališče eksplozivov je pristojna upravna enota na območju katere je nakladališče ali razkladališče, za izdajo dovoljenj za trgovino s pirotehničnimi izdelki na drobno pa je pristojna upravna enota, na območju katere se opravlja dejavnost (v nadaljnjem besedilu: pristojni organ).
