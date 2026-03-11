@@ -1,0 +1,3 @@
+# 36. člen (prenehanje veljavnosti podzakonskih predpisov)
+
+Z dnem uveljavitve tega zakona prenehajo veljati Pravilnik o nacionalnem registru specialnih znanj v dejavnosti zdravstvene in babiške nege (Uradni list RS, št. 40/10), Pravilnik o registru in licencah izvajalcev v dejavnosti zdravstvene ali babiške nege (Uradni list RS, št. 152/20 in 195/21) in Pravilnik o vrstah, vsebini, trajanju in poteku specializacij izvajalcev v dejavnosti zdravstvene in babiške nege (Uradni list RS, št. Uradni list RS, št. 37/25, 42/25, 73/25 in 93/25), ki se še naprej uporabljajo do uveljavitve podzakonskih predpisov, izdanih na podlagi tega zakona, kolikor niso v nasprotju s tem zakonom.

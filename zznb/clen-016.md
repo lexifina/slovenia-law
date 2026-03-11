@@ -1,0 +1,13 @@
+# 16. člen (pogoji za imenovanje mentorjev in koordinatorjev specializacij)
+
+(1) Za glavnega mentorja je lahko imenovan specialist ZNB, ki ima opravljeno obvezno izobraževanje za glavnega mentorja, ki ga organizira zbornica, pri čemer potrdilo ne sme biti starejše od petih let, ter ima najmanj pet let praktičnih izkušenj na strokovnem področju, na katerem se specializant usposablja, in je v zadnjih petih letih zbral povprečno na leto najmanj 20 licenčnih točk, ki so na podlagi drugega odstavka 18. člena tega zakona potrebne za podaljšanje licence.
+
+(2) Ne glede na prejšnji odstavek se, kadar se uvede nova specializacija, za glavnega mentorja lahko imenuje diplomirani zdravstvenik oziroma diplomirani babičar z najmanj desetimi leti praktičnih izkušenj po pridobljeni licenci za samostojno opravljanje poklica in aktivnim kliničnim delovanjem na strokovnem področju specializacije, na katerem se specializant usposablja. V takšnem primeru mora glavni mentor najpozneje v petih mesecih od imenovanja opraviti obvezno izobraževanje za glavnega mentorja, ki ga organizira zbornica.
+
+(3) Za neposrednega mentorja je lahko imenovan specialist ZNB, ki ima najmanj tri leta specialističnih izkušenj na strokovnem področju, na katerem se specializant usposablja.
+
+(4) Ne glede na prejšnji odstavek se, kadar se uvede nova specializacija, za neposrednega mentorja lahko imenuje diplomirani zdravstvenik oziroma diplomirani babičar, ki ima najmanj pet let praktičnih izkušenj na strokovnem področju po pridobljeni licenci za samostojno opravljanje poklica in izkazuje aktivno klinično delovanje na strokovnem področju specializacije, na katerem se specializant usposablja.
+
+(5) Če se s specializacijo na specialista razširjajo ali prenašajo kompetence drugih poklicnih skupin zdravstvenih delavcev, je za glavnega oziroma neposrednega mentorja lahko imenovan drug zdravstveni delavec, ki izpolnjuje pogoje iz prvega ali drugega oziroma tretjega ali četrtega odstavka tega člena.
+
+(6) Način imenovanja, podrobnejšo opredelitev nalog in razloge za razrešitev glavnega in neposrednega mentorja ter koordinatorja specializacije določi minister na predlog zbornice. Minister lahko pozove zbornico, da v določenem roku, ki ne sme biti krajši od 30 dni, pripravi predlog za ureditev vsebine iz prejšnjega stavka. Če minister na poziv iz prejšnjega stavka v postavljenem roku ne prejme predloga zbornice ali presodi, da slednji ni ustrezen, lahko sam določi vsebino iz prvega stavka po predhodno pridobljenem mnenju zbornice. Zbornica mnenje poda v roku, ki ga določi minister, pri čemer ta rok ne sme biti krajši od 15 dni.

@@ -1,0 +1,9 @@
+## III. SPECIALIZACIJE ZNB
+
+# 8. člen (opredelitev specializacije)
+
+(1) Diplomirani zdravstvenik oziroma diplomirani babičar, ki izpolnjuje pogoje za izvajanje storitev ZNB iz 5. člena tega zakona, se lahko specializira na posameznem strokovnem področju. Specializacija se konča s specialističnim izpitom.
+
+(2) Na specializacijo se lahko prijavi diplomirani zdravstvenik oziroma diplomirani babičar, ki ima veljavno licenco in po pridobljeni licenci najmanj dve leti delovnih izkušenj v dejavnosti ZNB na strokovnem področju specializacije, za katero se prijavlja. K prijavi na specializacijo za potrebe mreže javne zdravstvene službe mora diplomirani zdravstvenik oziroma diplomirani babičar priložiti pisno izjavo, da bo po opravljeni specializaciji za prvo zaposlitev kot specialist sprejel ponudbo izvajalca, za katerega je opravljal specializacijo, in sicer za najmanj enkratno obdobje trajanja specializacije za polni delovni čas, in pisno izjavo izvajalca, za katerega se prijavlja, da ima potrebo po specializaciji in da bo specializanta po opravljenem specialističnem izpitu zaposlil na delovnem mestu specialista za najmanj enkratno obdobje trajanja specializacije za polni delovni čas.
+
+(3) Vrste, vsebino, trajanje in potek specializacij v dejavnosti ZNB, postopek odobritve specializacije, opravljanje specialističnega izpita in imenovanje izpitne komisije določi minister na predlog zbornice. Minister lahko pozove zbornico, da v določenem roku, ki ne sme biti krajši od 30 dni, pripravi predlog za ureditev vsebine iz prejšnjega stavka. Če minister na poziv iz prejšnjega stavka v postavljenem roku ne prejme predloga zbornice ali presodi, da slednji ni ustrezen, lahko sam določi vsebino iz prvega stavka po predhodno pridobljenem mnenju zbornice. Zbornica mnenje poda v roku, ki ga določi minister, pri čemer ta rok ne sme biti krajši od 15 dni.
