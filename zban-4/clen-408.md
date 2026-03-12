@@ -1,0 +1,17 @@
+# 408. člen (ukrepi nadzora ter drugi ukrepi v zvezi s poslovanjem banke in podružnice banke države članice)
+
+(1) Če banka države članice, ki opravlja storitve na območju Republike Slovenije, krši določbe predpisov iz 166. člena tega zakona, ji z namenom zaščite javne koristi Banka Slovenije z odredbo naloži odpravo kršitev ali ji izreče druge ukrepe po tem zakonu in o tem obvesti pristojni organ države članice sedeža banke.
+
+(2) Če je Banka Slovenije pristojnemu organu države članice poslala informacije in ugotovitve o kršitvah v zvezi s poslovanjem banke države članice na območju Republike Slovenije, zlasti da banka krši ali bo verjetno kršila zahteve, ki jih določa ta zakon ali Uredba 575/2013/EU, ter na podlagi pojasnil pristojnega organa države članice ugotovila, da pristojni organ ni ukrepal zoper banko države članice ali sprejeti ukrepi niso ustrezni, lahko Banka Slovenije, potem ko je obvestila pristojni organ države članice in Evropski bančni organ, sprejme ukrepe v skladu s tem zakonom, da se preprečijo nadaljnje kršitve banke države članice pri poslovanju v Republiki Slovenije ter da se zaščitijo interesi vlagateljev, investitorjev in drugih, za katere se opravljajo storitve, ali da se zagotovi stabilnost finančnega sistema.
+
+(3) Banka Slovenije lahko v nujnih primerih še pred pošiljanjem informacij pristojnemu organu države članice po prejšnjem odstavku ali preden pristojni organ druge države članice na podlagi informacij Banke Slovenije ukrepa v banki države članice, ki opravlja storitve v Republiki Sloveniji, ali preden so sprejeti ukrepi za stabilizacijo poslovanja banke, sprejme začasne ukrepe in od podružnice banke države članice zahteva izvajanje določenih aktivnosti ali ji to prepove, če je to potrebno zaradi zaščite stabilnosti finančnega sistema ali da se prepreči ogroženost skupnih interesov vlagateljev, investitorjev in drugih oseb v Republiki Sloveniji.
+
+(4) Začasni ukrepi iz prejšnjega odstavka morajo biti sorazmerni z namenom zaščite pred finančno nestabilnostjo in ne smejo omogočati slabše obravnave upnikov iz drugih držav članic ter lahko vključujejo tudi prepoved plačil in druge ukrepe iz 357. člena tega zakona.
+
+(5) Banka Slovenije začasne ukrepe iz tretjega odstavka tega člena odpravi, ko oceni, da je bil namen, zaradi katerega so bili sprejeti, dosežen, zlasti potem, ko pristojni organ države članice sprejme ustrezne ukrepe oziroma potem, ko so sprejeti ustrezni ukrepi za stabilizacijo poslovanja banke.
+
+(6) Banka Slovenije o sprejetju in odpravi začasnih ukrepov iz tretjega odstavka tega člena brez odlašanja obvesti Evropski bančni organ, Komisijo in pristojni organ druge države članice.
+
+(7) Če banka države članice kljub ukrepom pristojnega organa države članice ali zato, ker ti ukrepi niso učinkoviti oziroma jih v državi članici sedeža banke ni mogoče izreči, ne odpravi kršitev ali ne odpravi kršitev kljub ukrepom Banke Slovenije iz prvega odstavka tega člena, ji lahko Banka Slovenije izreče prepoved opravljanja storitev na območju Republike Slovenije.
+
+(8) Pred izrekom ukrepa iz prejšnjega odstavka mora Banka Slovenije obvestiti pristojni organ države članice, razen če z izrekom ukrepa zaradi varovanja interesov strank banke ali zaradi varovanja drugih javnih koristi ni mogoče odlašati. V tem primeru Banka Slovenije o prepovedi opravljanja storitev obvesti pristojni organ države članice, Evropski bančni organ in Komisijo takoj, ko je to mogoče.

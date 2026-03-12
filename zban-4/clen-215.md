@@ -1,0 +1,9 @@
+# 215. člen (soglasje nadzornega sveta za sklenitev posameznih poslov)
+
+(1) Za sklenitev pravnega posla, na podlagi katerega bi ob upoštevanju celotne izpostavljenosti banke, vključno s posredno kreditno izpostavljenostjo, nastala izpostavljenost banke do posamezne stranke ali skupine povezanih strank, ki dosega ali presega deset odstotkov temeljnega kapitala banke, je treba pridobiti predhodno soglasje nadzornega sveta. Predhodno soglasje nadzornega sveta je treba pridobiti tudi za sklenitev pravnega posla, zaradi katerega se celotna izpostavljenost banke do posamezne stranke ali skupine povezanih strank, vključno s posredno izpostavljenostjo, poveča za vsakih nadaljnjih pet odstotkov temeljnega kapitala banke.
+
+(2) Pri ugotavljanju skupine povezanih strank za namen iz prejšnjega odstavka banka ne upošteva povezav s centralno ravnjo države.
+
+(3) Pri določanju izpostavljenosti iz prvega odstavka tega člena banka upošteva vrednost izpostavljenosti, ki še ni zmanjšana za popravke vrednosti in rezervacije za kreditne izgube oziroma še ni prilagojena zaradi vrednotenja, izvedenega po pridobitvi finančnih instrumentov, na katere se izpostavljenost nanaša. Kot posredna kreditna izpostavljenost se šteje vsaka izpostavljenost banke do posamezne stranke, ki nastane iz naslova prejetih kreditnih zavarovanj za neposredno izpostavljenost banke do druge stranke, ki je osnovni dolžnik banke, in ki bi lahko postala neposredna izpostavljenost banke do zadevne stranke, če bi prišlo do neplačila osnovnega dolžnika.
+
+(4) Ne glede na prvi odstavek tega člena lahko banka pridobi predhodno soglasje nadzornega sveta za sklepanje vnaprej opredeljenih vrst in ročnosti poslov znotraj določenih limitov izpostavljenosti, ki ustrezajo kreditnemu tveganju strank. Soglasja za limite izpostavljenosti do posameznih strank ali skupin povezanih strank veljajo za omejeno časovno obdobje, vendar največ 12 mesecev.

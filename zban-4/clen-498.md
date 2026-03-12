@@ -1,0 +1,7 @@
+# 498. člen (globa za kršitev odgovorne osebe finančnega holdinga ali mešanega finančnega holdinga)
+
+(1) Z globo od 2.500 do 10.000 eurov se za prekršek kaznuje član upravljalnega organa finančnega holdinga ali mešanega finančnega holdinga, ki naklepno ali iz zavestne malomarnosti krši dolžnost člana upravljalnega organa iz 54. ali 69. člena tega zakona v povezavi z 79. členom tega zakona in povzroči, da se pri finančnem holdingu ali mešanem finančnem holdingu zgodi katera od kršitev iz 389. člena tega zakona.
+
+(2) Če je narava storjenega prekrška iz prejšnjega odstavka posebno huda zaradi višine povzročene škode oziroma pridobljene protipravne premoženjske koristi ali zaradi storilčevega koristoljubnosti, se član upravljalnega organa kaznuje z globo do 5.000.000 eurov.
+
+(3) Odgovorna oseba finančnega holdinga ali mešanega finančnega holdinga, ki ni članica upravljalnega organa in naklepno ali iz zavestne malomarnosti povzroči, da se pri finančnem holdingu ali mešanem finančnem holdingu zgodi katera od kršitev iz 389. člena tega zakona, se kaznuje z globo od 800 do 10.000 eurov. Če je narava storjenega prekrška iz prejšnjega stavka posebno huda zaradi višine povzročene škode oziroma pridobljene protipravne premoženjske koristi ali zaradi storilčevega namena koristoljubnosti, se odgovorna oseba finančnega holdinga ali mešanega finančnega holdinga, ki ni članica upravljalnega organa finančnega holdinga, kaznuje z globo od 2.500 do 30.000 eurov.

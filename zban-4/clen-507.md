@@ -1,0 +1,7 @@
+## 19. POGLAVJE: PREHODNE DOLOČBE
+
+# 507. člen (ohranitev veljavnosti dovoljenj)
+
+(1) Dovoljenja za opravljanje bančnih ali drugih storitev bank, za opravljanje funkcije člana uprave banke, za pridobitev kvalificiranega deleža ter druga dovoljenja in soglasja, ki na podlagi Zakona o bančništvu (Uradni list RS, št. 92/21, 123/21 – ZBNIP, 2/25 – odl. US in 17/25; v nadaljnjem besedilu: ZBan-3) veljajo ob uveljavitvi tega zakona, se z dnem uveljavitve tega zakona štejejo za dovoljenja in soglasja, izdana po tem zakonu ali Uredbi 575/2013/EU. Če niso izpolnjeni pogoji za ohranitev dovoljenja ali soglasja, kot jih določa ta zakon ali Uredba 575/2013/EU, se dovoljenje ali soglasje odvzame oziroma prekliče v skladu z določbami tega zakona.
+
+(2) Odločbe Banke Slovenije glede statusnih značilnosti ali položaja banke, zlasti glede opredelitve banke kot pomembne, druge sistemsko pomembne ter majhne in nekompleksne banke oziroma v zvezi z uveljavitvijo poenostavljenih obveznosti za načrte sanacije, ki jih določa ZBan-3 ali Uredba 575/2013/EU in na podlagi ZBan-3 veljajo na dan uveljavitve tega zakona, se z dnem uveljavitve tega zakona štejejo za odločbe, izdane po tem zakonu ali Uredbi 575/2013/EU. Če niso izpolnjeni pogoji za ohranitev statusnih značilnosti ali položaja banke, kot jih določa ta zakon ali Uredba 575/2013/EU, Banka Slovenije o odvzemu ali preklicu odločbe odloči v skladu z določbami tega zakona.
