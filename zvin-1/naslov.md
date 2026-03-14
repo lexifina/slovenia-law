@@ -1,0 +1,1 @@
+ZAKON O VINU (ZVin-1)

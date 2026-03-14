@@ -1,0 +1,7 @@
+# 36. člen (prepoved zavajanja)
+
+(1) Označevanje, oglaševanje oziroma trženje vina in drugih proizvodov vinske trte ter aromatiziranih vinskih proizvodov ne sme besedno, slikovno ali kako drugače zavajati potrošnika glede resničnosti navedb.
+
+(2) Slikovno zavajanje pri označevanju vina in drugih proizvodov vinske trte ter aromatiziranih vinskih proizvodov iz prejšnjega odstavka pomeni vsako uporabo slikovnega materiala, kot so fotografije, ilustracije, zemljevidi ali grafični elementi, ki nakazujejo ali se uporabljajo za določeno geografsko poreklo vina in drugih proizvodov vinske trte, aromatiziranih vinskih proizvodov, čeprav vino in drugi proizvodi vinske trte ter aromatizirani vinski proizvodi dejansko niso pridelani na tem območju.
+
+(3) Če vino in druge proizvode vinske trte ter aromatizirane vinske proizvode oglašuje ali trži fizična oseba, samostojni podjetnik posameznik oziroma pravna oseba, ki nima prebivališča ali sedeža v Republiki Sloveniji, mora določiti odgovorno osebo ali pooblaščenca s prebivališčem ali sedežem v Republiki Sloveniji. Če oseba iz prejšnjega stavka nima določene odgovorne osebe ali pooblaščenca s prebivališčem ali sedežem v Republiki Sloveniji, se vročitev dokumentov najprej opravi na naslov prebivališča ali sedeža te osebe v tujini. Če vročitev v skladu s prejšnjim stavkom ni uspešna, se opravi z javnim naznanilom v skladu z zakonom, ki ureja splošni upravni postopek.
