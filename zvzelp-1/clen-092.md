@@ -1,0 +1,5 @@
+# 92. člen (poslovnik industrijskega tira ali proge druge železnice)
+
+(1) Za vsak industrijski tir ali progo drugih železnic mora biti izdelan poslovnik, katerega sprejme lastnik oziroma upravljavec industrijskega tira ali proge drugih železnic. Če tirna vozila prehajajo iz industrijskega tira na javno železniško infrastrukturo in obratno, mora dati soglasje upravljavec k tistemu delu poslovnika, ki se tiče javne železniške infrastrukture.
+
+(2) Postopki v zvezi z zagotavljanjem varnega železniškega prometa na industrijskem tiru ali progi druge železnice se določijo v poslovniku industrijskega tira ali proge druge železnice. Poslovnik določa tehnološki proces dela na industrijskem tiru ali progi druge železnice, največjo dovoljeno hitrost, zdravstvene pogoje in potrebno strokovno usposobljenost za osebje, ki vzdržuje in dela na industrijskem tiru ali progi druge železnice, način ugotavljanja in preverjanja teh pogojev ter usposobljenosti v skladu z enotnimi merili, ki so predpisani za osebje.

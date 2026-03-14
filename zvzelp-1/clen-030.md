@@ -1,0 +1,11 @@
+# 30. člen (novi nivojski prehodi)
+
+(1) Novi nivojski prehodi se smejo graditi le na progah, ki niso del omrežja TEN-T, na razdalji, ki ni manjša od 2000 m od obstoječega nivojskega ali izvennivojskega prehoda, če je načrtovani povprečni letni dnevni promet po cesti večji od 250 vozil in je povprečni letni dnevni promet vlakov po progi manjši od 70 vlakov ter je dovoljena progovna hitrost manjša od 100 km/h.
+
+(2) Ob istočasni ukinitvi vsaj dveh obstoječih nivojskih prehodov, ko se promet iz ukinjenih prehodov preusmeri na nov nivojski prehod, je nov prehod lahko izveden na razdalji krajši od 2000 m oziroma, se ob ukinitvi nivojskega prehoda lahko drug prehod obnovi ali nadgradi na obstoječi lokaciji na razdalji krajši od 2000 m.
+
+(3) Izpolnjevanje pogojev za vzpostavitev novega nivojskega prehoda in ustreznost zavarovanja preveri komisija, ki jo imenuje minister. Komisijo sestavljajo predstavniki upravljavca, ministrstva, pristojnega za promet, ministrstva, pristojnega za notranje zadeve, varnostnega organa, upravljavca ceste in lokalne skupnosti, na območju katere bo nivojski prehod.
+
+(4) Minister na podlagi mnenja komisije iz prejšnjega odstavka poda soglasje za vzpostavitev nivojskega prehoda.
+
+(5) Pri obnovah, nadgradnjah ali gradnjah stabilnih naprav se lahko na podlagi soglasja upravljavca vzpostavijo začasni nivojski prehodi. Tak nivojski prehod se zavaruje na način in za obdobje, kot ju določi upravljavec. Prehod je treba ukiniti takoj po končanih delih, zaradi katerih je bil vzpostavljen. Stroške postavitve, obratovanja in ukinitve začasnega nivojskega prehoda ter potrebnih povezovalnih cest krije tisti, na zahtevo katerega je bil prehod postavljen.
