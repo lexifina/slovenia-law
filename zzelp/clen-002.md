@@ -1,0 +1,77 @@
+# 2. člen (pomen izrazov)
+
+(1) V tem zakonu uporabljeni izrazi imajo naslednji pomen:
+
+1. »bistvene funkcije upravljanja javne železniške infrastrukture« pomenijo odločanje glede dodeljevanja vlakovnih poti, vključno z opredelitvijo ter oceno razpoložljivosti in dodeljevanja posameznih vlakovnih poti, ter odločanje glede zaračunavanja, določanja in pobiranja uporabnine za uporabo javne železniške infrastrukture;
+
+2. »čezmejni sporazum« pomeni vsako mednarodno pogodbo, sklenjeno med dvema ali več državami članicami Evropske unije ali med državami članicami Evropske unije in tretjimi državami; njegov namen je olajšati opravljanje storitev čezmejnega železniškega prometa;
+
+3. »dostop na javno železniško infrastrukturo« je pravica do njene uporabe pod določenimi pogoji;
+
+4. »investicija v javno železniško infrastrukturo« je nadgradnja obstoječe ali graditev nove javne železniške infrastrukture;
+
+5. »javno-zasebno partnerstvo« pomeni zavezujoč dogovor med javnimi organi in enim ali več pravnimi subjekti, ki niso upravljavec, na podlagi katerega subjekt deloma ali v celoti zgradi oziroma financira železniško infrastrukturo oziroma pridobi pravico za opravljanje funkcij upravljavca za vnaprej določeno obdobje;
+
+6. »licenca« pomeni dovoljenje, ki ga licenčni organ izda prevozniku in s katerim se prizna njegova sposobnost, da kot prevoznik v železniškem prometu opravlja storitve železniškega prevoza; ta sposobnost je lahko omejena na opravljanje posebnih vrst storitev;
+
+7. »licenčni organ« je organ, pristojen za izdajanje licenc iz prejšnje točke;
+
+8. »mednarodni tovorni promet« je prevozna storitev, pri kateri vlak prečka najmanj eno mejo države članice Evropske unije; vlak je lahko sklenjen oziroma razdeljen in različni deli imajo lahko različne odhodne in namembne postaje, pod pogojem, da vsi vagoni prečkajo najmanj eno mejo;
+
+9. »mestni ali primestni promet« pomeni prevozne storitve, katerih glavni namen je zadovoljevanje prevoznih potreb mestnega središča ali urbane aglomeracije, vključno s čezmejno aglomeracijo, in prevoznih potreb med takim središčem ali urbano aglomeracijo in okoliškimi območji;
+
+10. »nadgradnja« javne železniške infrastrukture pomeni večja dela za spremembo obstoječe infrastrukture, ki izboljšajo njeno splošno delovanje;
+
+11. »nadomestna vlakovna pot« pomeni drugo vlakovno pot med istima izhodno in končno postajo, kadar sta vlakovni poti zamenljivi za namene tovornega ali potniškega prometa, ki ga opravlja prevoznik v železniškem prometu;
+
+12. »objekt, ki se uporablja za obratovanje, vzdrževanje oziroma obnavljanje javne železniške infrastrukture« pomeni stavbo, namenjeno upravljanju železniškega prometa, stavbo, ki se uporablja za neposredno opravljanje gospodarske javne službe vzdrževanja, obratovanja in obnavljanja obstoječe javne železniške infrastrukture, ranžirno postajo s pripadajočimi napravami, postajno zgradbo oziroma poslopje, postajo in postajališče oziroma drug objekt ali napravo, ki ju uporablja upravljavec za izvajanje železniških storitev;
+
+13. »objekt za izvajanje železniških storitev« pomeni napravo, vključno z zemljiščem, stavbo in opremo, ki je bila v celoti ali deloma posebej prilagojena za zagotavljanje ene ali več storitev iz točk 2 do 4 Priloge II Direktive 2012/34/EU;
+
+14. »obnavljanje javne železniške infrastrukture« pomeni večja dela za obnovo obstoječe infrastrukture, ki ne spremenijo celotnega delovanja podsistema;
+
+15. »obratovanje javne železniške infrastrukture« pomeni dodeljevanje vlakovnih poti, upravljanje prometa in zaračunavanje uporabnine za uporabo železniške infrastrukture;
+
+16. »okvirna pogodba« je pogodba, ki določa pravice in obveznosti prosilca in upravljavca v zvezi z infrastrukturnimi zmogljivostmi, ki se bodo dodeljevale, in uporabnino, ki se bo zaračunavala v obdobju, ki je daljše od obdobja veljavnosti voznega reda omrežja;
+
+17. »prevozne storitve« v železniškem prometu so prevoz potnikov ali blaga v notranjem in mednarodnem železniškem prometu;
+
+18. »prevoznik v železniškem prometu (v nadaljnjem besedilu: prevoznik)« je pravna ali fizična oseba, ki samostojno opravlja gospodarsko dejavnost, katere glavna dejavnost je izvajanje prevoznih storitev prevozov blaga oziroma potnikov v železniškem prometu in ima za zagotavljanje teh storitev licenco; pri tem mora ta prevoznik zagotoviti vleko vlakov; lahko je to tudi pravna ali fizična oseba, ki samostojno opravlja gospodarsko dejavnost, ki zagotavlja le vleko vlakov;
+
+19. »prevoznik Evropske unije« je prevoznik, ki ima licenco, izdano v državi članici Evropske unije;
+
+20. »program omrežja« pomeni podrobno obrazložitev splošnih pravil, rokov, postopkov in meril v zvezi z zaračunavanjem uporabnine in dodeljevanjem infrastrukturnih zmogljivosti; vsebuje tudi dodatne informacije, potrebne za vložitev prošenj za dodelitev infrastrukturnih zmogljivosti, kot so na primer informacije o infrastrukturnih zmogljivostih javne železniške infrastrukture ter možnih dodatnih in pomožnih storitvah;
+
+21. »prosilec« je prevoznik, mednarodno združenje prevoznikov v železniškem prometu ali druga pravna ali fizična oseba, ki zaradi javnega (država, lokalna skupnost, izvajalec gospodarske javne službe) ali komercialnega (prevozniki tovora, špediterji in prevozniki v kombiniranem prometu) interesa potrebuje vlakovno pot;
+
+22. »razvoj javne železniške infrastrukture« je načrtovanje železniškega omrežja, finančno načrtovanje in načrtovanje naložb ter gradnja in nadgradnja javne železniške infrastrukture;
+
+23. »regulatorni organ« je organ, ki skrbi za enakopravno obravnavo vseh deležnikov na trgu storitev v železniškem prometu in svobodno konkurenco med ponudniki storitev v železniškem prometu in je pristojen za reševanje pritožb zoper odločitve in ravnanje upravljavca, prevoznikov ali upravljavcev objektov za izvajanje železniških storitev, v skladu z Uredbo 2021/782/EU izvaja naloge nacionalnega izvršilnega in pritožbenega organa pravic potnikov ter opravlja druge naloge, ki jih določa ta zakon ali drug predpis;
+
+24. »storitev mednarodnega potniškega prometa« je storitev potniškega prometa, pri kateri vlak prečka najmanj eno mejo države članice Evropske unije, pri čemer je glavni namen storitve prevoz potnikov med postajami, ki so v različnih državah članicah; vlak je lahko sklenjen oziroma razdeljen in različni deli imajo lahko različne odhodne in namembne postaje pod pogojem, da vsi vagoni prečkajo najmanj eno mejo;
+
+25. »tranzit Republike Slovenije« pomeni prečkanje ozemlja Republike Slovenije brez natovarjanja ali raztovarjanja blaga oziroma brez vstopanja ali izstopanja potnikov na ozemlju Republike Slovenije;
+
+26. »tranzit Unije« pomeni prečkanje ozemlja Evropske unije brez natovarjanja ali raztovarjanja blaga in brez vstopanja ali izstopanja potnikov na ozemlju Evropske unije;
+
+27. »upravljavec javne železniške infrastrukture (v nadaljnjem besedilu: upravljavec)« je pravna oseba, ki je odgovorna za obratovanje, vzdrževanje in obnavljanje javne železniške infrastrukture ter sodelovanje pri njenem razvoju;
+
+28. »upravljavec objekta za izvajanje železniških storitev« pomeni vsako pravno ali fizično osebo, ki opravlja gospodarsko dejavnost, odgovorno za upravljanje enega ali več objektov za izvajanje železniških storitev, ali zadolženo, da zagotavlja prevoznikom v železniškem prometu eno ali več storitev iz točk od 2 do 4 Priloge II Direktive 2012/34/ES;
+
+29. »infrastrukturna zmogljivost« pomeni možnost načrtovanja zahtevanih vlakovnih poti za del javne železniške infrastrukture za določeno obdobje;
+
+30. »vlakovna pot« je infrastrukturna zmogljivost, potrebna za vožnjo vlaka med dvema krajema ob določenem času;
+
+31. »vlakovna pot za določen namen (ad hoc vlakovna pot)« je vlakovna pot iz prejšnje točke, ki se dodeli za posamezne vožnje vlaka glede na proste zmogljivosti infrastrukture;
+
+32. »varnostni organ« je organ, pristojen za naloge v zvezi z varnostjo v železniškem prometu v skladu s tem zakonom in zakonom, ki ureja varnost železniškega prometa;
+
+33. »vertikalno integrirano podjetje« je pravni subjekt, v katerem upravljavca nadzoruje pravni subjekt, ki obenem nadzoruje tudi enega ali več prevoznikov, ki opravljajo storitve železniškega prometa v omrežju upravljavca;
+
+34. »vozni red« je tehnološki načrt prevoznika za določeno voznoredno obdobje, ki je izdelan na podlagi voznega reda omrežja;
+
+35. »vozni red omrežja« je akt upravljavca, ki določa vse načrtovane vožnje vlakov in železniškega voznega parka na javni železniški infrastrukturi v obdobju, za katerega velja;
+
+36. »vzdrževanje javne železniške infrastrukture« so dela za vzdrževanje stanja in zmogljivosti obstoječe infrastrukture.
+
+(2) Drugi izrazi, uporabljeni v tem zakonu, imajo enak pomen, kot ga določa zakon, ki ureja varnost železniškega prometa.

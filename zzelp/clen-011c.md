@@ -1,0 +1,61 @@
+# 11.c člen (obveznosti in neodvisnost upravljavca v vertikalno integriranem podjetju)
+
+(1) Če upravljavec opravlja svojo dejavnost znotraj vertikalno integriranega podjetja, jo opravlja kot samostojen gospodarski subjekt.
+
+(2) Naloge upravljavca izvaja odvisna družba družbe Slovenske železnice, d. o. o.
+
+(3) Upravljavec ima svoj tričlanski nadzorni svet. Člane nadzornega sveta, ki niso predstavniki delavcev, imenuje vlada, od tega enega člana na predlog ustanovitelja.
+
+(4) Zaradi preprečevanja nasprotja interesov člani nadzornega sveta upravljavca in člani poslovodstva upravljavca ne smejo biti imenovani v organe vodenja in nadzora drugih odvisnih družb obvladujoče družbe, ki opravljajo prevozne storitve v notranjem in mednarodnem železniškem prometu, niti ne smejo biti zaposleni kot vodilni delavci v kateri od teh družb. Prav tako člani poslovodstva upravljavca ne smejo biti imenovani v organ nadzora obvladujoče družbe. V organe vodenja in nadzora upravljavca ne morejo biti imenovane osebe, ki so bili člani organa vodenja ali nadzora obvladujoče družbe ali družbe, ki opravlja prevozne storitve v notranjem in mednarodnem železniškem prometu, najmanj eno leto po koncu mandata v organu družbe. V nadzorni svet upravljavca je lahko imenovanih le toliko zaposlenih obvladujoče družbe oziroma odvisnih družb obvladujoče družbe, da ti ob upoštevanju minimalnega dovoljenega kvoruma pri glasovanju ne dosežejo večine. V nadzorni svet ne smejo biti imenovani zaposleni iz družb, ki opravljajo prevozne storitve v notranjem in mednarodnem železniškem prometu.
+
+(5) Nadzorni svet upravljavca preverja pravilnost izvajanja finančne preglednosti in pravila ločenosti ter varnega in varovanega dostopa do informacijskega sistema.
+
+(6) Sestava nadzornega sveta upravljavca in natančnejši pogoji, ki jih morajo izpolnjevati člani nadzornega sveta, se določijo v aktu o ustanovitvi upravljavca.
+
+(7) Če ne pride do nasprotja interesov in je zagotovljena zaupnost informacij, ki so poslovna skrivnost po zakonu, ki ureja gospodarske družbe, lahko upravljavec za določena dela, ki niso povezana z dodeljevanjem vlakovnih poti in določanjem uporabnine, sklene pogodbo s katerokoli pravno ali fizično osebo, pri čemer ohrani pravico do sprejemanja pomembnih odločitev o teh delih. Upravljavec lahko s prevozniki sklepa pogodbe o sodelovanju, da zagotovi strankam pogodbe koristi, na primer manjše stroške ali boljše delovanje dela omrežja, na katerega se nanaša pogodba. Nadzor nad sklepanjem in izvajanjem pogodb s prevozniki iz prejšnjega stavka opravlja regulatorni organ, ki lahko v utemeljenih primerih predlaga prekinitev pogodbe.
+
+(8) Upravljavec, člani poslovodstva in člani nadzornega sveta upravljavca ne smejo imeti nobenih neposrednih ali posrednih poslovnih deležev v katerikoli odvisni družbi družbe Slovenske železnice, d. o. o., ki opravlja prevozne storitve v notranjem in mednarodnem železniškem prometu. Člani poslovodstva in vodilni delavci upravljavca, ki odločajo o bistvenih funkcijah upravljanja infrastrukture, ne smejo prejeti nobenih plačil, vezanih na uspešno poslovanje nobenega drugega pravnega subjekta vertikalno integriranega podjetja, ali plačil, povezanih s finančno uspešnostjo posameznih prevoznikov v železniškem prometu.
+
+(9) Upravljavec mora zagotoviti omejenost dostopa do informacij, ki se nanašajo na dodeljevanje vlakovnih poti, zaračunavanje uporabnine, izdelavo voznega reda omrežja in upravljanje prometa, če ima skupen informacijski sistem z drugimi subjekti znotraj vertikalno povezanega podjetja. Dostop do teh informacij je omogočen le pooblaščenemu osebju upravljavca in jih ni dovoljeno pošiljati drugim subjektom v vertikalno povezanem podjetju.
+
+(10) Upravljavec in Direkcija Republike Slovenije za infrastrukturo morata prek odbora iz trinajstega odstavka tega člena pred sprejetjem poslovnega načrta upravljavca prosilcem, na prošnjo pa tudi potencialnim prosilcem, omogočiti dostop do ustreznih informacij o njegovi vsebini in možnost, da mu sporočijo svoje mnenje v zvezi s pogoji za dostop do javne železniške infrastrukture, za njeno uporabo in v zvezi z njenimi značilnostmi, zagotavljanjem in razvojem. Upravljavec mora mnenja prosilcev pri pripravi dolgoročnega načrta vzdrževanja in obnavljanja v največji možni meri upoštevati, vzdrževanje pa mora načrtovati nediskriminatorno.
+
+(11) Upravljavec mora vsaj en mesec pred podpisom pogodbe iz drugega odstavka 11. člena tega zakona na svoji spletni strani objaviti osnutek pogodbe ali vsaj bistvene elemente pogodbe tako, da lahko prosilci pred podpisom podajo svoje mnenje. Upravljavec mora sklenjeno pogodbo objaviti na svoji spletni strani najpozneje v enem mesecu po sklenitvi.
+
+(12) Vlada z ustreznim načinom financiranja nalog upravljavca po pogodbi iz drugega odstavka 11. člena tega zakona zagotovi, da izkaz uspeha upravljavca infrastrukture, pod normalnimi pogoji poslovanja in v primernem obdobju, ki ni daljše od petih let, vsaj uravnoteži prihodke upravljavca iz uporabnine, presežkov iz drugih komercialnih dejavnosti, nepovratnih prihodkov iz zasebnih virov in proračunskih sredstev, vključno s predplačili države, kadar je to v skladu z zakonodajo, ki ureja področje javnih financ, z odhodki upravljavca za opravljanje njegove dejavnosti. Vlada lahko od upravljavca zahteva, da v primeru, ko je železniški promet konkurenčen drugim načinom prometa, uravnoteži svoje prihodke in odhodke s prihodki iz uporabnine brez financiranja iz državnega proračuna. S tem odstavkom se ne posega v določbe zakona, ki ureja gospodarske družbe, in drugih predpisov, ki urejajo poslovne knjige in letno poročilo upravljavca.
+
+(13) Upravljavec mora z organom, pristojnim za vodenje investicij, prevozniki in prosilci vzpostaviti stalen odbor za usklajevanje potreb na področju železniške infrastrukture. Upravljavec lahko k sodelovanju v odbor povabi predstavnike uporabnikov storitev železniškega prometa in predstavnike lokalnih skupnosti. Regulatorni organ lahko v odboru sodeluje kot opazovalec. Upravljavec mora zagotoviti, da se v odboru usklajujejo naslednje vsebine:
+
+- potrebe prosilcev glede vzdrževanja in razvoja zmogljivosti železniške infrastrukture;
+
+- vsebina k uporabnikom naravnanih ciljev uspešnosti upravljavca, določenih v pogodbi iz drugega odstavka 11. člena tega zakona in spodbud upravljavcu iz prvega odstavka 15.f člena tega zakona in njihovo izvajanje;
+
+- vsebina in izvajanje programa omrežja;
+
+- vprašanja intermodalnosti in interoperabilnosti;
+
+- vsa druga vprašanja, povezana s pogoji za dostop, uporabo infrastrukture in kakovostjo storitev upravljavca.
+
+(14) Odbor iz prejšnjega odstavka se sestaja najmanj enkrat letno v skladu s smernicami, ki jih pripravi in objavi upravljavec po posvetovanju z zainteresiranimi stranmi iz prejšnjega odstavka. Upravljavec na svoji spletni strani ažurno objavlja pregled dela odbora. Usklajevanje v tem odboru ne posega v pravico prosilcev do vložitve pritožbe pri regulatornem organu.
+
+(15) Upravljavec se včlani v evropsko mrežo upravljavcev infrastrukture.
+
+11.č člen
+
+(finančna preglednost poslovanja upravljavca)
+
+(1) Upravljavec lahko nameni prihodke iz opravljanja nalog upravljavca po pogodbi iz drugega odstavka 11. člena tega zakona za financiranje svojega poslovanja.
+
+(2) Bilančni dobiček upravljavca se lahko izplača družbeniku, ki je del vertikalno integriranega podjetja, samo, če izvira iz dejavnosti upravljavca, ki niso predmet pogodbe iz drugega odstavka 11. člena tega zakona.
+
+(3) Upravljavec ne sme neposredno ali posredno najemati ali dajati posojil prevoznikom.
+
+(4) Posojila med ostalimi pravnimi subjekti vertikalno integriranega podjetja se lahko najemajo, povrnejo in servisirajo le po tržnih obrestnih merah in pod tržnimi pogoji, ki upoštevajo profil tveganja posameznega subjekta.
+
+(5) Upravljavec lahko na podlagi pogodbe izvršene storitve pravnih subjektov vertikalno integriranega podjetja plača po tržni ceni oziroma po ceni, ki odražajo seštevek proizvodnih stroškov in primerno stopnjo dobička.
+
+(6) Dolgovi upravljavca se vodijo v njegovih poslovnih knjigah in se servisirajo ločeno od dolgov pravnih subjektov vertikalno integriranega podjetja.
+
+(7) Upravljavec mora zagotoviti izdelavo in objavo ločenih izkazov in bilanc stanja, s katerimi zagotavlja izpolnjevanje določb tega člena in prvega odstavka 22.a člena tega zakona.
+
+(8) Upravljavec mora voditi podrobno evidenco o vseh poslovnih in finančnih razmerjih s pravnimi subjekti vertikalno integriranega podjetja.
