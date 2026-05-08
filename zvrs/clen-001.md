@@ -1,0 +1,5 @@
+## I. SPLOŠNE DOLOČBE
+
+# 1. člen
+
+Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) je organ izvršilne oblasti in najvišji organ državne uprave Republike Slovenije.
