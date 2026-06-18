@@ -1,0 +1,3 @@
+# 38. člen (ministrstvo za infrastrukturo in energetiko)
+
+Ministrstvo za infrastrukturo in energetiko opravlja naloge na področjih prometne infrastrukture in žičniških naprav, usmerjanja, koordinacije in povezovanja upravljavcev cest, razvoja vseevropskega prometnega omrežja v Republiki Sloveniji ter cestnega, železniškega, žičniškega, zračnega in pomorskega prometa, plovbe po celinskih vodah ter mednarodnih avtobusnih in železniških prevozov, energetike, oskrbe z naftnimi derivati in infrastrukture za alternativna goriva v prometu, trajnostne mobilnosti, celostnega prometnega načrtovanja in javnega potniškega prometa v notranjem in čezmejnem prometu.

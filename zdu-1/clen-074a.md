@@ -1,0 +1,15 @@
+## VIII. ELEKTRONSKO POSLOVANJE UPRAVE
+
+# 74.a člen (upravljanje informacijsko komunikacijskih sistemov državne uprave)
+
+Ministrstvo, pristojno za upravljanje informacijsko-komunikacijskih sistemov, je v državni upravi pristojno za upravljanje informacijsko komunikacijske infrastrukture, razvoj skupnih informacijskih rešitev ter njihovo tehnološko, procesno in organizacijsko skladnost s centralnim informacijsko komunikacijskim sistemom, ter načrtovanje in upravljanje vseh proračunskih virov na teh področjih.
+
+Določba prejšnjega odstavka ne velja za informacijsko komunikacijske sisteme, namenjene področju obrambe, varstva pred naravnimi in drugimi nesrečami, policije, interni informacijski sistem notranjih zadev, obveščevalno-varnostne dejavnosti, zunanjih zadev, preprečevanja in odkrivanja pranja denarja in financiranja terorizma ter opravljanja plačilnega prometa za proračunske uporabnike.
+
+Vlada določi podatkovne in tehnološke standarde, smernice za skupne informacijske rešitve in skupno varnostno politiko.
+
+Ministrstvo, pristojno za upravljanje informacijsko-komunikacijskih sistemov, zagotavlja storitve centralnega informacijsko komunikacijskega sistema, elektronsko podporo upravnim ter drugim postopkom in razvoj skupnih informacijskih rešitev za elektronsko poslovanje državnih organov, javnih agencij, organov lokalnih skupnosti in nosilcev javnih pooblastil.
+
+Stroške uporabe storitev centralnega informacijsko komunikacijskega sistema za državne organe in centre za socialno delo krije državni proračun. Javne agencije, organi lokalnih skupnosti, nosilci javnih pooblastil in ostali uporabniki storitve plačujejo v skladu s cenikom, ki ga določi minister, pristojen za upravo.
+
+Organi državne uprave, organi lokalnih skupnosti ter druge pravne in fizične osebe, kadar na podlagi javnih pooblastil opravljajo upravne naloge, pri izvrševanju upravnih nalog vodijo elektronske evidence dokumentarnega gradiva s svojega delovnega področja. V elektronske evidence dokumentarnega gradiva se z namenom opravljanja upravnih nalog evidentira osebno ime oziroma firma subjekta dokumentarnega gradiva, naslov njegovega prebivališča oziroma sedež in morebitni elektronski naslov. Osebni podatki se iz evidence izbrišejo ob uničenju dokumentov ali ob njihovem izločanju, če niso na podlagi zakona, ki ureja arhivsko gradivo in arhive, opredeljeni kot arhivsko gradivo. V elektronskih evidencah dokumentarnega gradiva se evidentirajo tudi dokumenti v elektronski obliki oziroma fizični dokumenti, ki so pretvorjeni v elektronsko obliko. Elektronske evidence dokumentarnega gradiva se povezujejo s centralnim registrom prebivalstva in Poslovnim registrom Slovenije tako, da se na podlagi EMŠO, davčne ali matične številke, v postopkih, kjer so ti podatki obvezna sestavina vloge, v elektronske evidence dokumentarnega gradiva pri organu na posamezno zahtevo organa prenesejo podatki o osebnem imenu oziroma firmi, o naslovu stalnega ali začasnega prebivališča oziroma sedežu in o elektronskem naslovu za vročanje.

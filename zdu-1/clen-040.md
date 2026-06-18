@@ -1,0 +1,3 @@
+# 40. člen (ministrstvo za zdravje)
+
+Ministrstvo za zdravje opravlja naloge na področjih javnega zdravja, zdravstvenega varstva, zdravstvenega zavarovanja, zdravstvene dejavnosti, kemijske varnosti, varstva pred sevanji, zdravil in medicinskih pripomočkov, prehranskih dopolnil, živil za posebne prehranske oziroma zdravstvene namene, proizvodnje in prometa materialov, ki prihajajo v stik z živili, njihove uporabe v postopkih proizvodnje in distribucije prehranskih dopolnil ter živil za posebne prehranske oziroma zdravstvene namene, zdravstveno ustrezne pitne vode, živil oziroma hrane v gostinski dejavnosti, institucionalnih obratih prehrane in obratih za prehrano na delu z vidika preprečevanja in obvladovanja nalezljivih bolezni.
