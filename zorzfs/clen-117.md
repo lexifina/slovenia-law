@@ -1,0 +1,15 @@
+# 117. člen (narava poroštva)
+
+(1) Poroštvo v skladu s tem oddelkom je nepreklicno, brezpogojno in se unovči na prvi pisni poziv banke. Poroštvo za obveznosti iz naslova glavnice kredita je izdano s sklenitvijo kreditne pogodbe, ki izpolnjuje pogoje po tem zakonu.
+
+(2) Republika Slovenija prevzema poroštvo po tem zakonu za kreditojemalce, ki imajo namen uporabiti sredstva kredita za razvoj in, ki na dan 31. decembra 2022 niso šteli za podjetje v težavah, po pogojih, kot so opredeljeni v 18. točki 2. člena Uredbe Komisije (EU) št. 651/2014 z dne 17. junija 2014 o razglasitvi nekaterih vrst pomoči za združljive z notranjim trgom pri uporabi členov 107 in 108 Pogodbe (UL L št. 187 z dne 26. 6. 2014, str. 1), zadnjič spremenjene z Uredbo Komisije (EU) 2023/1315 z dne 23. junija 2023 o spremembi Uredbe (EU) št. 651/2014 o razglasitvi nekaterih vrst pomoči za združljive z notranjim trgom pri uporabi členov 107 in 108 Pogodbe ter Uredbe (EU) 2022/2473 o razglasitvi nekaterih vrst pomoči za podjetja, ki se ukvarjajo s proizvodnjo, predelavo in trženjem ribiških proizvodov in proizvodov iz akvakulture, za združljive z notranjim trgom z uporabo členov 107 in 108 Pogodbe (UL L št. 167 z dne 30. 6. 2023, str. 1), (v nadaljnjem besedilu: Uredba 651/2014/EU).
+
+(3) Kreditojemalec se na dan 4. avgust 2023 ne sme šteti za neplačnika v skladu z določbami Uredbe (EU) št. 575/2013 Evropskega parlamenta in Sveta z dne 26. junija 2013 o bonitetnih zahtevah za kreditne institucije in investicijska podjetja ter o spremembi Uredbe (EU) št. 648/2012 (UL L št. 176 z dne 27. 6. 2013, str. 1), zadnjič dopolnjene z Delegirano uredbo Komisije (EU) 2023/1578 z dne 20. aprila 2023 o dopolnitvi Uredbe (EU) št. 575/2013 Evropskega parlamenta in Sveta v zvezi z regulativnimi tehničnimi standardi za določitev zahtev za notranjo metodologijo ali zunanje vire, ki se uporabljajo v okviru notranjega modela tveganja neplačila za ocenjevanje verjetnosti neplačila in izgub ob neplačilu (UL L št. 193 z dne 1. 8. 2023, str. 7), (v nadaljnjem besedilu: Uredba 575/2013/EU), pri čemer kreditojemalec na dan 4. avgust 2023 nima pomembnih zamud pri poravnavanju obveznosti do banke, kot so opredeljene v smernicah Evropskega bančnega organa.
+
+(4) Republika Slovenija za gospodarske subjekte, ki so v skladu s Prilogo I Uredbe 651/2014/EU razvrščeni med mikro, mala ali srednja podjetja, izdaja poroštva v višini 80 odstotkov glavnice kredita iz prejšnjega člena, za preostale gospodarske subjekte pa v višini 50 odstotkov glavnice kredita iz prejšnjega člena.
+
+(5) Zahteva za izpolnitev poroštvene obveznosti Republike Slovenije je upravičena, če banka in Republika Slovenija utrpita sorazmerne izgube pod enakimi pogoji.
+
+(6) V primeru postopnega zmanjševanja obveznosti kreditojemalca za izpolnitev, za katere odgovarja Republika Slovenija, se sorazmerno zmanjšuje tudi obveznost Republike Slovenije.
+
+(7) Za poroštva po tem zakonu se uporabljajo določbe o poroštvu iz zakona, ki ureja obligacijska razmerja, razen če ta zakon določa drugače.

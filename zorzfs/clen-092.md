@@ -1,0 +1,13 @@
+# 92. člen (poseg v lastninsko pravico)
+
+(1) Za uresničitev namena sanacije iz prejšnjega člena se lahko lastninska ali druga stvarna pravica na nepremičninah odvzame ali omeji po postopku in na način, določen z zakonom, ki ureja razlastitev nepremičnin in omejitev lastninske pravice, razen če ta zakon določa drugače.
+
+(2) Nepremičnine, za katere je za uresničitev namena sanacije iz prejšnjega člena, nujno potrebna razlastitev ali omejitev lastninske pravice, se določijo s sklepom vlade, v katerem se opredeli in utemelji, da je razlastitev ali omejitev lastninske pravice nujno potrebna in v javno korist. Predlagatelj sklepa vlade za ugotovitev javne koristi je ministrstvo, pristojno za vode. Sklep vlade o ugotovitvi javne koristi se pripravi na podlagi strokovnih utemeljitev, v katerih se po pravilih stroke ugotovijo in izkažejo razlogi za nujnost sanacijskih ukrepov. Pred sprejetjem sklepa vlade o ugotovitvi javne koristi se predlog tega sklepa javno razgrne za najmanj 15 dni, o kraju in času javne razgrnitve se javnost obvesti z javnim naznanilom.
+
+(3) Ne glede na 204. člen ZUreP-3 se šteje, da je javna korist iz prejšnjega odstavka izkazana s sklepom vlade o ugotovitvi javne koristi.
+
+(4) Razlastitveni postopki za nepremičnine po sklepu vlade o ugotovitvi javne koristi se štejejo za nujne postopke, upravni organ odloča prednostno, pritožba zoper odločbo o razlastitvi pa ne zadrži prenosa lastninske pravice.
+
+(5) Ne glede na 215. člen ZUreP-3 lahko za namen izvedbe sanacije iz prejšnjega člena investitor prevzame posest na nepremičninah, potrebnih za izvedbo ukrepov iz prejšnjega člena pod pogojem, da v 30 dneh po vročitvi ponudbe za odkup z lastnikom nepremičnine po pogajanjih ni uspel skleniti pogodbe o prodaji nepremičnine, z dnem položitve zneska pri notarju ali sodišču v višini ocenjene odškodnine za to nepremičnino in varščino v višini ene polovice ocenjene odškodnine za morebitno drugo škodo, če je s sklepom vlade iz drugega odstavka ugotovljena javna korist. Varščina se vračuna v odškodnino za razlaščeno nepremičnino, če pa jo presega, se v preseženem delu vrne razlastitvenemu upravičencu. Upravni organ, pri katerem se vodi razlastitveni postopek izda odločbo o razlastitvi po predložitvi dokazila o položitvi odškodnine in varščine.
+
+(6) V notarskem zapisu ali zapisniku o prevzemu denarja v hrambo iz prejšnjega odstavka mora biti določen rok hrambe zneska iz prejšnjega odstavka do izpolnitve pogoja za izplačilo odškodnine. Kot pogoj za izplačilo razlastitvenemu zavezancu ali drugi upravičeni osebi mora biti določena predložitev sporazuma o odškodnini ali pravnomočne odločbe o razlastitvi in dokazilo, da razlastitveni zavezanec razlaščene nepremičnine nima več v posesti.

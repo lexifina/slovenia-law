@@ -1,0 +1,9 @@
+# 126.e člen (drugi primeri prodaje zemljišč za zagotavljanje nadomestitvenih objektov)
+
+(1) Upravljavec občinskega ali državnega nepremičnega premoženja lahko za namen zagotavljanja nadomestitvenih objektov iz 4. člena tega zakona v last fizične ali pravne osebe, ki je investitor nadomestitvenega objekta v skladu s tem zakonom, s smiselno uporabo določb drugega, tretjega in četrtega odstavka 126.a člena, 126.b, 126.c in 126.č člena tega zakona odplačno odsvoji tudi drugo nepremično premoženje, katerega upravljavec je, in ni opredeljeno z drugimi določbami tega zakona.
+
+(2) Ne glede na tretji odstavek 126.b člena tega zakona se tržna prodajna cena za nepremično premoženje iz prejšnjega odstavka določi na podlagi cenitve, ki jo izdela sodni cenilec ustrezne stroke, imenovan v skladu z zakonom, ki ureja sodne cenilce, ali pooblaščeni ocenjevalec vrednosti nepremičnin, imenovan v skladu z zakonom, ki ureja revidiranje, ne glede na vrednost nepremičnine, ki je predmet prodaje. Ob naročilu cenitve se cenilec seznani z namenom cenitve in drugimi okoliščinami, ki lahko vplivajo na vrednost zemljišč. Cenilec ob pripravi cenitve upošteva določbe tega zakona, namen prodaje in druge okoliščine, ki vplivajo na vrednost nepremičnega premoženja. Stroške cenitve in notarske overitve ter davek na promet nepremičnin krije upravljavec nepremičnega premoženja.
+
+(3) Ne glede na osmi odstavek 126.c člena tega zakona o pritožbi zoper odločbo o dodelitvi pravice investitorju nadomestitvenega objekta do nakupa nepremičnega premoženja iz prvega odstavka tega člena, ki je v lasti občine, odloča župan občine, ki je lastnica navedenega nepremičnega premoženja.
+
+(4) Če je občina pridobila nepremično premoženje iz prvega odstavka tega člena z uporabo sredstev proračuna Republike Slovenije, mora občina pridobljena sredstva iz odplačne odsvojitve nakazati v proračunski sklad iz 127. člena tega zakona.

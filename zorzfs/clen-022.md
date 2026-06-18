@@ -1,0 +1,7 @@
+# 22. člen (nujni razlastitveni postopek za objekte za odstranitev)
+
+(1) Ne glede na 215. člen ZUreP-3 se razlastitveni postopki za nepremičnine, na katerih so predvideni objekti za odstranitev po sklepu vlade iz prvega odstavka 151.c člena ZIUOPZP, štejejo za nujne postopke, pritožba zoper odločbo o razlastitvi ne zadrži prenosa lastninske pravice. Država prevzame posest na razlaščeni nepremičnini v šestih mesecih od vročitve odločbe o razlastitvi razlastitvenemu zavezancu.
+
+(2) Država mora pri notarju položiti znesek v višini odškodnine za nepremičnino, kot izhaja iz ocenjevanja vrednosti nepremičnin in nadomestil za škodo, in varščino za morebitno škodo, povzročeno z nujnim razlastitvenim postopkom, v višini ene polovice ocenjene odškodnine. Varščina se vračuna v odškodnino za razlaščeno nepremičnino, če pa jo presega, se v preseženem delu vrne razlastitvenemu upravičencu. Upravni organ, pri katerem se vodi razlastitveni postopek, ne sme izdati odločbe o razlastitvi, preden mu s strani države ni predloženo dokazilo o položitvi odškodnine in varščine.
+
+(3) V notarskem zapisu ali zapisniku o prevzemu denarja v hrambo mora biti določen rok hrambe zneska iz prejšnjega odstavka do izpolnitve pogoja za izplačilo odškodnine. Kot pogoj za izplačilo razlastitvenemu zavezancu ali drugi upravičeni osebi mora biti določena predložitev sporazuma o odškodnini ali pravnomočne odločbe o razlastitvi in dokazilo, da razlastitveni zavezanec razlaščene nepremičnine nima več v posesti.

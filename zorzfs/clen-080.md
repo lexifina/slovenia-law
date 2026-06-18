@@ -1,0 +1,7 @@
+## VIII. ZAČASNI UKREPI NA PODROČJU SOFINANCIRANJA INFRASTRUKTURE
+
+# 80. člen (podaljšanje sofinanciranja gradnje odprtih širokopasovnih omrežij)
+
+(1) Sredstva za sofinanciranje gradnje javnih komunikacijskih omrežij in pripadajoče infrastrukture v skladu s predpisi, ki urejajo elektronske komunikacije, in v skladu z Uredbo o izvajanju podukrepa Podpora za širokopasovno infrastrukturo, vključno z njeno vzpostavitvijo, izboljšanjem in razširitvijo, pasivno širokopasovno infrastrukturo ter zagotavljanje dostopa do širokopasovnega interneta in rešitev v zvezi z e-upravo iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 (Uradni list RS, št. 2/20, 70/21 in 91/23; v nadaljnjem besedilu: Uredba o izvajanju podukrepa) se, če upravičenci, ki imajo z ministrstvom, pristojnim za elektronske komunikacije, oziroma z ministrstvom, pristojnim za kmetijstvo, sklenjene pogodbe o sofinanciranju gradnje odprtih širokopasovnih omrežij, zaradi posledic poplav in plazov ne morejo zaključiti gradnje do datuma, do katerega je dopustno sofinanciranje iz sredstev evropske kohezijske politike 2014–2020 oziroma do datuma iz 22. člena Uredbe o izvajanju podukrepa, zagotovijo v proračunu Republike Slovenije.
+
+(2) Ministrstvo, pristojno za elektronske komunikacije, oziroma ministrstvo, pristojno za kmetijstvo, z upravičenci, ki izkažejo, da je do zamude pri zaključku gradnje prišlo zaradi posledic poplav in plazov, sklene novo pogodbo o sofinanciranju gradnje odprtih širokopasovnih omrežij.
