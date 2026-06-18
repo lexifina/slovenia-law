@@ -1,0 +1,5 @@
+## 31. Zakon o odpravi posledic naravnih nesreč
+
+# 70. člen (dodelitev pomoči)
+
+Ne glede na 1. člen ZOPNN se za namen odprave posledic poplav in plazov pomoč upravičencem iz sektorja ribištva in akvakulture dodeli v skladu z Uredbo Komisije (EU) 2022/2473 z dne 14. decembra 2022 o razglasitvi nekaterih vrst pomoči za podjetja, ki se ukvarjajo s proizvodnjo, predelavo in trženjem ribiških proizvodov in proizvodov iz akvakulture, za združljive z notranjim trgom z uporabo členov 107 in 108 Pogodbe o delovanju Evropske unije (UL L št. 327 z dne 21. 12. 2022, str. 82), zadnjič spremenjeno z Uredbo Komisije (EU) 2023/1315 z dne 23. junija 2023 o spremembi Uredbe (EU) št. 651/2014 o razglasitvi nekaterih vrst pomoči za združljive z notranjim trgom pri uporabi členov 107 in 108 Pogodbe ter Uredbe (EU) 2022/2473 o razglasitvi nekaterih vrst pomoči za podjetja, ki se ukvarjajo s proizvodnjo, predelavo in trženjem ribiških proizvodov in proizvodov iz akvakulture, za združljive z notranjim trgom z uporabo členov 107 in 108 Pogodbe (UL L št. 167 z dne 30. 6. 2023, str. 1).

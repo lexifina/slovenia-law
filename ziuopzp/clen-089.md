@@ -1,0 +1,21 @@
+## 5. Začasni ukrepi na področju opravljanja dela tujih delavcev v Republiki Sloveniji
+
+# 89. člen (ukrep zaposlovanja in izvajanja storitev tujcev)
+
+(1) Za namen odprave in preprečitev posledic poplav in plazov ZRSZ delavcem, državljanom tretjih držav (v nadaljnjem besedilu: tuji delavci), ki za vstop in bivanje v Republiki Sloveniji ne potrebujejo vizuma skladno z zakonom, ki ureja vstop in prebivanje tujcev, izdaja dovoljenja na podlagi mednarodnega sporazuma, ki se štejejo kot soglasja za izdajo enotnega dovoljenja v skladu z zakonom, ki ureja vstop in prebivanje tujcev (v nadaljnjem besedilu: dovoljenje), in podaja soglasja k enotnim dovoljenjem v skladu z zakonom, ki ureja vstop in prebivanje tujcev, ki omogočajo zaposlitev (v nadaljnjem besedilu: soglasje). Minister, pristojen za delo, določi poklice in dejavnosti, ki so nujni za odpravo in preprečitev posledic poplav in plazov in v katerih se lahko zaposlujejo tuji delavci na podlagi tega zakona in pri tem upošteva posebne okoliščine in potrebe delodajalcev in naročnikov storitev, povezane z odpravo posledic poplav in plazov.
+
+(2) Dovoljenja in soglasja iz prejšnjega odstavka ZRSZ obravnava prednostno, in sicer v desetih dneh od prejema popolne vloge za izdajo dovoljenja ali zahtevka iz tretjega odstavka tega člena. ZRSZ v informativnem listu izrecno navede namen podaje soglasja.
+
+(3) Upravna enota, ki je pristojna za odločanje o vlogi za izdajo enotnega dovoljenja tujim delavcem, za opravljanje poklicev oziroma dejavnosti iz prvega odstavka tega člena ne glede na popolnost vloge nemudoma posreduje zahtevek za podajo soglasja, ki je označen s »Poplave 2023«, v obravnavo ZRSZ, če je k vlogi priložena veljavna potna listina, katere veljavnost je najmanj tri mesece daljša od nameravanega prebivanja v Republiki Sloveniji, potrdilo iz kazenske evidence matične države tujca, pogodba o zaposlitvi za namen odprave in preprečitve posledic poplav in plazov ter druga dokazila o izpolnjevanju pogojev, ki jih za podajo soglasja določa zakon, ki ureja zaposlovanje in delo tujcev. Zahtevek mora biti opremljen z enotno matično številko občana (v nadaljnjem besedilu: EMŠO) tujega državljana. Če zahtevek iz prejšnjega stavka ni opremljen z EMŠO tujega državljana, ZRSZ zagotovi pridobitev EMŠO tujemu državljanu, za katerega je bila vložena vloga za pridobitev enotnega dovoljenja na podlagi tega poglavja.
+
+(4) Tujec ali njegov delodajalec po izdaji dovoljenja iz prvega odstavka tega člena vloži vlogo za izdajo enotnega dovoljenja. Če je k vlogi priložena veljavna potna listina, katere veljavnost je najmanj tri mesece daljša od nameravanega prebivanja v Republiki Sloveniji, potrdilo iz kazenske evidence matične države tujca, pogodba o zaposlitvi za namen odprave in preprečitve posledic poplav in plazov ter dovoljenje, upravna enota izda potrdilo iz petega odstavka tega člena.
+
+(5) Vlogo iz tretjega in četrtega odstavka tega člena lahko vloži tujec, ki za vstop v Republiko Slovenijo ne potrebuje vizuma in ki v Republiki Sloveniji prebiva zakonito, ali njegov delodajalec, ki je za opravljanje dejavnosti, za katero se zahteva enotno dovoljenje, registriran najpozneje na dan 3. avgusta 2023. Upravna enota, pri kateri je vložena vloga, vlagatelju izda potrdilo o vloženi vlogi za izdajo enotnega dovoljenja iz tretjega in četrtega odstavka tega člena, ki tujcu dovoljuje prebivanje v Republiki Sloveniji do pravnomočne odločitve o vlogi za izdajo enotnega dovoljenja.
+
+(6) Upravna enota vloge obravnava prednostno.
+
+(7) O vlogah iz tretjega in četrtega odstavka tega člena odloča Upravna enota Celje. Vloga se lahko vloži na kateri koli upravni enoti ne glede na nameravani kraj prebivanja tujca oziroma kraj, kjer tujec prebiva, ali sedež delodajalca, ki vlaga vlogo. Upravna enota, pri kateri je vložena vloga, to nemudoma odstopi v reševanje Upravni enoti Celje.
+
+(8) Na obrazcu vloge za enotno dovoljenje iz tretjega in četrtega odstavka tega člena vlagatelj označi, da se vlaga zaradi odpravljanja posledic poplav in plazov.
+
+(9) Kadar je med tujim ponudnikom storitve in naročnikom sklenjena pogodba o izvedbi storitve na področju odprave in preprečitev posledic poplav in plazov, se za pridobitev soglasja za napotene delavce, enotnega dovoljenja za napotene delavce in začetek opravljanja dela smiselno uporabljajo določbe tega poglavja.

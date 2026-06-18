@@ -1,0 +1,3 @@
+# 72. člen (predložitev programa odprave posledic škode v gospodarstvu, ki se nanaša na škodo v primarni kmetijski proizvodnji ter sektorju ribištva in akvakulture)
+
+Ne glede na 44.c in drugi odstavek 44.č člena ZOPNN za škodo v primarni kmetijski proizvodnji ter sektorju ribištva in akvakulture za namen odprave posledic poplav in plazov program odprave posledic škode v gospodarstvu, ki se nanaša na škodo v primarni kmetijski proizvodnji ter sektorju ribištva in akvakulture, predloži vladi ministrstvo, pristojno za kmetijstvo in ribištvo, če ga prej potrdi komisija za odpravo posledic škode v kmetijstvu in da k njemu soglasje ministrstvo, pristojno za finance.

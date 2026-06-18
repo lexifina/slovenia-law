@@ -1,0 +1,3 @@
+# 73. člen (vsebina programa odprave posledic škode v gospodarstvu, ki se nanaša na škodo v primarni kmetijski proizvodnji ter sektorju ribištva in akvakulture)
+
+Ne glede na prvi odstavek 44.č člena ZOPNN se za škodo v primarni kmetijski proizvodnji ter sektorju ribištva in akvakulture za namen odprave posledic poplav in plazov določi vsebina programa odprave posledic škode v gospodarstvu tudi na kmetijskih strojih in drugi opremi za opravljanje kmetijske dejavnosti ter na strojih in opremi za opravljanje ribištva in akvakulture, ki je bila poškodovana ali uničena zaradi poplav in plazov, na zalogah v kmetijstvu in zalogah v sektorju ribištva in akvakulture, ki so bile poškodovane ali uničene zaradi poplav in plazov, ter na živalih.

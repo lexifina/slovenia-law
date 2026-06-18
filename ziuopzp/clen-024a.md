@@ -1,0 +1,11 @@
+# 24.a člen (predplačila za obnovo stanovanj)
+
+(1) Ne glede na drugi odstavek 52. člena ZJF in določbe zakona, ki ureja izvrševanje proračuna Republike Slovenije, ki urejajo predplačila, se del sredstev za obnovo v poplavah in plazovih poškodovanih ali uničenih stanovanj, v katerih je imela po podatkih centralnega registra prebivalstva stalno prebivališče na dan 31. julija 2023 vsaj ena oseba, izplača lastnikom stanovanj, ki so fizične osebe, kot predplačilo. Kot stanovanje se šteje celotna enostanovanjska stavba, stanovanjska enota v dvo ali več stanovanjski stavbi, bivalna enota v stanovanjski stavbi za posebne namene in stanovanje po Stanovanjskem zakonu (Uradni list RS, št. 69/03, 18/04 – ZVKSES, 47/06 – ZEN, 45/08 – ZVEtL, 57/08, 62/10 – ZUPJS, 56/11 – odl. US, 87/11, 40/12 – ZUJF, 14/17 – odl. US, 27/17, 59/19, 189/20 – ZFRO, 90/21, 18/23 – ZDU-1O in 77/23 – odl. US).
+
+(2) Predplačilo iz prejšnjega odstavka se za posamezno stanovanje izplača lastniku stanovanja. Če je lastnikov stanovanja več, se vsakemu izplača sorazmerni del glede na višino solastniškega deleža, v primeru skupne lastnine pa se delež določi glede na število skupnih lastnikov. Za potrebe določitve prejemnika izplačila predplačila se ministrstvu, pristojnemu za naravne vire, iz zemljiške knjige ali iz centralnega registra prebivalstva posredujejo identifikacijski podatki o lastnikih nepremičnin, vključno z enotno matično številko občana.
+
+(3) Predplačilo za posamezno stanovanje se izplača v višini 20 % ocenjene škode, zavedene v spletni aplikaciji AJDA, ob upoštevanju podatkov o površini stanovanja iz katastra nepremičnin, kadar znaša ocenjena škoda več kot 6.000 eurov.
+
+(4) Predplačil se ne izvede za stanovanja v objektih, ki jim v skladu s strokovnim mnenjem službe za obnovo po poplavah in plazovih (v nadaljnjem besedilu: služba za obnovo) grozi visoka nevarnost porušitve ali znatnega poškodovanja objekta.
+
+(5) Finančna uprava Republike Slovenije v sodelovanju z ministrstvom, pristojnim za naravne vire, pred izplačilom predplačila obvesti lastnika stanovanja o višini predplačila. Lastnik, ki ne želi prejeti sredstev predplačila, mora obvestiti ministrstvo, pristojno za naravne vire, v roku 5 dni od prejema obvestila, sicer se izplačilo predplačila izvede.

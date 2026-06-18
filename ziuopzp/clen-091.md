@@ -1,0 +1,11 @@
+# 91. člen (omogočanje opravljanja dela v Republiki Sloveniji)
+
+(1) Delodajalec, tuji delodajalec ali naročnik storitve lahko tujemu delavcu iz 89. člena tega zakona, omogoči delo za tri mesece, če tujec opravlja delo z namenom odprave in preprečitve posledic poplav in plazov na ozemlju Republike Slovenije, na podlagi izdanega dovoljenja ali podanega soglasja iz 89. člena tega zakona in potrdila o vloženi vlogi iz petega odstavka 89. člena tega zakona. Soglasje ZRSZ posreduje upravni enoti, ki je pristojna za odločanje o vlogi za enotno dovoljenje, in vlagatelju.
+
+(2) Delodajalec, tuji delodajalec ali naročnik storitve lahko tujemu delavcu iz 89. člena tega zakona omogoči delo tudi po poteku roka iz prejšnjega odstavka, in sicer do pravnomočne odločitve o vlogi za izdajo enotnega dovoljenja, če tujec opravlja delo z namenom odprave in preprečitve posledic poplav in plazov na ozemlju Republike Slovenije, na podlagi izdanega dovoljenja ali podanega soglasja iz 89. člena tega zakona in potrdila o vloženi vlogi iz petega odstavka 89. člena tega zakona.
+
+(3) Naročnik storitve po tem poglavju je pravna oseba ali posameznik, registriran za opravljanje dejavnosti v Republiki Sloveniji oziroma vpisan v register kmetijskih gospodarstev v Republiki Sloveniji, za katerega tuji delodajalec v skladu z zakonom, ki ureja zaposlovanje in delo tujcev, ali druga pravna oseba ali posameznik, registriran za opravljanje dejavnosti v Republiki Sloveniji oziroma vpisan v register kmetijskih gospodarstev v Republiki Sloveniji (v nadaljnjem besedilu: izvajalec storitve), izvaja določeno storitev zaradi odprave in preprečitve posledic poplav in plazov z zaposlenimi tujimi delavci, ki delo opravljajo v skladu z določbami tega poglavja.
+
+(4) Naročnik storitve mora pred začetkom izvajanja storitve iz prejšnjega odstavka pri izvajalcu storitve preveriti, da ima tuji delavec izdano dovoljenje ali podano soglasje iz devetega odstavka 89. člena tega zakona in potrdilo o vloženi vlogi iz petega odstavka 89. člena tega zakona ter urejeno obvezno socialno zavarovanje.
+
+(5) Vse stroške v postopku izdaje enotnih dovoljenj, ki so izdana na podlagi soglasja po tem poglavju, krije delodajalec ali tuji delodajalec.
