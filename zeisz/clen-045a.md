@@ -1,0 +1,11 @@
+# 45.a člen (pooblastilo v elektronski obliki)
+
+(1) Pooblastilo v elektronski obliki iz četrte alineje prvega odstavka prejšnjega člena pripravi pooblastitelj ali pooblaščenec prek centralne storitve za spletno prijavo in elektronski podpis ter vsebuje podatke o pooblastitelju in pooblaščencu, obsegu in času trajanja pooblastila. Pooblastilo podpiše pooblastitelj s kvalificiranim elektronskim podpisom.
+
+(2) Pooblastilo iz prejšnjega odstavka lahko pooblastitelj poda tudi osebno pri organu, pristojnem za sprejem pooblastil. Istovetnost pooblastitelja ugotovi uradna oseba na podlagi veljavne javne listine, opremljene s fotografijo, ki jo je izdal državni organ. Pooblastitelj pooblastilo podpiše pred osebo iz prejšnjega stavka na mesto, ki je za to predvideno na pooblastilu.
+
+(3) Uradna oseba iz prejšnjega odstavka vnese podatke iz pooblastila v evidenco pooblastil iz prvega odstavka 46.a člena tega zakona in s svojim kvalificiranim elektronskim podpisom potrdi obstoj pooblastila iz prejšnjega odstavka.
+
+(4) Organi, pristojni za sprejem pooblastil iz drugega odstavka tega člena, so upravne enote. Če se zaradi povečanega pripada zadev na določenem vsebinskem področju izkaže potreba za določitev dodatnih organov, lahko Vlada z uredbo določi tudi druge organe, pristojne za sprejem pooblastil.
+
+(5) Preklic ali odpoved pooblastila iz tega člena lahko izvede pooblastitelj ali pooblaščenec prek centralne storitve za spletno prijavo in elektronski podpis ali na način in z izjavo pred uradno osebo iz drugega odstavka tega člena. Če je bilo pooblastilo, ki je predmet preklica ali odpovedi, posredovano v katero od drugih informacijskih rešitev iz četrtega odstavka 46.a člena tega zakona, centralna storitev za spletno prijavo in elektronski podpis zagotovi posredovanje preklica ali odpovedi pooblastila v to informacijsko rešitev. Prav tako centralna storitev za spletno prijavo in elektronski podpis zagotovi posredovanje informacije o brisanju pooblastila, izvedenem na podlagi sedmega odstavka 46.a člena tega zakona, v informacijsko rešitev iz četrtega odstavka 46.a člena tega zakona, če je bilo pooblastilo posredovano v to informacijsko rešitev. Posredovanje se izvede, če je to tehnično mogoče.
