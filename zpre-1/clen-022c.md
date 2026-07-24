@@ -1,0 +1,5 @@
+# 22.c člen (izvrševanje glasovalnih pravic zaradi zaščite javnega interesa)
+
+(1) Oseba ali osebe, ki delujejo usklajeno, in jim je bilo z odločbo agencije prepovedano izvrševanje glasovalnih pravic v ciljni družbi, lahko ob predhodni pridobitvi soglasja agencije izvršujejo glasovalne pravice iz delnic, katerih imetnice so, pri glasovanju na skupščini ciljne družbe o predlogih sklepov, ki so nujno potrebni za zaščito javnega interesa (na primer: varnost ali obramba države, javna varnost, varnost življenja, zdravja in premoženja ljudi, delovanje ekonomskega sistema).
+
+(2) Soglasje iz prejšnjega odstavka izda agencija na podlagi obrazloženega predloga osebe ali oseb, ki želijo izvrševanje glasovalne pravice. Predlog mora biti vložen najmanj deset delovnih dni pred skupščino, na kateri želi vlagatelj uresničevati glasovalne pravice. Soglasje izda agencija z odločbo, po postopku, ki ga za izdajo dovoljenj agencije določa zakon, ki ureja trg finančnih instrumentov. Agencija izda odločbo najkasneje do začetka skupščine, na kateri želi oseba ali osebe izvrševati glasovalne pravice.

@@ -1,0 +1,3 @@
+ZAKON
+
+O PREVZEMIH (ZPre-1)
