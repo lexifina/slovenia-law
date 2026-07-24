@@ -1,0 +1,17 @@
+# 695. člen (postopek prehoda na euro delniških družb)
+
+(1) O prehodu osnovnega kapitala in nominalnih zneskov delnic na euro odloča skupščina z navadno večino pri sprejemanju sklepa zastopanega osnovnega kapitala, ne glede na drugi odstavek 329. člena tega zakona ali statuta. Za prijavo in vpis prehoda na euro v register se ne uporabijo določbe tretjega stavka prvega odstavka in drugi odstavek 332. člena tega zakona.
+
+(2) O povečanju osnovnega kapitala iz sredstev delniške družbe ali zmanjšanju osnovnega kapitala v obsegu, ki je potreben, da se nominalni zneski delnic glasijo na najbližji višji ali nižji cel euro, odloča skupščina z navadno večino pri sprejemanju sklepa zastopanega osnovnega kapitala, ne glede na določbo prvega stavka drugega odstavka 358. člena, prvega odstavka 333. člena in 372. člena tega zakona ali statuta, vendar mora biti pri sprejetju sklepa o zmanjšanju osnovnega kapitala zastopana najmanj polovica osnovnega kapitala. Enaka večina velja tudi za sklepe o ustrezni prilagoditvi odobrenega kapitala in razdelitvi delnic pri nespremenjenem osnovnem kapitalu, ki so povezani s spreminjanjem osnovnega kapitala.
+
+(3) Povečanje osnovnega kapitala iz sredstev delniške družbe ali zmanjšanje osnovnega kapitala se lahko izvede s povečanjem ali zmanjšanjem nominalnega zneska delnic ali z novo porazdelitvijo nominalnih zneskov delnic. Z novo porazdelitvijo nominalnih zneskov delnic morajo soglašati tisti delničarji, ki so v celoti vplačali delnice in na katere ne odpadejo njihovemu deležu ustrezno celo število delnice ali odpade manjše število delnic kot prej. Za soglasje delničarjev se smiselno uporabljajo določbe 606. člena tega zakona.
+
+(4) Delnice, izdane iz pogojnega kapitala po bilančnem presečnem dnevu zadnjega poslovnega leta, veljajo pri izračunu zneskov kapitalskega povečanja iz sredstev delniške družbe in pri sprejetju sprememb statuta za prehod na euro za izdane šele po njihovem vpisu v register. Delnice, ki so ali bodo izdane iz pogojnega kapitala, so udeležene pri spremembi nominalnih zneskov.
+
+(5) Za povečanje osnovnega kapitala iz sredstev delniške družbe po drugem odstavku tega člena se lahko ne glede na določbe tretjega in desetega odstavka 64. in prvega odstavka 359. člena tega zakona v osnovni kapital pretvorijo tudi kapitalske rezerve in zakonske rezerve ter njihovo povečanje, čeprav skupaj ne presegajo desetine ali v statutu določenega višjega deleža dotedanjega osnovnega kapitala. Zneski, pridobljeni pri zmanjšanju osnovnega kapitala po drugem odstavku tega člena, se izkažejo v kapitalskih rezervah.
+
+(6) Pri postopku prehoda na euro se ne uporablja določba drugega stavka prvega odstavka 244. člena tega zakona.
+
+(7) Delnice se v postopku prehoda na euro zamenjajo z delnicami v nematerializirani obliki. Določbe tega zakona, ki se nanašajo na delniške listine oziroma delnice, ki so izdane kot pisne listine, se uporabljajo do uskladitve delnic z določbami 182. člena tega zakona. Ne glede na določbo 182. člena tega zakona so lahko do dne uvedbe eura delnice izražene tudi v materializirani obliki.
+
+(8) Za delniške družbe, ki bodo v letu 2006 na skupščinah za poslovno leto 2005 odločanju o uporabi bilančnega dobička in razrešnici pridružile tudi odločanje o prilagoditvi zneskov iz 171. in drugega odstavka 172. člena tega zakona na euro in o njihovi uskladitvi s tem zakonom, ne velja določba šestega stavka tretjega odstavka 294. člena tega zakona. Temu se smiselno prilagodi tudi uporaba določb 58. člena tega zakona o javni objavi.

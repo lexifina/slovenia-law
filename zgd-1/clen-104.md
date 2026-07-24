@@ -1,0 +1,7 @@
+# 104. člen (predlagalna dolžnost pri plačilni nesposobnosti ali prezadolženosti)
+
+(1) Če postane družba, pri kateri ni noben družbenik fizična oseba, plačilno nesposobna ali prezadolžena, je treba predlagati začetek stečajnega postopka ali postopek prisilne poravnave; to ne velja, če je med družbeniki družbe druga družba z neomejeno odgovornostjo ali komanditna družba, pri kateri je vsaj en osebno odgovorni družbenik fizična oseba. Postopek morajo predlagati zastopniki družbe ali likvidacijski upravitelji. Predlog je treba dati brez odlašanja, najpozneje pa v treh tednih po nastanku dejstva, ki se nanaša na plačilno nesposobnost ali prezadolženost družbe in ga posebni zakon določa kot razlog za uvedbo stečajnega postopka.
+
+(2) Potem ko nastopi plačilna nesposobnost družbe ali ko se pokaže njena prezadolženost, pooblaščeni zastopniki družbe ali likvidacijski upravitelji ne smejo več izvesti nobenih plačil za družbo, razen plačil, ki so tudi po tem času v skladu s skrbnim in poštenim poslovanjem.
+
+(3) Zaradi kršitve določb prejšnjega odstavka so družbeniki solidarno odškodninsko odgovorni, razen če dokažejo, da so poslovali vestno in pošteno. Odškodninska odgovornost se z dogovorom med družbeniki ne more niti omejiti niti izključiti. Če je nadomestilo potrebno za poplačilo upnikov družbe, odškodninska obveznost ne preneha niti z odrekom ali pobotom družbe niti s tem, da dejanje temelji na sklepu družbenikov.

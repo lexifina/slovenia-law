@@ -1,0 +1,5 @@
+# 368. člen (začetek udeležbe pri dobičku)
+
+(1) Če ni določeno drugače, nove delnice sodelujejo pri dobičku celega poslovnega leta, v katerem je bil sprejet sklep o povečanju osnovnega kapitala.
+
+(2) V sklepu o povečanju osnovnega kapitala se lahko določi, da nove delnice sodelujejo že pri dobičku zadnjega poslovnega leta, preteklega pred sklepanjem o povečanju kapitala. V tem primeru se sklep o povečanju osnovnega kapitala sprejme pred sprejetjem sklepa o uporabi dobička zadnjega poslovnega leta, preteklega pred sklepanjem o povečanju osnovnega kapitala. Sklep o uporabi dobička začne veljati šele, ko je osnovni kapital povečan in so dodatne delnice izdane. Sklep o povečanju osnovnega kapitala in sklep o uporabi dobička sta nična, če sklep o povečanju osnovnega kapitala v treh mesecih po sprejetju ni vpisan v register. Ta rok ne teče, dokler teče na sodišču izpodbojna ali ničnostna tožba ali dokler še ni izdano dovoljenje državnega organa, če je to potrebno za povečanje osnovnega kapitala.

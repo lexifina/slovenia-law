@@ -1,0 +1,5 @@
+# 495. člen (ohranjanje osnovnega kapitala)
+
+(1) Premoženje, ki je potrebno za ohranitev osnovnega kapitala in vezanih rezerv, se družbenikom ne sme izplačati. V premoženje, ki je potrebno za ohranitev najnižjega zneska osnovnega kapitala iz 475. člena tega zakona, se ne štejejo posojila družbe družbeniku ali poslovodji ali njegovemu družinskemu članu, kot je opredeljen v drugem odstavku 270.a člena tega zakona, ali pravni osebi, v kateri ima družbenik ali poslovodja ali njegov družinski član ali vsi skupaj najmanj desetino upravljavskih pravic. Posojilo družbe iz prejšnjega stavka ter drug pravni posel, s katerim se doseže enak učinek, je ničen.
+
+(2) Družbenikom se lahko vrnejo vplačana naknadna vplačila, ki niso namenjena kritju osnovnega kapitala ob izgubi. Vračilo se ne sme opraviti prej kot tri mesece od dne, ko je bil sklep o vračilu objavljen na predpisan način. Če gre za naknadna vplačila pred popolnim vplačilom osnovnega vložka iz drugega odstavka 492. člena tega zakona, je vračilo naknadnih vplačil pred popolnim vplačilom osnovnega vložka nično. Za vrnjena naknadna vplačila se šteje, da niso bila vplačana.

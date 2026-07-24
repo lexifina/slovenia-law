@@ -1,0 +1,3 @@
+# 72.b člen (prenos dela podjetja na podjetnika prevzemnika)
+
+Za prenos dela podjetja podjetnika se smiselno uporabljajo določbe 72.a člena tega zakona, razen določbe druge alineje tretjega odstavka, določb petega odstavka glede izrecnega soglasja podjetnika, glede uporabe imena in priimka podjetnika in matične številke ter šestega odstavka glede izbrisa podjetnika po uradni dolžnosti in glede prenehanja opravljanja dejavnosti.

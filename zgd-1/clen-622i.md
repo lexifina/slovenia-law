@@ -1,0 +1,17 @@
+# 622.i člen (izključitev razlogov za izpodbijanje, posebni primeri sodnega preizkušanja menjalnega razmerja)
+
+(1) Sklepa skupščine, ki je odločila o soglasju za čezmejno združitev, ni mogoče izpodbijati iz razlogov iz 604. člena tega zakona.
+
+(2) Kadar so pri čezmejni združitvi udeležene družbe iz držav članic, v katerih pravni red ne ureja postopka za sodni preizkus menjalnega razmerja, sklepa skupščine, ki je odločila o soglasju za čezmejno združitev, ni mogoče izpodbijati iz razlogov iz 604. člena tega zakona le če skupščine vseh družb s sedežem v drugih državah članicah, ki se čezmejno združujejo, v katerih pravni red ne ureja postopka za sodni preizkus menjalnega razmerja, pri sprejemanju sklepa o soglasju za čezmejno združitev izrecno soglašajo, da:
+
+1. lahko imetniki deležev družbe s sedežem v Republiki Sloveniji predlagajo sodni preizkus menjalnega razmerja proti družbi, ki izide iz čezmejne združitve, s sedežem v Republiki Sloveniji, ali
+
+2. lahko imetniki deležev prevzete družbe s sedežem v Republiki Sloveniji v Republiki Sloveniji predlagajo sodni preizkus menjalnega razmerja proti družbi, ki izide iz čezmejne združitve, s sedežem v drugi državi članici na način in pod pogoji iz 605. do 615. člena tega zakona.
+
+(3) V primeru iz 2. točke prejšnjega odstavka lahko predlog za sodni preizkus menjalnega razmerja vložijo le tisti imetniki deležev, ki so na skupščini, ki je odločala o soglasju za čezmejno združitev, na zapisnik napovedali vložitev predloga za sodni preizkus menjalnega razmerja ali ki so vložitev tega predloga družbi napovedali v mesecu dni po sprejetju sklepa o soglasju za čezmejno združitev. V potrdilu iz sedmega odstavka 622.k člena tega zakona je treba navesti, ali in kateri imetniki deležev so napovedali vložitev predloga za sodni preizkus menjalnega razmerja.
+
+(4) Imetniki deležev posamezne prevzete družbe s sedežem v drugi državi članici lahko vložijo predlog za sodni preizkus menjalnega razmerja, če:
+
+1. iz potrdila, ki je bilo izdano za to družbo, izhaja, da so se imetniki deležev veljavno odpovedali pravici izpodbijati sklep skupščine o soglasju za čezmejno združitev iz razlogov v zvezi z menjalnim razmerjem, in
+
+2. vse prevzete družbe s sedeži v drugih državah članicah soglašajo z vložitvijo predloga za sodni preizkus menjalnega razmerja.

@@ -1,0 +1,15 @@
+# 59. člen (pošiljanje podatkov iz letnih poročil)
+
+(1) Družbe in podjetniki, razen podjetnikov, ki so po določbah o obdavčitvi dohodkov iz dejavnosti zakona, ki ureja dohodnino, obdavčeni na podlagi ugotovljenega dobička z upoštevanjem normiranih odhodkov, morajo v treh mesecih po koncu koledarskega leta poslati AJPES podatke iz letnih poročil o svojem premoženjskem in finančnem poslovanju ter poslovnem izidu za državno statistiko ter druge evidenčne, analitsko-informativne, raziskovalne in davčne namene.
+
+(2) Družbe in podjetniki iz tretjega odstavka prejšnjega člena, katerih poslovno leto je enako koledarskemu letu, lahko izpolnijo obveznost iz tretjega odstavka prejšnjega člena tako, da ob predložitvi podatkov v skladu s prejšnjim odstavkom navedejo, naj se podatki iz letnega poročila uporabijo tudi za javno objavo.
+
+(3) Družbe in podjetniki iz petega odstavka 54. člena tega zakona ter družbe iz 68. člena tega zakona morajo predložiti podatke iz bilance stanja in izkaza poslovnega izida oziroma zaključnega poročila AJPES v elektronski obliki zaradi nadaljnje obdelave podatkov za državno statistiko ter druge evidenčne, analitsko-informativne, raziskovalne in davčne namene. Družbe in podjetniki iz petega odstavka 54. člena tega zakona lahko ob predložitvi podatkov iz bilance stanja in izkaza poslovnega izida izpolnijo svojo obveznost iz trinajstega odstavka prejšnjega člena tako, da ob predložitvi podatkov iz tega odstavka navedejo, naj se podatki uporabijo tudi za javno objavo.
+
+(4) AJPES lahko podatke iz letnih poročil o premoženjskem in finančnem položaju ter poslovnem izidu družb in podjetnikov uporabi samo za izdelavo uskupinjenih informacij o gospodarskih gibanjih. Podatkov o posamezni družbi ali podjetniku ne sme dati drugim osebam ali jih javno objavljati. Ne glede na prejšnji stavek mora AJPES ministrstvu, pristojnemu za finance ali gospodarstvo, na njegovo zahtevo poslati podatke o posamezni družbi ali podjetniku.
+
+(5) AJPES mora podatke, ki so po zakonu, ki ureja davčni postopek, del davčnega obračuna, avtomatično posredovati Finančni upravi Republike Slovenije v roku in na način, ki ga predpiše minister, pristojen za finance. Šteje se, da so s tem družbe in podjetniki oddali del davčnega obračuna.
+
+(6) Ne glede na četrti odstavek tega člena mora AJPES podatke iz prvega in tretjega odstavka tega člena poslati v ustrezni elektronski obliki državnim organom in pravnim osebam, ki so z zakonom pooblaščene za pridobivanje in uporabo teh podatkov za evidenčne, analitsko-informativne, raziskovalne in davčne namene. Državnim organom, Banki Slovenije in članom Ekonomsko-socialnega sveta mora te podatke dati brezplačno, pravnim osebam pa za plačilo dejanskih stroškov obdelave ali dajanja podatkov.
+
+(7) Družbe iz prvega in osmega odstavka 57. člena tega zakona morajo hkrati s predložitvijo revidiranega letnega poročila oziroma preiskanih letnih računovodskih izkazov v spletni aplikaciji AJPES potrditi pravilnost podatkov, predloženih po tem členu, ali popraviti tiste podatke, ki so se spremenili po opravljeni reviziji oziroma preiskavi letnih računovodskih izkazov.

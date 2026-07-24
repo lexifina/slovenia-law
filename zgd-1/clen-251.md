@@ -1,0 +1,3 @@
+# 251. člen (pridobivanje lastnih delnic prek tretjih oseb)
+
+Kdor posluje v lastnem imenu, vendar za račun družbe, sme pridobivati ali imeti delnice družbe le, če bi bilo to družbi dovoljeno v skladu s prvo do šesto in osmo alinejo prvega odstavka in drugim odstavkom 247. člena tega zakona. To velja tudi, če delnice družbe pridobiva ali ima od nje odvisna družba ali družba, v kateri ima družba večinski delež, in tudi če jih pridobiva ali ima tretja oseba, ki posluje v lastnem imenu, vendar za račun odvisne družbe ali družbe, v kateri ima večinski delež. Pri izračunu skupnega deleža delnic v skladu z drugim odstavkom 247. in 250. člena tega zakona, veljajo te delnice za delnice družbe. Tretja oseba ali družba mora družbi na njeno zahtevo prodati delnice.

@@ -1,0 +1,11 @@
+# 661.g člen (ponudba denarne odpravnine v načrtu čezmejnega preoblikovanja)
+
+(1) Vsak imetnik deležev, ki je na skupščini na zapisnik ugovarjal sklepu o soglasju za čezmejno preoblikovanje, lahko od družbe ali od druge osebe, ki se je zavezala plačati denarno odpravnino, zahteva, da prevzame njegove deleže za plačilo primerne denarne odpravnine. To pravico ima tudi imetnik deležev, ki se skupščine ni udeležil, če mu je bila protipravno preprečena udeležba na skupščini ali če skupščina ni bila pravilno sklicana ali če predmet odločanja na skupščini ni bil pravilno objavljen. Imetnik deležev, ki je bil navzoč na skupščini, ki se je izvedla kot elektronska ali virtualna skupščina, lahko ugovarja sklepu o soglasju za čezmejno združitev z uporabo elektronskih sredstev najpozneje v 24 urah po začetku skupščine. Družba določi elektronski naslov, na katerega lahko imetniki deležev pošljejo zahtevke iz tega odstavka.
+
+(2) Ponudba denarne odpravnine veže ponudnika do izteka enega meseca od dneva sprejetja sklepa o soglasju za čezmejno preoblikovanje. Ponudba denarne odpravnine vsebuje odložni pogoj, ki nastopi, ko je čezmejno preoblikovanje vpisano v register. Rok za plačilo denarne odpravnine je dva meseca po vpisu čezmejnega preoblikovanja v register. Obveznost plačati denarno odpravnino zastara v treh letih po objavi vpisa čezmejnega preoblikovanja v register. Stroške v zvezi s prevzemom deležev krije družba ali druga oseba, ki je v načrtu čezmejnega preoblikovanja prevzela obveznost plačati denarno odpravnino.
+
+(3) Upravičencem do denarne odpravnine iz prvega odstavka tega člena je treba za izpolnitev obveznosti plačila denarne odpravnine dati ustrezno zavarovanje.
+
+(4) Registrski organ lahko potrdilo iz sedmega odstavka 661.j člena tega zakona izda šele, ko ugotovi, da je bilo za izpolnitev obveznosti plačila denarne odpravnine dano ustrezno zavarovanje ali da so se vsi upravičenci do denarne odpravnine tej odpovedali.
+
+(5) Če statut določa, da je za prenos deležev potrebno dovoljenje družbe ali imetnikov deležev, se lahko deleži od dneva sprejetja sklepa o soglasju za čezmejno preoblikovanje do izteka roka za sprejem ponudbe denarne odpravnine prenašajo brez dovoljenja.

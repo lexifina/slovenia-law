@@ -1,0 +1,15 @@
+# 70.b člen (poročilo o plačilih vladam)
+
+(1) Ta člen velja za velike družbe, katerih dejavnost zajema raziskovanje, iskanje, odkrivanje, razvijanje in izkoriščanje zalog mineralov, nafte, zemeljskega plina ali drugih materialov v okviru gospodarskih dejavnosti, navedenih v oddelkih od 05 do 08 področja B Priloge Uredbe o standardni klasifikaciji dejavnosti (Uradni list RS, št. 27/24 in 45/25; v nadaljnjem besedilu: Uredba o standardni klasifikaciji dejavnosti), in za družbe, ki opravljajo dejavnosti v sektorju izkoriščanja pragozdov, navedenimi v skupini 02.2 oddelka 02 področja A Priloge Uredbe o standardni klasifikaciji dejavnosti. Ta člen velja tudi za velike družbe, ki ne opravljajo dejavnosti iz prejšnjega stavka, opravlja pa jih katera izmed njihovih odvisnih družb.
+
+(2) Družba iz prejšnjega odstavka mora pripraviti in objaviti v skladu z 58. členom tega zakona poročilo o vseh plačilih državnim, regionalnim ali lokalnim organom države članice ali tretjih držav v zvezi z opravljanjem dejavnosti iz prejšnjega odstavka. Plačila morajo biti razkrita za vsako državo posebej. Poročilo se lahko pripravi samo v obliki konsolidiranega poročila, če je obvladujoča družba iz države članice. V poročilu ni treba navajati plačil, ki v okviru poslovnega leta enkratno ali v več posameznih plačilih ne presegajo 100.000 eurov.
+
+(3) V poročilu je potrebno v zvezi z opravljanjem dejavnosti iz prvega odstavka tega člena razkriti:
+
+- skupni znesek vseh opravljenih plačil posameznim organom iz prejšnjega odstavka in
+
+- skupni znesek plačil posameznim organom iz prejšnjega odstavka po posameznih postavkah: upravičenosti do proizvodnje; davki (brez davkov zaračunanih na potrošnjo); licenčnine; dividende; dodatki za sklenitev pogodbe, odkritje in proizvodnjo; nadomestila za licence ali koncesije ter plačila za izboljšanje infrastrukture.
+
+(4) Če so plačila iz prejšnjega odstavka namenjena za posamezni projekt, je treba razkriti plačila za vsak tak projekt posebej. Če se plačilo izvede v naravi, se v poročilu navede vrednost, pri čemer se pojasni način določitve njegove vrednosti.
+
+(5) Družbe iz prvega odstavka tega člena, ki so zavezane h konsolidaciji po 56. členu tega zakona, morajo pripraviti konsolidirano poročilo o plačilih vladam. Določbe o obliki, vsebini in objavi poročila o vseh plačilih državnim, regionalnim in lokalnim organom se smiselno uporabljajo za konsolidirano poročilo.

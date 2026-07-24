@@ -1,0 +1,7 @@
+# 262.a člen (pogodba o svetovanju)
+
+(1) Pogodba, s katero se član nadzornega sveta ali upravnega odbora ali njegov družinski član zaveže opraviti svetovalne storitve za družbo ali od nje odvisno družbo, ki ne spadajo v okvir izvajanja nadzorne funkcije, ima pravni učinek, če z njo soglaša nadzorni svet ali upravni odbor. Enako velja za svetovalne storitve, ki jih za družbo ali od nje odvisno družbo opravi družba ali druga pravna oseba, ki jo član nadzornega sveta oziroma upravnega odbora ali njegov družinski član posredno ali neposredno obvladuje oziroma je udeležen pri njenem skupnem obvladovanju, ali v kateri je zakoniti zastopnik ali član organa nadzora ali izvršni direktor ali družbenik, če je družba osebna družba. Soglasje nadzornega sveta ali upravnega odbora ni potrebno, če sta družbi povezani družbi, razen v primeru poslov iz prvega odstavka 281.c člena tega zakona.
+
+(2) Za družinskega člana se šteje oseba, opredeljena v drugem odstavku 270.a člena tega zakona.
+
+(3) Plačila, ki jih družba izvrši na podlagi pogodbe iz prvega odstavka tega člena, h kateri nadzorni svet ali upravni odbor ni dal soglasja, je treba vrniti, razen če nadzorni svet ali upravni odbor pogodbo pozneje odobri. Izvajalcu storitev ostane zahtevek iz naslova neupravičene obogatitve, ki pa ga ni mogoče pobotati z zahtevkom družbe za vračilo plačila.

@@ -1,0 +1,9 @@
+# 235.d člen (obdelava osebnih podatkov delničarjev in popravek informacije o delničarju družbe)
+
+(1) Družbe in posredniki smejo osebne podatke delničarjev iz prvega odstavka 235.b člena tega zakona obdelovati za namen identifikacije delničarjev, ugotavljanja dejanskih lastnikov v skladu z določbami zakona, ki ureja preprečevanje pranja denarja in financiranja terorizma, komuniciranja družbe z delničarji, uresničevanja pravic delničarjev in sodelovanja delničarjev z družbo.
+
+(2) Družbe in posredniki smejo osebne podatke delničarjev hraniti največ 12 mesecev po tem, ko so se seznanili, da oseba ni več delničar družbe, razen če drug zakon določa daljši rok hrambe. Družbe lahko osebne podatke delničarjev hranijo dlje od roka iz prejšnjega stavka, če je to potrebno za vodenje pravnih postopkov.
+
+(3) Posrednik, za katerega velja obveznost posredovanja informacije o delničarju družbe iz 235.b člena tega zakona, ne krši pogodbenih obveznosti ali obveznosti po zakonu, če razkrije informacije o delničarju družbe družbi ali drugim posrednikom v verigi.
+
+(4) Kdor je bil z nepopolnimi ali nepravilnimi informacijami identificiran kot delničar družbe, lahko od družbe in od posrednika, ki je predložil te informacije, zahteva takojšnji popravek.

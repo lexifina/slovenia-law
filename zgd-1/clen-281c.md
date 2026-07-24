@@ -1,0 +1,19 @@
+# 281.c člen (soglasje nadzornega sveta k poslom s povezanimi strankami)
+
+(1) K poslom družbe, s katere vrednostnimi papirji se trguje na organiziranem trgu, s povezanimi strankami mora predhodno dati soglasje nadzorni svet, če vrednost posla presega 2,5 odstotka vrednosti sredstev (aktive), izkazane v bilanci stanja iz zadnjega potrjenega letnega poročila.
+
+(2) Soglasje nadzornega sveta je obvezno tudi, če vrednost posla skupaj z vrednostjo vseh poslov, opravljenih z isto stranko v zadnjih 12 mesecih, presega vrednostni prag iz prejšnjega odstavka.
+
+(3) Če mora družba pripraviti konsolidirano letno poročilo, se vrednostni prag iz prvega odstavka tega člena ugotavlja glede na vrednost sredstev (aktive), izkazane v konsolidirani bilanci stanja.
+
+(4) Član nadzornega sveta, ki je kot povezana stranka udeležen pri poslu, ne sodeluje pri odločanju o soglasju iz prvega in drugega odstavka tega člena.
+
+(5) Če nadzorni svet zavrne soglasje, lahko uprava zahteva, da o soglasju odloči skupščina. Pri odločanju o soglasju pri poslu udeležena povezana stranka ne sme izvrševati glasovalne pravice. Za sklep, s katerim skupščina da soglasje, je potrebna večina najmanj treh četrtin oddanih glasov.
+
+281.č člen
+
+(postopek odločanja nadzornega sveta o soglasju k poslom s povezanimi strankami)
+
+(1) Predlog odločitve o soglasju iz prvega odstavka prejšnjega člena oblikuje revizijska komisija. Predlog mora vsebovati tudi oceno, da je posel z vidika družbe in delničarjev, ki niso povezane stranke, vključno z manjšinskimi delničarji, pošten in razumen. Pri oblikovanju predloga ne sme sodelovati član te komisije, ki je udeležen pri poslu ali pri katerem obstaja nevarnost nasprotja interesov zaradi njegovega razmerja s povezano stranko.
+
+(2) Če revizijska komisija predlaga zavrnitev soglasja ali soglasja ne more oblikovati, ker je član komisije udeležen pri poslu ali pri njem obstaja nevarnost nasprotja interesov zaradi njegovega razmerja s povezano stranko, lahko nadzorni svet odloči, da soglaša s poslom le v primeru, če neodvisna tretja stranka izda poročilo z oceno, da je posel z vidika družbe in delničarjev, ki niso povezane stranke, vključno z manjšinskimi delničarji, pošten in razumen. Poročilo mora vsebovati pojasnilo predpostavk, na katerih temelji, ter navedbo uporabljenih metod.

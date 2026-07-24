@@ -1,0 +1,3 @@
+# 666. člen (preoblikovanje zavodov v gospodarske družbe)
+
+Za preoblikovanje zavodov v gospodarske družbe se smiselno uporabljajo določbe tega zakona o preoblikovanju delniške družbe v druge družbe, s tem da je za sklep o preoblikovanju poleg sklepa pristojnega organa zavoda v skladu z aktom o ustanovitvi ali statutom potrebno še soglasje ustanoviteljev, katerih ustanoviteljski deleži znašajo devet desetin, in družbenika, ki bo v družbi po preoblikovanju odgovarjal za obveznosti družbe z vsem svojim premoženjem. Za ustanovitelje, ki niso glasovali za sklep o preoblikovanju, se smiselno uporabljajo določbe 651. člena tega zakona.

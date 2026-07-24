@@ -1,0 +1,3 @@
+# 593. člen (varstvo imetnikov posebnih pravic)
+
+Če je prevzeta družba izdala zamenljive obveznice, obveznice s pravico do prednostnega nakupa delnic ali dividendne obveznice ali posameznim osebam drugače zagotovila posebne pravice do udeležbe pri dobičku, je treba imetnikom teh pravic zagotoviti enakovredne pravice v prevzemni družbi. Če prevzemna družba ne zagotovi enakovrednih pravic, lahko vsak imetnik posebne pravice od prevzemne družbe zahteva denarno doplačilo. Za postopek določitve denarnega doplačila, do katerega so upravičeni imetniki posebnih pravic, se smiselno uporabljajo določbe drugega odstavka 605. člena in 606. do 615. člena, razen drugega stavka četrtega odstavka 607. in drugega do šestega odstavka 612. člena tega zakona.

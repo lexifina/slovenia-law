@@ -1,0 +1,7 @@
+# 254.d člen (pravice neizbranega kandidata)
+
+(1) Kandidat, ki je oseba manj zastopanega spola in ni bil izbran za imenovanje člana organa vodenja ali nadzora ali izvršnega direktorja (v nadaljnjem besedilu: neizbrani kandidat), lahko v primeru iz prejšnjega člena od družbe zavezanke zahteva podatke o merilih in pogojih izbirnega postopka, o objektivni primerjalni oceni kandidatov glede izpolnjevanja meril in pogojev oziroma o utemeljenosti izjeme.
+
+(2) Kadar neizbrani kandidat v postopku pri zagovorniku, pristojni inšpekciji ali pri drugem pristojnem organu, v katerem zahteva obravnavo postopka, izkaže dejstva, na podlagi katerih navedeni pristojni organi upravičeno domnevajo, da je bil neizbrani kandidat enako kvalificiran kot izbrani kandidat, mora družba zavezanka dokazati, da v obravnavanem primeru ni bil kršen prvi odstavek prejšnjega člena. Če se domneva iz prejšnjega stavka dokazuje v postopku pred sodiščem, mora družba zavezanka v tem sodnem postopku dokazati, da v obravnavanem primeru ni bil kršen prvi odstavek prejšnjega člena.
+
+(3) Če je bila v izbirnem postopku za imenovanje kandidata na prosto mesto v nasprotju s prvim odstavkom prejšnjega člena imenovana oseba, ki ni oseba manj zastopanega spola, se ne glede na 392. člen tega zakona imenovanje šteje za veljavno, neizbrani kandidat pa ima pravico do odškodnine po splošnih pravilih civilnega prava in pravico do nadomestila zaradi diskriminacije v skladu z zakonom, ki ureja varstvo pred diskriminacijo.

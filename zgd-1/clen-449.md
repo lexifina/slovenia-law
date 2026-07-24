@@ -1,0 +1,3 @@
+# 449. člen (pravica delničarjev zahtevati prevzem delnic za plačilo denarne odpravnine)
+
+Vsak delničar, ki na skupščini, ki odločala o soglasju za združitev, na zapisnik ugovarja sklepu o soglasju za združitev, lahko od družbe ali druge osebe, ki je v pogodbi o združitvi prevzela obveznost plačati denarno odpravnino, zahteva, da prevzame njegove delnice za plačilo denarne odpravnine. To pravico ima tudi delničar, ki se skupščine ni udeležil, če mu je bila protipravno preprečena udeležba na skupščini, ali če skupščina ni bila pravilno sklicana, ali če predmet odločanja na skupščini ni bil pravilno objavljen. Za pravico delničarjev zahtevati prevzem delnic za plačilo denarne odpravnine se smiselno uporabljajo določbe 440. in 441. člena tega zakona.
