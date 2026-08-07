@@ -1,0 +1,3 @@
+# 72. člen (sodelovanje z nadzornimi organi tretjih držav)
+
+V zvezi z izvajanjem nadzora nad izpolnjevanjem zahtev preskusa kapitala skupine s strani investicijskih podjetij, od katerih je vsaj eno borznoposredniška družba in katerih obvladujoče podjetje ima glavni sedež v tretji državi, oziroma s strani investicijskih podjetij, od katerih je vsaj eno borznoposredniška družba, ki so locirane v tretjih državah, in katerih obvladujoče podjetje ima glavni sedež v Uniji, se uporabljajo priporočila Komisije za pogajanja o sporazumih z eno ali več tretjimi državami, pripravljena na podlagi 56. člena Direktive 2019/2034/EU.

@@ -1,0 +1,7 @@
+# 36. člen (načrt sanacije)
+
+(1) Borznoposredniška družba, ki ni del skupine, nad katero agencija ali drug pristojni organ izvaja nadzor na konsolidirani podlagi, mora sprejeti načrt ukrepov (v nadaljnjem besedilu: načrt sanacije), s katerimi se v primeru znatnega poslabšanja finančnega položaja borznoposredniške družbe omogoči prestrukturiranje borznoposredniške družbe tako, da se ohranita ali ponovno vzpostavita uspešno poslovanje in finančna trdnost borznoposredniške družbe.
+
+(2) Borznoposredniška družba, ki je del skupine, nad katero agencija ali drug pristojni organ izvaja nadzor na konsolidirani podlagi, in ni EU nadrejeno investicijsko podjetje, mora sprejeti individualni načrt sanacije z upoštevanjem okoliščin in ukrepov na ravni te borznoposredniške družbe, če je sprejeta odločitev nadzornih organov, da posamezna institucija, ki je del skupine, pripravi individualni načrt sanacije, če so sprejeti ukrepi za odpravo pomanjkljivosti načrta sanacije skupine ali če so sprejeti ukrepi za odpravo ovir za izvajanje načrta sanacije.
+
+(3) Borznoposredniška družba načrt sanacije posodobi vsaj enkrat letno ali po spremembi svoje pravne ali organizacijske strukture, svojega poslovanja ali finančnega položaja, kar bi lahko močno vplivalo na načrt sanacije ali zaradi česar bi ga bilo treba spremeniti. Agencija lahko od borznoposredniške družbe zahteva pogostejše posodabljanje načrta sanacije.

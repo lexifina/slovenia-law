@@ -1,0 +1,9 @@
+# 15. člen (nadzor in pregledi poslovanja podružnic, ustanovljenih v drugi državi članici)
+
+(1) Kadar borznoposredniška družba opravlja investicijske storitve in posle v drugi državi članici s podružnico, sme agencija sama ali z osebami, ki jih pooblasti za ta namen, in po tem, ko je agencija obvestila pristojne organe države članice gostiteljice, opraviti preverjanje informacij iz prvega odstavka 14. člena tega zakona s pregledom poslovanja ali nadzorom poslovanja podružnice borznoposredniške družbe.
+
+(2) Kadar investicijske storitve in posle na ozemlju Republike Slovenije s podružnico opravlja investicijsko podjetje države članice, agencija pristojnemu organu matične države članice tega investicijskega podjetja dovoli, da ta sam ali z osebami, ki jih pooblasti za ta namen, in po tem, ko agencijo ta pristojni organ matične države članice obvesti o tem, opravi preverjanje informacij iz prvega odstavka 14. člena tega zakona s pregledom poslovanja ali nadzorom poslovanja podružnice investicijskega podjetja.
+
+(3) Agencija je za namene nadzora v posameznih primerih pristojna za izvajanje nadzora in pregledov poslovanja dejavnosti, ki jih izvajajo podružnice investicijskih podjetij na ozemlju Republike Slovenije, in da od podružnice zahteva informacije o njenih dejavnostih, kadar meni, da so ta preverjanja in pregledi poslovanja ter informacije pomembni za stabilnost finančnega sistema v Republiki Sloveniji. Pred izvedbo nadzora in pregledov poslovanja se agencija brez odlašanja posvetuje s pristojnimi organi matične države članice. Agencija po koncu nadzora oziroma pregledov poslovanja pristojnim organom matične države članice investicijskega podjetja takoj, ko je to mogoče, sporoči prejete informacije in ugotovitve, pomembne za oceno tveganja tega investicijskega podjetja.
+
+4.1.2. Dolžnost varovanja zaupnih informacij in izmenjava
