@@ -1,0 +1,5 @@
+# 72. člen
+
+Kandidatura oziroma lista kandidatov mora vsebovati oznako volilne enote, ime predlagatelja, ime liste kandidatov, osebne podatke kandidatov: ime, priimek, datum rojstva in spol, EMŠO, stopnja izobrazbe, naziv izobrazbe, strokovni ali znanstveni naslov in delo, ki ga opravlja, naslov stalnega prebivališča oziroma začasnega prebivališča, če je državljan druge države članice EU in nima prijavljenega stalnega prebivališča v Republiki Sloveniji, ime in priimek ter naslov stalnega prebivališča predstavnika kandidature oziroma liste kandidatov, če je državljan druge države članice EU, ki nima prijavljenega stalnega prebivališča v Republiki Sloveniji, pa naslov začasnega prebivališča. Kandidaturi oziroma listi kandidatov morajo biti priložena pisna soglasja kandidatov in s tem zakonom določeno najmanjše število podpisov volivcev na predpisanih obrazcih.
+
+Kandidaturi oziroma listi kandidatov, ki jo vloži politična stranka, morajo biti priložena tudi pravila politične stranke o določanju kandidatov oziroma list kandidatov in zapisnik o določitvi kandidatov oziroma list kandidatov.

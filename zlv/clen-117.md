@@ -1,0 +1,3 @@
+# 117. člen
+
+Občinske skupščine na predlog izvršnih svetov v petih dneh po uveljavitvi zakona o ustanovitvi občin sprejmejo odloke o določitvi volilnih enot in imenujejo občinske volilne komisije. Če tega ne storijo, sprejmejo odloke o določitvi volilnih enot volilne komisije referendumskih območij, ki tudi opravijo naloge občinskih volilnih komisij. V tem primeru republiška volilna komisija lahko po potrebi spremeni sestavo volilnih komisij referendumskih območij.
