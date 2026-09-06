@@ -1,0 +1,11 @@
+# 27. člen (socialno partnerstvo)
+
+(1) Za uresničevanje socialnega partnerstva na področju delovnih razmerij v državnih organih in organih lokalnih skupnosti se ustanovi stalno telo.
+
+(2) Sestavo in način delovanja stalnega telesa iz prejšnjega odstavka uredi kolektivna pogodba. V stalnem delovnem telesu sodelujejo na strani delodajalca predstavniki organov državne uprave, drugih državnih organov in lokalnih skupnosti, na strani javnih uslužbencev sodelujejo predstavniki reprezentativnih sindikatov dejavnosti ali poklica.
+
+(3) Pred sprejetjem predpisa, ki vpliva na delovna razmerja oziroma položaj javnih uslužbencev v državnih organih in upravah lokalnih skupnosti, vlada ali pristojni minister omogoči reprezentativnim sindikatom dejavnosti ali poklica v državnih organih in upravah lokalnih skupnosti, da podajo svoje mnenje.
+
+(4) Predstojnik pred sprejetjem splošnega akta, ki vpliva na pravice oziroma obveznosti javnih uslužbencev, pridobi mnenje reprezentativnega sindikata, ki deluje v organu. Za reprezentativni sindikat, ki deluje v organu, se šteje reprezentativni sindikat v organu oziroma reprezentativni sindikat dejavnosti ali poklica v državnih organih in upravah lokalnih skupnosti, če ima imenovanega zaupnika v organu (v nadaljnjem besedilu: reprezentativni sindikat v organu).
+
+(5) V primerih iz tretjega in četrtega odstavka tega člena je treba predlog predpisa ali splošnega akta poslati reprezentativnemu sindikatu v organu in določiti razumen rok za oblikovanje mnenja, ki ne sme biti krajši od treh delovnih dni. Če reprezentativni sindikat v organu v tem roku ne poda mnenja, se šteje, da s predlogom predpisa ali splošnega akta soglaša. Če reprezentativni sindikat v organu v tem roku poda mnenje, predlagatelj to mnenje upošteva ali povabi reprezentativni sindikat v organu k usklajevanju. Če predlagatelju ne uspe doseči uskladitve predloga predpisa ali splošnega akta z mnenjem reprezentativnega sindikata v organu, se lahko sprejme neusklajen predpis ali splošni akt, vendar je treba razloge, zaradi katerih ni bilo upoštevano mnenje reprezentativnega sindikata v organu, pisno obrazložiti in poslati reprezentativnemu sindikatu v organu, katerega mnenje ni bilo upoštevano.
