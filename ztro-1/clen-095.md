@@ -1,0 +1,17 @@
+# 95. člen (vračilo trošarine za komercialni prevoz)
+
+(1) Za plinsko olje, ki se dokazljivo porabi kot pogonsko gorivo za komercialni prevoz, imajo kupci – osebe, ki opravljajo registrirano dejavnost in imajo sedež v Uniji ali državah članicah Evropskega združenja za prosto trgovino (v nadaljnjem besedilu: EFTA), pravico do vračila dela plačane trošarine. Vračilo se določi v višini razlike med zneskom povprečne trošarine, ki jo za posamezen koledarski mesec ugotovi minister, pristojen za finance, in najnižjim dovoljenim zneskom, ki ga določa 7. člen Direktive 2003/96/ES.
+
+(2) Za potrebe prejšnjega odstavka se šteje, da je plinsko olje porabljeno kot pogonsko gorivo za komercialni prevoz, če je porabljeno za:
+
+- prevoz blaga za plačilo ali za lasten račun z lastnimi ali najetimi registriranimi motornimi vozili ali tovornjaki s prikolico, ki so namenjeni izključno cestnemu prevozu blaga in z največjo dovoljeno maso, ki ni manjša od 7,5 tone, ali
+
+- prevoz potnikov – linijski ali izredni, z motornimi vozili kategorije M2 ali M3, kot jih določajo predpisi, ki urejajo področje ugotavljanja skladnosti vozil.
+
+(3) Upravičenec vračilo plačane trošarine uveljavlja na podlagi zahtevka, ki ga vloži pri davčnem organu, in računov o nakupu plinskega olja, ki vključujejo registrsko oznako za zadevno vozilo, davčni organ pa lahko zahteva predložitev še drugih dokazil. Upravičenec iz druge države članice Unije ali države članice EFTA, ki zahteva vračilo trošarine, davčnemu organu predloži tudi dokazilo o opravljanju dejavnosti in dokazilo o registraciji vozila. Upravičenec vodi evidence o nakupu in porabi plinskega olja ter o vrsti in številu vozil, s katerimi razpolaga.
+
+(4) Zahtevek za vračilo trošarine iz prvega odstavka tega člena in dokazila iz tretjega odstavka tega člena se pri davčnem organu vložijo kot mesečni zahtevek do zadnjega dne tekočega meseca za pretekli mesec, kot zahtevek za koledarsko trimesečje (januar – marec, april – junij, julij – september, oktober – december) v 60 dneh po preteku koledarskega trimesečja ali kot letni zahtevek do 31. marca tekočega leta za preteklo leto. Upravičenec do vračila izbere mesečni, trimesečni ali letni način uveljavljanja vračila v okviru posameznega koledarskega leta. Mesečni, trimesečni in letni način uveljavljanja vračila trošarine v posameznem koledarskem letu se izključujejo. Zahtevek za vračilo trošarine se vloži v papirni ali elektronski obliki. Listine, na podlagi katerih mu je bila vrnjena trošarina, je dolžan hraniti do roka, ki ga določa 62. člen tega zakona.
+
+(5) Za gorivo, točeno na internem servisu za točenje goriv, določenem v skladu s pravilnikom, ki ureja tehnične zahteve za gradnjo in obratovanje postaj za preskrbo motornih vozil z gorivom, lahko uveljavlja vračilo trošarine za gorivo le upravičenec, ki je imetnik internega servisa za točenje goriv in je gorivo dokazljivo sam porabil v vozilih za namene iz prvega odstavka tega člena. Za gorivo, ki je bilo točeno v druga vozila ali ni porabljeno za namene iz prvega odstavka tega člena, ne more uveljavljati vračila trošarine. Upravičenec za lastni interni servis za točenje goriv vodi evidenco količine goriva, ki se toči v vozila, z merilnimi napravami za točenje goriva. Količina iztočenega goriva se prikaže v merski enoti, kot je za gorivo predpisana s predpisi, ki urejajo meroslovje.
+
+(6) Način vračila trošarine, vsebino zahtevka za vračilo in potrebna dokazila ter evidence, ki jih mora voditi upravičenec iz prvega odstavka tega člena, predpiše minister, pristojen za finance.

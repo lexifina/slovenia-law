@@ -1,0 +1,9 @@
+# 64. člen (prijava prenehanja opravljanja dejavnosti in izbris iz evidence trošarinskih zavezancev)
+
+(1) Trošarinski zavezanec davčnemu organu prijavi predvideno prenehanje opravljanja dejavnosti s trošarinskimi izdelki. Prenehanje opravljanja dejavnosti s trošarinskimi izdelki zaradi nepredvidenih razlogov trošarinski zavezanec prijavi davčnemu organu nemudoma. Pri izdaji odločbe o prenehanju veljavnosti dovoljenja, izdanega v skladu s tem zakonom, davčni organ v odločbi o prenehanju veljavnosti dovoljenja odloči tudi o izbrisu trošarinskega zavezanca iz evidence trošarinskih zavezancev, ki nastopi z dnem dokončnosti odločbe o prenehanja veljavnosti dovoljenja.
+
+(2) Ne glede na prejšnji odstavek davčni organ iz evidence trošarinskih zavezancev ali evidence davčnega organa po uradni dolžnosti izbriše začasno pooblaščenega prejemnika, začasno certificiranega prejemnika in začasno certificiranega pošiljatelja s potekom časovnega obdobja, za katero je bilo izdano dovoljenje ali potrjena prijava.
+
+(3) Če davčni organ ugotovi, da ne obstajajo več razlogi, zaradi katerih je trošarinski zavezanec vpisan v evidenco trošarinskih zavezancev ali trošarinski zavezanec ne prijavi prenehanja opravljanja dejavnosti v skladu s prvim odstavkom tega člena ali če trošarinski zavezanec že več kot dve leti ne opravlja dejavnosti s trošarinskimi izdelki, davčni organ trošarinskemu zavezancu iz tega odstavka, razen če gre za imetnika dovoljenja, izdanega v skladu s tem zakonom, izda odločbo o izbrisu iz evidence trošarinskih zavezancev in ga iz evidence izbriše po uradni dolžnosti.
+
+(4) Če davčni organ ugotovi, da certificirani prejemnik ali certificirani pošiljatelj ne odpravi nepravilnosti v roku, ki mu ga je določil davčni organ, izda odločbo o izbrisu iz evidence trošarinskih zavezancev oziroma iz evidence davčnega organa in ga iz evidence izbriše po uradni dolžnosti.

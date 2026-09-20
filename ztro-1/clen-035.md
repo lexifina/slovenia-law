@@ -1,0 +1,35 @@
+# 35. člen (pošiljanje trošarinskih izdelkov v drugo državo članico oziroma v izvoz)
+
+(1) Pošiljatelj pred začetkom gibanja trošarinskih izdelkov v režimu odloga oziroma v izvoz, vendar ne prej kot sedem dni pred začetkom gibanja, predloži osnutek elektronskega trošarinskega dokumenta, ki vsebuje pravilne podatke, davčnemu organu in ta elektronsko preveri točnost in popolnost podatkov v predloženem elektronskem trošarinskem dokumentu. Če so podatki ustrezni, davčni organ opremi elektronski trošarinski dokument z enotno trošarinsko referenčno oznako in jo sporoči pošiljatelju. Če podatki niso pravilni, davčni organ o tem takoj obvesti pošiljatelja. Enotna trošarinska referenčna oznaka je oznaka, ki se programsko ustvarja v računalniško podprtem sistemu po potrditvi podatkov predloženega elektronskega trošarinskega dokumenta.
+
+(2) Pošiljatelj lahko prekliče elektronski trošarinski dokument, če se gibanje trošarinskih izdelkov v skladu s prvim odstavkom 25. člena tega zakona še ni začelo.
+
+(3) Pošiljatelj pred začetkom gibanja trošarinskih izdelkov za dobavo za komercialni namen osnutek elektronskega poenostavljenega trošarinskega dokumenta, ki vsebuje pravilne podatke, predloži davčnemu organu in ta elektronsko preveri točnost in popolnost podatkov v predloženem elektronskem poenostavljenem trošarinskem dokumentu. Če so podatki ustrezni, davčni organ opremi elektronski poenostavljeni trošarinski dokument z enotno poenostavljeno trošarinsko referenčno oznako in jo sporoči pošiljatelju. Če podatki niso pravilni, davčni organ o tem takoj obvesti pošiljatelja. Enotna poenostavljena trošarinska referenčna oznaka je oznaka, ki se po potrditvi podatkov predloženega elektronskega poenostavljenega trošarinskega dokumenta programsko ustvarja v računalniško podprtem sistemu.
+
+(4) Če pošiljatelj po začetku gibanja ugotovi, da je v elektronskem trošarinskem dokumentu oziroma elektronskem poenostavljenem trošarinskem dokumentu navedel nepravilne podatke, o tem takoj obvesti davčni organ in mu da pravilne podatke o odpremljeni pošiljki.
+
+(5) Davčni organ pošlje elektronski trošarinski dokument oziroma elektronski poenostavljeni trošarinski dokument pristojnemu organu namembne države članice, ta pa ga predloži prejemniku. Če davčni organ prejme elektronski trošarinski dokument oziroma elektronski poenostavljeni trošarinski dokument od pristojnega organa druge države članice, ker so trošarinski izdelki namenjeni prejemniku v Sloveniji, ga predloži prejemniku. Kadar so trošarinski izdelki namenjeni imetniku trošarinskega skladišča v odpremni državi članici, davčni organ pošlje elektronski trošarinski dokument neposredno imetniku trošarinskega skladišča.
+
+(6) Pri izvozu trošarinskih izdelkov deklarant v državi članici, kjer je carinski organ, pri katerem je vložena izvozna deklaracija (v nadaljevanju: država članica izvoza), carinskemu organu predloži enotno trošarinsko referenčno oznako, ki označuje trošarinske izdelke, navedene v izvozni deklaraciji. Če je Slovenija odpremna država članica in ni država članica izvoza, davčni organ pošlje elektronski trošarinski dokument pristojnemu organu države članice izvoza. Carinski organ države članice izvoza pred izvozom trošarinskih izdelkov preveri, ali se podatki iz elektronskega trošarinskega dokumenta ujemajo s podatki izvozne deklaracije, in v primeru neskladnosti z uporabo računalniško podprtega sistema obvesti davčni organ ali pristojni organ v odpremni državi članici. Če se trošarinski izdelki ne bodo več iznašali iz carinskega območja Unije, carinski organ države članice izvoza z uporabo računalniško podprtega sistema takoj obvesti davčni organ ali pristojni organ odpremne države članice. Pristojni organ odpremne države članice obvestilo takoj pošlje pošiljatelju. Pošiljatelj ob prejemu obvestila v skladu z drugim odstavkom tega člena prekliče elektronski trošarinski dokument ali v skladu z devetim odstavkom tega člena spremeni namembni kraj gibanja trošarinskih izdelkov.
+
+(7) Pošiljatelj osebi, ki spremlja trošarinske izdelke, prevozniku ali letalskemu prevozniku predloži enotno trošarinsko referenčno oznako oziroma enotno poenostavljeno trošarinsko referenčno oznako, ki spremlja trošarinske izdelke med celotnim gibanjem, in ti jo na zahtevo predložijo davčnemu organu ali pristojnemu organu druge države članice.
+
+(8) Davčni organ lahko namesto enotne trošarinske referenčne oznake iz prejšnjega odstavka od osebe, ki spremlja trošarinske izdelke, prevoznika ali letalskega prevoznika zahteva predložitev tiskane različice elektronskega trošarinskega dokumenta, komercialni dokument ali upravni dokument, v katerem je navedena enotna trošarinska referenčna oznaka. Kot komercialni dokument se lahko šteje listina, ki spremlja pošiljko trošarinskih izdelkov, kot je račun, dobavnica, prevozni dokument in podobno, in vsebuje zadostne podatke o vrsti in količini trošarinskih izdelkov, ki omogočajo njihovo identifikacijo.
+
+(9) Pošiljatelj lahko med gibanjem trošarinskih izdelkov v režimu odloga ali v izvoz v elektronskem trošarinskem dokumentu spremeni namembni kraj in navede novega, ki je dejanski namembni kraj in ki je:
+
+- trošarinsko skladišče;
+
+- lokacija, kjer pooblaščeni prejemnik in začasno pooblaščeni prejemnik lahko prejemata trošarinske izdelke;
+
+- kraj, kjer pri izvozu trošarinski izdelki zapustijo Unijo;
+
+- carinski urad izstopa v primeru zunanjega tranzita ali
+
+- kraj neposredne dobave v skladu s 27. členom tega zakona.
+
+(10) Pošiljatelj spremembo namembnega kraja iz prejšnjega odstavka vnese takoj, ko ugotovi, da dejanski namembni kraj prejema ne ustreza podatku, navedenemu v elektronskem trošarinskem dokumentu. Podatek o spremembi se pošlje pristojnemu organu države članice prejema in prejemniku, navedenemu v prvotnem elektronskem trošarinskem dokumentu, ter pristojnemu organu države članice prejema in novemu prejemniku.
+
+(11) Pošiljatelj lahko med gibanjem trošarinskih izdelkov za dobavo za komercialni namen v elektronskem poenostavljenem trošarinskem dokumentu spremeni namembni kraj v drug namembni kraj istega prejemnika v namembni državi članici ali v kraj odpreme trošarinskih izdelkov. Pošiljatelj davčnemu organu sporoči spremembo namembnega kraja s predložitvijo osnutka elektronskega poenostavljenega trošarinskega dokumenta o spremembi namembnega kraja v skladu s tretjim odstavkom tega člena.
+
+(12) Če pošiljatelj ne prejme poročila o prejemu oziroma poročila o izvozu po izteku časa, določenega za gibanje in predpisanega za potrditev prejema trošarinskih izdelkov, takoj ali najpozneje v desetih delovnih dneh po izteku tega časa obvesti davčni organ o razlogih in okoliščinah, zaradi katerih gibanje ni bilo zaključeno.

@@ -1,0 +1,19 @@
+# 20. člen (vračilo trošarine pri gibanju trošarinskih izdelkov, sproščenih v porabo v Sloveniji, med državami članicami)
+
+(1) Vračilo trošarine pri gibanju trošarinskih izdelkov, sproščenih v porabo v Sloveniji, lahko zahteva:
+
+1. certificirani pošiljatelj ali začasno certificirani pošiljatelj za trošarinske izdelke odpremljene za dobavo za komercialni namen in dobavljene certificiranemu prejemniku ali začasno certificiranemu prejemniku v drugo državo članico;
+
+2. prodajalec na daljavo iz petega odstavka 30. člena tega zakona za trošarinske izdelke odpremljene prejemniku v drugo državo članico;
+
+3. oseba, ki opravlja dejavnost za trošarinske izdelke iz 85. člena tega zakona, odpremljene prejemniku, ki opravlja dejavnost, v drugo državo članico.
+
+(2) Certificirani pošiljatelj pri davčnem organu vloži zahtevek za vračilo trošarine najpozneje do zadnjega dne tekočega meseca za odpreme trošarinskih izdelkov v preteklem mesecu. Začasno certificirani pošiljatelj ali prodajalec na daljavo ali oseba iz 3. točke prejšnjega odstavka pri davčnem organu vloži zahtevek za vračilo trošarine najpozneje v 30 dneh od dneva začetka gibanja oziroma dneva napovedi odpreme.
+
+(3) Certificirani pošiljatelj oziroma začasno certificirani pošiljatelj v zahtevku za vračilo trošarine navede enotno poenostavljeno trošarinsko referenčno oznako odpremljenih trošarinskih izdelkov ali priloži poročilo o prejemu trošarinskih izdelkov iz računalniško podprtega sistema ali nadomestni dokument iz prve alineje prvega odstavka 42. člena tega zakona. Kadar v računalniško podprtem sistemu poročilo o prejemu trošarinskih izdelkov ni potrjeno, se lahko zahtevku za vračilo trošarine priloži drugo dokazilo o prejemu trošarinskih izdelkov, ki ga je potrdil pristojni organ namembne države članice.
+
+(4) Prodajalec na daljavo zahtevku za vračilo trošarine predloži dokazilo, da je v namembni državi članici trošarina plačana ali da je predloženo zavarovanje plačila trošarine ali uveden predpisan postopek za plačilo trošarine oziroma odpust plačila trošarine. K zahtevku za vračilo trošarine se priložijo tudi druga dokazila, ki jih davčni organ glede na okoliščine konkretnega primera zahteva z namenom, da bi ugotovil, ali so trošarinski izdelki prispeli v namembni kraj in da so bile v namembni državi izpolnjeni vsi predpisani postopki ter je bila plačana trošarina, če je tako zahtevano.
+
+(5) Oseba iz 3. točke prvega odstavka tega člena zahtevku za vračilo predloži dokazila, na podlagi katerih davčni organ lahko ugotovi, da so izdelki iz 85. člena tega zakona prispeli v namembni kraj in da so bili v namembni državi izpolnjeni vsi predpisani postopki ter je bila plačana trošarina, če je tako zahtevano.
+
+(6) Vsebino zahtevka za vračilo trošarine, način vračila trošarine in potrebna dokazila po tem členu predpiše minister, pristojen za finance.
