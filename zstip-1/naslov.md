@@ -1,0 +1,3 @@
+ZAKON
+
+O ŠTIPENDIRANJU (ZŠtip-1)
