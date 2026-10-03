@@ -1,0 +1,3 @@
+# 256. člen (razlogi za odreditev vzdrževanja)
+
+Če so na objektih ali zemljiščih, vključno z zasaditvijo teh zemljišč in na drugih sestavinah zemljišč (v nadaljnjem besedilu tega poglavja: nepremičnina), take pomanjkljivosti, da zaradi izrabljenosti, zastarelosti, vremenskih vplivov, lastnega učinkovanja ali učinkovanja tretjih kvarno vplivajo na urejenost naselja in krajine ali ovirajo redno rabo okoliških javnih površin in so posledica opustitve redne in pravilne uporabe ter vzdrževanja teh nepremičnin, pa ne gre za nevarno gradnjo v skladu s predpisi, ki urejajo graditev, lahko občina naloži lastniku, da izvede potrebna vzdrževalna dela.

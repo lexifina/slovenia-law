@@ -1,0 +1,3 @@
+# 306. člen (vsebinska uskladitev z občinskim prostorskim planom, regionalnim prostorskim planom ali akcijskim programom za izvajanje Strategije)
+
+Drugi odstavek 117. člena tega zakona se začne uporabljati z dnem sprejetja občinskega prostorskega plana, regionalnega prostorskega plana ali akcijskega programa za izvajanje Strategije. Občina prilagodi občinski prostorski načrt s temi prostorskimi strateškimi akti v enem letu od njihovega sprejetja, do takrat pa se prostorske ureditve lokalnega pomena, načrtovane v občinskem prostorskem načrtu, ki so v neskladju s temi prostorskimi strateškimi akti, ne smejo izvajati.
