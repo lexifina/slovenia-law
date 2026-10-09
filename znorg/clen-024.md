@@ -1,0 +1,7 @@
+# 24. člen (subjekti podpornega okolja)
+
+(1) Horizontalna mreža iz osme alineje prvega odstavka prejšnjega člena je nevladna organizacija, ki na nacionalni ravni združuje nevladne organizacije iz različnih vsebinskih področij delovanja in izvaja dejavnosti informiranja, svetovanja, izobraževanja, raziskovanja, zagovorništva, mreženja, promocije in podpore v korist vseh nevladnih organizacij na nacionalni ravni.
+
+(2) Regionalno stičišče iz osme alineje prvega odstavka prejšnjega člena je nevladna organizacija, ki na ravni razvojne regije, kot jo določa zakon, ki ureja skladen regionalni razvoj, ali na ravni več občin, ki predstavljajo zaključeno prostorsko celoto, združuje nevladne organizacije iz različnih vsebinskih področij delovanja in izvaja dejavnosti informiranja, svetovanja, izobraževanja, raziskovanja, zagovorništva, mreženja, promocije in podpore v korist vseh nevladnih organizacij na ravni svojega delovanja.
+
+(3) Vsebinska mreža iz četrte alineje drugega odstavka prejšnjega člena je nevladna organizacija, ki na nacionalni ravni, na ravni razvojne regije, kot jo določa zakon, ki ureja skladen regionalni razvoj, ali na ravni več občin, ki predstavljajo zaključeno prostorsko celoto, združuje nevladne organizacije z vsebinsko istega področja in izvaja dejavnosti informiranja, svetovanja, izobraževanja, raziskovanja, zagovorništva, mreženja, promocije in podpore v korist vseh nevladnih organizacij z istega vsebinskega področja na ravni svojega delovanja.

@@ -1,0 +1,27 @@
+## VIII. PREHODNE IN KONČNE DOLOČBE
+
+# 31. člen (ureditev položaja organizacij, ki imajo status društva v javnem interesu ali temu podoben status)
+
+(1) Ne glede na 6. in 10. člen tega zakona se za društvo, zvezo društev, mladinski svet, zavod ali ustanovo, ki ima na dan uveljavitve tega zakona na podlagi zakona podeljen status delovanja v javnem interesu, šteje, da je nevladna organizacija v javnem interesu po tem zakonu do pravnomočnosti odločbe iz petega ali šestega odstavka tega člena.
+
+(2) Ne glede na prvo alinejo prvega odstavka 2. člena tega zakona se za društvo, ki nima sedeža v Republiki Sloveniji, ima pa na dan uveljavitve podeljen status delovanja v javnem interesu na področju, ki ga ureja Zakon o vojnih veteranih (Uradni list RS, št. 59/06 – uradno prečiščeno besedilo, 61/06 – ZDru-1, 101/06 – odl. US, 40/12 – ZUJF in 32/14; v nadaljnjem besedilu: ZVV), šteje, da je nevladna organizacija v javnem interesu po tem zakonu do ureditve v Zakonu o vojnih veteranih.
+
+(3) Prvi odstavek tega člena ne velja za:
+
+- mladinsko organizacijo, organizirano kot sestavni del druge pravne osebe, kot jo določa Zakon o javnem interesu v mladinskem sektorju (Uradni list RS, št. 42/10);
+
+- Mladinski svet Slovenije, kot ga določa Zakon o mladinskih svetih (Uradni list RS, št. 70/00 in 42/10).
+
+(4) Organizacije iz prvega odstavka tega člena uskladijo svoje ustanovitvene akte in delovanje s pogoji, ki veljajo za podelitev statusa nevladne organizacije v javnem interesu po tem zakonu, in najkasneje do 31. marca 2019 pristojnemu ministrstvu posredujejo izjavo, da sta njihov ustanovitveni akt in delovanje usklajena s pogoji, ki veljajo za podelitev statusa nevladne organizacije v javnem interesu po tem zakonu, ter poročilo in program iz prvega odstavka 11. člena tega zakona. Za takšno poročanje se smiselno uporablja 11. člen tega zakona, pri čemer se šteje, da je takšni organizaciji status v javnem interesu podeljen na podlagi 6. člena tega zakona.
+
+(5) Pristojno ministrstvo organizaciji iz prvega odstavka tega člena, ki izpolni obveznosti iz prejšnjega odstavka in pri kateri ne obstajajo razlogi za odvzem statusa nevladne organizacije v javnem interesu, izda v 60 dneh od izpolnitve obveznosti po uradni dolžnosti odločbo o podelitvi statusa nevladne organizacije v javnem interesu ob smiselni uporabi 6. člena tega zakona. V odločbi se navede tudi, da s podelitvijo tega statusa preneha status delovanja v javnem interesu, ki je bil podlaga za to, da se je organizacija po prvem odstavku tega člena štela za nevladno organizacijo v javnem interesu po tem zakonu.
+
+(6) Pristojno ministrstvo izda odločbo iz prejšnjega odstavka tudi, če društvo ali ustanova v izjavi iz tretjega odstavka tega člena navede, da v ustanovitvenem aktu nima navedeno, da se v primeru prenehanja premoženje prenese na drugo nevladno organizacijo ali nepridobitno pravno osebo javnega prava, ki ima enak ali podoben namen, če v izjavi navede tudi, da bo to uskladitev ustanovitvenega akta izpolnila ob prvi spremembi po podaji izjave.
+
+(7) Pristojno ministrstvo organizaciji iz prvega odstavka tega člena, ki ne izpolni obveznosti iz četrtega odstavka tega člena v roku, določenem v četrtem odstavku tega člena, v 15 dneh od poteka roka za izpolnitev obveznosti pozove, da v roku 30 dni izpolni te obveznosti. Če organizacija tudi po pozivu ne izpolni obveznosti, se šteje, da ne izpolnjuje več pogojev za pridobitev statusa nevladne organizacije v javnem interesu. V tem primeru pristojno ministrstvo po uradni dolžnosti izda odločbo, s katero organizaciji odvzame status nevladne organizacije v javnem interesu po tem zakonu in status delovanja v javnem interesu, ki je bil podlaga za to, da se je organizacija po prvem odstavku tega člena štela za nevladno organizacijo v javnem interesu po tem zakonu, in sicer v 60 dneh po poteku dodatnega roka za izpolnitev obveznosti. Z dnem dokončnosti odločbe pristojno ministrstvo organizacijo izbriše iz evidence iz 19. člena tega zakona.
+
+(8) Pristojno ministrstvo organizaciji iz prvega odstavka tega člena z odločbo po uradni dolžnosti odvzame status nevladne organizacije v javnem interesu po tem zakonu in status delovanja v javnem interesu, ki je bil podlaga za to, da se je organizacija po prvem odstavku tega člena štela za nevladno organizacijo v javnem interesu po tem zakonu, tudi če se v obdobju do izpolnitve obveznosti iz četrtega odstavka tega člena organizacija statusu pisno odpove ali ji je pravnomočno izrečena globa za hujši davčni prekršek ali davčni prekršek, katerega narava je posebno huda, oziroma je pravnomočno obsojena za kaznivo dejanje ali se nad njo začne stečajni postopek ali postopek likvidacije.
+
+(9) Ne glede na 6. in 10. člen tega zakona pristojno ministrstvo zavrže vlogo organizacije, ki se na podlagi tega člena šteje za nevladno organizacijo v javnem interesu, za podelitev statusa nevladne organizacije v javnem interesu po tem zakonu za področje, za katerega ima takšna organizacija že podeljen status delovanja v javnem interesu na podlagi zakona, ki je bil podlaga za to, da se je organizacija po prvem odstavku tega člena štela za nevladno organizacijo v javnem interese po tem zakonu.
+
+(10) Ministrstvo, pristojno za delovanje nevladnih organizacij, na svoji spletni strani objavi vsebino izjave iz četrtega odstavka tega člena, ki vsebuje tudi pojasnilo o obveznostih nevladne organizacije v javnem interesu iz 12. člena tega zakona.
