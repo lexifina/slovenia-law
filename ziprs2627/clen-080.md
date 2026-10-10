@@ -1,0 +1,3 @@
+# 80. člen (zagotavljanje sredstev za dodatek za pomoč in postrežbo v letih 2025 in 2026)
+
+Za odhodke, ki so nastali ZPIZ v letu 2025 in v letu 2026 iz naslova dodatka za pomoč in postrežbo ter niso bili vključeni v zahtevek, posredovan ZZZS v roku iz drugega odstavka 69. člena Zakona o spremembah in dopolnitvah Zakona o dolgotrajni oskrbi (Uradni list RS, št. 44/25, v nadaljnjem besedilu: ZDOsk-1B), ZPIZ, ne glede na zadnji stavek drugega odstavka 69. člena ZDOsk-1B, izstavi zahtevek do 23. decembra 2025 za leto 2025 oziroma do 23. decembra 2026 za leto 2026, ZZZS pa mu sredstva izplača najpozneje do 30. decembra 2025 oziroma do 30. decembra 2026.
