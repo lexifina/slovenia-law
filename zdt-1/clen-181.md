@@ -1,0 +1,11 @@
+# 181. člen (pravica do seznanitve s podatki)
+
+(1) Dostop do vsebine osebnih in drugih podatkov iz vpisnikov, imenikov in evidenc, ki se nanašajo na njih, pridobijo posamezniki, na katere se nanašajo, ali druge osebe, ki so v njih navedene v zvezi s pristojnostmi iz prvega odstavka 19. člena tega zakona, šele po zastaranju kazenskega pregona ali po pravnomočnosti sodbe. Pred potekom rokov iz prejšnjega stavka lahko dostopajo do vsebine osebnih ali drugih podatkov samo v okviru sodnega postopka ali na podlagi odločbe sodišča. Pravico do vpogleda v vsebino osebnih ali drugih podatkov iz vpisnikov, imenikov, evidenc in spisov državnega tožilstva ima še pred njihovim arhiviranjem tudi vsaka pravna ali fizična oseba, ki za to izkaže pravni interes, če to ne posega v določbe prejšnjega stavka ter ne škoduje interesom postopka, tajnosti postopka ali zasebnosti oseb. Vpogled dovoli vodja pristojnega državnega tožilstva.
+
+(2) Generalni državni tožilec lahko dovoli vpogled, prepis, kopiranje ali izpis iz vpisnikov, imenikov, evidenc in spisov državnega tožilstva posamezniku, ki izkaže, da podatke iz njih potrebuje za znanstvenoraziskovalno delo. Dovoljenje se lahko nanaša le na vpisnike, imenike, evidence in spise, ki so arhivirani. Posameznik lahko v podatke iz vpisnikov, imenikov, evidenc in spisov državnega tožilstva vpogleda ali jih prepiše brezplačno, kopira ali izpiše pa jih na svoje stroške. Vpogled, prepis, kopiranje ali izpis se opravi pod nadzorom državnega tožilca ali javnega uslužbenca državnega tožilstva, ki je za to pisno pooblaščen.
+
+(3) Ovaditelj, ki je podal pisno ovadbo ali je bila ovadba sporočena po telefonu, ima pravico zahtevati izdajo potrdila o vpisu ovadbe. Način izdaje in vsebino potrdila določa Državnotožilski red.
+
+(4) Odredbe, povezane z dodelitvijo zadeve StKOK, so dostopne fizičnim in pravnim osebam po pravnomočnosti obtožnega akta ali najpozneje dve leti pred zastaranjem kazenskega pregona. Fizične ali pravne osebe jih lahko brezplačno vpogledajo ali prepišejo, kopirajo pa na lastne stroške. Uporabljajo jih lahko le v postopkih pred sodišči ali drugimi državnimi organi ali za namene iz prvega odstavka tega člena.
+
+(5) Stroški pravice do seznanitve se odmerijo ter izplačajo s smiselno uporabo predpisov, ki urejajo dostop do informacij javnega značaja.

@@ -1,0 +1,7 @@
+# 183. člen (posebna pravila glede ustreznosti osebnih podatkov)
+
+(1) Državni tožilec mora skrbeti, da so osebni podatki v spisih državnega tožilstva v zvezi z izvajanjem pristojnosti iz prvega odstavka 19. člena tega zakona ter v vpisnikih, imenikih in evidencah čimbolj točni, popolni, posodobljeni in zanesljivi.
+
+(2) Obveznost iz prejšnjega odstavka ne velja, če se v okviru kazenskega ali drugega sodnega postopka ali upravnega postopka obdelujejo osebni podatki iz prejšnjega odstavka, in bo o njihovem stanju, pomenu ali vsebini odločalo ali na njihovi podlagi sklepalo sodišče ali upravni organ v okviru presoje dejanskega stanja ali ocene dokazov. Po pravnomočnosti sodne ali upravne odločbe državni tožilec ali strokovni sodelavec po njegovi odredbi v roku največ šestih mesecev v spisih, vpisnikih, imenikih in evidencah državnega tožilstva na ustreznem mestu označi spremembe osebnih podatkov, če je to glede na odločitev iz sodne ali upravne odločbe potrebno. Obveznost iz prejšnjega stavka ne velja za zgodovinske zapise glede položaja posameznika, na katerega se nanašajo osebni podatki, zlasti glede njegovega položaja v predkazenskem postopku ali v sodnih ali upravnih postopkih.
+
+(3) Določbe prejšnjega odstavka ne posegajo v pravice posameznika, na katerega se nanašajo osebni podatki, da v skladu z zakonom, ki ureja varstvo osebnih podatkov, doseže popravke oziroma ustrezne dopolnilne navedbe osebnih podatkov v vpisnikih, imenikih, evidencah in spisih državnega tožilstva v primerih, ki jih ta člen ne ureja.

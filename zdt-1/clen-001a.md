@@ -1,0 +1,5 @@
+# 1.a člen (izvajanje pravnih aktov Evropske unije)
+
+(1) S tem zakonom se za izvajanje Uredbe (EU) 2018/1727 Evropskega parlamenta in Sveta z dne 14. novembra 2018 o Agenciji Evropske unije za pravosodno sodelovanje v kazenskih zadevah (Eurojust) ter nadomestitvi in razveljavitvi Sklepa Sveta 2002/187/PNZ (UL L št. 295 z dne 21. 11. 2018, str. 138; v nadaljnjem besedilu: Uredba 2018/1727/EU) določajo postopek in pogoji za imenovanje ter pooblastila in pravice nacionalnega predstavnika, njegovega namestnika in pomočnika v Agenciji Evropske unije za pravosodno sodelovanje v kazenskih zadevah.
+
+(2) S tem zakonom se za izvajanje Uredbe Sveta (EU) 2017/1939 z dne 12. oktobra 2017 o izvajanju okrepljenega sodelovanja v zvezi z ustanovitvijo Evropskega javnega tožilstva (UL L št. 283 z dne 31. 10. 2017, str. 1; v nadaljnjem besedilu: Uredba 2017/1939/EU) določajo kandidacijski postopek in pogoji za uvrstitev na listo kandidatov za imenovanje evropskega tožilca in evropskih delegiranih tožilcev v Evropskem javnem tožilstvu, njihovo število, pristojnosti, položaj in pravice.
