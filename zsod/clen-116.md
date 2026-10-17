@@ -1,0 +1,7 @@
+# 116. člen (sodniški položaji)
+
+(1) Okrožni sodniki, ki so na dan začetka uporabe tega zakona sodniško službo opravljali v nazivu okrožni sodnik, se za pridobitev sodniškega položaja svetnik upoštevajo ocene sodniške službe, izdelane v skladu z Zakonom o sodniški službi (Uradni list RS, št. 94/07 – uradno prečiščeno besedilo, 91/09, 33/11, 46/13, 63/13, 69/13 – popr., 95/14 – ZUPPJS15, 17/15, 23/17 – ZSSve, 36/19 – ZDT-1C, 34/23 – odl. US, 76/23 in 57/25 – ZF), in napredujejo na sodniški položaj okrožni sodnik svetnik, ko izpolnijo pogoje v skladu s tem zakonom.
+
+(2) Višjim sodnikom, ki so na dan začetka uporabe tega zakona sodniško službo opravljali v nazivu višji sodnik, se za pridobitev sodniškega položaja svetnik upoštevajo ocene sodniške službe, izdelane v skladu z Zakonom o sodniški službi (Uradni list RS, št. 94/07 – uradno prečiščeno besedilo, 91/09, 33/11, 46/13, 63/13, 69/13 – popr., 95/14 – ZUPPJS15, 17/15, 23/17 – ZSSve, 36/19 – ZDT-1C, 34/23 – odl. US, 76/23 in 57/25 – ZF), in napredujejo na sodniški položaj višji sodnik svetnik, ko izpolnijo pogoje v skladu s tem zakonom.
+
+(3) Vrhovni sodniki, ki so na dan začetka uporabe tega zakona sodniško službo opravljali v nazivu vrhovni sodnik že šest let ali več in še niso pridobili sodniškega položaja svetnik, se z dnem začetka uporabe tega zakona imenujejo na sodniški položaj vrhovni sodnik svetnik in uvrstijo v plačni razred, določen s Prilogo 2 Zakona o skupnih temeljih sistema plač v javnem sektorju (Uradni list RS, št. 95/24) za funkcijo vrhovni sodnik svetnik.

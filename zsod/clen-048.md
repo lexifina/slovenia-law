@@ -1,0 +1,7 @@
+# 48. člen (položaj svetnika)
+
+(1) Okrožni sodnik pridobi položaj svetnika pri četrtem rednem ocenjevanju sodniške funkcije, če je z oceno ugotovljeno, da ustreza sodniški funkciji in če pri prejšnjih ocenjevanjih ni bilo ugotovljeno, da ne izpolnjuje pogojev za napredovanje (redno napredovanje na položaj svetnika). Položaj svetnika lahko pridobi tudi že pri drugem ali tretjem rednem ocenjevanju sodniške funkcije, če je z oceno ugotovljeno, da sodniški funkciji ustreza na nadpovprečni ali izjemni ravni in če pri prejšnjih ocenjevanjih ni bilo ugotovljeno, da ne izpolnjuje pogojev za napredovanje (hitrejše napredovanje na položaj svetnika).
+
+(2) Višji sodnik pridobi položaj svetnika pri tretjem rednem ocenjevanju sodniške funkcije po imenovanju na sodniško mesto na višjem sodišču, če je z oceno ugotovljeno, da ustreza sodniški funkciji in če pri prejšnjih ocenjevanjih ni bilo ugotovljeno, da ne izpolnjuje pogojev za napredovanje (redno napredovanje na položaj svetnika). Položaj svetnika lahko pridobi tudi že pri drugem rednem ocenjevanju sodniške funkcije po imenovanju na sodniško mesto na višjem sodišču, če iz ocene njegovega dela izhaja, da sodniški funkciji ustreza na nadpovprečni ali izjemni ravni in če pri prejšnjih ocenjevanjih ni bilo ugotovljeno, da ne izpolnjuje pogojev za napredovanje (hitrejše napredovanje na položaj svetnika).
+
+(3) Vrhovni sodnik pridobi položaj svetnika po šestih letih opravljanja sodniške funkcije vrhovnega sodnika, če v skladu s tem zakonom ni ovir za napredovanje.

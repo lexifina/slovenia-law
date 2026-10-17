@@ -1,0 +1,7 @@
+# 117. člen (ocenjevanje in napredovanje)
+
+(1) Za okrajne sodnike iz prvega odstavka 115. člena tega zakona, ki do začetka uporabe tega zakona sodniške službe še ne opravljajo tri leta, se ocena njihovega dela do poteka roka iz drugega odstavka 30. člena tega zakona izdela vsako leto. Ti sodniki prvič napredujejo na podlagi prve redne ocene sodnikovega dela, izdane v skladu s prvim odstavkom 30. člena tega zakona.
+
+(2) Okrajnim sodnikom iz prvega odstavka 115. člena tega zakona, ki sodniško službo na dan začetka uporabe tega zakona opravljajo več kot tri leta, se obdobje za izdelavo ocene sodniške službe prekine in začne teči znova z začetkom uporabe tega zakona. Ti sodniki napredujejo na podlagi prve redne ocene sodnikovega dela, izdane v skladu s prvim odstavkom 30. člena tega zakona.
+
+(3) Okrajnim sodnikom iz drugega do četrtega odstavka 115. člena tega zakona, okrožnim in višjim sodnikom, ki so na dan začetka uporabe tega zakona sodniško službo opravljali v nazivu okrožni ali višji sodnik, se obdobje za izdelavo ocene sodniške službe iz prvega in drugega odstavka 31. člena Zakona o sodniški službi (Uradni list RS, št. 94/07 – uradno prečiščeno besedilo, 91/09, 33/11, 46/13, 63/13, 69/13 – popr., 95/14 – ZUPPJS15, 17/15, 23/17 – ZSSve, 36/19 – ZDT-1C, 34/23 – odl. US, 76/23 in 57/25 – ZF), ki je preteklo od poteka obdobja za izdelavo zadnje ocene sodniške službe do dneva začetka uporabe tega zakona, všteje v obdobje za izdelavo ocene sodnikovega dela v skladu s tem zakonom.

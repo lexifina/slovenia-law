@@ -1,0 +1,7 @@
+# 32. člen (podlaga za izdelavo ocene)
+
+(1) Ocena sodnikovega dela se izdela na podlagi podatkov iz osebnega spisa sodnika in drugih podatkov o izpolnjevanju kriterijev iz 28. člena tega zakona. Za ugotovitev izpolnjevanja navedenih kriterijev se pregledujejo tudi spisi pravnomočno zaključenih zadev, ki so bile dodeljene sodniku, ter se pridobi mnenje predsednika matičnega sodišča ali vodje oddelka, na katerem ocenjevani sodnik opravlja sodniško službo, in oddelka sodišča, ki obravnava pravna sredstva zoper odločbe ocenjevanega sodnika (v nadaljnjem besedilu: instančni oddelek).
+
+(2) Ne glede na prejšnji odstavek se za sodnika, ki je dodeljen na drugo sodišče ali v drug organ, pri oceni sodnikovega dela za čas in obseg dodelitve upošteva mnenje o delu sodnika, ki ga izdela predstojnik organa ali predsednik sodišča, na katero je ali je bil sodnik dodeljen. Če je dodeljeni sodnik v celoti ali deloma oproščen opravljanja sodniške službe ali mu dolžnosti iz sodniške službe mirujejo, se obseg njegovega dela oceni na podlagi poročila o nalogah sodnika v času dodelitve, ki ga izdela predstojnik organa ali predsednik sodišča, na katero je ali je bil sodnik dodeljen.
+
+(3) Obliko in vsebino mnenja predsednika matičnega sodišča oziroma vodje oddelka in instančnega oddelka ter poročila in mnenja predstojnika organa ali predsednika sodišča, na katero je ali je bil sodnik dodeljen, se podrobneje opredelijo v merilih za oceno kakovosti dela sodnikov, pri čemer se natančneje opredeli tudi postopek sprejemanja mnenja instančnega oddelka.
