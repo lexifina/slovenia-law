@@ -1,0 +1,13 @@
+# 186. člen
+
+(1) Kdor neupravičeno proizvaja, predeluje, prodaja ali ponuja naprodaj ali zaradi prodaje ali dajanja v promet kupuje, hrani ali prenaša ali posreduje pri prodaji ali nakupu ali kako drugače neupravičeno daje v promet rastline ali substance, ki so razvrščene kot prepovedane droge ali nedovoljene snovi v športu, ali predhodne sestavine, ki se uporabljajo za izdelavo prepovedanih drog, ali sredstva ali sestavine, ki se uporabljajo za postopke, ki so razvrščeni kot nedovoljeni v športu, ali postopke, ki so razvrščeni kot nedovoljeni v športu, se kaznuje z zaporom od enega do desetih let.
+
+(2) Kdor prodaja, ponuja na prodaj ali brezplačno deli prepovedano drogo, ali nedovoljeno snov v športu, ali predhodno sestavino za izdelavo prepovedanih drog, ali kdor prodaja, ponuja ali izvaja nedovoljene postopke v športu mladoletni osebi, duševno bolni osebi, osebi z začasno duševno motnjo, hujšo duševno zaostalostjo ali osebi, ki je v postopku odvajanja od odvisnosti ali rehabilitacije ali če stori dejanje v vzgojnih ali izobraževalnih ustanovah ali v njihovi neposredni bližini, v zaporih, v vojaških enotah, v javnih lokalih ali na javnih prireditvah, ali stori dejanje iz prvega odstavka javni uslužbenec, duhovnik, zdravnik, socialni delavec, učitelj ali vzgojitelj in pri tem izkorišča svoj položaj ali kdor za izvrševanje omenjenega dejanja uporablja mladoletne osebe se kaznuje z zaporom od treh do petnajst let.
+
+(3) Če je dejanje iz prvega ali drugega odstavka storjeno v hudodelski združbi za izvedbo takih dejanj, ali če je storilec tega dejanja organiziral mrežo prekupčevalcev ali posrednikov, se kaznuje z zaporom od petih do petnajstih let.
+
+(4) Kdor brez pooblastila izdeluje, nabavlja, ima ali daje v uporabo opremo, snovi ali predhodne sestavine, za katere ve, da so namenjene za izdelavo prepovedanih drog ali nedovoljenih snovi v športu ali za uporabo nedovoljenih postopkov v športu, se kaznuje z zaporom od šestih mesecev do petih let.
+
+(5) Prepovedane droge, nedovoljene snovi v športu, sredstva ali sestavine, ki omogočajo uporabo nedovoljenih postopkov v športu, in sredstva za njihovo izdelovanje se vzamejo. Prevozna sredstva, uporabljena za prevoz in hrambo drog, nedovoljenih snovi v športu ali sredstev, ki omogočajo uporabo nedovoljenih postopkov v športu, se odvzamejo, če imajo za prevoz in hrambo drog ali nedovoljenih snovi in postopkov v športu posebej prirejene prostore ali če je njihov lastnik vedel ali bi bil mogel vedeti, da bodo uporabljena za tak namen.
+
+Omogočanje uživanja ali uporabe prepovedanih drog ali nedovoljenih snovi ali postopkov v športu

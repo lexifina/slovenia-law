@@ -1,0 +1,17 @@
+# 181.a člen
+
+(1) Kdor zato, da bi pridobil plačilo ali drugo premoženjsko korist sebi ali komu drugemu, oglašuje razpoložljivost ali potrebo po delih človeškega telesa ali koga nagovarja ali novači, da bi bil darovalec ali prejemnik delov človeškega telesa, ali drugače posreduje pri dajanju delov telesa žive ali umrle osebe za presaditev, se kaznuje z zaporom do petih let.
+
+(2) Enako kot v prejšnjem odstavku se kaznuje, kdor zato, da bi pridobil plačilo ali drugo premoženjsko korist sebi ali komu drugemu, oglašuje razpoložljivost ali potrebo po spolnih celicah, krvi ali komponentah krvi ali koga nagovarja ali novači, da bi bil darovalec ali prejemnik spolnih celic, krvi ali komponent krvi, ali drugače posreduje pri dajanju spolnih celic, krvi ali komponent krvi.
+
+(3) Enako kot v prvem odstavku tega člena se kaznuje, kdor odvzame ali pridobi odvzeti del človeškega telesa, spolne celice, kri ali komponente krvi, za katere darovalec prejme plačilo ali drugo premoženjsko korist, kdor nezakonito razpolaga z odvzetim delom človeškega telesa, spolnimi celicami, krvjo ali komponentami krvi ali kdor uporabi človeško telo, njegove dele, spolne celice, kri ali komponente krvi z namenom pridobivanja premoženjske koristi sebi ali komu drugemu.
+
+(4) S kaznijo iz prvega odstavka tega člena se kaznuje, kdor pripravlja, ohranja, hrani, prevaža, prenaša, sprejema, uvaža ali izvaža dele človeškega telesa, spolne celice, kri ali komponente krvi, ki so bili odvzeti v nasprotju s predpisi s področja pridobivanja in presaditve delov človeškega telesa, spolnih celic, krvi ali komponent krvi zaradi zdravljenja.
+
+(5) Če stori dejanje iz prvega, drugega, tretjega ali četrtega odstavka tega člena oseba z zlorabo svojega položaja, ali če je dejanje storjeno v hudodelski združbi za izvedbo takih dejanj, se storilec kaznuje z zaporom od enega do petih let.
+
+(6) Če ima dejanje iz prvega, drugega, tretjega ali petega odstavka tega člena za posledico posebno hudo telesno poškodbo ali temu ustrezno okvaro zdravja ene ali več oseb, ali če je bilo dejanje storjeno zoper mladoletno ali drugo ranljivo osebo, se storilec kaznuje z zaporom od enega do osmih let.
+
+(7) Če ima dejanje iz prvega, drugega, tretjega ali petega odstavka tega člena za posledico smrt ene ali več oseb, se storilec kaznuje z zaporom od enega do petnajstih let.
+
+Malomarno opravljanje lekarniške dejavnosti

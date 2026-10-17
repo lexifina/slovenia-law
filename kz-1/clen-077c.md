@@ -1,0 +1,9 @@
+# 77.c člen
+
+(1) Ne glede na pravno podlago prenosa se domneva, da je bila premoženjska korist oziroma premoženje, ki je predmet odvzema po določbah tega poglavja, preneseno brezplačno ali za plačilo, ki ne ustreza dejanski vrednosti, če so jih storilec ali njegovi bližnji sorodniki (razmerja iz 224. člena tega zakonika) neposredno ali posredno prenesli na gospodarsko družbo ali drugo pravno osebo, ki je v njihovi večinski lasti ali imajo v njej pravico izvajati prevladujoč vpliv ali nadzor.
+
+(2) Družbi ali osebi iz prejšnjega odstavka se premoženjska korist ali premoženje ne odvzame, če dokaže, da je zanj plačala dejansko vrednost.
+
+## Osmo poglavje PRAVNE POSLEDICE OBSODBE
+
+Nastanek pravnih posledic obsodbe

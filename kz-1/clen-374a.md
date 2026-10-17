@@ -1,0 +1,5 @@
+# 374.a člen
+
+(1) Kdor v nasprotju z omejitvami, ki so določene v predpisih o izvrševanju omejevalnih ukrepov, sprejetih na podlagi pravnih aktov in odločitev mednarodnih organizacij, ali omejitvami, ki se v skladu s pravno ureditvijo mednarodnih organizacij v Republiki Sloveniji uporabljajo neposredno, ponudi, proda, nakaže, prenese, menja, dostavi, uvozi, izvozi, vnese v državo ali iznese iz nje blago, tehnologijo, denar ali premoženje ali pri tem posreduje ali omogoči dostop do takega blaga, tehnologije, denarja ali premoženja ali do koristi od njih ali tega ne onemogoči ali kdor tako blago, tehnologijo, denar ali premoženje protipravno pridobi ali hrani in si tako pridobi veliko premoženjsko korist, se kaznuje z zaporom od šestih mesecev do petih let.
+
+(2) Blago, tehnologijo, denar in premoženje iz prejšnjega odstavka se vzame.

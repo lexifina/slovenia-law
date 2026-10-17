@@ -1,0 +1,7 @@
+# 173.a člen
+
+(1) Kdor osebo, mlajšo od petnajst let, prek informacijskih ali komunikacijskih tehnologij nagovarja za srečanje z namenom, da bi zoper njo storil kaznivo dejanje iz prvega odstavka 173. člena tega zakonika ali zaradi izdelave slik, avdiovizualnih ali drugih predmetov pornografske ali drugačne seksualne vsebine, in so nagovarjanju sledila konkretna dejanja za uresničitev srečanja, se kaznuje z zaporom od enega do treh let.
+
+(2) Dejanje iz prejšnjega odstavka ni protipravno, če je bilo storjeno zaradi uresničitve dejanja iz prvega odstavka 173. člena in pod pogoji iz petega odstavka 173. člena tega zakonika.
+
+Kršitev spolne nedotakljivost z zlorabo položaja
