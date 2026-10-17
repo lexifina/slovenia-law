@@ -1,0 +1,3 @@
+# 159. člen (sprememba Zakona o finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju)
+
+V Zakonu o finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju (Uradni list RS, št. 176/21 – uradno prečiščeno besedilo, 178/21 – popr., 196/21 – odl. US, 157/22 – odl. US, 35/23 – odl. US, 57/23 – odl. US, 102/23, 25/25 – odl. US in 40/25) se v četrtem odstavku 52. člena besedilo »Višje sodišče v Ljubljani« in v 3. točki drugega odstavka 450. člena besedilo »Okrožno sodišče v Ljubljani« nadomestita z besedilom »sodišče, izključno pristojno v skladu z zakonom, ki ureja sodišča«.

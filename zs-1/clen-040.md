@@ -1,0 +1,5 @@
+# 40. člen (zagotavljanje finančnih sredstev)
+
+(1) Finančna sredstva za plače sodnikov in sodnega osebja, stroške poslovanja sodišč, manjša vzdrževalna dela na nepremičnem premoženju, zavarovanje premičnega premoženja v upravljanju sodišč, nakup premičnega premoženja, potrebnega za delo sodišč, ki ga ne zagotavlja ministrstvo v skladu s tretjim odstavkom 118. člena tega zakona, ter njegovo vzdrževanje, se zagotavljajo v finančnih načrtih sodišč kot neposrednih proračunskih uporabnikih.
+
+(2) Vrhovno sodišče pripravi predlog finančnega načrta za sodišča v skladu z zakonom, ki ureja javne finance, in predlog skupnega kadrovskega načrta za sodišča v skladu z zakonom, ki ureja sistem javnih uslužbencev, v delu, ki se nanaša na Specializirano kazensko sodišče Republike Slovenije, pa po predhodnem mnenju predsednika Specializiranega kazenskega sodišča Republike Slovenije. Če mnenje predsednika Specializiranega kazenskega sodišča Republike Slovenije ni usklajeno s predlogom iz prejšnjega stavka, se mnenje predlogu priloži.

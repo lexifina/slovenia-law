@@ -1,0 +1,9 @@
+# 113. člen (čezmejno posredovanje osebnih podatkov)
+
+(1) Sodišča čezmejno in brezplačno posredujejo osebne podatke iz spisov, vpisnikov, imenikov, pomožnih knjig, registrov in javnih knjig iz pristojnosti sodišč pristojnim sodnim organom držav članic Evropske unije, tretjih držav in mednarodnih organizacij, če tako določa zakon, mednarodna pogodba ali neposredno uporaben pravni akt ali odločitev mednarodne organizacije, na katero je Republika Slovenija prenesla uresničevanje dela svojih suverenih pravic (v nadaljnjem besedilu: čezmejno posredovanje).
+
+(2) Sodišča pri posredovanju podatkov, če je to glede na vsebino podatkov ali zaprosilo organa iz prejšnjega odstavka potrebno, posebej navedejo stanje njihove točnosti, popolnosti, posodobljenosti in zanesljivosti ter zaprosijo za enako delovanje sodnih organov, ki jim zagotovijo potrebne osebne podatke s čezmejno izmenjavo. Pri obdelavi prejetih podatkov iz držav članic Evropske unije, tretjih držav ali mednarodnih organizacij so sodišča vezana na omejitve, ki jih je določil organ posredovanja podatkov.
+
+(3) Pri čezmejnem posredovanju podatkov se osebni podatki posredujejo le sodnim organom ali drugim podobnim organom držav članic Evropske unije, tretjih držav ali mednarodnih organizacij, če so potrebni za delovanje oziroma odločanje teh organov in če njihova obdelava ni v neskladju z nameni iz tretjega odstavka 3. člena in prvega odstavka 4. člena tega zakona.
+
+(4) Sodišče Republike Slovenije v konkretni zadevi določi omejitve obdelave osebnih podatkov, ki se posredujejo tujim sodnim organom držav članic Evropske unije ali tretjih držav, z namenom varstva interesa postopka, tajnosti postopkov, zasebnosti oseb, varstva domneve nedolžnosti in pravice do poštenega sojenja. Sodišče Republike Slovenije lahko te omejitve označi tudi s priloženimi opombami, ki se nanašajo na opis stanja zadeve oziroma faze sodnega postopka ali na pomen uradnega zapisa po pravnem redu Republike Slovenije.

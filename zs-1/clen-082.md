@@ -1,0 +1,5 @@
+# 82. člen (povečanje števila nerešenih zadev)
+
+(1) Vrhovno sodišče lahko sodišču, ki negativno odstopa glede na kazalnike o poslovanju sodišča ali izkazuje negativne trende pri kazalnikih o poslovanju sodišča v letnih poročilih o poslovanju sodišča za preteklo leto, naloži pripravo programa reševanja nerešenih zadev (v nadaljnjem besedilu: program reševanja).
+
+(2) Predsednik vrhovnega sodišča lahko pripravi in predlaga ministru program oziroma projekt državnega pomena za odpravo povečanega števila nerešenih zadev, ki ga sprejme Vlada Republike Slovenije (v nadaljnjem besedilu: vlada), če se na sodiščih kljub izvedenim ukrepom, ki so določeni v programu reševanja, poslovni rezultati ne izboljšajo glede na načrtovano v programu reševanja. Za izvedbo programa oziroma projekta se v proračunu Republike Slovenije zagotovijo potrebna sredstva. Sodnikom, ki sodelujejo pri programu oziroma projektu iz prejšnjega stavka, pripada dodatek za delo preko polnega delovnega časa za opravljanje dela na projektu v skladu z zakonom, ki ureja skupne temelje sistema plač v javnem sektorju.
