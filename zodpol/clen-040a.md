@@ -1,0 +1,11 @@
+# 40.a člen (uporaba civilne službene obleke, delovne obleke ali lastnih civilnih oblačil)
+
+(1) Policisti lahko policijske naloge opravljajo tudi v civilni službeni obleki, delovni obleki ali lastnih civilnih oblačilih.
+
+(2) Neuniformirani policisti lahko opravljajo policijske naloge v civilni službeni obleki, ki jo zagotovi delodajalec. Civilno službeno obleko prejmejo policisti, ki opravljajo policijske naloge, pri katerih se zahteva poslovna urejenost z enotnimi oblačili po kroju ali barvi. Z aktom o organizaciji in sistemizaciji se določijo delovna mesta, na katerih se naloge opravljajo v civilni službeni obleki. Prejem civilne službene obleke izključuje pravico do prejema denarnega nadomestila za lastna civilna oblačila.
+
+(3) Neuniformirani policisti lahko opravljajo policijske naloge tudi v delovni obleki, ki jo zagotovi delodajalec. Na delovni obleki se lahko nosijo simboli policije v skladu s predpisom vlade, ki ureja vrste policijskih uniform, položajnih oznak in simbolov v policiji. Delovno obleko prejmejo neuniformirani policisti, ki opravljajo naloge policije iz druge alineje prvega odstavka 4. člena Zakona o nalogah in pooblastilih policije (Uradni list RS, št. 15/13 in 23/15 – popr.). Delovna mesta, na katerih se naloge opravljajo v delovni obleki, se določijo z aktom o organizaciji in sistemizaciji.
+
+(4) Policisti, ki v lastnih civilnih oblačilih opravljajo policijske naloge, kjer se zahteva poslovna urejenost brez potrebe po enotnih oblačilih ali zaradi narave dela prihaja do nesorazmerne obrabe lastnih civilnih oblačil, pa niso prejemniki civilne službene obleke, so upravičeni do denarnega nadomestila. Delovna mesta in naloge iz prejšnjega stavka se določijo z aktom o organizaciji in sistemizaciji.
+
+(5) Način vzdrževanja in nadomestilo za čiščenje oblek, sestavo civilne službene obleke in delovne obleke in višino letnega denarnega nadomestila za uporabo lastnih oblačil v službene namene predpiše minister.

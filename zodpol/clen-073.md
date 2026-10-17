@@ -1,0 +1,13 @@
+# 73. člen (delo preko polnega delovnega časa v izjemnih ali nujnih primerih)
+
+(1) Ne glede na določbe zakona, ki ureja delovna razmerja, o časovnih omejitvah dnevne delovne obveznosti, dnevnega in tedenskega počitka ter dela preko polnega delovnega časa, lahko v izjemnih, nujnih ali nepredvidenih primerih, ko ni mogoče na drugačen način opraviti nalog policije, nadrejeni policistu po poteku delovnega časa odredi, da po poteku delovnega časa brez take prekinitve dela, ki bi policistu omogočila počitek, kot ga določa zakon, ki ureja delovna razmerja, dokonča začeto nalogo ali opravi nujno nalogo.
+
+(2) Odreditev dela po prejšnjem odstavku je dopustna le za najkrajši možni čas, s tem da je treba policistu takoj po prenehanju razlogov zagotoviti sorazmerno daljši počitek skladno s splošnimi predpisi in kolektivnimi pogodbami. Soglasje policista ni potrebno.
+
+(3) Delo preko polnega delovnega časa po prvem odstavku tega člena mora nadrejeni odrediti v pisni obliki praviloma pred potekom rednega delovnega časa. Če zaradi narave dela ali nujnosti opravljanja dela to ni mogoče, se lahko delo preko polnega delovnega časa v izjemnih in nujnih primerih odredi ustno. V tem primeru se pisna odreditev vroči policistu naknadno, najkasneje v osmih dneh po opravljenem nadurnem delu.
+
+(4) Delo preko polnega delovnega časa, odrejeno na podlagi prvega odstavka tega člena, lahko traja največ 20 ur na teden oziroma 80 ur na mesec.
+
+(5) Določba prejšnjega odstavka ne velja za policiste, ki zaradi specifičnosti opravljanja nalog policije teh ne morejo opraviti v času, določenem v prejšnjem odstavku, ali pri katerih bi zaradi prenehanja opravljanja teh nalog lahko prišlo do ogrožanja njihovih življenj in zasedajo delovna mesta, ki jih v aktu o organizaciji in sistemizaciji določi minister. Povprečen delovni čas iz tega odstavka, vključno z delom preko polnega delovnega časa, ne sme presegati 48 ur v sedemdnevnem obdobju, izračunanem kot povprečje v posameznem referenčnem obdobju.
+
+(6) S kolektivno pogodbo na ravni dejavnosti se lahko za policiste, ki izvajajo naloge varovanja določenih oseb, naloge policije v zvezi s prikritimi preiskovalnimi ukrepi, naloge policije v zvezi z zaščito prič, naloge na področju protiteroristične dejavnosti ter zahtevnejše operativne naloge policije, ki so povezane z visoko stopnjo tveganja za varnost, zdravje ali življenje ljudi in pri katerih se zahteva najvišja stopnja izurjenosti in psihofizičnih zmožnosti ter uporaba posebnih znanj in veščin, določijo odmori, počitki, delo preko polnega delovnega časa in najdaljši tedenski delovni čas, ki so za policiste drugačni, kot pa je to določeno s tem zakonom in z zakonom, ki ureja delovna razmerja.

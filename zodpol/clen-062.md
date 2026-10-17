@@ -1,0 +1,11 @@
+# 62. člen (omejitev policijskih pooblastil)
+
+(1) Policistu, ki je zaradi težav v duševnem zdravju začasno nezmožen izvajati policijska pooblastila, lahko generalni direktor policije na podlagi ocene zdravstvene komisije policije z odločbo začasno omeji izvajanje policijskih pooblastil tako, da se mu odvzame službeno orožje, ali tako, da se mu odvzameta službeno orožje in službena izkaznica, lahko pa se mu tudi prepreči dostop do evidenc in se neposrednemu vodji policista odredi, naj policistu v tem času odreja delo, primerno njegovemu zdravstvenemu stanju. Ukrep lahko traja največ 60 dni in se lahko na podlagi ocene zdravstvene komisije podaljša, vsakič za največ 60 dni, do zaključka zdravljenja.
+
+(2) Neposredni vodja policista, ki meni, da so se pri policistu pojavile okoliščine iz prejšnjega odstavka, v roku 24 ur ali najpozneje prvi naslednji delovni dan predloži predlog za oceno zmožnosti policista za opravljanje nalog policije zdravstveni komisiji policije, policistu pa takoj odvzame službeno orožje in službeno izkaznico ter mu prepreči dostop do evidenc. Zdravstvena komisija mora predlog obravnavati in v osmih dneh po prejemu predloga z oceno zmožnosti policista za opravljanje nalog policije seznaniti generalnega direktorja policije ali predlagatelju sporočiti, da pogoji za omejitev izvajanja policijskih pooblastil iz prejšnjega odstavka niso izpolnjeni. V primeru začasne zadržanosti od dela zaradi bolezni se roki iz prejšnjega stavka štejejo od vrnitve policista na delo.
+
+(3) Predlog za oceno zmožnosti policista za opravljanje nalog policije zaradi okoliščin iz prvega odstavka tega člena lahko zdravstveni komisiji policije predloži tudi izvajalec medicine dela ministrstva.
+
+(4) O prenehanju razlogov za začasni ukrep po prvem odstavku tega člena zdravstvena komisija obvesti generalnega direktorja policije, ki nemudoma odpravi ukrep.
+
+(5) Zoper odločbo iz prvega odstavka tega člena je dopustna pritožba v osmih dneh. Pritožba ne zadrži izvršitve odločbe. O pritožbi odloči minister v roku osmih delovnih dni.
