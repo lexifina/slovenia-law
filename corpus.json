@@ -29,5 +29,9 @@
   },
   "tool": "tools/na_dan.py",
   "in_force_trailer": "In-force",
-  "record_to": "2025-12-01"
+  "record_to": "2025-12-01",
+  "citation": {
+    "file": "([a-z]+)/clen-0*([0-9]+[a-z]*)\\.md",
+    "cites": "([^0-9]|^){n}\\. ?(člen|člena|členu|členom)"
+  }
 }
