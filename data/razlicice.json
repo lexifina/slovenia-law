@@ -1,0 +1,548 @@
+{
+ "built": "2026-10-28",
+ "source": "https://pisrs.si",
+ "acts": [
+  {
+   "id": "USTA1",
+   "slug": "urs",
+   "title": "Ustava Republike Slovenije (URS)",
+   "sop": "1991-01-1409",
+   "relations": "https://pisrs.si/api/povezave/med-si-akti/130859",
+   "versions": [
+    {
+     "name": "Osnovni",
+     "npb_id": 9084011,
+     "in_force": "1991-12-23",
+     "act": "1991-01-1409",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9084011",
+     "sha256": "cf7ed0e84754d79c154809e7c8e5e185d1bb14f84a9160b93c4fe244654cb8d5"
+    },
+    {
+     "name": "NPB 1",
+     "npb_id": 8760025,
+     "in_force": "1997-07-14",
+     "act": "1997-01-2341",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8760025",
+     "sha256": "b842145d5475aa27285e704ed2d5f776916113018a9c62bb691232ff676e6f80"
+    },
+    {
+     "name": "NPB 2",
+     "npb_id": 8758804,
+     "in_force": "2000-07-25",
+     "act": "2000-01-3052",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8758804",
+     "sha256": "89a97f1bcdf0a319bb42b6c44530786c1c3aa1fb365408b0d70051f65375374d"
+    },
+    {
+     "name": "NPB 3",
+     "npb_id": 8762330,
+     "in_force": "2003-03-07",
+     "act": "2003-01-0899",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8762330",
+     "sha256": "f436cbccf834a6f0f6675d5ae90485b5c5389c4161407d75f30011dc373b819c"
+    },
+    {
+     "name": "NPB 4",
+     "npb_id": 9084753,
+     "in_force": "2004-06-15",
+     "act": "2004-01-3088",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9084753",
+     "sha256": "db76616f1444283cf2423a3728c8ed19d76d62518e78e6f9346f04cfa91dc10e"
+    },
+    {
+     "name": "NPB 5",
+     "npb_id": 8760769,
+     "in_force": "2004-06-15",
+     "act": "2004-01-3090",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8760769",
+     "sha256": "cc80a25e5142f946e3c194abdbefc7602aec60a4bb59e4babf049e0210fa75f0"
+    },
+    {
+     "name": "NPB 6",
+     "npb_id": 8761547,
+     "in_force": "2004-06-15",
+     "act": "2004-01-3092",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8761547",
+     "sha256": "f9e55167dac1c85371c146614aa26347492b06acfbf890a610ad3ade96903841"
+    },
+    {
+     "name": "NPB 7",
+     "npb_id": 9085553,
+     "in_force": "2006-06-20",
+     "act": "2006-01-2951",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9085553",
+     "sha256": "f97d0b9898234c4db70f00372de7eea1f034808fb9a6231cff4c07e26db09e5c"
+    },
+    {
+     "name": "NPB 8",
+     "npb_id": 8763097,
+     "in_force": "2013-05-31",
+     "act": "2013-01-1777",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8763097",
+     "sha256": "9ee08f6561646a85907ed9af1c41095500a698f8466ae672770fbde14ccbec0b"
+    },
+    {
+     "name": "NPB 9",
+     "npb_id": 8763894,
+     "in_force": "2013-05-31",
+     "act": "2013-01-1779",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8763894",
+     "sha256": "9905e759656580f5b18e09842726b6ded5dd67dccc7f7506df99046e71a7d9b1"
+    },
+    {
+     "name": "NPB 10",
+     "npb_id": 8797010,
+     "in_force": "2016-11-17",
+     "act": "2016-01-3208",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8797010",
+     "sha256": "4cb3a45aade892a1ab6a3ee31df308d54e48a616901f1469b268ec5f2de3a5f8"
+    },
+    {
+     "name": "NPB 11",
+     "npb_id": 8797831,
+     "in_force": "2021-06-04",
+     "act": "2021-01-1970",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8797831",
+     "sha256": "638012b7758de62d4c5fff6f7b325e9a8ff5f214fc5310c15cf228ed03901171"
+    },
+    {
+     "name": "NPB 12",
+     "npb_id": 408999900,
+     "in_force": "2025-12-01",
+     "act": "2025-01-3369",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/408999900",
+     "sha256": "7b61cf95ae2f2b1d919296f446da154162c729eaae8193cd2ac0f6609409fff5"
+    }
+   ],
+   "amending_acts": [
+    {
+     "sop": "1991-01-1409",
+     "id": "USTA1",
+     "ul": "33/91-I",
+     "short": "URS",
+     "title": "Ustava Republike Slovenije (URS)",
+     "adopted": "1991-12-23",
+     "published": "1991-12-28",
+     "in_force": "1991-12-23",
+     "applies": null,
+     "text": null
+    },
+    {
+     "sop": "1997-01-2341",
+     "id": "USTZ2",
+     "ul": "42/97",
+     "short": "UZS68",
+     "title": "Ustavni zakon o spremembi 68. člena ustave Republike Slovenije (UZS68)",
+     "adopted": "1997-07-14",
+     "published": "1997-07-17",
+     "in_force": "1997-07-14",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465617215"
+    },
+    {
+     "sop": "2000-01-3052",
+     "id": "USTZ19",
+     "ul": "66/00",
+     "short": "UZ80",
+     "title": "Ustavni zakon o dopolnitvi 80. člena ustave Republike Slovenije (UZ80)",
+     "adopted": "2000-07-25",
+     "published": "2000-07-26",
+     "in_force": "2000-07-25",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465617190"
+    },
+    {
+     "sop": "2003-01-0899",
+     "id": "USTZ30",
+     "ul": "24/03",
+     "short": "UZ3a, 47, 68",
+     "title": "Ustavni zakon o spremembah I. poglavja ter 47. in 68. člena ustave Republike Slovenije (UZ3a, 47, 68)",
+     "adopted": "2003-02-27",
+     "published": "2003-03-07",
+     "in_force": "2003-03-07",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466362543"
+    },
+    {
+     "sop": "2004-01-3088",
+     "id": "USTA10",
+     "ul": "69/04",
+     "short": "UZ14",
+     "title": "Ustavni zakon o spremembi 14. člena Ustave Republike Slovenije (UZ14)",
+     "adopted": "2004-06-15",
+     "published": "2004-06-24",
+     "in_force": "2004-06-15",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466215221"
+    },
+    {
+     "sop": "2004-01-3090",
+     "id": "USTZ22",
+     "ul": "69/04",
+     "short": "UZ43",
+     "title": "Ustavni zakon o spremembi 43. člena Ustave Republike Slovenije (UZ43)",
+     "adopted": "2004-06-15",
+     "published": "2004-06-24",
+     "in_force": "2004-06-15",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466362522"
+    },
+    {
+     "sop": "2004-01-3092",
+     "id": "USTZ24",
+     "ul": "69/04",
+     "short": "UZ50",
+     "title": "Ustavni zakon o spremembi 50. člena Ustave Republike Slovenije (UZ50)",
+     "adopted": "2004-06-15",
+     "published": "2004-06-24",
+     "in_force": "2004-06-15",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465617236"
+    },
+    {
+     "sop": "2006-01-2951",
+     "id": "USTA19",
+     "ul": "68/06",
+     "short": "UZ121,140,143",
+     "title": "Ustavni zakon o spremembah 121., 140. in 143. člena Ustave Republike Slovenije (UZ121,140,143)",
+     "adopted": "2006-06-20",
+     "published": "2006-06-30",
+     "in_force": "2006-06-20",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465665284"
+    },
+    {
+     "sop": "2013-01-1777",
+     "id": "USTZ43",
+     "ul": "47/13",
+     "short": "UZ148",
+     "title": "Ustavni zakon o spremembi 148. člena Ustave Republike Slovenije (UZ148)",
+     "adopted": "2013-05-24",
+     "published": "2013-05-31",
+     "in_force": "2013-05-31",
+     "applies": null,
+     "text": null
+    },
+    {
+     "sop": "2013-01-1779",
+     "id": "USTZ44",
+     "ul": "47/13",
+     "short": "UZ90,97,99",
+     "title": "Ustavni zakon o spremembah 90., 97. in 99. člena Ustave Republike Slovenije (UZ90,97,99)",
+     "adopted": "2013-05-24",
+     "published": "2013-05-31",
+     "in_force": "2013-05-31",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465617257"
+    },
+    {
+     "sop": "2016-01-3208",
+     "id": "USTZ45",
+     "ul": "75/16",
+     "short": "UZ70a",
+     "title": "Ustavni zakon o dopolnitvi III. poglavja Ustave Republike Slovenije (UZ70a)",
+     "adopted": "2016-11-17",
+     "published": "2016-11-30",
+     "in_force": "2016-11-17",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/494534696"
+    },
+    {
+     "sop": "2021-01-1970",
+     "id": "USTZ48",
+     "ul": "92/21",
+     "short": "UZ62a",
+     "title": "Ustavni zakon o dopolnitvi II. poglavja Ustave Republike Slovenije (UZ62a)",
+     "adopted": "2021-05-27",
+     "published": "2021-05-08",
+     "in_force": "2021-06-04",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8798661"
+    },
+    {
+     "sop": "2025-01-3369",
+     "id": "USTZ54",
+     "ul": "98/25",
+     "short": "UZ74a",
+     "title": "Ustavni zakon o dopolnitvi III. poglavja Ustave Republike Slovenije (UZ74a)",
+     "adopted": "2025-11-21",
+     "published": "2025-12-02",
+     "in_force": "2025-12-01",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/409026591"
+    }
+   ]
+  },
+  {
+   "id": "ZAKO185",
+   "slug": "zvdz",
+   "title": "Zakon o volitvah v državni zbor (ZVDZ)",
+   "sop": "1992-01-2068",
+   "relations": "https://pisrs.si/api/povezave/med-si-akti/150675",
+   "versions": [
+    {
+     "name": "Osnovni",
+     "npb_id": 8850728,
+     "in_force": "1992-09-27",
+     "act": "1992-01-2068",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8850728",
+     "sha256": "49a3fb9868a19f502e198bf038b5f4d2b7b4059de2a1fc9fa4a02283388e6352"
+    },
+    {
+     "name": "NPB 1",
+     "npb_id": 9229964,
+     "in_force": "1993-03-27",
+     "act": "1993-01-0587",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9229964",
+     "sha256": "4ed648446162770b2f444f6f9eb0a95e8dd95181bc6b3b868868179c4c5e7f82"
+    },
+    {
+     "name": "NPB 2",
+     "npb_id": 9431453,
+     "in_force": "1995-11-04",
+     "act": "1995-01-2787",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9431453",
+     "sha256": "1d518d15f7ca45655dc8d1cae167cc421fcddd17ce61748a95ccf82d27549c24"
+    },
+    {
+     "name": "NPB 3",
+     "npb_id": 5341739,
+     "in_force": "1997-10-30",
+     "act": "1997-01-3226",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/5341739",
+     "sha256": "9805fcd777ce39f849402ddcd85acd75e79fb7bf5b1ba1d6f4c45415a416a670"
+    },
+    {
+     "name": "NPB 4",
+     "npb_id": 8759559,
+     "in_force": "2000-07-25",
+     "act": "2000-01-3052",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8759559",
+     "sha256": "9242b835e180d459383553fe19b5d94b7469559be2f5d8fe2293cbc32d4b8f67"
+    },
+    {
+     "name": "NPB 5",
+     "npb_id": 9157846,
+     "in_force": "2000-08-23",
+     "act": "2000-01-3303",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9157846",
+     "sha256": "fc588895d447ab2418757f2cf5957a76c0a6286cc06039b2cf78a0a63b779299"
+    },
+    {
+     "name": "NPB 6",
+     "npb_id": 4822860,
+     "in_force": "2003-07-29",
+     "act": "2003-01-3567",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/4822860",
+     "sha256": "253a81e4ec845ea349f37b3db357715afacf25e13d5e74066761ce490fd4c677"
+    },
+    {
+     "name": "NPB 7",
+     "npb_id": 8241025,
+     "in_force": "2006-08-09",
+     "act": "2006-01-3401",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8241025",
+     "sha256": "10f84e05350b9323abce51d3525941ebe9cd2633c18bbaa05cff478e04f0da51"
+    },
+    {
+     "name": "NPB 8",
+     "npb_id": 11323533,
+     "in_force": "2006-10-23",
+     "act": "2006-01-4648",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11323533",
+     "sha256": "7110f03065565d7ace11a7270c605f2bfcb798adc360bd4206a22ddc1b106247"
+    },
+    {
+     "name": "NPB 9",
+     "npb_id": 5413460,
+     "in_force": "2007-06-18",
+     "act": "2007-01-2904",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/5413460",
+     "sha256": "a9d4f84f2ad8dabfca66ce7aaf6e23e066937b441e5e283a8d826f2a94710e3b"
+    },
+    {
+     "name": "NPB 10",
+     "npb_id": 9478838,
+     "in_force": "2017-05-20",
+     "act": "2017-01-1207",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9478838",
+     "sha256": "49e6783cf053ae3164835dca8a6e7549d25a88771a2b0da51e8fbec0d38fdd05"
+    },
+    {
+     "name": "NPB 11",
+     "npb_id": 10026396,
+     "in_force": "2021-03-16",
+     "act": "2021-01-0618",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10026396",
+     "sha256": "43734d532a0127c5f0377613310cfe87e6f24dacfa7d41d1210d7fabd5b84cfb"
+    },
+    {
+     "name": "NPB 12",
+     "npb_id": 40493687,
+     "in_force": "2024-02-10",
+     "act": "2024-01-0293",
+     "json": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/40493687",
+     "sha256": "49f7ebb91a0408fab537e4eecec70e92685bd43320bb56951a7437bceee518ee"
+    }
+   ],
+   "amending_acts": [
+    {
+     "sop": "1992-01-2068",
+     "id": "ZAKO185",
+     "ul": "44/92",
+     "short": "ZVDZ",
+     "title": "Zakon o volitvah v državni zbor (ZVDZ)",
+     "adopted": "1992-09-10",
+     "published": "1992-09-12",
+     "in_force": "1992-09-27",
+     "applies": null,
+     "text": null
+    },
+    {
+     "sop": "1993-01-0587",
+     "id": "ZAKO1536",
+     "ul": "13/93",
+     "short": "ZP-G",
+     "title": "Zakon o spremembah in dopolnitvah zakona o prekrških (ZP-G)",
+     "adopted": "1993-02-26",
+     "published": "1993-03-12",
+     "in_force": "1993-03-27",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/454272619"
+    },
+    {
+     "sop": "1995-01-2787",
+     "id": "ZAKO942",
+     "ul": "60/95",
+     "short": "ZVDZ-A",
+     "title": "Zakon o dopolnitvi zakona o volitvah v Državni zbor (ZVDZ-A)",
+     "adopted": "1995-10-05",
+     "published": "1995-10-20",
+     "in_force": "1995-11-04",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/454375923"
+    },
+    {
+     "sop": "1997-01-3226",
+     "id": "ODLU57",
+     "ul": "67/97",
+     "short": "odl. US",
+     "title": "Odločba o razveljavitvi dela 87. člena zakona o volitvah v Državni zbor, o določitvi ugotavljanja izida glasovanja po pošti iz tujine ter o datumu morebitnega ponovnega glasovanja na volitvah predsednika republike v letu 1997",
+     "adopted": "1997-10-09",
+     "published": "1997-10-30",
+     "in_force": "1997-10-30",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/5341684"
+    },
+    {
+     "sop": "2000-01-3052",
+     "id": "USTZ19",
+     "ul": "66/00",
+     "short": "UZ80",
+     "title": "Ustavni zakon o dopolnitvi 80. člena ustave Republike Slovenije (UZ80)",
+     "adopted": "2000-07-25",
+     "published": "2000-07-26",
+     "in_force": "2000-07-25",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465617190"
+    },
+    {
+     "sop": "2000-01-3303",
+     "id": "ZAKO1453",
+     "ul": "70/00",
+     "short": "ZPolS-A",
+     "title": "Zakon o spremembah in dopolnitvah zakona o političnih strankah (ZPolS-A)",
+     "adopted": "2000-07-19",
+     "published": "2000-08-08",
+     "in_force": "2000-08-23",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465671296"
+    },
+    {
+     "sop": "2003-01-3567",
+     "id": "ODLU636",
+     "ul": "73/03",
+     "short": "odl. US",
+     "title": "Delna razveljavitev zakona o volitvah v državni zbor, zakona o državnem svetu, zakona o volitvah predsednika republike in zakona o lokalnih volitvah",
+     "adopted": "2003-07-10",
+     "published": "2003-07-29",
+     "in_force": "2003-07-29",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/4822684"
+    },
+    {
+     "sop": "2006-01-3401",
+     "id": "ZAKO4330",
+     "ul": "78/06",
+     "short": "ZVDZ-B",
+     "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor (ZVDZ-B)",
+     "adopted": "2006-07-11",
+     "published": "2006-07-25",
+     "in_force": "2006-08-09",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465456731"
+    },
+    {
+     "sop": "2006-01-4648",
+     "id": "ZAKO4952",
+     "ul": "109/06",
+     "short": "ZVDZ-UPB1",
+     "title": "Zakon o volitvah v državni zbor (uradno prečiščeno besedilo) (ZVDZ-UPB1)",
+     "adopted": "2006-09-29",
+     "published": "2006-10-23",
+     "in_force": null,
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465812600"
+    },
+    {
+     "sop": "2007-01-2904",
+     "id": "ODLU1099",
+     "ul": "54/07",
+     "short": "odl. US",
+     "title": "Odločba o ugotovitvi, da sta Zakon o volitvah v Državni zbor in Zakon o lokalnih volitvah v neskladju z Ustavo, ker ne urejata podrobneje pravil o glasovanju po pošti in o zavrnitvi ustavne pritožbe",
+     "adopted": "2007-06-07",
+     "published": "2007-06-18",
+     "in_force": null,
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/5413393"
+    },
+    {
+     "sop": "2017-01-1207",
+     "id": "ZAKO7643",
+     "ul": "23/17",
+     "short": "ZVDZ-C",
+     "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor (ZVDZ-C)",
+     "adopted": "2017-04-20",
+     "published": "2017-05-05",
+     "in_force": "2017-05-20",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/220336567"
+    },
+    {
+     "sop": "2021-01-0618",
+     "id": "ZAKO8312",
+     "ul": "29/21",
+     "short": "ZVDZ-D",
+     "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor (ZVDZ-D)",
+     "adopted": "2021-02-16",
+     "published": "2021-03-01",
+     "in_force": "2021-03-16",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/90197464"
+    },
+    {
+     "sop": "2024-01-0293",
+     "id": "ZAKO8925",
+     "ul": "12/24",
+     "short": "ZVDZ-E",
+     "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor (ZVDZ-E)",
+     "adopted": "2024-01-30",
+     "published": "2024-02-09",
+     "in_force": "2024-02-10",
+     "applies": null,
+     "text": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/68956771"
+    }
+   ]
+  }
+ ]
+}
