@@ -27,5 +27,7 @@
       "decided_here": false
     }
   },
-  "tool": "tools/na_dan.py"
+  "tool": "tools/na_dan.py",
+  "in_force_trailer": "In-force",
+  "record_to": "2025-12-01"
 }
