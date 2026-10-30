@@ -1,0 +1,3 @@
+# 1. člen (vsebina zakona)
+
+S tem zakonom se določajo pristojni organi in njihova pooblastila, enotni povezovalni organ ter prekrški in sankcije za izvajanje Uredbe (EU) 2017/2394 Evropskega parlamenta in Sveta z dne 12. decembra 2017 o sodelovanju med nacionalnimi organi, odgovornimi za izvrševanje zakonodaje o varstvu potrošnikov in razveljavitvi Uredbe (ES) št. 2006/2004 (UL L št. 345 z dne 27. 12. 2017, str. 1), zadnjič spremenjene z Direktivo (EU) 2019/771 Evropskega parlamenta in Sveta z dne 20. maja 2019 o nekaterih vidikih pogodb za prodajo blaga, spremembi Uredbe (EU) 2017/2394 in Direktive 2009/22/ES ter razveljavitvi Direktive 1999/44/ES (UL L št. 136 z dne 22. 5. 2019, str. 28), (v nadaljnjem besedilu: Uredba 2017/2394/EU), ki jih izrekajo pristojni organi.
