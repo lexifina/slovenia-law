@@ -1,15 +1,25 @@
 # Every act in this repository
 
-286 acts, 702 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+328 acts, 793 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## zakon (286, of which 63 amending acts)
+## pravilnik (1)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Pravilnik o določitvi zvrsti predmetov kulturne dediščine | [`pravilnik/2000/zako1992/`](pravilnik/2000/zako1992/) | repealed 2011-01-01 | 2 | 2000-09-03 | 2011-01-01 |
+
+## zakon (327, of which 76 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Zakon o ureditvi določenih vprašanj radijskega prometa (ZUDVRP) | [`zakon/1970/zako74/`](zakon/1970/zako74/) | repealed 2022-01-22 | 2 | 1970-06-25 | 2022-01-22 |
+| Zakon o republiških priznavalninah (ZRPri) | [`zakon/1971/zako1948/`](zakon/1971/zako1948/) | in force | 1 | 1971-07-29 | 1971-07-29 |
+| Zakon o preživninah bivšim zasebnim dimnikarskim obrtnikom (ZPBZD) | [`zakon/1971/zako1949/`](zakon/1971/zako1949/) | repealed 2022-01-22 | 2 | 1971-06-17 | 2022-01-22 |
 | Zakon o prepovedi nomadske paše (ZPNomP) | [`zakon/1974/zako123/`](zakon/1974/zako123/) | repealed 2022-01-22 | 5 | 1974-12-27 | 2022-01-22 |
 | Zakon o poslovnih stavbah in poslovnih prostorih (ZPSPP) | [`zakon/1974/zako127/`](zakon/1974/zako127/) | repealed 2021-06-19 | 6 | 1974-05-18 | 2021-06-19 |
 | Zakon o temeljni geodetski izmeri (ZTGI) | [`zakon/1974/zako132/`](zakon/1974/zako132/) | repealed 2014-04-26 | 4 | 1974-05-04 | 2014-04-26 |
+| Zakon o ukrepih SR Slovenije za pospeševanje proizvodnje mleka | [`zakon/1974/zako1744/`](zakon/1974/zako1744/) | repealed 2022-01-22 | 2 | 1974-07-20 | 2022-01-22 |
+| Zakon o vinu in drugih proizvodih iz grozdja in vina (ZVDP) | [`zakon/1974/zako1826/`](zakon/1974/zako1826/) | repealed 1997-11-29 | 3 | 1974-05-04 | 1997-11-29 |
 | Zakon o varstvu pred požarom | [`zakon/1976/zako179/`](zakon/1976/zako179/) | repealed 2022-01-22 | 7 | 1976-02-27 | 2022-01-22 |
 | Zakon o eksplozivnih snoveh, vnetljivih tekočinah, plinih ter o drugih nevarnih snoveh (ZES) | [`zakon/1977/zako1515/`](zakon/1977/zako1515/) | repealed 2022-01-22 | 6 | 1977-10-22 | 2022-01-22 |
 | Zakon o seizmološki službi (ZSeiS) | [`zakon/1978/zako38/`](zakon/1978/zako38/) | repealed 2025-10-15 | 4 | 1978-07-19 | 2025-10-15 |
@@ -21,6 +31,7 @@
 | Zakon o komunalnih dejavnostih (ZKD) | [`zakon/1982/zako138/`](zakon/1982/zako138/) | repealed 2021-12-31 | 6 | 1982-03-13 | 2021-12-31 |
 | Zakon o pokopališki in pogrebni dejavnosti ter o urejanju pokopališč (ZPPDUP) | [`zakon/1984/zako199/`](zakon/1984/zako199/) | repealed 2016-10-15 | 4 | 1984-11-27 | 2016-10-15 |
 | Zakon o preprečevanju posledic rudarjenja v rudniku živega srebra Idrija (ZPPPR) | [`zakon/1987/zako157/`](zakon/1987/zako157/) | in force | 3 | 1987-10-17 | 2005-03-15 |
+| Zakon o zagotavljanju dela sredstev, potrebnih za postopno zapiranje Rudnika svinca in cinka v Mežici (ZZDSP) | [`zakon/1988/zako1741/`](zakon/1988/zako1741/) | repealed 2022-01-22 | 2 | 1988-02-20 | 2022-01-22 |
 | Zakon o določitvi nalog, ki jih od 1.1.1990 začasno opravljajo organi samoupravnih interesnih skupnosti in o ustanovitvi določenih republiških upravnih organov (ZEG-D) | [`zakon/1989/zako1481/`](zakon/1989/zako1481/) | repealed 2022-01-22 | 4 | 1990-01-01 | 2022-01-22 |
 | Zakon o intervencijah v gospodarstvu (ZIG) | [`zakon/1990/zako103/`](zakon/1990/zako103/) | repealed 2022-01-22 | 2 | 1990-12-15 | 2022-01-22 |
 | Zakon o amnestiji (ZA) | [`zakon/1990/zako107/`](zakon/1990/zako107/) | repealed 2022-01-22 | 2 | 1990-10-06 | 2022-01-22 |
@@ -32,6 +43,7 @@
 | Zakon o vojaški dolžnosti (ZVojD) | [`zakon/1991/zako11/`](zakon/1991/zako11/) | in force | 4 | 1991-05-05 | 2002-12-12 |
 | Zakon o cenah (ZCen) | [`zakon/1991/zako167/`](zakon/1991/zako167/) | repealed 1999-08-21 | 2 | 1991-07-03 | 1999-08-21 |
 | Zakon o prenehanju veljavnosti zakona o skladih skupnih rezerv in o prenehanju delovanja skladov skupnih rezerv | [`zakon/1991/zako170/`](zakon/1991/zako170/) | in force | 1 | 1992-01-01 | 1992-01-01 |
+| Zakon o postopku za uveljavljanje socialnovarstvenih pravic (ZPUSP) | [`zakon/1991/zako1865/`](zakon/1991/zako1865/) | repealed 2022-01-22 | 4 | 1991-06-08 | 2022-01-22 |
 | Zakon o obrambi in zaščiti (ZOZ) | [`zakon/1991/zako190/`](zakon/1991/zako190/) | in force | 3 | 1991-04-14 | 1995-01-14 |
 | Zakon o Agenciji Republike Slovenije za zavarovanje vlog v bankah in hranilnicah (ZAZV) | [`zakon/1991/zako203/`](zakon/1991/zako203/) | repealed 2022-01-22 | 3 | 1991-06-25 | 2022-01-22 |
 | Zakon o zagotovitvi sredstev za gradnjo odsekov avtomobilskih cest Malence - Šmarje Sap in Hrušica - Vrba (ZZSGOA) | [`zakon/1991/zako205/`](zakon/1991/zako205/) | repealed 2022-01-22 | 2 | 1991-06-29 | 2022-01-22 |
@@ -58,6 +70,8 @@
 | Zakon o jamstvu Republike Slovenije za obveznosti podjetja Petrol Zemeljski plin d.o.o. Ljubljana za plačilo stroškov prenosa zemeljskega plina in o poroštvu za vračilo kreditov, najetih za refinanciranje obstoječih deviznih kreditov (ZJOPZP) | [`zakon/1992/zako871/`](zakon/1992/zako871/) | repealed 2022-01-22 | 3 | 1992-10-24 | 2022-01-22 |
 | Zakon o jamstvu Republike Slovenije za obveznice, izdane zaradi sanacije bank in hranilnic (ZJOSBH) | [`zakon/1992/zako874/`](zakon/1992/zako874/) | repealed 1995-10-20 | 2 | 1992-12-01 | 1995-10-20 |
 | Zakon o posebnem prispevku solidarnosti za pomoč beguncem (ZPPSP) | [`zakon/1992/zako876/`](zakon/1992/zako876/) | repealed 2022-01-22 | 2 | 1992-06-16 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o davkih občanov (ZDO-C) | [`zakon/1993/zako1749/`](zakon/1993/zako1749/) | amending act | 1 | 1993-02-19 | 1993-02-19 |
+| Zakon o varstvu konkurence (ZVK) | [`zakon/1993/zako1875/`](zakon/1993/zako1875/) | repealed 2015-10-24 | 4 | 1993-04-24 | 2015-10-24 |
 | Zakon o Skladu Republike Slovenije za razvoj (ZSRaz) | [`zakon/1993/zako243/`](zakon/1993/zako243/) | repealed 1997-07-15 | 2 | 1993-02-19 | 1997-07-15 |
 | Zakon o Agenciji Republike Slovenije za prestrukturiranje in privatizacijo (ZAPP) | [`zakon/1993/zako244/`](zakon/1993/zako244/) | repealed 2004-05-07 | 2 | 1993-02-19 | 2004-05-07 |
 | Zakon o poravnavanju odloženih davkov in prispevkov za podjetja, ki so družbeni kapital prenesla na Sklad Republike Slovenije za razvoj (ZPODPP) | [`zakon/1993/zako246/`](zakon/1993/zako246/) | repealed 2022-01-22 | 3 | 1993-02-05 | 2022-01-22 |
@@ -268,6 +282,27 @@
 | Zakon o kontroli cen (ZKC) | [`zakon/1999/zako1406/`](zakon/1999/zako1406/) | in force | 3 | 1999-08-21 | 2006-05-18 |
 | Zakon o splošni varnosti proizvodov (ZSVP) | [`zakon/1999/zako1549/`](zakon/1999/zako1549/) | repealed 2003-11-05 | 2 | 1999-04-09 | 2003-11-05 |
 | Zakon o nematerializiranih vrednostnih papirjih (ZNVP) | [`zakon/1999/zako1612/`](zakon/1999/zako1612/) | repealed 2015-10-23 | 9 | 1999-04-23 | 2015-10-23 |
+| Zakon o spremembah in dopolnitvah zakona o vojnih veteranih (ZVV-A) | [`zakon/1999/zako1716/`](zakon/1999/zako1716/) | amending act | 1 | 2000-01-11 | 2000-01-11 |
+| Zakon o spremembah in dopolnitvi zakona o Jamstvenem skladu Republike Slovenije (ZJSRS-B) | [`zakon/1999/zako1722/`](zakon/1999/zako1722/) | amending act | 1 | 1999-06-02 | 1999-06-02 |
+| Zakon o spremembah in dopolnitvah zakona o socialnem varstvu (ZSV-A) | [`zakon/1999/zako1723/`](zakon/1999/zako1723/) | amending act | 1 | 1999-06-16 | 1999-06-16 |
+| Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu (ZPDI-B) | [`zakon/1999/zako1724/`](zakon/1999/zako1724/) | amending act | 1 | 1999-02-12 | 1999-02-12 |
+| Zakon o spremembi zakona o spremembah in dopolnitvah zakona o kazenskem postopku (ZKP-B) | [`zakon/1999/zako1725/`](zakon/1999/zako1725/) | repealed 2002-01-13 | 2 | 1999-01-30 | 2002-01-13 |
+| Zakon o dopolnitvi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZ-D) | [`zakon/1999/zako1726/`](zakon/1999/zako1726/) | in force | 1 | 1999-01-30 | 1999-01-30 |
+| Zakon o spremembi zakona o zaključku lastninjenja in privatizaciji pravnih oseb v lasti Slovenske razvojne družbe (ZZLPPO-A) | [`zakon/1999/zako1781/`](zakon/1999/zako1781/) | amending act | 1 | 1999-02-27 | 1999-02-27 |
+| Zakon o popisu kmetijskih gospodarstev v Republiki Sloveniji v letu 2000 (ZPKG) | [`zakon/1999/zako1848/`](zakon/1999/zako1848/) | repealed 2022-01-22 | 2 | 1999-12-24 | 2022-01-22 |
+| Zakon o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001 (ZMPUPR) | [`zakon/1999/zako1856/`](zakon/1999/zako1856/) | repealed 2022-01-22 | 5 | 1999-05-26 | 2022-01-22 |
+| Zakon o poroštvu Republike Slovenije za obveznosti DARS d.d. iz naslova kredita, ki ga najame pri Evropski investicijski banki za projekt slovenskih avtocest/III (ZPDKEIBA) | [`zakon/1999/zako1857/`](zakon/1999/zako1857/) | repealed 2022-01-22 | 2 | 1999-05-15 | 2022-01-22 |
+| Zakon o soglasju Republike Slovenije DARS d.d. za najetje kredita pri Evropski investicijski banki - EIB/III, za gradnjo avtocestnega odseka Vransko-Blagovica (ZSDKEIBA) | [`zakon/1999/zako1858/`](zakon/1999/zako1858/) | repealed 2022-01-22 | 2 | 1999-05-15 | 2022-01-22 |
+| Zakon o Slovenski obveščevalno-varnostni agenciji (ZSOVA) | [`zakon/1999/zako1884/`](zakon/1999/zako1884/) | in force | 8 | 1999-04-23 | 2006-07-31 |
+| Zakon o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d. iz naslova posojil, najetih za financiranje določenih del za posodobitev in razvoj slovenske železniške infrastrukture (ZPFRZI) | [`zakon/1999/zako1886/`](zakon/1999/zako1886/) | repealed 2022-01-22 | 3 | 1999-05-01 | 2022-01-22 |
+| Zakon o soglasju Republike Slovenije DARS, d.d. za najetje kreditov za realizacijo gradnje avtocestnih odsekov iz nacionalnega programa izgradnje avtocest v Republiki Sloveniji v višini 330,3 mio USD (ZSDANP) | [`zakon/1999/zako1888/`](zakon/1999/zako1888/) | in force | 1 | 1999-05-01 | 1999-05-01 |
+| Zakon o dopolnitvi zakona o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij (ZIKS-D) | [`zakon/1999/zako1909/`](zakon/1999/zako1909/) | repealed 2022-01-22 | 2 | 1999-04-16 | 2022-01-22 |
+| Zakon o zagotovitvi sredstev za odpravo posledic neurij, poplav in plazenja tal, ki so v obdobju september-november 1998 prizadele Republiko Slovenijo (ZZSO98) | [`zakon/1999/zako1985/`](zakon/1999/zako1985/) | repealed 2022-01-22 | 2 | 1999-05-11 | 2022-01-22 |
+| Zakon o podpori gospodarskim družbam pri razvoju novih tehnologij in vzpostavljanju in delovanju njihovih razvojnih enot v obdobju od leta 2000 do 2003 (ZPGDNT) | [`zakon/1999/zako1988/`](zakon/1999/zako1988/) | repealed 2022-01-22 | 2 | 1999-12-24 | 2022-01-22 |
+| Zakon o dopolnitvi zakona o lekarniški dejavnosti (ZLD-A) | [`zakon/1999/zako2009/`](zakon/1999/zako2009/) | repealed 2017-01-27 | 2 | 1999-05-22 | 2017-01-27 |
+| Zakon o spremembi in dopolnitvi zakona o sodiščih (ZS-B) | [`zakon/1999/zako2010/`](zakon/1999/zako2010/) | repealed 2025-12-19 | 2 | 1999-05-22 | 2025-12-19 |
+| Zakon o spremembah in dopolnitvah zakona o Jamstvenem skladu Republike Slovenije (ZJSRS-C) | [`zakon/1999/zako2058/`](zakon/1999/zako2058/) | amending act | 1 | 1999-07-03 | 1999-07-03 |
+| Zakon o odpisu terjatev Republike Slovenije iz naslova neplačanih povračil za onesnaževanje vode (ZOPOV) | [`zakon/1999/zako2071/`](zakon/1999/zako2071/) | repealed 2022-01-22 | 2 | 1999-12-17 | 2022-01-22 |
 | Zakon o spremembah in dopolnitvah zakona o sodiščih (ZS-C) | [`zakon/2000/zako1214/`](zakon/2000/zako1214/) | repealed 2025-12-19 | 2 | 2000-04-14 | 2025-12-19 |
 | Zakon o kozmetičnih proizvodih (ZKozP) | [`zakon/2000/zako1378/`](zakon/2000/zako1378/) | repealed 2013-11-20 | 5 | 2000-08-10 | 2013-11-20 |
 | Zakon o odvzemu in presaditvi delov človeškega telesa zaradi zdravljenja (ZOPDCT) | [`zakon/2000/zako1401/`](zakon/2000/zako1401/) | repealed 2015-08-28 | 2 | 2000-03-12 | 2015-08-28 |
@@ -279,16 +314,28 @@
 | Zakon o obligacijskih in stvarnopravnih razmerjih v letalstvu (ZOSRL) | [`zakon/2000/zako1622/`](zakon/2000/zako1622/) | in force | 5 | 2000-02-26 | 2011-04-13 |
 | Zakon o poračunavanju finančnih obveznosti Republike Slovenije iz pokojninskega in invalidskega zavarovanja (ZPFOPIZ) | [`zakon/2000/zako1649/`](zakon/2000/zako1649/) | repealed 2016-02-20 | 3 | 2000-09-30 | 2016-02-20 |
 | Zakon o gradbenih proizvodih (ZGPro) | [`zakon/2000/zako1660/`](zakon/2000/zako1660/) | repealed 2013-10-23 | 3 | 2000-06-28 | 2013-10-23 |
+| Zakon o spremembah in dopolnitvah zakona o inšpekciji dela (ZID-B) | [`zakon/2000/zako1721/`](zakon/2000/zako1721/) | repealed 2014-04-01 | 2 | 2000-05-11 | 2014-04-01 |
+| Zakon o popisu prebivalstva, gospodinjstev in stanovanj v Republiki Sloveniji leta 2002 (ZPPG01) | [`zakon/2000/zako1849/`](zakon/2000/zako1849/) | repealed 2022-01-22 | 4 | 2000-08-10 | 2022-01-22 |
+| Zakon o izvozu blaga z dvojno rabo (ZIBDR) | [`zakon/2000/zako2050/`](zakon/2000/zako2050/) | repealed 2004-04-16 | 2 | 2000-05-07 | 2004-04-16 |
 | Zakon o prijavi prebivališča (ZPPreb) | [`zakon/2001/zako1596/`](zakon/2001/zako1596/) | repealed 2016-08-13 | 5 | 2001-02-24 | 2016-08-13 |
 | Zakon o letalstvu (ZLet) | [`zakon/2001/zako1620/`](zakon/2001/zako1620/) | repealed 2025-04-05 | 12 | 2001-04-13 | 2025-04-05 |
 | Zakon o spremembah in dopolnitvah zakona o avtorski in sorodnih pravicah (ZASP-A) | [`zakon/2001/zako1656/`](zakon/2001/zako1656/) | amending act | 1 | 2001-02-24 | 2001-02-24 |
 | Zakon o carinskih ukrepih pri kršitvah pravic intelektualne lastnine (ZCUKPIL) | [`zakon/2001/zako1669/`](zakon/2001/zako1669/) | repealed 2004-05-01 | 2 | 2001-05-11 | 2004-05-01 |
+| Zakon o spremembah in dopolnitvah zakona o državni statistiki (ZDSta-A) | [`zakon/2001/zako1847/`](zakon/2001/zako1847/) | amending act | 1 | 2001-02-24 | 2001-02-24 |
+| Zakon o spremembah in dopolnitvah zakona o odvetništvu (ZOdv-A) | [`zakon/2001/zako1980/`](zakon/2001/zako1980/) | amending act | 1 | 2001-04-20 | 2001-04-20 |
+| Zakon o spremembah in dopolnitvah zakona o socialnem varstvu (ZSV-B) | [`zakon/2001/zako1984/`](zakon/2001/zako1984/) | amending act | 1 | 2001-04-27 | 2001-04-27 |
+| Zakon o spremembi in dopolnitvi zakona o davku na izplačane plače (ZDIP-B) | [`zakon/2001/zako2039/`](zakon/2001/zako2039/) | repealed 2022-01-22 | 2 | 2002-01-12 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o varstvu pred požarom (ZVPoz-A) | [`zakon/2001/zako2056/`](zakon/2001/zako2056/) | amending act | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o overitvi listin v mednarodnem prometu (ZOLMP) | [`zakon/2001/zako2065/`](zakon/2001/zako2065/) | repealed 2017-03-11 | 2 | 2001-08-11 | 2017-03-11 |
 | Zakon o mineralnih gnojilih (ZMinG) | [`zakon/2002/zako1343/`](zakon/2002/zako1343/) | repealed 2006-04-05 | 2 | 2002-07-19 | 2006-04-05 |
 | Zakon o morskem ribištvu (ZMR-1) | [`zakon/2002/zako1346/`](zakon/2002/zako1346/) | repealed 2007-01-01 | 2 | 2002-08-03 | 2007-01-01 |
 | Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov (ZOUTI-A) | [`zakon/2002/zako1393/`](zakon/2002/zako1393/) | repealed 2017-03-11 | 2 | 2003-01-29 | 2017-03-11 |
 | Zakon o spremembah in dopolnitvah zakona o varstvu potrošnikov (ZVPot-A) | [`zakon/2002/zako1408/`](zakon/2002/zako1408/) | repealed 2022-10-26 | 2 | 2003-01-17 | 2022-10-26 |
 | Zakon o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV) | [`zakon/2002/zako1544/`](zakon/2002/zako1544/) | repealed 2018-01-06 | 9 | 2002-10-01 | 2018-01-06 |
 | Zakon o urejanju prostora (ZUreP-1) | [`zakon/2002/zako1581/`](zakon/2002/zako1581/) | repealed 2017-11-17 | 6 | 2003-01-01 | 2017-11-17 |
+| Zakon o spremembah in dopolnitvah zakona o javnih cestah (ZJC-A) | [`zakon/2002/zako1836/`](zakon/2002/zako1836/) | amending act | 1 | 2002-03-15 | 2002-03-15 |
+| Zakon o spremembah in dopolnitvah zakona o gozdovih (ZG-A) | [`zakon/2002/zako1972/`](zakon/2002/zako1972/) | amending act | 1 | 2002-08-10 | 2002-08-10 |
 | Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti (ZZDej-G) | [`zakon/2004/zako1398/`](zakon/2004/zako1398/) | repealed 2016-12-31 | 2 | 2004-01-16 | 2016-12-31 |
 | Zakon o spodbujanju razvoja turizma (ZSRT) | [`zakon/2004/zako1577/`](zakon/2004/zako1577/) | repealed 2018-03-15 | 6 | 2004-01-30 | 2018-03-15 |
 | Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih (ZZZDR-C) | [`zakon/2004/zako1711/`](zakon/2004/zako1711/) | repealed 2017-04-15 | 2 | 2004-05-01 | 2017-04-15 |
+| Zakon o davčni službi (ZDS-1) | [`zakon/2004/zako2015/`](zakon/2004/zako2015/) | repealed 2014-04-12 | 8 | 2004-05-28 | 2014-04-12 |
