@@ -2,6 +2,27 @@
  "country": "SI",
  "acts": [
   {
+   "slug": "zakon-1949-zako2373",
+   "path": "zakon/1949/zako2373",
+   "short": "ZPVZZ",
+   "title": "Zakon o priznanju veljavnosti zakonskih zvez, sklenjenih pred 9. majem 1946, ki se jim je po prejšnjih predpisih oporekala veljavnost (ZPVZZ)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2373",
+   "versions": [
+    {
+     "from": "1949-05-13",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8565434",
+     "sha256": "db09832a428601cda028bde02432854b27784e6af081bbcb3e2b1f2efcb0e51d"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2373",
+     "sha256": "51d488f57b6291a8dcb4a8f62a556661abade910cba850e7f619261e4eaca16b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1970-zako74",
    "path": "zakon/1970/zako74",
    "short": "ZUDVRP",
@@ -55,6 +76,27 @@
      "units": 0,
      "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1949",
      "sha256": "63df32e0470b416d425fa4809b05526a7f7c72bf30a325ef962ad34e2d446cdf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1973-zako2305",
+   "path": "zakon/1973/zako2305",
+   "short": "ZPZOS",
+   "title": "Zakon o preizkušanju in žigosanju oziroma zaznamovanju ročnega strelnega orožja in streliva (ZPZOS)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2305",
+   "versions": [
+    {
+     "from": "1973-11-08",
+     "units": 25,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8530771",
+     "sha256": "10ea1fb0b5a2452177d7fcfb6f75744fb51ade3d7f5f68849edb600f06be958f"
+    },
+    {
+     "from": "1986-07-26",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8530858",
+     "sha256": "48f46f3e80e31c4016e04116b481025636078850d1db8e1095eece8b18d19099"
     }
    ]
   },
@@ -769,6 +811,27 @@
      "units": 0,
      "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO197",
      "sha256": "faf935ce81be336eff3620fe03fb0478fef2c6958041ab9cff26e3a065569b0b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1990-zako2299",
+   "path": "zakon/1990/zako2299",
+   "short": "ZPVZDS",
+   "title": "Zakon o prenehanju veljavnosti zakonov o družbenih svetih (ZPVZDS)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2299",
+   "versions": [
+    {
+     "from": "1990-04-24",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8382344",
+     "sha256": "2c88db48b04f8e35e03bf307afb62270c993be768b66718237d5d88d9f553fa4"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2299",
+     "sha256": "722d51eb3c4d91637a20fe875eb5ddc154a05896f1247b8a2e4c7b4e85744340"
     }
    ]
   },
@@ -3031,6 +3094,33 @@
      "units": 6,
      "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/454267266",
      "sha256": "7f164ec7ea4b16dbce93119613c8f139f50d810792a1d20a969fa22a5d61cf21"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1995-zako2290",
+   "path": "zakon/1995/zako2290",
+   "short": "ZOdl",
+   "title": "Zakon o odlikovanjih Republike Slovenije (ZOdl)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2290",
+   "versions": [
+    {
+     "from": "1995-01-25",
+     "units": 25,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8381067",
+     "sha256": "5cc72189f97160548bbe1a685dae4214a27729ece551d87c2e44813930e1fa89"
+    },
+    {
+     "from": "2004-03-25",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/26335293",
+     "sha256": "f16ee965b4343d9c41d89586a2b0f3dc1c91b021c07e11915d0043497f034eef"
+    },
+    {
+     "from": "2004-06-24",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/26178406",
+     "sha256": "be3f5578f8bfc56ae3b4229e0602df5d57be697adc63c36cbdeee86e812f1039"
     }
    ]
   },
@@ -5567,6 +5657,27 @@
    ]
   },
   {
+   "slug": "zakon-1998-zako2241",
+   "path": "zakon/1998/zako2241",
+   "short": "ZPRSTB-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za najetje posojil za izgradnjo plinskih blokov moči 2 × 114 MW v Termoelektrarni Brestanica (ZPRSTB-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2241",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465329855",
+     "sha256": "855f1c2c7c0b820a0189ee064698be0bcc79422083f47ba4a43e00fcc58d44bb"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2241",
+     "sha256": "8f28c4f55dfb0caf629d00b47db01e02e7dfa13979012c099f03ed7d04fed83a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1998-zako504",
    "path": "zakon/1998/zako504",
    "short": "ZPROE",
@@ -6641,6 +6752,288 @@
    ]
   },
   {
+   "slug": "zakon-1999-zako2082",
+   "path": "zakon/1999/zako2082",
+   "short": "ZIUK99",
+   "title": "Zakon za izvajanje interventnih ukrepov v kmetijstvu v letu 1999 (ZIUK99)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2082",
+   "versions": [
+    {
+     "from": "1999-07-30",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8587867",
+     "sha256": "17ad0b5aea397f4c0a0182fb168d9c606ea430b0ff560017d2fcea6ad122b502"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2082",
+     "sha256": "900e5eb66ac7dc7ca9bef9a3ba518486db1551b0590056a6b3c59525e288a7e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2088",
+   "path": "zakon/1999/zako2088",
+   "short": "ZRLVKP",
+   "title": "Zakon o razpisu rednih lokalnih volitev v Mestni občini Koper (ZRLVKP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2088",
+   "versions": [
+    {
+     "from": "1999-07-03",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8587894",
+     "sha256": "019dd431c66d8caae672c972847b3cf4e75fa0f831f002cc2b5b5e6c031fe6c5"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2088",
+     "sha256": "0ca6ca8b5552c3ca694c99b299882bf7014072a7ea87aa48d93fe7c6ef136d03"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2098",
+   "path": "zakon/1999/zako2098",
+   "short": "ZNPPEN",
+   "title": "Zakon o najemu posojila pri Mednarodni banki za obnovo in razvoj (MBOR) za projekt posodobitve evidentiranja nepremičnin (ZNPPEN)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2098",
+   "versions": [
+    {
+     "from": "1999-11-05",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8587950",
+     "sha256": "4958c30de7a23045df89ed5f6dac5d03389d1149df5c266e6466ec549b41ace9"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2098",
+     "sha256": "6821f15e3b8fd67d85466c07fc6b73973d89f9742f0b2f4f8617288d6c7bb088"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2102",
+   "path": "zakon/1999/zako2102",
+   "short": "ZPVAS-D",
+   "title": "Zakon o spremembi zakona o ponovni vzpostavitvi agrarnih skupnosti ter vrnitvi njihovega premoženja in pravic (ZPVAS-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2102",
+   "versions": [
+    {
+     "from": "1999-07-14",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465599673",
+     "sha256": "689bef0eac3572041b73b96d320d29ae6ee54f412f650b5a6c1ac3dbca4bb430"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2111",
+   "path": "zakon/1999/zako2111",
+   "short": "ZTro-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2111",
+   "versions": [
+    {
+     "from": "1999-07-17",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465600032",
+     "sha256": "88e2cec530db17b54746573d10ade2d90d562494a724bac9e30ea214d0f929e4"
+    },
+    {
+     "from": "2016-07-16",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2111",
+     "sha256": "51474c5c0f0770e627e02541ce2a4fd18443fa3495970a325476e110ddc2486e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2118",
+   "path": "zakon/1999/zako2118",
+   "short": "ZPNKKW",
+   "title": "Zakon o poroštvu Republike Slovenije za obveznosti DARS d.d. iz pogodbe o najetju kredita pri banki Kreditanstalt für Wiederaufbau v višini 85 mio EUR (KfW II) (ZPNKKW)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2118",
+   "versions": [
+    {
+     "from": "1999-11-05",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8339605",
+     "sha256": "8b49d0dbb12dc9b24902efe8c8a78a097f67f2d53d0fc74fa65daeb4bb073e5f"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2118",
+     "sha256": "c772e0bb1e0a2df93e3406d7ea2955b2d463aa2d8238e1d0b2568c00d584db8f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2119",
+   "path": "zakon/1999/zako2119",
+   "short": "ZSDSA4",
+   "title": "Zakon o soglasju Republike Slovenije DARS d.d. za najetje kredita pri Evropski investicijski banki za projekt slovenskih avtocest/IV (ZSDSA4)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2119",
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8339647",
+     "sha256": "86d6e046355d63808373289e2e4412d13addcc55d746507a85123463b5bb51b8"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2119",
+     "sha256": "bd3ecf05188437667447c31e155b5d6da3c318e2fb20258dda4d3653cba3ee2e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2122",
+   "path": "zakon/1999/zako2122",
+   "short": "ZPDSA4",
+   "title": "Zakon o poroštvu Republike Slovenije za obveznosti DARS d.d. iz naslova kredita, ki ga najame pri Evropski investicijski banki za projekt slovenskih avtocest/IV (ZPDSA4)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2122",
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8339688",
+     "sha256": "ce1a47eccd18658d91b963851704abae207976e8dfb1fa6a4eed716197c7ab0a"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2122",
+     "sha256": "14cf79740b6e5e677ef1b5bdf947cef04080b74e7f159166dc8dbf1df3e6c73e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2124",
+   "path": "zakon/1999/zako2124",
+   "short": "ZPFRZI-A",
+   "title": "Zakon o spremembah zakona o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje določenih del za posodobitev in razvoj slovenske železniške infrastrukture (ZPFRZI-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2124",
+   "versions": [
+    {
+     "from": "1999-11-05",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465495203",
+     "sha256": "45a7725ff670ba4128553726c631138c1eb4145d7a234732882db09ce66f945a"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2124",
+     "sha256": "666f3e3aa3f39c38f5a0cbcd1c1b61a00cdbda72288edd8bb56dd8c9cdf6d4ba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2221",
+   "path": "zakon/1999/zako2221",
+   "short": "ZUPP99",
+   "title": "Zakon o ureditvi plačilnega prometa na dan 31. 12. 1999 (ZUPP99)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2221",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7839417",
+     "sha256": "710f0cbd323821f2dae0a04cc7518530ec15010a75e6189c26b4a67373bd6858"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2221",
+     "sha256": "3df9d5e0df09dff73468d63d54b2f94d85b9283e27db08df121a4a5fbf2b55ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2243",
+   "path": "zakon/1999/zako2243",
+   "short": "ZUKD-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o ugotavljanju katastrskega dohodka (ZUKD-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2243",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465329882",
+     "sha256": "e86c58e3cb5a818914a8b4d69c1978de1b8560ec966d82809b197c05c70a9f8a"
+    },
+    {
+     "from": "2011-02-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2243",
+     "sha256": "080a44485d726e1215ba9a39e0dde070d1401bed27720367f7b95cd51b3a336e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2254",
+   "path": "zakon/1999/zako2254",
+   "short": "ZVet-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o veterinarstvu (ZVet-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2254",
+   "versions": [
+    {
+     "from": "1999-12-17",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465576017",
+     "sha256": "54d43e5be51ec736529c1cb95a127fd4b534f9c284d600754018249c7b2c37b3"
+    },
+    {
+     "from": "2001-05-20",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2254",
+     "sha256": "8b51518917458ae829cae548c0f4e09d57276d91c8cc56bd364d353d794d5b29"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2274",
+   "path": "zakon/1999/zako2274",
+   "short": "ZViS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o visokem šolstvu (ZViS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2274",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 43,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465577212",
+     "sha256": "b2242555f592e1dfbc98771b81dd0441c339e15d5fc39a1968bc78ffd9b9cba8"
+    },
+    {
+     "from": "2025-08-09",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2274",
+     "sha256": "13971cd839b4fc8ecbec2037ce3f2e39cd1eb21161f6b1be20c95fe8062a7276"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako2287",
+   "path": "zakon/1999/zako2287",
+   "short": "ZPOOSRP-B",
+   "title": "Zakon o dopolnitvi zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju (ZPOOSRP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2287",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465510038",
+     "sha256": "1f01ff76d5818254b1de8ee9ffbc79835e9f5ef0a4a5e613e98d6769072d3ab7"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2000-zako1214",
    "path": "zakon/2000/zako1214",
    "short": "ZS-C",
@@ -7067,6 +7460,195 @@
    ]
   },
   {
+   "slug": "zakon-2000-zako2236",
+   "path": "zakon/2000/zako2236",
+   "short": "ZSDAVR",
+   "title": "Zakon o soglasju Republike Slovenije DARS d.d. za najetje kredita Autovie Venete S.p.A., za izgradnjo 2. in 3. etape avtocestnega odseka Vipava-Razdrto (ZSDAVR)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2236",
+   "versions": [
+    {
+     "from": "2000-03-04",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8346934",
+     "sha256": "29e016946837c60466737d3888b85cd189c71f46762c9a4dc8c1963ea3375fb8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2263",
+   "path": "zakon/2000/zako2263",
+   "short": "ZZDej-E",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti (ZZDej-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2263",
+   "versions": [
+    {
+     "from": "2000-04-22",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466230948",
+     "sha256": "aef4d08522bd8dbe8e7802c3c3101564fbd74127c880c36373c4cfb31fe122d8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2265",
+   "path": "zakon/2000/zako2265",
+   "short": "ZPDAVR",
+   "title": "Zakon o poroštvu Republike Slovenije za obveznosti iz kredita, ki ga najame DARS d.d. pri Autovie Venete S.p.A. za izgradnjo 2. in 3. etape avtocestnega odseka Vipava-Razdrto (ZPDAVR)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2265",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8529890",
+     "sha256": "048c89482ec8d031bccf257ae12a40dc9fafd600bc861173e3e9172bf644e138"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2266",
+   "path": "zakon/2000/zako2266",
+   "short": "ZIJZ-A",
+   "title": "Zakon o spremembah zakona o investicijah v javne zdravstvene zavode, katerih ustanovitelj je Republika Slovenija, za obdobje 1994-1999 (ZIJZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2266",
+   "versions": [
+    {
+     "from": "2000-04-14",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465576192",
+     "sha256": "c52e4616bfaa04647ffb7a96adf541d47efcea01cc5d5317ce72020d8ab08a98"
+    },
+    {
+     "from": "2015-11-28",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2266",
+     "sha256": "4ef3dd0cc92d80fe67a8238c1bd5df706db467758f73e3cd7c7e271d3511c7f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2267",
+   "path": "zakon/2000/zako2267",
+   "short": "ZNPDND",
+   "title": "Zakon o načinu poravnave dospelih neplačanih obveznih dajatev (ZNPDND)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2267",
+   "versions": [
+    {
+     "from": "2000-01-22",
+     "units": 20,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8529992",
+     "sha256": "567b272260f9091abfb7f2da612e7a86a5294defb301364019fb3a594c80f1ff"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2267",
+     "sha256": "af3b9344b10e5fd43a58e676f05357d6480e732d630f2a8671df6393e92c4a1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2271",
+   "path": "zakon/2000/zako2271",
+   "short": "BPOMZP-A",
+   "title": "Zakon o spremembi zakona o ratifikaciji Sporazuma med Republiko Slovenijo in Republiko Portugalsko o zračnem prometu (BPOMZP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2271",
+   "versions": [
+    {
+     "from": "2000-03-25",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466231312",
+     "sha256": "641aed6015cea2b641018c2bdad2403979887cd5ba9ec9f3d9f2d6b350fa4fb3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2278",
+   "path": "zakon/2000/zako2278",
+   "short": "ZGas-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o gasilstvu (ZGas-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2278",
+   "versions": [
+    {
+     "from": "2000-04-14",
+     "units": 16,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465509416",
+     "sha256": "7313bd878641c3ecef1dc4ea9517b3aa3c16c2f3bfc3ab87251eb7b608cccf60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2292",
+   "path": "zakon/2000/zako2292",
+   "short": "ZTPIU-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o trajnem prenehanju izkoriščanja uranove rude in preprečevanju posledic rudarjenja v Rudniku urana Žirovski vrh (ZTPIU-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2292",
+   "versions": [
+    {
+     "from": "2000-04-14",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466303075",
+     "sha256": "7448d892c7a47bb6efbdd429fe2a9cfe8e79bf3ffcca6da850fd9da7abd8a30e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2315",
+   "path": "zakon/2000/zako2315",
+   "short": "ZVrt-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o vrtcih (ZVrt-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2315",
+   "versions": [
+    {
+     "from": "2000-06-10",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466232658",
+     "sha256": "992176d41b11168f2910915687516a21f6abe3b77eebbe5f2cb8155915c4e4dc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2366",
+   "path": "zakon/2000/zako2366",
+   "short": "ZNPZV",
+   "title": "Zakon o najemu posojila pri Mednarodni banki za obnovo in razvoj (MBOR) za projekt razvoja upravljanja sistema zdravstvenega varstva v Republiki Sloveniji (ZNPZV)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2366",
+   "versions": [
+    {
+     "from": "2000-04-08",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8565039",
+     "sha256": "a35d4b6beed6844ab5ec0c90f855a3df12e93a45fe4f31d2e0c527d9a1816fb7"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2366",
+     "sha256": "0e9f9281661255f4db0a1e336b3654380aa71ee2b4f6b7a9279a842a56f52819"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2431",
+   "path": "zakon/2000/zako2431",
+   "short": "ZZMP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih (ZZMP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2431",
+   "versions": [
+    {
+     "from": "2000-08-09",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465610540",
+     "sha256": "e3b56459e5cad555763f36c349e6b8ddd011891d61503d7462cb9d33e161dc17"
+    },
+    {
+     "from": "2009-12-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2431",
+     "sha256": "e1be9ce98ba001c1c28c5476936a01355b5f71e4eb55491e7e6456c39353f219"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2001-zako1596",
    "path": "zakon/2001/zako1596",
    "short": "ZPPreb",
@@ -7325,6 +7907,21 @@
    ]
   },
   {
+   "slug": "zakon-2001-zako2317",
+   "path": "zakon/2001/zako2317",
+   "short": "ZOFVI-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2317",
+   "versions": [
+    {
+     "from": "2001-08-18",
+     "units": 49,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465578143",
+     "sha256": "f662e78ab4bf5a86cdcff3781b65b4b73a11d27f9561ce52d328772ff1c47beb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2002-zako1343",
    "path": "zakon/2002/zako1343",
    "short": "ZMinG",
@@ -7547,6 +8144,63 @@
    ]
   },
   {
+   "slug": "zakon-2002-zako2210",
+   "path": "zakon/2002/zako2210",
+   "short": "ZOZP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o obveznih zavarovanjih v prometu (ZOZP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2210",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 63,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466230408",
+     "sha256": "883bc7b1ed500c8f184ec66f2cc5ed15e0895bab89c68cac8fae9df0ff8ce993"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako2145",
+   "path": "zakon/2003/zako2145",
+   "short": "ZDDV-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2145",
+   "versions": [
+    {
+     "from": "2003-11-05",
+     "units": 100,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466222746",
+     "sha256": "04dc834ee9e986df61d262f0e12075aa30060a2c5cd83b47fb1b75adf760b139"
+    },
+    {
+     "from": "2006-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2145",
+     "sha256": "dd3bd25c93dc5814370b5f6ebe74ca2492dd3cd2c0fa46a78e3287967a9ffc9c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako2150",
+   "path": "zakon/2003/zako2150",
+   "short": "ZTro-D",
+   "title": "Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2150",
+   "versions": [
+    {
+     "from": "2004-01-02",
+     "units": 65,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466248225",
+     "sha256": "54f35764765830bdb57703991ea0c4d1e052c3fb953a00acf4497f8e6571778d"
+    },
+    {
+     "from": "2016-07-16",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2150",
+     "sha256": "fa85d788b7cde0f40a17b94efd2e5f8daacf3d103a2c69d1c614ace4cc14154b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2004-zako1398",
    "path": "zakon/2004/zako1398",
    "short": "ZZDej-G",
@@ -7687,6 +8341,27 @@
      "units": 0,
      "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2015",
      "sha256": "482264979f26a04c8bcba5e2199d8583069e71fc8a7270a91330ca198c13efc2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako2301",
+   "path": "zakon/2004/zako2301",
+   "short": "ZCS-1A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o carinski službi (ZCS-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2301",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 50,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465577409",
+     "sha256": "9830a5ea9def3d364846de16533c02aee1adff44a33e863ff0f28886445f73d8"
+    },
+    {
+     "from": "2014-04-12",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2301",
+     "sha256": "3de7f69a1f7cdcc2fe4150b0cdad8d558fd16511a9bf59a3e44d2158dcdacf8d"
     }
    ]
   },

@@ -11,6 +11,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | PIS: Pravno-informacijski sistem Republike Slovenije (Register predpisov) | <https://pisrs.si> | 2026-11-03 | Official texts of regulations are not protected by copyright (ZASP, 9. ﾄ考en); PIS data reused with attribution |
 | PIS: Pravno-informacijski sistem Republike Slovenije (Register predpisov) | <https://pisrs.si> | 2026-11-03 | Official texts of regulations are not protected by copyright (ZASP, 9. ﾄ考en); PIS data reused with attribution |
 | PIS: Pravno-informacijski sistem Republike Slovenije (Register predpisov) | <https://pisrs.si> | 2026-11-03 | Official texts of regulations are not protected by copyright (ZASP, 9. ﾄ考en); PIS data reused with attribution |
+| PIS: Pravno-informacijski sistem Republike Slovenije (Register predpisov) | <https://pisrs.si> | 2026-11-03 | Official texts of regulations are not protected by copyright (ZASP, 9. ﾄ考en); PIS data reused with attribution |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -18,21 +19,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 328 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 793 | |
+| 363 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 853 | |
 
-The build made 785 commits:
+The build made 845 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 328 | first version of an act |
-| 232 | one law on its in-force day |
-| 225 | changes no amendment note explains, credited to the publisher |
+| 363 | first version of an act |
+| 235 | one law on its in-force day |
+| 247 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `prihodnje`: laws not yet in force on 2026-11-03.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 531 laws in the record.
-- 3325 tags.
+- 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 564 laws in the record.
+- 3418 tags.
 
 ## Dates
 
@@ -44,7 +45,7 @@ When a law gives no date of its own, the default rule applies: Ustava RS, 154. ﾄ
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `3b4fadadc7d6a2fe17be3650f99384760ae1f06f915e2d13fb4ea52a2ee0494c` (8056502 bytes).
+- Corpus: sha256 `7c8ca7f1725b9f481afb52946f37d5c50f717ae47efc14347725c06703eb5db9` (8573799 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -56,7 +57,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (35 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (42 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -67,6 +68,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- none
 - none
 - none
 - none
