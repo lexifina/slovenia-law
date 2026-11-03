@@ -7817,6 +7817,135 @@
    ]
   },
   {
+   "slug": "zakon-2000-zako2958",
+   "path": "zakon/2000/zako2958",
+   "short": "ZDen-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o denacionalizaciji (ZDen-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2958",
+   "versions": [
+    {
+     "from": "2000-08-03",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465334366",
+     "sha256": "5bb1b3a180d486e6ca49a4daaa2951006d8b9384e9650c308554e21d51c46e52"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2987",
+   "path": "zakon/2000/zako2987",
+   "short": "ZZSO2000",
+   "title": "Zakon o zagotovitvi sredstev za odpravo posledic suše, neurja s točo, plazenja tal in sluzenja morja v letu 2000 (ZZSO2000)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2987",
+   "versions": [
+    {
+     "from": "2000-09-16",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7922015",
+     "sha256": "4bd4540f9b4491b46c211816113a2625744774f8264abd40671f408652e61116"
+    },
+    {
+     "from": "2000-12-30",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8167938",
+     "sha256": "ad5c57cb746ec8d9fc2208388d0965263580ecd9d151fdd316b4d19bd087cc93"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2987",
+     "sha256": "6daa32a86fbd08ee7fb4c1e78048b481a25fc4f5bdbb0cb655008067984e5ef4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako3001",
+   "path": "zakon/2000/zako3001",
+   "short": "ZUT-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah (ZUT-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3001",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 20,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466319765",
+     "sha256": "6797eaa7e3c8308d3baf313f3f7cd3dc01164f5a8d73ce2aeaa8a624b03c146a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako3019",
+   "path": "zakon/2000/zako3019",
+   "short": "ZPSZPH-A",
+   "title": "Zakon o dopolnitvi zakona o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje gradnje železniške proge v smeri Puconci-Hodoš-državna meja (ZPSZPH-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3019",
+   "versions": [
+    {
+     "from": "2000-09-24",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465404271",
+     "sha256": "fa2e346c1116767c7a74568022b124530f07eaf87be4f0650b388c1a42d69b0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako3085",
+   "path": "zakon/2000/zako3085",
+   "short": "ZUPSB",
+   "title": "Zakon o ukrepih za odpravo posledic plazu Stože v Občini Bovec in plazov večjega obsega, nastalih na območju Republike Slovenije po 15. oktobru 2000 (ZUPSB)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3085",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8168004",
+     "sha256": "c26d0d4becf148eca838afc68f419e9744fd5a74633ebc326da1e7a9ca4f114b"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3085",
+     "sha256": "41815416a700d275d06d60ca8b92b59da4f7cfc5bf41a3d2f02b9d6332ae9342"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako3088",
+   "path": "zakon/2000/zako3088",
+   "short": "ZMPUPR-A",
+   "title": "Zakon o dopolnitvah zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001 (ZMPUPR-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3088",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465428968",
+     "sha256": "210fcca04a27fe09899cd626b4b246b239c785e61c759e1215f3824d14b884f3"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3088",
+     "sha256": "4decac86e43ec741ac9a88e7d71ba76fde4b03600a5f5163b674c688a07dda4c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako3089",
+   "path": "zakon/2000/zako3089",
+   "short": "ZJF-A",
+   "title": "Zakon o dopolnitvi zakona o javnih financah (ZJF-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3089",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466365365",
+     "sha256": "bca04a829f67b8249142189ba9ba488c713ed53995784f217408dcff1adeb815"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2001-zako1596",
    "path": "zakon/2001/zako1596",
    "short": "ZPPreb",
@@ -8183,6 +8312,648 @@
    ]
   },
   {
+   "slug": "zakon-2001-zako3053",
+   "path": "zakon/2001/zako3053",
+   "short": "ZZSV-A",
+   "title": "Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (ZZSV-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3053",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466080943",
+     "sha256": "27767874e76800b26ed829dd3f4ed6c7d3b0d356b539e147379dddb5cc02f522"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3093",
+   "path": "zakon/2001/zako3093",
+   "short": "ZPOKP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za obveznosti iz kredita, ki sta ga najela Stanovanjski sklad Republike Slovenije in Sklad za regionalni razvoj in ohranjanje slovenskega podeželja pri Skladu Sveta Evrope za socialni razvoj, za izvedbo programov pri popotresni obnovi in spodbujanju razvoja Posočja (ZPOKP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3093",
+   "versions": [
+    {
+     "from": "2001-02-17",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466365393",
+     "sha256": "e9c8ece5c92a388a3fcbd1aa51db0bc6cc6fc489d089f1a71e30cf4fbe592001"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3093",
+     "sha256": "3804ee3e05bd0d9a0f48e2be3df87799499ee4e44b19ba222fc52f89f21907b8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3098",
+   "path": "zakon/2001/zako3098",
+   "short": "ZRLI-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi (ZRLI-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3098",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466081651",
+     "sha256": "3580c4e7fd11e5b5f8f33ae15b0054b207be7b388a1e1a5b7849996aec0a2c1d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3102",
+   "path": "zakon/2001/zako3102",
+   "short": "ZTNP-B",
+   "title": "Zakon o spremembi in dopolnitvi zakona o Triglavskem narodnem parku (ZTNP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3102",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465429915",
+     "sha256": "2922340f4ac5df4e63c49262cd6acab60198dd174e1ff6dd5e6f4c25ada022c1"
+    },
+    {
+     "from": "2010-07-15",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3102",
+     "sha256": "b1b11714dda6ea68791e683acc7432e2f70843ac2a93cb7423412639eb7e4fd7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3109",
+   "path": "zakon/2001/zako3109",
+   "short": "ZZVN-F",
+   "title": "Zakon o dopolnitvi zakona o žrtvah vojnega nasilja (ZZVN-F)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3109",
+   "versions": [
+    {
+     "from": "2001-08-04",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465430334",
+     "sha256": "d25cadaef3847e344db6aa07284943e4c1fceb02146abd063bc6c74ba01d7eee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3110",
+   "path": "zakon/2001/zako3110",
+   "short": "ZLNDL-A",
+   "title": "Zakon o dopolnitvah zakona o lastninjenju nepremičnin v družbeni lastnini (ZLNDL-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3110",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465430363",
+     "sha256": "072c6c1652113007c0de17604a7a50d01b19522499b64ab9b56c65c870389450"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3124",
+   "path": "zakon/2001/zako3124",
+   "short": "ZPPG01-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o popisu prebivalstva, gospodinjstev in stanovanj v Republiki Sloveniji leta 2001 (ZPPG01-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3124",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466366384",
+     "sha256": "f3abdcf9bd46d868d6bd0ac4704bd9503ab09d06c4c6affafa93b875a38acb0c"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3124",
+     "sha256": "0cb9b0fa85b52908d075ccf5a0ddf0887a92b4891d9e91cf3528e33ea33760c6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3125",
+   "path": "zakon/2001/zako3125",
+   "short": "ZOsn-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o osnovni šoli (ZOsn-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3125",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 23,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465430941",
+     "sha256": "19696bf6a0ed97946352db0134e60f5bd718f033bc4dc727763aadac329348fe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3129",
+   "path": "zakon/2001/zako3129",
+   "short": "MEKPPKZ-A",
+   "title": "Zakon o dopolnitvi zakona o ratifikaciji Evropske konvencije o medsebojni pravni pomoči v kazenskih zadevah in Dodatnega protokola k Evropski konvenciji o medsebojni pravni pomoči v kazenskih zadevah (MEKPPKZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3129",
+   "versions": [
+    {
+     "from": "2001-06-09",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466081700",
+     "sha256": "27250f4cb8aa2223dcc73dcc4ccb281ffd632d8fac1e80ce46c6f5e6c7fb1deb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3132",
+   "path": "zakon/2001/zako3132",
+   "short": "ZIJZ-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o investicijah v javne zdravstvene zavode, katerih ustanovitelj je Republika Slovenija, za obdobje 1994-2003 (ZIJZ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3132",
+   "versions": [
+    {
+     "from": "2001-12-30",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466081734",
+     "sha256": "f0a2afeb5a732a029ade3764adea65837e570505c9824ee436fceaaadaf53ea6"
+    },
+    {
+     "from": "2015-11-28",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3132",
+     "sha256": "8f999dad7eabc547ea5114096b6e2dc078d508eb7b3c8740c14e27f554a51eb7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3136",
+   "path": "zakon/2001/zako3136",
+   "short": "ZPOOSRP-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju (ZPOOSRP-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3136",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465432055",
+     "sha256": "38f60bc5d611bad1abc6a013a572ed60ddb2bbc3e974241d4da0e94234c5818d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3156",
+   "path": "zakon/2001/zako3156",
+   "short": "ZPORND",
+   "title": "Zakon o poroštvu Republike Slovenije za obveznosti Zavoda za obvezne rezerve nafte in njenih derivatov (ZPORND)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3156",
+   "versions": [
+    {
+     "from": "2001-05-12",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8174223",
+     "sha256": "ede6404798d6ce335408cbd01b57c652f5d3ffe25db29395886fc2cffcc492db"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3156",
+     "sha256": "4ce8aa68c3b68bfe16d0c4578940400a837a2e3679b57041fd8f10b49cffaf41"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3159",
+   "path": "zakon/2001/zako3159",
+   "short": "ZIS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o igrah na srečo (ZIS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3159",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 62,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465432457",
+     "sha256": "745d09db8f60ae7afbe3515793ec24bdb1f8a01625e290d37b304a90f331c42c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3171",
+   "path": "zakon/2001/zako3171",
+   "short": "ZGim-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o gimnazijah (ZGim-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3171",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465441827",
+     "sha256": "e4fccddc9e9dc8a47b921449da918674a82f59351e47ac71b2dafcfc3a77d128"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3176",
+   "path": "zakon/2001/zako3176",
+   "short": "ZSDU-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o sodelovanju delavcev pri upravljanju (ZSDU-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3176",
+   "versions": [
+    {
+     "from": "2001-07-21",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466367232",
+     "sha256": "6ff1b557cdc4a9e20d4de578c8307acc2b66d389f5a87a1b1e887b98fc4f7562"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3179",
+   "path": "zakon/2001/zako3179",
+   "short": "ZFS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o Filmskem skladu Republike Slovenije (ZFS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3179",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466367271",
+     "sha256": "32d9aaf470f8257b92f2bad9e96c5b3bca76491cea9c94e38814fb4075b45b2c"
+    },
+    {
+     "from": "2010-10-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3179",
+     "sha256": "e077d7404ca0f62f37881defdd1ae9a25642f112a396fcbd6def7e5744aa3871"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3180",
+   "path": "zakon/2001/zako3180",
+   "short": "ZZZDR-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih (ZZZDR-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3180",
+   "versions": [
+    {
+     "from": "2001-08-18",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465442681",
+     "sha256": "25dce87a499d9dadf8758af8fc2cdd700d28b36d681cf93261a596b7e317d10f"
+    },
+    {
+     "from": "2017-04-15",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3180",
+     "sha256": "d22ca6a19d5bb6a5c012b54fcfcc16bf77844f50e3e8775035db86386bdedff9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3182",
+   "path": "zakon/2001/zako3182",
+   "short": "ZMPUPR-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001 (ZMPUPR-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3182",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465442749",
+     "sha256": "ad51f033749c6f47caa5e0ec9d17e69e8718b10f9089f512b95421a37e435f94"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3182",
+     "sha256": "fdfa84cc40677692ca0754f1e0c84d3a31c24b8e37e9482467465a5d24485a65"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3186",
+   "path": "zakon/2001/zako3186",
+   "short": "ZPSDP-B",
+   "title": "Zakon o spremembah zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov (ZPSDP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3186",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466082434",
+     "sha256": "e43cc1a4632781f75508e28ce51f8092ee5c3a5e28cad5d33416dd2c87db2ad2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3187",
+   "path": "zakon/2001/zako3187",
+   "short": "ZD-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o dedovanju (ZD-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3187",
+   "versions": [
+    {
+     "from": "2001-08-25",
+     "units": 62,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465443164",
+     "sha256": "39230032d72277e319468006fccbcf47ab043142dbd26e8f07e408bc1bbae35b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3188",
+   "path": "zakon/2001/zako3188",
+   "short": "ZPKri-B",
+   "title": "Zakon o spremembi zakona o popravi krivic (ZPKri-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3188",
+   "versions": [
+    {
+     "from": "2001-11-23",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466082462",
+     "sha256": "e938f7c1d928dfb8f5e34b09312cb2f70bef4bc8b51712b0371493c8793c5596"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3195",
+   "path": "zakon/2001/zako3195",
+   "short": "ZUSDDD-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji (ZUSDDD-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3195",
+   "versions": [
+    {
+     "from": "2001-08-18",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465443499",
+     "sha256": "4abd47c89b8b076fd719089c6dbb9b72c880ad17affb83f4157ef143f5a7522f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3198",
+   "path": "zakon/2001/zako3198",
+   "short": "ZVZD-A",
+   "title": "Zakon o spremembi in dopolnitvi zakona o varnosti in zdravju pri delu (ZVZD-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3198",
+   "versions": [
+    {
+     "from": "2001-08-18",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465443677",
+     "sha256": "71b1c3b7a04711da3abe7a963a51b38cf44026c6f6cbcbd05158024375b58b45"
+    },
+    {
+     "from": "2011-12-04",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3198",
+     "sha256": "20737de9c76b9bda83128d5043b5c142133747c031693228e9f0077390a772d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3208",
+   "path": "zakon/2001/zako3208",
+   "short": "ZUKLPP-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o uporabi sredstev, pridobljenih iz naslova kupnine na podlagi zakona o lastninskem preoblikovanju podjetij (ZUKLPP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3208",
+   "versions": [
+    {
+     "from": "2001-08-25",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465444185",
+     "sha256": "63ce87fe82744f9e3627d1c4cca38c404e236945d9562d6e9e42aa29b79856f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3210",
+   "path": "zakon/2001/zako3210",
+   "short": "MESUES-A",
+   "title": "Zakon o spremembi zakona o ratifikaciji Evropskega sporazuma, ki se nanaša na osebe, udeležene v postopkih Evropskega sodišča za človekove pravice (MESUES-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3210",
+   "versions": [
+    {
+     "from": "2001-10-20",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465444231",
+     "sha256": "8a1e332b1d991482634848ec3dc61547e2428f747d72b18c94b70fb105553861"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3211",
+   "path": "zakon/2001/zako3211",
+   "short": "ZViS-B",
+   "title": "Zakon o dopolnitvi zakona o visokem šolstvu (ZViS-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3211",
+   "versions": [
+    {
+     "from": "2001-08-18",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466368841",
+     "sha256": "9d565ef14326f5ecedc8172c5915a4aa113916a625cdf1a3f7b3c713d8950be8"
+    },
+    {
+     "from": "2025-08-09",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3211",
+     "sha256": "74e49b21fdbd161129feaa2e793c0d1d7d24895747c45751675525759ce41989"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3214",
+   "path": "zakon/2001/zako3214",
+   "short": "ZPPLPS-A",
+   "title": "Zakon o spremembi zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo (ZPPLPS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3214",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465464961",
+     "sha256": "92dcf35d8da1f5e32fc058a058e812a739ef2de60d02dc391f4127c31cee6541"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3216",
+   "path": "zakon/2001/zako3216",
+   "short": "ZZLPPO-B",
+   "title": "Zakon o spremembi zakona o zaključku lastninjenja in privatizaciji pravnih oseb v lasti Slovenske razvojne družbe (ZZLPPO-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3216",
+   "versions": [
+    {
+     "from": "2001-10-11",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466368867",
+     "sha256": "b620fc75c6f167cf0c9953cecdaf4eae87b0602ad5780d9e4469953ce2738ba1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3226",
+   "path": "zakon/2001/zako3226",
+   "short": "ZPPCPEU",
+   "title": "Zakon o preoblikovanju prostih carinskih prodajaln na cestnih mejnih prehodih z državami članicami Evropskih skupnosti, ki delujejo v okviru Evropske unije, v mejne prodajalne in o posebnih ukrepih nadzora teh prodajaln (ZPPCPEU)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3226",
+   "versions": [
+    {
+     "from": "2001-08-11",
+     "units": 23,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466085170",
+     "sha256": "5263e134a54fb865ae4c35129d99b132c370cae5d11361b22412801593dfe285"
+    },
+    {
+     "from": "2004-05-01",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3226",
+     "sha256": "18848948e0b2bd5df96e2715ac816b71fa222b16f0e6eecc09148efa99598020"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3241",
+   "path": "zakon/2001/zako3241",
+   "short": "ZJF-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o javnih financah (ZJF-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3241",
+   "versions": [
+    {
+     "from": "2001-10-11",
+     "units": 17,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465466093",
+     "sha256": "e056ba00583ef28fe2a44521ff01b9aface03bdbfc94a3ecd8de123cf0a133ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3248",
+   "path": "zakon/2001/zako3248",
+   "short": "ZZSO2001",
+   "title": "Zakon o državni pomoči za odpravo posledic suše, pozebe in neurij s točo v kmetijstvu za leto 2001 (ZZSO2001)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3248",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 17,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8292505",
+     "sha256": "2163f857a5c0e79e53a859b99c974bcc0087f57a11970aff3e9225808f4ef390"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3248",
+     "sha256": "a44278660583228a87c98ecc0d6fead1626c61dae41785d70412bd0bc251da9e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3271",
+   "path": "zakon/2001/zako3271",
+   "short": "ZPol-A",
+   "title": "Zakon o dopolnitvi zakona o policiji (ZPol-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3271",
+   "versions": [
+    {
+     "from": "2001-11-24",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465467419",
+     "sha256": "bfd1e80a515923e4ebb095526d2f024e9003d4d180b1008123c3507224ec6907"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3272",
+   "path": "zakon/2001/zako3272",
+   "short": "ZSPOZ-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o Skladu za poplačilo odškodnine žrtvam vojnega in povojnega nasilja (ZSPOZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3272",
+   "versions": [
+    {
+     "from": "2001-12-30",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466370628",
+     "sha256": "ecca77e4a7adf57842197d9527a271956656b1e7d8f99782279057202a89f8af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3274",
+   "path": "zakon/2001/zako3274",
+   "short": "ZZSR-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zagotavljanju sredstev za realizacijo temeljnih razvojnih programov obrambnih sil Republike Slovenije v letih 1994-2003 (ZZSR-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3274",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465495789",
+     "sha256": "93896f0bb6226b3c92425a5fde2886be98774fc858fb5758f90861b7b605ea4a"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3274",
+     "sha256": "12c273802fadffa40f77e1afe72a073347316d4f7d26b68fe4d404ce948f192e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3295",
+   "path": "zakon/2001/zako3295",
+   "short": "ZDVGOMP",
+   "title": "Zakon o graditvi objektov na mejnih prehodih (ZDVGOMP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3295",
+   "versions": [
+    {
+     "from": "2001-12-30",
+     "units": 32,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8390624",
+     "sha256": "62e8c816d4d90a12fd37f522fb5a39b52565e698180f245c75c48f093ab2b355"
+    },
+    {
+     "from": "2007-02-17",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11397506",
+     "sha256": "ca670910335506306604a2963697181f4a26daf40eff6b66d13e9f18f81ec09a"
+    },
+    {
+     "from": "2007-05-21",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10672078",
+     "sha256": "4cb88e1d5ba0ee153a7944f2149032a242f03339d79dfa71f5ab926753a71c1d"
+    },
+    {
+     "from": "2010-10-27",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11330183",
+     "sha256": "f453355a2f18daffdf6f52794129d21605e8bef5b00ad68b02b3b4751edab7c9"
+    },
+    {
+     "from": "2025-01-11",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3295",
+     "sha256": "0f5ffc1184d87610470622872b3b72b3a74dfd85b345468b2edf965d62230ba2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako3307",
+   "path": "zakon/2001/zako3307",
+   "short": "ZJODLPKŠ-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o jamstvu Republike Slovenije za obveznosti domačega letalskega prevoznika za kritje škod, nastalih kot posledica vojne oziroma terorizma in o pogojih jamstva za tuje letalske prevoznike (ZJODLPKŠ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3307",
+   "versions": [
+    {
+     "from": "2001-12-30",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465514933",
+     "sha256": "7cbef9c5d38579f387df163661f49585f326c42cf6c18da29de0f75585a008c9"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2002-zako1343",
    "path": "zakon/2002/zako1343",
    "short": "ZMinG",
@@ -8420,6 +9191,924 @@
    ]
   },
   {
+   "slug": "zakon-2002-zako3054",
+   "path": "zakon/2002/zako3054",
+   "short": "ZZVZZ-F",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-F)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3054",
+   "versions": [
+    {
+     "from": "2002-07-11",
+     "units": 23,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465406416",
+     "sha256": "467d32bcb40e8f31983730f961c72ed6eede00c0c0dbbe9bc96207eebca56412"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3126",
+   "path": "zakon/2002/zako3126",
+   "short": "ZDDV-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3126",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 54,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466366493",
+     "sha256": "ee5902786ff56b36acca8dcb83d80e6ad5e931ee36da7504ab999342d1ce6380"
+    },
+    {
+     "from": "2006-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3126",
+     "sha256": "da9d5eb2b64a64f868154649d8e3d0e70a41d79c1fce812184dc8bec2ee73d73"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3166",
+   "path": "zakon/2002/zako3166",
+   "short": "ZZMP-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih (ZZMP-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3166",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466366913",
+     "sha256": "469b482109f632aa40ecb6e05cd95ea3e7aa4b1fbf0f603838b47d4b55a479a6"
+    },
+    {
+     "from": "2009-12-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3166",
+     "sha256": "dd163c69d7327fdbe0e4e2468b9439e204278cf5f19e0793989478168bc6933d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3170",
+   "path": "zakon/2002/zako3170",
+   "short": "ZDD-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti (ZDD-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3170",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 35,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465441587",
+     "sha256": "3c75bbe20de9b6efb3fa2f277e0934c5ee377cab5c641f7c7cb9b0bd56f72b48"
+    },
+    {
+     "from": "2011-03-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3170",
+     "sha256": "f4f5ea46a4c8b4dff0c5930754867abb3563e453f27b46a7fa433627e003319d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3178",
+   "path": "zakon/2002/zako3178",
+   "short": "ZZMP-B",
+   "title": "Zakon o spremembi zakona o zdravilih in medicinskih pripomočkih (ZZMP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3178",
+   "versions": [
+    {
+     "from": "2002-03-31",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465442655",
+     "sha256": "ede55f588515361c01196e85f9215015f9f3b5c53dad8428b9d860f36c2e3df8"
+    },
+    {
+     "from": "2009-12-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3178",
+     "sha256": "9375d4472aa3fa7d0d6c508a603705940c0a3b84bd760cb882c683e2996893ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3181",
+   "path": "zakon/2002/zako3181",
+   "short": "PZ-A",
+   "title": "Zakon o spremembah in dopolnitvah pomorskega zakonika (PZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3181",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466367313",
+     "sha256": "7072bd7ce954e4059452a8d5ee8a18a577881ebcc4dd261513f8f87ff0936b2e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3189",
+   "path": "zakon/2002/zako3189",
+   "short": "ZPKEU",
+   "title": "Zakon o postopku priznavanja poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije za opravljanje reguliranih poklicev oziroma dejavnosti v Republiki Sloveniji (ZPKEU)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3189",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8224511",
+     "sha256": "e223b4cd3fca6bbca2ef790d49ec43fef5dbda5ecabd533e2c1cde7a6bd94ba7"
+    },
+    {
+     "from": "2007-10-11",
+     "units": 34,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11623791",
+     "sha256": "c47161954264720c9ca3aa73df872c0bd482f18f64dc84a9426d77562067f9fe"
+    },
+    {
+     "from": "2009-11-14",
+     "units": 36,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10648245",
+     "sha256": "9b3719c4e5a9784154bc3567d2f8bf271d93524b95fd42f8b24072efb050c24b"
+    },
+    {
+     "from": "2012-07-21",
+     "units": 37,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10888806",
+     "sha256": "374d17b44715ecae38cb6d60aca3ef446f60fe3e19de11845c06e25b8bc86ffd"
+    },
+    {
+     "from": "2014-05-06",
+     "units": 38,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11126037",
+     "sha256": "281136b097ad13d20fca7fcd038cf247f3c18109e76c12ba6234e27e20b569b6"
+    },
+    {
+     "from": "2016-06-18",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3189",
+     "sha256": "90775e28edbce769c28564777f0a18016174e3e2167a4493c025fcc8889b765c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3232",
+   "path": "zakon/2002/zako3232",
+   "short": "ObrZ-B",
+   "title": "Zakon o spremembi in dopolnitvah obrtnega zakona (ObrZ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3232",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465466054",
+     "sha256": "ff0c3acf2eea313fdd4d39f9692558e50410115259d27f3c7ed801865b216c6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3297",
+   "path": "zakon/2002/zako3297",
+   "short": "ZUT-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah (ZUT-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3297",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 34,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466087109",
+     "sha256": "775d056c0b4b9748fd8500e9008ebeba9f9b602dd161028f3f84b5ebb8de3c33"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3309",
+   "path": "zakon/2002/zako3309",
+   "short": "ZZNSGC-A",
+   "title": "Zakon o spremembah zakona o zagotovitvi namenskih sredstev za graditev državnih cest, določenih v nacionalnem programu izgradnje avtocest v Republiki Sloveniji (ZZNSGC-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3309",
+   "versions": [
+    {
+     "from": "2002-03-01",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466387401",
+     "sha256": "28c7683cc33e1a72bc6a9da7a6866dfd14bda80bb4a0a6f862238048a3a1daa4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3316",
+   "path": "zakon/2002/zako3316",
+   "short": "ZPOFOP",
+   "title": "Zakon o poroštvu Republike Slovenije za obveznosti iz kredita, ki ga najame Ekološko razvojni sklad Republike Slovenije, Javni sklad pri Evropski investicijski banki za projekt financiranja okoljskih projektov (ZPOFOP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3316",
+   "versions": [
+    {
+     "from": "2002-03-01",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8391458",
+     "sha256": "2600c3a2cde75fe1775404e2c4bfa6dea47c130fae27dff752c02f224580287c"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3316",
+     "sha256": "2afa7aba818767ef63c34ea5323fe4804dc7a386f4117e902395f4431fecae6c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3318",
+   "path": "zakon/2002/zako3318",
+   "short": "ZPKEPS-A",
+   "title": "Zakon o spremembah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3318",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465515142",
+     "sha256": "f353cffb12864ea1f0ac298233bfe43297bf9e95adb27a3563c39886b3daa756"
+    },
+    {
+     "from": "2011-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3318",
+     "sha256": "de75d43ef0b76de7487b3c895d414f862a9e3dfedfec847e3cc92052c1e2d94f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3319",
+   "path": "zakon/2002/zako3319",
+   "short": "ZJF-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o javnih financah (ZJF-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3319",
+   "versions": [
+    {
+     "from": "2002-04-20",
+     "units": 42,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466387474",
+     "sha256": "30a018bb5de28c5658cd4bf0e75876f5baf3b606795d75f1350dd1d7d261d66e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3325",
+   "path": "zakon/2002/zako3325",
+   "short": "ZRPJN-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o reviziji postopkov javnega naročanja (ZRPJN-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3325",
+   "versions": [
+    {
+     "from": "2002-12-19",
+     "units": 36,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465515889",
+     "sha256": "7baa7cbc7ebd5e05fb4170c6a6f4594d561a3194b84820e420f72c330881fc1e"
+    },
+    {
+     "from": "2011-07-03",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3325",
+     "sha256": "ec54b19929707db89240f38add003f25d5c3e1caf7866753c5781fea544fbf93"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3337",
+   "path": "zakon/2002/zako3337",
+   "short": "ZZUZIS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni ustreznosti živil in izdelkov ter snovi, ki prihajajo v stik z živili (ZZUZIS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3337",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 23,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465517552",
+     "sha256": "b10da19e74d7dde2a05f8d09d4ff7e7419e51408f742879f1396aa92ed38298a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3343",
+   "path": "zakon/2002/zako3343",
+   "short": "ZPolS-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o političnih strankah (ZPolS-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3343",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466390502",
+     "sha256": "50b6f93a52dd19f3f4bf59611de04baf81dcebd10ad6633509a37a54995926f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3344",
+   "path": "zakon/2002/zako3344",
+   "short": "ZObr-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o obrambi (ZObr-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3344",
+   "versions": [
+    {
+     "from": "2002-06-13",
+     "units": 85,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465518637",
+     "sha256": "33730aabc4a7888e802ecc9b974d087353932cded117a38d0f6019897d1b7f5c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3355",
+   "path": "zakon/2002/zako3355",
+   "short": "ZPSPID-A",
+   "title": "Zakon o spremembah in dopolnitvi zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb (ZPSPID-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3355",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466391149",
+     "sha256": "914db6ebcc4fa4440e420b61ad310ad9561e7f84af0a2d9a573b87ec987b233a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3357",
+   "path": "zakon/2002/zako3357",
+   "short": "ZLS-L",
+   "title": "Zakon o spremembah in dopolnitvah zakona o lokalni samoupravi (ZLS-L)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3357",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 20,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465543968",
+     "sha256": "ff60d4438c89cb2f45c00baa76ecadd97f7501b23ded070085aae94d76655678"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3374",
+   "path": "zakon/2002/zako3374",
+   "short": "ZUP-B",
+   "title": "Zakon o dopolnitvah zakona o splošnem upravnem postopku (ZUP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3374",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466392172",
+     "sha256": "5d8c5757bcef210c72710d82a04170744203b81d1242a2940765e9acfbf2059c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3375",
+   "path": "zakon/2002/zako3375",
+   "short": "ZUKLPP-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o uporabi sredstev pridobljenih iz naslova kupnine na podlagi zakona o lastninskem preoblikovanju podjetij (ZUKLPP-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3375",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466087274",
+     "sha256": "3e8369bbb3e67a55a9bccb49a6293841039d766b467fb7f2a2a78f230cfb2e7c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3377",
+   "path": "zakon/2002/zako3377",
+   "short": "ZJODLPKŠ-B",
+   "title": "Zakon o spremembi in dopolnitvi zakona o jamstvu Republike Slovenije za obveznosti domačega letalskega prevoznika za kritje škod, nastalih kot posledica vojne oziroma terorizma in o pogojih jamstva za tuje letalske prevoznike (ZJODLPKŠ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3377",
+   "versions": [
+    {
+     "from": "2002-04-12",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465545439",
+     "sha256": "a86c87e3a5539d6df0763da61c1bb874d6aec3d89ee6d79259c463a4ee463bd1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3390",
+   "path": "zakon/2002/zako3390",
+   "short": "ZIKS-1A",
+   "title": "Zakon o spremembi zakona o izvrševanju kazenskih sankcij (ZIKS-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3390",
+   "versions": [
+    {
+     "from": "2002-07-06",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465546143",
+     "sha256": "d27504685e6b98f169ffbd54c4aca9316677ebf5123e513f8ce990eac41b9ec3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3395",
+   "path": "zakon/2002/zako3395",
+   "short": "ZPKSMS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o predlaganju kandidatov iz Republike Slovenije za sodnike mednarodnih sodišč (ZPKSMS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3395",
+   "versions": [
+    {
+     "from": "2002-07-06",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466135628",
+     "sha256": "8f0814762b1417052c9f977f3d6f20b9b30d7d7a53e3613459e739e102058214"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3397",
+   "path": "zakon/2002/zako3397",
+   "short": "ZDT-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu (ZDT-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3397",
+   "versions": [
+    {
+     "from": "2003-01-02",
+     "units": 56,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465547258",
+     "sha256": "12df566a1dbeeb20c8e1179cfaed7ebf24f52ab154d04c0bcc42edc66c313b92"
+    },
+    {
+     "from": "2011-08-06",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3397",
+     "sha256": "202b7b6848373082b42573e960bce26c54845b301c6cbc49e7c130d7e1669d4b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3399",
+   "path": "zakon/2002/zako3399",
+   "short": "ZZZPB-E",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti (ZZZPB-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3399",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 21,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466135663",
+     "sha256": "84a1ee2a109a176307b471debe5e2968d6c10a2df420262aca428ce41878447c"
+    },
+    {
+     "from": "2010-10-27",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3399",
+     "sha256": "deca1ab879eea48e19a8d8b32abb178d24fc4f2a17d5f44aca905011f2983c07"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3404",
+   "path": "zakon/2002/zako3404",
+   "short": "ZUODNO-D",
+   "title": "Zakon o spremembah in dopolnitvah zakona o ustanovitvi občin ter o določitvi njihovih območij (ZUODNO-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3404",
+   "versions": [
+    {
+     "from": "2002-06-15",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465557877",
+     "sha256": "358e8fecc0deaa751be99d01f822a1eaff2d08a58db0bf621f1b1ea1271aac43"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3405",
+   "path": "zakon/2002/zako3405",
+   "short": "ZSNNPK-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zagotavljanju sredstev za nekatere nujne programe Republike Slovenije v kulturi (ZSNNPK-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3405",
+   "versions": [
+    {
+     "from": "2002-12-27",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465558024",
+     "sha256": "77271f72b08c9a04d0d92564a3bf68699a57e7154b2e8ea01b3f53084d52d5d2"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3405",
+     "sha256": "64b6ec7a624c2592723ad08243129e399eec875aaddcf7f18dbe1b8a8f0a760f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3410",
+   "path": "zakon/2002/zako3410",
+   "short": "ZOZPEU",
+   "title": "Zakon o opravljanju zdravstvenih poklicev v Republiki Sloveniji za državljane drugih držav članic Evropske unije (ZOZPEU)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3410",
+   "versions": [
+    {
+     "from": "2002-10-26",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8496807",
+     "sha256": "42d05449d45ab0585d1503a2a2843782df9a52d8e63738872df68ec4c12306a4"
+    },
+    {
+     "from": "2004-01-16",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9108570",
+     "sha256": "8c562b0805831e342bbf6faf80bfb2f80ed3e250ec045e13dabf8deeb7805982"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3410",
+     "sha256": "a7c9e4471ea7c9a2c54b59f4dc26b5be960fb727b8ed4ecb89c4f839f8eb76ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3416",
+   "path": "zakon/2002/zako3416",
+   "short": "ZKZ-A",
+   "title": "Zakon o spremembah zakona o kmetijskih zemljiščih (ZKZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3416",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465558490",
+     "sha256": "c4fa764916403fbf8ee26aa41c08cefa1c0df14add32df316c9b04bbcee01d93"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3421",
+   "path": "zakon/2002/zako3421",
+   "short": "ZZdrS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi (ZZdrS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3421",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 20,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465558897",
+     "sha256": "4c6238cefd1465fcd9bb7e19c088cc23525b6f0e768ded6f01033e8ad686ac79"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3423",
+   "path": "zakon/2002/zako3423",
+   "short": "ZIL-1A",
+   "title": "Zakon o spremembi zakona o industrijski lastnini (ZIL-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3423",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 4,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/71808796",
+     "sha256": "8b21104b33aaacc7d277b626b23def64f21718bd094c2716f791494beee0f003"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3425",
+   "path": "zakon/2002/zako3425",
+   "short": "ZSPOZ-B",
+   "title": "Zakon o spremembi zakona o plačilu odškodnine žrtvam vojnega in povojnega nasilja (ZSPOZ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3425",
+   "versions": [
+    {
+     "from": "2002-07-27",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465559002",
+     "sha256": "5815ed3e88e6cffd49725bca734446bcacfcb143058be4255d424615e8c088f9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3426",
+   "path": "zakon/2002/zako3426",
+   "short": "ZVSmuč",
+   "title": "Zakon o varnosti na smučiščih (ZVSmuč)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3426",
+   "versions": [
+    {
+     "from": "2003-01-02",
+     "units": 41,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8498846",
+     "sha256": "57ed983508895502980f58621753cae7c05b3e43a9612c6d5d96d837b26d4bcc"
+    },
+    {
+     "from": "2005-11-22",
+     "units": 38,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8070332",
+     "sha256": "66b79135060d1792dd1c1ea22d0d1676db5469aa4b15073dc683f31f0bb5a241"
+    },
+    {
+     "from": "2006-01-10",
+     "units": 38,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8154886",
+     "sha256": "9a612b1ad48fff62754b5b427ee8439bed06ead3373d356ef107d08671535dc0"
+    },
+    {
+     "from": "2008-03-05",
+     "units": 42,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11402121",
+     "sha256": "016d2768eb4b8fc55fe1a5820866b745d19751aa3f0e68decdc45cecf36308bb"
+    },
+    {
+     "from": "2016-09-01",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3426",
+     "sha256": "c02d166a1fb3d2f79c39cd7dec3c6854fb746e4815342f84d614806ce4242940"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3429",
+   "path": "zakon/2002/zako3429",
+   "short": "ZOFVI-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3429",
+   "versions": [
+    {
+     "from": "2002-12-27",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466135833",
+     "sha256": "d783887af54511534364797d09fc3eb10c71a1077c4426c57ffe99cd9b6163d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3430",
+   "path": "zakon/2002/zako3430",
+   "short": "ZIDPP04",
+   "title": "Zakon o izvajanju dogovora o politiki plač za obdobje 2002-2004 (ZIDPP04)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3430",
+   "versions": [
+    {
+     "from": "2002-07-06",
+     "units": 12,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8503835",
+     "sha256": "4a8f4e587d0035e94d04fcef8be3f16bb7fde4cfad8bc96565f3f601851b1fb7"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3430",
+     "sha256": "e73bbdf779f4850ceeb2ef80e20b1ce365e1f27798feb3abeaf03b6fbad92285"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3433",
+   "path": "zakon/2002/zako3433",
+   "short": "ZTRPIZ",
+   "title": "Zakon o temeljnih razvojnih programih na področju izobraževanja in znanosti v letih 2003-2008 (ZTRPIZ)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3433",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/26794038",
+     "sha256": "dcdda32b8a227897abcd1f05788ca89296427802ea943bb48c82c7fc6268fe7d"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3433",
+     "sha256": "9c76ffad8e6713ed233cc1f937dd9a11b1522031b8748511d7d99a6953be15fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3435",
+   "path": "zakon/2002/zako3435",
+   "short": "ZVTPPV-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o varstvu topografije polprevodniških vezij (ZVTPPV-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3435",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465561391",
+     "sha256": "d08a652727fa3eb0b2f26005160a608c8cd8949239ef47b8381ef60e9e89741a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3440",
+   "path": "zakon/2002/zako3440",
+   "short": "ZVojD-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o vojaški dolžnosti (ZVojD-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3440",
+   "versions": [
+    {
+     "from": "2002-10-26",
+     "units": 37,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466135905",
+     "sha256": "f5456a29ca353b4301317139473abbaa25c0bbfddd70130fbb154cd8dc17876d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3442",
+   "path": "zakon/2002/zako3442",
+   "short": "ZON-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o ohranjanju narave (ZON-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3442",
+   "versions": [
+    {
+     "from": "2003-01-14",
+     "units": 54,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465565250",
+     "sha256": "2ac5ddfbfb6284996dfc6136d86ed727dd02e91a946f08a2a3a2c16f1b62dd35"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3445",
+   "path": "zakon/2002/zako3445",
+   "short": "ZZVN-H",
+   "title": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja (ZZVN-H)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3445",
+   "versions": [
+    {
+     "from": "2003-01-02",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465565547",
+     "sha256": "ecf347739ee2a656e57ae00fa3b84946081e428f9a00b8a83bbc13c72bac4bbe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3459",
+   "path": "zakon/2002/zako3459",
+   "short": "ZPILDR-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o pravicah industrijske lastnine iz delovnega razmerja (ZPILDR-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3459",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466136181",
+     "sha256": "56122c659000740bd2f4bae244e1124a549be5a9df0ac589db062b300829ba9a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3460",
+   "path": "zakon/2002/zako3460",
+   "short": "ZDRS-Č",
+   "title": "Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije (ZDRS-Č)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3460",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 23,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465578490",
+     "sha256": "b6068f9eedbc3b6c37ab0bc226c6e6b195e54c12a990a1c0614b0330a4c24759"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3470",
+   "path": "zakon/2002/zako3470",
+   "short": "ZPNKKW50",
+   "title": "Zakon o poroštvu Republike Slovenije za obveznosti iz pogodbe o najetju kredita pri banki Kreditanstalt für Wiederaufbau v višini 50 mio evrov (KFW III) (ZPNKKW50)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3470",
+   "versions": [
+    {
+     "from": "2002-12-31",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8537014",
+     "sha256": "070f037f571fdfc5581c5c3b4ed1df47dcc6580d4bd9996bf16c7bac6bfb0223"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3470",
+     "sha256": "2042181161471afc756cad1e494e1f4154e62f53b726ea71b85c43747ce989cb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3483",
+   "path": "zakon/2002/zako3483",
+   "short": "ZJSRS-D",
+   "title": "Zakon o spremembah in dopolnitvah zakona o jamstvenem in preživninskem skladu Republike Slovenije (ZJSRS-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3483",
+   "versions": [
+    {
+     "from": "2003-01-29",
+     "units": 21,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466137798",
+     "sha256": "9aa6b05fe0958994e5d97e4baf88ff9b6bd621c96f1eebc5fbd46b15361e9995"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3493",
+   "path": "zakon/2002/zako3493",
+   "short": "ZJODLPKŠ-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o jamstvu Republike Slovenije za obveznosti domačega letalskega prevoznika za kritje škod, nastalih kot posledica vojne oziroma terorizma in o pogojih jamstva za tuje letalske prevoznike (ZJODLPKŠ-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3493",
+   "versions": [
+    {
+     "from": "2002-12-13",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465594038",
+     "sha256": "27db032e8de2c65bbb79a83ca432ac14e49b339c179bdd3aeeeace7a948d1821"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3496",
+   "path": "zakon/2002/zako3496",
+   "short": "ZSDSA5",
+   "title": "Zakon o soglasju Republike Slovenije DARS, d.d., za najetje kredita pri Evropski investicijski banki za projekt slovenskih avtocest/V (ZSDSA5)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3496",
+   "versions": [
+    {
+     "from": "2002-12-31",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8565807",
+     "sha256": "52db1b3c3277afd188bdf47a9c6e95bd157f5c58bb843d11d4bc0e31878f5ab7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako3498",
+   "path": "zakon/2002/zako3498",
+   "short": "ZPRPGDT",
+   "title": "Zakon o pomoči za reševanje in prestrukturiranje gospodarskih družb v težavah (ZPRPGDT)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3498",
+   "versions": [
+    {
+     "from": "2003-01-02",
+     "units": 31,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8565848",
+     "sha256": "3f55d3cc43d787d539550c75c94da86188ddec40d406b6907ff1637df4b690b2"
+    },
+    {
+     "from": "2005-10-15",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8118760",
+     "sha256": "48d75ebe468145938fcb71740dbdb6319c1bd8d4854194712a84894a507456be"
+    },
+    {
+     "from": "2005-12-15",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8203500",
+     "sha256": "a42f69d49f1722d8cde7ada7ccf298ccf471cf0831f96680a637d69e2ea8cee4"
+    },
+    {
+     "from": "2007-04-07",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11418278",
+     "sha256": "e453446b816eb1f19fc6a539350901118a2475891f63b243703a3ac9617af07b"
+    },
+    {
+     "from": "2007-05-21",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10671875",
+     "sha256": "a3872160de92e219138c456ffdad26e316b56de3b2bb8bbc5d58742db57ef650"
+    },
+    {
+     "from": "2011-06-28",
+     "units": 31,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10653247",
+     "sha256": "2b55b58b8bc83d663c6b496025d6065e509f7392868090f881cd7604d977d4af"
+    },
+    {
+     "from": "2013-05-07",
+     "units": 33,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11367585",
+     "sha256": "bcb4daafa507e694539ecae54df95196ab190820562d6e28c845ea4d5fa2fede"
+    },
+    {
+     "from": "2013-07-03",
+     "units": 36,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10622485",
+     "sha256": "59133d633bc99f77e48a90ceafc73909ed63bb769e1e1c3e844c983f21093288"
+    },
+    {
+     "from": "2016-04-26",
+     "units": 37,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11896594",
+     "sha256": "140ae4f80d161a6ecd81693138567e42c3fdb69fba3bc9fa02b354af0b2b14d2"
+    },
+    {
+     "from": "2017-02-18",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3498",
+     "sha256": "4940b1da81132dfa9f890a75bdf3a479f260f28972d3cc392102971dde41dab3"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2003-zako2145",
    "path": "zakon/2003/zako2145",
    "short": "ZDDV-C",
@@ -8458,6 +10147,729 @@
      "units": 0,
      "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2150",
      "sha256": "fa85d788b7cde0f40a17b94efd2e5f8daacf3d103a2c69d1c614ace4cc14154b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3268",
+   "path": "zakon/2003/zako3268",
+   "short": "ZKem-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o kemikalijah (ZKem-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3268",
+   "versions": [
+    {
+     "from": "2003-07-19",
+     "units": 66,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466370078",
+     "sha256": "38c0b137cbb7a84b41a0e9c444c7901aadeee9ce12847582ef28a1d47ed3cca1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3269",
+   "path": "zakon/2003/zako3269",
+   "short": "ZKozP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o kozmetičnih proizvodih (ZKozP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3269",
+   "versions": [
+    {
+     "from": "2003-07-19",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465467243",
+     "sha256": "e3df9c1bc143cdedd31a4c7aedd753cee94e5876ee3fab4193a4f635c0b2cfa9"
+    },
+    {
+     "from": "2013-11-20",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3269",
+     "sha256": "1fa3058c08b73c7e5e6159be10c6921a43607b07989235b7fd7666551487cd30"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3282",
+   "path": "zakon/2003/zako3282",
+   "short": "ZZVZZ-G",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-G)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3282",
+   "versions": [
+    {
+     "from": "2004-01-02",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465496128",
+     "sha256": "e45d6847b39187a88189957ce6da55a89c3436d4822b43bff49fdf9f59ea9af0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3340",
+   "path": "zakon/2003/zako3340",
+   "short": "ZIS-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o igrah na srečo (ZIS-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3340",
+   "versions": [
+    {
+     "from": "2003-10-22",
+     "units": 23,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466390357",
+     "sha256": "c9ebfe283bbde4941e3d9745e59a495ac5d4ec2670cfc06382f189a6fbfef6e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3431",
+   "path": "zakon/2003/zako3431",
+   "short": "ZZZiv-A",
+   "title": "Zakon o spremembi in dopolnitvi zakona o zaščiti živali (ZZZiv-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3431",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465561358",
+     "sha256": "ab2dcd77a4feee4d7d34bd0e0e81634f1fdb1ff020086f0f7fae7ad4d9ddf673"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3453",
+   "path": "zakon/2003/zako3453",
+   "short": "ZVVJTO-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje (ZVVJTO-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3453",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465565578",
+     "sha256": "d6eb02cc9e3203f62ce655ca4ea2373402a8cffe54542360ed23689f160c72ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3455",
+   "path": "zakon/2003/zako3455",
+   "short": "ZPNOVS",
+   "title": "Zakon o parlamentarnem nadzoru obveščevalnih in varnostnih služb (ZPNOVS)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3455",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 41,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8508252",
+     "sha256": "65307519e1f5feaba01c574ebf6f8efc1036a0021a19baced756c41218053502"
+    },
+    {
+     "from": "2007-07-28",
+     "units": 38,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11491926",
+     "sha256": "a0705dc52606d4689b8223002a08f3cbd54e9971211b02aed85cd3612894a2fa"
+    },
+    {
+     "from": "2007-10-12",
+     "units": 38,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11578489",
+     "sha256": "db192a7ac0fd14d1748b08e79892df52db488a00784457813c5bbeb9a2c60403"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3462",
+   "path": "zakon/2003/zako3462",
+   "short": "ZPPLPS-B",
+   "title": "Zakon o spremembah zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo (ZPPLPS-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3462",
+   "versions": [
+    {
+     "from": "2003-02-15",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465578595",
+     "sha256": "fd6999d3f17b00f74aa19e5ae12155742b6ef5d0996fe5f3ad79472da38e443e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3472",
+   "path": "zakon/2003/zako3472",
+   "short": "ZPKri-C",
+   "title": "Zakon o dopolnitvah zakona o popravi krivic (ZPKri-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3472",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465579402",
+     "sha256": "1b5962469ec1b303dc71b676352a4afa821be6ee5c14dc16d33de9e69912134b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3528",
+   "path": "zakon/2003/zako3528",
+   "short": "ZPlaP-A",
+   "title": "Zakon o dopolnitvi zakona o plačilnem prometu (ZPlaP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3528",
+   "versions": [
+    {
+     "from": "2003-02-15",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465594670",
+     "sha256": "f918d912a13f33f4bc3b3071b94226c08a2d8664cdd524882cd36810a568ecc2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3534",
+   "path": "zakon/2003/zako3534",
+   "short": "ZZdrS-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi (ZZdrS-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3534",
+   "versions": [
+    {
+     "from": "2003-02-15",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465594697",
+     "sha256": "913ab37de8e45b804caf205d7867349ce698ec9c27bfab84e5358a3d90bcc606"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3539",
+   "path": "zakon/2003/zako3539",
+   "short": "ZZZ-1A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zunanjih zadevah (ZZZ-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3539",
+   "versions": [
+    {
+     "from": "2003-08-23",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466152898",
+     "sha256": "90bbc876d41c1fe3a6b35f72a570d2a834a403b7becabbddaee93f5e12de129c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3541",
+   "path": "zakon/2003/zako3541",
+   "short": "ZNPK-A",
+   "title": "Zakon o spremembi zakona o nacionalnih poklicnih kvalifikacijah (ZNPK-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3541",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465595612",
+     "sha256": "f0a05bf39215626e5bc2c198d04b9a25085b471ab3915916481fc3d50a7c6f45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3545",
+   "path": "zakon/2003/zako3545",
+   "short": "ZOFVI-C",
+   "title": "Zakon o dopolnitvi zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3545",
+   "versions": [
+    {
+     "from": "2003-04-25",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465595911",
+     "sha256": "fa9c38de68561235e22cccca57b46286e7a1c682469e83d2298e3f32b101a32c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3562",
+   "path": "zakon/2003/zako3562",
+   "short": "ZPDI-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu (ZPDI-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3562",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465596519",
+     "sha256": "aba05809e53778371befe7d7f06ad956e9ff13d5ace8ab4581e8d4e2918eb8ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3579",
+   "path": "zakon/2003/zako3579",
+   "short": "ZVISJV-A",
+   "title": "Zakon o dopolnitvi zakona o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3579",
+   "versions": [
+    {
+     "from": "2003-03-22",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465336930",
+     "sha256": "7a27a6000db404b7845b8e29d0c5661bade186a827ad0c1770e3e3484493c4b0"
+    },
+    {
+     "from": "2018-01-06",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3579",
+     "sha256": "5db4b5fc575219eb6633875fb0905052fc09dcbe7e4e00bb79a4c8751d071d16"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3580",
+   "path": "zakon/2003/zako3580",
+   "short": "ZSDP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o starševskem varstvu in družinskih prejemkih (ZSDP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3580",
+   "versions": [
+    {
+     "from": "2003-08-19",
+     "units": 35,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466155241",
+     "sha256": "f47b9c2cdecc97f8cf49a2d2047c4e5cd30f13a2136e52490eb1af172ec3fedd"
+    },
+    {
+     "from": "2014-04-29",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3580",
+     "sha256": "21945bfd13d17617155f52d8470e752c68f2cc9d0733909446ec8f729a087f70"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3583",
+   "path": "zakon/2003/zako3583",
+   "short": "ZVV-B",
+   "title": "Zakon o spremembah zakona o vojnih veteranih (ZVV-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3583",
+   "versions": [
+    {
+     "from": "2003-08-19",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465336957",
+     "sha256": "7b38809d81c9199478755074edd901f162851efe2558b1bc1c358716440f1697"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3621",
+   "path": "zakon/2003/zako3621",
+   "short": "ZPol-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o policiji (ZPol-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3621",
+   "versions": [
+    {
+     "from": "2003-08-27",
+     "units": 75,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465342626",
+     "sha256": "ee9f03acdf9c3e488b68d2d0eab6b0db2f68401119e23b540e3f42cddcdc5a36"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3629",
+   "path": "zakon/2003/zako3629",
+   "short": "ZPRKPE",
+   "title": "Zakon o poroštvih za kredite, najete za refinanciranje kreditov podjetij elektrogospodarstva (ZPRKPE)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3629",
+   "versions": [
+    {
+     "from": "2003-04-11",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7930439",
+     "sha256": "0ea48face8575cc80bc388be4fc7da923893f28c53dc956d34f0d11b57924d97"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3629",
+     "sha256": "ba386a9b7f07df31b6e0b9dfd8b23a9162be6b211b1d20bf55dada4e60c2144d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3650",
+   "path": "zakon/2003/zako3650",
+   "short": "ZSOVA-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o Slovenski obveščevalno-varnostni agenciji (ZSOVA-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3650",
+   "versions": [
+    {
+     "from": "2004-01-02",
+     "units": 39,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465985731",
+     "sha256": "30869520bc112acae58799d3bee71b7ee70c66d6db66d16591f96e341b0a4a71"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3656",
+   "path": "zakon/2003/zako3656",
+   "short": "ZPPO-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o priznanju Republike Slovenije za poslovno odličnost (ZPPO-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3656",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345205",
+     "sha256": "c21042627a66c37f5b21f77a554c822617f1b8beb955efb59dc663602f230503"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3656",
+     "sha256": "9cebd21b0bd047be6f14ef811318f00a2e301e023297b00ae24da97af9deee44"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3665",
+   "path": "zakon/2003/zako3665",
+   "short": "ZDARS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o družbi za avtoceste v Republiki Sloveniji (ZDARS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3665",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 25,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345432",
+     "sha256": "15112cd3c76bcde7c616d3c96bc6cbc4b20bef1533fb4054c77b38d890271abc"
+    },
+    {
+     "from": "2010-12-04",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3665",
+     "sha256": "7a88a22b2289fd89c384b04b39fe32c446b6de11e7a4f6b80bd6597bdf69434a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3671",
+   "path": "zakon/2003/zako3671",
+   "short": "ZViS-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o visokem šolstvu (ZViS-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3671",
+   "versions": [
+    {
+     "from": "2003-11-01",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465986241",
+     "sha256": "bb3e857eb32ac8a4e5b2408dbe2c00b446867e4c188070117191756d731075b2"
+    },
+    {
+     "from": "2025-08-09",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3671",
+     "sha256": "c32ce845511c1b2135aad154d7ecaa3002f12d2553b2095de73f6f17e7dd5875"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3672",
+   "path": "zakon/2003/zako3672",
+   "short": "ZVrt-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o vrtcih (ZVrt-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3672",
+   "versions": [
+    {
+     "from": "2003-08-23",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345622",
+     "sha256": "539ec3a0fe0ec820e1001cdeb152dbb5ab45406b55f7c814b4e2b9946e39a9d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3674",
+   "path": "zakon/2003/zako3674",
+   "short": "ZTP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o tajnih podatkih (ZTP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3674",
+   "versions": [
+    {
+     "from": "2003-10-22",
+     "units": 25,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465986314",
+     "sha256": "0e2d3a731f30dfe1b059b082c9061e784b213337c9ba52df5a09af03b2a21370"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3675",
+   "path": "zakon/2003/zako3675",
+   "short": "ZPZRTH-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije (ZPZRTH-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3675",
+   "versions": [
+    {
+     "from": "2003-05-10",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345695",
+     "sha256": "fee46885767ecc6dc4e49d97cda35815da70c532100df4ae21ab0807d0425288"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3683",
+   "path": "zakon/2003/zako3683",
+   "short": "ZKZ-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o kmetijskih zemljiščih (ZKZ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3683",
+   "versions": [
+    {
+     "from": "2003-04-17",
+     "units": 19,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465353155",
+     "sha256": "237e8ed3e66221c49bf55e831813ead7c1e2b3a61ae5bb9577544e19668d6d17"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3684",
+   "path": "zakon/2003/zako3684",
+   "short": "ZSDANPIA",
+   "title": "Zakon o soglasju Republike Slovenije DARS d.d. za najetje kreditov in izdajo obveznic za realizacijo gradnje avtocestnih odsekov iz nacionalnega programa izgradnje avtocest v Republiki Sloveniji v višini 246,72 mio EUR (ZSDANPIA)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3684",
+   "versions": [
+    {
+     "from": "2003-06-14",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7965232",
+     "sha256": "e92eb7b1828881808cdc2264f46b826d990bac4b1744b05e342cce3953adbf7d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3691",
+   "path": "zakon/2003/zako3691",
+   "short": "MSPČK-A",
+   "title": "Zakon o dopolnitvi zakona o ratifikaciji Sporazuma o sodelovanju za preprečevanje čezmejnega kriminala in boj proti njemu (MSPČK-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3691",
+   "versions": [
+    {
+     "from": "2003-06-14",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465353540",
+     "sha256": "1694486f816fd451e5ae4abe292a9a9ad1b4ec2bc04c6a2a9c7fe2e2bcaee28f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3692",
+   "path": "zakon/2003/zako3692",
+   "short": "ZPJZOIL",
+   "title": "Zakon o poroštvu Republike Slovenije za kredite javnega zavoda Onkološki inštitut Ljubljana, najete za dokončanje gradnje in opremljanje objektov 1. faze (ZPJZOIL)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3692",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7967375",
+     "sha256": "e45a3ba0439b90e85a733c67118942cfe1fa83d2005a0a529bb07f7029e539a4"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3692",
+     "sha256": "7ec823771f92ae65aba086f8000d6861d7589c03f650a9e69f2c01aab4ada905"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3695",
+   "path": "zakon/2003/zako3695",
+   "short": "ZPOMZO-1",
+   "title": "Zakon o predpisani obrestni meri zamudnih obresti (ZPOMZO-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3695",
+   "versions": [
+    {
+     "from": "2003-06-28",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7970373",
+     "sha256": "b5534e76cb0c61387d9b015e4014a07c62b2244859efdff28752eced6317a904"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7917125",
+     "sha256": "22198da09490fe027ed84da69ae45a6c2049bd64ec0526cc74a553c761898ea8"
+    },
+    {
+     "from": "2007-02-09",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10628863",
+     "sha256": "b70ca756d02ec3a57358ad22003e8c3c1f43e12ae390ecdfb105d0269170db50"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3699",
+   "path": "zakon/2003/zako3699",
+   "short": "ZDU-1A",
+   "title": "Zakon o spremembi zakona o državni upravi (ZDU-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3699",
+   "versions": [
+    {
+     "from": "2003-06-14",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465987213",
+     "sha256": "306ebc3d9bc13be99040e07983ef0d7a691e60799b532f482d38d2e7d084a7fb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3707",
+   "path": "zakon/2003/zako3707",
+   "short": "ZSVP-1",
+   "title": "Zakon o splošni varnosti proizvodov (ZSVP-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3707",
+   "versions": [
+    {
+     "from": "2003-11-05",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7972380",
+     "sha256": "791026e5381b2a6b8a85bb9728a37019492a8ff977784e2b366a7d3d025c4cf6"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3707",
+     "sha256": "cbab72ae7148f85e30803a7229632ac6b43f8c9e89cd31bec483d2e803c9abd4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3721",
+   "path": "zakon/2003/zako3721",
+   "short": "ZPSRPPP",
+   "title": "Zakon o poroštvu Republike Slovenije za obveznosti Univerze v Ljubljani, Univerze v Mariboru, Univerze na Primorskem in Javnega zavoda Študentski domovi v Ljubljani iz naslova kreditov, najetih za sofinanciranje razširitve in posodobitve prostorskih pogojev in tehnološke opremljenosti ter gradnjo in prenovo študentskih bivalnih zmogljivosti (ZPSRPPP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3721",
+   "versions": [
+    {
+     "from": "2003-08-27",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7980296",
+     "sha256": "ae944bc408b69b47ce06b4ad78cfcb773e7a89ebca2fa734cf00c0faf486dad1"
+    },
+    {
+     "from": "2006-08-11",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8274308",
+     "sha256": "feeb7e605cf50cfd34493d4b561e744644eaa4b5901ce1e0cd404db883e06d91"
+    },
+    {
+     "from": "2007-03-20",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11489160",
+     "sha256": "3a52ea96a745130744143906f439496c004e7c85aea2f659075aa5b672ef699d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3722",
+   "path": "zakon/2003/zako3722",
+   "short": "ZSPJS-A",
+   "title": "Zakon o dopolnitvi zakona o sistemu plač v javnem sektorju (ZSPJS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3722",
+   "versions": [
+    {
+     "from": "2003-07-26",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465357510",
+     "sha256": "f3ccb55656fde6efedaca6e75d7ce6b4ed64dd1a64c88f624750f3feb5480f30"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3723",
+   "path": "zakon/2003/zako3723",
+   "short": "ZOFVI-D",
+   "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3723",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466158974",
+     "sha256": "4385de437200fb9bbc01d75d8bb70c6ba2fc4503188f137ea6aa889e15984380"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3727",
+   "path": "zakon/2003/zako3727",
+   "short": "ZPKEPS-B",
+   "title": "Zakon o spremembi in dopolnitvah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3727",
+   "versions": [
+    {
+     "from": "2003-12-09",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465989140",
+     "sha256": "4ee2d1678120dbb0adfae308bcb0d925f472e3cf710a1dd753f07f7bea1efd09"
+    },
+    {
+     "from": "2011-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3727",
+     "sha256": "8ecea533f1a75e4ff893f09ad7d6179ead842bd4adaad2396125cb07227760b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3810",
+   "path": "zakon/2003/zako3810",
+   "short": "ZSPJS-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o sistemu plač v javnem sektorju (ZSPJS-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3810",
+   "versions": [
+    {
+     "from": "2003-12-19",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466142662",
+     "sha256": "069551e269a497667de8daf037cdb58fe4b50016a0bd7dd83f02105e337c9642"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3815",
+   "path": "zakon/2003/zako3815",
+   "short": "ZKozP-UPB1",
+   "title": "Zakon o kozmetičnih proizvodih (uradno prečiščeno besedilo) (ZKozP-UPB1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3815",
+   "versions": [
+    {
+     "from": "2003-07-19",
+     "units": 37,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466159775",
+     "sha256": "1d8aa862f54970e80d316c36cecdab8178057e5a46bc10d439b3b7c93c74f343"
+    },
+    {
+     "from": "2013-11-20",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3815",
+     "sha256": "0e1616ed2aa5dc81c8754f9114a051499d5b870d7c8961ee066fe207ca84dacc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-zako3818",
+   "path": "zakon/2003/zako3818",
+   "short": "ZSDP-UPB1",
+   "title": "Zakon o starševskem varstvu in družinskih prejemkih (uradno prečiščeno besedilo) (ZSDP-UPB1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3818",
+   "versions": [
+    {
+     "from": "2003-08-19",
+     "units": 136,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465412580",
+     "sha256": "8784067fc3e28b6909818864e495b47a8d801c53101d53875d52c5c79accf0d4"
+    },
+    {
+     "from": "2014-04-29",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3818",
+     "sha256": "7fc3771f9883b688fe79624907a4d3f0716e4ee565cb9b07f97888da7ea90264"
     }
    ]
   },
@@ -8623,6 +11035,1170 @@
      "units": 0,
      "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2301",
      "sha256": "3de7f69a1f7cdcc2fe4150b0cdad8d558fd16511a9bf59a3e44d2158dcdacf8d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3236",
+   "path": "zakon/2004/zako3236",
+   "short": "ZEPEP-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o elektronskem poslovanju in elektronskem podpisu (ZEPEP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3236",
+   "versions": [
+    {
+     "from": "2004-04-03",
+     "units": 34,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466086008",
+     "sha256": "5d6ab9cc8bb51cd22c130adb9a526a697957f11ea0be7ba5d6d38a15a3291677"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3341",
+   "path": "zakon/2004/zako3341",
+   "short": "EZ-A",
+   "title": "Zakon o spremembah in dopolnitvah energetskega zakona (EZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3341",
+   "versions": [
+    {
+     "from": "2004-05-08",
+     "units": 100,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465517929",
+     "sha256": "b73a25d34996460ad35bbc5f98c5b933b76d24c322bef8d608ad6f8f76cfacaf"
+    },
+    {
+     "from": "2014-03-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3341",
+     "sha256": "fb7fa52b06f081a63ec280814d3bc49ec0978dd7a53fd10efc18a9adacf442de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3359",
+   "path": "zakon/2004/zako3359",
+   "short": "ZRud-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o rudarstvu (ZRud-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3359",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 43,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466391192",
+     "sha256": "8f5eb6b1b5ca7ea7ae58f6c4350c9d93699aab5d50bd6eaaedb4ff9cc936dd42"
+    },
+    {
+     "from": "2010-08-10",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3359",
+     "sha256": "74815040e2de2605cb5a1a891602cf1035428bd7fe769be5eb498e2aae3687d7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3392",
+   "path": "zakon/2004/zako3392",
+   "short": "ZZavar-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu (ZZavar-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3392",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 188,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465546173",
+     "sha256": "8ba0c0c4c728fc336046c28222dbd9fdc89a2161f75e52029fec99e0b41c4b50"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3392",
+     "sha256": "1fbb072e8cb1ed83f61464ad1846b085b6bb46ed187955da3f725f43a1bd4245"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3456",
+   "path": "zakon/2004/zako3456",
+   "short": "ZPPPR-A",
+   "title": "Zakon o dopolnitvah Zakona o preprečevanju posledic rudarjenja v Rudniku živega srebra Idrija (ZPPPR-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3456",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465983808",
+     "sha256": "30fabcf9ca3a81226ca74ff36edaf48c88c820a23a8c8a97214bd49f96bc5a88"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3499",
+   "path": "zakon/2004/zako3499",
+   "short": "ZVPot-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o varstvu potrošnikov (ZVPot-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3499",
+   "versions": [
+    {
+     "from": "2004-05-08",
+     "units": 23,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465594083",
+     "sha256": "6a756baab94275e0d07427868b70941fb0530464261a5b2aa904cd1eeb09694d"
+    },
+    {
+     "from": "2022-10-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3499",
+     "sha256": "e0ca8c7fa09f8e57aea2da2410b73b21a2cdcc50ba8bfc456dc67e7d80a7b798"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3504",
+   "path": "zakon/2004/zako3504",
+   "short": "ZUT-D",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o upravnih taksah (ZUT-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3504",
+   "versions": [
+    {
+     "from": "2004-03-13",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466139620",
+     "sha256": "79cb3fa97376eb5c67ee031fafc87417f258b52c3e01874d5fe580dc6a063b26"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3508",
+   "path": "zakon/2004/zako3508",
+   "short": "ZUKD-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o ugotavljanju katastrskega dohodka (ZUKD-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3508",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 12,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465594382",
+     "sha256": "79f768959b2b3a020a73583881096aacc61d5a1496489249da0e3b757666def9"
+    },
+    {
+     "from": "2011-02-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3508",
+     "sha256": "ebc2f60f031b03d53818f89e3f33b2767ff78ea657da3f25420105c4f39640b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3556",
+   "path": "zakon/2004/zako3556",
+   "short": "ObrZ-C",
+   "title": "Zakon o spremembah in dopolnitvah Obrtnega zakona (ObrZ-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3556",
+   "versions": [
+    {
+     "from": "2004-03-13",
+     "units": 47,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466153003",
+     "sha256": "c8c8e9babaacc02ae83351d538280c112c18d1572b7e5db8281043b44e01fdf7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3557",
+   "path": "zakon/2004/zako3557",
+   "short": "ZPSto-1A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o poštnih storitvah (ZPSto-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3557",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 42,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465596275",
+     "sha256": "e9c741f62468d1cb7d67f39b02cc540ab9fad7825a64d69ab70397a1e15c4cf4"
+    },
+    {
+     "from": "2009-08-02",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3557",
+     "sha256": "29f627cde1b74f25e976d5638fb75208530a92ec1767762264a8ebb18eefc1ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3610",
+   "path": "zakon/2004/zako3610",
+   "short": "ZUP-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku (ZUP-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3610",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 152,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465339487",
+     "sha256": "7c707e1b64548cde205279ae69194ddd8deb52b80dec6b59a9299527ac40b9c4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3611",
+   "path": "zakon/2004/zako3611",
+   "short": "ZRLI-C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o referendumu in o ljudski iniciativi (ZRLI-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3611",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465984527",
+     "sha256": "64c9545c42e56a09fd7026902fa7a5fb3d245668dec0aabe507c8b3ee8680374"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3618",
+   "path": "zakon/2004/zako3618",
+   "short": "ZOro-1A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o orožju (ZOro-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3618",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 49,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465984593",
+     "sha256": "f9de62a758b235b80e254b4b9960338ffdb8a5bfeefac8898975fe5407a069f1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3647",
+   "path": "zakon/2004/zako3647",
+   "short": "ZZdrS-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi (ZZdrS-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3647",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466156489",
+     "sha256": "0d7283aeb3d9cc971174834a925ac048ab69e3865517719fceed542b07f0e465"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3648",
+   "path": "zakon/2004/zako3648",
+   "short": "ZLD-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o lekarniški dejavnosti (ZLD-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3648",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345169",
+     "sha256": "4c0045f97be983f373f1a83c9b47185c1766fc2e3059c7a32159782668f3084d"
+    },
+    {
+     "from": "2017-01-27",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3648",
+     "sha256": "cfec700a50ab1fb44e3030399e46ab942a17be20876af0865b26f0044aeac6ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3659",
+   "path": "zakon/2004/zako3659",
+   "short": "ZS-D",
+   "title": "Zakon o spremembah in dopolnitvah zakona o sodiščih (ZS-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3659",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 46,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465985927",
+     "sha256": "2cd955ed11eb43764369eababffd8090081d94137679ccee214094d60ec2fdc1"
+    },
+    {
+     "from": "2025-12-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3659",
+     "sha256": "82aae217954a4fc994f15ffcfdf0cd95133c47f590df678d3a1da4a0f7064bce"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3661",
+   "path": "zakon/2004/zako3661",
+   "short": "ZPom-A",
+   "title": "Zakon o spremembi in dopolnitvi Zakona o pomilostitvi (ZPom-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3661",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345249",
+     "sha256": "1a7fb3711aeb79e492f7c4fc191d6d1aa300f4e63f26b1e3095fd55ef8d44466"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3663",
+   "path": "zakon/2004/zako3663",
+   "short": "ZBPP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o brezplačni pravni pomoči (ZBPP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3663",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345281",
+     "sha256": "705f6acd8fd24a3a2fc64cb1236b2a98b60641ac1a85432579ad58642d577656"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3686",
+   "path": "zakon/2004/zako3686",
+   "short": "ZON-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o ohranjanju narave (ZON-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3686",
+   "versions": [
+    {
+     "from": "2004-04-23",
+     "units": 36,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465353276",
+     "sha256": "4bb9d32536ae308a81f5a0c02b10371be6133730db06e6f5f0d7ce9fd905fcf1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3716",
+   "path": "zakon/2004/zako3716",
+   "short": "PZ-B",
+   "title": "Zakon o dopolnitvah pomorskega zakonika (PZ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3716",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465356924",
+     "sha256": "b6ce24ca588ca8b277f1b74f594b457898a0f7533c682f0d858b686d91c9b56f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3745",
+   "path": "zakon/2004/zako3745",
+   "short": "ZSTNIIP",
+   "title": "Zakon o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij (ZSTNIIP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3745",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8000304",
+     "sha256": "f8e2ce3e2b1f3811eb18cef655bf706661f5fde2eeeb3238ffad06af19620a9e"
+    },
+    {
+     "from": "2006-08-09",
+     "units": 25,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8037245",
+     "sha256": "b7c1546af7c78ded4c5144a055f2797fc7c4747bdafe5ef24dd7ac53ef8c0a6b"
+    },
+    {
+     "from": "2006-10-17",
+     "units": 25,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11565266",
+     "sha256": "41ca8ce84f2b9afacb2fc3cf5c346a8f659f61b01ed0b211dac7baf76f4abdf8"
+    },
+    {
+     "from": "2011-02-22",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11791502",
+     "sha256": "32361630de03acb4e00272793fba51d0d7b3a87ed3bfccb10415bee6497de1e1"
+    },
+    {
+     "from": "2012-07-28",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11038586",
+     "sha256": "3a03629ad34c214275cce0d16efaf3ae0bdf4709e6a233ffbdf2683076b59b77"
+    },
+    {
+     "from": "2015-03-28",
+     "units": 27,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10345631",
+     "sha256": "9ce64d5fadaf08f4a78532ee5da7398b30972d758ff12de231839413c228c1c9"
+    },
+    {
+     "from": "2018-03-15",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3745",
+     "sha256": "476c43b5c5506b0d419fae6d73477b3cbd9a3e88dd4c858eadb8b02cbcce99c5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3747",
+   "path": "zakon/2004/zako3747",
+   "short": "ZPlaP-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o plačilnem prometu (ZPlaP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3747",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 57,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465989194",
+     "sha256": "6d0dd5814882b0df1010583b5849c3d2ec324ef7719e11f4e618e5acc510a0f6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3748",
+   "path": "zakon/2004/zako3748",
+   "short": "ZASP-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o avtorski in sorodnih pravicah (ZASP-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3748",
+   "versions": [
+    {
+     "from": "2004-05-11",
+     "units": 63,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465368227",
+     "sha256": "586fba9c658974633adbec48eee6618d6d617c990961d0f34e29f12840f37364"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3761",
+   "path": "zakon/2004/zako3761",
+   "short": "ZSV-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu (ZSV-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3761",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 105,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466403342",
+     "sha256": "fa3da6a8d7021f32bac3e485066e1bf653d52be6eb860f05d62d44204ad4192b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3781",
+   "path": "zakon/2004/zako3781",
+   "short": "ZEKom",
+   "title": "Zakon o elektronskih komunikacijah (ZEKom)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3781",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 174,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8011657",
+     "sha256": "e8f4a434a7427f67de9e0865ab5092d3a61de0a31eba8a6ff9d93dbfa107b432"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 174,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8230922",
+     "sha256": "e00c4428a25e3bc446c3c5879c3d7cd157eefd94d788711a262a115a08443eb4"
+    },
+    {
+     "from": "2006-12-27",
+     "units": 188,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8605348",
+     "sha256": "f44b7214315c3bef30b0cf44ea8caddf7d9f57a8ed0b05faf92ff994889187c7"
+    },
+    {
+     "from": "2007-02-15",
+     "units": 188,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11485505",
+     "sha256": "125b1052f538fc6c127cf36ff436d5964d897b1e9b3f0c4223ce8cbbd6623fd6"
+    },
+    {
+     "from": "2007-11-24",
+     "units": 188,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11640670",
+     "sha256": "870520a38368c74490cc0acc967c68e0c8ea86ed0ae217606d5bcd26dd213674"
+    },
+    {
+     "from": "2010-01-28",
+     "units": 181,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10781170",
+     "sha256": "57bdb0737e0df4d3d79b098f763565a3efbce47802510650c9c193b495ae06b0"
+    },
+    {
+     "from": "2011-05-18",
+     "units": 185,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/21526862",
+     "sha256": "713cb50ec12e5484d1449f6aae33679b26af082bc0ab6abc1ffe6d25a06020c1"
+    },
+    {
+     "from": "2013-01-15",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3781",
+     "sha256": "722e0bc23090678a4b76b5fa29afa7b83fdd435744433cade17e00aa99350173"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3789",
+   "path": "zakon/2004/zako3789",
+   "short": "ZPNNVSM",
+   "title": "Zakon o prenosu nalog nekaterih vladnih služb na ministrstva (ZPNNVSM)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3789",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8042410",
+     "sha256": "6bc874fc9cc7060ce456beb348edf7a34ae3710a96b7c948cab6a5761170036e"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3789",
+     "sha256": "f6dc04cab30954a416876cee34293a9793ac24b5317e497df62ffb7725935dcc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3792",
+   "path": "zakon/2004/zako3792",
+   "short": "ZZdrI-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni inšpekciji (ZZdrI-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3792",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 28,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465387532",
+     "sha256": "1023022dc68a5792db24a0e8cdf5cfb41bcea7ef1e1efb11c8ae4384f0648f16"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3793",
+   "path": "zakon/2004/zako3793",
+   "short": "ZOdl-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o odlikovanjih Republike Slovenije (ZOdl-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3793",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 16,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465387673",
+     "sha256": "9251a40a7e0f38a2c056386ba7405ce0eafaec20cd133264c8c718d425385b29"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3794",
+   "path": "zakon/2004/zako3794",
+   "short": "ZGO-1A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o graditvi objektov (ZGO-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3794",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 43,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468315307",
+     "sha256": "e21a6f4c13dc74d9a3ce72e69515ffee6ce87916de0c45726600c57ee6c469f8"
+    },
+    {
+     "from": "2017-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3794",
+     "sha256": "a8dd6be4d41560027d69c83891d7bcb66187ee893bfb483d63dde0750f07d97d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3844",
+   "path": "zakon/2004/zako3844",
+   "short": "ZDDV-D",
+   "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3844",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 16,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465419941",
+     "sha256": "e22fec97678cd27f690001826818389fc889b7610b2d55cd6bd32e236d01696a"
+    },
+    {
+     "from": "2006-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3844",
+     "sha256": "dde4447666043fb565e5992afc4f92d9bc4c33fac2b5b96554b2cdfc267bfac8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3845",
+   "path": "zakon/2004/zako3845",
+   "short": "ZISDU-1A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje (ZISDU-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3845",
+   "versions": [
+    {
+     "from": "2004-05-08",
+     "units": 79,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466160900",
+     "sha256": "8c5260fa684ac73a25d2b9eddec713c0c3f1cff268278d6d1a730baacd15227a"
+    },
+    {
+     "from": "2011-11-02",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3845",
+     "sha256": "17b1656ea854d5716898fc44a62a281ad3124802d4696757a1d10d365762bd11"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3846",
+   "path": "zakon/2004/zako3846",
+   "short": "ZRPJN-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o reviziji postopkov javnega naročanja (ZRPJN-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3846",
+   "versions": [
+    {
+     "from": "2004-04-24",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465420003",
+     "sha256": "14ebb5d9335a994e0b43e9b9cde23ced3de4f8e4fc1ecf341ed6de506a06b40e"
+    },
+    {
+     "from": "2011-07-03",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3846",
+     "sha256": "b63b876aa5da870884c67ab8755f9fa4e74f0776e6147e7a3d250c93d257e1cd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3852",
+   "path": "zakon/2004/zako3852",
+   "short": "ZPSPID-B",
+   "title": "Zakon o dopolnitvah Zakona o prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb (ZPSPID-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3852",
+   "versions": [
+    {
+     "from": "2004-06-05",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465420054",
+     "sha256": "ac3ad906e173a4bdf6ab6c749812f0a4c0e9d80d739463550f4d5e6b6c23b663"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3855",
+   "path": "zakon/2004/zako3855",
+   "short": "ZFfS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o fitofarmacevtskih sredstvih (ZFfS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3855",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 41,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465420105",
+     "sha256": "59b3d83248e1044e94fa4e2a764d9fb286b57dd5882b659d4ad9eba3ca652c22"
+    },
+    {
+     "from": "2012-11-21",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3855",
+     "sha256": "cdb3d47485fe67e3237e663074d7028592e8d588fff75a6378b14cb34595b103"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3856",
+   "path": "zakon/2004/zako3856",
+   "short": "ZZVR-1A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu rastlin (ZZVR-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3856",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 83,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465420411",
+     "sha256": "debca1e56ea2217f589a4e5570707504569bdb7003ed6a3a1501e8c97fc3321f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3857",
+   "path": "zakon/2004/zako3857",
+   "short": "ZSMKR-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin (ZSMKR-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3857",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 66,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465432724",
+     "sha256": "befe48f5dd5526f01190341ee5abf7b99d8fe2a53f4b235fc59008c20d573839"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3862",
+   "path": "zakon/2004/zako3862",
+   "short": "ZVPEP-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah poslancev iz Republike Slovenije v Evropski parlament (ZVPEP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3862",
+   "versions": [
+    {
+     "from": "2004-03-11",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465433161",
+     "sha256": "e7876188d8a98f59fd2b0003e62fe3fbff137ec5fdb57b4be85d329140e2d9be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3864",
+   "path": "zakon/2004/zako3864",
+   "short": "ZUARLPP",
+   "title": "Zakon o ukinitvi Agencije Republike Slovenije za revidiranje lastninskega preoblikovanja podjetij (ZUARLPP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3864",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8178298",
+     "sha256": "1badf399c9bce85d1a92d0fd0fe0ad22b3dc843568ac66f88bd20c2a6577377b"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3864",
+     "sha256": "1939d8c19b7fa2a9d7a10a184d48c593efd278cba18af750828785fe5441ae8c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3866",
+   "path": "zakon/2004/zako3866",
+   "short": "ZRGSO-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o ravnanju z gensko spremenjenimi organizmi (ZRGSO-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3866",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 39,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465433226",
+     "sha256": "178668d89b36bf172e2f5fb4f4be8e03a1c7fc182ea243930bad048726afb583"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3868",
+   "path": "zakon/2004/zako3868",
+   "short": "ZObr-D",
+   "title": "Zakon o spremembah in dopolnitvah zakona o obrambi (ZObr-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3868",
+   "versions": [
+    {
+     "from": "2004-05-05",
+     "units": 35,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465993006",
+     "sha256": "77eadae35c09c9da37ab171350c2b2994150d8d106f193d870eee37561cc692b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3882",
+   "path": "zakon/2004/zako3882",
+   "short": "ZDU-1B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o državni upravi (ZDU-1B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3882",
+   "versions": [
+    {
+     "from": "2004-06-19",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465993166",
+     "sha256": "3cc9db2710677d66d35e83bf299dd8f3f3cb49a4b8696e3bb1f3cdb835804445"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3886",
+   "path": "zakon/2004/zako3886",
+   "short": "ZSPJS-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o sistemu plač v javnem sektorju (ZSPJS-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3886",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465433974",
+     "sha256": "b7f387bb0c7c3acf2e723fe5f9a3452c92aaf19410b94991c9eecc9ff713e710"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3894",
+   "path": "zakon/2004/zako3894",
+   "short": "ZPol-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o policiji (ZPol-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3894",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466162312",
+     "sha256": "4b4697c4c00a8b2d52149d07e1affa6befba2d7069faec501c01494a94e8ee7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3906",
+   "path": "zakon/2004/zako3906",
+   "short": "ZVOP-1",
+   "title": "Zakon o varstvu osebnih podatkov (ZVOP-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3906",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 119,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8232343",
+     "sha256": "f0f7605471202161acc99d8b8dc09aa2f3c9a400ef2029deb7afb1b7e3d8a65f"
+    },
+    {
+     "from": "2005-12-31",
+     "units": 106,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8475040",
+     "sha256": "e737e5b473628588742b079583dca191cca6d98bae771c53b2613d50faab3647"
+    },
+    {
+     "from": "2007-07-15",
+     "units": 107,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11562346",
+     "sha256": "6b0d38c15bff527dfb76b070c8af1c6b775d44cdf7cdb0b63fe6cb5d2bbd7d28"
+    },
+    {
+     "from": "2007-07-28",
+     "units": 108,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11490942",
+     "sha256": "de9f9f943e50bf2b5bb4dfb05e9acf48ed29eaa106f0b9fee193010128caf48a"
+    },
+    {
+     "from": "2007-10-16",
+     "units": 108,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10760660",
+     "sha256": "ac1ef56a897fb4205ada2882039f94f1743edab0260fb0b99b803f302c683b02"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 109,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11909058",
+     "sha256": "014b915fed96cec2472e1fa5cec034ca723a1decb8133a48ad105603774eada7"
+    },
+    {
+     "from": "2023-01-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3906",
+     "sha256": "01c0cb358a056917c32a7d66f499412df2852cc6e1ac89d9c6b4fbacf0aff144"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3908",
+   "path": "zakon/2004/zako3908",
+   "short": "ZUNEO",
+   "title": "Zakon o uresničevanju načela enakega obravnavanja (ZUNEO)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3908",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 31,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8233442",
+     "sha256": "87fdfb1a94e129887033ae92a755c02576028700b32622e85d8bbff5b53b5e6e"
+    },
+    {
+     "from": "2007-07-25",
+     "units": 35,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11480452",
+     "sha256": "06701c1e5408c6a297a1b0a56b8ac47f642890f969787fbf99fb320a5b8bb4e1"
+    },
+    {
+     "from": "2007-10-12",
+     "units": 35,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11578276",
+     "sha256": "982671fed6775d09e35309548cf84e100af9d9f7fbbb0377c47e80f6ee34bd45"
+    },
+    {
+     "from": "2016-05-24",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3908",
+     "sha256": "22a2de3d2aaeb34865f3deda5d2d8a643acde5b6e20c57ea8c64cab8da525130"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3909",
+   "path": "zakon/2004/zako3909",
+   "short": "ZOPOKD-A",
+   "title": "Zakon o spremembah zakona o odgovornosti pravnih oseb za kazniva dejanja (ZOPOKD-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3909",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465446488",
+     "sha256": "c8927d6596b932536316be16873bccb4ec346f82ac763954c57cb99d48d201fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3925",
+   "path": "zakon/2004/zako3925",
+   "short": "ZPZDKP",
+   "title": "Zakon o popisu zalog in dajatvi na presežne zaloge določenih kmetijskih proizvodov (ZPZDKP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3925",
+   "versions": [
+    {
+     "from": "2004-04-24",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/26524087",
+     "sha256": "9f7e1afb5344b90bb8be179075599b261ff0b3c808d707169ab3b7e259443a69"
+    },
+    {
+     "from": "2006-11-24",
+     "units": 22,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/25153906",
+     "sha256": "158db2b744f6d921e64f1b569e757de773354032ddde6031af900e54105377b4"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3925",
+     "sha256": "26a1954acd4850255dce6314e65f472052ea21fba0322f5c66542b1b7cc39ae8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3933",
+   "path": "zakon/2004/zako3933",
+   "short": "ZTZPUS-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti (ZTZPUS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3933",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465451004",
+     "sha256": "66acb940c9f4550efa0c700b6ed6afe408fb3b6bc39686d1935f209dac2b0f1c"
+    },
+    {
+     "from": "2011-03-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3933",
+     "sha256": "d30fc85768e13e61422a86b4b6c5b0ed0ec3d454a732db2473404b248cad16bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako3934",
+   "path": "zakon/2004/zako3934",
+   "short": "ZGV-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o gorskih vodnikih (ZGV-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3934",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 16,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465997057",
+     "sha256": "2dee4742f43c99b11f5d48dfcef595f8bec19313873c062284e72d0eb82bed1a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-zako3625",
+   "path": "zakon/2005/zako3625",
+   "short": "ZGas-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o gasilstvu (ZGas-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3625",
+   "versions": [
+    {
+     "from": "2005-10-29",
+     "units": 46,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465984906",
+     "sha256": "badecc44968c52138dceb216ea8ce3a2e51d5563796d7f9a6dda6a3db3177358"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-zako3642",
+   "path": "zakon/2005/zako3642",
+   "short": "ZNB-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih (ZNB-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3642",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 22,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465345048",
+     "sha256": "cec2c8a366502033f9be306337d0dc01b3e5904d589fd94140e42d84eb1a42ca"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-zako3842",
+   "path": "zakon/2005/zako3842",
+   "short": "ZUL-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o Uradnem listu Republike Slovenije (ZUL-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3842",
+   "versions": [
+    {
+     "from": "2005-10-25",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466160798",
+     "sha256": "215317385917a6e16b48c5c638b3c193a39abfd482ec8421be1d49fa95fa880b"
+    },
+    {
+     "from": "2025-11-12",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3842",
+     "sha256": "a9898e2b4da4b91d472c3a026685f5529a93cb176c7de2b48a9b1e60f4ee2974"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-zako3853",
+   "path": "zakon/2005/zako3853",
+   "short": "ZDPZP-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o davku od prometa zavarovalnih poslov (ZDPZP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3853",
+   "versions": [
+    {
+     "from": "2005-08-13",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466161592",
+     "sha256": "9b5aaf3103b38320c19d97d65356997cb2ea4c1c006a003a5d47a86adaf2dddb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-zako3887",
+   "path": "zakon/2005/zako3887",
+   "short": "ZJZ-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o javnih zbiranjih (ZJZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3887",
+   "versions": [
+    {
+     "from": "2005-07-09",
+     "units": 20,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465434244",
+     "sha256": "7a1e31b8980b49cc1606934577aae8b89b4d61c80ad4e2d652ec51acc3fa4c60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-zako3889",
+   "path": "zakon/2005/zako3889",
+   "short": "ZU-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o ustanovah (ZU-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3889",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465434333",
+     "sha256": "96525606aa291ddaa268be6aa4b226ab617b0949931c5f1d3de7b5da93dc1b67"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-zako3893",
+   "path": "zakon/2005/zako3893",
+   "short": "ZPNB-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o prevozu nevarnega blaga (ZPNB-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3893",
+   "versions": [
+    {
+     "from": "2005-11-26",
+     "units": 38,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465434416",
+     "sha256": "0051960a88640087c818266ef782b7a6a6b1e4da66da7c4d1d1ac78339657569"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-zako3626",
+   "path": "zakon/2006/zako3626",
+   "short": "ZVNDN-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred naravnimi in drugimi nesrečami (ZVNDN-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3626",
+   "versions": [
+    {
+     "from": "2006-04-01",
+     "units": 70,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465343748",
+     "sha256": "6f2428c9a1c87216c04695e0a18bfb402552183bc81f1f5752b978fbce00778b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-zako3870",
+   "path": "zakon/2006/zako3870",
+   "short": "ZVPoz-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred požarom (ZVPoz-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3870",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 40,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465433519",
+     "sha256": "f9107a29440329807179d524d5afdbedc03f74ff69a3d74a422ff468c1a4813c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-zako3891",
+   "path": "zakon/2006/zako3891",
+   "short": "ZJRM-1",
+   "title": "Zakon o varstvu javnega reda in miru (ZJRM-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3891",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 32,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8186865",
+     "sha256": "a3cb8babfbbaa56f394e17a71ec33a6c532b51876c7f54c95a7036d23bd68f12"
+    },
+    {
+     "from": "2020-10-24",
+     "units": 33,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9401575",
+     "sha256": "bdc4febb3c8a978883770113a08f15c3726ad0cfb313e5d4adc034bf2782904d"
+    },
+    {
+     "from": "2025-03-31",
+     "units": 34,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/193783252",
+     "sha256": "bcd011c3ca42e52e3cb535da01bf9be303e21101590f8fdcb9acd0e704a7db81"
+    },
+    {
+     "from": "2026-01-28",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO3891",
+     "sha256": "dd70db3f56e5674202d32ca3b2a30a17da8740781cefd15b253ce05eff5ae0ff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-zako3544",
+   "path": "zakon/2010/zako3544",
+   "short": "ZSKZ-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o Skladu kmetijskih zemljišč in gozdov Republike Slovenije (ZSKZ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3544",
+   "versions": [
+    {
+     "from": "2010-02-20",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465595762",
+     "sha256": "a5b83af9d678cdfdf1870bd895f9fce5966084706ee1234948e82310dc7307b7"
     }
    ]
   },

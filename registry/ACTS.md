@@ -1,6 +1,6 @@
 # Every act in this repository
 
-378 acts, 874 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+570 acts, 1,182 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## pravilnik (1)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Pravilnik o določitvi zvrsti predmetov kulturne dediščine | [`pravilnik/2000/zako1992/`](pravilnik/2000/zako1992/) | repealed 2011-01-01 | 2 | 2000-09-03 | 2011-01-01 |
 
-## zakon (377, of which 91 amending acts)
+## zakon (569, of which 193 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -357,6 +357,13 @@
 | Zakon o spremembi zakona o proizvodnji in prometu s prepovedanimi drogami (ZPPPD-A) | [`zakon/2000/zako2596/`](zakon/2000/zako2596/) | amending act | 1 | 2000-05-27 | 2000-05-27 |
 | Zakon o dopolnitvi zakona o ponovni vzpostavitvi agrarnih skupnosti ter vrnitvi njihovega premoženja in pravic (ZPVAS-E) | [`zakon/2000/zako2612/`](zakon/2000/zako2612/) | in force | 1 | 2000-08-12 | 2000-08-12 |
 | Zakon o spremembi zakona o spremembah in dopolnitvah zakona o kazenskem postopku (ZKP-C) | [`zakon/2000/zako2628/`](zakon/2000/zako2628/) | repealed 2002-01-13 | 2 | 2000-07-27 | 2002-01-13 |
+| Zakon o spremembah in dopolnitvah zakona o denacionalizaciji (ZDen-C) | [`zakon/2000/zako2958/`](zakon/2000/zako2958/) | amending act | 1 | 2000-08-03 | 2000-08-03 |
+| Zakon o zagotovitvi sredstev za odpravo posledic suše, neurja s točo, plazenja tal in sluzenja morja v letu 2000 (ZZSO2000) | [`zakon/2000/zako2987/`](zakon/2000/zako2987/) | repealed 2022-01-22 | 3 | 2000-09-16 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o upravnih taksah (ZUT-B) | [`zakon/2000/zako3001/`](zakon/2000/zako3001/) | amending act | 1 | 2000-09-30 | 2000-09-30 |
+| Zakon o dopolnitvi zakona o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje gradnje železniške proge v smeri Puconci-Hodoš-državna meja (ZPSZPH-A) | [`zakon/2000/zako3019/`](zakon/2000/zako3019/) | in force | 1 | 2000-09-24 | 2000-09-24 |
+| Zakon o ukrepih za odpravo posledic plazu Stože v Občini Bovec in plazov večjega obsega, nastalih na območju Republike Slovenije po 15. oktobru 2000 (ZUPSB) | [`zakon/2000/zako3085/`](zakon/2000/zako3085/) | repealed 2022-01-22 | 2 | 2000-12-30 | 2022-01-22 |
+| Zakon o dopolnitvah zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001 (ZMPUPR-A) | [`zakon/2000/zako3088/`](zakon/2000/zako3088/) | repealed 2022-01-22 | 2 | 2000-12-30 | 2022-01-22 |
+| Zakon o dopolnitvi zakona o javnih financah (ZJF-A) | [`zakon/2000/zako3089/`](zakon/2000/zako3089/) | in force | 1 | 2000-12-30 | 2000-12-30 |
 | Zakon o prijavi prebivališča (ZPPreb) | [`zakon/2001/zako1596/`](zakon/2001/zako1596/) | repealed 2016-08-13 | 5 | 2001-02-24 | 2016-08-13 |
 | Zakon o letalstvu (ZLet) | [`zakon/2001/zako1620/`](zakon/2001/zako1620/) | repealed 2025-04-05 | 12 | 2001-04-13 | 2025-04-05 |
 | Zakon o spremembah in dopolnitvah zakona o avtorski in sorodnih pravicah (ZASP-A) | [`zakon/2001/zako1656/`](zakon/2001/zako1656/) | amending act | 1 | 2001-02-24 | 2001-02-24 |
@@ -373,6 +380,42 @@
 | Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-E) | [`zakon/2001/zako2563/`](zakon/2001/zako2563/) | amending act | 1 | 2001-12-22 | 2001-12-22 |
 | Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-B) | [`zakon/2001/zako2610/`](zakon/2001/zako2610/) | repealed 2016-07-16 | 2 | 2001-05-20 | 2016-07-16 |
 | Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-C) | [`zakon/2001/zako2613/`](zakon/2001/zako2613/) | repealed 2016-07-16 | 2 | 2001-12-08 | 2016-07-16 |
+| Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (ZZSV-A) | [`zakon/2001/zako3053/`](zakon/2001/zako3053/) | in force | 1 | 2001-03-29 | 2001-03-29 |
+| Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za obveznosti iz kredita, ki sta ga najela Stanovanjski sklad Republike Slovenije in Sklad za regionalni razvoj in ohranjanje slovenskega podeželja pri Skladu Sveta Evrope za socialni razvoj, za izvedbo programov pri popotresni obnovi in spodbujanju razvoja Posočja (ZPOKP-A) | [`zakon/2001/zako3093/`](zakon/2001/zako3093/) | repealed 2022-01-22 | 2 | 2001-02-17 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi (ZRLI-B) | [`zakon/2001/zako3098/`](zakon/2001/zako3098/) | amending act | 1 | 2001-07-20 | 2001-07-20 |
+| Zakon o spremembi in dopolnitvi zakona o Triglavskem narodnem parku (ZTNP-B) | [`zakon/2001/zako3102/`](zakon/2001/zako3102/) | repealed 2010-07-15 | 2 | 2001-05-26 | 2010-07-15 |
+| Zakon o dopolnitvi zakona o žrtvah vojnega nasilja (ZZVN-F) | [`zakon/2001/zako3109/`](zakon/2001/zako3109/) | in force | 1 | 2001-08-04 | 2001-08-04 |
+| Zakon o dopolnitvah zakona o lastninjenju nepremičnin v družbeni lastnini (ZLNDL-A) | [`zakon/2001/zako3110/`](zakon/2001/zako3110/) | in force | 1 | 2001-07-20 | 2001-07-20 |
+| Zakon o spremembah in dopolnitvah zakona o popisu prebivalstva, gospodinjstev in stanovanj v Republiki Sloveniji leta 2001 (ZPPG01-A) | [`zakon/2001/zako3124/`](zakon/2001/zako3124/) | repealed 2022-01-22 | 2 | 2001-04-27 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o osnovni šoli (ZOsn-B) | [`zakon/2001/zako3125/`](zakon/2001/zako3125/) | amending act | 1 | 2001-08-03 | 2001-08-03 |
+| Zakon o dopolnitvi zakona o ratifikaciji Evropske konvencije o medsebojni pravni pomoči v kazenskih zadevah in Dodatnega protokola k Evropski konvenciji o medsebojni pravni pomoči v kazenskih zadevah (MEKPPKZ-A) | [`zakon/2001/zako3129/`](zakon/2001/zako3129/) | in force | 1 | 2001-06-09 | 2001-06-09 |
+| Zakon o spremembah in dopolnitvah zakona o investicijah v javne zdravstvene zavode, katerih ustanovitelj je Republika Slovenija, za obdobje 1994-2003 (ZIJZ-B) | [`zakon/2001/zako3132/`](zakon/2001/zako3132/) | repealed 2015-11-28 | 2 | 2001-12-30 | 2015-11-28 |
+| Zakon o spremembah in dopolnitvah zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju (ZPOOSRP-C) | [`zakon/2001/zako3136/`](zakon/2001/zako3136/) | amending act | 1 | 2001-07-20 | 2001-07-20 |
+| Zakon o poroštvu Republike Slovenije za obveznosti Zavoda za obvezne rezerve nafte in njenih derivatov (ZPORND) | [`zakon/2001/zako3156/`](zakon/2001/zako3156/) | repealed 2022-01-22 | 2 | 2001-05-12 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o igrah na srečo (ZIS-A) | [`zakon/2001/zako3159/`](zakon/2001/zako3159/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
+| Zakon o spremembah in dopolnitvah zakona o gimnazijah (ZGim-A) | [`zakon/2001/zako3171/`](zakon/2001/zako3171/) | amending act | 1 | 2001-08-03 | 2001-08-03 |
+| Zakon o spremembah in dopolnitvah zakona o sodelovanju delavcev pri upravljanju (ZSDU-A) | [`zakon/2001/zako3176/`](zakon/2001/zako3176/) | amending act | 1 | 2001-07-21 | 2001-07-21 |
+| Zakon o spremembah in dopolnitvah zakona o Filmskem skladu Republike Slovenije (ZFS-A) | [`zakon/2001/zako3179/`](zakon/2001/zako3179/) | repealed 2010-10-19 | 2 | 2001-08-03 | 2010-10-19 |
+| Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih (ZZZDR-B) | [`zakon/2001/zako3180/`](zakon/2001/zako3180/) | repealed 2017-04-15 | 2 | 2001-08-18 | 2017-04-15 |
+| Zakon o spremembah in dopolnitvah zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001 (ZMPUPR-B) | [`zakon/2001/zako3182/`](zakon/2001/zako3182/) | repealed 2022-01-22 | 2 | 2001-06-14 | 2022-01-22 |
+| Zakon o spremembah zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov (ZPSDP-B) | [`zakon/2001/zako3186/`](zakon/2001/zako3186/) | amending act | 1 | 2001-06-14 | 2001-06-14 |
+| Zakon o spremembah in dopolnitvah zakona o dedovanju (ZD-B) | [`zakon/2001/zako3187/`](zakon/2001/zako3187/) | amending act | 1 | 2001-08-25 | 2001-08-25 |
+| Zakon o spremembi zakona o popravi krivic (ZPKri-B) | [`zakon/2001/zako3188/`](zakon/2001/zako3188/) | amending act | 1 | 2001-11-23 | 2001-11-23 |
+| Zakon o spremembah in dopolnitvah zakona o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji (ZUSDDD-A) | [`zakon/2001/zako3195/`](zakon/2001/zako3195/) | amending act | 1 | 2001-08-18 | 2001-08-18 |
+| Zakon o spremembi in dopolnitvi zakona o varnosti in zdravju pri delu (ZVZD-A) | [`zakon/2001/zako3198/`](zakon/2001/zako3198/) | repealed 2011-12-04 | 2 | 2001-08-18 | 2011-12-04 |
+| Zakon o spremembah in dopolnitvah zakona o uporabi sredstev, pridobljenih iz naslova kupnine na podlagi zakona o lastninskem preoblikovanju podjetij (ZUKLPP-B) | [`zakon/2001/zako3208/`](zakon/2001/zako3208/) | amending act | 1 | 2001-08-25 | 2001-08-25 |
+| Zakon o spremembi zakona o ratifikaciji Evropskega sporazuma, ki se nanaša na osebe, udeležene v postopkih Evropskega sodišča za človekove pravice (MESUES-A) | [`zakon/2001/zako3210/`](zakon/2001/zako3210/) | amending act | 1 | 2001-10-20 | 2001-10-20 |
+| Zakon o dopolnitvi zakona o visokem šolstvu (ZViS-B) | [`zakon/2001/zako3211/`](zakon/2001/zako3211/) | repealed 2025-08-09 | 2 | 2001-08-18 | 2025-08-09 |
+| Zakon o spremembi zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo (ZPPLPS-A) | [`zakon/2001/zako3214/`](zakon/2001/zako3214/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
+| Zakon o spremembi zakona o zaključku lastninjenja in privatizaciji pravnih oseb v lasti Slovenske razvojne družbe (ZZLPPO-B) | [`zakon/2001/zako3216/`](zakon/2001/zako3216/) | amending act | 1 | 2001-10-11 | 2001-10-11 |
+| Zakon o preoblikovanju prostih carinskih prodajaln na cestnih mejnih prehodih z državami članicami Evropskih skupnosti, ki delujejo v okviru Evropske unije, v mejne prodajalne in o posebnih ukrepih nadzora teh prodajaln (ZPPCPEU) | [`zakon/2001/zako3226/`](zakon/2001/zako3226/) | repealed 2004-05-01 | 2 | 2001-08-11 | 2004-05-01 |
+| Zakon o spremembah in dopolnitvah zakona o javnih financah (ZJF-B) | [`zakon/2001/zako3241/`](zakon/2001/zako3241/) | amending act | 1 | 2001-10-11 | 2001-10-11 |
+| Zakon o državni pomoči za odpravo posledic suše, pozebe in neurij s točo v kmetijstvu za leto 2001 (ZZSO2001) | [`zakon/2001/zako3248/`](zakon/2001/zako3248/) | repealed 2022-01-22 | 2 | 2001-10-30 | 2022-01-22 |
+| Zakon o dopolnitvi zakona o policiji (ZPol-A) | [`zakon/2001/zako3271/`](zakon/2001/zako3271/) | in force | 1 | 2001-11-24 | 2001-11-24 |
+| Zakon o spremembah in dopolnitvah zakona o Skladu za poplačilo odškodnine žrtvam vojnega in povojnega nasilja (ZSPOZ-A) | [`zakon/2001/zako3272/`](zakon/2001/zako3272/) | amending act | 1 | 2001-12-30 | 2001-12-30 |
+| Zakon o spremembah in dopolnitvah zakona o zagotavljanju sredstev za realizacijo temeljnih razvojnih programov obrambnih sil Republike Slovenije v letih 1994-2003 (ZZSR-A) | [`zakon/2001/zako3274/`](zakon/2001/zako3274/) | repealed 2022-01-22 | 2 | 2001-12-19 | 2022-01-22 |
+| Zakon o graditvi objektov na mejnih prehodih (ZDVGOMP) | [`zakon/2001/zako3295/`](zakon/2001/zako3295/) | repealed 2025-01-11 | 5 | 2001-12-30 | 2025-01-11 |
+| Zakon o spremembah in dopolnitvah zakona o jamstvu Republike Slovenije za obveznosti domačega letalskega prevoznika za kritje škod, nastalih kot posledica vojne oziroma terorizma in o pogojih jamstva za tuje letalske prevoznike (ZJODLPKŠ-A) | [`zakon/2001/zako3307/`](zakon/2001/zako3307/) | amending act | 1 | 2001-12-30 | 2001-12-30 |
 | Zakon o mineralnih gnojilih (ZMinG) | [`zakon/2002/zako1343/`](zakon/2002/zako1343/) | repealed 2006-04-05 | 2 | 2002-07-19 | 2006-04-05 |
 | Zakon o morskem ribištvu (ZMR-1) | [`zakon/2002/zako1346/`](zakon/2002/zako1346/) | repealed 2007-01-01 | 2 | 2002-08-03 | 2007-01-01 |
 | Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov (ZOUTI-A) | [`zakon/2002/zako1393/`](zakon/2002/zako1393/) | repealed 2017-03-11 | 2 | 2003-01-29 | 2017-03-11 |
@@ -382,10 +425,159 @@
 | Zakon o spremembah in dopolnitvah zakona o javnih cestah (ZJC-A) | [`zakon/2002/zako1836/`](zakon/2002/zako1836/) | amending act | 1 | 2002-03-15 | 2002-03-15 |
 | Zakon o spremembah in dopolnitvah zakona o gozdovih (ZG-A) | [`zakon/2002/zako1972/`](zakon/2002/zako1972/) | amending act | 1 | 2002-08-10 | 2002-08-10 |
 | Zakon o spremembah in dopolnitvah zakona o obveznih zavarovanjih v prometu (ZOZP-A) | [`zakon/2002/zako2210/`](zakon/2002/zako2210/) | amending act | 1 | 2002-08-10 | 2002-08-10 |
+| Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-F) | [`zakon/2002/zako3054/`](zakon/2002/zako3054/) | amending act | 1 | 2002-07-11 | 2002-07-11 |
+| Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-B) | [`zakon/2002/zako3126/`](zakon/2002/zako3126/) | repealed 2006-11-17 | 2 | 2002-08-10 | 2006-11-17 |
+| Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih (ZZMP-C) | [`zakon/2002/zako3166/`](zakon/2002/zako3166/) | repealed 2009-12-19 | 2 | 2002-08-10 | 2009-12-19 |
+| Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti (ZDD-A) | [`zakon/2002/zako3170/`](zakon/2002/zako3170/) | repealed 2011-03-26 | 2 | 2002-11-29 | 2011-03-26 |
+| Zakon o spremembi zakona o zdravilih in medicinskih pripomočkih (ZZMP-B) | [`zakon/2002/zako3178/`](zakon/2002/zako3178/) | repealed 2009-12-19 | 2 | 2002-03-31 | 2009-12-19 |
+| Zakon o spremembah in dopolnitvah pomorskega zakonika (PZ-A) | [`zakon/2002/zako3181/`](zakon/2002/zako3181/) | amending act | 1 | 2002-03-26 | 2002-03-26 |
+| Zakon o postopku priznavanja poklicnih kvalifikacij državljanom držav članic Evropske unije, Evropskega gospodarskega prostora in Švicarske konfederacije za opravljanje reguliranih poklicev oziroma dejavnosti v Republiki Sloveniji (ZPKEU) | [`zakon/2002/zako3189/`](zakon/2002/zako3189/) | repealed 2016-06-18 | 6 | 2002-03-26 | 2016-06-18 |
+| Zakon o spremembi in dopolnitvah obrtnega zakona (ObrZ-B) | [`zakon/2002/zako3232/`](zakon/2002/zako3232/) | amending act | 1 | 2002-05-30 | 2002-05-30 |
+| Zakon o spremembah in dopolnitvah zakona o upravnih taksah (ZUT-C) | [`zakon/2002/zako3297/`](zakon/2002/zako3297/) | amending act | 1 | 2002-05-30 | 2002-05-30 |
+| Zakon o spremembah zakona o zagotovitvi namenskih sredstev za graditev državnih cest, določenih v nacionalnem programu izgradnje avtocest v Republiki Sloveniji (ZZNSGC-A) | [`zakon/2002/zako3309/`](zakon/2002/zako3309/) | amending act | 1 | 2002-03-01 | 2002-03-01 |
+| Zakon o poroštvu Republike Slovenije za obveznosti iz kredita, ki ga najame Ekološko razvojni sklad Republike Slovenije, Javni sklad pri Evropski investicijski banki za projekt financiranja okoljskih projektov (ZPOFOP) | [`zakon/2002/zako3316/`](zakon/2002/zako3316/) | repealed 2022-01-22 | 2 | 2002-03-01 | 2022-01-22 |
+| Zakon o spremembah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-A) | [`zakon/2002/zako3318/`](zakon/2002/zako3318/) | repealed 2011-11-17 | 2 | 2002-05-16 | 2011-11-17 |
+| Zakon o spremembah in dopolnitvah zakona o javnih financah (ZJF-C) | [`zakon/2002/zako3319/`](zakon/2002/zako3319/) | amending act | 1 | 2002-04-20 | 2002-04-20 |
+| Zakon o spremembah in dopolnitvah zakona o reviziji postopkov javnega naročanja (ZRPJN-A) | [`zakon/2002/zako3325/`](zakon/2002/zako3325/) | repealed 2011-07-03 | 2 | 2002-12-19 | 2011-07-03 |
+| Zakon o spremembah in dopolnitvah zakona o zdravstveni ustreznosti živil in izdelkov ter snovi, ki prihajajo v stik z živili (ZZUZIS-A) | [`zakon/2002/zako3337/`](zakon/2002/zako3337/) | amending act | 1 | 2002-05-30 | 2002-05-30 |
+| Zakon o spremembah in dopolnitvah zakona o političnih strankah (ZPolS-B) | [`zakon/2002/zako3343/`](zakon/2002/zako3343/) | amending act | 1 | 2002-06-26 | 2002-06-26 |
+| Zakon o spremembah in dopolnitvah zakona o obrambi (ZObr-C) | [`zakon/2002/zako3344/`](zakon/2002/zako3344/) | amending act | 1 | 2002-06-13 | 2002-06-13 |
+| Zakon o spremembah in dopolnitvi zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb (ZPSPID-A) | [`zakon/2002/zako3355/`](zakon/2002/zako3355/) | amending act | 1 | 2002-07-05 | 2002-07-05 |
+| Zakon o spremembah in dopolnitvah zakona o lokalni samoupravi (ZLS-L) | [`zakon/2002/zako3357/`](zakon/2002/zako3357/) | amending act | 1 | 2002-06-12 | 2002-06-12 |
+| Zakon o dopolnitvah zakona o splošnem upravnem postopku (ZUP-B) | [`zakon/2002/zako3374/`](zakon/2002/zako3374/) | in force | 1 | 2002-06-29 | 2002-06-29 |
+| Zakon o spremembah in dopolnitvah zakona o uporabi sredstev pridobljenih iz naslova kupnine na podlagi zakona o lastninskem preoblikovanju podjetij (ZUKLPP-C) | [`zakon/2002/zako3375/`](zakon/2002/zako3375/) | amending act | 1 | 2002-05-30 | 2002-05-30 |
+| Zakon o spremembi in dopolnitvi zakona o jamstvu Republike Slovenije za obveznosti domačega letalskega prevoznika za kritje škod, nastalih kot posledica vojne oziroma terorizma in o pogojih jamstva za tuje letalske prevoznike (ZJODLPKŠ-B) | [`zakon/2002/zako3377/`](zakon/2002/zako3377/) | amending act | 1 | 2002-04-12 | 2002-04-12 |
+| Zakon o spremembi zakona o izvrševanju kazenskih sankcij (ZIKS-1A) | [`zakon/2002/zako3390/`](zakon/2002/zako3390/) | amending act | 1 | 2002-07-06 | 2002-07-06 |
+| Zakon o spremembah in dopolnitvah zakona o predlaganju kandidatov iz Republike Slovenije za sodnike mednarodnih sodišč (ZPKSMS-A) | [`zakon/2002/zako3395/`](zakon/2002/zako3395/) | amending act | 1 | 2002-07-06 | 2002-07-06 |
+| Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu (ZDT-B) | [`zakon/2002/zako3397/`](zakon/2002/zako3397/) | repealed 2011-08-06 | 2 | 2003-01-02 | 2011-08-06 |
+| Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti (ZZZPB-E) | [`zakon/2002/zako3399/`](zakon/2002/zako3399/) | repealed 2010-10-27 | 2 | 2002-08-10 | 2010-10-27 |
+| Zakon o spremembah in dopolnitvah zakona o ustanovitvi občin ter o določitvi njihovih območij (ZUODNO-D) | [`zakon/2002/zako3404/`](zakon/2002/zako3404/) | amending act | 1 | 2002-06-15 | 2002-06-15 |
+| Zakon o spremembah in dopolnitvah zakona o zagotavljanju sredstev za nekatere nujne programe Republike Slovenije v kulturi (ZSNNPK-A) | [`zakon/2002/zako3405/`](zakon/2002/zako3405/) | repealed 2022-01-22 | 2 | 2002-12-27 | 2022-01-22 |
+| Zakon o opravljanju zdravstvenih poklicev v Republiki Sloveniji za državljane drugih držav članic Evropske unije (ZOZPEU) | [`zakon/2002/zako3410/`](zakon/2002/zako3410/) | repealed 2016-12-31 | 3 | 2002-10-26 | 2016-12-31 |
+| Zakon o spremembah zakona o kmetijskih zemljiščih (ZKZ-A) | [`zakon/2002/zako3416/`](zakon/2002/zako3416/) | amending act | 1 | 2002-08-10 | 2002-08-10 |
+| Zakon o spremembah in dopolnitvah zakona o zdravniški službi (ZZdrS-A) | [`zakon/2002/zako3421/`](zakon/2002/zako3421/) | amending act | 1 | 2002-08-10 | 2002-08-10 |
+| Zakon o spremembi zakona o industrijski lastnini (ZIL-1A) | [`zakon/2002/zako3423/`](zakon/2002/zako3423/) | amending act | 1 | 2002-11-29 | 2002-11-29 |
+| Zakon o spremembi zakona o plačilu odškodnine žrtvam vojnega in povojnega nasilja (ZSPOZ-B) | [`zakon/2002/zako3425/`](zakon/2002/zako3425/) | amending act | 1 | 2002-07-27 | 2002-07-27 |
+| Zakon o varnosti na smučiščih (ZVSmuč) | [`zakon/2002/zako3426/`](zakon/2002/zako3426/) | repealed 2016-09-01 | 5 | 2003-01-02 | 2016-09-01 |
+| Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-B) | [`zakon/2002/zako3429/`](zakon/2002/zako3429/) | amending act | 1 | 2002-12-27 | 2002-12-27 |
+| Zakon o izvajanju dogovora o politiki plač za obdobje 2002-2004 (ZIDPP04) | [`zakon/2002/zako3430/`](zakon/2002/zako3430/) | repealed 2022-01-22 | 2 | 2002-07-06 | 2022-01-22 |
+| Zakon o temeljnih razvojnih programih na področju izobraževanja in znanosti v letih 2003-2008 (ZTRPIZ) | [`zakon/2002/zako3433/`](zakon/2002/zako3433/) | repealed 2022-01-22 | 2 | 2002-11-29 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o varstvu topografije polprevodniških vezij (ZVTPPV-A) | [`zakon/2002/zako3435/`](zakon/2002/zako3435/) | amending act | 1 | 2002-11-29 | 2002-11-29 |
+| Zakon o spremembah in dopolnitvah zakona o vojaški dolžnosti (ZVojD-B) | [`zakon/2002/zako3440/`](zakon/2002/zako3440/) | amending act | 1 | 2002-10-26 | 2002-10-26 |
+| Zakon o spremembah in dopolnitvah zakona o ohranjanju narave (ZON-A) | [`zakon/2002/zako3442/`](zakon/2002/zako3442/) | amending act | 1 | 2003-01-14 | 2003-01-14 |
+| Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja (ZZVN-H) | [`zakon/2002/zako3445/`](zakon/2002/zako3445/) | amending act | 1 | 2003-01-02 | 2003-01-02 |
+| Zakon o spremembah in dopolnitvah zakona o pravicah industrijske lastnine iz delovnega razmerja (ZPILDR-A) | [`zakon/2002/zako3459/`](zakon/2002/zako3459/) | amending act | 1 | 2002-11-29 | 2002-11-29 |
+| Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije (ZDRS-Č) | [`zakon/2002/zako3460/`](zakon/2002/zako3460/) | amending act | 1 | 2002-11-29 | 2002-11-29 |
+| Zakon o poroštvu Republike Slovenije za obveznosti iz pogodbe o najetju kredita pri banki Kreditanstalt für Wiederaufbau v višini 50 mio evrov (KFW III) (ZPNKKW50) | [`zakon/2002/zako3470/`](zakon/2002/zako3470/) | repealed 2022-01-22 | 2 | 2002-12-31 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o jamstvenem in preživninskem skladu Republike Slovenije (ZJSRS-D) | [`zakon/2002/zako3483/`](zakon/2002/zako3483/) | amending act | 1 | 2003-01-29 | 2003-01-29 |
+| Zakon o spremembah in dopolnitvah zakona o jamstvu Republike Slovenije za obveznosti domačega letalskega prevoznika za kritje škod, nastalih kot posledica vojne oziroma terorizma in o pogojih jamstva za tuje letalske prevoznike (ZJODLPKŠ-C) | [`zakon/2002/zako3493/`](zakon/2002/zako3493/) | amending act | 1 | 2002-12-13 | 2002-12-13 |
+| Zakon o soglasju Republike Slovenije DARS, d.d., za najetje kredita pri Evropski investicijski banki za projekt slovenskih avtocest/V (ZSDSA5) | [`zakon/2002/zako3496/`](zakon/2002/zako3496/) | in force | 1 | 2002-12-31 | 2002-12-31 |
+| Zakon o pomoči za reševanje in prestrukturiranje gospodarskih družb v težavah (ZPRPGDT) | [`zakon/2002/zako3498/`](zakon/2002/zako3498/) | repealed 2017-02-18 | 10 | 2003-01-02 | 2017-02-18 |
 | Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-C) | [`zakon/2003/zako2145/`](zakon/2003/zako2145/) | repealed 2006-11-17 | 2 | 2003-11-05 | 2006-11-17 |
 | Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-D) | [`zakon/2003/zako2150/`](zakon/2003/zako2150/) | repealed 2016-07-16 | 2 | 2004-01-02 | 2016-07-16 |
+| Zakon o spremembah in dopolnitvah zakona o kemikalijah (ZKem-A) | [`zakon/2003/zako3268/`](zakon/2003/zako3268/) | amending act | 1 | 2003-07-19 | 2003-07-19 |
+| Zakon o spremembah in dopolnitvah zakona o kozmetičnih proizvodih (ZKozP-A) | [`zakon/2003/zako3269/`](zakon/2003/zako3269/) | repealed 2013-11-20 | 2 | 2003-07-19 | 2013-11-20 |
+| Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-G) | [`zakon/2003/zako3282/`](zakon/2003/zako3282/) | amending act | 1 | 2004-01-02 | 2004-01-02 |
+| Zakon o spremembah in dopolnitvah zakona o igrah na srečo (ZIS-B) | [`zakon/2003/zako3340/`](zakon/2003/zako3340/) | amending act | 1 | 2003-10-22 | 2003-10-22 |
+| Zakon o spremembi in dopolnitvi zakona o zaščiti živali (ZZZiv-A) | [`zakon/2003/zako3431/`](zakon/2003/zako3431/) | amending act | 1 | 2003-12-19 | 2003-12-19 |
+| Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje (ZVVJTO-A) | [`zakon/2003/zako3453/`](zakon/2003/zako3453/) | amending act | 1 | 2003-06-10 | 2003-06-10 |
+| Zakon o parlamentarnem nadzoru obveščevalnih in varnostnih služb (ZPNOVS) | [`zakon/2003/zako3455/`](zakon/2003/zako3455/) | in force | 3 | 2003-03-28 | 2007-10-12 |
+| Zakon o spremembah zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo (ZPPLPS-B) | [`zakon/2003/zako3462/`](zakon/2003/zako3462/) | amending act | 1 | 2003-02-15 | 2003-02-15 |
+| Zakon o dopolnitvah zakona o popravi krivic (ZPKri-C) | [`zakon/2003/zako3472/`](zakon/2003/zako3472/) | in force | 1 | 2003-04-11 | 2003-04-11 |
+| Zakon o dopolnitvi zakona o plačilnem prometu (ZPlaP-A) | [`zakon/2003/zako3528/`](zakon/2003/zako3528/) | in force | 1 | 2003-02-15 | 2003-02-15 |
+| Zakon o spremembah in dopolnitvah zakona o zdravniški službi (ZZdrS-B) | [`zakon/2003/zako3534/`](zakon/2003/zako3534/) | amending act | 1 | 2003-02-15 | 2003-02-15 |
+| Zakon o spremembah in dopolnitvah zakona o zunanjih zadevah (ZZZ-1A) | [`zakon/2003/zako3539/`](zakon/2003/zako3539/) | amending act | 1 | 2003-08-23 | 2003-08-23 |
+| Zakon o spremembi zakona o nacionalnih poklicnih kvalifikacijah (ZNPK-A) | [`zakon/2003/zako3541/`](zakon/2003/zako3541/) | amending act | 1 | 2003-06-24 | 2003-06-24 |
+| Zakon o dopolnitvi zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-C) | [`zakon/2003/zako3545/`](zakon/2003/zako3545/) | in force | 1 | 2003-04-25 | 2003-04-25 |
+| Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu (ZPDI-C) | [`zakon/2003/zako3562/`](zakon/2003/zako3562/) | amending act | 1 | 2003-06-24 | 2003-06-24 |
+| Zakon o dopolnitvi zakona o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV-A) | [`zakon/2003/zako3579/`](zakon/2003/zako3579/) | repealed 2018-01-06 | 2 | 2003-03-22 | 2018-01-06 |
+| Zakon o spremembah in dopolnitvah zakona o starševskem varstvu in družinskih prejemkih (ZSDP-A) | [`zakon/2003/zako3580/`](zakon/2003/zako3580/) | repealed 2014-04-29 | 2 | 2003-08-19 | 2014-04-29 |
+| Zakon o spremembah zakona o vojnih veteranih (ZVV-B) | [`zakon/2003/zako3583/`](zakon/2003/zako3583/) | amending act | 1 | 2003-08-19 | 2003-08-19 |
+| Zakon o spremembah in dopolnitvah zakona o policiji (ZPol-B) | [`zakon/2003/zako3621/`](zakon/2003/zako3621/) | amending act | 1 | 2003-08-27 | 2003-08-27 |
+| Zakon o poroštvih za kredite, najete za refinanciranje kreditov podjetij elektrogospodarstva (ZPRKPE) | [`zakon/2003/zako3629/`](zakon/2003/zako3629/) | repealed 2022-01-22 | 2 | 2003-04-11 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o Slovenski obveščevalno-varnostni agenciji (ZSOVA-A) | [`zakon/2003/zako3650/`](zakon/2003/zako3650/) | amending act | 1 | 2004-01-02 | 2004-01-02 |
+| Zakon o spremembah in dopolnitvah zakona o priznanju Republike Slovenije za poslovno odličnost (ZPPO-A) | [`zakon/2003/zako3656/`](zakon/2003/zako3656/) | repealed 2022-01-22 | 2 | 2003-06-24 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o družbi za avtoceste v Republiki Sloveniji (ZDARS-A) | [`zakon/2003/zako3665/`](zakon/2003/zako3665/) | repealed 2010-12-04 | 2 | 2003-12-19 | 2010-12-04 |
+| Zakon o spremembah in dopolnitvah zakona o visokem šolstvu (ZViS-C) | [`zakon/2003/zako3671/`](zakon/2003/zako3671/) | repealed 2025-08-09 | 2 | 2003-11-01 | 2025-08-09 |
+| Zakon o spremembah in dopolnitvah zakona o vrtcih (ZVrt-B) | [`zakon/2003/zako3672/`](zakon/2003/zako3672/) | amending act | 1 | 2003-08-23 | 2003-08-23 |
+| Zakon o spremembah in dopolnitvah zakona o tajnih podatkih (ZTP-A) | [`zakon/2003/zako3674/`](zakon/2003/zako3674/) | amending act | 1 | 2003-10-22 | 2003-10-22 |
+| Zakon o spremembah in dopolnitvah zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije (ZPZRTH-A) | [`zakon/2003/zako3675/`](zakon/2003/zako3675/) | amending act | 1 | 2003-05-10 | 2003-05-10 |
+| Zakon o spremembah in dopolnitvah zakona o kmetijskih zemljiščih (ZKZ-B) | [`zakon/2003/zako3683/`](zakon/2003/zako3683/) | amending act | 1 | 2003-04-17 | 2003-04-17 |
+| Zakon o soglasju Republike Slovenije DARS d.d. za najetje kreditov in izdajo obveznic za realizacijo gradnje avtocestnih odsekov iz nacionalnega programa izgradnje avtocest v Republiki Sloveniji v višini 246,72 mio EUR (ZSDANPIA) | [`zakon/2003/zako3684/`](zakon/2003/zako3684/) | in force | 1 | 2003-06-14 | 2003-06-14 |
+| Zakon o dopolnitvi zakona o ratifikaciji Sporazuma o sodelovanju za preprečevanje čezmejnega kriminala in boj proti njemu (MSPČK-A) | [`zakon/2003/zako3691/`](zakon/2003/zako3691/) | in force | 1 | 2003-06-14 | 2003-06-14 |
+| Zakon o poroštvu Republike Slovenije za kredite javnega zavoda Onkološki inštitut Ljubljana, najete za dokončanje gradnje in opremljanje objektov 1. faze (ZPJZOIL) | [`zakon/2003/zako3692/`](zakon/2003/zako3692/) | repealed 2022-01-22 | 2 | 2003-07-01 | 2022-01-22 |
+| Zakon o predpisani obrestni meri zamudnih obresti (ZPOMZO-1) | [`zakon/2003/zako3695/`](zakon/2003/zako3695/) | in force | 3 | 2003-06-28 | 2007-02-09 |
+| Zakon o spremembi zakona o državni upravi (ZDU-1A) | [`zakon/2003/zako3699/`](zakon/2003/zako3699/) | amending act | 1 | 2003-06-14 | 2003-06-14 |
+| Zakon o splošni varnosti proizvodov (ZSVP-1) | [`zakon/2003/zako3707/`](zakon/2003/zako3707/) | repealed 2024-12-04 | 2 | 2003-11-05 | 2024-12-04 |
+| Zakon o poroštvu Republike Slovenije za obveznosti Univerze v Ljubljani, Univerze v Mariboru, Univerze na Primorskem in Javnega zavoda Študentski domovi v Ljubljani iz naslova kreditov, najetih za sofinanciranje razširitve in posodobitve prostorskih pogojev in tehnološke opremljenosti ter gradnjo in prenovo študentskih bivalnih zmogljivosti (ZPSRPPP) | [`zakon/2003/zako3721/`](zakon/2003/zako3721/) | in force | 3 | 2003-08-27 | 2007-03-20 |
+| Zakon o dopolnitvi zakona o sistemu plač v javnem sektorju (ZSPJS-A) | [`zakon/2003/zako3722/`](zakon/2003/zako3722/) | in force | 1 | 2003-07-26 | 2003-07-26 |
+| Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-D) | [`zakon/2003/zako3723/`](zakon/2003/zako3723/) | amending act | 1 | 2003-08-13 | 2003-08-13 |
+| Zakon o spremembi in dopolnitvah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-B) | [`zakon/2003/zako3727/`](zakon/2003/zako3727/) | repealed 2011-11-17 | 2 | 2003-12-09 | 2011-11-17 |
+| Zakon o spremembah in dopolnitvah zakona o sistemu plač v javnem sektorju (ZSPJS-B) | [`zakon/2003/zako3810/`](zakon/2003/zako3810/) | amending act | 1 | 2003-12-19 | 2003-12-19 |
+| Zakon o kozmetičnih proizvodih (uradno prečiščeno besedilo) (ZKozP-UPB1) | [`zakon/2003/zako3815/`](zakon/2003/zako3815/) | repealed 2013-11-20 | 2 | 2003-07-19 | 2013-11-20 |
+| Zakon o starševskem varstvu in družinskih prejemkih (uradno prečiščeno besedilo) (ZSDP-UPB1) | [`zakon/2003/zako3818/`](zakon/2003/zako3818/) | repealed 2014-04-29 | 2 | 2003-08-19 | 2014-04-29 |
 | Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti (ZZDej-G) | [`zakon/2004/zako1398/`](zakon/2004/zako1398/) | repealed 2016-12-31 | 2 | 2004-01-16 | 2016-12-31 |
 | Zakon o spodbujanju razvoja turizma (ZSRT) | [`zakon/2004/zako1577/`](zakon/2004/zako1577/) | repealed 2018-03-15 | 6 | 2004-01-30 | 2018-03-15 |
 | Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih (ZZZDR-C) | [`zakon/2004/zako1711/`](zakon/2004/zako1711/) | repealed 2017-04-15 | 2 | 2004-05-01 | 2017-04-15 |
 | Zakon o davčni službi (ZDS-1) | [`zakon/2004/zako2015/`](zakon/2004/zako2015/) | repealed 2014-04-12 | 8 | 2004-05-28 | 2014-04-12 |
 | Zakon o spremembah in dopolnitvah zakona o carinski službi (ZCS-1A) | [`zakon/2004/zako2301/`](zakon/2004/zako2301/) | repealed 2014-04-12 | 2 | 2004-05-28 | 2014-04-12 |
+| Zakon o spremembah in dopolnitvah Zakona o elektronskem poslovanju in elektronskem podpisu (ZEPEP-A) | [`zakon/2004/zako3236/`](zakon/2004/zako3236/) | amending act | 1 | 2004-04-03 | 2004-04-03 |
+| Zakon o spremembah in dopolnitvah energetskega zakona (EZ-A) | [`zakon/2004/zako3341/`](zakon/2004/zako3341/) | repealed 2014-03-22 | 2 | 2004-05-08 | 2014-03-22 |
+| Zakon o spremembah in dopolnitvah zakona o rudarstvu (ZRud-A) | [`zakon/2004/zako3359/`](zakon/2004/zako3359/) | repealed 2010-08-10 | 2 | 2004-05-01 | 2010-08-10 |
+| Zakon o spremembah in dopolnitvah zakona o zavarovalništvu (ZZavar-B) | [`zakon/2004/zako3392/`](zakon/2004/zako3392/) | repealed 2015-12-22 | 2 | 2004-05-07 | 2015-12-22 |
+| Zakon o dopolnitvah Zakona o preprečevanju posledic rudarjenja v Rudniku živega srebra Idrija (ZPPPR-A) | [`zakon/2004/zako3456/`](zakon/2004/zako3456/) | in force | 1 | 2004-08-20 | 2004-08-20 |
+| Zakon o spremembah in dopolnitvah zakona o varstvu potrošnikov (ZVPot-B) | [`zakon/2004/zako3499/`](zakon/2004/zako3499/) | repealed 2022-10-26 | 2 | 2004-05-08 | 2022-10-26 |
+| Zakon o spremembah in dopolnitvah Zakona o upravnih taksah (ZUT-D) | [`zakon/2004/zako3504/`](zakon/2004/zako3504/) | amending act | 1 | 2004-03-13 | 2004-03-13 |
+| Zakon o spremembah in dopolnitvah zakona o ugotavljanju katastrskega dohodka (ZUKD-C) | [`zakon/2004/zako3508/`](zakon/2004/zako3508/) | repealed 2011-02-26 | 2 | 2004-07-20 | 2011-02-26 |
+| Zakon o spremembah in dopolnitvah Obrtnega zakona (ObrZ-C) | [`zakon/2004/zako3556/`](zakon/2004/zako3556/) | amending act | 1 | 2004-03-13 | 2004-03-13 |
+| Zakon o spremembah in dopolnitvah zakona o poštnih storitvah (ZPSto-1A) | [`zakon/2004/zako3557/`](zakon/2004/zako3557/) | repealed 2009-08-02 | 2 | 2004-05-01 | 2009-08-02 |
+| Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku (ZUP-C) | [`zakon/2004/zako3610/`](zakon/2004/zako3610/) | amending act | 1 | 2004-07-20 | 2004-07-20 |
+| Zakon o spremembah in dopolnitvah Zakona o referendumu in o ljudski iniciativi (ZRLI-C) | [`zakon/2004/zako3611/`](zakon/2004/zako3611/) | amending act | 1 | 2004-08-13 | 2004-08-13 |
+| Zakon o spremembah in dopolnitvah zakona o orožju (ZOro-1A) | [`zakon/2004/zako3618/`](zakon/2004/zako3618/) | amending act | 1 | 2004-07-20 | 2004-07-20 |
+| Zakon o spremembah in dopolnitvah zakona o zdravniški službi (ZZdrS-C) | [`zakon/2004/zako3647/`](zakon/2004/zako3647/) | amending act | 1 | 2004-01-16 | 2004-01-16 |
+| Zakon o spremembah in dopolnitvah zakona o lekarniški dejavnosti (ZLD-B) | [`zakon/2004/zako3648/`](zakon/2004/zako3648/) | repealed 2017-01-27 | 2 | 2004-01-16 | 2017-01-27 |
+| Zakon o spremembah in dopolnitvah zakona o sodiščih (ZS-D) | [`zakon/2004/zako3659/`](zakon/2004/zako3659/) | repealed 2025-12-19 | 2 | 2004-07-20 | 2025-12-19 |
+| Zakon o spremembi in dopolnitvi Zakona o pomilostitvi (ZPom-A) | [`zakon/2004/zako3661/`](zakon/2004/zako3661/) | amending act | 1 | 2004-08-20 | 2004-08-20 |
+| Zakon o spremembah in dopolnitvah zakona o brezplačni pravni pomoči (ZBPP-A) | [`zakon/2004/zako3663/`](zakon/2004/zako3663/) | amending act | 1 | 2004-05-21 | 2004-05-21 |
+| Zakon o spremembah in dopolnitvah zakona o ohranjanju narave (ZON-B) | [`zakon/2004/zako3686/`](zakon/2004/zako3686/) | amending act | 1 | 2004-04-23 | 2004-04-23 |
+| Zakon o dopolnitvah pomorskega zakonika (PZ-B) | [`zakon/2004/zako3716/`](zakon/2004/zako3716/) | in force | 1 | 2004-01-30 | 2004-01-30 |
+| Zakon o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij (ZSTNIIP) | [`zakon/2004/zako3745/`](zakon/2004/zako3745/) | repealed 2018-03-15 | 7 | 2004-08-20 | 2018-03-15 |
+| Zakon o spremembah in dopolnitvah zakona o plačilnem prometu (ZPlaP-B) | [`zakon/2004/zako3747/`](zakon/2004/zako3747/) | amending act | 1 | 2004-04-16 | 2004-04-16 |
+| Zakon o spremembah in dopolnitvah zakona o avtorski in sorodnih pravicah (ZASP-B) | [`zakon/2004/zako3748/`](zakon/2004/zako3748/) | amending act | 1 | 2004-05-11 | 2004-05-11 |
+| Zakon o spremembah in dopolnitvah zakona o socialnem varstvu (ZSV-C) | [`zakon/2004/zako3761/`](zakon/2004/zako3761/) | amending act | 1 | 2004-01-30 | 2004-01-30 |
+| Zakon o elektronskih komunikacijah (ZEKom) | [`zakon/2004/zako3781/`](zakon/2004/zako3781/) | repealed 2013-01-15 | 8 | 2004-05-01 | 2013-01-15 |
+| Zakon o prenosu nalog nekaterih vladnih služb na ministrstva (ZPNNVSM) | [`zakon/2004/zako3789/`](zakon/2004/zako3789/) | repealed 2022-01-22 | 2 | 2004-01-30 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o zdravstveni inšpekciji (ZZdrI-A) | [`zakon/2004/zako3792/`](zakon/2004/zako3792/) | amending act | 1 | 2004-01-30 | 2004-01-30 |
+| Zakon o spremembah in dopolnitvah Zakona o odlikovanjih Republike Slovenije (ZOdl-A) | [`zakon/2004/zako3793/`](zakon/2004/zako3793/) | amending act | 1 | 2004-03-25 | 2004-03-25 |
+| Zakon o spremembah in dopolnitvah zakona o graditvi objektov (ZGO-1A) | [`zakon/2004/zako3794/`](zakon/2004/zako3794/) | repealed 2017-11-17 | 2 | 2004-05-01 | 2017-11-17 |
+| Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-D) | [`zakon/2004/zako3844/`](zakon/2004/zako3844/) | repealed 2006-11-17 | 2 | 2004-04-30 | 2006-11-17 |
+| Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje (ZISDU-1A) | [`zakon/2004/zako3845/`](zakon/2004/zako3845/) | repealed 2011-11-02 | 2 | 2004-05-08 | 2011-11-02 |
+| Zakon o spremembah in dopolnitvah zakona o reviziji postopkov javnega naročanja (ZRPJN-B) | [`zakon/2004/zako3846/`](zakon/2004/zako3846/) | repealed 2011-07-03 | 2 | 2004-04-24 | 2011-07-03 |
+| Zakon o dopolnitvah Zakona o prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb (ZPSPID-B) | [`zakon/2004/zako3852/`](zakon/2004/zako3852/) | in force | 1 | 2004-06-05 | 2004-06-05 |
+| Zakon o spremembah in dopolnitvah zakona o fitofarmacevtskih sredstvih (ZFfS-A) | [`zakon/2004/zako3855/`](zakon/2004/zako3855/) | repealed 2012-11-21 | 2 | 2004-05-01 | 2012-11-21 |
+| Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu rastlin (ZZVR-1A) | [`zakon/2004/zako3856/`](zakon/2004/zako3856/) | amending act | 1 | 2004-08-06 | 2004-08-06 |
+| Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin (ZSMKR-A) | [`zakon/2004/zako3857/`](zakon/2004/zako3857/) | amending act | 1 | 2004-08-20 | 2004-08-20 |
+| Zakon o spremembah in dopolnitvah Zakona o volitvah poslancev iz Republike Slovenije v Evropski parlament (ZVPEP-A) | [`zakon/2004/zako3862/`](zakon/2004/zako3862/) | amending act | 1 | 2004-03-11 | 2004-03-11 |
+| Zakon o ukinitvi Agencije Republike Slovenije za revidiranje lastninskega preoblikovanja podjetij (ZUARLPP) | [`zakon/2004/zako3864/`](zakon/2004/zako3864/) | repealed 2022-01-22 | 2 | 2004-07-24 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o ravnanju z gensko spremenjenimi organizmi (ZRGSO-A) | [`zakon/2004/zako3866/`](zakon/2004/zako3866/) | amending act | 1 | 2004-07-20 | 2004-07-20 |
+| Zakon o spremembah in dopolnitvah zakona o obrambi (ZObr-D) | [`zakon/2004/zako3868/`](zakon/2004/zako3868/) | amending act | 1 | 2004-05-05 | 2004-05-05 |
+| Zakon o spremembah in dopolnitvah Zakona o državni upravi (ZDU-1B) | [`zakon/2004/zako3882/`](zakon/2004/zako3882/) | amending act | 1 | 2004-06-19 | 2004-06-19 |
+| Zakon o spremembah in dopolnitvah zakona o sistemu plač v javnem sektorju (ZSPJS-C) | [`zakon/2004/zako3886/`](zakon/2004/zako3886/) | amending act | 1 | 2004-06-29 | 2004-06-29 |
+| Zakon o spremembah in dopolnitvah zakona o policiji (ZPol-C) | [`zakon/2004/zako3894/`](zakon/2004/zako3894/) | amending act | 1 | 2004-05-07 | 2004-05-07 |
+| Zakon o varstvu osebnih podatkov (ZVOP-1) | [`zakon/2004/zako3906/`](zakon/2004/zako3906/) | repealed 2023-01-26 | 7 | 2005-01-01 | 2023-01-26 |
+| Zakon o uresničevanju načela enakega obravnavanja (ZUNEO) | [`zakon/2004/zako3908/`](zakon/2004/zako3908/) | repealed 2016-05-24 | 4 | 2004-05-07 | 2016-05-24 |
+| Zakon o spremembah zakona o odgovornosti pravnih oseb za kazniva dejanja (ZOPOKD-A) | [`zakon/2004/zako3909/`](zakon/2004/zako3909/) | amending act | 1 | 2004-05-21 | 2004-05-21 |
+| Zakon o popisu zalog in dajatvi na presežne zaloge določenih kmetijskih proizvodov (ZPZDKP) | [`zakon/2004/zako3925/`](zakon/2004/zako3925/) | repealed 2022-01-22 | 3 | 2004-04-24 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti (ZTZPUS-A) | [`zakon/2004/zako3933/`](zakon/2004/zako3933/) | repealed 2011-03-26 | 2 | 2004-04-16 | 2011-03-26 |
+| Zakon o spremembah in dopolnitvah zakona o gorskih vodnikih (ZGV-A) | [`zakon/2004/zako3934/`](zakon/2004/zako3934/) | amending act | 1 | 2004-04-30 | 2004-04-30 |
+| Zakon o spremembah in dopolnitvah Zakona o gasilstvu (ZGas-B) | [`zakon/2005/zako3625/`](zakon/2005/zako3625/) | amending act | 1 | 2005-10-29 | 2005-10-29 |
+| Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih (ZNB-A) | [`zakon/2005/zako3642/`](zakon/2005/zako3642/) | amending act | 1 | 2006-01-12 | 2006-01-12 |
+| Zakon o spremembah in dopolnitvah Zakona o Uradnem listu Republike Slovenije (ZUL-A) | [`zakon/2005/zako3842/`](zakon/2005/zako3842/) | repealed 2025-11-12 | 2 | 2005-10-25 | 2025-11-12 |
+| Zakon o spremembah in dopolnitvah Zakona o davku od prometa zavarovalnih poslov (ZDPZP-A) | [`zakon/2005/zako3853/`](zakon/2005/zako3853/) | amending act | 1 | 2005-08-13 | 2005-08-13 |
+| Zakon o spremembah in dopolnitvah zakona o javnih zbiranjih (ZJZ-A) | [`zakon/2005/zako3887/`](zakon/2005/zako3887/) | amending act | 1 | 2005-07-09 | 2005-07-09 |
+| Zakon o spremembah in dopolnitvah Zakona o ustanovah (ZU-A) | [`zakon/2005/zako3889/`](zakon/2005/zako3889/) | amending act | 1 | 2005-06-15 | 2005-06-15 |
+| Zakon o spremembah in dopolnitvah Zakona o prevozu nevarnega blaga (ZPNB-A) | [`zakon/2005/zako3893/`](zakon/2005/zako3893/) | amending act | 1 | 2005-11-26 | 2005-11-26 |
+| Zakon o spremembah in dopolnitvah Zakona o varstvu pred naravnimi in drugimi nesrečami (ZVNDN-A) | [`zakon/2006/zako3626/`](zakon/2006/zako3626/) | amending act | 1 | 2006-04-01 | 2006-04-01 |
+| Zakon o spremembah in dopolnitvah Zakona o varstvu pred požarom (ZVPoz-B) | [`zakon/2006/zako3870/`](zakon/2006/zako3870/) | amending act | 1 | 2006-10-27 | 2006-10-27 |
+| Zakon o varstvu javnega reda in miru (ZJRM-1) | [`zakon/2006/zako3891/`](zakon/2006/zako3891/) | repealed 2026-01-28 | 4 | 2006-07-21 | 2026-01-28 |
+| Zakon o spremembah in dopolnitvah Zakona o Skladu kmetijskih zemljišč in gozdov Republike Slovenije (ZSKZ-B) | [`zakon/2010/zako3544/`](zakon/2010/zako3544/) | amending act | 1 | 2010-02-20 | 2010-02-20 |
