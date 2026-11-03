@@ -1,6 +1,6 @@
 # Every act in this repository
 
-570 acts, 1,182 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+759 acts, 1,502 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## pravilnik (1)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Pravilnik o določitvi zvrsti predmetov kulturne dediščine | [`pravilnik/2000/zako1992/`](pravilnik/2000/zako1992/) | repealed 2011-01-01 | 2 | 2000-09-03 | 2011-01-01 |
 
-## zakon (569, of which 193 amending acts)
+## zakon (758, of which 290 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -420,6 +420,7 @@
 | Zakon o morskem ribištvu (ZMR-1) | [`zakon/2002/zako1346/`](zakon/2002/zako1346/) | repealed 2007-01-01 | 2 | 2002-08-03 | 2007-01-01 |
 | Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov (ZOUTI-A) | [`zakon/2002/zako1393/`](zakon/2002/zako1393/) | repealed 2017-03-11 | 2 | 2003-01-29 | 2017-03-11 |
 | Zakon o spremembah in dopolnitvah zakona o varstvu potrošnikov (ZVPot-A) | [`zakon/2002/zako1408/`](zakon/2002/zako1408/) | repealed 2022-10-26 | 2 | 2003-01-17 | 2022-10-26 |
+| Zakon o delovnih razmerjih (ZDR) | [`zakon/2002/zako1420/`](zakon/2002/zako1420/) | repealed 2013-04-12 | 5 | 2003-01-01 | 2013-04-12 |
 | Zakon o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV) | [`zakon/2002/zako1544/`](zakon/2002/zako1544/) | repealed 2018-01-06 | 9 | 2002-10-01 | 2018-01-06 |
 | Zakon o urejanju prostora (ZUreP-1) | [`zakon/2002/zako1581/`](zakon/2002/zako1581/) | repealed 2017-11-17 | 6 | 2003-01-01 | 2017-11-17 |
 | Zakon o spremembah in dopolnitvah zakona o javnih cestah (ZJC-A) | [`zakon/2002/zako1836/`](zakon/2002/zako1836/) | amending act | 1 | 2002-03-15 | 2002-03-15 |
@@ -570,6 +571,43 @@
 | Zakon o popisu zalog in dajatvi na presežne zaloge določenih kmetijskih proizvodov (ZPZDKP) | [`zakon/2004/zako3925/`](zakon/2004/zako3925/) | repealed 2022-01-22 | 3 | 2004-04-24 | 2022-01-22 |
 | Zakon o spremembah in dopolnitvah zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti (ZTZPUS-A) | [`zakon/2004/zako3933/`](zakon/2004/zako3933/) | repealed 2011-03-26 | 2 | 2004-04-16 | 2011-03-26 |
 | Zakon o spremembah in dopolnitvah zakona o gorskih vodnikih (ZGV-A) | [`zakon/2004/zako3934/`](zakon/2004/zako3934/) | amending act | 1 | 2004-04-30 | 2004-04-30 |
+| Zakon o spremembah in dopolnitvah zakona o potrošniških kreditih (ZPotK-A) | [`zakon/2004/zako3998/`](zakon/2004/zako3998/) | repealed 2010-08-07 | 2 | 2004-05-07 | 2010-08-07 |
+| Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-E) | [`zakon/2004/zako4004/`](zakon/2004/zako4004/) | repealed 2016-07-16 | 2 | 2004-05-01 | 2016-07-16 |
+| Zakon o spremembi zakona o industrijski lastnini (ZIL-1B) | [`zakon/2004/zako4005/`](zakon/2004/zako4005/) | amending act | 1 | 2004-05-01 | 2004-05-01 |
+| Zakon o spremembah in dopolnitvah zakona o blagovnih rezervah (ZBR-B) | [`zakon/2004/zako4006/`](zakon/2004/zako4006/) | repealed 2024-04-03 | 2 | 2004-05-07 | 2024-04-03 |
+| Zakon o družbi za avtoceste v Republiki Sloveniji (uradno prečiščeno besedilo) (ZDARS-UPB1) | [`zakon/2004/zako4015/`](zakon/2004/zako4015/) | repealed 2010-12-04 | 2 | 2003-12-19 | 2010-12-04 |
+| Zakon o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (uradno prečiščeno besedilo) (ZPKEPS-UPB1) | [`zakon/2004/zako4020/`](zakon/2004/zako4020/) | repealed 2011-11-17 | 2 | 2003-12-09 | 2011-11-17 |
+| Zakon o spremembah, dopolnitvah in razveljavitvi določenih zakonov na področju kmetijstva in gozdarstva (ZdZPKG) | [`zakon/2004/zako4058/`](zakon/2004/zako4058/) | amending act | 1 | 2004-04-30 | 2004-04-30 |
+| Zakon o spremembah in dopolnitvah določenih zakonov na področju zdravja (ZdZPZ) | [`zakon/2004/zako4060/`](zakon/2004/zako4060/) | amending act | 2 | 2004-05-01 | 2025-12-19 |
+| Zakon o spremembah in dopolnitvah zakona o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV-B) | [`zakon/2004/zako4061/`](zakon/2004/zako4061/) | repealed 2018-01-06 | 2 | 2004-05-01 | 2018-01-06 |
+| Zakon o dopolnitvah Zakona o zdravstveni dejavnosti (ZZDej-H) | [`zakon/2004/zako4067/`](zakon/2004/zako4067/) | in force | 1 | 2004-08-07 | 2004-08-07 |
+| Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu (ZViS-D) | [`zakon/2004/zako4070/`](zakon/2004/zako4070/) | repealed 2025-08-09 | 2 | 2004-06-11 | 2025-08-09 |
+| Zakon o priznavanju in vrednotenju izobraževanja (ZPVI) | [`zakon/2004/zako4071/`](zakon/2004/zako4071/) | repealed 2011-11-17 | 2 | 2004-07-20 | 2011-11-17 |
+| Zakon o spremembah in dopolnitvah Zakona o osnovni šoli (ZOsn-C) | [`zakon/2004/zako4074/`](zakon/2004/zako4074/) | amending act | 1 | 2004-07-01 | 2004-07-01 |
+| Zakon o spremembah in dopolnitvah zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije (ZPZRTH-B) | [`zakon/2004/zako4075/`](zakon/2004/zako4075/) | amending act | 1 | 2004-07-01 | 2004-07-01 |
+| Zakon o podaljšanju mandata sodnikom porotnikom na delovnih in socialnem sodišču (ZPMSPDSS) | [`zakon/2004/zako4086/`](zakon/2004/zako4086/) | repealed 2022-01-22 | 2 | 2004-06-05 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o določitvi volilnih enot za volitve poslancev v državni zbor (ZDVEDZ-A) | [`zakon/2004/zako4087/`](zakon/2004/zako4087/) | amending act | 1 | 2004-07-24 | 2004-07-24 |
+| Zakon o spremembah in dopolnitvah Zakona o meroslovju (ZMer-1A) | [`zakon/2004/zako4103/`](zakon/2004/zako4103/) | amending act | 1 | 2004-08-20 | 2004-08-20 |
+| Zakon o izvajanju dogovora o politiki plač v zasebnem sektorju v obdobju 2004-2005 (ZIDPPZS) | [`zakon/2004/zako4106/`](zakon/2004/zako4106/) | repealed 2022-01-22 | 2 | 2004-06-29 | 2022-01-22 |
+| Zakon o soglasju Republike Slovenije DARS, d.d., za najetje kredita pri Evropski investicijski banki za projekt slovenskih avtocest/VI (ZSDSA6) | [`zakon/2004/zako4107/`](zakon/2004/zako4107/) | in force | 1 | 2004-08-06 | 2004-08-06 |
+| Zakon o prenehanju veljavnosti Zakona o posebnem davku na bilančno vsoto bank in hranilnic (ZPVZPDBH) | [`zakon/2004/zako4109/`](zakon/2004/zako4109/) | repealed 2022-01-22 | 2 | 2004-08-13 | 2022-01-22 |
+| Zakon o spremembah Zakona o davku na izplačane plače (ZDIP-C) | [`zakon/2004/zako4110/`](zakon/2004/zako4110/) | repealed 2022-01-22 | 2 | 2004-09-01 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o notariatu (ZN-C) | [`zakon/2004/zako4111/`](zakon/2004/zako4111/) | amending act | 1 | 2004-08-04 | 2004-08-04 |
+| Zakon o spremembah Zakona o vračanju vlaganj v javno telekomunikacijsko omrežje (ZVVJTO-B) | [`zakon/2004/zako4119/`](zakon/2004/zako4119/) | amending act | 1 | 2004-08-06 | 2004-08-06 |
+| Zakon o preoblikovanju Sklada Republike Slovenije za sukcesijo in ustanovitvi Javne agencije Republike Slovenije za nasledstvo (ZPSSJAN) | [`zakon/2004/zako4131/`](zakon/2004/zako4131/) | repealed 2006-03-22 | 2 | 2004-08-06 | 2006-03-22 |
+| Zakon o potrošniških kreditih (uradno prečiščeno besedilo) (ZPotK-UPB1) | [`zakon/2004/zako4141/`](zakon/2004/zako4141/) | repealed 2010-08-07 | 2 | 2004-05-07 | 2010-08-07 |
+| Zakon o spremembah in dopolnitvah Zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju (ZPOOSRP-D) | [`zakon/2004/zako4142/`](zakon/2004/zako4142/) | amending act | 1 | 2004-08-06 | 2004-08-06 |
+| Zakon o rudarstvu (uradno prečiščeno besedilo) (ZRud-UPB1) | [`zakon/2004/zako4162/`](zakon/2004/zako4162/) | repealed 2010-08-10 | 2 | 2004-05-01 | 2010-08-10 |
+| Zakon o fitofarmacevtskih sredstvih (uradno prečiščeno besedilo) (ZFfS-UPB1) | [`zakon/2004/zako4167/`](zakon/2004/zako4167/) | repealed 2012-11-21 | 2 | 2004-05-01 | 2012-11-21 |
+| Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti (uradno prečiščeno besedilo) (ZTZPUS-UPB1) | [`zakon/2004/zako4168/`](zakon/2004/zako4168/) | repealed 2011-03-26 | 2 | 2004-04-16 | 2011-03-26 |
+| Zakon o reviziji postopkov javnega naročanja (uradno prečiščeno besedilo) (ZRPJN-UPB2) | [`zakon/2004/zako4171/`](zakon/2004/zako4171/) | repealed 2011-07-03 | 2 | 2004-04-24 | 2011-07-03 |
+| Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-E) | [`zakon/2004/zako4177/`](zakon/2004/zako4177/) | repealed 2006-11-17 | 2 | 2004-10-23 | 2006-11-17 |
+| Zakon o poštnih storitvah (uradno prečiščeno besedilo) (ZPSto-1-UPB1) | [`zakon/2004/zako4184/`](zakon/2004/zako4184/) | repealed 2009-08-02 | 2 | 2004-05-01 | 2009-08-02 |
+| Zakon o carinski službi (uradno prečiščeno besedilo) (ZCS-1-UPB1) | [`zakon/2004/zako4186/`](zakon/2004/zako4186/) | repealed 2014-04-12 | 2 | 2004-05-28 | 2014-04-12 |
+| Zakon o spremembah in dopolnitvah Zakona o Vladi Republike Slovenije (ZVRS-D) | [`zakon/2004/zako4206/`](zakon/2004/zako4206/) | amending act | 1 | 2004-11-19 | 2004-11-19 |
+| Zakon o spremembah in dopolnitvah Zakona o državni upravi (ZDU-1C) | [`zakon/2004/zako4207/`](zakon/2004/zako4207/) | amending act | 1 | 2004-11-19 | 2004-11-19 |
+| Zakon o dopolnitvi Zakona o poslancih (ZPos-A) | [`zakon/2004/zako4208/`](zakon/2004/zako4208/) | in force | 1 | 2004-11-19 | 2004-11-19 |
+| Zakon o spremembah in dopolnitvah Zakona o davčni službi (ZDS-1A) | [`zakon/2004/zako4210/`](zakon/2004/zako4210/) | repealed 2014-04-12 | 2 | 2004-12-29 | 2014-04-12 |
 | Zakon o spremembah in dopolnitvah Zakona o gasilstvu (ZGas-B) | [`zakon/2005/zako3625/`](zakon/2005/zako3625/) | amending act | 1 | 2005-10-29 | 2005-10-29 |
 | Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih (ZNB-A) | [`zakon/2005/zako3642/`](zakon/2005/zako3642/) | amending act | 1 | 2006-01-12 | 2006-01-12 |
 | Zakon o spremembah in dopolnitvah Zakona o Uradnem listu Republike Slovenije (ZUL-A) | [`zakon/2005/zako3842/`](zakon/2005/zako3842/) | repealed 2025-11-12 | 2 | 2005-10-25 | 2025-11-12 |
@@ -577,7 +615,158 @@
 | Zakon o spremembah in dopolnitvah zakona o javnih zbiranjih (ZJZ-A) | [`zakon/2005/zako3887/`](zakon/2005/zako3887/) | amending act | 1 | 2005-07-09 | 2005-07-09 |
 | Zakon o spremembah in dopolnitvah Zakona o ustanovah (ZU-A) | [`zakon/2005/zako3889/`](zakon/2005/zako3889/) | amending act | 1 | 2005-06-15 | 2005-06-15 |
 | Zakon o spremembah in dopolnitvah Zakona o prevozu nevarnega blaga (ZPNB-A) | [`zakon/2005/zako3893/`](zakon/2005/zako3893/) | amending act | 1 | 2005-11-26 | 2005-11-26 |
+| Zakon o spremembah in dopolnitvah Zakona o javnih cestah (ZJC-B) | [`zakon/2005/zako4125/`](zakon/2005/zako4125/) | amending act | 1 | 2005-10-19 | 2005-10-19 |
+| Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-H) | [`zakon/2005/zako4173/`](zakon/2005/zako4173/) | amending act | 1 | 2005-09-01 | 2005-09-01 |
+| Zakon o začasni zaščiti razseljenih oseb (ZZZRO) | [`zakon/2005/zako4176/`](zakon/2005/zako4176/) | repealed 2025-04-19 | 4 | 2005-07-23 | 2025-04-19 |
+| Zakon o spremembi Zakona o policiji (ZPol-D) | [`zakon/2005/zako4202/`](zakon/2005/zako4202/) | amending act | 1 | 2005-06-01 | 2005-06-01 |
+| Zakon o spremembah in dopolnitvah Zakona o obveznih zavarovanjih v prometu (ZOZP-B) | [`zakon/2005/zako4204/`](zakon/2005/zako4204/) | amending act | 1 | 2005-02-26 | 2005-02-26 |
+| Zakon o prenehanju veljavnosti Zakona o družbenem pravobranilcu Republike Slovenije (ZPVZDruP) | [`zakon/2005/zako4232/`](zakon/2005/zako4232/) | repealed 2022-01-22 | 2 | 2005-06-15 | 2022-01-22 |
+| Zakon o spremembi Zakona o raziskovalni in razvojni dejavnosti (ZRRD-A) | [`zakon/2005/zako4234/`](zakon/2005/zako4234/) | repealed 2021-12-15 | 2 | 2006-01-04 | 2021-12-15 |
+| Zakon o spremembah in dopolnitvah Zakona o varnosti cestnega prometa (ZVCP-1A) | [`zakon/2005/zako4237/`](zakon/2005/zako4237/) | amending act | 1 | 2005-04-20 | 2005-04-20 |
+| Zakon o spremembah in dopolnitvah Zakona o potnih listinah državljanov Republike Slovenije (ZPLD-1A) | [`zakon/2005/zako4241/`](zakon/2005/zako4241/) | repealed 2025-04-02 | 2 | 2005-11-22 | 2025-04-02 |
+| Zakon o spremembah Zakona o osebni izkaznici (ZOIzk-A) | [`zakon/2005/zako4243/`](zakon/2005/zako4243/) | repealed 2011-05-28 | 2 | 2005-07-09 | 2011-05-28 |
+| Zakon o spremembah in dopolnitvah Zakona o političnih strankah (ZPoIS-C) | [`zakon/2005/zako4244/`](zakon/2005/zako4244/) | amending act | 1 | 2005-08-06 | 2005-08-06 |
+| Zakon o spremembah Zakona o detektivski dejavnosti (ZDD-B) | [`zakon/2005/zako4245/`](zakon/2005/zako4245/) | repealed 2011-03-26 | 2 | 2005-10-25 | 2011-03-26 |
+| Zakon o spremembah in dopolnitvah Zakona o varnosti na smučiščih (ZVSmuč-A) | [`zakon/2005/zako4246/`](zakon/2005/zako4246/) | repealed 2016-09-01 | 2 | 2005-11-22 | 2016-09-01 |
+| Zakon o spremembah in dopolnitvah Zakona o pomoči za reševanje in prestrukturiranje gospodarskih družb v težavah (ZPRPGDT-A) | [`zakon/2005/zako4249/`](zakon/2005/zako4249/) | repealed 2017-02-18 | 2 | 2005-10-15 | 2017-02-18 |
+| Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-D) | [`zakon/2005/zako4262/`](zakon/2005/zako4262/) | amending act | 1 | 2005-06-01 | 2005-06-01 |
+| Zakon o spremembah in dopolnitvah Zakona o dostopu do informacij javnega značaja (ZDIJZ-A) | [`zakon/2005/zako4263/`](zakon/2005/zako4263/) | amending act | 1 | 2005-07-15 | 2005-07-15 |
+| Zakon o spremembah in dopolnitvah Zakona o sodnem registru (ZSReg-A) | [`zakon/2005/zako4273/`](zakon/2005/zako4273/) | amending act | 1 | 2005-10-29 | 2005-10-29 |
+| Zakon o ustavitvi določenih postopkov o prekrških in odpustitvi izvršitve določenih kazni zapora (ZUDPPKZ) | [`zakon/2005/zako4274/`](zakon/2005/zako4274/) | repealed 2022-01-22 | 2 | 2005-04-06 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o omejevanju uporabe tobačnih izdelkov (ZOUTI-B) | [`zakon/2005/zako4282/`](zakon/2005/zako4282/) | repealed 2017-03-11 | 2 | 2005-11-12 | 2017-03-11 |
+| Zakon o spremembah in dopolnitvah Zakona o izdelkih iz plemenitih kovin (ZIPleK-A) | [`zakon/2005/zako4293/`](zakon/2005/zako4293/) | amending act | 1 | 2005-11-26 | 2005-11-26 |
+| Zakon o spremembah in dopolnitvah Zakona o lokalnih volitvah (ZLV-E) | [`zakon/2005/zako4301/`](zakon/2005/zako4301/) | amending act | 1 | 2005-08-13 | 2005-08-13 |
+| Zakon o spremembah in dopolnitvah Zakona o lokalni samoupravi (ZLS-M) | [`zakon/2005/zako4302/`](zakon/2005/zako4302/) | amending act | 1 | 2005-08-13 | 2005-08-13 |
+| Zakon o spremembah in dopolnitvah Zakona o financiranju občin (ZFO-B) | [`zakon/2005/zako4306/`](zakon/2005/zako4306/) | amending act | 1 | 2005-10-25 | 2005-10-25 |
+| Zakon o spremembah in dopolnitvah Zakona o reviziji postopkov javnega naročanja (ZRPJN-C) | [`zakon/2005/zako4308/`](zakon/2005/zako4308/) | repealed 2011-07-03 | 2 | 2005-07-01 | 2011-07-03 |
+| Zakon o spremembah in dopolnitvah Zakona o upravnih taksah (ZUT-E) | [`zakon/2005/zako4311/`](zakon/2005/zako4311/) | amending act | 1 | 2005-10-22 | 2005-10-22 |
+| Zakon o spremembah in dopolnitvah Zakona o vrtcih (ZVrt-C) | [`zakon/2005/zako4318/`](zakon/2005/zako4318/) | amending act | 1 | 2005-08-13 | 2005-08-13 |
+| Zakon o spremembah Zakona o Bloudkovih priznanjih (ZBloP-A) | [`zakon/2005/zako4319/`](zakon/2005/zako4319/) | amending act | 1 | 2005-10-29 | 2005-10-29 |
+| Zakon o spremembah in dopolnitvah Zakona o osnovni šoli (ZOsn-D) | [`zakon/2005/zako4320/`](zakon/2005/zako4320/) | amending act | 1 | 2005-06-01 | 2005-06-01 |
+| Zakon o spremembah in dopolnitvah Zakona o šolski inšpekciji (ZSolI-A) | [`zakon/2005/zako4322/`](zakon/2005/zako4322/) | repealed 2025-08-13 | 2 | 2005-10-29 | 2025-08-13 |
+| Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-E) | [`zakon/2005/zako4327/`](zakon/2005/zako4327/) | amending act | 1 | 2005-07-09 | 2005-07-09 |
+| Zakon o spremembah in dopolnitvah Zakona o zaposlovanju in delu tujcev (ZZDT-A) | [`zakon/2005/zako4344/`](zakon/2005/zako4344/) | repealed 2011-04-23 | 2 | 2005-11-26 | 2011-04-23 |
+| Zakon o spremembah in dopolnitvah Zakona o sodiščih (ZS-E) | [`zakon/2005/zako4363/`](zakon/2005/zako4363/) | repealed 2025-12-19 | 2 | 2005-07-30 | 2025-12-19 |
+| Zakon o spremembah in dopolnitvah Zakona o policiji (ZPol-E) | [`zakon/2005/zako4374/`](zakon/2005/zako4374/) | amending act | 1 | 2005-11-22 | 2005-11-22 |
+| Zakon o spremembah in dopolnitvah Zakona o popravi krivic (ZPKri-D) | [`zakon/2005/zako4377/`](zakon/2005/zako4377/) | amending act | 1 | 2005-06-15 | 2005-06-15 |
+| Zakon o spremembah in dopolnitvah Zakona o ukrepih za odpravo posledic določenih zemeljskih plazov večjega obsega iz let 2000 in 2001 (ZUOPZP-A) | [`zakon/2005/zako4389/`](zakon/2005/zako4389/) | amending act | 1 | 2005-11-08 | 2005-11-08 |
+| Zakon o spremembah in dopolnitvah Zakona o trajnem prenehanju izkoriščanja uranove rude in preprečevanju posledic rudarjenja v Rudniku urana Žirovski vrh (ZTPIU-B) | [`zakon/2005/zako4398/`](zakon/2005/zako4398/) | amending act | 1 | 2005-12-31 | 2005-12-31 |
+| Zakon o spremembah in dopolnitvah Zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov (ZZRZI-A) | [`zakon/2005/zako4408/`](zakon/2005/zako4408/) | amending act | 1 | 2005-08-13 | 2005-08-13 |
+| Zakon o davčni službi (uradno prečiščeno besedilo) (ZDS-1-UPB1) | [`zakon/2005/zako4415/`](zakon/2005/zako4415/) | repealed 2014-04-12 | 2 | 2004-12-29 | 2014-04-12 |
+| Zakon o ugotavljanju katastrskega dohodka (uradno prečiščeno besedilo) (ZUKD-UPB1) | [`zakon/2005/zako4443/`](zakon/2005/zako4443/) | repealed 2011-02-26 | 2 | 2004-07-20 | 2011-02-26 |
+| Zakon o investicijskih skladih in družbah za upravljanje (uradno prečiščeno besedilo) (ZISDU-1-UPB1) | [`zakon/2005/zako4447/`](zakon/2005/zako4447/) | repealed 2011-11-02 | 2 | 2004-05-08 | 2011-11-02 |
+| Zakon o spremembah in dopolnitvah Zakona o varnosti cestnega prometa (ZVCP-1B) | [`zakon/2005/zako4469/`](zakon/2005/zako4469/) | amending act | 1 | 2005-07-23 | 2005-07-23 |
+| Zakon o prevzemu dolga Zavoda za pokojninsko in invalidsko zavarovanje Slovenije ter Zavoda za zdravstveno zavarovanje Slovenije (ZPDZPIZ) | [`zakon/2005/zako4475/`](zakon/2005/zako4475/) | repealed 2022-01-22 | 2 | 2005-07-01 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o praznikih in dela prostih dnevih v Republiki Sloveniji (ZPDPD-A) | [`zakon/2005/zako4476/`](zakon/2005/zako4476/) | amending act | 1 | 2005-10-15 | 2005-10-15 |
+| Zakon o dvojnem označevanju cen v tolarjih in evrih (ZDOCTE) | [`zakon/2005/zako4483/`](zakon/2005/zako4483/) | repealed 2022-01-22 | 2 | 2005-11-26 | 2022-01-22 |
+| Zakon o soglasju Republike Slovenije DARS, d.d., za najetje kredita pri Evropski investicijski banki za projekt slovenskih avtocest/VII (ZSDSA7) | [`zakon/2005/zako4486/`](zakon/2005/zako4486/) | in force | 1 | 2005-07-30 | 2005-07-30 |
+| Zakon o dopolnitvah Zakona o javnih zbiranjih (ZJZ-B) | [`zakon/2005/zako4489/`](zakon/2005/zako4489/) | in force | 1 | 2005-10-25 | 2005-10-25 |
+| Zakon o spremembah Zakona o poslancih (ZPos-B) | [`zakon/2005/zako4490/`](zakon/2005/zako4490/) | amending act | 1 | 2005-10-25 | 2005-10-25 |
+| Zakon o soglasju Republike Slovenije DARS, d.d., za najetje kreditov in izdajo dolžniških vrednostnih papirjev za realizacijo gradnje avtocestnih odsekov iz nacionalnega programa izgradnje avtocest v Republiki Sloveniji v višini 360 mio evrov (ZSNKNPIA) | [`zakon/2005/zako4491/`](zakon/2005/zako4491/) | in force | 1 | 2005-08-13 | 2005-08-13 |
+| Zakon o spremembah in dopolnitvah Zakona o notariatu (ZN-D) | [`zakon/2005/zako4499/`](zakon/2005/zako4499/) | amending act | 1 | 2005-11-22 | 2005-11-22 |
+| Zakon o spremembi in dopolnitvah Zakona o odpravi posledic naravnih nesreč (ZOPNN-A) | [`zakon/2005/zako4506/`](zakon/2005/zako4506/) | amending act | 1 | 2005-11-08 | 2005-11-08 |
+| Zakon o spremembah Zakona o zagotavljanju navigacijskih služb zračnega prometa (ZZNSZP-A) | [`zakon/2005/zako4516/`](zakon/2005/zako4516/) | amending act | 1 | 2005-12-24 | 2005-12-24 |
+| Zakon o razglasitvi zaščitne ekološke cone in epikontinentalnem pasu Republike Slovenije (ZRZECEP) | [`zakon/2005/zako4519/`](zakon/2005/zako4519/) | repealed 2018-05-05 | 2 | 2005-10-22 | 2018-05-05 |
+| Zakon o spremembah in dopolnitvah Zakona o varnosti cestnega prometa (ZVCP-1C) | [`zakon/2005/zako4530/`](zakon/2005/zako4530/) | amending act | 1 | 2005-12-03 | 2005-12-03 |
+| Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-F) | [`zakon/2005/zako4532/`](zakon/2005/zako4532/) | repealed 2006-11-17 | 2 | 2005-12-03 | 2006-11-17 |
+| Zakon o spremembi in dopolnitvah Zakona o davku na izplačane plače (ZDIP-D) | [`zakon/2005/zako4533/`](zakon/2005/zako4533/) | repealed 2022-01-22 | 2 | 2006-01-01 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o splošnem upravnem postopku (ZUP-D) | [`zakon/2005/zako4540/`](zakon/2005/zako4540/) | amending act | 1 | 2006-01-12 | 2006-01-12 |
+| Zakon o reviziji postopkov javnega naročanja (uradno prečiščeno besedilo) (ZRPJN-UPB3) | [`zakon/2005/zako4560/`](zakon/2005/zako4560/) | repealed 2011-07-03 | 2 | 2005-07-01 | 2011-07-03 |
+| Zakon o spremembah Zakona o lokalnih volitvah (ZLV-F) | [`zakon/2005/zako4567/`](zakon/2005/zako4567/) | amending act | 1 | 2005-12-31 | 2005-12-31 |
+| Zakon o osebni izkaznici (uradno prečiščeno besedilo) (ZOIzk-UPB1) | [`zakon/2005/zako4584/`](zakon/2005/zako4584/) | repealed 2011-05-28 | 2 | 2005-07-09 | 2011-05-28 |
+| Zakon o detektivski dejavnosti (uradno prečiščeno besedilo) (ZDD-UPB2) | [`zakon/2005/zako4759/`](zakon/2005/zako4759/) | repealed 2011-03-26 | 2 | 2005-10-25 | 2011-03-26 |
 | Zakon o spremembah in dopolnitvah Zakona o varstvu pred naravnimi in drugimi nesrečami (ZVNDN-A) | [`zakon/2006/zako3626/`](zakon/2006/zako3626/) | amending act | 1 | 2006-04-01 | 2006-04-01 |
 | Zakon o spremembah in dopolnitvah Zakona o varstvu pred požarom (ZVPoz-B) | [`zakon/2006/zako3870/`](zakon/2006/zako3870/) | amending act | 1 | 2006-10-27 | 2006-10-27 |
 | Zakon o varstvu javnega reda in miru (ZJRM-1) | [`zakon/2006/zako3891/`](zakon/2006/zako3891/) | repealed 2026-01-28 | 4 | 2006-07-21 | 2026-01-28 |
+| Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu (ZDT-C) | [`zakon/2006/zako4065/`](zakon/2006/zako4065/) | repealed 2011-08-06 | 2 | 2006-02-18 | 2011-08-06 |
+| Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu (ZZavar-C) | [`zakon/2006/zako4143/`](zakon/2006/zako4143/) | repealed 2015-12-22 | 2 | 2006-08-11 | 2015-12-22 |
+| Zakon o spremembah in dopolnitvah Zakona o nacionalni stanovanjski varčevalni shemi (ZNSVS-A) | [`zakon/2006/zako4201/`](zakon/2006/zako4201/) | amending act | 1 | 2006-03-01 | 2006-03-01 |
+| Zakon o biocidnih proizvodih (ZBioP) | [`zakon/2006/zako4228/`](zakon/2006/zako4228/) | repealed 2014-04-26 | 3 | 2006-06-28 | 2014-04-26 |
+| Zakon o spremembah in dopolnitvah Pomorskega zakonika (PZ-C) | [`zakon/2006/zako4252/`](zakon/2006/zako4252/) | amending act | 1 | 2006-05-27 | 2006-05-27 |
+| Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij (ZIKS-1B) | [`zakon/2006/zako4268/`](zakon/2006/zako4268/) | amending act | 1 | 2006-07-21 | 2006-07-21 |
+| Zakon o spremembi Zakona o zdravstveni inšpekciji (ZZdrI-B) | [`zakon/2006/zako4276/`](zakon/2006/zako4276/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
+| Zakon o spremembah in dopolnitvah Zakona o zdravniški službi (ZZdrS-D) | [`zakon/2006/zako4279/`](zakon/2006/zako4279/) | amending act | 1 | 2006-05-24 | 2006-05-24 |
+| Zakon o zdravilih (ZZdr-1) | [`zakon/2006/zako4280/`](zakon/2006/zako4280/) | repealed 2014-03-22 | 3 | 2006-04-08 | 2014-03-22 |
+| Zakon o spremembah in dopolnitvah Zakona o medijih (ZMed-A) | [`zakon/2006/zako4285/`](zakon/2006/zako4285/) | repealed 2025-09-27 | 2 | 2006-06-24 | 2025-09-27 |
+| Zakon o strokovnih in znanstvenih naslovih (ZSZN-1) | [`zakon/2006/zako4294/`](zakon/2006/zako4294/) | repealed 2022-08-09 | 4 | 2006-06-14 | 2022-08-09 |
+| Zakon o bančništvu (ZBan-1) | [`zakon/2006/zako4300/`](zakon/2006/zako4300/) | repealed 2016-06-25 | 19 | 2006-12-29 | 2016-06-25 |
+| Zakon o spremembah in dopolnitvah Zakona o obveznih zavarovanjih v prometu (ZOZP-C) | [`zakon/2006/zako4305/`](zakon/2006/zako4305/) | amending act | 1 | 2006-04-07 | 2006-04-07 |
+| Zakon o spremembah in dopolnitvah Zakona o izobraževanju odraslih (ZIO-A) | [`zakon/2006/zako4321/`](zakon/2006/zako4321/) | repealed 2018-02-17 | 2 | 2006-07-18 | 2018-02-17 |
+| Zakon o spremembah in dopolnitvah Zakona o gimnazijah (ZGim-B) | [`zakon/2006/zako4324/`](zakon/2006/zako4324/) | amending act | 1 | 2006-11-11 | 2006-11-11 |
+| Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor (ZVDZ-B) | [`zakon/2006/zako4330/`](zakon/2006/zako4330/) | amending act | 1 | 2006-08-09 | 2006-08-09 |
+| Zakon o spremembah in dopolnitvah Zakona o vojnih veteranih (ZVV-C) | [`zakon/2006/zako4331/`](zakon/2006/zako4331/) | amending act | 1 | 2006-04-26 | 2006-04-26 |
+| Zakon o napotitvi oseb v mednarodne civilne misije in mednarodne organizacije (ZNOMCMO) | [`zakon/2006/zako4362/`](zakon/2006/zako4362/) | repealed 2022-01-12 | 2 | 2006-03-11 | 2022-01-12 |
+| Zakon o spremembah in dopolnitvah Zakona o varstvu novih sort rastlin (ZVNSR-A) | [`zakon/2006/zako4369/`](zakon/2006/zako4369/) | amending act | 1 | 2006-06-28 | 2006-06-28 |
+| Zakon o spremembah in dopolnitvah Zakona o kmetijstvu (ZKme-A) | [`zakon/2006/zako4371/`](zakon/2006/zako4371/) | repealed 2008-05-24 | 2 | 2006-03-04 | 2008-05-24 |
+| Zakon o spremembah in dopolnitvah Zakona o nepremičninskem posredovanju (ZNPosr-A) | [`zakon/2006/zako4390/`](zakon/2006/zako4390/) | amending act | 1 | 2006-05-24 | 2006-05-24 |
+| Zakon o spremembah in dopolnitvah Zakona o varstvu okolja (ZVO-1A) | [`zakon/2006/zako4392/`](zakon/2006/zako4392/) | amending act | 1 | 2006-03-11 | 2006-03-11 |
+| Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-B) | [`zakon/2006/zako4403/`](zakon/2006/zako4403/) | repealed 2014-04-29 | 2 | 2006-05-24 | 2014-04-29 |
+| Zakon o spremembah in dopolnitvah Zakona o avtorski in sorodnih pravicah (ZASP-C) | [`zakon/2006/zako4419/`](zakon/2006/zako4419/) | amending act | 1 | 2006-03-04 | 2006-03-04 |
+| Zakon o spremembah in dopolnitvah Zakona o industrijski lastnini (ZIL-1C) | [`zakon/2006/zako4421/`](zakon/2006/zako4421/) | amending act | 1 | 2006-03-11 | 2006-03-11 |
+| Zakon o spremembah in dopolnitvah Zakona o plačilnem prometu (ZPlaP-C) | [`zakon/2006/zako4487/`](zakon/2006/zako4487/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
+| Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu (ZViS-E) | [`zakon/2006/zako4492/`](zakon/2006/zako4492/) | repealed 2025-08-09 | 2 | 2006-09-09 | 2025-08-09 |
+| Zakon o spremembah Zakona o kontroli cen (ZKC-A) | [`zakon/2006/zako4524/`](zakon/2006/zako4524/) | amending act | 1 | 2006-03-11 | 2006-03-11 |
+| Zakon o spremembah in dopolnitvah Zakona o Slovenski obveščevalno-varnostni agenciji (ZSOVA-B) | [`zakon/2006/zako4529/`](zakon/2006/zako4529/) | amending act | 1 | 2006-06-28 | 2006-06-28 |
+| Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu (ZSV-D) | [`zakon/2006/zako4534/`](zakon/2006/zako4534/) | amending act | 1 | 2006-10-27 | 2006-10-27 |
+| Zakon o spremembah in dopolnitvah Zakona o javnem jamstvenem in preživninskem skladu Republike Slovenije (ZJSRS-E) | [`zakon/2006/zako4538/`](zakon/2006/zako4538/) | amending act | 1 | 2006-06-28 | 2006-06-28 |
+| Zakon o spremembah in dopolnitvah Zakona o nematerializiranih vrednostnih papirjih (ZNVP-A) | [`zakon/2006/zako4548/`](zakon/2006/zako4548/) | repealed 2015-10-23 | 2 | 2006-11-24 | 2015-10-23 |
+| Zakon o spremembah in dopolnitvah Zakona o matičnem registru (ZMatR-A) | [`zakon/2006/zako4551/`](zakon/2006/zako4551/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
+| Zakon o spremembah Zakona o prijavi prebivališča (ZPPreb-A) | [`zakon/2006/zako4554/`](zakon/2006/zako4554/) | repealed 2016-08-13 | 2 | 2006-04-28 | 2016-08-13 |
+| Zakon o spremembi in dopolnitvi Zakona o centralnem registru prebivalstva (ZCRP-A) | [`zakon/2006/zako4555/`](zakon/2006/zako4555/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
+| Zakon o soglasju Republike Slovenije DARS, d.d. za najetje kreditov in izdajo dolžniških vrednostnih papirjev za realizacijo gradnje avtocestnih odsekov iz nacionalnega programa izgradnje avtocest v Republiki Sloveniji v višini 1.030,15 milijonov evrov (ZSDVPNPIA) | [`zakon/2006/zako4562/`](zakon/2006/zako4562/) | in force | 1 | 2006-02-18 | 2006-02-18 |
+| Zakon o poroštvu Republike Slovenije za obveznosti Univerze na Primorskem iz naslova kreditov, najetih za sofinanciranje razširitve in posodobitve prostorskih pogojev (ZPUPSPP) | [`zakon/2006/zako4568/`](zakon/2006/zako4568/) | repealed 2022-01-22 | 2 | 2006-04-05 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o tajnih podatkih (ZTP-B) | [`zakon/2006/zako4590/`](zakon/2006/zako4590/) | amending act | 1 | 2006-04-01 | 2006-04-01 |
+| Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-E) | [`zakon/2006/zako4591/`](zakon/2006/zako4591/) | amending act | 1 | 2006-02-15 | 2006-02-15 |
+| Zakon o spremembah in dopolnitvah Zakona o dostopu do informacij javnega značaja (ZDIJZ-B) | [`zakon/2006/zako4595/`](zakon/2006/zako4595/) | amending act | 1 | 2006-04-01 | 2006-04-01 |
+| Zakon o spremembah Zakona o varstvu topografije polprevodniških vezij (ZVTPPV-B) | [`zakon/2006/zako4598/`](zakon/2006/zako4598/) | amending act | 1 | 2006-06-10 | 2006-06-10 |
+| Zakon o spremembah in dopolnitvah Zakona o pravicah industrijske lastnine iz delovnega razmerja (ZPILDR-B) | [`zakon/2006/zako4599/`](zakon/2006/zako4599/) | amending act | 1 | 2007-01-13 | 2007-01-13 |
+| Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah (ZEKom-A) | [`zakon/2006/zako4601/`](zakon/2006/zako4601/) | repealed 2013-01-15 | 2 | 2006-12-27 | 2013-01-15 |
+| Zakon o spremembah in dopolnitvah Zakona o vračanju vlaganj v javno telekomunikacijsko omrežje (ZVVJTO-C) | [`zakon/2006/zako4603/`](zakon/2006/zako4603/) | amending act | 1 | 2006-06-10 | 2006-06-10 |
+| Zakon o izvajanju temeljnih razvojnih programov Slovenske vojske v letih 2008 do 2015 (ZITRPSV) | [`zakon/2006/zako4612/`](zakon/2006/zako4612/) | repealed 2022-01-22 | 2 | 2006-11-24 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o državljanstvu Republike Slovenije (ZDRS-D) | [`zakon/2006/zako4613/`](zakon/2006/zako4613/) | amending act | 1 | 2006-12-22 | 2006-12-22 |
+| Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-F) | [`zakon/2006/zako4616/`](zakon/2006/zako4616/) | amending act | 1 | 2006-07-01 | 2006-07-01 |
+| Zakon o spremembah Zakona o glasbenih šolah (ZGla-A) | [`zakon/2006/zako4617/`](zakon/2006/zako4617/) | amending act | 1 | 2006-06-10 | 2006-06-10 |
+| Zakon o spremembah in dopolnitvah Zakona o ustanovitvi občin ter o določitvi njihovih območij (ZUODNO-E) | [`zakon/2006/zako4618/`](zakon/2006/zako4618/) | amending act | 1 | 2006-03-14 | 2006-03-14 |
+| Zakon o spremembah in dopolnitvah Zakona o osnovni šoli (ZOsn-E) | [`zakon/2006/zako4644/`](zakon/2006/zako4644/) | amending act | 1 | 2006-06-10 | 2006-06-10 |
+| Zakon o spremembah in dopolnitvah Energetskega zakona (EZ-B) | [`zakon/2006/zako4645/`](zakon/2006/zako4645/) | repealed 2014-03-22 | 2 | 2006-12-02 | 2014-03-22 |
+| Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-F) | [`zakon/2006/zako4646/`](zakon/2006/zako4646/) | amending act | 1 | 2006-12-27 | 2006-12-27 |
+| Zakon o spremembah in dopolnitvah Zakona o dodatni koncesijski dajatvi od prejemkov, izplačanih za občasna in začasna dela študentov in dijakov (ZDKDPŠ-A) | [`zakon/2006/zako4662/`](zakon/2006/zako4662/) | amending act | 1 | 2006-07-28 | 2006-07-28 |
+| Zakon o spremembah in dopolnitvah Zakona o nacionalnih poklicnih kvalifikacijah (ZNPK-B) | [`zakon/2006/zako4665/`](zakon/2006/zako4665/) | amending act | 1 | 2006-12-02 | 2006-12-02 |
+| Zakon o krmi (ZKrmi-1) | [`zakon/2006/zako4677/`](zakon/2006/zako4677/) | repealed 2025-12-19 | 3 | 2006-12-22 | 2025-12-19 |
+| Zakon o spremembah in dopolnitvah Zakona o pravicah iz pokojninskega in invalidskega zavarovanja bivših vojaških zavarovancev (ZPIZVZ-A) | [`zakon/2006/zako4681/`](zakon/2006/zako4681/) | amending act | 1 | 2006-12-02 | 2006-12-02 |
+| Zakon o spremembah in dopolnitvah Zakona o Banki Slovenije (ZBS-1A) | [`zakon/2006/zako4685/`](zakon/2006/zako4685/) | amending act | 1 | 2006-04-14 | 2006-04-14 |
+| Zakon o spremembah in dopolnitvah Zakona o trošarinah (ZTro-F) | [`zakon/2006/zako4686/`](zakon/2006/zako4686/) | repealed 2016-07-16 | 2 | 2006-11-29 | 2016-07-16 |
+| Zakon o spremembah Zakona o predpisani obrestni meri zamudnih obresti (ZPOMZO-1A) | [`zakon/2006/zako4694/`](zakon/2006/zako4694/) | amending act | 1 | 2007-01-01 | 2007-01-01 |
+| Zakon o spremembah in dopolnitvah Zakona o sodiščih (ZS-F) | [`zakon/2006/zako4736/`](zakon/2006/zako4736/) | repealed 2025-12-19 | 2 | 2006-12-22 | 2025-12-19 |
+| Zakon o spremembah in dopolnitvah Zakona o notariatu (ZN-E) | [`zakon/2006/zako4741/`](zakon/2006/zako4741/) | amending act | 1 | 2006-11-25 | 2006-11-25 |
+| Zakon o spremembi in dopolnitvi Zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij (ZSTNIIP-A) | [`zakon/2006/zako4742/`](zakon/2006/zako4742/) | repealed 2018-03-15 | 2 | 2006-08-09 | 2018-03-15 |
+| Zakon o spremembah in dopolnitvah Zakona o letalstvu (ZLet-A) | [`zakon/2006/zako4743/`](zakon/2006/zako4743/) | repealed 2025-04-05 | 2 | 2006-08-11 | 2025-04-05 |
+| Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-I) | [`zakon/2006/zako4745/`](zakon/2006/zako4745/) | amending act | 1 | 2006-04-12 | 2006-04-12 |
+| Zakon o spremembah in dopolnitvah Zakona o policiji (ZPol-F) | [`zakon/2006/zako4747/`](zakon/2006/zako4747/) | amending act | 1 | 2006-08-09 | 2006-08-09 |
+| Zakon o spremembah in dopolnitvah Zakona o referendumu in o ljudski iniciativi (ZRLI-D) | [`zakon/2006/zako4748/`](zakon/2006/zako4748/) | amending act | 1 | 2007-01-13 | 2007-01-13 |
+| Zakon o spremembah in dopolnitvah Zakona o davku na motorna vozila (ZDMV-B) | [`zakon/2006/zako4761/`](zakon/2006/zako4761/) | repealed 2020-12-30 | 2 | 2006-05-24 | 2020-12-30 |
+| Zakon o spremembah in dopolnitvah Zakona o preprečevanju dela in zaposlovanja na črno (ZPDZC-A) | [`zakon/2006/zako4762/`](zakon/2006/zako4762/) | repealed 2014-05-20 | 2 | 2006-12-02 | 2014-05-20 |
+| Zakon o zaposlovanju in delu tujcev (uradno prečiščeno besedilo) (ZZDT-UPB1) | [`zakon/2006/zako4777/`](zakon/2006/zako4777/) | repealed 2011-04-23 | 2 | 2005-11-26 | 2011-04-23 |
+| Zakon o spremembah in dopolnitvah Zakona o graditvi objektov (ZGO-1B) | [`zakon/2007/zako4118/`](zakon/2007/zako4118/) | repealed 2017-11-17 | 2 | 2008-01-15 | 2017-11-17 |
+| Zakon o varnosti v železniškem prometu (ZVZelP) | [`zakon/2007/zako4240/`](zakon/2007/zako4240/) | repealed 2018-06-16 | 12 | 2007-07-11 | 2018-06-16 |
+| Zakon o spremembah in dopolnitvah Zakona o uresničevanju javnega interesa za kulturo (ZUJIK-A) | [`zakon/2007/zako4287/`](zakon/2007/zako4287/) | amending act | 1 | 2007-06-30 | 2007-06-30 |
+| Zakon o spremembah in dopolnitvah Zakona o zadrugah (ZZad-B) | [`zakon/2007/zako4395/`](zakon/2007/zako4395/) | amending act | 1 | 2007-05-19 | 2007-05-19 |
+| Zakon o spremembah in dopolnitvah Zakona o železniškem prometu (ZZelP-F) | [`zakon/2007/zako4553/`](zakon/2007/zako4553/) | amending act | 1 | 2007-03-07 | 2007-03-07 |
+| Zakon o spremembah in dopolnitvah Zakona o obligacijskih in stvarnopravnih razmerjih v letalstvu (ZOSRL-A) | [`zakon/2007/zako4597/`](zakon/2007/zako4597/) | amending act | 1 | 2007-10-25 | 2007-10-25 |
+| Zakon o spremembah in dopolnitvah Zakona o varstvu pred utopitvami (ZVU-A) | [`zakon/2007/zako4607/`](zakon/2007/zako4607/) | amending act | 1 | 2007-04-07 | 2007-04-07 |
+| Zakon o lastninjenju nepremičnin v družbeni lastnini v uporabi Zveze sindikatov Slovenije (ZLNZSS) | [`zakon/2007/zako4653/`](zakon/2007/zako4653/) | repealed 2022-01-22 | 2 | 2007-08-08 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Obrtnega zakona (ObrZ-D) | [`zakon/2007/zako4657/`](zakon/2007/zako4657/) | amending act | 1 | 2007-11-24 | 2007-11-24 |
+| Zakon o spremembah in dopolnitvah Zakona o gozdovih (ZG-B) | [`zakon/2007/zako4663/`](zakon/2007/zako4663/) | amending act | 1 | 2007-12-18 | 2007-12-18 |
+| Zakon o štipendiranju (ZŠtip) | [`zakon/2007/zako4664/`](zakon/2007/zako4664/) | repealed 2013-07-17 | 6 | 2007-07-19 | 2013-07-17 |
+| Zakon o prenehanju veljavnosti Zakona o predhodnih sestavinah za prepovedane droge (ZPVZPSPD) | [`zakon/2007/zako4667/`](zakon/2007/zako4667/) | repealed 2022-01-22 | 2 | 2007-07-21 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o omejevanju uporabe tobačnih izdelkov (ZOUTI-C) | [`zakon/2007/zako4669/`](zakon/2007/zako4669/) | repealed 2017-03-11 | 2 | 2007-08-05 | 2017-03-11 |
+| Zakon o spremembah in dopolnitvah Zakona o sodelovanju delavcev pri upravljanju (ZSDU-B) | [`zakon/2007/zako4678/`](zakon/2007/zako4678/) | amending act | 1 | 2007-04-07 | 2007-04-07 |
+| Zakon o spremembah in dopolnitvah Zakona o delovnih razmerjih (ZDR-A) | [`zakon/2007/zako4679/`](zakon/2007/zako4679/) | repealed 2013-04-12 | 2 | 2007-11-28 | 2013-04-12 |
+| Zakon o preprečevanju pranja denarja in financiranja terorizma (ZPPDFT) | [`zakon/2007/zako4684/`](zakon/2007/zako4684/) | repealed 2016-11-19 | 6 | 2007-07-21 | 2016-11-19 |
+| Zakon o spremembah in dopolnitvah Zakona o subvencioniranju študentske prehrane (ZSŠP-A) | [`zakon/2007/zako4692/`](zakon/2007/zako4692/) | amending act | 1 | 2007-06-27 | 2007-06-27 |
+| Zakon o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje (ZISDU-1B) | [`zakon/2007/zako4695/`](zakon/2007/zako4695/) | repealed 2011-11-02 | 2 | 2007-10-25 | 2011-11-02 |
+| Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu (ZDT-D) | [`zakon/2007/zako4739/`](zakon/2007/zako4739/) | repealed 2011-08-06 | 2 | 2007-03-18 | 2011-08-06 |
+| Zakon o udeležbi delavcev pri dobičku (ZUDDob) | [`zakon/2008/zako4654/`](zakon/2008/zako4654/) | repealed 2026-03-11 | 2 | 2008-03-29 | 2026-03-11 |
+| Zakon o spremembah in dopolnitvah Zakona o Kmetijsko gozdarski zbornici Slovenije (ZKGZ-B) | [`zakon/2008/zako4715/`](zakon/2008/zako4715/) | amending act | 1 | 2008-03-18 | 2008-03-18 |
+| Zakon o spremembah in dopolnitvah Zakona o odvetništvu (ZOdv-B) | [`zakon/2008/zako4730/`](zakon/2008/zako4730/) | amending act | 1 | 2008-06-03 | 2008-06-03 |
 | Zakon o spremembah in dopolnitvah Zakona o Skladu kmetijskih zemljišč in gozdov Republike Slovenije (ZSKZ-B) | [`zakon/2010/zako3544/`](zakon/2010/zako3544/) | amending act | 1 | 2010-02-20 | 2010-02-20 |

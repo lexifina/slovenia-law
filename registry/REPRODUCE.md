@@ -20,21 +20,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 570 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1182 | |
+| 759 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1502 | |
 
-The build made 1170 commits:
+The build made 1489 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 570 | first version of an act |
-| 278 | one law on its in-force day |
-| 322 | changes no amendment note explains, credited to the publisher |
+| 759 | first version of an act |
+| 323 | one law on its in-force day |
+| 407 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `prihodnje`: laws not yet in force on 2026-11-03.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 784 laws in the record.
-- 3959 tags.
+- 989 laws in the record.
+- 4482 tags.
 
 ## Dates
 
@@ -46,7 +46,7 @@ When a law gives no date of its own, the default rule applies: Ustava RS, 154. Ä
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `543559dee25a263d246d772f6a1151c1f733de76122643b51ab6322d9110ff18` (12921409 bytes).
+- Corpus: sha256 `b625c32b5022fd02a0aa5ce6ff657185f03f8a6c00e07f1eb12d78d94ac67f1e` (19956677 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
