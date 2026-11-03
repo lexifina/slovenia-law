@@ -25,7 +25,7 @@ What becomes an act, and its versions:
   and no day is guessed).
 
 An act is held back (the reason goes to the report) when:
-- it has no text in PIS, or no in-force day;
+- it has no text in PIS, or no in-force day, or PIS records that it never took effect;
 - an act PIS lists as changing its text (posegVBesedilo), or a Constitutional Court decision that annuls part of it,
   took or takes effect on a day for which no consolidated text exists (its text on that day is not known);
 - a consolidated text's producing act has no in-force day, or the versions' days go backwards;
@@ -285,6 +285,8 @@ def build_act(src: Src, r: dict, rows: dict, pointing: dict) -> tuple[dict | Non
         return None, {}
     if not r.get("veljaOd"):
         raise Hold("no_in_force_day")
+    if "nikoli veljal" in (r.get("semafor") or ""):
+        raise Hold("never_in_force")
     if r.get("semafor") == "Neveljaven predpis, ki se še uporablja":
         raise Hold("invalid_but_still_applied")
     related: dict[str, dict] = {}

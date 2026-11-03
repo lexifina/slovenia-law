@@ -1136,6 +1136,27 @@
    ]
   },
   {
+   "slug": "zakon-1991-zako2702",
+   "path": "zakon/1991/zako2702",
+   "short": "Zakon o posebnem prispevku solidarnosti v letu 1991",
+   "title": "Zakon o posebnem prispevku solidarnosti v letu 1991",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2702",
+   "versions": [
+    {
+     "from": "1991-06-25",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7869222",
+     "sha256": "302428f89f01f64ca538ac8a693d6b1f0aec270aa9195e5c0c0422a001c24150"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2702",
+     "sha256": "4410bf6b413a8ddb9f409a131a494e0cb0195e1e33bdbfb5ad07fa240249b1c3"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1991-zako817",
    "path": "zakon/1991/zako817",
    "short": "ZDPVA91-A",
@@ -7034,6 +7055,21 @@
    ]
   },
   {
+   "slug": "zakon-1999-zako2455",
+   "path": "zakon/1999/zako2455",
+   "short": "ZZDej-D",
+   "title": "Zakon o dopolnitvi zakona o zdravstveni dejavnosti (ZZDej-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2455",
+   "versions": [
+    {
+     "from": "1999-11-20",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465333602",
+     "sha256": "b2ff09ce20f4ffdd9136526bf45a5c362c2b0c8f8beb9a5b1a4c1fb878a54fa7"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2000-zako1214",
    "path": "zakon/2000/zako1214",
    "short": "ZS-C",
@@ -7649,6 +7685,138 @@
    ]
   },
   {
+   "slug": "zakon-2000-zako2444",
+   "path": "zakon/2000/zako2444",
+   "short": "ZUT-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah (ZUT-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2444",
+   "versions": [
+    {
+     "from": "2000-05-27",
+     "units": 17,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465610613",
+     "sha256": "9a340b45712343df588674acbc5b593521ff0c472e05c382095623deaf080752"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2448",
+   "path": "zakon/2000/zako2448",
+   "short": "ZUP-A",
+   "title": "Zakon o spremembi zakona o splošnem upravnem postopku (ZUP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2448",
+   "versions": [
+    {
+     "from": "2000-08-09",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466297855",
+     "sha256": "ea25e7d3c1e18f7569e48b3089e07dfd879111865d39c2e8f7ef80104ef9f824"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2459",
+   "path": "zakon/2000/zako2459",
+   "short": "ZIZDO",
+   "title": "Zakon o izjemnem znižanju davčne obveznosti (ZIZDO)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2459",
+   "versions": [
+    {
+     "from": "2000-05-27",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7867792",
+     "sha256": "2bf1d6e92641a2daf5d1ef2465b4495a61da79a31e49c6621e75167f6aa060b0"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2459",
+     "sha256": "3e504a53d5f3c6fc6073d51779737f79acc6fe7ebe80dc0f66e5ff941e94ef5e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2497",
+   "path": "zakon/2000/zako2497",
+   "short": "ZVRS-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o Vladi Republike Slovenije (ZVRS-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2497",
+   "versions": [
+    {
+     "from": "2000-12-23",
+     "units": 20,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465540060",
+     "sha256": "6a7640037a91201aeee4f759781851d9cb3fcba2c2a591f802fb7ec88038375c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2547",
+   "path": "zakon/2000/zako2547",
+   "short": "ZLS-K",
+   "title": "Zakon o spremembah in dopolnitvah zakona o lokalni samoupravi (ZLS-K)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2547",
+   "versions": [
+    {
+     "from": "2000-08-09",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465540799",
+     "sha256": "ed77a1d73061217f59e498784773338279d53c4de6056e7289600b830496269f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2596",
+   "path": "zakon/2000/zako2596",
+   "short": "ZPPPD-A",
+   "title": "Zakon o spremembi zakona o proizvodnji in prometu s prepovedanimi drogami (ZPPPD-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2596",
+   "versions": [
+    {
+     "from": "2000-05-27",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466304261",
+     "sha256": "dbd953b4a25bbe61828ffc3554843635f65f02494ac78edb1948e43c191a056c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2612",
+   "path": "zakon/2000/zako2612",
+   "short": "ZPVAS-E",
+   "title": "Zakon o dopolnitvi zakona o ponovni vzpostavitvi agrarnih skupnosti ter vrnitvi njihovega premoženja in pravic (ZPVAS-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2612",
+   "versions": [
+    {
+     "from": "2000-08-12",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465541873",
+     "sha256": "c45fb63ce57f47be916c4637f0f40509b9135bc5231b25a7fb3503575609b5bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako2628",
+   "path": "zakon/2000/zako2628",
+   "short": "ZKP-C",
+   "title": "Zakon o spremembi zakona o spremembah in dopolnitvah zakona o kazenskem postopku (ZKP-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2628",
+   "versions": [
+    {
+     "from": "2000-07-27",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466304479",
+     "sha256": "4d07ddb8fcc8940969f2544f8f47b5b4d6a0da455c648a0219f2fe549830bd57"
+    },
+    {
+     "from": "2002-01-13",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2628",
+     "sha256": "4c038c6587bb3c6a29e58bf83572c45b683dd24fff088dc5562136bf0d4d995f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2001-zako1596",
    "path": "zakon/2001/zako1596",
    "short": "ZPPreb",
@@ -7918,6 +8086,99 @@
      "units": 49,
      "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465578143",
      "sha256": "f662e78ab4bf5a86cdcff3781b65b4b73a11d27f9561ce52d328772ff1c47beb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako2499",
+   "path": "zakon/2001/zako2499",
+   "short": "ZPKri-A",
+   "title": "Zakon o spremembah zakona o popravi krivic (ZPKri-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2499",
+   "versions": [
+    {
+     "from": "2001-02-17",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465540167",
+     "sha256": "12b439a2cde0347820bfa2bd6f5559c351c092695fe149708366f93988d9f3f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako2513",
+   "path": "zakon/2001/zako2513",
+   "short": "ZDDV-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2513",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465540199",
+     "sha256": "93d912c3323d8622f4e04b00eda2d51a72f8018bed7cc85f535ef390528296a4"
+    },
+    {
+     "from": "2006-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2513",
+     "sha256": "410e83debc9d0c6e938a5c9abda43b193ce2359efc85e1b7b5c0544ac2447e53"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako2563",
+   "path": "zakon/2001/zako2563",
+   "short": "ZZVZZ-E",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2563",
+   "versions": [
+    {
+     "from": "2001-12-22",
+     "units": 16,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465540882",
+     "sha256": "c9fb6a2ba08690895006f056d9f23a13ef075bf688dc027f604bcb7aa112e16c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako2610",
+   "path": "zakon/2001/zako2610",
+   "short": "ZTro-B",
+   "title": "Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2610",
+   "versions": [
+    {
+     "from": "2001-05-20",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466304289",
+     "sha256": "cd061436e6a91fefe66c309b587beade069ae127c3a08e706a49ab9005f62361"
+    },
+    {
+     "from": "2016-07-16",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2610",
+     "sha256": "a6bcc5c65ccaa856eb49e0afbe94cca2b5e1711075e551dc7a8e482910305997"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako2613",
+   "path": "zakon/2001/zako2613",
+   "short": "ZTro-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO2613",
+   "versions": [
+    {
+     "from": "2001-12-08",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466304439",
+     "sha256": "a7464bdf0215fe83743c64b2bc0248deec71ef2fc46d2f6492262ee10ab6bc71"
+    },
+    {
+     "from": "2016-07-16",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO2613",
+     "sha256": "113f565b1a838679766c79266731e00d2b701ce53cae51e0bd616b6e315e0c2a"
     }
    ]
   },

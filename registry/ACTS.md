@@ -1,6 +1,6 @@
 # Every act in this repository
 
-363 acts, 853 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+378 acts, 874 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## pravilnik (1)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Pravilnik o določitvi zvrsti predmetov kulturne dediščine | [`pravilnik/2000/zako1992/`](pravilnik/2000/zako1992/) | repealed 2011-01-01 | 2 | 2000-09-03 | 2011-01-01 |
 
-## zakon (362, of which 84 amending acts)
+## zakon (377, of which 91 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -52,6 +52,7 @@
 | Zakon o zagotovitvi sredstev za gradnjo odsekov avtomobilskih cest Malence - Šmarje Sap in Hrušica - Vrba (ZZSGOA) | [`zakon/1991/zako205/`](zakon/1991/zako205/) | repealed 2022-01-22 | 2 | 1991-06-29 | 2022-01-22 |
 | Zakon o raziskovalni dejavnosti | [`zakon/1991/zako206/`](zakon/1991/zako206/) | repealed 2002-11-29 | 2 | 1991-08-16 | 2002-11-29 |
 | Zakon o delnem povračilu škode povzročene z vojaško agresijo na Republiko Slovenijo v letu 1991 (ZDPVA91) | [`zakon/1991/zako207/`](zakon/1991/zako207/) | repealed 2022-01-22 | 4 | 1991-08-31 | 2022-01-22 |
+| Zakon o posebnem prispevku solidarnosti v letu 1991 | [`zakon/1991/zako2702/`](zakon/1991/zako2702/) | repealed 2022-01-22 | 2 | 1991-06-25 | 2022-01-22 |
 | Zakon o spremembah in dopolnitvah zakona o delnem povračilu škode povzročene z vojaško agresijo na Republiko Slovenijo v letu 1991 (ZDPVA91-A) | [`zakon/1991/zako817/`](zakon/1991/zako817/) | repealed 2022-01-22 | 2 | 1991-12-25 | 2022-01-22 |
 | Zakon o spremembi in dopolnitvi zakona o funkcionarjih v državnih organih (ZFDO-C) | [`zakon/1991/zako826/`](zakon/1991/zako826/) | repealed 2025-08-13 | 2 | 1991-06-28 | 2025-08-13 |
 | Zakon o dopolnitvi zakona o državljanstvu Republike Slovenije (ZDRS-A) | [`zakon/1991/zako832/`](zakon/1991/zako832/) | in force | 1 | 1991-12-14 | 1991-12-14 |
@@ -322,6 +323,7 @@
 | Zakon o spremembah in dopolnitvah zakona o veterinarstvu (ZVet-C) | [`zakon/1999/zako2254/`](zakon/1999/zako2254/) | repealed 2001-05-20 | 2 | 1999-12-17 | 2001-05-20 |
 | Zakon o spremembah in dopolnitvah zakona o visokem šolstvu (ZViS-A) | [`zakon/1999/zako2274/`](zakon/1999/zako2274/) | repealed 2025-08-09 | 2 | 1999-12-24 | 2025-08-09 |
 | Zakon o dopolnitvi zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju (ZPOOSRP-B) | [`zakon/1999/zako2287/`](zakon/1999/zako2287/) | in force | 1 | 1999-12-31 | 1999-12-31 |
+| Zakon o dopolnitvi zakona o zdravstveni dejavnosti (ZZDej-D) | [`zakon/1999/zako2455/`](zakon/1999/zako2455/) | in force | 1 | 1999-11-20 | 1999-11-20 |
 | Zakon o spremembah in dopolnitvah zakona o sodiščih (ZS-C) | [`zakon/2000/zako1214/`](zakon/2000/zako1214/) | repealed 2025-12-19 | 2 | 2000-04-14 | 2025-12-19 |
 | Zakon o kozmetičnih proizvodih (ZKozP) | [`zakon/2000/zako1378/`](zakon/2000/zako1378/) | repealed 2013-11-20 | 5 | 2000-08-10 | 2013-11-20 |
 | Zakon o odvzemu in presaditvi delov človeškega telesa zaradi zdravljenja (ZOPDCT) | [`zakon/2000/zako1401/`](zakon/2000/zako1401/) | repealed 2015-08-28 | 2 | 2000-03-12 | 2015-08-28 |
@@ -347,6 +349,14 @@
 | Zakon o spremembah in dopolnitvah zakona o vrtcih (ZVrt-A) | [`zakon/2000/zako2315/`](zakon/2000/zako2315/) | amending act | 1 | 2000-06-10 | 2000-06-10 |
 | Zakon o najemu posojila pri Mednarodni banki za obnovo in razvoj (MBOR) za projekt razvoja upravljanja sistema zdravstvenega varstva v Republiki Sloveniji (ZNPZV) | [`zakon/2000/zako2366/`](zakon/2000/zako2366/) | repealed 2022-01-22 | 2 | 2000-04-08 | 2022-01-22 |
 | Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih (ZZMP-A) | [`zakon/2000/zako2431/`](zakon/2000/zako2431/) | repealed 2009-12-19 | 2 | 2000-08-09 | 2009-12-19 |
+| Zakon o spremembah in dopolnitvah zakona o upravnih taksah (ZUT-A) | [`zakon/2000/zako2444/`](zakon/2000/zako2444/) | amending act | 1 | 2000-05-27 | 2000-05-27 |
+| Zakon o spremembi zakona o splošnem upravnem postopku (ZUP-A) | [`zakon/2000/zako2448/`](zakon/2000/zako2448/) | amending act | 1 | 2000-08-09 | 2000-08-09 |
+| Zakon o izjemnem znižanju davčne obveznosti (ZIZDO) | [`zakon/2000/zako2459/`](zakon/2000/zako2459/) | repealed 2022-01-22 | 2 | 2000-05-27 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah zakona o Vladi Republike Slovenije (ZVRS-C) | [`zakon/2000/zako2497/`](zakon/2000/zako2497/) | amending act | 1 | 2000-12-23 | 2000-12-23 |
+| Zakon o spremembah in dopolnitvah zakona o lokalni samoupravi (ZLS-K) | [`zakon/2000/zako2547/`](zakon/2000/zako2547/) | amending act | 1 | 2000-08-09 | 2000-08-09 |
+| Zakon o spremembi zakona o proizvodnji in prometu s prepovedanimi drogami (ZPPPD-A) | [`zakon/2000/zako2596/`](zakon/2000/zako2596/) | amending act | 1 | 2000-05-27 | 2000-05-27 |
+| Zakon o dopolnitvi zakona o ponovni vzpostavitvi agrarnih skupnosti ter vrnitvi njihovega premoženja in pravic (ZPVAS-E) | [`zakon/2000/zako2612/`](zakon/2000/zako2612/) | in force | 1 | 2000-08-12 | 2000-08-12 |
+| Zakon o spremembi zakona o spremembah in dopolnitvah zakona o kazenskem postopku (ZKP-C) | [`zakon/2000/zako2628/`](zakon/2000/zako2628/) | repealed 2002-01-13 | 2 | 2000-07-27 | 2002-01-13 |
 | Zakon o prijavi prebivališča (ZPPreb) | [`zakon/2001/zako1596/`](zakon/2001/zako1596/) | repealed 2016-08-13 | 5 | 2001-02-24 | 2016-08-13 |
 | Zakon o letalstvu (ZLet) | [`zakon/2001/zako1620/`](zakon/2001/zako1620/) | repealed 2025-04-05 | 12 | 2001-04-13 | 2025-04-05 |
 | Zakon o spremembah in dopolnitvah zakona o avtorski in sorodnih pravicah (ZASP-A) | [`zakon/2001/zako1656/`](zakon/2001/zako1656/) | amending act | 1 | 2001-02-24 | 2001-02-24 |
@@ -358,6 +368,11 @@
 | Zakon o spremembah in dopolnitvah zakona o varstvu pred požarom (ZVPoz-A) | [`zakon/2001/zako2056/`](zakon/2001/zako2056/) | amending act | 1 | 2002-01-01 | 2002-01-01 |
 | Zakon o overitvi listin v mednarodnem prometu (ZOLMP) | [`zakon/2001/zako2065/`](zakon/2001/zako2065/) | repealed 2017-03-11 | 2 | 2001-08-11 | 2017-03-11 |
 | Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-A) | [`zakon/2001/zako2317/`](zakon/2001/zako2317/) | amending act | 1 | 2001-08-18 | 2001-08-18 |
+| Zakon o spremembah zakona o popravi krivic (ZPKri-A) | [`zakon/2001/zako2499/`](zakon/2001/zako2499/) | amending act | 1 | 2001-02-17 | 2001-02-17 |
+| Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost (ZDDV-A) | [`zakon/2001/zako2513/`](zakon/2001/zako2513/) | repealed 2006-11-17 | 2 | 2001-04-27 | 2006-11-17 |
+| Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-E) | [`zakon/2001/zako2563/`](zakon/2001/zako2563/) | amending act | 1 | 2001-12-22 | 2001-12-22 |
+| Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-B) | [`zakon/2001/zako2610/`](zakon/2001/zako2610/) | repealed 2016-07-16 | 2 | 2001-05-20 | 2016-07-16 |
+| Zakon o spremembah in dopolnitvah zakona o trošarinah (ZTro-C) | [`zakon/2001/zako2613/`](zakon/2001/zako2613/) | repealed 2016-07-16 | 2 | 2001-12-08 | 2016-07-16 |
 | Zakon o mineralnih gnojilih (ZMinG) | [`zakon/2002/zako1343/`](zakon/2002/zako1343/) | repealed 2006-04-05 | 2 | 2002-07-19 | 2006-04-05 |
 | Zakon o morskem ribištvu (ZMR-1) | [`zakon/2002/zako1346/`](zakon/2002/zako1346/) | repealed 2007-01-01 | 2 | 2002-08-03 | 2007-01-01 |
 | Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov (ZOUTI-A) | [`zakon/2002/zako1393/`](zakon/2002/zako1393/) | repealed 2017-03-11 | 2 | 2003-01-29 | 2017-03-11 |
