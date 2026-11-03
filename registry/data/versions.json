@@ -191,6 +191,51 @@
    ]
   },
   {
+   "slug": "zakon-1977-zako1515",
+   "path": "zakon/1977/zako1515",
+   "short": "ZES",
+   "title": "Zakon o eksplozivnih snoveh, vnetljivih tekočinah, plinih ter o drugih nevarnih snoveh (ZES)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1515",
+   "versions": [
+    {
+     "from": "1977-10-22",
+     "units": 53,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9194453",
+     "sha256": "9cd978794915eefe46d493717794770115317ea770334402a6053d304dd7bbfe"
+    },
+    {
+     "from": "1992-02-02",
+     "units": 50,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9698191",
+     "sha256": "af2e1c311c7fdfebbfb9f3c17f9d0fcc6c066031eb81ff69f31ae0313b8812a0"
+    },
+    {
+     "from": "2002-11-29",
+     "units": 52,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8590531",
+     "sha256": "25b91d6f4573a6a4143091f901097023d31e647fb12f566f92af28bcb5cf91b8"
+    },
+    {
+     "from": "2005-11-26",
+     "units": 53,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8187561",
+     "sha256": "35d627ff4b5242bbfda8fbb6d6058925a105d00354c9964099333ccc29b9a5c6"
+    },
+    {
+     "from": "2012-11-21",
+     "units": 54,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11998736",
+     "sha256": "dcaf5961cc6da5686a3ccc86fb2280415b1844a8db06764dbec7efaf230b7335"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1515",
+     "sha256": "5a62386d055018dd191f8d60a456b12e4313d62442c7b7a118c62bf45d4744c3"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1978-zako38",
    "path": "zakon/1978/zako38",
    "short": "ZSeiS",
@@ -259,6 +304,21 @@
      "units": 0,
      "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO75",
      "sha256": "c027c843657741da87c8ebd769aed4b8627188a7bb31c8a7a65660ae21617d98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1979-zako1705",
+   "path": "zakon/1979/zako1705",
+   "short": "ZSOPT",
+   "title": "Zakon o sistemu obrambe pred točo (ZSOPT)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1705",
+   "versions": [
+    {
+     "from": "1979-11-27",
+     "units": 27,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8808093",
+     "sha256": "a2b97e9ea30fd6c951ffd0f4140a0b6cbedc1d490c92cdc21718ed1e5c1afde9"
     }
    ]
   },
@@ -433,6 +493,39 @@
      "units": 15,
      "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8416556",
      "sha256": "0e5afa452f44e7dc41b2892818c6050a20333b164dec2180e1218ef208755ac0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1989-zako1481",
+   "path": "zakon/1989/zako1481",
+   "short": "ZEG-D",
+   "title": "Zakon o določitvi nalog, ki jih od 1.1.1990 začasno opravljajo organi samoupravnih interesnih skupnosti in o ustanovitvi določenih republiških upravnih organov (ZEG-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1481",
+   "versions": [
+    {
+     "from": "1990-01-01",
+     "units": 32,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9159416",
+     "sha256": "529c94bf63f4c1307676e1b302da41752c4e5340d233af81df465808ea347280"
+    },
+    {
+     "from": "1991-03-08",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9193875",
+     "sha256": "05d64c7ed4087d10a2afbd871bb0ed343087e39b05f9990fe06201323932808c"
+    },
+    {
+     "from": "1991-06-28",
+     "units": 31,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8509303",
+     "sha256": "a627f721c42794c9c262c607d26742549ba44e7d02b8faeb95e74582328c90bb"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1481",
+     "sha256": "5a061bd410921adfa8126c16797e1490f05b9e63b0d9a01b2b91077a92752db1"
     }
    ]
   },
@@ -5798,6 +5891,117 @@
    ]
   },
   {
+   "slug": "zakon-1999-zako1406",
+   "path": "zakon/1999/zako1406",
+   "short": "ZKC",
+   "title": "Zakon o kontroli cen (ZKC)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1406",
+   "versions": [
+    {
+     "from": "1999-08-21",
+     "units": 27,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9108960",
+     "sha256": "60aaee91f2f0ed72b4e782f95548e2f9c8f3678a6750efd1798f8f6af6233e69"
+    },
+    {
+     "from": "2006-03-11",
+     "units": 27,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8517208",
+     "sha256": "54ed139d000561f962c242b18742b07c19e32f653d2b2559fb33c176811ccb0f"
+    },
+    {
+     "from": "2006-05-18",
+     "units": 27,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11519811",
+     "sha256": "471096f54dd6b41b7152cb5d7701fe03c4ca19017da1b7d7010b23d6ed691a3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako1549",
+   "path": "zakon/1999/zako1549",
+   "short": "ZSVP",
+   "title": "Zakon o splošni varnosti proizvodov (ZSVP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1549",
+   "versions": [
+    {
+     "from": "1999-04-09",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466151551",
+     "sha256": "df010928b0100da371472b1a18df937154c27c7bb98b3da359c2724ed520f4e8"
+    },
+    {
+     "from": "2003-11-05",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1549",
+     "sha256": "ac6ab109832d8ecfac353464a68215b64b7aaccb2d2b0b0c80ea9a8ec1e49b5a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-zako1612",
+   "path": "zakon/1999/zako1612",
+   "short": "ZNVP",
+   "title": "Zakon o nematerializiranih vrednostnih papirjih (ZNVP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1612",
+   "versions": [
+    {
+     "from": "1999-04-23",
+     "units": 102,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8733292",
+     "sha256": "ece21884f2a1641458ce125c8bbc3c13d8155abc648a0be0a998d5b7dbb1c1b3"
+    },
+    {
+     "from": "2002-09-21",
+     "units": 97,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8276919",
+     "sha256": "ef2d17a179830fbe6aa25508a267e2ee9bde61616d7bb73c632862e367999320"
+    },
+    {
+     "from": "2006-11-24",
+     "units": 111,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8553098",
+     "sha256": "832a04f5e6757b0a2f3948ca824e0f0e9d8ed09e883577c8a34f6f01577ed022"
+    },
+    {
+     "from": "2007-01-09",
+     "units": 111,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11724410",
+     "sha256": "06fab2472c43be401c1ce5cea19cf4854c2f6b83f47b497f39837baf528636e6"
+    },
+    {
+     "from": "2007-08-11",
+     "units": 112,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11730463",
+     "sha256": "d1a9732d01ec1fcbf4bbaefb681dfcf16a6c6ab9f99277163054b1811efb9e76"
+    },
+    {
+     "from": "2009-08-11",
+     "units": 113,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11075652",
+     "sha256": "d6fa065f107baee903df513cb0f1a6e6e822ab2f12e2e1115a5646c8c1942481"
+    },
+    {
+     "from": "2011-10-20",
+     "units": 114,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11689324",
+     "sha256": "c1b82caa3a02c3987515290656b60d27d9cd0c0b78549a5a1eb04ba6b42172d4"
+    },
+    {
+     "from": "2015-08-08",
+     "units": 115,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10933420",
+     "sha256": "9ea61fdef249f9fe5756bde3aefa7b293e2048296011d530fb25ee2d9e5a88ac"
+    },
+    {
+     "from": "2015-10-23",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1612",
+     "sha256": "a6ec64bda47e6d309225584a698c1c212e8a92e1bfbdeca20c15ae54be95e3f8"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2000-zako1214",
    "path": "zakon/2000/zako1214",
    "short": "ZS-C",
@@ -5879,6 +6083,432 @@
    ]
   },
   {
+   "slug": "zakon-2000-zako1417",
+   "path": "zakon/2000/zako1417",
+   "short": "ZCT-1",
+   "title": "Zakon o carinski tarifi (ZCT-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1417",
+   "versions": [
+    {
+     "from": "2000-08-10",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466151472",
+     "sha256": "9800503cae59f5832b02e614aeb8dd23547c2c9c3b1aa144cee3bc2c4cd31797"
+    },
+    {
+     "from": "2004-05-01",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1417",
+     "sha256": "bf65c0270c1e786f81cf57d07eaa768d1bda95f10b3519826adc5303f858666e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako1554",
+   "path": "zakon/2000/zako1554",
+   "short": "ObrZ-A",
+   "title": "Zakon o dopolnitvah obrtnega zakona (ObrZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1554",
+   "versions": [
+    {
+     "from": "2000-07-21",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/466151647",
+     "sha256": "235d16369d159181b2fa3c992993576534f9008e730e61f2fd7c615b50ad64a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako1555",
+   "path": "zakon/2000/zako1555",
+   "short": "ZPDZC",
+   "title": "Zakon o preprečevanju dela in zaposlovanja na črno (ZPDZC)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1555",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8636911",
+     "sha256": "77493f1bbad13586b516254addb6c91ce09d3f1f5b6f3fbe0f28150a293b8b07"
+    },
+    {
+     "from": "2006-12-02",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8205145",
+     "sha256": "f26650291fd0d5a31a5a34dc6bd794ab6fbe3a37fce226b8f46259950c064bf7"
+    },
+    {
+     "from": "2007-02-12",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10629069",
+     "sha256": "1650c4b92ccce33a9c058c87b8d6563be4885d5ee65efba1123cce78e0bdd93b"
+    },
+    {
+     "from": "2010-04-10",
+     "units": 27,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11420488",
+     "sha256": "49939961aedcc98140ffa7b8d895ccc1e2a31eee846a25be53a1228c4b77c803"
+    },
+    {
+     "from": "2012-07-28",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10664002",
+     "sha256": "9459971560d56e924da039fb0abf299f03cd544f1747fda6b267c2e41e5a712f"
+    },
+    {
+     "from": "2013-04-12",
+     "units": 31,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11202683",
+     "sha256": "fcc9d12ba9c1113ab9020a2bc32e3929ea8b2f28b0a4264ffba3ce4fc8c2afa1"
+    },
+    {
+     "from": "2014-05-20",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1555",
+     "sha256": "f335ab28273c1ab2376eb697a4703ebcda511c3275ad763ff67b676138b4ea0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako1598",
+   "path": "zakon/2000/zako1598",
+   "short": "ZPLD-1",
+   "title": "Zakon o potnih listinah (ZPLD-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1598",
+   "versions": [
+    {
+     "from": "2000-08-05",
+     "units": 41,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8682775",
+     "sha256": "6c81bfb565fc1ea16fe1ed7510eb78c7101da6d2deeb8a110bdb22a100e0e418"
+    },
+    {
+     "from": "2005-11-22",
+     "units": 42,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8059585",
+     "sha256": "dc02dc9b107e457d9fc10f7b59f8bdf5265f171a1c47f1f2e1578c75a8ef10c4"
+    },
+    {
+     "from": "2006-01-10",
+     "units": 42,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8154657",
+     "sha256": "504c229b2e9e7e2205c979f6fb371dd9f69e52c7284f9e3108f86b0efc9adf2b"
+    },
+    {
+     "from": "2008-06-06",
+     "units": 44,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11720567",
+     "sha256": "0fb89ac6e309a75e545babbd69e008d6c8879aeeadb2df94b72cd34968008006"
+    },
+    {
+     "from": "2009-06-16",
+     "units": 46,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10778421",
+     "sha256": "7a1b7d0046f69c573cf8adab48ce1326fc0fbe958c5e1124f9293ba947e57908"
+    },
+    {
+     "from": "2011-03-05",
+     "units": 46,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11430116",
+     "sha256": "d1187c46d90dbce26ae3f93f667b3be88bdf4168ce0d82e190760aed375958ae"
+    },
+    {
+     "from": "2011-04-18",
+     "units": 46,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11303165",
+     "sha256": "121d79a64f57f81ee99ab625b3c90a5ead85b9eb40c836853244425c553780c7"
+    },
+    {
+     "from": "2025-01-11",
+     "units": 46,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/192131569",
+     "sha256": "1a2daea1b33235eeb951e675e9192ede4c5228d34641413c5c71bc0719c53480"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1598",
+     "sha256": "e5c14b9cbf2d48dc34f7de5370c43ae96c049b48fa7b81ef77caaf786d1f05c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako1615",
+   "path": "zakon/2000/zako1615",
+   "short": "ZMer-1",
+   "title": "Zakon o meroslovju (ZMer-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1615",
+   "versions": [
+    {
+     "from": "2000-03-25",
+     "units": 34,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8734195",
+     "sha256": "e53ad56509e64892dd12939bae99f7ade5558581bda8d293556ff576d424b387"
+    },
+    {
+     "from": "2004-08-20",
+     "units": 32,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8443920",
+     "sha256": "9b10fd6ecb38c9f591e214d24d28f84f929487a7dd2c7a6290efcc5f5cc85f0a"
+    },
+    {
+     "from": "2005-03-15",
+     "units": 32,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8414437",
+     "sha256": "a78e593a510e1d335bbc9eff8fe1fc7c4fc778f9865436ed58ea86877d363b93"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako1622",
+   "path": "zakon/2000/zako1622",
+   "short": "ZOSRL",
+   "title": "Zakon o obligacijskih in stvarnopravnih razmerjih v letalstvu (ZOSRL)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1622",
+   "versions": [
+    {
+     "from": "2000-02-26",
+     "units": 220,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8766578",
+     "sha256": "744e721573d56e7a871794dc412d62f150ffeb881be8f167d106cfe83578fdcd"
+    },
+    {
+     "from": "2002-08-10",
+     "units": 219,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7837970",
+     "sha256": "703dd8bb8eda1304ddf4023017f29741b381a21f278324a13cda90d8d6d88798"
+    },
+    {
+     "from": "2007-10-25",
+     "units": 219,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8603284",
+     "sha256": "7bce825fcc1c5cc23a0cfbd0b844ad953d0d9383c0c15238aeaa7c264aa7398d"
+    },
+    {
+     "from": "2011-02-26",
+     "units": 219,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11549978",
+     "sha256": "1a1887752afc4244baf6b47de33e60fb338871df86eca4623e36c076d953d8b0"
+    },
+    {
+     "from": "2011-04-13",
+     "units": 221,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11302176",
+     "sha256": "c095ca51b181ba072d7d6a450bd21cb378f6b2aab33c7ec8353c30ee5803f1f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako1649",
+   "path": "zakon/2000/zako1649",
+   "short": "ZPFOPIZ",
+   "title": "Zakon o poračunavanju finančnih obveznosti Republike Slovenije iz pokojninskega in invalidskega zavarovanja (ZPFOPIZ)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1649",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 19,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8847108",
+     "sha256": "ef7f3afabc508fcfd18da7e6fbc0eac755701ba51aa4f641c997cce20da298d5"
+    },
+    {
+     "from": "2010-08-10",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10684168",
+     "sha256": "4dccc6170f266c3194c82370d25474b0db33d9194407464b3c287c10273d16de"
+    },
+    {
+     "from": "2016-02-20",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1649",
+     "sha256": "47d070a870f79e00134efdb3419f2b4b88f45913e75427b693b7c89f3aa79f58"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-zako1660",
+   "path": "zakon/2000/zako1660",
+   "short": "ZGPro",
+   "title": "Zakon o gradbenih proizvodih (ZGPro)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1660",
+   "versions": [
+    {
+     "from": "2000-06-28",
+     "units": 42,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8885132",
+     "sha256": "408e7f217ad41abf22b5f6d2e22f4b93884ca3940f78713660998dd507a8c050"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 36,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8542956",
+     "sha256": "fcf9f9a57113287f70a67bd1a3a8cdaabc3e5cd55af595d6e34edd701c20d763"
+    },
+    {
+     "from": "2013-10-23",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1660",
+     "sha256": "81d97c245375309c9a50cd095d3b1454b796ecb02846880c50d3b76caf3ae90f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako1596",
+   "path": "zakon/2001/zako1596",
+   "short": "ZPPreb",
+   "title": "Zakon o prijavi prebivališča (ZPPreb)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1596",
+   "versions": [
+    {
+     "from": "2001-02-24",
+     "units": 31,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8682307",
+     "sha256": "3284db3261c4e4ef15bb05d1dc7ef75410196011453aacbdf64bef556996d1b6"
+    },
+    {
+     "from": "2006-04-28",
+     "units": 28,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8554916",
+     "sha256": "e0f128f42f04c7d0695e595b38ccaf1f59230338fd35d15f830d80ff412e4b76"
+    },
+    {
+     "from": "2006-06-08",
+     "units": 28,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11238427",
+     "sha256": "5af48c5de3ece27b99c46f12471d80d20945f64b37c64eadb5d2ff187e5df17b"
+    },
+    {
+     "from": "2007-12-20",
+     "units": 35,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11401332",
+     "sha256": "ba555ff72ef9e9a90734fe708ee381b19cdd9ed8477ba04a4a37e1d23d4a8485"
+    },
+    {
+     "from": "2016-08-13",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1596",
+     "sha256": "62a8e2f0b66cefe58c41478a6de410146688db89026a19eadb744e08b6d561ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako1620",
+   "path": "zakon/2001/zako1620",
+   "short": "ZLet",
+   "title": "Zakon o letalstvu (ZLet)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1620",
+   "versions": [
+    {
+     "from": "2001-04-13",
+     "units": 227,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8764703",
+     "sha256": "83d49624b1f94c5f1383264d317fbf1583e150dee30152d0b668d0017974a36a"
+    },
+    {
+     "from": "2006-05-27",
+     "units": 201,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8125115",
+     "sha256": "e46a0bfbb6f54cc04d5727b3587be613f1698e32d28e626eea26f9441af0b83e"
+    },
+    {
+     "from": "2006-08-11",
+     "units": 208,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8037394",
+     "sha256": "fe26adf5715166c84636c88290c238828636e9483a70170eaa043efd3f990144"
+    },
+    {
+     "from": "2006-11-06",
+     "units": 208,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11575095",
+     "sha256": "27a1f59e5edf35bd864c26a92540205259bedd68a6053e3f82765005d90edd52"
+    },
+    {
+     "from": "2009-05-15",
+     "units": 208,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10645792",
+     "sha256": "c94450ee49d05097fd314b03e86cd2f510a635e47235aff0e7f7709719175574"
+    },
+    {
+     "from": "2010-01-12",
+     "units": 208,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10948677",
+     "sha256": "55e4ed118669aa90a7c12b182f851b64be28c5c38f82646c8a0e0207044fc8ad"
+    },
+    {
+     "from": "2010-08-14",
+     "units": 232,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10958822",
+     "sha256": "f556b12487310fee0a7d02253d5d759b21f02d5112f6a9bda3b17650e99f9f0e"
+    },
+    {
+     "from": "2010-10-15",
+     "units": 232,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11609147",
+     "sha256": "21f8eba408dcb4f4117fa126885100e0d0fc21a71113081689ce1c3115a24c9f"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 233,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10585734",
+     "sha256": "dbbb4b3f56e6345ef36c09073de33e60defd7f3199b2f1e3b97880631712b9ca"
+    },
+    {
+     "from": "2019-08-10",
+     "units": 237,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/19440301",
+     "sha256": "f5b6ad381f3f1736a0027d583ef293f6cd8123a94056b65c8d9a47302f4cfb6c"
+    },
+    {
+     "from": "2023-02-14",
+     "units": 238,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10053091",
+     "sha256": "f92d17c461c9851e6be441277fa8194d3de062de456b62c5126a4d2c22e6f2c9"
+    },
+    {
+     "from": "2025-04-05",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1620",
+     "sha256": "8b60f076a99803fbb4529fb0c0a12cb645cad6fcb377be6d546db9111c2b28de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako1656",
+   "path": "zakon/2001/zako1656",
+   "short": "ZASP-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o avtorski in sorodnih pravicah (ZASP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1656",
+   "versions": [
+    {
+     "from": "2001-02-24",
+     "units": 49,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465641504",
+     "sha256": "fc8e31adea593274f26839e8457c0f7f741f732f647c097f9322941d3407748b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-zako1669",
+   "path": "zakon/2001/zako1669",
+   "short": "ZCUKPIL",
+   "title": "Zakon o carinskih ukrepih pri kršitvah pravic intelektualne lastnine (ZCUKPIL)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1669",
+   "versions": [
+    {
+     "from": "2001-05-11",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465647047",
+     "sha256": "a1a64d3f57f548474ebbd6a3db1ca852dd25ef641ad96905010f0c1c1433523e"
+    },
+    {
+     "from": "2004-05-01",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1669",
+     "sha256": "de18ba9c552b295e6aeece16a52aa8ad8a10ee6e235f9cbc179363c50c1edf6e"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2002-zako1343",
    "path": "zakon/2002/zako1343",
    "short": "ZMinG",
@@ -5921,6 +6551,156 @@
    ]
   },
   {
+   "slug": "zakon-2002-zako1393",
+   "path": "zakon/2002/zako1393",
+   "short": "ZOUTI-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov (ZOUTI-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1393",
+   "versions": [
+    {
+     "from": "2003-01-29",
+     "units": 29,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465663871",
+     "sha256": "3bb10ae073a20d699986111cb7b542f7dbde369dbe9173afc0055de61df3aed1"
+    },
+    {
+     "from": "2017-03-11",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1393",
+     "sha256": "20bc45555a708497cc5527023a74cec9bf34a1f256d0bfec236a4cd1c9366db1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako1408",
+   "path": "zakon/2002/zako1408",
+   "short": "ZVPot-A",
+   "title": "Zakon o spremembah in dopolnitvah zakona o varstvu potrošnikov (ZVPot-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1408",
+   "versions": [
+    {
+     "from": "2003-01-17",
+     "units": 87,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465666454",
+     "sha256": "7d66148fec96232df610a68f6366c42f937144789aaae648a0ab2b857ff29846"
+    },
+    {
+     "from": "2022-10-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1408",
+     "sha256": "fe1962c20ce5a75eb551ecf0f6b7d214a641c99c6db5296f3589623202895d69"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako1544",
+   "path": "zakon/2002/zako1544",
+   "short": "ZVISJV",
+   "title": "Zakon o varstvu pred ionizirajočimi sevanji in jedrski varnosti (ZVISJV)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1544",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 147,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9230919",
+     "sha256": "e03f5c65e41320a767121d6211f0208229e1d402f48958f755f78db8f278fc45"
+    },
+    {
+     "from": "2003-03-22",
+     "units": 142,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7875999",
+     "sha256": "ac72be76982ac041d792ec79676d941ee868266a0a4c11ffd0cbf16182c0dccc"
+    },
+    {
+     "from": "2003-05-29",
+     "units": 142,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7972590",
+     "sha256": "5d6f60f175375ffc9fd843e251d1206b4aa4d832f81be93f1aea28cbe689f9fc"
+    },
+    {
+     "from": "2004-05-01",
+     "units": 144,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8362489",
+     "sha256": "a7fb6ce90f85755b1169d58d66491a5708ed98281f06197ee9bd44ba81a9244b"
+    },
+    {
+     "from": "2004-09-21",
+     "units": 144,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7992089",
+     "sha256": "3f49d473f33a1bcf4347ae2879d38c22ba6abd6e47c588a27ae89ecea009b03f"
+    },
+    {
+     "from": "2008-07-26",
+     "units": 145,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11625854",
+     "sha256": "6cccafa9cb561d9fe9673fafea284142cdef9f59ea989e3eaa13dbe60f67bf8c"
+    },
+    {
+     "from": "2011-08-13",
+     "units": 160,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11992017",
+     "sha256": "a1bae27012cf5aad90ae91ffa91a24bbe6862a94846257773f05e8edc9428a43"
+    },
+    {
+     "from": "2015-10-17",
+     "units": 172,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/9301952",
+     "sha256": "70d23c7ffd7f0bf9b7b7d699a9604b9bf18639a2c13c98c39cdb02f4f89e3102"
+    },
+    {
+     "from": "2018-01-06",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1544",
+     "sha256": "58410eac8f3522cca3bfcb1437586e965460c58191d84896f228ac3da172a2b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-zako1581",
+   "path": "zakon/2002/zako1581",
+   "short": "ZUreP-1",
+   "title": "Zakon o urejanju prostora (ZUreP-1)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1581",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 193,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8641122",
+     "sha256": "ad9b9dbc02ecbe53022f460f59fa7806f9fc545b8ea73c51792ad1c6821ce0ce"
+    },
+    {
+     "from": "2003-09-16",
+     "units": 192,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7882363",
+     "sha256": "1078e82b3f8ff5f495e941fe1fecc31981bb8f33aa81c77d3983bc4c53fa587e"
+    },
+    {
+     "from": "2007-04-28",
+     "units": 192,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/7899227",
+     "sha256": "6b9183c26ccab857b9b56df3d90b33cbdc765e5a9bd1527b6488db92fe98368a"
+    },
+    {
+     "from": "2010-01-12",
+     "units": 192,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11820983",
+     "sha256": "6dd4028a1851f511def868fe30637fd5e93aacd6e2ced28b121a9b99f5632dfd"
+    },
+    {
+     "from": "2010-10-27",
+     "units": 173,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11329119",
+     "sha256": "c50664551d118df700ae9d8b3955343de72ac6d553c77f8c8a9b0899cd8bbbf1"
+    },
+    {
+     "from": "2017-11-17",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1581",
+     "sha256": "e142c63289e4dcb628543733bdb0cb1f6514160a06e009bbbd60ce92d9bd89cc"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2004-zako1398",
    "path": "zakon/2004/zako1398",
    "short": "ZZDej-G",
@@ -5938,6 +6718,72 @@
      "units": 0,
      "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1398",
      "sha256": "ba0c48c6c723e9217415211107351202e2dc72c6f1e9d83eae8c0df7195f0d2d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako1577",
+   "path": "zakon/2004/zako1577",
+   "short": "ZSRT",
+   "title": "Zakon o spodbujanju razvoja turizma (ZSRT)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1577",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 58,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/8639472",
+     "sha256": "3a4e1f9fd267d517f2e91a2e401a02ef5229ad6758f00797e3b1ca481111c01b"
+    },
+    {
+     "from": "2012-07-28",
+     "units": 48,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10889294",
+     "sha256": "22d9c78aa9314e80ec2c4f44c589388f7e670624aa74f7ab44faf7a464acc570"
+    },
+    {
+     "from": "2015-03-28",
+     "units": 49,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10345813",
+     "sha256": "d33746b3646e70b6b9900ad466c2b4e85223a48b6058c5e17d4765c1ff3fa68b"
+    },
+    {
+     "from": "2016-08-13",
+     "units": 50,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11687067",
+     "sha256": "a6eab5a430602a1b591b4307a0cc27a7d3faa2dbe754de83a1af8fecf773dd72"
+    },
+    {
+     "from": "2017-06-24",
+     "units": 51,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11120123",
+     "sha256": "14044bf6a83f6ffd629b9cbf654611c1841b33a358ba8e919dfc3f1771412d67"
+    },
+    {
+     "from": "2018-03-15",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1577",
+     "sha256": "60864e2d708ed7e46c6ca31971bef9338c4a2ff437808d5e7b0ee5a671b5af19"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-zako1711",
+   "path": "zakon/2004/zako1711",
+   "short": "ZZZDR-C",
+   "title": "Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih (ZZZDR-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1711",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 53,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465625052",
+     "sha256": "443f245d2dc61abf2b6c88b9b3f467c632aadb97aed258270f26eb4e9c43ef8a"
+    },
+    {
+     "from": "2017-04-15",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO1711",
+     "sha256": "9cfe0c114b2df13f874778f686e179e385090a42bb98484e0472f4253238b31b"
     }
    ]
   }

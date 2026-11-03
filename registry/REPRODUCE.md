@@ -17,21 +17,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 262 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 597 | |
+| 286 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 702 | |
 
-The build made 591 commits:
+The build made 694 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 262 | first version of an act |
-| 147 | one law on its in-force day |
-| 182 | changes no amendment note explains, credited to the publisher |
+| 286 | first version of an act |
+| 208 | one law on its in-force day |
+| 200 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `prihodnje`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 385 laws in the record.
-- 2988 tags.
+- 468 laws in the record.
+- 3172 tags.
 
 ## Dates
 
@@ -43,7 +43,7 @@ When a law gives no date of its own, the default rule applies: Ustava RS, 154. Ä
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `cc9254844d38a22e6e8c8ebbb604170d116f1f7dd48884b13ebd4745357a9658` (4033102 bytes).
+- Corpus: sha256 `9ada137049cd4969e5323b874fc86841ecb790c90906185f4ac62be0bdda0c10` (7358139 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
