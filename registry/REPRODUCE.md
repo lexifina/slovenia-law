@@ -20,21 +20,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 858 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1657 | |
+| 916 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1739 | |
 
-The build made 1644 commits:
+The build made 1726 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 858 | first version of an act |
-| 334 | one law on its in-force day |
-| 452 | changes no amendment note explains, credited to the publisher |
+| 916 | first version of an act |
+| 335 | one law on its in-force day |
+| 475 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `prihodnje`: laws not yet in force on 2026-11-03.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1081 laws in the record.
-- 4729 tags.
+- 1132 laws in the record.
+- 4862 tags.
 
 ## Dates
 
@@ -46,7 +46,7 @@ When a law gives no date of its own, the default rule applies: Ustava RS, 154. Ä
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `68f6db654c2a2a3fd633260fe8dee5ef0a4a40c7b2e0321de0f2b6d7314ab96d` (22060435 bytes).
+- Corpus: sha256 `5fdc9e18545945b46fcb7041e58865611095f305eb018590d4663c10546a8071` (22972245 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

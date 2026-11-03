@@ -1,6 +1,6 @@
 # Every act in this repository
 
-858 acts, 1,657 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+916 acts, 1,739 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## pravilnik (1)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Pravilnik o določitvi zvrsti predmetov kulturne dediščine | [`pravilnik/2000/zako1992/`](pravilnik/2000/zako1992/) | repealed 2011-01-01 | 2 | 2000-09-03 | 2011-01-01 |
 
-## zakon (857, of which 340 amending acts)
+## zakon (915, of which 370 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -866,6 +866,64 @@
 | Zakon o spremembah in dopolnitvah Zakona o javnem naročanju na vodnem, energetskem, transportnem področju in področju poštnih storitev (ZJNVETPS-A) | [`zakon/2008/zako5201/`](zakon/2008/zako5201/) | repealed 2016-04-01 | 2 | 2008-03-01 | 2016-04-01 |
 | Zakon o spremembah in dopolnitvah Zakona o uresničevanju javnega interesa za kulturo (ZUJIK-B) | [`zakon/2008/zako5231/`](zakon/2008/zako5231/) | amending act | 1 | 2008-06-21 | 2008-06-21 |
 | Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti (ZZDej-I) | [`zakon/2008/zako5235/`](zakon/2008/zako5235/) | amending act | 1 | 2008-03-08 | 2008-03-08 |
+| Zakon o spremembah in dopolnitvah Zakona o rudarstvu (ZRud-B) | [`zakon/2008/zako5258/`](zakon/2008/zako5258/) | repealed 2010-08-10 | 2 | 2008-07-23 | 2010-08-10 |
+| Zakon o spremembah in dopolnitvah Zakona o financiranju občin (ZFO-1A) | [`zakon/2008/zako5259/`](zakon/2008/zako5259/) | amending act | 1 | 2008-06-25 | 2008-06-25 |
+| Zakon o spremembah in dopolnitvah Zakona o lokalnih volitvah (ZLV-H) | [`zakon/2008/zako5260/`](zakon/2008/zako5260/) | amending act | 1 | 2008-05-24 | 2008-05-24 |
+| Zakon o spremembah in dopolnitvah Zakona o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti (ZPFOLERD-A) | [`zakon/2008/zako5261/`](zakon/2008/zako5261/) | repealed 2011-05-18 | 2 | 2008-07-15 | 2011-05-18 |
+| Zakon o letni dajatvi za uporabo vozil v cestnem prometu (ZLDUVCP) | [`zakon/2008/zako5262/`](zakon/2008/zako5262/) | repealed 2017-10-14 | 2 | 2008-06-25 | 2017-10-14 |
+| Zakon o spremembah in dopolnitvah Zakona o davku od dohodkov pravnih oseb (ZDDPO-2A) | [`zakon/2008/zako5269/`](zakon/2008/zako5269/) | amending act | 1 | 2008-06-07 | 2008-06-07 |
+| Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-G) | [`zakon/2008/zako5272/`](zakon/2008/zako5272/) | amending act | 1 | 2008-04-26 | 2008-04-26 |
+| Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-H) | [`zakon/2008/zako5275/`](zakon/2008/zako5275/) | amending act | 1 | 2008-02-20 | 2008-02-20 |
+| Zakon o spremembah in dopolnitvah Zakona o gospodarskih družbah (ZGD-1B) | [`zakon/2008/zako5277/`](zakon/2008/zako5277/) | amending act | 1 | 2008-07-23 | 2008-07-23 |
+| Zakon o spremembah in dopolnitvah Zakona o javnih uslužbencih (ZJU-D) | [`zakon/2008/zako5278/`](zakon/2008/zako5278/) | repealed 2025-05-21 | 2 | 2008-07-15 | 2025-05-21 |
+| Zakon o soodločanju delavcev pri čezmejnih združitvah kapitalskih družb (ZSDČZKD) | [`zakon/2008/zako5281/`](zakon/2008/zako5281/) | repealed 2024-04-27 | 2 | 2008-06-07 | 2024-04-27 |
+| Zakon o spremembah in dopolnitvi Zakona o pravnih naslednicah pooblaščenih investicijskih družb (ZPNPID-A) | [`zakon/2008/zako5316/`](zakon/2008/zako5316/) | amending act | 1 | 2008-01-25 | 2008-01-25 |
+| Zakon o spremembi in dopolnitvi Zakona o bančništvu (ZBan-1A) | [`zakon/2008/zako5317/`](zakon/2008/zako5317/) | repealed 2016-06-25 | 2 | 2008-01-05 | 2016-06-25 |
+| Zakon o dopolnitvi Zakona o prevzemih (ZPre-1A) | [`zakon/2008/zako5320/`](zakon/2008/zako5320/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Zakon o spremembah in dopolnitvah Zakona o odgovornosti pravnih oseb za kazniva dejanja (ZOPOKD-B) | [`zakon/2008/zako5325/`](zakon/2008/zako5325/) | amending act | 1 | 2008-11-01 | 2008-11-01 |
+| Zakon o spremembah in dopolnitvah Zakona o zdravilih (ZZdr-1A) | [`zakon/2008/zako5328/`](zakon/2008/zako5328/) | repealed 2014-03-22 | 2 | 2008-05-24 | 2014-03-22 |
+| Zakon o varstvenem dodatku (ZVarDod) | [`zakon/2008/zako5329/`](zakon/2008/zako5329/) | repealed 2010-08-10 | 2 | 2008-02-01 | 2010-08-10 |
+| Zakon o spremembah in dopolnitvah Zakona o zemljiški knjigi (ZZK-1A) | [`zakon/2008/zako5333/`](zakon/2008/zako5333/) | amending act | 1 | 2008-05-24 | 2008-05-24 |
+| Zakon o spremembi Zakona o notariatu (ZN-F) | [`zakon/2008/zako5334/`](zakon/2008/zako5334/) | amending act | 1 | 2008-05-24 | 2008-05-24 |
+| Zakon o spremembah in dopolnitvah Zakona o geodetski dejavnosti (ZGeoD-A) | [`zakon/2008/zako5335/`](zakon/2008/zako5335/) | repealed 2010-10-19 | 2 | 2009-05-01 | 2010-10-19 |
+| Zakon o vzpostavitvi etažne lastnine na predlog pridobitelja posameznega dela stavbe in o določanju pripadajočega zemljišča k stavbi (ZVEtL) | [`zakon/2008/zako5336/`](zakon/2008/zako5336/) | repealed 2017-07-19 | 3 | 2008-05-24 | 2017-07-19 |
+| Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-C) | [`zakon/2008/zako5340/`](zakon/2008/zako5340/) | repealed 2014-04-29 | 2 | 2008-01-31 | 2014-04-29 |
+| Zakon o subvencioniranju dijaške prehrane (ZSDijP) | [`zakon/2008/zako5341/`](zakon/2008/zako5341/) | repealed 2010-06-15 | 2 | 2008-05-24 | 2010-06-15 |
+| Zakon o spremembi in dopolnitvah Zakona o splošnem upravnem postopku (ZUP-F) | [`zakon/2008/zako5364/`](zakon/2008/zako5364/) | amending act | 1 | 2008-07-15 | 2008-07-15 |
+| Zakon o dopolnitvi Zakona o določitvi minimalne plače (ZDMP-A) | [`zakon/2008/zako5365/`](zakon/2008/zako5365/) | repealed 2010-02-23 | 2 | 2008-04-12 | 2010-02-23 |
+| Zakon o spremembah in dopolnitvah Zakona o investicijah v javne zdravstvene zavode, katerih ustanovitelj je Republika Slovenija, za obdobje 1994-2008 (ZIJZ-C) | [`zakon/2008/zako5367/`](zakon/2008/zako5367/) | repealed 2015-11-28 | 2 | 2008-08-09 | 2015-11-28 |
+| Zakon o spremembah in dopolnitvah Zakona o prevzemih (ZPre-1B) | [`zakon/2008/zako5369/`](zakon/2008/zako5369/) | amending act | 1 | 2008-07-09 | 2008-07-09 |
+| Zakon o spremembah in dopolnitvah Zakona o javnih cestah (ZJC-C) | [`zakon/2008/zako5371/`](zakon/2008/zako5371/) | amending act | 1 | 2008-05-10 | 2008-05-10 |
+| Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-I) | [`zakon/2008/zako5380/`](zakon/2008/zako5380/) | amending act | 1 | 2008-06-11 | 2008-06-11 |
+| Zakon o spremembah in dopolnitvah Zakona o sodnem registru (ZSReg-D) | [`zakon/2008/zako5381/`](zakon/2008/zako5381/) | amending act | 1 | 2008-07-15 | 2008-07-15 |
+| Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje (ZISDU-1C) | [`zakon/2008/zako5384/`](zakon/2008/zako5384/) | repealed 2011-11-02 | 2 | 2008-07-01 | 2011-11-02 |
+| Zakon o spremembah in dopolnitvah Zakona o zagotavljanju sredstev za nekatere nujne programe Republike Slovenije v kulturi (ZSNNPK-B) | [`zakon/2008/zako5392/`](zakon/2008/zako5392/) | repealed 2022-01-22 | 2 | 2008-08-12 | 2022-01-22 |
+| Zakon o enkratnem pokojninskem dodatku (ZEPokDod) | [`zakon/2008/zako5393/`](zakon/2008/zako5393/) | repealed 2022-01-22 | 2 | 2008-07-09 | 2022-01-22 |
+| Zakon o dopolnitvi Zakona o lokalni samoupravi (ZLS-O) | [`zakon/2008/zako5396/`](zakon/2008/zako5396/) | in force | 1 | 2008-08-09 | 2008-08-09 |
+| Zakon o spremembah in dopolnitvah Zakona o trgu finančnih instrumentov (ZTFI-A) | [`zakon/2008/zako5397/`](zakon/2008/zako5397/) | amending act | 1 | 2008-07-09 | 2008-07-09 |
+| Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu (ZZavar-E) | [`zakon/2008/zako5398/`](zakon/2008/zako5398/) | repealed 2015-12-22 | 2 | 2008-07-09 | 2015-12-22 |
+| Zakon o spremembi in dopolnitvi Zakona o avtorski in sorodnih pravicah (ZASP-E) | [`zakon/2008/zako5399/`](zakon/2008/zako5399/) | amending act | 1 | 2008-07-23 | 2008-07-23 |
+| Zakon o spremembi Zakona o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji (ZUTPG-A) | [`zakon/2008/zako5402/`](zakon/2008/zako5402/) | amending act | 1 | 2008-07-15 | 2008-07-15 |
+| Zakon o dopolnitvah Zakona o davku od dohodkov pravnih oseb (ZDDPO-2B) | [`zakon/2008/zako5406/`](zakon/2008/zako5406/) | in force | 1 | 2008-07-26 | 2008-07-26 |
+| Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-J) | [`zakon/2008/zako5417/`](zakon/2008/zako5417/) | amending act | 1 | 2008-08-09 | 2008-08-09 |
+| Zakon o dopolnitvah Zakona o prevozih v cestnem prometu (ZPCP-2A) | [`zakon/2008/zako5421/`](zakon/2008/zako5421/) | in force | 1 | 2008-12-30 | 2008-12-30 |
+| Zakon o spremembah in dopolnitvah Zakona o bančništvu (ZBan-1B) | [`zakon/2008/zako5426/`](zakon/2008/zako5426/) | repealed 2016-06-25 | 2 | 2008-11-20 | 2016-06-25 |
+| Zakon o spremembi in dopolnitvah Zakona o javnih financah (ZJF-D) | [`zakon/2008/zako5427/`](zakon/2008/zako5427/) | amending act | 1 | 2008-11-20 | 2008-11-20 |
+| Zakon o spremembah Zakona o dohodnini (ZDoh-2C) | [`zakon/2008/zako5430/`](zakon/2008/zako5430/) | amending act | 1 | 2008-12-31 | 2008-12-31 |
+| Zakon o dopolnitvi Zakona o Vladi Republike Slovenije (ZVRS-E) | [`zakon/2008/zako5431/`](zakon/2008/zako5431/) | in force | 1 | 2008-11-20 | 2008-11-20 |
+| Zakon o spremembi Zakona o poslancih (ZPos-C) | [`zakon/2008/zako5432/`](zakon/2008/zako5432/) | amending act | 1 | 2008-11-20 | 2008-11-20 |
+| Zakon o spremembi in dopolnitvi Zakona o varstvu kulturne dediščine (ZVKD-1A) | [`zakon/2008/zako5433/`](zakon/2008/zako5433/) | amending act | 1 | 2008-12-30 | 2008-12-30 |
+| Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-1B) | [`zakon/2009/zako5377/`](zakon/2009/zako5377/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
+| Zakon o spremembah in dopolnitvah Zakona o plačilu odškodnine žrtvam vojnega in povojnega nasilja (ZSPOZ-C) | [`zakon/2009/zako5395/`](zakon/2009/zako5395/) | amending act | 1 | 2009-04-07 | 2009-04-07 |
+| Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin (ZSMKR-B) | [`zakon/2009/zako5409/`](zakon/2009/zako5409/) | amending act | 1 | 2009-06-16 | 2009-06-16 |
+| Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1A) | [`zakon/2009/zako5420/`](zakon/2009/zako5420/) | repealed 2022-10-26 | 2 | 2009-06-13 | 2022-10-26 |
+| Zakon o spremembah in dopolnitvah Zakona o trgu finančnih instrumentov (ZTFI-B) | [`zakon/2009/zako5422/`](zakon/2009/zako5422/) | amending act | 1 | 2009-06-13 | 2009-06-13 |
+| Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu (ZZavar-F) | [`zakon/2009/zako5423/`](zakon/2009/zako5423/) | repealed 2015-12-22 | 2 | 2009-03-28 | 2015-12-22 |
+| Zakon o spremembah in dopolnitvah Zakona o bančništvu (ZBan-1C) | [`zakon/2009/zako5424/`](zakon/2009/zako5424/) | repealed 2016-06-25 | 2 | 2009-03-28 | 2016-06-25 |
+| Zakon o spremembah in dopolnitvah Zakona o odpravljanju posledic dela z azbestom (ZOPDA-B) | [`zakon/2009/zako5428/`](zakon/2009/zako5428/) | amending act | 1 | 2009-07-18 | 2009-07-18 |
+| Zakon o spremembah Zakona o zemljiški knjigi (ZZK-1B) | [`zakon/2009/zako5440/`](zakon/2009/zako5440/) | amending act | 1 | 2009-04-25 | 2009-04-25 |
+| Zakon o spremembah in dopolnitvah Zakona o sodnem registru (ZSReg-E) | [`zakon/2009/zako5441/`](zakon/2009/zako5441/) | amending act | 1 | 2009-07-14 | 2009-07-14 |
 | Zakon o spremembah in dopolnitvah Zakona o Skladu kmetijskih zemljišč in gozdov Republike Slovenije (ZSKZ-B) | [`zakon/2010/zako3544/`](zakon/2010/zako3544/) | amending act | 1 | 2010-02-20 | 2010-02-20 |
 | Zakon o spremembah in dopolnitvah Zakona o igrah na srečo (ZIS-C) | [`zakon/2010/zako5013/`](zakon/2010/zako5013/) | amending act | 1 | 2010-02-27 | 2010-02-27 |
 | Zakon o spremembah in dopolnitvah Zakona o ravnanju z gensko spremenjenimi organizmi (ZRGSO-B) | [`zakon/2010/zako5036/`](zakon/2010/zako5036/) | amending act | 1 | 2010-03-30 | 2010-03-30 |
+| Zakon o spremembah in dopolnitvah Zakona o davku na motorna vozila (ZDMV-C) | [`zakon/2010/zako5368/`](zakon/2010/zako5368/) | repealed 2020-12-30 | 2 | 2010-02-24 | 2020-12-30 |

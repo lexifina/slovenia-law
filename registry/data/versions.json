@@ -17600,6 +17600,999 @@
    ]
   },
   {
+   "slug": "zakon-2008-zako5258",
+   "path": "zakon/2008/zako5258",
+   "short": "ZRud-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu (ZRud-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5258",
+   "versions": [
+    {
+     "from": "2008-07-23",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468473083",
+     "sha256": "ff528b2b9283ab037cd429107744ad97672f4a2823f5f08be2feb6fe855050b2"
+    },
+    {
+     "from": "2010-08-10",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5258",
+     "sha256": "66b9dec43bf5d24242f60b6317f7d06418d50a002ba62b77b8df88fe3e845ac2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5259",
+   "path": "zakon/2008/zako5259",
+   "short": "ZFO-1A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o financiranju občin (ZFO-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5259",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465724679",
+     "sha256": "4bd907f9ed343c33545f562ead1910160791c0528b5c576c0a0134c23c6decb1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5260",
+   "path": "zakon/2008/zako5260",
+   "short": "ZLV-H",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o lokalnih volitvah (ZLV-H)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5260",
+   "versions": [
+    {
+     "from": "2008-05-24",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468473187",
+     "sha256": "ebc01857e76eabd0723e43f3e65630ce057aba902402a54fca2387bf11641b51"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5261",
+   "path": "zakon/2008/zako5261",
+   "short": "ZPFOLERD-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti (ZPFOLERD-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5261",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465724895",
+     "sha256": "9ea003ed2bd7a52fd49f894317fdc85bcfb6f657ecbd20ebc5ef7c20e93010a3"
+    },
+    {
+     "from": "2011-05-18",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5261",
+     "sha256": "81412c4db54f0defb756f7407f6ea4c4fd91d3f9a13a2f9549a9dc8e8c36cd8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5262",
+   "path": "zakon/2008/zako5262",
+   "short": "ZLDUVCP",
+   "title": "Zakon o letni dajatvi za uporabo vozil v cestnem prometu (ZLDUVCP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5262",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 20,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/30072478",
+     "sha256": "567fc5024f346aaf81c07d920cbfff2e8b7ffd2df2e234018d9f1f32d78c1797"
+    },
+    {
+     "from": "2017-10-14",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5262",
+     "sha256": "49ec765e6998cf22137f2ea83a78ef8ae2f1b10e442c9dabd4b26d28f85eaeb9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5269",
+   "path": "zakon/2008/zako5269",
+   "short": "ZDDPO-2A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o davku od dohodkov pravnih oseb (ZDDPO-2A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5269",
+   "versions": [
+    {
+     "from": "2008-06-07",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465737574",
+     "sha256": "599ecf5d1a74ff75a96295602bbcdc1de91be7d123b2ca759c9aed3913441dd7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5272",
+   "path": "zakon/2008/zako5272",
+   "short": "ZOFVI-G",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-G)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5272",
+   "versions": [
+    {
+     "from": "2008-04-26",
+     "units": 47,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468473430",
+     "sha256": "391efca6d13c0f2af0156c0b18eccba059d05840ec06dc21a5ff54286bfff051"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5275",
+   "path": "zakon/2008/zako5275",
+   "short": "ZSPJS-H",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-H)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5275",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465737624",
+     "sha256": "e8c834f8bdadfa7b78b6bd55afd3da06930fdd88c9e7745a9866b60d8c1fd734"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5277",
+   "path": "zakon/2008/zako5277",
+   "short": "ZGD-1B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o gospodarskih družbah (ZGD-1B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5277",
+   "versions": [
+    {
+     "from": "2008-07-23",
+     "units": 55,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465737659",
+     "sha256": "2f79c437e2775d707bb82060529149f007a019c95156078cd0ea1f65e43825ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5278",
+   "path": "zakon/2008/zako5278",
+   "short": "ZJU-D",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o javnih uslužbencih (ZJU-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5278",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 44,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468473725",
+     "sha256": "3f90a8988a44d2d308b1199ffb3ec259947b126a7959d870eab500fd7f065df3"
+    },
+    {
+     "from": "2025-05-21",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5278",
+     "sha256": "f68026d6e50f4c7e3feb47849798d9be2c5b0df95b8f8e3721f8ad0e0585fc6f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5281",
+   "path": "zakon/2008/zako5281",
+   "short": "ZSDČZKD",
+   "title": "Zakon o soodločanju delavcev pri čezmejnih združitvah kapitalskih družb (ZSDČZKD)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5281",
+   "versions": [
+    {
+     "from": "2008-06-07",
+     "units": 32,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10868774",
+     "sha256": "b3d7c7ae837ef5a4d2338ee10bda39f4695570ae50ef0966c92445fe8daed43a"
+    },
+    {
+     "from": "2024-04-27",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5281",
+     "sha256": "a6ea5a2d95a7c3b4f1e8ad852a025e8a87a3d82847af112fb7b1fcee8bcfb29b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5316",
+   "path": "zakon/2008/zako5316",
+   "short": "ZPNPID-A",
+   "title": "Zakon o spremembah in dopolnitvi Zakona o pravnih naslednicah pooblaščenih investicijskih družb (ZPNPID-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5316",
+   "versions": [
+    {
+     "from": "2008-01-25",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468659265",
+     "sha256": "82e66acfe48a8aec6f270e4f2c2798073f04a46f7a8331eeca2d72a3e0f51abd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5317",
+   "path": "zakon/2008/zako5317",
+   "short": "ZBan-1A",
+   "title": "Zakon o spremembi in dopolnitvi Zakona o bančništvu (ZBan-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5317",
+   "versions": [
+    {
+     "from": "2008-01-05",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465877529",
+     "sha256": "8161eb4421865b9d5638a9101b6a8d104db5b81d3dd96af178a07dbf03035cb1"
+    },
+    {
+     "from": "2016-06-25",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5317",
+     "sha256": "e5fb7117d25bf516c9bd97a17b17e95eeaae5832eaae71d9b716e076ceefa2af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5320",
+   "path": "zakon/2008/zako5320",
+   "short": "ZPre-1A",
+   "title": "Zakon o dopolnitvi Zakona o prevzemih (ZPre-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5320",
+   "versions": [
+    {
+     "from": "2008-01-05",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465877561",
+     "sha256": "1f80f044643a2ed088e517179c877bb400dd1a073d6c7bd8139cf2fe6ebe7c1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5325",
+   "path": "zakon/2008/zako5325",
+   "short": "ZOPOKD-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o odgovornosti pravnih oseb za kazniva dejanja (ZOPOKD-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5325",
+   "versions": [
+    {
+     "from": "2008-11-01",
+     "units": 25,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465877795",
+     "sha256": "ec2dfd17583d78df8a7b5f7622ef24fb0ca02c1871e71c68dd173ad2c6b2a466"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5328",
+   "path": "zakon/2008/zako5328",
+   "short": "ZZdr-1A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o zdravilih (ZZdr-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5328",
+   "versions": [
+    {
+     "from": "2008-05-24",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468659631",
+     "sha256": "ccab2d6f9e853cd12739e102a3c1084d7113b45c1ccea1da8319662d63fcbdae"
+    },
+    {
+     "from": "2014-03-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5328",
+     "sha256": "a78d8733984ea675d7e7476692035484eda434ae443e8e40ef75eff786f50ffb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5329",
+   "path": "zakon/2008/zako5329",
+   "short": "ZVarDod",
+   "title": "Zakon o varstvenem dodatku (ZVarDod)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5329",
+   "versions": [
+    {
+     "from": "2008-02-01",
+     "units": 30,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465886958",
+     "sha256": "32f4df9c243de079aae3ea2c71567c1d1d229e98d3f5f7dda833a050d7781e80"
+    },
+    {
+     "from": "2010-08-10",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5329",
+     "sha256": "c91cac267876faf542eabb862fd293115492c831a6809c386ec1b03cd786a682"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5333",
+   "path": "zakon/2008/zako5333",
+   "short": "ZZK-1A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o zemljiški knjigi (ZZK-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5333",
+   "versions": [
+    {
+     "from": "2008-05-24",
+     "units": 42,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468659720",
+     "sha256": "0257b29cbbebc85bab8ff9c6f711a4203c4ee6b3b49b36c5fe4d40c8f90278f1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5334",
+   "path": "zakon/2008/zako5334",
+   "short": "ZN-F",
+   "title": "Zakon o spremembi Zakona o notariatu (ZN-F)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5334",
+   "versions": [
+    {
+     "from": "2008-05-24",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465887105",
+     "sha256": "bab48be00b3eab0a1105e4d02cde32e27a0c5a789cb46ef2b8f56fd30ea44be3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5335",
+   "path": "zakon/2008/zako5335",
+   "short": "ZGeoD-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o geodetski dejavnosti (ZGeoD-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5335",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 12,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468659852",
+     "sha256": "490746951d825cda0a396dbe111704b1d69e1ddfae8bbe3c638ca9d8c638d410"
+    },
+    {
+     "from": "2010-10-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5335",
+     "sha256": "f8afbc8566cc1a04ff58b2f5c33867602426cc7004730812234094e5de90c4f4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5336",
+   "path": "zakon/2008/zako5336",
+   "short": "ZVEtL",
+   "title": "Zakon o vzpostavitvi etažne lastnine na predlog pridobitelja posameznega dela stavbe in o določanju pripadajočega zemljišča k stavbi (ZVEtL)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5336",
+   "versions": [
+    {
+     "from": "2008-05-24",
+     "units": 36,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11656513",
+     "sha256": "548c49276d38cd618ed2b41b1557a241cf4c2cac687309e96d05752e3b9bdb35"
+    },
+    {
+     "from": "2011-08-09",
+     "units": 32,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/11686833",
+     "sha256": "73e7fd852d3b8f3592b5bf1c450f195abe0bb3ef7b1924fc46411387b14bcd9d"
+    },
+    {
+     "from": "2017-07-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5336",
+     "sha256": "71818dcbd93563bdaad14426c1ebeceb82c26e9cde1f4470770c520915f18870"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5340",
+   "path": "zakon/2008/zako5340",
+   "short": "ZSDP-C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5340",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465887133",
+     "sha256": "0081facfa02467b3006de9f4a7a88909925257da86ecc40e59938730792f38f9"
+    },
+    {
+     "from": "2014-04-29",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5340",
+     "sha256": "6f6cd140fbd9b3015628b2ba2e26196ff47ba2763ce689653ab8f6f546e83a60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5341",
+   "path": "zakon/2008/zako5341",
+   "short": "ZSDijP",
+   "title": "Zakon o subvencioniranju dijaške prehrane (ZSDijP)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5341",
+   "versions": [
+    {
+     "from": "2008-05-24",
+     "units": 16,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465887165",
+     "sha256": "34cd98e38fdcb8b006604f18dbd435982d271ada211ed50cd09659bb1c503787"
+    },
+    {
+     "from": "2010-06-15",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5341",
+     "sha256": "abf7bae0d1bacd9ced87289212a55e6d345c4eeab3b0a6888ae36b7dbb7569d7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5364",
+   "path": "zakon/2008/zako5364",
+   "short": "ZUP-F",
+   "title": "Zakon o spremembi in dopolnitvah Zakona o splošnem upravnem postopku (ZUP-F)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5364",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465887399",
+     "sha256": "2d0d6ac9f7e1d93ec41900af835c10b7997f502a9f3bc1c0460540ebc27708d0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5365",
+   "path": "zakon/2008/zako5365",
+   "short": "ZDMP-A",
+   "title": "Zakon o dopolnitvi Zakona o določitvi minimalne plače (ZDMP-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5365",
+   "versions": [
+    {
+     "from": "2008-04-12",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465887431",
+     "sha256": "34186ba809d2b5243096fc57b904aa6de38fe6bfca952f2285f73c91ba8b9b91"
+    },
+    {
+     "from": "2010-02-23",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5365",
+     "sha256": "063d95ffc25c583cb4ddb8fe22881605366a159b8a86e48cf8ff82bc1cf8c10f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5367",
+   "path": "zakon/2008/zako5367",
+   "short": "ZIJZ-C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o investicijah v javne zdravstvene zavode, katerih ustanovitelj je Republika Slovenija, za obdobje 1994-2008 (ZIJZ-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5367",
+   "versions": [
+    {
+     "from": "2008-08-09",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468661915",
+     "sha256": "ad3e5db946fc97c59077ba0fb89206850c4abffd7484a8b2eaddba8540715d25"
+    },
+    {
+     "from": "2015-11-28",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5367",
+     "sha256": "24370091f7e818bf698f3fe19b8668f54eeba496450a36c5c207d3b16e41c677"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5369",
+   "path": "zakon/2008/zako5369",
+   "short": "ZPre-1B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o prevzemih (ZPre-1B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5369",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 10,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/464970448",
+     "sha256": "901e3ba98dcc0508cab14ff92901bb987c6013d9c597a2cc6988c9b93bda4a8a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5371",
+   "path": "zakon/2008/zako5371",
+   "short": "ZJC-C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o javnih cestah (ZJC-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5371",
+   "versions": [
+    {
+     "from": "2008-05-10",
+     "units": 19,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468661952",
+     "sha256": "5e21a43715b39b5b3f0d0425d77160e2134819900dbba22e86b9d812be0335f6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5380",
+   "path": "zakon/2008/zako5380",
+   "short": "ZSPJS-I",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-I)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5380",
+   "versions": [
+    {
+     "from": "2008-06-11",
+     "units": 28,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468662138",
+     "sha256": "7dd03baa7d906942e100b8a97e77730d81b8e502ae93306404a05157a1972db3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5381",
+   "path": "zakon/2008/zako5381",
+   "short": "ZSReg-D",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o sodnem registru (ZSReg-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5381",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 12,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465741302",
+     "sha256": "e333cd82bbdd1a0fefe0893bc0f1a668da6f626acf9f42ae3670a1cc4deb488c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5384",
+   "path": "zakon/2008/zako5384",
+   "short": "ZISDU-1C",
+   "title": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje (ZISDU-1C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5384",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468476643",
+     "sha256": "833560ebb053d37646205ddaa684b0bf3b3feb547800f6c18657cd6594166cee"
+    },
+    {
+     "from": "2011-11-02",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5384",
+     "sha256": "fa46799d88ff11d202f8c51691f42b5a41802a427ff6fd8ad6533660c6949f62"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5392",
+   "path": "zakon/2008/zako5392",
+   "short": "ZSNNPK-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o zagotavljanju sredstev za nekatere nujne programe Republike Slovenije v kulturi (ZSNNPK-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5392",
+   "versions": [
+    {
+     "from": "2008-08-12",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465741503",
+     "sha256": "5ff4baed87a170c35e7a4d583b1a7d2dcb06fa4d67cded8c02001546297ae1c5"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5392",
+     "sha256": "610ad1f4e4718488e2fad7c5241a7e9f903f06ca81e835d1fdbb044d061c02df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5393",
+   "path": "zakon/2008/zako5393",
+   "short": "ZEPokDod",
+   "title": "Zakon o enkratnem pokojninskem dodatku (ZEPokDod)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5393",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/10876731",
+     "sha256": "862550b48f83d8ea2f5e4e85e610729188f0577edee86013dbd1531f9916515a"
+    },
+    {
+     "from": "2022-01-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5393",
+     "sha256": "862f551fc25c0e8ed7c79e2df4a2bf8a2eef4050edf4b9f25c075106f61a7afe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5396",
+   "path": "zakon/2008/zako5396",
+   "short": "ZLS-O",
+   "title": "Zakon o dopolnitvi Zakona o lokalni samoupravi (ZLS-O)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5396",
+   "versions": [
+    {
+     "from": "2008-08-09",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468476763",
+     "sha256": "ac42970619d2a2b98f294042b266b94326515f41275f001beb87e43e45f6ec68"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5397",
+   "path": "zakon/2008/zako5397",
+   "short": "ZTFI-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o trgu finančnih instrumentov (ZTFI-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5397",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 26,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465888090",
+     "sha256": "c1a34435cc3c60494fbeca0e99b233b1c62a032ece35e9622093f1740d82eece"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5398",
+   "path": "zakon/2008/zako5398",
+   "short": "ZZavar-E",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu (ZZavar-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5398",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 13,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468662354",
+     "sha256": "b84ff0c4fb88eb47e88523b7ebd3b357dc1dc7ef565cca9c91ea979304c23e4c"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5398",
+     "sha256": "837064c2822df10f18976e90df69fa76144628d21b83ba9648416496e263b500"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5399",
+   "path": "zakon/2008/zako5399",
+   "short": "ZASP-E",
+   "title": "Zakon o spremembi in dopolnitvi Zakona o avtorski in sorodnih pravicah (ZASP-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5399",
+   "versions": [
+    {
+     "from": "2008-07-23",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465888197",
+     "sha256": "4ccc61d111bec204df7f1e9807bb91448783d12282df049f045d593895821376"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5402",
+   "path": "zakon/2008/zako5402",
+   "short": "ZUTPG-A",
+   "title": "Zakon o spremembi Zakona o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji (ZUTPG-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5402",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465888228",
+     "sha256": "00ce158b3eb9e2d6da1caa9a3ecd64bf1807c58fa62accb9964de1c21e792ee8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5406",
+   "path": "zakon/2008/zako5406",
+   "short": "ZDDPO-2B",
+   "title": "Zakon o dopolnitvah Zakona o davku od dohodkov pravnih oseb (ZDDPO-2B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5406",
+   "versions": [
+    {
+     "from": "2008-07-26",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468662648",
+     "sha256": "84d87b28a40091a6f24c2a9f251ffcd6e02c438957cf833644afbb039df32b1c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5417",
+   "path": "zakon/2008/zako5417",
+   "short": "ZSPJS-J",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o sistemu plač v javnem sektorju (ZSPJS-J)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5417",
+   "versions": [
+    {
+     "from": "2008-08-09",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465741557",
+     "sha256": "01f6ae320c71bd1b40650acb4af83a3e46d63ef0991c8f45c39cfc8314a71f0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5421",
+   "path": "zakon/2008/zako5421",
+   "short": "ZPCP-2A",
+   "title": "Zakon o dopolnitvah Zakona o prevozih v cestnem prometu (ZPCP-2A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5421",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468476792",
+     "sha256": "2273694c263137599542f750f758a1df527fdcf85ad8ad9c392353759ce7d147"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5426",
+   "path": "zakon/2008/zako5426",
+   "short": "ZBan-1B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o bančništvu (ZBan-1B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5426",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465904442",
+     "sha256": "41fed683b738b084927f1237215677b55f4cd61d44fb7ecfe7dcdb85132ef01d"
+    },
+    {
+     "from": "2016-06-25",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5426",
+     "sha256": "8dd08a001430e7ad1bb36d6b8648c24c059f83cd9f02f153beacdc90297d82e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5427",
+   "path": "zakon/2008/zako5427",
+   "short": "ZJF-D",
+   "title": "Zakon o spremembi in dopolnitvah Zakona o javnih financah (ZJF-D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5427",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468664645",
+     "sha256": "3c93834e56570a3085373b0a6e0e6ac1fdde9506784f31caccb6d41145796013"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5430",
+   "path": "zakon/2008/zako5430",
+   "short": "ZDoh-2C",
+   "title": "Zakon o spremembah Zakona o dohodnini (ZDoh-2C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5430",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468664710",
+     "sha256": "07ff8bddc8c0133ea5f8d6fadefe4fa5911dfca438972e13636c648120c77c8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5431",
+   "path": "zakon/2008/zako5431",
+   "short": "ZVRS-E",
+   "title": "Zakon o dopolnitvi Zakona o Vladi Republike Slovenije (ZVRS-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5431",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465904578",
+     "sha256": "9b1c63238925dcb0ba4f7d795d4745fca5e85481a6a40ae9714c265b366ef895"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5432",
+   "path": "zakon/2008/zako5432",
+   "short": "ZPos-C",
+   "title": "Zakon o spremembi Zakona o poslancih (ZPos-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5432",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465904608",
+     "sha256": "6db5a3343d818224b3a9b62d8943f2e382adb1c7ba32f05111e8b4831f88d396"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-zako5433",
+   "path": "zakon/2008/zako5433",
+   "short": "ZVKD-1A",
+   "title": "Zakon o spremembi in dopolnitvi Zakona o varstvu kulturne dediščine (ZVKD-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5433",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468664754",
+     "sha256": "58c0e81e1cadc13ecbfc75f63dd1383e15cb203f2819dc3b5b1fb94cf05cebc7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5377",
+   "path": "zakon/2009/zako5377",
+   "short": "ZDDV-1B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-1B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5377",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 75,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465887620",
+     "sha256": "7ee29d5abd1ea78c8bd20bfa78119842767742d57d0577e48b76e4fa575c618d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5395",
+   "path": "zakon/2009/zako5395",
+   "short": "ZSPOZ-C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o plačilu odškodnine žrtvam vojnega in povojnega nasilja (ZSPOZ-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5395",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 15,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468476673",
+     "sha256": "743f81e4985e6ba0a5bea6e54b010308faad9c01c4a8296901b8ad0f68ae5d74"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5409",
+   "path": "zakon/2009/zako5409",
+   "short": "ZSMKR-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin (ZSMKR-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5409",
+   "versions": [
+    {
+     "from": "2009-06-16",
+     "units": 48,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468662692",
+     "sha256": "c6322944e38b820508749bcba1e6dbd9918efbe4dcf52c5e6f55b17e51e008e1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5420",
+   "path": "zakon/2009/zako5420",
+   "short": "ZPOmK-1A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5420",
+   "versions": [
+    {
+     "from": "2009-06-13",
+     "units": 24,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465741591",
+     "sha256": "2ebbddfe9321d7e27f574a398d30588e34e9d8ed37fa15b8cc94b18105675b47"
+    },
+    {
+     "from": "2022-10-26",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5420",
+     "sha256": "ce448a60838fe95104ba6ee07e444e030e55569fa20f91163b30b0a3e1a2b621"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5422",
+   "path": "zakon/2009/zako5422",
+   "short": "ZTFI-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o trgu finančnih instrumentov (ZTFI-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5422",
+   "versions": [
+    {
+     "from": "2009-06-13",
+     "units": 46,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465903550",
+     "sha256": "00886601ff1e2a63fac0babe16bc2614f1defc934bccc5e1c68a12e9c22c3893"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5423",
+   "path": "zakon/2009/zako5423",
+   "short": "ZZavar-F",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu (ZZavar-F)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5423",
+   "versions": [
+    {
+     "from": "2009-03-28",
+     "units": 55,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468664264",
+     "sha256": "7bf5f83a25998862e37ca55dea570e366c52a54e5f620c996e3d4feafd70ed99"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5423",
+     "sha256": "14b6f6296b9d7a2dd98eaa914c8281f51cf53b354b39d692037cb3d9f59e48c3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5424",
+   "path": "zakon/2009/zako5424",
+   "short": "ZBan-1C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o bančništvu (ZBan-1C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5424",
+   "versions": [
+    {
+     "from": "2009-03-28",
+     "units": 85,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465903799",
+     "sha256": "a439d242d8cfb64486b61ed05e1adfe531393d4c54ce08d11667a67c2aec00c0"
+    },
+    {
+     "from": "2016-06-25",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5424",
+     "sha256": "2cba80af3d16f4cb2903cc630ec2d94b327daf52562fe611c2e005385097d91b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5428",
+   "path": "zakon/2009/zako5428",
+   "short": "ZOPDA-B",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o odpravljanju posledic dela z azbestom (ZOPDA-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5428",
+   "versions": [
+    {
+     "from": "2009-07-18",
+     "units": 16,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465904486",
+     "sha256": "207124e0439249ed604c7eb543edb5cd860949362c889bbaae9509bd22938ac7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5440",
+   "path": "zakon/2009/zako5440",
+   "short": "ZZK-1B",
+   "title": "Zakon o spremembah Zakona o zemljiški knjigi (ZZK-1B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5440",
+   "versions": [
+    {
+     "from": "2009-04-25",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/468476825",
+     "sha256": "a455504e21f0387c5b463fe1ee3c5697cdb849399f63ba63337922597b3c0d80"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-zako5441",
+   "path": "zakon/2009/zako5441",
+   "short": "ZSReg-E",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o sodnem registru (ZSReg-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5441",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465746343",
+     "sha256": "d76e1720cbdbfe57de3339282cf80de45827175e16547b7cd745f4f95c1b50c4"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2010-zako3544",
    "path": "zakon/2010/zako3544",
    "short": "ZSKZ-B",
@@ -17641,6 +18634,27 @@
      "units": 56,
      "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465884778",
      "sha256": "4bfc49f29436c15f43e88731c03b53c8a72e65dcbc73081f09bbd7ad9913b233"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-zako5368",
+   "path": "zakon/2010/zako5368",
+   "short": "ZDMV-C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o davku na motorna vozila (ZDMV-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5368",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/465887462",
+     "sha256": "78474bc2e1febbd7c30eca7332cbd66a20b4e891fbb057cf8350fe3caf0a5831"
+    },
+    {
+     "from": "2020-12-30",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO5368",
+     "sha256": "8a8d5049c10ffb5d0a39ff9350839c4b8b5edb3209510928fdfa75423beb928f"
     }
    ]
   },
