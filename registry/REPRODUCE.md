@@ -23,21 +23,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1829 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 3021 | |
+| 1850 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 3044 | |
 
-The build made 3002 commits:
+The build made 3025 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1829 | first version of an act |
-| 432 | one law on its in-force day |
-| 741 | changes no amendment note explains, credited to the publisher |
+| 1850 | first version of an act |
+| 433 | one law on its in-force day |
+| 742 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `prihodnje`: laws not yet in force on 2026-11-03.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1998 laws in the record.
-- 7008 tags.
+- 2019 laws in the record.
+- 7052 tags.
 
 ## Dates
 
@@ -49,7 +49,7 @@ When a law gives no date of its own, the default rule applies: Ustava RS, 154. Ä
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `3b1d80d48b11659a7c9d1df99a9cc23cfb7234da16cc3c06934bfa16ff58631f` (46282407 bytes).
+- Corpus: sha256 `a0cd29dd4ddc67c90801f3318cda1d069285237b3054aee2e7c783e401e12c2e` (46481813 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

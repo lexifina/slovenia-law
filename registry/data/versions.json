@@ -34352,6 +34352,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-zako8368",
+   "path": "zakon/2021/zako8368",
+   "short": "ZVojI-E",
+   "title": "Zakon o dopolnitvi Zakona o vojnih invalidih (ZVojI-E)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8368",
+   "versions": [
+    {
+     "from": "2021-10-16",
+     "units": 4,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/87416720",
+     "sha256": "8873171a2f2ebd9506da1d0526399459946b7a74c04c118ae75104815bef0b20"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-zako8369",
    "path": "zakon/2021/zako8369",
    "short": "Zakon o dopolnitvi Zakona o žrtvah vojnega nasilja",
@@ -34363,6 +34378,162 @@
      "units": 5,
      "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/87413460",
      "sha256": "4fa21c61d2b5a9ba133fa5bee62aecc2252335b49febd10bfb361cd30afffeac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8370",
+   "path": "zakon/2021/zako8370",
+   "short": "ZPPZV91-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 (ZPPZV91-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8370",
+   "versions": [
+    {
+     "from": "2021-10-16",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/87413485",
+     "sha256": "50168565db1786db32f55b572a71255dcc4f460bc927998f8936e676820541c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8380",
+   "path": "zakon/2021/zako8380",
+   "short": "ZInfV-A",
+   "title": "Zakon o spremembah in dopolnitvi Zakona o informacijski varnosti (ZInfV-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8380",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 17,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/91811440",
+     "sha256": "5fd7c0e812f4bb03ef3c0c68d17eec1e2f05897ab7066fdbd3a0caae73103b38"
+    },
+    {
+     "from": "2025-06-19",
+     "units": 0,
+     "source_url": "https://pisrs.si/api/rezultat/zbirka/id/ZAKO8380",
+     "sha256": "a05194a931ba8641d93a9b58f5e18e0c4c2efa5e124d35c52ed8626d14f80440"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8382",
+   "path": "zakon/2021/zako8382",
+   "short": "ZPIZ-2K",
+   "title": "Zakon o dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2K)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8382",
+   "versions": [
+    {
+     "from": "2021-10-23",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/87395872",
+     "sha256": "4a2255581b73ea291f3ef0014b9085046817b2f2d7dd79d075efa090236db3cf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8384",
+   "path": "zakon/2021/zako8384",
+   "short": "ZOFVI-L",
+   "title": "Zakon o spremembi Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-L)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8384",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/91780298",
+     "sha256": "fa6e7dc1001111da957648fa459a1e44b552b066e1ec2260db1c2ef26a617309"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8398",
+   "path": "zakon/2021/zako8398",
+   "short": "ZDVEDZ-C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o določitvi volilnih enot za volitve poslancev v državni zbor (ZDVEDZ-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8398",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 4,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/91800929",
+     "sha256": "4d22e77b705050dee98ac25fd590ceb8b15bf60b562730ab108b0338a4b7f692"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8400",
+   "path": "zakon/2021/zako8400",
+   "short": "ZFO-1D",
+   "title": "Zakon o spremembah in dopolnitvi Zakona o financiranju občin (ZFO-1D)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8400",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 6,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77516031",
+     "sha256": "69c76696f4124616791e42708ae61d100647c30e2cae7ca9f8aa59d80d2965d3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8427",
+   "path": "zakon/2021/zako8427",
+   "short": "ZOFVI-M",
+   "title": "Zakon o spremembi in dopolnitvi Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-M)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8427",
+   "versions": [
+    {
+     "from": "2021-11-13",
+     "units": 5,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/87318446",
+     "sha256": "fdba878a4df00be6958c667c840f41992ae13023b232f1ab1b2b8fc3e256a0b2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8428",
+   "path": "zakon/2021/zako8428",
+   "short": "MEKPPKZ-B",
+   "title": "Zakon o dopolnitvi Zakona o ratifikaciji Evropske konvencije o medsebojni pravni pomoči v kazenskih zadevah in Dodatnega protokola k Evropski konvenciji o medsebojni pravni pomoči v kazenskih zadevah (MEKPPKZ-B)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8428",
+   "versions": [
+    {
+     "from": "2021-10-02",
+     "units": 3,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/493939099",
+     "sha256": "bea1b9757d33de82a235892b06261ac666e7db5a6776f684708317e8c42300dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8430",
+   "path": "zakon/2021/zako8430",
+   "short": "MKPPKZ-A",
+   "title": "Zakon o dopolnitvi Zakona o ratifikaciji Konvencije o medsebojni pravni pomoči v kazenskih zadevah med državami članicami Evropske unije, ki jo je Svet pripravil na podlagi 34. člena Pogodbe o Evropski uniji (MKPPKZ-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8430",
+   "versions": [
+    {
+     "from": "2021-10-02",
+     "units": 3,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/493939155",
+     "sha256": "77b335a974081389d8cd7e459753146e06527aee767698a06cff04e77858dd76"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-zako8439",
+   "path": "zakon/2021/zako8439",
+   "short": "ZPZRTH-H",
+   "title": "Zakon o dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije (ZPZRTH-H)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8439",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 8,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77524891",
+     "sha256": "736252f7c636b470b3240d39d275d61fee4a764cbcb1bf40efb110b3e285d265"
     }
    ]
   },
@@ -34487,6 +34658,36 @@
    ]
   },
   {
+   "slug": "zakon-2022-zako8362",
+   "path": "zakon/2022/zako8362",
+   "short": "ZDDV-1M",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-1M)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8362",
+   "versions": [
+    {
+     "from": "2022-01-22",
+     "units": 78,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77508735",
+     "sha256": "f8340e8c2b5c88562ec3d6d9868e4895b9624f35cec9e0201eb1868d2f7eceee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8367",
+   "path": "zakon/2022/zako8367",
+   "short": "ZDIJZ-G",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o dostopu do informacij javnega značaja (ZDIJZ-G)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8367",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 14,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77369727",
+     "sha256": "e98126aae2fcef239857d84bb5f273d38596e4f8b68e4bceedc4d1b0cc9f0a9c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-zako8371",
    "path": "zakon/2022/zako8371",
    "short": "ZFU-A",
@@ -34498,6 +34699,132 @@
      "units": 18,
      "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77486883",
      "sha256": "b3db9a333b1bf4275c7b0796a938530ddf6b986d89630da3291b0e6131ce00f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8377",
+   "path": "zakon/2022/zako8377",
+   "short": "ZOUPAMO-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o omejevalnih ukrepih, ki jih Republika Slovenija uvede ali izvaja skladno s pravnimi akti in odločitvami, sprejetimi v okviru mednarodnih organizacij (ZOUPAMO-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8377",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 11,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77470160",
+     "sha256": "794af0d50b2aa471fe5632620b16b6d36cf5f2487561885d3ecdbd57f0c5788b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8388",
+   "path": "zakon/2022/zako8388",
+   "short": "ZPIZ-2L",
+   "title": "Zakon o dopolnitvi Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2L)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8388",
+   "versions": [
+    {
+     "from": "2022-01-22",
+     "units": 4,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77490416",
+     "sha256": "544f24f73e72c6dfaf6a461afe96c133b3fdf03cb169cce7beca520d380046fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8390",
+   "path": "zakon/2022/zako8390",
+   "short": "ZZdrI-C",
+   "title": "Zakon o spremembah Zakona o zdravstveni inšpekciji (ZZdrI-C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8390",
+   "versions": [
+    {
+     "from": "2022-03-05",
+     "units": 7,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/71822783",
+     "sha256": "7c72dbef7baab2d3ea955f4c64f68d0f940f30e53fc73765e60ad53505e41dac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8392",
+   "path": "zakon/2022/zako8392",
+   "short": "ZZVZZ-R",
+   "title": "Zakon o dopolnitvi Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-R)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8392",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 4,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77494125",
+     "sha256": "dc1f5fe96656fae9789691008c0c8762e2ccc35bcb4f1d6acd756c3ee876a057"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8393",
+   "path": "zakon/2022/zako8393",
+   "short": "ZDR-1C",
+   "title": "Zakon o spremembah Zakona o delovnih razmerjih (ZDR-1C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8393",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 4,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77490444",
+     "sha256": "3bc7ba4e54b15774bf4d7e6532d6ca433f85f1c64686778f406873049751d390"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8408",
+   "path": "zakon/2022/zako8408",
+   "short": "ZAgrS-A",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o agrarnih skupnostih (ZAgrS-A)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8408",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 19,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/73124966",
+     "sha256": "662e4a98e509ee2f188f2c634182c475c17dce9d02941afa5f5e9b920b4f82bc"
+    },
+    {
+     "from": "2024-05-08",
+     "units": 18,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/73135396",
+     "sha256": "89688ddac83d7f58d4b67c5ebb359423a33341387f9a9db7f578b831f89c64f4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8409",
+   "path": "zakon/2022/zako8409",
+   "short": "ZJN-3C",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o javnem naročanju (ZJN-3C)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8409",
+   "versions": [
+    {
+     "from": "2022-02-20",
+     "units": 12,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/77490466",
+     "sha256": "78af4b9a0d3a61d810efc0ea6775f966c62f2f3093265d2925bb41951bec43fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-zako8432",
+   "path": "zakon/2022/zako8432",
+   "short": "ZPIZ-2M",
+   "title": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2M)",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO8432",
+   "versions": [
+    {
+     "from": "2022-03-19",
+     "units": 9,
+     "source_url": "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/71810194",
+     "sha256": "406166179a37a9cb4740276072b878fa80b2c12667e00a75087a3a29b42f0a69"
     }
    ]
   },

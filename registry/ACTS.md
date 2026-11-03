@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1829 acts, 3,021 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1850 acts, 3,044 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## pravilnik (1)
 
@@ -20,7 +20,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Uredba o izvajanju začasne premestitve javnih uslužbencev zaradi nujnih delovnih potreb | [`uredba/2020/zako8188/`](uredba/2020/zako8188/) | in force | 1 | 2020-04-24 | 2020-04-24 |
 
-## zakon (1826, of which 945 amending acts)
+## zakon (1847, of which 958 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1838,7 +1838,18 @@
 | Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih (ZNB-C) | [`zakon/2021/zako8352/`](zakon/2021/zako8352/) | amending act | 1 | 2021-05-25 | 2021-05-25 |
 | Zakon o spremembah in dopolnitvah Zakona o trošarinah (ZTro-1B) | [`zakon/2021/zako8356/`](zakon/2021/zako8356/) | amending act | 1 | 2021-12-22 | 2021-12-22 |
 | Zakon o spremembi Zakona o dodatku k pokojnini za delo in izjemne dosežke na področju športa (ZDPIDŠ-A) | [`zakon/2021/zako8357/`](zakon/2021/zako8357/) | amending act | 1 | 2021-08-04 | 2021-08-04 |
+| Zakon o dopolnitvi Zakona o vojnih invalidih (ZVojI-E) | [`zakon/2021/zako8368/`](zakon/2021/zako8368/) | in force | 1 | 2021-10-16 | 2021-10-16 |
 | Zakon o dopolnitvi Zakona o žrtvah vojnega nasilja | [`zakon/2021/zako8369/`](zakon/2021/zako8369/) | in force | 1 | 2021-10-16 | 2021-10-16 |
+| Zakon o spremembah in dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 (ZPPZV91-A) | [`zakon/2021/zako8370/`](zakon/2021/zako8370/) | amending act | 1 | 2021-10-16 | 2021-10-16 |
+| Zakon o spremembah in dopolnitvi Zakona o informacijski varnosti (ZInfV-A) | [`zakon/2021/zako8380/`](zakon/2021/zako8380/) | repealed 2025-06-19 | 2 | 2021-06-16 | 2025-06-19 |
+| Zakon o dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2K) | [`zakon/2021/zako8382/`](zakon/2021/zako8382/) | in force | 1 | 2021-10-23 | 2021-10-23 |
+| Zakon o spremembi Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-L) | [`zakon/2021/zako8384/`](zakon/2021/zako8384/) | amending act | 1 | 2021-08-11 | 2021-08-11 |
+| Zakon o spremembah in dopolnitvah Zakona o določitvi volilnih enot za volitve poslancev v državni zbor (ZDVEDZ-C) | [`zakon/2021/zako8398/`](zakon/2021/zako8398/) | amending act | 1 | 2021-06-16 | 2021-06-16 |
+| Zakon o spremembah in dopolnitvi Zakona o financiranju občin (ZFO-1D) | [`zakon/2021/zako8400/`](zakon/2021/zako8400/) | amending act | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o spremembi in dopolnitvi Zakona o organizaciji in financiranju vzgoje in izobraževanja (ZOFVI-M) | [`zakon/2021/zako8427/`](zakon/2021/zako8427/) | amending act | 1 | 2021-11-13 | 2021-11-13 |
+| Zakon o dopolnitvi Zakona o ratifikaciji Evropske konvencije o medsebojni pravni pomoči v kazenskih zadevah in Dodatnega protokola k Evropski konvenciji o medsebojni pravni pomoči v kazenskih zadevah (MEKPPKZ-B) | [`zakon/2021/zako8428/`](zakon/2021/zako8428/) | in force | 1 | 2021-10-02 | 2021-10-02 |
+| Zakon o dopolnitvi Zakona o ratifikaciji Konvencije o medsebojni pravni pomoči v kazenskih zadevah med državami članicami Evropske unije, ki jo je Svet pripravil na podlagi 34. člena Pogodbe o Evropski uniji (MKPPKZ-A) | [`zakon/2021/zako8430/`](zakon/2021/zako8430/) | in force | 1 | 2021-10-02 | 2021-10-02 |
+| Zakon o dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije (ZPZRTH-H) | [`zakon/2021/zako8439/`](zakon/2021/zako8439/) | in force | 1 | 2022-01-12 | 2022-01-12 |
 | Zakon o spremembah in dopolnitvah Zakona o gasilstvu (ZGas-D) | [`zakon/2022/zako8010/`](zakon/2022/zako8010/) | amending act | 1 | 2022-04-05 | 2022-04-05 |
 | Zakon o spremembah in dopolnitvah Zakona o rudarstvu (ZRud-1D) | [`zakon/2022/zako8085/`](zakon/2022/zako8085/) | amending act | 1 | 2022-05-05 | 2022-05-05 |
 | Zakon o spremembah in dopolnitvah Zakona o kmetijskih zemljiščih (ZKZ-G) | [`zakon/2022/zako8287/`](zakon/2022/zako8287/) | amending act | 1 | 2022-04-13 | 2022-04-13 |
@@ -1847,6 +1858,16 @@
 | Zakon o spremembah in dopolnitvah Zakona o sistemu jamstva za vloge (ZSJV-A) | [`zakon/2022/zako8317/`](zakon/2022/zako8317/) | amending act | 1 | 2022-02-26 | 2022-02-26 |
 | Zakon o spremembah in dopolnitvah Zakona o voznikih (ZVoz-1D) | [`zakon/2022/zako8340/`](zakon/2022/zako8340/) | amending act | 1 | 2022-03-26 | 2022-03-26 |
 | Zakon o spremembah in dopolnitvah Zakona o dohodnini (ZDoh-2Z) | [`zakon/2022/zako8361/`](zakon/2022/zako8361/) | amending act | 1 | 2022-03-22 | 2022-03-22 |
+| Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-1M) | [`zakon/2022/zako8362/`](zakon/2022/zako8362/) | amending act | 1 | 2022-01-22 | 2022-01-22 |
+| Zakon o spremembah in dopolnitvah Zakona o dostopu do informacij javnega značaja (ZDIJZ-G) | [`zakon/2022/zako8367/`](zakon/2022/zako8367/) | amending act | 1 | 2022-11-22 | 2022-11-22 |
 | Zakon o spremembah in dopolnitvah Zakona o finančni upravi (ZFU-A) | [`zakon/2022/zako8371/`](zakon/2022/zako8371/) | amending act | 1 | 2022-04-05 | 2022-04-05 |
+| Zakon o spremembah in dopolnitvah Zakona o omejevalnih ukrepih, ki jih Republika Slovenija uvede ali izvaja skladno s pravnimi akti in odločitvami, sprejetimi v okviru mednarodnih organizacij (ZOUPAMO-A) | [`zakon/2022/zako8377/`](zakon/2022/zako8377/) | amending act | 1 | 2022-04-13 | 2022-04-13 |
+| Zakon o dopolnitvi Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2L) | [`zakon/2022/zako8388/`](zakon/2022/zako8388/) | in force | 1 | 2022-01-22 | 2022-01-22 |
+| Zakon o spremembah Zakona o zdravstveni inšpekciji (ZZdrI-C) | [`zakon/2022/zako8390/`](zakon/2022/zako8390/) | amending act | 1 | 2022-03-05 | 2022-03-05 |
+| Zakon o dopolnitvi Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (ZZVZZ-R) | [`zakon/2022/zako8392/`](zakon/2022/zako8392/) | in force | 1 | 2022-02-19 | 2022-02-19 |
+| Zakon o spremembah Zakona o delovnih razmerjih (ZDR-1C) | [`zakon/2022/zako8393/`](zakon/2022/zako8393/) | amending act | 1 | 2022-02-19 | 2022-02-19 |
+| Zakon o spremembah in dopolnitvah Zakona o agrarnih skupnostih (ZAgrS-A) | [`zakon/2022/zako8408/`](zakon/2022/zako8408/) | amending act | 2 | 2022-04-13 | 2024-05-08 |
+| Zakon o spremembah in dopolnitvah Zakona o javnem naročanju (ZJN-3C) | [`zakon/2022/zako8409/`](zakon/2022/zako8409/) | amending act | 1 | 2022-02-20 | 2022-02-20 |
+| Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2M) | [`zakon/2022/zako8432/`](zakon/2022/zako8432/) | amending act | 1 | 2022-03-19 | 2022-03-19 |
 | Zakon o spremembah in dopolnitvah Zakona o finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju (ZFPPIPP-H) | [`zakon/2023/zako7506/`](zakon/2023/zako7506/) | amending act | 1 | 2023-11-01 | 2023-11-01 |
 | Zakon o spremembah in dopolnitvah zakona o evidencah na področju dela in socialne varnosti (ZEPDSV-A) | [`zakon/2023/zako8094/`](zakon/2023/zako8094/) | amending act | 1 | 2023-05-20 | 2023-05-20 |
