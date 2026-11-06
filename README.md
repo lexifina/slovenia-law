@@ -1,5 +1,7 @@
 # Slovenian law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Slovenia's national law, which global-law reads at `slovenia/national/acts/`.
+
 Two acts of the Republic of Slovenia as a git repository: the Constitution (Ustava Republike Slovenije, URS,
 Uradni list RS, št. 33/91-I) and the National Assembly Elections Act (Zakon o volitvah v državni zbor, ZVDZ,
 Uradni list RS, št. 44/92). Each amending act is one commit, credited to that act and dated the day it took effect, at
