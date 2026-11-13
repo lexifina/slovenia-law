@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Slovensko pravo kot zgodovina v gitu</text>
+<rect x="594.9" y="24.5" width="130" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="659.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">zapis do 1. dec. 2025</text>
+<rect x="732.7" y="24.5" width="123" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="794.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">ažurnost: zastarelo</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">1.973</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">predpisov</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">5.026</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">sprememb, kot commiti</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">102.885</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">datotek določb</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">3.554</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">avtorjev: akti, izdajatelji</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1949–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">let zgodovine</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Spremembe po letu začetka veljavnosti</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#59636e">100</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">200</text>
+<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#59636e">300</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">400</text>
+<rect x="81.10" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1949: spremembe, ki so začele veljati: 1</title></rect>
+<text x="95.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1950</text>
+<text x="192.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1960</text>
+<rect x="236.79" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1965: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="285.45" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1970: spremembe, ki so začele veljati: 1</title></rect>
+<text x="289.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1970</text>
+<rect x="295.18" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1971: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="314.64" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1973: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="324.37" y="328.6" width="8.53" height="1.9" rx="1.5" fill="#1f883d"><title>1974: spremembe, ki so začele veljati: 5</title></rect>
+<rect x="343.83" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1976: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="353.56" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1977: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="363.29" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1978: spremembe, ki so začele veljati: 3</title></rect>
+<rect x="373.02" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1979: spremembe, ki so začele veljati: 4</title></rect>
+<text x="387.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1980</text>
+<rect x="392.48" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1981: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="402.22" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1982: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="421.68" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1984: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="441.14" y="327.9" width="8.53" height="2.6" rx="1.5" fill="#1f883d"><title>1986: spremembe, ki so začele veljati: 7</title></rect>
+<rect x="450.87" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1987: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="460.60" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1988: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="470.33" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1989: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="480.06" y="325.6" width="8.53" height="4.9" rx="1.5" fill="#1f883d"><title>1990: spremembe, ki so začele veljati: 13</title></rect>
+<text x="484.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1990</text>
+<rect x="489.79" y="321.5" width="8.53" height="9.0" rx="1.5" fill="#1f883d"><title>1991: spremembe, ki so začele veljati: 24</title></rect>
+<rect x="499.52" y="314.4" width="8.53" height="16.1" rx="1.5" fill="#1f883d"><title>1992: spremembe, ki so začele veljati: 43</title></rect>
+<rect x="509.25" y="295.2" width="8.53" height="35.2" rx="1.5" fill="#1f883d"><title>1993: spremembe, ki so začele veljati: 94</title></rect>
+<rect x="518.98" y="286.6" width="8.53" height="43.9" rx="1.5" fill="#1f883d"><title>1994: spremembe, ki so začele veljati: 117</title></rect>
+<rect x="528.72" y="293.8" width="8.53" height="36.8" rx="1.5" fill="#1f883d"><title>1995: spremembe, ki so začele veljati: 98</title></rect>
+<rect x="538.45" y="296.0" width="8.53" height="34.5" rx="1.5" fill="#1f883d"><title>1996: spremembe, ki so začele veljati: 92</title></rect>
+<rect x="548.18" y="294.1" width="8.53" height="36.4" rx="1.5" fill="#1f883d"><title>1997: spremembe, ki so začele veljati: 97</title></rect>
+<rect x="557.91" y="300.5" width="8.53" height="30.0" rx="1.5" fill="#1f883d"><title>1998: spremembe, ki so začele veljati: 80</title></rect>
+<rect x="567.64" y="278.8" width="8.53" height="51.8" rx="1.5" fill="#1f883d"><title>1999: spremembe, ki so začele veljati: 138</title></rect>
+<rect x="577.37" y="264.9" width="8.53" height="65.6" rx="1.5" fill="#1f883d"><title>2000: spremembe, ki so začele veljati: 175</title></rect>
+<text x="581.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
+<rect x="587.10" y="281.0" width="8.53" height="49.5" rx="1.5" fill="#1f883d"><title>2001: spremembe, ki so začele veljati: 132</title></rect>
+<rect x="596.83" y="281.0" width="8.53" height="49.5" rx="1.5" fill="#1f883d"><title>2002: spremembe, ki so začele veljati: 132</title></rect>
+<rect x="606.56" y="287.4" width="8.53" height="43.1" rx="1.5" fill="#1f883d"><title>2003: spremembe, ki so začele veljati: 115</title></rect>
+<rect x="616.29" y="246.5" width="8.53" height="84.0" rx="1.5" fill="#1f883d"><title>2004: spremembe, ki so začele veljati: 224</title></rect>
+<rect x="626.02" y="281.4" width="8.53" height="49.1" rx="1.5" fill="#1f883d"><title>2005: spremembe, ki so začele veljati: 131</title></rect>
+<rect x="635.75" y="260.8" width="8.53" height="69.8" rx="1.5" fill="#1f883d"><title>2006: spremembe, ki so začele veljati: 186</title></rect>
+<rect x="645.48" y="269.0" width="8.53" height="61.5" rx="1.5" fill="#1f883d"><title>2007: spremembe, ki so začele veljati: 164</title></rect>
+<rect x="655.22" y="285.1" width="8.53" height="45.4" rx="1.5" fill="#1f883d"><title>2008: spremembe, ki so začele veljati: 121</title></rect>
+<rect x="664.95" y="274.2" width="8.53" height="56.2" rx="1.5" fill="#1f883d"><title>2009: spremembe, ki so začele veljati: 150</title></rect>
+<rect x="674.68" y="259.2" width="8.53" height="71.2" rx="1.5" fill="#1f883d"><title>2010: spremembe, ki so začele veljati: 190</title></rect>
+<text x="678.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<rect x="684.41" y="251.0" width="8.53" height="79.5" rx="1.5" fill="#1f883d"><title>2011: spremembe, ki so začele veljati: 212</title></rect>
+<rect x="694.14" y="273.5" width="8.53" height="57.0" rx="1.5" fill="#1f883d"><title>2012: spremembe, ki so začele veljati: 152</title></rect>
+<rect x="703.87" y="272.4" width="8.53" height="58.1" rx="1.5" fill="#1f883d"><title>2013: spremembe, ki so začele veljati: 155</title></rect>
+<rect x="713.60" y="278.0" width="8.53" height="52.5" rx="1.5" fill="#1f883d"><title>2014: spremembe, ki so začele veljati: 140</title></rect>
+<rect x="723.33" y="263.8" width="8.53" height="66.8" rx="1.5" fill="#1f883d"><title>2015: spremembe, ki so začele veljati: 178</title></rect>
+<rect x="733.06" y="267.9" width="8.53" height="62.6" rx="1.5" fill="#1f883d"><title>2016: spremembe, ki so začele veljati: 167</title></rect>
+<rect x="742.79" y="273.5" width="8.53" height="57.0" rx="1.5" fill="#1f883d"><title>2017: spremembe, ki so začele veljati: 152</title></rect>
+<rect x="752.52" y="285.1" width="8.53" height="45.4" rx="1.5" fill="#1f883d"><title>2018: spremembe, ki so začele veljati: 121</title></rect>
+<rect x="762.25" y="293.4" width="8.53" height="37.1" rx="1.5" fill="#1f883d"><title>2019: spremembe, ki so začele veljati: 99</title></rect>
+<rect x="771.98" y="297.5" width="8.53" height="33.0" rx="1.5" fill="#1f883d"><title>2020: spremembe, ki so začele veljati: 88</title></rect>
+<text x="776.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<rect x="781.72" y="280.2" width="8.53" height="50.2" rx="1.5" fill="#1f883d"><title>2021: spremembe, ki so začele veljati: 134</title></rect>
+<rect x="791.45" y="197.0" width="8.53" height="133.5" rx="1.5" fill="#1f883d"><title>2022: spremembe, ki so začele veljati: 356</title></rect>
+<text x="795.7" y="191.0" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">356 v letu 2022</text>
+<rect x="801.18" y="300.5" width="8.53" height="30.0" rx="1.5" fill="#1f883d"><title>2023: spremembe, ki so začele veljati: 80</title></rect>
+<rect x="810.91" y="294.9" width="8.53" height="35.6" rx="1.5" fill="#1f883d"><title>2024: spremembe, ki so začele veljati: 95</title></rect>
+<rect x="820.64" y="249.1" width="8.53" height="81.4" rx="1.5" fill="#1f883d"><title>2025: spremembe, ki so začele veljati: 217</title></rect>
+<rect x="830.37" y="282.9" width="8.53" height="47.6" rx="1.5" fill="#1f883d"><title>2026: spremembe, ki so začele veljati: 127</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Spremembe z datumom začetka veljavnosti: 5.026. Vrsta zgodovine: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Popolnost, preverjeno po uradnih virih na dan 12. nov. 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Ustava</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">v repozitoriju</text>
+<g><title>Ustava: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Glavni zakoniki</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">delež temeljnih zakonikov</text>
+<g><title>Glavni zakoniki: 71 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="65.0" height="8" rx="4" fill="#9a6700"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">71 %</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Državni predpisi</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">predpisi glede na uradno skupno število</text>
+<g><title>Državni predpisi: 87 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="79.6" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">87 %</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Regionalni predpisi</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">ni teritorialnih enot s predpisi</text>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">se ne uporablja</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Sodna praksa</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">zajeta najvišja sodišča</text>
+<g><title>Sodna praksa: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Pravilnost vsebine</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Spremembe z datumom veljavnosti</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">delež sprememb</text>
+<g><title>Spremembe z datumom veljavnosti: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Spremembe z uradnim virom</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">vrstica Source ali povezava v commitu</text>
+<g><title>Spremembe z uradnim virom: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Preverjeno po uradnem viru</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">datum, ki ga navaja repozitorij</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">28. okt. 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpusi te države v global-law</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">državni predpisi: 1</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/slovenia-law na b1fa875, zgrajeno 2026-11-13. Brez commitov dokumentacije. Obseg: from 1991-12-23</text>
+</svg>
