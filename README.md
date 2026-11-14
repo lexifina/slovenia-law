@@ -33,6 +33,14 @@ in vsako neuradno prečiščeno besedilo (NPB), ki ga je Služba Vlade Republike
 | Spremembe na podlagi odločb Ustavnega sodišča | `git log --author="odl. US" --format="%ad %an %s" --date=short` |
 
 Datoteke členov so `clen-NNN.md` (`clen-003a.md` je 3.a člen). V PowerShellu revizijo s potjo zapišite v narekovajih:
+
+**Ali vprašajte z običajnimi besedami.** Isti podatki so brezplačni tudi brez gita, računa ali ključa:
+
+- **[Vprašajte Claude o slovenskem pravu](https://global-law.lexifina.com/v1/try_claude?country=slovenia&q=what%20does%20the%20Constitution%20%28Ustava%20Republike%20Slovenije%29%20say%20about%20freedom%20of%20work%20%2849.%20%C4%8Dlen%29%20today%2C%20and%20which%20constitutional%20acts%20have%20changed%20the%20Constitution%20since%201991%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: en klik odpre Claude s pripravljenim prvim vprašanjem (svoboda dela v Ustavi in kako se je Ustava spreminjala).
+- **[Vprašajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=slovenia&q=what%20does%20the%20Constitution%20%28Ustava%20Republike%20Slovenije%29%20say%20about%20freedom%20of%20work%20%2849.%20%C4%8Dlen%29%20today%2C%20and%20which%20constitutional%20acts%20have%20changed%20the%20Constitution%20since%201991%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: isto vprašanje v ChatGPT.
+- **[Pokličite API v brskalniku](https://global-law.lexifina.com/v1/search_law?query=letni+dopust&jurisdictions=slovenia)**: iskanje po slovenskih predpisih za „letni dopust“, odgovor v JSON. Brez ključa 5 klicev na minuto; [vsa orodja](https://global-law.lexifina.com/v1), [ključi in dokumentacija](https://lexifina.com/api).
+
+Pomočnika podatke bereta prek brezplačnega konektorja Global law (MCP, `https://global-law.lexifina.com/mcp`); prvič pogovor ponudi povezavo, s katero ga dodate. V Claudu izberite »Always allow«, da vam ni treba potrditi vsakega klica. Vprašajte v slovenščini ali angleščini.
 `$r = git rev-list -1 --before="2004-06-15T23:59:59Z" main -- urs; git show "$($r):urs/clen-014.md"`.
 Po ponovni izgradnji tega repozitorija obstoječi klon posodobite z `git fetch --force --tags`.
 

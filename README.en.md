@@ -15,7 +15,7 @@ Uradni list RS, št. 44/92). Each amending act is one commit, credited to that a
 noon in Ljubljana. The text is the text as enacted and every unofficial consolidated text (neuradno prečiščeno
 besedilo, NPB) published by the Government Office for Legislation in [PIS](https://pisrs.si).
 
-## The questions, as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -33,6 +33,14 @@ besedilo, NPB) published by the Government Office for Legislation in [PIS](https
 | Changes made by Constitutional Court decisions | `git log --author="odl. US" --format="%ad %an %s" --date=short` |
 
 Article files are `clen-NNN.md` (`clen-003a.md` is Article 3.a). In PowerShell, quote a revision with a path:
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Slovenian law](https://global-law.lexifina.com/v1/try_claude?country=slovenia&q=what%20does%20the%20Constitution%20%28Ustava%20Republike%20Slovenije%29%20say%20about%20freedom%20of%20work%20%2849.%20%C4%8Dlen%29%20today%2C%20and%20which%20constitutional%20acts%20have%20changed%20the%20Constitution%20since%201991%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (freedom of work in the Constitution, and how the Constitution has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=slovenia&q=what%20does%20the%20Constitution%20%28Ustava%20Republike%20Slovenije%29%20say%20about%20freedom%20of%20work%20%2849.%20%C4%8Dlen%29%20today%2C%20and%20which%20constitutional%20acts%20have%20changed%20the%20Constitution%20since%201991%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=letni+dopust&jurisdictions=slovenia)**: Slovenian law searched for "letni dopust", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Slovenian or in English.
 `$r = git rev-list -1 --before="2004-06-15T23:59:59Z" main -- urs; git show "$($r):urs/clen-014.md"`.
 After a rebuild of this repository, update an existing clone with `git fetch --force --tags`.
 
