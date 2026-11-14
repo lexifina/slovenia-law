@@ -198,9 +198,14 @@ def t_authors(repo):
 
 @test('the README\'s git commands run')
 def t_readme(repo):
-    readme = (Path(repo) / 'README.md').read_text(encoding='utf-8')
-    cmds = [c for c in re.findall(r'^\|[^|]*\| `([^`]+)` \|$', readme, re.M)]
-    assert cmds, 'no commands found in the README table'
+    readme_path = Path(repo) / 'README.en.md'  # the English README where there is one, else README.md
+    text = (readme_path if readme_path.exists() else Path(repo) / 'README.md').read_text(encoding='utf-8')
+    start = text.index('## Questions as git commands')
+    end = text.find('\n## ', start + 1)
+    table = text[start:end if end != -1 else len(text)]
+    rows = '\n'.join(l for l in table.splitlines() if l.startswith('|'))
+    cmds = [c for c in re.findall(r'`([^`]+)`', rows) if c.startswith(('git ', 'python ')) and '<' not in c]
+    assert len(cmds) >= 3, f'only {len(cmds)} commands found in the README table'
     for c in cmds:
         out = run(repo, *[sys.executable if a == 'python' else a for a in shlex.split(c)])
         assert out.returncode == 0 and out.stdout.strip(), f'{c}: exit {out.returncode}, {out.stderr.strip()[:200]}'
