@@ -1,119 +1,87 @@
-# Slovensko pravo, sprememba za spremembo
+# Slovenija: zgodovina prava v gitu
 
-**Slovenščina** · [English](README.en.md)
+**Slovenščina** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/sl/effort-dark.svg">
 <img alt="Predpisi Slovenije v tem repozitoriju: kaj vsebuje, spremembe po letu začetka veljavnosti, popolnost glede na uradne vire in pravilnost vsebine" src="data/sl/effort-light.svg" width="880">
 </picture>
 
-Del repozitorija [lexifina/global-law](https://github.com/lexifina/global-law), enotne zgodovine git za pravo vseh držav: to je slovensko državno pravo, ki ga global-law bere iz `slovenia/national/acts/`.
+Pravo Slovenije kot zgodovina git: ena datoteka za vsako določbo, en commit za vsako različico na dan, ko je začela veljati, avtor vsakega commita pa je predpis, ki je spremembo uvedel. `git blame` pri vsakem členu pokaže predpis, ki stoji za njim; `git log` navede vsako spremembo člena; z izbiro datuma dobite besedilo, ki je veljalo tisti dan.
 
-Dva predpisa Republike Slovenije kot repozitorij git: Ustava Republike Slovenije (URS, Uradni list RS, št. 33/91-I)
-in Zakon o volitvah v državni zbor (ZVDZ, Uradni list RS, št. 44/92). Vsak spremembni akt je en commit, pripisan temu
-aktu in datiran z dnem, ko je začel veljati, opoldne po ljubljanskem času. Besedilo je besedilo, kot je bilo sprejeto,
-in vsako neuradno prečiščeno besedilo (NPB), ki ga je Služba Vlade Republike Slovenije za zakonodajo objavila v
-[PIS](https://pisrs.si).
+Del projekta [lexifina/global-law](https://github.com/lexifina/global-law), enotne zgodovine git za pravo vseh držav: to je slovensko državno pravo, ki ga global-law bere na poti `slovenia/national/acts/`.
+
+**Kaj vsebuje zdaj:** Ustavo in Zakon o volitvah v državni zbor z vsemi različicami (vsak po 13); 1.850 drugih predpisov iz registra PIS (vsi razen treh so zakoni) s 3.044 različicami, med njimi 742 predpisov, ki so medtem prenehali veljati, in 958 novel; ter 1.971 drugih veljavnih predpisov (1.954 zakonov in 17 uredb), vsakega le v trenutnem besedilu. [`registry/ACTS.md`](registry/ACTS.md) navaja 1.850 predpisov po vrstah, [`data/veljavni-predpisi.csv`](data/veljavni-predpisi.csv) 1.971 veljavnih, [`akti.csv`](akti.csv) pa akte, iz katerih izhaja vsaka različica prvih dveh.
+
+Vsak predpis je v `<vrsta>/<leto>/<id PIS>/`, z eno datoteko za vsak člen (`ustava/1991/usta1/clen-068.md` je 68. člen Ustave Republike Slovenije; `zakon/2013/zako5944/` je Zakon o delovnih razmerjih, ZDR-1). Do 10. novembra 2026 je imela večina map ime po kratici predpisa (`urs/`); [`data/paths.json`](data/paths.json) vsako poveže z njeno mapo, `git log --follow` pa datoteki sledi tudi čez premik.
+
+Besedilo je v slovenščini, kot ga objavlja PIS. Prevod v angleščino ni del tega zapisa.
 
 ## Vprašanja kot ukazi git
 
 | Vprašanje | Ukaz |
 | --- | --- |
-| Kaj je 13. julija 1997 določal 68. člen Ustave? | `python tools/na_dan.py 1997-07-13 urs 68` |
-| ... in naslednji dan, ko je začel veljati UZS68? | `python tools/na_dan.py 1997-07-14 urs 68` |
-| Celotna Ustava, kot je veljala 1. januarja 2000 | `python tools/na_dan.py 2000-01-01 urs` |
-| Kateri akt je napisal posamezni odstavek 68. člena? | `git blame urs/clen-068.md` |
-| Vse spremembe 68. člena, z aktom in dnevom | `git log --follow --format="%ad %an" --date=short urs/clen-068.md` |
-| Enako, z besedilom | `git log -p --word-diff urs/clen-068.md` |
-| Vse, kar je spremenil en spremembni akt | `git show akt/2003-01-0899` |
-| Kaj se je v ZVDZ spremenilo na en dan | `git show zvdz/2006-08-09 --stat` |
-| Commit, ki je veljal ob koncu dneva (UTC) | `git rev-list -1 --before="2004-06-15T23:59:59Z" main -- urs` |
-| Vsi spremembni akti z datumi | [`akti.csv`](akti.csv) |
-| Spremembe, ki jih ne pojasni noben spremembni akt | `git log --author="PIS RS" --format="%ad %s" --date=short` |
-| Spremembe na podlagi odločb Ustavnega sodišča | `git log --author="odl. US" --format="%ad %an %s" --date=short` |
+| Vse spremembe 68. člena Ustave | `git log -p --follow --word-diff -- ustava/1991/usta1/clen-068.md` |
+| Kateri predpis je napisal posamezno vrstico 68. člena? | `git blame ustava/1991/usta1/clen-068.md` |
+| Vse različice Ustave z dnem, ko je vsaka začela veljati | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- ustava/1991/usta1 urs` |
+| 68. člen, kot je veljal 13. julija 1997, dan preden ga je spremenil UZS68 | `python tools/na_dan.py 1997-07-13 urs 68` |
 
-Datoteke členov so `clen-NNN.md` (`clen-003a.md` je 3.a člen). V PowerShellu revizijo s potjo zapišite v narekovajih:
+**Zunaj gita** ta zapis tudi javno in brezplačno gostimo:
 
-**Ali vprašajte z običajnimi besedami.** Isti podatki so brezplačni tudi brez gita, računa ali ključa:
+- **[Vprašajte Claude o slovenskem pravu](https://global-law.lexifina.com/v1/try_claude?country=slovenia)**: odpre Claude s pripravljenim prvim vprašanjem.
+- **[Vprašajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=slovenia)**: isto vprašanje v ChatGPT.
+- **[Pokličite API v brskalniku](https://global-law.lexifina.com/v1/search_law?query=letni+dopust&jurisdictions=slovenia)**: iskanje po slovenskem pravu za „letni dopust“, odgovor v JSON. Dokumentacija je [tukaj](https://lexifina.com/api/global-law).
 
-- **[Vprašajte Claude o slovenskem pravu](https://global-law.lexifina.com/v1/try_claude?country=slovenia&q=what%20does%20the%20Constitution%20%28Ustava%20Republike%20Slovenije%29%20say%20about%20freedom%20of%20work%20%2849.%20%C4%8Dlen%29%20today%2C%20and%20which%20constitutional%20acts%20have%20changed%20the%20Constitution%20since%201991%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: en klik odpre Claude s pripravljenim prvim vprašanjem (svoboda dela v Ustavi in kako se je Ustava spreminjala).
-- **[Vprašajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=slovenia&q=what%20does%20the%20Constitution%20%28Ustava%20Republike%20Slovenije%29%20say%20about%20freedom%20of%20work%20%2849.%20%C4%8Dlen%29%20today%2C%20and%20which%20constitutional%20acts%20have%20changed%20the%20Constitution%20since%201991%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: isto vprašanje v ChatGPT.
-- **[Pokličite API v brskalniku](https://global-law.lexifina.com/v1/search_law?query=letni+dopust&jurisdictions=slovenia)**: iskanje po slovenskih predpisih za „letni dopust“, odgovor v JSON. Brez ključa 5 klicev na minuto; [vsa orodja](https://global-law.lexifina.com/v1), [ključi in dokumentacija](https://lexifina.com/api).
+Pomočnika zapis bereta prek brezplačnega konektorja Global law (MCP, `https://global-law.lexifina.com/mcp`); prvič vam pogovor ponudi povezavo, s katero ga dodate. Vprašajte v slovenščini ali angleščini.
 
-Pomočnika podatke bereta prek brezplačnega konektorja Global law (MCP, `https://global-law.lexifina.com/mcp`); prvič pogovor ponudi povezavo, s katero ga dodate. V Claudu izberite »Always allow«, da vam ni treba potrditi vsakega klica. Vprašajte v slovenščini ali angleščini.
-`$r = git rev-list -1 --before="2004-06-15T23:59:59Z" main -- urs; git show "$($r):urs/clen-014.md"`.
-Po ponovni izgradnji tega repozitorija obstoječi klon posodobite z `git fetch --force --tags`.
+**Preprosto ga gostite sami.** Potrebujete le git in Python, orodja pa tečejo na vašem računalniku:
 
-## Datumi in kateri uporabljamo
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add slovenia/national/acts
+python3 tools/law.py show 2026-01-01 slovenia/national/acts/ustava/1991/usta1/clen-068.md
+```
 
-Slovenski predpis ima dan sprejetja (`Adopted:`), dan, ko ga je objavil Uradni list (`Published:`), in dan začetka
-veljavnosti (`In-force:`, velja od). **Commiti so datirani z dnem, ko je sprememba začela veljati**, opoldne po
-ljubljanskem času: to je dan, ki odloča, katero besedilo se uporablja. To je dan, ki ga register predpisov v PIS navaja
-kot začetek veljavnosti (veljaOd) akta, iz katerega izhaja različica. Kadar se akt začne uporabljati pozneje, kot je
-začel veljati, ima commit tudi `Applies-from:`. Vsi datumi so v vsakem sporočilu commita.
+Odprt v Claude Code, Cursorju, VS Code ali Codexu klon zažene tudi lokalni strežnik MCP z enakimi orodji ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Ustavni zakoni začnejo veljati, ko jih Državni zbor razglasi, nekaj dni preden jih natisne Uradni list; ti commiti to
-navajajo v vrstici `Date-note:`. Dve odločbi Ustavnega sodišča in uradno prečiščeno besedilo iz leta 2006 v registru
-nimajo dneva začetka veljavnosti; datirani so z dnem objave, z vrstico `Date-note:`. Nobena sprememba tu ni starejša od
-leta 1970, zato nobenega datuma ni bilo treba prilagoditi.
+## Datumi
 
-## Kako je preverjeno
+Vsak commit je datiran opoldne po ljubljanskem času (Europe/Ljubljana) na dan, ko je različica začela veljati, ta dan pa nosi tudi v traileru `In-force:`:
 
-`tools/check_repo.py` vsako različico obeh predpisov prebere iz gita na dan, ko je začela veljati, in jo primerja s PIS:
-datoteko za datoteko z besedilom, razčlenjenim iz podatkov PIS, in besedo za besedo z vsemi besedami, ki jih PIS daje za
-to različico, prebranimi neodvisno od razčlenjevalnika. `tools/test_repo.py` izvede ukaze iz tega README in preveri
-blame, bralnik stanja na dan, vrstni red `git log --follow`, oznake, zaključne vrstice sporočil (trailers) in avtorje.
-Rezultati so v [`REPRODUCE.md`](REPRODUCE.md).
+- za vsako različico dan, ki ga register PIS navaja kot začetek veljavnosti (velja od) predpisa, iz katerega izhaja;
+- ustavni zakoni začnejo veljati z razglasitvijo v Državnem zboru, nekaj dni preden jih natisne Uradni list; dve odločbi Ustavnega sodišča in uradno prečiščeno besedilo Zakona o volitvah v državni zbor v registru nimajo dneva začetka veljavnosti, zato so datirani z dnem objave; vsak tak commit to navaja v `Date-note:`;
+- predpis, ki je tu le v trenutnem besedilu, je datiran z dnem, ko je sam začel veljati, če ga PIS ni nikoli prečistil, sicer z dnem začetka veljavnosti predpisa, iz katerega izhaja njegovo najnovejše prečiščeno besedilo;
+- git ne more shraniti datumov pred letom 1970, zato sta različici, ki sta začeli veljati prej (1949 in 1965), datirani s 1. januarjem 1970, pravi dan pa je v `In-force:`.
 
-## Kaj pomeni »avtor«
+Vsaka sprememba je pripisana predpisu, ki jo je uvedel, kot ga navaja PIS (`Uradni list RS, št. 42/97 (UZS68)`, odločba Ustavnega sodišča kot `odl. US`), vendar le, kadar besedilo tega predpisa spremembo pojasni. Vse drugo, tudi trenutna besedila 445 veljavnih predpisov, ki jih je PIS prečistil, in 742 prenehanj veljavnosti, je commit avtorja `PIS RS (neuradno prečiščeno besedilo)`, nikoli predpisa.
 
-Avtor commita je akt, ki je spremembo izvedel: `Uradni list RS, št. 42/97 (UZS68)`, z naslovom, ki se konča z
-`@pisrs.invalid` in ne more obstajati, tako da `git blame` navede akt. Register PIS za vsako prečiščeno besedilo navaja
-en akt, z začetkom veljavnosti katerega je nastalo. Spremenjeni člen se temu aktu pripiše le, če ga navaja besedilo akta
-samo (»se 68. člen spremeni tako, da glasi«), če akt izvede zamenjavo v celotnem besedilu, ki spremembo pojasni
-(»v celotnem besedilu zakona se besedilo ... nadomesti«), ali (pri UZ148, katerega besedila PIS nima) če ga navaja
-njegov naslov. Končne določbe spremembnega akta, ki jih PIS natisne za aktom, se pripišejo temu aktu.
+## Kako se preverja
 
-Spremembo, ki je nič od tega ne pojasni, posebej zapiše `PIS RS (neuradno prečiščeno besedilo)`, z »sprememba
-brez pojasnila« v zadevi commita; nikoli ni pripisana aktu. Gre za urejanje, ki ga je opravil PIS sam: prehod z
-besedila, kot je bilo natisnjeno v letih 1991 in 1992, v prečiščeno obliko (izpuščena preambula in podpisi, popravljene
-tiskovne napake, končne določbe premaknjene za akt) ter v letih 2021 (URS) in 2024 (ZVDZ) odstranitev končnih določb
-spremembnih aktov s konca besedila. Committer je vedno `Lexifina`.
-
-Blame pripisuje cele vrstice: pri odstavku, ki sta ga preoblikovala dva akta, navede le poznejšega. Kaj je spremenil
-posamezni akt, pokaže `--word-diff`.
+- `tools/check_repo.py` vsako različico Ustave in Zakona o volitvah v državni zbor prebere iz gita na dan, ko je začela veljati, in jo primerja s PIS, datoteko za datoteko in besedo za besedo z vsemi besedami, ki jih PIS daje za to različico: 26 različic, 0 neujemanj.
+- `tools/test_repo.py` preverja blame, orodje za datume, vrstni red `git log --follow`, oznake, trailerje in avtorje; druga izgradnja iz istih podatkov je dala iste hashe. Oboje je v [`REPRODUCE.md`](REPRODUCE.md).
+- 1.850 predpisov iz registra zgradi `registry/tools/build/` iz ene datoteke korpusa, katere sha256 navaja [`registry/REPRODUCE.md`](registry/REPRODUCE.md); preverjanje te izgradnje tam še ni zabeleženo.
 
 ## Česa ne prikazuje
 
-- Različic, ki jih PIS ne objavlja: prečiščeno besedilo obstaja le po vsakem spremembnem aktu, zato je sprememba, ki
-  jo na isti dan izvedeta dva akta, en korak (pri teh dveh predpisih se to ne zgodi).
-- Odločb Ustavnega sodišča, ki določbo razglasijo za neustavno, ne da bi spremenile njeno besedilo; PIS jih zabeleži v
-  registru, ne pa v besedilu.
-- Opomb PIS, povezav na sodno prakso in pravo EU ter pojasnjevalnega seznama aktov na začetku vsakega prečiščenega
-  besedila (akti so namesto tega v commitih).
-- Nobenega akta razen teh dveh. Ista izgradnja deluje za vsak akt v PIS: dodajte ga v `ACTS` v `tools/build.py`.
+- **Prejšnjih različic 1.971 veljavnih predpisov**, ki so tu v trenutnem besedilu; dodane bodo pred njim, ne da bi se zgodovina prepisala.
+- **Podzakonskih in lokalnih predpisov, sodne prakse in prava EU.** Razen 20 uredb in drugih izvršilnih predpisov zapis vsebuje le zakone.
+- **Predpisa, ki je razveljavil drug predpis.** Ob prenehanju veljavnosti se besedilo predpisa odstrani na dan, ki ga PIS navaja kot konec veljavnosti, s commitom avtorja PIS, ne predpisa, ki ga je razveljavil.
+- **Odločb Ustavnega sodišča**, ki določbo razglasijo za neustavno, ne da bi spremenile njeno besedilo; PIS jih zabeleži v registru, ne v besedilu.
+- **Opomb PIS**, njegovih povezav na sodno prakso in pravo EU ter seznama aktov na začetku vsakega prečiščenega besedila (akti so v commitih).
 
-Prečiščena besedila nimajo pravne veljave; verodostojen je samo Uradni list Republike Slovenije.
+## Viri
 
-## Kako je zgrajen
-
-`tools/build.py` bere PIS in ta repozitorij zapiše na novo; isti podatki dajo iste hashe. Vsak korak, programska
-oprema, ročno sprejete odločitve in to, kar je naredil model umetne inteligence, so v [`REPRODUCE.md`](REPRODUCE.md).
-Mapa vsakega predpisa ima `README.md` s seznamom njegovih določb in podatkom, kako pogosto se je katera spremenila.
+| Vir | Vrsta | Prejšnje različice | Opombe |
+| --- | --- | --- | --- |
+| [PIS, Pravno-informacijski sistem Republike Slovenije](https://pisrs.si) (Služba Vlade Republike Slovenije za zakonodajo) | Uradni register predpisov z besedilom, kot je bilo sprejeto, in neuradnimi prečiščenimi besedili (NPB) | da, vsako prečiščeno besedilo z dnem začetka veljavnosti | Prebrano prek vmesnika JSON PIS; prečiščena besedila so le informativna, verodostojen je samo Uradni list Republike Slovenije |
 
 ## Licenca
 
-Uradna besedila z zakonodajnega področja v Sloveniji niso varovana z avtorsko pravico (2. točka prvega odstavka
-9. člena ZASP). Vir: PIS, Pravno-informacijski sistem Republike Slovenije, https://pisrs.si, Služba Vlade Republike
-Slovenije za zakonodajo. PIS navaja: »Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni
-pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.« Zgodovina, sporočila commitov, tabele in
-orodja so objavljeni pod licenco [CC0 1.0](LICENSE).
+Glejte [`LICENSE`](LICENSE). Uradna besedila z zakonodajnega, upravnega in sodnega področja v Sloveniji niso varovana z avtorsko pravico (2. točka prvega odstavka 9. člena ZASP); zgodovina, sporočila commitov, tabele in orodja so objavljeni pod licenco CC0 1.0.
+
+Ta repozitorij ni pravni nasvet in ni uradna objava. Noben model umetne inteligence ni napisal ali spremenil pravnega besedila; skripte je napisal model umetne inteligence (glejte [`REPRODUCE.md`](REPRODUCE.md)).
 
 To je prevod angleške različice ([README.en.md](README.en.md)); če se razlikujeta, velja angleška različica.
-
-## Veljavni zakoni, trenutno besedilo
-
-Poleg obeh predpisov, zapisanih različico za različico, zapis vsebuje 1.971 veljavnih zakonov in ustavnih zakonov iz PIS, vsakega v enem commitu: zakon, ki ga PIS ni nikoli prečistil, v objavljenem besedilu (datiran z dnem začetka veljavnosti in pripisan zakonu samemu), sicer njegovo najnovejše prečiščeno besedilo (datirano z dnem začetka veljavnosti akta, iz katerega je nastalo, zapiše ga PIS in ni pripisano nobenemu aktu). Akti, ki samo spreminjajo druge, so izpuščeni. Starejše različice bodo dodane za njimi, brez prepisovanja zgodovine. Seznam: `data/veljavni-predpisi.csv`.
 
 ## Več
 
