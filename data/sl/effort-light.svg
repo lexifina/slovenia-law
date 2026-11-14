@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Slovensko pravo kot zgodovina v gitu</text>
 <rect x="594.9" y="24.5" width="130" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
 <text x="659.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">zapis do 1. dec. 2025</text>
@@ -117,7 +117,7 @@
 <text x="456.0" y="498.5" font-size="11.5" fill="#59636e">zajeta najvišja sodišča</text>
 <g><title>Sodna praksa: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
 <text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
-<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Pravilnost vsebine</text>
 <text x="40.5" y="612.5" font-size="13" fill="#1f2328">Spremembe z datumom veljavnosti</text>
 <text x="40.5" y="628.5" font-size="11.5" fill="#59636e">delež sprememb</text>
@@ -127,11 +127,10 @@
 <text x="40.5" y="664.5" font-size="11.5" fill="#59636e">vrstica Source ali povezava v commitu</text>
 <g><title>Spremembe z uradnim virom: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
 <text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Preverjeno po uradnem viru</text>
-<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">datum, ki ga navaja repozitorij</text>
-<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">28. okt. 2026</text>
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpusi te države v global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">državni predpisi: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/slovenia-law na b1fa875, zgrajeno 2026-11-13. Brez commitov dokumentacije. Obseg: from 1991-12-23</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Preverjeno po uradnem viru</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">datum, ki ga navaja repozitorij</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">28. okt. 2026</text>
 </svg>
