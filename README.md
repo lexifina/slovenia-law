@@ -79,7 +79,7 @@ Vsaka sprememba je pripisana predpisu, ki jo je uvedel, kot ga navaja PIS (`Urad
 
 Glejte [`LICENSE`](LICENSE). Uradna besedila z zakonodajnega, upravnega in sodnega področja v Sloveniji niso varovana z avtorsko pravico (2. točka prvega odstavka 9. člena ZASP); zgodovina, sporočila commitov, tabele in orodja so objavljeni pod licenco CC0 1.0.
 
-Ta repozitorij ni pravni nasvet in ni uradna objava. Noben model umetne inteligence ni napisal ali spremenil pravnega besedila; skripte je napisal model umetne inteligence (glejte [`REPRODUCE.md`](REPRODUCE.md)).
+Noben model umetne inteligence ni napisal ali spremenil pravnega besedila; skripte je napisal model umetne inteligence (glejte [`REPRODUCE.md`](REPRODUCE.md)).
 
 To je prevod angleške različice ([README.en.md](README.en.md)); če se razlikujeta, velja angleška različica.
 

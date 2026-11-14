@@ -79,7 +79,7 @@ Each change is credited to the act that made it, as PIS cites it (`Uradni list R
 
 See [`LICENSE`](LICENSE). Official texts in the legislative, administrative and judicial field are not protected by copyright in Slovenia (Article 9(1)(2) ZASP); the history, commit messages, tables and tools are CC0 1.0.
 
-This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
