@@ -1,136 +1,136 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Slovensko pravo kot zgodovina v gitu</text>
-<rect x="594.9" y="24.5" width="130" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="659.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">zapis do 1. dec. 2025</text>
-<rect x="732.7" y="24.5" width="123" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="794.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">ažurnost: zastarelo</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1.973</text>
-<text x="40.0" y="106" font-size="12" fill="#9198a1">predpisov</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">5.026</text>
-<text x="206.4" y="106" font-size="12" fill="#9198a1">sprememb, kot commiti</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">102.885</text>
-<text x="372.8" y="106" font-size="12" fill="#9198a1">datotek določb</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">3.554</text>
-<text x="539.2" y="106" font-size="12" fill="#9198a1" textLength="142" lengthAdjust="spacingAndGlyphs">avtorjev: akti, izdajatelji</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1949–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#9198a1">let zgodovine</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Spremembe po letu začetka veljavnosti</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
-<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">100</text>
-<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">200</text>
-<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">300</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">400</text>
-<rect x="81.10" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1949: spremembe, ki so začele veljati: 1</title></rect>
-<text x="95.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
-<text x="192.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
-<rect x="236.79" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1965: spremembe, ki so začele veljati: 1</title></rect>
-<rect x="285.45" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1970: spremembe, ki so začele veljati: 1</title></rect>
-<text x="289.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1970</text>
-<rect x="295.18" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1971: spremembe, ki so začele veljati: 2</title></rect>
-<rect x="314.64" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1973: spremembe, ki so začele veljati: 1</title></rect>
-<rect x="324.37" y="328.6" width="8.53" height="1.9" rx="1.5" fill="#2ea043"><title>1974: spremembe, ki so začele veljati: 5</title></rect>
-<rect x="343.83" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1976: spremembe, ki so začele veljati: 2</title></rect>
-<rect x="353.56" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1977: spremembe, ki so začele veljati: 1</title></rect>
-<rect x="363.29" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1978: spremembe, ki so začele veljati: 3</title></rect>
-<rect x="373.02" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1979: spremembe, ki so začele veljati: 4</title></rect>
-<text x="387.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
-<rect x="392.48" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1981: spremembe, ki so začele veljati: 1</title></rect>
-<rect x="402.22" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1982: spremembe, ki so začele veljati: 1</title></rect>
-<rect x="421.68" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1984: spremembe, ki so začele veljati: 2</title></rect>
-<rect x="441.14" y="327.9" width="8.53" height="2.6" rx="1.5" fill="#2ea043"><title>1986: spremembe, ki so začele veljati: 7</title></rect>
-<rect x="450.87" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1987: spremembe, ki so začele veljati: 2</title></rect>
-<rect x="460.60" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1988: spremembe, ki so začele veljati: 2</title></rect>
-<rect x="470.33" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#2ea043"><title>1989: spremembe, ki so začele veljati: 1</title></rect>
-<rect x="480.06" y="325.6" width="8.53" height="4.9" rx="1.5" fill="#2ea043"><title>1990: spremembe, ki so začele veljati: 13</title></rect>
-<text x="484.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1990</text>
-<rect x="489.79" y="321.5" width="8.53" height="9.0" rx="1.5" fill="#2ea043"><title>1991: spremembe, ki so začele veljati: 24</title></rect>
-<rect x="499.52" y="314.4" width="8.53" height="16.1" rx="1.5" fill="#2ea043"><title>1992: spremembe, ki so začele veljati: 43</title></rect>
-<rect x="509.25" y="295.2" width="8.53" height="35.2" rx="1.5" fill="#2ea043"><title>1993: spremembe, ki so začele veljati: 94</title></rect>
-<rect x="518.98" y="286.6" width="8.53" height="43.9" rx="1.5" fill="#2ea043"><title>1994: spremembe, ki so začele veljati: 117</title></rect>
-<rect x="528.72" y="293.8" width="8.53" height="36.8" rx="1.5" fill="#2ea043"><title>1995: spremembe, ki so začele veljati: 98</title></rect>
-<rect x="538.45" y="296.0" width="8.53" height="34.5" rx="1.5" fill="#2ea043"><title>1996: spremembe, ki so začele veljati: 92</title></rect>
-<rect x="548.18" y="294.1" width="8.53" height="36.4" rx="1.5" fill="#2ea043"><title>1997: spremembe, ki so začele veljati: 97</title></rect>
-<rect x="557.91" y="300.5" width="8.53" height="30.0" rx="1.5" fill="#2ea043"><title>1998: spremembe, ki so začele veljati: 80</title></rect>
-<rect x="567.64" y="278.8" width="8.53" height="51.8" rx="1.5" fill="#2ea043"><title>1999: spremembe, ki so začele veljati: 138</title></rect>
-<rect x="577.37" y="264.9" width="8.53" height="65.6" rx="1.5" fill="#2ea043"><title>2000: spremembe, ki so začele veljati: 175</title></rect>
-<text x="581.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
-<rect x="587.10" y="281.0" width="8.53" height="49.5" rx="1.5" fill="#2ea043"><title>2001: spremembe, ki so začele veljati: 132</title></rect>
-<rect x="596.83" y="281.0" width="8.53" height="49.5" rx="1.5" fill="#2ea043"><title>2002: spremembe, ki so začele veljati: 132</title></rect>
-<rect x="606.56" y="287.4" width="8.53" height="43.1" rx="1.5" fill="#2ea043"><title>2003: spremembe, ki so začele veljati: 115</title></rect>
-<rect x="616.29" y="246.5" width="8.53" height="84.0" rx="1.5" fill="#2ea043"><title>2004: spremembe, ki so začele veljati: 224</title></rect>
-<rect x="626.02" y="281.4" width="8.53" height="49.1" rx="1.5" fill="#2ea043"><title>2005: spremembe, ki so začele veljati: 131</title></rect>
-<rect x="635.75" y="260.8" width="8.53" height="69.8" rx="1.5" fill="#2ea043"><title>2006: spremembe, ki so začele veljati: 186</title></rect>
-<rect x="645.48" y="269.0" width="8.53" height="61.5" rx="1.5" fill="#2ea043"><title>2007: spremembe, ki so začele veljati: 164</title></rect>
-<rect x="655.22" y="285.1" width="8.53" height="45.4" rx="1.5" fill="#2ea043"><title>2008: spremembe, ki so začele veljati: 121</title></rect>
-<rect x="664.95" y="274.2" width="8.53" height="56.2" rx="1.5" fill="#2ea043"><title>2009: spremembe, ki so začele veljati: 150</title></rect>
-<rect x="674.68" y="259.2" width="8.53" height="71.2" rx="1.5" fill="#2ea043"><title>2010: spremembe, ki so začele veljati: 190</title></rect>
-<text x="678.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
-<rect x="684.41" y="251.0" width="8.53" height="79.5" rx="1.5" fill="#2ea043"><title>2011: spremembe, ki so začele veljati: 212</title></rect>
-<rect x="694.14" y="273.5" width="8.53" height="57.0" rx="1.5" fill="#2ea043"><title>2012: spremembe, ki so začele veljati: 152</title></rect>
-<rect x="703.87" y="272.4" width="8.53" height="58.1" rx="1.5" fill="#2ea043"><title>2013: spremembe, ki so začele veljati: 155</title></rect>
-<rect x="713.60" y="278.0" width="8.53" height="52.5" rx="1.5" fill="#2ea043"><title>2014: spremembe, ki so začele veljati: 140</title></rect>
-<rect x="723.33" y="263.8" width="8.53" height="66.8" rx="1.5" fill="#2ea043"><title>2015: spremembe, ki so začele veljati: 178</title></rect>
-<rect x="733.06" y="267.9" width="8.53" height="62.6" rx="1.5" fill="#2ea043"><title>2016: spremembe, ki so začele veljati: 167</title></rect>
-<rect x="742.79" y="273.5" width="8.53" height="57.0" rx="1.5" fill="#2ea043"><title>2017: spremembe, ki so začele veljati: 152</title></rect>
-<rect x="752.52" y="285.1" width="8.53" height="45.4" rx="1.5" fill="#2ea043"><title>2018: spremembe, ki so začele veljati: 121</title></rect>
-<rect x="762.25" y="293.4" width="8.53" height="37.1" rx="1.5" fill="#2ea043"><title>2019: spremembe, ki so začele veljati: 99</title></rect>
-<rect x="771.98" y="297.5" width="8.53" height="33.0" rx="1.5" fill="#2ea043"><title>2020: spremembe, ki so začele veljati: 88</title></rect>
-<text x="776.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
-<rect x="781.72" y="280.2" width="8.53" height="50.2" rx="1.5" fill="#2ea043"><title>2021: spremembe, ki so začele veljati: 134</title></rect>
-<rect x="791.45" y="197.0" width="8.53" height="133.5" rx="1.5" fill="#2ea043"><title>2022: spremembe, ki so začele veljati: 356</title></rect>
-<text x="795.7" y="191.0" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">356 v letu 2022</text>
-<rect x="801.18" y="300.5" width="8.53" height="30.0" rx="1.5" fill="#2ea043"><title>2023: spremembe, ki so začele veljati: 80</title></rect>
-<rect x="810.91" y="294.9" width="8.53" height="35.6" rx="1.5" fill="#2ea043"><title>2024: spremembe, ki so začele veljati: 95</title></rect>
-<rect x="820.64" y="249.1" width="8.53" height="81.4" rx="1.5" fill="#2ea043"><title>2025: spremembe, ki so začele veljati: 217</title></rect>
-<rect x="830.37" y="282.9" width="8.53" height="47.6" rx="1.5" fill="#2ea043"><title>2026: spremembe, ki so začele veljati: 127</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">Spremembe z datumom začetka veljavnosti: 5.026.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Popolnost, preverjeno po uradnih virih na dan 12. nov. 2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Ustava</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">v repozitoriju</text>
-<g><title>Ustava: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Glavni zakoniki</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">delež temeljnih zakonikov</text>
-<g><title>Glavni zakoniki: 71 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="65.0" height="8" rx="4" fill="#d29922"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">71 %</text>
-<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Državni predpisi</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">predpisi glede na uradno skupno število</text>
-<g><title>Državni predpisi: 87 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="79.6" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">87 %</text>
-<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Regionalni predpisi</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">ni teritorialnih enot s predpisi</text>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">se ne uporablja</text>
-<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Sodna praksa</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">zajeta najvišja sodišča</text>
-<g><title>Sodna praksa: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">0 %</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Pravilnost vsebine</text>
-<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Spremembe z datumom veljavnosti</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">delež sprememb</text>
-<g><title>Spremembe z datumom veljavnosti: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Spremembe z uradnim virom</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">vrstica Source ali povezava v commitu</text>
-<g><title>Spremembe z uradnim virom: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Korpusi te države v global-law</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">državni predpisi: 1</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">1</text>
-<text x="456.0" y="648.5" font-size="13" fill="#f0f6fc">Preverjeno po uradnem viru</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#9198a1">datum, ki ga navaja repozitorij</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">28. okt. 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}</style>
+<defs><linearGradient id="yg-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fbf7f"/><stop offset="1" stop-color="#3fbf7f" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#0c120f" stroke="#26332c"/>
+<rect x="720.6" y="27" width="131.4" height="24" rx="12" fill="#141c18"/>
+<text x="786.3" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#93a69b">zapis do 1. dec. 2025</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e9f2ec">Slovensko pravo kot zgodovina v gitu</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#141c18"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1.973</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">predpisov</text>
+<line x1="150.8" y1="86" x2="150.8" y2="126" stroke="#26332c"/>
+<text x="166.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">5.026</text>
+<text x="166.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">sprememb, kot commiti</text>
+<line x1="323.8" y1="86" x2="323.8" y2="126" stroke="#26332c"/>
+<text x="339.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">102.885</text>
+<text x="339.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">datotek določb</text>
+<line x1="472.2" y1="86" x2="472.2" y2="126" stroke="#26332c"/>
+<text x="488.2" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">3.554</text>
+<text x="488.2" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">avtorjev: akti, izdajatelji</text>
+<line x1="677.9" y1="86" x2="677.9" y2="126" stroke="#26332c"/>
+<text x="693.9" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1949–2026</text>
+<text x="693.9" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">let zgodovine</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#141c18"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Spremembe po letu začetka veljavnosti</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#1f2a24"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">0</text>
+<line x1="90" y1="311.5" x2="834" y2="311.5" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="315.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">100</text>
+<line x1="90" y1="277.0" x2="834" y2="277.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">200</text>
+<line x1="90" y1="242.5" x2="834" y2="242.5" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="246.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">300</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">400</text>
+<rect x="90.40" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1949: spremembe, ki so začele veljati: 1</title></rect>
+<text x="104.3" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1950</text>
+<text x="199.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1960</text>
+<rect x="243.02" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1965: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="290.71" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1970: spremembe, ki so začele veljati: 1</title></rect>
+<text x="295.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1970</text>
+<rect x="300.25" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1971: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="319.32" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1973: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="328.86" y="344.3" width="8.74" height="1.7" rx="1.5" fill="url(#yg-dark)"><title>1974: spremembe, ki so začele veljati: 5</title></rect>
+<rect x="347.94" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1976: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="357.48" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1977: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="367.02" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1978: spremembe, ki so začele veljati: 3</title></rect>
+<rect x="376.55" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1979: spremembe, ki so začele veljati: 4</title></rect>
+<text x="390.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1980</text>
+<rect x="395.63" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1981: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="405.17" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1982: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="424.25" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1984: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="443.32" y="343.6" width="8.74" height="2.4" rx="1.5" fill="url(#yg-dark)"><title>1986: spremembe, ki so začele veljati: 7</title></rect>
+<rect x="452.86" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1987: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="462.40" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1988: spremembe, ki so začele veljati: 2</title></rect>
+<rect x="471.94" y="344.5" width="8.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1989: spremembe, ki so začele veljati: 1</title></rect>
+<rect x="481.48" y="341.5" width="8.74" height="4.5" rx="1.5" fill="url(#yg-dark)"><title>1990: spremembe, ki so začele veljati: 13</title></rect>
+<text x="485.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1990</text>
+<rect x="491.02" y="337.7" width="8.74" height="8.3" rx="1.5" fill="url(#yg-dark)"><title>1991: spremembe, ki so začele veljati: 24</title></rect>
+<rect x="500.55" y="331.2" width="8.74" height="14.8" rx="1.5" fill="url(#yg-dark)"><title>1992: spremembe, ki so začele veljati: 43</title></rect>
+<rect x="510.09" y="313.6" width="8.74" height="32.4" rx="1.5" fill="url(#yg-dark)"><title>1993: spremembe, ki so začele veljati: 94</title></rect>
+<rect x="519.63" y="305.6" width="8.74" height="40.4" rx="1.5" fill="url(#yg-dark)"><title>1994: spremembe, ki so začele veljati: 117</title></rect>
+<rect x="529.17" y="312.2" width="8.74" height="33.8" rx="1.5" fill="url(#yg-dark)"><title>1995: spremembe, ki so začele veljati: 98</title></rect>
+<rect x="538.71" y="314.3" width="8.74" height="31.7" rx="1.5" fill="url(#yg-dark)"><title>1996: spremembe, ki so začele veljati: 92</title></rect>
+<rect x="548.25" y="312.5" width="8.74" height="33.5" rx="1.5" fill="url(#yg-dark)"><title>1997: spremembe, ki so začele veljati: 97</title></rect>
+<rect x="557.78" y="318.4" width="8.74" height="27.6" rx="1.5" fill="url(#yg-dark)"><title>1998: spremembe, ki so začele veljati: 80</title></rect>
+<rect x="567.32" y="298.4" width="8.74" height="47.6" rx="1.5" fill="url(#yg-dark)"><title>1999: spremembe, ki so začele veljati: 138</title></rect>
+<rect x="576.86" y="285.6" width="8.74" height="60.4" rx="1.5" fill="url(#yg-dark)"><title>2000: spremembe, ki so začele veljati: 175</title></rect>
+<text x="581.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2000</text>
+<rect x="586.40" y="300.5" width="8.74" height="45.5" rx="1.5" fill="url(#yg-dark)"><title>2001: spremembe, ki so začele veljati: 132</title></rect>
+<rect x="595.94" y="300.5" width="8.74" height="45.5" rx="1.5" fill="url(#yg-dark)"><title>2002: spremembe, ki so začele veljati: 132</title></rect>
+<rect x="605.48" y="306.3" width="8.74" height="39.7" rx="1.5" fill="url(#yg-dark)"><title>2003: spremembe, ki so začele veljati: 115</title></rect>
+<rect x="615.02" y="268.7" width="8.74" height="77.3" rx="1.5" fill="url(#yg-dark)"><title>2004: spremembe, ki so začele veljati: 224</title></rect>
+<rect x="624.55" y="300.8" width="8.74" height="45.2" rx="1.5" fill="url(#yg-dark)"><title>2005: spremembe, ki so začele veljati: 131</title></rect>
+<rect x="634.09" y="281.8" width="8.74" height="64.2" rx="1.5" fill="url(#yg-dark)"><title>2006: spremembe, ki so začele veljati: 186</title></rect>
+<rect x="643.63" y="289.4" width="8.74" height="56.6" rx="1.5" fill="url(#yg-dark)"><title>2007: spremembe, ki so začele veljati: 164</title></rect>
+<rect x="653.17" y="304.3" width="8.74" height="41.7" rx="1.5" fill="url(#yg-dark)"><title>2008: spremembe, ki so začele veljati: 121</title></rect>
+<rect x="662.71" y="294.2" width="8.74" height="51.8" rx="1.5" fill="url(#yg-dark)"><title>2009: spremembe, ki so začele veljati: 150</title></rect>
+<rect x="672.25" y="280.4" width="8.74" height="65.5" rx="1.5" fill="url(#yg-dark)"><title>2010: spremembe, ki so začele veljati: 190</title></rect>
+<text x="676.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2010</text>
+<rect x="681.78" y="272.9" width="8.74" height="73.1" rx="1.5" fill="url(#yg-dark)"><title>2011: spremembe, ki so začele veljati: 212</title></rect>
+<rect x="691.32" y="293.6" width="8.74" height="52.4" rx="1.5" fill="url(#yg-dark)"><title>2012: spremembe, ki so začele veljati: 152</title></rect>
+<rect x="700.86" y="292.5" width="8.74" height="53.5" rx="1.5" fill="url(#yg-dark)"><title>2013: spremembe, ki so začele veljati: 155</title></rect>
+<rect x="710.40" y="297.7" width="8.74" height="48.3" rx="1.5" fill="url(#yg-dark)"><title>2014: spremembe, ki so začele veljati: 140</title></rect>
+<rect x="719.94" y="284.6" width="8.74" height="61.4" rx="1.5" fill="url(#yg-dark)"><title>2015: spremembe, ki so začele veljati: 178</title></rect>
+<rect x="729.48" y="288.4" width="8.74" height="57.6" rx="1.5" fill="url(#yg-dark)"><title>2016: spremembe, ki so začele veljati: 167</title></rect>
+<rect x="739.02" y="293.6" width="8.74" height="52.4" rx="1.5" fill="url(#yg-dark)"><title>2017: spremembe, ki so začele veljati: 152</title></rect>
+<rect x="748.55" y="304.3" width="8.74" height="41.7" rx="1.5" fill="url(#yg-dark)"><title>2018: spremembe, ki so začele veljati: 121</title></rect>
+<rect x="758.09" y="311.8" width="8.74" height="34.2" rx="1.5" fill="url(#yg-dark)"><title>2019: spremembe, ki so začele veljati: 99</title></rect>
+<rect x="767.63" y="315.6" width="8.74" height="30.4" rx="1.5" fill="url(#yg-dark)"><title>2020: spremembe, ki so začele veljati: 88</title></rect>
+<text x="772.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2020</text>
+<rect x="777.17" y="299.8" width="8.74" height="46.2" rx="1.5" fill="url(#yg-dark)"><title>2021: spremembe, ki so začele veljati: 134</title></rect>
+<rect x="786.71" y="223.2" width="8.74" height="122.8" rx="1.5" fill="url(#yg-dark)"><title>2022: spremembe, ki so začele veljati: 356</title></rect>
+<text x="791.1" y="215.2" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#e9f2ec">356 v letu 2022</text>
+<rect x="796.25" y="318.4" width="8.74" height="27.6" rx="1.5" fill="url(#yg-dark)"><title>2023: spremembe, ki so začele veljati: 80</title></rect>
+<rect x="805.78" y="313.2" width="8.74" height="32.8" rx="1.5" fill="url(#yg-dark)"><title>2024: spremembe, ki so začele veljati: 95</title></rect>
+<rect x="815.32" y="271.1" width="8.74" height="74.9" rx="1.5" fill="url(#yg-dark)"><title>2025: spremembe, ki so začele veljati: 217</title></rect>
+<rect x="824.86" y="302.2" width="8.74" height="43.8" rx="1.5" fill="url(#yg-dark)"><title>2026: spremembe, ki so začele veljati: 127</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">Spremembe z datumom začetka veljavnosti: 5.026.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#141c18"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Popolnost, preverjeno po uradnih virih na dan 12. nov. 2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Ustava</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">v repozitoriju</text>
+<g><title>Ustava: 100 %</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Regionalni predpisi</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">ni teritorialnih enot s predpisi</text>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">se ne uporablja</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Glavni zakoniki</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">delež temeljnih zakonikov</text>
+<g><title>Glavni zakoniki: 71 %</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="509.0" width="44.0" height="4" rx="2" fill="#e3a33b"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">71 %</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Sodna praksa</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">zajeta najvišja sodišča</text>
+<g><title>Sodna praksa: 0 %</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">0 %</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Državni predpisi</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">predpisi glede na uradno skupno število</text>
+<g><title>Državni predpisi: 87 %</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="554.0" width="53.9" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">87 %</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#141c18"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Pravilnost vsebine</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Spremembe z datumom veljavnosti</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">delež sprememb</text>
+<g><title>Spremembe z datumom veljavnosti: 100 %</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Korpusi te države v global-law</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">državni predpisi: 1</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">1</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Spremembe z uradnim virom</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">vrstica Source ali povezava v commitu</text>
+<g><title>Spremembe z uradnim virom: 100 %</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Preverjeno po uradnem viru</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">datum, ki ga navaja repozitorij</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">28. okt. 2026</text>
 </svg>
