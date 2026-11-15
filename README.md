@@ -30,7 +30,8 @@ Besedilo je v slovenščini, kot ga objavlja PIS. Prevod v angleščino ni del t
 
 - **[Vprašajte Claude o slovenskem pravu](https://global-law.lexifina.com/v1/try_claude?country=slovenia)**: odpre Claude s pripravljenim prvim vprašanjem.
 - **[Vprašajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=slovenia)**: isto vprašanje v ChatGPT.
-- **[Pokličite API v brskalniku](https://global-law.lexifina.com/v1/search_law?query=letni+dopust&jurisdictions=slovenia)**: iskanje po slovenskem pravu za „letni dopust“, odgovor v JSON. Dokumentacija je [tukaj](https://lexifina.com/api/global-law).
+- **[Iščite po slovenskem pravu na naši spletni strani](https://lexifina.com/law?country=slovenia&q=letni+dopust)**: iskanje „letni dopust“, z besedilom vsake določbe in njenimi različicami, brez računa.
+- **[REST API za razvijalce](https://global-law.lexifina.com/v1/search_law?query=letni+dopust&jurisdiction=slovenia)**: isto iskanje kot JSON, brez ključa. Dokumentacija je [tukaj](https://lexifina.com/api/global-law).
 
 Pomočnika zapis bereta prek brezplačnega konektorja Global law (MCP, `https://global-law.lexifina.com/mcp`); prvič vam pogovor ponudi povezavo, s katero ga dodate. Vprašajte v slovenščini ali angleščini.
 
