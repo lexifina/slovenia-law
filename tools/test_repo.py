@@ -20,6 +20,42 @@ RESULTS: list[dict] = []
 LAW_MAIL = re.compile(r'^[a-z0-9]+@pisrs\.invalid$')
 
 
+DOC_TOP = ('REPRODUCE.md', 'LICENSE', 'PLAN.md', 'SOURCES.md', '.gitattributes', '.gitignore')
+DOC_DIRS = ('data/', 'tools/', 'visualisations/', 'vulnerabilities/', 'registry/', 'monitoring/')
+
+
+def is_doc_file(path):
+    """A file a documentation commit may touch, never law text: README*, REPRODUCE.md, LICENSE, PLAN.md, SOURCES.md,
+    *.csv and *.json at the top; anything under data/, tools/, visualisations/, vulnerabilities/, registry/, monitoring/;
+    an act folder's README.md (no law text file is named README.md)."""
+    if '/' not in path:
+        return path.startswith('README') or path in DOC_TOP or path.endswith(('.csv', '.json'))
+    return path.startswith(DOC_DIRS) or path.endswith('/README.md')
+
+
+def doc_commit_problems(repo, rows):
+    """rows: (sha, In-force value) of each commit authored by Lexifina. Every one is a documentation commit (README,
+    charts, tools): no In-force trailer and no law text file (one git log --no-walk --name-only for all of them)."""
+    if not rows:
+        return []
+    out = subprocess.run(['git', '-c', 'core.quotePath=false', 'log', '--no-walk=unsorted', '--stdin', '--name-only',
+                          '--format=%x00%H'], cwd=repo, input=''.join(h + '\n' for h, _ in rows), capture_output=True,
+                         text=True, encoding='utf-8')
+    if out.returncode:
+        raise AssertionError(f'git log --no-walk: {out.stderr.strip()}')
+    files = {}
+    for block in out.stdout.split('\x00')[1:]:
+        lines = [l for l in block.splitlines() if l]
+        files[lines[0]] = lines[1:]
+    bad = []
+    for h, day in rows:
+        law = [f for f in files.get(h, []) if not is_doc_file(f)]
+        if day.strip() or law:
+            bad.append(h[:10] + (f' In-force {day.strip()}' if day.strip() else '')
+                       + (f' touches {len(law)} law text file(s), e.g. {law[0]}' if law else ''))
+    return bad
+
+
 def run(repo: str, *args: str) -> subprocess.CompletedProcess:
     return subprocess.run(list(args), cwd=repo, capture_output=True, text=True, encoding='utf-8')
 
@@ -43,6 +79,8 @@ def test(name: str):
                 RESULTS.append({'name': name, 'ok': True, 'detail': detail})
             except AssertionError as exc:
                 RESULTS.append({'name': name, 'ok': False, 'detail': str(exc)[:300]})
+            except Exception as exc:  # any other error fails this test only; the run goes on
+                RESULTS.append({'name': name, 'ok': False, 'detail': f'{type(exc).__name__}: {exc}'[:300]})
         inner.__name__ = fn.__name__
         return inner
     return wrap
@@ -170,10 +208,11 @@ def t_tags_trailers(repo):
         git(repo, 'rev-parse', '--verify', f'{t}^{{commit}}')
     branches = ['main'] + (['prihodnje'] if git(repo, 'branch', '--list', 'prihodnje').strip() else [])
     missing, unparsed, total = [], [], 0
-    docs = git(repo, 'rev-parse', 'main').strip()
+    docs = {l.split('\t')[0] for l in git(repo, 'log', '--format=%H%x09%an', *branches).splitlines()
+            if l.split('\t')[1] == 'Lexifina'}   # the documentation commits carry no In-force
     for b in branches:
         for h in git(repo, 'rev-list', b).split():
-            if h == docs:
+            if h in docs:
                 continue
             msg = git(repo, 'log', '-1', '--format=%B', h)
             parsed = subprocess.run(['git', 'interpret-trailers', '--parse'], cwd=repo, input=msg, capture_output=True,
@@ -182,18 +221,21 @@ def t_tags_trailers(repo):
             if not re.search(r'^In-force: \d{4}-\d{2}-\d{2}$', parsed, re.M):
                 (unparsed if re.search(r'^In-force:', msg, re.M) else missing).append(h[:10])
     assert not missing and not unparsed, f'without In-force: {missing}; trailer block not parsed: {unparsed}'
-    return f'{len(tags)} tags resolve; {total} history commits all carry a parseable In-force trailer (the documentation commit has none)'
+    return f'{len(tags)} tags resolve; {total} history commits all carry a parseable In-force trailer (the documentation commits have none)'
 
 
 @test('no commit is authored by Lexifina except the documentation commit')
 def t_authors(repo):
-    rows = [l.split('\t') for l in git(repo, 'log', '--format=%H%x09%an%x09%ae%x09%cn%x09%ce', 'main').splitlines()]
+    rows = [l.split('\t') for l in git(repo, 'log', '--format=%H%x09%an%x09%ae%x09%cn%x09%ce%x09'
+                                                   '%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()]
     lex = [r for r in rows if r[1] == 'Lexifina' or 'lexifina' in r[2]]
-    assert len(lex) == 1 and lex[0][0] == rows[0][0], f'Lexifina-authored commits: {[r[0][:10] for r in lex]}'
+    assert lex, 'no documentation commit by Lexifina'
+    bad = doc_commit_problems(repo, [(r[0], r[5]) for r in lex])
+    assert not bad, f'{len(bad)} Lexifina-authored commits are not documentation commits, e.g. {bad[:3]}'
     assert all(r[3] == 'Lexifina' and r[4] == 'slovenia-law@lexifina.com' for r in rows), 'a committer is not Lexifina'
     kinds = {'law': sum(is_law(r[1], r[2]) for r in rows), 'PIS': sum(r[2] == 'pis@pisrs.invalid' for r in rows)}
-    assert kinds['law'] + kinds['PIS'] + 1 == len(rows), 'an author is neither a law, PIS nor the documentation'
-    return f'{len(rows)} commits: {kinds["law"]} by laws, {kinds["PIS"]} by PIS (unexplained), 1 documentation commit by Lexifina'
+    assert kinds['law'] + kinds['PIS'] + len(lex) == len(rows), 'an author is neither a law, PIS nor the documentation'
+    return f'{len(rows)} commits: {kinds["law"]} by laws, {kinds["PIS"]} by PIS (unexplained), {len(lex)} documentation commits by Lexifina'
 
 
 @test('the README\'s git commands run')
