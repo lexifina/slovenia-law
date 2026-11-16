@@ -61,6 +61,7 @@ Vsaka sprememba je pripisana predpisu, ki jo je uvedel, kot ga navaja PIS (`Urad
 - `tools/check_repo.py` vsako različico Ustave in Zakona o volitvah v državni zbor prebere iz gita na dan, ko je začela veljati, in jo primerja s PIS, datoteko za datoteko in besedo za besedo z vsemi besedami, ki jih PIS daje za to različico: 26 različic, 0 neujemanj.
 - `tools/test_repo.py` preverja blame, orodje za datume, vrstni red `git log --follow`, oznake, trailerje in avtorje; druga izgradnja iz istih podatkov je dala iste hashe. Oboje je v [`REPRODUCE.md`](REPRODUCE.md).
 - 1.850 predpisov iz registra zgradi `registry/tools/build/` iz ene datoteke korpusa, katere sha256 navaja [`registry/REPRODUCE.md`](registry/REPRODUCE.md); preverjanje te izgradnje tam še ni zabeleženo.
+- [vulnerabilities/](vulnerabilities/): mogoče napake pri pripravi slovenskih predpisov, ki so jih našli detektorji global-lawa in so bile ročno preverjene.
 
 ## Česa ne prikazuje
 

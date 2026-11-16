@@ -61,6 +61,7 @@ Each change is credited to the act that made it, as PIS cites it (`Uradni list R
 - `tools/check_repo.py` reads every version of the Constitution and the Elections Act back from git on the day it took effect and compares it with PIS, file by file and word for word with all of PIS's words for that version: 26 versions, 0 mismatches.
 - `tools/test_repo.py` checks blame, the dated tool, the order of `git log --follow`, the tags, the trailers and the authors; a second build from the same data gave the same hashes. Both are in [`REPRODUCE.md`](REPRODUCE.md).
 - The 1,850 acts from the register are built by `registry/tools/build/` from one corpus file whose sha256 is stated in [`registry/REPRODUCE.md`](registry/REPRODUCE.md); no check of that build is recorded there yet.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Slovenian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
