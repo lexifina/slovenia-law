@@ -85,6 +85,10 @@ Noben model umetne inteligence ni napisal ali spremenil pravnega besedila; skrip
 
 To je prevod angleške različice ([README.en.md](README.en.md)); če se razlikujeta, velja angleška različica.
 
+## Vizualizacije
+
+- [visualisations/](visualisations/): grafi, narisani iz tega repozitorija. Še niso narisani.
+
 ## Več
 
 Iz repozitorija [lexifina/global-law](https://github.com/lexifina/global-law) (v angleščini):
