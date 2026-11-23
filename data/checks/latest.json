@@ -1,0 +1,53 @@
+{
+ "generated": "2026-11-23T01:45:15Z",
+ "latest": {
+  "pisrs|slovenia/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "current": 3822,
+    "gone": 0,
+    "held": 3823,
+    "newest_at_source": "ZAKO9683",
+    "newest_in_repo": "ZAKO9516",
+    "out_of_scope": 545,
+    "pending": 1,
+    "repo": 1981,
+    "source_in_scope": 2079
+   },
+   "check_id": "si-pisrs-20261123T014214Z",
+   "commits": null,
+   "corpus": "slovenia/national/acts",
+   "error": null,
+   "finished": "2026-11-23T01:45:14Z",
+   "flags": [
+    {
+     "detail": "11 acts new or changed at the source over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 12,
+   "note": "at the source: PIS counts 2079 laws in force (16 constitutional acts, 790 laws, 1273 ratifying laws); here: 1981 laws in force that are not amending acts (all 3823 acts held, amending acts, repealed acts and 20 executive acts included); gazette window 2026-09-16..2026-11-20 (50 days with an issue, 568 acts): 23 laws and constitutional acts (1 held, 11 amending or repealing acts held here, counted on those acts, 0 in force later, 11 in force and not here); not law here and not counted as gaps (README: regulations and local acts are outside this repository): 545 other acts (345 local communities, 42 SKLE, 32 PRAV, 31 URED, 28 ODLO, 26 AKT, 16 holders of public authority, 8 ODRE, 7 no PIS id, 6 KOLP, 2 NAZN, 1 MP_ODLO, 1 NAVO); register entries read this check: 60; acts held here read at least once: 60 of 3823; the window reaches back 15 more days a check, to 2026-01-01; laws at PIS published before the window and not held here are not listed: PIS's full list of the register needs its developer API key; first check: the gazette's laws and the register entries read were recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 89,
+   "runner": "lawwatch slovenia (05327d4795)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-20",
+   "source": "pisrs",
+   "started": "2026-11-23T01:42:14Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}
