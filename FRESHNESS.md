@@ -8,9 +8,9 @@ Kako global-law meri ažurnost vseh držav: [global-law FRESHNESS.md](https://gi
 
 ### PISRS: Register predpisov in Uradni list RS · `slovenia/national/acts`
 
-- Zadnje branje uradnega vira, s katerim je bil preverjen vsak predpis tukaj: **2026-11-24 05:47 UTC**.
+- Zadnje branje uradnega vira, s katerim je bil preverjen vsak predpis tukaj: **2026-11-25 05:23 UTC**.
 - Predpisi tukaj: 3 823; ažurni glede na vir: 3 822; pri viru spremenjeni po različici tukaj: 1; pri viru jih ni več: 0.
 - Z virom primerjano pri tem branju: 60 od 3 823 predpisov, ki so tukaj; drugi pri tem branju niso bili primerjani (glej opombo preverjanja).
-- Neobjavljeno: 14 (pri viru spremenjen po različici tukaj: 1, nov pri viru, tukaj še ni objavljen: 13); brez razloga: 0.
+- Neobjavljeno: 17 (pri viru spremenjen po različici tukaj: 1, nov pri viru, tukaj še ni objavljen: 16); brez razloga: 0.
 
 Podrobno: [monitoring/](monitoring/README.md). Za programe: [data/checks/latest.json](data/checks/latest.json).
