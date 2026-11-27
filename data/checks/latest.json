@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:26:28Z",
+ "generated": "2026-11-27T05:27:47Z",
  "latest": {
   "pisrs|slovenia/national/acts": {
    "attempt": 1,
@@ -11,16 +11,16 @@
     "held": 3823,
     "newest_at_source": "ZAKO9683",
     "newest_in_repo": "ZAKO9516",
-    "out_of_scope": 1216,
+    "out_of_scope": 1453,
     "pending": 1,
     "repo": 1981,
     "source_in_scope": 2079
    },
-   "check_id": "si-pisrs-20261126T052333Z",
+   "check_id": "si-pisrs-20261127T052456Z",
    "commits": null,
    "corpus": "slovenia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:26:25Z",
+   "finished": "2026-11-27T05:27:45Z",
    "flags": [
     {
      "detail": "17 acts new or changed at the source over 7 days ago are not here yet",
@@ -28,7 +28,7 @@
     }
    ],
    "gap": 18,
-   "note": "at the source: PIS counts 2079 laws in force (16 constitutional acts, 790 laws, 1273 ratifying laws); here: 1981 laws in force that are not amending acts (all 3823 acts held, amending acts, repealed acts and 20 executive acts included); gazette window 2026-06-24..2026-11-25 (113 days with an issue, 1249 acts): 33 laws and constitutional acts (1 held, 15 amending acts of acts held here, counted on those acts, 0 in force later, 17 in force and not here); not law here and not counted as gaps (README: regulations and local acts are outside this repository): 1216 other acts (860 local communities, 74 SKLE, 62 PRAV, 58 ODLO, 54 URED, 35 holders of public authority, 32 AKT, 15 KOLP, 11 ODRE, 6 no PIS id, 3 NAZN, 3 NAVO, 2 TARI, 1 MP_ODLO); register entries read this check: 60; acts held here read at least once: 300 of 3823; the window reaches back 15 more days a check, to 2026-01-01; laws at PIS published before the window and not held here are not listed: PIS's full list of the register needs its developer API key",
+   "note": "at the source: PIS counts 2079 laws in force (16 constitutional acts, 790 laws, 1273 ratifying laws); here: 1981 laws in force that are not amending acts (all 3823 acts held, amending acts, repealed acts and 20 executive acts included); gazette window 2026-06-04..2026-11-26 (129 days with an issue, 1487 acts): 34 laws and constitutional acts (1 held, 16 amending acts of acts held here, counted on those acts, 0 in force later, 17 in force and not here); not law here and not counted as gaps (README: regulations and local acts are outside this repository): 1453 other acts (1028 local communities, 109 SKLE, 66 ODLO, 65 PRAV, 58 URED, 48 AKT, 42 holders of public authority, 15 KOLP, 11 ODRE, 3 NAZN, 3 NAVO, 2 TARI, 2 no PIS id, 1 MP_ODLO); register entries read this check: 60; acts held here read at least once: 360 of 3823; the window reaches back 15 more days a check, to 2026-01-01; laws at PIS published before the window and not held here are not listed: PIS's full list of the register needs its developer API key",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -43,9 +43,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25",
+   "snapshot": "2026-11-26",
    "source": "pisrs",
-   "started": "2026-11-26T05:23:33Z",
+   "started": "2026-11-27T05:24:56Z",
    "unexplained": 0,
    "verify": null
   }
