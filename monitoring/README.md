@@ -6,19 +6,20 @@
 
 Kako global-law spremlja vse države: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Ta stran je enaka, omejena na eno državo (Slovenija): vsako branje uradnega vira, kdaj je bilo in kaj je iz njega nastalo (dodani, spremenjeni in odstranjeni predpisi). Strojno berljiva oblika je [data/checks/](../data/checks/) (JSON Lines, shema `lexifina-check/1`), v `git log` so to commiti `Kind: check`, po mesecih pa v [checks/](checks/).
 
-**Zadnje preverjanje:** 2026-11-27 05:27 UTC, PISRS: Register predpisov in Uradni list RS: prebranih naslovov 83; dodanih 0, spremenjenih 0, odstranjenih 0; brez sprememb; neobjavljenih 18, od tega brez razloga 0. Opozorila: `publish-lag`.
+**Zadnje preverjanje:** 2026-11-28 05:28 UTC, PISRS: Register predpisov in Uradni list RS: prebranih naslovov 83; dodanih 0, spremenjenih 0, odstranjenih 0; brez sprememb; neobjavljenih 19, od tega brez razloga 0. Opozorila: `publish-lag`.
 
 ## Viri
 
 | Vir | Mape | Kako pogosto | Zadnje uspešno preverjanje | Zadnji izid | Stanje |
 | --- | --- | --- | --- | --- | --- |
-| [PISRS: Register predpisov in Uradni list RS](https://pisrs.si) | `ustava/`, `zakon/`, `uredba/`, `pravilnik/`, `sklep/` | dnevno | 2026-11-27 05:27 UTC | brez sprememb | spremljan: PISRS celoten register navaja le prek API za razvijalce, ki zahteva ključ; tu se bere vmesnik za njegovo spletno stranjo, ena zahteva na 2 sekundi |
+| [PISRS: Register predpisov in Uradni list RS](https://pisrs.si) | `ustava/`, `zakon/`, `uredba/`, `pravilnik/`, `sklep/` | dnevno | 2026-11-28 05:28 UTC | brez sprememb | spremljan: PISRS celoten register navaja le prek API za razvijalce, ki zahteva ključ; tu se bere vmesnik za njegovo spletno stranjo, ena zahteva na 2 sekundi |
 | [Uradni list RS: spletišče Uradnega lista (uradni-list.si)](https://www.uradni-list.si) |  | — | — | — | zaprt vir: hrani izdaje do 28. februarja 2026; poznejše izdaje so objavljene v PISRS, ki se bere zgoraj |
 
 ## Zadnjih 30 dni
 
 | Začetek (UTC) | Vir | Prebrano | Dodano | Spremenjeno | Odstranjeno | Neobjavljeno (brez razloga) | Izid | Commiti |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:25](checks/2026-11.md#si-pisrs-20261128t052558z) | pisrs | 83 | 0 | 0 | 0 | 19 (0) | brez sprememb `publish-lag` | — |
 | [2026-11-27 05:24](checks/2026-11.md#si-pisrs-20261127t052456z) | pisrs | 83 | 0 | 0 | 0 | 18 (0) | brez sprememb `publish-lag` | — |
 | [2026-11-26 05:23](checks/2026-11.md#si-pisrs-20261126t052333z) | pisrs | 83 | 0 | 0 | 0 | 18 (0) | brez sprememb `publish-lag` | — |
 | [2026-11-25 05:20](checks/2026-11.md#si-pisrs-20261125t052053z) | pisrs | 89 | 0 | 0 | 0 | 17 (0) | brez sprememb `publish-lag` | — |
